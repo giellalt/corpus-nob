@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 33648 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
@@ -31,8 +31,18 @@
                  &lt; </p>
     <p type="text"/>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
+    <section>
+      <p type="title">Om lov om reindrift
+                (reindriftsloven)</p>
+    </section>
     <p type="text">
                 Bla i dokumentet:  |  | </p>
+    <section>
+      <p type="title">3 Høring og konsultasjoner</p>
+    </section>
+    <section>
+      <p type="title">3.1 Høringer</p>
+    </section>
     <p type="text">Utredningen ble ved
                         Landbruksdepartementets brev av 1. mars 2002
                         sendt på høring. I høringsbrevet ble det kort
@@ -69,6 +79,9 @@
                         fylkesmannen blir stort sett avvist av
                         reindriftsnæringen og Sametinget. Andre
                         vurderer forslaget positivt.</p>
+    <section>
+      <p type="title">3.2 Konsultasjoner</p>
+    </section>
     <p type="text">Avtale om prosedyrer for
                         konsultasjoner mellom statlige myndigheter og
                         Sametinget ble underskrevet av kommunal- og

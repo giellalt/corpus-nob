@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 33648 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
@@ -31,8 +31,16 @@
                  &lt; </p>
     <p type="text"/>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
+    <section>
+      <p type="title">Om lov om reindrift
+                (reindriftsloven)</p>
+    </section>
     <p type="text">
                 Bla i dokumentet: |  | </p>
+    <section>
+      <p type="title">1
+                      Proposisjonens hovedinnhold</p>
+    </section>
     <p type="text">Regjeringen legger med dette fram
                       forslag til ny reindriftslov.</p>
     <p type="text">Det foreslås endringer i forhold
@@ -68,7 +76,7 @@
                       kulturen og tradisjonene innenfor reindriften så
                       langt dette har vært forenlig med de hensyn en
                       reindriftslov skal ivareta. Det arbeidsmessige
-                      fellesskapet siida har fått en
+                      fellesskapet <em type="italic">siida</em> har fått en
                       sentral plass, og utgjør et viktig element i
                       bestemmelsene om intern organisering. Begrepet
                       siidaandel foreslås å erstatte dagens

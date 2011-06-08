@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 33648 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
@@ -31,8 +31,16 @@
                  &lt; </p>
     <p type="text"/>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
+    <section>
+      <p type="title">Om lov om reindrift
+                (reindriftsloven)</p>
+    </section>
     <p type="text">
                 Bla i dokumentet:  |  | </p>
+    <section>
+      <p type="title">10 Merknader til de enkelte
+                      bestemmelser</p>
+    </section>
     <section>
       <p type="title">Til §
                       1 Lovens formål</p>
@@ -220,7 +228,7 @@
                       avgjøre der det måtte oppstå tvist om dette. Det
                       vises for øvrig til departementets vurderinger
                       under punkt 8.5 foran.</p>
-    <p type="text">Advokatforeningen har påpekt at man her
+    <p type="text"><em type="italic">Advokatforeningen</em> har påpekt at man her
                       bør tale om de samiske reinbeiteområder og ikke
                       det samiske reinbeiteområdet. Departementet ser
                       det slik at det området hvor samisk reindrift
@@ -1080,7 +1088,7 @@
                       34 Former for merking</p>
     </section>
     <p type="text">Et reinmerke består av hovedsnitt
-                      og tilleggssnitt. Med hovedsnitt forstås familiens
+                      og tilleggssnitt. Med <em type="italic">hovedsnitt</em> forstås familiens
                       merkestamme, dvs. «mearkaoalli». Det er ikke
                       vanlig å tillate tilleggssnitt til andre enn sin
                       nærmeste familie, og da registreres merket med
@@ -1164,8 +1172,8 @@
     <p type="text">Bestemmelsen i fjerde ledd i
                       departementets utkast fastslår at et reinmerke
                       som ikke har vært i bruk de siste fire år
-                      kan slettes. Utvalget har lagt
-                      til grunn at det skal slettes
+                      <em type="italic">kan</em> slettes. Utvalget har lagt
+                      til grunn at det <em type="italic">skal</em> slettes
                       med mindre det er stilt i bero slik utvalgets
                       forslag åpner for, jf. utvalgets forslag §
                       7-7.</p>
@@ -1173,7 +1181,7 @@
                       slettes, bør det foretas en vurdering av hensynet
                       til en velordnet reindrift og merkeinnehavers
                       behov for å inneha reinmerke. Ved å utforme
-                      bestemmelsen som en kan -
+                      bestemmelsen som en <em type="italic">kan</em> -
                       bestemmelse, ivaretar man langt på vei de hensyn
                       som ligger bak lovutvalgets forslag om å kunne
                       stille reinmerker i bero.</p>
@@ -1762,7 +1770,7 @@
                       Regelen i 1978-loven § 8 fjerde ledd fjerde
                       punktum om at vedtak om tilskudd er
                       tvangsgrunnlag for utlegg foreslås videreført, se
-                      fjerde ledd. Når det i lovteksten står endelig vedtak, sikter det til at et
+                      fjerde ledd. Når det i lovteksten står <em type="italic">endelig</em> vedtak, sikter det til at et
                       vedtak om tilskudd som siidaandelen skal betale
                       ikke er endelig så lenge en eventuell overprøving
                       ikke har skjedd fra områdestyrets side. Det
@@ -1930,9 +1938,9 @@
                       betegnelsen. På sørsamisk er det sitje.</p>
     <p type="text">Departementet har endret litt på
                       definisjonen av siida i forhold til utvalgets
-                      forslag i § 8-10 ved at geografisk
-                      og sosial gruppe av reineiere er endret til
-                      bare gruppe av reineiere.
+                      forslag i § 8-10 ved at <em type="italic">geografisk
+                      og sosial gruppe</em> av reineiere er endret til
+                      bare <em type="italic">gruppe</em> av reineiere.
                       Sametinget og NRL ga under konsultasjonene
                       uttrykk for at en slik endring var ønskelig. Det
                       legges imidlertid ikke noe annet i innholdet enn
@@ -2530,7 +2538,7 @@
     <p type="text">I utvalgets lovforslag gis det
                       anvisning på en del kriterier for anvendelse av
                       sanksjoner.</p>
-    <p type="text">Regjeringsadvokaten har i sin
+    <p type="text"><em type="italic">Regjeringsadvokaten</em> har i sin
                       høringsuttalelse til Reindriftslovutvalgets
                       utredning reist spørsmål om hensiktsmessigheten
                       av å ta slike kriterier inn i loven. Det
@@ -2580,7 +2588,7 @@
                       loven eller vedtak (enkeltvedtak eller forskrift)
                       fattet med hjemmel i denne.</p>
     <p type="text">Utvalget har brukt formuleringen
-                      ulovlig virksomhet. Regjeringsadvokaten foreslo i sin
+                      ulovlig virksomhet. <em type="italic">Regjeringsadvokaten</em> foreslo i sin
                       høringsuttalelse til utredningen at begrepet
                       ulovlig virksomhet ble erstattet med ulovlig
                       forhold idet ulovlig virksomhet kan være
@@ -2596,8 +2604,8 @@
                       offentlige interesser. Regjeringsadvokaten mener
                       også at kravet om særlige grunner for delegasjon
                       bør utgå.</p>
-    <p type="text">Politimestrene i
-                      Troms og Finnmark har foreslått at politiet
+    <p type="text"><em type="italic">Politimestrene i
+                      Troms og Finnmark</em> har foreslått at politiet
                       blir gitt særskilt adgang til å fatte midlertidig
                       vedtak som skal gjelde inntil annen myndighet har
                       behandlet saken, idet det er en normal del av
@@ -2658,7 +2666,7 @@
                       ikke skal ilegges når forholdet må anses
                       unnskyldelig på grunn av sykdom og andre årsaker
                       som ikke kan legges vedkommende til last.</p>
-    <p type="text">Regjeringsadvokaten har i sin
+    <p type="text"><em type="italic">Regjeringsadvokaten</em> har i sin
                       høringsuttalelse til Reindriftslovutvalgets
                       utredning reist spørsmål om hensiktsmessigheten
                       av at såkalte subjektive unnskyldningsgrunner
@@ -2693,7 +2701,7 @@
                       således et avvik fra den ordinære framgangsmåten
                       hvor myndighetene må gå til sak for å få
                       tvangsgrunnlag.</p>
-    <p type="text">Advokatforeningen har i sin
+    <p type="text"><em type="italic">Advokatforeningen</em> har i sin
                       høringsuttalelse til Reindriftslovutvalgets
                       utredning kommet med innvendinger imot
                       bestemmelsen og påpekt at det er i strid med de
@@ -2727,15 +2735,15 @@
                       å få gjennomført pålegg om samling, skilling,
                       merking, utdriving og telling av rein, jf. annet
                       ledd bokstav a.</p>
-    <p type="text">Regjeringsadvokaten reiser spørsmål om
+    <p type="text"><em type="italic">Regjeringsadvokaten</em> reiser spørsmål om
                       ytterligere delegasjonsadgang, i hvert fall når
                       det gjelder avliving av rein som ikke har latt
                       seg utdrive, jf. annet ledd bokstav b i utvalgets
                       forslag. Det reises også spørsmål om det ikke er
                       unødig tungvint å gå veien om namsmyndighetene
                       for fullbyrding.</p>
-    <p type="text">Politimestrene i
-                      Troms og Finnmark foreslår at også politiet
+    <p type="text"><em type="italic">Politimestrene i
+                      Troms og Finnmark</em> foreslår at også politiet
                       gis kompetanse til fatte vedtak etter punktene a
                       og b i annet ledd i utvalgets forslag.</p>
     <p type="text">Departementet er enig i at det bør
@@ -2754,7 +2762,7 @@
     <p type="text">I tråd med utvalgets forslag
                       foreslås at vesentlighetskravet i gjeldende lov
                       tas ut. Tvangstiltak er noe myndighetene etter en
-                      konkret vurdering kan treffe
+                      konkret vurdering <em type="italic">kan</em> treffe
                       vedtak om, og i denne vurdering forutsettes
                       spørsmålet om vesentlighet å komme inn.</p>
     <p type="text">Når det gjelder kompetanse for

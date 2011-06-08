@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 33648 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
@@ -31,8 +31,15 @@
                  &lt; </p>
     <p type="text"/>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
+    <section>
+      <p type="title">Om lov om reindrift
+                (reindriftsloven)</p>
+    </section>
     <p type="text">
                 Bla i dokumentet:  |  | </p>
+    <section>
+      <p type="title">Tilråding</p>
+    </section>
     <p type="text">Landbruks- og
                         matdepartementet</p>
     <p type="text">tilrår:</p>
@@ -40,8 +47,8 @@
                         skriver under et framlagt forslag til
                         proposisjon til Stortinget om lov om reindrift
                         (reindriftsloven).</p>
-    <p type="text">Vi
-                        HARALD, Norges Konge,</p>
+    <p type="text"><em type="bold">Vi
+                        HARALD,</em> Norges Konge,</p>
     <p type="text">stadfester:</p>
     <p type="text">Stortinget blir bedt om å gjøre
                         vedtak til lov om reindrift (reindriftsloven) i
