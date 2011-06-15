@@ -15,28 +15,77 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43394 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
-    <p type="text"/>
-    <p type="text"/>
+    <list>
+      <p type="listitem">Gå til søk</p>
+      <p type="listitem">Gå til innhold</p>
+      <p type="listitem">Gå til toppnavigasjon</p>
+      <p type="listitem">Gå til lokalnavigasjon</p>
+    </list>
+    <list>
+      <p type="listitem">regjeringen.no</p>
+      <p type="listitem">Regjeringen Stoltenberg II</p>
+      <list>
+        <p type="listitem">Statsministerens
+                    kontor</p>
+        <p type="listitem">Arbeidsdepartementet</p>
+        <p type="listitem">Barne-, likestillings- og
+                    inkluderingsdepartementet</p>
+        <p type="listitem">Finansdepartementet</p>
+        <p type="listitem">Fiskeri- og
+                    kystdepartementet</p>
+        <p type="listitem">Fornyings-, administrasjons-
+                    og kirkedepartementet</p>
+        <p type="listitem">Forsvarsdepartementet</p>
+        <p type="listitem">Helse- og
+                    omsorgsdepartementet</p>
+        <p type="listitem">Justis- og
+                    politidepartementet</p>
+        <p type="listitem">Kommunal- og
+                    regionaldepartementet</p>
+        <p type="listitem">Kulturdepartementet</p>
+        <p type="listitem">Kunnskapsdepartementet</p>
+        <p type="listitem">Landbruks- og
+                    matdepartementet</p>
+        <p type="listitem">Miljøverndepartementet</p>
+        <p type="listitem">Nærings- og
+                    handelsdepartementet</p>
+        <p type="listitem">Olje- og
+                    energidepartementet</p>
+        <p type="listitem">Samferdselsdepartementet</p>
+        <p type="listitem">Utenriksdepartementet</p>
+      </list>
+    </list>
     <p type="text">Søk hos Landbruks- og
                 matdepartementet</p>
     <p type="text">
                 Søk på hele regjeringen.no</p>
+    <list>
+      <p type="listitem">Tema A-Å</p>
+      <p type="listitem">Nettstedskart</p>
+      <p type="listitem">Hjelp</p>
+      <p type="listitem">Kontakt</p>
+    </list>
     <p type="text">
-                Du er her:  &lt;  &lt;
-                 &lt; </p>
-    <p type="text"/>
+                Du er her: Landbruks-
+                og matdepartementet &lt; Dokumenter &lt;
+                Proposisjoner og
+                meldinger &lt; 8 Departementets
+                vurderinger</p>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
     <section>
       <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
     </section>
     <p type="text">
-                Bla i dokumentet:  |  | </p>
+                Bla i dokumentet: 
+                &lt;  7 Reindriftslovutvalgets... | 
+                9 Økonomiske, administrative ... > | 
+                Dokumentets forside</p>
     <section>
       <p type="title">8 Departementets
                         vurderinger</p>
@@ -281,6 +330,21 @@
     <p type="text">For Reindriftslovutvalget har
                         blant annet følgende forutsetninger ligget til
                         grunn for forslagene:</p>
+    <list>
+      <p type="listitem">Lovens bestemmelser må bygge
+                            på kulturen og tradisjonene innenfor
+                            reindriften.</p>
+      <p type="listitem">Lovens bestemmelser skal gi
+                            grunnlag for internt selvstyre samtidig som
+                            rettssikkerheten for den enkelte utøver
+                            blir ivaretatt.</p>
+      <p type="listitem">Opprettholde ordningen med
+                            at mange kan eie rein, og dermed bevare sin
+                            tilknytning til næringen.</p>
+      <p type="listitem">Lovens bestemmelser skal
+                            bidra til å legge grunnlag for en reindrift
+                            tilpasset naturgrunnlaget.</p>
+    </list>
     <p type="text">Høringsinstansene er i all
                         hovedsak positive til at samisk kultur og
                         tradisjon i reindriften vektlegges ved
@@ -589,7 +653,7 @@
                         <em type="italic">Advokatforeningen</em> har tatt
                         opp utvalgets begrepsbruk. I § 1-1 brukes
                         uttrykket alders tids bruk. I § 1-2 brukes
-                        uttrykket fra gammel tid <em type="italic">.</em> I
+                        uttrykket <em type="italic">fra gammel tid.</em> I
                         § 3-1 brukes uttrykket fra gammelt av. Det
                         påpekes at denne vekslingen skjer uten nærmere
                         kommentarer med hensyn til innholdet av dem.
@@ -2706,13 +2770,9 @@
                         oppfølging der hvor dette skulle framstå som
                         nødvendig.</p>
     <p type="text">
-                Bla i dokumentet:  |  | </p>
-    <p type="text">Skip left menu
-                navigation</p>
-    <p type="text">Landbruks- og matdepartementet, Akersgt. 59
-      (R5), Postboks 8007 Dep. 0030 Oslo l  Tlf: 22 24 90 90,
-      Faks: 22 24 95 55
-      E-post:   l  Nettredaksjonen: 
-      Ansvarlig redaktør:  l  Nettredaktør: </p>
+                Bla i dokumentet: 
+                &lt; 7 Reindriftslovutvalgets... | 
+                9 Økonomiske, administrative ... > | 
+                Dokumentets forside</p>
   </body>
 </document>

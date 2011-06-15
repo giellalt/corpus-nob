@@ -15,28 +15,77 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 42821 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43394 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
-    <p type="text"/>
-    <p type="text"/>
+    <list>
+      <p type="listitem">Gå til søk</p>
+      <p type="listitem">Gå til innhold</p>
+      <p type="listitem">Gå til toppnavigasjon</p>
+      <p type="listitem">Gå til lokalnavigasjon</p>
+    </list>
+    <list>
+      <p type="listitem">regjeringen.no</p>
+      <p type="listitem">Regjeringen Stoltenberg II</p>
+      <list>
+        <p type="listitem">Statsministerens
+                    kontor</p>
+        <p type="listitem">Arbeidsdepartementet</p>
+        <p type="listitem">Barne-, likestillings- og
+                    inkluderingsdepartementet</p>
+        <p type="listitem">Finansdepartementet</p>
+        <p type="listitem">Fiskeri- og
+                    kystdepartementet</p>
+        <p type="listitem">Fornyings-, administrasjons-
+                    og kirkedepartementet</p>
+        <p type="listitem">Forsvarsdepartementet</p>
+        <p type="listitem">Helse- og
+                    omsorgsdepartementet</p>
+        <p type="listitem">Justis- og
+                    politidepartementet</p>
+        <p type="listitem">Kommunal- og
+                    regionaldepartementet</p>
+        <p type="listitem">Kulturdepartementet</p>
+        <p type="listitem">Kunnskapsdepartementet</p>
+        <p type="listitem">Landbruks- og
+                    matdepartementet</p>
+        <p type="listitem">Miljøverndepartementet</p>
+        <p type="listitem">Nærings- og
+                    handelsdepartementet</p>
+        <p type="listitem">Olje- og
+                    energidepartementet</p>
+        <p type="listitem">Samferdselsdepartementet</p>
+        <p type="listitem">Utenriksdepartementet</p>
+      </list>
+    </list>
     <p type="text">Søk hos Landbruks- og
                 matdepartementet</p>
     <p type="text">
                 Søk på hele regjeringen.no</p>
+    <list>
+      <p type="listitem">Tema A-Å</p>
+      <p type="listitem">Nettstedskart</p>
+      <p type="listitem">Hjelp</p>
+      <p type="listitem">Kontakt</p>
+    </list>
     <p type="text">
-                Du er her:  &lt;  &lt;
-                 &lt; </p>
-    <p type="text"/>
+                Du er her: Landbruks-
+                og matdepartementet &lt; Dokumenter &lt;
+                Proposisjoner og
+                meldinger &lt; 3 Høring og
+                konsultasjoner</p>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
     <section>
       <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
     </section>
     <p type="text">
-                Bla i dokumentet:  |  | </p>
+                Bla i dokumentet: 
+                &lt;  2 Bakgrunnen for lovforslaget | 
+                4 Reindriften i dag > | 
+                Dokumentets forside</p>
     <section>
       <p type="title">3 Høring og konsultasjoner</p>
     </section>
@@ -61,11 +110,185 @@
                         behandlet saken 27. februar 2003.</p>
     <p type="text">Høringsbrev og utredning ble
                         sendt følgende:</p>
+    <list>
+      <p type="listitem">Norske Reindriftsamers
+                            Landsforbund (NRL)</p>
+      <p type="listitem">Sametinget</p>
+      <p type="listitem">Reindriftsstyret</p>
+      <p type="listitem">Områdestyrene i
+                            Øst-Finnmark, Vest-Finnmark, Troms,
+                            Nordland, Nord-Trøndelag og
+                            Sør-Trøndelag/Hedmark reinbeiteområder</p>
+      <p type="listitem">Reindriftsforvaltningen</p>
+      <p type="listitem">Reinbeitedistriktene</p>
+      <p type="listitem">Kontaktutvalget for
+                            tamreinlagene i Sør-Norge</p>
+      <p type="listitem">Norges Bondelag</p>
+      <p type="listitem">Norsk Bonde- og
+                            Småbrukarlag</p>
+      <p type="listitem">Norges Fjellstyresamband</p>
+      <p type="listitem">Norges Naturvernforbund</p>
+      <p type="listitem">Dyrebeskyttelsen Norge</p>
+      <p type="listitem">Departementene</p>
+      <p type="listitem">Fylkeskommunene Finnmark,
+                            Troms, Nordland, Nord-Trøndelag,
+                            Sør-Trøndelag, Møre og Romsdal, Sogn og
+                            Fjordane, Hedmark, Oppland og Buskerud</p>
+      <p type="listitem">Fylkesmannen i Finnmark,
+                            Troms, Nordland, Nord-Trøndelag,
+                            Sør-Trøndelag, Møre og Romsdal, Sogn og
+                            Fjordane, Hedmark, Oppland og Buskerud</p>
+      <p type="listitem">Fylkeslandbruksstyrene i
+                            Finnmark, Troms, Nordland, Nord-Trøndelag,
+                            Sør-Trøndelag, Møre og Romsdal, Sogn og
+                            Fjordane, Hedmark, Oppland og Buskerud</p>
+      <p type="listitem">Kommunene i Finnmark, Troms
+                            og Nord-Trøndelag</p>
+      <p type="listitem">Kommunene i Nordland unntatt
+                            Bø, Flakstad, Moskenes, Røst, Træna, Vega,
+                            Vestvågøy, Værøy og Øksnes</p>
+      <p type="listitem">Kommunene Selbu, Tydal,
+                            Holtålen, Røros, Midtre Gauldal, Rennebu,
+                            Meldal og Oppdal i Sør-Trøndelag</p>
+      <p type="listitem">Kommune Os og Engerdal i
+                            Hedmark</p>
+      <p type="listitem">Kommunene Lom, Vågå,
+                            Gausdal, Øystre Slidre, Vang, Vestre
+                            Slidre, Nord-Aurdal, Sør-Aurdal, Etnedal,
+                            og Nordre Land i Oppland</p>
+      <p type="listitem">Kommunene Luster og Årdal i
+                            Sogn og Fjordane</p>
+      <p type="listitem">Kommunene Hol, Hemsedal,
+                            Gol, Nes og Flå i Buskerud</p>
+      <p type="listitem">Politidirektoratet</p>
+      <p type="listitem">Regjeringsadvokaten</p>
+      <p type="listitem">Sivilombudsmannen</p>
+      <p type="listitem">Likestillingsombudet</p>
+      <p type="listitem">Statens dyrehelsetilsyn</p>
+      <p type="listitem">Statskog SF</p>
+      <p type="listitem">Direktoratet for
+                            naturforvaltning</p>
+      <p type="listitem">Statens naturoppsyn</p>
+      <p type="listitem">Rettshjelpskontoret for
+                            Indre Finnmark</p>
+      <p type="listitem">Samerettsutvalget</p>
+      <p type="listitem">Planlovutvalget</p>
+      <p type="listitem">Kommunenes
+                            sentralforbund</p>
+      <p type="listitem">Dommerforeningen</p>
+      <p type="listitem">Den Norske
+                            Advokatforening</p>
+      <p type="listitem">Norsk
+                            Naturforvalterforening</p>
+      <p type="listitem">Norsk Tjenestemannslag</p>
+      <p type="listitem">Utdanningsforbundet</p>
+      <p type="listitem">Flerfaglig
+                            FellesOrganisasjon - 2fo</p>
+    </list>
     <p type="text">Senere er utredningen, på
                         bakgrunn av henvendelser til departementet,
                         også sendt en del andre.</p>
     <p type="text">Følgende har avgitt
                         realitetsuttalelser:</p>
+    <list>
+      <p type="listitem">Tranøy kommune</p>
+      <p type="listitem">Meldal kommune</p>
+      <p type="listitem">Rennebu kommune</p>
+      <p type="listitem">Midtre Gauldal kommune</p>
+      <p type="listitem">Verran kommune</p>
+      <p type="listitem">Rindal kommune</p>
+      <p type="listitem">Områdestyret i
+                            Nord-Trøndelag reinbeiteområde</p>
+      <p type="listitem">Måsøy kommune</p>
+      <p type="listitem">Finnmark Senterparti</p>
+      <p type="listitem">Vadsø kommune</p>
+      <p type="listitem">Alta kommune</p>
+      <p type="listitem">Arbeids- og
+                            administrasjonsdepartementet</p>
+      <p type="listitem">Fylkesmannen i
+                            Nord-Trøndelag</p>
+      <p type="listitem">Statens dyrehelsetilsyn</p>
+      <p type="listitem">Likestillingsombudet</p>
+      <p type="listitem">Reinbeitedistrikt 20
+                            Kvaløy/Fala</p>
+      <p type="listitem">Dyrebeskyttelsen Norge</p>
+      <p type="listitem">Fylkesmannen i Nordland</p>
+      <p type="listitem">Olje- og
+                            energidepartementet</p>
+      <p type="listitem">Ytre Troms Reinsamelag</p>
+      <p type="listitem">Marit M. Sara Eira</p>
+      <p type="listitem">Reinbeitedistrikt
+                            32-Silvetnjarga</p>
+      <p type="listitem">Fylkesmannen i Troms</p>
+      <p type="listitem">Rendal Renselskap</p>
+      <p type="listitem">Rettshjelpskontoret Indre
+                            Finnmark</p>
+      <p type="listitem">Den norske
+                            advokatforening</p>
+      <p type="listitem">Porsanger kommune</p>
+      <p type="listitem">Fylkesmannen i Finnmark</p>
+      <p type="listitem">Nordland fylkeskommune</p>
+      <p type="listitem">Finansdepartementet</p>
+      <p type="listitem">Reinbeitedistrikt 33
+                            Spalca</p>
+      <p type="listitem">Samferdselsdepartementet</p>
+      <p type="listitem">Kautokeino kommune</p>
+      <p type="listitem">Flerfaglig
+                            FellesOrganisasjon - 2fo</p>
+      <p type="listitem">Harstad kommune</p>
+      <p type="listitem">Områdestyret i
+                            Sør-Trøndelag/Hedmark reinbeiteområde</p>
+      <p type="listitem">Surnadal kommune</p>
+      <p type="listitem">Områdestyret i Troms
+                            reinbeiteområde</p>
+      <p type="listitem">Hammerfest kommune</p>
+      <p type="listitem">Karasjok kommune</p>
+      <p type="listitem">Fylkeslandbruksstyret i
+                            Finnmark</p>
+      <p type="listitem">Fylkesmannen i Hedmark</p>
+      <p type="listitem">Regjeringsadvokaten</p>
+      <p type="listitem">Nærings- og
+                            handelsdepartementet</p>
+      <p type="listitem">Direktoratet for
+                            naturforvaltning</p>
+      <p type="listitem">Nord-Trøndelag
+                            fylkeskommune</p>
+      <p type="listitem">Kommunal- og
+                            regionaldepartementet</p>
+      <p type="listitem">Justisdepartementet</p>
+      <p type="listitem">Norges Bondelag</p>
+      <p type="listitem">Essand reinbeitedistrikt</p>
+      <p type="listitem">Norges naturvernforbund</p>
+      <p type="listitem">Ellen Marit Somby Sara</p>
+      <p type="listitem">Elgå reinbeitedistrikt</p>
+      <p type="listitem">Hattfjelldal kommune</p>
+      <p type="listitem">Politidirektoratet</p>
+      <p type="listitem">Fylkeslandbruksstyret i
+                            Nordland</p>
+      <p type="listitem">Nordreisa kommune</p>
+      <p type="listitem">Områdestyret i Vest-Finnmark
+                            reinbeiteområde</p>
+      <p type="listitem">Norske Reindriftsamers
+                            Landsforbund</p>
+      <p type="listitem">Kontaktutvalget for
+                            tamreinlagene i Sør-Norge</p>
+      <p type="listitem">Områdestyret i Nordland
+                            reinbeiteområde</p>
+      <p type="listitem">Tydal kommune</p>
+      <p type="listitem">Samenes
+                            naturressursforbund</p>
+      <p type="listitem">Sør-Varanger kommune</p>
+      <p type="listitem">Miljøverndepartementet</p>
+      <p type="listitem">Nettverk for
+                            reindriftskvinner i Kautokeino</p>
+      <p type="listitem">Finnmark jordskifterett</p>
+      <p type="listitem">Områdestyret i Øst-Finnmark
+                            reinbeiteområde</p>
+      <p type="listitem">Reindriftsstyret</p>
+      <p type="listitem">Reindriftssjefen</p>
+      <p type="listitem">Kvalsund kommune</p>
+      <p type="listitem">Sametinget</p>
+    </list>
     <p type="text">Det vil bli redegjort for
                         høringsinstansenes kommentarer dels i
                         tilknytning til departementets vurderinger i
@@ -209,13 +432,9 @@
                         spørsmålene. Dette gjøres dels i kapittel 8 og
                         dels i kapittel 10.</p>
     <p type="text">
-                Bla i dokumentet:  |  | </p>
-    <p type="text">Skip left menu
-                navigation</p>
-    <p type="text">Landbruks- og matdepartementet, Akersgt. 59
-      (R5), Postboks 8007 Dep. 0030 Oslo l  Tlf: 22 24 90 90,
-      Faks: 22 24 95 55
-      E-post:   l  Nettredaksjonen: 
-      Ansvarlig redaktør:  l  Nettredaktør: </p>
+                Bla i dokumentet: 
+                &lt; 2 Bakgrunnen for lovforslaget | 
+                4 Reindriften i dag > | 
+                Dokumentets forside</p>
   </body>
 </document>
