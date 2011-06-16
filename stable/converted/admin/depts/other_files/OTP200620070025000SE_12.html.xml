@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43467 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43470 $; </version>
   </header>
   <body>
     <p type="title">Om lov om reindrift
@@ -1482,7 +1482,7 @@
                                   av de bestemmelser som gjelder for
                                   årsmøtet i distriktet, jf. § 50,
                                   også skal gjelde for siidaårsmøtet
-                                  .</p>
+                                  <em type="italic">.</em></p>
     </list>
     <section>
       <p type="title">§ 55 Siidakasse</p>
@@ -2293,9 +2293,9 @@
       <p type="title">§ 6 a nytt annet ledd skal
                             lyde:</p>
     </section>
-    <p type="text">Jordskifteretten skal behandle
+    <p type="text"><em type="italic">Jordskifteretten skal behandle
                               saker etter reindriftslova § 59 fjerde
-                              ledd .</p>
+                              ledd</em> .</p>
     <section>
       <p type="title">§ 35 bokstav i skal
                             lyde:</p>
@@ -2304,7 +2304,7 @@
                               reindrifta og grunneigarar og andre
                               rettshavarar i område i det samiske
                               reinbeiteområdet der det går føre
-                              seg reindrift, når det
+                              seg <em type="italic">reindrift,</em> når det
                               gjeld beite, flyttlei og liknande.</p>
     <section>
       <p type="title">§ 36 annet ledd skal
