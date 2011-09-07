@@ -16,77 +16,41 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43517 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
-    <p type="title">Om Sametingets virksomhet i
-                2002</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Gå til søk</p>
-      <p type="listitem">Gå til innhold</p>
-      <p type="listitem">Gå til toppnavigasjon</p>
-      <p type="listitem">Gå til lokalnavigasjon</p>
-    </list>
-    <list>
-      <p type="listitem">regjeringen.no</p>
-      <p type="listitem">Regjeringen Stoltenberg II</p>
-      <list>
-        <p type="listitem" xml:lang="swe">Statsministerens
-                    kontor</p>
-        <p type="listitem" xml:lang="ger">Arbeidsdepartementet</p>
-        <p type="listitem">Barne-, likestillings- og
-                    inkluderingsdepartementet</p>
-        <p type="listitem" xml:lang="eng">Finansdepartementet</p>
-        <p type="listitem">Fiskeri- og
-                    kystdepartementet</p>
-        <p type="listitem">Fornyings-, administrasjons-
-                    og kyrkjedepartementet</p>
-        <p type="listitem" xml:lang="eng">Forsvarsdepartementet</p>
-        <p type="listitem">Helse- og
-                    omsorgsdepartementet</p>
-        <p type="listitem">Justis- og
-                    politidepartementet</p>
-        <p type="listitem">Kommunal- og
-                    regionaldepartementet</p>
-        <p type="listitem" xml:lang="ger">Kulturdepartementet</p>
-        <p type="listitem" xml:lang="ger">Kunnskapsdepartementet</p>
-        <p type="listitem">Landbruks- og
-                    matdepartementet</p>
-        <p type="listitem" xml:lang="eng">Miljøverndepartementet</p>
-        <p type="listitem">Nærings- og
-                    handelsdepartementet</p>
-        <p type="listitem">Olje- og
-                    energidepartementet</p>
-        <p type="listitem" xml:lang="ger">Samferdselsdepartementet</p>
-        <p type="listitem" xml:lang="ger">Utanriksdepartementet</p>
-      </list>
-    </list>
-    <p type="text">Søk hos Kommunal- og
-                regionaldepartementet</p>
-    <p type="text">
-                Søk på hele regjeringen.no</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Tema A-Å</p>
-      <p type="listitem">Nettstedskart</p>
-      <p type="listitem">Hjelp</p>
-      <p type="listitem">Kontakt</p>
-    </list>
-    <p type="text">
-                Du er her: Kommunal-
-                og regionaldepart... &lt; Dokumenter &lt;
-                Proposisjoner og
-                meldinger &lt; Meldinger
-                til Stortinget &lt; 8 Areal-, miljø- og
-                kulturvern</p>
+    <p type="text" xml:lang="ger">
+                Du er her: </p>
+    <p type="text">Kommunal-
+                og regionaldepart...</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Dokumenter</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Proposisjoner og
+                meldinger</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Meldinger
+                til Stortinget</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">8 Areal-, miljø- og kulturvern</p>
     <p type="text" xml:lang="smj">St.meld. nr. 10 (2003-2004)</p>
     <section>
       <p type="title">Om Sametingets virksomhet i
                 2002</p>
     </section>
     <p type="text">
-                Bla i dokumentet: 
-                &lt;  7 Samiske næringer | 
-                9 Rettsforhold og forvaltning... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt;  7 Samiske næringer</p>
+    <p type="text"> | </p>
+    <p type="text">
+                9 Rettsforhold og forvaltning... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
     <section>
       <p type="title">8 Areal-, miljø- og
@@ -268,9 +232,14 @@
                         herunder samenes og reindriftsnæringens
                         interesser.</p>
     <p type="text">
-                Bla i dokumentet: 
-                &lt; 7 Samiske næringer | 
-                9 Rettsforhold og forvaltning... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt; 7 Samiske næringer</p>
+    <p type="text"> | </p>
+    <p type="text">
+                9 Rettsforhold og forvaltning... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
   </body>
 </document>

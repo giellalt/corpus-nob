@@ -15,30 +15,42 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
     <p type="text">
-                Du er her: Landbruks-
-                og matdepartementet &lt;
-                 Dokumenter &lt;
-                 Proposisjoner og
-                meldinger &lt;
-                 6 Reindriftslovgivningen... </p>
+                Du er her: </p>
+    <p type="text">Landbruks-
+                og matdepartementet</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Dokumenter</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Proposisjoner og
+                meldinger</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">6 Reindriftslovgivningen...</p>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
     <section>
       <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
     </section>
     <p type="text">
-                Bla i dokumentet: 
-                &lt;  5 Gjeldende rett | 
-                7 Reindriftslovutvalgets... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt;  5 Gjeldende rett</p>
+    <p type="text"> | </p>
+    <p type="text">
+                7 Reindriftslovutvalgets... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
     <section>
       <p type="title">6
                       Reindriftslovgivningen i Sverige og
-                      Finland </p>
+                      Finland</p>
     </section>
     <p type="text">Det foregår reindrift i en del
                       andre land. Det vises til kapittel 8 i utvalgets
@@ -48,7 +60,7 @@
                       og Finland, som er de land det er mest
                       nærliggende å sammenlikne seg med.</p>
     <section>
-      <p type="title">Sverige </p>
+      <p type="title">Sverige</p>
     </section>
     <p type="text">Reindriftsnæringen i Sverige
                       reguleres i Rennäringslagen (1971: 437). Loven
@@ -161,7 +173,7 @@
                       oppfølgingsprosesser her, men så langt er
                       konvensjonen ikke ratifisert.</p>
     <section>
-      <p type="title">Finland </p>
+      <p type="title">Finland</p>
     </section>
     <p type="text">Retten til å utøve reindrift er
                       ikke forbeholdt samene. Det er imidlertid erkjent
@@ -217,9 +229,14 @@
                       terrenget - finnes det likevel særskilte
                       bestemmelser om erstatning til reineiere.</p>
     <p type="text">
-                Bla i dokumentet: 
-                &lt; 5 Gjeldende rett | 
-                7 Reindriftslovutvalgets... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt; 5 Gjeldende rett</p>
+    <p type="text"> | </p>
+    <p type="text">
+                7 Reindriftslovutvalgets... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
   </body>
 </document>

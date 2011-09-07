@@ -16,34 +16,48 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
-    <p type="text">
-                Du er her: Kommunal-
-                og regionaldepart... &lt;
-                 Dokumenter &lt;
-                 Proposisjoner og
-                meldinger &lt;
-                 Meldinger
-                til Stortinget &lt;
-                 5 Opplæring </p>
+    <p type="text" xml:lang="ger">
+                Du er her: </p>
+    <p type="text">Kommunal-
+                og regionaldepart...</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Dokumenter</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Proposisjoner og
+                meldinger</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Meldinger
+                til Stortinget</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text" xml:lang="isl">5 Opplæring</p>
     <p type="text" xml:lang="smj">St.meld. nr. 10 (2003-2004)</p>
     <section>
       <p type="title">Om Sametingets virksomhet i
                 2002</p>
     </section>
     <p type="text">
-                Bla i dokumentet: 
-                &lt;  4 Samisk kultur og språk | 
-                6 Samiske helse- og sosialspørsmål > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt;  4 Samisk kultur og språk</p>
+    <p type="text"> | </p>
+    <p type="text">
+                6 Samiske helse- og sosialspørsmål ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
     <section>
-      <p type="title" xml:lang="isl">5 Opplæring </p>
+      <p type="title" xml:lang="isl">5 Opplæring</p>
     </section>
     <section>
       <p type="title">5.1 Bestemmelsene om retten til
-                          opplæring på samisk i grunnskolen </p>
+                          opplæring på samisk i grunnskolen</p>
     </section>
     <p type="text">Sametinget har bedt om at alle
                           samiske barn må sikres rett til individuell
@@ -83,7 +97,7 @@
                           departementet.</p>
     <section>
       <p type="title">5.2
-                          Skolefritidsordningen </p>
+                          Skolefritidsordningen</p>
     </section>
     <p type="text">Sametinget har bedt om at
                           samiske barns rett til samisk språk må sikres
@@ -108,7 +122,7 @@
                           barnehagene.</p>
     <section>
       <p type="title">5.3 Timer til samiskundervisning i
-                          grunnskolen </p>
+                          grunnskolen</p>
     </section>
     <p type="text">Sametinget ber i sin
                           årsmelding om at staten må refundere
@@ -214,7 +228,7 @@
     <p type="text">204</p>
     <section>
       <p type="title">5.4 Språktiltak i videregående
-                          opplæring </p>
+                          opplæring</p>
     </section>
     <p type="text">Det gis tilskudd til ekstra
                           språkopplæring i samisk etter de samme satser
@@ -226,7 +240,7 @@
       <p type="title">5.5 Etterarbeid i
                           forhold til Det samiske læreplanverket for
                           den 10-årige grunnskolen (L97S
-                          ) </p>
+                          )</p>
     </section>
     <p type="text">Som del av arbeidet med
                           innføringen av Det samiske læreplanverket, er
@@ -273,7 +287,7 @@
                           etterarbeidet med rapportene.</p>
     <section>
       <p type="title">5.6 Læreplaner for videregående
-                          opplæring </p>
+                          opplæring</p>
     </section>
     <p type="text">Samisk
                           utdanningsråd/Sametinget har deltatt aktivt i
@@ -284,7 +298,7 @@
                           fastsatt av departementet. Læreplanene gir
                           rom for lokal tilpasning.</p>
     <section>
-      <p type="title" xml:lang="smj">5.6.1 Duodji </p>
+      <p type="title" xml:lang="smj">5.6.1 Duodji</p>
     </section>
     <p type="text">Det er opprettet et eget råd
                           for opplæring i faget duodji. <em type="italic">Opplæringsrådet</em> er rådgivende organ
@@ -309,7 +323,7 @@
                           læreplanene for reindrift som lærefag.</p>
     <section>
       <p type="title">5.7 De to samiske videregående
-                          skolene </p>
+                          skolene</p>
     </section>
     <p type="text">Det vises til St.meld.
                           nr. 33 (2001–2002) kap. 10.2.3 og
@@ -337,7 +351,7 @@
                           samiske skolene på nyåret i 2004.</p>
     <section>
       <p type="title">5.8 Høyere utdanning og
-                          forskning </p>
+                          forskning</p>
     </section>
     <p type="text">Stortinget ga ved behandlingen
                           av Innst. S. nr. 12 (2002–2003) og
@@ -405,12 +419,18 @@
                           behandling av denne, ble Forskningsrådets
                           program for samisk forskning styrket med 3
                           mill over statsbudsjettet for 2003.</p>
+    <p type="text">1</p>
     <p type="text">Jf. Sametingets årsmelding
                         kap. 2.5.3.</p>
     <p type="text">
-                Bla i dokumentet: 
-                &lt; 4 Samisk kultur og språk | 
-                6 Samiske helse- og sosialspørsmål > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt; 4 Samisk kultur og språk</p>
+    <p type="text"> | </p>
+    <p type="text">
+                6 Samiske helse- og sosialspørsmål ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
   </body>
 </document>

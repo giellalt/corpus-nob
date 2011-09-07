@@ -21,13 +21,22 @@
     </metadata>
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
-  <body><section><p type="title">Ledige stillinger</p></section><p type="text">Nå kan du søke jobb i
+  <body>
+    <section>
+      <p type="title">Ledige stillinger</p>
+    </section>
+    <p type="text">Nå kan du søke jobb i
                   Arbeidsdepartementet (AD) via vår elektroniske
                   jobbportal JobbPort. På en enkel måte kan du
                   registrere din CV, skrive søknad, legge ved
                   elektroniske attester og vitnemål og sende alt
-                  elektronisk.</p><p type="text"></p><p type="text">
-                  Sjekk også våre rekrutteringssider </p><p type="text" xml:lang="swe">
-                  Jobb i AD</p><p type="text">
-                  JobbPort</p> </body>
+                  elektronisk.</p>
+    <p type="text"></p>
+    <p type="text">
+                  Sjekk også våre rekrutteringssider </p>
+    <p type="text" xml:lang="swe">
+                  Jobb i AD</p>
+    <p type="text">
+                  JobbPort</p>
+  </body>
 </document>

@@ -15,25 +15,37 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
     <p type="text">
-                Du er her: Landbruks-
-                og matdepartementet &lt;
-                 Dokumenter &lt;
-                 Proposisjoner og
-                meldinger &lt;
-                 Tilråding </p>
+                Du er her: </p>
+    <p type="text">Landbruks-
+                og matdepartementet</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Dokumenter</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Proposisjoner og
+                meldinger</p>
+    <p type="text"> &lt;
+                 </p>
+    <p type="text">Tilråding</p>
     <p type="text">Ot.prp. nr. 25 (2006-2007)</p>
     <section>
       <p type="title">Om lov om reindrift
                 (reindriftsloven)</p>
     </section>
     <p type="text">
-                Bla i dokumentet: 
-                &lt;  10 Merknader til de enkelte... | 
-                Forslag til lov om reindrift... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt;  10 Merknader til de enkelte...</p>
+    <p type="text"> | </p>
+    <p type="text">
+                Forslag til lov om reindrift... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
     <section>
       <p type="title">Tilråding</p>
@@ -52,9 +64,14 @@
                         vedtak til lov om reindrift (reindriftsloven) i
                         samsvar med et vedlagt forslag.</p>
     <p type="text">
-                Bla i dokumentet: 
-                &lt; 10 Merknader til de enkelte... | 
-                Forslag til lov om reindrift... > | 
+                Bla i dokumentet: </p>
+    <p type="text">
+                &lt; 10 Merknader til de enkelte...</p>
+    <p type="text"> | </p>
+    <p type="text">
+                Forslag til lov om reindrift... ></p>
+    <p type="text"> | </p>
+    <p type="text">
                 Dokumentets forside</p>
   </body>
 </document>

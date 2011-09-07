@@ -22,12 +22,28 @@
     </metadata>
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
-  <body> <section><p type="title">Pressesenter</p></section><p type="text">Pressehenvendelser til politisk ledelse og
-                  departementet går via Informasjonsenheten.</p><section><p type="title">Pressehenvendelser</p></section><p type="text">Som et ledd i arbeidet med å gi pressen best
+  <body>
+    <section>
+      <p type="title">Pressesenter</p>
+    </section>
+    <p type="text">Pressehenvendelser til politisk ledelse og
+                  departementet går via Informasjonsenheten.</p>
+    <section>
+      <p type="title">Pressehenvendelser</p>
+    </section>
+    <p type="text">Som et ledd i arbeidet med å gi pressen best
                   mulige arbeidsforhold har vi opprettet en egen
                   pressetelefon: <em type="italic">Tlf.: 22 24 44 11 / SMS: 911
-                  42 059 (bemannet sommertid: kl. 08.00 - 15.00).</em><em type="italic">___________________</em></p><section><p type="title">Innsynsforespørsler</p></section><p type="text">Innsynsforespørsler til departementet rettes 
-                  via e-post til</p><section><p type="title" xml:lang="eng">E-post til Finansdepartementet</p></section><p type="text">Finansdepartementet er forpliktet til å behandle
+                  42 059 (bemannet sommertid: kl. 08.00 - 15.00).</em><em type="italic">___________________</em></p>
+    <section>
+      <p type="title">Innsynsforespørsler</p>
+    </section>
+    <p type="text">Innsynsforespørsler til departementet rettes 
+                  via e-post til</p>
+    <section>
+      <p type="title" xml:lang="eng">E-post til Finansdepartementet</p>
+    </section>
+    <p type="text">Finansdepartementet er forpliktet til å behandle
                   alle dokumenter, inkludert e-post, i samsvar med
                   bestemmelsene i offentlighetsloven ( lov av 19. mai 2006 ). Alle
                   departementets saksdokumenter, inkludert all
@@ -35,25 +51,113 @@
                   hovedregel er offentlige. Den som ønsker det, kan be
                   om innsyn i departementets saksdokumenter etter
                   offentlighetsloven. Vil du ha et skriftlig svar, må
-                  du oppgi navn og ordinær postadresse. </p><p type="text"><em type="italic">Informasjonsenheten består
-                  av:</em></p><section><p type="title">Kommunikasjonssjef Runar
-                        Malkenes</p></section><section><p type="title">
-                        Avdelingsdirektør / Informasjonsenheten</p></section><p type="text" xml:lang="eng">
-                        [Finansdepartementet]</p><p type="text">E-post:</p><p type="text">Telefon:</p><p type="text">22 24 41 09</p><p type="text" xml:lang="sme">Mobil:</p><p type="text">95 21 42 83</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title">Seniorrådgiver Anders Lande</p></section><section><p type="title">
-                        Informasjonsenheten</p></section><p type="text" xml:lang="eng">
-                        [Finansdepartementet]</p><p type="text">E-post:</p><p type="text">Telefon:</p><p type="text">22 24 41 31</p><p type="text" xml:lang="sme">Mobil:</p><p type="text">48 05 33 51</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title">Informasjonsrådgiver Signe Bunkholt
-                        Sæther</p></section><section><p type="title">
-                        Informasjonsenheten</p></section><p type="text" xml:lang="eng">
-                        [Finansdepartementet]</p><p type="text">E-post:</p><p type="text">Telefon:</p><p type="text">22 24 43 39</p><p type="text" xml:lang="sme">Mobil:</p><p type="text">901 37 294</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title">Førstekonsulent Dorte Drange</p></section><section><p type="title">
-                        Informasjonsenheten</p></section><p type="text" xml:lang="eng">
-                        [Finansdepartementet]</p><p type="text">E-post:</p><p type="text">Telefon:</p><p type="text">22 24 41 05</p><p type="text" xml:lang="sme">Mobil:</p><p type="text">95 92 87 32</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title">Seniorrådgiver Tor Martin
-                        Bærum</p></section><section><p type="title">
-                        Nettredaktør / Informasjonsenheten</p></section><p type="text" xml:lang="eng">
-                        [Finansdepartementet]</p><p type="text">E-post:</p><p type="text">Telefon:</p><p type="text">22 24 41 34</p><p type="text" xml:lang="sme">Mobil:</p><p type="text">91 57 31 12</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title">Kontaktinformasjon</p></section><section><p type="title">Informasjonsenheten
-                      (FIN)</p></section><p type="text">Telefon:</p><p type="text">22 24 44 11</p><p type="text">Faks:</p><p type="text">22 24 95 10</p><section><p type="title" xml:lang="eng">Adresse:</p></section><p type="text">Finansdepartementet
+                  du oppgi navn og ordinær postadresse. </p>
+    <p type="text">
+      <em type="italic">Informasjonsenheten består
+                  av:</em>
+    </p>
+    <section>
+      <p type="title">Kommunikasjonssjef Runar
+                        Malkenes</p>
+    </section>
+    <section>
+      <p type="title">
+                        Avdelingsdirektør / Informasjonsenheten</p>
+    </section>
+    <p type="text" xml:lang="eng">
+                        [Finansdepartementet]</p>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 41 09</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">95 21 42 83</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title">Seniorrådgiver Anders Lande</p>
+    </section>
+    <section>
+      <p type="title">
+                        Informasjonsenheten</p>
+    </section>
+    <p type="text" xml:lang="eng">
+                        [Finansdepartementet]</p>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 41 31</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">48 05 33 51</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title">Informasjonsrådgiver Signe Bunkholt
+                        Sæther</p>
+    </section>
+    <section>
+      <p type="title">
+                        Informasjonsenheten</p>
+    </section>
+    <p type="text" xml:lang="eng">
+                        [Finansdepartementet]</p>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 43 39</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">901 37 294</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title">Førstekonsulent Dorte Drange</p>
+    </section>
+    <section>
+      <p type="title">
+                        Informasjonsenheten</p>
+    </section>
+    <p type="text" xml:lang="eng">
+                        [Finansdepartementet]</p>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 41 05</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">95 92 87 32</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title">Seniorrådgiver Tor Martin
+                        Bærum</p>
+    </section>
+    <section>
+      <p type="title">
+                        Nettredaktør / Informasjonsenheten</p>
+    </section>
+    <p type="text" xml:lang="eng">
+                        [Finansdepartementet]</p>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 41 34</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">91 57 31 12</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title">Kontaktinformasjon</p>
+    </section>
+    <section>
+      <p type="title">Informasjonsenheten
+                      (FIN)</p>
+    </section>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 44 11</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 10</p>
+    <section>
+      <p type="title" xml:lang="eng">Adresse:</p>
+    </section>
+    <p type="text">Finansdepartementet
                       Informasjonsenheten
                       Postboks 8008 Dep
                       0030 Oslo<em type="bold">Besøksadresse:</em>
                       Akersgata 40
-                      Oslo</p></body>
+                      Oslo</p>
+  </body>
 </document>
