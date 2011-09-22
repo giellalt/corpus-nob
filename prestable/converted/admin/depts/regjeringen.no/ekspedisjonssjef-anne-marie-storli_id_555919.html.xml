@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>Ekspedišuvdnahoavda Anne Marie Storli - regjeringen.no</title>
+    <genre/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>159</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="divvun@samediggi.no" name=""/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nb/dep/sd/dep/organisasjon/avdelinger/kommunikasjonsavdelingen/ekspedisjonssjef-anne-marie-storli.html?id=555919</origFileName>
+    <parallel_text location="ekspediuvdnahoavda-anne-marie-storli.html_id=555919" xml:lang="sme"/>
+    <parallel_text location="ekspedisjonssjef-anne-marie-storli.html_id=555919" xml:lang="nno"/>
+    <parallel_text location="director-general-anne-marie-storli.html_id=555919" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title">Ekspedisjonssjef Anne Marie Storli</p>
+    </section>
+    <section>
+      <p type="title">Pressekontakt</p>
+    </section>
+    <p type="text">E-post:</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 83 22</p>
+    <p type="text" xml:lang="sme">Mobil:</p>
+    <p type="text">917 33 650</p>
+    <p type="text">Faks:</p>
+    <p type="text">22 24 95 71</p>
+  </body>
+</document>

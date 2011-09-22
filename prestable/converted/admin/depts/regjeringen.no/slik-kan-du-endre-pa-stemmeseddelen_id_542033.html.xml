@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>Ná don sáhtát rievdadit jienastanlihpu - regjeringen.no</title>
+    <genre/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>267</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="divvun@samediggi.no" name=""/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nb/dep/krd/kampanjer/valg/stortingsvalg/slik-kan-du-endre-pa-stemmeseddelen.html?id=542033</origFileName>
+    <parallel_text location="na-don-sahtat-rievdadit-jienastanlihpu.html_id=542033" xml:lang="sme"/>
+    <parallel_text location="slik-kan-du-endre-pa-roystesetelen.html_id=542033" xml:lang="nno"/>
+    <parallel_text location="how-to-change-your-ballot-paper.html_id=542033" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title">Slik kan du endre på stemmeseddelen</p>
+    </section>
+    <section>
+      <p type="title">Stortingsvalg</p>
+    </section>
+    <p type="text">Stemmeseddelen avgjør hvilket parti du stemmer
+                    på. Det er opp til deg om du vil endre på
+                    stemmeseddelen. Hvis du ikke endrer, stemmer du på
+                    kandidatene i den rekkefølgen de står på
+                    stemmeseddelen.</p>
+    <p type="text">For at endringene som blir gjort på
+                    stemmeseddelen skal få betydning ved valgoppgjøret,
+                    må endringene ved samme kandidatnavn gjøres av mer
+                    enn halvparten av de velgerne i fylket som har gitt
+                    valglisten sin stemme.</p>
+    <p type="text">Veiledning for hvordan du gjør endringer, står
+                    også på stemmesedlene.</p>
+    <p type="text">Ikke vær redd for å endre på stemmeseddelen! Den
+                    blir ikke forkastet selv om du gjør feil.</p>
+    <section>
+      <p type="title">Slik kan du endre på stemmeseddelen:</p>
+    </section>
+    <p type="text"><em type="italic">Endre rekkefølgen på
+                            kandidatene:</em>
+                            Sett et (nytt) nummer i ruten til venstre
+                            for navnet til kandidaten(e) slik at du
+                            markerer hvordan du vil at rekkefølgen på
+                            kandidatene skal være.</p>
+    <p type="text" xml:lang="ger">
+      <em type="bold">Stryke kandidater:</em>
+    </p>
+    <p type="text">
+                          Sett et merke (kryss, hake eller liknende) i
+                          ruten til høyre for navnet til kandidaten(e)
+                          du vil stryke.</p>
+  </body>
+</document>
