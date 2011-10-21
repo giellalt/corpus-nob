@@ -19,7 +19,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p>1/2010
@@ -1708,7 +1708,7 @@ Kilde: Medietilsynet 2009
     <p>2008
 22
 </p>
-    <p xml:lang="sme">P4
+    <p>P4
 </p>
     <p>Også P4 har konsesjon om riksdekkende radiosendinger – med noe lavere
 dekning og mindre strenge konsesjonskrav. Kanalen løser dette gjennom et
@@ -2508,13 +2508,13 @@ verdt å merke seg at kretsene 1–6 utgjorde kretsene som lå i Finnmark fylke.
 </p>
     <p>1 Var
 </p>
-    <p xml:lang="sme">2 Tan
+    <p>2 Tan
 </p>
-    <p xml:lang="sme">3 Kar
+    <p>3 Kar
 </p>
     <p>4 Kau
 </p>
-    <p xml:lang="sme">5 Por
+    <p>5 Por
 </p>
     <p>6 A/K
 </p>
@@ -2599,17 +2599,17 @@ verdt å merke seg at kretsene 1–6 utgjorde kretsene som lå i Finnmark fylke.
 </p>
     <p>0
 </p>
-    <p xml:lang="sme">8 MTr
+    <p>8 MTr
 </p>
-    <p xml:lang="sme">9 STr
+    <p>9 STr
 </p>
-    <p xml:lang="sme">10 NNo
+    <p>10 NNo
 </p>
-    <p xml:lang="sme">11 MNo
+    <p>11 MNo
 </p>
     <p>12 Sso
 </p>
-    <p xml:lang="sme">13 SNo
+    <p>13 SNo
 </p>
     <p>442
 </p>
@@ -2724,27 +2724,27 @@ Figur 3.3 Valgmanntallet per krets ved valgene i 1989 og 2005, etter kretsenes s
 </p>
     <p>4 Kau
 </p>
-    <p xml:lang="sme">13 SNo
+    <p>13 SNo
 </p>
-    <p xml:lang="sme">3 Kar
+    <p>3 Kar
 </p>
     <p>6 A/K
 </p>
-    <p xml:lang="sme">8 MTr
+    <p>8 MTr
 </p>
-    <p xml:lang="sme">5 Por
+    <p>5 Por
 </p>
     <p>1 Var
 </p>
     <p>7 NTr
 </p>
-    <p xml:lang="sme">2 Tan
+    <p>2 Tan
 </p>
     <p>12 Sso
 </p>
-    <p xml:lang="sme">9 STr
+    <p>9 STr
 </p>
-    <p xml:lang="sme">11 MNo
+    <p>11 MNo
 </p>
     <p>1989
 </p>
@@ -3057,13 +3057,13 @@ størrelsesforholdet mellom de syv kretsene.
 </p>
     <p>3 Nord
 </p>
-    <p xml:lang="sme">4 Gais
+    <p>4 Gais
 </p>
     <p>5 Vest
 </p>
     <p>6 Sso
 </p>
-    <p xml:lang="sme">7 SNo
+    <p>7 SNo
 </p>
     <p>2221
 </p>
@@ -3157,7 +3157,7 @@ Figur 3.5 Valgmanntallet for de to sørligste valgkretsene ved valgene 1989–20
     <p>2009
 884
 </p>
-    <p xml:lang="sme">13 SNo
+    <p>13 SNo
 </p>
     <p>320
 </p>
@@ -3868,7 +3868,7 @@ manntallsførte i 2005 og 2009. Etter manntallets størrelse i 2009
 </p>
     <p>ALTA
 </p>
-    <p xml:lang="sme">TANA
+    <p>TANA
 </p>
     <p>PORSANGER
 </p>
@@ -4447,29 +4447,29 @@ kretsene ved de to valgene i 2001 og 2005.
 </p>
     <p>1 - Var
 </p>
-    <p xml:lang="sme">2 - Tan
+    <p>2 - Tan
 </p>
-    <p xml:lang="sme">3 - Kar
+    <p>3 - Kar
 </p>
     <p>4 - Kau
 </p>
-    <p xml:lang="sme">5 - Por
+    <p>5 - Por
 </p>
     <p>6 - A/K
 </p>
     <p>7 - NTr
 </p>
-    <p xml:lang="sme">8 - MTr
+    <p>8 - MTr
 </p>
-    <p xml:lang="sme">9 - STr
+    <p>9 - STr
 </p>
-    <p xml:lang="sme">10 - NNo
+    <p>10 - NNo
 </p>
-    <p xml:lang="sme">11 - MNo
+    <p>11 - MNo
 </p>
     <p>12 - Sso
 </p>
-    <p xml:lang="sme">13 - SNo
+    <p>13 - SNo
 </p>
     <p>2001
 </p>
@@ -4562,9 +4562,9 @@ Figur 3.9 Kretsvis kjønnsfordeling i valgmanntallet 2009
 </p>
     <p xml:lang="sme">2 Ávjovári
 </p>
-    <p xml:lang="sme">3 Nordre
+    <p>3 Nordre
 </p>
-    <p xml:lang="sme">4 Gáisi
+    <p>4 Gáisi
 </p>
     <p xml:lang="sme">5 Vesthavet
 </p>
@@ -5501,7 +5501,7 @@ noen – særlig blant ungdom og eldre – som ifølge lokale valgmedarbeidere p
 ulike måter misforstår kravet til at innmelding i Sametingets valgmanntall skal
 skje særskilt. Dermed oppstår iblant situasjoner der personer som har ønske om å
 stemme, ikke får gjort det fordi de ikke er registrert i valgmanntallet.
-Slike manntallsrelaterte ekstrabarrierer for å stemme ved sametingsvalg må šg tas
+Slike manntallsrelaterte ekstrabarrierer for å stemme ved sametingsvalg må óg tas
 i betrakting når valgdeltakelse ved sametingsvalg skal vurderes.
 I delkapittelet omtales valgdeltakelse totalt og på kretsnivå. Det er i skrivende
 stund ikke tilgang til data for valgdeltakelse ved sametingsvalg på kommunenivå.
@@ -5800,13 +5800,13 @@ Alta/Kvalsund og 13 Sør-Norge.
 </p>
     <p>1 - Var
 </p>
-    <p xml:lang="sme">2 - Tan
+    <p>2 - Tan
 </p>
-    <p xml:lang="sme">3 - Kar
+    <p>3 - Kar
 </p>
     <p>4 - Kau
 </p>
-    <p xml:lang="sme">5 - Por
+    <p>5 - Por
 </p>
     <p>6 - A/K
 </p>
@@ -5891,17 +5891,17 @@ Alta/Kvalsund og 13 Sør-Norge.
 </p>
     <p>0
 </p>
-    <p xml:lang="sme">8 - MTr
+    <p>8 - MTr
 </p>
-    <p xml:lang="sme">9 - STr
+    <p>9 - STr
 </p>
-    <p xml:lang="sme">10 - NNo
+    <p>10 - NNo
 </p>
-    <p xml:lang="sme">11 - MNo
+    <p>11 - MNo
 </p>
     <p>12 - Sso
 </p>
-    <p xml:lang="sme">13 - SNo
+    <p>13 - SNo
 </p>
     <p>72
 </p>
@@ -6037,17 +6037,17 @@ sametingsvalg.
 </p>
     <p>1 Øst
 </p>
-    <p xml:lang="sme">2 Ávjo
+    <p>2 Ávjo
 </p>
     <p>3 Nord
 </p>
-    <p xml:lang="sme">4 Gáisi
+    <p>4 Gáisi
 </p>
     <p>5 Vest
 </p>
     <p>6 S-sam
 </p>
-    <p xml:lang="sme">7 S-No
+    <p>7 S-No
 </p>
     <p>78
 </p>
@@ -6154,7 +6154,7 @@ Kart 3.2
 </p>
     <p>Sør-Varanger, Nesseby, Vadsø, Vardø og Båtsfjord kommuner
 </p>
-    <p xml:lang="sme">2. Tana:
+    <p>2. Tana:
 </p>
     <p>Tana, Berlevåg og Gamvik kommuner
 </p>
@@ -8271,7 +8271,7 @@ Bjarkøy
 40
 41
 </p>
-    <p xml:lang="sme">Ibestad
+    <p>Ibestad
 </p>
     <p>-36,8
 </p>
@@ -8793,7 +8793,7 @@ områdene
 </p>
     <p>i
 </p>
-    <p xml:lang="sme">STN-
+    <p>STN-
 </p>
     <p>Andre områder innen STN-kommunene
 </p>
@@ -8817,7 +8817,7 @@ områdene
 </p>
     <p>2
 </p>
-    <p xml:lang="sme">Narvik
+    <p>Narvik
 </p>
     <p>26
 </p>
@@ -8859,13 +8859,13 @@ områdene
 </p>
     <p>6
 </p>
-    <p xml:lang="sme">Nordkapp
+    <p>Nordkapp
 </p>
     <p>1
 </p>
     <p>6
 </p>
-    <p xml:lang="sme">Evenes
+    <p>Evenes
 </p>
     <p>-7
 </p>
@@ -8877,13 +8877,13 @@ områdene
 </p>
     <p>7
 </p>
-    <p xml:lang="sme">Nordkapp
+    <p>Nordkapp
 </p>
     <p>-8
 </p>
     <p>8
 </p>
-    <p xml:lang="sme">Narvik
+    <p>Narvik
 </p>
     <p>1
 </p>
@@ -8901,7 +8901,7 @@ områdene
 </p>
     <p>10
 </p>
-    <p xml:lang="sme">Evenes
+    <p>Evenes
 </p>
     <p>-1
 </p>
@@ -8943,7 +8943,7 @@ områdene
 </p>
     <p>3
 </p>
-    <p xml:lang="sme">Bardu
+    <p>Bardu
 </p>
     <p>27
 </p>
@@ -9069,7 +9069,7 @@ områdene
 </p>
     <p>41
 </p>
-    <p xml:lang="sme">Ibestad
+    <p>Ibestad
 </p>
     <p>-23
 </p>
