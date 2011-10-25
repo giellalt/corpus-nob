@@ -23,7 +23,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -299,7 +299,7 @@
     <p>Ordningen forvaltes av Sametingets tilskuddsstyre.</p>
     <p>For 2010 avsettes kr 8 975 000 til tilskudd til ordinære
           læremidler for grunnopplæringen. </p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p>4.2.1.2 Særskilt
           tilrettelagte læremidler </p>
@@ -465,7 +465,7 @@
     <p>Ordningen forvaltes av Sametingets tilskuddsstyre.</p>
     <p>For 2010 avsettes kr 1 900 000 til tilskudd til særskilt
           tilrettelagte læremidler.</p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p xml:lang="dan">4.2.1.3
           Læremidler til barnehager </p>
@@ -629,7 +629,7 @@
     <p>Ordningen forvaltes av Sametingets tilskuddsstyre.</p>
     <p>For 2010 avsettes kr 1 000 000 til tilskudd til samiske
           læremidler for bruk i barnehage.</p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p>
       <em type="italic">4.2.2 Kompetanseheving</em>
@@ -664,7 +664,7 @@
     <p>Ordningen forvaltes av Sametingets tilskuddstyre.</p>
     <p>For 2010 avsettes kr 2 400 000 til stipend for elever med
           samisk i fagkretsen i videregående skole.</p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p xml:lang="swe">4.2.2.2 Faglig
           kompetanseheving </p>
@@ -726,7 +726,7 @@
           tilskuddsstyre. </p>
     <p>For 2010 avsettes kr 800 000 til tilskudd til faglig
           kompetanseheving.</p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p>4.2.2.3 Stipend
           for høyere utdanning </p>
@@ -734,7 +734,7 @@
     <p>• Høyere utdanning i samisk læremiddelpedagogikk</p>
     <p>• Førskole- og allmennlærerstudenter med samisk i
           fagkretsen</p>
-    <p>•Ž Høyere utdanning i sør-, lule- eller nordsamisk språk.
+    <p>•á Høyere utdanning i sør-, lule- eller nordsamisk språk.
           Sørsamisk og lulesamisk prioriteres høyest</p>
     <p>• Videreutdanning innen eldreomsorg</p>
     <p>• Videreutdanning innen forebygging og rehabilitering av
@@ -790,7 +790,7 @@
     <p>For 2010 avsettes kr 1 550 000 til stipend for høyere
           utdanning.</p>
     <p>  </p>
-    <p>
+    <p xml:lang="nno">
           Søknadsskjema finnes her</p>
     <p xml:lang="kal">
       <em type="italic">4.2.3 Barnehager</em>
@@ -871,7 +871,7 @@
           dato realitetsbehandles ikke</p>
     <p>• Søknader må ligge innenfor Sametingets prioriteringer
           for 2010</p>
-    <p>•Ž Sametingets søknadsskjema for ordningen benyttes</p>
+    <p>•á Sametingets søknadsskjema for ordningen benyttes</p>
     <p>• Tilskudd ytes til barnehager som mottar særskilt
           tilskudd eller tilskudd til samiskopplæring</p>
     <p>• Tilskuddsøker skal utarbeide prosjektbeskrivelse som

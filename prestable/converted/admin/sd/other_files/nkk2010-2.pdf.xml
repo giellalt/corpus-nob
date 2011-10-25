@@ -18,7 +18,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p>Nærings- og kulturkomiteen
@@ -34,7 +34,7 @@ www.samediggi.no
 Sted: Karasjok
 Saksliste
 </p>
-    <p xml:lang="kal">Saksnr.
+    <p>Saksnr.
 </p>
     <p>Sakstittel
 </p>
@@ -118,7 +118,7 @@ spørsmål fra komiteen om mineralloven.
 </p>
     <p>NKK 004/10: Godkjenning av innkalling og saksliste
 </p>
-    <p xml:lang="sma">Vedtak:
+    <p>Vedtak:
 </p>
     <p>Godkjenning av innkallingen
 Innkallingen av 24.03.10 ble enstemmig godkjent

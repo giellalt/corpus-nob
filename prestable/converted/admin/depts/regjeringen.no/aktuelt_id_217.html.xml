@@ -20,11 +20,11 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
-      <p type="title" xml:lang="smj">Aktuelt</p>
+      <p type="title">Aktuelt</p>
     </section>
     <p>Dette er en liste over de sist publiserte
                   saker fra Finansdepartementet. Se også oversikten
@@ -149,7 +149,7 @@
     <p>Telefon:</p>
     <p>22 24 90 90</p>
     <section>
-      <p type="title" xml:lang="smj">Adresse:</p>
+      <p type="title">Adresse:</p>
     </section>
     <p>Finansdepartementet
                       Postboks 8008 Dep
