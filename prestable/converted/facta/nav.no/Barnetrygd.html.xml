@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>NAV - Barnetrygd -</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>1005</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
+    <multilingual/>
+    <origFileName>http://www.nav.no/Familie/Barnetrygd</origFileName>
+    <parallel_text location="Barnetrygd.html" xml:lang="sme"/>
+    <parallel_text location="805322312.html" xml:lang="nno"/>
+    <parallel_text location="212728.html" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title" xml:lang="kal">Barnetrygd</p>
+    </section>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="kal">Barnetrygd</p>
+    </section>
+    <p>Barnetrygd er en stønad som gis for
+                alle barn under 18 år som er bosatt i Norge.
+                Barnetrygden skal bidra til å dekke utgifter ved å ha
+                barn. Dersom du er enslig forsørger, kan du få
+                barnetrygd for ett barn mer enn det du faktisk bor
+                sammen med (utvidet barnetrygd).</p>
+    <section>
+      <p type="title" xml:lang="sma">Hvem kan få barnetrygd?</p>
+    </section>
+    <list>
+      <p type="listitem">Barnets mor eller far kan få barnetrygd. Dersom
+                    foreldrene har inngått avtale om delt bosted for
+                    barnet, kan barnetrygden deles likt mellom
+                    dem.</p>
+      <p type="listitem">Fosterforeldre, en annen omsorgsperson eller en
+                    barnevernsinstitusjon kan få barnetrygd hvis barnet
+                    bor der fast (utover tre måneder).</p>
+    </list>
+    <p>Hvis du skal få barnetrygd, må barnet ditt være
+                  bosatt i Norge. Hvis barnet ditt oppholder seg i
+                  Norge i minst 12 måneder sammenhengende, regnes det i
+                  regelen som bosatt. Det finnes unntak fra denne
+                  regelen. Du kan lese mer om barnetrygd ved opphold i
+                  EØS-land under Internasjonalt i høyremenyen.
+                   </p>
+    <section>
+      <p type="title" xml:lang="dan">Hvem kan få utvidet barnetrygd?</p>
+    </section>
+    <p>Utvidet barnetrygd er barnetrygd for ett barn mer
+                  enn du faktisk bor sammen med. Du kan få utvidet
+                  barnetrygd hvis du bor alene med barn og</p>
+    <list>
+      <p type="listitem">er separert, skilt eller gjenlevende
+                    ektefelle</p>
+      <p type="listitem">er ugift og ikke lever sammen med den andre av
+                    barnets foreldre (det må foreligge meklingsattest
+                    ved samlivsbrudd mellom samboere som har felles
+                    barn under 16 år)</p>
+      <p type="listitem">har vært faktisk separert i minst seks måneder
+                    uten separasjonsbevilling eller dom </p>
+      <p type="listitem">har en ektefelle/samboer som er innsatt i
+                    fengsel med ubetinget straff på minst seks måneder,
+                    eller som har utholdt varetekt i minst seks
+                    måneder</p>
+      <p type="listitem">har en ektefelle/samboer som har vært
+                    forsvunnet i minst seks måneder</p>
+    </list>
+    <p xml:lang="dan"> Hvis du mottar utvidet barnetrygd, faller
+                  denne bort hvis du</p>
+    <list>
+      <p type="listitem" xml:lang="sma">inngår ekteskap</p>
+      <p type="listitem">har vært samboer med en du ikke har felles barn
+                    med, i 12 måneder</p>
+    </list>
+    <section>
+      <p type="title" xml:lang="nno"> Når du  flytter til utlandet</p>
+    </section>
+    <p><em type="italic"> </em> Hvis du har et midlertidig
+                  opphold i utlandet sammen med barnet, kan du få
+                  barnetrygd siden barnet da fortsatt regnes som bosatt
+                  i Norge. Barnet blir som hovedregel ikke lenger
+                  regnet som bosatt i Norge dersom det skal oppholde
+                  seg i utlandet i mer enn seks måneder, eller dersom
+                  det oppholder seg i utlandet i til sammen mer enn
+                  seks måneder per år i to eller flere år etter
+                  hverandre. Unntaket er hvis barnet og den/de barnet
+                  bor sammen med under oppholdet, er pliktige eller
+                  frivillige medlemmer i folketrygden. Mer om
+                  barnetrygd ved utenlandsopphold under Internasjonalt
+                  i høyremenyen.</p>
+    <section>
+      <p type="title" xml:lang="swe">Hva kan du få i barnetrygd?</p>
+    </section>
+    <p>Du kan få</p>
+    <list>
+      <p type="listitem">ordinær barnetrygd, som er et fast beløp per
+                    barn</p>
+      <p type="listitem">finnmarkstillegg, hvis du bor og oppholdet deg
+                    i Finnmark eller en av kommunene Karlsøy,
+                    Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy
+                    eller Storfjord i Nord-Troms</p>
+      <p type="listitem" xml:lang="dan">svalbardtillegg, hvis du er bosatt på
+                    Svalbard</p>
+      <p type="listitem" xml:lang="sma">utvidet barnetrygd</p>
+      <p type="listitem">småbarnstillegg, som er et tillegg til
+                    barnetrygden for enslige forsørgere som har barn
+                    mellom null og tre år, og som mottar utvidet
+                    barnetrygd og full overgangsstønad</p>
+    </list>
+    <section>
+      <p type="title" xml:lang="swe">Hvor lenge kan du få barnetrygd?</p>
+    </section>
+    <p>Du kan få barnetrygd fra måneden etter at barnet
+                  er født, eller fra måneden etter at vilkårene er
+                  oppfylt dersom retten til barnetrygd oppstår på et
+                  senere tidspunkt. Barnetrygden utbetales til og med
+                  måneden før barnet fyller 18 år.</p>
+    <p>Barnetrygden kan etterbetales for opptil tre år
+                  fra søknadstidspunktet dersom vilkårene har vært
+                  oppfylt.</p>
+    <section>
+      <p type="title" xml:lang="dan">Hvordan søker du om barnetrygd?</p>
+    </section>
+    <p>Du trenger som hovedregel ikke å søke om
+                  barnetrygd. Dersom barnet blir født i Norge, skal
+                  moren automatisk få vedtak fra NAV om utbetaling av
+                  barnetrygd om lag to måneder etter fødselen. Ønsker
+                  du utbetaling til far, må du gi beskjed om dette til
+                  NAV-kontoret ditt.</p>
+    <p xml:lang="nno">Dere må likevel søke om barnetrygd når:</p>
+    <list>
+      <p type="listitem">moren ikke er registrert som bosatt i
+                    Norge</p>
+      <p type="listitem">barnet er eldre enn seks måneder når retten til
+                    barnetrygd inntrer</p>
+      <p type="listitem">du kan ha rett til utvidet barnetrygd</p>
+      <p type="listitem">foreldrene skriftlig har avtalt delt bosted for
+                    barnet og ønsker delt utbetaling</p>
+      <p type="listitem">barnetrygden skal vurderes etter EØS-avtalens
+                    regler eller andre trygdeavtaler</p>
+    </list>
+    <p>Du søker ved å fylle ut søknadsblanketten ”
+                  
+                  Søknad om barnetrygd ” som du finner under Skjema
+                  i høyremenyen. Her finner du også informasjon om
+                  hvilke vedlegg / hvilken dokumentasjon du må legge
+                  ved søknaden.</p>
+    <p>Søknaden sender eller leverer du  til
+                  NAV-kontoret ditt.</p>
+    <p></p>
+    <section>
+      <p type="title">Satser</p>
+    </section>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="kal">Barnetrygd</p>
+    </section>
+    <p xml:lang="kal">
+                          Satser 
+                        </p>
+    <p>
+                          Beløp pr måned 
+                        </p>
+    <p xml:lang="kal">Ordinær sats pr barn: </p>
+    <p>970 kr. </p>
+    <p>Finnmarkstillegget pr barn: </p>
+    <p>320 kr. </p>
+    <p>Svalbardtillegget pr barn: </p>
+    <p>320 kr. </p>
+    <p xml:lang="dan">Småbarnstillegg til enslig
+                      forsørger: </p>
+    <p>660 kr. </p>
+    <p>Utvidet barnetrygd til enslig
+                      forsørger: </p>
+    <p>970 kr. </p>
+    <p>Barnetrygden er skattefri og
+                utbetales en gang per måned.</p>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="sma">Utbetalingsdatoer</p>
+    </section>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="kal">Barnetrygd</p>
+    </section>
+    <p>Datoene gjelder for 2010.</p>
+    <p xml:lang="sme">
+                          Jan 
+                        </p>
+    <p>
+                          Feb 
+                        </p>
+    <p xml:lang="sma">
+                          Mar 
+                        </p>
+    <p xml:lang="kal">
+                          Apr 
+                        </p>
+    <p xml:lang="sme">
+                          Mai 
+                        </p>
+    <p xml:lang="sme">
+                          Jun 
+                        </p>
+    <p xml:lang="isl">
+                          Jul 
+                        </p>
+    <p xml:lang="sma">
+                          Aug 
+                        </p>
+    <p>
+                          Sept 
+                        </p>
+    <p>
+                          Okt 
+                        </p>
+    <p xml:lang="sme">
+                          Nov 
+                        </p>
+    <p xml:lang="ger">
+                          Des 
+                        </p>
+    <p>29. </p>
+    <p>26. </p>
+    <p>31. </p>
+    <p>30. </p>
+    <p>31. </p>
+    <p>30. </p>
+    <p>30. </p>
+    <p>31. </p>
+    <p>30. </p>
+    <p>29. </p>
+    <p>30. </p>
+    <p>17. </p>
+    <section>
+      <p type="title">Målform/språk</p>
+    </section>
+    <list>
+      <p type="listitem" xml:lang="kal">
+                  Barnetrygd (Nynorsk)</p>
+      <p type="listitem" xml:lang="sme">
+                  Mánnáoadju (Samisk)</p>
+      <p type="listitem" xml:lang="swe">
+                  Child benefit (Engelsk)</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title">Skjema</p>
+    </section>
+    <list>
+      <p type="listitem" xml:lang="smj">Krav om barnetrygd ( 
+                  Bokmål | 
+                  Nynorsk | 
+                  English | 
+                  Sámegiella )</p>
+      <p type="listitem">Tilleggsblankett til krav om utbetaling av
+                  barnetrygd og/eller kontantstøtte på grunnlag av
+                  regler om eksport etter EØS-avtalen ( 
+                  Bokmål | 
+                  Nynorsk | 
+                  English )</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+    </section>
+    <list>
+      <p type="listitem">
+                  Sjekk dine rettigheter</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="nno">Spørsmål og svar</p>
+    </section>
+    <list>
+      <p type="listitem">
+                  Spørsmål og svar - barnetrygd</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title">Internasjonalt</p>
+    </section>
+    <list>
+      <p type="listitem">
+                  Barnetrygd under opphold i et annet EØS-land</p>
+      <p type="listitem">
+                  Barnetrygd under opphold utenfor EØS der det
+                  foreligger trygdeavtale</p>
+      <p type="listitem">
+                  Barnetrygd under opphold utenfor EØS der Norge ikke
+                  har trygdeavtale</p>
+      <p type="listitem">Barnetrygd
+                  og kontantstøtte - utenlandske arbeidstakere i
+                  Norge</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title" xml:lang="swe">Klagerettigheter</p>
+    </section>
+    <list>
+      <p type="listitem" xml:lang="isl">
+                  Slik klager du</p>
+    </list>
+    <p></p>
+    <section>
+      <p type="title">Regelverk</p>
+    </section>
+    <list>
+      <p type="listitem" xml:lang="sma">Hovednr 33 - Barnetrygdloven</p>
+    </list>
+    <p>
+                  // </p>
+    <p>Kontakt
+                  oss</p>
+    <p> // </p>
+    <p>
+                  Personvern og sikkerhet</p>
+    <p> // </p>
+    <p>
+                  Tilbakemelding nav.no</p>
+    <p> // </p>
+    <p xml:lang="nno">Tilgjengelighet</p>
+    <p xml:lang="nno">
+                  © 2010 Arbeids- og velferdsetaten
+                </p>
+    <p></p>
+  </body>
+</document>

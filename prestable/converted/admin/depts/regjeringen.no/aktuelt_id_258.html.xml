@@ -20,7 +20,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
   </header>
   <body>
     <section>
@@ -241,7 +241,7 @@
       <p type="title" xml:lang="ger">Ministermøte i Aberdeen</p>
     </section>
     <p>[01.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p xml:lang="nno">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         deltek fredag 1. oktober på ein
                         ministerkonferanse i Aberdeen. Her møtest
                         ministrar frå land rundt Nordsjøen for å drøfte
