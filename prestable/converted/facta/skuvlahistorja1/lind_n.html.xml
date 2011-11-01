@@ -19,16 +19,19 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="dan"/>
+    </multilingual>
     <origFileName>lind_n.htm</origFileName>
     <parallel_text location="lind_s.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
@@ -108,7 +111,7 @@
     <p>I 1714 opprettet kong Fredrik IV Misjonskollegiet i København, og
   ga det i oppdrag å begynne misjonsarbeid blant samene i Finnmark.
   Dette ble satt i gang under Thomas von Westens ledelse. I 1716
-  opprettet han <span type="quote" xml:lang="isl">"Seminarium Skolasticum"</span> i Trondheim, og det
+  opprettet han <span type="quote" xml:lang="sme">"Seminarium Skolasticum"</span> i Trondheim, og det
   ble senteret for skolearbeidet blant samene. Thomas von Westen reiste
   flere ganger omkring i samiske områder for å sette i gang skoler og
   få bygget kirker. Han gikk inn for å skaffe samene ABC-bok og andre
@@ -130,7 +133,7 @@
   undervise samene på norsk. Ikke alle fulgte dette påbudet. Noen
   fortsatte å følge von Westens linje.</p>
     <section>
-      <p type="title" xml:lang="isl">Lovfestet skolegang</p>
+      <p type="title" xml:lang="dan">Lovfestet skolegang</p>
     </section>
     <p>Da det i 1739 ble lovfestet skolegang for alle på landet i Norge,
   gjaldt det også samene, som etter loven fikk samme rett og plikt til
@@ -138,7 +141,7 @@
   konfirmasjonsskoler. Språklige og andre kulturelle forutsetninger har
   imidlertid helt opp til vår egen tid gjort det vanskelig for samene
   som minoritet å få samme utbytte av skolegangen som majoriteten. Nye
-  biskoper så problemet, og i 1752 ble <span type="quote" xml:lang="isl">"Seminarium
+  biskoper så problemet, og i 1752 ble <span type="quote" xml:lang="sme">"Seminarium
   Lapponicum"</span> opprettet i Trondheim. Det skulle utdanne
   samiskkyndige misjonærer og oversette bøker til samisk. Med tittel av
   professor ble Leem utnevnt til bestyrer av seminaret. Han ble der til
@@ -188,7 +191,7 @@
       1852 var han blant dem som ivret for strenge straffer.</em>
     </p>
     <section>
-      <p type="title" xml:lang="swe">Nils Vibe Stockfleth</p>
+      <p type="title" xml:lang="dan">Nils Vibe Stockfleth</p>
     </section>
     <p>I 1825 reiste presten Nils Vibe Stockfleth omkring i sine sogn
   Vardø, Vadsø, Nesseby og Lebesby med annekssognene Tana og
@@ -247,7 +250,7 @@
     <p>
       (Foto: Ola Røe / Beaivváš)</p>
     <section>
-      <p type="title" xml:lang="dan">J. A. Friis</p>
+      <p type="title">J. A. Friis</p>
     </section>
     <p>I 1848 rykket teologen J. A. Friis ut med en artikkel i
   Morgenbladet, der han fordømte myndighetenes fornorskningspolitikk.
@@ -390,7 +393,7 @@
   1951 omtalt som et viktig sentrum både for elever og foreldre - et
   fellesanliggende som mange sørsamer samlet seg om.</p>
     <section>
-      <p type="title" xml:lang="swe">Jens Otterbech</p>
+      <p type="title" xml:lang="sme">Jens Otterbech</p>
     </section>
     <p>Jens Otterbech ble født i Talvik i Finnmark i 1868, men vokste opp
   i Østfold. Etter teologisk embedseksamen avla han eksamen i samisk i
@@ -420,7 +423,7 @@
   skinn av vitenskapelig alibi.</p>
     <p>For å gjøre noe konkret med språksituasjonen foreslo Otterbech i
   1911 at Finnemisjonen måtte sette i gang en ungdomsskole i Karasjok.
-  I mange år var han redaktør av <span type="quote" xml:lang="isl">"Lappenes Venn"</span>, og i boken
+  I mange år var han redaktør av <span type="quote">"Lappenes Venn"</span>, og i boken
   <span type="quote">"Kulturverdier hos Norges finner"</span>, skrev han viktige ting
   om kirkens rolle blant samene. På et møte i Bergen i 1910 ble fire
   finnemisjonsforeninger slått sammen til Det norsk-lutherske
@@ -437,7 +440,7 @@
     <p>Ikke lenge etter at Finneforbundet var stiftet, imøtekom Norsk
   Finnemisjon alle de krav som tidligere var stilt. Etter lange
   forhandlinger ble de to selskapene slått sammen til Norges
-  Finnemisjonsselskap i 1925. De to bladene <span type="quote" xml:lang="isl">"Lappenes venn"</span>
+  Finnemisjonsselskap i 1925. De to bladene <span type="quote">"Lappenes venn"</span>
   og <span type="quote">"Norsk Finnemisjons Blad"</span> ble slått sammen til
   <span type="quote">"Samenes Venn"</span>. Finneforbundet hadde på forhånd gjort
   henvendelse til Norsk Finnemisjon om de ville gå inn for opprettelse
@@ -544,7 +547,7 @@
   når vi nå fremmer krav, så nekter dere å ta oss alvorlig, med den
   begrunnelse at vi ikke forstår vårt eget beste.</p>
     <section>
-      <p type="title" xml:lang="swe">Et pionerarbeid</p>
+      <p type="title">Et pionerarbeid</p>
     </section>
     <p>Den samiske ungdomsskolen sto for et pionerarbeid innen den
   samiske skolepolitiske sektor. Den tok opp arbeid innen felt som

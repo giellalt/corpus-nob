@@ -17,7 +17,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Stønad+til+barnetilsyn</origFileName>
     <parallel_text location="229491.html" xml:lang="sme"/>
     <parallel_text location="1073749106.html" xml:lang="nno"/>
@@ -25,7 +24,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -33,7 +32,7 @@
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Barnetilsyn</p>
+      <p type="title">Barnetilsyn</p>
     </section>
     <p>Stønad til barnetilsyn er en stønad
                 som skal hjelpe deg som er enslig mor eller far, med å
@@ -45,9 +44,9 @@
     </section>
     <p>Du må fylle visse vilkår for å ha rett til stønad
                   som enslig mor eller far.</p>
-    <p xml:lang="dan">Vilkårene er i hovedtrekk:</p>
+    <p>Vilkårene er i hovedtrekk:</p>
     <list>
-      <p type="listitem" xml:lang="dan">Du og barnet må ha bodd i Norge de tre siste
+      <p type="listitem">Du og barnet må ha bodd i Norge de tre siste
                     årene.</p>
       <p type="listitem">Du og barnet må oppholde dere i Norge.</p>
       <p type="listitem">Du må være ugift, skilt eller separert.</p>
@@ -119,7 +118,7 @@
     <p>Søknaden sender eller leverer du  til
                   NAV-kontoret ditt.</p>
     <section>
-      <p type="title" xml:lang="sma">Vedtak</p>
+      <p type="title">Vedtak</p>
     </section>
     <p>Du får først et varsel om saksbehandlingstiden.
                   Når saken er ferdigbehandlet, får du en skriftlig
@@ -141,13 +140,13 @@
                   høyremenyen.</p>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Satser</p>
+      <p type="title">Satser</p>
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Barnetilsyn</p>
+      <p type="title">Barnetilsyn</p>
     </section>
-    <p xml:lang="kal">
+    <p>
                           Antall barn 
                         </p>
     <p>
@@ -157,15 +156,15 @@
                           Kr pr. måned 
                         </p>
     <p>Maksimalt beløp for ett barn </p>
-    <p xml:lang="kal">39 888 kr. </p>
-    <p xml:lang="kal">3 324 kr. </p>
+    <p>39 888 kr. </p>
+    <p>3 324 kr. </p>
     <p>Maksimalt beløp for to barn </p>
-    <p xml:lang="kal">52 056 kr. </p>
-    <p xml:lang="kal">4 338 kr. </p>
+    <p>52 056 kr. </p>
+    <p>4 338 kr. </p>
     <p>Maksimalt beløp for tre eller flere
                       barn </p>
-    <p xml:lang="kal">58 980 kr. </p>
-    <p xml:lang="kal">4 915 kr. </p>
+    <p>58 980 kr. </p>
+    <p>4 915 kr. </p>
     <p>* Dette gjelder stønad til
                 barnetilsyn etter folketrygdloven § 15-11, og ikke
                 attføringsstønaden - stønad til barnetilsyn - etter
@@ -174,11 +173,11 @@
       <p type="title">Målform/språk</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="kal">
+      <p type="listitem">
                   Barnetilsyn (Nynorsk)</p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
                   Mánáidgeahččama doarjja (Samisk)</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
                   Child care benefit (Engelsk)</p>
     </list>
     <p></p>
@@ -195,7 +194,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+      <p type="title">Medlemskap i folketrygden</p>
     </section>
     <list>
       <p type="listitem">
@@ -210,7 +209,7 @@
                   Foreldrepenger ved fødsel</p>
       <p type="listitem">
                   Engangsstønad ved fødsel og adopsjon</p>
-      <p type="listitem" xml:lang="kal">Barnetrygd</p>
+      <p type="listitem">Barnetrygd</p>
       <p type="listitem">
                   Kontantstøtte til småbarnsforeldre</p>
     </list>
@@ -232,15 +231,15 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="isl">
+      <p type="listitem">
                   Slik klager du</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="isl">Regelverk</p>
+      <p type="title">Regelverk</p>
     </section>
     <list>
       <p type="listitem">Enslig mor eller far. Folketrygdloven
@@ -258,7 +257,7 @@
                   Tilbakemelding nav.no</p>
     <p> // </p>
     <p>Tilgjengelighet</p>
-    <p xml:lang="dan">
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

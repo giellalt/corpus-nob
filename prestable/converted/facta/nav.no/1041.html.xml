@@ -17,7 +17,10 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="eng"/>
+    </multilingual>
     <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Utdanningsstønad/1041.cms</origFileName>
     <parallel_text location="229541.html" xml:lang="sme"/>
     <parallel_text location="805345602.html" xml:lang="nno"/>
@@ -25,7 +28,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -82,7 +85,7 @@
     <p>Søknaden sender eller leverer du til NAV-kontoret
                   ditt.</p>
     <section>
-      <p type="title" xml:lang="sma">Vedtak</p>
+      <p type="title">Vedtak</p>
     </section>
     <p>Du får først et varsel om saksbehandlingstiden.
                   Når saken er ferdigbehandlet, får du en skriftlig
@@ -102,9 +105,9 @@
     <list>
       <p type="listitem">
                   Utdanningsstønad (Nynorsk)</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
                   Education benefit (Engelsk)</p>
-      <p type="listitem" xml:lang="smj">
+      <p type="listitem">
                   Oahppodoarjja (Samisk)</p>
     </list>
     <p></p>
@@ -121,7 +124,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+      <p type="title">Medlemskap i folketrygden</p>
     </section>
     <list>
       <p type="listitem">
@@ -136,7 +139,7 @@
                   Foreldrepenger ved fødsel</p>
       <p type="listitem">
                   Engangsstønad ved fødsel og adopsjon</p>
-      <p type="listitem" xml:lang="kal">Barnetrygd</p>
+      <p type="listitem" xml:lang="sme">Barnetrygd</p>
       <p type="listitem">
                   Kontantstøtte til småbarnsforeldre</p>
     </list>
@@ -158,15 +161,15 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="isl">
+      <p type="listitem">
                   Slik klager du</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="isl">Regelverk</p>
+      <p type="title">Regelverk</p>
     </section>
     <list>
       <p type="listitem">Forskrift om
@@ -184,7 +187,7 @@
                   Tilbakemelding nav.no</p>
     <p> // </p>
     <p>Tilgjengelighet</p>
-    <p xml:lang="dan">
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

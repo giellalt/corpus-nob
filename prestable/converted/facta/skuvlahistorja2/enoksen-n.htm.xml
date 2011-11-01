@@ -12,21 +12,20 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/enoksen-s.htm</origFileName>
     <parallel_text location="enoksen-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 2 . Davvi Girji
   2007.</p>
     <section>
-      <p type="title" xml:lang="isl">Ragnhild Enoksen:</p>
+      <p type="title">Ragnhild Enoksen:</p>
     </section>
     <section>
       <p type="title">Ufrivillige pionerer i Nordreisa</p>
@@ -40,8 +39,8 @@
     </p>
     <p>Ragnhild Enoksen har skrevet ei rekke artikler i
         forskjellige tidsskrifter, bl.a. Menneske og miljø i
-        Nord-Troms. Hun er også en av forfatterne bak boka <span type="quote">«Vår
-        folkedrakt»</span>, om sjøsamekofta i Loppa og Nord-Troms.</p>
+        Nord-Troms. Hun er også en av forfatterne bak boka «Vår
+        folkedrakt», om sjøsamekofta i Loppa og Nord-Troms.</p>
     <p>I denne artikkelen forteller hun om arbeidet hun sjøl var
         med på for å få i gang samiskundervisning i Nordreisa og
         intervjuer to tidligere elever om hvordan de ser på den
@@ -301,7 +300,7 @@
   grammatikken og lærerene sier jeg har god uttale, men jeg har dårlig
   ordforråd, sier han.</p>
     <section>
-      <p type="title" xml:lang="kal">Pionerer</p>
+      <p type="title">Pionerer</p>
     </section>
     <p>Viktor og Rolf Erling måtte være foregangsmenn, mer eller mindre
   ufrivillige pionerer etter ønske fra oss foreldre. Alle barn i Norge

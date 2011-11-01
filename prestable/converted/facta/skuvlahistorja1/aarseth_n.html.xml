@@ -19,7 +19,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>aarseth_n.htm</origFileName>
     <parallel_text location="aarseth_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,7 +30,7 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
@@ -111,7 +113,7 @@
   grensebygdene. <span type="quote">"Flyndreloftene"</span> i Nordland og Troms, der
   barna var innlosjert på kvisten over skolestua, var vel kjente langt
   opp i 1900-årene. Fiskekassen og potetsekken fulgte med barna til
-  <span type="quote" xml:lang="ger">"internatet"</span>. Hver familie måtte sjøl sørge for kosten, og
+  <span type="quote" xml:lang="sme">"internatet"</span>. Hver familie måtte sjøl sørge for kosten, og
   det var ansatt en kokkepike som sørget for å koke middag. De fleste
   internatene var kommunale, og også i Finnmark var det en del
   kommunale internater ute ved kysten. Det var det fattig-Norge hadde
@@ -177,7 +179,7 @@
   Finnmark bedre enn i Akershus fylke. I 1944 ble de fleste skoler og
   internater brent under tyskernes tilbaketrekning. Og så var det å
   begynne fra nullpunktet igjen, i brakker og i andre midlertidige
-  lokaler, eller i <span type="quote" xml:lang="nno">"gjenlevende"</span> og sterkt nedslitte og
+  lokaler, eller i <span type="quote">"gjenlevende"</span> og sterkt nedslitte og
   bombeskadde skolehus.</p>
     <p>Jeg begynte som internatlærer i 1949 i Karasjok, og var på en
   eller annen måte knyttet til internatelevene i de 22 år jeg var i
@@ -214,7 +216,7 @@
       guttene og et for jentene. Det kunne bli livlig på romma, men når
       husmor sto i døra, blei det stille.</em>
     </p>
-    <p xml:lang="smj">
+    <p>
       (Tegning av Inger Seierstad, fra Boahtte-áigge-bárdni ja
       Stuora-Ovllá)</p>
     <section>
@@ -226,7 +228,7 @@
   flere mindre rom på begge sider av korridoren. I enden av denne var
   det 2 større køyerom. I disse sov som regel to i hver køy, ofte
   søsken. Husmora hadde også et lite rom i denne etasjen. I første
-  etasje var det to <span type="quote" xml:lang="kal">"klasserom"</span>, nemlig peisestua og hallen
+  etasje var det to <span type="quote">"klasserom"</span>, nemlig peisestua og hallen
   foran resepsjonen. I kjelleren var det også to klasserom som neppe
   ville blitt godkjent som undervisningsrom i dag. I første etasje var
   det en lærerhybel og 2 rom for betjeningen. I betjeningsfløyen skulle
@@ -251,10 +253,10 @@
   streiket aggregatet. Men skolen og internatdriften måtte jo holdes i
   gang. Det ble fyrt kraftig i peisen i det ene klasserommet i
   peisestua. I de andre rommene tjente petromaksen både til belysning
-  og oppvarming. Disse gikk ofte <span type="quote" xml:lang="ger">"sur"</span> og måtte renses og
+  og oppvarming. Disse gikk ofte <span type="quote" xml:lang="sme">"sur"</span> og måtte renses og
   pumpes. Jeg kan huske at jeg flere ganger måtte opp om natta for å
   fylle parafin på petromaksene og pumpe dem opp. Jeg følte at jeg gikk
-  i <span type="quote" xml:lang="isl">"parafinrus"</span>.</p>
+  i <span type="quote" xml:lang="sme">"parafinrus"</span>.</p>
     <section>
       <p type="title">En sosialt hektisk, men også rik tid</p>
     </section>
@@ -293,7 +295,7 @@
   delta i arbeid hjemme. Sannsynligvis var denne arbeidsvirksomheten på
   internatet i strid med loven, men det visste vi ikke den gang.</p>
     <p>Fra Kautokeino husker jeg grove guttestemmer som om ettermiddagen
-  ropte: <span type="quote" xml:lang="smj">"Muorraviessui, muorraviessui!"</span> De store guttene var
+  ropte: <span type="quote" xml:lang="sme">"Muorraviessui, muorraviessui!"</span> De store guttene var
   inndelt i vedbærergjenger, og det var deres egne formenn som noe
   brutalt jaget sine underordnede til vedsjåen. Situasjonen var den at
   både kjøkkenkomfyren og ovnene i klasserommene, i sovesalene og i
@@ -309,7 +311,7 @@
     </section>
     <p>Den gang var gjestgiveriet i ytterkanten av bebyggelsen, med lett
   adgang til utmarka. Flyttsamebarna brukte sin fritid, ja til og med
-  friminuttene, til å <span type="quote" xml:lang="ger">"leke rein"</span> (bohccostallat). De agerte
+  friminuttene, til å <span type="quote">"leke rein"</span> (bohccostallat). De agerte
   reinflokker, flyttinger, kastet lasso osv. Også de fastboende barn
   som gikk vår og høst på skolen, brukte utmarka flittig til private
   aktiviteter. Da internatskolen flyttet ned til en inngjerdet
@@ -354,7 +356,7 @@
       <p type="title">Første barn på internatet - hvordan føltes det?</p>
     </section>
     <p>For et enebarn eller eldste barn i en søskenflokk må det ha vært
-  <span type="quote" xml:lang="swe">"harde bud"</span> å bli omplantet i internatmiljøet. Det gav seg
+  <span type="quote" xml:lang="sme">"harde bud"</span> å bli omplantet i internatmiljøet. Det gav seg
   sjelden dramatiske utslag, men det var tydelig at enkelte følte seg
   utrygge og forlatt. Som oftest fungerte en slektning av disse som en
   slags <span type="quote" xml:lang="sme">"bodyguard"</span>, en støttespiller. De fikk hjelp til å
@@ -434,7 +436,7 @@
   forbeholdt menn. Det viste seg snart at de ble like flinke som
   guttene i tresløyd. Etter innflytting i de nye skolelokalene, ble
   også skolebiblioteket og folkebiblioteket åpent for elevene om
-  kveldene. Det ble også holdt korte <span type="quote" xml:lang="isl">"kurs"</span> i å finne frem i
+  kveldene. Det ble også holdt korte <span type="quote">"kurs"</span> i å finne frem i
   biblioteksystemet.</p>
     <section>
       <p type="title">Internatet - et livlig sosialt miljø</p>
@@ -448,7 +450,7 @@
   av å ha så mange rundt oss til enhver tid, og trivdes nå bedre med de
   faglige sider av lærer- og styrergjerningen.</p>
     <section>
-      <p type="title" xml:lang="swe">Vaktmester</p>
+      <p type="title">Vaktmester</p>
     </section>
     <p>Som dere sikkert kjenner til finnes det flere typer av vaktmestre,
   bl.a. den som i likhet med Alexander Kiellands beskrivelse av de

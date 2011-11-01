@@ -18,16 +18,18 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="dan"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/300-n.htm</origFileName>
     <parallel_text location="300-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
@@ -43,7 +45,7 @@
         helt fra myndighetene først satte igang utdanning for samer og
         fram til i dag.</em>
     </p>
-    <p>Uttrykket <span type="quote" xml:lang="kal">«fornorsking»</span> har blitt brukt i flere forskjellige
+    <p>Uttrykket <span type="quote">«fornorsking»</span> har blitt brukt i flere forskjellige
         betydninger. Det har blitt brukt om opplæring av samer, kvener
         og andre minoriteter i norsk språk. Knapt noen kunne være mot
         fornorsking i denne betydninga. Men myndighetene ønska i
@@ -51,7 +53,7 @@
         og at andre språk ikke skulle brukes verken i skole, kirke
         eller offentlig liv. I denne boka er det først og fremst denne
         politikken for språkskifte som vi mener når vi bruker ordet
-        <span type="quote" xml:lang="kal">«fornorsking»</span>. Overfor samene innebar fornorskingsprosessen i
+        <span type="quote">«fornorsking»</span>. Overfor samene innebar fornorskingsprosessen i
         tillegg til det språklige også et sterkt press for å gå over
         til norsk kultur, klesdrakt, levemåte og næringsdrift.</p>
     <p>Det kan diskuteres hvor langt bakover i tida vi kan snakke
@@ -101,8 +103,8 @@
   kirkens tjenere blei det hele tida et spørsmål om det viktigste var å
   tjene Gud eller å tjene Kongen. Anton Hoëm har uttrykt det slik at de
   biskopene og prestene som prioriterte Gud ville gi samene evangeliet
-  på samisk, de som prioriterte Kongen ville gi det på dansk. [2] Denne motsetninga har gått igjen innafor kirke og skole
-  fram til vår tid.</p>
+  på samisk, de som prioriterte Kongen ville gi det på dansk. [2] Denne motsetninga har gått igjen innafor kirke og
+  skole fram til vår tid.</p>
     <p><em type="bold">
         Presten og sørsamene</em>
         (Tegning: Ingunn Utsi)</p>
@@ -130,7 +132,7 @@
   på hverandre, men sjølve breva ser dessverre ut til å ha blitt borte
   i bybrannen i København sist på 1700-tallet. De utdraga som er kjent
   er på ei blanding av dansk og latin. Krog skriver at han ikke tror på
-  <em type="italic"><span type="quote" xml:lang="swe">«de felice Finnorum Lapporumqve noviter instituta catechisatione
+  <em type="italic"><span type="quote">«de felice Finnorum Lapporumqve noviter instituta catechisatione
   prolytismo»</span></em> (den lykkelige omvendingen av lappene og finnene
   gjennom den nylig gjennomførte katekisering). [5]</p>
     <p>
@@ -184,27 +186,28 @@
   hadde lært sin kristendom på norsk. [7] Også flere
   prester og misjonærer hevda det samme, blant dem prost Hans Frugård i
   Alta, som sendte misjonskollegiet et forslag om at <span type="quote">«det finske
-  [8] Sprog mest muligt maatte blive kasseret»</span> [9] . For mange av misjonærene hang nok dette synet sammen
-  med at de ikke hadde klart å lære seg samisk, slik de i perioder
-  hadde vært pålagt. I første omgang vant de ikke fram. Biskop Johan
-  Ernst Gunnerus svarte i 1759 at samene nok burde lære norsk, men at
-  det <em type="italic"><span type="quote" xml:lang="dan">«var underligt at nøde dem til at lade sit Modersmaal ganske
-  fare, hvoraf de er saa store Elskere som nogen Nation i hele
+  [8] Sprog mest muligt maatte blive kasseret»</span>
+  [9] . For mange av misjonærene hang nok dette
+  synet sammen med at de ikke hadde klart å lære seg samisk, slik de i
+  perioder hadde vært pålagt. I første omgang vant de ikke fram. Biskop
+  Johan Ernst Gunnerus svarte i 1759 at samene nok burde lære norsk,
+  men at det <em type="italic"><span type="quote" xml:lang="dan">«var underligt at nøde dem til at lade sit Modersmaal
+  ganske fare, hvoraf de er saa store Elskere som nogen Nation i hele
   Verden»</span>.</em>[10]</p>
     <p>Men presset for å gå over til norsk fortsatte. Amtmann Christen
   Heiberg og prost Christopher Garmann foreslo at samene burde nektes å
-  gifte seg så lenge de ikke hadde lært norsk. [11] I
-  1774 blei bispesetet overtatt av dansken Markus Frederik Bang, som
+  gifte seg så lenge de ikke hadde lært norsk. [11]
+  I 1774 blei bispesetet overtatt av dansken Markus Frederik Bang, som
   var en uforsonlig motstander av samisk språk og uttalte at Gud ikke
   hører bønner på samisk. Han sørga for at Seminarium lapponicum blei
   nedlagt ved en kongelig resolusjon i 1774, der det heter: <em type="italic"><span type="quote">«...
   Seminarium lapponicum er opphevet, hvorimod det norske Sprog skal
   indføres blandt Lapperne, og de unge tilholdes at lære deres
-  Kristendom paa Norsk»</span></em> . [12] Bang gikk så hardt
-  inn for at all undervisning skulle være på norsk (dansk) at han refsa
-  prester og misjonærer som fortsatte å bruke samisk i sine menigheter
-  og innskjerpa at den kongelige <em type="italic"><span type="quote">«Befaling om at den finske Ungdom
-  tilholdes at lære deres Christendom paa norsk, vorder
+  Kristendom paa Norsk»</span></em> . [12] Bang gikk så
+  hardt inn for at all undervisning skulle være på norsk (dansk) at han
+  refsa prester og misjonærer som fortsatte å bruke samisk i sine
+  menigheter og innskjerpa at den kongelige <em type="italic"><span type="quote">«Befaling om at den
+  finske Ungdom tilholdes at lære deres Christendom paa norsk, vorder
   efterlevet»</span>.</em>[13]</p>
     <p>Hans etterfølger som biskop, Johan Christian Schønheyder, var like
   uforsonlig mot samisk språk. I en beretning han sendte kongen 18.
@@ -323,7 +326,7 @@
   Brygfjeld, og vi har også tatt med to av hans svar.</p>
     <p>Men samtidig som fornorskingspolitikken blei åpent forsvart av
   politikere og byråkrater, hadde denne også sine skjulte sider. Blant
-  dem var <span type="quote" xml:lang="sma">«Finnmarksnevnden»</span>, et organ som var så hemmelig at de
+  dem var <span type="quote">«Finnmarksnevnden»</span>, et organ som var så hemmelig at de
   færreste kjente til det, både i datida og ettertida. Den blei
   oppretta etter et initiativ som Forsvarsdepartementet kom med overfor
   Kirke- og undervisningsdepartementet i 1917. I Finnmarksnevnden satt
@@ -352,14 +355,14 @@
   oppfatninga at samisk kultur og språk var uten framtid og et hinder
   på vegen til velstand, trygghet, danning og deltaking i samfunnet.
   Det var dette samla presset som førte til at størstedelen av samene
-  <span type="quote" xml:lang="smj">«valgte»</span> å ikke føre samisk språk og kultur videre til framtidige
+  <span type="quote">«valgte»</span> å ikke føre samisk språk og kultur videre til framtidige
   generasjoner.</p>
     <p>Dokumentene i denne bolken går fram til tida rett før 2.
   verdenskrig. Men debatten fortsatte både under og etter krigen og er
   ennå ikke over i dag. Dokumentene fra seinere tid vil vi komme
   tilbake til i et seinere bind i serien.</p>
     <p>[1] De forskjellige kildene varierer mellom å
-  bruke <span type="quote" xml:lang="isl">«dansk»</span> og <span type="quote">«norsk»</span> om skolespråket. I virkeligheten var det på
+  bruke <span type="quote">«dansk»</span> og <span type="quote">«norsk»</span> om skolespråket. I virkeligheten var det på
   1700- og 1800-tallet bare snakk om dansk som skriftspråk. Fra
   1500-tallet var dansk enerådende skriftspråk i Norge fram til midten
   av 1800-tallet. I 1862 kom den første sjølstendige
@@ -370,7 +373,7 @@
   På 1700-tallet var en stor del av embetsverket og geistligheten i
   Norge dansk, og de brukte dansk også som muntlig språk. Det danske
   skriftspråket påvirka også i stor grad talemålet i overklassen, og
-  mange snakka det som blei kalt <span type="quote" xml:lang="sme">«klokkerdansk»</span>, dvs. de snakka som
+  mange snakka det som blei kalt <span type="quote">«klokkerdansk»</span>, dvs. de snakka som
   skriftspråket, men med norsk lydverk. Det vil si at det språket som
   samene blei utsatt for gjennom fornorsking i skole og kirke, var et
   ganske annet språk enn de dialektene den lokale norske allmuen
@@ -384,7 +387,7 @@
   Westen til i dag. 1955 s. 6[6]
   Instruks for Ole Frost, 10.06.1748, gjengitt etter Adolf Steen:
   Samenes kristning og Finnemisjonen til 1888. s. 241.[7] Gjengitt etter Adolf Steen: Samenes
-  kristning.. s. 243.[8] <span type="quote" xml:lang="isl">«Finsk»</span>
+  kristning.. s. 243.[8] <span type="quote">«Finsk»</span>
   betyr her samisk.[9] J. K.
   Qvigstad: Historisk oversikt over Oplysningsarbeidet blant Finnerne i
   Finmarken. 1907 s. 12[10] J.

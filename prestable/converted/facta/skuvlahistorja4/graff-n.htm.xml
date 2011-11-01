@@ -18,21 +18,23 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="dan"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/graff-n.htm</origFileName>
     <parallel_text location="graff-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="kal">Ola Graff:</p>
+      <p type="title">Ola Graff:</p>
     </section>
     <section>
       <p type="title">Måsøys indre kretser – et opposisjonelt område</p>
@@ -64,8 +66,8 @@
   Ryggefjord. I 1827 fantes det ingen lærere. Noen år på 1840-tallet
   hadde Måsøy en lærer. I folketellinga 1865 er det oppført ei
   lærerinne fra Tromsø, Maren Chr. Normann, som bodde i Gjesvær
-  [1] , men i de indre fjordstrøkene ingen. I 1874 var
-  det i Måsøy 8 skolekretser med to ansatte lærere.</p>
+  [1] , men i de indre fjordstrøkene ingen. I 1874
+  var det i Måsøy 8 skolekretser med to ansatte lærere.</p>
     <p>I visitasberetninga fra Måsøy 1897 får vi vite at de to indre
   kretsene, Snefjord og Lillefjord, hadde fått ei ukes tillegg i
   undervisningstida, slik at hver nå hadde 5 uker. Måsøy skolestyre
@@ -96,7 +98,7 @@
       Snefjord var det 10-12 timers gange over fjellet til skolehuset i
       Kobbefjorden.</em>
     </p>
-    <p xml:lang="eng">
+    <p>
       (Foto: Bernt Thomassen)</p>
     <section>
       <p type="title">Peder Matheussen – en lærer i et <span type="quote">«vanskelig»</span> distrikt</p>
@@ -151,7 +153,7 @@
         Finnefondet 1909</em>
         (Kilde: Statsarkivet i Tromsø)</p>
     <section>
-      <p type="title" xml:lang="ger">Grepet strammes</p>
+      <p type="title">Grepet strammes</p>
     </section>
     <p>I instruksen av 1880 blei det slått fast at alle samiske og
   kvenske barn skulle lære å lese, snakke og skrive norsk. Andre språk
@@ -200,7 +202,7 @@
   med reine ord ser at Matheussen nok ikke var så ivrig i fornorskninga
   som myndighetene ønsket.</p>
     <p>Til søknadene for 1893 og –94 kommenteres det at søkeren følger
-  instruksen, men at han har <span type="quote" xml:lang="dan">«store vanskeligheder»</span> i arbeidet, og at
+  instruksen, men at han har <span type="quote">«store vanskeligheder»</span> i arbeidet, og at
   det er <span type="quote">«et usedvanlig besværligt distrikt»</span>.</p>
     <p>I oversendelsen av søknaden for 1895 skriver Måsøy skolestyre at
   <span type="quote">«Lærer Matheussen følger sin instrux i al den udstrekning, som der
@@ -211,7 +213,7 @@
     <p>I 1898 kommenterer skolestyret at <span type="quote">«Hr. Matheussen arbeider under
   meget vanskelige forhold i et yderst vidstrakt og tungvindt
   finnedistrikt»</span>. Men de mener også at hans arbeid for fornorskninga
-  har <span type="quote" xml:lang="sme">«baaret ret god frugt»</span>.</p>
+  har <span type="quote">«baaret ret god frugt»</span>.</p>
     <p>I 1899 argumenterer skolestyret for at han bør få økt tilskudd.
   <span type="quote">«Hr. Matheussen følger sin instrux og er en meget dygtig lærer»</span>, og
   som til tross for at han hadde et stort distrikt med 12–14 mils
@@ -234,7 +236,7 @@
   vanskelige forholdene, men at læreren gjorde det beste han kunne ut
   fra forholdene.</p>
     <section>
-      <p type="title" xml:lang="kal">Visitasene</p>
+      <p type="title">Visitasene</p>
     </section>
     <p>Preste- og bispevisitasene var et middel for å kontrollere
   undervisninga. Her skulle lærerne møte med skolebarn for at prestene
@@ -344,7 +346,7 @@
     </section>
     <p>Det kan tenkes at også andre elementer har spilt inn. I 1887 kom
   predikanten Johan Wringsted (i muntlig tradisjon bare kalt
-  <span type="quote">«Vringstad»</span> eller <span type="quote" xml:lang="swe">«Frinstad»</span>) til sognet. Han var norsk, men snakket
+  <span type="quote">«Vringstad»</span> eller <span type="quote">«Frinstad»</span>) til sognet. Han var norsk, men snakket
   både norsk, samisk og finsk. Han dannet ei frimenighet som gikk ut av
   statskirka i 1888. Læra hans bredte seg raskt med Snefjord og Slåtten
   som kjerneområder, men også med tilhengere i bl.a. Lillefjord og
@@ -367,16 +369,15 @@
   sjølbevissthet. Den 9. april 1906 sendte befolkninga i Snefjorden inn
   et klageskriv rettet direkte til det norske Stortinget hvor det blei
   klaget på statskirketvangen og på språktvangen. Skrivet er ført i
-  penna av Wringsted og undertegnet av 36 personer [2]
-  . De skriver at <span type="quote">"der i stortinget er ytring om, at det lappiske
-  sprog ikke skal tilstedes i statens kirker og skoler, og at de
-  statskirkelige, som paa lappisk sprog vil have skoler og Guds ords
-  forkyndelse, skal selv betale sine lærere og ordets forkyndelse. Men
-  disse ytringer indeholder et modstrev mod stortingets tidligere
-  arbeide for religionsfrihed og oplysningens udvikling. Dernest er
-  disse ytringer i modsætning af tidens krav og det erfaringen har
-  vist"</span>. Det vises til at <span type="quote" xml:lang="swe">«Religionens frihed krænkes»</span> og
-  <span type="quote">«Kristendommens oplysning forringes»</span>.</p>
+  penna av Wringsted og undertegnet av 36 personer [2] . De skriver at <span type="quote">"der i stortinget er ytring om,
+  at det lappiske sprog ikke skal tilstedes i statens kirker og skoler,
+  og at de statskirkelige, som paa lappisk sprog vil have skoler og
+  Guds ords forkyndelse, skal selv betale sine lærere og ordets
+  forkyndelse. Men disse ytringer indeholder et modstrev mod
+  stortingets tidligere arbeide for religionsfrihed og oplysningens
+  udvikling. Dernest er disse ytringer i modsætning af tidens krav og
+  det erfaringen har vist"</span>. Det vises til at <span type="quote">«Religionens frihed
+  krænkes»</span> og <span type="quote">«Kristendommens oplysning forringes»</span>.</p>
     <p>Det fantes altså en høyst oppegående religiøs, politisk og
   kulturell opposisjon i Snefjord-området som viste til <span type="quote">«tidens krav»</span>
   og som uttrykte en klar samisk sjølfølelse. Det er ikke utenkelig at
@@ -385,8 +386,8 @@
   referert i Stortinget og oversendt regjeringa. Men jeg kan ikke se at
   samene noen gang fikk svar, bortsett fra at kanskje svaret blei
   internatutbygging.</p>
-    <p>Når skoledirektøren skriver at befolkninga var <span type="quote" xml:lang="isl">«vankundig»</span> synes
-  det ut fra det vi har sett, at de langt fra var <span type="quote" xml:lang="isl">«vankundig»</span>, men at
+    <p>Når skoledirektøren skriver at befolkninga var <span type="quote">«vankundig»</span> synes
+  det ut fra det vi har sett, at de langt fra var <span type="quote">«vankundig»</span>, men at
   det heller handlet om at befolkninga var kulturelt og språklig svært
   sjølbevisst og motsatte seg fornorskninga, og at dette var
   problematisk for myndighetene. De indre skolekretsene i Måsøy synes å
@@ -399,7 +400,7 @@
     <p>
       (Ukjent fotograf / Utlånt av Ola Graff)</p>
     <section>
-      <p type="title" xml:lang="ger">Internatliv</p>
+      <p type="title">Internatliv</p>
     </section>
     <p>Med internattilværelsen fulgte en ny livsstil for ungene. Det å
   bli innkvartert på internat blei ikke bare å lære de alminnelige

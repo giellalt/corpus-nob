@@ -12,16 +12,19 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="dan"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/forfall-n.htm</origFileName>
     <parallel_text location="forfall-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -97,7 +100,7 @@
     <p>Kirkedepartementet vurderte i 1898 Kvalsund kommune som en av de
   kommuner der det fortsatt var behov for å bruke samisk som
   hjelpespråk.</p>
-    <p xml:lang="isl">
+    <p>
       <em type="bold">Saraby skole 1908</em>
     </p>
     <p>
@@ -156,18 +159,18 @@
     <p>
       <em type="bold">Bryllupsbilde av Anders Larsen og kona Petra.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Tromsø museum)</p>
-    <p xml:lang="dan">
+    <p>
       <em type="bold">Skolebarn i Repparfjorden</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Anders Larsen / Tromsø museum)</p>
     <p>Anders Larsen var en aktiv forkjemper for samisk språk. Sammen med
   sine brødre grunnla han i 1903 det som har vært kalt den første
   samiske forening, med sikte på å gi ut avis på samisk. Det førte til
-  avisa <em type="italic">Sagai Muittalægje</em>[3] , som kom ut annen
-  hver uke i perioden 1904–11, hele tida med Anders Larsen som
+  avisa <em type="italic">Sagai Muittalægje</em>[3] , som kom ut
+  annen hver uke i perioden 1904–11, hele tida med Anders Larsen som
   redaktør. Vi kan i ettertida undre oss over hvordan han klarte dette
   ved sida av full jobb som lærer og med den tidas kommunikasjoner.
   Avisa uttrykte sitt syn på språkpolitikken i skolen slik: <em type="italic"><span type="quote">«Samene
@@ -227,13 +230,13 @@
   samepolitiske ytringer fra Larsen. I Trondenes var han lærer til han
   blei pensjonert i 1940 og der døde han i 1949.</p>
     <p>Like før han døde gjorde han ferdig den lille boka <em type="italic">Mærrasámiid
-  birra</em>[6] . Denne blei gitt ut året etter i norsk
-  oversetting av Just Knud Qvigstad, først i 1979 kom den ut på
+  birra</em>[6] . Denne blei gitt ut året etter i
+  norsk oversetting av Just Knud Qvigstad, først i 1979 kom den ut på
   originalspråket. I det Larsen her forteller fra sjøsamenes liv er det
   mye som bygger på det han så og hørte mens han var lærer i
   Kvalsund.</p>
     <section>
-      <p type="title" xml:lang="kal"><span type="quote" xml:lang="kal">«Norsk, men i smaa Kaar»</span></p>
+      <p type="title"><span type="quote">«Norsk, men i smaa Kaar»</span></p>
     </section>
     <p>Finnefondet blei ikke bare brukt til lønnstillegg til lærere.
   Kommuner kunne også søke støtte til internering, utviding av
@@ -348,7 +351,7 @@
   deltar i undervisning av disse barn...»</span>. Svaret fra Kvalsund
   skolestyre er: <em type="italic"><span type="quote">«I Kvalsund kommune mottar ingen (reine) lappebarn
   undervisning i kommunens folkeskoler.»</span></em> Med å legge inn et
-  <span type="quote" xml:lang="ger">«(reine)»</span>, som ikke var med i spørsmålet, klarer skolestyreformann
+  <span type="quote" xml:lang="sme">«(reine)»</span>, som ikke var med i spørsmålet, klarer skolestyreformann
   Julius Gamman her å omgå det faktum at en stor del av elevene i
   Kvalsund hadde samisk bakgrunn. På denne tida var her også fortsatt
   en god del samisktalende elever, i alle fall i Kokelv krets.</p>
@@ -362,7 +365,7 @@
       <em type="bold">Isak Leiros var lærer i Kvalsund i en mannsalder. Her er
       han avbilda sammen med kona Svanhild og dattera deres.</em>
     </p>
-    <p xml:lang="swe">
+    <p>
       (Foto: Robert Paine / Finnmarksbiblioteket)</p>
     <p>Befolkninga i Kvalsund blei under evakueringa spredt over hele
   landet og de elevene som fikk skolegang mens de var evakuerte, fikk
@@ -449,9 +452,9 @@
   likhet med de fleste mindre landkommuner i fylket hadde Kvalsund de
   siste årene før krigen et skolestell som nok var preget av mangler.
   Spredt bosetting, visse språkproblemer og svak økonomi var
-  hovedårsakene til disse manglene,...»</span></em>[11] (Vår
-  utheving. Red.) Hva språkproblemene gikk ut på er ikke forklart, og
-  den etniske sammensetninga av kommunen er ikke nevnt utover denne
+  hovedårsakene til disse manglene,...»</span></em>[11]
+  (Vår utheving. Red.) Hva språkproblemene gikk ut på er ikke forklart,
+  og den etniske sammensetninga av kommunen er ikke nevnt utover denne
   antydninga.</p>
     <p>Som de tidligere elevene her forteller, har det vært svært lite
   eller ingenting elever har lært om lokalhistorie. Noen av
@@ -538,16 +541,16 @@
   pasifister og er kjent for fredsarbeid og humanitært arbeid. Historia
   om fredsvennenes innsats er omtalt i boka Ulfsby, Inez Boon:  Tiden 1982 / Kvekerforlaget 2006. Det er
   også to artikler om fredsvennenes yrkesskole i Kvalsund lenger ut i
-  denne boka.[10] Svanvik ungdomsskole, seinere folkehøgskole,
-  var en fylkeskommunal skole, etterfølger av Finnmarkens Amtskole som
-  blei oppretta i 1876. Skolen holdt til på Svanvik i Pasvik i
-  Sør-Varanger fra 1936, men måtte på grunn av krigen innstille
-  virksomheten allerede i 1939 og kom ikke i gang igjen før tyskerne
-  brente skolen i 1944. Høsten 1945 starta skolen opp igjen i
-  brakkeleiren i Finnfjordbotn i Troms. Fra 1949 til 1964 holdt den hus
-  i Skaidi gjestgiveri i Kvalsund kommune. Først i 1974 var skolen
-  igjen på plass på Svanvik. I 2006 skifta skolen navn til Pasvik
-  folkehøgskole.[11] Meløy/Mathiesen/Olsen (red.):  Finnmark fylke 1972, s.
+  denne boka.[10] Svanvik ungdomsskole, seinere
+  folkehøgskole, var en fylkeskommunal skole, etterfølger av
+  Finnmarkens Amtskole som blei oppretta i 1876. Skolen holdt til på
+  Svanvik i Pasvik i Sør-Varanger fra 1936, men måtte på grunn av
+  krigen innstille virksomheten allerede i 1939 og kom ikke i gang
+  igjen før tyskerne brente skolen i 1944. Høsten 1945 starta skolen
+  opp igjen i brakkeleiren i Finnfjordbotn i Troms. Fra 1949 til 1964
+  holdt den hus i Skaidi gjestgiveri i Kvalsund kommune. Først i 1974
+  var skolen igjen på plass på Svanvik. I 2006 skifta skolen navn til
+  Pasvik folkehøgskole.[11] Meløy/Mathiesen/Olsen (red.):  Finnmark fylke 1972, s.
   90</p>
     <p>Flere artikler fra
   Samisk skolehistorie 3</p>

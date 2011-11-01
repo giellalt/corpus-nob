@@ -25,7 +25,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -77,7 +77,7 @@
     <p>Søknaden sender eller leverer du til
                   NAV-kontoret ditt.</p>
     <section>
-      <p type="title" xml:lang="sma">Vedtak</p>
+      <p type="title">Vedtak</p>
     </section>
     <p>Du får først et varsel om saksbehandlingstiden.
                   Når saken er ferdigbehandlet, får du en skriftlig
@@ -135,7 +135,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title">Spørsmål og svar</p>
+      <p type="title" xml:lang="nno">Spørsmål og svar</p>
     </section>
     <list>
       <p type="listitem">
@@ -159,7 +159,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="isl">Regelverk</p>
+      <p type="title">Regelverk</p>
     </section>
     <list>
       <p type="listitem">Enslig mor eller far. Folketrygdloven
@@ -176,8 +176,8 @@
     <p>
                   Tilbakemelding nav.no</p>
     <p> // </p>
-    <p>Tilgjengelighet</p>
-    <p xml:lang="dan">
+    <p xml:lang="nno">Tilgjengelighet</p>
+    <p xml:lang="nno">
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

@@ -17,7 +17,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://www.nav.no/Om+NAV/NAV/Klagerettigheter</origFileName>
     <parallel_text location="Klagerettigheter.html" xml:lang="sme"/>
     <parallel_text location="805382789.html" xml:lang="nno"/>
@@ -25,15 +24,15 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <p>Dersom du får helt eller delvis
                 avslag på søknaden din, kan du klage til NAV.</p>
@@ -54,7 +53,7 @@
                   behandling hos NAV Klageinstans som vil overprøve
                   saken i sin helhet.</p>
     <section>
-      <p type="title" xml:lang="dan">Klagefrister</p>
+      <p type="title">Klagefrister</p>
     </section>
     <p>Klagefristene varierer avhengig av hva slags sak
                   du ønsker å påklage. Klagefristen skal fremgå av
@@ -96,12 +95,12 @@
                   saker etter følgende lover/ordninger ankes inn for
                   Trygderetten:</p>
     <list>
-      <p type="listitem" xml:lang="sma">Lov om barnetrygd</p>
+      <p type="listitem">Lov om barnetrygd</p>
       <p type="listitem">Lov om samordning av pensjons- og
                     trygdeytelser</p>
       <p type="listitem">Bestemmelser om supplerende pensjonsordninger i
                     medhold av lov eller vedtak fra Stortinget</p>
-      <p type="listitem" xml:lang="swe">Yrkesskadeloven</p>
+      <p type="listitem">Yrkesskadeloven</p>
       <p type="listitem">Kommunale pensjonsordninger</p>
       <p type="listitem">Avtalefestet pensjon for arbeidstakere mellom
                     64 og 67 år</p>
@@ -118,7 +117,7 @@
                   utgifter til advokat. Krav om saksomkostninger sender
                   du til NAV-kontoret ditt.</p>
     <section>
-      <p type="title" xml:lang="swe">Sivilombudsmannen</p>
+      <p type="title">Sivilombudsmannen</p>
     </section>
     <p>Hvis du ikke er fornøyd med utfallet av saken din
                   eller selve saksbehandlingen i NAV, kan du klage til
@@ -149,7 +148,7 @@
     <list>
       <p type="listitem">
                   Klagerettar (Nynorsk)</p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
                   Váidinvuoigatvuođat (Samisk)</p>
       <p type="listitem">
                   Appeals (Engelsk)</p>
@@ -159,13 +158,13 @@
       <p type="title">Skjema</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="sme">Klage/anke ( 
+      <p type="listitem">Klage/anke ( 
                   Bokmål | 
                   Nynorsk )</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="isl">Regelverk</p>
+      <p type="title">Regelverk</p>
     </section>
     <list>
       <p type="listitem">Folketrygdloven § 21-12</p>
@@ -184,7 +183,7 @@
                   Tilbakemelding nav.no</p>
     <p> // </p>
     <p>Tilgjengelighet</p>
-    <p xml:lang="dan">
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

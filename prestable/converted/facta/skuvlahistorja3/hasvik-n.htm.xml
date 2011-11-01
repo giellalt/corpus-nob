@@ -15,16 +15,19 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="dan"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/hasvik-n.htm</origFileName>
     <parallel_text location="hasvik-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -55,14 +58,14 @@
   fast norsk bosetting sist på 1200-tallet eller tidlig på
   1300-tallet.</p>
     <p>Niels Knags matrikkel av 1694 forteller at det da <em type="italic"><span type="quote">«Udj Søer
-  Wehr Sogn er Nordmend 53, finner 34»</span></em>[1] . Sognet
-  omfatta da omtrent nåværende Hasvik og Alta kommuner, og trolig bodde
-  de aller fleste nordmennene på Sørøya, mens de fleste samene bodde
-  innover Altafjorden. Hovedkirka blei i 1696 flytta til Hasvåg og i
-  1705 til Talvik. På 1720-tallet blei Hasvik skilt ut fra Alta og
-  gjort til anneks under Loppa. Thomas von Westen omtaler presten
-  Alexander Larssøn Vigand i Sørvær sogn som en av dem som særlig ihuga
-  arbeida for kristendommen blant samene.</p>
+  Wehr Sogn er Nordmend 53, finner 34»</span></em>[1] .
+  Sognet omfatta da omtrent nåværende Hasvik og Alta kommuner, og
+  trolig bodde de aller fleste nordmennene på Sørøya, mens de fleste
+  samene bodde innover Altafjorden. Hovedkirka blei i 1696 flytta til
+  Hasvåg og i 1705 til Talvik. På 1720-tallet blei Hasvik skilt ut fra
+  Alta og gjort til anneks under Loppa. Thomas von Westen omtaler
+  presten Alexander Larssøn Vigand i Sørvær sogn som en av dem som
+  særlig ihuga arbeida for kristendommen blant samene.</p>
     <p>I Vest-Finnmark misjonsdistrikt var det tre skolemestre for
   samene, <em type="italic"><span type="quote">«en i Kvalsund, en i Korsnes, en for fjellsamene i
   Alta»</span></em>[2] . Vi har ikke funnet konkrete
@@ -100,7 +103,7 @@
     <p>I 1861 utga professor Jens Andreas Friis etnografiske kart over
   Finnmark, Troms og Ofoten. [5] Disse viste at i
   Hasvik var nesten halvparten av familiene samiske. I 1878 er tallet
-  på samer i Hasvik kommune oppgitt til 201, mens 100 var av <span type="quote" xml:lang="swe">«blandet
+  på samer i Hasvik kommune oppgitt til 201, mens 100 var av <span type="quote">«blandet
   nationalitet»</span>. [6] Ved ei undersøking som
   skoledirektøren gjennomførte i 1899 brukte halvparten av familiene i
   Hasvik norsk som hjemmespråk, resten fordelte seg noenlunde likt
@@ -148,7 +151,7 @@
   for nettopp på denne tida skjedde det ei endring i myndighetenes
   skolepolitikk overfor samene. Man bestemte seg for å starte ei
   planmessig fornorsking, først i de såkalte
-  <span type="quote" xml:lang="swe">"overgangsdistriktene"</span>, som bl.a. omfatta kretsene
+  <span type="quote">"overgangsdistriktene"</span>, som bl.a. omfatta kretsene
   Alta–Talvik, Hammerfest, Loppa og Hasvik. På 1850-tallet bestemte
   myndighetene seg for å starte ei planmessig fornorsking av skolene i
   Finnmark. Det første området som fikk status som overgangsdistrikt
@@ -179,9 +182,9 @@
   Børnenes Oplærelse i Norsk, ligesom han i enhver Henseende er dygtig
   og paapasselig i sin Skolegjerning.»</span></em></p>
     <p>I 1880 sendte stiftsdireksjonen i Tromsø ut en ny og strengere
-  instruks [9] for språkbruk i kretser med samiske og
-  kvenske elever. I den forbindelse ba skoledirektøren skolestyrene i
-  hver kommune om å gjøre greie for hvordan de kunne gjennomføre
+  instruks [9] for språkbruk i kretser med samiske
+  og kvenske elever. I den forbindelse ba skoledirektøren skolestyrene
+  i hver kommune om å gjøre greie for hvordan de kunne gjennomføre
   instruksen. Blant annet var det snakk om at i noen kretser kunne man
   fortsatt få bruke samisk som undervisningsspråk ut skolegangen for de
   elever som da instruksen kom var over 12 år. I svaret fra Hasvik
@@ -242,7 +245,7 @@
     <section>
       <p type="title"><span type="quote">«Uvilje mod det norske Sprog»</span></p>
     </section>
-    <p>Trass i stadige rapporter om <span type="quote" xml:lang="kal">«fremgang»</span>, lot den samiske
+    <p>Trass i stadige rapporter om <span type="quote">«fremgang»</span>, lot den samiske
   befolkninga i Hasvik seg ikke fornorske sånn uten videre. Derimot
   forteller flere av søknadene til Finnefondet om motstand mot
   fornorskinga. I 1890 skriver lærer Kristen Bruflodt i
@@ -251,7 +254,7 @@
   norske sprog, og som følge deraf alltid taler lappisk hjemme; dels
   hindres den ogsaa ved skoleforsømmelser.»</span></em></p>
     <p>I mange år etter dette skriver Bruflodt stadig om denne
-  <span type="quote" xml:lang="swe">«vedvarende uvilje»</span> eller <span type="quote" xml:lang="sme">«seige uvilje»</span>, fram til han i 1900 skriver
+  <span type="quote">«vedvarende uvilje»</span> eller <span type="quote" xml:lang="sme">«seige uvilje»</span>, fram til han i 1900 skriver
   at <em type="italic"><span type="quote">«foreldrene har heller ikke vist saa stor uvilje mod det norske
   sprog som tidligere»</span></em> .</p>
     <p>For å få støtte av Finnefondet var det ikke nok med egenerklæring
@@ -308,7 +311,7 @@
   Hoslagt fremkommer Andragende om Lønstillæg af Finnefondet
   fra</em></p>
     <list>
-      <p type="listitem" xml:lang="isl">Lærer K. Bruflodt</p>
+      <p type="listitem">Lærer K. Bruflodt</p>
       <p type="listitem">" K. Møgster</p>
       <p type="listitem">" A. Jox</p>
     </list>
@@ -352,8 +355,8 @@
   status i samfunnet. Lærerne, som tidligere også var
   klokkere/kirkesangere, hørte til de litt finere i lokalsamfunnet. De
   kom oftest utafra og hadde ofte offentlige verv i kommunene.</p>
-    <p><em type="italic">"fuld
-  Ferdighed i det norske Sprog’ ved siden av sitt morsmål.»</em>[11]</p>
+    <p><em type="italic">"fuld Ferdighed i det norske Sprog’ ved siden av sitt
+  morsmål.»</em>[11]</p>
     <p>Først skolte han et par år i Øyfjord/Galten skolekrets, som da
   måtte være omgangsskoler, da disse områdene ikke fikk skolebygg før
   seinere. Her var mesteparten av elevene samisktalende. I 1872 blei
@@ -384,25 +387,24 @@
     <p>Fra 1875 til 1884 hadde Hasvik kommune også en annen samisktalende
   lærer, Ole M. Thomassen fra Lyngen. Han skreiv seinere ned en
   beskrivelse av sjøsamenes liv og skikker, som først blei utgitt i
-  1999 under tittelen <em type="italic">Lappenes forhold</em> . [13]
-  Her viser han bl.a. til hva han har observert hos samene i
-  Hasvik.</p>
+  1999 under tittelen <em type="italic">Lappenes forhold</em> . [13] Her viser han bl.a. til hva han har observert hos
+  samene i Hasvik.</p>
     <section>
       <p type="title"><span type="quote">«Ikke behøvelig med samisk»</span></p>
     </section>
     <p>Språkskiftet fra samisk til norsk på Sørøya starta i noen områder
   allerede på slutten av 1800-tallet. Reidar Nielsen forteller i boka
-  <em type="italic">Folk uten fortid</em>[14] om far sin, som var født
-  i 1887, at han vokste opp med samisktalende foreldre, men sjøl lærte
-  han bare norsk. <span type="quote">«Det var ikke behøvelig med samisk»</span>, forklarte faren
-  sjøl seinere. Besteforeldrenes argument for språkvalget var i første
-  rekke at skolen var bare på norsk og læreren kunne ikke samisk. Denne
-  familien bodde i Børrfjorden og skolen var i Galten helt ytterst i
-  fjorden. Her var det sterk språkblanding og alle kunne nok allerede
-  mer eller mindre norsk. I fjordene på innsida var det derimot
-  <span type="quote" xml:lang="dan">«behøvelig»</span> med samisk lenge ennå. Her snakka de aller fleste samisk
-  og barn født før andre verdenskrig vokste stort sett opp med samisk
-  som morsmål.</p>
+  <em type="italic">Folk uten fortid</em>[14] om far sin, som var
+  født i 1887, at han vokste opp med samisktalende foreldre, men sjøl
+  lærte han bare norsk. <span type="quote">«Det var ikke behøvelig med samisk»</span>, forklarte
+  faren sjøl seinere. Besteforeldrenes argument for språkvalget var i
+  første rekke at skolen var bare på norsk og læreren kunne ikke
+  samisk. Denne familien bodde i Børrfjorden og skolen var i Galten
+  helt ytterst i fjorden. Her var det sterk språkblanding og alle kunne
+  nok allerede mer eller mindre norsk. I fjordene på innsida var det
+  derimot <span type="quote" xml:lang="dan">«behøvelig»</span> med samisk lenge ennå. Her snakka de aller fleste
+  samisk og barn født før andre verdenskrig vokste stort sett opp med
+  samisk som morsmål.</p>
     <p>Av dem som vokste opp på Sørøya etter krigen er det derimot svært
   få som har samisk som morsmål. Noen få snakka samisk som barn, men
   gikk helt over til norsk da de begynte på internatskolen. Sjøl om en
@@ -417,7 +419,7 @@
     <p><em type="bold">Dønnesfjord nybygde internat 1918</em>
         (Foto: Bernt Thomassen / Ulf Jacobsens fotosamling)</p>
     <section>
-      <p type="title" xml:lang="swe">Internattida</p>
+      <p type="title" xml:lang="sme">Internattida</p>
     </section>
     <p>De eldste internata i Hasvik kommune var trolig i Galten og
   Breivikbotn, der det skal ha vært skoler med internatloft fra
@@ -510,14 +512,14 @@
       <p type="title">Krig og gjenreising</p>
     </section>
     <p>Midt under krigen, i 1943, blei det gjort ei undersøking om
-  <span type="quote" xml:lang="kal">«lappiske barn»</span> i kommunene i Finnmark. [15] Der var
-  det svart fra Hasvik: <em type="italic"><span type="quote">«Fem lappiske barn. Dønnesfjord skolekrets.
-  Det kan opplyses at foreldra til barna er fastboende. Faren til 4 av
-  dem ernærer seg av fiske og faren til den 5. av reinsdyrhold.»</span></em> Vi
-  kan trygt si at tallet på samiske elever som her blir oppgitt er alt
-  for lavt. Det var langt flere samiske elever i Dønnesfjord skolekrets
-  og også samiske elever i de fleste av de andre kretsene i
-  kommunen.</p>
+  <span type="quote">«lappiske barn»</span> i kommunene i Finnmark. [15] Der
+  var det svart fra Hasvik: <em type="italic"><span type="quote">«Fem lappiske barn. Dønnesfjord
+  skolekrets. Det kan opplyses at foreldra til barna er fastboende.
+  Faren til 4 av dem ernærer seg av fiske og faren til den 5. av
+  reinsdyrhold.»</span></em> Vi kan trygt si at tallet på samiske elever som
+  her blir oppgitt er alt for lavt. Det var langt flere samiske elever
+  i Dønnesfjord skolekrets og også samiske elever i de fleste av de
+  andre kretsene i kommunen.</p>
     <p>Som mange andre steder i Finnmark blei skolegangen under krigen
   periodevis hindra av at tyskerne tok skolene i bruk for sine
   soldater. I Hasvik kommune var det ganske mange som var medlemmer av
@@ -547,16 +549,16 @@
   det godt. Alle brakker, de fleste to etasjes, er for sig gjort. Der
   er til og med perk(?) på gulvet i enkelte brakker. Der er elektrisk
   lys og sentraloppvarming i alle brakker. I leiren har vi doktor,
-  tannlege, sykesøster, både ...(?) og dampbad.»</span></em>[16] Alle har likevel ikke vært like fornøyde med forholda,
-  og vi kjenner til at i alle fall en familie fra Hasvik henta barna
-  tilbake fra leiren, sjøl om de ikke hadde andre skoletilbud. Dette
-  blei ikke nådig tatt opp av skoledirektør Lyder Aarseth, som
-  09.03.1946 skriver brev til faren: <em type="italic"><span type="quote">«Jeg har mottatt melding om at
-  De har hentet Deres barn tilbake fra skoleleiren ved Finnfjord.
-  Likeså er jeg kjent med Deres kritikk i bladet Nordlys, over
-  forholdene i leiren. I anledning kritikken er der inngitt anmeldelse
-  på Dem, så det vil bli gjort opp for retten. Skoleleiren ved
-  Finnfjord er så bra som vi nå kan få den, og det har kostet store
+  tannlege, sykesøster, både ...(?) og dampbad.»</span></em>[16] Alle har likevel ikke vært like fornøyde med
+  forholda, og vi kjenner til at i alle fall en familie fra Hasvik
+  henta barna tilbake fra leiren, sjøl om de ikke hadde andre
+  skoletilbud. Dette blei ikke nådig tatt opp av skoledirektør Lyder
+  Aarseth, som 09.03.1946 skriver brev til faren: <em type="italic"><span type="quote">«Jeg har mottatt
+  melding om at De har hentet Deres barn tilbake fra skoleleiren ved
+  Finnfjord. Likeså er jeg kjent med Deres kritikk i bladet Nordlys,
+  over forholdene i leiren. I anledning kritikken er der inngitt
+  anmeldelse på Dem, så det vil bli gjort opp for retten. Skoleleiren
+  ved Finnfjord er så bra som vi nå kan få den, og det har kostet store
   beløp og betydelige anstrengelser å få den igang og holde den gående.
   ... De som er så kravstore at de ikke vil ha sine barn der må sjøl på
   annen måte sørge for at Deres barn får den opplæring som skoleloven
@@ -609,7 +611,7 @@
     <p>Sjøl om ingen ting er å finne om det i bevarte papirer, forteller
   folk som gikk på skolen i etterkrigstida at også da blei enkelte
   samiske elever erta og plaga av medelever og lærere fordi de var
-  <span type="quote" xml:lang="kal">«fjellfinner»</span>.</p>
+  <span type="quote">«fjellfinner»</span>.</p>
     <p>På 1950- og 60-tallet var her en samisk lærer ved navn Gunnar
   Lille, han kom opprinnelig fra Tana. Det fortelles at han da han
   møtte en ny klasse spurte hvem av elevene som hadde samisk bakgrunn.
@@ -644,7 +646,7 @@
     1924</p>
       <p type="listitem">Husby, Eva Danielsen: <em type="italic">Etter krigen. Hasvik kommune etter
     1945.</em> Hasvik historielag 1988</p>
-      <p type="listitem" xml:lang="dan">Jensen, Georg / Jacobsen, Ulf: <em type="italic">Ytterst mot havet. Hasvik
+      <p type="listitem">Jensen, Georg / Jacobsen, Ulf: <em type="italic">Ytterst mot havet. Hasvik
     sokn gjennom 600 år.</em> Brøytebil..! 2005</p>
       <p type="listitem">Johansen, Gyda: <em type="italic">Glimt fra internatlivet på Sørøya
     1934-72,</em> Øyfolk 1996</p>
@@ -657,7 +659,7 @@
       <p type="listitem">Utne og Solberg (red.): <em type="italic">Finnmark omkring 1700. Aktstykker og
     oversikter.</em> Etnografisk museum 1938</p>
       <p type="listitem">Statsarkiva i Tromsø og Trondheim.</p>
-      <p type="listitem">Hasvik kommunes skolearkiv.</p>
+      <p type="listitem" xml:lang="sme">Hasvik kommunes skolearkiv.</p>
       <p type="listitem">Samtaler med nåværende og tidligere elever og lærere i
     Hasvik.</p>
     </list>

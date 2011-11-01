@@ -18,21 +18,23 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/hansragnar-n.htm</origFileName>
     <parallel_text location="hansragnar-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="swe">Hans Ragnar Mathisen:</p>
+      <p type="title">Hans Ragnar Mathisen:</p>
     </section>
     <section>
       <p type="title">Skolepasient</p>
@@ -81,13 +83,14 @@
   Istedet for åpen himmel, så jeg gammel gråmaling, og istedet for trær
   og kvister så jeg sprekkene i veggen. Jeg kommer fra en liten
   samebygd ved Deanuvuotna [1] som heter Deanodat
-  [2] . Deanodatvuotna fikk senere navnet <span type="quote" xml:lang="sme">«Morašvuotna»</span>
-  [3] fordi så mange fra denne sjøsamebygda ble
-  angrepet av tuberkulose under og etter krigen. Min bestefar
-  Máhte-Ánde samt alle mine tre onkler, Nils-Ante, Apmut og Samuel døde
-  en etter en. Det var kvinnene i familien som klarte seg best: tante
-  Anna Kathrine og min mor Eline Bendikke og så áhkku [4] Helene Mathisen født Samuelsen, som uvitende var den som
-  brakte smitten inn i hjemmet.</p>
+  [2] . Deanodatvuotna fikk senere navnet
+  <span type="quote" xml:lang="sme">«Morašvuotna»</span> [3] fordi så mange fra denne
+  sjøsamebygda ble angrepet av tuberkulose under og etter krigen. Min
+  bestefar Máhte-Ánde samt alle mine tre onkler, Nils-Ante, Apmut og
+  Samuel døde en etter en. Det var kvinnene i familien som klarte seg
+  best: tante Anna Kathrine og min mor Eline Bendikke og så áhkku
+  [4] Helene Mathisen født Samuelsen, som uvitende
+  var den som brakte smitten inn i hjemmet.</p>
     <p>Jeg ble som ettåring smittet og sendt først til sykestua i Deatnu
   og deretter til Kysthospitalet på Tromsø, eller Kysten som var det
   vanligste navnet.</p>
@@ -96,8 +99,8 @@
   liggende her lenge og vente. Vi var bundet fast til sengene med
   tilsynelatende evige bånd og å komme løs ved egen hjelp var
   uoppnåelig, da knutene var under sengene. Medisinene fantes nok, men
-  ble brukt ytterst sjeldent [5] . Her fikk jeg altså
-  mine første skoleår, på et sykehus.</p>
+  ble brukt ytterst sjeldent [5] . Her fikk jeg
+  altså mine første skoleår, på et sykehus.</p>
     <p>Den boka jeg hadde fått av en snill dame var jeg veldig glad i og
   stolt over [6] . Det var noe annet enn de tomme
   medisineskene eller tømte parfymeglassene som jeg ellers fikk å leke
@@ -107,7 +110,7 @@
   lese høyt for meg fra boka bemerket de at det var skrevet på et språk
   ingen av dem forsto, samisk. Der var også norsk tekst, men jeg var
   mest opptatt av bildene. Men de andre i salen hadde vel lenge hatt
-  mistanke om at jeg var hva de kalte <span type="quote" xml:lang="kal">«finnunge»</span>. Med mitt svarte hår
+  mistanke om at jeg var hva de kalte <span type="quote">«finnunge»</span>. Med mitt svarte hår
   og mine mørke øyne var jeg nok ikke til å ta feil av, og i og med
   denne boka var saken blitt aldeles klar: jeg måtte terges. Grunnen
   forsto jeg aldri, men jeg gjemte boka godt under hodeputa og tittet
@@ -169,7 +172,7 @@
   da kom en av sykesøstrene, den strenge, og jeg fikk skjenn i stedet.
   Og da frøken endelig kom var jeg altfor sjenert til engang å si noe
   når jeg ble spurt, selv om jeg visste rett svar.</p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold"><span type="quote" xml:lang="sme">"Gávcci jagi"</span> (Åtte år)</em>
     </p>
     <p>
@@ -189,13 +192,13 @@
   ikke å lære. Han var forresten veldig flink i norsk også, særlig
   diktat, husker jeg. Jeg så opp til ham for dette. Idag er han lektor
   ved Karasjok gymnas.</p>
-    <p>En periode var det mange fra Ivgu [7] , og vi ble
-  gode kamerater. De hadde dessuten så fin klang i dialekten, syntes
-  jeg, varm og vakker. De var nok ikke så syke som jeg, de guttene.
-  Iallfall dristigere, for de lurte seg ofte til å gå ut av sengene om
-  kveldene når sykesøstrene hadde gått. Dessuten hadde de ikke
-  sprinkler foran sengene slik som jeg.</p>
-    <p>Slike kvelder hadde vi <span type="quote" xml:lang="swe">«olympiade»</span> og <span type="quote" xml:lang="ger">«verdensmesterskap»</span> på
+    <p>En periode var det mange fra Ivgu [7] , og vi
+  ble gode kamerater. De hadde dessuten så fin klang i dialekten,
+  syntes jeg, varm og vakker. De var nok ikke så syke som jeg, de
+  guttene. Iallfall dristigere, for de lurte seg ofte til å gå ut av
+  sengene om kveldene når sykesøstrene hadde gått. Dessuten hadde de
+  ikke sprinkler foran sengene slik som jeg.</p>
+    <p>Slike kvelder hadde vi <span type="quote">«olympiade»</span> og <span type="quote">«verdensmesterskap»</span> på
   barnesalen. Midt på gulvet sto det store mørkerøde skrivebordet og
   oppå det var det kjempestore akvariet. Det var rundt her at guttene
   sprang og holdt seg fast i svingene, mens en av dem tok tiden. For
@@ -204,13 +207,13 @@
   disse heltene veldig, og det var nok ikke fritt for at jeg for min
   del misunte dem også. Tenk, de kunne gå, de kunne springe rundt på
   gulvet! De var like store som sportsheltene i radioen og ukebladene!
-  Bjørn het han, fra Vuošvággi [8] som holdt best greie
-  på resultatene. Han er idag journalist i en Tromsø-avis.</p>
+  Bjørn het han, fra Vuošvággi [8] som holdt best
+  greie på resultatene. Han er idag journalist i en Tromsø-avis.</p>
     <p>
       <em type="bold">Ivar, Greta, Marit og Hugo på barneverandaen på
       Kysthospitalet i Tromsø 1955</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: A. Solberg)</p>
     <p>På skolen var det alltid noe å lære, enten vi ville eller ikke.
   Lenket til sengene måtte vi allikevel lære de samme nyttige og
@@ -302,10 +305,10 @@
   la spesielt merke til at fargene skiftet etter årstidene og ba om å
   få det forklart. Det som var en selvfølge for andre barn, var en gåte
   for meg. Når lengselen etter å se mer av livet ble for sterk, maste
-  jeg på sykesøstrene, <span type="quote" xml:lang="dan">«Bær mæ! Bær mæ!»</span> men de hadde kanskje forbud.
+  jeg på sykesøstrene, <span type="quote" xml:lang="sme">«Bær mæ! Bær mæ!»</span> men de hadde kanskje forbud.
   Så enhver tilfeldig besøkende eller ansatt ba jeg om å bære meg opp
   av senga. Denne senga som hadde sprinkler på alle fire sider var som
-  et hvitmalt fengsel. <span type="quote" xml:lang="isl">«Bær mæ, du! Tel vinduet!»</span></p>
+  et hvitmalt fengsel. <span type="quote">«Bær mæ, du! Tel vinduet!»</span></p>
     <p>
       <em type="bold">Overlatt til fantasien ...</em>
     </p>

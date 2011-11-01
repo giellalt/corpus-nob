@@ -16,16 +16,18 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/ellentg-n.htm</origFileName>
     <parallel_text location="ellentg-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -33,7 +35,7 @@
       <p type="title" xml:lang="sme">Ellen Turi Guttormsen:</p>
     </section>
     <section>
-      <p type="title" xml:lang="sme">40 år på skolen i Máze</p>
+      <p type="title">40 år på skolen i Máze</p>
     </section>
     <section>
       <p type="title">Fortalt til Svein Lund</p>
@@ -111,7 +113,7 @@
   søkere til 30 plasser. Så gikk jeg igjen et år på folkehøgskole,
   denne gang i Hurdal i Akershus. Og så søkte jeg lærerskolen igjen.
   Jeg kom ikke inn nå heller, men ga ikke opp. Jeg arbeida et år på
-  butikken i Máze, så gikk jeg 2 måneders <span type="quote" xml:lang="isl">«puggekurs»</span> på Øytun
+  butikken i Máze, så gikk jeg 2 måneders <span type="quote">«puggekurs»</span> på Øytun
   folkehøgskole. Da kom jeg endelig inn på lærerskolen i Tromsø. Der
   gikk jeg da i 1954–59. Jeg måtte gå andre året to ganger.</p>
     <p>Det var den gang i prinsippet vedtatt å starte opp igjen med
@@ -190,7 +192,7 @@
   i naturen. Elevene samla sopp og andre planter og så lærte de hvordan
   de kunne bruke disse. Skolen hadde båt og garn og elevene var også
   med og fiska med not.</p>
-    <p>Da jeg starta var undervisninga i faga <span type="quote" xml:lang="ger">«håndarbeid»</span> og <span type="quote">«sløyd»</span>
+    <p>Da jeg starta var undervisninga i faga <span type="quote" xml:lang="sme">«håndarbeid»</span> og <span type="quote">«sløyd»</span>
   bare etter den vanlige norske normalplanen, på samme måte som alle
   andre steder i Norge. Nå er det <span type="quote" xml:lang="sme">«sámi duodji»</span> som er det viktigste
   her. Når skolen tar hele året og varer i 10 år, så har ikke lenger

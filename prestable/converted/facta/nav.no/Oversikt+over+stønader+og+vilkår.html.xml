@@ -17,7 +17,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Oversikt+over+stønader+og+vilkår</origFileName>
     <parallel_text location="235402.html" xml:lang="sme"/>
     <parallel_text location="805345243.html" xml:lang="nno"/>
@@ -25,7 +24,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -87,10 +86,10 @@
       <p type="title">Hvordan søker du?</p>
     </section>
     <p>Du må søke om stønad til enslig mor/far. Du søker
-                  på blanketten <span type="quote">" 
+                  på blanketten " 
                   Søknad om overgangsstønad, stønad til barnetilsyn,
                   utdanningsstønad og flytteutgifter til enslig
-                  mor/far "</span> som du finner under Skjema og
+                  mor/far " som du finner under Skjema og
                   vedlegg i høyremenyen. Her finner du også 
                   informasjon om. hvilke vedlegg / dokumentasjon du må
                   legge ved søknaden.</p>
@@ -115,12 +114,12 @@
                   Stønad til einsleg mor/far (Nynorsk)</p>
       <p type="listitem">
                   Benefit for single mother/father (Engelsk)</p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
                   Doarjja ovttaskas eadnái/áhččái (Samisk)</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Skjema og vedlegg</p>
+      <p type="title">Skjema og vedlegg</p>
     </section>
     <list>
       <p type="listitem">
@@ -128,7 +127,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+      <p type="title">Medlemskap i folketrygden</p>
     </section>
     <list>
       <p type="listitem">
@@ -143,7 +142,7 @@
                   Engangsstønad ved fødsel og adopsjon</p>
       <p type="listitem">
                   Foreldrepenger ved fødsel</p>
-      <p type="listitem" xml:lang="kal">Barnetrygd</p>
+      <p type="listitem">Barnetrygd</p>
       <p type="listitem">
                   Kontantstøtte til småbarnsforeldre</p>
     </list>
@@ -157,15 +156,15 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="isl">
+      <p type="listitem">
                   Slik klager du</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="isl">Regelverk</p>
+      <p type="title">Regelverk</p>
     </section>
     <list>
       <p type="listitem">Enslig mor eller far. Folketrygdloven
@@ -183,7 +182,7 @@
                   Tilbakemelding nav.no</p>
     <p> // </p>
     <p>Tilgjengelighet</p>
-    <p xml:lang="dan">
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>
