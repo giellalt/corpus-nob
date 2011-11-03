@@ -22,7 +22,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/seidajok-n.htm</origFileName>
     <parallel_text location="seidajok-s.htm" xml:lang="sme"/>
     <metadata>
@@ -31,12 +30,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="swe">Siri Broch Johansen:</p>
+      <p type="title">Siri Broch Johansen:</p>
     </section>
     <section>
       <p type="title">Seidajok – et godt tilbud som ble nedlagt</p>
@@ -58,7 +57,7 @@
   Men det var en i mange år, helt fra 1961 til juli 2005.</em>
     </p>
     <section>
-      <p type="title" xml:lang="sme"><span type="quote" xml:lang="sme">"Miljžskadde gutter"</span></p>
+      <p type="title">"Miljžskadde gutter"</p>
     </section>
     <p>Den fžrste ble opprettet på Langnes i Tanamunningen. Finnmark
   fylke opprettet institusjonen for ”miljžskadde gutter” i 1961. Den
@@ -80,7 +79,7 @@
   ble omdžpt til Seidajok barnepsykiatriske behandlingshjem, og skolen
   som var der for barna ved institusjonen, ble džpt Seidajok skole.</p>
     <section>
-      <p type="title" xml:lang="nno">Omflakkende liv</p>
+      <p type="title">Omflakkende liv</p>
     </section>
     <p>Seidajok skole levde et omflakkende liv. Fra å vŽre i kjelleren
   til rektor Hans Eriksen og lŽrer Randi Tennefoss, til å vŽre i den
@@ -128,7 +127,7 @@
         arbeidsplass. Nå er hun pensjonert. Hun bor i Holmesund, en mil
         sžr for Tana bru.</em>
     </p>
-    <p xml:lang="swe">(Foto: Marit Broch Johansen)</p>
+    <p>(Foto: Marit Broch Johansen)</p>
     <p>– Seidajok skole lå i en bra bygning som var tilpasset de elevene
   den skulle romme, slik at alt skulle vŽre lagt til rette for at de
   kunne lŽre. Det var et godt lŽrested for barna. Jeg så hvor god hjelp
@@ -140,7 +139,7 @@
   barnet, og han hadde lŽrt mye selv også. Det viser hvor viktig
   Seidajok har vŽrt. Seidajok var til hjelp for både barnet, foreldrene
   og hjemstedsskolen.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">– Hvordan var hverdagen på skolen?</em>
     </p>
     <p>– Om morgenen hadde vi fellessamling. Da var vi sammen, det var
@@ -313,7 +312,7 @@
   bestemt omfang på arbeidet, men de žkte gradvis arbeidsmengden og
   lengden på skoletimene. Til slutt ble det naturlig at man klarte å
   sitte en hel skoletime.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">– Barna på Seidajok skulle hjem igjen en gang...?</em>
     </p>
     <p>– Da jeg dro tilbake til Karasjok pržvde de å ordne en lŽrer til

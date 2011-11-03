@@ -19,7 +19,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>somby_n.htm</origFileName>
     <parallel_text location="somby_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,12 +30,12 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
     <section>
-      <p type="title" xml:lang="swe">Niillas A. Somby:</p>
+      <p type="title">Niillas A. Somby:</p>
     </section>
     <section>
       <p type="title">Vonde og gode skoleminner</p>
@@ -142,7 +144,7 @@
   meg og frøken Andersen på kirkegården når dere blir store. Vi har
   planta to furuer på det stedet der de skal begrave oss når vi
   dør"</span>, sa frøken Bakke siste gangen jeg var på den skolen.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Klassebilde fraVestertana skole</em>
     </p>
     <p>

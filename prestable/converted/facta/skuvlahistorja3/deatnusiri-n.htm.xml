@@ -16,7 +16,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/deatnusiri-n.htm</origFileName>
     <parallel_text location="deatnusiri-s.htm" xml:lang="sme"/>
     <metadata>
@@ -25,12 +24,12 @@
     <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2008.</p>
     <section>
-      <p type="title" xml:lang="swe">Siri Broch Johansen:</p>
+      <p type="title">Siri Broch Johansen:</p>
     </section>
     <section>
       <p type="title">I Tana tar sameforeningene ansvar</p>
@@ -70,10 +69,10 @@
   finsk side av grensa, eller de går i barnehage ved Tana bru.
   De første barnehagene i Tana startet opp i 1979. De var i Polmak, som
   er noen mil sør for Tana bru, nært finskegrensa, og i Austertana.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">Fra Diddi barnehage</em>
     </p>
-    <p xml:lang="sme">
+    <p>
       (Foto: Diddi mánáidgárdi)</p>
     <p>Deatnogátte mánáidgárdi (Deatnogátte mánáidgárdi hadde bare
   samisk navn. Dette betyr Tanabreddens barnehage på norsk) var
@@ -96,7 +95,7 @@
       <p type="title">Anne Lise Varsi Solbakk: Pedagogisk leder i flere samiske
   barnehager</p>
     </section>
-    <p xml:lang="sme"><em type="bold">Anne Lise Varsi Solbakk sammen med barnehagebarn på Siida
+    <p><em type="bold">Anne Lise Varsi Solbakk sammen med barnehagebarn på Siida
         museum i Enare.</em>
         (Foto: Diddi mánáidgárdi)</p>
     <p>
@@ -208,10 +207,10 @@
   butikken, hvis det er en samisktalende medarbeider der, så går jeg
   for å snakke med vedkommende. Da erfarer barna at språket er
   levende.</p>
-    <p xml:lang="swe">
+    <p>
       <em type="bold">Barnehagen har sin egen potetåker</em>
     </p>
-    <p xml:lang="sme">(Foto: Diddi mánáidgárdi)</p>
+    <p>(Foto: Diddi mánáidgárdi)</p>
     <section>
       <p type="title">Språket er i framgang</p>
     </section>
@@ -228,7 +227,7 @@
     <section>
       <p type="title">Britt Guttorm Gaup: Flere tiår i arbeid for barn og språk</p>
     </section>
-    <p xml:lang="sme"><em type="bold">Britt Guttorm Gaup og barna i Diddi barnehage banker
+    <p><em type="bold">Britt Guttorm Gaup og barna i Diddi barnehage banker
         sennegras.</em>
         (Foto: Diddi mánáidgárdi)</p>
     <p>
@@ -245,7 +244,7 @@
         Tana, både de private og de kommunale. Nå er Britt leder for
         skolefritidsordninga ved Deanu sámeskuvla.</p>
     <section>
-      <p type="title" xml:lang="sme">Deatnogátte mánáidgárdi</p>
+      <p type="title">Deatnogátte mánáidgárdi</p>
     </section>
     <p>– Deatnogátte mánáidgárdi startet opp på høsten i 1979. Det var
   den første samiske barnehagen i Tana. Jeg begynte der som daglig
@@ -345,7 +344,7 @@
     <p>– Og dette skjedde samtidig som læreplanbråket i Tana pågikk for
   fullt?
   – Jeg begynte i denne jobben det året det var så store overskrifter
-  fra Tana med <span type="quote">«Nei til Sameland»</span> og den læreplansaken. Det var som om
+  fra Tana med «Nei til Sameland» og den læreplansaken. Det var som om
   samiskheten hadde tatt slutt her i kommunesenteret. Men det virket
   som om dette bråket vakte mange, folk begynte å snakke om dette rundt
   kafebordene, jeg oppdaget at arbeidet mitt virkelig var til stor
@@ -395,7 +394,7 @@
     <section>
       <p type="title">Viktor Trosten: Politiker, eierrepresentant og forelder</p>
     </section>
-    <p xml:lang="dan"><em type="bold">Fedre og barn i barnehagen. Viktor Trosten til
+    <p><em type="bold">Fedre og barn i barnehagen. Viktor Trosten til
         venstre.</em>
         (Foto: Diddi mánáidgárdi)</p>
     <p>
@@ -414,7 +413,7 @@
       kulturelle arv overfor storsamfunnet .)</em>
     </p>
     <section>
-      <p type="title" xml:lang="sme">Diddi mánáidgárdi</p>
+      <p type="title">Diddi mánáidgárdi</p>
     </section>
     <p>– Diddi mánáidgárdi startet opp i 1987. Vi ville se om det var
   mulig å bedre barnas samisk. Diddi har alltid vært for liten, det har
@@ -428,7 +427,7 @@
   samiskspråklig miljø fordi Diddi sjøl har kunnet velge hvilke barn
   som får begynne der. Fordi det alltid har vært flere søkere enn
   plasser, og fordi Diddi er privat, har den hatt anledning til å
-  <span type="quote">«skumme fløten»</span> i barnegruppa. Det har aldri vært mer enn to barn om
+  «skumme fløten» i barnegruppa. Det har aldri vært mer enn to barn om
   gangen der som ikke behersker samisk godt. Og så må man være
   hard!</p>
     <p>– På hvilken måte må man være hard?</p>

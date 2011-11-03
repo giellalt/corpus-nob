@@ -22,7 +22,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/emma-n.htm</origFileName>
     <parallel_text location="emma-s.htm" xml:lang="sme"/>
     <metadata>
@@ -31,7 +30,7 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
@@ -55,12 +54,12 @@
         sine skoleår på Fjordtun internat i Rypefjord på Kvaløya. Ingen
         av dem fikk mer enn sju års skole, og de har levd av jordbruk
         og fiske.</p>
-    <p xml:lang="eng">(Foto: Basia Głowacka)</p>
+    <p>(Foto: Basia Głowacka)</p>
     <p>Halvannen kilometer utover Eidvågen fra huset til Emma og Fredrik,
   på et sted som kalles Jansgammen, er det ei gammel skoletomt, som
   ennå kan sees. Dit blei det flytta et skolebygg som tidligere var på
   Komagnes på innersida av Seiland. Årsaka til at skolen blei flytta
-  var at tidligere <span type="quote" xml:lang="swe">«Hammerfest landsogn»</span> blei delt i 1869, da Kvalsund
+  var at tidligere «Hammerfest landsogn» blei delt i 1869, da Kvalsund
   blei egen kommune. Av fire skoler falt tre innafor grensene av
   Kvalsund kommune og for balansens skyld blei derfor Komagnes skole
   flytta noen kilometer, så den kom på Hammerfest-sida av grensa. Men
@@ -88,7 +87,7 @@
     <p>
       (Foto: Svein Lund)</p>
     <section>
-      <p type="title" xml:lang="swe">3 etasjes internat</p>
+      <p type="title">3 etasjes internat</p>
     </section>
     <p>– Vi bodde langt inne i Jøfjorden, forteller Emma. Der hadde vi
   kyr, sauer og geiter. Mor var oppvokst der, ho og besteforeldra mine
@@ -99,7 +98,7 @@
   Tverrfjord og Skreifjord der snakka ikke ungene samisk dengang i min
   barndom, sjøl om de fleste hadde samisktalende foreldre. Og der i
   Kårhamn var det bare norsk.</p>
-    <p xml:lang="dan">– Det er ikke så mye å fortelle fra skolen. Der hadde vi det
+    <p>– Det er ikke så mye å fortelle fra skolen. Der hadde vi det
   ganske bra. Vi var noen og tjue unger på internatet. I tillegg kom
   barna som var fra Kårhamn, de hadde jo bare dagskole, de dro hjem
   hver dag.</p>
@@ -114,7 +113,7 @@
   klasse var på skolen, så var 3. og 4. klassingene hjemme. På de ukene
   kom vi ikke hjem, men var på skolen hele tida. På storskolen var vi
   seks eller åtte uker på skolen av gangen.</p>
-    <p xml:lang="swe">
+    <p>
       <em type="bold">Kårhamn skole ca. 1925</em>
     </p>
     <p>

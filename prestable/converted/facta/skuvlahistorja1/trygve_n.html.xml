@@ -23,7 +23,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>trygve_n.htm</origFileName>
     <parallel_text location="trygve_s.html" xml:lang="sme"/>
     <metadata>
@@ -32,12 +34,12 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
     <section>
-      <p type="title" xml:lang="swe">Trygve Madsen:</p>
+      <p type="title" xml:lang="sme">Trygve Madsen:</p>
     </section>
     <section>
       <p type="title">Om sameskolen i Norge</p>
@@ -118,7 +120,7 @@
   det at skoletida var så kort.</p>
     <p>
       <em type="bold">Faksimile av starten på artikkelen, slik han sto i
-        læreboka <span type="quote" xml:lang="smj">"Giellamet"</span></em>
+        læreboka <span type="quote">"Giellamet"</span></em>
     </p>
     <p>- Var det her (slik som det har vært i Sverige) slike kateketer,
   lærere som fulgte med flyttsamene, når de flytta?
