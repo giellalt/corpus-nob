@@ -18,7 +18,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/mimmi-n.htm</origFileName>
     <parallel_text location="mimmi-s.htm" xml:lang="sme"/>
     <metadata>
@@ -27,7 +26,7 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
@@ -68,7 +67,7 @@
   vi skulle skaffe maten i fra. Jeg hørte aldri at familien min så på
   seg sjøl som fattige.</p>
     <section>
-      <p type="title" xml:lang="dan">Bestemors skole</p>
+      <p type="title">Bestemors skole</p>
     </section>
     <p>– Bestemor la aldri skjul på at hun var same. Sjøl kunne hun bare
   samisk da hun i 1906 begynte på en skole der alt foregikk på norsk.
@@ -99,7 +98,7 @@
     <p>
       (Foto: Fotograf Einan, Hammerfest, utlånt av Mimmi Bæivi)</p>
     <section>
-      <p type="title" xml:lang="ger">Den lange skolestreiken</p>
+      <p type="title">Den lange skolestreiken</p>
     </section>
     <p>Fjordtun internat i Rypefjord var et av de store statsinternatene
   som blei reist på begynnelsen av 1900-tallet for å fornorske samer og
@@ -176,10 +175,10 @@
   Men det var ikke populært hos internatstyreren, de fikk visst kjeft
   for å ta seg for godt av oss.</p>
     <section>
-      <p type="title" xml:lang="nno">Lang skoleveg</p>
+      <p type="title">Lang skoleveg</p>
     </section>
     <p>– Da jeg gikk på skole var det verken ferge eller veg1. De første
-  åra blei vi sendt med skyssbåten <span type="quote" xml:lang="ger">«Streif»</span>, en gammel treg båt som
+  åra blei vi sendt med skyssbåten «Streif», en gammel treg båt som
   rulla noe forferdelig når det blåste, og det gjorde det jo gjerne.
   Skipperen var aleine mannskap om bord og opptil 30 unger blei stengt
   inne nede i rommet. Der måtte vi ta vare på oss sjøl og hverandre, de
@@ -195,7 +194,7 @@
   derfor ligge ut på fjorden mens foreldra rodde ut for å ta imot eller
   levere ungene. Når det var turskifte på skolen leverte og henta båten
   unger samtidig, slik at ettersom noen gikk av kom nye på og båten var
-  omtrent like full hele tida. Noen hadde så dårlig med <span type="quote" xml:lang="isl">«skoleklær»</span> at
+  omtrent like full hele tida. Noen hadde så dårlig med «skoleklær» at
   det hendte at søsken som gikk forskjellige skoleturer bytta jakke med
   hverandre når de gikk av og på skyssbåten.</p>
     <p>Seinere blei det slutt på skyssbåten og vi ungene måtte på egen
@@ -225,7 +224,7 @@
   elevene: Foreldrene hadde ingenting å bidra med, kunnskapen deres var
   ingenting verdt.</p>
     <section>
-      <p type="title" xml:lang="sma">Elever stengt inne i skapet</p>
+      <p type="title">Elever stengt inne i skapet</p>
     </section>
     <p>– Før jeg skulle begynne på skolen, fikk jeg høre: – Du må lære å
   lese og skrive før du kommer på skolen – for du får frøken Anderssen.
@@ -246,7 +245,7 @@
   skoledagen var over, måtte de følge henne hjem igjen.</p>
     <p>Alle visste at Anna Anderssen var same fra Tana, men det var noe
   det ikke skulle snakkes høyt om. En gang var det noen som hadde
-  omtalt henne som <span type="quote" xml:lang="kal">«finn»</span>. Det tok hun opp i klassen og da ramsa hun
+  omtalt henne som «finn». Det tok hun opp i klassen og da ramsa hun
   opp hvor mange i klassen som hadde samisk bakgrunn. Men hun la bare
   vekt på fedrenes bakgrunn. Om meg sa hun at Mimmi er ikke same, for
   far hennes kom fra Andøya. Da protesterte de andre ungene, de kjente
@@ -256,12 +255,12 @@
   få, de blei regna som stakkarslige, og særlig gikk det utover elever
   med samisk bakgrunn. Det var ingen tvil om at for Anna var det det
   norske som hadde status.</p>
-    <p xml:lang="ger">
+    <p>
       <em type="bold">Anna Anderssen, 1971.</em>
     </p>
     <p>
       (Foto utlånt av Ragnhild Sandøy.</p>
-    <p xml:lang="nno">Vi hadde ganske stabile lærere, bare 3 klassestyrere på 9 år. I
+    <p>Vi hadde ganske stabile lærere, bare 3 klassestyrere på 9 år. I
   ungdomsskolen fikk jeg Asbjørn Anderssen som klassestyrer, han var
   sønn av Pavel Anderssen, bror til Anna.</p>
     <p>Da jeg begynte i ungdomsskolen i 1963 hørte jeg til andre kullet
@@ -355,7 +354,7 @@
     <p>
       (Foto: Svein Lund)</p>
     <p>Få år etter at Daltun skole var starta arrangerte skolen ei
-  temauke om <span type="quote">«Seiland på våre oldeforeldres tid»</span>. Det var et veldig
+  temauke om «Seiland på våre oldeforeldres tid». Det var et veldig
   engasjement blant folk for å bidra til dette. Alle leita fram gamle
   ting og fortalte fra gamle dager. Da dette skulle presenteres på
   grendehuset var det stappfullt av folk. Ikke bare foreldre og
@@ -408,7 +407,7 @@
     <p>
       <em type="bold">Mimmi Bæivi viser fram Seilandskofta si.</em>
     </p>
-    <p xml:lang="eng">
+    <p>
       (Foto: Basia Głowacka)</p>
     <section>
       <p type="title">Egen kofte</p>
@@ -442,7 +441,7 @@
   med å bli borte. Barna har ikke samme kontakt med sjøen som før. Det
   var skremmende å se at i et fiskevær som Berlevåg hadde ungene ikke
   vært i båt og ikke gått på kaia.</p>
-    <p xml:lang="dan">Nå har Mimmi og Anton sjøl blitt besteforeldre, så langt har de 5
+    <p>Nå har Mimmi og Anton sjøl blitt besteforeldre, så langt har de 5
   barnebarn, og de eldste har allerede begynt på skolen.</p>
     <p>– Jeg vil gjerne være med å lære dem det jeg sjøl lærte som barn,
   i fjæra og ellers i naturen. Mimmi har også engasjert seg for at

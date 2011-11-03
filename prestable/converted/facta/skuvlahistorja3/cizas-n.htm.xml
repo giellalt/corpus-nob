@@ -12,7 +12,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/cizas-n.htm</origFileName>
     <parallel_text location="cizas-s.htm" xml:lang="sme"/>
     <metadata>
@@ -21,12 +20,12 @@
     <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
     <section>
-      <p type="title" xml:lang="isl">Solveig Oskal:</p>
+      <p type="title">Solveig Oskal:</p>
     </section>
     <section>
       <p type="title">Cizáš – samisk barnehage i Oslo</p>
@@ -34,7 +33,7 @@
     <p>
       <em type="bold">Solveig Kristine Oskal</em>
     </p>
-    <p xml:lang="swe">
+    <p>
         (Foto: Tom Finbraaten)
 
         </p>
@@ -213,7 +212,7 @@
     <p>Samtidig er det viktig å understreke at nesten alle som gikk ved
   samisk barnehage, valgte samiskundervisning ved skolestart. Dette må
   understrekes som en positiv effekt av å ha en samisk barnehage.</p>
-    <p xml:lang="nno"><em type="bold">Inga Charlotte Oskal Finbraaten feirer 6-årsdagen sin i
+    <p><em type="bold">Inga Charlotte Oskal Finbraaten feirer 6-årsdagen sin i
         barnehagen</em>
         (Foto: Solveig Oskal)</p>
     <section>

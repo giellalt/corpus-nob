@@ -18,7 +18,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/algu4-n.htm</origFileName>
     <parallel_text location="algu4-s.htm" xml:lang="sme"/>
     <metadata>
@@ -27,12 +26,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
-    <p xml:lang="sme">Artikkel i boka Sámi
+    <p>Sámegillii</p>
+    <p>Artikkel i boka Sámi
   skuvlahistorjá 3 . Davvi Girji
   2009.</p>
     <section>
-      <p type="title" xml:lang="kal">Innledning:</p>
+      <p type="title">Innledning:</p>
     </section>
     <section>
       <p type="title">Fra fornorsking til revitalisering</p>
@@ -142,7 +141,7 @@
   om foreldre i Kautokeino som nekta å sende bort psykisk
   utviklingshemma unger og i bind 3 om at samtlige foreldre i
   Spansdalen i Lavangen nekta skolen å sende elever til en
-  <span type="quote">«evneveikeskole»</span>.</p>
+  «evneveikeskole».</p>
     <p>Det var som regel skolestyret som gjorde vedtak om å søke elevene
   inn på spesialskoler. I skolestyreprotokollene blei det ført inn
   vedtak om å sende elever til døveskole, blindeskole, åndssvakeskole
@@ -161,7 +160,7 @@
   bort og om mer eller mindre vellykka integrering ved
   hjemmeskolene.</p>
     <p>[1] Paula Simonsen har skrevet sin historie i
-   , under tittelen<span type="quote">«Oppvokst på ei løgn»</span>
+   , under tittelen«Oppvokst på ei løgn»
   . Diktet som vi gjengir her er ikke tidligere
   offentliggjort.</p>
     <p>Innholdsliste for

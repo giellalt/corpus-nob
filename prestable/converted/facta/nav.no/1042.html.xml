@@ -17,7 +17,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://www.nav.no/Familie/Enslig+mor+eller+far/Tilskudd+til+flytting/1042.cms</origFileName>
     <parallel_text location="229551.html" xml:lang="sme"/>
     <parallel_text location="805322308.html" xml:lang="nno"/>
@@ -95,9 +94,9 @@
     <list>
       <p type="listitem">
                   Tilskot til flytting (Nynorsk)</p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
                   Fárrendoarjja (Samisk)</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
                   Relocation grant (Engelsk)</p>
     </list>
     <p></p>
@@ -114,7 +113,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+      <p type="title">Medlemskap i folketrygden</p>
     </section>
     <list>
       <p type="listitem">
@@ -129,13 +128,13 @@
                   Foreldrepenger ved fødsel</p>
       <p type="listitem">
                   Engangsstønad ved fødsel og adopsjon</p>
-      <p type="listitem" xml:lang="kal">Barnetrygd</p>
+      <p type="listitem">Barnetrygd</p>
       <p type="listitem">
                   Kontantstøtte til småbarnsforeldre</p>
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="nno">Spørsmål og svar</p>
+      <p type="title">Spørsmål og svar</p>
     </section>
     <list>
       <p type="listitem">
@@ -151,10 +150,10 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="isl">
+      <p type="listitem">
                   Slik klager du</p>
     </list>
     <p></p>
@@ -176,8 +175,8 @@
     <p>
                   Tilbakemelding nav.no</p>
     <p> // </p>
-    <p xml:lang="nno">Tilgjengelighet</p>
-    <p xml:lang="nno">
+    <p>Tilgjengelighet</p>
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

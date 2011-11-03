@@ -12,19 +12,18 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://innsyn.e-kommune.no/innsyn_sametinget_samisk/wfdocument.aspx?journalpostid=2008001508&amp;dokid=135985&amp;versjon=1&amp;variant=P&amp;ct=RA-PDF</origFileName>
     <parallel_text location="ds2008-1.pdf" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p>Sametingets tilskuddsstyre
 Møtebok 1/08
 </p>
-    <p xml:lang="sme">Ávjuvárgeaidnu 50, N -9730 Kárášjohka
+    <p>Ávjuvárgeaidnu 50, N -9730 Kárášjohka
 Telefon +47 78 47 40 00
 Telefaks +47 78 47 40 90
 samediggi(at)samediggi.no
@@ -144,7 +143,7 @@ Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endring
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="kal">002/08: Referatsaker
+    <p>002/08: Referatsaker
 </p>
     <p>Forslag til vedtak:
 Referatsakene tas til etterretning slik de foreligger.
@@ -555,7 +554,7 @@ forprosjekt The Arctic Crayling Lodge
 </p>
     <p>Forslag til vedtak
 Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Lakselv grunneierforening,
-Porsanger kommune, til forprosjektet <span type="quote" xml:lang="eng">" The arctic Grayling lodge"</span>.
+Porsanger kommune, til forprosjektet " The arctic Grayling lodge".
 I
 II
 </p>

@@ -19,7 +19,6 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>aubert_n.htm</origFileName>
     <parallel_text location="aubert_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,15 +27,15 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
     <section>
-      <p type="title" xml:lang="ger">Marit Aubert:</p>
+      <p type="title">Marit Aubert:</p>
     </section>
     <section>
-      <p type="title" xml:lang="kal">Minner fra Sirma skole 1950-53</p>
+      <p type="title">Minner fra Sirma skole 1950-53</p>
     </section>
     <p><em type="bold">Marit Aubert, Drammen 2003</em>
         (Foto: Svein Lund)</p>
@@ -69,7 +68,7 @@
         dette.</em>
     </p>
     <section>
-      <p type="title" xml:lang="sma">Veien til Sirma</p>
+      <p type="title">Veien til Sirma</p>
     </section>
     <p>Hva var det som fikk to søringer til å reise til Sirma? Hvis jeg
   skal svare kort, må det bli med ett eneste ord, nemlig
@@ -85,8 +84,8 @@
   om mulighetene for å få post for to lærere ved internatskolen i
   Sirma. Det var lensmann Jann Olsen som var formann denne perioden.
   Mulighetene for arbeid var svært gode, og utpå våren averterte
-  Polmak. I Sirma var det <span type="quote">"møblert leilighet og innlagt
-  vann"</span>. All den stund vi ikke eide et eneste møbel, fristet den
+  Polmak. I Sirma var det "møblert leilighet og innlagt
+  vann". All den stund vi ikke eide et eneste møbel, fristet den
   møblerte leiligheten oss svært. Møblenes kvalitet sto det ingenting
   om. Ei heller at det innlagte vannet kunne fryse i oktober for så å
   komme igjen i juli.</p>
@@ -118,15 +117,15 @@
   verden skulle vi gjøre? Vi satt lenge og vel, vi var trette og
   sultne, og begge fant vi det best å holde munn. Omsider kom en båt
   oppover elva. Den kjørte nær der hvor vi satt. Bill ropte plutselig:
-  <span type="quote">"Skal dere til Polmak?"</span> <span type="quote" xml:lang="sme">"Ja,"</span> lød svaret.
-  <span type="quote">"Vil dere ta oss med for 20 kroner og sette oss av ved
-  internatet?"</span> Joda, det var greit og vi steg ombord. ... Slik
-  beskrev Bill turen i et brev hjem: <span type="quote">"Båten var et monstrum på 1 x
+  "Skal dere til Polmak?" "Ja," lød svaret.
+  "Vil dere ta oss med for 20 kroner og sette oss av ved
+  internatet?" Joda, det var greit og vi steg ombord. ... Slik
+  beskrev Bill turen i et brev hjem: "Båten var et monstrum på 1 x
   10 m. Ombord var vi 7 mennesker, en bikkje, to sykler plus bagasje.
   Men gikk gjorde det når først motoren kom i gang. Fortere enn
   hurtigruta, så vass-føyka sto, bar det oppover mot Polmak. Jeg er
   overbevist om at det å kjøre elvebåt oppover Tana må være et av
-  verdens underverker."</span></p>
+  verdens underverker."</p>
     <p>Vi gikk mot internatet hvor vi ble ønsket velkommen av lærer
   Hjelmbrekke. Snart satt vi til bords og derpå sovnet vi på to
   madrasser i et klasserom. Etter frokost neste dag kjørte Hjelmbrekke
@@ -144,13 +143,13 @@
   internatets kassabeholdning, dessuten nøklene. Vi ble hjulpet opp, og
   snart sto vi utenfor brakka hvor vi skulle bo. ....</p>
     <section>
-      <p type="title" xml:lang="nno">Brakke med gjennomtrekk</p>
+      <p type="title">Brakke med gjennomtrekk</p>
     </section>
     <p>Brakka var nok satt opp i all hast. Hvis vi la oss på gulvet,
   kunne vi titte ut. Første vinteren dannet det seg endel is innover.
   Jeg hadde meg et par ufrivillige skliturer i den anledning. I det ene
-  rommet i <span type="quote">"stueavdelingen"</span> hadde vi et pent skrivebord, en
-  stol og en bokhylle. Det ble <span type="quote" xml:lang="swe">"kontor"</span>. I det andre rommet
+  rommet i "stueavdelingen" hadde vi et pent skrivebord, en
+  stol og en bokhylle. Det ble "kontor". I det andre rommet
   sto to lenestoler med hyssingtrekk. Anna, husmoren på internatet,
   kunne fortelle at de var kommet opp etter krigen som en gave fra
   lotter i Moss. Der var et avlangt salongbord og en sengebunn som en
@@ -166,7 +165,7 @@
       Frans Albert Rudolf Richter (Laiti), Aage Solbakk, Odd Henriksen.
       ?, Astrid Guttorm, Margit Anti.</em>
     </p>
-    <p xml:lang="eng">
+    <p>
       (Foto: Bill Aubert)</p>
     <section>
       <p type="title">Forskremte førsteklassinger</p>
@@ -202,10 +201,10 @@
       blitz, så dette bildet fra 4-5.klasse er et av svært få som er
       tatt inne på Sirma skole i den tida.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Marit og Bill Aubert)</p>
     <section>
-      <p type="title" xml:lang="swe">Livet på internatet</p>
+      <p type="title">Livet på internatet</p>
     </section>
     <p>Dagsrytmen på internatskolen var ens for både de små (1., 2. og
   3.klasse) og for de store (4., 5., 6., 7. klasse). Ved 7-tiden om
@@ -225,7 +224,7 @@
       <em type="bold">Husmor Anna og jentene som jobba på Sirma
       internat</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Marit og Bill Aubert)</p>
     <p>Det var sjelden nødvendig å si noe. Maten smakte godt, og elevene
   spiste pent. Før hvert måltid sto vi alle og sang samisk videregående
@@ -238,8 +237,8 @@
   Han satte seg i skolegården. Anna måtte forklare ham at når vi var så
   mange på ett sted, måtte vi ha andre regler enn dem han fulgte når
   han var på fjellet. Gutten så på Anna, deretter forkynte han at han
-  ikke ville gå på doen. <span type="quote">"Men hvorfor ikke det, da?"</span> spurte
-  Anna. <span type="quote">"Nei, det lukter så vondt der inne,"</span> sa den lille
+  ikke ville gå på doen. "Men hvorfor ikke det, da?" spurte
+  Anna. "Nei, det lukter så vondt der inne," sa den lille
   fyren. Anna moret seg da hun fortalte oss dette.</p>
     <p>Kl. 8.30 startet undervisningen. Vi hadde som vanlig i norsk skole
   tre timer med 10 minutters friminutt imellom. Kl. 11 var det
@@ -303,7 +302,7 @@
   flanell fra Finland, og av disse rullene sydde hun trøyer og bukser
   til elevene. Når vi badet om fredagene, fikk de elevene som trengte
   det, bruke dette tøyet. De små kalte plaggene for
-  <span type="quote">"statsbukser"</span> og <span type="quote" xml:lang="kal">"statstrøyer"</span>. Det var godt for
+  "statsbukser" og "statstrøyer". Det var godt for
   dem å skifte til rent etter en hel uke. ...</p>
     <p>Vinterforsyning av mat kjøpte Anna inn i stort. Det daglige fikk
   vi hos Tapio, som etter hvert fikk et rikholdig vareutvalg. Mel,
@@ -312,20 +311,20 @@
   Varangerbotn, laks, saue- og reinkjøtt ble kjøpt i Sirma. Saft og
   syltetøy kjøpte hun i 5-liters spann, molter ble plukket på myrene
   innenfor Sirma. Melk fikk vi fra naboene.</p>
-    <p xml:lang="sme">Hilsen Rivgomáret</p>
+    <p>Hilsen Rivgomáret</p>
     <p>
       <em type="bold">Når elevene skulle hjem, var det gjerne med hest på
       vinteren og elvebåt på sommeren</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Marit og Bill Aubert)</p>
     <section>
       <p type="title">Utdrag av brev hjem</p>
     </section>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Brev fra Bill:</em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">Sirma, 9. august 1950.
   Kjære far og mor.</em>
     </p>
@@ -373,7 +372,7 @@
   farger, men innover var det ganske kaldt. Kan hende det blir slutt på
   godværet vi har hatt så mye av. ...</em>
     </p>
-    <p xml:lang="ger">Det neste er datert 25. august.</p>
+    <p>Det neste er datert 25. august.</p>
     <p><em type="italic">Takk for brev. Det er hyggelig å få post, ellers føler vi ikke
   ensomheten det minste trykkende noen av oss. Idag begynte vi så smått
   på skolen, da. Men, de kommer sånn smått om senn, og først onsdag får
@@ -387,7 +386,7 @@
   ikke den fjerneste tvil om at ungene skulle hatt samisk på skolen
   minst de første tre årene.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       <em type="italic">Det er heller trist mange ganger når en tenker på at bare en av
   ti har noen glede av å høre eventyr. Det er vanskelig med religion,
   det blir på samme måten som med eventyr. Det blir å drive med norsk
@@ -418,7 +417,7 @@
   og gule band og dusker, men de sporene jeg setter, minner mest om
   bjørnelabber.</em>
     </p>
-    <p xml:lang="sme">5. november:</p>
+    <p>5. november:</p>
     <p>
       <em type="italic">Nå er kulda kommet, -19 grader idag. Vi har det fortsatt meget
   bra. Fredag opptrådte jeg som prest. Ja, virkelig, ettersom jeg døpte
@@ -446,9 +445,9 @@
       <em type="bold">Utdrag av Bills brev fra Finnmark 6/9 1952.</em>
     </p>
     <p>
-      <em type="italic"><span type="quote">"Innlegget i avisa er jeg for min del ikke enig i. Det
+      <em type="italic">"Innlegget i avisa er jeg for min del ikke enig i. Det
   samiske Finnmark er nok ikke avgått ved døden ennå, selv om ikke
-  "</span>kulturen" står så høyt for tiden. All den stund
+  "kulturen" står så høyt for tiden. All den stund
   mangfoldige tusen (også ute ved kysten, f.eks. Nesseby) bruker samisk
   hjemme, kan jeg ikke skjønne at det kan skade å ha litt undervisning
   i samisk på ungdomsskolen i Karasjok. Temmelig sikkert kommer samisk

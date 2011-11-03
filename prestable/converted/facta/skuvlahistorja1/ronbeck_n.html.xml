@@ -19,7 +19,6 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>ronbeck_n.htm</origFileName>
     <parallel_text location="ronbeck_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,7 +27,7 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
@@ -88,9 +87,9 @@
   gang lenge, og samene vil lide mest under ethvert forøk på å stoppe
   den.</p>
     <section>
-      <p type="title" xml:lang="kal">Ságat, 26.mai 1990. Intervjua av Arne Wulff</p>
+      <p type="title">Ságat, 26.mai 1990. Intervjua av Arne Wulff</p>
     </section>
-    <p>Intervjuet blir av avisa presentert slik:<em type="bold"><span type="quote">"Dette intervjuet med tidligere Karasjok-ordfører Hans
+    <p>Intervjuet blir av avisa presentert slik:<em type="bold">"Dette intervjuet med tidligere Karasjok-ordfører Hans
   Rønbeck ble foretatt i 1976 av Arne Wulff. Intervjuet kom aldri på
   trykk i avisa, fordi daværende redaktør Bjarne Store Jakobsen nektet
   å trykke det. Ved en opprydding i Ságats redaksjonsarkiv kom
@@ -98,7 +97,7 @@
   omtales i intervjuet er fortsatt aktuelle. Dessuten har intervjuet
   historisk interesse. Med samtykke fra Hans Rønbeck trykker derfor
   Ságat intervjuet - 14 år etter at det ble foretatt. Idag er Rønbeck
-  pensjonist og bosatt i Tromsdalen."</span></em></p>
+  pensjonist og bosatt i Tromsdalen."</em></p>
     <p>- Fru biskop Wiig laget den dobbelttekstede samiske ABC. I
   1920-åra var det strid om disse lærebøker, som ble forkastet av det
   store flertall. Da jeg kom til Karasjok, var innstillingen slik at de

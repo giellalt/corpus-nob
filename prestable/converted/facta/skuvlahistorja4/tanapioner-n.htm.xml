@@ -18,7 +18,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/tanapioner-n.htm</origFileName>
     <parallel_text location="tanapioner-s.htm" xml:lang="sme"/>
     <metadata>
@@ -27,12 +26,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="nno">Ragnhild Sandøy:</p>
+      <p type="title">Ragnhild Sandøy:</p>
     </section>
     <section>
       <p type="title">Fornorsking av Finnmark blei deres liv</p>
@@ -64,7 +63,7 @@
         rapporter og artikler i aviser, tidsskrifter og bøker innen
         ressursforvaltning, landskap og landskapshistorie i nord.</p>
     <p>I denne boka er ho og medforfatter av artikkelen
-        <em type="italic">Hammerfest – by med mange <span type="quote" xml:lang="sme">«komagtupper»</span> i skolehistoria</em>
+        <em type="italic">Hammerfest – by med mange «komagtupper» i skolehistoria</em>
         og ho har bidratt med å skaffe fram arkivmateriale og eldre
         tidligere upubliserte artikler.</p>
     <p>Min bestefar Pavel Anderssen, hans søster Anna, og deres
@@ -77,7 +76,7 @@
   solgte han og kona eiendommen i Gárggogeahči i Vestertana som
   skoletomt til Tana kommune og kjøpte en stor eiendom i Bonjákas som
   alle barna etter hvert fikk sin del av. Pavel Olsen Ravne sine
-  etterkommere (<span type="quote" xml:lang="sme">«Bávvalaččat»</span>) var politikere, forretningsfolk og
+  etterkommere («Bávvalaččat») var politikere, forretningsfolk og
   karismatiske personligheter som manøvrerte mellom myndigheter,
   menighet og etnopolitikk. [3]</p>
     <p>Per Fokstad er kjent som forkjemper for samisk språk og kultur.
@@ -114,8 +113,8 @@
   var penger å tjene, folk strømma nordover, fiskeværene blei nye
   knutepunkter fra Vesterålen til Varanger.</p>
     <p>Samtidig befesta staten stillinga overfor den samiske allmuen med
-  lovverk og <span type="quote" xml:lang="sma">«vesener»</span>. Jordsalgskontoret dreiv salg av <span type="quote">"Statens
-  grunn"</span>, og Landbruksselskapet belærte folk om jordbruk.
+  lovverk og «vesener». Jordsalgskontoret dreiv salg av "Statens
+  grunn", og Landbruksselskapet belærte folk om jordbruk.
   Topografiske kart med nye stedsnavn [7] blei
   utgitt. Skolen blei styrka med utvida undervisningstid, flere lærere
   og Finnefondet som finansierte internater og lønnstillegg til
@@ -148,12 +147,12 @@
   med elva og dalen. [9] . Tanafjorden med fiske og
   båttrafikk var både livet og levevegen for allmuen. Det var nær
   kontakt mellom kysten og innlandet. Under vårtorskefisket var det
-  mange <span type="quote" xml:lang="kal">«fiskerlapper»</span> fra Tana og Utsjok som rodde fra
+  mange «fiskerlapper» fra Tana og Utsjok som rodde fra
   Finnkongkeila.</p>
     <p>Bygdene ved Tanafjorden var sentrale i den samiske kulturreisinga
   i tiårene rundt 1900. Johan Eriksen Soffa i Stáhpogieddi redigerte
   sammen med Christian Andreassen den første samiske avisa,
-  <span type="quote" xml:lang="kal">«Muitalægje»</span> i 1873–1875, og Ole A. Andersen redigerte <span type="quote" xml:lang="sme">«Nuorttanaste»</span>
+  «Muitalægje» i 1873–1875, og Ole A. Andersen redigerte «Nuorttanaste»
   fra Lávvonjárga i årene 1912–1916. Flere i Tana var aktive
   debattanter i disse samiske organene. I juli 1919 blei den andre
   samekonferansen holdt i Bonjákas, med deltakere helt fra Sør-Norge.
@@ -162,7 +161,7 @@
       <em type="bold">T. v.: Johan Eriksen Soffa i Stáhpogieddi var
         omgangsskolelærer i Tanafjorden sist på 1800-tallet, men
         skolestyret erstatta han med en norsk seminarist. Han var med å
-        stifta og redigere den første samiske avisa, <span type="quote" xml:lang="kal">«Muitalægje»</span>
+        stifta og redigere den første samiske avisa, «Muitalægje»
         (1873–1875), og blei seinere den første samiske emmisæren for
         Norsk Finnemisjon.</em>
     </p>
@@ -205,7 +204,7 @@
     <p>
       (Foto: J. W. Holm. Utlånt av Noras govvavuorká. Tegninga er tatt
       fra boka Solbakk: </p>
-    <p xml:lang="sme">
+    <p>
       <em type="italic">- dasgo eallin gáibida min soahtái / - selve
       livet kalder os til kamp.</em>
     </p>
@@ -215,9 +214,9 @@
       <p type="title">Uro for hjertespråket</p>
     </section>
     <p>Under en visitas i Tana ba to unge samegutter biskop Johannes N.
-  Skaar hjelpe med kristendomsopplæring på samisk. <span type="quote">«Samisk er vårt
+  Skaar hjelpe med kristendomsopplæring på samisk. «Samisk er vårt
   hjertespråk, og dersom vi skal forstå de åndelige sannheter på en
-  rett måte, må vi få høre dem på hjertespråket.»</span> [11] 22. november 1892 vedtok Tana skolestyre at samisk
+  rett måte, må vi få høre dem på hjertespråket.» [11] 22. november 1892 vedtok Tana skolestyre at samisk
   ikke lenger skulle brukes i skolen, verken som undervisningsspråk i
   kristendom eller som hjelpespråk i andre fag. Flere foreldre holdt da
   barna borte fra skolen. I 1893 var skoleforsømmelsen 15 %, mot 8,5 %
@@ -233,7 +232,7 @@
   at Nordahl Rolfsens lesebok blei brukt som lesebok. Brevet var ført i
   pennen av John Samuelsen Måsø (Gándda-Jovnna), kjøpmann i
   Gárggogeahči. Formannen la aldri brevet fram for skolestyret. Brevet
-  blei trykt i <span type="quote" xml:lang="sme">«Nuorttanaste»</span> 28. februar 1903. Debatten som fulgte
+  blei trykt i «Nuorttanaste» 28. februar 1903. Debatten som fulgte
   nørte opp under uroen staten hadde forårsaka med å sette inn
   restriksjoner på tanasamenes bruk av land og vann. [15]</p>
     <p>Vedtaket i Tana skolestyre blei stående og satte strenge rammer
@@ -282,11 +281,11 @@
     <p><em type="bold">T. h.: Dette brevet som Pavel Anderssen skreiv til
         skoledirektøren i 1910 viser hvor vanskelig det kunne være å
         finansiere lærerutdanning. Merk at han ønsker å arbeide
-        <span type="quote" xml:lang="eng">"iblandt min nation (laperne)"</span>.</em>
+        "iblandt min nation (laperne)".</em>
         (Kilde: Statsarkivet i Tromsø)</p>
     <p>Han gifta seg i 1927 med Gerda Hartvigsen, som blei min bestemor.
   Ho var fra Akkarfjord på Kvaløya, var 13 år yngre enn bestefar og av
-  <span type="quote" xml:lang="swe">«blanda herkomst»</span>. De hadde to barn som levde opp. Kårhamn lå
+  «blanda herkomst». De hadde to barn som levde opp. Kårhamn lå
   sentralt i leia og var et stort sted med fisketilvirking, doktor,
   jordmor, rutebåt og handel. Bestemor hadde tjent hos nessekongen Bull
   i Repvåg og på Grand hotell i Hammerfest og vikarierte flere ganger
@@ -313,9 +312,9 @@
   Ved Fjordtun blei det problemer, det gikk inn på han. Sårt var det og
   at barna med familier forlot kommunen. Derfor vantrivdes de og planla
   å flytte sørover etter barna. Men etter et besøk på Møre våren 1959
-  skreiv han: <em type="italic"><span type="quote">«... Jeg lengtet nordover til Finnmark. Jeg er nemlig
+  skreiv han: <em type="italic">«... Jeg lengtet nordover til Finnmark. Jeg er nemlig
   100 % finnmarking. Jeg kunne aldri bli fortrulig med folket der nede
-  og deres skikker og seder.»</span></em> De hadde bygd hus i Rypefjord i 1951,
+  og deres skikker og seder.»</em> De hadde bygd hus i Rypefjord i 1951,
   og der blei de. Hele sitt yrkesaktive liv virka han i skolen i
   Sørøysund, i 1963 mottok han Kongens fortjenestemedalje i sølv.</p>
     <p>
@@ -391,8 +390,8 @@
   <em type="italic">Samiske tankar og krav</em>[19] i 1923, og i
   en betenkning til Den parlamentariske skolekommisjon (1923–26). Han
   ivra også for en samisk ungdomsskole (folkehøgskole). Skoledirektør
-  Chr. Brygfjeld motarbeidde <span type="quote">«denne sameagitator»</span> i krasse vendinger. I
-  1937 foreslo Fokstad et <span type="quote">«kulturinstitutt for samene»</span>. I 1948 deltok
+  Chr. Brygfjeld motarbeidde «denne sameagitator» i krasse vendinger. I
+  1937 foreslo Fokstad et «kulturinstitutt for samene». I 1948 deltok
   han i <em type="italic">Tilråding om samiske skole- og opplysningsspørsmål</em> til
   Samordningsnemnda for skoleverket.</p>
     <p>Fokstad hadde sentrale verv gjennom Arbeiderpartiet, bl.a. var han
@@ -408,7 +407,7 @@
     <p>
       <em type="bold">Per Fokstad</em>
     </p>
-    <p xml:lang="isl">
+    <p>
       (Foto: Ragnhild Ravna)</p>
     <p>
       <em type="bold">Per Fokstad med familie. Bildet er tatt utenfor huset til
@@ -416,7 +415,7 @@
       hans kone Aslaug Fokstad, datter Unni Fokstad, Kirsti Foss, Karin
       Simonsen og Sigrid Bertheussen.</em>
     </p>
-    <p xml:lang="isl">
+    <p>
       (Foto: Ragnhild Ravna)</p>
     <p>Han var mer filosof enn pedagog, og det var nok heller ikke så
   lett å omsette idéene i praksis. Fornorskingsinstruksen var gjeldende
@@ -425,8 +424,8 @@
   livet. Nils Biti og Kjell Ballari forteller at han aldri underviste i
   samisk språk. Han snakka heller aldri om det samiske i skolen før i
   sine siste år som lærer. [20] Derimot drilla han
-  elevene i korrekt norsk, også i kristendomstimene. <span type="quote">«Norsk er det
-  viktigste»</span>, sa han til elevene. Han var en streng lærer, og flere
+  elevene i korrekt norsk, også i kristendomstimene. «Norsk er det
+  viktigste», sa han til elevene. Han var en streng lærer, og flere
   forteller at han var hard mot de som var dårlige i norsk, spesielt de
   finsktalende. Det likte foreldrene dårlig. Det blei aksjonert for å
   få han avsatt som lærer, og Per Hirsti sendte barna sine bort på
@@ -445,7 +444,7 @@
   språk. Han satte likevel ikke teoriene ut i livet. Også Per Fokstad
   var en effektiv fornorsker i sin livsgjerning.</p>
     <section>
-      <p type="title" xml:lang="nno">Gunhild Fokstad – den stillferdige pedagogen</p>
+      <p type="title">Gunhild Fokstad – den stillferdige pedagogen</p>
     </section>
     <p>Gunhild Katrine Pavelsen Fokstad (1892–1973) tok lærereksamen i
   1918. Etter post på Skjånes i Hopsfjorden kom ho til Fuglåsen skole
@@ -513,10 +512,10 @@
   hus. Da ho blei dement, delte niesene på å ha henne hos seg. Ho døde
   i Stavanger, men er gravlagt i Bonjákas.</p>
     <section>
-      <p type="title" xml:lang="smj">Anna Anderssen – <span type="quote" xml:lang="smj">«Stuorra-Ánne»</span></p>
+      <p type="title">Anna Anderssen – «Stuorra-Ánne»</p>
     </section>
-    <p>Anna Katrine Anderssen (1897–1992) gikk under navnet <span type="quote">«Frøken
-  Anderssen»</span> eller også <span type="quote" xml:lang="isl">«Pavel-Anna»</span>. <span type="quote" xml:lang="smj">«Stuorra-Ánne»</span>, sa yngstebroren
+    <p>Anna Katrine Anderssen (1897–1992) gikk under navnet «Frøken
+  Anderssen» eller også «Pavel-Anna». «Stuorra-Ánne», sa yngstebroren
   Per, han mente ho var for dominant.</p>
     <p>Etter påtrykk fra mora, hjalp broren Pavel til så Anna fikk
   skolegang. Ho gikk amtsskole i Vadsø, Halsøy folkehøgskole i Mosjøen
@@ -533,10 +532,10 @@
       (Foto utlånt av Ragnhild Sandøy)</p>
     <p>
       <em type="bold">Anna Andersen i midten, foran Kårhamn skole. Helt til
-      høgre Frøken Isaksen, <span type="quote" xml:lang="kal">"Issa"</span>, som var den første
+      høgre Frøken Isaksen, "Issa", som var den første
       husmora på Kårhamn internat.</em>
     </p>
-    <p xml:lang="eng">
+    <p>
       (Foto: Pavel Anderssen)</p>
     <p>Tyskerne rekvirerte Fjordtun internat, og skolen måtte finne
   midlertidige lokaler. Høsten 1944 blei ho og husmor Elise Solvang
@@ -583,7 +582,7 @@
   hadde ei skarp tunge som nok førte til beklemte situasjoner.
   Forholdet til broren Pavel blei etter hvert anstrengt.</p>
     <p>Ho hadde god økonomi og likte å kle seg i pels og skinnlue. Ho
-  <span type="quote" xml:lang="isl">«finska»</span> [24] , og med sitt spesielle utseende og
+  «finska» [24] , og med sitt spesielle utseende og
   ganglag var ho en markant skikkelse. Ho var tante for flere
   generasjoner og besøkte ofte tantebarna. Nevøen Reidar som var
   redaktør i Arbeiderbladet var ho svært stolt av. Ho hadde god
@@ -641,11 +640,11 @@
       1944, og det blei ikke bygd opp igjen her. I dag står bare
       restene av murene igjen.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Ola Graff)</p>
-    <p>Gunnar Olsen beskreiv fjorden slik: <em type="italic"><span type="quote">«Snefjord er en ualminnelig
+    <p>Gunnar Olsen beskreiv fjorden slik: <em type="italic">«Snefjord er en ualminnelig
   vakker fjord, fjellene er lave og skråner jevnt nedover mot sjøen.
-  Den lange strandlinjen er vidunderlig.»</span></em> Snefjord var nok et kjært
+  Den lange strandlinjen er vidunderlig.»</em> Snefjord var nok et kjært
   sted for han. Magna var oppvokst med furuskog og dro ofte til Alta om
   sommeren. Hennes søster Julie blei gift i Snefjord, og dermed blei de
   del av bygdas familier. Gunnar Olsen var folkelig, og six-pencen var
@@ -682,14 +681,14 @@
   kommunestyret for Venstre. Han drev søndagsskole, og under
   gudstjenestene i Slotten kapell tolka han, var ofte forsanger og
   spilte orgel etter noter. Han foretok heimedåp og forretta i
-  begravelser. Han var engasjert i Finnemisjonen [27] heile livet, solgte <span type="quote" xml:lang="kal">«Lappernes Ven»</span> [28] , oversatte salmer og Ole Hallesbys andakter
+  begravelser. Han var engasjert i Finnemisjonen [27] heile livet, solgte «Lappernes Ven» [28] , oversatte salmer og Ole Hallesbys andakter
   [29] . Da han blei pensjonist i 1963, flytta de
   til Alta, der han tok noen vikariater. Han tok språkkurs i engelsk og
   finsk, og høsten 1963 studerte han samisk ved Universitetet i Oslo. I
   Norges Finnemisjonsselskaps 75-års jubileum i 1963 framførte han
-  <span type="quote">«Samefolkets hilsen og takk»</span>. <span type="quote" xml:lang="smj">«Hærra Gånagas»</span>, Kong Olav, var blant
+  «Samefolkets hilsen og takk». «Hærra Gånagas», Kong Olav, var blant
   gjestene. Han holdt også samiske andakter i radioen.</p>
-    <p>I <span type="quote">«Fornorskningen i kystdistriktene»</span> viser han respekt for det
+    <p>I «Fornorskningen i kystdistriktene» viser han respekt for det
   samiske. Han, som andre, overvurderte imidlertid den sjøsamiske
   kulturens evne til motstand. Han er gravlagt i Alta.</p>
     <section>
@@ -715,7 +714,7 @@
     </p>
     <p>
       (Foto utlånt av Turid Heimen)</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Kiberg skole før krigen.</em>
     </p>
     <p>
@@ -810,7 +809,7 @@
   Ingen bor i Tana eller der de vokste opp. De hadde store kunnskaper
   om Tana og Finnmark, om samisk tradisjon, språk og naturbruk. De var
   finnmarkspatrioter og hjembygdspatrioter, de hadde ordet i sin makt
-  og var <span type="quote">«fortellere»</span>. Det var få samiske lærere i denne tida. De kunne
+  og var «fortellere». Det var få samiske lærere i denne tida. De kunne
   ytt store bidrag til samisk språk og identitet. Kunnskapene deres
   blei aldri sett som ressurs, ikke av skolemyndighetene og neppe av
   dem sjøl.</p>
@@ -834,7 +833,7 @@
   livsformen ville bestå. Deres tanker og valg må betraktes i lys av
   finnmarksbygdenes historie og storsamfunnets fornorskende kraft.</p>
     <section>
-      <p type="title" xml:lang="swe">Finnmark er blitt et anna land</p>
+      <p type="title">Finnmark er blitt et anna land</p>
     </section>
     <p>I 1940 kom tyskerne og krigens drama. Høsten 1944 blei folk jaga
   fra hus og heim og 50 000 deportert sørover, der de fikk nye inntrykk
@@ -952,7 +951,7 @@
   seinere menighetssøstre. Institusjoner i Tana: Gamlehjemmet i
   Leirpollen (1914), barnehjemmet Hans Schanches Minne på Langnes
   (1925) og kapellet i Vestertana (1934).[12] Aslak Bergland var sogneprest og skolestyreformann
-  fra 1892 til 1903. Han blei kalt <span type="quote">«Skipresten»</span>.[13] Randi Thrane:  I: [14] Brevet var skrevet på samisk og er gjengitt
+  fra 1892 til 1903. Han blei kalt «Skipresten».[13] Randi Thrane:  I: [14] Brevet var skrevet på samisk og er gjengitt
   i denne boka, under tittelen Vestertana og Stáhpogieddi krets krever
   undervisning på morsmålet. (red.)[15] Kilder: Steinar Pedersen:  Sámi allaskuvla 2008. Regnor
   Solbakk: Samebevegelsen i Norge: idé og strategi 1900–1940. UiT
@@ -970,7 +969,7 @@
   .[21] Karlebotn var
   statsinternat fra 1933[22] I
   denne tida gikk elevene på skole i perioder på 3–6 uker, såkalte
-  <span type="quote" xml:lang="isl">«skoleturer»</span>. F.eks. kunne småskolen og storskolen gå vekselvis.
+  «skoleturer». F.eks. kunne småskolen og storskolen gå vekselvis.
   Lærerne hadde ofte undervisning på to skoler og pendla mellom
   disse.[23] Haakon Henriksen
   (1920–1980) fra Lávvonjárga var lærer og kommunestyremedlem i Alta.

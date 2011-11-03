@@ -17,13 +17,12 @@
       <free/>
     </availability>
     <submitter email="divvun@samediggi.no" name=""/>
-    <multilingual/>
     <origFileName>http://samediggi.no/Artikkel.aspx?aid=148&amp;sprak=Norsk&amp;Print=1</origFileName>
     <parallel_text location="samediggi-article-148.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <section>
@@ -102,7 +101,7 @@
     <p>
           Sametingets kontroll av rapportene baseres på risiko og
           vesentlighetsvurderinger.</p>
-    <p xml:lang="kal">
+    <p>
           5 Evaluering</p>
     <p>
           Den viktigste resultatkontrollen med tilskuddsmidlene gjøres
@@ -203,7 +202,7 @@
           departementet og Riksrevisjonen iverksette kontroll med at
           midlene nyttes etter forutsetningene.
         </p>
-    <p xml:lang="swe">
+    <p>
         Publisert av John-Marcus Kuhmunen. </p>
     <p>
         Første gang publisert 10.02.2005

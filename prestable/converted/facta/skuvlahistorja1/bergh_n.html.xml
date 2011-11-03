@@ -19,7 +19,6 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>bergh_n.htm</origFileName>
     <parallel_text location="bergh_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,15 +27,15 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
     <section>
-      <p type="title" xml:lang="ger">Richard Bergh:</p>
+      <p type="title">Richard Bergh:</p>
     </section>
     <section>
-      <p type="title" xml:lang="nno">Mine år på Skoganvarre skole</p>
+      <p type="title">Mine år på Skoganvarre skole</p>
     </section>
     <p><em type="bold">Storskolen i Skoganvarre høsten 1962 : Sittende fra
         venstre : Johan Mathis Eira, Kurt Stene, Johannes Guttorm, Knut
@@ -117,7 +116,7 @@
       Johansen, Anne Kirsten Eira og Marit Utsi. Læreren: Birgit
       Bergh</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Det er ikke alltid så lett å være lærer i en nyetablert
   skolekrets. Folk var ikke vant til å ha en skole i bygda, og mange
@@ -253,7 +252,7 @@
   solid grunnlag i sitt eget språk. Den samiske begynneropplæringen var
   frivillig.</p>
     <section>
-      <p type="title" xml:lang="dan">Besøk fra den store verden</p>
+      <p type="title">Besøk fra den store verden</p>
     </section>
     <p>Skoganvarre er Porsangers utpost mot Karasjok. Men jeg hadde aldri
   følelsen av å bo i en utkant. For stadig vekk var vi i sentrum for
@@ -317,7 +316,7 @@
       erobret kretsmesterskapet i langrenn for sin klasse for
       Vest-Finnmark.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Skoleflinke elever hadde vi flere av. En av dem gikk til topps i
   en landsomfattende stilkonkuranse. Einar Amundsen gikk bare i fjerde
@@ -408,13 +407,13 @@
   hadde generalprøve på underholdningen.</p>
     <p>
       <em type="bold">Fra julefesten 1963. Et fast innslag i juleunderholdningen
-      var sangen <span type="quote">"Det første lys jeg tenner"</span>. Fire elever i
+      var sangen "Det første lys jeg tenner". Fire elever i
       småskolen sang hvert sitt vers. Halvveis i sangen ble
       juleevangeliet lest, også av en elev i småskolen. Jentene fra
       venstre: Anne Lise Johansen, Torill Grøtte, Berit Ellen Utsi og
       Kari Marie Utsi. Gutten som leser evangeliet: Nils Utsi</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Premieren hadde vi på vår store fest i romjulen, som foreldrene
   arrangerte. Da var det stuvende fullt på skolen. Hele Skoganvarres
@@ -434,11 +433,11 @@
   snedekte gårdsplassen og fløy av sted over fjellene til Alta.</p>
     <p>
       <em type="bold">Mange av julesketsjene gjorde stor lykke, ikke minst
-      dramatiseringen av sangen <span type="quote">"Mors lille Ole"</span>. Borghild
+      dramatiseringen av sangen "Mors lille Ole". Borghild
       Johansen hadde rollen som Ole som møtte bjørnen i skogen. Marit
       Eira (krypende på gulvet) spilte bjørnen.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <section>
       <p type="title">Kongelig besøk</p>
@@ -463,7 +462,7 @@
       Skoganvarre. Småskoleeleven Anne Kirsten Utsi overrekker en
       modell av elvebåt til kronprinsparet.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Sankthansaften 1969 bilte jeg fra Skoganvarre. Min lille Morris
   Miniminor var full-lastet med kone og barn. Vi flyttet til

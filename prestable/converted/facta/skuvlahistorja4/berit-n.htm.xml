@@ -22,7 +22,9 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/berit-n.htm</origFileName>
     <parallel_text location="berit-s.htm" xml:lang="sme"/>
     <metadata>
@@ -31,12 +33,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="kal">Berit Oskarsen:</p>
+      <p type="title">Berit Oskarsen:</p>
     </section>
     <section>
       <p type="title">Ingen hjelp for samisklærere</p>
@@ -44,7 +46,7 @@
     <section>
       <p type="title">Fortalt til Svein Lund</p>
     </section>
-    <p xml:lang="eng"><em type="bold">Berit Oskarsen</em>
+    <p><em type="bold">Berit Oskarsen</em>
         (Foto: Basia Głowacka)</p>
     <p>
       <em type="bold">Berit Randi Oskarsen, født Boine Henriksen, er født i 1961

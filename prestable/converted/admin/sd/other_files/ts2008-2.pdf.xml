@@ -11,19 +11,18 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://innsyn.e-kommune.no/innsyn_sametinget_norsk/wfdocument.aspx?journalpostid=2008007193&amp;dokid=144879&amp;versjon=1&amp;variant=P&amp;ct=RA-PDF</origFileName>
     <parallel_text location="ds2008-2.pdf" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p>Sametingets tilskuddsstyre
 Møtebok 02/08
 </p>
-    <p xml:lang="sme">Ávjuvárgeaidnu 50, N -9730 Kárášjohka
+    <p>Ávjuvárgeaidnu 50, N -9730 Kárášjohka
 Telefon +47 78 47 40 00
 Telefaks +47 78 47 40 90
 samediggi(at)samediggi.no
@@ -150,7 +149,7 @@ Møtesekretærer: *Skriv inn navn*
 075/08
 076/08
 </p>
-    <p xml:lang="nno">DAT os, Kautokeino kommune - Søknad om forlagsstøtte 2008
+    <p>DAT os, Kautokeino kommune - Søknad om forlagsstøtte 2008
 Forlaget Báhko, Tysfjord kommune - Søknad om forlagsstøtte 2008
 Davvi Girji os, Karasjok kommune - Søknad om forlagsstøtte 2008
 Skániid girjie, Skånland kommune - Søknad om forlagsstøtte 2008
@@ -243,7 +242,7 @@ Administrative vedtak tas til orientering. slik de foreligger.
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="nno">026/08: Reinslett Edmund, Evenes kommune - søknad om støtte til snøfreser klage på vedtak i sak HE 005/08
+    <p>026/08: Reinslett Edmund, Evenes kommune - søknad om støtte til snøfreser klage på vedtak i sak HE 005/08
 </p>
     <p>Forslag til vedtak
 Klagen tas ikke til følge.
@@ -299,7 +298,7 @@ den anses allerede å ha oppnådd den nødvendige tilskuddsandelen fra Innovasjo
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="nno">028/08: Duodjiinstituhta, Kautokeino kommune og NatourNor, Tromsø kommune
+    <p>028/08: Duodjiinstituhta, Kautokeino kommune og NatourNor, Tromsø kommune
 - søknad om støtte til dataportal for duodji
 </p>
     <p>8
@@ -368,7 +367,7 @@ Vedtak:
     <p>Som innstillingen
 Som administrasjonens innstilling mot 3 stemmer
 </p>
-    <p xml:lang="nno">030/08: Frank Einar Nordstrand, Gamvik kommune - Søknad om støtte til kjøp av
+    <p>030/08: Frank Einar Nordstrand, Gamvik kommune - Søknad om støtte til kjøp av
 fiskebåt
 </p>
     <p>Forslag til vedtak
@@ -1374,7 +1373,7 @@ Beløpet belastes post 201, aktivitet 20100 Samiske forlag.
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="nno">059/08: DAT os, Kautokeino kommune - Søknad om forlagsstøtte 2008
+    <p>059/08: DAT os, Kautokeino kommune - Søknad om forlagsstøtte 2008
 </p>
     <p>Forslag til vedtak
 Sametingets tilskuddsstyre tildeler med dette DAT os, Kautokeino kommune, tilskudd til
@@ -1613,7 +1612,7 @@ kommune - Søknad om støtte til teater/danse/musikk prosjektet Joik
 </p>
     <p>Forslag til vedtak
 Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Haugen Produksjoner, Tromsø
-kommune, til forestillingen <span type="quote">"Joik"</span>:
+kommune, til forestillingen "Joik":
 I
 II
 III
@@ -1654,7 +1653,7 @@ Søknaden avslås.
 Sametinget har vurdert søknaden i henhold til de prioriteringer som ligger til grunn i Sametingets
 budsjett for 2008. Sametingets prioriteringer for posten 6.3.1.4 Teaterformål er teatervirksomhet for
 og med barn og unge, revyvirksomhet og amatørteatervirksomhet. Det søkes om støtte til
-forestillingen <span type="quote" xml:lang="sme">"Mátki - Reisen"</span>. Sametinget er av den oppfatning at forestillingen retter seg mot ett
+forestillingen "Mátki - Reisen". Sametinget er av den oppfatning at forestillingen retter seg mot ett
 voksent publikum, samt at de involverte i forestillingen er profesjonelle artister og kunstnere. Av den
 grunn faller søknaden utenfor de prioriteringene som ligger til grunn i post 6.3.1.4 Teaterformål.
 Søknaden avslås.
@@ -1675,7 +1674,7 @@ Vedtak:
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="sme">067/08: Skiippagurrafestivalen, Tana kommune- Skiippagurrafestivalen 2008
+    <p>067/08: Skiippagurrafestivalen, Tana kommune- Skiippagurrafestivalen 2008
 </p>
     <p>Forslag til vedtak
 Ved tilsagn:
@@ -1820,7 +1819,7 @@ Søknaden avslås.
 Jfr. Sametingets budsjett for 2008 er målet for tilskuddsordningen Andre kulturtiltak å opprettholde
 og utvikle aktiviteter innen andre samiske kulturtiltak. Etter vår vurdering kan vi ikke se at produksjon
 og redigering av video som er beregnet for turistnæringen kommer inn under dette formålet.
-Samtidig vises det til <span type="quote">"Overordnede retningslinjer for Sametingets søkerbaserte tilskuddsordninger"</span>,
+Samtidig vises det til "Overordnede retningslinjer for Sametingets søkerbaserte tilskuddsordninger",
 pkt 5 der det kommer fram at søknader om tilskudd må være Sametinget i hende før planlagte tiltak
 igangsettes. Prosjektet det søkes støtte til er allerede igangsatt, og er dermed ikke støtteberettiget.
 Sametinget kan på bakgrunn av ovennevnte ikke prioritere søknaden.
@@ -1890,9 +1889,9 @@ Beløpet belastes post 300 Næringsutvikling, underpost 30010 Jordbruk i Sametin
     <p>Som innstillingen
 41
 </p>
-    <p xml:lang="sma">Enstemmig vedtatt
+    <p>Enstemmig vedtatt
 </p>
-    <p xml:lang="sme">073/08: SVL-N - Sámiid Valáštallanlihttu, Deatnu/Tana kommune - Søknad om
+    <p>073/08: SVL-N - Sámiid Valáštallanlihttu, Deatnu/Tana kommune - Søknad om
 støtte til medlemslag
 </p>
     <p>Forslag til vedtak
@@ -1954,7 +1953,7 @@ Beløpet belastes post 200 Kulturutvikling, aktivitet 20050 Andre tiltak.
     <p>Som innstillingen
 Enstemmig vedtatt
 </p>
-    <p xml:lang="sme">075/08: Sámi Heargevuoddjin Lihttu, Karasjok kommune - Søknad om
+    <p>075/08: Sámi Heargevuoddjin Lihttu, Karasjok kommune - Søknad om
 driftsstøtte for 2008
 </p>
     <p>Forslag til vedtak
@@ -1987,7 +1986,7 @@ Vedtak:
     <p>Som Knut Stores forslag
 Enstemmig vedtatt
 </p>
-    <p xml:lang="sme">076/08: Guovdageainnu Heargevuodjin Searvi, Kautokeino kommune - Søknad
+    <p>076/08: Guovdageainnu Heargevuodjin Searvi, Kautokeino kommune - Søknad
 om støtte til reinkappkjøringsbane og drift
 </p>
     <p>Forslag til vedtak

@@ -18,7 +18,9 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/juhan-n.htm</origFileName>
     <parallel_text location="juhan-s.htm" xml:lang="sme"/>
     <metadata>
@@ -27,12 +29,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="isl">Juhan Niillas Eira:</p>
+      <p type="title" xml:lang="sme">Juhan Niillas Eira:</p>
     </section>
     <section>
       <p type="title">Fra Karasjok til døveskole i 2002</p>
@@ -104,7 +106,7 @@
   med familien på fjellet, spesielt når det var merking, slakting og
   skilling. Det var livet mitt.</p>
     <section>
-      <p type="title" xml:lang="sma">Barnehagen</p>
+      <p type="title" xml:lang="sme">Barnehagen</p>
     </section>
     <p>– Da jeg begynte i barnehagen var det noen ansatte som kunne tegn.
   Jeg tror jeg trivdes godt. Jeg gikk i barnehagen i seks år. For mange
@@ -129,7 +131,7 @@
   kursene som var. Selv likte jeg tegnefilmer. Og selvfølgelig Mr.
   Bean.</p>
     <section>
-      <p type="title" xml:lang="eng">Høreapparat</p>
+      <p type="title">Høreapparat</p>
     </section>
     <p>– Jeg begynte med høreapparat da jeg var to år. Sjølve apparatet
   hang i en sele rundt brystet og var koblet på ørepropper. Jeg syntes
@@ -184,7 +186,7 @@
   ikke hvor de skulle så jeg dro hjem. Senere kom en av kameratene mine
   tilbake og spurte hvorfor jeg ikke ble med. –<span type="quote">«Nei, jeg skjønte ikke
   hvor dere skulle»</span>, svarte jeg. Slike episoder var det mange av.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">T. v. Juhan Niillas Eira i reingjerdet</em>
     </p>
     <p>
@@ -229,7 +231,7 @@
     <section>
       <p type="title">Videre utdanning</p>
     </section>
-    <p xml:lang="dan">– Da jeg var ferdig med skolen bestemte jeg meg for å gå på
+    <p>– Da jeg var ferdig med skolen bestemte jeg meg for å gå på
   tømrerlinja på Tiller videregående skole. Det er en videregående
   skole med flere døve og de har mange tolker ansatt på skolen. På
   tømrerlinja var det bare jeg som var døv og brukte tolk. Men det var
@@ -238,7 +240,7 @@
   læreren forklare betydningen av. Det førte til at jeg fikk ekstra
   oppfølging. Jeg hadde tolk men likevel var det ikke lett å henge med.
   Jeg kunne ikke gjenkjenne faguttrykk osv. Bare sånne enkle ord som
-  <span type="quote" xml:lang="isl">«ytre vegg»</span> var vanskelig. Jeg måtte ha det forklart og så måtte jeg
+  <span type="quote">«ytre vegg»</span> var vanskelig. Jeg måtte ha det forklart og så måtte jeg
   prøve å huske det så godt jeg kunne. Det ble tungt når jeg måtte lære
   norsk og faget samtidig. En lærer lagde et hefte til meg med
   faguttrykk og ord som jeg ikke forsto. Det hjalp meg mye. Etter hvert

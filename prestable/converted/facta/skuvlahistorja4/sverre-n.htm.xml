@@ -22,7 +22,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/sverre-n.htm</origFileName>
     <parallel_text location="sverre-s.htm" xml:lang="sme"/>
     <metadata>
@@ -31,23 +30,23 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
     <section>
-      <p type="title" xml:lang="dan">Sverre Somby:</p>
+      <p type="title">Sverre Somby:</p>
     </section>
     <section>
-      <p type="title" xml:lang="sme">Fra Bieskenjárga til Varna</p>
+      <p type="title">Fra Bieskenjárga til Varna</p>
     </section>
     <section>
       <p type="title">Fortalt til Elfrid Boine</p>
     </section>
-    <p xml:lang="nno"><em type="bold">Sverre Somby viser hvordan han som barn blei lenket til
+    <p><em type="bold">Sverre Somby viser hvordan han som barn blei lenket til
         et gjerde i Karasjok.</em>
         (Foto: Amund Johnskareng, Min Áigi)</p>
-    <p xml:lang="eng"><em type="bold">Elfrid Boine, 2007</em>
+    <p><em type="bold">Elfrid Boine, 2007</em>
         (Foto: Basia Głowacka)</p>
     <p>
       <em type="bold">Sverre Somby er født i Karasjok sommeren 1945. Han vokste
@@ -63,7 +62,7 @@
         Finnmark, oppvekst - og utdanningsavdelingen og leder seksjon
         undervisning i Meløy kommune i Nordland.</p>
     <section>
-      <p type="title" xml:lang="ger">Barndommens rike</p>
+      <p type="title">Barndommens rike</p>
     </section>
     <p>Sverre forteller om en sorgløs og fri barndom i Bieskenjarga. Det
   var et fritt liv med mange ulike aktiviteter. Livet var fylt med
@@ -88,7 +87,7 @@
   1950-årene. Skolen i sin helhet var en norsk institusjon med et språk
   jeg ikke behersket. Men det skulle ikke ta mange år før jeg hadde
   glemt samisk.</p>
-    <p xml:lang="dan">Som de fleste andre barn som bodde utenfor bygda, måtte jeg bo på
+    <p>Som de fleste andre barn som bodde utenfor bygda, måtte jeg bo på
   internatet. Jeg definerer meg selv som <em type="italic">skealbma gánda</em> , »en
   rabagast”. Jeg fikk raskt problemer da jeg begynte på skolen. Om det
   var skolen og internatet som ikke var tilpasset meg eller om det var
@@ -191,14 +190,14 @@
     <p>Det fins mye informasjon om forholdene på Varna skolehjem på
   nettet. NRK Østlandssendingen har en reportasje om Varna der en
   tidligere lærer forteller om forholdene på skolen.</p>
-    <p><em type="italic"><span type="quote">"Henning Karlstad var lærer på Våk skolehjem, da skolen
+    <p><em type="italic">"Henning Karlstad var lærer på Våk skolehjem, da skolen
   skiftet navn til Varna på 1950-tallet. ... Senere jobbet han med
   spesialpedagogikk i undervisningsdepartementet og som underdirektør
   ved Oslo kretsfengsel. Han beskriver skolehjemmet som et
   barnefengsel: – I modne år og etter å ha sett en del måter å behandle
   mennesker på, så nøler jeg ikke med å kalle Våk et barnefengsel. Det
   viktigste var å holde orden og system, kunnskapene kom i annen
-  rekke."</span></em>[1]</p>
+  rekke."</em>[1]</p>
     <p>I en oversikt over spesialskoler i Norge blir Varna skole
   beskrevet på følgende måte:<em type="italic">Varna skole, Sperrebotn. 1909 – 1992. Gutter med atferdsvansker.
   Våk skolehjem ble åpnet 15.12.1909 som et samarbeidsprosjekt med 60 %
@@ -248,13 +247,13 @@
   fullførte da skolen med lavt kunnskapsnivå. Som veldig mange andre
   gutter fra Karasjok, reiste jeg til sjøs rett etter at jeg ble ferdig
   på skolen.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Varna skole med gårdsanlegg omkring 1955</em>
     </p>
     <p>
       (Foto utlånt av Våler og Svinndal historielag)</p>
     <section>
-      <p type="title" xml:lang="sma">Veien inn til framtida</p>
+      <p type="title">Veien inn til framtida</p>
     </section>
     <p>Etter noen år til sjøs, gikk jeg på Tromsø maskinistskole. Jeg har
   bestandig vært flink med hendene, og i begynnelsen av 1980 tallet

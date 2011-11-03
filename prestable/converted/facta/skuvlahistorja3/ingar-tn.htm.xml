@@ -15,7 +15,6 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/ingar-tn.htm</origFileName>
     <parallel_text location="ingar-ts.htm" xml:lang="sme"/>
     <metadata>
@@ -24,10 +23,10 @@
     <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Tilleggsmateriale til boka Samisk skolehistorie 3 . Davvi Girji 2009.</p>
     <section>
-      <p type="title" xml:lang="kal">Ingar Eira:</p>
+      <p type="title">Ingar Eira:</p>
     </section>
     <section>
       <p type="title">– Vi faller utenfor</p>
@@ -75,9 +74,9 @@
       <p type="title">Sjøsamebygda</p>
     </section>
     <p>Ingar Eira tok opp dette misforholdet i et foredrag på Sámi
-  allaskuvla sitt jubileumsseminar. Foredraget hadde han kalt <span type="quote">«Samisk
+  allaskuvla sitt jubileumsseminar. Foredraget hadde han kalt «Samisk
   språk og samisk språkutviklingsmuligheter utenfor språklovens
-  virkeområde»</span>.
+  virkeområde».
              
   Eiras hjembygd Kokelv i Kvalsund kommune er slett ingen liten bygd i
   sjøsamisk målestokk. Her bor det 170 mennesker, de fleste mer eller
@@ -164,7 +163,7 @@
   å treffe på en slags Berlinmur. Jeg har blant annet tatt kontakt med
   Samisk utdanningsråd. Det hjalp ikke. Hvorfor de ikke kan hjelpe oss,
   vet jeg ikke. Det er kanskje sånn å forstå at vår situasjon hører til
-  i en annen verden og er <span type="quote">«deres»</span> problemer. Det berører ikke <span type="quote" xml:lang="sme">«oss»</span>,
+  i en annen verden og er «deres» problemer. Det berører ikke «oss»,
   undres Eira.
              
   Sametinget er den institusjon som etter hans syn burde kunne gjøre

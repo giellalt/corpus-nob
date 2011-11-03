@@ -16,7 +16,9 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/badjemanat-s.htm</origFileName>
     <parallel_text location="badjemanat-s.htm" xml:lang="sme"/>
     <metadata>
@@ -25,7 +27,7 @@
     <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -57,7 +59,7 @@
         og hun har intervjua en av foreldrene som var med å starte
         denne spesielle barnehagen.</p>
     <section>
-      <p type="title" xml:lang="swe">Utvikle flyttsamebarnas tilhørighet</p>
+      <p type="title">Utvikle flyttsamebarnas tilhørighet</p>
     </section>
     <p>Flyttsamekvinnene starta barnehage fordi svært mange av dem på den
   tida måtte ta seg arbeid utafor hjemmet og reindriftsnæringa. Det
@@ -84,7 +86,7 @@
     </p>
     <p>(Foto: Svein Lund)</p>
     <section>
-      <p type="title" xml:lang="nno">Læring gjennom arbeid</p>
+      <p type="title">Læring gjennom arbeid</p>
     </section>
     <p>Barnehagens pedagogikk er å lære gjennom arbeid og erfaringer. Det
   fører med seg at barna og de voksne må forlate barnehagens fire
@@ -131,7 +133,7 @@
     <p>Helt fra barnehagen starta i 1991, drømte foreldrene om et eget
   hus for barnehagen. Det største hinderet for bygging var økonomien.
   Foreldra torde ikke begynne å bygge fordi statsstøtta den gang ikke
-  var så høy som nå. Da var det ikke fra statens side snakk om <span type="quote" xml:lang="kal">«full
+  var så høy som nå. Da var det ikke fra statens side snakk om <span type="quote">«full
   barnehagedekning»</span> som mål, slik det er i dag. Derfor blei det ikke
   bygd hus til barnehagen tidligere. Først i 2004/2005 var det ferdig
   og vi kunne flytte inn.</p>
@@ -185,7 +187,7 @@
   avgjort om det blir ei fast ordning, fordi det er avhengig av penger.
   Vi vet ennå ikke om vi har råd til det.</p>
     <section>
-      <p type="title" xml:lang="swe">Marit Guttorm: Kommunen var veldig velvillig</p>
+      <p type="title">Marit Guttorm: Kommunen var veldig velvillig</p>
     </section>
     <section>
       <p type="title">Fortalt til Anne Jannok Eira</p>
@@ -260,7 +262,7 @@
       <p type="title">Badjemánáid Beaiveruoktu på vårflytting
   <span type="quote">«Reinflokken kommer! Hvor skal vi gjømme oss?»</span></p>
     </section>
-    <p xml:lang="dan">Sámi Radio med dagens værmelding: <span type="quote" xml:lang="dan">«Regn, sludd, tåke, sørvestlig
+    <p>Sámi Radio med dagens værmelding: <span type="quote">«Regn, sludd, tåke, sørvestlig
   vind og overskya.»</span></p>
     <p>Vi hadde ikke Bieggaolmmái [2] med oss da vi
   dro av gårde på vårflytting med siidaen til Káre-Máhtte, Dáveđa
@@ -291,10 +293,10 @@
   nok en utvei. Han er ikke rådløs: ostehøvel, skrujern, strenger som
   blir kleshengere. Et helt hus i matboksen. Sysaker. Det er ingen nød
   og glidelåsen gikk også igjen.</p>
-    <p><span type="quote" xml:lang="eng">«Čáh, čáh, čáh I čáh, čáh, čáh A či, či, či, čáhci, čáhci ...»</span>,
+    <p><span type="quote">«Čáh, čáh, čáh I čáh, čáh, čáh A či, či, či, čáhci, čáhci ...»</span>,
   lyder det mot teltduken.
   Ungene sovner alle med baken i været.</p>
-    <p><span type="quote" xml:lang="sme">«God morgen, Ánnoka!»</span> <span type="quote">«Å, det var artig å sove i fars sovepose,
+    <p><span type="quote">«God morgen, Ánnoka!»</span> <span type="quote">«Å, det var artig å sove i fars sovepose,
   men det var litt kaldt på føttene.»</span> Vi glømte nattkulda da vi spiste
   røykakjøtt med brød.</p>
     <p>Etter en time vassa vi i sørpe. <span type="quote">«Se, den lille sleden velta nesten
@@ -302,7 +304,7 @@
   utvei. Han var ikke rådløs. Under skutersetet var det en vinsj.
   Skuterne satte i gang igjen. Nyttig kar den der Arne!</p>
     <p>[1] Barnehagen har bare samisk navn, på norsk
-  ville det blitt omtrent <span type="quote" xml:lang="isl">«Reindriftsbarnas daghjem»</span>.[2] Bieggaalmmái eller Bieggaolmmái (Vindmannen)
+  ville det blitt omtrent <span type="quote" xml:lang="sme">«Reindriftsbarnas daghjem»</span>.[2] Bieggaalmmái eller Bieggaolmmái (Vindmannen)
   var værgud i gammel samisk religion. (Red.)</p>
     <p>Flere artikler fra
   Samisk skolehistorie 3</p>

@@ -17,7 +17,6 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://www.nav.no/Familie/Barnetrygd</origFileName>
     <parallel_text location="Barnetrygd.html" xml:lang="sme"/>
     <parallel_text location="805322312.html" xml:lang="nno"/>
@@ -29,11 +28,11 @@
   </header>
   <body>
     <section>
-      <p type="title" xml:lang="kal">Barnetrygd</p>
+      <p type="title">Barnetrygd</p>
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Barnetrygd</p>
+      <p type="title">Barnetrygd</p>
     </section>
     <p>Barnetrygd er en stønad som gis for
                 alle barn under 18 år som er bosatt i Norge.
@@ -42,7 +41,7 @@
                 barnetrygd for ett barn mer enn det du faktisk bor
                 sammen med (utvidet barnetrygd).</p>
     <section>
-      <p type="title" xml:lang="sma">Hvem kan få barnetrygd?</p>
+      <p type="title">Hvem kan få barnetrygd?</p>
     </section>
     <list>
       <p type="listitem">Barnets mor eller far kan få barnetrygd. Dersom
@@ -61,7 +60,7 @@
                   EØS-land under Internasjonalt i høyremenyen.
                    </p>
     <section>
-      <p type="title" xml:lang="dan">Hvem kan få utvidet barnetrygd?</p>
+      <p type="title">Hvem kan få utvidet barnetrygd?</p>
     </section>
     <p>Utvidet barnetrygd er barnetrygd for ett barn mer
                   enn du faktisk bor sammen med. Du kan få utvidet
@@ -82,15 +81,15 @@
       <p type="listitem">har en ektefelle/samboer som har vært
                     forsvunnet i minst seks måneder</p>
     </list>
-    <p xml:lang="dan"> Hvis du mottar utvidet barnetrygd, faller
+    <p> Hvis du mottar utvidet barnetrygd, faller
                   denne bort hvis du</p>
     <list>
-      <p type="listitem" xml:lang="sma">inngår ekteskap</p>
+      <p type="listitem">inngår ekteskap</p>
       <p type="listitem">har vært samboer med en du ikke har felles barn
                     med, i 12 måneder</p>
     </list>
     <section>
-      <p type="title" xml:lang="nno"> Når du  flytter til utlandet</p>
+      <p type="title"> Når du  flytter til utlandet</p>
     </section>
     <p><em type="italic"> </em> Hvis du har et midlertidig
                   opphold i utlandet sammen med barnet, kan du få
@@ -106,7 +105,7 @@
                   barnetrygd ved utenlandsopphold under Internasjonalt
                   i høyremenyen.</p>
     <section>
-      <p type="title" xml:lang="swe">Hva kan du få i barnetrygd?</p>
+      <p type="title">Hva kan du få i barnetrygd?</p>
     </section>
     <p>Du kan få</p>
     <list>
@@ -116,16 +115,16 @@
                     i Finnmark eller en av kommunene Karlsøy,
                     Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy
                     eller Storfjord i Nord-Troms</p>
-      <p type="listitem" xml:lang="dan">svalbardtillegg, hvis du er bosatt på
+      <p type="listitem">svalbardtillegg, hvis du er bosatt på
                     Svalbard</p>
-      <p type="listitem" xml:lang="sma">utvidet barnetrygd</p>
+      <p type="listitem">utvidet barnetrygd</p>
       <p type="listitem">småbarnstillegg, som er et tillegg til
                     barnetrygden for enslige forsørgere som har barn
                     mellom null og tre år, og som mottar utvidet
                     barnetrygd og full overgangsstønad</p>
     </list>
     <section>
-      <p type="title" xml:lang="swe">Hvor lenge kan du få barnetrygd?</p>
+      <p type="title">Hvor lenge kan du få barnetrygd?</p>
     </section>
     <p>Du kan få barnetrygd fra måneden etter at barnet
                   er født, eller fra måneden etter at vilkårene er
@@ -136,7 +135,7 @@
                   fra søknadstidspunktet dersom vilkårene har vært
                   oppfylt.</p>
     <section>
-      <p type="title" xml:lang="dan">Hvordan søker du om barnetrygd?</p>
+      <p type="title">Hvordan søker du om barnetrygd?</p>
     </section>
     <p>Du trenger som hovedregel ikke å søke om
                   barnetrygd. Dersom barnet blir født i Norge, skal
@@ -144,7 +143,7 @@
                   barnetrygd om lag to måneder etter fødselen. Ønsker
                   du utbetaling til far, må du gi beskjed om dette til
                   NAV-kontoret ditt.</p>
-    <p xml:lang="nno">Dere må likevel søke om barnetrygd når:</p>
+    <p>Dere må likevel søke om barnetrygd når:</p>
     <list>
       <p type="listitem">moren ikke er registrert som bosatt i
                     Norge</p>
@@ -170,21 +169,21 @@
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Barnetrygd</p>
+      <p type="title">Barnetrygd</p>
     </section>
-    <p xml:lang="kal">
+    <p>
                           Satser 
                         </p>
     <p>
                           Beløp pr måned 
                         </p>
-    <p xml:lang="kal">Ordinær sats pr barn: </p>
+    <p>Ordinær sats pr barn: </p>
     <p>970 kr. </p>
     <p>Finnmarkstillegget pr barn: </p>
     <p>320 kr. </p>
     <p>Svalbardtillegget pr barn: </p>
     <p>320 kr. </p>
-    <p xml:lang="dan">Småbarnstillegg til enslig
+    <p>Småbarnstillegg til enslig
                       forsørger: </p>
     <p>660 kr. </p>
     <p>Utvidet barnetrygd til enslig
@@ -194,35 +193,35 @@
                 utbetales en gang per måned.</p>
     <p></p>
     <section>
-      <p type="title" xml:lang="sma">Utbetalingsdatoer</p>
+      <p type="title">Utbetalingsdatoer</p>
     </section>
     <p></p>
     <section>
-      <p type="title" xml:lang="kal">Barnetrygd</p>
+      <p type="title">Barnetrygd</p>
     </section>
     <p>Datoene gjelder for 2010.</p>
-    <p xml:lang="sme">
+    <p>
                           Jan 
                         </p>
     <p>
                           Feb 
                         </p>
-    <p xml:lang="sma">
+    <p>
                           Mar 
                         </p>
-    <p xml:lang="kal">
+    <p>
                           Apr 
                         </p>
-    <p xml:lang="sme">
+    <p>
                           Mai 
                         </p>
-    <p xml:lang="sme">
+    <p>
                           Jun 
                         </p>
-    <p xml:lang="isl">
+    <p>
                           Jul 
                         </p>
-    <p xml:lang="sma">
+    <p>
                           Aug 
                         </p>
     <p>
@@ -231,10 +230,10 @@
     <p>
                           Okt 
                         </p>
-    <p xml:lang="sme">
+    <p>
                           Nov 
                         </p>
-    <p xml:lang="ger">
+    <p>
                           Des 
                         </p>
     <p>29. </p>
@@ -253,11 +252,11 @@
       <p type="title">Målform/språk</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="kal">
+      <p type="listitem">
                   Barnetrygd (Nynorsk)</p>
-      <p type="listitem" xml:lang="sme">
+      <p type="listitem">
                   Mánnáoadju (Samisk)</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
                   Child benefit (Engelsk)</p>
     </list>
     <p></p>
@@ -265,7 +264,7 @@
       <p type="title">Skjema</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="smj">Krav om barnetrygd ( 
+      <p type="listitem">Krav om barnetrygd ( 
                   Bokmål | 
                   Nynorsk | 
                   English | 
@@ -279,7 +278,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="dan">Medlemskap i folketrygden</p>
+      <p type="title">Medlemskap i folketrygden</p>
     </section>
     <list>
       <p type="listitem">
@@ -287,7 +286,7 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="nno">Spørsmål og svar</p>
+      <p type="title">Spørsmål og svar</p>
     </section>
     <list>
       <p type="listitem">
@@ -312,10 +311,10 @@
     </list>
     <p></p>
     <section>
-      <p type="title" xml:lang="swe">Klagerettigheter</p>
+      <p type="title">Klagerettigheter</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="isl">
+      <p type="listitem">
                   Slik klager du</p>
     </list>
     <p></p>
@@ -323,7 +322,7 @@
       <p type="title">Regelverk</p>
     </section>
     <list>
-      <p type="listitem" xml:lang="sma">Hovednr 33 - Barnetrygdloven</p>
+      <p type="listitem">Hovednr 33 - Barnetrygdloven</p>
     </list>
     <p>
                   // </p>
@@ -336,8 +335,8 @@
     <p>
                   Tilbakemelding nav.no</p>
     <p> // </p>
-    <p xml:lang="nno">Tilgjengelighet</p>
-    <p xml:lang="nno">
+    <p>Tilgjengelighet</p>
+    <p>
                   © 2010 Arbeids- og velferdsetaten
                 </p>
     <p></p>

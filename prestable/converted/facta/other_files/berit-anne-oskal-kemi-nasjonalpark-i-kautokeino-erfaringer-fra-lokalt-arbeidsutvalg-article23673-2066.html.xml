@@ -15,7 +15,10 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="nob"/>
+    </multilingual>
     <origFileName>http://naturvernforbundet.no/finnmark/informasjon-til-organisasjonen/berit-anne-oskal-kemi-nasjonalpark-i-kautokeino-erfaringer-fra-lokalt-arbeidsutvalg-article23673-2066.html</origFileName>
     <parallel_text location="berit-anne-oskal-kemi-albmotmeahcci-guovdageainnus-vasahusat-bargolavdegottis-article23672-2066.html" xml:lang="sme"/>
     <metadata>
@@ -34,17 +37,17 @@
     <list>
       <p type="listitem">Finnmark
             forside</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
             Nyheter</p>
       <p type="listitem">
             Om Naturvernforbundet i Finnmark</p>
-      <p type="listitem" xml:lang="kal">
+      <p type="listitem" xml:lang="sme">
             Lokallag</p>
-      <p type="listitem" xml:lang="smj">
+      <p type="listitem" xml:lang="sme">
             Debatt</p>
     </list>
     <section>
-      <p type="title" xml:lang="ger">Du er her:</p>
+      <p type="title">Du er her:</p>
     </section>
     <list>
       <p type="listitem">Finnmark</p>
@@ -66,7 +69,7 @@
       <em type="italic">(Oversatt fra samisk av Anne
             Nesbakken)</em>
     </p>
-    <p xml:lang="smj">
+    <p xml:lang="sme">
             Dát logaldallan sámegillii</p>
     <p>Jeg er oppvokst i reindrifta her i Kautokeino og har
             arbeidet i reindrifta sammen med min mann. Jeg har også
@@ -149,7 +152,7 @@
             tilbakemelding.</p>
     <list>
       <p type="listitem">Må vi velge mellom vern og bruk?</p>
-      <p type="listitem" xml:lang="swe">Er Finnmarksvidda ”vår siste villmark”?</p>
+      <p type="listitem">Er Finnmarksvidda ”vår siste villmark”?</p>
       <p type="listitem">Er nasjonalparker et overgrep mot
                 lokalbefolkningen?</p>
       <p type="listitem">Skal lokalbefolkningen har ha fortrinnsrett til
@@ -169,7 +172,7 @@
             synspunkter i slike spørsmål. Jeg presenter her mine
             private synspunkter, tildels med basis i diskusjoner jeg
             har hatt med min med min mann.</p>
-    <p xml:lang="swe">
+    <p>
       <em type="italic">Er Finnmarksvidda ”vår siste
             villmark”?</em>
     </p>
@@ -216,7 +219,7 @@
             naturressursene?</em>
     </p>
     <p>- Ja, uten tvil slik jeg ser det.</p>
-    <p xml:lang="dan">
+    <p>
       <em type="italic">Er reindriften en trussel mot naturen eller er
             den vår beste naturverner?</em>
     </p>
@@ -296,7 +299,7 @@
     <list>
       <p type="listitem">Tekststørrelse </p>
       <p type="listitem">Skriv ut </p>
-      <p type="listitem" xml:lang="nno">Del på Facebook </p>
+      <p type="listitem">Del på Facebook </p>
       <p type="listitem">Del på Nettby </p>
     </list>
     <section>
@@ -307,15 +310,15 @@
             Gruvedrift</p>
       <p type="listitem">
             Olje og gass</p>
-      <p type="listitem" xml:lang="dan">
+      <p type="listitem">
             Motorferdsel</p>
       <p type="listitem">
             Fiskeri og oppdrett</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
             Verneområder</p>
-      <p type="listitem" xml:lang="eng">
+      <p type="listitem" xml:lang="sme">
             Rovdyr</p>
-      <p type="listitem" xml:lang="kal">
+      <p type="listitem">
             Kraft</p>
       <p type="listitem">
             Biologisk mangfold</p>
@@ -323,11 +326,11 @@
             Jakt og ferskvannsfiske</p>
       <p type="listitem">
             Samisk</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
             Samferdsel</p>
-      <p type="listitem" xml:lang="ger">
+      <p type="listitem">
             Diverse</p>
-      <p type="listitem" xml:lang="ger">
+      <p type="listitem">
             Reindrift</p>
     </list>
     <section>
@@ -341,9 +344,9 @@
             birra</p>
       <p type="listitem">
             Arbeidsprogram for 2010/11</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
             Årsmøtereferat 2010</p>
-      <p type="listitem" xml:lang="swe">
+      <p type="listitem">
             Årsmelding 2009-2010</p>
     </list>
     <p xml:lang="sme"><em type="italic">Naturvernforbundet i Finnmark / Finnmárkku

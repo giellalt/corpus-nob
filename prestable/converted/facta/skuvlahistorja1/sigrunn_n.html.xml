@@ -19,7 +19,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="nno"/>
+    </multilingual>
     <origFileName>sigrunn_n.htm</origFileName>
     <parallel_text location="sigrunn_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,12 +30,12 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
     <section>
-      <p type="title" xml:lang="ger">Sigrunn Rønbeck:</p>
+      <p type="title">Sigrunn Rønbeck:</p>
     </section>
     <section>
       <p type="title">Tilbakeblikk fra Karasjok Arbeiderpartis virke 1934-83</p>
@@ -59,7 +61,7 @@
       foredrag som hun holdt for Karasjok bygdelag i Oslo i 1996. Vi
       takker også Sigrunn Rønbeck for at vi har fått kopiere og bruke
       noen dokumenter fra hennes rikholdige arkiv.</p>
-    <p xml:lang="isl">Kjære venner!</p>
+    <p>Kjære venner!</p>
     <p>Da jeg første gang fikk høre om Karasjok bygdelag av vår datter
   Ingbjørg og våre nå avdøde venner, Ingrid og Georg Næss, ble jeg like
   glad og begeistret som dem, og min glede er enda større nå, etter at
@@ -159,14 +161,14 @@
   Aarseth.)</p>
     <p>Skolestyrets vedtak vakte stor interesse ute blandt folket, og da
   radiomelding den 16/6-53 kom til bygda, om opprettelse av et
-  <span type="quote">"Samisk Råd"</span>, spisset folk ørene og sa: <span type="quote">"Hva skal
+  <span type="quote" xml:lang="nno">"Samisk Råd"</span>, spisset folk ørene og sa: <span type="quote">"Hva skal
   dette bety? Vi har jo vårt eget folkevalgte formannskap og
   kommunestyre, som hovedsakelig bestå av samer, samt fylkesting og
   storting som vi selv har vært med på å velge. Vi har ikke bruk for et
   sameråd."</span> <span type="quote">"Karasjok arbeiderparti har i mere enn 20 år vært
   det eneste organ som har tatt de samiske spørsmål opp til drøftelse
   med oss som saken gjelder, nemlig vår egen samiske befolkning."</span>
-  Resultatet ble at <span type="quote">"Samisk Råd"</span> ble oppnemnt uten at samene
+  Resultatet ble at <span type="quote" xml:lang="nno">"Samisk Råd"</span> ble oppnemnt uten at samene
   ble tatt med på råd om sin egen skjebne.</p>
     <p>Da konstituert fylkesmann Dag Tønder, etter drøftelse med Per
   Fokstad, Tana, kom med forslag om å opprette en Samekomite, ble
@@ -179,7 +181,7 @@
       Rønbeck i skolestriden i Karasjok. Her er han som skoledirektør
       på inspeksjon på skolen i Skoganvarre i 1969.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Ingen samer fra angjeldende distrikter ble funnet verdige til å
   ivareta sine egne interesser. Hans Rønbeck ble spurt av Tønder om å
@@ -194,7 +196,7 @@
   ligningsfullmektig Hartvig Norvang hjem til oss og fortalte om møtet
   og beslutningen. Rønbeck sa da: <span type="quote">"Det var synd at jeg ikke fikk
   vite om møtet. Jeg ville så gjerne ha vært der og hørt på dere."</span>
-  <span type="quote">"Nei"</span>, svarte Hartvig, <span type="quote">"Du skulle ikke vite om det,
+  <span type="quote" xml:lang="nno">"Nei"</span>, svarte Hartvig, <span type="quote">"Du skulle ikke vite om det,
   for da hadde du fått skylda. Dette er vårt verk og
   lensmannsfullmektig Thorleif Balto og jeg har utformet det, og det er
   undertegnet av 7 vitterlighetsvitner."</span></p>
@@ -381,7 +383,7 @@
       <p type="listitem">Bygd vei til Svineng og Beskenjarg, samt mindre veier til de
     enkelte bruk.</p>
       <p type="listitem">Meieri i Lakselv 1955</p>
-      <p type="listitem" xml:lang="sme">Luostejok kraftlag 1956</p>
+      <p type="listitem">Luostejok kraftlag 1956</p>
       <p type="listitem">Utbygging av telefonnett</p>
       <p type="listitem">Karasjok slakteri 1957</p>
       <p type="listitem">Bygging av herredsagronombolig og tannlegebolig samt ansettelse
@@ -404,7 +406,7 @@
     <p>Jeg hadde sammen med min mann den glede å få dem som våre venner
   fra ungdommen av. De var og er et stolt folk, som satte sin ære i å
   klare seg selv, uten å kreve noe fra samfunnet.</p>
-    <p xml:lang="swe">Tromsdalen, 17. oktober 1996
+    <p>Tromsdalen, 17. oktober 1996
   Sigrunn Rønbeck</p>
     <p>Les også Sitater fra intervju med Hans
   Rønbeck</p>

@@ -19,7 +19,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>hatle_n.htm</origFileName>
     <parallel_text location="hatle_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,7 +30,7 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
@@ -59,13 +61,13 @@
         spredte engasjement som lærer. I denne artikkelen er det ikke
         brukt virkelige, men fiktive navn på elevene.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       <em type="bold">Skoganvarre, 17. mai 1967. Skolefanen blir vist for
       bygdefolket. Fra venstre: Torill Grøtte, Birgit Bergh, Sverre
       Hatle, Øyfrid Johansen, Johan Utsi. Småbarna foran: Hilde og
       Magne Bergh.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <p>Dette er ei subjektiv framstilling av en nordmanns opplevelse av
   den norske skolen i et samisk samfunn på 1960- og 70-tallet.</p>
@@ -180,7 +182,7 @@
       14. juni 1966 kom et snøvær og gjorde plenen hvit ei
       stund.</em>
     </p>
-    <p xml:lang="dan">
+    <p>
       (Foto: Richard Bergh)</p>
     <section>
       <p type="title">Samisk begynneropplæring</p>
@@ -213,7 +215,7 @@
   skriftlig. Jeg rekna med at dette var en strategi som blei valgt for
   å unngå å provosere. Prøvde noen å argumentere for at morsmålet var
   et viktig instrument for barnet, kom motforestillingene raskt:
-  <span type="quote" xml:lang="smj">"Gosa dainna sámegielain?"</span> (Hvor kommer du hen med denne
+  <span type="quote" xml:lang="sme">"Gosa dainna sámegielain?"</span> (Hvor kommer du hen med denne
   samisken?) Jeg tenkte likevel for meg sjøl at samiskkunnskapene nok
   ville komme inn som en bieffekt.</p>
     <p>Opplegget møtte liten motstand. Frivillighetsstrategien gjorde det
@@ -236,7 +238,7 @@
   ville ei av jentene ta med Lise og Ola heim i ferien for å lære dem
   samisk, slik at vi kunne slippe å snakke norsk etter nyttår.</p>
     <section>
-      <p type="title" xml:lang="nno">Plan- og lærebokarbeid</p>
+      <p type="title">Plan- og lærebokarbeid</p>
     </section>
     <p>Inez Boon og Liv Jerpseth hadde gjort et pionerarbeid. Flere enn
   jeg trudde vel og håpa at dette var en sped begynnelse til ei
@@ -250,7 +252,7 @@
   tid for å ri kjepphester, men å få ting gjort. Så jeg sa ja på det
   vilkåret at forslaget mitt blei lagt fram for et eller anna
   representativt forum av lærere som underviste i samisk.
-  Grunnskolerådet utnevnte da ei <span type="quote" xml:lang="isl">"referansegruppe"</span> som jeg
+  Grunnskolerådet utnevnte da ei <span type="quote">"referansegruppe"</span> som jeg
   møtte regelmessig og rådførte meg med under arbeidet.</p>
     <p>Rammene var stramme: Fagplan for <em type="italic">Norsk med skriftforming</em>
   skulle utarbeides først, og samiskplanen skulle følge mønsteret i
@@ -286,10 +288,10 @@
   slik hun hadde vært for Inez Boon sine bøker. (Hun var opprinnelig
   fra Oslo, men med åra var hun blitt <span type="quote">"forsamisket"</span>. Det
   fortelles fra Kautokeino at en elev blei spurt hvem de hadde til
-  <span type="quote" xml:lang="sme">"rivgu"</span> (frøken, norsk dame). <span type="quote" xml:lang="nno">"Vi har ikke noen
+  <span type="quote" xml:lang="sme">"rivgu"</span> (frøken, norsk dame). <span type="quote">"Vi har ikke noen
   rivgu"</span>, var svaret, <span type="quote">"vi har Inger Seierstad"</span>.)</p>
     <p>
-      <em type="bold"><span type="quote" xml:lang="smj">"dá leaba lásse ja máhtte"</span> var ei av bøkene
+      <em type="bold"><span type="quote" xml:lang="sme">"dá leaba lásse ja máhtte"</span> var ei av bøkene
       Sverre Hatle laga for samisk begynneropplæring. Her er ei nyere
       utgave i nåværende rettskriving.</em>
     </p>
@@ -327,10 +329,10 @@
   skoledirektøren, og <span type="quote">"samekonsulenten"</span> fikk ord på seg for å
   være en erkebyråkratisk kjepphestrytter. I Skoganvarre fikk vi det vi
   hadde rett på, men det var ikke så kjekt å bli betrakta som
-  <span type="quote" xml:lang="kal">"gullunge"</span>, som fikk sukkertøy og klapp på skuldra, mens
+  <span type="quote" xml:lang="sme">"gullunge"</span>, som fikk sukkertøy og klapp på skuldra, mens
   storesøskena ute ved fjorden følte seg urettferdig behandla.</p>
     <p>
-      <em type="bold"><span type="quote" xml:lang="sme">"Áhkku ja Náhkku"</span> var opprinnelig en tegneserie
+      <em type="bold"><span type="quote">"Áhkku ja Náhkku"</span> var opprinnelig en tegneserie
       som Sverre Hatle laga, og som blei trykt i den samiske avisa
       Nordkalotten. Seinere blei den utgitt i bokform, og blei så
       populær at den er trykt opp igjen i ny rettskriving. Her skildrer
@@ -347,12 +349,12 @@
   samer. Hvor kunne han finne dem? Jeg spurte om han hadde sett folk
   mens han satt der i vegkanten. Jo, han hadde sett en del som kom til
   og fra butikken like ved. Jeg sa at de fleste av dem sannsynligvis
-  var samer. Han trodde meg ikke, de hadde bare <span type="quote">"vanlige"</span>
+  var samer. Han trodde meg ikke, de hadde bare <span type="quote" xml:lang="sme">"vanlige"</span>
   klær på seg. Jeg forklarte at stort sett var det bare
   reindriftssamene som brukte kofte til hverdags, og de holdt til ute
   ved kysten nå, men de andre var jo like mye samer. Han protesterte:
   Disse var jo ikke ekte, han ville se <span type="quote" xml:lang="sme">"real lapps"</span>, og så
-  ville han prøve å slakte rein – <span type="quote" xml:lang="eng">"only for experience!"</span></p>
+  ville han prøve å slakte rein – <span type="quote">"only for experience!"</span></p>
     <p>Nåvel, han var ung og naiv og litt ekstrem, men forestillingene om
   kulturmotsetninger kan ha ulike utslag. Jeg hadde ei gammeltante i
   Sør-Afrika, der hun og bror til bestefar dreiv et pensjonat. På sine
@@ -362,7 +364,7 @@
   sine små svarte venner, men de svarte blei aldri heilt voksne, og det
   var til alles beste at de overlot til de kvite å styre landet.
   Liknende utsagn møtte jeg i Finnmark på 1960-tallet, særlig med blikk
-  på <span type="quote" xml:lang="kal">"fjellfinnan"</span>.</p>
+  på <span type="quote">"fjellfinnan"</span>.</p>
     <p>Kanskje er majoriteter mer tilbøyelige til å se på minoriteter som
   annerledes, men jeg blei av og til slått av at samer også kan
   overdrive kulturforskjellene. Jeg tror en del av dem jeg hadde daglig
