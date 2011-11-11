@@ -19,7 +19,9 @@
       <free/>
     </availability>
     <submitter email="boerre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>ostby_n.htm</origFileName>
     <parallel_text location="ostby_s.html" xml:lang="sme"/>
     <metadata>
@@ -28,7 +30,7 @@
     <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 1 . Davvi Girji
   2005.</p>
@@ -39,7 +41,7 @@
       <p type="title">- Vanskelig å kutte internatforbindelsen</p>
     </section>
     <section>
-      <p type="title" xml:lang="nno">Intervjua av Ingjerd Tjelle</p>
+      <p type="title">Intervjua av Ingjerd Tjelle</p>
     </section>
     <p><em type="bold">Anne Kirsten Østby</em>
         (Foto: Ingjerd Tjelle)</p>
@@ -58,9 +60,9 @@
     </p>
     <p>Selv om de to siste internatene i Finnmark ble lagt ned sommeren
   1999, eksisterer det fortsatt et internat i Anne Kirsten Østbys hode.
-  Hun sier nemlig <span type="quote" xml:lang="swe">"Internatet, vær så god"</span> når du ringer
+  Hun sier nemlig <span type="quote">"Internatet, vær så god"</span> når du ringer
   henne på arbeidsplassen som er kantina på skolen i Karasjok. Hun kan
-  også si <span type="quote" xml:lang="ger">"internatet"</span> når folk ringer hjem til henne.
+  også si <span type="quote" xml:lang="sme">"internatet"</span> når folk ringer hjem til henne.
   Internatlivet har fulgt henne så lenge at det er vanskelig å bare
   kutte forbindelsen. Det gjør nemlig noe med et menneske å ha vært
   elev og jobbet på et internat gjennom et helt liv - det må bli noen
@@ -119,7 +121,7 @@
         Myrskog, Ingvald Svineng (Åsen), Sverre Bjørkmo.</em>
         (Foto utlånt av Anne K. Østby)</p>
     <section>
-      <p type="title" xml:lang="nno">Ulik mat til lærere og elever</p>
+      <p type="title">Ulik mat til lærere og elever</p>
     </section>
     <p>I 1962 skulle hun som 18-åring vende tilbake til Grensen
   skoleinternat hvor hun hadde tilbragt noen av sine ungdomsår. Mye
@@ -135,7 +137,7 @@
     <p>
         (Tegning: Josef Halse)</p>
     <section>
-      <p type="title" xml:lang="dan">En ny verden på 1970-tallet</p>
+      <p type="title">En ny verden på 1970-tallet</p>
     </section>
     <p>I 1966 sluttet Anne Kirsten ved Grensen for å gifte seg. Hun ble
   borte fra internatverdenen i ni år, og da hun kom tilbake til

@@ -12,7 +12,9 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/fredsvenn-n.htm</origFileName>
     <parallel_text location="fredsvenn-s.htm" xml:lang="sme"/>
     <metadata>
@@ -21,7 +23,7 @@
     <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -76,7 +78,7 @@
   jenter. Disse ble supplert med et teoretisk kurs som var obligatorisk
   for alle elevene. Det kom til å bestå av engelsk, norsk og norsk
   (nordisk) litteratur, regning og samfunnslære.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Elever og lærare samla utafor skolebrakka</em>
     </p>
     <p>
@@ -162,8 +164,8 @@
   5000 fra deres gavekonto. Også to mindre brakker som skolen hadde
   benyttet det første året, ble flyttet og plassert sammen med den
   store, et arbeid som ble utført av to danske frivillige.
-  Skoleanlegget fikk navnet <span type="quote" xml:lang="swe">«Fredvang»</span>. To av lærerne, Lolo Tresvig og
-  Knud Larsen, ble med på flyttelasset til <span type="quote" xml:lang="swe">«Fredvang»</span>, men nå som
+  Skoleanlegget fikk navnet <span type="quote">«Fredvang»</span>. To av lærerne, Lolo Tresvig og
+  Knud Larsen, ble med på flyttelasset til <span type="quote">«Fredvang»</span>, men nå som
   offentlig ansatte og med lønn!</p>
     <p>Flere artikler fra
   Samisk skolehistorie 3</p>

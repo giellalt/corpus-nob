@@ -18,7 +18,9 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://skuvla.info/skolehist/bertil-n.htm</origFileName>
     <parallel_text location="bertil-s.htm" xml:lang="sme"/>
     <metadata>
@@ -27,7 +29,7 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p xml:lang="sme">Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 4 . Davvi Girji
   2010.</p>
@@ -99,7 +101,7 @@
     <p>Styrer på skolen var Johan Stålsett, han kunne finsk men ikke
   samisk. På skolen måtte lærerne bare bruke norsk. Men vi hørte aldri
   noe om at elevene ikke fikk snakke samisk eller finsk.</p>
-    <p xml:lang="nno">
+    <p>
       <em type="bold">Børselv skole, 2007</em>
     </p>
     <p>
