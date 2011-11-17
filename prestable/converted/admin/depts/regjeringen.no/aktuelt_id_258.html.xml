@@ -20,11 +20,11 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
     <section>
-      <p type="title">Aktuelt</p>
+      <p type="title" xml:lang="sma">Aktuelt</p>
     </section>
     <section>
       <p type="title">Her finner du de 20 sist publiserte sakene fra
@@ -36,8 +36,8 @@
       <p type="title">Budsjett for bedre og sikrere
                         sjøtransport langs kysten</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>- Det er et sterkt budsjett for kysten når
+    <p type="text">[05.10.2010]</p>
+    <p type="text">- Det er et sterkt budsjett for kysten når
                         regjeringa i 2011 vil styrke bevilgningen til
                         oppfølging av Nasjonal transportplan,
                         slepebåtberedskap, beredskap mot akutt
@@ -53,8 +53,8 @@
       <p type="title">Flere fiskerihavner og nye tiltak i
                         farleiene</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>- Fiskerihavnene er viktige for å
+    <p type="text">[05.10.2010]</p>
+    <p type="text">- Fiskerihavnene er viktige for å
                         videreutvikle fiskerinæringa og sikre bosetting
                         langs kysten. Tiltak i farleiene øker på sin
                         side sikkerheten i sjøtransporten og gjør det
@@ -69,8 +69,8 @@
       <p type="title">Styrka beredskap mot akutt
                         forureining</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>- For å styrkje beredskapen mot akutt
+    <p type="text">[05.10.2010]</p>
+    <p type="text">- For å styrkje beredskapen mot akutt
                         forureining foreslår regjeringa å auke løyvinga
                         til slepebåtberedskap med 30 millionar kroner
                         og midlane til beredskap mot akutt forureining
@@ -83,8 +83,8 @@
       <p type="title">Byggesteiner i nord – etablering av
                         BarentsWatch</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>- BarentsWatch er et helhetlig overvåkings-
+    <p type="text">[05.10.2010]</p>
+    <p type="text">- BarentsWatch er et helhetlig overvåkings-
                         og informasjonssystem for de nordlige hav- og
                         kystområdene og en viktig del av regjeringens
                         nordområdestrategi. Regjeringa foreslår derfor
@@ -96,8 +96,8 @@
       <p type="title">Regjeringa vidarefører garantiavtalar
                         eitt år til</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Regjeringa foreslår å vidareføre
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Regjeringa foreslår å vidareføre
                         garantiavtalane som Innovasjon Noreg gjorde i
                         2009 med Norges Råfisklag og Norges
                         Sildesalgslag i eitt år til, slik at avtalane
@@ -109,8 +109,8 @@
       <p type="title">Enighet i Den blandete norsk-russiske
                         fiskerikommisjon om kvotene for 2011</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Den blandete norsk-russiske fiskerikommisjon
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Den blandete norsk-russiske fiskerikommisjon
                         møtes denne uka i Svolvær til sin 39. sesjon.
                         Kommisjonen arbeider blant annet med å sikre en
                         rasjonell og bærekraftig forvalting av torsk,
@@ -120,8 +120,8 @@
       <p type="title">Samarbeid for arbeid i
                         sjømatnæringa</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         leder andre arbeidsmøte i prosjektet
                         <span type="quote">"Samarbeid for arbeid i
                         sjømatnæringa"</span>. Møtet finner sted i
@@ -130,8 +130,8 @@
       <p type="title">Åpning av Herøy marine
                         næringspark</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         åpner Herøy marine næringspark i Nordland
                         fylke.</p>
     <section>
@@ -142,8 +142,8 @@
       <p type="title">Om å øke sjøtransport på
                         bekostning av vei</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Fiskeri- og kystminister er til stede på
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister er til stede på
                         Stortinget i forbindelse med at Interpellasjon
                         - <span type="quote">"Om å øke sjøtransport på bekostning av
                         vei"</span> er satt opp til behandling.</p>
@@ -151,34 +151,34 @@
       <p type="title"><span type="quote">"Transport og Logistikk
                         2010"</span></p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         holder åpningsinnlegget på konferansen
                         <span type="quote">"Transport og Logistikk 2010"</span>.</p>
     <section>
-      <p type="title">Aqua Sur</p>
+      <p type="title" xml:lang="kal">Aqua Sur</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Statssekretær Vidar Ulriksen deltar på Aqua
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Statssekretær Vidar Ulriksen deltar på Aqua
                         Sur i Chile.</p>
     <section>
       <p type="title">Åpning av farleia ved Solund</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Statssekretær Vidar Ulriksen åpner farleia
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Statssekretær Vidar Ulriksen åpner farleia
                         ved Solund i Sogn og fjordane fylke.</p>
     <section>
       <p type="title">Besøk på Måløy</p>
     </section>
-    <p>[04.10.2010]</p>
-    <p>Statssekretær Vidar Ulriksen besøker Måløy i
+    <p type="text">[04.10.2010]</p>
+    <p type="text">Statssekretær Vidar Ulriksen besøker Måløy i
                         forbindelse med prosjektet <span type="quote">"Samarbeid for
                         arbeid"</span>.</p>
     <section>
       <p type="title" xml:lang="swe">EXPO 2010 i Shanghai</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         deltar under EXPO 2010 i Shanghai i Kina, i
                         forbindelse med Seafood and Fisheries Week som
                         arrangeres av Fiskeri- og kystdepartementet,
@@ -189,8 +189,8 @@
       <p type="title" xml:lang="kal"><span type="quote" xml:lang="kal">"Laks nr. 10 millioner"</span> til
                         Kina</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         markerer norsk lakseeksport til Kina når laks
                         nummer 10 millioner nå sendes til Shanghai.
                         Markeringen finner sted på Eggesbønes ved
@@ -198,15 +198,15 @@
     <section>
       <p type="title">Roseutdeling</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         deler ut roser i Tromsø sentrum.</p>
     <section>
       <p type="title">Presenterer statsbudsjettet for
                         2011</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         er til stede i Tromsø for å presentere
                         statsbudsjettet for 2011.</p>
     <section>
@@ -214,8 +214,8 @@
                         samarbeidet om infrastruktur og sjøsikkerhet i
                         nordområdene</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Norge og Russland er enige om å bedre
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Norge og Russland er enige om å bedre
                         radionavigasjonsdekningen i Barentshavet. Det
                         skal skje ved å synkronisere det norske
                         systemet Loran-C og det tilsvarende russiske
@@ -229,8 +229,8 @@
       <p type="title">Den norsk-russiske fiskerikommisjon
                         møtes i Svolvær</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p>Den 39. sesjon i Den blandete norsk-russiske
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Den 39. sesjon i Den blandete norsk-russiske
                         fiskerikommisjon finner sted i Svolvær i
                         perioden 4. – 8. oktober 2010. Kommisjonen
                         arbeider med å sikre en rasjonell og
@@ -240,8 +240,8 @@
     <section>
       <p type="title" xml:lang="ger">Ministermøte i Aberdeen</p>
     </section>
-    <p>[01.10.2010]</p>
-    <p xml:lang="nno">Fiskeri- og kystminister Lisbeth Berg-Hansen
+    <p type="text">[01.10.2010]</p>
+    <p type="text">Fiskeri- og kystminister Lisbeth Berg-Hansen
                         deltek fredag 1. oktober på ein
                         ministerkonferanse i Aberdeen. Her møtest
                         ministrar frå land rundt Nordsjøen for å drøfte

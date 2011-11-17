@@ -20,21 +20,21 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 48460 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
   </header>
   <body>
     <section>
-      <p type="title">Aktuelt</p>
+      <p type="title" xml:lang="sma">Aktuelt</p>
     </section>
-    <p>Dette er en liste over de sist publiserte
+    <p type="text">Dette er en liste over de sist publiserte
                   saker fra Finansdepartementet. Se også oversikten
                   over andre aktuelle saker i venstremenyen.</p>
     <section>
       <p type="title">Et budsjett for arbeid og
                         velferd</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>– Norge har klart seg bedre enn de fleste
+    <p type="text">[05.10.2010]</p>
+    <p type="text">– Norge har klart seg bedre enn de fleste
                         andre land gjennom finanskrisen. En
                         hovedoppgave for den økonomiske politikken er å
                         holde sysselsettingen oppe og arbeidsledigheten
@@ -48,8 +48,8 @@
       <p type="title">Nøkkeltall i budsjettet for
                         2011</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Aktiviteten i norsk økonomi er på vei opp,
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Aktiviteten i norsk økonomi er på vei opp,
                         og det anslås nå en vekst i fastlandsøkonomien
                         på 1,7 prosent i år og 3,1 prosent neste år,
                         som er over trendveksten i økonomien.
@@ -61,8 +61,8 @@
       <p type="title">Statens inntekter og utgifter – en
                         oversiktstabell</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Statens samlede inntekter i 2011 er beregnet
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Statens samlede inntekter i 2011 er beregnet
                         til 1 113 milliarder kroner og samlede utgifter
                         til 960 milliarder kroner. Lånetransaksjoner er
                         ikke medregnet i tallene.</p>
@@ -70,8 +70,8 @@
       <p type="title">Regjeringens forslag til skatte- og
                         avgiftsopplegg for 2011</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Regjeringen foreslår å tilpasse
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Regjeringen foreslår å tilpasse
                         skattereglene til pensjonsreformen slik at det
                         skal lønne seg mer å arbeide ved siden av å
                         motta pensjon. Samtidig videreføres og styrkes
@@ -82,8 +82,8 @@
       <p type="title">Tilpasning av skattereglene til
                         pensjonsreformen</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Regjeringen foreslår i budsjettet for 2011
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Regjeringen foreslår i budsjettet for 2011
                         nødvendige endringer i skattereglene for
                         pensjonsinntekt for å tilpasse disse til
                         pensjonsreformen som iverksettes fra 1. januar
@@ -96,8 +96,8 @@
     <section>
       <p type="title">Endringer i e-momsen</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Regjeringen foreslår å innføre
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Regjeringen foreslår å innføre
                         merverdiavgiftsplikt når privatpersoner bosatt
                         i Norge kjøper elektroniske tjenester fra
                         utlandet. – Det bør betales merverdiavgift ved
@@ -109,8 +109,8 @@
     <section>
       <p type="title">Gavefradragsordningen utvides</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Regjeringen foreslår å utvide
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Regjeringen foreslår å utvide
                         gavefradragsordningen til også å gjelde for
                         frivillige organisasjoner i EØS-området. –
                         Denne endringen betyr at personer som skatter
@@ -122,8 +122,8 @@
       <p type="title">Mer lønnsomt med lavere
                         CO2-utslipp</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>For ytterligere å styrke motivasjonen til å
+    <p type="text">[05.10.2010]</p>
+    <p type="text">For ytterligere å styrke motivasjonen til å
                         anskaffe biler med lave CO2-utslipp foreslår
                         Regjeringen en mindre justering av
                         engangsavgiften. – Vi følger opp tidligere
@@ -134,8 +134,8 @@
     <section>
       <p type="title" xml:lang="kal">Finanstale</p>
     </section>
-    <p>[05.10.2010]</p>
-    <p>Statsbudsjettet for 2011 er et ansvarlig
+    <p type="text">[05.10.2010]</p>
+    <p type="text">Statsbudsjettet for 2011 er et ansvarlig
                         budsjett for å sikre arbeidsplasser,
                         verdiskaping og velferd. Vi investerer i vår
                         framtidige arbeidskraft og produksjon gjennom
@@ -146,12 +146,12 @@
     <section>
       <p type="title" xml:lang="eng">Finansdepartementet</p>
     </section>
-    <p>Telefon:</p>
-    <p>22 24 90 90</p>
+    <p type="text">Telefon:</p>
+    <p type="text">22 24 90 90</p>
     <section>
-      <p type="title">Adresse:</p>
+      <p type="title" xml:lang="eng">Adresse:</p>
     </section>
-    <p>Finansdepartementet
+    <p type="text">Finansdepartementet
                       Postboks 8008 Dep
                       0030 Oslo<em type="bold">Besøksadresse:</em>
                       Akersgata 40
