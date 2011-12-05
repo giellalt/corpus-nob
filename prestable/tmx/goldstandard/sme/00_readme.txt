@@ -3,7 +3,9 @@ Gold standard for parallellisation
 
 
 Candidates:
-3.html_id=458425.tmx
+admin, html: 3.html_id=458425.tmx
+facta, html: kirsten-s.htm.tmx 
+admin, doc: 2000_1s.doc.tmx
 
 Ready:
 law, pdf: finnmarkkulahka_web_lettere.pdf.tmx
