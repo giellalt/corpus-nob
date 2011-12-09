@@ -5,6 +5,7 @@ Gold standard for parallellisation
 Candidates:
 admin, doc: 2000_1s.doc.tmx
 admin, pdf: Samiske_tall_forteller_3_SAM.pdf.tmx
+admin, doc: stahtaministara-oajagesardni-jagi-2010.html_id=629901.tmx
 
 Ready:
 facta, html: tanapioner-s.htm.tmx
