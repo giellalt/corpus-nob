@@ -5,7 +5,7 @@ Gold standard for parallellisation
 Candidates:
 admin, doc: 2000_1s.doc.tmx
 admin, pdf: Samiske_tall_forteller_3_SAM.pdf.tmx
-law, pdf: Reindriftsloven_NordSamisk.pdf.tmx
+admin, pdf: stm200120020033000se_pdts.pdf.tmx
 
 Ready:
 facta, html: tanapioner-s.htm.tmx
