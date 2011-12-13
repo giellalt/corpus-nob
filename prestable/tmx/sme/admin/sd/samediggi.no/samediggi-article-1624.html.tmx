@@ -1,93 +1,61 @@
-<?xml version='1.0'  encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tmx>
-<header
-    segtype="sentence"
-    o-tmf="OmegaT TMX"
-    adminlang="EN-US"
-    srclang="sme-NO"
-    datatype="plaintext"
-    >
-</header>
-<body>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Sámediggái beassama njuolggadusat 
-</seg>
+  <body>
+    <tu><tuv xml:lang="nob">
+      <seg>Adgangsregler for Sametinget</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Adgangsregler for Sametinget 
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Sámediggái beassama njuolggadusat</seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Sámedikki čoahkkinjođihangoddi lea mearridan njuolggadusaid Sámediggái beassama várás . 
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg>Sametingets møtelederskap har fastsatt adgangsreglement for Sametinget .</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Sametingets møtelederskap har fastsatt adgangsreglement for Sametinget . 
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Sámedikki čoahkkinjođihangoddi lea mearridan njuolggadusaid Sámediggái beassama várás .</seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Áigumuš beassannjuolggadusaiguin lea nannet Sámedikki bargiid , álbmotválljen áirasiid ja gallejeaddjiid sihkkarvuođa ja bargobirrasa . 
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg>Formålet med adgangsreglementet er å styrke sikkerhet og arbeidsmiljøet i Sametinget for ansatte , folkevalgte og besøkende .</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Formålet med adgangsreglementet er å styrke sikkerhet og arbeidsmiljøet i Sametinget for ansatte , folkevalgte og besøkende . 
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Áigumuš beassannjuolggadusaiguin lea nannet Sámedikki bargiid , álbmotválljen áirasiid ja gallejeaddjiid sihkkarvuođa ja bargobirrasa .</seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Fiillat 
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg>Filer</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Filer 
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Fiillat</seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Njuojggadusat Sámediggái beassama birra ( dárogiella ) 
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg></seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Njuojggadusat Sámediggái beassama birra ( dárogiella )</seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg>Sametingets adgangsreglement ( norsk )</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Sametingets adgangsreglement ( norsk ) 
-</seg>
+  <tuv xml:lang="sme">
+      <seg></seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg>Sametingets adgangsreglement ( samisk )</seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>Sametingets adgangsreglement ( samisk ) 
-</seg>
+  <tuv xml:lang="sme">
+      <seg></seg>
     </tuv>
-  </tu>
-  <tu>
-    <tuv xml:lang="sme">
-      <seg>Njuolggadusat Sámediggái beassama birra ( sámegiella ) 
-</seg>
+    </tu>
+    <tu><tuv xml:lang="nob">
+      <seg></seg>
     </tuv>
-    <tuv xml:lang="nob">
-      <seg>
-</seg>
+  <tuv xml:lang="sme">
+      <seg>Njuolggadusat Sámediggái beassama birra ( sámegiella )</seg>
     </tuv>
-  </tu>
-</body>
+    </tu>
+  </body>
 </tmx>
