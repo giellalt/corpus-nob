@@ -1,13 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-<header
-    segtype="sentence"
-    o-tmf="OmegaT TMX"
-    adminlang="en-US"
-    srclang="nob"
-    datatype="plaintext"
-    >
-</header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"/>
   <body>
     <tu>
       <tuv xml:lang="nob">
@@ -26,7 +19,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="nob">73
+      <tuv xml:lang="nob">
         <seg>Tid : 08 .  – 10. februar 2005</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -190,8 +183,7 @@
         <seg>Originalspråk : Samisk og norsk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -212,8 +204,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : Sámegiella ja dárogiella</seg>
@@ -221,7 +212,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Saken påbegynt tirsdag 8. februar 2005 kl. 10.00 .</seg>
+        <seg>Saken påbegynt tirsdag 8. februar 2005 kl. 10.00 .  Representanter</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ášši meannudeapmi álggahuvvui disdaga guovvamánu 8. b. 2005 dii. 10.00 .</seg>
@@ -229,18 +220,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Representanter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Áirasat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Følgende representanter var tilstede ved konstitueringen :</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čuovvovaš áirasat ledje vuođđudeamis :</seg>
+        <seg>Áirasat  Čuovvovaš áirasat ledje vuođđudeamis :</seg>
       </tuv>
     </tu>
     <tu>
@@ -981,7 +964,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Saken ble avsluttet tirsdag 8. februar 2005 kl. 10.15 .  Originalspråk : Norsk</seg>
+        <seg>Saken ble avsluttet tirsdag 8. februar 2005 kl. 10.15 .</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ášši meannudeapmi loahpahuvvui disdaga guovvamánu 8. b. 2005 dii. 10.15 .</seg>
@@ -1013,8 +996,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : Dárogiella</seg>
@@ -4054,10 +4036,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>§ 15 Avstemning ved ansettelser  Ved ansettelser gjelder følgende regler :</seg>
+        <seg>§ 15 Avstemning ved ansettelser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>§ 15 Jienasteamit virgáibidjamiid oktavuođas  Virgáibidjamiid oktavuođas gustojit čuovvovaš njuolggadusat :</seg>
+        <seg>§ 15 Jienasteamit virgáibidjamiid oktavuođas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved ansettelser gjelder følgende regler :</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgáibidjamiid oktavuođas gustojit čuovvovaš njuolggadusat :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,8 +5020,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : Darogiella</seg>
@@ -5250,7 +5239,7 @@
         <seg>Regjeringen la i fjor fram et forslag til en finnmarkslov , og et eget samerettsutvalg utreder rettighetsforholdene fra Troms og sørover til Hedmark .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mannan jagi ovddidii ráđđehus Finnmárkkuláhkaevttohusa , ja sierra sámi vuoigatvuođalávdegoddi čielggada vuoigatvuođadiliid Romssa fylkka rájes máttas guvlui Hedmárkui .</seg>
+        <seg>Mannan jagi ovddidii ráđđehus Finnmárkkuláhkaevttohusa , ja sierra sámi vuoigatvuođalávdegoddi čielggada vuoigatvuođadiliid Romssa fylkka rájes máttás guvlui Hedmárkui .</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,7 +6295,7 @@
         <seg>Derfor behandles ikke forslaget til finnmarkslov som hvilken som helst enkeltsak i Stortinget .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Danne ii meannuduvvo Finnmárkkuláhka dego vaikke makkár eaŋkiláššiid Stuorradikkis .</seg>
+        <seg>Danne ii meannuduvvo Finnmárkkuláhka dego vaikke makkár eaŋkiláššiid Stuorradikkis .  Go guoská ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,7 +6303,7 @@
         <seg>Når det gjelder ;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Go guoská ;</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,7 +7055,7 @@
         <seg>Sametinget har overtatt forvaltningsoppgaver fra staten over samiske institusjoner , tilskuddsordninger og andre forvaltningsoppgaver , uten at Sametingets overtakelse har medført bedre rammebetingelser for de dette gjelder .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggi lea stáhta váldán badjelasas hálddašit sámi ásahusaid ja doarjjaortnegiid ja eará hálddašandoaimmaid almmá buvttekeahttá buoret rámmaeavttuid sidjiide geaidda dat guoská .</seg>
+        <seg>Sámediggi lea stáhta váldán badjelasas hálddašit sámi ásahusaid ja doarjjaortnegiid ja eará hálddašandoaimmaid almmá buvttekeahttá buoret rámmaeavttuid sidjiide geaidda dat guoská .  Lea baicce geavvan nuppeláhkai .</seg>
       </tuv>
     </tu>
     <tu>
@@ -7074,7 +7063,7 @@
         <seg>Det er heller det motsatte som har vært tilfelle .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lea baicce geavvan nuppeláhkai .</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8807,8 +8796,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : Dárogiella</seg>
@@ -9472,7 +9460,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Dette oppleves av rådet som en utilfredsstillende situasjon .  I forhold til den legitime interesse og innsyn den samiske offentligheten bør ha om økonomiforvaltningen ved Sametinget kan det derfor stilles spørsmål om Sametinget budsjettmessige stilling overfor regjeringen / departementet og Riksrevisjonen i lengden er tilfredsstillende .</seg>
+        <seg>Dette oppleves av rådet som en utilfredsstillende situasjon .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I forhold til den legitime interesse og innsyn den samiske offentligheten bør ha om økonomiforvaltningen ved Sametinget kan det derfor stilles spørsmål om Sametinget budsjettmessige stilling overfor regjeringen / departementet og Riksrevisjonen i lengden er tilfredsstillende .</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dan legitiima beroštumi ja geahččama ektui mii sámi almmolašvuođas berrešii leat Sámedikki ekonomiijahálddašeami ektui , sáhttá ge danne divvut gažaldaga ahte lea go Sámedikki bušeahtalaš dilli ráđđehusa / departemeantta ja Riikarevišuvnna guovdu guhkkit áigái dohkálaš .</seg>
@@ -11112,8 +11108,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : dárogiella</seg>
@@ -13684,8 +13679,7 @@
         <seg>Originalspråk : Norsk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,8 +13700,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>
-</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđogiella : Dárogiella</seg>
