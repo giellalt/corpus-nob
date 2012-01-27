@@ -1,257 +1,374 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"/>
   <body>
-    <tu><tuv xml:lang="nob">
-      <seg>Søknadsskjemaer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanskovit</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søknadsskjemaer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanskovit</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 05.05.2010</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 05.05.2010</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 05.05.2010</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 05.05.2010</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Her finner du alle søknadsskjemaer knyttet til Sametingets søkerbaserte tilskudds- og stipendordninger .</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Dás gávnnat daid ohcanskoviid , mat gullet Sámedikki ohcanvuđot doarjja- ja stipeandaortnegiidda .</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her finner du alle søknadsskjemaer knyttet til Sametingets søkerbaserte tilskudds- og stipendordninger .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás gávnnat daid ohcanskoviid , mat gullet Sámedikki ohcanvuđot doarjja- ja stipeandaortnegiidda .</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Overordnete retningslinjer for Sametingets søkebaserte tilskuddsordninger</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Bajit njuolggadusat daid doarjagiid hálddašeami odasmahttin maid Sámedikkis sáhttá ohcat</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 07.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 07.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Overordnete retningslinjer for Sametingets søkebaserte tilskuddsordninger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bajit njuolggadusat daid doarjagiid hálddašeami odasmahttin maid Sámedikkis sáhttá ohcat</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 07.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 07.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - areal , miljø- og kulturvern</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - areálat , birasgáhtten ja kultursuodjaleapmi</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 04.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 04.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - areal , miljø- og kulturvern</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - areálat , birasgáhtten ja kultursuodjaleapmi</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 04.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 04.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - helse , sosial og omsorg</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - dearvvašvuohta , sosiála ja fuolahus</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 04.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 04.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - helse , sosial og omsorg</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - dearvvašvuohta , sosiála ja fuolahus</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - kultur</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - ealáhusat</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 04.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 04.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 30.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 04.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - næring</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - giella</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - kultur</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - ealáhusat</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 04.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 30.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 30.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 04.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - opplæring</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - kultuvra</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 30.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 30.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - næring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - giella</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer  Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 04.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 30.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - samiske organisasjoner</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva  Ohcanvuđot doarjagat - oahpahus</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 04.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 30.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - opplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - kultuvra</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Søkerbaserte tilskudd - språk</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Ohcanvuđot doarjagat - sámi organisašuvnnat</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 30.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 30.12.2009</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Publisert 30.12.2009</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Almmuhan 04.12.2009</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Les mer</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Loga eambbo</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
     </tu>
-    <tu><tuv xml:lang="nob">
-      <seg>Arkiv</seg>
-    </tuv>
-  <tuv xml:lang="sme">
-      <seg>Arkiiva</seg>
-    </tuv>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - samiske organisasjoner</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - oahpahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 04.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 30.12.2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - sámi organisašuvnnat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Publisert 30.12.2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhan 04.12.2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>|</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkiiva</seg>
+      </tuv>
     </tu>
   </body>
 </tmx>
