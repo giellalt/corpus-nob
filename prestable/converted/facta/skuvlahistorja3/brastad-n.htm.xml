@@ -12,16 +12,15 @@
       <free/>
     </availability>
     <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual/>
     <origFileName>http://skuvla.info/skolehist/brastad-n.htm</origFileName>
     <parallel_text location="brastad-s.htm" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 43736 $; </version>
+    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p xml:lang="smj">Sámegillii</p>
+    <p>Sámegillii</p>
     <p>Artikkel i boka Samisk
   skolehistorie 3 . Davvi Girji
   2009.</p>
@@ -44,7 +43,7 @@
         2006, har først en historisk bakgrunn som i stor grad er dekt
         av artikkelen foran her. Deretter vurderer han utviklinga det
         siste tiåret og sammenligner med vurderingene til Kamil Øzerk i
-        rapporten <span type="quote">«På rett vei»</span> frå 1996. Her følger et redigert utdrag
+        rapporten «På rett vei» frå 1996. Her følger et redigert utdrag
         av den siste delen av rapporten, slik det er trykt i boka
         Samisk skolehistorie 3. Vi har også lagt ut den fullstendige rapporten her. (Bare på
         norsk.)</em>
@@ -196,11 +195,11 @@
   dette som vil bli nærmere belyst særlig med utgangspunkt i intervjuer
   med lærerne knyttet til Sameskolen og de samiske foreldrene.</p>
     <p>
-      <em type="bold">Sameskuvla (rukses viessu) lea juste <span type="quote" xml:lang="sme">«dároskuvlla»</span>
+      <em type="bold">Sameskuvla (rukses viessu) lea juste «dároskuvlla»
       bálddas. Sameskolen (rødt bygg) ligger helt kloss inn i
-      <span type="quote">«norskskolen»</span>.</em>
+      «norskskolen».</em>
     </p>
-    <p xml:lang="sme">
+    <p>
       (Govva: Svein Lund)(Foto: Svein Lund)</p>
     <section>
       <p type="title">Lavangen sameskole i dag vurdert på grunnlag av intervju med
@@ -443,7 +442,7 @@
   på vei uten det hovedfundamentet som kvalifiserte lærere er for å
   komme noen vei med språkopplæringen.</p>
     <section>
-      <p type="title" xml:lang="sma">Veien videre</p>
+      <p type="title">Veien videre</p>
     </section>
     <section>
       <p type="title">Samiskopplæringen i motbakke</p>
@@ -621,7 +620,7 @@
   forståelse hos alle elever for at samisk språk og kultur er en del av
   vår felles bakgrunn.</p>
     <section>
-      <p type="title" xml:lang="kal">Litteratur</p>
+      <p type="title">Litteratur</p>
     </section>
     <p>Eira, K. I. (1993): Halvårsrapport fra undervisningen i
   samiskklassen høsten 1992. Lavangen kommune
