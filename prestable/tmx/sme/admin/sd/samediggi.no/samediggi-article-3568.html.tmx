@@ -71,12 +71,20 @@
         <seg>Det ble etablert flere navnekonsulenttjenester , blant annet for samiske og finske navn .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dalle ásahuvvojedje báikenamakonsuleanttat , nu go sámi báikenammanevvohat .</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navnekonsulenttjenesten for samiske navn er underlagt Sametinget .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle ásahuvvojedje báikenamakonsuleanttat , nu go sámi báikenammanevvohat .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámi báikenammanevvohat biddjui Sámediggái .</seg>
@@ -295,7 +303,15 @@
         <seg>Navnekonsulenttjenesten har to måneders frist på å sende saken til</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nammakonsuleanttat buktet rávvaga man láhkai čállit báikenama . Áigemearri lea 2 manu .</seg>
+        <seg>Nammakonsuleanttat buktet rávvaga man láhkai čállit báikenama .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áigemearri lea 2 manu .</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,12 +711,28 @@
         <seg>I arbeidet med stedsnavn oppstår ofte usikkerhet etterpå om stedsnavnene er riktig nedskrevet , og da må man ha en førstehåndskilde som man kan gå tilbake til .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muhtumin sáhttá čuožžilit gažaldat das , mainna lágiin báikenama galggašii dahje sáhtášii čállit čállinnorpma mielde . Sáhttá leat maiddái nu , ahte seamma namas leat iešguđetgelágan jietnadanvariánttat .</seg>
+        <seg>Muhtumin sáhttá čuožžilit gažaldat das , mainna lágiin báikenama galggašii dahje sáhtášii čállit čállinnorpma mielde .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det er altså ikke nok å skrive opp navnene , selv om man behersker skriftspråket . Båndspillere har også andre fordeler :</seg>
+        <seg>Det er altså ikke nok å skrive opp navnene , selv om man behersker skriftspråket .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá leat maiddái nu , ahte seamma namas leat iešguđetgelágan jietnadanvariánttat .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Båndspillere har også andre fordeler :</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Man trenger ikke å skrive så mye under intervjuene , man er friere til å snakke med informantene  - Man kan etterpå lytte på hva folk har å fortelle om navnene</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámegielain ja suopmaniin lea maiddái hui dárkilis jietnadatvuogádat ja báikenamain sáhttet leat hui unna erohusažat , mat dattege galget merkejuvvot čállinhámis go báikenamat normerejuvvojit .</seg>
@@ -716,7 +748,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- Man trenger ikke å skrive så mye under intervjuene , man er friere til å snakke med informantene</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Go bádde ságastallama , de dat veahkeha čoagginbarggu maiddái praktihkalaččat : - Ii dárbbaš čállit nu ollu jearahaladettiin , beassá hui friddja ságastit báikenamaid , báikkiid , luonddu geavaheami , namaide ja báikkiide gullevaš máidnasiid , fearániid jna. birra</seg>
@@ -724,7 +756,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- Man kan etterpå lytte på hva folk har å fortelle om navnene</seg>
+        <seg>- Man får også med historier , sagn etc. som hører til stedene og navnene</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Maŋŋá sáhttá guldalit maid olbmot muitalit namaid birra</seg>
@@ -732,18 +764,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- Man får også med historier , sagn etc. som hører til stedene og navnene</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>- Báddemiin oažžu mielde báikegotti suopmana ja lunddolaš oktavuođa , mas báikenamat adnojuvvojit .</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>- Man får også dokumentert traktens språktrekk for øvrig , ikke bare hva angår stedsnavnene</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>- Báddemiin oažžu mielde báikegotti suopmana ja lunddolaš oktavuođa , mas báikenamat adnojuvvojit .</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,7 +900,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det er også mye vanskeligere å få frem viktige bøyningsformer .</seg>
+        <seg>Det er også mye vanskeligere å få frem viktige bøyningsformer . Man bør prøve å få frem navnenes bøyningsformer .</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Go hálešta sámegillii , dalle maid seammás oažžu mielde báikenamaid anu ja maiddái omd. nama sojahanhámiid .</seg>
@@ -884,15 +908,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Man bør prøve å få frem navnenes bøyningsformer .</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• 6 . Namaid sojahanhámiid berre oažžut mielde .</seg>
+        <seg>• 6 .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Disse er ofte viktige ved fastsettelse av skrivemåte . Det er nok å spørre for eksempel om hvordan man sier når man reiser til det stedet og hvordan man sier når man reiser derifra .</seg>
+        <seg>Disse er ofte viktige ved fastsettelse av skrivemåte .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namaid sojahanhámiid berre oažžut mielde .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er nok å spørre for eksempel om hvordan man sier når man reiser til det stedet og hvordan man sier når man reiser derifra .</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Namaid sojahanhámit leat dávjá dehálaččat go galgá mearridit nama čállinhámi ja go galgá maiddái earáid rávvet mo namaid galgá atnit .</seg>
@@ -903,20 +935,12 @@
         <seg>Dette for å få frem tilstedskasus ( illativ ) og på / frastedskasus ( lokativ ) .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>Omd.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>For eksempel :</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Várjjat à Mun manan Várjjagii .</seg>
@@ -924,7 +948,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Sirbmá  ill : Sirbmái</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mun ledjen ikte Várjja gis .</seg>
@@ -932,7 +956,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For eksempel :  Sirbmá</seg>
+        <seg>lok : Sirpmás</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>( = 3-stávval namma )</seg>
@@ -940,7 +964,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>ill : Sirbmái  lok : Sirpmás</seg>
+        <seg>Dette er dog ikke nødvendig ved " selvsagte " navn , dvs. navn som innhold kjente sisteledd som</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- jávri , - várri , - njárga etc.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Várggát à Mun manan Várggáide .</seg>
@@ -948,7 +980,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Dette er dog ikke nødvendig ved " selvsagte " navn , dvs. navn som innhold kjente sisteledd som</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mun ledjen ikte Várggá in .</seg>
@@ -980,7 +1012,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- jávri , - várri , - njárga etc.</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>( = namas ii dássemolsašuddan )</seg>
@@ -996,26 +1028,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Hva er det for slags sted navnet viser til .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mun ledjen ikte Ráhkas .</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>( - hkk- ja - a 2 .</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>stávvalis )</seg>
+        <seg>Mun ledjen ikte Ráhkas . ( - hkk- ja - a 2. stávvalis )</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,7 +1044,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hva er det for slags sted navnet viser til .</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Makkár báiki dat lea .</seg>
@@ -1039,7 +1055,23 @@
         <seg>Som vi har sett så trenger nødvendigvis ikke Čoalbmi å være et sund , det kan like gjerne være navn på en fritidsbolig .</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Seamma namma sáhttá adnojuvvot čujuheame máŋgga lokalitehtii . Omd. Stuoranjárga sáhttá leat sihke njárga , ássanbáiki ja vaikkoba gilli .</seg>
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seamma namma sáhttá adnojuvvot čujuheame máŋgga lokalitehtii .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvorfor heter stedet slik / Hva betyr navnet / deler av navnet .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Omd. Stuoranjárga sáhttá leat sihke njárga , ássanbáiki ja vaikkoba gilli .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,10 +1084,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hvorfor heter stedet slik / Hva betyr navnet / deler av navnet .</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• 8 . Mo báiki lea ožžon namas ja maid nammaoasit mearkkašit .</seg>
+        <seg>• 8 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mo báiki lea ožžon namas ja maid nammaoasit mearkkašit .</seg>
       </tuv>
     </tu>
     <tu>

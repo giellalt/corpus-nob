@@ -300,10 +300,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>NEAR ( jens statsminister N=6 ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer med maks 6 ord mellom ( N 6 = må være med stor N! ) NEAR ( jens statsminister ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer nær hverandre ( maks 4 ord mellom ) .</seg>
+        <seg>NEAR ( jens statsminister N=6 ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer med maks 6 ord mellom ( N 6 = må være med stor N ! )</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>o Jus čálát NEAR ( jens stáhtaministtar N=6 ) – de gávdná dokumeanttaid main sánit jens ja stáhtaministtar gávdnojit ja eanemusat 6 sáni gaskkas ( N 6 = galgá leat stuora N bustávva! ) o NEAR ( jens stáhtaministtar ) – gávdná dokumeanttaid main sánit jens ja stáhtaministtar lea lahkalaga ( eanemusat 4 sáni gaskkas ) .</seg>
+        <seg>o Jus čálát NEAR ( jens stáhtaministtar N=6 ) – de gávdná dokumeanttaid main sánit jens ja stáhtaministtar gávdnojit ja eanemusat 6 sáni gaskkas ( N 6 = galgá leat stuora N bustávva ! )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>NEAR ( jens statsminister ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer nær hverandre ( maks 4 ord mellom ) .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o NEAR ( jens stáhtaministtar ) – gávdná dokumeanttaid main sánit jens ja stáhtaministtar lea lahkalaga ( eanemusat 4 sáni gaskkas ) .</seg>
       </tuv>
     </tu>
     <tu>
@@ -348,7 +356,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>NEAR ( jens statsminister N=6 ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer med maks 6 ord mellom ( N 6 = må være med stor N! )</seg>
+        <seg>NEAR ( jens statsminister N=6 ) – gir treff på dokumenter hvor ordene jens og statsminister forekommer med maks 6 ord mellom ( N 6 = må være med stor N ! )</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg></seg>

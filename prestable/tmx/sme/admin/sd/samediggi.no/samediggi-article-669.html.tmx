@@ -223,7 +223,7 @@
         <seg>Språk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Giella</seg>
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -231,7 +231,7 @@
         <seg>Norsk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Giella</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,7 +239,15 @@
         <seg>Representerer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dárogiella  Ovddasta</seg>
+        <seg>Dárogiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovddasta</seg>
       </tuv>
     </tu>
     <tu>
@@ -268,10 +276,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Representanter og vararepresentanter 2005 - 2009</seg>
+        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Áirasat ja várreáirasat 2005-2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Representanter og vararepresentanter 2005 - 2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
       </tuv>
     </tu>
   </body>
