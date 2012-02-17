@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"/>
-  <body>
-    <tu>
+  <body><tu>
       <tuv xml:lang="nob">
         <seg>Lover og regler</seg>
       </tuv>
@@ -12,34 +10,34 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Under lover og regeler finner du utvalgte deler av regelverk som er knyttet til Landbruks- og matdepartementets ansvarsområder .</seg>
+        <seg>Under lover og regeler finner du utvalgte deler av regelverk som er knyttet til Landbruks- og matdepartementets ansvarsområder.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráđđehus.no’s ii eai leat ollislaš bajilgovva doaibmi lágain .</seg>
+        <seg>Ráđđehus.no’s ii eai leat ollislaš bajilgovva doaibmi lágain.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For å få en komplett oversikt over lover og forskrifter , henvises det til Lovdata .</seg>
+        <seg>For å få en komplett oversikt over lover og forskrifter , henvises det til Lovdata.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dakkár bajilgovva gávdno Lovdata ’ s gos maiddái gávdnojit buot lágat ja njuolggadusat čállon ollislaččat .</seg>
+        <seg>Dakkár bajilgovva gávdno Lovdata ’ s gos maiddái gávdnojit buot lágat ja njuolggadusat čállon ollislaččat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg/>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Iešguhtetge departemeanttat almmustahttet gollosiid ja muitlait oanehaččat lágaid birra maid sii gávnnahit buorrin sáhttit bidjat goallosin fáttain ja dokumeanttain .</seg>
+        <seg>Iešguhtetge departemeanttat almmustahttet gollosiid ja muitlait oanehaččat lágaid birra maid sii gávnnahit buorrin sáhttit bidjat goallosin fáttain ja dokumeanttain.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Landbruks- og matdepartementets ajourførte lover ( Lovdata ) Landbruks- og matdepartementets ajourførte forskrifter ( Lovdata )</seg>
+        <seg>Landbruks- og matdepartementets ajourførte lover (Lovdata) Landbruks- og matdepartementets ajourførte forskrifter (Lovdata)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Geahčá fállovejolašvuođaid čuoggá Dokumeanttatd / Lágat ja njuolggadusatr / Lágat iešguhtetge departemeantta vuolde .</seg>
+        <seg>Geahčá fállovejolašvuođaid čuoggá Dokumeanttatd / Lágat ja njuolggadusatr / Lágat iešguhtetge departemeantta vuolde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47,7 +45,7 @@
         <seg>Kontaktinformasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oktavuođadieđut :</seg>
+        <seg>Oktavuođadieđut:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60,10 +58,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Telefon :</seg>
+        <seg>Telefon:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Telefovdna :</seg>
+        <seg>Telefovdna:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,10 +74,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Faks :</seg>
+        <seg>Faks:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fáksa :</seg>
+        <seg>Fáksa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -92,26 +90,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Adresse :</seg>
+        <seg>Adresse:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg/>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg/>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čujuhus :</seg>
+        <seg>Čujuhus:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Akersgata 59 , OsloPost : Postboks 8007 Dep .</seg>
+        <seg>Akersgata 59 , OsloPost: Postboks 8007 Dep.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg/>
       </tuv>
     </tu>
     <tu>
@@ -119,7 +117,7 @@
         <seg>0030 Oslo</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akersgata 59 , OsloPost : Postboks 8007 , Dep. 0030 Oslo</seg>
+        <seg>Akersgata 59 , OsloPost: Postboks 8007 , Dep. 0030 Oslo</seg>
       </tuv>
     </tu>
   </body>

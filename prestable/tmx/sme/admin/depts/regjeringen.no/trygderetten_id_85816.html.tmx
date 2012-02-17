@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"/>
-  <body>
-    <tu>
+  <body><tu>
       <tuv xml:lang="nob">
         <seg>Trygderetten</seg>
       </tuv>
@@ -12,10 +10,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Trygderetten er et uavhengig ankeorgan for trygdeetatens og arbeidsmarkedsetatens vedtak etter folketrygdloven , og for andre offentlige pensjons- og trygdeordninger .</seg>
+        <seg>Trygderetten er et uavhengig ankeorgan for trygdeetatens og arbeidsmarkedsetatens vedtak etter folketrygdloven , og for andre offentlige pensjons- og trygdeordninger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oadjoriekti lea bealátkeahtes váiddaorgána oadjoetáhta ja bargomárkanetáhta mearrádusaid váras mat leat dahkkojuvvon álbmotoadjolága vuođul , ja eará almmolaš ealáhat- ja oadjoortnegiid várás .</seg>
+        <seg>Oadjoriekti lea bealátkeahtes váiddaorgána oadjoetáhta ja bargomárkanetáhta mearrádusaid váras mat leat dahkkojuvvon álbmotoadjolága vuođul , ja eará almmolaš ealáhat- ja oadjoortnegiid várás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23,7 +21,7 @@
         <seg>Kontaktinformasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oktavuođadieđut :</seg>
+        <seg>Oktavuođadieđut:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36,10 +34,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Telefon :</seg>
+        <seg>Telefon:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Telefovdna :</seg>
+        <seg>Telefovdna:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52,10 +50,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Faks :</seg>
+        <seg>Faks:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fáksa :</seg>
+        <seg>Fáksa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,15 +74,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Adresse :</seg>
+        <seg>Adresse:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čujuhus :</seg>
+        <seg>Čujuhus:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg/>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Poastaboksa 8022 Dep. 0030 Oslo</seg>
