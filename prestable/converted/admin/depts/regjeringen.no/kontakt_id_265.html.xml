@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>Oktavuohta - regjeringen.no</title>
+    <genre/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>243</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="divvun@samediggi.no" name=""/>
+    <origFileName>http://regjeringen.no/nb/dep/fkd/dep/kontakt.html?id=265</origFileName>
+    <parallel_text location="oktavuoadieut.html_id=265" xml:lang="sme"/>
+    <parallel_text location="kontakt.html_id=265" xml:lang="nno"/>
+    <parallel_text location="contact-the-norwegian-ministry-of-fisheries-and-coastal-affairs.html_id=265" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title">Kontaktinformasjon</p>
+    </section>
+    <p>Tips: For å liste ut alle
+                            ansatte i en enhet kan du la feltet for
+                            navn eller tlf.nr stå tomt.</p>
+    <p><em type="bold">Besøksadresse: </em>Grubbegt. 1, Oslo <em type="bold">Postadresse: </em>Postboks 8118 Dep 0032 Oslo </p>
+    <p><em type="italic">E-post: </em><em type="italic">E-post til Fiskeri- og kystministeren </em><em type="italic">E-post til Fiskeri- og kystdepartementet </em>E-post til ansatte: .no </p>
+    <p><em type="italic">Telefon: </em>Telefon sentralbord 22 24 90 90 Telefaks 22 24 95 85 <em type="bold">Pressekontakter </em></p>
+  </body>
+</document>
