@@ -253,7 +253,7 @@
         <seg>SAMETINGETS ORGANISERING Plenum Sametinget regulerer sin virksomhet innenfor de rammer som er gitt i sameloven og Sametingets egen arbeidsorden.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>SÁMEDIKKI ORGANISERENDievasčoahkkin Sámediggi regulere doaimmas daid rámmaid siste mat leat addojuvvon sámelágas ja Sámedikki iežas bargoortnegis.</seg>
+        <seg>SÁMEDIKKI ORGANISEREN Dievasčoahkkin Sámediggi regulere doaimmas daid rámmaid siste mat leat addojuvvon sámelágas ja Sámedikki iežas bargoortnegis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,7 +418,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>De tre fagkomiteene er: • Oppvekst-, omsorgs- og utdanningskomiteen • Nærings- og kulturkomiteen • Plan- og finanskomiteen</seg>
+        <seg>De tre fagkomiteene er:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg/>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oppvekst-, omsorgs- og utdanningskomiteen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg/>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nærings- og kulturkomiteen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg/>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Plan- og finanskomiteen</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikkis leat čuovvovaš golbma fágalávdegotti: - Bajásšaddan-, fuolahus- ja oahppolávdegoddi - Ealáhus- ja kulturlávdegoddi - Plána- ja finánsalávdegoddi</seg>
@@ -490,10 +514,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For å bli registrert i valgmanntallet må man avgi erklæring om at man: • oppfatter seg selv som same, og • at man har samisk som hjemmespråk, eller at minst en av foreldrene, besteforeldrene eller oldeforeldrene har eller har hatt samisk som hjemmespråk, eller • at man er barn av en som allerede er registrert i valgmanntallet.</seg>
+        <seg>For å bli registrert i valgmanntallet må man avgi erklæring om at man:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Go áigu čálihit jienastuslohkui, de ferte julggaštit ahte: - atná iežas sápmelažžan, ja - ahte su ruovttugiella lea sámegiella, dahje ahte nuppi áhkus / ádjás, dahje ovtta máttarvánhemis lea dahje lea leamaš sáme ­giella ruovttugiellan, dahje - lea jienastuslohkui čálihuvvon olbmo mánná Jienastuslohku lea čadnojuvvon álbmotregistarii.</seg>
+        <seg>Go áigu čálihit jienastuslohkui, de ferte julggaštit ahte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>oppfatter seg selv som same, og</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg/>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>at man har samisk som hjemmespråk, eller at minst en av foreldrene, besteforeldrene eller oldeforeldrene har eller har hatt samisk som hjemmespråk, eller at man er barn av en som allerede er registrert i valgmanntallet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- atná iežas sápmelažžan, ja - ahte su ruovttugiella lea sámegiella, dahje ahte nuppi áhkus / ádjás, dahje ovtta máttarvánhemis lea dahje lea leamaš sáme ­giella ruovttugiellan, dahje - lea jienastuslohkui čálihuvvon olbmo mánná Jienastuslohku lea čadnojuvvon álbmotregistarii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,15 +770,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Administrasjonen Sametingets administrasjon har i hovedsak tre ulike roller overfor de folkevalgte og publikum: • Forbereder forvaltningssaker for Sametingets ulike politiske beslutningsorgan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>• Parlamentsforvaltning for Sametinget. • Politisk sekretariat for Sametingsrådet.</seg>
+        <seg>Administrasjonen Sametingets administrasjon har i hovedsak tre ulike roller overfor de folkevalgte og publikum:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Hálddahus Sámedikki hálddahusas leat vuosttažettiin golbma sierranas rolla áirasiid ja álbmoga ektui:</seg>
@@ -746,10 +778,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg/>
+        <seg>Forbereder forvaltningssaker for Sametingets ulike politiske beslutningsorgan. Parlamentsforvaltning for Sametinget.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Ráhkkanahttá hálddahusáššiid Sámedikki sierra politihkalaš mearridanorgánaide - Sámedikki parlamentáralaš hálddahus - Sámediggeráđi politihkalaš čállingoddi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Politisk sekretariat for Sametingsrådet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg/>
       </tuv>
     </tu>
     <tu>
