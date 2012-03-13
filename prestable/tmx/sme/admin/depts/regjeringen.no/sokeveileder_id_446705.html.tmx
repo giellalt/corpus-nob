@@ -319,62 +319,6 @@
         <seg>NEAR (statsminister Hanssen Meltveit N=11) – gir treff på dokumenter hvor ALLE ordene forekommer innenfor 11 ord.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>island (aske OR støv) title:flytrafikk – sammensatt søk som gir treff på dokumenter hvor ordet island og enten aske eller støv forekommer hvor som helst, og hvor ordet flytrafikk forekommer i tittelen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>eu OR eøs OR europarådet – gir treff på dokumenter som inneholder ett eller flere av søkeordene.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>statsminister (Jagland OR Bondevik OR Stoltenberg) – gir treff på dokumenter som omtaler én eller flere av statsministrene.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>hurtigtog NOT gardermo* – gir treff på dokumenter som inneholder hurtigtog men ikke varianter av gardermo [en / banen].</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>NEAR (jens statsminister N=6) – gir treff på dokumenter hvor ordene jens og statsminister forekommer med maks 6 ord mellom (N 6 = må være med stor N !)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>NEAR (jens statsminister) – gir treff på dokumenter hvor ordene jens og statsminister forekommer nær hverandre (maks 4 ord mellom).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg/>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>NEAR (statsminister Hanssen Meltveit N=11) – gir treff på dokumenter hvor ALLE ordene forekommer innenfor 11 ord.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>o NEAR (stáhtaministtar Hanssen Meltveit N=11) – gávdná dokumeanttaid main buot dát sánit gávdnojit 11 sáni siskkobealde.</seg>
       </tuv>
     </tu>
@@ -383,7 +327,7 @@
         <seg>island (aske OR støv) title:flytrafikk – sammensatt søk som gir treff på dokumenter hvor ordet island og enten aske eller støv forekommer hvor som helst, og hvor ordet flytrafikk forekommer i tittelen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>o islánda (gutna OR gavja) title:girdijohtolat – čoahkádus ohcan mii gávdná dokumeanttaid main sátni islánda ja dahje gutna dahje gavja gávdno gokko nu, ja mas sátni girdijohtolat gávdno bajilčállagis.</seg>
+        <seg>o islánda (gutna OR gavja) title:girdijohtolat – čoahkkádus ohcan mii gávdná dokumeanttaid main sátni islánda ja dahje gutna dahje gavja gávdno gokko nu, ja mas sátni girdijohtolat gávdno bajilčállagis.</seg>
       </tuv>
     </tu>
   </body>
