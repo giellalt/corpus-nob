@@ -4,10 +4,18 @@
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>PRM: Tilbakeviser NRKs uriktige påstander om fravær i Sametinget</seg>
+        <seg>PRM.:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>PRD: Ii leat duohta nugo NRK čuoččuha jávkama birra Sámedikki dievasčoahkkimiin</seg>
+        <seg>PRD.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilbakeviser NRKs uriktige påstander om fravær i Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat duohta nugo NRK čuoččuha jávkama birra Sámedikki dievasčoahkkimiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -15,7 +23,7 @@
         <seg>Sametingets plenumsleder, Josef Vedhugnes, tilbakeviser NRK Sámi radios påstander i Ođđasat tirsdag 20. februar om at halvparten av Sametingets representantene melder forfall til møter.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámedikki dievasčoahkkijođiheaddji, Josef Vedhugnes, ii loga duohtan dan maid NRK Sámi radio čuoččuha Ođđasiin maŋŋebárgga guovvamánu 20. b. ahte bealli Sámedikki áirasiin dieđihit ahte eai boađde čoahkkimiidda.</seg>
+        <seg>Sámedikki dievasčoahkkijođiheaddji, Josef Vedhugnes, ii loga duohtan dan maid NRK. Sámi radio čuoččuha Ođđasiin maŋŋebárgga guovvamánu 20. b. ahte bealli Sámedikki áirasiin dieđihit ahte eai boađde čoahkkimiidda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -172,26 +180,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Send</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sádde</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Link</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Liŋka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>NRK Ođđasat 20.02.2007</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>NRK Ođđasat 20.02.2007</seg>
+        <seg>Ođđasat 20.02.2007</seg>
       </tuv>
     </tu>
   </body>

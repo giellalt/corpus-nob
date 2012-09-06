@@ -28,10 +28,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
+        <seg>(1000 kr:n) Poasta</seg>
       </tuv>
     </tu>
     <tu>
@@ -47,12 +47,20 @@
         <seg>Grunnskole og videreg.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vuođđoskuvla ja joatkkaoahp.</seg>
+        <seg>100 101 102</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>opplæring-læremiddelutv.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoskuvla ja joatkkaoahp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kompetanseheving Barnehager</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- oahpponeavvoráhk.</seg>
@@ -143,7 +151,7 @@
         <seg>3,8 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3,5 %</seg>
+        <seg>3,8 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -180,7 +188,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1000 kr:n)</seg>
@@ -388,7 +396,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -532,18 +540,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
+        <seg>(1000 kr:n) Submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -804,10 +804,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
+        <seg>0,0 % (1000 kr:n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -916,7 +916,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -1052,7 +1052,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -1180,7 +1180,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -1244,18 +1244,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Tabell 5.6</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 000 1 000</seg>
+        <seg>Submi 1 000</seg>
       </tuv>
     </tu>
     <tu>
@@ -1263,7 +1255,7 @@
         <seg>110 167 74 -80 38 -40 11 11 3 008 1 201</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>400</seg>
+        <seg>1 000</seg>
       </tuv>
     </tu>
     <tu>
@@ -1277,14 +1269,6 @@
     <tu>
       <tuv xml:lang="nob">
         <seg>Tabell 5.5</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vedlegg 3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>7541 7307 5069 5299 2850 3463 1411 1201 3008 1201</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -1308,7 +1292,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 000</seg>
+        <seg>1 000 1 000</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1 500 1 243</seg>
@@ -1316,7 +1300,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 000 400</seg>
+        <seg>1 500 1 243</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1 500 1 243</seg>
@@ -1420,18 +1404,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Post</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Benevnelse</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibma</seg>
+        <seg>Poasta Doaibma</seg>
       </tuv>
     </tu>
     <tu>
@@ -1663,7 +1639,7 @@
         <seg>a) b)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) b)</seg>
+        <seg>a) b.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1767,7 +1743,7 @@
         <seg>a) I 2006 var dette under post 208 samiske publikasjoner.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) 2006:s gulai dát poasta 208:ii sámi almmuheamit.</seg>
+        <seg>a) 2006:s gulai dát poasta 208:ii sámi almmuheamit. b.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1775,7 +1751,7 @@
         <seg>b) Sametingets tilskuddstyre vurderer støtte for å sikre samisk språklige tegneserier på nord-, lule- og sør-samisk, etter søknad.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b) Sámedikki doarjjastivra árvvoštallá doarjut sámegiel lohkanráidduid davvi-, julev- ja lullisámegillii ohcamušaid mielde.</seg>
+        <seg>Sámedikki doarjjastivra árvvoštallá doarjut sámegiel lohkanráidduid davvi-, julev- ja lullisámegillii ohcamušaid mielde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,7 +1884,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(1000 kr:n)</seg>
@@ -2236,7 +2212,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Doaibma</seg>
@@ -2260,7 +2236,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sum a)</seg>
+        <seg>a) 1 520</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Erohus %</seg>
@@ -2324,23 +2300,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
+        <seg>(1000 kr:n) a)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Avvik i %</seg>
+        <seg>Bud 2007 +/- 07-Rev 06</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) 1 520</seg>
+        <seg>1 520</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>825 200 825 200</seg>
+        <seg>Avvik i % 825 200</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>640 640 200 200</seg>
@@ -2348,7 +2324,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>925 300</seg>
+        <seg>825 200 925 300</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>659 659 206 206</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>100 100</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>19 19 6 6</seg>
@@ -2388,18 +2372,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>50</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>19,5 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3,0 %</seg>
+        <seg>50 3,0 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -2447,7 +2423,7 @@
         <seg>RR 2005 Bud 2006 Rev 2006</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buš 2006 Rev 2006</seg>
+        <seg>Rev 2006</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,50 +2476,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>13 900</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>14 318</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>418</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 025</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 025</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 225</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Benevnelse</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>200 19,5 %</seg>
+        <seg>Sámi Valáštallan Lihttu (SVL.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,15 +2487,7 @@
         <seg>Post 208 20800 20801 20802 20803 20804</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tabealla 6.7 Poasta 206 20600 20601</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta 207 20700 20710</seg>
+        <seg>- Norga Sámi spábbačiekčanlithttu (SSL.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,7 +2495,79 @@
         <seg>RR 2005 Bud 2006 Rev 2006</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buš 2006 Rev 2006</seg>
+        <seg>- Samisk fotballforbund RR 2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1237 325</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4000 325</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 025 1 025</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4000 325</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 225 200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>350 10</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>19,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8,8 % 3,1 % 325</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi teáhter Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk kunstneravtale Utstillingsvederlag for samiske kunstnere</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poasta 207 20700 20710 Poasta 207 20700 20701 20702 20703 Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 685 360</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vedlegg 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8,3 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rev 2006</seg>
       </tuv>
     </tu>
     <tu>
@@ -2580,7 +2580,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1237 325</seg>
+        <seg>11 800</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>11 800</seg>
@@ -2588,7 +2588,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4000 325</seg>
+        <seg>Tabell 6.9</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>13 300 600</seg>
@@ -2596,23 +2596,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4000 325</seg>
+        <seg>Bud 2007 +/- 07-Rev 06</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>13 300 600</seg>
+        <seg>13 300 600 13 700 618</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4 350 335</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>13 700 618</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>350 10</seg>
+        <seg>11 800</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>400 18</seg>
@@ -2620,7 +2612,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>8,8 % 3,1 %</seg>
+        <seg>Tabell 6.8</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>3,0 % 3,0 %</seg>
@@ -2628,47 +2620,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4 325</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>13 900</seg>
+        <seg>13 900 14 318</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4 325</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>13 900</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 685</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14 318</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>360</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>418</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8,3 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kunstneravtalen Benevnelse</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámi dádda Doaibma</seg>
@@ -2684,150 +2644,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Samisk publikasjoner</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n) Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>700 1 750 1 550 350</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>+/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>700 1 750 1 550 350</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4000 325 4000 325</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>- 4 350</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 350 335</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 350</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>350 10</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>- 0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8,8 % 3,1 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>325</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>11 800</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi dáiddáršiehtadus Čájáhusbuhtadus sámi dáiddáriidda</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 6.9</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 6.9</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n) RR 2005</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>11 800</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>11 800</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 6.8</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 6.8</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 325 4 685</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8,3 % RR 2005</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Bud 2007 +/- 07-Rev 06</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2847,15 +2663,7 @@
         <seg>400 200 300 750 300</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>700 1 750 1 550 350</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>400 200 300 750 300</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>700 1 750 1 550 350</seg>
+        <seg>1237 325 4000 325</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,7 +2671,7 @@
         <seg>500 230 310 773</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4 350 4 350</seg>
+        <seg>4000 325 4 350 335</seg>
       </tuv>
     </tu>
     <tu>
@@ -2871,7 +2679,7 @@
         <seg>100 30 10 23 -300</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>100 30 10 23 -300</seg>
+        <seg>350 10 8,8 % 3,1 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -2879,68 +2687,12 @@
         <seg>25,0 % 15,0 % 3,3 % 3,1 % -100,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>25,0 % 15,0 % 3,3 % 3,1 % -100,0 %</seg>
+        <seg>Sámi dáiddáršiehtadus Čájáhusbuhtadus sámi dáiddáriidda</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>1 650</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 650</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 950</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 950</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 813</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 813</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-137</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-137</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-7,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-7,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Submi</seg>
@@ -2948,26 +2700,42 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>a) I 2007 flyttes post 20804 samiske språklige tegneserier under samisk kulturfond post 20060.</seg>
+        <seg>1 950 1 950</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) 2007:s sirdojuvvo poasta 20804 sámegiel govvaráiddut sámi kulturfoandda postii 20060.</seg>
+        <seg>Tabealla 6.9</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tabell 7.0</seg>
+        <seg>1 813 -137</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tabealla 7.0 Sámi girjerájusbálvalus Poasta Doaibma 250 251 252</seg>
+        <seg>(1000 kr:n)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Samisk bibliotektjeneste</seg>
+        <seg>-7,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3,5 % RR 2005 Buš 2006</seg>
+        <seg>RR 2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) Sum</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11 800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 7.0 Samisk bibliotektjeneste</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beaivváš Sámi Teáhter Máttasámi teáhter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,7 +2743,15 @@
         <seg>Post</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>5 116</seg>
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 6.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -2983,263 +2759,15 @@
         <seg>250 251 252</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4 905 200 3000</seg>
+        <seg>4 325 4 325</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4 905 200 3000</seg>
+        <seg>Mobile bibliotektjenester Samiske bibliotektjenester Investering i samiske bokbusser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4 905 200 3000</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>5 407 200 3000</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>5 407 200 3000</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>502</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>502</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>10,2 % 0,0 % 0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>10,2 % 0,0 % 0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>5 116</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>5 116</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 105</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 105</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 105</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 105</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 607</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 607</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>502</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>502</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>6,2 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>6,2 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 7.1 Post 250 25000 25001 25002 25003 25004 25005 25006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 7.1 Doarjja sámi girjebussiide Poasta 250 Doaibma 25000 25001 25002 25003 25004 25005 25006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tilskudd til de samiske bokbussene Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n) Buš 2007 +/- 07-Rev 06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,5 % Tildelt 2005 Tildelt 2006 Bud 2007</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Juolludus 2005 uolludus 2006 2007 J Buš</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Karasjok Porsanger Kautokeino Tana / Nesseby Kåfjord Lulesamisk Sør-samisk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kárášjohka Porsáŋgu Guovdageaidnu Deatnu / Unjárga Gáivuotna Julevsámi Lullisámi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>300 301 302</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Erohus 07 - 06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>500 500 224 1135 547 1188 1313</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>500 500 224 1135 547 1188 1313</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>34 34 24 84 58 127 141</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>34 34 24 84 58 127 141</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>7,3 % 7,3 % 12,0 % 8,0 % 11,9 % 12,0 % 12,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>7,3 % 7,3 % 12,0 % 8,0 % 11,9 % 12,0 % 12,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 905</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 905</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>5 407</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>5 407</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>502</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>502</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>10,2 % (i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Samisk utviklingsfond Duodjiinstitusjoner og organisasjoner Goahtegearret</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Doaibma Sámi ovdánahttinfoanda Duodjeásahusat ja organisašuvnnat Goahtegearret</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>22 486 3 150 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>22 486 3 150 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>22 600 1 950 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>22 600 1 950 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>24 450 1 950 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>24 450 1 950 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>21 820 2 459 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>21 820 2 459 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-2 630 509</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-2 630 509</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-10,8 % 26,1 % 0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-10,8 % 26,1 % 0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>25 886</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>25 886</seg>
+        <seg>4 685</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,71 +2775,7 @@
         <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>466 466 200 1 051 489 1 061 1 172</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 8.1 Sámi ovdánahttinfoanda</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Samletabell - Samisk næring Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,5 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post 300 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta 300 Doaibma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 8.1</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Erohus i %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>466 466 185 1 051 489 1 061 1 172</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>466 466 185 1 051 489 1 061 1 172</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-2 121</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-8,0 % Samisk utviklingsfond</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>30000 30010 30020 30030 30040</seg>
+        <seg>360</seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,1127 +2783,7 @@
         <seg>3,5 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Benevnelse Fiskeri Jordbruk Duodji avtale Variert næringsliv Interreg</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Guolástus Eanandoallu Duodješiehtadus Molssašuddi ealáhuseallin Interreg</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Avvik i % 4 100 3 000 8 500 6 000 1 000</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006 4 100 3 000 8 500 6 000 1 000</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) b) c)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) b) c)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>22 486</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>22 486</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 100 3 000 8 500 6 000 2 850</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 100 3 000 8 500 6 000 2 850</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 050 2 950 8 220 5 900 700</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 050 2 950 8 220 5 900 700</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-50 -50 -280 -100 -2 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-50 -50 -280 -100 -2 150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-1,2 % -1,7 % -3,3 % -1,7 % -75,4 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-1,2 % -1,7 % -3,3 % -1,7 % -75,4 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>22 600</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>22 600</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>24 450</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>24 450</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>21 820</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>21 820</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-2 630</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-2 630</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-10,8 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-10,8 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) I 2006 ble det gitt organisasstøtte til duodjiinstusjiner / organisasjoner under denne posten.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) 2006:s addui organisašuvdnadoarjja duodjeásahusaide / organisašuvnnaide dán poastta vuolde.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>I 2007 flyttes Manndalen Husflidslag, Unjárgga Sámiid Duodje og Duojáriid Dállu OS til post 301 Duodjiinstitusjoner og organisasjoner.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2007:s sirdojuvvo Olmmáivákki duodjesearvi, Unjárgga Sámiid Duodji ja Duojáriid Dállu OS 301 postii Duodjeásahusat ja organisašuvnnat.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>b) Kr 700 000 er avsatt til Interregprogrammet.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>b) Kr 700 000 lea biddjon Interregprogrammii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>c) I 2007 overføres kr 500 000 fra post 300 til post 899 pga. evaluering av tilskudd til samisk utviklingsfond.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>c) 2007:s sirdojuvvo kr 500 000 300 poasttas 899 postii sámi ovdánahttinfoandda doarjagiid evaluerema geažil</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 8.2 Post 300 30020 30020 30020 30020 30022 30023 30024 30025 30026</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 8.2 Duodješiehtadus Poasta 300 Doaibma 30020 30020 30020 30020 30022 30023 30024 30025 30026</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Duodjiavtalen Benevnelse Duodji driftstilskudd Duodji investerings- og utviklingstilskudd Duodji - velferdsordninger Duodji - fag- og økonomisk utvalg Manndalen Husflidslag Unjárgga Sámiid Duodje Duojáriid Dállu OS Duojáriid Ealáhus Searvi Sámiid Duodji OS Sammenslåing av SD og DeS</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Duodji doaibmadoarjja Duodji investeren- ja ovdánahttindoarjja Duodji - čálgoortnegat Duodji – fága ja ekonomalaš lávdegoddi Olmmáivákki duodjesearvi Unjárgga Sámiid Duodji Duojáriid Dállu OS Duojáriid Ealáhus Searvi Sámiid Duodji OS SD ja DeS ovttastupmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 000 3 200 320 200 450 1 050</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 000 3 200 320 200 450 1 050</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-280 200 200 -100 -100 -100 -100</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-280 200 200 -100 -100 -100 -100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-8,5 % 6,7 % 0,0 % -100,0 % -100,0 % -100,0 % 0,0 % 0,0 % -100,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-8,5 % 6,7 % 0,0 % -100,0 % -100,0 % -100,0 % 0,0 % 0,0 % -100,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8 220</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 220</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-280</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-280</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-3,3 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-3,3 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Duodjiinstitusjoner og organisasjoner Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 8.3 Duodjeásahusat ja organisašuvnnat Poasta 301 Doaibma 30100 30022 30023 30024</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Duodjeinstituhtta Manndalen Husflidslag Unjárgga Sámiid Duodje Duojáriid Dállu OS</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Duodjeinstituhtta Olmmáivákki duodjesearvi Unjárgga Sámiid Duodji Duojáriid Dállu OS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950 3 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi 3 150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 950</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>2 009 150 150 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2 009 150 150 150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>59 150 150 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>59 150 150 150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,0 % -</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,0 % -</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 950</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 950</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 950</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>2 459</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2 459</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>509</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>509</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>26,1 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>26,1 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 8.4 Post 302 30200 Goahtegearret Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 8.4 Goahtegearret Poasta 302 Doaibma 30200</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006 a)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006 a)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) Tilskuddet utbetales under forutsetning av at alle krav ihenhold til tidelingsbrev er oppfylt.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) Doarjja máksojuvvo dainna eavttuin ahte buot gáibádusat juolludusreivves devdojuvvojit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 9.0 Samletabell - Samisk miljø- og kulturvern</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 9.0 Čoahkketabealla – Sámi biras- ja kultursuodjalus Poasta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Doaibma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>400 401 402</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>400 401 402</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kulturminnevern Museer Forskning og dok..</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kulturmuitosuodjalus Museat Dutkan ja dok.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Grenselosene i Tysfjord</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Divttasvuona rádjelosat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006 Post 400 40000 40001 40002</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0,0 % RR 2005 Buš 2006 Rev 2006 1 538 10 793</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 500 12 483 1 000</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 500 12 483 1 000</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 500 12 483 1 000</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 500 12 483 1 000</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 884 12 887</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 884 12 887</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>14 983</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14 983</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>14 983</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14 983</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>14 771</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14 771</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kulturminnevern</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 9.1 Kulturmuitosuodjalus Poasta 400 Doaibma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,5 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vedlegg 3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 538</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi kulturmuitosuodjalus 1 538 Cevzegeađnjárga kulturmuitosuodjalus (Várjjat Sámi Musea) Nuortalaččaid kulturbiras (Nuorta-sámi musea)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 325 100 75</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 325 100 75</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 325 100 75</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 325 100 75</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 702 104 78</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 702 104 78</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>377 4 3</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>377 4 3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>28,5 % 4,0 % 4,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>28,5 % 4,0 % 4,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 538</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 538</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 884</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 884</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>384</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>384</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>25,6 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>25,6 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Museer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 9.2 Museat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,5 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,5 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta 401 Doaibma 40100 40101 40102 40103 40104 40105 40106 40107 40108 40109 40110 40111 40112</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Várjjat Sámi Musea Deanu Musea Sámiid Vuorká-Dávvirat Guovdageaidnu Gilišilju Kokelv sjøsamisk museum Gállogiedde museum Árran lulesamisk museum Saemien Sitje Porsanger museum Savio museet Øst-samisk museum Museumsreformen Nordvestsamisk museumssiida (ny)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Várjjat Sámi Musea Deanu Musea Sámiid Vuorká-Dávvirat GuovdageainnuGilišilju Goavkejoga mearrasámi musea Gállogiedde musea Árran julevsámi musea Saemien Sitje Porsáŋggu musea Savio musea Nuorta-sámi musea Museaođastus Davvioarjesámi museasiida (ođđa)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1443 278 73 2774 2132 227 400 250 5310</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1443 278 73 2774 2132 227 400 250 5310</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>42 8 -3 840 -270 -270 3 81 562 -270 7 41 -1 000 5 310</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>42 8 -3 840 -270 -270 3 81 562 -270 7 41 -1 000 5 310</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,0 % 3,0 % -100,0 % -100,0 % -100,0 % 4,3 % 3,0 % 35,8 % -100,0 % 3,2 % 11,4 % -80,0 % -</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,0 % 3,0 % -100,0 % -100,0 % -100,0 % 4,3 % 3,0 % 35,8 % -100,0 % 3,2 % 11,4 % -80,0 % -</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>10 793</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>10 793</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>12 483</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>12 483</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>12 483</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>12 483</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>12 887</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>12 887</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>404</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>404</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3,2 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3,2 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) a) a)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) a) a)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>b) a) c) b) a)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>b) a) c) b) a)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) SVD, Guovdageaindu, Kokelv og Porsanger har fra 01.07.06 fellest drift gjennom Nordvestsamisk museumssiida.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) SVD, Guovdageaidnu, Goavkejohka ja Porsáŋgu doibmet 01.07.06 oktasaččat Davvioarjesámi museasiidda bokte.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Nordvestsamisk museumssiida har fått overført kr 500 000 gjennom museumsreformen (post 40111) i fast driftstilskudd.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davvioarjesámi museasiida lea ožžon kr 500 000 museaođastusa bokte (poasta 40111) fásta doaibmadoarjjan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>b) Samien Sitje har også fått overført kr 500 000 gjennom museumsreformen (post 40111) i fast driftstilskudd.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>b) Samien Sitje lea maiddái ožžon kr 500 000 museaođastusa bokte (poasta 40111) fásta doaibmadoarjjan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>c) Østsamisk museum har ikke nok penger til driftog har fått støtte gjennom kulturfondet.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>c) Nuortasámi musea ii leat ožžon doarvái ruđa doibmii ja lea ožžon doarjaga kulturfoanddas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tilskuddet bør derfor økes.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Doarjja berre danne lasihuvvot.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 10.0 Samisk helse- og sosialsatsing Post Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 10.0 Sámi dearvvašvuođa- ja sosiálaáŋgiruššan Poasta Doaibma 450</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>RR 2005 Bud 2006 Rev 2006 a)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006 Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007+/- 07-Rev 06</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007+/- 07-Rev 06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Erohus %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 100</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 400</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 400</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 850</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 850</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-550</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-550</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-12,50 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-12,50 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 100</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 100</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 400</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>4 400</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>4 400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 850</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3 850</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-550</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-550</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-12,50 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-12,50 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>a) Ved statsbudsjettet for 2006 ble Sametinget tildelt kr 5 400 000 i prosjektmidler fra Helse- og omsorgsdepartementet.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>a) 2006 stáhtabušeahtas oaččui Sámediggi kr 5 400 000 prošeaktaruhtan Dearvvašvuođa- ja fuolahusdepartemeanttas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Da tildelingsbrevet kom i 2006 var tildeling for 2006 på kr 5 700 000.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2006 ` juolludusreivves lei 2006 ` juolludus kr 5 700 000.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sametinget forutsetter minimum samme beløp i 2007.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámediggi eaktuda unnimusat seamma supmi 2007:s.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kr 1 200 000 går til post 01 til lønn av to stillinger, kr 150 000 går til post 800 til Helse- og sosialseminar og kr 500 000 går til post 899 evaluering av tilskudd.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kr 1 200 000 manná postii 01 guovtti virggi bálkái, kr 150 000 manná postii 800 Dearvvašvuođa- ja sosiálasemináraide ja kr 500 000 manná postii 899 doarjagiid evalueremii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Reginonal utvikling og samarbeid Post</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tabealla 11.0Guovllu ovdánahttin ja ovttasbargu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>500 (i 1000 kr)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta Doaibma 500</seg>
+        <seg>8,3 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -4455,7 +2799,7 @@
         <seg>Bud 2006</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Submi a)</seg>
+        <seg>Buš 2006</seg>
       </tuv>
     </tu>
     <tu>
@@ -4468,183 +2812,143 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>820</seg>
+        <seg>Bud 2007 +/- 07-Rev 06</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>820</seg>
+        <seg>Buš 2007 +/- 07-Rev 06</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>5 116</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>Erohus %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>4 905 200 3000</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>Dáiddafoanda Stipeanda sámi dáiddáriidda Doaibmadoarjja dáiddárorganisašuvnnaide Govvadáidaga ja dáiddaduoji oastinortnet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>3 100</seg>
+        <seg>5 407 200 3000 502</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3 100</seg>
+        <seg>700 1 750 1 550 350</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>10,2 % 0,0 % 0,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>700 1 750 1 550 350</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>100,0 %</seg>
+        <seg>8 607</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>100,0 %</seg>
+        <seg>4 350</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>820</seg>
+        <seg>6,2 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>820</seg>
+        <seg>4 350</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>Side 4 av 8</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>Side 4 av 9</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>Avvik i %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>0,0 % Doaibma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>3 100</seg>
+        <seg>Tabell 7.1 Post 250 25000 25001 25002 25003 25004 25005 25006</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3 100</seg>
+        <seg>(1000 kr:n)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 550</seg>
+        <seg>Tilskudd til de samiske bokbussene Benevnelse</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 550</seg>
+        <seg>RR 2005</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>100,0 %</seg>
+        <seg>3,5 % Tildelt 2005 Tildelt 2006 Bud 2007</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>100,0 %</seg>
+        <seg>Rev 2006 400 200 300 750 300</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>a) Kr 100 000 øremerkes til filmfestivalen i Kautokeino og tilskudd utover dette søkes løst gjennom samarbeidsavtalen med Finnmark fylkeskommune.</seg>
+        <seg>300 301 302</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) Kr 100 000 várrejuvvo Guovdageainnu filbmafestiválii ja doarjja earret dan ohccojuvvo Finnmárkku fylkkagieldda ovttasbargošiehtadusa bokte.</seg>
+        <seg>400 200 300 750 300</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tabell 12.0</seg>
+        <seg>500 500 224 1135 547 1188 1313</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tabealla 12.0</seg>
+        <seg>500 230 310 773 100 30 10 23 -300</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Internasjonalt arbeid</seg>
+        <seg>7,3 % 7,3 % 12,0 % 8,0 % 11,9 % 12,0 % 12,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Riikkaidgaskasaš bargu</seg>
+        <seg>25,0 % 15,0 % 3,3 % 3,1 % -100,0 %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Post</seg>
+        <seg>5 407</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Poasta</seg>
+        <seg>1 650</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Benevnelse</seg>
+        <seg>502</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibma</seg>
+        <seg>a)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>551 552 553 554</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>551 552 553 554</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Barentssamarbeid Annet internasjonalt arbeid / Urfolksrettigheter Tilskudd til grenseoverskridende tiltak Sámi Válaštallan Lihttu (SVL) - Arctic Winter Games</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Barentsovttasbargu Eará riikkaidgaskasaš bargu / Eamiálbmotvuoigatvuođat Doarjja rádjerasttildeaddji doaimmaide Sámi Valášštallan Lihttu (SVL) - Arctic Winter Games</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>340 330 549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Submi Vedlegg 3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post 551 55100 55101</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n) RR 2005 Buš 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post 552 55200</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Rev 2006 Buš 2007</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Post 553 55300 55301</seg>
+        <seg>10,2 % (i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>+/- 07-Rev 06 Erohus %</seg>
@@ -4652,82 +2956,850 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Samisk utviklingsfond Duodjiinstitusjoner og organisasjoner Goahtegearret</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a) 2007:s sirdojuvvo poasta 20804 sámegiel govvaráiddut sámi kulturfoandda postii 20060.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,5 % RR 2005 Buš 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>22 486 3 150 250</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5 116 4 905 200 3000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>22 600 1 950 250</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 905 200 3000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>24 450 1 950 250</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5 407 200 3000 502</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>21 820 2 459 250</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10,2 % 0,0 % 0,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>25 886</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5 116</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>466 466 200 1 051 489 1 061 1 172 Samletabell - Samisk næring Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Johtti girjerájusbálvalusat Sámi girjerájusbálvalusat Sámi girjebussiid investeremat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Post 300</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 105 8 105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 890</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 607</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 8.1</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avvik 07 - 06</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus 07 - 06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>466 466 185 1 051 489 1 061 1 172</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>466 466 200 1 051 489 1 061 1 172</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sum Tabell 8.0</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>500 500 224 1135 547 1188 1313</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.) 24 800</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>34 34 24 84 58 127 141</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>26 650</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>7,3 % 7,3 % 12,0 % 8,0 % 11,9 % 12,0 % 12,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>24 529</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 890</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-2 121</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 905</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-8,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5 407 502</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3,5 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10,2 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Benevnelse Fiskeri Jordbruk Duodji avtale Variert næringsliv Interreg</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 8.0 Čoahkketabealla – Sámi ealáhusat Poasta 300 301 302</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) b) c) Bud 2007 +/- 07-Rev 06</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>22 486</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>22 486 3 150 250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>22 600</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>22 600 1 950 250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>24 450</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>24 450 1 950 250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>21 820</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>21 820 2 459 250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-2 630</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-2 630 509</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-10,8 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-10,8 % 26,1 % 0,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>b) Kr 700 000 er avsatt til Interregprogrammet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>25 886</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>c) I 2007 overføres kr 500 000 fra post 300 til post 899 pga. evaluering av tilskudd til samisk utviklingsfond.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 8.2 Post 300 30020 30020 30020 30020 30022 30023 30024 30025 30026</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>24 800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Duodjiavtalen Benevnelse Duodji driftstilskudd Duodji investerings- og utviklingstilskudd Duodji - velferdsordninger Duodji - fag- og økonomisk utvalg Manndalen Husflidslag Unjárgga Sámiid Duodje Duojáriid Dállu OS Duojáriid Ealáhus Searvi Sámiid Duodji OS Sammenslåing av SD og DeS</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>26 650</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sum Tabell 8.3 Post 301 30100 30022 30023 30024 Sum</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>24 529</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vedlegg 3</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-2 121 -8,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 8.1 Sámi ovdánahttinfoanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poasta 300 Doaibma Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus i %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>466 466 185 1 051 489 1 061 1 172 Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 280 3 000 320 100 100 100 450 1 050 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006 4 100 3 000 8 500 6 000 1 000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 000 3 200 320 200 450 1 050</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 100 3 000 8 500 6 000 2 850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-280 200 200 -100 -100 -100 -100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-50 -50 -280 -100 -2 150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-8,5 % 6,7 % 0,0 % -100,0 % -100,0 % -100,0 % 0,0 % 0,0 % -100,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-1,2 % -1,7 % -3,3 % -1,7 % -75,4 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 500</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>22 600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 500</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>24 450</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 220</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>21 820</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-280</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-2 630</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-3,3 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-10,8 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Duodjiinstitusjoner og organisasjoner Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b) Kr 700 000 lea biddjon Interregprogrammii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Duodjeinstituhtta Manndalen Husflidslag Unjárgga Sámiid Duodje Duojáriid Dállu OS</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duodji doaibmadoarjja Duodji investeren- ja ovdánahttindoarjja Duodji - čálgoortnegat Duodji – fága ja ekonomalaš lávdegoddi Olmmáivákki duodjesearvi Unjárgga Sámiid Duodji Duojáriid Dállu OS Duojáriid Ealáhus Searvi Sámiid Duodji OS SD ja DeS ovttastupmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 950 3 150</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 000 3 200 320 200 450 1 050</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2 009 150 150 150 59 150 150 150</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-280 200 200 -100 -100 -100 -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3,0 % -</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-8,5 % 6,7 % 0,0 % -100,0 % -100,0 % -100,0 % 0,0 % 0,0 % -100,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 950</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 950</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2 459</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 220</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>509</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>26,1 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-3,3 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 8.4 Post 302 30200 Goahtegearret Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 8.3 Duodjeásahusat ja organisašuvnnat Poasta 301 Doaibma 30100 30022 30023 30024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006 a)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Goahtegearret</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duodjeinstituhtta Olmmáivákki duodjesearvi Unjárgga Sámiid Duodji Duojáriid Dállu OS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>250 250</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 950</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 150</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 950</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 9.0</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2 009 150 150 150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samletabell - Samisk miljø- og kulturvern</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,0 % -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 950</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Benevnelse</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>340 330 549</seg>
+        <seg>1 950 2 459</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Post 554 55400</seg>
+        <seg>400 401 402</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>325 200 556 150</seg>
+        <seg>509</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>7 -350</seg>
+        <seg>0,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>7 -350</seg>
+        <seg>26,1 %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>0,0 % 0,0 % 1,3 % -70,0 %</seg>
+        <seg>Kulturminnevern Museer Forskning og dok..</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>0,0 % 0,0 % 1,3 % -70,0 %</seg>
+        <seg>Tabealla 8.4 Goahtegearret Poasta 302 Doaibma 30200</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 574</seg>
+        <seg>Grenselosene i Tysfjord</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 574</seg>
+        <seg>Goahtegearret</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 574</seg>
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 574</seg>
+        <seg>RR 2005 Buš 2006 Rev 2006 a)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>1 231</seg>
+        <seg>1 884 12 887 384 404 -1 000</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1 231</seg>
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>-343</seg>
+        <seg>12 331</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>-343</seg>
+        <seg>250 250</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>-21,8 %</seg>
+        <seg>14 983</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>-21,8 %</seg>
+        <seg>250 0,0 %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>14 983</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tabealla 12.2</seg>
+        <seg>3 150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>14 771</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>250 250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-212</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-1,4 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>250 0,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kulturminnevern</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 9.0 Čoahkketabealla – Sámi biras- ja kultursuodjalus Poasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3,5 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>400 401 402</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Divttasvuona rádjelosat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006 Bud 2007 +/- 07-Rev 06</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0,0 % RR 2005 Buš 2006 Rev 2006 1 538 10 793</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avvik i % 1 538</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 500 12 483 1 000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 325 100 75</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 500 12 483 1 000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 325 100 75</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 884 12 887</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 702 104 78</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14 983 14 771</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>377 4 3</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vedlegg 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 9.2 Bud 2007 +/- 07-Rev 06</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 538 10 793</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12 331 Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sum</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>40000 40001 40002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 9.1</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>384</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>384 25,6 % 404 3,2 % -1 000 -100,0 % -212</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>25,6 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3,5 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-1,4 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,39 +3815,519 @@
         <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06</seg>
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>340</seg>
+        <seg>1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250 1 401 270 3 840 270 270 70 2 693 1 570 270 220 359 1 250</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>340</seg>
+        <seg>Sámi kulturmuitosuodjalus 1 538 Cevzegeađnjárga kulturmuitosuodjalus (Várjjat Sámi Musea) Nuortalaččaid kulturbiras (Nuorta-sámi musea)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>150 175</seg>
+        <seg>12 483 12 483</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>150 175</seg>
+        <seg>1 325 100 75</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>150 175</seg>
+        <seg>12 887</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>150 175</seg>
+        <seg>377 4 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>150 175</seg>
+        <seg>404</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>150 175</seg>
+        <seg>28,5 % 4,0 % 4,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3,2 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 538</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) a) a)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 500 1 500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>b) a) c) b) a)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 884</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sum</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>384</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) SVD.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Side 6 av 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>, Guovdageaindu, Kokelv og Porsanger har fra 01.07.06 fellest drift gjennom Nordvestsamisk museumssiida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 9.2 Museat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nordvestsamisk museumssiida har fått overført kr 500 000 gjennom museumsreformen (post 40111) i fast driftstilskudd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,5 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>b) Samien Sitje har også fått overført kr 500 000 gjennom museumsreformen (post 40111) i fast driftstilskudd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poasta 401 Doaibma 40100 40101 40102 40103 40104 40105 40106 40107 40108 40109 40110 40111 40112</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006 a)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007+/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10 793</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 400</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12 483</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 400</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12 483</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 850</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12 887</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>404</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3,2 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4 400 4 400</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a) a) a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 850</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b) a) c) b) a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-12,50 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a) SVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) Ved statsbudsjettet for 2006 ble Sametinget tildelt kr 5 400 000 i prosjektmidler fra Helse- og omsorgsdepartementet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>, Guovdageaidnu, Goavkejohka ja Porsáŋgu doibmet 01.07.06 oktasaččat Davvioarjesámi museasiidda bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da tildelingsbrevet kom i 2006 var tildeling for 2006 på kr 5 700 000.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvioarjesámi museasiida lea ožžon kr 500 000 museaođastusa bokte (poasta 40111) fásta doaibmadoarjjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kr 1 200 000 går til post 01 til lønn av to stillinger, kr 150 000 går til post 800 til Helse- og sosialseminar og kr 500 000 går til post 899 evaluering av tilskudd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b) Samien Sitje lea maiddái ožžon kr 500 000 museaođastusa bokte (poasta 40111) fásta doaibmadoarjjan. c) Nuortasámi musea ii leat ožžon doarvái ruđa doibmii ja lea ožžon doarjaga kulturfoanddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Reginonal utvikling og samarbeid</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doarjja berre danne lasihuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.) Samarbeidsavtaler med fylkeskommunene</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 10.0 Sámi dearvvašvuođa- ja sosiálaáŋgiruššan Poasta Doaibma 450</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>100,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-12,50 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>820</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 550</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>100,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-12,50 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2006 ` juolludusreivves lei 2006 ` juolludus kr 5 700 000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007+/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi eaktuda unnimusat seamma supmi 2007:s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) Kr 100 000 øremerkes til filmfestivalen i Kautokeino og tilskudd utover dette søkes løst gjennom samarbeidsavtalen med Finnmark fylkeskommune.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kr 1 200 000 manná postii 01 guovtti virggi bálkái, kr 150 000 manná postii 800 Dearvvašvuođa- ja sosiálasemináraide ja kr 500 000 manná postii 899 doarjagiid evalueremii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 12.0 Internasjonalt arbeid</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 11.0Guovllu ovdánahttin ja ovttasbargu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poasta Doaibma 500 RR 2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Arctic Winter Games</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>340 330 549</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a) Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Post 551 55100 55101</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>820</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Post 552 55200 Post 553 55300 55301</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargošiehtadusat fylkkagielddaiguin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7 -350</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>0,0 % 0,0 % 1,3 % -70,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007 +/- 07-Rev 06 Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 574</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 574</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 231</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-343</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 550</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-21,8 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>100,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>551 552 553 554</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n) RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>+/- 07-Rev 06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>340 150 175</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>340 330 549</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>150 175 150 175</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>325 200 556 150</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,7 +4335,7 @@
         <seg>0,0 % 0,0 %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>0,0 % 0,0 %</seg>
+        <seg>1 574 1 231</seg>
       </tuv>
     </tu>
     <tu>
@@ -4791,12 +4343,100 @@
         <seg>340</seg>
       </tuv>
       <tuv xml:lang="sme">
+        <seg>-343</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>325 325</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-21,8 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>325 0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 12.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Annet internasjonalt arbeid / Urfolksrettigheter Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Barentsovttasbargu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poasta 551 Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RR 2005 Bud 2006 Rev 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006 Rev 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>+/- 07-Rev 06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>200 200</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>200</seg>
+      </tuv>
+      <tuv xml:lang="sme">
         <seg>340</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Barentssamarbeid Barents urfolkskontor i Murmansk</seg>
+        <seg>0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>330</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>340</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Annet internasjonalt arbeid / Urfolksrettigheter</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Barentsovttasbargu Barentseamiálbmotkantuvra Murmánskkas</seg>
@@ -4804,7 +4444,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>325</seg>
+        <seg>200</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>325</seg>
@@ -4812,7 +4452,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>325</seg>
+        <seg>200</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>325</seg>
@@ -4820,7 +4460,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>325</seg>
+        <seg>200</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>325</seg>
@@ -4836,7 +4476,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Annet internasjonalt arbeid / Urfolksrettigheter Benevnelse</seg>
+        <seg>Tilskudd til grenseoverskridende tiltak Benevnelse</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Eará riikkaidgaskasaš bargu / Eamiálbmotvuoigatvuođat</seg>
@@ -4852,7 +4492,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>(i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Poasta 552 Doaibma</seg>
@@ -4871,12 +4511,20 @@
         <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06</seg>
+        <seg>+/- 07-Rev 06</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>330</seg>
+        <seg>549 549</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>549</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>330</seg>
@@ -4884,7 +4532,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
+        <seg>466 90</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará riikkaidgaskasaš bargu / Eamiálbmotvuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-83 90</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Submi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-15,1 % -</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 12.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>549</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>200</seg>
@@ -4892,7 +4564,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
+        <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>200</seg>
@@ -4900,7 +4572,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
+        <seg>325 200 556 150</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>200</seg>
@@ -4916,7 +4588,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>330</seg>
+        <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>330</seg>
@@ -4924,7 +4596,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Annet internasjonalt arbeid / Urfolksrettigheter</seg>
+        <seg>Tabell 12.4</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>55200</seg>
@@ -4932,7 +4604,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
+        <seg>325 200 549 500</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>200</seg>
@@ -4940,7 +4612,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
+        <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>200</seg>
@@ -4948,42 +4620,106 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>200</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>200</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tilskudd til grenseoverskridende tiltak Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Doajja rádjerasttildeaddji doaimmaide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(i 1000 kr)</seg>
+        <seg>Tabell 12.3</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Poasta 553 Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>325 200 549 500</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RR 2005 Buš 2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 219 Sum</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buš 2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>+/- 07-Rev 06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>549</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>549</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>549</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>549</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>556</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>556</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1,3 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1,3 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sámi Válaštallan Lihttu (SVL.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi Valášštallan Lihttu (SVL.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Arctic Winter Games Benevnelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Arctic Winter Games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>0,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(i 1000 kr.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(1000 kr:n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,87 +4735,7 @@
         <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>549</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>549</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>549</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>466 90</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>466 90</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-83 90</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-83 90</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>-15,1 % -</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-15,1 % -</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>549</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 12.5</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>55300 55301</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>325 200 556 150</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>556</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>0,0 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1,3 %</seg>
+        <seg>+/- 07-Rev 06</seg>
       </tuv>
     </tu>
     <tu>
@@ -5087,95 +4743,7 @@
         <seg>Sum</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>0,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Barntssamarbeid Sum</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Poasta 554 Doaibma 55400</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tabell 12.3</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>325 200 549 500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RR 2005 Buš 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum Tabell 12.2</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(1000 kr:n) Rev 2006</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bud 2007 +/- 07-Rev 06 Avvik i %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buš 2007 +/- 07-Rev 06</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>549</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>500</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>556</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>150</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>7</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-350</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>1,3 %</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>-70,0 %</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sámi Válaštallan Lihttu (SVL) - Arctic Winter Games Benevnelse</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi Valáštallan Lihttu (SVL) - Arctic Winter Games</seg>
+        <seg>Submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5220,7 +4788,63 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sámi Válaštallan Lihttu (SVL) - Arctic Winter Games</seg>
+        <seg>Sámi Válaštallan Lihttu (SVL.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi Valáštallan Lihttu (SVL.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Arctic Winter Games</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Arctic Winter Games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>500</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>500</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>150</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-350</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>-70,0 %</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>-70,0 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>a) Det blir ikke arrangert Artic Winter Games i 2007.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>a) 2007:s eai lágiduvvo Arctic Winter Games.</seg>
@@ -5372,7 +4996,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>700 (i 1000 kr)</seg>
+        <seg>700 (i 1000 kr.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Poasta Doaibma 700</seg>
@@ -5788,7 +5412,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sum</seg>
+        <seg>Bud 2007 +/- 07-Rev 06</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Submi</seg>

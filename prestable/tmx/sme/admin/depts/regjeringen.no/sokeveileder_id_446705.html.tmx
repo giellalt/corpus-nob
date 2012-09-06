@@ -228,10 +228,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Avansert søk støtter bruk av de boolske operatorene AND, OR og NOT.</seg>
+        <seg>Avansert søk støtter bruk av de boolske operatorene AND.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dárkilis ohcan hálddaša logihkalaš operatevrraid AND, OR ja NOT.</seg>
+        <seg>Dárkilis ohcan hálddaša logihkalaš operatevrraid AND.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>, OR og NOT.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>, OR ja NOT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -268,10 +276,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søk på f.eks.» jens AND OR NOT ” (uten hermetegn) gir treff på dokumenter hvor ordene jens, and, or og not forekommer sammen.</seg>
+        <seg>Søk på f.eks.» jens AND OR NOT. ”</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oza nugomat» jens AND OR NOT ” (aisttonmearkkaid haga) de gávdná dokumeanttaid main sánit jens, and, or ja not čállojuvvojit maŋŋálaga.</seg>
+        <seg>Oza nugomat» jens AND OR NOT. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(uten hermetegn) gir treff på dokumenter hvor ordene jens, and, or og not forekommer sammen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(aisttonmearkkaid haga) de gávdná dokumeanttaid main sánit jens, and, or ja not čállojuvvojit maŋŋálaga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,7 +343,7 @@
         <seg>island (aske OR støv) title:flytrafikk – sammensatt søk som gir treff på dokumenter hvor ordet island og enten aske eller støv forekommer hvor som helst, og hvor ordet flytrafikk forekommer i tittelen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>o islánda (gutna OR gavja) title:girdijohtolat – čoahkkádus ohcan mii gávdná dokumeanttaid main sátni islánda ja dahje gutna dahje gavja gávdno gokko nu, ja mas sátni girdijohtolat gávdno bajilčállagis.</seg>
+        <seg>o islánda (gutna OR gavja) title:girdijohtolat – čoahkádus ohcan mii gávdná dokumeanttaid main sátni islánda ja dahje gutna dahje gavja gávdno gokko nu, ja mas sátni girdijohtolat gávdno bajilčállagis.</seg>
       </tuv>
     </tu>
   </body>

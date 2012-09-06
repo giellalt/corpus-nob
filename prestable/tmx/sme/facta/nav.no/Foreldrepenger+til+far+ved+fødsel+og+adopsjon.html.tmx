@@ -103,7 +103,7 @@
         <seg>Når begge foreldrene har rett til foreldrepenger, er 3 uker før og 6 uker etter fødselen forbeholdt mor, 10 uker er forbeholdt far (fedrekvote / pappapermisjon), og 27/37 uker er til valgfri fordeling mellom foreldrene (fellesperioden).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3 vahku ovdal ja 6 vahku maŋŋel riegádahttima lea várrejuvvon eadnái, 10 vahku lea várrejuvvon áhččái (áhččeearri / áhččevirgelohpi go goappeš váhnemiin lea riekti váhnenruhtii. Váhnemat sáhttiba ieža válljet mot gaskaneaskka juogadeaba 27/37 vahku (oktasašáigodat).</seg>
+        <seg>3 vahku ovdal ja 6 vahku maŋŋel riegádahttima lea várrejuvvon eadnái, 10 vahku lea várrejuvvon áhččái (áhččeearri), / áhččevirgelohpi go goappeš váhnemiin lea riekti váhnenruhtii. Váhnemat sáhttiba ieža válljet mot gaskaneaskka juogadeaba 27/37 vahku (oktasašáigodat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -703,7 +703,7 @@
         <seg>Du kan kombinere foreldrepenger / fedrekvoten med arbeid på to måter:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guovtteládje sáhtát lotnolagaid bargat ja geavahit váhnenruđa / áhččeeari</seg>
+        <seg>Guovtteládje sáhtát lotnolagaid bargat ja geavahit váhnenruđa: / áhččeeari</seg>
       </tuv>
     </tu>
     <tu>
@@ -1103,15 +1103,7 @@
         <seg>Datoene gjelder for 2010.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>2010 beaivvit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Jan</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ođđ.</seg>
+        <seg>2010 beaivvit. Ođđ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1119,44 +1111,12 @@
         <seg>Feb</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Mar</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Nju.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Apr</seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>Čuo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Mai</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Jun</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gea.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Jul</seg>
+        <seg>Mar Apr</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Suo.</seg>
@@ -1164,7 +1124,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Aug</seg>
+        <seg>Mai Jun</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bor.</seg>
@@ -1172,7 +1132,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sept</seg>
+        <seg>Jul Aug</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Čak.</seg>
@@ -1180,7 +1140,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Okt</seg>
+        <seg>Sept</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gol.</seg>
@@ -1188,7 +1148,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Nov</seg>
+        <seg>Okt</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ská.</seg>
@@ -1196,7 +1156,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Des</seg>
+        <seg>Nov Des</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Juo.</seg>
@@ -1304,254 +1264,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Buohcanruđa ja váhnen- ja áhpehisvuođaruđa olggosmáksinbeaivvit mat leat merkejuvvon * gustojit mannán mánu olggosmáksimii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Målform / språk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Giellahápmi / giella</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Foreldrepengar til far ved fødsel og adopsjon (Nynorsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Foreldrepengar til far ved fødsel og adopsjon (Nynorsk)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Paternity benefit on birth or adoption (Engelsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Paternity benefit on birth or adoption (Engelsk)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Avtale om gradert uttak / utsettelse av foreldrepenger - Selvstendig næringsdrivende (Bokmål | Nynorsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Skovit ja mielddus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Medlemskap i folketrygden</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dán dárbbašat go ozat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sjekk dine rettigheter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Álbmotoaju miellahttovuohta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Relatert informasjon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Iskka leat go vuoigatvuođat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Fedrekvote (tidligere kjent som pappapermisjon)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fedrekvote (tidligere kjent son pappapermisjon)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Fedrekvoten utvides til 10 uker</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fedrekvoten utvides til 10 uker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Stønadsperioden for foreldrepenger ved adopsjon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Stønadsperioden for foreldrepenger ved fødsel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Beregning av foreldrepenger</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Stønadsperioden for foreldrepenger ved adopsjon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kan jeg arbeide når jeg får foreldrepenger ?</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kan jeg arbeide når jeg får foreldrepenger ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Foreldrepenger til far - Regelverk før 01.07.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Foreldrepenger til far - Regelverk før 01.07.2009</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Spørsmål og svar</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gažaldagat ja vástádusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Spørsmål og svar - foreldrepenger</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spørsmål og svar - foreldrepenger</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Internasjonalt</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Riikkaidgaskasaš</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i et EØS-land</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i et EØS-land</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i land utenfor EØS der Norge har trygdeavtale</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i land utenfor EØS der Norge har trygdeavtale</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i land utenfor EØS der Norge ikke har trygdeavtale</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Svangerskaps- og foreldrepenger under utenlandsopphold i land utenfor EØS der Norge ikke har trygdeavtale</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Slik klager du</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Váidinvuoigatvuođat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Regelverk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ná váiddát</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Folketrygdloven kapittel 14 - Ytelser ved svangerskap, fødsel og adopsjon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Folketrygdloven kapittel 14 - Ytelser ved svangerskap, fødsel og adopsjon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>/ /</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ /</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kontakt oss</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kontakt oss</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>/ /</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ /</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Personvern og sikkerhet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Personvern og sikkerhet</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>/ /</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ /</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tilbakemelding nav.no</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tilbakemelding nav.no</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>/ /</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ /</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tilgjengelighet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Tilgjengelighet</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>© 2010 Arbeids- og velferdsetaten</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>© 2010 Arbeids- og velferdsetaten</seg>
       </tuv>
     </tu>
   </body>
