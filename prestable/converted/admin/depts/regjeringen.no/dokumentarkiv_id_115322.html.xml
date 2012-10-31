@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>Dokumeantavuorká - regjeringen.no</title>
+    <genre/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>271</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="divvun@samediggi.no" name=""/>
+    <origFileName>http://regjeringen.no/nb/dokumentarkiv.html?id=115322</origFileName>
+    <parallel_text location="dokumeantavuorka.html_id=115322" xml:lang="sme"/>
+    <parallel_text location="dokumentarkiv.html_id=115322" xml:lang="nno"/>
+    <parallel_text location="archive.html_id=115322" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title">Om dokumentarkivet</p>
+    </section>
+    <p>I dokumentarkivet finner du informasjon publisert av tidligere regjeringer. For eksempel vil pressemeldinger, taler, artikler og nyheter fra en tidligere regjeringsperiode ligge her. Dokumentarkivet inneholder også dokumenter hvor innholdet ikke lenger er gyldig, for eksempel utgåtte rundskriv. </p>
+    <p>Dokumenter som er flyttet til arkivet blir ikke oppdatert, og informasjonen er dermed av historisk art. </p>
+    <p>Aktuelle lenker: </p>
+    <list>
+      <p type="listitem">Oversikt over norske regjeringer siden 1945 </p>
+      <p type="listitem">Historisk departementsliste         </p>
+    </list>
+  </body>
+</document>

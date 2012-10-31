@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="nob">
+  <header>
+    <title>Mánáid- ja dásseárvodepartemeantta kaleanddar - regjeringen.no</title>
+    <genre/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>190</wordcount>
+    <availability>
+      <free/>
+    </availability>
+    <submitter email="divvun@samediggi.no" name=""/>
+    <origFileName>http://regjeringen.no/nb/dep/bld/aktuelt/kalender.html?id=308</origFileName>
+    <parallel_text location="manaid--ja-dassearvodepartemeantta-kaleanddar.html_id=308" xml:lang="sme"/>
+    <parallel_text location="kalender.html_id=308" xml:lang="nno"/>
+    <parallel_text location="calendar-for-the-ministry-of-children-an.html_id=308" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <section>
+      <p type="title">Kalender</p>
+    </section>
+    <p>Statsråden har normalt følgende faste poster i sitt ukeprogram: </p>
+    <list>
+      <p type="listitem">Regjeringskonferanse på Statsministerens kontor mandag og   torsdag kl. 12.15 </p>
+      <p type="listitem">Statsrådets møte på Slottet fredag kl. 11.00 </p>
+    </list>
+    <p>Med forbehold om endringer. </p>
+    <p>For mer informasjon, kontakt kommunikasjonsenheten på tlf: <em type="italic">97 77 36 34 </em></p>
+  </body>
+</document>
