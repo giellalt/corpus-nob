@@ -7,12 +7,11 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>307</wordcount>
+    <wordcount>168</wordcount>
     <availability>
       <free/>
     </availability>
     <submitter email="divvun@samediggi.no" name=""/>
-    <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/krd/pressesenter.html?id=507</origFileName>
     <parallel_text location="preassaguovdda.html_id=507" xml:lang="sme"/>
     <parallel_text location="pressesenter.html_id=507" xml:lang="nno"/>
@@ -20,39 +19,26 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
   </header>
   <body>
     <section>
       <p type="title">Pressesenter</p>
     </section>
-    <p>Velkommen til Kommunal- og
-                  regionaldepartementets pressesenter. Her finner
-                  du blant annet pressemeldinger, oversikt over
-                  pressekontakter, samt annen nyttig informasjon.</p>
+    <p>Velkommen til Kommunal- og regionaldepartementets pressesenter. Her finner du blant annet pressemeldinger, oversikt over pressekontakter, samt annen nyttig informasjon. </p>
     <section>
       <p type="title">Pressehenvendelser</p>
     </section>
-    <p>
-                  Pressetelefonen 22 24 25 00 er ordinært betjent
-                  mellom kl 09.00 og 17.00 mandag til torsdag og mellom
-                  kl. 09.00 til 15.00 på fredager.</p>
+    <p>Pressetelefonen 22 24 25 00 er ordinært betjent mellom kl 09.00 og 17.00 mandag til torsdag og mellom kl. 09.00 til 15.00 på fredager. </p>
     <list>
-      <p type="listitem">Nyheter
-                    og pressemeldinger</p>
-      <p type="listitem">Taler
-                    og artikler</p>
-      <p type="listitem" xml:lang="swe">KRD på
-                    Flickr</p>
-      <p type="listitem">Lyd
-                    og bilde</p>
-      <p type="listitem" xml:lang="sme">Bildearkiv</p>
-      <p type="listitem">
-                    Kommunal- og regionalministeren</p>
-      <p type="listitem">Øvrig
-                    politisk ledelse</p>
-      <p type="listitem" xml:lang="swe">
-                    Administrativ ledelse</p>
+      <p type="listitem">Nyheter og pressemeldinger </p>
+      <p type="listitem">Taler og artikler </p>
+      <p type="listitem">KRD på Flickr </p>
+      <p type="listitem">Lyd og bilde </p>
+      <p type="listitem">Bildearkiv </p>
+      <p type="listitem">Kommunal- og regionalministeren </p>
+      <p type="listitem">Øvrig politisk ledelse </p>
+      <p type="listitem">Administrativ ledelse </p>
     </list>
     <section>
       <p type="title">Kommunikasjonssjef Liv Merete
@@ -61,39 +47,39 @@
     <section>
       <p type="title">Pressekontakt</p>
     </section>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 68 10</p>
-    <p>Mobil:</p>
-    <p>99 20 77 08</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
+    <p>E-post: </p>
+    <p>Telefon: </p>
+    <p>22 24 68 10 </p>
+    <p>Mobil: </p>
+    <p>99 20 77 08 </p>
+    <p>Faks: </p>
+    <p>22 24 27 41 </p>
     <section>
-      <p type="title" xml:lang="swe">Nestleder Anne Marit Schiong</p>
+      <p type="title">Nestleder Anne Marit Schiong</p>
     </section>
     <section>
       <p type="title">Pressekontakt</p>
     </section>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 68 09</p>
-    <p>Mobil:</p>
-    <p>93 08 99 90</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
+    <p>E-post: </p>
+    <p>Telefon: </p>
+    <p>22 24 68 09 </p>
+    <p>Mobil: </p>
+    <p>93 08 99 90 </p>
+    <p>Faks: </p>
+    <p>22 24 27 41 </p>
     <section>
       <p type="title">Seniorrådgiver Kjersti Bjørgo</p>
     </section>
     <section>
       <p type="title">Pressekontakt</p>
     </section>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 68 32</p>
-    <p>Mobil:</p>
-    <p>97 16 48 35</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
+    <p>E-post: </p>
+    <p>Telefon: </p>
+    <p>22 24 68 32 </p>
+    <p>Mobil: </p>
+    <p>97 16 48 35 </p>
+    <p>Faks: </p>
+    <p>22 24 27 41 </p>
     <section>
       <p type="title">Seniorrådgiver Ingvild Dahl
                         Dørnes</p>
@@ -101,42 +87,25 @@
     <section>
       <p type="title">Pressekontakt</p>
     </section>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 68 35</p>
-    <p>Mobil:</p>
-    <p>90 78 92 63</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
+    <p>E-post: </p>
+    <p>Telefon: </p>
+    <p>22 24 68 35 </p>
+    <p>Mobil: </p>
+    <p>90 78 92 63 </p>
+    <p>Faks: </p>
+    <p>22 24 27 41 </p>
     <section>
       <p type="title">Seniorrådgiver Sissel Mossing</p>
     </section>
     <section>
       <p type="title">Pressekontakt</p>
     </section>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 68 21</p>
-    <p>Mobil:</p>
-    <p>92 08 01 47</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
-    <section>
-      <p type="title">Kontaktinformasjon</p>
-    </section>
-    <section>
-      <p type="title">Kommunikasjonsenheten</p>
-    </section>
-    <p>Telefon:</p>
-    <p>22 24 25 00</p>
-    <p>Faks:</p>
-    <p>22 24 27 41</p>
-    <section>
-      <p type="title">Adresse:</p>
-    </section>
-    <p>Kommunal- og regionaldepartementet
-                      Kommunikasjonsenheten
-                      Postboks 8112 Dep
-                      0032 Oslo</p>
+    <p>E-post: </p>
+    <p>Telefon: </p>
+    <p>22 24 68 21 </p>
+    <p>Mobil: </p>
+    <p>92 08 01 47 </p>
+    <p>Faks: </p>
+    <p>22 24 27 41 </p>
   </body>
 </document>

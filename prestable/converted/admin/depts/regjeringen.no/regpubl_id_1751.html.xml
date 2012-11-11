@@ -7,44 +7,25 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>245</wordcount>
+    <wordcount>127</wordcount>
     <availability>
       <free/>
     </availability>
     <submitter email="divvun@samediggi.no" name=""/>
-    <multilingual/>
     <origFileName>http://regjeringen.no/nb/dok/regpubl.html?id=1751</origFileName>
     <parallel_text location="proposiuvnnat-ja-dieahusat-.html_id=1751" xml:lang="sme"/>
     <parallel_text location="proposisjonar-og-meldingar.html_id=1751" xml:lang="nno"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
   </header>
   <body>
     <section>
       <p type="title">Proposisjoner og meldinger</p>
     </section>
-    <p>Proposisjoner og meldinger er dokumenter som
-                    regjeringen legger fram for Stortinget. Utkast til
-                    proposisjoner og meldinger lages av departementene.
-                    Dokumentene behandles deretter av Kongen i statsråd
-                    før de sendes til Stortinget.</p>
-    <p><em type="italic">Proposisjoner til Stortinget
-                    (Prop.)</em> brukes når regjeringen foreslår at
-                    Stortinget treffer vedtak. Det kan gjelde forslag
-                    knyttet til nye eller endrede lover, forslag til
-                    statsbudsjett eller endringer i dette samt andre
-                    vedtak.</p>
-    <p><em type="italic">Meldinger til Stortinget
-                    (Meld.St.)</em> brukes når regjeringen vil
-                    presentere saker for Stortinget uten at de er
-                    knyttet til forslag til vedtak. Meldinger til
-                    Stortinget har ofte karakter av å være en rapport
-                    til Stortinget om et arbeid som er gjort på et
-                    spesielt felt, eller drøfting av framtidig
-                    politikk. Meldingene, og behandlingene i Stortinget
-                    danner ofte grunnlaget for en senere
-                    proposisjon.</p>
+    <p>Proposisjoner og meldinger er dokumenter som regjeringen legger fram for Stortinget. Utkast til proposisjoner og meldinger lages av departementene. Dokumentene behandles deretter av Kongen i statsråd før de sendes til Stortinget. </p>
+    <p><em type="italic">Proposisjoner til Stortinget (Prop.) </em>brukes når regjeringen foreslår at Stortinget treffer vedtak. Det kan gjelde forslag knyttet til nye eller endrede lover, forslag til statsbudsjett eller endringer i dette samt andre vedtak. </p>
+    <p><em type="italic">Meldinger til Stortinget (Meld.St.) </em>brukes når regjeringen vil presentere saker for Stortinget uten at de er knyttet til forslag til vedtak. Meldinger til Stortinget har ofte karakter av å være en rapport til Stortinget om et arbeid som er gjort på et spesielt felt, eller drøfting av framtidig politikk. Meldingene, og behandlingene i Stortinget danner ofte grunnlaget for en senere proposisjon. </p>
   </body>
 </document>

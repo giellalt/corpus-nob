@@ -7,12 +7,11 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>200</wordcount>
+    <wordcount>46</wordcount>
     <availability>
       <free/>
     </availability>
     <submitter email="divvun@samediggi.no" name=""/>
-    <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fad/dep/org/avdelinger.html?id=366</origFileName>
     <parallel_text location="ossodagat.html_id=366" xml:lang="sme"/>
     <parallel_text location="avdelingar.html_id=366" xml:lang="nno"/>
@@ -20,7 +19,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
   </header>
   <body>
     <section>
@@ -29,55 +28,55 @@
     <section>
       <p type="title">Administrasjonsavdelingen</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
     <section>
       <p type="title">Arbeidsgiverpolitisk avdeling</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
-    <p>Faks:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
+    <p>Faks: </p>
     <section>
       <p type="title">Avdeling for IKT og fornying</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
     <section>
       <p type="title">Kirkeavdelingen</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
-    <p>Faks:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
+    <p>Faks: </p>
     <section>
       <p type="title">Kommunikasjonsenheten</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Faks:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Faks: </p>
     <section>
       <p type="title">Konkurransepolitisk avdeling</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
-    <p>Faks:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
+    <p>Faks: </p>
     <section>
       <p type="title">Same- og minoritetspolitisk
                     avdeling</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
-    <p>Faks:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
+    <p>Faks: </p>
     <section>
       <p type="title">Statsforvaltningsavdelingen</p>
     </section>
-    <p>E-post:</p>
-    <p>.no</p>
-    <p>Telefon:</p>
+    <p>E-post: </p>
+    <p>.no </p>
+    <p>Telefon: </p>
   </body>
 </document>

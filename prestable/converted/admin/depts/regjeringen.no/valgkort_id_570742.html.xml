@@ -7,18 +7,17 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>273</wordcount>
+    <wordcount>167</wordcount>
     <availability>
       <free/>
     </availability>
     <submitter email="divvun@samediggi.no" name=""/>
-    <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/krd/kampanjer/valg/sametingsvalg/valgkort.html?id=570742</origFileName>
     <parallel_text location="valgakoarta.html_id=570742" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
   </header>
   <body>
     <section>
@@ -27,30 +26,9 @@
     <section>
       <p type="title">Sametingsvalg</p>
     </section>
-    <p>Alle velgere får tilsendt valgkort i posten fra
-                    Sametinget. Valgkortet blir utarbeidet på grunnlag
-                    av Sametingets valgmanntall og folkeregisterets
-                    opplysninger om velgernes bostedsadresse pr. 30.
-                    juni i valgåret. Det er altså denne adressen som
-                    avgjør hvilken valgkrets du har stemmerett i.
-                     
-                    På valgkortet finner du informasjon om hvilket
-                    valglokale du skal bruke på valgdagen eller om du
-                    må forhåndsstemme i år, og hvor stemmegivningen
-                    skal sendes.</p>
-    <p>Valgkortet til sametingsvalget er blått. De som
-                    også har stemmerett til stortingsvalget vil i
-                    tillegg få et hvitt valgkort. Har du stemmerett ved
-                    både stortings- og sametingsvalget, kan du avgi
-                    stemme ved begge valgene.</p>
-    <p>Det er ikke nødvendig å ha med seg valgkortet
-                    for å stemme, men det forenkler arbeidet for
-                    valgfunksjonærene dersom du tar det med. Det går
-                    derfor raskere for deg å stemme dersom du har med
-                    deg valgkortet. Har du ikke mottatt valgkortet i
-                    posten eller har mistet det, kan du altså møte opp
-                    i valglokalet likevel for å stemme.</p>
-    <p>Valgkortet gjelder <em type="italic">ikke</em> som
-                    legitimasjon.</p>
+    <p>Alle velgere får tilsendt valgkort i posten fra Sametinget. Valgkortet blir utarbeidet på grunnlag av Sametingets valgmanntall og folkeregisterets opplysninger om velgernes bostedsadresse pr. 30. juni i valgåret. Det er altså denne adressen som avgjør hvilken valgkrets du har stemmerett i.   På valgkortet finner du informasjon om hvilket valglokale du skal bruke på valgdagen eller om du må forhåndsstemme i år, og hvor stemmegivningen skal sendes. </p>
+    <p>Valgkortet til sametingsvalget er blått. De som også har stemmerett til stortingsvalget vil i tillegg få et hvitt valgkort. Har du stemmerett ved både stortings- og sametingsvalget, kan du avgi stemme ved begge valgene. </p>
+    <p>Det er ikke nødvendig å ha med seg valgkortet for å stemme, men det forenkler arbeidet for valgfunksjonærene dersom du tar det med. Det går derfor raskere for deg å stemme dersom du har med deg valgkortet. Har du ikke mottatt valgkortet i posten eller har mistet det, kan du altså møte opp i valglokalet likevel for å stemme. </p>
+    <p>Valgkortet gjelder <em type="italic">ikke </em>som legitimasjon. </p>
   </body>
 </document>
