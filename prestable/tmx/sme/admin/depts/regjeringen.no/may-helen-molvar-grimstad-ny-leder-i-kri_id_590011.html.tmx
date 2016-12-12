@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">may-helen-molvar-grimstad-ny-leder-i-kri.html_id=590011.tmx</prop></header>
   <body>
     <tu>
@@ -8,22 +9,56 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Preassadieđáhus, 08.01.2010</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">may-helen-molvar-grimstad-ny-leder-i-kri_id_590011.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosisdollui</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Nr.: 2/10</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Nr.: 2/10</seg>
+=======
+        <seg>May-Helen Molvær Grimstad ny leder i Kringkastingsrådet - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>May-Helen Molvær Grimstad Kringkastetráđi ođđa jođiheaddji Historjjálaš arkiiva</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>May-Helen Molvær Grimstad ny leder i Kringkastingsrådet</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>May-Helen Molvær Grimstad Kringkastetráđi ođđa jođiheaddji</seg>
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmustahtti: Kulturdepartemeanta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bearjadaga stáhtaráđis nammaduvvojedje čuovvovaš miellahtut Kringkastetráđđái áigodahkii 2010-2013.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -71,7 +106,11 @@
         <seg>Medlem: Kjersti Thorbjørnsrud, Oslo (ny) Varamedlem: Gerd von der Lippe, Bø i Telemark (ny)</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Medlem: Kjersti Thorbjørnsrud, Oslo (ođđa) Várrelahttu: Gerd von der Lippe, Bø Telemárkkus (ođđa)</seg>
+=======
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -111,7 +150,11 @@
         <seg>Medlem: Mette Gundersen, Kristiansand Varamedlem: Jan Otto Fredagsvik, Sistranda</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Lahttu: Mette Gundersen, Kristiansand Varamedlem: Jan Otto Fredagsvik, Sistranda</seg>
+=======
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -127,7 +170,11 @@
         <seg>Medlem: Knut Haavik, Sandefjord Varamedlem: Pål Morten Borgli, Sandnes</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Lahttu: Knut Haavik, Sandefjord Várrelahttu: Pål Morten Borgli, Sandnes</seg>
+=======
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -202,5 +249,16 @@
         <seg>Stuorradiggi nammada gávcci lahtu, geain okta lahttu lea Sámi Prográmmaráđi jođiheaddji.</seg>
       </tuv>
     </tu>
+<<<<<<< HEAD
+=======
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
   </body>
 </tmx>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">fornyingsministeren-besoker-tromso.html_id=605043.tmx</prop></header>
   <body>
     <tu>
@@ -8,14 +9,65 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ođas, 18.05.2010</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">fornyingsministeren-besoker-tromso_id_605043.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosisdollui</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Fornyingsministeren besøker Tromsø</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ođasmahttinministtar Romsii</seg>
+=======
+        <seg>Fornyingsministeren besøker Tromsø - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođasmahttinministtar Romsii Historjjálaš arkiiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmustahtti: Ođasmahttin-, hálddahus- ja girkodepartemeanta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođasmahttin- hálddahus- ja girkoministtar Rigmor Aasrud boahtá Romsii gaskavahku miessemánu 19.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>beaivvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledeami ulbmiliin lea vuostáiváldit jurdagiid ja árvalusaid ráđđehusa joatkkabargui.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -28,6 +80,17 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>beaivvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+>>>>>>> f431000bfc (New nob2sme .tmx files)
         <seg>Hensikten med besøket er å høste impulser og innspill til bruk for regjeringens videre arbeid.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -100,14 +163,22 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Kontaktinformasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oktavuođadieđut:</seg>
+=======
+        <seg>Kontaktperson: Senior kommunikasjonsrådgiver Ragnvald Berggrav, 924 55 337.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Senior kommunikasjonsrådgiver Ragnvald Berggrav</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -160,6 +231,12 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>22 24 27 10</seg>
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
   </body>

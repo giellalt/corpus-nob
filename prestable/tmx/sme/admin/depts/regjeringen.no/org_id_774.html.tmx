@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">org.html_id=774.tmx</prop></header>
   <body>
     <tu>
@@ -8,6 +9,18 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Organisašuvdna</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">org_id_774.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Organisasjon - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -76,14 +89,22 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Olje- og gassavdelingen (OG)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oljo- ja gássassodat (OG) (goallostat dárogielat siidduide)</seg>
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Energiija- ja čáhceresurssaossodat (EV.)</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Avdeling for klima, industri og teknologi (KIT) Energi- og vannressursavdelingen (EV)</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -109,6 +130,9 @@
     <tu>
       <tuv xml:lang="nob">
         <seg>Kommunikasjonsenheten er direkte underlagt departementsråden.</seg>
+=======
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
       <tuv xml:lang="sme">
         <seg>(goallostat dárogielat siidduide)</seg>
@@ -116,7 +140,67 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Politisk ledelse Statsråd Terje Riis-JohansenØvrig politisk ledelse</seg>
+=======
+        <seg>Olje- og gassavdelingen (OG)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oljo- ja gássassodat (OG.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(goallostat dárogielat siidduide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avdeling for klima, industri og teknologi (KIT)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teknologiija ja internašunáliserenossodat (TI.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Energi- og vannressursavdelingen (EV)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(goallostat dárogielat siidduide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Økonomi- og administrasjonsavdelingen (ØA)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ekonomiija- ja hálddahussossodat (EH.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avdeling for internasjonal koordinering (siden er under arbeid)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(goallostat dárogielat siidduide) Gulahallama ovttada t (gull.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunikasjonsenheten (KOMM)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(goallostat dárogielat siidduide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunikasjonsenheten er direkte underlagt departementsråden.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gulahallama ovttadat lea njuolga deapartemeanttaráđi Elisabeth Berge vuolde</seg>
@@ -124,6 +208,17 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
+=======
+        <seg>Politisk ledelse Statsråd Terje Riis-Johansen Øvrig politisk ledelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+>>>>>>> f431000bfc (New nob2sme .tmx files)
         <seg>Administrativ ledelse i Olje- og energidepartementet</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -132,22 +227,37 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Kontaktinformasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oktavuođadieđut:</seg>
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš ođasmahttojuvvon: 01.06.2007</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Olje- og energidepartementet</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oljo- ja energiijadepartemeanta</seg>
+=======
+        <seg>Organisasjonskart</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Telefon:</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -176,6 +286,12 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Galledanadreassa: Einar Gerhardsens plass 1, Oslo Čájet kártta Poastaadreassa: Postboks 8148 Dep. 0033 Oslo</seg>
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
   </body>

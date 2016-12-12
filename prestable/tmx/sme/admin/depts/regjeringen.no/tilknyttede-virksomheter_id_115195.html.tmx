@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">tilknyttede-virksomheter.html_id=115195.tmx</prop></header>
   <body>
     <tu>
@@ -8,6 +9,18 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Daidda gullevaš doaimmat</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">tilknyttede-virksomheter_id_115195.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilknyttede virksomheter - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daidda gullevaš doaimmat - regjeringen.no</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -36,6 +49,17 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biebmobearráigeahčus leat 8 regiovdnakantuvrra ja 64 guovlukantuvrra miehtá riikka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+>>>>>>> f431000bfc (New nob2sme .tmx files)
         <seg>Nasjonalt senter for fisk og sjømat ligger i Bergen.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -68,6 +92,17 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
+=======
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Neahttasiidu Guolásteddjiid dáhkáduskássa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+>>>>>>> f431000bfc (New nob2sme .tmx files)
         <seg>Nettsiden til Garantikassen for fiskerne</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -79,7 +114,11 @@
         <seg>Nofima Nofima driver forskning og utvikling for akvakulturnæringen, fiskerinæringen og matindustrien.</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Norgga Guolástus- og mearradutkaninstituhtta (Fiskeriforskning) Tromssas čađaha biologiija-, buvtta- ja márkandutkamiid Guolástuseiseváldiid gohččosa mielde.</seg>
+=======
+        <seg>Norgga Guolástus- og mearradutkaninstituhtta (Fiskeriforskning) Tromssás čađaha biologiija-, buvtta- ja márkandutkamiid Guolástuseiseváldiid gohččosa mielde.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -103,7 +142,11 @@
         <seg>Eksportutvalget for fisk (EFF) i Tromsø har ansvar for felles markedsføringstiltak for fisk og fiskeprodukter i utlandet og innenlands.</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Guoli olggosfievrredanlávdegotti (Eksportutvalget for fisk) (EFF) Tromssas lea ovddasvástádus guoli ja guollebuktagiid oktasaš márkanfievrredeamis olgoriikkas ja riikkas.</seg>
+=======
+        <seg>Guoli olggosfievrredanlávdegotti (Eksportutvalget for fisk) (EFF.) Tromssás lea ovddasvástádus guoli ja guollebuktagiid oktasaš márkanfievrredeamis olgoriikkas ja riikkas.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -180,7 +223,19 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Fiskeri- og havbruksnæringens forskningsfond Fiskeri- og havbruksnæringens forskningsfond (FHF) er fellesorgan for næringens forskningsengasjement.</seg>
+=======
+        <seg>Fiskeri- og havbruksnæringens forskningsfond</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fiskeri- og havbruksnæringens forskningsfond (FHF) er fellesorgan for næringens forskningsengasjement. Nettsiden til Fiskeri- og havbruksnæringens forskningsfond</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guolástus- ja mearrageavahanealáhusa dutkanfoanda (Fiskeri- og havbruksnæringens forskningsfond) ((FHF) lea ealáhusa dutkanáŋgiruššama oktasašorgána.</seg>
@@ -188,6 +243,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Nettsiden til Fiskeri- og havbruksnæringens forskningsfond</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -200,6 +256,12 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Veterinearainstituhtta</seg>
+=======
+        <seg>Veterinærinstituttet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Neahttasiidu FHF</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -218,5 +280,16 @@
         <seg>Neahttasiidu Veterinearainstituhtta</seg>
       </tuv>
     </tu>
+<<<<<<< HEAD
+=======
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
   </body>
 </tmx>

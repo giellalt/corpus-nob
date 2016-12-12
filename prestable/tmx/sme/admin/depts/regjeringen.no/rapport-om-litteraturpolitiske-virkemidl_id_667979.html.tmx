@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">rapport-om-litteraturpolitiske-virkemidl.html_id=667979.tmx</prop></header>
   <body>
     <tu>
@@ -48,6 +49,18 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Raporta girjjálašvuođapolitihkalaš gaskaomiid birra gárvvis</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">rapport-om-litteraturpolitiske-virkemidl_id_667979.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rapport om litteraturpolitiske virkemidler levert - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Raporta girjjálašvuođapolitihkalaš gaskaomiid birra gárvvis - regjeringen.no</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -79,7 +92,19 @@
         <seg>Utredning om litteratur- og språkpolitiske virkemidler</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>Høring av Utredning av litteratur- og språkpolitiske virkemidler (girjegillii)</seg>
+=======
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
   </body>

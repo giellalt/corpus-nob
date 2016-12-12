@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
+<<<<<<< HEAD
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">23-millioner-til-ombygging-av-vikersund-skiflygingsbakke.html_id=597766.tmx</prop></header>
   <body>
     <tu>
@@ -8,14 +9,49 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Preassadieđáhus, 18.03.2010</seg>
+=======
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">23-millioner-til-ombygging-av-vikersund-skiflygingsbakke_id_597766.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosisdollui</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
+<<<<<<< HEAD
         <seg>Nr.: 15/2010</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Nr.: 15/2010</seg>
+=======
+        <seg>23 millioner til ombygging av Vikersund skiflygingsbakke - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>23 milj. ruvnno Vikersunda sabetsaddinluohká nuppástuhttinhuksemii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Historjjálaš arkiiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmustahtti: Kulturdepartemeanta</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -23,7 +59,11 @@
         <seg>23 millioner til ombygging av Vikersund skiflygingsbakke</seg>
       </tuv>
       <tuv xml:lang="sme">
+<<<<<<< HEAD
         <seg>23 milj. ruvnno Vikersunda sabetsaddinluohká nuppástuhttinhuksemii</seg>
+=======
+        <seg>Kulturdepartemeanta addá 23 milj. ruvnno Vikersunda sabetsaddinluohká nuppástuhttinhuksemii.</seg>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
       </tuv>
     </tu>
     <tu>
@@ -98,5 +138,16 @@
         <seg>Govva: Kulturdepartemeanta.</seg>
       </tuv>
     </tu>
+<<<<<<< HEAD
+=======
+    <tu>
+      <tuv xml:lang="nob">
+        <seg></seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg></seg>
+      </tuv>
+    </tu>
+>>>>>>> f431000bfc (New nob2sme .tmx files)
   </body>
 </tmx>
