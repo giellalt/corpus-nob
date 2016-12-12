@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Organisašuvdna - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>87</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>95</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fad/dep/org.html?id=363</origFileName>
-    <parallel_text location="organisauvdna.html_id=363" xml:lang="sme"/>
-    <parallel_text location="organisasjon.html_id=363" xml:lang="nno"/>
-    <parallel_text location="organisation.html_id=363" xml:lang="eng"/>
+    <parallel_text location="organisation_id_363.html" xml:lang="eng"/>
+    <parallel_text location="organisasjon_id_363.html" xml:lang="nno"/>
+    <parallel_text location="organisauvdna_id_363.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Organisasjon</p>
-    </section>
-    <p>Fornyings-, administrasjons- og kirkedepartementet samordner fornyingsarbeidet i offentlig sektor og har ansvar for forvaltningspolitikk, konkurransepolitikk, IKT-politikk, kirkesaker, den statlig arbeidsgiverpolitikken og spørsmål knyttet til samer og nasjonale minoriteter. </p>
-    <p>Departementet ledes av fornyings-, administrasjons- og kirkeministeren. Statsråden har en politisk stab med to statssekretærer og en politisk rådgiver. </p>
-    <p>Departementsråd Karin Moe Røisland er departementets øverste administrative leder. I departementsrådens stab inngår Kommunikasjonsenheten og forværelse for departementsråd og politisk ledelse. </p>
-    <p>Fornyings-, administrasjons- og kirkedepartementet har syv avdelinger: Administrasjonsavdelingen, Avdeling for IKT og fornying, Arbeidsgiverpolitisk avdeling, Kirkeavdelingen, Konkurransepolitisk avdeling, Same- og minoritetspolitisk avdeling og Statsforvaltningsavdelingen. </p>
+    <p>Organisasjon - regjeringen.no</p>
+    <p>Fornyings-, administrasjons- og kirkedepartementet samordner fornyingsarbeidet i offentlig sektor og har ansvar for forvaltningspolitikk, konkurransepolitikk, IKT-politikk, kirkesaker, den statlig arbeidsgiverpolitikken og spørsmål knyttet til samer og nasjonale minoriteter.</p>
+    <p>Departementet ledes av fornyings-, administrasjons- og kirkeministeren. Statsråden har en politisk stab med to statssekretærer og en politisk rådgiver.</p>
+    <p>Departementsråd Karin Moe Røisland er departementets øverste administrative leder. I departementsrådens stab inngår Kommunikasjonsenheten og forværelse for departementsråd og politisk ledelse.</p>
+    <p>Fornyings-, administrasjons- og kirkedepartementet har syv avdelinger: Administrasjonsavdelingen, Avdeling for IKT og fornying, Arbeidsgiverpolitisk avdeling, Kirkeavdelingen, Konkurransepolitisk avdeling, Same- og minoritetspolitisk avdeling og Statsforvaltningsavdelingen.</p>
   </body>
 </document>

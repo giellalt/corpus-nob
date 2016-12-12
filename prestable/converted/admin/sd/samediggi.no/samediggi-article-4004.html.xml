@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Vi har stengt 9. og 10. desember - Sámediggi Sametinget</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
       <unknown/>
     </author>
@@ -13,23 +11,22 @@
         <publisher>Sámediggi/Sametinget</publisher>
       </publication>
     </publChannel>
-    <wordcount>42</wordcount>
+    <wordcount>45</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://samediggi.no/Artikkel.aspx?aid=4004&amp;sprak=Norsk&amp;Print=1</origFileName>
     <parallel_text location="samediggi-article-4004.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Vi har stengt 9. og 10.
-      desember</p>
-    </section>
+    <p>Vi har stengt 9. og 10. desember - Sámediggi Sametinget</p>
+    <p type="title">Vi har stengt 9. og 10. desember</p>
     <p>
       <em type="italic">Sametinget er stengt i tidsrommet 9.-10. desember grunnet internt seminar. Alle henvendelser kan i denne perioden sendes pr. e-post til </em>
       <em type="italic">samediggi@samediggi.no </em>
@@ -38,10 +35,5 @@
     <p>
       <em type="italic">Vi åpner igjen mandag 13.desember kl.08:00. </em>
     </p>
-    <p>
-        Publisert av Holmgren, Hanne. </p>
-    <p>
-        Sist endret 07.12.2010
-      </p>
   </body>
 </document>

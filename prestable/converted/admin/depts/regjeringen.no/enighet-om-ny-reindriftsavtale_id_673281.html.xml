@@ -1,41 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ođđa boazodoallošiehtadus lea šihttojuvvon - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>303</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>261</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/aktuelt/nyheter/2012/feb-12/enighet-om-ny-reindriftsavtale.html?id=673281</origFileName>
-    <parallel_text location="oa-boazodoalloiehtadus-lea-ihttojuvvon.html_id=673281" xml:lang="sme"/>
+    <parallel_text location="oa-boazodoalloiehtadus-lea-ihttojuvvon_id_673281.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="isl">Nyhet  , 23.02.2012  </p>
-    <section>
-      <p type="title">Enighet om ny reindriftsavtale</p>
-    </section>
-    <p>Norske Reindriftsamers Landsforbund (NRL) og Staten har i dag, den 23. februar, inngått ny reindriftsavtale for perioden 01.07.2012 – 30.06.2013. Avtalen innebærer økonomiske tiltak i reindriftsnæringen på i alt 104,5 millioner kroner. Dette er en økning på 2,5 millioner kroner i forhold til inneværende reindriftsoppgjør. </p>
-    <p>- Denne avtalen gir grunnlag for fortsatt en positiv utvikling av reindriften. Avtalen fortsetter den omleggingen vi nå gjør med reindriftsavtalens virkemidler. Det blir lagt mer vekt på reindrift som næring, med bedre tilrettelegging for de næringsutøverne som har reindrift som hovednæring, sier landbruks- og matminister Lars Peder Brekk. </p>
+    <p>Enighet om ny reindriftsavtale - regjeringen.no</p>
+    <p>Norske Reindriftsamers Landsforbund (NRL) og Staten har i dag, den 23. februar, inngått ny reindriftsavtale for perioden 01.07.2012 – 30.06.2013. Avtalen innebærer økonomiske tiltak i reindriftsnæringen på i alt 104,5 millioner kroner. Dette er en økning på 2,5 millioner kroner i forhold til inneværende reindriftsoppgjør.</p>
+    <p>- Denne avtalen gir grunnlag for fortsatt en positiv utvikling av reindriften. Avtalen fortsetter den omleggingen vi nå gjør med reindriftsavtalens virkemidler. Det blir lagt mer vekt på reindrift som næring, med bedre tilrettelegging for de næringsutøverne som har reindrift som hovednæring, sier landbruks- og matminister Lars Peder Brekk.</p>
     <list>
-      <p type="listitem"><em type="italic">Les hele reindriftsavtalen 2012/2013 </em><em type="italic">  </em>(pdf, 1 Mb) </p>
-      <p type="listitem"><em type="italic">Les sluttprotokoll fra reindriftsavtaleforhandlingene 2012 </em><em type="italic">  </em>(pdf, 3 Mb) </p>
+      <p type="listitem"><em type="italic">Les hele reindriftsavtalen 2012/2013 </em>(pdf, 1 Mb) </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Les sluttprotokoll fra reindriftsavtaleforhandlingene 2012 </em>(pdf, 3 Mb) </p>
     </list>
     <p><em type="italic">Økt slakting og produksjon </em>Reindriftsavtalen 2012/2013 sitt hovedmål er å legge til rette for økt markedsrettet produksjon og verdiskaping. Med enkelte satsøkninger videreføres de produksjonsavhengige tilskuddene. Denne videreføringen legger til rette for økt slakting og produksjon, og skaper en forutsigbarhet for den enkelte reindriftsutøver. </p>
     <p><em type="italic">Lokalmatprogram </em>Avtalen innebærer en avvikling av VSP-rein, og etablering av et program for reindriften tilsvarende Lokalmatprogrammet. Det nye programmet skal være tilpasset reinbedriftenes utfordringer. Samtidig skal reiselivsbasert næringsutvikling i reindriften, samt samarbeidstiltak mellom reindriften og foredlingsbedrifter inngå i programmet. </p>
-    <p><em type="italic">Lærings- og omsorgsbaserte tjenester </em>Partene er blitt enige om å etablere en egen ordning for lærings- og omsorgsbaserte tjenester i reindriften. Avtalepartene ser på lærings- og omsorgsbaserte tjenester som et næringsrettet tiltak og en mulighet for reindriften til økt inntjening. I tillegg vil en slik ordning bidra til å bygge et positivt omdømme omkring reindriften.  Ordningen skal være tilpasset næringens kultur- og særegenhet. </p>
-    <p>Norske Reindriftsamers Landsforbund forhandlingsleder Nils Henrik Sara og Statens forhandlingsleder konstituert ekspedisjonssjef Anne Marie Glosli signerer avtalen. (Foto: Landbruks- og matdepartementet) </p>
-    <p>Norske Reindriftsamers Landsforbund forhandlingsleder Nils Henrik Sara og Statens forhandlingsleder konstituert ekspedisjonssjef Anne Marie Glosli. (Foto: Landbruks- og matdepartementet) </p>
+    <p><em type="italic">Lærings- og omsorgsbaserte tjenester </em>Partene er blitt enige om å etablere en egen ordning for lærings- og omsorgsbaserte tjenester i reindriften. Avtalepartene ser på lærings- og omsorgsbaserte tjenester som et næringsrettet tiltak og en mulighet for reindriften til økt inntjening. I tillegg vil en slik ordning bidra til å bygge et positivt omdømme omkring reindriften. Ordningen skal være tilpasset næringens kultur- og særegenhet. </p>
   </body>
 </document>

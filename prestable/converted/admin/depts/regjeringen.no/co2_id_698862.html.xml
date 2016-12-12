@@ -1,62 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Industriija CO2-buhtadusortnet - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>480</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>484</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/smk/pressesenter/pressemeldinger/2012/co2.html?id=698862</origFileName>
-    <parallel_text location="industriija-co2-buhtadusortnet.html_id=698862" xml:lang="sme"/>
-    <parallel_text location="galdu-er-evaluert.html_id=699176" xml:lang="nno"/>
-    <parallel_text location="co2.html_id=698862" xml:lang="eng"/>
+    <parallel_text location="co2_id_698862.html" xml:lang="eng"/>
+    <parallel_text location="" xml:lang="nno"/>
+    <parallel_text location="industriija-co2-buhtadusortnet_id_698862.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 11.09.2012  </p>
-    <p xml:lang="kal">Nr.: 113/12  </p>
-    <section>
-      <p type="title">CO2-kompensasjonsordning for industrien</p>
-    </section>
-    <p>
-                      ﻿
-                      </p>
+    <p>CO2-kompensasjonsordning for industrien - regjeringen.no</p>
+    <p type="title" xml:lang="dan">CO2-kompensasjonsordning for industrien</p>
+    <p xml:lang="sms">﻿</p>
     <p>
       <em type="italic">Regjeringen vil etablere en CO2 kompensasjonsordning for industrien. Formålet er å hindre at norsk industri flytter sin virksomhet til land med en mindre aktiv klimapolitikk. – Vi vil legge til rette for en god utvikling for norsk industri. Derfor vil vi benytte handlingsrommet for slike ordninger, sier statsminister Jens Stoltenberg. </em>
     </p>
-    <p>Karbonlekkasje betyr at utslipp av klimagasser flyttes til andre land i stedet for å kuttes. Det er både dårlig klimapolitikk og dårlig næringspolitikk. CO2-kompensasjonsordningen skal motvirke en slik utvikling. Den nye ordningen skal forvaltes av Klima- og forurensingsdirektoratet (Klif).  </p>
-    <p>– Norsk industri ligger langt fremme på lave utslipp og energieffektivitet. Vi må sikre at industrien kan utvikle seg i en miljøvennlig retning uten at strenge miljøkrav medfører flytting av utslipp og karbonlekkasje. En god CO2-kompensasjonordning i en overgangsfase vil bidra til dette, sier miljøvernminister Bård Vegar Solhjell. </p>
-    <p>Etableringen av kvotesystemet i EU i 2005 har gitt økte kraftpriser i Norge. Det har skjedd som følge av at kraftprodusentene velter deler av sine kvotekostnader over i kraftprisen. Dermed har også norsk vannkraft et CO2-påslag til tross for at kraften er utslippsfri. Dette har bidratt til å svekke industriens konkurranseevne sammenlignet med virksomheter i land uten slik klimaregulering. </p>
-    <p>– Ordningen vil lette byrdene for den kraftintensive industrien og sørge for at god klimapolitikk kombineres med god industripolitikk. Den vil også bidra til å styrke bredden i industrien, sier nærings- og handelsminister Trond Giske. </p>
-    <p>EU har vedtatt retningslinjer for statsstøtte som åpner for CO2-kompensasjon. Formålet er å oppnå større globale utslippsreduksjoner ved å hindre karbonlekkasje fra industrien i Europa til land med mindre stram klimapolitikk. Norge er tidlig ute når det gjelder å utforme en nasjonal CO2-kompensasjonsordning. </p>
-    <section>
-      <p type="title">Fakta om ordningen</p>
-    </section>
+    <p>Karbonlekkasje betyr at utslipp av klimagasser flyttes til andre land i stedet for å kuttes. Det er både dårlig klimapolitikk og dårlig næringspolitikk. CO2-kompensasjonsordningen skal motvirke en slik utvikling. Den nye ordningen skal forvaltes av Klima- og forurensingsdirektoratet (Klif).</p>
+    <p>– Norsk industri ligger langt fremme på lave utslipp og energieffektivitet. Vi må sikre at industrien kan utvikle seg i en miljøvennlig retning uten at strenge miljøkrav medfører flytting av utslipp og karbonlekkasje. En god CO2-kompensasjonordning i en overgangsfase vil bidra til dette, sier miljøvernminister Bård Vegar Solhjell.</p>
+    <p>Etableringen av kvotesystemet i EU i 2005 har gitt økte kraftpriser i Norge. Det har skjedd som følge av at kraftprodusentene velter deler av sine kvotekostnader over i kraftprisen. Dermed har også norsk vannkraft et CO2-påslag til tross for at kraften er utslippsfri. Dette har bidratt til å svekke industriens konkurranseevne sammenlignet med virksomheter i land uten slik klimaregulering.</p>
+    <p>– Ordningen vil lette byrdene for den kraftintensive industrien og sørge for at god klimapolitikk kombineres med god industripolitikk. Den vil også bidra til å styrke bredden i industrien, sier nærings- og handelsminister Trond Giske.</p>
+    <p>EU har vedtatt retningslinjer for statsstøtte som åpner for CO2-kompensasjon. Formålet er å oppnå større globale utslippsreduksjoner ved å hindre karbonlekkasje fra industrien i Europa til land med mindre stram klimapolitikk. Norge er tidlig ute når det gjelder å utforme en nasjonal CO2-kompensasjonsordning.</p>
+    <p type="title">Fakta om ordningen</p>
     <list>
-      <p type="listitem">Den norske CO2-kompensasjonsordningen vil knyttes tett opp mot metoden for beregning av støtte som angis i EUs retningslinjer. Omfanget av ordningen vil kunne variere fra år til år avhengig av utviklingen i kvoteprisen. </p>
+      <p type="listitem">Den norske CO2-kompensasjonsordningen vil knyttes tett opp mot metoden for beregning av støtte som angis i EUs retningslinjer. Omfanget av ordningen vil kunne variere fra år til år avhengig av utviklingen i kvoteprisen.</p>
     </list>
     <list>
-      <p type="listitem">Ordningen skal gjelde for perioden 1.7.2013-31.12.2020. Den omfatter alle 15 sektorene som i henhold til EUs retningslinjer er støtteberettigede. Dette inkluderer blant annet produsenter av aluminium, ferrolegeringer, kjemiske produkter og treforedling. </p>
+      <p type="listitem">Ordningen skal gjelde for perioden 1.7.2013-31.12.2020. Den omfatter alle 15 sektorene som i henhold til EUs retningslinjer er støtteberettigede. Dette inkluderer blant annet produsenter av aluminium, ferrolegeringer, kjemiske produkter og treforedling.</p>
     </list>
     <list>
-      <p type="listitem">Det kan ifølge retningslinjene bare gis kompensasjon til langsiktige kraftavtaler som har CO2-kostnader. Ordningen er derfor avgrenset til å gjelde kraftavtaler inngått fra og med 2005, året da kvotesystemet ble etablert. Dette inkluderer kraftavtaler som er inngått før 2005, men som er videresolgt på markedsvilkår f.o.m. 2005. I tillegg omfattes øvrig handel i spotmarkedet. </p>
+      <p type="listitem">Det kan ifølge retningslinjene bare gis kompensasjon til langsiktige kraftavtaler som har CO2-kostnader. Ordningen er derfor avgrenset til å gjelde kraftavtaler inngått fra og med 2005, året da kvotesystemet ble etablert. Dette inkluderer kraftavtaler som er inngått før 2005, men som er videresolgt på markedsvilkår f.o.m. 2005. I tillegg omfattes øvrig handel i spotmarkedet.</p>
     </list>
     <list>
-      <p type="listitem">Industriens egen kraftproduksjon skal komme til fratrekk i utbetalingen av støtte. For disse virksomhetene utgjør egenkraften en langsiktig sikring mot CO2-påslaget i kraftprisen. I beregningen av støtte skal året i referanseperioden med lavest aktivitetsnivå kunne tas ut. </p>
+      <p type="listitem">Industriens egen kraftproduksjon skal komme til fratrekk i utbetalingen av støtte. For disse virksomhetene utgjør egenkraften en langsiktig sikring mot CO2-påslaget i kraftprisen. I beregningen av støtte skal året i referanseperioden med lavest aktivitetsnivå kunne tas ut.</p>
     </list>
     <list>
-      <p type="listitem">Ordningen skal notifiseres til EFTAs overvåkningsorgan ESA før den gjøres operativ. Ikke alle elementene i retningslinjene er på plass ennå. Europakommisjonen har varslet at den i løpet av høsten 2012 vil legge frem energieffektivitetsstandarder som skal anvendes i støtteberegningen for de ulike sektorene. </p>
+      <p type="listitem">Ordningen skal notifiseres til EFTAs overvåkningsorgan ESA før den gjøres operativ. Ikke alle elementene i retningslinjene er på plass ennå. Europakommisjonen har varslet at den i løpet av høsten 2012 vil legge frem energieffektivitetsstandarder som skal anvendes i støtteberegningen for de ulike sektorene.</p>
     </list>
   </body>
 </document>

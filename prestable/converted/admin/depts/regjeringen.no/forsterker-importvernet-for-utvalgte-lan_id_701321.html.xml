@@ -1,36 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Nanne importasuodjaleami dihto eanandoallogálvvuin - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>579</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>577</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/pressesenter/pressemeldinger/2012/forsterker-importvernet-for-utvalgte-lan.html?id=701321</origFileName>
-    <parallel_text location="buoret-ja-eanet-eanandoallu-ruaid-ovddas.html_id=701321" xml:lang="sme"/>
-    <parallel_text location="raavrevijhke-saemien-gielen-reeremedajve.html_id=704691" xml:lang="sma"/>
-    <parallel_text location="meir-til-naturinformasjon-og-forvalting.html_id=703559" xml:lang="nno"/>
-    <parallel_text location="changes-to-border-protection-for-selecte.html_id=701321" xml:lang="eng"/>
+    <parallel_text location="changes-to-border-protection-for-selecte_id_701321.html" xml:lang="eng"/>
+    <parallel_text location="buoret-ja-eanet-eanandoallu-ruaid-ovddas_id_701321.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 08.10.2012  </p>
-    <p>Nr.: 5  </p>
-    <section>
-      <p type="title">Forsterker importvernet for utvalgte
-                    landbruksvarer</p>
-    </section>
+    <p>Forsterker importvernet for utvalgte landbruksvarer - regjeringen.no</p>
     <list>
       <p type="listitem">
         <em type="italic">Styrket importvern for utvalgte varer avgjørende for norsk matproduksjon </em>
@@ -41,103 +38,101 @@
       <p type="listitem">
         <em type="italic">Fem av seks importoster blir unntatt fra omlegging til prosenttoll </em>
       </p>
-      <p type="listitem">
+      <p type="listitem" xml:lang="nno">
         <em type="italic">Ingen prishopp eller redusert vareutvalg fra nyttår </em>
       </p>
       <p type="listitem">
         <em type="italic">Rom for økt u-landsimport med ny importkvote for biff/filet </em>
       </p>
     </list>
-    <p>Regjeringen foreslår å legge om fra kronetoll til prosenttoll for biff/filet av storfe, hele og halve lammeslakt og for faste /halvfaste oster. </p>
-    <p>- Det er like naturlig å ta et nasjonalt ansvar for matforsyningen som for klimaet. Denne endringen av tollsystemet er avgjørende for norsk matproduksjon, sier landbruks- og matminister Trygve Slagsvold Vedum. </p>
-    <p>Landbruksbasert matproduksjon er blant landets største næringer og finnes over alt.  </p>
-    <p>- Regjeringen ønsker å opprettholde og styrke norsk matproduksjon. Tollvernet er en forutsetning for å oppnå dette målet, sier Vedum.  </p>
-    <p>Han viser til at dagens tollvern med faste kronetollsatser er blitt gradvis svekket siden WTO-avtalen trådte i kraft i 1995. Han gjør det samtidig klart at denne omleggingen ikke gjør det vanskeligere eller dyrere å få kjøpt kjente utenlandske oster. Vedum understreker også at det legges til rette for å kjøpe biffer og fileter fra U-land. Regjeringen forslår en importkvote på 500 tonn biff og filet fra utviklingsland til redusert tollsats som i dag. Denne vil sikre dagens handel med U-land og gi rom for en økning de nærmeste årene. Først når taket på 500 tonn nås, vil en møte prosenttoll.  </p>
+    <p>Regjeringen foreslår å legge om fra kronetoll til prosenttoll for biff/filet av storfe, hele og halve lammeslakt og for faste /halvfaste oster.</p>
+    <p>- Det er like naturlig å ta et nasjonalt ansvar for matforsyningen som for klimaet. Denne endringen av tollsystemet er avgjørende for norsk matproduksjon, sier landbruks- og matminister Trygve Slagsvold Vedum.</p>
+    <p>Landbruksbasert matproduksjon er blant landets største næringer og finnes over alt.</p>
+    <p>- Regjeringen ønsker å opprettholde og styrke norsk matproduksjon. Tollvernet er en forutsetning for å oppnå dette målet, sier Vedum.</p>
+    <p>Han viser til at dagens tollvern med faste kronetollsatser er blitt gradvis svekket siden WTO-avtalen trådte i kraft i 1995. Han gjør det samtidig klart at denne omleggingen ikke gjør det vanskeligere eller dyrere å få kjøpt kjente utenlandske oster. Vedum understreker også at det legges til rette for å kjøpe biffer og fileter fra U-land. Regjeringen forslår en importkvote på 500 tonn biff og filet fra utviklingsland til redusert tollsats som i dag. Denne vil sikre dagens handel med U-land og gi rom for en økning de nærmeste årene. Først når taket på 500 tonn nås, vil en møte prosenttoll.</p>
     <list>
-      <p type="listitem" xml:lang="eng">
+      <p type="listitem" xml:lang="sma">
         <em type="italic">Prop. 1 S (2012-2013) </em>
       </p>
     </list>
-    <p><em type="italic">To av 14 tollinjer for ost </em>Omleggingen gjelder to av 14 toll-linjer for ost. I tillegg er 14 importoster (se tabell nedenfor) på disse varelinjene skjermet fra omlegging. Andre faste/halvfaste oster kan importeres innenfor den tollfrie kvoten fra EU som i 2012 er økt fra 4500 tonn til 7200 tonn. Forslaget innebærer ingen endringer i de konsesjoner EU har ved eksport av landbruksvarer til Norge. Handelen med ost med EU vil kunne foregå med samme importtoll samlet sett som i dag.  </p>
-    <p>Forslaget ligger klart innenfor Norges handelspolitiske forpliktelser. Norge har sagt seg villig til å møte EU-kommisjonen på ekspertnivå for å forklare innholdet i omleggingen til prosenttoll.  </p>
-    <p>- Dette er et godt kompromiss som sikrer utviklingen av viktige områder i norsk matproduksjon og som også gir rom for å øke mangfoldet i matdisken ytterligere, sier landbruks- og matminister Trygve Slagsvold Vedum.  </p>
-    <p>Tabellen nedenfor viser endringene i tollsystemet for utvalgte landbruksvarer.  </p>
-    <p>
+    <p><em type="italic">To av 14 tollinjer for ost </em>Omleggingen gjelder to av 14 toll-linjer for ost. I tillegg er 14 importoster (se tabell nedenfor) på disse varelinjene skjermet fra omlegging. Andre faste/halvfaste oster kan importeres innenfor den tollfrie kvoten fra EU som i 2012 er økt fra 4500 tonn til 7200 tonn. Forslaget innebærer ingen endringer i de konsesjoner EU har ved eksport av landbruksvarer til Norge. Handelen med ost med EU vil kunne foregå med samme importtoll samlet sett som i dag. </p>
+    <p>Forslaget ligger klart innenfor Norges handelspolitiske forpliktelser. Norge har sagt seg villig til å møte EU-kommisjonen på ekspertnivå for å forklare innholdet i omleggingen til prosenttoll.</p>
+    <p>- Dette er et godt kompromiss som sikrer utviklingen av viktige områder i norsk matproduksjon og som også gir rom for å øke mangfoldet i matdisken ytterligere, sier landbruks- og matminister Trygve Slagsvold Vedum.</p>
+    <p>Tabellen nedenfor viser endringene i tollsystemet for utvalgte landbruksvarer.</p>
+    <p xml:lang="nno">
       <em type="italic">Overgang til prosenttoll for visse landbruksvarer </em>
     </p>
     <p>
       <em type="italic">Tabell 6.1 Overgang til prosenttoll for kjøtt </em>
     </p>
-    <p>Nr </p>
-    <p>Vareslag </p>
-    <p xml:lang="kal">Tollsats 2012 </p>
-    <p>Foreslått tollsats 2013 </p>
-    <p>
+    <p xml:lang="sma">Nr</p>
+    <p xml:lang="swe">Vareslag</p>
+    <p xml:lang="fin">Tollsats 2012</p>
+    <p>Foreslått tollsats 2013</p>
+    <p xml:lang="sms">
       <em type="italic">02.01 </em>
     </p>
-    <p>
+    <p xml:lang="nno">
       <em type="italic">Kjøtt av storfe, fersk eller kjølt. </em>
     </p>
-    <p>.3001 </p>
-    <p>- - biffer og filetter </p>
-    <p xml:lang="kal">119,01 kr/kg </p>
-    <p>344% </p>
-    <p>
+    <p xml:lang="sms">.3001</p>
+    <p>- - biffer og filetter</p>
+    <p>119,01 kr/kg</p>
+    <p xml:lang="sms">344%</p>
+    <p xml:lang="sms">
       <em type="italic">02.02 </em>
     </p>
-    <p>
+    <p xml:lang="nno">
       <em type="italic">Kjøtt av storfe, fryst </em>
     </p>
-    <p>.3001 </p>
-    <p>- - biffer og filetter </p>
-    <p xml:lang="kal">119,01 kr/kg </p>
-    <p>344% </p>
-    <p>
+    <p xml:lang="sms">.3001</p>
+    <p>- - biffer og filetter</p>
+    <p>119,01 kr/kg</p>
+    <p xml:lang="sms">344%</p>
+    <p xml:lang="sms">
       <em type="italic">02.04 </em>
     </p>
-    <p>
+    <p xml:lang="nno">
       <em type="italic">Kjøtt av sauer eller geiter, ferskt, kjølt eller fryst. </em>
     </p>
-    <p>.1000 </p>
-    <p>- hele eller halve skrotter av lam, ferske eller kjølte </p>
-    <p xml:lang="kal">32,49 kr/kg </p>
-    <p>429% </p>
-    <p>.3000 </p>
-    <p>- hele eller halve skrotter av lam, fryste </p>
-    <p xml:lang="kal">32,49 kr/kg </p>
-    <p>429% </p>
+    <p xml:lang="sms">.1000</p>
+    <p xml:lang="nno">- hele eller halve skrotter av lam, ferske eller kjølte</p>
+    <p>32,49 kr/kg</p>
+    <p xml:lang="sms">429%</p>
+    <p xml:lang="sms">.3000</p>
+    <p xml:lang="nno">- hele eller halve skrotter av lam, fryste</p>
+    <p>32,49 kr/kg</p>
+    <p xml:lang="sms">429%</p>
     <p>
       <em type="italic">Tabell 6.2 Overgang til prosenttoll for ost </em>
     </p>
-    <p>Nr </p>
-    <p>Vareslag </p>
-    <p xml:lang="kal">Tollsats 2012 </p>
-    <p>Foreslått tollsats 2013 </p>
-    <p>
+    <p xml:lang="sma">Nr</p>
+    <p xml:lang="swe">Vareslag</p>
+    <p xml:lang="fin">Tollsats 2012</p>
+    <p>Foreslått tollsats 2013</p>
+    <p xml:lang="sms">
       <em type="italic">04.06 </em>
     </p>
-    <p>
+    <p xml:lang="nno">
       <em type="italic">Ost og ostemasse </em>
     </p>
-    <p> </p>
-    <p xml:lang="kal">- - ellers: </p>
-    <p> </p>
-    <p>.9091 1 </p>
-    <p>- - - annen, upasteurisert </p>
-    <p xml:lang="kal">27,15 kr/kg </p>
-    <p>--- </p>
-    <p>.9092 2 </p>
-    <p xml:lang="sme">- - - Appenzeller, Beaufort, Comté, Gamle Ole, Grana Padano, Gruyère, Le Vieux Panè, Morbier, Munster, Parmiggiano Reggiano, Queso Manchego, Pecorino, Saint Albray, Västerbotten </p>
-    <p>--- </p>
-    <p xml:lang="kal">27,15 kr/kg </p>
-    <p>.9098 1 </p>
-    <p>- - - annen, upasteurisert </p>
-    <p>--- </p>
-    <p>277% </p>
-    <p>.9099 </p>
-    <p xml:lang="kal">- - - annen </p>
-    <p xml:lang="kal">27,15 kr/kg </p>
-    <p>277% </p>
-    <p>1) Varenummer 04.06.9091 utgår, og erstattes av varenummer 04.06.9098. 2) Nytt varenummer. Tollsatsen for disse ostene er 27,15 kr/kg i 2012. 3) Nytt varenummer.  </p>
+    <p>- - ellers:</p>
+    <p xml:lang="sms">.9091 1</p>
+    <p>- - - annen, upasteurisert</p>
+    <p>27,15 kr/kg</p>
+    <p xml:lang="sms">---</p>
+    <p xml:lang="sms">.9092 2</p>
+    <p>- - - Appenzeller, Beaufort, Comté, Gamle Ole, Grana Padano, Gruyère, Le Vieux Panè, Morbier, Munster, Parmiggiano Reggiano, Queso Manchego, Pecorino, Saint Albray, Västerbotten</p>
+    <p xml:lang="sms">---</p>
+    <p>27,15 kr/kg</p>
+    <p xml:lang="sms">.9098 1</p>
+    <p>- - - annen, upasteurisert</p>
+    <p xml:lang="sms">---</p>
+    <p xml:lang="sms">277%</p>
+    <p xml:lang="sms">.9099</p>
+    <p>- - - annen</p>
+    <p>27,15 kr/kg</p>
+    <p xml:lang="sms">277%</p>
+    <p>1) Varenummer 04.06.9091 utgår, og erstattes av varenummer 04.06.9098. 2) Nytt varenummer. Tollsatsen for disse ostene er 27,15 kr/kg i 2012. 3) Nytt varenummer.</p>
   </body>
 </document>

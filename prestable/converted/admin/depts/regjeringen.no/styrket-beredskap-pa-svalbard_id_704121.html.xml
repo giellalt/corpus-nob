@@ -1,39 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Nannejuvvon gearggusvuohta Svalbárddas - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Justis- og beredskapsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>305</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>297</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/jd/pressesenter/pressemeldinger/2012/styrket-beredskap-pa-svalbard.html?id=704121</origFileName>
-    <parallel_text location="nannejuvvon-gearggusvuohta-svalbarddas.html_id=704121" xml:lang="sme"/>
-    <parallel_text location="miljardda-ruvdnosa-ruhtamearri-digitalis.html_id=704060" xml:lang="smj"/>
-    <parallel_text location="raavrevijhke-saemien-gielen-reeremedajve.html_id=704691" xml:lang="sma"/>
-    <parallel_text location="meir-til-naturinformasjon-og-forvalting.html_id=703559" xml:lang="nno"/>
-    <parallel_text location="affordable_medicine.html_id=701312" xml:lang="eng"/>
+    <parallel_text location="nannejuvvon-gearggusvuohta-svalbarddas_id_704121.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 08.10.2012  </p>
-    <p xml:lang="kal">Nr.: 114 – 2012  </p>
-    <section>
-      <p type="title" xml:lang="smj">Statsbudsjettet 2013</p>
-    </section>
-    <section>
-      <p type="title" xml:lang="dan">Styrket beredskap på Svalbard</p>
-    </section>
+    <p xml:lang="nno">Styrket beredskap på Svalbard - regjeringen.no</p>
     <p>
       <em type="italic">Ny helikopterhangar er en viktig del av årets forslag til Svalbardbudsjett. – Vi vil gjøre redningstjenesten mer robust, gi bedre responstid og sikre redningsmannskapene større grad av sikkerhet, sier justis- og beredskapsminister Grete Faremo. Dette er også en del av Regjeringens nordområdesatsing. </em>
     </p>
@@ -42,8 +35,8 @@
     <p><em type="italic">Tjenestefartøy </em>Tjenestefartøyet til Sysselmannen er også en viktig ressurs i rednings- og beredskapssammenheng. I tillegg er fartøyet helt avgjørende i Sysselmannens myndighetsutøvelse på øygruppen. Gjeldende kontrakt om leie av fartøy utløper i 2013 og det er behov for å inngå ny kontrakt om leie av tjenestefartøy. Regjeringen foreslår derfor at Justis- og beredskapsdepartementet i 2013 kan inngå en ny kontrakt med virkning fra 2014. </p>
     <p><em type="italic">Nødvarsling </em>Oppgradering av nødvarslingssystemet COSPAS-SARSAT vil gi en mer effektiv redningstjeneste ved at nødsignaler vil angi en mer nøyaktig posisjonsangivelse av den nødstedte og raskere bli formidlet til Hovedredningssentralen Nord-Norge. Det vil også få betydning for Svalbard med tilstøtende havområder. </p>
     <list>
-      <p type="listitem">Statsbudsjettet 2013 - departementets samleside </p>
-      <p type="listitem" xml:lang="smj">Svalbardbudsjettet 2013   </p>
+      <p type="listitem" xml:lang="nno">Statsbudsjettet 2013 - departementets samleside</p>
+      <p type="listitem">Svalbardbudsjettet 2013</p>
     </list>
   </body>
 </document>

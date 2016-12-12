@@ -1,83 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Stáhtačálli Lotte Grepp Knutsen - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>224</wordcount>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>229</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/kud/dep/politisk_ledelse/statssekretar-lotte-grepp-knutsen-.html?id=582347</origFileName>
-    <parallel_text location="stahtaalli-lotte-grepp-knutsen.html_id=582347" xml:lang="sme"/>
-    <parallel_text location="statssekretar-lotte-grepp-knutsen.html_id=582347" xml:lang="nno"/>
-    <parallel_text location="state-secretary-lotte-grepp-knutsen.html_id=582347" xml:lang="eng"/>
+    <parallel_text location="state-secretary-lotte-grepp-knutsen_id_582347.html" xml:lang="eng"/>
+    <parallel_text location="statssekretar-lotte-grepp-knutsen_id_582347.html" xml:lang="nno"/>
+    <parallel_text location="stahtaalli-lotte-grepp-knutsen_id_582347.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Statssekretær Lotte Grepp Knutsen</p>
-    </section>
-    <p>Lotte Grepp Knutsen ble utnevnt som statssekretær i Kulturdepartementet 20. oktober 2009. I perioden januar til august i 2010 var hun konstituert statssekretær ved Statsministerens kontor. </p>
-    <p>Lotte Grepp Knutsen kom til Kulturdepartementet fra stillingen som statssekretær i Barne- og likestillingsdepartementet. Hun har tidligere jobbet som kommunikasjonsrådgiver i firmaet JKL. Hun har vært politisk rådgiver i Arbeiderpartiets bystyregruppe i Oslo, og arbeidet med ekstern- og interninformasjon i Stortingets arkiv. Hun er cand. polit. fra Universitetet i Oslo i 2001, med sosiologi hovedfag, statsvitenskap og Vest-Europakunnskap.  </p>
+    <p>Statssekretær Lotte Grepp Knutsen - regjeringen.no</p>
+    <p>Lotte Grepp Knutsen ble utnevnt som statssekretær i Kulturdepartementet 20. oktober 2009. I perioden januar til august i 2010 var hun konstituert statssekretær ved Statsministerens kontor.</p>
+    <p>Lotte Grepp Knutsen kom til Kulturdepartementet fra stillingen som statssekretær i Barne- og likestillingsdepartementet. Hun har tidligere jobbet som kommunikasjonsrådgiver i firmaet JKL. Hun har vært politisk rådgiver i Arbeiderpartiets bystyregruppe i Oslo, og arbeidet med ekstern- og interninformasjon i Stortingets arkiv. Hun er cand. polit. fra Universitetet i Oslo i 2001, med sosiologi hovedfag, statsvitenskap og Vest-Europakunnskap.</p>
     <p>
       <em type="italic">Yrkeserfaring: </em>
     </p>
     <p>jan - aug 2010</p>
-    <p>Konstituert statssekretær ved
-                          Statsministerens kontor</p>
+    <p>Konstituert statssekretær ved Statsministerens kontor</p>
     <p>mars 2009–okt 2009</p>
-    <p>Statssekretær i Barne- og
-                          likestillingsdepartementet</p>
+    <p>Statssekretær i Barne- og likestillingsdepartementet</p>
     <p>feb 2008–mars 2009</p>
-    <p>Politisk rådgiver i Barne- og
-                          likestillingsdepartementet</p>
-    <p>2005 - 2008 </p>
-    <p>Kommunikasjonsrådgiver i JKL Oslo </p>
-    <p>2001 - 2005 </p>
-    <p>Politisk rådgiver i Arbeiderpartiets bystyregruppe i Oslo </p>
-    <p>1996 - 2000 </p>
-    <p>Stortingets administrasjon, Stortingsarkivet - deltidsansatt </p>
-    <p>1998 </p>
-    <p>Kampanjeansvarlig i Norsk Studentunion </p>
+    <p>Politisk rådgiver i Barne- og likestillingsdepartementet</p>
+    <p>2005 - 2008</p>
+    <p>Kommunikasjonsrådgiver i JKL Oslo</p>
+    <p>2001 - 2005</p>
+    <p>Politisk rådgiver i Arbeiderpartiets bystyregruppe i Oslo</p>
+    <p>1996 - 2000</p>
+    <p>Stortingets administrasjon, Stortingsarkivet - deltidsansatt</p>
+    <p>1998</p>
+    <p>Kampanjeansvarlig i Norsk Studentunion</p>
     <p>
       <em type="italic">Utdanning: </em>
     </p>
-    <p>1997- 2001 </p>
-    <p>Sosiologi hovedfag (UIO) </p>
-    <p>1996 </p>
-    <p>Sosiologi mellomfag </p>
-    <p>1995 </p>
-    <p>Vest-Europakunnskap grunnfag </p>
-    <p>1994 </p>
-    <p>Statsvitenskap mellomfag </p>
-    <p>1992 </p>
-    <p>Examen philosophicum </p>
+    <p>1997- 2001</p>
+    <p>Sosiologi hovedfag (UIO)</p>
+    <p>1996</p>
+    <p>Sosiologi mellomfag</p>
+    <p>1995</p>
+    <p>Vest-Europakunnskap grunnfag</p>
+    <p>1994</p>
+    <p>Statsvitenskap mellomfag</p>
+    <p>1992</p>
+    <p>Examen philosophicum</p>
     <p>
       <em type="italic">Organisasjonserfaring/tillitsverv: </em>
     </p>
-    <p>2006 - 2008 </p>
-    <p>Konsernstyremedlem OBOS </p>
-    <p>2004 - 2007 </p>
-    <p>Styremedlem Oslo Arbeidersamfunns stiftelse </p>
-    <p>2003 - 2008 </p>
-    <p>Oslo kommunes kontrollutvalg </p>
-    <p>2003 - 2008 </p>
-    <p>Nesteleder i styret i Stiftelsen Rachel Grepp heimen </p>
-    <p>1999 - 2001 2006 - 2008 </p>
-    <p>Styremedlem i Oslo Arbeidersamfunn </p>
-    <p>1999 - 2001 </p>
-    <p>Styremedlem i kontrollkomiteen i Innflytternes AUF </p>
-    <p>2000 - 2002 </p>
-    <p>Partistyremedlem Oslo Arbeiderparti </p>
-    <p>1997 - 1999 </p>
-    <p>Representant, Studentparlamentet i Oslo og NSU </p>
+    <p>2006 - 2008</p>
+    <p>Konsernstyremedlem OBOS</p>
+    <p>2004 - 2007</p>
+    <p>Styremedlem Oslo Arbeidersamfunns stiftelse</p>
+    <p>2003 - 2008</p>
+    <p>Oslo kommunes kontrollutvalg</p>
+    <p>2003 - 2008</p>
+    <p>Nesteleder i styret i Stiftelsen Rachel Grepp heimen</p>
+    <p>1999 - 2001 2006 - 2008</p>
+    <p>Styremedlem i Oslo Arbeidersamfunn</p>
+    <p>1999 - 2001</p>
+    <p>Styremedlem i kontrollkomiteen i Innflytternes AUF</p>
+    <p>2000 - 2002</p>
+    <p>Partistyremedlem Oslo Arbeiderparti</p>
+    <p>1997 - 1999</p>
+    <p>Representant, Studentparlamentet i Oslo og NSU</p>
   </body>
 </document>

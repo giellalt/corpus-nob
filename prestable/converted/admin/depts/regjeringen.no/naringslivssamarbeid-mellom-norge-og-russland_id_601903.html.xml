@@ -1,49 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ealáhusovttasbargu gaskal Norgga ja Ruošša - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>234</wordcount>
+    <year>2010</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>227</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/smk/aktuelt/nyheter/2010/Naringslivssamarbeid-mellom-Norge-og-Russland.html?id=601903</origFileName>
-    <parallel_text location="ealahusovttasbargu-gaskal-norgga-ja-ruoa.html_id=601903" xml:lang="sme"/>
-    <parallel_text location="norways-stoltenberg-receives-russian-president.html_id=601903" xml:lang="eng"/>
+    <parallel_text location="norways-stoltenberg-receives-russian-president_id_601903.html" xml:lang="eng"/>
+    <parallel_text location="ealahusovttasbargu-gaskal-norgga-ja-ruoa_id_601903.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Nyhet  , 26.04.2010  </p>
-    <section>
-      <p type="title">Stoltenberg tar i mot
-                    Medvedjev</p>
-    </section>
-    <section>
-      <p type="title">Næringslivssamarbeid mellom Norge og
-                    Russland</p>
-    </section>
+    <p>Næringslivssamarbeid mellom Norge og Russland - regjeringen.no</p>
     <p>
       <em type="italic">De bilaterale næringsforbindelsene er viktige når Russlands president Medvedjev besøker Norge. Presidenten deltar sammen med statsminister Stoltenberg på en større norsk-russisk næringslivskonferanse i Oslo mandag. </em>
     </p>
     <p>
-      <em type="italic">Foto: Per Thrana/Statsministerens kontor. </em>
+      <em type="italic">Per Thrana/Statsministerens kontor.</em>
     </p>
     <list>
-      <p type="listitem">Se flere bilder fra næringslivskonferansen her . </p>
-      <p type="listitem">Se den felles pressekonferansen på Nett-TV tirsdag . </p>
+      <p type="listitem">Se flere bilder fra næringslivskonferansen her .</p>
+      <p type="listitem">Se den felles pressekonferansen på Nett-TV tirsdag .</p>
     </list>
-    <p>- Jeg er sikker på at Medvedjevs statsbesøk til Norge vil stimulere til videreutvikling av det norsk-russiske næringssamarbeidet, sier statsminister Jens Stoltenberg. </p>
-    <p>Formålet med konferansen er å vise bredden og de framtidige mulighetene i det norsk-russiske næringssamarbeidet. Sentrale tema er energi, fiskeri, utvikling av nye teknologier og industri­samarbeid. Sentrale norske og russiske næringslivsledere vil også få anledning til å møte Stoltenberg og Medvedjev. </p>
-    <p>Gode rammebetingelser er viktige forutsetninger for utbyggingen av næringsforbindelsene mellom Norge og Russland. Russisk tilslutning til WTO og muligheten for en fremtidig EFTA-handelsavtale med Russland vil bidra til dette. Disse spørsmålene vil også være tema under besøket. </p>
-    <p>– En handelsavtale mellom EFTA-landene og Russland har høy prioritet for Norge og vi støtter russisk WTO-medlemskap, sier Stoltenberg. </p>
-    <p>Russland er en viktig handelspartner for Norge. I fjor hadde vi en samlet norsk eksport til og import fra Russland på 12 milliarder kroner. Sjømat utgjør over 80 prosent av samlet norsk eksport til Russland. De siste 10 år har stadig flere norske selskaper engasjert seg og i dag har over 100 norske bedrifter fast tilstedeværelse i Russland. </p>
+    <p>- Jeg er sikker på at Medvedjevs statsbesøk til Norge vil stimulere til videreutvikling av det norsk-russiske næringssamarbeidet, sier statsminister Jens Stoltenberg.</p>
+    <p>Formålet med konferansen er å vise bredden og de framtidige mulighetene i det norsk-russiske næringssamarbeidet. Sentrale tema er energi, fiskeri, utvikling av nye teknologier og industrisamarbeid. Sentrale norske og russiske næringslivsledere vil også få anledning til å møte Stoltenberg og Medvedjev.</p>
+    <p>Gode rammebetingelser er viktige forutsetninger for utbyggingen av næringsforbindelsene mellom Norge og Russland. Russisk tilslutning til WTO og muligheten for en fremtidig EFTA-handelsavtale med Russland vil bidra til dette. Disse spørsmålene vil også være tema under besøket.</p>
+    <p>– En handelsavtale mellom EFTA-landene og Russland har høy prioritet for Norge og vi støtter russisk WTO-medlemskap, sier Stoltenberg.</p>
+    <p>Russland er en viktig handelspartner for Norge. I fjor hadde vi en samlet norsk eksport til og import fra Russland på 12 milliarder kroner. Sjømat utgjør over 80 prosent av samlet norsk eksport til Russland. De siste 10 år har stadig flere norske selskaper engasjert seg og i dag har over 100 norske bedrifter fast tilstedeværelse i Russland.</p>
   </body>
 </document>

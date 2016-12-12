@@ -1,30 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Olgoriikkalaččaidnammagoddi (ONA) - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Justis- og politidepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>72</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>74</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/jd/dep/underliggende-etater/utlendingsnemda_une.html?id=85818</origFileName>
-    <parallel_text location="olgoriikkalaaidnammagoddi-ona.html_id=85818" xml:lang="sme"/>
+    <parallel_text location="olgoriikkalaaidnammagoddi-ona_id_85818.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Utlendingsnemnda (UNE)</p>
-    </section>
-    <p>UNE ble opprettet ved lov av 30. april 1999 nr. 22 om endringer i utlendingsloven. UNE har vært i aktivitet siden 01.01.2001. UNE er administrativt underlagt Justis- og politidepartementet, og behandler klager på Utlendingsdirektoratets vedtak etter reglene i utlendingsloven og utlendingsforskriften. </p>
-    <p>UNE er et politisk uavhengig forvaltningsorgan. Departementet kan ikke instruere om lovtolking, vurdering eller avgjørelser i enkeltsaker (unntatt i saker som gjelder hensynet til rikets sikkerhet, eller utenrikspolitiske hensyn). </p>
-    <p></p>
+    <p>Utlendingsnemnda (UNE) - regjeringen.no</p>
+    <p>UNE ble opprettet ved lov av 30. april 1999 nr. 22 om endringer i utlendingsloven. UNE har vært i aktivitet siden 01.01.2001. UNE er administrativt underlagt Justis- og politidepartementet, og behandler klager på Utlendingsdirektoratets vedtak etter reglene i utlendingsloven og utlendingsforskriften.</p>
+    <p>UNE er et politisk uavhengig forvaltningsorgan. Departementet kan ikke instruere om lovtolking, vurdering eller avgjørelser i enkeltsaker (unntatt i saker som gjelder hensynet til rikets sikkerhet, eller utenrikspolitiske hensyn).</p>
   </body>
 </document>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Varsling om pressemeldinger - Sámediggi Sametinget</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
       <unknown/>
     </author>
@@ -13,27 +11,22 @@
       </publication>
     </publChannel>
     <wordcount>86</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://samediggi.no/Artikkel.aspx?aid=71&amp;sprak=Norsk&amp;Print=1</origFileName>
     <parallel_text location="samediggi-article-71.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Varsling om
-      pressemeldinger</p>
-    </section>
-    <p>Representanter for presse og kringkasting kan registrere seg her og motta varsel hver gang Sametinget publiserer pressemeldinger på nett. </p>
-    <p>Denne ordningen vil erstatte tidligere praksis ved utsendelse av pressemelding i sin helhet på e-post. Når du varsles, vil du motta tittel på pressemeldingen og lenke til norsk og samisk tekst. Denne ordningen gjelder kun for representanter for presse og kringkasting. Vennligst oppgi ditt fulle navn, og i notatfeltet ber vi deg oppgi hvilket medium du arbeider for. </p>
-    <p>
-      <em type="bold">Andre </em>
-    </p>
-    <p>Jeg vil varsles om pressemeldinger </p>
+    <p>Varsling om pressemeldinger - Sámediggi Sametinget</p>
+    <p type="title">Varsling om pressemeldinger</p>
+    <p>Representanter for presse og kringkasting kan registrere seg her og motta varsel hver gang Sametinget publiserer pressemeldinger på nett.</p>
+    <p>Denne ordningen vil erstatte tidligere praksis ved utsendelse av pressemelding i sin helhet på e-post. Når du varsles, vil du motta tittel på pressemeldingen og lenke til norsk og samisk tekst. Denne ordningen gjelder kun for representanter for presse og kringkasting. Vennligst oppgi ditt fulle navn, og i notatfeltet ber vi deg oppgi hvilket medium du arbeider for.</p>
   </body>
 </document>

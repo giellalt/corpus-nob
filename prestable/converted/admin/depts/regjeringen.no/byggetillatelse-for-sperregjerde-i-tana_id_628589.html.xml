@@ -1,41 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Lohpi hukset áiddi Deanus - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2010</year>
-    <wordcount>172</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>177</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/aktuelt/nyheter/2010/des-10/byggetillatelse-for-sperregjerde-i-tana.html?id=628589</origFileName>
-    <parallel_text location="lohpi-hukset-aiddi-deanus.html_id=628589" xml:lang="sme"/>
+    <parallel_text location="lohpi-hukset-aiddi-deanus_id_628589.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Nyhet  , 16.12.2010  </p>
-    <section>
-      <p type="title">Byggetillatelse for sperregjerde i Tana</p>
-    </section>
-    <p>Landbruks- og matdepartementet har gitt byggetillatelse til et 90 km langt reinsperregjerde mellom reinbeitedistriktene 9 og 13 - fra Rv 98 Ifjord til Darjohka. </p>
-    <p>Landbruks- og matdepartementet har på nærmere angitte vilkår gitt byggetillatelse til et 90 km langt reinsperregjerde mellom reinbeitedistriktene 9 og 13 - fra Rv 98 Ifjord til Darjohka.    </p>
-    <p>- Et slikt gjerde vil gi en bedre forutsigbarhet på beitebruken og hindre sammenblanding av reinflokkene.  Det vil også hindre reinbeiting dyrka mark, sier landbruks- og matminister Lars Peder Brekk. </p>
-    <p>Bakgrunnen for distriktenes ønske om å få sette opp gjerdet er problemene med å overholde distriktsgrensen. Det er reinbeitedistriktene  9 - Corgasnjarga og 13 - Lagesduottar som skal bygge og vedlikeholde gjerdet.  Gjerdestrekningen er i det vesentligste i Tana kommune.  Kortere strekninger ligger i Gamvik og Lebesby kommuner. Kommunestyret i Tana har tilrådd sperregjerdet bygget.  </p>
-    <p>    </p>
-    <p>
-                          Landbruks- og matdepartementet har gitt
-                          byggetillatelse til et 90 km langt
-                          reinsperregjerde mellom reinbeitedistriktene
-                          9 og 13 - fra Rv 98 Ifjord til
-                          Darjohka.  Foto: Pål Hermansen,
-                          Samfoto</p>
+    <p>Byggetillatelse for sperregjerde i Tana - regjeringen.no</p>
+    <p type="title">Byggetillatelse for sperregjerde i Tana</p>
+    <p>Landbruks- og matdepartementet har gitt byggetillatelse til et 90 km langt reinsperregjerde mellom reinbeitedistriktene 9 og 13 - fra Rv 98 Ifjord til Darjohka.</p>
+    <p>Landbruks- og matdepartementet har på nærmere angitte vilkår gitt byggetillatelse til et 90 km langt reinsperregjerde mellom reinbeitedistriktene 9 og 13 - fra Rv 98 Ifjord til Darjohka.</p>
+    <p>- Et slikt gjerde vil gi en bedre forutsigbarhet på beitebruken og hindre sammenblanding av reinflokkene. Det vil også hindre reinbeiting dyrka mark, sier landbruks- og matminister Lars Peder Brekk.</p>
+    <p>Bakgrunnen for distriktenes ønske om å få sette opp gjerdet er problemene med å overholde distriktsgrensen. Det er reinbeitedistriktene 9 - Corgasnjarga og 13 - Lagesduottar som skal bygge og vedlikeholde gjerdet. Gjerdestrekningen er i det vesentligste i Tana kommune. Kortere strekninger ligger i Gamvik og Lebesby kommuner. Kommunestyret i Tana har tilrådd sperregjerdet bygget.</p>
+    <p>Landbruks- og matdepartementet har gitt byggetillatelse til et 90 km langt reinsperregjerde mellom reinbeitedistriktene 9 og 13 - fra Rv 98 Ifjord til Darjohka.  Foto: Pål Hermansen, Samfoto</p>
   </body>
 </document>

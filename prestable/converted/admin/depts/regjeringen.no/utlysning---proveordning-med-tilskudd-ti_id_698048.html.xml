@@ -1,72 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Almmuhus – Geahččalanortnet, mas dorjot kulturealáhusaktevrraid fierpmádagaid ja oktasaš doaibmalanjaid gávpogiin ja guovlluguovddážiin - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>369</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>371</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/kud/aktuelt/nyheter/2012/utlysning---proveordning-med-tilskudd-ti.html?id=698048</origFileName>
-    <parallel_text location="almmuhus--geahalanortnet-mas-dorjot-kult.html_id=698048" xml:lang="sme"/>
-    <parallel_text location="the-prime-minister-announces-new-emergen.html_id=698072" xml:lang="eng"/>
+    <parallel_text location="" xml:lang="eng"/>
+    <parallel_text location="almmuhus--geahalanortnet-mas-dorjot-kult_id_698048.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="isl">Nyhet  , 27.08.2012  </p>
-    <section>
-      <p type="title">Utlysning - Prøveordning med tilskudd til
-                    nettverk og samlokaliseringer av
-                    kulturnæringsaktører i byer og regionssentra</p>
-    </section>
-    <p>Kulturdepartementet, Nærings- og handelsdepartementet og Kommunal- og regional­departementet samarbeider om en ny handlingsplan for kultur og næring som skal legges frem i løpet av 2012.  </p>
-    <p>Mange kulturnæringsaktører peker på behovet for inkubatorer, møteplasser og nettverk, dvs. steder der frilansere, enkeltmannsforetak og små kulturbedrifter med begrensede ressurser kan ha tilknytning for faglig utvikling, inspirasjon og påfyll av ideer og utvikling av nettverk. </p>
-    <p>Virkemiddelapparatet tilbyr flere virkemidler som skal legge til rette for mer nyskaping og samarbeid mellom bedrifter, blant dem virkemidler for samlokalisering og inkubatortilbud for å stimulere til flere etableringer og for bidra til utvikling av et miljø for kulturnæringene. </p>
-    <p>I arbeidet med handlingsplanen arrangerer departementene en rekke innspills­seminarer. Det er kommet inn flere innspill og tilbakemeldinger med spørsmål om slike samlokaliseringer møter kulturnæringenes behov så godt som ønsket. Det er utviklet flere samlokaliseringer for kulturnæringer som i stor grad er initiert av kulturnæringsaktører selv. Disse har miljøet og nettverket som er attraktive for kulturnæringene, men mangler ofte funksjoner og verktøy som kan støtte dem i arbeidet med å utvikle virksomhetene til økonomisk bærekraftige kulturnæringer.  </p>
-    <p>Slike funksjoner kan for eksempel bestå av: </p>
+    <p>Utlysning - Prøveordning med tilskudd til nettverk og samlokaliseringer av kulturnæringsaktører i byer og regionssentra - regjeringen.no</p>
+    <p>Kulturdepartementet, Nærings- og handelsdepartementet og Kommunal- og regionaldepartementet samarbeider om en ny handlingsplan for kultur og næring som skal legges frem i løpet av 2012.</p>
+    <p>Mange kulturnæringsaktører peker på behovet for inkubatorer, møteplasser og nettverk, dvs. steder der frilansere, enkeltmannsforetak og små kulturbedrifter med begrensede ressurser kan ha tilknytning for faglig utvikling, inspirasjon og påfyll av ideer og utvikling av nettverk.</p>
+    <p>Virkemiddelapparatet tilbyr flere virkemidler som skal legge til rette for mer nyskaping og samarbeid mellom bedrifter, blant dem virkemidler for samlokalisering og inkubatortilbud for å stimulere til flere etableringer og for bidra til utvikling av et miljø for kulturnæringene.</p>
+    <p>I arbeidet med handlingsplanen arrangerer departementene en rekke innspillsseminarer. Det er kommet inn flere innspill og tilbakemeldinger med spørsmål om slike samlokaliseringer møter kulturnæringenes behov så godt som ønsket. Det er utviklet flere samlokaliseringer for kulturnæringer som i stor grad er initiert av kulturnæringsaktører selv. Disse har miljøet og nettverket som er attraktive for kulturnæringene, men mangler ofte funksjoner og verktøy som kan støtte dem i arbeidet med å utvikle virksomhetene til økonomisk bærekraftige kulturnæringer.</p>
+    <p>Slike funksjoner kan for eksempel bestå av:</p>
     <list>
-      <p type="listitem">seminar, workshops om relevante foretningsmessige utfordringer </p>
-      <p type="listitem">mentorer som kan veilede unge og nyetablerte virksomheter </p>
-      <p type="listitem">prosjektledelse for utvikling av næringsrettede samarbeidsprosjekter, f.eks utvikling av nye produksjonsformer, produkter og tjenester </p>
-      <p type="listitem">regnskapsmessig og juridisk bistand </p>
+      <p type="listitem">seminar, workshops om relevante foretningsmessige utfordringer</p>
+      <p type="listitem">mentorer som kan veilede unge og nyetablerte virksomheter</p>
+      <p type="listitem">prosjektledelse for utvikling av næringsrettede samarbeidsprosjekter, f.eks utvikling av nye produksjonsformer, produkter og tjenester</p>
+      <p type="listitem" xml:lang="dan">regnskapsmessig og juridisk bistand</p>
     </list>
-    <p>På denne bakgrunn etableres en prøveordning for å møte utfordringer kulturnæringsaktørene peker på. Kulturdepartementet ønsker å bidra til å utvikle nettverk og samlokaliseringer av kulturnæringsaktører med stort potensiale i byer og regionssentra samt se på hvordan byene fungerer som vekstmotorer i regionen. </p>
-    <p>Kulturdepartementet vil i 2012 gjennomføre en prøveordning med tilskuddsmidler til slike funksjoner og verktøy for samlokaliseringer av kulturnæringer i byer og regionssentra. Tilskuddene er engangstilskudd. </p>
-    <p xml:lang="dan">
+    <p>På denne bakgrunn etableres en prøveordning for å møte utfordringer kulturnæringsaktørene peker på. Kulturdepartementet ønsker å bidra til å utvikle nettverk og samlokaliseringer av kulturnæringsaktører med stort potensiale i byer og regionssentra samt se på hvordan byene fungerer som vekstmotorer i regionen.</p>
+    <p>Kulturdepartementet vil i 2012 gjennomføre en prøveordning med tilskuddsmidler til slike funksjoner og verktøy for samlokaliseringer av kulturnæringer i byer og regionssentra. Tilskuddene er engangstilskudd.</p>
+    <p>
       <em type="italic">Søknadsfrist: 20. september 2012 </em>
     </p>
     <p>
       <em type="italic">Søknadsbeløp: Inntil 1,5 mill. kroner </em>
     </p>
-    <section>
-      <p type="title">Hvem kan søke:</p>
-    </section>
-    <p>Samlokaliseringer og nettverk (det gis ikke støtte til enkeltpersoner eller –virksomheter) i byer og regionsentra.  </p>
-    <p>Søknad om tilskudd skal inneholde: </p>
+    <p type="title">Hvem kan søke:</p>
+    <p>Samlokaliseringer og nettverk (det gis ikke støtte til enkeltpersoner eller –virksomheter) i byer og regionsentra.</p>
+    <p>Søknad om tilskudd skal inneholde:</p>
     <list>
-      <p type="listitem">Prosjektbeskrivelse med opplysninger om bakgrunn for og formål med prosjektet </p>
-      <p type="listitem">Budsjett for prosjektet </p>
-      <p type="listitem">Fremdriftsplan for prosjektet </p>
-      <p type="listitem">Kontonummer for utbetaling av tilskudd </p>
+      <p type="listitem">Prosjektbeskrivelse med opplysninger om bakgrunn for og formål med prosjektet</p>
+      <p type="listitem">Budsjett for prosjektet</p>
+      <p type="listitem" xml:lang="nno">Fremdriftsplan for prosjektet</p>
+      <p type="listitem">Kontonummer for utbetaling av tilskudd</p>
     </list>
-    <section>
-      <p type="title">Det gis ikke tilskudd til:</p>
-    </section>
+    <p type="title" xml:lang="dan">Det gis ikke tilskudd til:</p>
     <list>
-      <p type="listitem">investeringer </p>
-      <p type="listitem">driftsstøtte </p>
-      <p type="listitem">FoU </p>
+      <p type="listitem" xml:lang="dan">investeringer</p>
+      <p type="listitem" xml:lang="dan">driftsstøtte</p>
+      <p type="listitem">FoU</p>
     </list>
-    <p>Søknad sendes elektronisk til   eller til Kulturdepartementet, Postboks 8030 Dep, 0030 Oslo. </p>
+    <p>Søknad sendes elektronisk til eller til Kulturdepartementet, Postboks 8030 Dep, 0030 Oslo.</p>
   </body>
 </document>

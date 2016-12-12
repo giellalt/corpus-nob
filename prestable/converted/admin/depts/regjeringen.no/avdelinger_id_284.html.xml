@@ -1,65 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Departemeantta ossodagat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fiskeri- og kystdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>35</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>37</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fkd/dep/org/avdelinger.html?id=284</origFileName>
-    <parallel_text location="departemeantta-ossodagat.html_id=284" xml:lang="sme"/>
-    <parallel_text location="avdelingar.html_id=284" xml:lang="nno"/>
-    <parallel_text location="departments.html_id=284" xml:lang="eng"/>
+    <parallel_text location="departments_id_284.html" xml:lang="eng"/>
+    <parallel_text location="avdelingar_id_284.html" xml:lang="nno"/>
+    <parallel_text location="departemeantta-ossodagat_id_284.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Avdelinger</p>
-    </section>
-    <section>
-      <p type="title">Avdeling for havbruk, sjømat og
-                    marked</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Havressurs- og kystavdelingen</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Forsknings- og
-                    innovasjonsavdelingen</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Kommunikasjonsenheten (FKD)</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Administrasjonsenheten</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Faks: </p>
+    <p>Avdelinger - regjeringen.no</p>
+    <p type="title">Avdeling for havbruk, sjømat og marked</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Havressurs- og kystavdelingen</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Forsknings- og innovasjonsavdelingen</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Kommunikasjonsenheten (FKD)</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Administrasjonsenheten</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Faks:</p>
   </body>
 </document>

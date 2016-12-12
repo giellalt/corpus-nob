@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Digitála giellareaiddut leat dehálačča giela ceavzimii - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>204</wordcount>
+    <year>2010</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>209</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fad/aktuelt/nyheter/2010/Digitale-sprakverktoy-nodvendig-for-a-overleve.html?id=605543</origFileName>
-    <parallel_text location="digitala-giellareaiddut-leat-dehalaa-giela-ceavzimii.html_id=605543" xml:lang="sme"/>
-    <parallel_text location="digitale-sprakverktoy-nodvendig-for-a-overleve.html_id=605543" xml:lang="nno"/>
+    <parallel_text location="digitale-sprakverktoy-nodvendig-for-a-overleve_id_605543.html" xml:lang="nno"/>
+    <parallel_text location="digitala-giellareaiddut-leat-dehalaa-giela-ceavzimii_id_605543.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Nyhet  , 25.05.2010  </p>
-    <section>
-      <p type="title">Digitale språkverktøy nødvendig for å
-                    overleve</p>
-    </section>
+    <p>Digitale språkverktøy nødvendig for å overleve - regjeringen.no</p>
+    <p type="title">Digitale språkverktøy nødvendig for å overleve</p>
     <p>
       <em type="italic">Å utvikle digitale verktøy for samiske språk har ikke bare med rettferdighet og likestilling å gjøre. Det er avgjørende for at samiske språk skal kunne overleve. </em>
     </p>
-    <p>Det slo Sjur Moshagen ved Divvun/Senter for samisk språkteknologi i Tromsø fast, da han onsdag orienterte fornyingsminister Rigmor Aasrud og statssekretær Raimo Valle om virksomheten. </p>
-    <p>Senteret har som mål å lage språkteknologiske verktøy for ulike samiske språk. Det kan dreie seg om pedagogiske program, tekstbearbeidingssystemer, digitale ordbøker eller digital tale. I dagens digitale verden må et språk ha en mengde ressurser for å fungere som administrasjons- og kommunikasjonsspråk. Her står minoritetsspråk overfor en helt annen situasjon enn majoritetsspråk. </p>
-    <p>I nært samarbeid med senteret opererer Divvun-prosjektet, som ble startet opp i 2004, og utvikler samisk korrekturprogram for elektronisk tekstbehandling. Programmet er gratis og kan lastes ned fra Internett. En sør-samisk stavekontroll skal foreligge innen utgangen av året. Prosjektet, som har seks ansatte, vil dermed ha nådd sitt mål, men Sametinget har forslått for FAD at det etableres en permanent drifts- og utviklingsorganisasjon for Divvun fra 2011. </p>
-    <p>På bildet: Foran, fra venstre: Sjur Moshagen, Maja Kappfjell og Berit Anne Bals Baal i Divvun. Bak: Statssekretær Raimo Valle og statsråd Rigmor Aasrud. </p>
+    <p>Det slo Sjur Moshagen ved Divvun/Senter for samisk språkteknologi i Tromsø fast, da han onsdag orienterte fornyingsminister Rigmor Aasrud og statssekretær Raimo Valle om virksomheten.</p>
+    <p>Senteret har som mål å lage språkteknologiske verktøy for ulike samiske språk. Det kan dreie seg om pedagogiske program, tekstbearbeidingssystemer, digitale ordbøker eller digital tale. I dagens digitale verden må et språk ha en mengde ressurser for å fungere som administrasjons- og kommunikasjonsspråk. Her står minoritetsspråk overfor en helt annen situasjon enn majoritetsspråk.</p>
+    <p>I nært samarbeid med senteret opererer Divvun-prosjektet, som ble startet opp i 2004, og utvikler samisk korrekturprogram for elektronisk tekstbehandling. Programmet er gratis og kan lastes ned fra Internett. En sør-samisk stavekontroll skal foreligge innen utgangen av året. Prosjektet, som har seks ansatte, vil dermed ha nådd sitt mål, men Sametinget har forslått for FAD at det etableres en permanent drifts- og utviklingsorganisasjon for Divvun fra 2011.</p>
+    <p>På bildet: Foran, fra venstre: Sjur Moshagen, Maja Kappfjell og Berit Anne Bals Baal i Divvun. Bak: Statssekretær Raimo Valle og statsråd Rigmor Aasrud.</p>
   </body>
 </document>

@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Árjjaid bidjan mánáid- ja etniiddearvvašvuođa nannemii  - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Utenriksdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>382</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>379</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/ud/pressesenter/pressemeldinger/2012/satsing_gavi.html?id=701312</origFileName>
-    <parallel_text location="globala_dearvvasvuohta.html_id=701312" xml:lang="sme"/>
-    <parallel_text location="raavrevijhke-saemien-gielen-reeremedajve.html_id=704691" xml:lang="sma"/>
-    <parallel_text location="meir-til-naturinformasjon-og-forvalting.html_id=703559" xml:lang="nno"/>
-    <parallel_text location="affordable_medicine.html_id=701312" xml:lang="eng"/>
+    <parallel_text location="" xml:lang="eng"/>
+    <parallel_text location="globala_dearvvasvuohta_id_701312.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 08.10.2012  </p>
-    <section>
-      <p type="title">Storsatsing på barne- og mødrehelse</p>
-    </section>
-    <p><em type="italic">Årlig dør nesten 300.000 kvinner i forbindelse med svangerskap og fødsel. 6,9 millioner barn dør av sykdommer som kunne vært unngått. Enkle og billige medisiner kan redde mange av disse. Regjeringen foreslår å bevilge 650 millioner kroner ekstra til en kraftig opptrapping av innsatsen for mor og barn. </em>  </p>
-    <p>- Mange steder i verden er det å føde noe av det farligste man gjør. Alt for mange mødre og nyfødte dør på grunn av mangel på helsetjenester og enkle, billige medisiner. Dette er en tragedie for familiene det gjelder, men også for verdenssamfunnet.  Over seks millioner kvinner og barn vil dø de neste fem årene hvis de ikke får enkle og billige livreddende medisiner. Derfor tar vi et spesielt stort løft neste år sammen med nære internasjonale samarbeidspartnere, sier utenriksminister Espen Barth Eide. </p>
-    <p> Bare halvparten av kvinner i de fattigste landene føder på fødestue eller sykehus. Bare halvparten av disse fødestuene har sikker tilgang på medisin som forhindrer at kvinner blør i hjel i barsel. Norsk innsats skal rettes mot dette.  </p>
-    <p>Med Stortingets samtykke, vil FNs kommisjon for livsviktige medisiner for kvinner og barn få nye 300 millioner kroner, mens samarbeidet med USA om mødrehelseinitiativet Saving Mothers, Giving Life vil få 100 millioner kroner. Styrket satsing på familieplanlegging vil få 150 millioner kroner. Den globale vaksinealliansen (GAVI) vil få et ytterligere bidrag til på 100 millioner kroner.  </p>
-    <p>Med de nye 650 millioner kronene vil Norges samlede bidrag til global helse i 2013 være på 2,4 milliarder kroner.  </p>
-    <p>Over 200 millioner jenter og kvinner har i dag ikke tilgang på familieplanleggingsmetoder de selv ønsker. Bedre innkjøpsordninger og bedre tilgang blant annet ved bruk av mobiltelefoner både i helsetjenesten og for bedret informasjon til kvinnene selv, er blant tiltakene.  </p>
-    <p> - Tilgang på prevensjon må til for at kvinner skal få bestemme over egen kropp og når de skal ha barn. Norge er dessuten verdensledende på støtte til utdanning av jenter. Prevensjon og utdanning gir makt og muligheter til jenter, sier utviklingsminister Heikki Eidsvoll Holmås.  </p>
-    <p>Den foreslåtte økningen inngår i oppfølgingen av FNs strategi for kvinners og barns helse og regjeringens stortingsmelding om global helse.  </p>
+    <p>Storsatsing på barne- og mødrehelse - regjeringen.no</p>
+    <p>
+      <em type="italic">Årlig dør nesten 300.000 kvinner i forbindelse med svangerskap og fødsel. 6,9 millioner barn dør av sykdommer som kunne vært unngått. Enkle og billige medisiner kan redde mange av disse. Regjeringen foreslår å bevilge 650 millioner kroner ekstra til en kraftig opptrapping av innsatsen for mor og barn. </em>
+    </p>
+    <p>- Mange steder i verden er det å føde noe av det farligste man gjør. Alt for mange mødre og nyfødte dør på grunn av mangel på helsetjenester og enkle, billige medisiner. Dette er en tragedie for familiene det gjelder, men også for verdenssamfunnet. Over seks millioner kvinner og barn vil dø de neste fem årene hvis de ikke får enkle og billige livreddende medisiner. Derfor tar vi et spesielt stort løft neste år sammen med nære internasjonale samarbeidspartnere, sier utenriksminister Espen Barth Eide.</p>
+    <p>Bare halvparten av kvinner i de fattigste landene føder på fødestue eller sykehus. Bare halvparten av disse fødestuene har sikker tilgang på medisin som forhindrer at kvinner blør i hjel i barsel. Norsk innsats skal rettes mot dette.</p>
+    <p>Med Stortingets samtykke, vil FNs kommisjon for livsviktige medisiner for kvinner og barn få nye 300 millioner kroner, mens samarbeidet med USA om mødrehelseinitiativet Saving Mothers, Giving Life vil få 100 millioner kroner. Styrket satsing på familieplanlegging vil få 150 millioner kroner. Den globale vaksinealliansen (GAVI) vil få et ytterligere bidrag til på 100 millioner kroner.</p>
+    <p>Med de nye 650 millioner kronene vil Norges samlede bidrag til global helse i 2013 være på 2,4 milliarder kroner.</p>
+    <p>Over 200 millioner jenter og kvinner har i dag ikke tilgang på familieplanleggingsmetoder de selv ønsker. Bedre innkjøpsordninger og bedre tilgang blant annet ved bruk av mobiltelefoner både i helsetjenesten og for bedret informasjon til kvinnene selv, er blant tiltakene.</p>
+    <p>- Tilgang på prevensjon må til for at kvinner skal få bestemme over egen kropp og når de skal ha barn. Norge er dessuten verdensledende på støtte til utdanning av jenter. Prevensjon og utdanning gir makt og muligheter til jenter, sier utviklingsminister Heikki Eidsvoll Holmås.</p>
+    <p>Den foreslåtte økningen inngår i oppfølgingen av FNs strategi for kvinners og barns helse og regjeringens stortingsmelding om global helse.</p>
     <list>
-      <p type="listitem">Meld. St. 11 (2011 - 2012) Global helse i utenriks- og utviklingspolitikken </p>
-      <p type="listitem">FNs kommisjon for livsviktige medisiner for kvinner og barn    </p>
+      <p type="listitem">Meld. St. 11 (2011 - 2012) Global helse i utenriks- og utviklingspolitikken</p>
+      <p type="listitem">FNs kommisjon for livsviktige medisiner for kvinner og barn</p>
     </list>
   </body>
 </document>

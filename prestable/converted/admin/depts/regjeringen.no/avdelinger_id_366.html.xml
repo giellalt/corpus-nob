@@ -1,82 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ossodagat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>46</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>48</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fad/dep/org/avdelinger.html?id=366</origFileName>
-    <parallel_text location="ossodagat.html_id=366" xml:lang="sme"/>
-    <parallel_text location="avdelingar.html_id=366" xml:lang="nno"/>
-    <parallel_text location="departments.html_id=366" xml:lang="eng"/>
+    <parallel_text location="departments_id_366.html" xml:lang="eng"/>
+    <parallel_text location="avdelingar_id_366.html" xml:lang="nno"/>
+    <parallel_text location="ossodagat_id_366.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Avdelinger</p>
-    </section>
-    <section>
-      <p type="title">Administrasjonsavdelingen</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <section>
-      <p type="title">Arbeidsgiverpolitisk avdeling</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Avdeling for IKT og fornying</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <section>
-      <p type="title">Kirkeavdelingen</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Kommunikasjonsenheten</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Konkurransepolitisk avdeling</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Same- og minoritetspolitisk
-                    avdeling</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
-    <p>Faks: </p>
-    <section>
-      <p type="title">Statsforvaltningsavdelingen</p>
-    </section>
-    <p>E-post: </p>
-    <p>.no </p>
-    <p>Telefon: </p>
+    <p>Avdelinger - regjeringen.no</p>
+    <p type="title">Administrasjonsavdelingen</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p type="title">Arbeidsgiverpolitisk avdeling</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Avdeling for IKT og fornying</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p type="title">Kirkeavdelingen</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Kommunikasjonsenheten</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Faks:</p>
+    <p type="title">Konkurransepolitisk avdeling</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Same- og minoritetspolitisk avdeling</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
+    <p>Faks:</p>
+    <p type="title">Statsforvaltningsavdelingen</p>
+    <p>E-post:</p>
+    <p>.no</p>
+    <p>Telefon:</p>
   </body>
 </document>

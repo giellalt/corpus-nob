@@ -1,47 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Hálldahussodat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>194</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>164</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fin/dep/org/avdelinger/administrasjonsavdelingen.html?id=1541</origFileName>
-    <parallel_text location="halldahusodat.html_id=1541" xml:lang="sme"/>
-    <parallel_text location="administrasjonsavdelinga.html_id=1541" xml:lang="nno"/>
-    <parallel_text location="the-department-of-administrative-affairs.html_id=1541" xml:lang="eng"/>
+    <parallel_text location="the-department-of-administrative-affairs_id_1541.html" xml:lang="eng"/>
+    <parallel_text location="administrasjonsavdelinga_id_1541.html" xml:lang="nno"/>
+    <parallel_text location="halldahusodat_id_1541.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Administrasjons­avdelingen (ADA)</p>
-    </section>
-    <p>Avdelingen ledes av ekspedisjonssjef Heidi Heggenes. Avdelingsdirektør Jon Oftedal er nestleder i avdelingen. Kontrolldirektør Odd Kvalvik er administrativt knyttet til ADA, men rapporterer direkte til Finansråden. Avdelingen har følgende seksjonsinndeling: </p>
-    <section>
-      <p type="title">Personalseksjonen (PERS)</p>
-    </section>
-    <p>Seksjonsleder: Avdelingsdirektør Håkon Tandstad <em type="italic">Oppgaver </em>: Utvikling og oppfølging av felles personalpolitikk for FIN. Rådgivning i forbindelse med behandling av personalsaker i avdelingene. Administrative oppgaver på personalområdet. Brukeransvarlig for personaldatasystem og tidregistreringssystem. Planlegging og administrasjon av felles personal- og lederutviklingstiltak. Sekretariat for Arbeids- og samarbeidsutvalget. Helse, miljø og sikkerhet. Forhandlinger m.v. med fagforeningene i FIN. Profilering av FIN som arbeidsgiver. Personalpolitikk i underliggende etater. </p>
-    <section>
-      <p type="title">Organisasjonsseksjonen (ORG)</p>
-    </section>
-    <p>Seksjonsleder: Avdelingsdirektør Peter Reine <em type="italic">Oppgaver </em>: Ansvar for departementets interne økonomi, herunder budsjettering, regnskapføring og økonomistyring. Samordning av departe­mentets virk­som­hetsplanlegging og organisering. Ansvar for beredskapssaker og ulike oppgaver knyttet til fellesadministrasjon og løpende drift. </p>
-    <section>
-      <p type="title">Budsjettseksjonen (BUD)</p>
-    </section>
-    <p>Seksjonsleder: Avdelingsdirektør Sigurd Odnæs <em type="italic">Oppgaver </em>: Samordning av Finans­departe­mentets fagbudsjett for departe­mentet og under­liggende insti­tusjoner, økonomi- og regnskapssaker, samordning av departe­mentets riksrevisjons­saker. Koordinering av fagdepartementets arbeid med høringssaker og r-notater. </p>
-    <section>
-      <p type="title">Dokumentasjons- og IT-seksjonen
-                    (DOIT)</p>
-    </section>
+    <p>Administrasjonsavdelingen (FIN) - regjeringen.no</p>
+    <p type="title">Personalseksjonen (PERS)</p>
+    <p>Seksjonsleder: Avdelingsdirektør Håkon Tandstad <em type="italic">Oppgaver </em>Utvikling og oppfølging av felles personalpolitikk for FIN. Rådgivning i forbindelse med behandling av personalsaker i avdelingene. Administrative oppgaver på personalområdet. Brukeransvarlig for personaldatasystem og tidregistreringssystem. Planlegging og administrasjon av felles personal- og lederutviklingstiltak. Sekretariat for Arbeids- og samarbeidsutvalget. Helse, miljø og sikkerhet. Forhandlinger m.v. med fagforeningene i FIN. Profilering av FIN som arbeidsgiver. Personalpolitikk i underliggende etater. </p>
+    <p type="title">Budsjett- og organisasjonsseksjonen (BORG)</p>
+    <p>Seksjonsleder: Avdelingsdirektør Paal Gjennestad <em type="italic">Oppgaver </em>: Samordning av Finansdepartementets fagbudsjett for departementet og underliggende institusjoner, økonomi- og regnskapssaker, samordning av departementets riksrevisjonssaker. Koordinering av fagdepartementets arbeid med høringssaker og r-notater. Ansvar for departementets interne økonomi, herunder budsjettering, regnskapsføring og økonomistyring. Samordning av departementets virksomhetsplanlegging og organisering. Ansvar for beredskapssaker og ulike oppgaver knyttet til fellesadministrasjon og løpende drift. </p>
+    <p type="title">Dokumentasjons- og IT-seksjonen (DOIT)</p>
     <p>Seksjonsleder: Avdelingsdirektør Jorunn Bødtker <em type="italic">Oppgaver </em>: Dokumentasjon og arkivfunksjon for hele departementet. Utvikling av intranett og IT-infrastrukturen i departementet. Koordinering av IT-spørsmål. Drift av felles IT-systemer. </p>
+    <p>Sist oppdatert: 02.09.2013</p>
   </body>
 </document>

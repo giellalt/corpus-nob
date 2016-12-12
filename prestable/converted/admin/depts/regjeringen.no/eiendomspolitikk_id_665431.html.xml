@@ -1,54 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Opmodatpolitihkka - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
     <wordcount>305</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/pressesenter/pressemeldinger/2011/eiendomspolitikk.html?id=665431</origFileName>
-    <parallel_text location="opmodatpolitihkka.html_id=665431" xml:lang="sme"/>
+    <parallel_text location="opmodatpolitihkka_id_665431.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 02.12.2011  </p>
-    <p>Nr.: 11  </p>
-    <section>
-      <p type="title">Eiendomspolitikk</p>
-    </section>
-    <p>Regjeringen ønsker økt omsetning av ubebodde landbrukseiendommer og mer aktiv bruk av mindre eiendommer til bosetting og fritidsbruk. Det skal bli enklere å få kjøpt bolig eller fritidseiendom gjennom fradeling av romslige tomter, tun og bolighus. Regjeringen vil innskrenke odelskretsen og oppheve reglene om odelsfrigjøring av landbrukseiendom. </p>
+    <p>Eiendomspolitikk - regjeringen.no</p>
+    <p type="title">Eiendomspolitikk</p>
+    <p>Regjeringen ønsker økt omsetning av ubebodde landbrukseiendommer og mer aktiv bruk av mindre eiendommer til bosetting og fritidsbruk. Det skal bli enklere å få kjøpt bolig eller fritidseiendom gjennom fradeling av romslige tomter, tun og bolighus. Regjeringen vil innskrenke odelskretsen og oppheve reglene om odelsfrigjøring av landbrukseiendom.</p>
     <list>
-      <p type="listitem">
+      <p type="listitem" xml:lang="nno">
         <em type="italic">Meld. St. 9 (2011–2012) Landbruks- og matpolitikken </em>
       </p>
-      <p type="listitem">
-        <em type="italic">Pressekonferansen på Nett-TV om Melding til Stortinget om landbruks- og matpolitikken </em>
+      <p type="listitem" xml:lang="nno">
+        <em type="italic">Pressekonferansen på Nett-TV om Melding til Stortinget om landbruks- og matpolitikken </em>
       </p>
       <p type="listitem">
-        <em type="italic">Se også video med Landbruks- og matminister Lars Peder Brekks kommentarer </em>
+        <em type="italic">Se også video med Landbruks- og matminister Lars Peder Brekks kommentarer </em>
       </p>
     </list>
-    <p>- Det er om lag 33.000 landbrukseiendommer uten fast bosetting. Dette representerer en dårlig utnytting av bygdenes verdier og potensiale, og lokalsamfunnene etterspør ny aktivitet, sier landbruks- og matminister Lars Peder Brekk. </p>
-    <p>- Mange har ønske om å ta del i bygdenes verdier og tradisjoner. God plass, bygninger, jakt og fiske og ulike kulturverdier knyttet til landbrukseiendommer gjør dette til attraktive eiendommer som boplass og til fritidseiendommer. Mange slike mindre eiendommer i bygde-Norge kan gi en livskvalitet og muligheter som mange etterspør, sier Brekk. </p>
-    <p>- Jeg er opptatt av at vi må ta i bruk de store mulighetene som ligger i landbrukseiendommene. Vi vil gi flere mulighet for den livskvaliteten de etterspør og samtidig legge grunnlag for flere innbyggere, mer fritidsboende og økt aktivitet i bygde-Norge, sier landbruks- og matminister Lars Peder Brekk. </p>
+    <p>- Det er om lag 33.000 landbrukseiendommer uten fast bosetting. Dette representerer en dårlig utnytting av bygdenes verdier og potensiale, og lokalsamfunnene etterspør ny aktivitet, sier landbruks- og matminister Lars Peder Brekk.</p>
+    <p>- Mange har ønske om å ta del i bygdenes verdier og tradisjoner. God plass, bygninger, jakt og fiske og ulike kulturverdier knyttet til landbrukseiendommer gjør dette til attraktive eiendommer som boplass og til fritidseiendommer. Mange slike mindre eiendommer i bygde-Norge kan gi en livskvalitet og muligheter som mange etterspør, sier Brekk.</p>
+    <p>- Jeg er opptatt av at vi må ta i bruk de store mulighetene som ligger i landbrukseiendommene. Vi vil gi flere mulighet for den livskvaliteten de etterspør og samtidig legge grunnlag for flere innbyggere, mer fritidsboende og økt aktivitet i bygde-Norge, sier landbruks- og matminister Lars Peder Brekk.</p>
     <p><em type="italic">Regjeringen vil </em>: </p>
     <list>
-      <p type="listitem">Endre praksis i forbindelse med deling av landbrukseiendom. Gjøre det enklere å dele fra romslige tomter, tun og bolighus, samtidig som produktive jord- og skogbruksarealer kan bli solgt til landbrukseiendommer med aktiv drift.  </p>
-      <p type="listitem">Innskrenke odelskretsen og oppheve reglene om odelsfrigjøring av landbrukseiendom. </p>
-      <p type="listitem">Foreslå at kravet om bortleie for å oppfylle driveplikten forkortes fra 10 til 5 år. </p>
-      <p type="listitem">Beholde priskontrollen, men vurdere å heve grensa for når det skal foretas priskontroll. Det skal i dag ikke foretas priskontroll hvis kjøpesummen er under 1,5 millioner kroner.  </p>
-      <p type="listitem">Fremme proposisjon om ny jordskiftelov. </p>
+      <p type="listitem">Endre praksis i forbindelse med deling av landbrukseiendom. Gjøre det enklere å dele fra romslige tomter, tun og bolighus, samtidig som produktive jord- og skogbruksarealer kan bli solgt til landbrukseiendommer med aktiv drift.</p>
+      <p type="listitem">Innskrenke odelskretsen og oppheve reglene om odelsfrigjøring av landbrukseiendom.</p>
+      <p type="listitem">Foreslå at kravet om bortleie for å oppfylle driveplikten forkortes fra 10 til 5 år.</p>
+      <p type="listitem">Beholde priskontrollen, men vurdere å heve grensa for når det skal foretas priskontroll. Det skal i dag ikke foretas priskontroll hvis kjøpesummen er under 1,5 millioner kroner.</p>
+      <p type="listitem" xml:lang="dan">Fremme proposisjon om ny jordskiftelov.</p>
     </list>
   </body>
 </document>

@@ -1,36 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Maid don oaivvildat sámepolitihka birra? - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Arbeids- og inkluderingsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>137</wordcount>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>139</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/ad/pressesenter/pressemeldinger/2007/36.html?id=463356</origFileName>
-    <parallel_text location="maid-don-oaivvildat-samepolitihka-birra.html_id=463356" xml:lang="sme"/>
+    <parallel_text location="maid-don-oaivvildat-samepolitihka-birra_id_463356.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Pressemelding  , 17.04.2007  </p>
-    <p>Nr.: 36  </p>
-    <section>
-      <p type="title">Hva mener du om samepolitikken?</p>
-    </section>
+    <p>Hva mener du om samepolitikken? - regjeringen.no</p>
+    <p type="title">Hva mener du om samepolitikken?</p>
     <p>
       <em type="italic">– Regjeringen skal legge fram en bred stortingsmelding om prinsippene i samepolitikken til høsten. Før dette ønsker vi oss innspill, avveininger og synspunkter om samepolitiske spørsmål fra flest mulig både i og utenfor de samiske miljøene, sier statsråd Bjarne Håkon Hanssen. </em>
     </p>
-    <p>På et folkemøte i Karasjok i dag lanserer han derfor nettportalen www.samepolitikken.no som en kanal for meninger og innspill fra befolkningen. </p>
-    <p>I tillegg til muligheten for å si sin mening om samepolitikken inneholder nettportalen blant annet informasjon og bakgrunn for dagens samepolitikk, en grovskisse over temaene i stortingsmeldingen og spørsmål og svar om samepolitikken. Statsråden vil også invitere til nettmøte på denne siden i løpet av kort tid. </p>
-    <p>– Jeg håper nettportalen vil bli brukt aktivt! sier Bjarne Håkon Hanssen. </p>
-    <p>Si din mening på www.samepolitikken.no . </p>
+    <p>På et folkemøte i Karasjok i dag lanserer han derfor nettportalen www.samepolitikken.no som en kanal for meninger og innspill fra befolkningen.</p>
+    <p>I tillegg til muligheten for å si sin mening om samepolitikken inneholder nettportalen blant annet informasjon og bakgrunn for dagens samepolitikk, en grovskisse over temaene i stortingsmeldingen og spørsmål og svar om samepolitikken. Statsråden vil også invitere til nettmøte på denne siden i løpet av kort tid.</p>
+    <p>– Jeg håper nettportalen vil bli brukt aktivt! sier Bjarne Håkon Hanssen.</p>
+    <p>Si din mening på www.samepolitikken.no .</p>
   </body>
 </document>

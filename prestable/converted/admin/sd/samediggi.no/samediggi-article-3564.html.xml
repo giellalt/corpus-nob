@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Sametinget feiret kvinnedagen 8.mars - Sámediggi Sametinget</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
       <unknown/>
     </author>
@@ -12,37 +10,24 @@
         <publisher>Sámediggi/Sametinget</publisher>
       </publication>
     </publChannel>
-    <wordcount>94</wordcount>
+    <wordcount>77</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://samediggi.no/Artikkel.aspx?aid=3564&amp;sprak=Norsk&amp;Print=1</origFileName>
     <parallel_text location="samediggi-article-3564.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Sametinget feiret
-      kvinnedagen 8.mars</p>
-    </section>
-    <p>Sametinget feiret kvinnedagen. Ragnhild Dahlheim Eriksen, Hagbart Grønmo og Kirsti Bergstø holdt innlegg på Sametingets likestillingsseminar 08.03.10. </p>
-    <p>
-        Publisert av Østby, Jan Roger. </p>
-    <p>
-        Sist endret 09.03.2010
-      </p>
-    <p>Ragnhild Dahlheim Eriksen, Hagbart Grønmo og Kirsti Bergstø  Jan Roger Østby  </p>
-    <p>Sametinget inviterte til åpent seminar om likestillingsutfordringer i samiske samfunn på kvinnedagen 8. mars. Politisk rådgiver for sametingsrådet Hagbart Grønmo åpnet seminaret. Nestleder i det nye kvinnepanelet Kirsti Bergstø og medlem i kvinnepanelet Ragnhild Dahlheim Eriksen holdt appeller. </p>
-    <p>
-      <em type="bold">Filer </em>
-    </p>
-    <p>8.mars tale Kirsi Bergstø </p>
-    <p>8.mars tale Hagbart Grønmo </p>
-    <p>sametingets handlinsplan </p>
-    <p>8.mars tale Ragnhild Dahlheim Eriksen </p>
+    <p>Sametinget feiret kvinnedagen 8.mars - Sámediggi Sametinget</p>
+    <p type="title">Sametinget feiret kvinnedagen 8.mars</p>
+    <p>Sametinget feiret kvinnedagen. Ragnhild Dahlheim Eriksen, Hagbart Grønmo og Kirsti Bergstø holdt innlegg på Sametingets likestillingsseminar 08.03.10.</p>
+    <p>Ragnhild Dahlheim Eriksen, Hagbart Grønmo og Kirsti Bergstø  Jan Roger Østby</p>
+    <p>Sametinget inviterte til åpent seminar om likestillingsutfordringer i samiske samfunn på kvinnedagen 8. mars. Politisk rådgiver for sametingsrådet Hagbart Grønmo åpnet seminaret. Nestleder i det nye kvinnepanelet Kirsti Bergstø og medlem i kvinnepanelet Ragnhild Dahlheim Eriksen holdt appeller.</p>
   </body>
 </document>

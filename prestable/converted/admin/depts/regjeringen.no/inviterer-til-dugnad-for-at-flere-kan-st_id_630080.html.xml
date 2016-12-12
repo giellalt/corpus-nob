@@ -1,45 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Bovde veahkkálasbargui vai eanebut sáhttet bargat guhkit - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
-    <wordcount>247</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>245</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/smk/pressesenter/pressemeldinger/2011/inviterer-til-dugnad-for-at-flere-kan-st.html?id=630080</origFileName>
-    <parallel_text location="bovde-veahkkalasbargui-vai-eanebut-sahtt.html_id=630080" xml:lang="sme"/>
+    <parallel_text location="bovde-veahkkalasbargui-vai-eanebut-sahtt_id_630080.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Pressemelding  , 05.01.2011  </p>
-    <p>Nr.: 02/11  </p>
-    <section>
-      <p type="title">Inviterer til dugnad for at flere kan stå
-                    lenger i arbeid</p>
-    </section>
+    <p>Inviterer til dugnad for at flere kan stå lenger i arbeid - regjeringen.no</p>
     <p>
       <em type="italic">– Pensjonsreformen skal bidra til at flere velger å stå i jobb. Regjeringen gjennomfører også flere andre tiltak som har økt tilgang på arbeidskraft som mål. Men skal det ha noen mening, er vi helt avhengig av at arbeidslivet tar imot denne arbeidskraften. Ledere både i offentlig og privat sektor må ta ansvar for å gjøre mer og tilrettelegge bedre enn i dag, sa statsminister Jens Stoltenberg til NHOs årskonferanse onsdag. </em>
     </p>
     <list>
-      <p type="listitem">Nærmere 300 000 flere flere sysselsatte siden 2000 </p>
+      <p type="listitem">Nærmere 300 000 flere flere sysselsatte siden 2000</p>
     </list>
     <p>
       <em type="italic">Statsminister Jens Stoltenberg taler til årets NHO-konferanse. Foto: Statsministerens kontor. Se flere bilder på </em>
       <em type="italic">Flickr </em>
       <em type="italic">. </em>
     </p>
-    <p>Pensjonsreformen vil bidra til at tilgangen på arbeidskraft øker vesentlig i årene som kommer. Stoltenberg nevnte også blant annet NAV-reformen, arbeidet for et inkluderende arbeidsliv og ny pensjonistbeskatning som eksempler på tiltak som skal bidra til økt tilgang på arbeidskraft. </p>
-    <p>– Vi må sammen sørge for å legge til rette for en gradvis overgang til pensjonisttilværelsen for de som ønsker det, og for å ha plass i arbeidslivet også til dem som av ulike grunner ikke kan yte full innsats 100 prosent av tiden. Vi må ha plass til seniorer og til de som har helseproblemer, sa Stoltenberg. </p>
-    <p>– Sammen må vi se etter og fjerne hindre, og sørge for at det faktisk er mulig å stå i arbeidslivet lenger for de som ønsker det. Her har både offentlig og privat sektor en stor oppgave, sa Stoltenberg. </p>
+    <p>Pensjonsreformen vil bidra til at tilgangen på arbeidskraft øker vesentlig i årene som kommer. Stoltenberg nevnte også blant annet NAV-reformen, arbeidet for et inkluderende arbeidsliv og ny pensjonistbeskatning som eksempler på tiltak som skal bidra til økt tilgang på arbeidskraft.</p>
+    <p>– Vi må sammen sørge for å legge til rette for en gradvis overgang til pensjonisttilværelsen for de som ønsker det, og for å ha plass i arbeidslivet også til dem som av ulike grunner ikke kan yte full innsats 100 prosent av tiden. Vi må ha plass til seniorer og til de som har helseproblemer, sa Stoltenberg.</p>
+    <p>– Sammen må vi se etter og fjerne hindre, og sørge for at det faktisk er mulig å stå i arbeidslivet lenger for de som ønsker det. Her har både offentlig og privat sektor en stor oppgave, sa Stoltenberg.</p>
   </body>
 </document>

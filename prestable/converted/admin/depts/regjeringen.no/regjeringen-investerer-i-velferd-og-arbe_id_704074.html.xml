@@ -1,135 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ráđđehus investere čálgui ja bargui - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>909</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>904</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fin/pressesenter/pressemeldinger/2012/regjeringen-investerer-i-velferd-og-arbe.html?id=704074</origFileName>
-    <parallel_text location="raehus-investere-algui-ja-bargui.html_id=704074" xml:lang="sme"/>
-    <parallel_text location="miljardda-ruvdnosa-ruhtamearri-digitalis.html_id=704060" xml:lang="smj"/>
-    <parallel_text location="raavrevijhke-saemien-gielen-reeremedajve.html_id=704691" xml:lang="sma"/>
-    <parallel_text location="regjeringa-investerer-i-velferd-og-arbei.html_id=704074" xml:lang="nno"/>
-    <parallel_text location="a-neutral-fiscal-stance-to-support-stabi.html_id=704074" xml:lang="eng"/>
+    <parallel_text location="a-neutral-fiscal-stance-to-support-stabi_id_704074.html" xml:lang="eng"/>
+    <parallel_text location="regjeringa-investerer-i-velferd-og-arbei_id_704074.html" xml:lang="nno"/>
+    <parallel_text location="raehus-investere-algui-ja-bargui_id_704074.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 08.10.2012  </p>
-    <p xml:lang="kal">Nr.: 32/2012  </p>
-    <section>
-      <p type="title">Budsjett 2013:</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen investerer i velferd og arbeid</p>
-    </section>
+    <p>Regjeringen investerer i velferd og arbeid - regjeringen.no</p>
     <p>
       <em type="italic">Regjeringens budsjettforslag for 2013 er godt tilpasset en økonomisk situasjon med stor internasjonal uro. - Ved å holde igjen på oljepengebruken trygger vi arbeidsplassene i konkurranseutsatte bedrifter, sier finansminister Sigbjørn Johnsen. Innenfor disse rammene styrker Regjeringen velferden og legger til rette for framtidig verdiskaping og vekst. </em>
     </p>
     <p xml:lang="nno">
       <em type="italic">God fart i norsk økonomi </em>
     </p>
-    <p>Mens veksten hos våre handelspartnere er beskjeden og usikkerheten stor, preges norsk økonomi av markert oppgang. Norsk økonomi går inn i 2013 med mindre ledig kapasitet enn det så ut til for et halvt år siden. Oppgangen understøttes av høy oljepris og lav rente. Sysselsettingen har vokst raskere enn ventet, og arbeidsledigheten er lav. Kontrasten er stor til situasjonen for de fleste av våre handelspartnere. Kombinasjonen av store budsjettunderskudd, høy ledighet og lav økonomisk vekst gjør situasjonen krevende i mange land. </p>
+    <p>Mens veksten hos våre handelspartnere er beskjeden og usikkerheten stor, preges norsk økonomi av markert oppgang. Norsk økonomi går inn i 2013 med mindre ledig kapasitet enn det så ut til for et halvt år siden. Oppgangen understøttes av høy oljepris og lav rente. Sysselsettingen har vokst raskere enn ventet, og arbeidsledigheten er lav. Kontrasten er stor til situasjonen for de fleste av våre handelspartnere. Kombinasjonen av store budsjettunderskudd, høy ledighet og lav økonomisk vekst gjør situasjonen krevende i mange land.</p>
     <p>Regjeringen følger <em type="italic">handlingsregelen </em>for en gradvis innfasing av oljeinntekter i norsk økonomi. Det bidrar til forutsigbarhet og gir handlingsrom til å møte uforutsette hendelser i framtiden. </p>
     <p>På denne bakgrunn legger Regjeringen opp til <em type="italic">et om lag nøytralt budsjett </em>for 2013, det vil si at bruken av oljeinntekter vokser om lag i takt med verdiskapingen i fastlandsøkonomien. Regjeringens forslag til budsjett gir en bruk av oljeinntekter på vel 125 milliarder kroner neste år. Det er 26 milliarder kroner under 4-prosentbanen og utgjør 3,3 prosent av anslått kapital i Statens pensjonsfond utland. </p>
-    <p>- Nå er det ikke tid for å tråkke på gasspedalen. Vi legger vekt på at budsjettet for 2013 ikke må bidra til pressproblemer i norsk økonomi. Det vil gi fare for at veksten i lønninger og bolig- og eiendomspriser skyter ytterligere fart og gjøre det enda vanskeligere for konkurranseutsatt sektor. Ved å holde orden i økonomien har vi lagt til rette for nye arbeidsplasser og holdt arbeidsledigheten lav. Siden 2005 er det skapt om lag 340 000 nye arbeidsplasser, og to av tre har kommet i privat sektor, sier finansministeren. </p>
-    <p><em type="italic">Rom for satsinger </em>I budsjettforslaget for 2013 prioriterer Regjeringen samferdsel, forskning, samfunnssikkerhet og beredskap. - Vi bedrer kvaliteten på fellesskapsløsningene ved å styrke kommuneøkonomien og helse- og omsorgssektoren, sier finansministeren. <em type="italic">  </em></p>
+    <p>- Nå er det ikke tid for å tråkke på gasspedalen. Vi legger vekt på at budsjettet for 2013 ikke må bidra til pressproblemer i norsk økonomi. Det vil gi fare for at veksten i lønninger og bolig- og eiendomspriser skyter ytterligere fart og gjøre det enda vanskeligere for konkurranseutsatt sektor. Ved å holde orden i økonomien har vi lagt til rette for nye arbeidsplasser og holdt arbeidsledigheten lav. Siden 2005 er det skapt om lag 340 000 nye arbeidsplasser, og to av tre har kommet i privat sektor, sier finansministeren.</p>
+    <p xml:lang="nno"><em type="italic">Rom for satsinger </em>I budsjettforslaget for 2013 prioriterer Regjeringen samferdsel, forskning, samfunnssikkerhet og beredskap. - Vi bedrer kvaliteten på fellesskapsløsningene ved å styrke kommuneøkonomien og helse- og omsorgssektoren, sier finansministeren. </p>
     <list>
-      <p type="listitem">
-                            Regjeringen legger opp til en reell vekst i
-                            kommunesektorens inntekter på 6,8
-                            milliarder kroner. Det tilsvarer 1,8
-                            prosent. Av den samlede veksten er 5
-                            milliarder kroner økte frie
-                            inntekter.</p>
-      <p type="listitem">
-                            Bevilgningene til veg-, jernbane- og
-                            kystformål under Nasjonal transportplan
-                            øker med 3,4 milliarder kroner i 2013.
-                            Regjeringen overoppfyller planrammen for
-                            2010-2013 med 1,5 milliarder kroner.</p>
-      <p type="listitem">
-                            Regjeringen foreslår at sykehusene reelt
-                            skal få 1,95 milliarder kroner mer til
-                            drift. Det betyr vel 2 prosent
-                            fullfinansiert vekst til pasientbehandling.
-                            Regjeringen foreslår å styrke dagtilbudet
-                            til demente med 100 millioner kroner, samt
-                            88 millioner kroner til 1 750 heldøgns
-                            omsorgsplasser.</p>
-      <p type="listitem">
-                            Regjeringen foreslår 1,4 milliarder kroner
-                            mer til forskning. Dette gir en anslått
-                            forskningsinnsats på 27 milliarder kroner
-                            og en samlet realvekst på 32 prosent under
-                            denne Regjeringen. Det legges til rette for
-                            3 250 flere studieplasser og bygging av 1
-                            000 nye studentboliger. Grunnopplæringen
-                            styrkes med 483 millioner kroner.</p>
-      <p type="listitem">
-                            Regjeringen styrker samfunnsikkerheten og
-                            beredskapen betydelig. Regjeringen vil
-                            legge til rette for at nye
-                            redningshelikoptre skal kunne leveres i
-                            perioden 2016-2020 og tar sikte på
-                            kontraktsinngåelse i 2013. Regjeringen vil
-                            øke bevilgninger til dagens
-                            redningshelikoptre slik at beredskapen kan
-                            opprettholdes fram til nye
-                            redningshelikoptre er på plass. Det
-                            foreslås også å øke bevilgningene til IKT i
-                            politiet og til ansettelser av nyutdannende
-                            polititjenestemenn. Direktoratet for
-                            samfunnssikkerhet og beredskap og Justis-
-                            og beredskapsdepartementet styrkes.</p>
-      <p type="listitem">
-                            Regjeringen følger opp målet for bistand og
-                            foreslår en bevilgning tilsvarende 1
-                            prosent av anslått bruttonasjonalinntekt.
-                            Det gir en økning av bistandsbudsjettet på
-                            2,4 milliarder kroner.</p>
-      <p type="listitem">
-                            Kulturløftet om at 1 prosent av
-                            statsbudsjettets utgifter skal gå til
-                            kulturformål innen 2014 i rute.
-                            Bevilgningene som inngår i løftet øker med
-                            889 millioner kroner. Momskompensasjonen
-                            til frivillighet øker med vel 320 millioner
-                            kroner.</p>
-      <p type="listitem">
-                            Regjeringen fortsetter innsatsen for å
-                            forbedre og fornye offentlig sektor. Med
-                            bevilgningen til EDAG og Altinn på til
-                            sammen 413 millioner kroner gjør vi
-                            kontakten med det offentlige enklere.
-                            Regjeringen foreslår 736 millioner til et
-                            IKT-moderniseringsprosjekt i Arbeids- og
-                            velferdsetaten.
-                          </p>
+      <p type="listitem">Regjeringen legger opp til en reell vekst i kommunesektorens inntekter på 6,8 milliarder kroner. Det tilsvarer 1,8 prosent. Av den samlede veksten er 5 milliarder kroner økte frie inntekter.</p>
+      <p type="listitem">Bevilgningene til veg-, jernbane- og kystformål under Nasjonal transportplan øker med 3,4 milliarder kroner i 2013. Regjeringen overoppfyller planrammen for 2010-2013 med 1,5 milliarder kroner.</p>
+      <p type="listitem">Regjeringen foreslår at sykehusene reelt skal få 1,95 milliarder kroner mer til drift. Det betyr vel 2 prosent fullfinansiert vekst til pasientbehandling. Regjeringen foreslår å styrke dagtilbudet til demente med 100 millioner kroner, samt 88 millioner kroner til 1 750 heldøgns omsorgsplasser.</p>
+      <p type="listitem">Regjeringen foreslår 1,4 milliarder kroner mer til forskning. Dette gir en anslått forskningsinnsats på 27 milliarder kroner og en samlet realvekst på 32 prosent under denne Regjeringen. Det legges til rette for 3 250 flere studieplasser og bygging av 1 000 nye studentboliger. Grunnopplæringen styrkes med 483 millioner kroner.</p>
+      <p type="listitem">Regjeringen styrker samfunnsikkerheten og beredskapen betydelig. Regjeringen vil legge til rette for at nye redningshelikoptre skal kunne leveres i perioden 2016-2020 og tar sikte på kontraktsinngåelse i 2013. Regjeringen vil øke bevilgninger til dagens redningshelikoptre slik at beredskapen kan opprettholdes fram til nye redningshelikoptre er på plass. Det foreslås også å øke bevilgningene til IKT i politiet og til ansettelser av nyutdannende polititjenestemenn. Direktoratet for samfunnssikkerhet og beredskap og Justis- og beredskapsdepartementet styrkes.</p>
+      <p type="listitem">Regjeringen følger opp målet for bistand og foreslår en bevilgning tilsvarende 1 prosent av anslått bruttonasjonalinntekt. Det gir en økning av bistandsbudsjettet på 2,4 milliarder kroner.</p>
+      <p type="listitem">Kulturløftet om at 1 prosent av statsbudsjettets utgifter skal gå til kulturformål innen 2014 i rute. Bevilgningene som inngår i løftet øker med 889 millioner kroner. Momskompensasjonen til frivillighet øker med vel 320 millioner kroner.</p>
+      <p type="listitem">Regjeringen fortsetter innsatsen for å forbedre og fornye offentlig sektor. Med bevilgningen til EDAG og Altinn på til sammen 413 millioner kroner gjør vi kontakten med det offentlige enklere. Regjeringen foreslår 736 millioner til et IKT-moderniseringsprosjekt i Arbeids- og velferdsetaten.</p>
     </list>
-    <p>
+    <p xml:lang="dan">
       <em type="italic">Skattesystemet forbedres og gebyrer reduseres </em>
     </p>
     <p>Regjeringen holder skatteløftet, slik at <em type="italic">skattenivået </em>fortsatt er på 2004-nivå. Det legges ikke opp til større systemendringer i årets skatte- og avgiftsopplegg, men Regjeringen foreslår viktige forbedringer på enkelte områder. Blant annet demper Regjeringen insentivene til å plassere penger i eiendom ved å øke ligningsverdiene av næringseiendom og sekundærbolig fra 40 til 50 prosent av anslått markedsverdi. </p>
-    <p>Samtidig foreslår Regjeringen å øke bunnfradraget i formueskatten fra 750 000 kroner til 870 000 kroner. Dermed vil 50 000 færre betale formueskatt i 2013 og andelen skattytere som betaler formueskatt blir redusert til 16 prosent. </p>
-    <p>- Vi reduserer sektoravgifter og overprisede gebyrer med om lag 565 millioner kroner, herunder tinglysningsgebyret. Samlet har vi siden 2007 redusert overprisede gebyrer med 1,2 milliarder kroner, sier Sigbjørn Johnsen. </p>
-    <p>____________________________________________________________________________ </p>
-    <p><em type="italic">Dokumenter </em>: Nasjonalbudsjettet 2013 Statsbudsjettet 2013 Skatter og avgifter 2013 </p>
-    <p>Finansdepartementets fagproposisjon (budsjett for Finansdepartementet og etater under departementet) </p>
-    <p xml:lang="swe">Finanstale Pressehefte </p>
+    <p>Samtidig foreslår Regjeringen å øke bunnfradraget i formueskatten fra 750 000 kroner til 870 000 kroner. Dermed vil 50 000 færre betale formueskatt i 2013 og andelen skattytere som betaler formueskatt blir redusert til 16 prosent.</p>
+    <p>- Vi reduserer sektoravgifter og overprisede gebyrer med om lag 565 millioner kroner, herunder tinglysningsgebyret. Samlet har vi siden 2007 redusert overprisede gebyrer med 1,2 milliarder kroner, sier Sigbjørn Johnsen.</p>
+    <p xml:lang="sms">____________________________________________________________________________</p>
+    <p xml:lang="nno"><em type="italic">Dokumenter </em>: Nasjonalbudsjettet 2013 Statsbudsjettet 2013 Skatter og avgifter 2013 </p>
+    <p>Finansdepartementets fagproposisjon (budsjett for Finansdepartementet og etater under departementet)</p>
+    <p xml:lang="ger">Finanstale Pressehefte</p>
     <p><em type="italic">Pressemeldinger </em>: Pressemelding 32/2012: Regjeringen investerer i velferd og arbeid Pressemelding 33/2012: Regjeringens forslag til skatte- og avgiftsopplegg for 2013 Pressemelding 34/2012: Overprisede gebyrer reduseres Pressemelding 35/2012: Omregistreringsavgiften reduseres kraftig og miljøprofilen styrkes Pressemelding 36/2012: Forbedringer i formuesskatten Pressemelding 37/2012: Tiltak mot skatteunndragelser i drosjenæringen </p>
     <p><em type="italic">Faktaark: </em>Faktaark: Hovedtrekk i den økonomiske utviklingen Faktaark: Nøkkeltall i budsjettet for 2013 Faktaark: Statens inntekter og utgifter Faktaark: Endringer av tollsatser og tollpreferanser Faktaark: Enslige forsørgere får nytt særfradrag Faktaark: Skattleggingen av uførepensjon legges om fra 2015 </p>
-    <p xml:lang="sme">Bilkalkulator </p>
+    <p xml:lang="fkv">Bilkalkulator</p>
   </body>
 </document>

@@ -1,31 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>900 000 kroner til Høgskolen i Finnmark - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2010</year>
-    <wordcount>278</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>284</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/krd/pressesenter/pressemeldinger/2010/900-000-kroner-til-hogskolen-i-finnmark.html?id=612835</origFileName>
-    <parallel_text location="finnmarkku-allaskuvla.html_id=612835" xml:lang="sme"/>
+    <parallel_text location="finnmarkku-allaskuvla_id_612835.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Pressemelding  , 24.08.2010  </p>
-    <section>
-      <p type="title">900 000 kroner til Høgskolen i Finnmark</p>
-    </section>
+    <p>900 000 kroner til Høgskolen i Finnmark - regjeringen.no</p>
+    <p type="title">900 000 kroner til Høgskolen i Finnmark</p>
     <p><em type="italic">Høgskolen i Finnmark skal styrke gründerkulturen ved høgskolen. Innovasjon Norge bevilger 900 000 kroner til høgskolens satsing. </em>Høgskolen skal de to neste årene bla. følge opp studenter med forretningsideer i etterkant av studiet, blant annet gjennom en studentinkubator. Det skal også samarbeds med næringslivet om relevante nyskapingsprosjekter studentene kan jobbe med. - I Finnmark skal studentene involveres i satsing på reiseliv og arktisk teknologi, og bidra til å utvikle næringslivet i regionen, sier kommunal- og regionalminister Liv Signe Navarsete. S <em type="italic">kal sparke gründere i gang </em>Prosjektet i Finnmark er en del av en større satsing for å styrke gründerkulturen ved landets høgskoler. Totalt 12,5 millioner kroner bevilges til ti prosjekter ved 13 høgskoler. Målet er å gjennomføre aktiviteter som hjelper studentene til å lage forretning av gode ideer. – Vi vet at tilgang til nettverk, det å være del av et kunnskapsmiljø, er viktig for at oppstartsbedrifter skal lykkes. Vi vil samarbeide med utdanningsinstitusjonene for å bidra til å åpne dørene for studentene og skape gode bedrifter av gode ideer, sier administrerende direktør i Innovasjon Norge Gunn Ovesen. <em type="italic">Gir verdiskaping i distriktene </em>Høgskoler fra Finnmark i nord til Haugesund i vest har fått tildelt fra 2,9 millioner til 500 000 kroner hver. Noen høgskoler har gått sammen om felles prosjekter. Innovasjon Norge har behandlet søknadene og fordelt penger til prosjektene. – Unge mennesker har ofte nyskapende forretningsideer, men de sliter med å sette ideene i verk. Gjennom denne satsinga hjelper vi fram ideer som sikrer verdiskaping i distrikter og byer over hele landet, sier kommunal- og regionalminister Liv Signe Navarsete. </p>
-    <p>Kommunal- og regionaldepartementets pressetelefon: 22 24 25 00. </p>
+    <p>Kommunal- og regionaldepartementets pressetelefon: 22 24 25 00.</p>
   </body>
 </document>

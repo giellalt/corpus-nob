@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Illudahtti go jokse ovttamielalašvuođa Cancunas - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
     <year>2010</year>
-    <wordcount>272</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>269</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/smk/pressesenter/pressemeldinger/2010/enighet.html?id=628050</origFileName>
-    <parallel_text location="cancunas.html_id=628050" xml:lang="sme"/>
-    <parallel_text location="norway-welcomes-agreement-in-cancun.html_id=628050" xml:lang="eng"/>
+    <parallel_text location="norway-welcomes-agreement-in-cancun_id_628050.html" xml:lang="eng"/>
+    <parallel_text location="cancunas_id_628050.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Pressemelding  , 11.12.2010  </p>
-    <p>Nr.: 165/10  </p>
-    <section>
-      <p type="title">Gledelig med enighet i Cancun</p>
-    </section>
+    <p>Gledelig med enighet i Cancun - regjeringen.no</p>
     <p>
       <em type="italic">- Jeg er glad for at sluttavtalen fra klimamøtet i Mexico er vedtatt. Dette er et viktig skritt fremover i arbeidet mot klimaendringer, sier statsminister Jens Stoltenberg. </em>
     </p>
-    <p>Det er vedtatt en god og balansert pakke av beslutninger i Cancun. Dette er et gjennomarbeidet kompromiss der alle land har fått gjennomslag for noe som er viktig for dem. Pakken er en forankring av Københavnavtalen, noe som har stor betydning for de videre klimaforhandlingene. </p>
-    <p>- Norge er spesielt fornøyd med at det er enighet om en mekanisme for å redusere utslipp fra avskoging i utviklingsland. Denne mekanismen vil gi viktige retningslinjer for skogsamarbeidet som ble etablert i Oslo i mai i år. Det er også gledelig at karbonfangst og –lagring har kommet inn under den grønne utviklingsmekanismen, som Norge har jobbet for lenge, sier Stoltenberg. </p>
-    <p>Det er også enighet om etableringen av et grønt fond. Sluttrapporten fra FNs høynivågruppe, som ble ledet av Stoltenberg og Etiopias statsminister Meles Zenawi, blir et viktig grunnlag for den videre diskusjonen om hvordan det grønne fondet skal fylles med penger. </p>
-    <p>- Avtalen skyldes i hovedsak det veldig gode Mexicanske lederskapet av prosessen og møtet i Cancun. De har hatt en inkluderende prosess, og alle viste vilje til å inngå kompromisser for å samle seg om en vei framover. Dette er avgjørende for de videre klimaforhandlingene, sier Stoltenberg. </p>
-    <p>- Cancun-avtalen bidrar til å gjenopprette tilliten til FN-prosessen og skaper nytt håp for at verdenssamfunnet kan løse klimakrisen. Avtalen gir et godt grunnlag for å komme fram til en bindende klimaavtale, og dette er vi veldig fornøyd med, sier Stoltenberg. </p>
+    <p>Det er vedtatt en god og balansert pakke av beslutninger i Cancun. Dette er et gjennomarbeidet kompromiss der alle land har fått gjennomslag for noe som er viktig for dem. Pakken er en forankring av Københavnavtalen, noe som har stor betydning for de videre klimaforhandlingene.</p>
+    <p>- Norge er spesielt fornøyd med at det er enighet om en mekanisme for å redusere utslipp fra avskoging i utviklingsland. Denne mekanismen vil gi viktige retningslinjer for skogsamarbeidet som ble etablert i Oslo i mai i år. Det er også gledelig at karbonfangst og –lagring har kommet inn under den grønne utviklingsmekanismen, som Norge har jobbet for lenge, sier Stoltenberg.</p>
+    <p>Det er også enighet om etableringen av et grønt fond. Sluttrapporten fra FNs høynivågruppe, som ble ledet av Stoltenberg og Etiopias statsminister Meles Zenawi, blir et viktig grunnlag for den videre diskusjonen om hvordan det grønne fondet skal fylles med penger.</p>
+    <p>- Avtalen skyldes i hovedsak det veldig gode Mexicanske lederskapet av prosessen og møtet i Cancun. De har hatt en inkluderende prosess, og alle viste vilje til å inngå kompromisser for å samle seg om en vei framover. Dette er avgjørende for de videre klimaforhandlingene, sier Stoltenberg.</p>
+    <p>- Cancun-avtalen bidrar til å gjenopprette tilliten til FN-prosessen og skaper nytt håp for at verdenssamfunnet kan løse klimakrisen. Avtalen gir et godt grunnlag for å komme fram til en bindende klimaavtale, og dette er vi veldig fornøyd med, sier Stoltenberg.</p>
   </body>
 </document>

@@ -1,69 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Sárdni Ráđđeviessošilju muitokonsearttas - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>424</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>415</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/smk/aktuelt/taler_og_artikler/statsministeren/statsminister_jens_stoltenberg/2012/tale-ved-minnekonsert.html?id=696944</origFileName>
-    <parallel_text location="sardni-raeviessoilju-muitokonsearttas.html_id=696944" xml:lang="sme"/>
-    <parallel_text location="speech-at-rembrance-consert.html_id=696944" xml:lang="eng"/>
+    <parallel_text location="speech-at-rembrance-consert_id_696944.html" xml:lang="eng"/>
+    <parallel_text location="sardni-raeviessoilju-muitokonsearttas_id_696944.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="kal">Tale/artikkel  , 22.07.2012  </p>
-    <p>Av: Statsminister Jens Stoltenberg </p>
-    <section>
-      <p type="title">Tale ved minnekonsert på Rådhusplassen</p>
-    </section>
-    <section>
-      <p type="title">Oslo, 22. juli 2012</p>
-    </section>
+    <p xml:lang="nno">Tale ved minnekonsert på Rådhusplassen - regjeringen.no</p>
     <p><em type="italic">Deres Kongelige Høyhet, </em><em type="italic">kjære alle sammen </em>, </p>
-    <p xml:lang="dan">Det er så godt å se dere! </p>
-    <p>Ett år etter gjør vi det igjen: Fyller gatene. I tillit til hverandre og vårt åpne samfunn. </p>
-    <p>Vi hadde et valg. Vi kunne stengt oss inne bak fryktens dør. Reist gjerder av mistillit. </p>
-    <p>I stedet åpnet vi opp og bygget broer av tillit. </p>
-    <p>Det var vårt spontane svar på vold i fjor. Vi valgte rett. </p>
-    <p xml:lang="nno">Verden har ikke bedre vern mot terror enn åpenhet, demokrati og humanitet. </p>
-    <p xml:lang="dan">Det gjør oss ikke usårbare. </p>
-    <p>Vi trenger politi og kontroller. Utstyr, fasthet og vilje til å hindre dem som vil bruke vold. </p>
-    <p>Likevel. Folkets handlinger det siste året betyr mest: </p>
-    <p>Tilliten i samfunnet, troen på demokratiet øker. </p>
+    <p>Det er så godt å se dere!</p>
+    <p>Ett år etter gjør vi det igjen: Fyller gatene. I tillit til hverandre og vårt åpne samfunn.</p>
+    <p>Vi hadde et valg. Vi kunne stengt oss inne bak fryktens dør. Reist gjerder av mistillit.</p>
+    <p>I stedet åpnet vi opp og bygget broer av tillit.</p>
+    <p>Det var vårt spontane svar på vold i fjor. Vi valgte rett.</p>
+    <p>Verden har ikke bedre vern mot terror enn åpenhet, demokrati og humanitet.</p>
+    <p>Det gjør oss ikke usårbare.</p>
+    <p>Vi trenger politi og kontroller. Utstyr, fasthet og vilje til å hindre dem som vil bruke vold.</p>
+    <p>Likevel. Folkets handlinger det siste året betyr mest:</p>
+    <p>Tilliten i samfunnet, troen på demokratiet øker.</p>
     <list>
-      <p type="listitem">Tusenvis har meldt seg til tjeneste for fellesskapet i frivillige organisasjoner og politiske partier. </p>
-      <p type="listitem">Og flere tar til motmæle mot hatefulle ytringer. </p>
-      <p type="listitem">Hundretusener har opplevd styrken i å stå sammen, i å slå ring om våre verdier. </p>
+      <p type="listitem">Tusenvis har meldt seg til tjeneste for fellesskapet i frivillige organisasjoner og politiske partier.</p>
+      <p type="listitem">Og flere tar til motmæle mot hatefulle ytringer.</p>
+      <p type="listitem">Hundretusener har opplevd styrken i å stå sammen, i å slå ring om våre verdier.</p>
     </list>
-    <p>Slik har vi skapt mer demokrati og mer åpenhet </p>
-    <p>I dag er det tid for å takke alle som har bidratt gjennom et tungt år. </p>
-    <p xml:lang="dan">Hans Majestet Kongen, som gråt med sitt folk. Hele den kongelige familien, som var så inderlig til stede da vi trengte det som mest. </p>
-    <p>Det er tid for å takke de frivillige. Redningsmannskapene og nødetatene. </p>
-    <p>Dere unge som har tatt vare på hverandre. Ansatte i departementene. </p>
-    <p>Alle dere som har håndtert rettssaken med verdighet og ro. </p>
-    <p>Det er så uendelig mange: lærere, helsepersonell prester, imamer, </p>
-    <p>Dere som har stilt opp for en nabo, kollega, venn eller slektning. </p>
-    <p>Summen av alles innsats gjør at vi kan rette blikket framover i håp og tro. </p>
-    <p>Håp om at de som fortsatt lider skal få trøst. Tro på samhold, toleranse og anstendighet. </p>
-    <p>I hele dag, og over hele landet har vi mintes de 77 som ble drept. </p>
-    <p>Det har vært trist, men også godt. Godt fordi vi har lovet å huske drømmene de bar på. Fortelle de varme historiene. </p>
-    <p>22. juli skal for all framtid være deres dag. En dag for å minnes dem som døde. Og en dag for å reflektere over livet. </p>
-    <p>Ugjerningene i fjor synliggjorde livets umistelighet. </p>
-    <p>Brått kan det være over. Ingen av oss vet når. Ingen av oss vet hvem. </p>
-    <p>Det gjelder å vise kjærlighet og omsorg mens vi har livet som gave. </p>
-    <p>Nyte skjønnheten i en rose. Den vare tonen i musikk. Varmen fra venner. </p>
-    <p>La oss ære de døde ved å glede oss over livet. </p>
+    <p xml:lang="nno">Slik har vi skapt mer demokrati og mer åpenhet</p>
+    <p xml:lang="nno">I dag er det tid for å takke alle som har bidratt gjennom et tungt år.</p>
+    <p>Hans Majestet Kongen, som gråt med sitt folk. Hele den kongelige familien, som var så inderlig til stede da vi trengte det som mest.</p>
+    <p xml:lang="nno">Det er tid for å takke de frivillige. Redningsmannskapene og nødetatene.</p>
+    <p>Dere unge som har tatt vare på hverandre. Ansatte i departementene.</p>
+    <p>Alle dere som har håndtert rettssaken med verdighet og ro.</p>
+    <p>Det er så uendelig mange: lærere, helsepersonell prester, imamer,</p>
+    <p>Dere som har stilt opp for en nabo, kollega, venn eller slektning.</p>
+    <p>Summen av alles innsats gjør at vi kan rette blikket framover i håp og tro.</p>
+    <p>Håp om at de som fortsatt lider skal få trøst. Tro på samhold, toleranse og anstendighet.</p>
+    <p>I hele dag, og over hele landet har vi mintes de 77 som ble drept.</p>
+    <p>Det har vært trist, men også godt. Godt fordi vi har lovet å huske drømmene de bar på. Fortelle de varme historiene.</p>
+    <p>22. juli skal for all framtid være deres dag. En dag for å minnes dem som døde. Og en dag for å reflektere over livet.</p>
+    <p xml:lang="dan">Ugjerningene i fjor synliggjorde livets umistelighet.</p>
+    <p>Brått kan det være over. Ingen av oss vet når. Ingen av oss vet hvem.</p>
+    <p>Det gjelder å vise kjærlighet og omsorg mens vi har livet som gave.</p>
+    <p>Nyte skjønnheten i en rose. Den vare tonen i musikk. Varmen fra venner.</p>
+    <p xml:lang="nno">La oss ære de døde ved å glede oss over livet.</p>
   </body>
 </document>

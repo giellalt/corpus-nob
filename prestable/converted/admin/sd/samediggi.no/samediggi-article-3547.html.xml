@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Hagbart Grønmo ny rådgiver for Sametingsrådet - Sámediggi Sametinget</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
       <unknown/>
     </author>
@@ -12,39 +10,33 @@
         <publisher>Sámediggi/Sametinget</publisher>
       </publication>
     </publChannel>
-    <wordcount>185</wordcount>
+    <wordcount>189</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://samediggi.no/Artikkel.aspx?aid=3547&amp;sprak=Norsk&amp;Print=1</origFileName>
     <parallel_text location="samediggi-article-3547.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Hagbart Grønmo ny
-      rådgiver for Sametingsrådet</p>
-    </section>
+    <p>Hagbart Grønmo ny rådgiver for Sametingsrådet - Sámediggi Sametinget</p>
+    <p type="title">Hagbart Grønmo ny rådgiver for Sametingsrådet</p>
     <p>
-      <em type="italic">Hagbart Grønmo (61) fra Karasjok er utnevnt som ny politisk rådgiver for Sametingsrådet. Grønmo er i dag sekretariatsleder for Arbeiderpartiets sametingsgruppe. </em>
+      <em type="italic">Hagbart Grønmo (61) fra Karasjok er utnevnt som ny politisk rådgiver for Sametingsrådet. Grønmo er i dag sekretariatsleder for Arbeiderpartiets sametingsgruppe. </em>
     </p>
-    <p>
-        Publisert av Østby, Jan Roger. </p>
-    <p>
-        Sist endret 26.02.2010
-      </p>
-    <p>Sametingspresident Egil Olli  Jan Roger Østby  </p>
-    <p>Hagbart Grønmo overtar som rådgiver etter Josef Vedhugnes som fratrådte sin stilling ved årsskiftet. Grønmo er i dag sekretariatsleder for Arbeiderpartiets sametingsgruppe med kontorsted i Karasjok. <em type="italic">-Vi har gjort et grundig arbeid for å finne den riktige personen til denne viktige stillingen, sier sametingspresident Egil Olli. -Hagbart har de personlige egenskaper, den erfaringsbakgrunn i politisk arbeid og den kunnskapsbakgrunn vi ønsket av en ny rådgiver, understreker Olli. </em>Hagbart Grønmo har i knapt 10 år hatt stillingen som sekretariatsleder for Arbeiderpartiets sametingsgruppe. Han har derfor en solid bakgrunn i Sametingets arbeid og ikke minst dette har hatt betydning for utnevningen. I tre perioder har han også hatt plass i kommunestyret i hjemkommunen Karasjok. Grønmo er utdannet fra høyskole som kandidat i økonomi og administrasjon. Han tiltrer sin nye stilling fra førstkommende mandag. </p>
-    <p>*Sametingspresident Egil Olli </p>
-    <p>Telefon </p>
-    <p>Mobil </p>
-    <p>E-post </p>
+    <p>Sametingspresident Egil Olli  Jan Roger Østby</p>
+    <p>Hagbart Grønmo overtar som rådgiver etter Josef Vedhugnes som fratrådte sin stilling ved årsskiftet. Grønmo er i dag sekretariatsleder for Arbeiderpartiets sametingsgruppe med kontorsted i Karasjok. <em type="italic">-Vi har gjort et grundig arbeid for å finne den riktige personen til denne viktige stillingen, sier sametingspresident Egil Olli. -Hagbart har de personlige egenskaper, den erfaringsbakgrunn i politisk arbeid og den kunnskapsbakgrunn vi ønsket av en ny rådgiver, understreker Olli. </em>Hagbart Grønmo har i knapt 10 år hatt stillingen som sekretariatsleder for Arbeiderpartiets sametingsgruppe. Han har derfor en solid bakgrunn i Sametingets arbeid og ikke minst dette har hatt betydning for utnevningen. I tre perioder har han også hatt plass i kommunestyret i hjemkommunen Karasjok. Grønmo er utdannet fra høyskole som kandidat i økonomi og administrasjon. Han tiltrer sin nye stilling fra førstkommende mandag. </p>
+    <p>*Sametingspresident Egil Olli</p>
+    <p>Telefon</p>
+    <p>Mobil</p>
+    <p>E-post</p>
     <p>+47 78 47 40 00</p>
     <p>+47 900 26 880</p>
-    <p>egil.olli@samediggi.no </p>
+    <p>egil.olli@samediggi.no</p>
   </body>
 </document>

@@ -1,38 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Doarjjaortnet govdabáddái ásahuvvon - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
-    <wordcount>187</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>188</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2011/stotteordning-for-bredband-etablert.html?id=663229</origFileName>
-    <parallel_text location="doarjjaortnet-govdabaddai-asahuvvon.html_id=663229" xml:lang="sme"/>
-    <parallel_text location="stotteordning-for-breiband-etablert.html_id=663229" xml:lang="nno"/>
-    <parallel_text location="authorisations-to-borrow-in-2012.html_id=663572" xml:lang="eng"/>
+    <parallel_text location="" xml:lang="eng"/>
+    <parallel_text location="stotteordning-for-breiband-etablert_id_663229.html" xml:lang="nno"/>
+    <parallel_text location="doarjjaortnet-govdabaddai-asahuvvon_id_663229.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 15.11.2011  </p>
-    <section>
-      <p type="title">Støtteordning for bredbånd etablert</p>
-    </section>
-    <p>Fornyingsdepartementet har etablert en midlertidig støtteordning for bredbåndsutbygging. Ordningen skal stimulere til utbygging i områder som ikke er kommersielt lønnsomme å bygge ut. Hensikten er å sikre flere husholdninger tilgang til internett. Støtteordningen har en ramme på 15 millioner kroner. Søknadsfristen er 15. februar 2012. </p>
-    <p>- Regjeringens mål er at innbyggerne skal ha tilgang til bredbånd. Denne støtteordningen vil tette noen av de siste hullene i bredbåndsdekningen. Jeg håper vi får inn mange og gode søknader, sier fornyingsminister Rigmor Aasrud. </p>
-    <p>Midlene er lyst ut som prosjektmidler i regi av Norges forskningsråd. Alle kommuner og fylkeskommuner i landet kan søke. Det kan søkes om inntil 60 prosent av utbyggingsprosjektets totalkostnad. </p>
-    <p>Rapporten Bredbåndsdekning 2011 viser at om lag 7000 husholdninger i dag mangler er grunnleggende bredbåndstilbud (0,64 Mbit/s båndbredde). 99,7 prosent har i dag et grunnleggende bredbåndstilbud, 94 prosent har tilgang på minimum 4 Mbit/s, mens 67 prosent har tilgang til minimum 25 Mbit/s båndbredde. Rapporten er utarbeidet av Nexia på vegne av Fornyings-, administrasjons- og kirkedepartementet (FAD). </p>
-    <p>Utlysningen og søknadskriterier finnes på Forskningsrådets nettsted . </p>
-    <p>Kontaktperson i Forskningsrådet er Vemund Riiser, tlf: 9288654, </p>
+    <p>Støtteordning for bredbånd etablert - regjeringen.no</p>
+    <p>Fornyingsdepartementet har etablert en midlertidig støtteordning for bredbåndsutbygging. Ordningen skal stimulere til utbygging i områder som ikke er kommersielt lønnsomme å bygge ut. Hensikten er å sikre flere husholdninger tilgang til internett. Støtteordningen har en ramme på 15 millioner kroner. Søknadsfristen er 15. februar 2012.</p>
+    <p>- Regjeringens mål er at innbyggerne skal ha tilgang til bredbånd. Denne støtteordningen vil tette noen av de siste hullene i bredbåndsdekningen. Jeg håper vi får inn mange og gode søknader, sier fornyingsminister Rigmor Aasrud.</p>
+    <p>Midlene er lyst ut som prosjektmidler i regi av Norges forskningsråd. Alle kommuner og fylkeskommuner i landet kan søke. Det kan søkes om inntil 60 prosent av utbyggingsprosjektets totalkostnad.</p>
+    <p>Rapporten Bredbåndsdekning 2011 viser at om lag 7000 husholdninger i dag mangler er grunnleggende bredbåndstilbud (0,64 Mbit/s båndbredde). 99,7 prosent har i dag et grunnleggende bredbåndstilbud, 94 prosent har tilgang på minimum 4 Mbit/s, mens 67 prosent har tilgang til minimum 25 Mbit/s båndbredde. Rapporten er utarbeidet av Nexia på vegne av Fornyings-, administrasjons- og kirkedepartementet (FAD).</p>
+    <p>Utlysningen og søknadskriterier finnes på Forskningsrådets nettsted .</p>
+    <p xml:lang="nno">Kontaktperson i Forskningsrådet er Vemund Riiser, tlf: 9288654,</p>
   </body>
 </document>

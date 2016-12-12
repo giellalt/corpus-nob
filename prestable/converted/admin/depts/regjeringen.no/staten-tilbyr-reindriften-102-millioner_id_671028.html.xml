@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Stáhta fállá boazodollui 102 miljovnna - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>218</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>196</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/aktuelt/nyheter/2012/feb-12/staten-tilbyr-reindriften-102-millioner.html?id=671028</origFileName>
-    <parallel_text location="stahta-falla-boazodollui-102-miljovnna.html_id=671028" xml:lang="sme"/>
+    <parallel_text location="stahta-falla-boazodollui-102-miljovnna_id_671028.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="isl">Nyhet  , 01.02.2012  </p>
-    <section>
-      <p type="title">Staten tilbyr reindriften 102 millioner</p>
-    </section>
-    <p>Statens forhandlingsutvalg har i dag lagt fram tilbud til reindriftsavtaleforhandlingene. Statens forhandlingsutvalg foreslår en ramme på 102,0 millioner kroner. Dette er tilsvarende ramme som for inneværende avtale. </p>
+    <p>Staten tilbyr reindriften 102 millioner - regjeringen.no</p>
+    <p>Statens forhandlingsutvalg har i dag lagt fram tilbud til reindriftsavtaleforhandlingene. Statens forhandlingsutvalg foreslår en ramme på 102,0 millioner kroner. Dette er tilsvarende ramme som for inneværende avtale.</p>
     <list>
       <p type="listitem">
         <em type="italic">Se Statens tilbud til reindriftsforhandlingene </em>
       </p>
     </list>
-    <p>Tilbudet må sees i sammenheng med endringene i reindriftsfradraget i 2012, samt muligheten reindriften vil få i forhold til fradrag for inngående merverdiavgift som faktureres reinbeitedistriktene for fellesanskaffelser av gjerder og anlegg. </p>
+    <p>Tilbudet må sees i sammenheng med endringene i reindriftsfradraget i 2012, samt muligheten reindriften vil få i forhold til fradrag for inngående merverdiavgift som faktureres reinbeitedistriktene for fellesanskaffelser av gjerder og anlegg.</p>
     <p><em type="italic">Øke slaktingen og omsetningen av reinkjøtt </em>I tilbudet til Reindriftsavtalen 2012/2013 legger Staten hovedvekt på tiltak som kan bidra til å øke slaktingen og omsetningen av reinkjøtt. Videre prioriteres tiltak som bidrar til en rask oppfølging av Landbruks- og matmeldingen. Ved at tilbudet legger opp til å stimulere reindriften til markedsrettet produksjon og verdiskaping, er tilbudet særlig innrettet mot reindriftsutøvere som har reindrift som hovednæring. </p>
-    <p>- Med dette tilbudet har næringen fått et godt utgangspunkt for å øke slaktingen og omsetningen av reinkjøtt. Det er viktig at reindriftens positive markedssituasjon gjenopprettes. I dette arbeidet er det av sentral betydning at virkemidlene over reindriftsavtalen samordnes slik at man på en mest mulig effektiv måte når de fastsatte mål, sier Anne Marie Glosli, som er Statens forhandlingsleder. </p>
-    <p>Statens forhandlingsutvalg foreslår en ramme på 102,0 millioner kroner i sitt tilbud til årets reindriftsavtaleforhandlinger. (Foto: Trym Ivar Bergsmo / Samfoto) </p>
+    <p>- Med dette tilbudet har næringen fått et godt utgangspunkt for å øke slaktingen og omsetningen av reinkjøtt. Det er viktig at reindriftens positive markedssituasjon gjenopprettes. I dette arbeidet er det av sentral betydning at virkemidlene over reindriftsavtalen samordnes slik at man på en mest mulig effektiv måte når de fastsatte mål, sier Anne Marie Glosli, som er Statens forhandlingsleder.</p>
   </body>
 </document>

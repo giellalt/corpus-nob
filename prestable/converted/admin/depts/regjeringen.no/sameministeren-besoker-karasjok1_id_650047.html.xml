@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Sámeministtar galleda Kárášjoga - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
-    <wordcount>91</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>87</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2011/sameministeren-besoker-karasjok1.html?id=650047</origFileName>
-    <parallel_text location="sameministtar-galleda-karajoga.html_id=650047" xml:lang="sme"/>
+    <parallel_text location="sameministtar-galleda-karajoga_id_650047.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 43483 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 43483 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Pressemelding  , 24.06.2011  </p>
-    <section>
-      <p type="title">Priv. til red.:</p>
-    </section>
-    <section>
-      <p type="title">Sameministeren besøker Karasjok</p>
-    </section>
+    <p>Sameministeren besøker Karasjok - regjeringen.no</p>
     <p>
       <em type="italic">Fornyings-, administrasjons- og kirkeminister Rigmor Aasrud besøker Karasjok 28. juni 2011 for å delta på det halvårlige politiske møtet med Sametinget. Statsråden vil også dra på bedriftsbesøk til NRK Sápmi. </em>
     </p>

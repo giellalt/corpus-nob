@@ -1,38 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ráđđehusa guoddalus viessosadjeláigoheami áššis lea hilgojuvvon  - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Justis- og beredskapsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>164</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>159</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/jd/pressesenter/pressemeldinger/2012/regjeringens-anke-i-tomtefestesaken-er-a.html?id=705622</origFileName>
-    <parallel_text location="raehusa-guoddalus-viessosadjelaigoheami-.html_id=705622" xml:lang="sme"/>
-    <parallel_text location="digitala-balvalusat-assiide-ovdal-2015.html_id=706691" xml:lang="smj"/>
+    <parallel_text location="raehusa-guoddalus-viessosadjelaigoheami-_id_705622.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="smj"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 23.10.2012  </p>
-    <p xml:lang="kal">Nr.: 121 – 2012  </p>
-    <section>
-      <p type="title">Regjeringens anke i tomtefestesaken er
-                    avvist</p>
-    </section>
+    <p>Regjeringens anke i tomtefestesaken er avvist - regjeringen.no</p>
     <p>
       <em type="italic">Den europeiske menneskerettighetsdomstolen (EMD) har avvist Regjeringens anke av tomtefestedommen. Dette betyr at EMDs dom 12. juni 2012 blir stående som endelig og at tomtefestelovens regler om forlengelse av festekontrakter ved festetidens utløp må endres. </em>
     </p>
-    <p>Justis- og beredskapsdepartementet vil umiddelbart iverksette arbeidet med å gjøre de nødvendige endringer i tomtefesteloven, som ivaretar forpliktelsene etter Den europeiske menneskerettighetskonvensjonen (EMK). Arbeidet reiser krevende spørsmål på et rettsområde preget av sterke interessemotsetninger. Det er videre tale om regler som berører grunnleggende interesser til et betydelig antall mennesker. Det er derfor viktig av hensyn til både festere og grunneiere at arbeidet gjøres raskt.  </p>
-    <p>Regjeringen fremmet 14. september 2012 forslag om en midlertidig lov om rett til forlengelse av feste til bolighus og fritidshus for å avklare rettstilstanden inntil endelig rettsavklaring foreligger. Dersom lovforslaget blir vedtatt, vil forlengelser av feste til bolighus og fritidshus reguleres av den midlertidige loven inntil endringene i tomtefesteloven er på plass. </p>
+    <p>Justis- og beredskapsdepartementet vil umiddelbart iverksette arbeidet med å gjøre de nødvendige endringer i tomtefesteloven, som ivaretar forpliktelsene etter Den europeiske menneskerettighetskonvensjonen (EMK). Arbeidet reiser krevende spørsmål på et rettsområde preget av sterke interessemotsetninger. Det er videre tale om regler som berører grunnleggende interesser til et betydelig antall mennesker. Det er derfor viktig av hensyn til både festere og grunneiere at arbeidet gjøres raskt.</p>
+    <p>Regjeringen fremmet 14. september 2012 forslag om en midlertidig lov om rett til forlengelse av feste til bolighus og fritidshus for å avklare rettstilstanden inntil endelig rettsavklaring foreligger. Dersom lovforslaget blir vedtatt, vil forlengelser av feste til bolighus og fritidshus reguleres av den midlertidige loven inntil endringene i tomtefesteloven er på plass.</p>
   </body>
 </document>

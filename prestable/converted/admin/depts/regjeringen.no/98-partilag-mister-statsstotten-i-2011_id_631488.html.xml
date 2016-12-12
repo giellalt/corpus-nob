@@ -1,39 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>98 bellodatsearvvi masset stáhtadoarjaga jagi 2011 - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
-    <wordcount>362</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>367</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/fad/aktuelt/nyheter/2011/98-partilag-mister-statsstotten-i-2011.html?id=631488</origFileName>
-    <parallel_text location="98-bellodatsearvvi-masset-stahtadoarjaga-jagi-2011.html_id=631488" xml:lang="sme"/>
-    <parallel_text location="47-millionar-kroner-til-bulyst-2011.html_id=631540" xml:lang="nno"/>
-    <parallel_text location="47-million-kroner-announced-for-bulyst-r.html_id=631540" xml:lang="eng"/>
+    <parallel_text location="98-bellodatsearvvi-masset-stahtadoarjaga-jagi-2011_id_631488.html" xml:lang="sme"/>
+    <parallel_text location="the-government-assists-with-the-electric_id_630646.html" xml:lang="eng"/>
+    <parallel_text location="regjeringa-vil-gje-hjelp-til-straumrekni_id_630646.html" xml:lang="nno"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Nyhet  , 21.01.2011  </p>
-    <section>
-      <p type="title">98 partilag mister statsstøtten i 2011</p>
-    </section>
+    <p>98 partilag mister statsstøtten i 2011 - regjeringen.no</p>
+    <p type="title">98 partilag mister statsstøtten i 2011</p>
     <p>
       <em type="italic">Rundt 2850 politiske partilag fikk statsstøtte i 2010. Partilovnemnda har vedtatt å holde tilbake støtten til 98 lag. Den vanligste årsaken er at partilagene ikke har oppfylt plikten til å innrapportere inntekter for foregående år. </em>
     </p>
-    <p>For 2010 vedtok nemnda å holde tilbake støtten til 110 lag. </p>
-    <p>Alle politiske partier, fra kommunenivå til riksnivå, skal innen 1. juli hvert år innrapportere sine inntekter for forrige år til Statistisk Sentralbyrå. Partilag som ikke overholder bestemmelsen kan miste partistøtta for året etter. </p>
-    <p>Venstre topper avslagslisten med 21 partilag, deretter følger Arbeiderpartiet og Sosialistisk Venstreparti med 13 hver. </p>
-    <p>Disse lagene har mistet statsstøtten i 2011: </p>
+    <p>For 2010 vedtok nemnda å holde tilbake støtten til 110 lag.</p>
+    <p>Alle politiske partier, fra kommunenivå til riksnivå, skal innen 1. juli hvert år innrapportere sine inntekter for forrige år til Statistisk Sentralbyrå. Partilag som ikke overholder bestemmelsen kan miste partistøtta for året etter.</p>
+    <p>Venstre topper avslagslisten med 21 partilag, deretter følger Arbeiderpartiet og Sosialistisk Venstreparti med 13 hver.</p>
+    <p>Disse lagene har mistet statsstøtten i 2011:</p>
     <p><em type="italic">Arbeiderpartiet (13): </em>Lyngdal Arbeiderparti Nærøy Arbeiderparti Vevelstad Arbeiderparti Rødøy Arbeiderparti Beiarn Arbeiderparti Evenes Arbeiderparti Værøy Arbeiderparti Vestvågøy Arbeiderparti Bø Arbeiderparti Lavangen Arbeiderparti Dyrøy Arbeiderparti Torsken Arbeiderparti Skjervøy Arbeiderparti </p>
     <p><em type="italic">Demokratene (9): </em>Demokratene Østfold Demokratene i Akershus Demokratane Kvinesdal Demokratane Sund Demokratane Fjell Demokratane i Sogn og Fjordane Demokratene i Møre og Romsdal Demokratene i Nordland Demokratene i Troms </p>
     <p><em type="italic">Fremskrittspartiet (3): </em>Stor-Elvdal Fremskrittsparti Tynset Fremskrittsparti Sel Fremskrittsparti </p>
