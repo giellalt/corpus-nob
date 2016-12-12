@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document id="no_id" xml:lang="nob">
@@ -33,5 +34,38 @@
     </section>
     <p>Oslo Economics har på oppdrag fra Kulturdepartementet levert rapport om litteratur- og språkpolitiske virkemidler som del av bokutredningen. Oeconomica og advokatkontoret Simonsen har også bidratt til arbeidet. Rapporten er sendt ut på høring, med frist 16. april 2012. </p>
     <p>Utredning om litteratur- og språkpolitiske virkemidler </p>
+=======
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Raporta girjjálašvuođapolitihkalaš gaskaomiid birra gárvvis - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>51</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nb/dep/kud/aktuelt/nyheter/2012/rapport-om-litteraturpolitiske-virkemidl.html?id=667979</origFileName>
+    <parallel_text location="raporta-girjjalavuoapolitihkala-gaskaomi_id_667979.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Rapport om litteraturpolitiske virkemidler levert - regjeringen.no</p>
+    <p>Oslo Economics har på oppdrag fra Kulturdepartementet levert rapport om litteratur- og språkpolitiske virkemidler som del av bokutredningen. Oeconomica og advokatkontoret Simonsen har også bidratt til arbeidet. Rapporten er sendt ut på høring, med frist 16. april 2012.</p>
+    <p>Utredning om litteratur- og språkpolitiske virkemidler</p>
+>>>>>>> e928fc398e (New nob sme pairs)
   </body>
 </document>

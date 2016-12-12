@@ -1,0 +1,48 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>195</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Representanter/Skjema-for-folkevalgte</origFileName>
+    <parallel_text xml:lang="smj" location="sjiema-ajrrasida.html"/>
+    <parallel_text xml:lang="sme" location="skovit-airasiidda.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Skjema for folkevalgte / Representanter / Om Sametinget / Forsiden - Sametinget</p>
+    <p type="title" xml:lang="dan">Skjema for folkevalgte</p>
+    <list>
+      <p type="listitem">Forslag til nye saker</p>
+      <p type="listitem">Merknad</p>
+      <p type="listitem">Spørsmål til Sametingsrådet</p>
+    </list>
+    <p>
+      <em type="bold">Elektronisk honorarkrav og reiseregninger til Sametinget </em>
+    </p>
+    <p>Fra 01.01.2016 er det ikke mulig å sende honorarkrav og reiseregninger på papir til Sametinget.</p>
+    <p>Representanter, vararepresentanter og eksterne oppdragstakere får opprettet tilgang til portalen, <span type="quote">«Selvbetjening for mottaker av honorarš</span>, hvor reiseregninger og honorarkrav sendes inn elektronisk.</p>
+    <p>Pålogging foregår via ID-porten (MinID, BankID): https://registrering.dfo.no .</p>
+    <p>For portaltilgang skal du fylle ut skjema <span type="quote" xml:lang="nno">«skjema for oppdragstakerš</span> . Skjemaet returneres til din kontaktperson eller til økonomiseksjonen i Sametinget for videre behandling.</p>
+    <p xml:lang="dan">Skjemaet for ekstern oppdragstaker må være Sametinget i hende senest 5 virkedager før oppdragets start.</p>
+    <p>Ekstern oppdragstaker vil ved oppdragets start, få tilgang til portal for registrering av reiseutgifter og betaling for oppdrag. I tillegg kan ekstern oppdragstaker her registrere bankkontonummer og mobiltelefonnummer.</p>
+    <p>På denne nettsiden finnes informasjon om løsningen med blant annet brukerdokumentasjoner for brukere av portalen:</p>
+    <p xml:lang="nno">http://dfo.no/no/Kundesider/Lonnstjenester/Selvbetjening/Selvbetjeningsportal/</p>
+    <p>
+      <em type="bold">Eksterne oppdragstakere fra utlandet </em>
+    </p>
+    <p>Eksterne oppdragstakere fra utlandet med utenlandsk bankkonto sender inn reiseregning og honorarkrav på papirskjemaer til Sametinget.</p>
+    <p>For utenlandske oppdragstakere med D-nummer og norsk bankkonto, som i tillegg behersker norsk, registrerer utbetalingskrav elektronisk via portalen.</p>
+  </body>
+</document>

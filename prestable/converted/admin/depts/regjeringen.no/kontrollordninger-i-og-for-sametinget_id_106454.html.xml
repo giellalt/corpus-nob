@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document id="no_id" xml:lang="nob">
@@ -30,5 +31,41 @@
     </p>
     <p>Oversendelsesbrev fra arbeidsgruppen Rapporten (PDF) </p>
     <p>Vedlegg: Brev fra Lovavdelingen i Justisdepartementet (PDF) Protokoll fra kontrollkomiteen (PDF) </p>
+=======
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Bearráigeahččanortnegat Sámedikkis ja Sámedikki várás - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>35</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <origFileName>http://regjeringen.no/nb/dep/ad/dok/rapporter_planer/rapporter/2005/kontrollordninger-i-og-for-sametinget.html?id=106454</origFileName>
+    <parallel_text location="bearraigeahanortnegat-samedikkis-ja-same_id_106454.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kontrollordninger i og for Sametinget - regjeringen.no</p>
+    <p type="title">Kontrollordninger i og for Sametinget</p>
+    <p>
+      <em type="bold">Rapport fra arbeidsgruppe avgitt 15. april 2005 </em>
+    </p>
+    <p>Oversendelsesbrev fra arbeidsgruppen Rapporten (PDF)</p>
+    <p>Vedlegg: Brev fra Lovavdelingen i Justisdepartementet (PDF) Protokoll fra kontrollkomiteen (PDF)</p>
+>>>>>>> e928fc398e (New nob sme pairs)
   </body>
 </document>

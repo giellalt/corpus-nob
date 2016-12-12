@@ -1,0 +1,38 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>OSKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>50</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <origFileName>http://www.osko.no/index.php?kat_id=73&amp;art_id=65</origFileName>
+    <parallel_text location="index.php_kat_id=73_art_id=65.html" xml:lang="sme"/>
+    <parallel_text location="index.php_kat_id=73_art_id=65.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kristuskransen</p>
+    <p type="title">Skapelsen</p>
+    <p>I begynnelsen skapte Gud himmelen og jorden.</p>
+    <p>Jorden var øde og tom, og mørke lå over havdypet.</p>
+    <p>Men Guds Ånd svevet over vannet.</p>
+    <p>Da sa Gud: <span type="quote">«Det bli lys!š</span></p>
+    <p>Gud så på alt det han hadde gjort, og se, det var overmåte godt.</p>
+    <p>1 Mos.1:1-3, 31</p>
+    <p>Utskriftsvennlig versjon</p>
+  </body>
+</document>

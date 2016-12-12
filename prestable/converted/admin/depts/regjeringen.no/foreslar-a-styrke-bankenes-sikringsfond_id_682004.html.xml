@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document id="no_id" xml:lang="nob">
@@ -42,6 +43,52 @@
       <p type="listitem">Plansjar brukt under pressekonferansen </p>
       <p type="listitem">Høyring: avskaffelse av øvre grense for størrelsen på Bankenes sikringsfond </p>
       <p type="listitem">Kronikk i DN: Vi må bygge krisebuffer nå </p>
+=======
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Árvala nannet Báŋkkuid sihkarastinfoandda - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2012</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>198</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/nb/dep/fin/pressesenter/pressemeldinger/2012/foreslar-a-styrke-bankenes-sikringsfond.html?id=682004</origFileName>
+    <parallel_text location="framlegg-om-a-styrke-bankenes-sikringsfo_id_682004.html" xml:lang="nno"/>
+    <parallel_text location="arvala-nannet-bakkuid-sihkarastinfoandda_id_682004.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Foreslår å styrke Bankenes sikringsfond - regjeringen.no</p>
+    <p>
+      <em type="italic">Finansdepartementet har sendt på høring et forslag om å styrke kapitalen i Bankenes sikringsfond. Forslaget innebærer at bankene skal betale avgift til fondet hvert år, uavhengig av fondets størrelse. I dag er det i praksis en øvre grense for sikringsfondets størrelse. </em>
+    </p>
+    <p>I dag kreves det ikke inn avgift fra bankene som er medlem av Bankenes sikringsfond når fondet overstiger det lovfastsatte minstekravet til fondets størrelse. Det ble for eksempel ikke betalt avgift i 2011 og 2012. I årene hvor bankene har betalt full avgift til sikringsfondet, har årlig sum innbetalt avgift ligget på om lag 1,7 milliarder kroner.</p>
+    <p>– Avskaffes den øvre grensen for sikringsfondets størrelse, kan fondet bygges opp slik at det blir bedre i stand til å håndtere problemer i større enkeltbanker, og problemer som rammer flere banker samtidig. Kapitalen i sikringsfondet er også viktig for tiltroen til den norske innskuddsgarantiordningen, sier finansminister Sigbjørn Johnsen.</p>
+    <p xml:lang="nno">Fristen for å komme med høringsuttalelser er 6. august 2012.</p>
+    <p>Les mer:</p>
+    <list>
+      <p type="listitem" xml:lang="isl">Finansmarknadsmeldinga 2011</p>
+      <p type="listitem" xml:lang="nno">Pressemelding: Eit meir robust finanssystem</p>
+      <p type="listitem" xml:lang="nno">Nett-TV frå pressekonferansen</p>
+      <p type="listitem" xml:lang="nno">Plansjar brukt under pressekonferansen</p>
+      <p type="listitem">Høyring: avskaffelse av øvre grense for størrelsen på Bankenes sikringsfond</p>
+      <p type="listitem" xml:lang="nno">Kronikk i DN: Vi må bygge krisebuffer nå</p>
+>>>>>>> e928fc398e (New nob sme pairs)
     </list>
   </body>
 </document>
