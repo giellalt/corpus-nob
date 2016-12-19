@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-1552.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-1552.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets plenumsmøte i februar / mars 2007 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dievasčoahkkin 2007 guovvamánus / njukčamánus - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets plenumsmøte i februar / mars 2007</seg>
@@ -16,22 +26,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikki dievasčoahkkin dollojuvvo Sámedikkis ja álgá maŋŋebárgga guovvamánu 27. b. ja loahpahuvvo bearjadaga njukčamánu 2. beaivvi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Balto, Randi Romsdal.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Balto, Randi Romsdal.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 27.02.2007</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 27.02.2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,7 +118,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- Sak 010/07 Melding om Sametingsrådets politiske program 2006-2009</seg>
+        <seg>- Sak 010/07 Melding om Sametingsrådets politiske program</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Ášši 010/07 Dieđáhus Sámediggeráđi 2006-2009 politihkalaš prográmma birra</seg>
@@ -132,7 +126,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>- Sak 011/07 Sametingsrådets redegjørelse om regionalt samarbeid (legges fram tirsdag ettermiddag med debatt torsdag ettermiddag)</seg>
+        <seg>2006-2009</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ášši 011/07 Sámediggeráđi čilgehus regiovnnalaš ovttasbarggu birra (ovddiduvvo mannebár maŋŋágaskabeaivvi ja digáštallojuvvo duorastat maŋŋágaskabeaivvi)</seg>
@@ -140,34 +134,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>- Sak 011/07 Sametingsrådets redegjørelse om regionalt samarbeid (legges fram tirsdag ettermiddag med debatt torsdag ettermiddag)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dáhtut eanet dieđuid áššid dahje dievasčoahkkima birra, geahča mildosiid dahje čále / riŋge Sámediggái:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>For mer informasjon om sakene og plenumsmøtet, se vedlagte dokumenter eller skriv / ring til Sametinget: tlf: 78 47 40 00, e-post: samediggi@samediggi.no</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus dáhtut eanet dieđuid áššiid dahje dievasčoahkkima birra, geahča mildosiid dahje čále / riŋge Sámediggái: tlf: 78 47 40 00, e-posta: samediggi@samediggi.no</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Offentlige dokumenter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmolaš dokumeanta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sakspapirer (norsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Áššebáhpir (dárogiella)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sakspapirer (samisk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Áššebáhpir (sámegiella)</seg>
+        <seg>tlf: 78 47 40 00, e-posta: samediggi@samediggi.no</seg>
       </tuv>
     </tu>
   </body>

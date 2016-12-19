@@ -1,41 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Almmolaš háhkamiid njuolggadusat čavget - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2011</year>
-    <wordcount>330</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>210</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2011/skjerpet-handhevelse-av-offentlige-anska.html?id=662949</origFileName>
-    <parallel_text location="almmola-hahkamiid-njuolggadusat-avget.html_id=662949" xml:lang="sme"/>
+    <parallel_text location="almmola-hahkamiid-njuolggadusat-avget_id_662949.html" xml:lang="sme"/>
+    <parallel_text location="stricter-enforcement-of-public-procureme_id_662949.html" xml:lang="eng"/>
+    <parallel_text location="skjerpa-handheving-av-offentlege-innkjop_id_662949.html" xml:lang="nno"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 11.11.2011  </p>
-    <section>
-      <p type="title">Skjerpet håndhevelse av offentlige
-                    anskaffelser</p>
-    </section>
+    <p>Skjerpet håndhevelse av offentlige anskaffelser - regjeringen.no</p>
     <p>
       <em type="italic">Regjeringen har i dag lagt frem et forslag til skjerpede regler for håndhevelse av offentlige anskaffelser. Det skal nå bli lettere for leverandører som ikke har nådd opp i konkurransen å sikre sine rettigheter. Reglene skal også bekjempe grove brudd på regelverket. Dette gjelder særlig brudd på kravet til åpne konkurranser om offentlige anskaffelser. </em>
     </p>
-    <p>- Jeg er glad for at vi nå kan få på plass et regelverk som ytterligere vil medvirke til at offentlige innkjøp vil bli gjennomført på en skikkelig måte, sier fornyingsminister Rigmor Aasrud. </p>
-    <p>En domstol vil kunne annullere kontrakter som inngås i strid med regelverket. Skulle prosessen ha kommet så langt at en annullering av kontrakten vil ha vesentlige samfunnsmessige konsekvenser, kan kontrakten avkortes i tillegg til at oppdragsgiver kan ilegges bøter. </p>
-    <p>KOFA skal fortsatt ha en rådgivende funksjon, men dagens adgang til å ilegge bøter flyttes til domstolene. </p>
-    <p>Lovforslaget gjennomfører EUs direktiv 2007/66/EF (nytt håndhevelsesdirektiv på anskaffelsesområdet) i norsk rett. Forslaget er en oppfølging av utredningen  Håndhevelse av offentlige anskaffelser , der et offentlig utvalg kom med sin anbefaling til hvordan EUs nye håndhevelsesdirektiv burde gjennomføres i norsk rett. </p>
+    <p>- Jeg er glad for at vi nå kan få på plass et regelverk som ytterligere vil medvirke til at offentlige innkjøp vil bli gjennomført på en skikkelig måte, sier fornyingsminister Rigmor Aasrud.</p>
+    <p>En domstol vil kunne annullere kontrakter som inngås i strid med regelverket. Skulle prosessen ha kommet så langt at en annullering av kontrakten vil ha vesentlige samfunnsmessige konsekvenser, kan kontrakten avkortes i tillegg til at oppdragsgiver kan ilegges bøter.</p>
+    <p>KOFA skal fortsatt ha en rådgivende funksjon, men dagens adgang til å ilegge bøter flyttes til domstolene.</p>
+    <p>Lovforslaget gjennomfører EUs direktiv 2007/66/EF (nytt håndhevelsesdirektiv på anskaffelsesområdet) i norsk rett. Forslaget er en oppfølging av utredningen Håndhevelse av offentlige anskaffelser , der et offentlig utvalg kom med sin anbefaling til hvordan EUs nye håndhevelsesdirektiv burde gjennomføres i norsk rett.</p>
     <list>
-      <p type="listitem">Prop. 12 L (2011–2012) Endringer i lov om offentlige anskaffelser og kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett) </p>
+      <p type="listitem">Prop. 12 L (2011–2012) Endringer i lov om offentlige anskaffelser og kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)</p>
     </list>
   </body>
 </document>

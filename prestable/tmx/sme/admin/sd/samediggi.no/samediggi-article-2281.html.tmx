@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2281.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2281.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk statistikk 2010 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi statistihkka 2010 - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Samisk statistikk 2010</seg>
@@ -36,22 +46,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Amundsen, Roy.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Amundsen, Roy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 17.06.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 17.06.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Formålet med publikasjonen er å gi en samlet og oppdatert framstilling av offisiell samisk statistikk.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -79,23 +73,7 @@
         <seg>Publikasjonen er en videreutvikling av tilsvarende publikasjoner fra 2006 og 2008.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Girji lea viiddiduvvon ja ovddiduvvon čuovvolus seammásullásaš girjjiin mat almmuhuvvo jagiid 2006s ja 2008s.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Link</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Liŋka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Samisk statistikk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi statistihkka</seg>
+        <seg>Girji lea viiddiduvvon ja ovddiduvvon čuovvolus seammasullásaš girjjiin mat almmuhuvvo jagiid 2006 s ja 2008 s.</seg>
       </tuv>
     </tu>
   </body>

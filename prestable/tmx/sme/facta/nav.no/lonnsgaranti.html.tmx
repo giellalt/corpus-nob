@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">Lønnsgaranti.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">lonnsgaranti.html.xml</prop>
+  </header>
   <body>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Lønnsgaranti</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Bargu ja bargoeallin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Lønnsgarantiordningen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Bálkádáhkádusortnet</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Ordningen dekker utestående lønnskrav med videre ved arbeidsgivers konkurs.</seg>
@@ -95,7 +81,7 @@
         <seg>Du må stå tilmeldt NAV i hele søknadsperioden.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ii gáibiduvvo ahte don oaččut beaiveruđaid.</seg>
+        <seg>Miehtá ohcanáigodaga fertet leat dieđihuvvon NAV:i.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223,7 +209,7 @@
         <seg>Du kan få dekket ut lovbestemt oppsigelsestid, med mindre lengre oppsigelsestid følger av tariffavtale inngått tidligere enn seks måneder før fristdagen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sáhttá gokčojuvvot miehtá láhkamearriduvvon eretcealkináiggi, jus fal tariffašiehtadusas ii leat mearriduvvon guhkit eretcealkináigi, man leat soahpan árabut go guhtta mánu ovdal áigemearrebeaivvi.</seg>
+        <seg>Sáhttá gokčojuvvot miehtá láhkamearriduvvon eretcealkináiggi, jus fal tariffašiehtadusas ii leat mearriduvvon guhkit eretcealkináigi, man leat soahpan árabut go guhta mánu ovdal áigemearrebeaivvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -231,7 +217,15 @@
         <seg>Dersom virksomheten overdras til ny innehaver før konkursåpning, og du fortsetter å jobbe for den nye innehaveren, kan du bare få dekket lønnskrav frem til overdragelsestidspunktet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus ásahus sirdojuvvo ođđa eaiggádii ovdal konkursarahpama, ja don joatkkát bargat ođđa eaiggáda ovddas, de gokčet bálkágáibádusa dušše sirdináigemeari rádjái. Eará bálvalusat</seg>
+        <seg>Jus ásahus sirdojuvvo ođđa eaiggádii ovdal konkursarahpama, ja don joatkkát bargat ođđa eaiggáda ovddas, de gokčet bálkágáibádusa dušše sirdináigemeari rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Andre aktuelle tjenester</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará bálvalusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -263,7 +257,7 @@
         <seg>Tingretten kan oppgi hvem som er bostyrer, og bostyrer plikter å hjelpe deg hvis du har spørsmål knyttet til utfyllingen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Diggegoddi sáhttá almmuhit gii árbeoami hálddašeaddji lea, ja árbeoami hálddašeaddji lea geatnegahtton veahkehit du, jus dárbbašat veahki deavdit dieđáhusa.</seg>
+        <seg>Árbeoami hálddašeaddji gávnnat maid go ozat fitnodatnama Brønnøysundregistaris, čujuhusas www.brreg.no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -383,7 +377,7 @@
         <seg>Hvis kravene godkjennes, overføres lønnsgarantimidlene til bostyrer.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus dohkkehit ohcci gáibádusa, de sirdet bálkádáhkádusruđa árbeoami hálddašeaddjái.</seg>
+        <seg>Árbeoami hálddašeaddji sirdá ruđa ohccái, muhto gesset geatnegahtton gessosiid, nu mo vearu ja ovdamáksojuvvon beaiveruđa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -391,8 +385,8 @@
         <seg>Bostyrer overfører pengene til søker, med fradrag for pliktige trekk, som for eksempel skatt og forskutterte dagpenger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Árbeoami hálddašeaddji sirdá ruđa ohccái, muhto gesset geatnegahtton gessosiid, nu mo vearu ja ovdamáksojuvvon beaiveruđa.</seg>
+        <seg>Dáppe leat deháleamos dieđut vuoigatvuođaid ja geatnegasvuođaid birra. Eambbo dieđuid gávnnat liŋkkaid bokte.</seg>
       </tuv>
     </tu>
-    </body>
+  </body>
 </tmx>

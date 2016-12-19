@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3776.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3776.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kjent klimaforsker besøker Sametinget - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máilbme dovddus klimadutki galledii Sámedikki - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Kjent klimaforsker besøker Sametinget</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Máilmme dovddus klimadutki galledii Sámedikki</seg>
+        <seg>Máilbme dovddus klimadutki galledii Sámedikki</seg>
       </tuv>
     </tu>
     <tu>
@@ -15,7 +25,7 @@
         <seg>Den kjente klimaforskeren professor Robert Corell besøkte Sametinget fredag 18.06.2010. Han presenterte rapporten " Arctic Governance " til sametingspresident Egil Olli.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Máilmme dovddus dálkkádatdutki, professor Robert Corell muitalii bearjadaga 18.06.2010 " Arctic Governance " raportta birra sámediggepresidentii Egil Ollii.</seg>
+        <seg>Máilbme dovddus dálkkádatdutki, professor Robert Corell muitalii bearjadaga 18.06.2010 " Arctic Governance " ráportta birra sámediggepresidentii Egil Ollii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39,7 +49,7 @@
         <seg>Her kan du lese innledningen til møtet med sametingspresident Egil Olli og Sametingets administrasjon.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáppe sáhtát lohkat logaldallama maid professor Robert Corell doalai sámediggepresidentii Egil Ollii ja Sámedikki hálddahussii.</seg>
+        <seg>Dáppe sáhtat lohkat logaldallama maid professor Robert Corell doalai sámediggepresidentii Egil Ollii ja Sámedikki hálddahussii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,22 +58,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Eanet dieđut Arctic Governance-prošeavtta birra leat dáppe:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 24.06.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 24.06.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,21 +116,5 @@
         <seg>egil.olli@samediggi.no</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>artikler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-69.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-69.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets tjenester - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bálvalusat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets tjenester</seg>
@@ -60,7 +70,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Informasjon og bibliotek</seg>
+        <seg>• Resepsjonstjenester</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>• Resepšuvdnabálvalusat</seg>
@@ -68,7 +78,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>• Resepsjonstjenester</seg>
+        <seg>• Omvisning i Sametings-bygningen</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>• Sámedikki vistečájeheapmi</seg>
@@ -132,10 +142,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>• Samiske fagplaner på videregående opplæring</seg>
+        <seg>• Samiske emner i L97</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>• sámi fágaid birra 10-jagi vuođđoskuvlla sámi oahppoplánain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Samiske fagplaner på videregående opplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• joatkevaš oahpu sámi fágaplánaid birra</seg>
       </tuv>
     </tu>
     <tu>
@@ -183,7 +201,7 @@
         <seg>• stipend til kompetanseheving innen spesialpedagogikk og rehabiliteringsfag</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• erenoamášpedagogihka ja rehabiliterenfága • gelbbolašvuođalokten stipeandda</seg>
+        <seg>• erenoamášpedagogihka ja rehabiliterenfága</seg>
       </tuv>
     </tu>
     <tu>
@@ -303,7 +321,7 @@
         <seg>• saksbehandling og veiledning knyttet til plan- og bygningsloven og kulturminneloven</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• áššemeannudeami ja bagadallama plánen- ja huksenlága ja kultursuodjalanlága birra</seg>
+        <seg>Birasgáhttema ja kultursuodjalama oktavuođas fállá Sámediggi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -311,7 +329,7 @@
         <seg>• informasjon, råd og veiledning om samiske kulturminner, kulturmiljø og kulturhistorie</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• dieđuid, rávvagiid ja bagadallama sámi kulturmuittuid, kulturbirrasa ja kulturhistorjjá birra</seg>
+        <seg>• áššemeannudeami ja bagadallama plánen- ja huksenlága ja kultursuodjalanlága birra</seg>
       </tuv>
     </tu>
     <tu>
@@ -319,7 +337,7 @@
         <seg>• kunnskap om forvaltning og vern av samiske kulturminner og kulturmiljø, herunder samiske bygninger</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• dieđuid sámi kulturmuittuid ja kulturbirrasa (masa gullet sámi huksehusat) hálddašeami ja suodjaleami birra</seg>
+        <seg>• dieđuid, rávvagiid ja bagadallama sámi kulturmuittuid, kulturbirrasa ja kulturhistorjjá birra</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,7 +345,7 @@
         <seg>• veiledning om tilskuddsmidler rettet mot samiske kulturminnetiltak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• bagadallama doarjagiid birra sámi kulturmuito doaibmabijuide</seg>
+        <seg>• dieđuid sámi kulturmuittuid ja kulturbirrasa (masa gullet sámi huksehusat) hálddašeami ja suodjaleami birra</seg>
       </tuv>
     </tu>
     <tu>
@@ -383,7 +401,7 @@
         <seg>• etablererstipend til oppstart av kombinasjonsvirksomhet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggi fállá čuovvovaš dieđuid ja bagadallama:</seg>
+        <seg>• álggahanstipeandda álgit lotnolasealáhusfitnodaga</seg>
       </tuv>
     </tu>
     <tu>
@@ -391,7 +409,7 @@
         <seg>• tilskudd til etablering av nye virksomheter og utvidelse av eksisterende virksomheter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• álggahanstipeandda álgit lotnolasealáhusfitnodaga • doarjja álggahit ođđa fitnodagaid ja ovdánahttit fitnodagaid</seg>
+        <seg>• doarjja álggahit ođđa fitnodagaid ja ovdánahttit fitnodagaid</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,7 +441,7 @@
         <seg>• tilskudd til samiske kunst- og kulturtiltak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggi fállá dieđuid ja bagadallama:</seg>
+        <seg>• doarjaga birra sámi dáidda- ja kulturdoaibmabijuide</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,32 +449,8 @@
         <seg>• tilskudd til samiske barne- og ungdomstiltak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• doarjaga birra sámi dáidda- ja kulturdoaibmabijuide</seg>
+        <seg>• sámi mánáid- ja nuoraid doaibmabijuide</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>artikler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Hva gjør du hvis du ikke er fornøyd ?</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maid dagat jus it leat duhtavaš bálvalusaide ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Serviceerklæring</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oktavuohtadieđut</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

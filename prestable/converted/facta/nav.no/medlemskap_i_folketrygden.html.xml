@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
-    <title>NAV - Medlemskap i folketrygden -</title>
+    <title>NAV - Medlemskap i folketrygden - </title>
     <genre code="facta"/>
     <author>
       <unknown/>
@@ -12,84 +10,76 @@
         <publisher>NAV</publisher>
       </publication>
     </publChannel>
-    <wordcount>445</wordcount>
+    <wordcount>449</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="borre.gaup@samediggi.no" name="Børre Gaup"/>
-    <multilingual>
-      <language xml:lang="eng"/>
-    </multilingual>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual/>
     <origFileName>http://www.nav.no/Internasjonalt/Medlemskap+i+folketrygden</origFileName>
-    <parallel_text location="Medlemskap+i+folketrygden.html" xml:lang="sme"/>
+    <parallel_text location="membership_in_the_national_insurance_scheme.html" xml:lang="eng"/>
     <parallel_text location="220239.html" xml:lang="nno"/>
-    <parallel_text location="Membership+in+The+National+Insurance+Scheme.html" xml:lang="eng"/>
+    <parallel_text location="medlemskap_i_folketrygden.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Medlemskap i folketrygden</p>
-    </section>
-    <p></p>
-    <section>
-      <p type="title">Medlemskap i folketrygden</p>
-    </section>
-    <p>Medlemskap i folketrygden er nøkkelen til rettigheter fra NAV. Det er ikke avgjørende at du er norsk statsborger, registrert i folkeregisteret eller betaler skatt til Norge. Det er avgjørende at oppholdet i Norge er lovlig. </p>
-    <p>Trygderettigheter er avhengig av nåværende eller tidligere medlemskap. Enkelte rettigheter kan likevel gis til et familiemedlem av et medlem av folketrygden. </p>
-    <p>Hvilke ytelser du har krav på avgjøres blant annet av hvilken dekning medlemskapet gir. </p>
-    <p>Enkelte trygdeytelser krever at du har vært medlem i folketrygden en viss tid. Du kan lese mer om dette under hver enkelt ytelse. </p>
+    <p type="title">Medlemskap i folketrygden</p>
+    <p>Medlemskap i folketrygden er nøkkelen til rettigheter fra NAV. Det er ikke avgjørende at du er norsk statsborger, registrert i folkeregisteret eller betaler skatt til Norge. Det er avgjørende at oppholdet i Norge er lovlig.</p>
+    <p>Trygderettigheter er avhengig av nåværende eller tidligere medlemskap. Enkelte rettigheter kan likevel gis til et familiemedlem av et medlem av folketrygden.</p>
+    <p>Hvilke ytelser du har krav på avgjøres blant annet av hvilken dekning medlemskapet gir.</p>
+    <p>Enkelte trygdeytelser krever at du har vært medlem i folketrygden en viss tid. Du kan lese mer om dette under hver enkelt ytelse.</p>
     <p>
       <em type="italic">Når er du medlem i folketrygden? </em>
     </p>
     <p>
       <em type="italic">Bosatt i Norge – pliktig medlem i folketrygden </em>
     </p>
-    <p>Er du bosatt i Norge, er du som hovedregel medlem i folketrygden. </p>
-    <p>For å regnes som bosatt, må du oppholde deg i Norge i minst 12 måneder. Når du flytter til Norge for å være her i minst 12 måneder, blir du medlem fra innreisedatoen.  </p>
+    <p>Er du bosatt i Norge, er du som hovedregel medlem i folketrygden.</p>
+    <p>For å regnes som bosatt, må du oppholde deg i Norge i minst 12 måneder. Når du flytter til Norge for å være her i minst 12 måneder, blir du medlem fra innreisedatoen.</p>
     <p>
       <em type="italic">Hvis du ikke bor i Norge </em>
     </p>
-    <p>Selv om du ikke bor i Norge, er du medlem i folketrygden hvis du er: </p>
+    <p>Selv om du ikke bor i Norge, er du medlem i folketrygden hvis du er:</p>
     <list>
-      <p type="listitem">arbeidstaker i Norge </p>
-      <p type="listitem">norsk statsborger/EØS-statsborger, og ansatt på norsk skip med unntak for cateringansatte på turistskip registrert i Norsk Internasjonalt Skipsregister  NIS . </p>
-      <p type="listitem">norsk statsborger/EØS-statsborger, og ansatt i den norske stats tjeneste i utlandet </p>
-      <p type="listitem">norsk statsborger/EØS-statsborger, og studerer i utlandet med lån eller stipend fra Lånekassen </p>
-      <p type="listitem">arbeider midlertidig i utlandet for arbeidsgiver med plikt til å betale arbeidsgiveravgift i Norge </p>
+      <p type="listitem" xml:lang="nno">arbeidstaker i Norge</p>
+      <p type="listitem">norsk statsborger/EØS-statsborger, og ansatt på norsk skip med unntak for cateringansatte på turistskip registrert i Norsk Internasjonalt Skipsregister NIS .</p>
+      <p type="listitem">norsk statsborger/EØS-statsborger, og ansatt i den norske stats tjeneste i utlandet</p>
+      <p type="listitem">norsk statsborger/EØS-statsborger, og studerer i utlandet med lån eller stipend fra Lånekassen</p>
+      <p type="listitem">arbeider midlertidig i utlandet for arbeidsgiver med plikt til å betale arbeidsgiveravgift i Norge</p>
     </list>
     <p>
       <em type="italic">Frivillig medlemskap i folketrygden under opphold i Norge </em>
     </p>
-    <p>Hvis du skal oppholde deg i Norge tre til 12 måneder, uten å arbeide her og har sterk tilknytning til Norge, kan du etter søknad bli medlem i folketrygden. </p>
+    <p>Hvis du skal oppholde deg i Norge tre til 12 måneder, uten å arbeide her og har sterk tilknytning til Norge, kan du etter søknad bli medlem i folketrygden.</p>
     <p>
       <em type="italic">Frivillig medlemskap i folketrygden under opphold utenfor Norge </em>
     </p>
-    <p>Hvis du er medlem i folketrygden og skal oppholde deg i utlandet, kan oppholdet i utlandet medføre at medlemskapet i folketrygden opphører. Du kan da søke om frivillig medlemskap i folketrygden. </p>
-    <p>
+    <p>Hvis du er medlem i folketrygden og skal oppholde deg i utlandet, kan oppholdet i utlandet medføre at medlemskapet i folketrygden opphører. Du kan da søke om frivillig medlemskap i folketrygden.</p>
+    <p xml:lang="eng">
       <em type="italic">Trygdeavtale </em>
     </p>
-    <p>Norge har trygdeavtaler med flere land. Den viktigste avtalen er med EØS-landene . Hvis du er omfattet av en trygdeavtale, kan denne avtalen bestemme i hvilket land du skal være medlem i trygden. Det som er nevnt ovenfor, kan da bli uriktig. Du bør undersøke om en trygdeavtale gjelder i ditt tilfelle. </p>
+    <p>Norge har trygdeavtaler med flere land. Den viktigste avtalen er med EØS-landene . Hvis du er omfattet av en trygdeavtale, kan denne avtalen bestemme i hvilket land du skal være medlem i trygden. Det som er nevnt ovenfor, kan da bli uriktig. Du bør undersøke om en trygdeavtale gjelder i ditt tilfelle.</p>
     <p xml:lang="eng">
       <em type="italic">Trygdeavgift </em>
     </p>
-    <p>Medlemskap i folketrygden betyr at du må betale trygdeavgift . </p>
-    <p>Hvor mye du skal betale i trygdeavgift vil være avhengig av om </p>
+    <p>Medlemskap i folketrygden betyr at du må betale trygdeavgift .</p>
+    <p>Hvor mye du skal betale i trygdeavgift vil være avhengig av om</p>
     <list>
-      <p type="listitem">du er skattepliktig til Norge og trygdeavgiften betales sammen med skatten </p>
-      <p type="listitem">arbeidsgiver plikter å betale arbeidsgiveravgift </p>
+      <p type="listitem" xml:lang="dan">du er skattepliktig til Norge og trygdeavgiften betales sammen med skatten</p>
+      <p type="listitem">arbeidsgiver plikter å betale arbeidsgiveravgift</p>
     </list>
     <p>
       <em type="italic">Når opphører medlemskapet? </em>
     </p>
-    <p>Arbeid eller opphold i utlandet kan medføre at medlemskapet i folketrygden opphører. </p>
+    <p>Arbeid eller opphold i utlandet kan medføre at medlemskapet i folketrygden opphører.</p>
     <p>
       <em type="italic">Konsekvenser av ikke å være medlem i folketrygden </em>
     </p>
-    <p>Når du ikke er medlem av folketrygden, har du ingen rettigheter etter folketrygdloven. </p>
-    <p>Det betyr at du heller ikke skal betale trygdeavgift. </p>
-    <p></p>
+    <p>Når du ikke er medlem av folketrygden, har du ingen rettigheter etter folketrygdloven.</p>
+    <p>Det betyr at du heller ikke skal betale trygdeavgift.</p>
   </body>
 </document>

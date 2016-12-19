@@ -1,103 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Energiija - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>548</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>478</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/tema/energi.html?id=212</origFileName>
-    <parallel_text location="energiija.html_id=212" xml:lang="sme"/>
-    <parallel_text location="energi.html_id=212" xml:lang="nno"/>
-    <parallel_text location="energy.html_id=212" xml:lang="eng"/>
+    <parallel_text location="energy_id_212.html" xml:lang="eng"/>
+    <parallel_text location="energi_id_212.html" xml:lang="nno"/>
+    <parallel_text location="energiija_id_212.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Energi</p>
-    </section>
-    <p>Norge er en energinasjon. Regjeringens visjon er at Norge skal være en miljøvennlig energinasjon og være verdensledende innenfor utviklingen av miljøvennlig energi. </p>
+    <p>Energi - regjeringen.no</p>
+    <p type="title">Energi</p>
+    <p>Norge er en energinasjon. Regjeringens visjon er at Norge skal være en miljøvennlig energinasjon og være verdensledende innenfor utviklingen av miljøvennlig energi.</p>
     <p><em type="italic">Olje- og energidepartementets </em>hovedoppgave er å tilrettelegge en samordnet og helhetlig energipolitikk. Et overordnet mål er å sikre høy verdiskaping gjennom effektiv og miljøvennlig forvaltning av energiressursene. </p>
-    <p>På denne siden finner du informasjon og dokumenter som berører energi på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre. </p>
-    <p>Abonner på e-postvarsling </p>
-    <section>
-      <p type="title">
-                      Energipolitikk i Norge</p>
-    </section>
-    <p>Olje- og energidepartementets hovedoppgave er å tilrettelegge for en helhetlig energipolitikk basert på effektiv utnyttelse av energiressursene. </p>
-    <section>
-      <p type="title">
-                  Nyheter fra departementene om energi:</p>
-    </section>
-    <section>
-      <p type="title">Statsbudsjettet 2011</p>
-    </section>
-    <p>[Redaksjonell artikkel, Olje- og energidepartementet, 05.10.2010] </p>
-    <p>På denne siden vil du finne Olje- og energidepartementets budsjettforslag, pressemeldinger, og Finansdepartementets budsjettportal for statsbudsjettet 2011. </p>
-    <section>
-      <p type="title">Meir bustøtte til
-                      barnefamiliane</p>
-    </section>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010] </p>
-    <p>I statsbudsjettet for 2011 gjer regjeringa framlegg om å styrkje bustøtta for barnefamiliane. Det blir gjort ved å auke grensa for buutgiftene for husstandar med fleire medlemmer. </p>
-    <section>
-      <p type="title">Betre levekår i utsette område</p>
-    </section>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010] </p>
-    <p>I statsbudsjettet for 2011 foreslår regjeringa at satsinga på 43 millionar kroner i Groruddalen i Oslo blir vidareført. Satsinga innafor bustad, by og stadutvikling vart opphavleg sett til ut 2010, men arbeidet skal halde fram. I tillegg vil regjeringa gje Bergen eit tilskot på tre millionar kroner for å motverke opphoping av negative levekår i utsette område. </p>
-    <section>
-      <p type="title">Økt satsing på skog-, klima og
-                      energitiltak</p>
-    </section>
-    <p>[Pressemelding, Landbruks- og matdepartementet, 05.10.2010] </p>
-    <p>Regjeringen styrker tiltakene som skal gi økt opptak av CO2 i skog, mer råstoff til bioenergi og økt trebruk med 6 millioner kroner. Totalt foreslår regjeringen å bruke 291 millioner kroner på slike tiltak. </p>
-    <section>
-      <p type="title">Fortsatt nettutjevning</p>
-    </section>
-    <section>
-      <p type="title">
-                      Statsbudsjettet 2011</p>
-    </section>
-    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010] </p>
-    <p>Regjeringen foreslår i statsbudsjettet for 2011 en videreføring av ordningen med utjevning av nettleien med 60 millioner kroner. </p>
-    <section>
-      <p type="title">Omfattende satsing på fangst og lagring
-                      av CO2</p>
-    </section>
-    <section>
-      <p type="title">
-                      Statsbudsjettet 2011</p>
-    </section>
-    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010] </p>
-    <p>Regjeringen foreslår å bevilge i underkant av 2,7 milliarder kroner til CO2-håndtering i 2011. Dette omfatter arbeidet med prosjektene på Mongstad, forskning og teknologiutvikling, internasjonalt arbeid med CO2-håndtering, Gassnova SF og ekstern bistand knyttet til kvalitetssikring og juridiske problemstillinger. </p>
-    <section>
-      <p type="title">Økt satsing på havenergi</p>
-    </section>
-    <section>
-      <p type="title">
-                      Statsbudsjettet 2011</p>
-    </section>
-    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010] </p>
-    <p>Regjeringen legger enda bedre til rette for utnyttelse av fornybare energiressurser i norske havområder. Regjeringens strategi for fornybar energiproduksjon til havs peker ut retningen på en langsiktig satsing for å gjøre havvind til en ny norsk næring; teknologisk og energimessig. </p>
-    <section>
-      <p type="title">265 milliarder fra
-                      petroleumsvirksomheten til fellesskapet</p>
-    </section>
-    <section>
-      <p type="title">
-                      Statsbudsjettet 2011</p>
-    </section>
-    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010] </p>
-    <p>Aktivitetsnivået i petroleumsnæringen er fortsatt høyt. Det bores mange letebrønner og det gjøres mange funn. Næringen genererer store statlige inntekter. Pensjonsfondet fortsetter derfor å vokse og nærmer seg nå 3000 milliarder kroner – det er mer enn én million per familie i hele landet, sier olje- og energiminister Terje Riis-Johansen. </p>
-    <p>Flere dokumenter om temaet </p>
+    <p>På denne siden finner du informasjon og dokumenter som berører energi på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre.</p>
+    <p>Abonner på e-postvarsling</p>
+    <p type="title">Energipolitikk i Norge</p>
+    <p>Olje- og energidepartementets hovedoppgave er å tilrettelegge for en helhetlig energipolitikk basert på effektiv utnyttelse av energiressursene.</p>
+    <p type="title">Nyheter fra departementene om energi:</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>[Redaksjonell artikkel, Olje- og energidepartementet, 05.10.2010]</p>
+    <p>På denne siden vil du finne Olje- og energidepartementets budsjettforslag, pressemeldinger, og Finansdepartementets budsjettportal for statsbudsjettet 2011.</p>
+    <p type="title">Meir bustøtte til barnefamiliane</p>
+    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+    <p>I statsbudsjettet for 2011 gjer regjeringa framlegg om å styrkje bustøtta for barnefamiliane. Det blir gjort ved å auke grensa for buutgiftene for husstandar med fleire medlemmer.</p>
+    <p type="title">Betre levekår i utsette område</p>
+    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+    <p>I statsbudsjettet for 2011 foreslår regjeringa at satsinga på 43 millionar kroner i Groruddalen i Oslo blir vidareført. Satsinga innafor bustad, by og stadutvikling vart opphavleg sett til ut 2010, men arbeidet skal halde fram. I tillegg vil regjeringa gje Bergen eit tilskot på tre millionar kroner for å motverke opphoping av negative levekår i utsette område.</p>
+    <p type="title">Økt satsing på skog-, klima og energitiltak</p>
+    <p>[Pressemelding, Landbruks- og matdepartementet, 05.10.2010]</p>
+    <p>Regjeringen styrker tiltakene som skal gi økt opptak av CO2 i skog, mer råstoff til bioenergi og økt trebruk med 6 millioner kroner. Totalt foreslår regjeringen å bruke 291 millioner kroner på slike tiltak.</p>
+    <p type="title">Fortsatt nettutjevning</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010]</p>
+    <p>Regjeringen foreslår i statsbudsjettet for 2011 en videreføring av ordningen med utjevning av nettleien med 60 millioner kroner.</p>
+    <p type="title">Omfattende satsing på fangst og lagring av CO2</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010]</p>
+    <p>Regjeringen foreslår å bevilge i underkant av 2,7 milliarder kroner til CO2-håndtering i 2011. Dette omfatter arbeidet med prosjektene på Mongstad, forskning og teknologiutvikling, internasjonalt arbeid med CO2-håndtering, Gassnova SF og ekstern bistand knyttet til kvalitetssikring og juridiske problemstillinger.</p>
+    <p type="title">Økt satsing på havenergi</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010]</p>
+    <p>Regjeringen legger enda bedre til rette for utnyttelse av fornybare energiressurser i norske havområder. Regjeringens strategi for fornybar energiproduksjon til havs peker ut retningen på en langsiktig satsing for å gjøre havvind til en ny norsk næring; teknologisk og energimessig.</p>
+    <p type="title">265 milliarder fra petroleumsvirksomheten til fellesskapet</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>[Pressemelding, Olje- og energidepartementet, 05.10.2010]</p>
+    <p>Aktivitetsnivået i petroleumsnæringen er fortsatt høyt. Det bores mange letebrønner og det gjøres mange funn. Næringen genererer store statlige inntekter. Pensjonsfondet fortsetter derfor å vokse og nærmer seg nå 3000 milliarder kroner – det er mer enn én million per familie i hele landet, sier olje- og energiminister Terje Riis-Johansen.</p>
+    <p>Flere dokumenter om temaet</p>
   </body>
 </document>

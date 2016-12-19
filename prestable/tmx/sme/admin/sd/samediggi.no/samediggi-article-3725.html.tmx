@@ -1,13 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3725.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3725.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om de folkevalgte - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmot válljen áirasiid birra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om de folkevalgte</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmot válljen áirasiid birra</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametinget i plenum består av 39 representanter fra 7 valgkretser.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Álbmot válljen áirasiid birra Sámedikki dievasčoahkkimis leat 39 áirasa 7 válgabiirres.</seg>
+        <seg>Sámedikki dievasčoahkkimis leat 39 áirasa 7 válgabiirres.</seg>
       </tuv>
     </tu>
     <tu>

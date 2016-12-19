@@ -1,4 +1,4 @@
-<document xml:lang="fkv" id="no_id">
+<document xml:lang="nob" id="no_id">
   <header>
     <title/>
     <genre code="ficti"/>
@@ -9,8 +9,9 @@
       <person firstname="Terje" lastname="Aaronsen" sex="m" born="" nationality="NO"/>
     </translator>
     <wordcount>1357</wordcount>
+    <conversion_status type="standard"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
     <multilingual/>
@@ -18,15 +19,15 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p xml:lang="kal"><em type="bold">Jumalanpalvelus	
   </em> <em type="bold">Porsangissa	
   </em> </p>
-    <p xml:lang="nob">Kvensk	   gudstjeneste	    i	   Porsanger</p>
-    <p xml:lang="sma">LCÅ-<hyph/>‐5</p>
-    <p><em type="bold">Preluuti	
+    <p>Kvensk	   gudstjeneste	    i	   Porsanger</p>
+    <p xml:lang="sma">LCÅ-‐5</p>
+    <p xml:lang="fkv"><em type="bold">Preluuti	
   </em> </p>
     <p xml:lang="sma"><em type="bold">Preludium	
   </em> </p>
@@ -42,7 +43,7 @@
   klokkerbønn	
   </em> </p>
     <p xml:lang="fin">Herra!	   	    Mie	   olen	   tullu	   tänne	   sinun	   pyhhään	    talhoon	   kuulemhaan	   mitä	   sie,	   	    Herra	   Jumala,	   minun	   Luoja,	   	    sie,	   Herra	   Jeesus,	   minun	    Vapattaaja,	   	    sie,	   Pyhä	   Henki,	   minun	   lohðuttaaja	    elämässä	   ja	   kuolemassa,	   	    aiot	   saarnata	   minule.	   	    Herra!	   Aukase	   nyt	   minun	   syðämen	    sinun	   Pyhän	   Hengen	   kautta,	   	    niin	   ette	   mie	   sinun	   sanan	   kautta	    opin	   suremhaan	   minun	   synttii,	   	    ja	   elämässä	   ja	   kuolemassa	    uskomhaan	   Jeesuksheen,	   	    ja	   joka	   päivä	   tekemhään	    parannuksen	   pyhässä	   elämässä.	   	    Sen	   kuulisit	   ja	   tekisit	   sie	   Jeesuksen	    Kristuksen	   kautta.	   Aamen.</p>
-    <p xml:lang="nob">Herre!	
+    <p>Herre!	
   	
    Jeg	
   er	
@@ -140,11 +141,11 @@
     <p xml:lang="nno"><em type="bold">Inngangsord	
   </em> </p>
     <p xml:lang="fin">Rakas	   seurakunta.	    Armo	   olkhoon	   teile	    Ja	   rauha	   Jumalalta,	   meiðän	   Isältä,	    Ja	   Herralta	   Jesukselta	   Kristukselta.</p>
-    <p xml:lang="nob">Kjære	   menighet.	    Nåde	   være	   med	   dere	   og	    Fred	   fra	   Gud,	   vår	   Far,	    og	   	   Herren	   Jesus	    Kristus.</p>
-    <p xml:lang="deu">KYRIE</p>
-    <p xml:lang="nob"><em type="bold"> </em><em type="italic">Alle:	
+    <p>Kjære	   menighet.	    Nåde	   være	   med	   dere	   og	    Fred	   fra	   Gud,	   vår	   Far,	    og	   	   Herren	   Jesus	    Kristus.</p>
+    <p xml:lang="ger">KYRIE</p>
+    <p><em type="bold"> </em><em type="italic">Alle:	
   </em> </p>
-    <p xml:lang="nob"><em type="italic">Kyrie	
+    <p><em type="italic">Kyrie	
   eleison!	
   Gud	
   Fader	
@@ -168,7 +169,7 @@
     <p xml:lang="sma"><em type="bold"> </em><em type="italic">Presten:	
   	
   </em> </p>
-    <p xml:lang="nob"><em type="italic">Ære	
+    <p><em type="italic">Ære	
   være	
   Gud	
   i	
@@ -200,7 +201,7 @@
   </em> <em type="italic">deg.	
   Amen.	
   </em> </p>
-    <p xml:lang="nob"><em type="bold">(Kastet)	
+    <p><em type="bold">(Kastet)	
   (Dåp)	
   </em> </p>
     <p xml:lang="isl"><em type="italic">Liturgi:	
@@ -210,10 +211,10 @@
     <p xml:lang="fin">Kuuntelema	   Herran	   sannaa!</p>
     <p xml:lang="fin"><em type="italic">Seurakunta:</em><em type="bold">	
   </em> </p>
-    <p xml:lang="nob">La	   oss	   høre	   Herrens	    ord!</p>
-    <p xml:lang="nob"><em type="italic">Menigheten:	
+    <p>La	   oss	   høre	   Herrens	    ord!</p>
+    <p><em type="italic">Menigheten:	
   </em> </p>
-    <p xml:lang="nob"> <em type="italic">Gud	
+    <p> <em type="italic">Gud	
   være	
   lovet!	
   Halleluja	
@@ -222,21 +223,21 @@
     <p xml:lang="fin"><em type="bold">1.	
   tekstinlukeminen</em>	
    </p>
-    <p>Oon	   kirjotettu	   ...</p>
+    <p xml:lang="fkv">Oon	   kirjotettu	   ...</p>
     <p xml:lang="fin">Näin	   oon	   Herran	   sanat.</p>
     <p xml:lang="nno"><em type="bold">1.	
   tekstlesing	
   </em> </p>
-    <p xml:lang="nob">Det	   står	   skrevet	   ..</p>
-    <p xml:lang="nob">Tekstlesningen	    avsluttes	   med:	    Slik	   lyder	   Herrens	   ord.</p>
-    <p xml:lang="nob"><em type="bold">Virsi	
+    <p>Det	   står	   skrevet	   ..</p>
+    <p>Tekstlesningen	    avsluttes	   med:	    Slik	   lyder	   Herrens	   ord.</p>
+    <p><em type="bold">Virsi	
   Salme	
   	
   </em> </p>
     <p xml:lang="fin"><em type="bold">2.	
   tekstinlukeminen</em>	
    </p>
-    <p>Oon	   kirjotettu	   ...</p>
+    <p xml:lang="fkv">Oon	   kirjotettu	   ...</p>
     <p xml:lang="fin">Näin	
   oon	
   Herran	
@@ -245,15 +246,15 @@
     <p xml:lang="nno"><em type="bold">2.	
   tekstlesing	
   </em> </p>
-    <p xml:lang="nob">Det	   står	   skrevet	   ..</p>
-    <p xml:lang="nob">Tekstlesningen	    avsluttes	   med:	    Slik	   lyder	   Herrens	   ord.</p>
-    <p><em type="bold">Virsi	
+    <p>Det	   står	   skrevet	   ..</p>
+    <p>Tekstlesningen	    avsluttes	   med:	    Slik	   lyder	   Herrens	   ord.</p>
+    <p xml:lang="fkv"><em type="bold">Virsi	
   </em> </p>
-    <p xml:lang="nob"><em type="bold">Salme	
+    <p><em type="bold">Salme	
   </em> </p>
     <p xml:lang="kal"><em type="bold">Saarna</em>	
    </p>
-    <p>Tämä	
+    <p xml:lang="fkv">Tämä	
   pyhä	
   evankeeliumi	
   oon	
@@ -261,7 +262,7 @@
   ..	
    <em type="bold">Preken</em>	
    </p>
-    <p xml:lang="nob">Dette	
+    <p>Dette	
   hellige	
    evangelium	
   står	
@@ -283,7 +284,7 @@
   noussee	
   seisomhaan.)	
   </em> </p>
-    <p><em type="italic">Kaikin:	
+    <p xml:lang="fkv"><em type="italic">Kaikin:	
   </em> Mie	
   uskon	
   Jumalhaan,	
@@ -295,7 +296,7 @@
   luojhaan.	
    </p>
     <p xml:lang="fin">Mie	   uskon	   Jeesuksheen	    Kristuksheen,	    Jumalan	   ainutsyntyisheen</p>
-    <p xml:lang="nob"><em type="italic">Liturg:	
+    <p><em type="italic">Liturg:	
   </em> La	
   oss	
   bekjenne	
@@ -306,7 +307,7 @@
   reiser	
   seg)	
   </em> </p>
-    <p xml:lang="nob"><em type="italic">Alle:	
+    <p><em type="italic">Alle:	
   </em> Jeg	
   tror	
   på	
@@ -321,16 +322,16 @@
    skaper.	
    </p>
     <p xml:lang="fin">Jeg	   tror	   på	   Jesus	    Kristus,	   	    Guds	   enbårne	   Sønn,	    Poikhaan,	    meiðän	   Herrhaan,	    sikkiintyny	   Pyhän	   Hengen	   kautta,	    jonka	   Neittyt	   Maaria	   synnytti,	    piinattu	   Pontius	   Pilatuksen	   alla,	    risthiinnaulittu,	   kuollu	   ja	   hauðattu,	    meni	   kuolemanvaltakunthaan,	   	    nousi	   ylös	   kolmantena	   päivänä,	    meni	   taivhaasheen,	   	    istuu	   Jumalan	   kaikkivalttihaan	   	    Isän	   oikkeela	   puolela	    ja	   tullee	   takasin	   tuomittemhaan	    elläävii	   ja	   kuolheita.</p>
-    <p>Mie	   uskon	   Pyhhään	   Henkheen,	    pyhhään	   tavalisheen	   kirkhoon,	    pyhhiin	   valtakunthaan,	    synttiin	   antheeksi	   antamisheen,	    ruumhiin	   ylösnousemisheen,	   	    ja	   ikuisheen	   elämhään.</p>
+    <p xml:lang="fkv">Mie	   uskon	   Pyhhään	   Henkheen,	    pyhhään	   tavalisheen	   kirkhoon,	    pyhhiin	   valtakunthaan,	    synttiin	   antheeksi	   antamisheen,	    ruumhiin	   ylösnousemisheen,	   	    ja	   ikuisheen	   elämhään.</p>
     <p xml:lang="fin"><em type="italic">Seurakunta:	
   </em> </p>
-    <p xml:lang="nob">vår	   Herre,	   	    som	   ble	   unnfanget	   ved	    Den	   Hellige	   Ånd,	   født	    av	   jomfru	   Maria,	   	    pint	   under	   Pontius	    Pilatus,	   	    korsfestet,	   død	   og	    begravet,	   	    for	   ned	   til	   dødsriket,	    stod	   opp	   fra	   de	   døde	    tredje	   dag,	   	    for	   opp	   til	   himmelen,	   	    sitter	   ved	   Guds,	   den	    allmektige	   Faders,	    høyre	   hånd,	   	    skal	   derfra	   komme	    igjen	   for	   å	   dømme	    levende	   og	   døde.</p>
-    <p xml:lang="nob">Jeg	   tror	   på	   Den	   Hellige	    Ånd,	   en	   hellige	    alminnelig	   kirke,	   de	    helliges	   samfunn,	    syndenes	   forlatelse,	    kjødets	   oppstandelse	    og	   det	   evige	   liv.</p>
-    <p xml:lang="nob"><em type="italic">Menigheten:	
+    <p>vår	   Herre,	   	    som	   ble	   unnfanget	   ved	    Den	   Hellige	   Ånd,	   født	    av	   jomfru	   Maria,	   	    pint	   under	   Pontius	    Pilatus,	   	    korsfestet,	   død	   og	    begravet,	   	    for	   ned	   til	   dødsriket,	    stod	   opp	   fra	   de	   døde	    tredje	   dag,	   	    for	   opp	   til	   himmelen,	   	    sitter	   ved	   Guds,	   den	    allmektige	   Faders,	    høyre	   hånd,	   	    skal	   derfra	   komme	    igjen	   for	   å	   dømme	    levende	   og	   døde.</p>
+    <p>Jeg	   tror	   på	   Den	   Hellige	    Ånd,	   en	   hellige	    alminnelig	   kirke,	   de	    helliges	   samfunn,	    syndenes	   forlatelse,	    kjødets	   oppstandelse	    og	   det	   evige	   liv.</p>
+    <p><em type="italic">Menigheten:	
   </em> </p>
-    <p><em type="bold">Virsi	
+    <p xml:lang="fkv"><em type="bold">Virsi	
   </em> </p>
-    <p xml:lang="nob"><em type="bold">Salme	
+    <p><em type="bold">Salme	
   </em> </p>
     <p xml:lang="fin"><em type="bold">Kuulutukset	
   </em> </p>
@@ -393,7 +394,7 @@
   työhöön!	
    <em type="bold">Forbønn	
   </em> </p>
-    <p xml:lang="nob"><em type="italic">Medliturg:	
+    <p><em type="italic">Medliturg:	
   </em> Vær,	
   o	
   Gud,	
@@ -457,10 +458,10 @@
   vår	
    gjerning!	
    </p>
-    <p xml:lang="nob"><em type="italic">Seurakunta:	
+    <p><em type="italic">Seurakunta:	
   Menigheten:	
   </em> </p>
-    <p xml:lang="nob"> <em type="italic">Herre,	
+    <p> <em type="italic">Herre,	
   hør	
   vår	
   bønn!</em> </p>
@@ -526,27 +527,27 @@
    ijänkaikkisesti.	
    <em type="bold">Fadervår	
   </em> </p>
-    <p xml:lang="nob">Fader	   vår,	   	    du	   som	   er	   i	   himmelen!	    La	   ditt	   navn	   holdes	    hellig.	    La	   ditt	   rike	   komme.	    La	   din	   vilje	   skje	   på	    jorden	    som	   i	   himmelen.	    Gi	   oss	   i	   dag	   vårt	   daglige	    brød.	   	    Forlat	   oss	   vår	   skyld,	    som	   vi	   òg	   forlater	   våre	    skyldnere.	    Led	   oss	   ikke	   inn	   i	    fristelse,	    men	   frels	   oss	   fra	   det	    onde.	    For	   riket	   er	   ditt,	   	    og	   makten	   og	   æren	   i	    evighet.</p>
+    <p>Fader	   vår,	   	    du	   som	   er	   i	   himmelen!	    La	   ditt	   navn	   holdes	    hellig.	    La	   ditt	   rike	   komme.	    La	   din	   vilje	   skje	   på	    jorden	    som	   i	   himmelen.	    Gi	   oss	   i	   dag	   vårt	   daglige	    brød.	   	    Forlat	   oss	   vår	   skyld,	    som	   vi	   òg	   forlater	   våre	    skyldnere.	    Led	   oss	   ikke	   inn	   i	    fristelse,	    men	   frels	   oss	   fra	   det	    onde.	    For	   riket	   er	   ditt,	   	    og	   makten	   og	   æren	   i	    evighet.</p>
     <p xml:lang="fin"><em type="bold">Kiitosuhraus	
   </em> </p>
     <p xml:lang="nno"><em type="bold">Takkoffer	
   </em> </p>
-    <p><em type="bold">Virsi	
+    <p xml:lang="fkv"><em type="bold">Virsi	
   </em> </p>
-    <p xml:lang="nob"><em type="bold">Salme	
+    <p><em type="bold">Salme	
   	
   </em> </p>
     <p xml:lang="smj"><em type="bold">Siunaus	
   Velsignelse	
   </em> </p>
-    <p xml:lang="deu"><em type="italic">Benedicamus	
+    <p xml:lang="ger"><em type="italic">Benedicamus	
   </em> </p>
-    <p xml:lang="nob">
+    <p>
       <em type="italic">L: La oss prise Herren! M: Gud være lovet! Halleluja .. </em>
     </p>
     <p xml:lang="isl"><em type="italic">Liturgi:	
   </em> </p>
-    <p>Herra	
+    <p xml:lang="fkv">Herra	
   siunatkhoon	
   sinnuu	
   ja	
@@ -573,8 +574,8 @@
   rauhan!	
    <em type="italic">Liturg:	
   </em> </p>
-    <p xml:lang="nob">Herren	   velsigne	   deg	   og	    bevare	   deg!	   	    Herren	   la	   sitt	   ansikt	    lyse	   over	   deg	   og	   være	    deg	   nådig!	   Herren	   løfte	    sitt	   åsyn	   på	   deg	   og	   gi	    deg	   fred!</p>
-    <p xml:lang="nob"><em type="italic">Seurakunta	
+    <p>Herren	   velsigne	   deg	   og	    bevare	   deg!	   	    Herren	   la	   sitt	   ansikt	    lyse	   over	   deg	   og	   være	    deg	   nådig!	   Herren	   løfte	    sitt	   åsyn	   på	   deg	   og	   gi	    deg	   fred!</p>
+    <p><em type="italic">Seurakunta	
   laulaa:</em><em type="bold">	
   </em><em type="italic">Menigheten	
   synger:	
@@ -583,7 +584,7 @@
   </em> </p>
     <p xml:lang="sme"><em type="italic">Lukkari:	
   </em> </p>
-    <p>Herra!	
+    <p xml:lang="fkv">Herra!	
   Mie	
   kiitän	
   sinnuu	
@@ -648,9 +649,9 @@
    </p>
     <p xml:lang="nno"><em type="bold">Utgangsbønn	
   </em> </p>
-    <p xml:lang="nob"><em type="italic">Klokker:	
+    <p><em type="italic">Klokker:	
   </em> </p>
-    <p xml:lang="nob">Herre!	   Jeg	   takker	   deg	   	    fordi	   du	   har	   lært	   meg	    hva	   du	   vil	   	    at	   jeg	   skal	   gjøre.	   	    Hjelp	   meg	   nu,	   min	   Gud,	   	    ved	   din	   Hellige	   Ånd	   	    for	   Jesu	   Kristi	   skyld,	   	    at	   jeg	   må	   bevare	   ditt	    ord	   i	   et	   rent	   hjerte,	    styrkes	   ved	   det	   i	   troen,	   	    forbedres	   i	   et	   hellig	    levnet	   	    og	   ha	   trøst	   av	   det	   i	   liv	    og	   død!	   	    Amen	   i	   Jesu	   navn.</p>
+    <p>Herre!	   Jeg	   takker	   deg	   	    fordi	   du	   har	   lært	   meg	    hva	   du	   vil	   	    at	   jeg	   skal	   gjøre.	   	    Hjelp	   meg	   nu,	   min	   Gud,	   	    ved	   din	   Hellige	   Ånd	   	    for	   Jesu	   Kristi	   skyld,	   	    at	   jeg	   må	   bevare	   ditt	    ord	   i	   et	   rent	   hjerte,	    styrkes	   ved	   det	   i	   troen,	   	    forbedres	   i	   et	   hellig	    levnet	   	    og	   ha	   trøst	   av	   det	   i	   liv	    og	   død!	   	    Amen	   i	   Jesu	   navn.</p>
     <p xml:lang="fin"><em type="bold">3	
   x	
   3	
@@ -664,6 +665,6 @@
   </em> </p>
     <p xml:lang="smn"><em type="bold">Postludium	
   </em> </p>
-    <p xml:lang="nob">Oversatt	   til	   kvensk	   av	   Alf	   Nilsen-<hyph/>‐Børsskog	   og	   Terje	   Aronsen	    Melodier	   komponert	   av	   Halvdan	   Nedrejord@2012</p>
+    <p>Oversatt	   til	   kvensk	   av	   Alf	   Nilsen-‐Børsskog	   og	   Terje	   Aronsen	    Melodier	   komponert	   av	   Halvdan	   Nedrejord@2012</p>
   </body>
 </document>

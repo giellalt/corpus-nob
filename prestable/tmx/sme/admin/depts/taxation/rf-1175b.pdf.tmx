@@ -6,7 +6,7 @@
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Næringsoppgave 1 2014</seg>
+        <seg>For enkeltpersoner, ANS.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ealáhusdoalli / fidnu namma, ∏ujuhus jna..:</seg>
@@ -14,7 +14,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For enkeltpersoner, ANS.</seg>
+        <seg>Den næringsdrivendes / selskapets navn, adresse mv..:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Olgguldas rehketdoalli:</seg>
@@ -22,7 +22,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>/ DA og samvirkeforetak mv. som driver virksomhet uten å være årsregnskapspliktige etter regnskapsloven, men som har bokføringsplikt etter bokføringsloven.</seg>
+        <seg>Navn</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gálvorájus</seg>
@@ -30,23 +30,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vedlegg til selvangivelsen / selskapsoppgaven</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Bruttovuoitu oston gálvvuin vuovdima várás</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Den næringsdrivendes / selskapets navn, adresse mv..:</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Navn Postnr./-sted</seg>
+        <seg>Postnr./-sted</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rehketdoalloáigodat</seg>
@@ -62,50 +46,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>RájesRádjai</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Namma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gávpečujuhus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Har virksomheten skiftet næringsadresse i løpet av inntektsåret ?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Poastanr./báiki Leago doaibma molsun ealáhus ∏ujuhusa boahtojagis ?</seg>
+        <seg>Leago doaibma molsun ealáhus ∏ujuhusa boahtojagis ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Har virksomheten plikt til å ha pensjonsordning etter reglene for obligatorisk tjenestepensjon ?</seg>
+        <seg>Har virksomheten plikt til å ha pensjonsordning etter reglene for obligatorisk tjenestepensjon ? JaNei</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Leago doaibma geatnegas pen™unortnegii geatnegahtton bálvaluspen™uvnna regeliid mielde ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>JaNei</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -129,7 +81,7 @@
         <seg>Regnskapsførers navn</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Rehketdoalli namma</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,7 +89,7 @@
         <seg>Ekstern regnskapsfører:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Gávpe ∏ujuhus</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,7 +97,7 @@
         <seg>Regnskapsførers organisasjonsnummer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jo Rehketdoalli organisa™unnummar</seg>
+        <seg>Deavdágo olggobeale rehketdoalli ealáhusd. ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,7 +105,7 @@
         <seg>Postnr. / - sted</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Poastanr./-báiki</seg>
+        <seg>31.12.201331.12.2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,23 +113,7 @@
         <seg>Er regnskapet ført av ekstern regnsk.fører ?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čállágo olggobeale rehketdoalli rehketd. ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Rehketdoalli namma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gávpe ∏ujuhus</seg>
+        <seg>Vuođđoávdnasat ja oston beallefabrikáhtat</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,52 +121,12 @@
         <seg>Buskap - overføres til selvangivelsen post 4.4.2</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Deavdágo olggobeale rehketdoalli ealáhusd. ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>JoIi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>31.12.201331.12.2012</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuođđoávdnasat ja oston beallefabrikáhtat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gálvvut maid lea ráhkadeamen</seg>
+        <seg>Gárvves iešráhkaduvvon gálvvut</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Selvproduserte varer som skal nyttes i egen produksjon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gárvves iešráhkaduvvon gálvvut Oston gálvvut vuovdima várás</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oamit – sirdo vearrodieπáhusa 4.4.2 postiiDu™™e</seg>
@@ -249,7 +145,7 @@
         <seg>Sum varelager - overføres av alle til post 1495 og (unntatt jordbruk) til post 4.4.3 i selvangivelsen = =</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Iešráhkaduvvon gálvvut iežas buvttadeami atnui – eai čállo VD:i Gálvorádjosa submi – buohkat sirdet 1495 postii ja (earret eanadoallit) VD:a 4.4.3 postii</seg>
+        <seg>Gálvorádjosa submi – buohkat sirdet 1495 postii ja (earret eanadoallit) VD:a 4.4.3 postii</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,7 +153,7 @@
         <seg>0260 Bruttofortjeneste0250 Varekostnader0240 Totale salgsinntekter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bohccot, náhkkeeallit ja náhkkeeallenáhkit rádjosis 0270 Vearrogeatnegas ealáhusboahtu</seg>
+        <seg>Bohccot, náhkkeeallit ja náhkkeeallenáhkit rádjosis</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,22 +162,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>0240 Olles vuovdinboađut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0250 Gálvogolut0260 Bruttodienas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>–= JoIi</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,18 +182,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Skattepliktig næringsinntekt 0280 Skattepliktig næringsinnt.</seg>
+        <seg>Skattepliktig næringsinntekt 0280 Skattepliktig næringsinnt. fra omsetning</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0280 Vearrogeatnegas ealáhusboahtu gálvojođus iežas miellahtuiguin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>fra omsetning</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -329,7 +201,7 @@
         <seg>Nyetablert virksomhet i 2012 eller senere ?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>JoIiEaskaálggahuvvon doaibma jagis 2011 dahje dan maŋŋil ?</seg>
+        <seg>2011 dahje dan maŋŋil ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,7 +217,7 @@
         <seg>Sjablonberegning av skattemessig nedskrivning på kundefordringer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>0330 Verola™ árvu - juogaduvvo balánssas gaskal 1500 ja 1530 poasttaid</seg>
       </tuv>
     </tu>
     <tu>
@@ -353,15 +225,7 @@
         <seg>Konstaterte tap på kundefordringer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gávnnahuvvon massimat kunddarčavgumušain</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>x 4 x</seg>
+        <seg>0330 poastta juogadas mat leat kunddarčavgumušat – sirdo 1500 postii</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,36 +233,12 @@
         <seg>Fra post 0310 siste år</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Kunddarčavgumušaid ™abloŋanmero™tallon verola™ árvonjeaidin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skattemessig verdi - må evt. fordeles i balansen mellom postene 1500 og 1530</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0330 Verola™ árvu - juogaduvvo balánssas gaskal 1500 ja 1530 poasttaid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Andel av post 0330 som er kundefordringer - overføres til post 1500</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0330 poastta juogadas mat leat kunddarčavgumušat – sirdo 1500 postii</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>0310 poasttas maŋimuš jagis</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skattemessig verdi - må evt. fordeles i balansen mellom postene 1500 og 1530</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Kredihttavuovdin</seg>
@@ -414,7 +254,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Andre offentlige organers bruk av opplysninger i RF-1175. For å samordne og forenkle oppgaveinnleveringen fra næringslivet, kan opplysninger som avgis i " Næringsoppgave 1 ", RF-1175, helt eller delvis bli benyttet også av andre offentlige organer som har hjemmel til å innhente de samme opplysningene, jf. lov om Oppgaveregisteret §§ 5 og 6.</seg>
+        <seg>Andre offentlige organers bruk av opplysninger i RF-1175. For å samordne og forenkle oppgaveinnleveringen fra næringslivet, kan opplysninger som avgis i " Næringsoppgave 1 ", RF-1175, helt eller delvis bli benyttet også av andre offentlige organer som har hjemmel til å innhente de samme opplysningene, jf. lov om Oppgaveregisteret §§ 5 og 6. Opplysninger om evt.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mo eará almmola™ orgánat geavahit RF-1175S skovi dieπuid Ealáhusdieπáhusa addima ovttasordnemii ja álkidahttimii, sáhttet almmola™ orgánat main lea vuoigatvuohta vieΩΩat seammá dieπuid go mat leat «Ealáhusdieπáhus 1 š, RF-1175S, geavahit dieπuid ollásit dahje belohahkii, vrd. Dieπáhusregisttarlága §§ 5 ja 6.</seg>
@@ -422,7 +262,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Salgsinntekt og uttak, avg.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vej.</seg>
@@ -430,7 +270,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Salgsinntekt og uttak, utenfor merverdiavgiftsloven</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>ovttasordnema birra oa ∏∏ut dieπuid, go gulaskuttat Dieπáhusregistariin tel 75 00 75 00, dahje Vearrodirektoráhtain tel 800 800 00.</seg>
@@ -438,7 +278,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Opplysninger om evt.</seg>
+        <seg>Offentlige avgifter vedrørende salg</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>7000 Fievrruid boaldámu™</seg>
@@ -446,39 +286,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Salgsinntekt og uttak, avg.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>fritt innenfor merverdiavgiftsloven</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Salgsinntekt og uttak, utenfor merverdiavgiftsloven</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Offentlige avgifter vedrørende salg</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bilkostnader, bruk av privat bil i næring Offentlige tilskudd / refusjon</seg>
+        <seg>Bilkostnader, bruk av privat bil i næring</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Fievrruid dáhkádus ja divadat Biilagolut, ieΩas biila ealáhusa anus El.</seg>
@@ -486,7 +294,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Leieinntekt fast eiendom</seg>
+        <seg>Offentlige tilskudd / refusjon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>gulahallan iežas anus</seg>
@@ -494,7 +302,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Reise- / diett- og bilgodtgjørelse, oppgavepliktig</seg>
+        <seg>Leieinntekt av rettigheter - jakt, fiske mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mátke- / borran- ja biilabuhtadus, dieπ.</seg>
@@ -502,7 +310,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Leieinntekt fast eiendom, avgiftspliktig</seg>
+        <seg>Salgs- og reklamekostnadProvisjonsinntekt</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>geatnegas Mátke- ja borrangolut, eai dieπihangeatnegas</seg>
@@ -510,34 +318,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Leieinntekt av rettigheter - jakt, fiske mv..</seg>
+        <seg>Representasjonskostnader (med fradragsrett)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ovddastangolut (geasusvuoig.) Lahttomáksu (geasusvuoig.)</seg>
+        <seg>Ovddastangolut (geasusvuoig.)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Salgs- og reklamekostnadProvisjonsinntekt</seg>
+        <seg>Kontingenter (med fradragsrett)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Liseansa, pateantagolut, royalty js..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Representasjonskostnader (med fradragsrett) Kontingenter (med fradragsrett)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Eará golut, geasusvuoigaduvvon Negatiivva vuoito- / massin - konttus geasus ∏állin (RF-1219)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Inntektsføring fra saldo</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gávnnah.</seg>
+        <seg>Lahttomáksu (geasusvuoig.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -545,7 +337,7 @@
         <seg>Andre driftsinntekterForsikringspremie</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>massimat čavgumušain Eará gávnnah.</seg>
+        <seg>Liseansa, pateantagolut, royalty js..</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,7 +345,7 @@
         <seg>Garanti- og servicekostnadSum driftsinntekt</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Eará golut, geasusvuoigaduvvon Negatiivva vuoito- / massin - konttus geasus ∏állin (RF-1219)</seg>
       </tuv>
     </tu>
     <tu>
@@ -561,28 +353,20 @@
         <seg>Beholdn.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Gávnnah.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>endring av varer under tilvirkning og ferdig tilv.</seg>
+        <seg>endring av varer under tilvirkning og ferdig tilv. varer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>massimat čavgumušain Eará gávnnah.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>varer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Konstaterte tap på fordringer Beholdn.</seg>
+        <seg>Konstaterte tap på fordringer</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>massimat – massimat šiehtadusain jna..</seg>
@@ -590,15 +374,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>endring av egentilvirkede anleggsmidler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kunddarčavgumušaid verola™ árvonjeaidima nupp.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Lønn, feriepenger mv..</seg>
+        <seg>Beholdn.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>3400 Alm. doarj./ruovttol.máks.</seg>
@@ -606,15 +382,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Andre konstaterte tap – tap på kontrakter mv..</seg>
+        <seg>endring av egentilvirkede anleggsmidler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3600 Láigoboahtu giddodagas Láigoboahtu giddodat,</seg>
+        <seg>3600 Láigoboahtu giddodagas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Endring i skattemessig nedskrivning kundefordringer</seg>
+        <seg>Lønn, feriepenger mv..</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láigoboahtu giddodat,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Andre konstaterte tap – tap på kontrakter mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>divatgeatnegas</seg>
@@ -622,10 +406,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Endring i skattemessig nedskrivning kundefordringer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3695 Eará láigoboaπut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Annen oppgavepliktig godtgjørelse</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3695 Eará láigoboaπut 3700 Provi™unboahtu</seg>
+        <seg>3700 Provi™unboahtu</seg>
       </tuv>
     </tu>
     <tu>
@@ -633,7 +425,7 @@
         <seg>Innberetningspliktig pensjonskostnad</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3900 Eará doalloboađut 9900 Doalloboaπu submi</seg>
+        <seg>3900 Eará doalloboađut</seg>
       </tuv>
     </tu>
     <tu>
@@ -641,7 +433,7 @@
         <seg>eiere i ANS.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4005 Gálvogollu</seg>
+        <seg>9900 Doalloboaπu submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -649,7 +441,7 @@
         <seg>/ DA mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>4005 Gálvogollu</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,14 +502,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>7099 Ealáhusbiila ieΩas anus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Leie av lokaler</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -729,7 +513,7 @@
         <seg>Renovasjon, vann, avløp, renhold mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>7330 Vuovdin- ja máinnusgolut</seg>
       </tuv>
     </tu>
     <tu>
@@ -737,7 +521,7 @@
         <seg>Verktøy, inventar mv. som ikke skal aktiveres</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>7500 Dáhkáduspremiija</seg>
       </tuv>
     </tu>
     <tu>
@@ -745,7 +529,7 @@
         <seg>Reparasjon og vedlikehold av bygninger</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>7330 Vuovdin- ja máinnusgolut 7500 Dáhkáduspremiija</seg>
+        <seg>7565 Dáhkádus- ja bálvalusgolut</seg>
       </tuv>
     </tu>
     <tu>
@@ -753,7 +537,7 @@
         <seg>Reparasjon og vedlikehold - annet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>7565 Dáhkádus- ja bálvalusgolut</seg>
+        <seg>9910 Doallogoluid submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -761,7 +545,7 @@
         <seg>Fremmed tjeneste (regnskap / revisjon / rådgivning o.l..)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>8060 Valuhtavuoitu (agio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,7 +553,7 @@
         <seg>Kontorkostnader - bl.a. til el. kommunikasjon som inkluderer kostnader til privat bruk.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>9925 Kapitálaboađu submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,7 +561,7 @@
         <seg>Drivstoff transportmidler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>8160 Valuhtamassin (disagio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -785,7 +569,7 @@
         <seg>Egen pensjonsordning</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>9910 Doallogoluid submi</seg>
+        <seg>9928 Kapitálagoluid submi</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,7 +577,7 @@
         <seg>samvirkeforetak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>9920 Doalloboaπus</seg>
+        <seg>Almmola™ divadat vuovdimis</seg>
       </tuv>
     </tu>
     <tu>
@@ -801,7 +585,7 @@
         <seg>Immaterielle eiendeler, konsesjoner / melkekvote</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>8060 Valuhtavuoitu (agio) 9925 Kapitálaboađu submi</seg>
+        <seg>Láigoboahtu vuoigatv. - bivdu, guolástus jna..</seg>
       </tuv>
     </tu>
     <tu>
@@ -809,7 +593,7 @@
         <seg>Goodwill (saldogruppe b) Annen egenkapital</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>8160 Valuhtamassin (disagio) 9928 Kapitálagoluid submi</seg>
+        <seg>Positiivva vuoito- / massin - konttus boahto ∏állin (RF-1219)</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,7 +601,7 @@
         <seg>Forretningsbygg (saldogruppe i) Udekket tap</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>Saldos boahto ∏állin</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,148 +609,20 @@
         <seg>Fast teknisk installasjon i bygninger (saldogruppe j.)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>gárv. Vierisbálvalusat ja vuollebálvalusbargu Rájusmeari nuppást. ie™ráhk. gittaneav.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bygg, anlegg, maskiner under bygging - til eget bruk Jord- og skogverdier</seg>
+        <seg>Bygg, anlegg, maskiner under bygging - til eget bruk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vuovdinboahtu ja atnuiváldimat, divatgeátnegas Vuovdinboahtu ja atnuiváldimat, divatkeahtta lassiarvodivatlága mielde</seg>
+        <seg>Almmuhangeatnegas pen™ungollu Bargobuhtadus ANS.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bygg, anlegg, maskiner under bygging - for salg</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuovdinboahtu ja atnuiváldimat, divatlága boittol.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Tomter og andre grunnarealer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmola™ divadat vuovdimis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Boliger inkl. tomter, hytter mv..</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Betinget avsatt gevinst (sktl.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>§ 14-70 og 14-71)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Láigoboahtu vuoigatv.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum ubeskattet egenkapital</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>- bivdu, guolástus jna..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Maskiner, personbiler, inventar (saldogruppe d)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Positiivva vuoito- / massin - konttus boahto ∏állin (RF-1219)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skip, rigger mv. (saldogruppe e)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Saldos boahto ∏állin Rájusmeari nuppást.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Fly, helikopter mv. (saldogruppe f)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>gálvvuin maid lea ráhk. ja gálvv.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Vare-, lastebiler, busser mv. (saldogruppe c) Langsiktig foretaksgjeld til kredittinstitusjoner</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>rahk.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kontormaskiner (saldogruppe a) Langsiktig lån i utenlandsk valuta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>gárv.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kortsiktig foretaksgjeld til kredittinstitusjoner</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vierisbálvalusat ja vuollebálvalusbargu Rájusmeari nuppást.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Andre driftsmidler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>ie™ráhk. gittaneav.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skattetrekk og andre trekk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Andre offentlige avgifter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Eará dieπihangeatnegas buhtadus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Avskrivbare eiendeler utenom saldosystemet (kostnadsford.)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhangeatnegas pen™ungollu Bargobuhtadus ANS. / DA jna. eaiggádiidda</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Varelager (spesifikasjon side 1) Stille interessentinnskudd og ansvarlig lånekapital</seg>
+        <seg>Jord- og skogverdier</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Fievrredeapmi ja sáhttogolut vuovdimis Energiija, boaldámu™ jna. buvttadeamis</seg>
@@ -974,7 +630,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Opptjente, ikke fakturerte kundefordringer Avsatt utbytte</seg>
+        <seg>Bygg, anlegg, maskiner under bygging - for salg</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ruskagurren, ∏áhci, duolva ∏áhci, buhtisteapmi jna..</seg>
@@ -982,55 +638,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Fordringer på ansatte</seg>
+        <seg>Tomter og andre grunnarealer</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargoneavvut, latnjabier.</seg>
+        <seg>Bargoneavvut, latnjabier. jna. maid ii aktivere Viesuid divodeamit ja máŋasatnu Divodeamit ja máŋasatnu eará Vierisbálvalusat (rehketdoallu / revi™uvdna/bagadeapmi jna..) Kantorgolut – ee. el-gulahalla</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Fordringer på eiere, styremedlemmer o.l..</seg>
+        <seg>Boliger inkl. tomter, hytter mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>jna. maid ii aktivere Viesuid divodeamit ja máŋasatnu Divodeamit ja máŋasatnu eará Vierisbálvalusat (rehketdoallu / revi™uvdna/bagadeapmi jna..)</seg>
+        <seg>5000 Bálkkát, luopmoruπat jna..</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Oppgjørskonto merverdiavgift</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kantorgolut – ee. el-gulahalla</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Langsiktige fordringer i utenlandsk valuta Skyldig arbeidsgiveravgift</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>5000 Bálkkát, luopmoruπat jna.. 5400 Bargoaddidivat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Krav på innbetaling av selskapskapital Forskudd fra kunder</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Aksjer og verdipapirfondsandeler Gjeld til ansatte og eiere</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Annen gjeld Sum gjeld</seg>
+        <seg>Betinget avsatt gevinst (sktl.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>5900 Eará bargoveagagolut</seg>
@@ -1038,63 +662,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sum egenkapital og gjeld</seg>
+        <seg>§ 14-70 og 14-71)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>5950 IeΩas pen™unortnet</seg>
+        <seg>6300 Lanjaid láigu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Obligasjoner og sertifikater</seg>
+        <seg>Sum ubeskattet egenkapital</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>6310 Biilla leasenláigu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Fylles bare ut av de som benyttet Næringsoppgave 2 (RF-1167) forrige år.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Midlertidige forskjeller 31.12.2013, jf. RF-1217</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Bankinnskudd for skattetrekk</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sum eiendeler = =</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>6000 Vuolidahttimat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Resultat enkeltpersonforetak fra post 9930</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>6300 Lanjaid láigu 6310 Biilla leasenláigu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Beløp under E overf.</seg>
+        <seg>Maskiner, personbiler, inventar (saldogruppe d)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>6340 Čuovga, liekkas</seg>
@@ -1102,39 +686,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>til RF-1224 og RF-1030 Fordeling av overskudd / underskudd.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Se rettledningen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>6400 Eará láigogolut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Type Næring</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Háldooamit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>ID (Eks. 1, 2, 3 mv..)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Verola™ ieΩaskapitála Eahpeávn.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skip, rigger mv. (saldogruppe e)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>háldooamit, doaibmalobit / mielkeearri</seg>
@@ -1142,7 +694,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Fly, helikopter mv. (saldogruppe f)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Viesut ja rusttegat, hoteallat js. (h saldoj.)</seg>
@@ -1150,119 +702,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Vare-, lastebiler, busser mv. (saldogruppe c) Langsiktig foretaksgjeld til kredittinstitusjoner</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gitta teknalaš installašuvdna huksehusain (j saldojoavku) Ovttasoamast.</seg>
+        <seg>Positiivva vuoito- ja massinkontu Evttola™ várrejuvvon vuoitu (vearrol. 14-70 ja § 14-71) Vearutkeahtes ieΩaskapitála submi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Post 0401 fordelt på næringer</seg>
+        <seg>Kontormaskiner (saldogruppe a) Langsiktig lån i utenlandsk valuta</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>oassekapitála ovttastusfidnus</seg>
+        <seg>berošteaddji ruhtab. ja vásttola™ loatnakapitála</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Skattepliktig inntekt fordelt på næringerHovedutøver Ektefelle / registrert partner</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>selvang. (RF-1030)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Verola™ ieΩaskapitála submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skattepliktig utbytte på aksjer mv..</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skattepliktig gevinst / fradragsberettiget tap ved realisasjon av aksjer mv.+ʒ</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Positiivva vuoito- ja massinkontu Evttola™ várrejuvvon vuoitu (vearrol.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Andel overskudd / underskudd og eventuelt gevinst / tap knyttet til andel i deltakerliknet selskap - posten skal nyttes kun av enkeltpersonforetak, se rettl.+ʒ</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>3 % av skattefrie inntekter etter fritaksmetoden +</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14-70 ja § 14-71) Vearutkeahtes ieΩaskapitála submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>For samvirke: Etterbetaling, bonus mv. ekskl. MVA til andelseiere / medl. ʒ</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>For samvirke: Næringsinntekt / underskudd - beløpet overføres til hhv. post 201 eller post 222 i RF-1028 (selvangivelse for aksjeselskap mv..)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Spesifikasjon av privatkonto</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Guhkesáiggi loatna olgoriikkala™ valuhtas Doaibmak.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Uttak av driftsmidler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>berošteaddji ruhtab.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Uttak av varer og tjenester</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>ja vásttola™ loatnakapitála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Ikke fradragsberettigede kontigenter / gaver</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Andre ikke fradragsberettigede kostnader uten fradragsrett</seg>
+        <seg>Kortsiktig foretaksgjeld til kredittinstitusjoner</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vearrogeassin ja eará geassimat Loahpparehketkontu lassiárvodivat</seg>
@@ -1270,111 +726,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Private kostnader til elektronisk kommunikasjon</seg>
+        <seg>Andre driftsmidler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg></seg>
+        <seg>1.1.2013 divvon ieΩaskapitála</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Diverse andre private kostnader</seg>
+        <seg>Skattetrekk og andre trekk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vealgi bargiide ja eaiggádiidda</seg>
+        <seg>1000 Dutkan ja ovdánahttin</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Innskudd andre eiendeler</seg>
+        <seg>Andre offentlige avgifter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>IeΩaskapitála ja velggiid submi</seg>
+        <seg>2045 Várrejuvvon fitnet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Skatter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Fradragsført bruk av privat bil etter sats</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Premie til egen sykeog ulykkesforsikring</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>31.12.2012 boddosaš erohusat vrd. RF-1217</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(beløp i hele kroner)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skattemessig egenkapital per 31.12.2013 fra post 9960</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1.1.2013 divvon ieΩaskapitála 1000 Dutkan ja ovdánahttin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1080 Goodwill (b saldojoavku)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2050 Eará ieΩaskapitála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Privatkonto (spesifisert ovenfor) fra post 2079 ʒ</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2045 Várrejuvvon fitnet Vearutkeahtes ieΩaskapitála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Viesut, rusttegat, ma™iinnat huksemis – ieΩas atnui Viesut, rusttegat, ma™iinnat huksemis – vuovdimii</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Næringskostnader uten fradragsrett (spesifisert ovenfor) fra post 2060 ʒ</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Viessosajit ja eará eanaareálat Viesut oktan viessosajiiguin, barttat jna..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Egenkapitalkorreksjoner spesifisert ovenfor fra post 2070+ʒ</seg>
+        <seg>Avskrivbare eiendeler utenom saldosystemet (kostnadsford.)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ma™iinnat, personbiillat latnjabiergasat (d saldoj.)</seg>
@@ -1382,95 +758,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Varelager (spesifikasjon side 1) Stille interessentinnskudd og ansvarlig lånekapital</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Skiippat, riggat jna. (e saldojoavku) Girdit, helikoterat jna. (f saldojoavku) Gálvo-, guorbmebiillat, busset jna. (c saldoj.)</seg>
+        <seg>(golločavgum.) Negatiivva vuoito- ja massinkontu Gálvorájus (∏ielggadeapmi 1 siiddus)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Opptjente, ikke fakturerte kundefordringer Avsatt utbytte</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Kanturma™iinnat (a saldojoavku)</seg>
+        <seg>Dinejuvvon, buvttarehkega ∏álek. kunddarčavgumušat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Eará doallobiergasat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuolid.vulo™ háldoo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>, eai leat saldov.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(golločavgum.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Negatiivva vuoito- ja massinkontu Gálvorájus (∏ielggadeapmi 1 siiddus)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dinejuvvon, buvttarehkega ∏álek.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>kunddarčavgumušat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vealgi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fitnodatvealgi kredihttaásahusaide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Fordringer på ansatte</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Kunddarčavgumušat</seg>
@@ -1478,7 +782,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Fordringer på eiere, styremedlemmer o.l..</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Čavgumušat eaiggádiidda, stivralahtuide jna..</seg>
@@ -1486,7 +790,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Oppgjørskonto merverdiavgift</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guhkesáiggi čavgumušat olgoriikkalaš valuhtas</seg>
@@ -1494,7 +798,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Langsiktige fordringer i utenlandsk valuta Skyldig arbeidsgiveravgift</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Obliga™uvnnat ja sertifikáhtat</seg>
@@ -1502,15 +806,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sum skattemessig egenkapital per 31.12.2014 - Skal være lik post 9960=</seg>
+        <seg>Krav på innbetaling av selskapskapital Forskudd fra kunder</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Juogadas oassálastilivdnejuvvon fidnus Báŋkobidjamat vearrogeassimii</seg>
+        <seg>Juogadas oassálastilivdnejuvvon fidnus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Aksjer og verdipapirfondsandeler Gjeld til ansatte og eiere</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gáibádus máksit fidnokapitála Ossosat ja árvobábir - foandajuogadasat</seg>
@@ -1518,15 +822,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2080 Gov ∏∏akeahtes massin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Annen gjeld</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2095 Negatiivva saldo</seg>
@@ -1534,7 +830,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Sum gjeld</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2380 Kássakredihtta</seg>
@@ -1542,31 +838,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2400 Lágideaddjivealgi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2770 Velggola™ bargoaddidivat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2790 Eará almmola™ divadat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Sum egenkapital og gjeld</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2800 Várrejuvvon fitnet</seg>
@@ -1574,15 +846,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2900 Ovdamáksu kundariin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Obligasjoner og sertifikater</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2949 Bálká, luopmoruhta jna..</seg>
@@ -1590,31 +854,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2950 Čoggon reanttut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2995 Eará vealggit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>9990 Velggiid submi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Fylles bare ut av de som benyttet Næringsoppgave 2 (RF-1167) forrige år.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dán devdet du™™e sii geat diibmá devde Ealáhusdieπáhus 2 (RF-1167)</seg>
@@ -1622,7 +862,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Midlertidige forskjeller 31.12.2013, jf. RF-1217</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1105 Gávpevisti (i saldojoavku)</seg>
@@ -1630,7 +870,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Bankinnskudd for skattetrekk</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1140 Eana- ja vuovdeárvvut</seg>
@@ -1638,31 +878,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1577 Čavgumušat bargiide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1599 Eará čavgumušat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1880 Eará finánsaneavvut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Sum eiendeler = =</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>1900 Reaidaruhta</seg>
@@ -1670,15 +886,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>1920 Báŋkobidjamat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Resultat enkeltpersonforetak fra post 9930</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>9950 Háldoomiid submi</seg>
@@ -1686,15 +894,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>9996 31.12.2012 ieΩaskapitála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Beløp under E overf.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>ealáhusaide main oktasaččat meroštallá personboađu.</seg>
@@ -1702,23 +902,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>C kolonna guoská dušše gaskamearrelivdnejuvvon vuovdedollui ja boazodollui, ja vel go sirdá boađu biomássabuvtta deamis eanadollui, geahča dáid ealáhusaid sierra bagadusa, RF-1178.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Boađut / vuollebáza eanadoalus, vuovdedoalus ja guolástusas E kolonnas, sirdojit vearro dieđáhusa čielggaduvvon poasttaide.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>til RF-1224 og RF-1030 Fordeling av overskudd / underskudd.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0401 Boađus ovttaolbmofitnodagas 9930 poasttasBadjebáza / vuollebáza juohkimii.</seg>
@@ -1726,7 +910,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Se rettledningen.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geahča bagadusaE supmit sirdon</seg>
@@ -1734,7 +918,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Type Næring</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>RF- 1224:i ja RF-1030:i</seg>
@@ -1742,23 +926,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>ABIDE Vearrogeatnegas boahtu juogaduvvon ealáhusaide Sirdonvearrodie - đáhusa (RF-1030)poastta nr..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>F Váldo doai m - maheaddji G Beallela™/logahallon guoibmiMakkár ealáhus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>ID (Eks. 1, 2, 3 mv..)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(Omd. 1,2,3 jna.)</seg>
@@ -1766,7 +934,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Post 0401 fordelt på næringer</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>C Divvumat vuoππoealáhusain, geah ∏a bagadusa</seg>
@@ -1774,7 +942,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skattepliktig inntekt fordelt på næringerHovedutøver Ektefelle / registrert partner</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0403 Dárkkistansubmi</seg>
@@ -1782,7 +950,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>selvang.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jahkeboaπus</seg>
@@ -1790,7 +958,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>(RF-1030)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0410 Boaπus 9930 poasttas</seg>
@@ -1798,7 +966,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skattepliktig utbytte på aksjer mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0411 Vearrogeatnegas fitnet ossosiin jna..</seg>
@@ -1806,15 +974,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0412 Reantoboaπut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skattepliktig gevinst / fradragsberettiget tap ved realisasjon av aksjer mv.+ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0413 Reantogolut Vearrogeatnegas vuoitu / geasusvuoigaduvvon massin ossosiid jna. realisašuvnnas</seg>
@@ -1822,15 +982,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3% vearuhis bohtosiin luvvenvuogi mielde</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Andel overskudd / underskudd og eventuelt gevinst / tap knyttet til andel i deltakerliknet selskap - posten skal nyttes kun av enkeltpersonforetak, se rettl.+ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Badjebáhcaga / vuollebáhcaga juogadas ja oassálastilivdnejuvvon searvvi juogadasas vejolaš vuoitu / massin – poastta galget dušše ovttaolbmofitnodagat atnit, geahča bagad.</seg>
@@ -1838,15 +990,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jahkeboađus – ANS.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>3 % av skattefrie inntekter etter fritaksmetoden +</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>/ DA sirdá submi (fidnodieđáhusa) RF-1215 1110 postii.</seg>
@@ -1854,15 +998,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ovttasgávpefidnuide, geahča bagadusa !</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>For samvirke: Etterbetaling, bonus mv. ekskl. MVA til andelseiere / medl. ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>9980: Ovttastusfidnuide: Maŋŋemáksin, bonus jna. earret LÁD juogadasoam./miel.</seg>
@@ -1870,7 +1006,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>For samvirke: Næringsinntekt / underskudd - beløpet overføres til hhv. post 201 eller post 222 i RF-1028 (selvangivelse for aksjeselskap mv..)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ovttastusfidnuide: Ealáhusboahtu / vuollebáza – submi sirdo RF-1028 (oasussearvvi jna. vearrodieđáhus) 201 dahje 222 postii</seg>
@@ -1878,23 +1014,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>IeΩaskonttu ∏ielggadeapmiEaláhusgolut geasusvuoigatvuoπa haga / ieΩaskapitáladivvumat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2061 Reaidaatnuiváldin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Spesifikasjon av privatkonto</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2063 Doallobiergasiid atnuiváldin</seg>
@@ -1902,7 +1022,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Uttak av driftsmidler</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gálvvuid ja bálvalusaid atnuiváldin</seg>
@@ -1910,7 +1030,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Uttak av varer og tjenester</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2065 Ásodat ealáhusvisttis</seg>
@@ -1918,7 +1038,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Ikke fradragsberettigede kontigenter / gaver</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geasusvuoigaduvvamahaga ovddastangolut</seg>
@@ -1926,7 +1046,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Andre ikke fradragsberettigede kostnader</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geasusvuoigaduvvama haga lahttomávssut / skeaŋkkat Eará geasusvuoigaduvvamahaga golut</seg>
@@ -1934,15 +1054,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2067 Čuovga ja liekkas alcces</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>uten fradragsrett</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ealáhusboaπuid submi geasusvuoigatvuoπa haga</seg>
@@ -1950,7 +1062,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Private kostnader til elektronisk kommunikasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>IeΩas golut elektrovnnala™ gulahallamii</seg>
@@ -1958,15 +1070,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2054 Vearuhis boaπut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Diverse andre private kostnader</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2055 Bidjamat reaidaruhta</seg>
@@ -1974,7 +1078,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Innskudd andre eiendeler</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2056 Bidjamat eará háldooamit</seg>
@@ -1982,15 +1086,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2069 Eará iežas golut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skatter</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2072 Vearut</seg>
@@ -1998,15 +1094,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2075 Ealáhusbiila ieΩas anus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Fradragsført bruk av privat bil etter sats</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geasusgesson atnu ieΩas biillas máksomeriid mielde</seg>
@@ -2014,7 +1102,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Premie til egen sykeog ulykkesforsikring</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2058 Positiivva ieΩaskapitáladivvumat</seg>
@@ -2022,7 +1110,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>(beløp i hele kroner)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2059 Negatiivva ieΩaskapitáladivvumat</seg>
@@ -2030,7 +1118,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Skattemessig egenkapital per 31.12.2013 fra post 9960</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2070 IeΩaskapitáladivvumiid submi</seg>
@@ -2038,23 +1126,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Premiija ieΩas buohcan- ja lihkohisvuoπadáhkádussii</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2078 Premiija buohcanruπa lassiodjui</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Privatkonto (spesifisert ovenfor) fra post 2079 ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2079 IeΩaskonttu submi =</seg>
@@ -2062,39 +1134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>= 0401 poasta juogaduvvon ealáhusaide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0420 31.12.2012 verola™ ieΩaskapitála 9960 poasttas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0421 Jahkeboaπus 9940 poasttas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>0422 IeΩaskontu (∏ielggaduvvon badjábealde) 2079 poasttas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Næringskostnader uten fradragsrett (spesifisert ovenfor) fra post 2060 ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0423 Ealáhusgolut geasusvuoigatvuoπa haga (∏ielggaduvvon bajábealde) 2060 poasttas</seg>
@@ -2102,7 +1142,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Egenkapitalkorreksjoner spesifisert ovenfor fra post 2070+ʒ</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0424 IeΩaskapitáladivvumat ∏ielggaduvvon bajábealde 2070 poasttas</seg>
@@ -2110,50 +1150,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg></seg>
+        <seg>Sum skattemessig egenkapital per 31.12.2014 - Skal være lik post 9960=</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>0425 31.12.2013 verolaš iežaskapitála submi – Galgá leat seamma go 9960 poasta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Báiki ja beaiviVuollái ∏ála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>IeΩaskapitáladássen (supmit olles kruvnnuin)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuollái ∏ála</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>TelefonnummarGeainna gulaskuddat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg></seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg></seg>
       </tuv>
     </tu>
   </body>

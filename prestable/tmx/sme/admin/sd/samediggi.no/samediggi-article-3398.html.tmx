@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3398.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3398.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - næring - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - ealáhusat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søkerbaserte tilskudd - næring</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcanvuđot doarjagat - ealáhusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 17.03.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 17.03.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -111,7 +105,7 @@
         <seg>Vedlikehold, driftsbetingete kostnader, tiltak som virker konkurransevridende, mobile kjøretøy og tilhengere, utleiebygg, lagerbygg, kjøp av bygg og eiendommer, leasing, rene utskiftinger, arrangering av kurs, seminarer, konferanser og til tiltak som finansieres over offentlige budsjettposter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, sieiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte.</seg>
+        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, seaiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,7 +265,7 @@
         <seg>Tilskudd til fysiske investeringer utbetales i sin helhet når gyldig dokumentasjon foreligger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¬juvvon.</seg>
+        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¨juvvon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -279,7 +273,7 @@
         <seg>Gyldig dokumentasjon er bekreftelse fra bank, autorisert regnskapsfører, registrert eller statsautorisert revisor.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gustovaš duođaštus lea duođaštus báŋkkus, fápmuduvvon rehketdoallu, ¬dárkkisteaddjis registrerejuvvon dahje stáhtafápmuduvvon rehketdoallodárkkisteaddjis.</seg>
+        <seg>Gustovaš duođaštus lea duođaštus báŋkkus, fápmuduvvon rehketdoallo ¨dárkkisteaddjis, registrerejuvvon dahje stáhtafápmuduvvon rehketdoallodárkkisteaddjis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -439,7 +433,7 @@
         <seg>Vedlikehold, driftsbetingete kostnader, tiltak som virker konkurransevridende, mobile kjøretøy og tilhengere, utleiebygg, lagerbygg, kjøp av bygg og eiendommer, leasing, rene utskiftinger, arrangering av kurs, seminarer, konferanser og til tiltak som finansieres over offentlige budsjettposter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, sieiva lonuhallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
+        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, seaiva lonuhallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,7 +449,7 @@
         <seg>Søknadsfristene er 1. februar, 1. april og 1. september 2010</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ohcanáigemearrin leat guovvamánu, cuoŋománu ja čakčamánu 1. beaivvit 2010.</seg>
+        <seg>Ohcanáigemearrin leat guovvamánu, cuoŋománu ja čakčamánu 1. beaivvit 2010. s</seg>
       </tuv>
     </tu>
     <tu>
@@ -607,7 +601,7 @@
         <seg>Tilskudd til fysiske investeringer utbetales i sin helhet når gyldig dokumentasjon foreligger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¬juvvon.</seg>
+        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¨juvvon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -676,7 +670,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hvis tiltaket ikke ferdigstilles innen fastsatt frist bortfaller tilskuddet uten forhåndsvarsel For øvrig gjelder regelverket fastsatt av Sametinget i sak 43/07 Revisjon av Sametingets søkerbaserte tilskuddsforvaltning.</seg>
+        <seg>For øvrig gjelder regelverket fastsatt av Sametinget i sak 43/07 Revisjon av Sametingets søkerbaserte tilskuddsforvaltning.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus doaibmabidju ii gárvvistuvvo mearriduvvon áigemeari sisa, de sihkkojuvvo doarjja almmá ovdagihtii dieđiheami haga Muđui gustojit dat njuolggadusat maid Sámediggi lea mearridan áššis 43/07 Daid doarjagiid hálddašeami ođasmahttin maid Sámedikkis sáhttá ohcat.</seg>
@@ -751,7 +745,7 @@
         <seg>Vedlikehold, driftsbetingete kostnader, tiltak som virker konkurransevridende, mobile kjøretøy og tilhengere, utleiebygg, lagerbygg, kjøp av bygg og eiendommer, leasing, rene utskiftinger, arrangering av kurs, seminarer, konferanser og til tiltak som finansieres over offentlige budsjettposter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, sieiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
+        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, seaiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
       </tuv>
     </tu>
     <tu>
@@ -919,7 +913,7 @@
         <seg>Tilskudd til fysiske investeringer utbetales i sin helhet når gyldig dokumentasjon foreligger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¬juvvon.</seg>
+        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¨juvvon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1111,7 +1105,7 @@
         <seg>Vedlikehold, driftsbetingete kostnader, tiltak som virker konkurransevridende, mobile kjøretøy og tilhengere, utleiebygg, lagerbygg, kjøp av bygg og eiendommer, leasing, rene utskiftinger, arrangering av kurs, seminarer, konferanser og til tiltak som finansieres over offentlige budsjettposter</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, sieiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
+        <seg>Bajásdoallamii, doaibmavuđot goluide, doaibmabijuide mat váikkuhit gilvvu botnjama, mobiila vuojániidda ja gálvojorriide, láigoviesuide, vuorkávisttiide, visttiid ja giddodagaid oastimii, leasemii, seaiva lonohallamiidda, kurssaid, semináraid ja konferánssaid lágideapmái ja doaibmabijuide mat ruhtaduvvojit almmolaš bušeahtaid bokte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,7 +1225,7 @@
         <seg>Stipendet kan ytes til delvis dekning av levekostnader (egen lønn), konsulentbistand, markedsundersøkelser, opplæring, prøveproduksjon, reisekostnader, mindre investeringer, leid hjelp eller avløser, konseptutvikling og annen bedriftsplanlegging.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Stipeandda sáhttá oažžut gokčan dihte muhtin ráje birgengoluin (iežas bálká), konsuleanta, ­veahkkái márkaniskkadeapmái, oahpaheapmái, geahččalanbuvttadeapmái, mátkegoluide, unnit investeremiidda, bálkáhit veahki dahje sadjásačča, konseaptaovddideapmái ja eará fitnodatplánemii.</seg>
+        <seg>Stipeandda sáhttá oažžut gokčan dihte muhtin ráje birgengoluin (iežas bálká), konsuleantaveahkkái, márkaniskkadeapmái, oahpaheapmái, geahččalanbuvttadeapmái, mátkegoluide, unnit investeremiidda, bálkáhit veahki dahje sadjásačča, konseaptaovddideapmái ja eará fitnodatplánemii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,7 +1345,7 @@
         <seg>Tilskudd til fysiske investeringer utbetales i sin helhet når gyldig dokumentasjon foreligger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¬juvvon.</seg>
+        <seg>Doarjja fysihkalaš investeremiidda máksojuvvo ollásit dalle go gustovaš duođaštus lea bukto ¨juvvon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,12 +1569,20 @@
         <seg>Tilskuddsmottaker for tilskuddsordningen:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjjaoažžu: Boazodoalu oahppokantuvra</seg>
+        <seg>Doarjjaoažžu:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Opplæringskontoret i reindrift</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boazodoalu oahppokantuvra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målgruppe for tilskuddsordningen:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Doarjjaortnega olahusjoavku:</seg>
@@ -1596,7 +1598,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Antall duodjilærlinger</seg>
+        <seg>Kriterier for måloppnåelse:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ulbmilolahusa eavttut:</seg>
@@ -1604,10 +1606,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Antall duodjilærlinger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Man ollu duodjefidnooahppit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Tildelingskriterier og utbetalingsvilkår:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Man ollu duodjefidnooahppit Juolludaneavttut:</seg>
+        <seg>Juolludaneavttut:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,10 +1806,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kriterier for å oppnå driftstilskudd er som følger:</seg>
+        <seg>Enkeltpersonforetak som oppfyller kriterier for å motta driftstilskudd</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ovttaolbmofitnodagat mat devdet doaibmadoarjaga oažžuneavttuid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kriterier for å oppnå driftstilskudd er som følger:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doarjjaeavttut:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,12 +1977,20 @@
         <seg>7.5.2 Investerings- og utviklingstilskudd - næringsavtale for duodji</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>7.5.2 Investeren- ja ovddidandoarjja - duoji ealáhusšiehtadus Vuoruheamit 2010:s:</seg>
+        <seg>7.5.2 Investeren- ja ovddidandoarjja - duoji ealáhusšiehtadus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Prioriteringer for 2010: Kompetansehevingstiltak for etablerere og etablerte utøvere</seg>
+        <seg>Prioriteringer for 2010:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoruheamit 2010:s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kompetansehevingstiltak for etablerere og etablerte utøvere</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gelbbolašvuođa bajideami doaibmabijut álggaheddjiid ja ásahuvvon doaimmaheddjiid várás</seg>
@@ -2327,7 +2353,7 @@
         <seg>Ved spesielle tilfeller kan tiltaket få utsatt dato for ferdigstillelse inntil 2 år etter tilskuddsbrevets dato, dette må spesielt begrunnes.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Erenoamáš diliid geažil sáhttá doaibmabiju válbmema oažžut maŋiduvvot gitta 2 jagi rádjái maŋŋá doarjjareivve beaivádeami, dán ferte erenoamážit čilget.</seg>
+        <seg>Erenoamáš diliid geažil sáhttá doaibmabiju válbmema oažžut maŋiduvvot gitta 2 jagi radjái maŋŋá doarjjareivve beaivádeami, dán ferte erenoamážit čilget.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2532,7 +2558,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Prosjektrapport må utarbeides i henhold til aktivitetsplan og vilkår i vedtaket.</seg>
+        <seg>Dokumentasjon på at aktivitetene er gjennomført kan også bekreftes ved bankutskrift med vedlagte fakturaer.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Doaimmaid mat leat čađahuvvon sáhttá maiddái duođaštit báŋkočáláhusain mas guittet leat mielde.</seg>

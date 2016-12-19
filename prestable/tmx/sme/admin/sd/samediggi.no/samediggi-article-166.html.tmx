@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-166.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-166.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flagget - dimensjoner og farger - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leavga - dimenšuvnnat ja ivnnit - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Flagget - dimensjoner og farger</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Leavga - dimenšuvnnat ja ivnnit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Pål Hivand.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Pål Hivand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 27.01.2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 27.01.2006</seg>
       </tuv>
     </tu>
     <tu>

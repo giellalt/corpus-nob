@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3400.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3400.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - opplæring - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - oahpahus - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søkerbaserte tilskudd - opplæring</seg>
@@ -12,26 +22,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 23.02.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 23.02.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Søknadsskjema til Samefolkets fond: Tradisjonell kunnskap - dokumentasjon og formidling finnes her</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Árbediehtu - duođašteapmi ja gaskkusteapmi - sámeálbmotfoanda.</seg>
+        <seg>Árbediehtu - duođašteapmi ja gaskkusteapmi - sámeálbmotfoanda. Dáppe gávnnat ohcanskovi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39,7 +33,7 @@
         <seg>Prioriteringer for 2010:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáppe gávnnat ohcanskovi.</seg>
+        <seg>Vuoruheamit 2010:s</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,7 +113,15 @@
         <seg>Det kan ikke påregnes ytterligere tilskudd til nevnte tiltak eller eventuelle kostnadsoverskridelser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ii sáhte vuordit eanet doarjaga namuhuvvon doaibmabidjui dahje vejolaš liigegoluide Doaibma- ja investerendoarjja ii addojuvvo</seg>
+        <seg>Ii sáhte vuordit eanet doarjaga namuhuvvon doaibmabidjui dahje vejolaš liigegoluide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det ytes ikke tilskudd til drifts- og investeringsutgifter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibma- ja investerendoarjja ii addojuvvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,7 +334,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Samfunnsfag for videregående opplæring - eventuelt oversetting og tilpasning til LK06S Vg1/Vg 2</seg>
+        <seg>Samfunnsfag for videregående opplæring - eventuelt oversetting og tilpasning til LK06S Vg1/Vg2</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Servodatfágat joatkkaoahpahusa várás - vejolaččat jorgaleapmi ja heiveheapmi Jo1/Jo 2LK06S:s</seg>
@@ -423,7 +425,7 @@
         <seg>Det skal utarbeides prosjektbeskrivelse som omtaler framdriftsplan knyttet til milepæler, prosjektets gjennomførbarhet, hvordan prosjektet ivaretar kravene i gjeldende læreplanverk og hvordan læremiddelet skal kvalitetssikres i henhold til krav i gjeldende læreplanverk og opplæringslov</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráhkaduvvo prošeaktačilgehus mas leat ovdánanplána osiid mielde, prošeavtta čađahanvejolaš, ­vuohta movt prošeakta goziha gustovaš oahppoplánadahkosa ja oahpahuslága</seg>
+        <seg>Ráhkaduvvo prošeaktačilgehus mas leat ovdánanplána osiid mielde, prošeavtta čađahanvejolašvuohta, movt prošeakta goziha gustovaš oahppoplánadahkosa ja oahpahuslága</seg>
       </tuv>
     </tu>
     <tu>
@@ -519,7 +521,7 @@
         <seg>Dette gjelder ikke læremidler som kun er tilgjengelig på internett</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dát ii guoskka daid oahpponeavvuide mat leat olámuttos dušše interneahtas</seg>
+        <seg>Dát ii guoskka daid oahpponeavvuide mat leat olámuttus dušše interneahtas</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,7 +545,7 @@
         <seg>Dette gjelder ikke læremidler som kun er tilgjengelig på internett</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dát ii guoskka daid oahpponeavvuide mat leat olámuttos dušše interneahtas.</seg>
+        <seg>Dát ii guoskka daid oahpponeavvuide mat leat olámuttus dušše interneahtas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -591,7 +593,7 @@
         <seg>Dersom tilskuddmottaker går konkurs, prosjektets virksomhet stanses eller opphører, eller tilskuddsmottaker av andre grunner ikke kan eller vil utføre utgivelsen, kan Sametinget forbeholde seg retten til å overta utgivelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje loahpahuvvo, dahje doarjja ­oažžu eará sivaid geažil ii sáhte dahje ii háliit gárvvistit prošeavtta, de sáhttá Sámediggi gáibidit vuoigatvuođa váldit badjelasas barggu.</seg>
+        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje loahpahuvvo, dahje doarjjaoažžu eará sivaid geažil ii sáhte dahje ii hálit gárvvistit prošeavtta, de sáhttá Sámediggi gáibidit vuoigatvuođa váldit badjelasas barggu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -668,7 +670,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommendes arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler kr 1 500 pr. side med 2000 anslag.</seg>
+        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommendes arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Girječálliid ja jorgaleddjiid friijaoastin gitta jagi rádjai, šiehtadusa mielde guoskevaš bargoaddiin, dahje girječállibálkkáš mánusa oastima oktavuođas 2 500 ru siiddu nammii ođđa teavsttas, bálkkáš gustovaš oahpponeavvuid jorgaleamis, heiveheamis, ođasmahttimis ja áigeguovdilastimis lea 1 500 ru siiddu nammii mas leat 2000 guoskkahaga.</seg>
@@ -676,7 +678,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ved spesielle tilfeller kan forfattere og oversettere frikjøpes i inntil to år.</seg>
+        <seg>kr 1 500 pr. side med 2000 anslag. Ved spesielle tilfeller kan forfattere og oversettere frikjøpes i inntil to år.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Erenoamáš oktavuođain sáhttá girječálliid ja jorgaleddjiid friijaoastit gitta guovtti jagi rádjai.</seg>
@@ -839,7 +841,7 @@
         <seg>Med all produksjon menes utarbeiding av beskrivelse av innhold og funksjonalitet, utviklingskostnader, oversetting og testing av læremiddelet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ollásit buvttademiin oaivvilduvvo sisdoalu ja funkšunalitehta čilgen, ovddidan, ¬golut jorgaleapmi ja oahpponeavvu geahččaleapmi.</seg>
+        <seg>Ollásit buvttademiin oaivvilduvvo sisdoalu ja funkšunalitehta čilgen, ovddidan ¨golut, jorgaleapmi ja oahpponeavvu geahččaleapmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -903,7 +905,7 @@
         <seg>Det kan blant annet være utgifter forlaget har til husleie, kontoradministrasjon, reiser, eksterne konsulenttjenester, opphavsrettigheter, faglig kvalitetssikring, bilderedigering og lignende</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dat sáhttet leat golut mat lágádusas leat viessoláigui, kantuvrra hálddašeapmái, mátkkiide, olggobeale konsuleantabálvalusaide, vuođđovuoigat, ¬vuođaide fágalaš kvalitehta sihkkarastimii, govaid redigeremii ja sullasaččaide</seg>
+        <seg>Dat sáhttet leat golut mat lágádusas leat viessoláigui, kantuvrra hálddašeapmái, mátkkiide, olggobeale konsuleantabálvalusaide, vuođđovuoigat ¨vuođaide, fágalaš kvalitehta sihkkarastimii, govaid redigeremii ja sullasaččaide</seg>
       </tuv>
     </tu>
     <tu>
@@ -975,7 +977,7 @@
         <seg>For trykte læremidler utbetales 50 % ved prosjektstart, 25 % når manus og avtale for trykking foreligger og de resterende 25 % når produktet er ferdigstilt og utgiftene dokumentert</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Prentejuvvon oahpponeavvuide máksojuvvo 50 % dalle go prošeakta álggahuvvo, 25 % dalle go mánus ja prentenšiehtadus gárvánit ja loahppa 25 % dalle go buvtta lea gárvvistuvvon ja golut duođaštuvvon</seg>
+        <seg>Prentejuvvon oahpponeavvuide máksojuvvo 50 % dalle go prošeakta álggahuvvo, 25 % dalle go mánus ja prentenšiehtadus gárvanit ja loahppa 25 % dalle go buvtta lea gárvvistuvvon ja golut duođaštuvvon</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,7 +1009,7 @@
         <seg>Ved spesielle tilfeller kan prosjekter få utsatt dato for ferdigstillelse inntil 3 år etter tilskuddsbrevets dato, dette må spesielt begrunnes</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Erenoamáš oktavuođain sáhttet prošeavttat oažžut guhkiduvvot gárvvistanáigemeari gitta 3 jahkái doarjjareivve beaivádeami maŋŋá, dat ferte vuođustuvvot erenoamážit.</seg>
+        <seg>Erenoamáš oktavuođain sáhttet prošeavttat oažžut guhkeduvvot gárvvistanáigemeari gitta 3 jahkái doarjjareivve beaivádeami maŋŋá, dat ferte vuođustuvvot erenoamážit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1108,10 +1110,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tildelingskriterier:</seg>
+        <seg>Kartleggings- og veiledningsmateriell</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Kárten- ja bagadanávdnasat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tildelingskriterier:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juolludaneavttut:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,7 +1241,7 @@
         <seg>Læremidler på nordsamisk bør følge råd i " Čállinrávagirji ", www.oahpponeahtta.no</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Davvisámegiela oahpponeavvuid ráhkadeamis berre čuovvut rávvagiid mat leat ", " Čállinrávagirjjis www.oahpponeahtta.no</seg>
+        <seg>Davvisámegiela oahpponeavvuid ráhkadeamis berre čuovvut rávvagiid mat leat " Čállinrávagirjjis ", www.oahpponeahtta.no</seg>
       </tuv>
     </tu>
     <tu>
@@ -1271,7 +1281,7 @@
         <seg>Læremiddelet skal være tilgengelig på markedet i minst 5 år.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oahpponeavvu galgá leat olámuttos márkanis unnimusat vihtta jagi.</seg>
+        <seg>Oahpponeavvu galgá leat olámuttus márkanis unnimusat vihtta jagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1303,7 +1313,7 @@
         <seg>Dersom tilskuddmottaker går konkurs, prosjektets virksomhet stanses eller opphører, eller tilskuddsmottaker av andre grunner ikke kan eller vil utføre utgivelsen kan Sametinget forbeholde seg retten til å overta utgivelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje heaittihuvvo, dahje doarjjaoažžu eará sivaid geažil ii sáhte dahje ii háliit almmuhit, de sáhttá Sámediggi váldit badjelasas almmuheami.</seg>
+        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje heaittihuvvo, dahje doarjjaoažžu eará sivaid geažil ii sáhte dahje ii hálit almmuhit, de sáhttá Sámediggi váldit badjelasas almmuheami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,7 +1366,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommende arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler kr 1 500 pr. side med 2000 anslag</seg>
+        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommende arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Girječálliid ja jorgaleddjiid friijaoastin gitta ovtta jahkái, šiehtadusa mielde guoskevaš bargoaddiin, dahje girječállibálkkáš mánusa oastima oktavuođas 2 500 ru siiddu nammii ođđa teavsttas, dáláš oahpponeavvuid bálkkáš jorgaleapmái, heiveheapmái, ođasmahttimii ja áigeguovdilastimii lea 1 500 ru siiddu nammii 2000 guoskkahagain.</seg>
@@ -1863,7 +1873,7 @@
         <seg>Læremidler på nordsamisk bør følge råd i " Čállinrávagirji ", www.oahpponeahtta.no</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Davvisámegiela oahpponeavvuid ráhkadeamis berre čuovvut rávvagiid mat leat ", " Čállinrávagirjjis www.oahpponeahtta.no</seg>
+        <seg>Davvisámegiela oahpponeavvuid ráhkadeamis berre čuovvut rávvagiid mat leat " Čállinrávagirjjis ", www.oahpponeahtta.no</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,7 +1913,7 @@
         <seg>Læremiddelet skal være tilgengelig på markedet i minst 5 år.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oahpponeavvu galgá leat olámuttos márkanis unnimusat vihtta jagi.</seg>
+        <seg>Oahpponeavvu galgá leat olámuttus márkanis unnimusat vihtta jagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,7 +1945,7 @@
         <seg>Dersom tilskuddmottaker går konkurs, prosjektets virksomhet stanses eller opphører, eller tilskuddsmottaker av andre grunner ikke kan eller vil utføre utgivelsen kan Sametinget forbeholde seg retten til å overta utgivelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje heaittihuvvo, dahje doarjjaoažžu eará sivaid geažil ii sáhte dahje ii háliit almmuhit, de sáhttá Sámediggi váldit badjelasas almmuheami.</seg>
+        <seg>Jus doarjjaoažžu reastaluvvá, prošeavtta doaibma bissehuvvo dahje heaittihuvvo, dahje doarjjaoažžu eará sivaid geažil ii sáhte dahje ii hálit almmuhit, de sáhttá Sámediggi váldit badjelasas almmuheami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1988,7 +1998,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommende arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler kr 1 500 pr. side med 2000 anslag</seg>
+        <seg>Frikjøp av forfattere og oversettere inntil ett år, i henhold til avtale med vedkommende arbeidsgiver, eller forfatterhonorar ved kjøp av manus kr 2 500 pr. side for ny tekst, honorar for oversetting, tilpasning, fornying og oppdatering av eksisterende læremidler</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Girječálliid ja jorgaleddjiid friijaoastin gitta ovtta jahkái, šiehtadusa mielde guoskevaš bargoaddiin, dahje girječállibálkkáš mánusa oastima oktavuođas 2 500 ru siiddu nammii ođđa teavsttas, dáláš oahpponeavvuid bálkkáš jorgaleapmái, heiveheapmái, ođasmahttimii ja áigeguovdilastimii lea 1 500 ru siiddu nammii 2000 guoskkahagain.</seg>
@@ -2175,7 +2185,7 @@
         <seg>Det kan blant annet være utgifter forlaget har til husleie, kontoradministrasjon, reiser, eksterne konsulenttjenester, opphavsrettigheter, faglig kvalitetssikring, bilderedigering og lignende</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dat sáhttet ovdamearkka dihte leat golut lágádusa viessoláigui, kanturadministara, ¬šuvdnii mátkkiide, olggobeale konsuleantabálvalusaide, vuoigatvuođaoamasteddjiide, fágalaččat kvalitehta sihkkarastimii, govaid redigeremii ja sullasaččaide.</seg>
+        <seg>Dat sáhttet ovdamearkka dihte leat golut lágádusa viessoláigui, kanturadministara ¨šuvdnii, mátkkiide, olggobeale konsuleantabálvalusaide, vuoigatvuođaoamasteddjiide, fágalaččat kvalitehta sihkkarastimii, govaid redigeremii ja sullasaččaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2268,7 +2278,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ved spesielle tilfeller kan prosjekter få utsatt dato for ferdigstillelse inntil 3 år etter tilskuddsbrevets dato, dette må spesielt begrunnes</seg>
+        <seg>Ved spesielle tilfeller kan prosjekter få utsatt dato for ferdigstillelse inntil</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Erenoamáš oktavuođain sáhttá prošeakta oažžut guhkit áigemeari gárvvistit barggu gitta golmma jagi rádjai maŋŋá doarjjareivve dáhtona, dán ferte erenoamážit vuođustit</seg>
@@ -2332,7 +2342,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>4.2.2 Kompetanseheving</seg>
+        <seg>Søknadsskjema finnes her</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dáppe gávnnat ohcanskovi</seg>
@@ -2796,7 +2806,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>· Høyere utdanning i sør-, lule- eller nordsamisk språk.</seg>
+        <seg>Ž Høyere utdanning i sør-, lule- eller nordsamisk språk. Sørsamisk og lulesamisk prioriteres høyest</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Alit oahppu mátta-, julev- ja davvisámegielas geain lea sámegiella fágasuorggis</seg>
@@ -3396,7 +3406,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>· Sametingets søknadsskjema for ordningen benyttes</seg>
+        <seg>Ž Sametingets søknadsskjema for ordningen benyttes</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikki ohcanskovvi ortnega várás galgá geavahuvvot</seg>
@@ -3511,7 +3521,7 @@
         <seg>Grunnsats for familiebarnehage er inntil kr 45 000, når familiebarnehagen har ansvaret for minst to hjem med samiske barn</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bearašmánáidgárddiid vuođđomáksomearri lea gitta 45 000 ru rádjai dalle go bearašmánáid ¬gárddis lea ovddasvástádus unnimusat guovtti ruovttus main leat sámemánát</seg>
+        <seg>Bearašmánáidgárddiid vuođđomáksomearri lea gitta 45 000 ru rádjai dalle go bearašmánáid ¨gárddis lea ovddasvástádus unnimusat guovtti ruovttus main leat sámemánát</seg>
       </tuv>
     </tu>
     <tu>
@@ -3599,7 +3609,7 @@
         <seg>Søknadsskjema for språkopplæring i barnehager finnes her.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáppe gávnnat ohcanskovi:Doarjja sámi manaidgarddiide.</seg>
+        <seg>Dáppe gávnnat ohcanskovi:Doarjja sami manaidgarddiide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3607,7 +3617,7 @@
         <seg>Søknadsskjema for tilskudd til prosjekter o.l finnes her.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáppe gávnnat ohcanskovi: Sámi manaidgarddiid doarjagat proseavttaid ja ovddidanbarggu varas.</seg>
+        <seg>Dáppe gávnnat ohcanskovi: Sami manaidgarddiid doarjagat proseavttaid ja ovddidanbarggu varas.</seg>
       </tuv>
     </tu>
   </body>

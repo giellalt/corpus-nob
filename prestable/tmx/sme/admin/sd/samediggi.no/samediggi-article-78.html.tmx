@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-78.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-78.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Språkstyret - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki giellastivra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Språkstyret</seg>
@@ -40,22 +50,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámediggeráđđi lea nammadan dáid lahtuid Sámedikki giellastivrii 2009-2013 válgaáigodahkii: Rolf Olsen, jođiheaddji Várrelahttu: Else Turi Tor Magne Berg Várrelahttu: Marit Breie Henriksen Elle Marja Vars Toven Várrelahttu: Gudmund Johnsen Heidi Andersen Várrelahttu: Adele Nystø Rahka Lena Kappfjell Várrelahttu: Albert Jåma</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Roy Amundsen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Roy Amundsen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 09.03.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 09.03.2010</seg>
       </tuv>
     </tu>
   </body>

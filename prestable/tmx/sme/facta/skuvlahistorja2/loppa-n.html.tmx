@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">loppa-n.htm.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">loppa-n.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samene og skolen i Loppa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččat ja skuvla Láhpi suohkanis</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sámegillii</seg>
@@ -39,7 +49,7 @@
         <seg>Samene og skolen i Loppa</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámás: Elle Márjá Vars</seg>
+        <seg>Sápmelaččat ja skuvla Láhpi suohkanis</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,7 +86,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Mens de fleste bygdebøker fra kyst-Finnmark ofrer liten plass på samiske skoleforhold, har denne boka et 23 siders kapittel med tittelen «Samene og skolen».</seg>
+        <seg>Mens de fleste bygdebøker fra kyst-Finnmark ofrer liten plass på samiske skoleforhold, har denne boka et 23 siders kapittel med tittelen «Samene og skolenš.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Eanas giligirjjiin riddo-Finnmárkkus leat unnán dieđut sápmelaččaid skuvladilálašvuođaid birra, muhto dán girjjis gal lea 23-siidosaš artihkal man namma lea Samene og skolen (Sápmelaččat ja skuvla).</seg>
@@ -151,7 +161,7 @@
         <seg>Etter 11 år på Stortinget blei han ikke nominert igjen av Finnmark Arbeiderparti i 1969, og det har vært hevda at det var hans samepolitiske syn som gjorde at han ikke var ønska lenger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Go lei leamaš 11 jagi Stuoradikkis, de ii evttohan Finnmárkku Bargiidbellodat su šat 1969:s, ja lea gullon ahte lei su sámepolitihkalaš oaidnu mii lei sivvan dasa go su eai šat háliidan áirrasin.</seg>
+        <seg>Go lei leamaš 11 jagi Stuoradikkis, de ii evttohan Finnmárkku Bargiidbellodat su šat 1969:s, ja lea gullon ahte lei su sámepolitihkalaš oaidnu mii lei sivvan dasa go su eai šat hálidan áirrasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -215,15 +225,15 @@
         <seg>Om situasjonen i Loppa skriver han, etter sitt besøk her i 1717: «Loppens finner som er kun 6 familier og deriblandt ingen Fieldfinner, har noch udi deris egen Præsts omhyggelighed, særdelis siden hands klocher kand temmelig Lappisk, en schickelig Person.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhpi dilálašvuođa birra čállá son ná, maŋŋel go lea finadan dáppe 1717:s: «Loppens finner son er kun 6 familier og deriblandt ingen Fieldfinner, har noch udi deris egen Præsts omhyggelighed, særdelis siden hands klocher kand temmelig Lappisk, en schickelig Person.</seg>
+        <seg>Láhpi dilálašvuođa birra čállá son ná, maŋŋel go lea finadan dáppe 1717:s: «Loppens finner som er kun 6 familier og deriblandt ingen Fieldfinner, har noch udi deris egen Præsts omhyggelighed, særdelis siden hands klocher kand temmelig Lappisk, en schickelig Person.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ellers kunde till ydermeere framgang Korsnes Skolemestere af Alten 1 gang i aaret rejse til Bergsfjord og der samle Loppens finner, randsage, bestyrche og undervise dem»....</seg>
+        <seg>Ellers kunde till ydermeere framgang Korsnes Skolemestere af Alten 1 gang i aaret rejse til Bergsfjord og der samle Loppens finner, randsage, bestyrche og undervise demš....</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ellers kunde till ydermeere framgang Korsnes Skolemestere af Alten 1 gang i aaret rejse til Bergsfjord og der samle Loppens finner, randsage, bestyrche og undervise dem».</seg>
+        <seg>Ellers kunde till ydermeere framgang Korsnes Skolemestere af Alten 1 gang i aaret rejse til Bergsfjord og der samle Loppens finner, randsage, bestyrche og undervise demš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244,15 +254,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>De lærer deres Kristendom på Norsk mål, og de finnebørn jeg udi min tid haver haft til beredelse til Confirmation ere fundne de bedste».</seg>
+        <seg>De lærer deres Kristendom på Norsk mål, og de finnebørn jeg udi min tid haver haft til beredelse til Confirmation ere fundne de bedsteš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>De lærer deres Kristendom på Norsk mål, og de finnebørn jeg udi min tid haver haft til beredelse til Confirmation ere fundne de bedste».</seg>
+        <seg>De lærer deres Kristendom på Norsk mål, og de finnebørn jeg udi min tid haver haft til beredelse til Confirmation ere fundne de bedsteš.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det er en god attest sognepresten gir sine samiske sognebarn, men spørsmålet er om den opplysning han skriver om, gjelder kunnskaper i norsk, så de har forstått innholdet av den lærdom i «Kristendom på norsk mål» som de har fått....</seg>
+        <seg>Det er en god attest sognepresten gir sine samiske sognebarn, men spørsmålet er om den opplysning han skriver om, gjelder kunnskaper i norsk, så de har forstått innholdet av den lærdom i «Kristendom på norsk målš som de har fått....</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Suohkanbáhppa rámida iežas suohkana sámi mánáid, muhto sáhttá jearrat lea go dat máhttu man birra son čállá dárogiel máhttu, nu ahte sii leat ipmirdan dan dárogiel risttalašvuođamáhtu sisdoalu....</seg>
@@ -284,10 +294,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Klokkeren gammel og avfeldig»....</seg>
+        <seg>Klokkeren gammel og avfeldigš....</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Klokkeren gammel og avfeldig».</seg>
+        <seg>Klokkeren gammel og avfeldigš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -372,10 +382,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>I 1802 skriver således sogneprest Qvale i Hammerfest: «Man finder kun faa blandt Finnerne, der kan læse taalelig i en dansk Bog, færre, der kan gjøre Rede for deres Kristendom...».</seg>
+        <seg>I 1802 skriver således sogneprest Qvale i Hammerfest: «Man finder kun faa blandt Finnerne, der kan læse taalelig i en dansk Bog, færre, der kan gjøre Rede for deres Kristendom... š.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1802:s čállá ge Hámmárfeastta suohkanbáhppa Qvale: «Man finder kun faa blandt Finnerne, der kan læse taalelig i en dansk Bog, færre, der kan gjøre Rede for deres Kristendom...».</seg>
+        <seg>1802:s čállá ge Hámmárfeastta suohkanbáhppa Qvale: «Man finder kun faa blandt Finnerne, der kan læse taalelig i en dansk Bog, færre, der kan gjøre Rede for deres Kristendom... š. («Sámiid gaskkas gávdnojit dušše áibbas moattes geat máhttet oalle bures lohkat dánskkagiel girjji, vel hárvvibut leat sii, geat máhttet iežaset risttalašvuođa čilget... š.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -407,7 +417,7 @@
         <seg>I skattemanntallet er han oppført under rubrikken Skattefinner.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vearrodieđuin lea su namma čállojuvvon «Skattefinner» vuollái.</seg>
+        <seg>Vearrodieđuin lea su namma čállojuvvon «Skattefinnerš vuollái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,18 +454,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>«En dyktig sameskolemester var ikke å få i sognet», heter det.</seg>
+        <seg>«En dyktig sameskolemester var ikke å få i sognetš, heter det.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>«Ii leat vejolaš oažžut čeahpes sámeskuvlaolbmá suohkanii», daddjui.</seg>
+        <seg>«Ii leat vejolaš oažžut čeahpes sámeskuvlaolbmá suohkaniiš, daddjui.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>I 1826 var det en omgangsskolelærer i Loppa, «der de fleste av innbyggerne var samer, hvor vel mennene for en del forsto norsk, men ikke kvinnene, og hvor skoleholderen (læreren) var en nordmann som ikke forsto samisk».</seg>
+        <seg>I 1826 var det en omgangsskolelærer i Loppa, «der de fleste av innbyggerne var samer, hvor vel mennene for en del forsto norsk, men ikke kvinnene, og hvor skoleholderen (læreren) var en nordmann som ikke forsto samiskš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1826:s lei johtti skuvlaoahpaheaddji Láhpis, «gos eanas oassi ássiin ledje sápmelaččat, ja gos dievddut ipmirdedje veaháš dárogiela, muhto nissonolbmot eai, ja gos skuvlaolmmái (oahpaheaddji) lei dáčča gii ii ipmirdan sámegiela».</seg>
+        <seg>1826:s lei johtti skuvlaoahpaheaddji Láhpis, «gos eanas oassi ássiin ledje sápmelaččat, ja gos dievddut ipmirdedje veaháš dárogiela, muhto nissonolbmot eai, ja gos skuvlaolmmái (oahpaheaddji) lei dáčča gii ii ipmirdan sámegielaš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -516,10 +526,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>«Det var en merkelig Fremgang disse tvende Folks Ungdom i de sidste tvende Aar, efter Indførelsen af Lærebøger i deres Fædrenesprog, havde gjort».</seg>
+        <seg>«Det var en merkelig Fremgang disse tvende Folks Ungdom i de sidste tvende Aar, efter Indførelsen af Lærebøger i deres Fædrenesprog, havde gjortš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>«Det var en merkelig Fremgang disse tvende Folks Ungdom i de sidste tvende Aar, efter Indførelsen af Lærebøger i deres Fædrenesprog, havde gjort».</seg>
+        <seg>«Det var en merkelig Fremgang disse tvende Folks Ungdom i de sidste tvende Aar, efter Indførelsen af Lærebøger i deres Fædrenesprog, havde gjortš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -671,7 +681,15 @@
         <seg>I august 1850 kom det plutselig ny beskjed: Prosten hadde gitt pålegg om at samebarna igjen skulle undervises på samisk.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ja borgemánus 1850 bođii fáhkkestaga ođđa diehtu: Proavás lei sádden dieđu ahte buot sámi mánáide galggai fas addot oahppu sámegillii. Váhnemat šadde eahpesihkkarat go skuvllas čađat molso gielaid.</seg>
+        <seg>Ja borgemánus 1850 bođii fáhkkestaga ođđa diehtu: Proavás lei sádden dieđu ahte buot sámi mánáide galggai fas addot oahppu sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne stadige omskiftningen av språket i skolen, forvirret foreldrene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váhnemat šadde eahpesihkkarat go skuvllas čađat molso gielaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,26 +758,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Jens Mortensen var i februar s.å. blitt avskjediget som samelærer, men var tilstede under visitasen, der han forklarte at det i hans tid som lærer, hadde hendt at en del av de samiske foreldre hadde ønsket at deres barn skulle bli undervist i norske bøker, da det var utbredt det rykte «at Finsken skulde afskaffes».</seg>
+        <seg>Jens Mortensen var i februar s.å. blitt avskjediget som samelærer, men var tilstede under visitasen, der han forklarte at det i hans tid som lærer, hadde hendt at en del av de samiske foreldre hadde ønsket at deres barn skulle bli undervist i norske bøker, da det var utbredt det rykte «at Finsken skulde afskaffesš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jens Mortensen lei guovvamánus biddjojuvvon eret sámi oahpaheaddjivirggis, muhto son lei mielde galledeamis, ja čilgii doppe ahte dan áiggis go son lei oahpaheaddjin, de lei dáhpáhuvvan ahte muhtun sámi váhnemat ledje sávvan ahte sin mánát galge oahpahuvvot dárogillii, daningo lei gullogoahtán ahte «sámegiella galggai jávkaduvvot».</seg>
+        <seg>Jens Mortensen lei guovvamánus biddjojuvvon eret sámi oahpaheaddjivirggis, muhto son lei mielde galledeamis, ja čilgii doppe ahte dan áiggis go son lei oahpaheaddjin, de lei dáhpáhuvvan ahte muhtun sámi váhnemat ledje sávvan ahte sin mánát galge oahpahuvvot dárogillii, daningo lei gullogoahtán ahte «sámegiella galggai jávkaduvvotš.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det ble videre opplyst at det var godt håp om å få en samelærer etter Mortensen «i Loppa samiske og Øksfjord skoledistrikt».</seg>
+        <seg>Det ble videre opplyst at det var godt håp om å få en samelærer etter Mortensen «i Loppa samiske og Øksfjord skoledistriktš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čuvgejuvvui maid ahte lei buorre doaivva gávdnat sámi oahpaheaddji Mortensena sadjái «Láhpi sámi ja Ákšovuona skuvlabiirii».</seg>
+        <seg>Čuvgejuvvui maid ahte lei buorre doaivva gávdnat sámi oahpaheaddji Mortensena sadjái «Láhpi sámi ja Ákšovuona skuvlabiiriiš.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Der hadde ikke vært ført noen skolejournal på grunn av lærernes «Uskrivedyktighed».</seg>
+        <seg>Der hadde ikke vært ført noen skolejournal på grunn av lærernes «Uskrivedyktighedš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ii lean čállojuvvon skuvlajournála oahpaheddjiid «váilevaš čállinmáhtu» sivas.</seg>
+        <seg>Ii lean čállojuvvon skuvlajournála oahpaheddjiid «váilevaš čállinmáhtuš sivas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -812,15 +830,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Han mener at årsaken er å finne i sameskolelærerens mangel på «iver i sitt kall», og i foreldrenes sløvhet og fattigdom.</seg>
+        <seg>Han mener at årsaken er å finne i sameskolelærerens mangel på «iver i sitt kallš, og i foreldrenes sløvhet og fattigdom.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Su oaivila mielde lea dasa sivvan ahte sámeskuvlaoahpaheaddjis váilu «beroštupmi iežas gohččumii», ja go váhnemat leat nu šlunddit ja geafit.</seg>
+        <seg>Su oaivila mielde lea dasa sivvan ahte sámeskuvlaoahpaheaddjis váilu «beroštupmi iežas gohččumiiš, ja go váhnemat leat nu šlunddit ja geafit.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det var tydelig at biskopen ville ha tilsyn med det som skjer med kristendomsundervisningen i skolen.</seg>
+        <seg>Det var tydelig at biskopen ville ha tilsyn med det som skjer med kristendomsundervisningen i skolen. I 1854 har han igjen visitas i Loppa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Lea čielggas ahte bisma dáhtui bearráigeahččat skuvlla risttalašvuođa oahpaheami.1854:s lea son fas galledanmátkkis Láhpis.</seg>
@@ -863,15 +881,15 @@
         <seg>At det sto dårlig til med kunnskaper i det norske språk blant samene i Loppa i midten av 1800-tallet, har vi mange beviser på.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leat ollu duođaštusat dasa ahte Láhpi sámi mánáin lei heittot dárogiel máhttu gaskkamuttus 1800-logu.</seg>
+        <seg>Leat ollu duođaštusat dasa ahte Láhpi sámi mánáin lei heittot dárogiel máhttu gaskkamuttos 1800-logu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Meyer skriver således i et brev, datert 1.12.1848 – etter å ha vært her et halvt år, – at samene i Loppa er «nedsunket i Råhed og Armod», men at de mer opplyste av dem kan tale norsk.</seg>
+        <seg>Meyer skriver således i et brev, datert 1.12.1848 – etter å ha vært her et halvt år, – at samene i Loppa er «nedsunket i Råhed og Armodš, men at de mer opplyste av dem kan tale norsk.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nu čállá ge dasto Meyer reivves, mii lea beaiváduvvon 1.12.1848 – go lea leamaš dáppe jahkebeali, – ahte Láhpi sámit leat «vudjon garra ja vártnuhis dillái», muhto čeahpimusat sis gal máhttet hupmat dárogiela.</seg>
+        <seg>Nu čállá ge dasto Meyer reivves, mii lea beaiváduvvon 1.12.1848 – go lea leamaš dáppe jahkebeali, – ahte Láhpi sámit leat «vudjon garra ja vártnuhis dilláiš, muhto čeahpimusat sis gal máhttet hupmat dárogiela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -932,18 +950,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Han forteller at det bor 30 samefamilier i «den to mil lange fjord, der famle omkring i det tykkeste Mørke».</seg>
+        <seg>Han forteller at det bor 30 samefamilier i «den to mil lange fjord, der famle omkring i det tykkeste Mørkeš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Son muitala ahte doppe ásset 30 sámi bearraša «dan guokte miilla guhkkosaš vuotnagáttis, geat ráivot suohkadeamos seavdnjadasas»..</seg>
+        <seg>Son muitala ahte doppe ásset 30 sámi bearraša «dan guokte miilla guhkkosaš vuotnagáttis, geat ráivot suohkadeamos seavdnjadasasš..</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Her var det han traff en 40 år gammel same som bare kunne noen få norske ord, og som sa til Lasson: «Kjære far, hvorledes kan du vente at jeg skal kunne besvare dine spørsmål, jeg som har fått hele min undervisning på norsk, som jeg forsto like lite av den gang som nå» ?</seg>
+        <seg>Her var det han traff en 40 år gammel same som bare kunne noen få norske ord, og som sa til Lasson: «Kjære far, hvorledes kan du vente at jeg skal kunne besvare dine spørsmål, jeg som har fått hele min undervisning på norsk, som jeg forsto like lite av den gang som nåš ?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáppe son deaivvadii ge 40 jahkásaš sápmelaččain gii máhtii dušše moadde sáni dárogiela, ja nugo Lasson dadjá: «Ráhkis áhčči, movt don vuorddát mu máhttit iežat gažaldagaide vástidit, mun gii lean oahpahuvvon dušše dárogillii, maid in ipmirdan dalle in ge ipmir dál ge» ?</seg>
+        <seg>Dáppe son deaivvadii ge 40 jahkásaš sápmelaččain gii máhtii dušše moadde sáni dárogiela, ja nugo Lasson dadjá: «Ráhkis áhčči, movt don vuorddát mu máhttit iežat gažaldagaide vástidit, mun gii lean oahpahuvvon dušše dárogillii, maid in ipmirdan dalle in ge ipmir dál geš ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -980,10 +998,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Under visitasmøtet i 1849 ba en enstemmig forsamling om at det norske språk måtte hjelpes fram «som det eneste Middel hvorved dette Folk (samene) kan komme til samme Oplysning som de Norske blandt Menigheden».</seg>
+        <seg>Under visitasmøtet i 1849 ba en enstemmig forsamling om at det norske språk måtte hjelpes fram «som det eneste Middel hvorved dette Folk (samene) kan komme til samme Oplysning som de Norske blandt Menighedenš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Galledanmátkkis 1849:s bivddii ovttajienalaš čoagganeapmi ahte dárogiella ferte ovddiduvvot «áidna gaskaoapmin mainna dát olbmot (sápmelaččat) sáhttet joksat seamma diđolašvuođa go searvegotti dárrolaččat».</seg>
+        <seg>Galledanmátkkis 1849:s bivddii ovttajienalaš čoagganeapmi ahte dárogiella ferte ovddiduvvot «áidna gaskaoapmin mainna dát olbmot (sápmelaččat) sáhttet joksat seamma diđolašvuođa go searvegotti dárrolaččatš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,18 +1030,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>De samiske lærebøker «ere inntvungne i Skolen», og skriftspråket var fremmed både for barn og foreldre.</seg>
+        <seg>De samiske lærebøker «ere inntvungne i Skolenš, og skriftspråket var fremmed både for barn og foreldre.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámegiel oahppogirjjit «leat bággejuvvon skuvlii», ja čállingiella lei amas sihke mánáide ja váhnemiidda.</seg>
+        <seg>Sámegiel oahppogirjjit «leat bággejuvvon skuvliiš, ja čállingiella lei amas sihke mánáide ja váhnemiidda.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Loppa kommunestyre med sogneprest Meyer som ordfører, hadde i møte 2. april 1849 erklært norsk for «det eneste Middel til at bibringe Finnerne sand Oplysning og Kultur».</seg>
+        <seg>Loppa kommunestyre med sogneprest Meyer som ordfører, hadde i møte 2. april 1849 erklært norsk for «det eneste Middel til at bibringe Finnerne sand Oplysning og Kulturš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhpi suohkanstivra, man sátnejođiheaddji lei Meyer, lei čoahkkimis 2. beaivvi cuoŋománus 1849 cealkán ahte dárogiella lea «áidna vuohki movt oažžut sápmelaččaid olahit duohta čuvgejumi ja kultuvrra».</seg>
+        <seg>Láhpi suohkanstivra, man sátnejođiheaddji lei Meyer, lei čoahkkimis 2. beaivvi cuoŋománus 1849 cealkán ahte dárogiella lea «áidna vuohki movt oažžut sápmelaččaid olahit duohta čuvgejumi ja kultuvrraš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1052,23 +1070,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>«Nå derimot stod det dårlig til».</seg>
+        <seg>«Nå derimot stod det dårlig tilš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>«Muhto dál gal lei heajos dilli».</seg>
+        <seg>«Muhto dál gal lei heajos dilliš.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Årsaken må søkes i de samiske lærebøker som verken barna eller foreldre forstod, «langt mindre Læreren».</seg>
+        <seg>Årsaken må søkes i de samiske lærebøker som verken barna eller foreldre forstod, «langt mindre Lærerenš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus dasa galgá siva gávdnat, de ferte ohcat dain sámegiel oahppogirjjiin maid eai mánát eai ge váhnemat ipmirdan, «ja guhkkin eret vel oahpaheaddji».</seg>
+        <seg>Jus dasa galgá siva gávdnat, de ferte ohcat dain sámegiel oahppogirjjiin maid eai mánát eai ge váhnemat ipmirdan, «ja guhkkin eret vel oahpaheaddjiš.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Også formannskapet i Alta, / Talvik der prost Aars hadde vært ordfører, hadde lite godt å si om Stockfleth.</seg>
+        <seg>Også formannskapet i Alta / Talvik, der prost Aars hadde vært ordfører, hadde lite godt å si om Stockfleth.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ii Álttá / Dálbmeluovtta ovdagoddi ge, gos proavás Aars lei leamaš sátnejođiheaddjin, diehtán beare ollu buriid cealkit Stockfletha birra.</seg>
@@ -1167,7 +1185,7 @@
         <seg>Kanskje fikk de litt opplæring eller undervisning av presten, eller av en eldre lærer eller av klokkeren, kanskje de ikke fikk det engang.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Soittii lean ahte báhppa, boarrásit oahpaheaddji dahje luhkkár lea veaháš sin oahpahan, muhto ii leat sihkar ahte sii ožžo oppanassiige oahpu.</seg>
+        <seg>Soittii lean ahte báhppa, boarrasit oahpaheaddji dahje luhkkár lea veaháš sin oahpahan, muhto ii leat sihkar ahte sii ožžo oppanassiige oahpu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1188,10 +1206,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det er sansynligvis nå omkring 1861, etterat skolen er flyttet og gjenoppbygd på «Nøisomhet» – at Andreas Aslaksen er kommet til Øksfjord som lærer og kirkesanger.</seg>
+        <seg>Det er sansynligvis nå omkring 1861, etterat skolen er flyttet og gjenoppbygd på «Nøisomhetš – at Andreas Aslaksen er kommet til Øksfjord som lærer og kirkesanger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Orru leamen nu ahte lea dáid áiggiid, birrasiid 1861:s, maŋŋil go skuvla lea sirdojuvvon ja ođđasis huksejuvvon «Nøisomhet» báikái – go Andreas Aslaksen boahtá Ákšovutnii oahpaheaddjin ja girkolávlun.</seg>
+        <seg>Orru leamen nu ahte lea dáid áiggiid, birrasiid 1861:s, maŋŋil go skuvla lea sirdojuvvon ja ođđasis huksejuvvon «Nøisomhetš báikái – go Andreas Aslaksen boahtá Ákšovutnii oahpaheaddjin ja girkolávlun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1204,10 +1222,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Andreas Aslaksen er same ifølge folketellingen, men «taler godt norsk»....</seg>
+        <seg>Andreas Aslaksen er same ifølge folketellingen, men «taler godt norskš....</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Andreas Aslaksen lei olmmošloguid mielde sápmelaš, gii «hupmá bures dárogiela»....</seg>
+        <seg>Andreas Aslaksen lei olmmošloguid mielde sápmelaš, gii «hupmá bures dárogielaš....</seg>
       </tuv>
     </tu>
     <tu>
@@ -1268,10 +1286,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Han var same, men «taler norsk meget godt» heter det i folketellingsskjema fra 1865, der han forøvrig er nevnt som fisker og husmann....</seg>
+        <seg>Han var same, men «taler norsk meget godtš heter det i folketellingsskjema fra 1865, der han forøvrig er nevnt som fisker og husmann....</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Son lei sápmelaš, gii «hupmá hui bures dárogiela» čuožžu 1865 ' olmmošlohkanskovis, gosa muđui lea merkejuvvon ahte son lei guolásteaddji ja dállodoalli....</seg>
+        <seg>Son lei sápmelaš, gii «hupmá hui bures dárogielaš čuožžu 1865 ' olmmošlohkanskovis, gosa muđui lea merkejuvvon ahte son lei guolásteaddji ja dállodoalli....</seg>
       </tuv>
     </tu>
     <tu>
@@ -1324,10 +1342,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Loppa var på Lasse Andersens tid et «overgangsdistrikt», og ettersom flertallet av barna i hans krets var samisktalende, skulle undervisningen foregå på samisk.</seg>
+        <seg>Loppa var på Lasse Andersens tid et «overgangsdistriktš, og ettersom flertallet av barna i hans krets var samisktalende, skulle undervisningen foregå på samisk.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lasse Andersena áiggi lei Láhppi dakkár «muhttásanguovlu», ja go eanas oassi su guovllu mánáin ledje sámegielagat, de galggai oahpahuvvot sámegillii.</seg>
+        <seg>Lasse Andersena áiggi lei Láhppi dakkár «muhttásanguovluš, ja go eanas oassi su guovllu mánáin ledje sámegielagat, de galggai oahpahuvvot sámegillii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,18 +1358,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>«Læreren skulle alltid ha for øye at norsk etterhvert skulle bli undervisningsspråket for de viderekommende barn.»</seg>
+        <seg>«Læreren skulle alltid ha for øye at norsk etterhvert skulle bli undervisningsspråket for de viderekommende barn.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>«Oahpaheaddji galggai čađat atnit muittus dan ahte dárogiella dađistaga galggai šaddat oahpahusgiellan mánáid viidásit oahpaheamis.»</seg>
+        <seg>«Oahpaheaddji galggai čađat atnit muittus dan ahte dárogiella dađistaga galggai šaddat oahpahusgiellan mánáid viidásit oahpaheamis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Som den pliktoppfyllende mann Lasse var fulgte han nok instruksen.</seg>
+        <seg>š Som den pliktoppfyllende mann Lasse var fulgte han nok instruksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lasse lei lágalaš olmmái, ja son gal sihkkarit čuovui dien bagadusa.</seg>
+        <seg>š Lasse lei lágalaš olmmái, ja son gal sihkkarit čuovui dien bagadusa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,10 +1422,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For å skaffe flere lærere til «overgangsdistriktene» i Finnmark, ble det i 1863 opprettet en lærerskole i Alta.</seg>
+        <seg>For å skaffe flere lærere til «overgangsdistrikteneš i Finnmark, ble det i 1863 opprettet en lærerskole i Alta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oažžun dihtii eanet oahpaheddjiid «Finnmárkku muhttásanguovlluide», ásahuvvui 1863:s oahpaheaddjiskuvla Áltái.</seg>
+        <seg>Oažžun dihtii eanet oahpaheddjiid «Finnmárkku muhttásanguovlluideš, ásahuvvui 1863:s oahpaheaddjiskuvla Áltái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,10 +1438,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Om skolens elever skriver rektor Qvigstad: «Elevene var saa godt som alle finsk- og kvænsktalende og deres Færdighet i Norsk ved Optagelsen meget tarvelig».</seg>
+        <seg>Om skolens elever skriver rektor Qvigstad: «Elevene var saa godt som alle finsk- og kvænsktalende og deres Færdighet i Norsk ved Optagelsen meget tarveligš.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Skuvlla ohppiid birra čállá rektor Qvigstad: «Dadjat juo buot oahppit ledje sámegielagat – ja kveanagielagat ja sin dárogielamáhttu lei viehka fuotni dalle go bohte ja álge oahppin».</seg>
+        <seg>Skuvlla ohppiid birra čállá rektor Qvigstad: «Dadjat juo buot oahppit ledje sámegielagat – ja kveanagielagat ja sin dárogielamáhttu lei viehka fuotni dalle go bohte ja álge oahppinš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,18 +1526,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Undervisningssproget skal være norsk, finsk eller kvænsk bruges kun som Hjælpemiddel til at forklare, hvad der er uforstaaelig for Børnene, og ikke i vidre Udstrækning, end Forholdene gjør uomgjengelig fornødent.»</seg>
+        <seg>Undervisningssproget skal være norsk, finsk eller kvænsk bruges kun som Hjælpemiddel til at forklare, hvad der er uforstaaelig for Børnene, og ikke i vidre Udstrækning, end Forholdene gjør uomgjengelig fornødent.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oahpahangiella galgá leat dárogiella, sámegiella dahje kveanagiella galgá geavahuvvot dušše veahkkegaskaoapmin čilget dan maid mánát eai ipmir, ii ge galgga geavahuvvot eanet go bággodilálašvuođain.»</seg>
+        <seg>Oahpahangiella galgá leat dárogiella, sámegiella dahje kveanagiella galgá geavahuvvot dušše veahkkegaskaoapmin čilget dan maid mánát eai ipmir, ii ge galgga geavahuvvot eanet go bággodilálašvuođain.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det lærerne hadde lært av samisk, fikk de svært lite bruk for.</seg>
+        <seg>š Det lærerne hadde lært av samisk, fikk de svært lite bruk for.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nu ahte ii lean beare stuora atnu dan sámegillii maid oahpaheaddjit ledje oahppan.</seg>
+        <seg>š Nu ahte ii lean beare stuora atnu dan sámegillii maid oahpaheaddjit ledje oahppan.</seg>
       </tuv>
     </tu>
     <tu>

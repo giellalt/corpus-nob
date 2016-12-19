@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2136.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2136.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Musikkutgivelser 2009 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Musihkkaalmmuheamit 2009 - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Musikkutgivelser 2009</seg>
@@ -12,26 +22,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Kuhmunen, John-Marcus.</seg>
+        <seg>Mål for tilskuddsordningen:Øke antall tiltak innen samiske musikkuttrykkMålgruppe for tilskuddsordningen:Utgivere av samisk musikk: forlag / plateselskap / registrert foretakKriterier for måloppnåelse:Antall utgivelser av samisk musikkPrioriteringer for 2009:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Almmuhan Kuhmunen, John-Marcus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 09.12.2008</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 09.12.2008</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Mål for tilskuddsordningen: Øke antall tiltak innen samiske musikkuttrykkMålgruppe for tilskuddsordningen: Utgivere av samisk musikk: forlag / plateselskap / registrert foretakKriterier for måloppnåelse: Antall utgivelser av samisk musikkPrioriteringer for 2009:</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Doarjjaortnega mihttomearri: Eanet doaibmabijut sámi musihka ovdanbuktima várásDoarjjaortnega olahusjoavku: Sámi musihka almmuheaddjit: lágádusat / skearrofitnodagat / registrerejuvvon doaimmahagatUlbmilolahusa eavttut: Sámi musihka almmuhemiid lohkuVuoruheamit 2009:s:</seg>
+        <seg>Doarjjaortnega mihttomearri:Eanet doaibmabijut sámi musihka ovdanbuktima várásDoarjjaortnega olahusjoavku:Sámi musihka almmuheaddjit: lágádusat / skearrofitnodagat / registrerejuvvon doaimmahagatUlbmilolahusa eavttut:Sámi musihka almmuhemiid lohkuVuoruheamit 2009:s:</seg>
       </tuv>
     </tu>
     <tu>
@@ -231,7 +225,7 @@
         <seg>For øvrig gjelder regelverket fastsatt av Sametinget i sak 43/07 Revisjon av Sametingets søkerbaserte tilskuddsforvaltning.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muđui gustojit dat njuolggadusat maid Sámediggi lea mearridan áššis 43/07 Daid doarjagiid hálddašeami ođasmahttin maid Sámedikkis sáhttá ohcat.:</seg>
+        <seg>Muđui gustojit dat njuolggadusat maid Sámediggi lea mearridan áššis 43/07 Daid doarjagiid hálddašeami ođasmahttin maid Sámedikkis sáhttá ohcat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,7 +233,7 @@
         <seg>Beregningsregler: Tilskuddstørrelsen beregnes på grunnlag av begrunnet søknad For 2009 avsettes kr 1 900 000 til tilskudd til musikkutgivelser.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meroštallannjuolggadusat Doarjaga sturrodat rehkenastojuvvo vuođustuvvon ohcama vuođul. Jahkái 2009 várrejuvvo 1 900 000 ru doarjjan sámi musihkkaalmmuhemiide.</seg>
+        <seg>Jahkái 2009 várrejuvvo 1 900 000 ru doarjjan sámi musihkkaalmmuhemiide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,46 +242,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ortnega hálddaša Sámedikki doarjjastivra.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>artikler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Overordnete retningslinjer for Sametingets søkebaserte tilskuddsordninger</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Bajit njuolggadusat daid doarjagiid hálddašeami odasmahttin maid Sámedikkis sáhttá ohcat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skjema: Musikkutgivelser 2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Skjema: Musikk 2008</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Skovvi: Musihkka 2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Skovvi: Musihkka 2008</seg>
       </tuv>
     </tu>
   </body>

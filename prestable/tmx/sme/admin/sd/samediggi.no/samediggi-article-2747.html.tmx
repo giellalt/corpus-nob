@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2747.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2747.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ny felles postadresse til Sametinget - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikkis lea ođđa oktasaš poastačujuhus - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Ny felles postadresse til Sametinget</seg>
@@ -16,22 +26,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámediggi lea 2008 čavčča rájes geavahišgoahtán ođđa oktasaš poastačujuhusa: Sámediggi / Sametinget Ávjovárgeaidnu 50 9730 Karasjok / Kárášjohka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Kuhmunen, John-Marcus.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Kuhmunen, John-Marcus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 03.10.2008</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 03.10.2008</seg>
       </tuv>
     </tu>
     <tu>
@@ -84,10 +78,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Mål med omorganiseringen av felles postadresse og felles telefonnummer Målet med å innføre felles telefonnummer og felles postadresse er blant annet følgende:</seg>
+        <seg>Mål med omorganiseringen av felles postadresse og felles telefonnummerMålet med å innføre felles telefonnummer og felles postadresse er blant annet følgende:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Manin oktasaš poastačujuhus ja oktasaš telefonnummir Áigumuš oktasaš telefonnummira ja oktasaš poastačujuhusa geavahemiin lea earret eará čuovvovaš:</seg>
+        <seg>Manin oktasaš poastačujuhus ja oktasaš telefonnummirÁigumuš oktasaš telefonnummira ja oktasaš poastačujuhusa geavahemiin lea earret eará čuovvovaš:</seg>
       </tuv>
     </tu>
     <tu>
@@ -175,7 +169,7 @@
         <seg>Varer til Drag: Sámedigge / Sametinget Árran lulesamiske senter 8270 Drag / Ájluokta</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gálvvut Divttasvutnii: Sámedikke / Sametinget Árran julevsáme guovdasj / Árran lulesamiske senter 8270 Drag / Ajluokta</seg>
+        <seg>Gálvvut Divttasvutnii: Sámedigge / Sametinget Árran julevsáme guovdasj / Árran lulesamiske senter 8270 Drag / Ajluokta</seg>
       </tuv>
     </tu>
     <tu>

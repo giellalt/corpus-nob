@@ -1,18 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">2009-06-19-101.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">2009-06-19-101.html.xml</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="nob">
         <seg>Lov om erverv og utvinning av mineralressurser (mineralloven)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka háhkamis ja roggamis minerálavalljodagaid</seg>
+        <seg>Minerálaláhka - regjeringen.no</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Dato</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>DÁHTON:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>LOV-2009-06-19-101</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>LÁHKA-2009-06-19-101</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Departement</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>DEPARTEMEANTA:</seg>
@@ -44,7 +62,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kapittel 1.</seg>
+        <seg>Ikrafttredelse</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>FÁPMUIBOAHTIN:</seg>
@@ -52,10 +70,122 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>01.01.2010</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2010-01-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Endrer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RIEVDADA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>LOV-1914-07-03-5</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>LÁGA-1914-07-03-5, LÁGA-1917-12-14-16, LÁGA-1949-06-17-3, LÁGA-1952-03-21-1, LÁGA-1959-10-23-3, LÁGA-1972-06-30-70, LÁGA-2003-11-28-98</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>LOV-1949-06-17-3</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>BG14l, C02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>LOV-1952-03-21-1</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>EALÁHUSKODA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>LOV-1972-06-30-70</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2909, 29019, 230, 9125</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kunngjort</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>GULAHUVVON:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>19.06.2009 kl. 16.45</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>19.06.2009 dii. 16.45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Korttittel</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>OANEHISNAMMA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mineralloven</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Minerálaláhka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jf. tidligere lover 3 juli 1914 nr. 5, 17 juni 1949 nr. 3, 21 mars 1952 nr. 1 og 30 juni 1972 nr. 70.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka háhkamis ja roggamis minerálaresurssaid (minerálaláhka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kapittel 1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kapihtal 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Innledende bestemmelser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>2010-01-01 RIEVDADA:</seg>
+        <seg>Álgomearrádusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lovens formål</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lága ulbmil</seg>
       </tuv>
     </tu>
     <tu>
@@ -63,15 +193,15 @@
         <seg>Formålet med loven er å fremme og sikre samfunnsmessig forsvarlig forvaltning og bruk av mineralressursene i samsvar med prinsippet om en bærekraftig utvikling.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>LÁGA-1914-07-03-5, LÁGA-1917-12-14-16, LÁGA-1949-06-17-3, LÁGA-1952-03-21-1, LÁGA-1959-10-23-3, LÁGA-1972-06-30-70, LÁGA-2003-11-28-98 SYS-KODA:</seg>
+        <seg>Lága ulbmiliin lea ovddidit ja dáhkidit minerálaresurssaid servodatlaš dohkálaš hálddašeami ja geavaheami guoddevaš ovdáneami prinsihpaid mielde.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hensyn ved forvaltning og bruk av mineralressursene</seg>
+        <seg>§ 2.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>EALÁHUSKODA: 2909, 29019, 230, 9125</seg>
+        <seg>§ 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,15 +209,23 @@
         <seg>Innenfor rammen av § 1 skal forvaltning og bruk av mineralressursene etter denne lov ivareta hensynet til:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka háhkamis ja roggamis minerálaresurssaid (minerálaláhka) Kapihtal 1.</seg>
+        <seg>Doahttaleamit minerálaresurssaid geavaheami ja hálddašeami oktavuođas Vuosttaš paragráfa mielde galgá minerálaresurssaid hálddašeapmi ja geavaheapmi dán lága vuođul vuhtiiváldit: a) árvoháhkama ja ealáhusovdáneami, b) sámi kultuvrra, ealáhusaid ja kultuvrraid luondduvuođu, c) birrasiid ja lagamus guovlluid doaimma oktavuođas, d) roggama birasváikkuhusaid, ja e) guhkitáiggeplánema bakte mearridit geavaheami maŋŋil rogganáigodaga dahje movt máhcahit guovllu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>naturgrunnlaget for samisk kultur, næringsliv og samfunnsliv, omgivelsene og nærliggende områder under drift,</seg>
+        <seg>verdiskaping og næringsutvikling,</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lága ulbmiliin lea ovddidit ja dáhkidit minerálaresurssaid servodatlaš dohkálaš hálddašeami ja geavaheami guoddevaš ovdáneami prinsihpaid mielde.</seg>
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>d)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,15 +233,7 @@
         <seg>miljømessige konsekvenser av utvinning, og</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Saklig virkeområde</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>Áššálaš doaibmaguovlu</seg>
       </tuv>
     </tu>
     <tu>
@@ -148,15 +278,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Stedlig virkeområde Loven gjelder på norsk territorium med unntak av Svalbard.</seg>
+        <seg>§ 4.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lága doaibmaguovlu Láhka guoská buot norgga eatnamiid siskkobealde earret Svalbárddas.</seg>
+        <seg>§ 4.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Loven gjelder ikke utenfor den private eiendomsrettens grenser i sjø.</seg>
+        <seg>Stedlig virkeområde</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Láhka ii guoskka olggobealde priváhta oamastanguovlluid mearas.</seg>
@@ -164,7 +294,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Forholdet til annet regelverk Tillatelser etter denne lov erstatter ikke krav om tillatelse, godkjenning, arealplan eller konsesjon etter annen lovgivning.</seg>
+        <seg>Loven gjelder på norsk territorium med unntak av Svalbard.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lága fápmuiboahtin 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tillatelser etter denne lov erstatter ikke krav om tillatelse, godkjenning, arealplan eller konsesjon etter annen lovgivning.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oktavuođat eará njuolggadusaide Lobit mat dán lága mielde mieđihuvvojit eai boađe eará lágaid mieđihan, dohkkehan, areálaplána dahje konsešuvnna gáibádusaid sadjái.</seg>
@@ -180,7 +326,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.</seg>
+        <seg>§ 6.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forholdet til folkeretten</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gaskavuohta álbmotriektái Láhka galgá geavahuvvot álbmotrievtti njuolggadusaid álgoálbmogiid ja unnitálbmogiid birra.</seg>
@@ -188,7 +342,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Lovens mineralkategorier</seg>
+        <seg>Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
@@ -196,7 +350,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Med statens mineraler menes i denne lov: metaller med egenvekt 5 gram/cm³ eller høyere, herunder krom, mangan, molybden, niob, vanadium, jern, nikkel, kobber, sink, sølv, gull, kobolt, bly, platina, tinn, sink, zirikonium, wolfram, uran, kadmium og thorium og malmer av slike metaller.</seg>
+        <seg>§ 7.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>metaller med egenvekt 5 gram/cm³ eller høyere, herunder krom, mangan, molybden, niob, vanadium, jern, nikkel, kobber, sink, sølv, gull, kobolt, bly, platina, tinn, sink, zirikonium, wolfram, uran, kadmium og thorium og malmer av slike metaller. Dette gjelder likevel ikke alluvialt gull,</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Lága minerálašlájat Dán lága mielde leat stáhta minerálat: a) metállat main iešdeaddu lea 5 grámma / cm3 dahje eanet, dákko bakte krom, máŋgana, molybden, Niobe, vanadium, ruovdi, nihkkel, veaiki, siŋka, silba, golli, kobolta, ladju, platina, datni, siŋka, zirikonium, wolfram, urána, kadmium ja thorium ja málmmat dákkár metállain.</seg>
@@ -204,7 +366,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Dette gjelder likevel ikke alluvialt gull, metallene titan og arsen og malmer av disse,</seg>
+        <seg>metallene titan og arsen og malmer av disse,</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dattetge dát ii guoskka alluvialaš gollái, b) metállat titana ja arsena ja málmmat dain, c) magnehtakiisi ja riššačievra (riššakiisi).</seg>
@@ -223,7 +385,7 @@
         <seg>Dette gjelder likevel ikke petroleum etter lov 4. mai 1973 nr. 21 om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dát dattetge ii guoskka petroleumii 1973 miessemánu 4. beaivvi lága nr. 21 mielde iskamis ja bohkamis petroleuma norgga eatnanguovlluin.</seg>
+        <seg>Dát dattetge ii guoskka petroleumii 1973 miessemánu 4. beaivvi lága nr. 21 mielde iskamis ja bohkamis petroleuma norgga eatnanguovlluin. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
@@ -236,7 +398,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Leting Leteretten</seg>
+        <seg>Leting</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 8.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Leteretten</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcanvuoigatvuohta</seg>
@@ -268,6 +446,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 9.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Leteren kan foreta arbeider i grunnens overflate som er nødvendige for å påvise mineralske forekomster.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -284,7 +470,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Varslingsplikt</seg>
+        <seg>§ 10.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 10.</seg>
@@ -348,6 +534,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>1 jan 2014 iflg. res. 14 juni 2013 nr. 646).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Kapittel 3.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -364,6 +558,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 11.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Den som vil undersøke forekomster av grunneiers mineraler, må inngå avtale med grunneieren.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -376,6 +578,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus soahpamuša ii sáhte olahit, de sáhttá ohcat bággolonisteami, vrd. § 37.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 12.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68. § 12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -460,7 +670,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søknad om undersøkelsesrett</seg>
+        <seg>§ 13.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 13.</seg>
@@ -484,6 +694,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Undersøkeren kan bare få én undersøkelsesrett i samme område.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guorahalli sáhttá dušše oažžut ovtta guorahallanvuoigatvuođa seamma guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Den som har utvinningsrett til forekomst av statens mineraler kan ikke søke om undersøkelsesrett i samme område.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -500,7 +718,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Forholdet til andre rettighetshavere Undersøkere med samme prioritet i et område har lik rett til å foreta undersøkelser.</seg>
+        <seg>1 jan 2014 iflg. res. 14 juni 2013 nr. 646).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 14.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøkere med samme prioritet i et område har lik rett til å foreta undersøkelser.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gaskavuođat eará vuoigatvuođaguddiide Guorahallit geat guovllus vuoruhuvvojit seamma dásis lea vuoigatvuohta čađahit guorahallamiid.</seg>
@@ -511,7 +745,15 @@
         <seg>En undersøker kan ikke uten samtykke foreta undersøkelser i området til en annen undersøker med bedre prioritet eller en utvinner av forekomst av statens mineraler.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ii guđege guorahalli sáhte dohkkeheami haga čađahit guorahallamiid nuppi eará buoret vuoruhuvvon guorahalli guovllus dahje eará minerálaroggi guovllus.</seg>
+        <seg>Ii guđege guorahalli sáhte dohkkeheami haga čađahit guorahallamiid nuppi eará buoret vuoruhuvvon guorahalli guovllus dahje eará minerálaroggi guovllus. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 15.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 15.</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +762,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guorahallanguovlu Departemeanta sáhttá mearridit láhkaásahusa guorahallanguovllu birra, ovdamearkka dihte guovllu hámi ja sturrodaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 16.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -540,10 +790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søknad om undersøkelser i Finnmark</seg>
+        <seg>§ 17.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>§ 17.</seg>
       </tuv>
     </tu>
     <tu>
@@ -612,7 +862,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Varslingsplikt</seg>
+        <seg>1 jan 2014 iflg. res. 14 juni 2013 nr. 646).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 18.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 18.</seg>
@@ -660,7 +918,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Undersøkelsesrettens innhold Undersøkeren kan gjøre nødvendige undersøkelser for å vurdere om det finnes en forekomst av mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid.</seg>
+        <seg>Departementet kan gi forskrift om varslingsplikten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Departemeanta sáhttá mearridit láhkaásahusa dieđihangeatnegasvuođa birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 jan 2014 iflg. res. 14 juni 2013 nr. 646).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 19.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøkeren kan gjøre nødvendige undersøkelser for å vurdere om det finnes en forekomst av mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guorahallanvuoigatvuođa sisdoallu Guorahalli sáhttá čađahit dárbbašlaš guorahallamiid vai sáhttá árvvoštallat ahte leago minerálaid gávdnostupmi dakkár hivvodagas, sturrodagas ja lágášvuođas ahte lea gánnihahttin dahje govttolaš áiggis šaddá gánnihahttin.</seg>
@@ -688,6 +970,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Luonddumeassamat mat sáhttet dagahit mearkkašahtti vahágiid sáhttet dušše čađahuvvot jus eatnama eaiggát ja geavaheaddji dása mihtet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 20.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 20.</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,6 +1030,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 21.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Hvis eieren eller brukeren av grunnen krever det, skal undersøkeren stille sikkerhet for kostnader til sikringstiltak etter § 49, opprydding etter § 50 og for det ansvaret som kan oppstå etter § 52.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -759,12 +1057,20 @@
         <seg>Før slik tvist er avgjort, må undersøkelser ikke finne sted uten skjønnsrettens samtykke.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ovdalgo dákkár nággu čovdojuvvo, de eai galgga guorahallamat čađahuvvot árvvoštallandikki mieđiheami haga.</seg>
+        <seg>Ovdalgo dákkár nággu čovdojuvvo, de eai galgga guorahallamat čađahuvvot árvvoštallandikki mieđiheami haga. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Opphør av undersøkelsesretten Undersøkelsesretten opphører når syv år er gått fra den dagen den ble utferdiget, eller når forlenget frist etter § 23 er utløpt.</seg>
+        <seg>§ 22.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 22.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøkelsesretten opphører når syv år er gått fra den dagen den ble utferdiget, eller når forlenget frist etter § 23 er utløpt.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guorahallanvuoigatvuođa loahpaheapmi Guorahallanvuoigatvuohta loahpahuvvo čieža jagi maŋŋil dan beaivvi go oaččui dán vuoigatvuođa, dahje go guhkiduvvon áigemearri § 23 mielde lea dievvan.</seg>
@@ -783,15 +1089,15 @@
         <seg>Når søknad om utvinningsrett eller forlengelse av undersøkelsesretten er kommet inn til Direktoratet for mineralforvaltning før utløpet av fristen etter første ledd, opphører undersøkelsesretten tidligst 30 dager etter avslag på søknaden eller tidligst samtidig med tildelingen av utvinningsretten.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Go rogganvuoigatvuođa ohcamuš dahje guorahallanvuoigatvuođa áigodaga guhkidanohcamuš lea joavdan Minerálahálddašandirektoráhtii ovdal vuosttaš lađđasa mielde áigemeari loahpa, de loahpahuvvo guorahallanvuoigatvuohta áramusat 30 beaivvi maŋŋil ohcamuša hilguma dahje áramusat das rájes go rogganvuoigatvuohta mieđihuvvo.</seg>
+        <seg>Go rogganvuoigatvuođa ohcamuš dahje guorahallanvuoigatvuođa áigodaga guhkidanohcamuš lea joavdan Minerálahálddašandirektoráhtii ovdal vuosttaš lađđasa mielde áigemeari loahpa, de loahpahuvvo guorahallanvuoigatvuohta áramusat 30 beaivvi maŋŋil ohcamuša hilguma dahje áramusat das rájes go rogganvuoigatvuohta mieđihuvvo. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Forlengelse av undersøkelsesretten</seg>
+        <seg>§ 23.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>§ 23.</seg>
       </tuv>
     </tu>
     <tu>
@@ -820,10 +1126,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Karantene ved opphør av undersøkelsesrett eller utvinningsrett</seg>
+        <seg>§ 24.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68. § 24.</seg>
+        <seg>§ 24.</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,15 +1150,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Departementet kan gi forskrift om undersøkerens plikt til å utarbeide, lagre og sende inn undersøkelsesrapporter, måledata og prøvemateriale.</seg>
+        <seg>§ 25.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guorahallanraporttat, mihtádusdieđut ja iskanávdnasat Departemeanta sáhttá láhkaásahusaid bakte mearridit guorahalli geatnegasvuođaid ráhkadeames, vurkemis ja sisa sáddemis guorahallanraporttaid, mihtádasdieđuid ja iskkadanávdnasiid.</seg>
+        <seg>§ 25.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Overdragelse av undersøkelsesrett Undersøkelsesrett kan overdras.</seg>
+        <seg>Undersøkelsesrapporter, måledata og prøvemateriale</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 26.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 26.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøkelsesrett kan overdras.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Daguheames guorahallanvuoigatvuođa Guorahallanvuoigatvuođa sáhttá daguhit.</seg>
@@ -903,20 +1225,12 @@
         <seg>Oversittes fristen, skal Direktoratet for mineralforvaltning slette en av rettighetene.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus áigemeari ii doahttal, galgá Minerálahálddašandirektoráhtta sihkkut nuppi mieđihuvvon vuoigatvuođain.</seg>
+        <seg>Jus áigemeari ii doahttal, galgá Minerálahálddašandirektoráhtta sihkkut nuppi mieđihuvvon vuoigatvuođain. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Følgende personer eller selskaper skal likestilles med søkeren ved anvendelsen av § 13 andre og tredje ledd og § 24:</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>selskap innen samme konsern som søkeren,</seg>
+        <seg>§ 27.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 27.</seg>
@@ -932,10 +1246,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Direktoratet for mineralforvaltning kan gjøre unntak fra første ledd ved enkeltvedtak.</seg>
+        <seg>person som selv eller sammen med noen som nevnt i bokstav a til e eier mer enn 50 prosent av samtlige eierandeler eller stemmeberettigede eierandeler i søkeren.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Minerálahálddašandirektoráhtta sáhttá spiehkkut vuosttaš lađđasis eaŋkilmearrádusa bakte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Direktoratet for mineralforvaltning kan gjøre unntak fra første ledd ved enkeltvedtak.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,6 +1274,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuoigatvuohta roggat eanaeaiggáda minerálaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 28.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 28.</seg>
       </tuv>
     </tu>
     <tu>
@@ -988,7 +1318,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søknad om utvinningsrett Undersøker med best prioritet kan søke Direktoratet for mineralforvaltning om utvinningsrett.</seg>
+        <seg>§ 29.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 29.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøker med best prioritet kan søke Direktoratet for mineralforvaltning om utvinningsrett.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcamis rogganvuoigatvuođa Guorahalli geas lea buoremus vuoruhus sáhttá ohcat rogganvuoigatvuođa Minerálahálddašandirektoráhtas.</seg>
@@ -1068,10 +1406,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Utvinningsrett i Finnmark Bestemmelsene i § 17 gjelder tilsvarende for utvinningsrett i Finnmark.</seg>
+        <seg>§ 30.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bestemmelsene i § 17 gjelder tilsvarende for utvinningsrett i Finnmark.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rogganvuoigatvuohta Finnmárkkus Mearrádusat § 17 leat vástideaddjin rogganvuoigatvuođa oktavuođas Finnmárkkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 31.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 31.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,7 +1438,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Utvinningsrettens innhold Utvinner kan ta ut og nyttiggjøre seg alle forekomster av statens mineraler i utvinningsområdet.</seg>
+        <seg>§ 32.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 32.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvinner kan ta ut og nyttiggjøre seg alle forekomster av statens mineraler i utvinningsområdet.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rogganvuoigatvuođa sisdoallu Minerálaroggi sáhttá roggat ja ávkkástallat stáhta buotlágan minerálaid rogganguovllus.</seg>
@@ -1132,15 +1494,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Opphør av utvinningsrett Utvinningsrett opphører når</seg>
+        <seg>§ 33.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>§ 33.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>driftskonsesjon etter § 43 ikke er gitt innen ti år fra den dagen utvinningsretten ble gitt, uttaket ikke faller inn under lovens krav om driftskonsesjon og det er gått mer enn ti år fra den dagen utvinningsretten ble gitt uten at drift er satt i gang,</seg>
+        <seg>driftskonsesjon etter § 43 ikke er gitt innen ti år fra den dagen utvinningsretten ble gitt,</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rogganvuoigatvuođa loahpaheapmi Rogganvuoigatvuohta loahpahuvvo jus a) doaibmalohpi § 43 mielde ii leat juhkkojuvvon logi jagi sisa dan beaivvi rájes go rogganvuoigatvuohta juhkkojuvvui, b) roggan ii gáibit doaibmalobi nu movt láhka gáibida ja go lea vássán logi jagi das rájes go doaibmalohpi juhkkojuvvui iige doaibma leat álggahuvvon, c) guhkiduvvon áigemearri § 34 lea dievvan, dahje d) jahki lea vássán das rájes go doaibmalohpi loahpahuvvui.</seg>
@@ -1159,12 +1521,12 @@
         <seg>Utvinneren beholder sin rett i den delen av utvinningsområdet som ikke er omfattet av søknaden om driftskonsesjon inntil fristen etter første ledd bokstav a eller en forlenget frist etter § 34 er løpt ut.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Roggi bisuha vuoigatvuođas rogganguovllu oasis mii ii leat čadnon doaibmalobi ohcamuššii dassážiigo áigemearri vuosttaš lađđasa a-bustáva mielde dahje §34 mielde guhkiduvvon áigemearri lea dievvan.</seg>
+        <seg>Roggi bisuha vuoigatvuođas rogganguovllu oasis mii ii leat čadnon doaibmalobi ohcamuššii dassážiigo áigemearri vuosttaš lađđasa a-bustáva mielde dahje §34 mielde guhkiduvvon áigemearri lea dievvan. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Forlengelse av utvinningsrett</seg>
+        <seg>§ 34.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 34.</seg>
@@ -1196,10 +1558,34 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Overdragelse av utvinningsrett Ved overdragelse av utvinningsrett gjelder § 26 tilsvarende.</seg>
+        <seg>§ 35.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 35.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved overdragelse av utvinningsrett gjelder § 26 tilsvarende.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Daguheames rogganvuoigatvuođa Rogganvuoigatvuođa daguheami oktavuođas guoská § 26 vástideaddji doibmii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 36.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 36.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvinningsrett skal tinglyses i grunnboken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diggelogahallan Rogganvuoigatvuođa galgá diggelogahallát vuođđogirjái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1244,7 +1630,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ekspropriasjon av grunneiers mineraler Enhver kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å undersøke om det finnes forekomst av grunneiers mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid.</seg>
+        <seg>§ 37.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 37.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Enhver kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å undersøke om det finnes forekomst av grunneiers mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bággolotnut eanaeaiggáda minerálaid Juohkehaš sáhttá ohcat Minerálahálddašandirektoráhtas lobi bággolotnut dárbbašlaš eatnama ja vuoigatvuođaid vai sáhttá guorahallat eanaeaiggáda minerálagávdnostumi valljodaga, sturrodaga ja lágášvuođa ja dan mielde árvvoštallat man gánnáhahttin gávdnostupmi lea, dahje šaddá govttolaš áiggi mielde.</seg>
@@ -1252,7 +1646,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>nødvendig grunn og rettigheter for utvinning, herunder atkomst til forekomsten, nødvendig grunn og rettigheter til foredling av grunneiers mineraler.</seg>
+        <seg>nødvendig grunn og rettigheter til foredling av grunneiers mineraler.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Juohkehaš sáhttá departemeanttas ohcat lobi bággolotnut a) eanaeaiggáda minerálaid gávdnostumi, b) dárbbašlaš eatnama ja rogganvuoigatvuođaid, dás maiddái boađáhaga gávdnostupmái, c) dárbbašlaš eatnama ja vuoigatvuođaid reidemis eanaeaiggáda minerálaid.</seg>
@@ -1271,12 +1665,20 @@
         <seg>Det kan settes vilkår for ekspropriasjonstillatelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>Bággolotnumii sáhttet mearriduvvot eavttut.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ekspropriasjon av grunn og rettigheter for undersøkelse og utvinning av statens mineraler Undersøkeren kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å kunne foreta undersøkelsen.</seg>
+        <seg>§ 38.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 38.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Undersøkeren kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å kunne foreta undersøkelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bággolotnut eatnama ja vuoigatvuođaid stáhta minerálaid guorahallama ja roggama várás Guorahalli sáhttá Minerálahálddašandirektoráhtas ohcat lobi bággolotnut dárbbašlaš eatnama ja vuoigatvuođaid vai sáhttá čađahit guorahallama.</seg>
@@ -1292,7 +1694,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Utvinner av forekomst av statens mineraler kan søke departementet om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for utvinning, og</seg>
+        <seg>nødvendig grunn og rettigheter for utvinning, og</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Son guhte roggá stáhta minerálaid sáhttá departemeantas ohcat lobi bággolotnut: a) dárbbašlaš eatnama ja vuoigatvuođaid roggama dihte, ja b) dárbbalaš eatnama ja vuoigatvuođaid minerálaid reidema dihte.</seg>
@@ -1312,6 +1714,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 39.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 39.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,7 +1761,7 @@
         <seg>Tilkjente erstatninger fastsettes til årlige beløp.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mieđihuvvon buhtadasat mearriduvvojit jahkásaš supmiin.</seg>
+        <seg>Háválasbuhtadas sáhttá dattetge mearriduvvot sierranas ákkaid ja dilálašvuođaid vuođul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,7 +1769,7 @@
         <seg>Engangserstatning kan likevel fastsettes dersom særlige grunner foreligger.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Háválasbuhtadas sáhttá dattetge mearriduvvot sierranas ákkaid ja dilálašvuođaid vuođul.</seg>
+        <seg>Goappaš bealit sáhttet gáibidit ahte buhtadas galgá mearriduvvot ođđa árvvošteami bakte go lea vássán logi jagi das rájes go buhtadas mearriduvvui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1367,7 +1777,7 @@
         <seg>Hver av partene kan kreve at erstatningen skal fastsettes ved nytt skjønn når det er gått ti år siden erstatningen ble fastsatt.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Goappaš bealit sáhttet gáibidit ahte buhtadas galgá mearriduvvot ođđa árvvošteami bakte go lea vássán logi jagi das rájes go buhtadas mearriduvvui.</seg>
+        <seg>Jus doaibma heaittihuvvo, de buhtadas loahpahuvvo jagi maŋŋil heaittiheami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1375,15 +1785,15 @@
         <seg>Blir driften nedlagt, bortfaller erstatningen fra og med kalenderåret etter nedleggelsen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus doaibma heaittihuvvo, de buhtadas loahpahuvvo jagi maŋŋil heaittiheami.</seg>
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Alminnelige ekspropriasjonsregler</seg>
+        <seg>§ 40.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>§ 40.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,15 +1833,31 @@
         <seg>Drift</seg>
       </tuv>
       <tuv xml:lang="sme">
+        <seg>Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 41.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
         <seg>§ 41.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bergfaglig forsvarlig drift Drift på mineralforekomster skal skje på en bergfaglig forsvarlig måte.</seg>
+        <seg>Drift på mineralforekomster skal skje på en bergfaglig forsvarlig måte.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Báktefágalaš dohkálaš doaibma Minerálagávdnostumiid doaibma galgá dáhpáhuvvat báktefágalaš dokkalaš vuogi mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 42.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 42.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,6 +1890,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Minerálahálddašandirektoráhtta sáhttá mearridit ahte doaibma ii sáhte álggahuvvot ovdalgo doaibmaplána lea dohkkehuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Konsesjonspliktige uttak (driftskonsesjon)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68. § 43.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1564,7 +1998,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>driftskonsesjon og unntak fra krav om driftskonsesjon, krav til faglige kvalifikasjoner hos personell som forestår drift av mineralforekomster etter denne lov, samt regler om godkjenning av tilsvarende kompetanse for borgere fra EØS-området.</seg>
+        <seg>driftskonsesjon og unntak fra krav om driftskonsesjon,</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Departemeanta sáhttá mearridit láhkaásahusaid: a) doaibmalobi ja doaibmalobi gáibádusa spiehkastaga birra, b) makkár fágalaš máhtolašvuođa galgá gáibidit bargiin geat dán lága mielde barget mineráladoaimmas, ja njuolggadusaid man mielde dohkkehit vástideaddji máhtolašvuođa EEO-guovllu bargiin.</seg>
@@ -1572,15 +2006,31 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Melding om igangsetting og stans av drift For konsesjonspliktige tiltak etter § 43 skal det sendes inn melding til Direktoratet for mineralforvaltning før drift startes, stanses midlertidig eller legges ned.</seg>
+        <seg>krav til faglige kvalifikasjoner hos personell som forestår drift av mineralforekomster etter denne lov, samt regler om godkjenning av tilsvarende kompetanse for borgere fra EØS-området.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dieđáhus doaimma álggaheami ja loahpaheami birra Konsešuvdnageatnegas doaimmat galget § 43 mielde sáddet dieđu Minerálahálddašandirektoráhtii ovdalgo doaibma álggahuvvo, gaskaboddosaččat loahpahuvvo dahje heaittihuvvo.</seg>
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bortfall av driftskonsesjon</seg>
+        <seg>§ 44.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 44.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For konsesjonspliktige tiltak etter § 43 skal det sendes inn melding til Direktoratet for mineralforvaltning før drift startes, stanses midlertidig eller legges ned.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđáhus doaimma álggaheami ja loahpaheami birra Konsešuvdnageatnegas doaimmat galget § 43 mielde sáddet dieđu Minerálahálddašandirektoráhtii ovdalgo doaibma álggahuvvo, gaskaboddosaččat loahpahuvvo dahje heaittihuvvo. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 45.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 45.</seg>
@@ -1628,15 +2078,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>avtalen om rett til å utnytte forekomst av grunneiers mineraler opphører, eller skjønn ikke er krevd innen ett år etter at ekspropriasjonstillatelse er gitt etter § 37 andre ledd bokstav a.</seg>
+        <seg>skjønn ikke er krevd innen ett år etter at ekspropriasjonstillatelse er gitt etter § 37 andre ledd bokstav a.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmalohpi loahpahuvvo maiddái jus a) rogganvuoigatvuohta loahpahuvvo, b) šiehtadus mii addá vuoigatvuođa roggat ja ávkkástallat eanaeaiggáda minerálaid loahpahuvvo, dahje c) árvvošteapmi ii leat gáibiduvvon jagi sisa maŋŋilgo bággolotnunlohpi lea mieđihuvvon § 37 nuppi lađđasa a bustáva mielde.</seg>
+        <seg>Doaibmalohpi loahpahuvvo maiddái jus a) rogganvuoigatvuohta loahpahuvvo, b) šiehtadus mii addá vuoigatvuođa roggat ja ávkkástallat eanaeaiggáda minerálaid loahpahuvvo, dahje c) árvvošteapmi ii leat gáibiduvvon jagi sisa maŋŋilgo bággolotnunlohpi lea mieđihuvvon § 37 nuppi lađđasa a bustáva mielde. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Opplysninger om drift Departementet kan gi forskrift om plikt til å sende inn driftsrapport til Direktoratet for mineralforvaltning og om rapportens innhold.</seg>
+        <seg>§ 46.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 46.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Departementet kan gi forskrift om plikt til å sende inn driftsrapport til Direktoratet for mineralforvaltning og om rapportens innhold.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dieđut doaimma birra Departemeanta sáhttá mearridit láhkaásahusa man bakte geatnegahttojuvvo sáddet doaibmaraportta ja dieđuid raportta sisdoalu birra Minerálahálddašandirektoráhtii.</seg>
@@ -1655,12 +2113,20 @@
         <seg>Generelle bestemmelser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oppalaš mearrádusat § 47.</seg>
+        <seg>Oppalaš mearrádusat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Områder unntatt fra leting og undersøkelse Det kan ikke letes og undersøkes i områder som omfattes av lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven).</seg>
+        <seg>§ 47.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 47.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan ikke letes og undersøkes i områder som omfattes av lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven).</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guovllut gos ii sáhte ohcat ja guorahallat Ohcan ja guorahallan ii sáhte čađahuvvot daid guovlluin masa 2009 geassemánu 5. beaivvi láhka nr. 35 luondduguovlluid birra Oslo lagas suohkaniin (meahci-láhka) guoská.</seg>
@@ -1668,7 +2134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>område for anlegg for allmennyttige formål og steder som ligger mindre enn 20 meter fra slike anlegg,</seg>
+        <seg>Leter og undersøker må ikke uten samtykke fra grunneieren, brukeren av grunnen og vedkommende myndighet lete eller undersøke i:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcci ja iskkadeaddji ii sáhte eanaeaiggáda, eatnama geavaheaddji ja guoskevaš eiseválddi dohkkeheami haga maidege ohcat dahje iskat: a) gilvojuvvon eatnamiin, b) industriijaguovlluin, dákko maiddái rogganbáikkiin, beaiveruvkkiin dahje doaibmi ruvkkiin, c) guovlu mii lea vuolil 100 mehtera eret gaskaboddosaš dahje bistevaš ásodagas, dás maiddái barttas, d) guovllut gos leat álbmogii ávkkálaš rusttegat ja báikkit mat leat vuolil 20 mehtera eret dákkár rusttegiin, e) guovlu mii gullá suodjalusa rusttegiidda dahje hárjehallanguvlui, f) heaittihuvvon ruvkeguovlluin, dás maiddái rokkahagain ja bázahasduvnniin.</seg>
@@ -1687,12 +2153,12 @@
         <seg>Direktoratet for mineralforvaltning kan etter søknad bestemme at forekomst av statens mineraler kan undersøkes i områder som nevnt i andre ledd dersom fordelene ved undersøkelsene er større enn den skade og ulempe det vil påføre grunneieren og brukeren av grunnen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Minerálahálddašandirektoráhtta sáhttá ohcamuša vuođul mearridit ahte stáhta minerálaid gávdnoštumi sáhttá iskat daid guovlluin mat namuhuvvojit nuppi lađđasis jus iskkadeapmi mearkkaša stuorit ovdamuni go vahága eanaeaiggádii ja eanageavaheaddjái.</seg>
+        <seg>Minerálahálddašandirektoráhtta sáhttá ohcamuša vuođul mearridit ahte stáhta minerálaid gávdnoštumi sáhttá iskat daid guovlluin mat namuhuvvojit nuppi lađđasis jus iskkadeapmi mearkkaša stuorit ovdamuni go vahága eanaeaiggádii ja eanageavaheaddjái. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Varsomhetsplikt</seg>
+        <seg>§ 48.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 48.</seg>
@@ -1703,12 +2169,12 @@
         <seg>Arbeider etter denne lov skal utføres med varsomhet slik at skadene ikke blir større enn nødvendig, og slik at arbeidene ikke fører til unødvendig forurensning eller unødvendig skade på miljøet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Várrogasvuođageasku Dán lága mielde bargu galgá čađahuvvot várrogasvuođain vai eai šatta dárbbašmeahttun stuora vahágat, ja nu ahte bargu ii dagat dárbbašmeahttun nuoskkideami dahje dárbbašmeahttun birasvahága.</seg>
+        <seg>Várrogasvuođageasku Dán lága mielde bargu galgá čađahuvvot várrogasvuođain vai eai šatta dárbbašmeahttun stuora vahágat, ja nu ahte bargu ii dagat dárbbašmeahttun nuoskkideami dahje dárbbašmeahttun birasvahága. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sikringsplikt</seg>
+        <seg>§ 49.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 49.</seg>
@@ -1756,7 +2222,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Oppryddingsplikt</seg>
+        <seg>§ 50.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 50.</seg>
@@ -1780,10 +2246,34 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 51.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 51.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Direktoratet for mineralforvaltning kan pålegge den som vil foreta eller har satt i gang undersøkelser, herunder prøveuttak, eller drift på mineralforekomster, å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter § 49 og oppryddingstiltak etter § 50.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Máksimis goluid čorgema ja sihkkarastima oktavuođas Minerálahálddašandirektoráhtta sáhttá gáibidit ahte son guhte áigu čađahit dahje lea álggahan minerálagávdnostumiid iskkademiid, iskkadanroggama dahje ávkkástallama, galgá dáhkidit ahte máksá goluid mat gártet § 49 sihkkarastinbargguid ja § 50 čorgenbargguid olis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Departementet kan gi forskrift om krav til sikkerhetsstillelsen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Departemeanta sáhttá mearridit láhkaásahusa dáhkádusduođašteami gáibádusa hárrái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 52.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 52.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1820,6 +2310,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 53.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 53.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Skjønn etter §§ 21, 32, 52 og 57 skal holdes som rettslig skjønn.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -1836,7 +2334,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ved overskjønn gjelder likevel lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 54 a. Skjønnsretten kan foreta de granskinger av eiendommen som skjønnsretten finner nødvendig.</seg>
+        <seg>Ved overskjønn gjelder likevel lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 54 a.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bajiidárvvošteami oktavuođas guoská dattetge 1917 geassemánu 1. beaivvi láhka árvvošteami ja bággolonistanáššiid birra § 54 a. Árvvoštallanriekti sáhttá dárkkistit opmodaga go dan gávnnaha dárbbašlažžan.</seg>
@@ -1844,7 +2342,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Volder granskingen tap eller ulempe, fastsettes erstatningen for dette under skjønnet.</seg>
+        <seg>Skjønnsretten kan foreta de granskinger av eiendommen som skjønnsretten finner nødvendig.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus dárkkisteapmi dagaha vahága dahje váivvádusa, de dasa buhtadas mearriduvvo árvvošteami oktavuođas.</seg>
@@ -1852,7 +2350,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Krav til søknader og bruk av elektronisk kommunikasjon hvilke opplysninger søknader skal inneholde, om bruk av bestemte søknadsskjemaer og om søkerens plikt til å gi tilleggsopplysninger, og</seg>
+        <seg>Volder granskingen tap eller ulempe, fastsettes erstatningen for dette under skjønnet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 54.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 54.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>hvilke opplysninger søknader skal inneholde, om bruk av bestemte søknadsskjemaer og om søkerens plikt til å gi tilleggsopplysninger, og</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gáibádusat ohcamušaide ja elektrovnnalaš gulahallanreaidduid geavaheapmi Departemeanta sáhttá láhkaásahusa bakte mearridit a) makkár dieđut galgá ohcamuššii čállit, dihto ohcanskoviid geavaheami ja ohcci geatnegasvuohta almmuhit liigedieđuid, ja b) ahte elektrovnnalaš gulahallan galgá geavahuvvot.</seg>
@@ -1876,7 +2390,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Behandlings- og tilsynsgebyr</seg>
+        <seg>Gebyrer og avgifter</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bálvalusmávssut ja divvagat</seg>
@@ -1884,10 +2398,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Departementet kan gi forskrift om gebyrer for behandling av søknader og for tilsyn etter denne lov. Årsavgift til staten</seg>
+        <seg>§ 55.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 55.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Departementet kan gi forskrift om gebyrer for behandling av søknader og for tilsyn etter denne lov.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Meannudan- ja gozihandivat Departemeanta sáhttá mearridit láhkaásahusa divvagiid birra dán lága mielde ohcamušaid meannudeapmái ja goziheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 56.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 56.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,7 +2449,7 @@
         <seg>Blir avgiftene ikke betalt innen fristen, skal en tilleggsavgift på 50 prosent betales innen 30. april samme år.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus divvagat eai máksojuvvo rivttes áigái, de šaddá máksit 50 proseanta sturrosaš liigedivvaga ovdal seamma jagi cuoŋománu 30.</seg>
+        <seg>Jus divvagat eai máksojuvvo rivttes áigái, de šaddá máksit 50 proseanta sturrosaš liigedivvaga ovdal seamma jagi cuoŋománu 30. beaivvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,7 +2486,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Årsavgift til grunneieren Utvinner av forekomst av statens mineraler skal betale grunneieren en årlig avgift på 0,5 prosent av omsetningsverdien av det som utvinnes.</seg>
+        <seg>§ 57.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 57.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvinner av forekomst av statens mineraler skal betale grunneieren en årlig avgift på 0,5 prosent av omsetningsverdien av det som utvinnes.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jahkedivat eanaeaiggádii Stáhta minerálaid roggi galgá eanaeaiggádii máksit jahkásaš divvaga mii lea 0,5 proseanta roggojuvvon minerálaid oppalaš gávpejorus.</seg>
@@ -1967,7 +2505,7 @@
         <seg>Avgiften for det enkelte år forfaller til betaling 31. mars året etter.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jahkásaš divat galgá máksojuvvot ovdal čuovvovaš jagi njukčamánu 31.</seg>
+        <seg>Jahkásaš divat galgá máksojuvvot ovdal čuovvovaš jagi njukčamánu 31. beaivvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1996,10 +2534,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Forhøyet grunneieravgift i Finnmark</seg>
+        <seg>§ 58.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>§ 58.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2007,7 +2545,7 @@
         <seg>For utvinning av statens mineraler på Finnmarkseiendommens grunn kan departementet ved forskrift fastsette en høyere årsavgift til grunneier enn angitt i § 57 første ledd første punktum.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Aliduvvon eanaeaiggátdivat Finnmárkkus Minerálaid roggama oktavuođa Finnmárkkuopmodaga eatnamiin de sáhttá departemeanta láhkaásahusa bakte mearridit alit jahkedivvaga eanaeaiggádii go mii lea mearriduvvon § 57 vuosttaš lađđasa vuosttaš čuoggás.</seg>
+        <seg>Aliduvvon eanaeaiggátdivat Finnmárkkus Minerálaid roggama oktavuođa Finnmárkkuopmodaga eatnamiin de sáhttá departemeanta láhkaásahusa bakte mearridit alit jahkedivvaga eanaeaiggádii go mii lea mearriduvvon § 57 vuosttaš lađđasa vuosttaš čuoggás. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,6 +2559,14 @@
     <tu>
       <tuv xml:lang="nob">
         <seg>Tilsyn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goziheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 59.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 59.</seg>
@@ -2044,7 +2590,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>arbeider ikke fører til unødvendig forurensning eller unødvendig skade på miljøet.</seg>
+        <seg>§ 60.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 60.</seg>
@@ -2052,7 +2598,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Undersøkelser og rett til opplysninger ved tilsyn Direktoratet for mineralforvaltning skal ved tilsyn ha uhindret tilgang til områder og anlegg og kunne foreta nødvendige undersøkelser av slike områder og anlegg.</seg>
+        <seg>Direktoratet for mineralforvaltning skal ved tilsyn ha uhindret tilgang til områder og anlegg og kunne foreta nødvendige undersøkelser av slike områder og anlegg.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Iskkadeamit ja riekti oažžut dieđuid goziheami oktavuođas Minerálahálddašandirektoráhtta galgá goziheami oktavuođas eastatkeahttá beassat guovlluide ja rusttegiidda vai guovlluid ja rusttegiid sáhttá dárkkistit.</seg>
@@ -2084,6 +2630,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 61.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 61.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Departementet kan gi forskrift om internkontroll og internkontrollsystemer for å sikre at krav fastsatt i eller i medhold av loven overholdes.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2108,10 +2662,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 62.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 62.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Direktoratet for mineralforvaltning kan gi pålegg om å rette eller stanse forhold som er i strid med bestemmelser eller vedtak gitt i eller i medhold av loven.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gohččun Minerálahálddašandirektoráhtta sáhttá gohččut njulget dahje bissehit doaimma mii rihkku mearrádusaid dahje láhkamearrádusaid. Gohččumis galgá ollášuhttináigemeari ovdanboahtit.</seg>
+        <seg>Gohččun Minerálahálddašandirektoráhtta sáhttá gohččut njulget dahje bissehit doaimma mii rihkku mearrádusaid dahje láhkamearrádusaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2119,12 +2681,20 @@
         <seg>I pålegget skal det settes en frist for oppfyllelse.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>Gohččumis galgá ollášuhttináigemeari ovdanboahtit.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i eller i medhold av loven, kan Direktoratet for mineralforvaltning sørge for å iverksette tiltaket.</seg>
+        <seg>§ 63.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Umiddelbar iverksetting ved Direktoratet for mineralforvaltning</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Minerálahálddašandirektoráhta gaskkahis čađaheapmi Jus ovddasvástideaddji ii doahttal doaibmagohččumiid čuovvut mat dán lága vuođul leat mearriduvvon, de Minerálahálddašandirektoráhtta sáhttá fuolahit ollášuhttima.</seg>
@@ -2132,7 +2702,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tiltak kan iverksettes uten forutgående pålegg dersom det er nødvendig for å avverge overhengende fare, eller dersom det etter omstendighetene vil være urimelig byrdefullt å finne frem til den ansvarlige.</seg>
+        <seg>Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i eller i medhold av loven, kan Direktoratet for mineralforvaltning sørge for å iverksette tiltaket.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Doaimmat sáhttet čađahuvvot almmá ráhkkaneaddji gohččuma haga jus lea dárbbašlaš eastadeames vuordi várálašvuođa, dahje ahte lea váttis gávdnat su gii ovddasvástádusa guoddá.</seg>
@@ -2140,7 +2710,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Utgiftene til iverksettingen kan kreves dekket av den ansvarlige.</seg>
+        <seg>Tiltak kan iverksettes uten forutgående pålegg dersom det er nødvendig for å avverge overhengende fare, eller dersom det etter omstendighetene vil være urimelig byrdefullt å finne frem til den ansvarlige.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Goluid dákkár doaimmaid čađaheamis sáhttá gáibidit ahte ovddasvástideaddji máksá.</seg>
@@ -2148,7 +2718,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Krav om utgiftsdekning er tvangsgrunnlag for utlegg.</seg>
+        <seg>Utgiftene til iverksettingen kan kreves dekket av den ansvarlige.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gollomáksima gáibádus lea bággopántideami vuođđun.</seg>
@@ -2156,10 +2726,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Midlertidig stans av virksomhet</seg>
+        <seg>Krav om utgiftsdekning er tvangsgrunnlag for utlegg.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 64.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 64.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2196,6 +2774,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 65.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 65.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Endring og tilbakekall av tillatelse mv..</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2204,7 +2790,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Departementet og Direktoratet for mineralforvaltning kan oppheve eller endre vilkårene i tillatelse etter loven eller forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig trekke tillatelsen tilbake dersom</seg>
+        <seg>innehaveren av tillatelsen ikke etterkommer pålegg etter § 62,</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Departemeanta ja Minerálahálddašandirektoráhtta sáhttet fámuhuhttit dahje rievdadit doaibmalobi eavttuid mat lága dahje láhkii gullevaš láhkaásahusa vuođul lea juolluduvvon, dahje bidjat ođđa eavttuid, ja maiddái máhcahit doaibmalobi jus: a) máŋgii ja roavvát rihkku láhkamearrádusaid dahje dán lága vuođul mearrádusaid, b) doaibmalobi eaiggát ii doahttal gohččosiid mearriduvvon § 62 vuođul, c) doaibmalobi lea ožžon boasttu dieđuid vuođul dahje lea addán dievasmeahttun dieđuid mearkkašahtti dilálašvuođaid birra, d) mearkkašahtti eavttut mat ledje vuođđun dalle go doaibmalohpi juolluduvvui leat jávkan, dahje e) mii muđui ovdanboahtá gustojeaddji rievdadannjuolggadusain.</seg>
@@ -2212,7 +2798,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Endring og tilbakekall av tillatelse etter første ledd kan gjøres tidsbegrenset.</seg>
+        <seg>vesentlige forutsetninger som lå til grunn for å gi tillatelsen er bortfalt, eller</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Doaibmalobi rievdadeapmi dahje máhcaheapmi vuosttaš lađđasa mielde sáhttá áigeráddjejuvvot.</seg>
@@ -2220,7 +2806,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tidsbegrenset endring og tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.</seg>
+        <seg>det for øvrig følger av ellers gjeldende omgjøringsregler.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Áigeráddjejuvvon rievdadeapmi ja máhcaheapmi sáhttá leat evttolažžan dan ektui ahte dihto dilálašvuođat buoriduvvojit dahje rievdaduvvojit.</seg>
@@ -2228,7 +2814,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Ved avgjørelser etter paragrafen her skal det tas hensyn til det økonomiske tapet og de ulempene som det må påregnes at en endring eller et tilbakekall vil påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet for øvrig vil medføre.</seg>
+        <seg>Endring og tilbakekall av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mearrádusat dán paragráfa mielde galget vuhtiiváldit vejolaš ekonomalaš vahágiid ja váivvádusaid máid doaibmalobi eaiggát sáhttá šaddat gillát sáhttá jus lohpi rievdaduvvo dahje máhcahuvvo, ja ovdamuniid ja váivvádusaid maid rievdadeapmi dahje máhcaheapmi muđui mielddisbuktá.</seg>
@@ -2236,7 +2822,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbakekall av tillatelser.</seg>
+        <seg>Ved avgjørelser etter paragrafen her skal det tas hensyn til det økonomiske tapet og de ulempene som det må påregnes at en endring eller et tilbakekall vil påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet for øvrig vil medføre.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Departemeanta sáhttá mearridit láhkaásahusa doaibmalobi rievdadeami ja máhcaheami birra.</seg>
@@ -2244,7 +2830,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tvangsmulkt</seg>
+        <seg>Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbakekall av tillatelser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 66.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>§ 66.</seg>
@@ -2364,6 +2958,22 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>1 juni 2013 iflg. res. 24 mai 2013 nr. 533).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 67.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 67.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Direktoratet for mineralforvaltning kan pålegge den som har overtrådt bestemmelser gitt i eller i medhold av denne lov, å betale et pengebeløp til statskassen (overtredelsesgebyr).</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2407,7 +3017,15 @@
         <seg>Departementet kan i forskrift gi nærmere bestemmelser om overtredelsesgebyr, herunder om vilkår for å ilegge overtredelsesgebyr, om størrelsen på overtredelsesgebyret, om rente og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall og om frafall av ilagt overtredelsesgebyr.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Departemeanta sáhttá láhkaásahusas addit dárkilat mearrádusaid rihkkudivvaga birra, dakko bakte eavttuid rihkkudivvaga mearrideames, rihkkundivvaga sturrodaga, reanttuid ja liigedivvaga jus rihkkundivat ii máksojuvvo mearreáiggis ja rihkkundivvaga luohpama birra. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+        <seg>Departemeanta sáhttá láhkaásahusas addit dárkilat mearrádusaid rihkkudivvaga birra, dakko bakte eavttuid rihkkudivvaga mearrideames, rihkkundivvaga sturrodaga, reanttuid ja liigedivvaga jus rihkkundivat ii máksojuvvo mearreáiggis ja rihkkundivvaga luohpama birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 juni 2013 iflg. res. 24 mai 2013 nr. 533).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +3046,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>§ 68.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Loven trer i kraft fra den tid Kongen bestemmer.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2440,6 +3066,22 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>2009 geassemánu 19. beaivvi res. nr. 673 mielde fápmuiboahtin 2010 ođđajagimánu 1. b. rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 69.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 69.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Overgangsbestemmelser</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gaskaboddosaš mearrádusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,7 +3209,15 @@
         <seg>For igangværende drift på forekomst av statens mineraler kan departementet fastsette en gradvis opptrapping av årlig avgift til grunneier de fem første årene etter lovens ikrafttredelse.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Minerálaroggandoibmii mii mii juo lea álggahuvvon sáhttá departemeanta mearridit dađistaga lasihit jahkásaš divvaga man minerálaroggi galgá máksit eanaeaiggádii vuosttaš vihtta jagi maŋŋil lága fápmuiboahtima.</seg>
+        <seg>Minerálaroggandoibmii mii mii juo lea álggahuvvon sáhttá departemeanta mearridit dađistaga lasihit jahkásaš divvaga man minerálaroggi galgá máksit eanaeaiggádii vuosttaš vihtta jagi maŋŋil lága fápmuiboahtima. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>§ 70.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>§ 70.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,7 +3225,7 @@
         <seg>Endringer i andre lover</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rievdadusat eará lágain</seg>
+        <seg>§ 11, § 12, § 13, § 17, § 18, § 28, § 40 ja § 41 a heaittihuvvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,7 +3233,15 @@
         <seg>Når loven trer i kraft gjøres følgende endringer i andre lover: 1 - - -</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Go láhka fápmuiboahtá čađahuvvojit čuovvovaš rievdadusat eará lágain:</seg>
+        <seg>1959 golggotmánu 23. beaivvi láhka nr. 3 bággolonistit vuođđoopmodaga rievdaduvvo ná: § 30 nr. 8 ja nr. 17 heaittihuvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2003 skábmamánu 28. beaivvi láhka nr. 98 konsešuvdna vuođđoopmodaga háhkama birra (konsešuvdnaláhka) jna. rievdaduvvo ná: § 2 nubbi lađđasa sisdoallu šaddá ná: Láhka ii fátmmas oamastusháhkama 1. mii 1917 juovlamánu 14. beaivvi lága nr 17 mielde lea konsešuvdna geatnegahttojuvvon oamastusháhkamis goržži jna. kapihtal I, 2. mii 1990 geassemánu 29. beaivvi lága nr. 50 kapihtal 3 energiija buvttadeami, hábmema, sirdima, vuovdima, juogadeami ja geavaheami birra jna. lea konsešuvdnageatnegahttojuvvon, 3. man vuođđun lea bággolotnunlohpi 2009 geassemánu 19. beaivvi láhka nr. 101 háhkamis ja roggamis minerálavalljodagaid (minerálalága) § 37 nubbi lađas ja § 38 nubbi lađas, 4. mii lea dárbbašlaš minerála resurssaid roggamis go roggi sádde doaibmalobi ohcamuša 2009 geassemánu 19. beaivvi lága nr. 101 háhkamis ja roggamis minerálavalljodagaid (minerálalága) § 43 mielde ja doaibmalohpi mieđihuvvo. Láhka fápmuiboahtá 2010 ođđaj. 1. b; geahča § 68.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2591,8 +3249,8 @@
         <seg>Se fotnote til lovens tittel om hvilke lover som ble opphevet ved denne lov.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1972 geassemánu 30. beaivvi láhka nr. 70 báktedoaimma birra heaittihuvvo.</seg>
+        <seg>Diehtočoakkáldat lea maŋimusat ođasmahtton 2009 golggotmánu 20. beaivvi</seg>
       </tuv>
     </tu>
-    </body>
+  </body>
 </tmx>

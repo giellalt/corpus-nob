@@ -1,103 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Loddeinflueansa - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>344</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>510</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/tema/samfunnssikkerhet/fugleinfluensa.html?id=1123</origFileName>
-    <parallel_text location="loddeinflueansa.html_id=1123" xml:lang="sme"/>
-    <parallel_text location="fugleinfluensa.html_id=1123" xml:lang="nno"/>
+    <parallel_text location="fugleinfluensa_id_1123.html" xml:lang="nno"/>
+    <parallel_text location="loddeinflueansa_id_1123.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Fugleinfluensa</p>
-    </section>
-    <p>Fugleinfluensa er en smittsom sykdom hos fugler som er forårsaket av et influnsa A-virus. Fugleinfluensa smitter svært sjelden fra fugl til mennesker. De som er blitt smittet har så langt man kjenner til vært i svært nær kontakt med syke eller døde fugler. </p>
-    <p>Ansvaret i Norge for å overvåke, håndtere og bekjempe fugleinfluensa er delt mellom dyrehelsemyndighetene og helsemyndighetene. På departementsnivå er ansvaret delt mellom Landbruks- og matdepartementet og Helse- og omsorgsdepartementet. </p>
-    <p>På denne siden finner du informasjon og nyheter fra departementene som omhandler fugleinfluensa. Du kan utforske temaet nærmere i menyen til høyre. </p>
-    <p>Abonner på e-postvarsling </p>
-    <section>
-      <p type="title">
-                      Fugleinfluensa</p>
-    </section>
-    <p>Fugleinfluensa er en smittsom virussykdom hos fugler. Ulike varianter av fugleinfluensavirus fører til sykdom av forskjellig alvorlighetsgrad. Den alvorlige formen av sykdommen er sterkt sykdomsfremkallende (høypatogen-H5N1). H5N1-typen er årsak til fugleinfluensautbrudd i Asia, Afrika og Europa. Fugleinfluensa av H5N1-typen er aldri påvist i Norge. </p>
-    <section>
-      <p type="title">
-                  Nyheter fra departementene om fugleinfluensa:</p>
-    </section>
-    <section>
-      <p type="title">Fugleinfluensa: Fortsatt en
-                      trussel</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 20.04.2010] </p>
-    <p>Fugleinfluensa: Samordnede internasjonale tiltak har utryddet H5N1-viruset fra nesten alle de 63 landene som har vært rammet av smitten. I fem land finnes fremdeles viruset, og det utgjør en trussel både mot dyrehelsen og folkehelsen. </p>
-    <section>
-      <p type="title">Fugleinfluensa: Redusert
-                      oppmerksomhet</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 24.03.2010] </p>
-    <p>Fugleinfluensa: Internasjonal oppmerksomhet rundt fugleinfluensa ser ut til å minke. Dette medfører redusert internasjonal overvåkning og kapasitetsbygging. Fugleinfluensa er fortsatt et betydelig problem, særlig i Egypt og Asia, hvor sykdommen reduserer tilgangen på mat og lokalsamfunnenes ressurser. </p>
-    <section>
-      <p type="title">Fugleinfluensa: Dansk andeflokk
-                      avlivet</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 11.03.2010] </p>
-    <p>Fugleinfluensa: En flokk på 250 avlsender er avlivet i Danmark etter at det er konstatert smitte av lavpatogen fugleinfluensa av typen H7. </p>
-    <section>
-      <p type="title">Svar på skriftlig spørsmål nr. 858 fra
-                      representanten Line Henriette Holten Hjemdal -
-                      statlig finansiering ved alvorlig utbrudd av
-                      fugleinfluensa</p>
-    </section>
-    <p>[Brev til Stortinget, Landbruks- og matdepartementet, 19.03.2009] </p>
-    <section>
-      <p type="title">Dyr: Opphever forskrift om
-                      fugleinfluensa</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 29.12.2008] </p>
-    <p>Dyr: Mattilsynet opphever forskriften om opprettelse av soner for å bekjempe fugleinfluensa i Trøgstad kommune i Østfold. </p>
-    <section>
-      <p type="title">Dyr: Svekket mistanke om
-                      fugleinfluensa</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 04.12.2008] </p>
-    <p>Dyr: Foreløpige analyser fra hobbyfuglbesetningen i Indre Østfold gir grunnlag for svekket mistanke om fugleinfluensa, melder Mattilsynet. </p>
-    <section>
-      <p type="title">Dyr: Mistanke om ufarlig variant av
-                      fugleinfluensa</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 04.12.2008] </p>
-    <p>Dyr: Etter en rutineundersøkelse er det mistanke om et tilfelle av ufarlig variant av fugleinfluensa i en hobbybesetning i Indre Østfold. Mattilsynet har pålagt dyreholder restriksjoner. Det er ikke fare for sykdom hos mennesker. </p>
-    <section>
-      <p type="title">FAO: USA øker støtten til kampen mot
-                      fugleinfluensa</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 12.11.2008] </p>
-    <p>FAO: USA støtter FAO - FNs mat- og jordbruksorganisasjons kampanje for kontroll av og vern mot fugleinfluensa med ytterligere 44,4 millioner amerikanske dollar. </p>
-    <section>
-      <p type="title">Fugleinfluensa: Kampen er ikke
-                      vunnet</p>
-    </section>
-    <p>[Nyhet, Landbruks- og matdepartementet, 30.10.2008] </p>
-    <p>Fugleinfluensa: Viruset H5N1 har kostet 600 millioner tamfugler livet. Det kom fram på den sjette internasjonale ministerkonferansen om fugleinfluensa og beredskap mot pandemi i Sharm el-Sheik i Egypt 24.-26. oktober. </p>
-    <section>
-      <p type="title">Norge bidrar til verdens kamp mot
-                      fugleinfluensa</p>
-    </section>
-    <p>[Nyhet, Utenriksdepartementet, 24.10.2008] </p>
-    <p>Norge deltar denne uken på et stort, internasjonalt toppmøte om fugleinfluensa for å hindre at sykdommen sprer seg fra land til land. </p>
-    <p>Flere dokumenter om temaet </p>
+    <p>Fugleinfluensa - regjeringen.no</p>
+    <p type="title">Fugleinfluensa</p>
+    <p>Fugleinfluensa er en smittsom sykdom hos fugler som er forårsaket av et influnsa A-virus. Fugleinfluensa smitter svært sjelden fra fugl til mennesker. De som er blitt smittet har så langt man kjenner til vært i svært nær kontakt med syke eller døde fugler.</p>
+    <p>Ansvaret i Norge for å overvåke, håndtere og bekjempe fugleinfluensa er delt mellom dyrehelsemyndighetene og helsemyndighetene. På departementsnivå er ansvaret delt mellom Landbruks- og matdepartementet og Helse- og omsorgsdepartementet.</p>
+    <p>På denne siden finner du informasjon og nyheter fra departementene som omhandler fugleinfluensa. Du kan utforske temaet nærmere i menyen til høyre.</p>
+    <p>Abonner på e-postvarsling</p>
+    <p type="title">Fugleinfluensa</p>
+    <p>Fugleinfluensa er en smittsom virussykdom hos fugler. Ulike varianter av fugleinfluensavirus fører til sykdom av forskjellig alvorlighetsgrad. Den alvorlige formen av sykdommen er sterkt sykdomsfremkallende (høypatogen-H5N1). H5N1-typen er årsak til fugleinfluensautbrudd i Asia, Afrika og Europa. Fugleinfluensa av H5N1-typen er aldri påvist i Norge.</p>
+    <p type="title">Nyheter fra departementene om fugleinfluensa:</p>
+    <p type="title">Fugleinfluensa: Fortsatt en trussel</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 20.04.2010]</p>
+    <p>Fugleinfluensa: Samordnede internasjonale tiltak har utryddet H5N1-viruset fra nesten alle de 63 landene som har vært rammet av smitten. I fem land finnes fremdeles viruset, og det utgjør en trussel både mot dyrehelsen og folkehelsen.</p>
+    <p type="title">Fugleinfluensa: Redusert oppmerksomhet</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 24.03.2010]</p>
+    <p>Fugleinfluensa: Internasjonal oppmerksomhet rundt fugleinfluensa ser ut til å minke. Dette medfører redusert internasjonal overvåkning og kapasitetsbygging. Fugleinfluensa er fortsatt et betydelig problem, særlig i Egypt og Asia, hvor sykdommen reduserer tilgangen på mat og lokalsamfunnenes ressurser.</p>
+    <p type="title">Fugleinfluensa: Dansk andeflokk avlivet</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 11.03.2010]</p>
+    <p>Fugleinfluensa: En flokk på 250 avlsender er avlivet i Danmark etter at det er konstatert smitte av lavpatogen fugleinfluensa av typen H7.</p>
+    <p type="title">Svar på skriftlig spørsmål nr. 858 fra representanten Line Henriette Holten Hjemdal - statlig finansiering ved alvorlig utbrudd av fugleinfluensa</p>
+    <p>[Brev til Stortinget, Landbruks- og matdepartementet, 19.03.2009]</p>
+    <p type="title">Dyr: Opphever forskrift om fugleinfluensa</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 29.12.2008]</p>
+    <p>Dyr: Mattilsynet opphever forskriften om opprettelse av soner for å bekjempe fugleinfluensa i Trøgstad kommune i Østfold.</p>
+    <p type="title">Dyr: Svekket mistanke om fugleinfluensa</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 04.12.2008]</p>
+    <p>Dyr: Foreløpige analyser fra hobbyfuglbesetningen i Indre Østfold gir grunnlag for svekket mistanke om fugleinfluensa, melder Mattilsynet.</p>
+    <p type="title">Dyr: Mistanke om ufarlig variant av fugleinfluensa</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 04.12.2008]</p>
+    <p>Dyr: Etter en rutineundersøkelse er det mistanke om et tilfelle av ufarlig variant av fugleinfluensa i en hobbybesetning i Indre Østfold. Mattilsynet har pålagt dyreholder restriksjoner. Det er ikke fare for sykdom hos mennesker.</p>
+    <p type="title">FAO: USA øker støtten til kampen mot fugleinfluensa</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 12.11.2008]</p>
+    <p>FAO: USA støtter FAO - FNs mat- og jordbruksorganisasjons kampanje for kontroll av og vern mot fugleinfluensa med ytterligere 44,4 millioner amerikanske dollar.</p>
+    <p type="title">Fugleinfluensa: Kampen er ikke vunnet</p>
+    <p>[Nyhet, Landbruks- og matdepartementet, 30.10.2008]</p>
+    <p>Fugleinfluensa: Viruset H5N1 har kostet 600 millioner tamfugler livet. Det kom fram på den sjette internasjonale ministerkonferansen om fugleinfluensa og beredskap mot pandemi i Sharm el-Sheik i Egypt 24.-26. oktober.</p>
+    <p type="title">Norge bidrar til verdens kamp mot fugleinfluensa</p>
+    <p>[Nyhet, Utenriksdepartementet, 24.10.2008]</p>
+    <p>Norge deltar denne uken på et stort, internasjonalt toppmøte om fugleinfluensa for å hindre at sykdommen sprer seg fra land til land.</p>
+    <p>Flere dokumenter om temaet</p>
   </body>
 </document>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-206.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-206.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilskudd til helse- og sosialtjenester 2007 (2. gangs utlysning) - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prošeaktaruđat dearvvašvuođa- ja sosiálabálvalusaide 2007 (2. geardde almmuhus) - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Tilskudd til helse- og sosialtjenester 2007 (2. gangs utlysning)</seg>
@@ -119,7 +129,7 @@
         <seg>• Prosjekt som har som formål og utvikle forslag til gode redskaper for å kunne måle og sikre kvalitet på helse og sosialtilbud til den samiske befolkning</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>• Prošeavttat maid ulbmilin lea ovdánahttit ja evttohit buriid reaidduid dasa movt mihtidit ja sihkkarastit sámi álbmoga vástevaš dearvvašvuođa- ja sosiálafálaldagaid kvalitehta.</seg>
+        <seg>• Prošeavttat maid ulbmilin lea ovdánahttit ja evttohit buriid reaidduid dasa movt mihtidit ja sihkkarastit sámi álbmoga vástesaš dearvvašvuođa- ja sosiálafálaldagaid kvalitehta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143,7 +153,7 @@
         <seg>Personlig veiledning</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Persovnnalaš oaivadus</seg>
+        <seg>Peršovnnalaš oaivadus</seg>
       </tuv>
     </tu>
     <tu>
@@ -151,7 +161,7 @@
         <seg>Ta kontakt med Sametinget dersom du har spørsmål eller trenger personlig veiledning til utarbeiding av søknaden:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jos dus leat gažaldagat dahje dárbbašat persovnnalaš oaivadusa movt čállit ohcama ásaheami birra, de sáhtát váldit oktavuođa Servodatossodagain Kárášjogas.</seg>
+        <seg>Jos dus leat gažaldagat dahje dárbbašat peršovnnalaš oaivadusa movt čállit ohcama ásaheami birra, de sáhtát váldit oktavuođa Servodatossodagain Kárášjogas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,86 +186,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>samediggi@samediggi.no</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Lisbeth Vesterheim Skoglund.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Lisbeth Vesterheim Skoglund.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 04.06.2007</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 04.06.2007</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>artikler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Retningslinjer for tilskudd til samiske helse- og sosialtjenester</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi dearvvasvuođa- ja sosiálabálvalusaid doarjaga njuolggadusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Kunngjøring (samisk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhusa (sámegiella)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Søknadsskjema (norsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Skovi (dárugiella)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Veiledning for søker (norsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ohciid bagadus (dárugiella)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Veiledning for søker (samisk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ohciid bagadus (sámegiella)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Søknadsskjema (norsk) Word</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Skovi (dárugiella) Word</seg>
       </tuv>
     </tu>
   </body>

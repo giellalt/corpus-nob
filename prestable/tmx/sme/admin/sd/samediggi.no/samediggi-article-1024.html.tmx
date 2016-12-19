@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-1024.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-1024.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Reisepolitikk for Sametingets politiske nivå - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki politihkalaš dási mátkepolitihkka - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Reisepolitikk for Sametingets politiske nivå</seg>
@@ -39,31 +49,7 @@
         <seg>- Sikre at regelverk, bestemmelser og inngåtte avtaler er kjent og blir praktisert likt blant alle i Sametinget.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>- Dat galgá sihkkarastit ahte buohkat Sámedikkid dovdet njuolggadusaid, mearrádusaid ja dahkkojuvvon šiehtadusaid ja ahte dat geavahuvvojit ovtta láhkai buohkaid ektui Sámedikkis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Reisepolitikk (norsk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mátkepolitihka (dárugiela)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Reisepolitikk (samisk)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mátkepolitihkka (sámegiela)</seg>
+        <seg>- Dat galgá sihkkarastit ahte buohkat Sámedikkid dovdet njuolggadusaid, mearrádusaid ja dahkkojuvvon šiehtadusaid ja ahte dat geavahuvvojit ovttaláhkai buohkaid ektui Sámedikkis</seg>
       </tuv>
     </tu>
   </body>

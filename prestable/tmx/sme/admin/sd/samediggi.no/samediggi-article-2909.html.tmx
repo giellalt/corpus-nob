@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2909.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2909.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets plenumsmøter i februar 2009 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dievasčoahkkin 2009 guovvamánus - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets plenumsmøter i februar 2009</seg>
@@ -28,22 +38,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Balto, Randi Romsdal.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Balto, Randi Romsdal.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 20.02.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 20.02.2009</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Møtelederskapets forslag til saksliste:</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -55,7 +49,7 @@
         <seg>- sak 01/09 Konstituering - sak 02/09 Sametingsrådets beretning om virksomheten - sak 03/09 Spørsmål til Sametingsrådet - sak 04/09 Kunngjøring av nye saker - sak 05/09 Innspill til jordbruksforhandlingene 2009 - sak 06/09 Reindriftsmeldingen - drøftingssak - sak 07/09 Sametingets årsmelding 2008 - sak 08/09 NOU 2007:13 Den nye sameretten - Sametingets grunnlag og premisser - sak 09/09 Språkundersøkelse 2008 - sak 10/09 Utbygging av Goliat - høring av konsekvensutredning - sak 11/09 Fritak fra politisk verv i Sametinget - Maja Lisa Kappfjell</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>- ášši 01/09 Vuođđudeapmi - ášši 02/09 Sámediggeráđi doaibmadieđáhus - ášši 03/09 Gažaldagat Sámediggeráđđái - ášši 04/09 Ođđa áššiid dieđiheapmi - ášši 05/09 Cealkámuš 2009 eanandoallošiehtadallamiidda - ášši 06/09 Sámediggeráđi boazodoallopolitihkalaš dieđáhus - ságaškuššanášši - ášši 07/09 Sámedikki 2008 jahkedieđáhus - ášši 08/09 NAČ 2007:13 Ođđa sámeriekti - Sámedikki vuođđu ja eavttut - ášši 09/09 Giellaiskkadeapmi 2008 - ášši 10/09 Cealkámuš váikkuhusčielggadeapmái Goliat birra - ášši 11/09 Luvven politihkalaš doaimmas Sámedikkis - Marja Lisa Kappfjell</seg>
+        <seg>- ášši 01/09 Vuođđudeapmi - ášši 02/09 Sámediggeráđi doaibmađiedahus - ášši 03/09 Gažaldagat Sámediggeráđđái - ášši 04/09 Ođđa áššiid dieđiheapmi - ášši 05/09 Cealkámuš 2009 eanandoallošiehtadallamiidda - ášši 06/09 Sámediggeráđi boazodoallopolitihkalaš dieđáhus - ságaškuššanášši - ášši 07/09 Sámedikki 2008 jahkedieđáhus - ášši 08/09 NAČ 2007:13 Ođđa sámeriekti - Sámedikki vuođđu ja eavttut - ášši 09/09 Giellaiskkadeapmi 2008 - ášši 10/09 Cealkámuš váikkuhusčielggadeapmái Goliat birra - ášši 11/09 Luvven politihkalaš doaimmas Sámedikkis - Marja Lisa Kappfjell</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,46 +66,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Áššedokumeanttaid dávnnat dákko.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>innkall norsk 1-09</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>gohččun dáru 1-09</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>innkall sam 1-09</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>gohččun sámi 1-09</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>prog plen norsk 1-09</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>prog plen dáru 1-09</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>prog plen sami 1-09</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>prog plen sámi 1-09</seg>
       </tuv>
     </tu>
   </body>

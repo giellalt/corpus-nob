@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3409.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3409.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget stengt fra 09. - 11.12.09 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi gitta 09. - 11.12.09 - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametinget stengt fra 09. - 11.12.09</seg>
@@ -32,22 +42,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Telefuvdnaguovddáš lea rabas gáskaváhko ja duorastaga</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 08.12.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 08.12.2009</seg>
       </tuv>
     </tu>
     <tu>
@@ -84,10 +78,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>http://www.samediggi.no/artikkel.aspx?AId=16&amp;amp;MId1=9&amp;amp;back 1 =</seg>
+        <seg>http://www.samediggi.no/artikkel.aspx?AId=16&amp;MId1=9&amp;back=1</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>http://www.samediggi.no/artikkel.aspx?AId=16&amp;amp;MId1=9&amp;amp;back 1 =</seg>
+        <seg>http://www.samediggi.no/artikkel.aspx?AId=16&amp;MId1=9&amp;back=1</seg>
       </tuv>
     </tu>
   </body>

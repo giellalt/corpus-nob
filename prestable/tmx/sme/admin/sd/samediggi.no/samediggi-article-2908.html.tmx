@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2908.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2908.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er det valgting til sametingsvalget i din kommune ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea go du suohkanis válgadiggi sámediggeválggaid oktavuođas ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Er det valgting til sametingsvalget i din kommune ?</seg>
@@ -52,22 +70,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Ramstad, Liss-Ellen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Ramstad, Liss-Ellen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 17.09.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 17.09.2009</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Kommunen avgjør om det kan stemmes i alle stemmekretser, eller om det er utvalgte steder som er tilrettelagt for sametingsvalget.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -96,22 +98,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sii guđet leat registrerejuvvon Sámedikki jienastuslohkui, ja guđiin dasto lea jienastanvuoigatvuohta ožžot sáddejuvvot válgakoartta mii galgá váldojuvvot fárrui jienastanbáikái.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Antall i valgmanntallet i kommunene i 2005</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Antall i valgmanntallet i kommunene i 2005</seg>
       </tuv>
     </tu>
   </body>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3280.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3280.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Marie Therese Aslaksen leder Sametingets tilskuddsstyre - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Marie Therese Aslaksen jođiha Sámedikki doarjjastivrra. - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Marie Therese Aslaksen leder Sametingets tilskuddsstyre</seg>
@@ -23,7 +33,7 @@
         <seg>Sametingets tilskuddstyre for perioden 2009-2013 består av: 1.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dá leat Sámedikki doarjjastivrra láhttut 2009 - 2013 áigodahkii: 1.</seg>
+        <seg>Dá leat Sámedikki doarjjastivrra lahttut 2009 - 2013 áigodahkii: 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,22 +186,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Várrelahttu: Mathis N. Eira.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 24.02.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 24.02.2010</seg>
       </tuv>
     </tu>
   </body>

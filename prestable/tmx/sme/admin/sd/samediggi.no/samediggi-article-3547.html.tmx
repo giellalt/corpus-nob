@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3547.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3547.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hagbart Grønmo ny rådgiver for Sametingsrådet - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hagbart Grønmo ođđa ráđđeaddin Sámediggeráđđái - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Hagbart Grønmo ny rådgiver for Sametingsrådet</seg>
@@ -24,22 +34,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Grønmo bargá dál jođiheddjiin ja čállin Bargiidbellodaga sámediggejoavkku kantuvrras Kárášjogas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 26.02.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 26.02.2010</seg>
       </tuv>
     </tu>
     <tu>

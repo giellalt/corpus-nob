@@ -1,103 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Fievrrideapmi ja johtalus  - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>553</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>679</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/tema/transport_og_kommunikasjon.html?id=928</origFileName>
-    <parallel_text location="fievrrideapmi-ja-johtalus-.html_id=928" xml:lang="sme"/>
-    <parallel_text location="transport-og-kommunikasjon.html_id=928" xml:lang="nno"/>
-    <parallel_text location="transport-and-communications.html_id=928" xml:lang="eng"/>
+    <parallel_text location="transport-and-communications_id_928.html" xml:lang="eng"/>
+    <parallel_text location="transport-og-kommunikasjon_id_928.html" xml:lang="nno"/>
+    <parallel_text location="fievrrideapmi-ja-johtalus-_id_928.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Transport og kommunikasjon</p>
-    </section>
-    <p>Regjeringen vil skape en positiv utvikling i hele landet og øker derfor satsingen på samferdsel. Det offentlige har ansvaret for et godt og moderne kommunikasjonsnett i hele landet. Transport og kommunikasjon er en viktig forutsetning for bosetting og næringsutvikling. Dette stiller krav til en variert satsning og en differensiert samferdselspolitikk der de ulike delene av samferdselspolitikken sees i sammenheng. </p>
+    <p>Transport og kommunikasjon - regjeringen.no</p>
+    <p type="title">Transport og kommunikasjon</p>
+    <p>Regjeringen vil skape en positiv utvikling i hele landet og øker derfor satsingen på samferdsel. Det offentlige har ansvaret for et godt og moderne kommunikasjonsnett i hele landet. Transport og kommunikasjon er en viktig forutsetning for bosetting og næringsutvikling. Dette stiller krav til en variert satsning og en differensiert samferdselspolitikk der de ulike delene av samferdselspolitikken sees i sammenheng.</p>
     <p>Det er <em type="italic">Samferdselsdepartementet </em>som har det overordnede ansvaret for spørsmål som gjelder transport, posttjenester og telekommunikasjon. <em type="italic">Fiskeri- og kystdepartementet </em>ivaretar sjøtransport og kystforvaltningen. </p>
-    <p>På denne siden finner du informasjon og dokumenter som berører transport og kommunikasjon på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre. </p>
-    <p>Abonner på e-postvarsling </p>
-    <section>
-      <p type="title">
-                  Nyheter fra departementene om transport og
-                  kommunikasjon:</p>
-    </section>
-    <section>
-      <p type="title">Samferdselsministeren inviterer til
-                      pressetreff</p>
-    </section>
-    <p>[Nyhet, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>Samferdselsdepartementet inviterer til pressetreff tirsdag med samferdselsminister Magnhild Meltveit Kleppa i samband med statsbudsjettet for 2011: Økern torg i Oslo kl 14. </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: Nytt løft for
-                      samferdsel – 1,5 milliardar kroner meir til drift
-                      og vedlikehald</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>- Regjeringa tek eit nytt stort løft for veg- og jernbanenettet i landet, og satsar særleg på drift og vedlikehald. No stansar vi forfallet på vegane og byrjar arbeidet med å ta att etterslepet på jernbanen, seier samferdselsminister Magnhild Meltveit Kleppa. </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: 15,1 milliardar
-                      kroner til vegføremål – løyvingar til vedlikehald
-                      aukar med 60 prosent</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>- Neste år blir det eit stort løft for drift og vedlikehald på vegnettet. Veksten i etterslepet i vedlikehaldet blir stansa. Det blir auke i løyvingane til investeringar, medrekna ein milliard kroner til rassikring, seier samferdselsminister Magnhild Meltveit Kleppa. </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: 11,5 milliardar
-                      kroner til jernbanen</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>Regjeringa foreslår 11,5 milliardar kroner til jernbaneformål for 2011. Dette er ein auke på 13,4 prosent frå saldert budsjett 2010. – Samanliknar ein med løyvingsnivået i 2005 har jernbanebudsjettet auka med om lag 67 prosent, seier samferdselsminister Magnhild Meltveit Kleppa </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: Fylkesvis oversikt
-                      – forslag og tiltak i
-                      samferdselssektoren</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>Forslag og tiltak i samferdselssektoren. </p>
-    <section>
-      <p type="title">Budsjett for bedre og sikrere
-                      sjøtransport langs kysten</p>
-    </section>
-    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010] </p>
-    <p>- Det er et sterkt budsjett for kysten når regjeringa i 2011 vil styrke bevilgningen til oppfølging av Nasjonal transportplan, slepebåtberedskap, beredskap mot akutt forurensning og vrakhåndtering. Videre foreslås å bedre vilkårene for sjøtransporten ved å redusere kystavgiften og bedre den maritime infrastrukturen. Regjeringa vil også prioritere nordområdetiltaket BarentsWatch, samt forlenge garantiavtalene mellom Innovasjon Norge og salgslagene med ett år, sier fiskeri- og kystminister Lisbeth Berg-Hansen. </p>
-    <section>
-      <p type="title">Flere fiskerihavner og nye tiltak i
-                      farleiene</p>
-    </section>
-    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010] </p>
-    <p>- Fiskerihavnene er viktige for å videreutvikle fiskerinæringa og sikre bosetting langs kysten. Tiltak i farleiene øker på sin side sikkerheten i sjøtransporten og gjør det lettere å ta seg fram til sjøs. I budsjettforslaget for 2011 blir det foreslått en reell økning til statlig utbygging av fiskerihavner og farleier med 8,8 millioner kroner og 22,9 millioner kroner i økt tilskudd til kommunale fiskerihavnetiltak, sier fiskeri- og kystminister Lisbeth Berg-Hansen. </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: Rassikring: Vel
-                      ein milliard kroner – aukar med nær 24
-                      prosent</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>- Den sterke satsinga på rassikringstiltak i 2011 vil bli følgd opp i tida framover, i tråd med regjeringa sitt mål om ein milliard kroner årleg til rassikring i perioden 2010 – 2019, seier samferdselsministeren i samband med at regjeringa gjer framlegg om å løyva i alt 1,05 milliardar kroner til rassikring. </p>
-    <section>
-      <p type="title">Statsbudsjettet 2011: Statens vegvesen:
-                      Eiga tilsynseining – frå 2012</p>
-    </section>
-    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010] </p>
-    <p>- Regjeringa føreslår at tilsynsoppgåvene til Statens vegvesen vert lagde til ei eiga eining direkte under vegdirektøren. Eit slikt skilje er nødvendig for å sikra tilstrekkeleg habilitet i tilsynssaker, seier samferdselsministeren. </p>
-    <section>
-      <p type="title">Styrka beredskap mot akutt
-                      forureining</p>
-    </section>
-    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010] </p>
-    <p>- For å styrkje beredskapen mot akutt forureining foreslår regjeringa å auke løyvinga til slepebåtberedskap med 30 millionar kroner og midlane til beredskap mot akutt forureining med 25 millionar kroner i budsjettet for 2011. Vidare foreslår vi å løyve 30 millionar kroner til handtering av skipsvrak i 2011, seier fiskeri- og kystminister Lisbeth Berg-Hansen </p>
-    <p>Flere dokumenter om temaet </p>
+    <p>På denne siden finner du informasjon og dokumenter som berører transport og kommunikasjon på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre.</p>
+    <p>Abonner på e-postvarsling</p>
+    <p type="title">Nyheter fra departementene om transport og kommunikasjon:</p>
+    <p type="title">Samferdselsministeren inviterer til pressetreff</p>
+    <p>[Nyhet, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>Samferdselsdepartementet inviterer til pressetreff tirsdag med samferdselsminister Magnhild Meltveit Kleppa i samband med statsbudsjettet for 2011: Økern torg i Oslo kl 14.</p>
+    <p type="title">Statsbudsjettet 2011: Nytt løft for samferdsel – 1,5 milliardar kroner meir til drift og vedlikehald</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>- Regjeringa tek eit nytt stort løft for veg- og jernbanenettet i landet, og satsar særleg på drift og vedlikehald. No stansar vi forfallet på vegane og byrjar arbeidet med å ta att etterslepet på jernbanen, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
+    <p type="title">Statsbudsjettet 2011: 15,1 milliardar kroner til vegføremål – løyvingar til vedlikehald aukar med 60 prosent</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>- Neste år blir det eit stort løft for drift og vedlikehald på vegnettet. Veksten i etterslepet i vedlikehaldet blir stansa. Det blir auke i løyvingane til investeringar, medrekna ein milliard kroner til rassikring, seier samferdselsminister Magnhild Meltveit Kleppa.</p>
+    <p type="title">Statsbudsjettet 2011: 11,5 milliardar kroner til jernbanen</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>Regjeringa foreslår 11,5 milliardar kroner til jernbaneformål for 2011. Dette er ein auke på 13,4 prosent frå saldert budsjett 2010. – Samanliknar ein med løyvingsnivået i 2005 har jernbanebudsjettet auka med om lag 67 prosent, seier samferdselsminister Magnhild Meltveit Kleppa</p>
+    <p type="title">Statsbudsjettet 2011: Fylkesvis oversikt – forslag og tiltak i samferdselssektoren</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>Forslag og tiltak i samferdselssektoren.</p>
+    <p type="title">Budsjett for bedre og sikrere sjøtransport langs kysten</p>
+    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010]</p>
+    <p>- Det er et sterkt budsjett for kysten når regjeringa i 2011 vil styrke bevilgningen til oppfølging av Nasjonal transportplan, slepebåtberedskap, beredskap mot akutt forurensning og vrakhåndtering. Videre foreslås å bedre vilkårene for sjøtransporten ved å redusere kystavgiften og bedre den maritime infrastrukturen. Regjeringa vil også prioritere nordområdetiltaket BarentsWatch, samt forlenge garantiavtalene mellom Innovasjon Norge og salgslagene med ett år, sier fiskeri- og kystminister Lisbeth Berg-Hansen.</p>
+    <p type="title">Flere fiskerihavner og nye tiltak i farleiene</p>
+    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010]</p>
+    <p>- Fiskerihavnene er viktige for å videreutvikle fiskerinæringa og sikre bosetting langs kysten. Tiltak i farleiene øker på sin side sikkerheten i sjøtransporten og gjør det lettere å ta seg fram til sjøs. I budsjettforslaget for 2011 blir det foreslått en reell økning til statlig utbygging av fiskerihavner og farleier med 8,8 millioner kroner og 22,9 millioner kroner i økt tilskudd til kommunale fiskerihavnetiltak, sier fiskeri- og kystminister Lisbeth Berg-Hansen.</p>
+    <p type="title">Statsbudsjettet 2011: Rassikring: Vel ein milliard kroner – aukar med nær 24 prosent</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>- Den sterke satsinga på rassikringstiltak i 2011 vil bli følgd opp i tida framover, i tråd med regjeringa sitt mål om ein milliard kroner årleg til rassikring i perioden 2010 – 2019, seier samferdselsministeren i samband med at regjeringa gjer framlegg om å løyva i alt 1,05 milliardar kroner til rassikring.</p>
+    <p type="title">Statsbudsjettet 2011: Statens vegvesen: Eiga tilsynseining – frå 2012</p>
+    <p>[Pressemelding, Samferdselsdepartementet, 05.10.2010]</p>
+    <p>- Regjeringa føreslår at tilsynsoppgåvene til Statens vegvesen vert lagde til ei eiga eining direkte under vegdirektøren. Eit slikt skilje er nødvendig for å sikra tilstrekkeleg habilitet i tilsynssaker, seier samferdselsministeren.</p>
+    <p type="title">Styrka beredskap mot akutt forureining</p>
+    <p>[Pressemelding, Fiskeri- og kystdepartementet, 05.10.2010]</p>
+    <p>- For å styrkje beredskapen mot akutt forureining foreslår regjeringa å auke løyvinga til slepebåtberedskap med 30 millionar kroner og midlane til beredskap mot akutt forureining med 25 millionar kroner i budsjettet for 2011. Vidare foreslår vi å løyve 30 millionar kroner til handtering av skipsvrak i 2011, seier fiskeri- og kystminister Lisbeth Berg-Hansen</p>
+    <p>Flere dokumenter om temaet</p>
   </body>
 </document>

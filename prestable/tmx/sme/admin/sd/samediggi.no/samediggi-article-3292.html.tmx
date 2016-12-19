@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3292.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3292.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingsrådet 2009-2013 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggeráđđi 2009-2013 - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingsrådet 2009-2013</seg>
@@ -28,22 +38,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 31.05.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 31.05.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Sametingsrådet fungerer som Sametingets " regjering ", og står for den daglig politiske virksomheten.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -52,7 +46,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sametingsrådets fem medlemmer er valgt av og blant flertallet i Sametingets plenum.</seg>
+        <seg>Sametingsrådets fem medlemmer er valgt av og blant flertallet i Sametingets plenum. Rådet består av:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámediggeráđi vihtta lahtu lea Sámedikki dievasčoahkkima eanetlohku válljen Sámedikki eanetlogus.</seg>
@@ -60,10 +54,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Rådet består av: Sametingspresident, Egil Olli fra Arbeiderpartiet.</seg>
+        <seg>Sametingspresident, Egil Olli fra Arbeiderpartiet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>R áđis leat mielde: ·Sámediggepresideanta, Egil Olli Bargiidbellodagas.</seg>
+        <seg>R áđis leat mielde: ŽSámediggepresideanta, Egil Olli Bargiidbellodagas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71,15 +65,31 @@
         <seg>Visepresident, Laila Susanne Vars fra Árja.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>·Várrepresideanta, Laila Susanne Vars Árja bellodagas.</seg>
+        <seg>ŽVárrepresideanta, Laila Susanne Vars Árja bellodagas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vibeke Larsen fra Arbeiderpartiet. Ellinor Marita Jåma fra Åarjel-Saemiej Gïelh.</seg>
+        <seg>Marianne Balto fra Arbeiderpartiet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>·Marianne Balto Bb. ·Vibeke Larsen Bb. ·Ellinor Marita Jåma Åarjel-Saemiej Gïelh bellodagas.</seg>
+        <seg>ŽMarianne Balto Bb..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vibeke Larsen fra Arbeiderpartiet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ŽVibeke Larsen Bb..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ellinor Marita Jåma fra Åarjel-Saemiej Gïelh.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ŽEllinor Marita Jåma Åarjel-Saemiej Gïelh bellodagas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -188,7 +198,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>, Barentsområdet, Arktis og nordområdepolitikk</seg>
+        <seg>, EU., Barentsområdet, Arktis og nordområdepolitikk</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Eará barggut mat gullet FN:i, EU:i, Barentsguvlui, Árktisii ja davveguovlopolitihkkii</seg>
@@ -223,7 +233,7 @@
         <seg>Opplæring</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vuođđoskuvla</seg>
+        <seg>Oahpahus</seg>
       </tuv>
     </tu>
     <tu>
@@ -231,7 +241,7 @@
         <seg>Grunnskole</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Joatkkaoahpahus</seg>
+        <seg>Vuođđoskuvla</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,12 +249,20 @@
         <seg>Videregående opplæring</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rávesolbmuid oahpahus</seg>
+        <seg>Joatkkaoahpahus</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Voksenopplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávesolbmuid oahpahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Høyere utdanning og forskning</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Alit oahppu ja dutkan</seg>
@@ -572,10 +590,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kulturpolitikk o Kultursentra, møteplasser o Kunst, Kunstneravtale o Idrett o Media o Film, litteratur, musikk o Teater o Festivaler</seg>
+        <seg>Kulturpolitikko Kultursentra, møteplassero Kunst, Kunstneravtaleo Idretto Mediao Film, litteratur, musikko Teatero Festivaler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Kulturpolitihkka o Kulturguovddážat, deaivvadansajit o Dáidda, Dáiddáršiehtadus o Valáštallan o Media o Filbma, girjjálašvuohta, musihkka o Teáhter o Festiválat</seg>
+        <seg>Kulturpolitihkkao Kulturguovddážat, deaivvadansajito Dáidda, Dáiddáršiehtaduso Valáštallano Mediao Filbma, girjjálašvuohta, musihkkao Teáhtero Festiválat</seg>
       </tuv>
     </tu>
     <tu>
@@ -711,12 +729,20 @@
         <seg>Samisk orddatabank</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dearvvašvuohta ja sosiála</seg>
+        <seg>Sámi sátnevuorká</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Helse og sosial</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuohta ja sosiála</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Helsepolitikk</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dearvvašvuođapolitihkka</seg>
@@ -783,12 +809,20 @@
         <seg>Navn</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Virgi</seg>
+        <seg>Namma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Stilling</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telefon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Telefovdna</seg>
@@ -1026,13 +1060,5 @@
         <seg>959 26 291</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-1370.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-1370.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets komitemøter i november 2006 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki lávdegoddečoahkkimat 2006 skábmamánus - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets komitemøter i november 2006</seg>
@@ -24,22 +34,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuossárgga skábmamánu 13. b. dollojuvvojit joavkočoahkkimat.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Balto, Randi Romsdal.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Balto, Randi Romsdal.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 13.11.2006</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 13.11.2006</seg>
       </tuv>
     </tu>
     <tu>
@@ -164,7 +158,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Saksordfører: Klemet Erland Hætta, tlf: 91 87 17 44</seg>
+        <seg>Skyggesaksordfører: Lene Hansen, tlf: 97 77 34 90</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Suoivanáššejođiheaddji: Klemet Erland Hætta, tlf: 91 87 17 44</seg>
@@ -172,10 +166,34 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>e-post: klemet.erland.heatta@samediggi.no</seg>
+        <seg>e-post: lene.hansen@samediggi.no</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>e-post: klemet.erland.hætta@samediggi.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>- Sak 055/06 OL i Tromsø 2018</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Ášši 055/06 Dálveolymiijagilvvut Romssas 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Saksordfører: Klemet Erland Hætta, tlf: 91 87 17 44</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššejođiheaddji: Miriam Paulsen, tlf: 97 61 73 77</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>e-post: klemet.erland.heatta@samediggi.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>e-post: miriam.paulsen@samediggi.no</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,7 +465,7 @@
         <seg>For mer informasjon om sakene og komitmøtene, se vedlagte dokumenter eller skriv / ring til Sametinget: tlf: 78 47 40 00</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus dáhtut eaet dieđuid áššiid birra ja lávdegoddečoahkkimiid birra, geahča mildosiid dahje čále / riŋge Sámediggái: tlf: 78 47 40 00, e-posta: samediggi@samediggi.no</seg>
+        <seg>tlf: 78 47 40 00, e-posta: samediggi@samediggi.no</seg>
       </tuv>
     </tu>
     <tu>

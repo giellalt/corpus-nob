@@ -1,0 +1,135 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Konjunksjoner og subjunksjoner</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>370</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/konjunksjoner.nob.html</origFileName>
+    <parallel_text location="konjunksjoner.html" xml:lang="sme"/>
+    <parallel_text location="konjunksjoner.eng.html" xml:lang="eng"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title">Konjunksjoner og subjunksjoner</p>
+    <p>Tilbake til grammatikk hovedside .</p>
+    <p><em type="italic">Konjunksjoner </em>er ord som binder sammen ledd av samme type: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Piera 'ja' Lemet leaba boahtán. </em>
+      </p>
+      <p type="listitem">(Piera og Lemet har kommet.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun oainnán 'sihke' Piera 'ja' Lemeha. </em>
+      </p>
+      <p type="listitem">(Jeg ser både Piera og Lemet.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun lean sápmelaš, 'muhto' in máhte sámegiela. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg er same, men kan ikke samisk.)</p>
+    </list>
+    <p><em type="italic">Subjunksjoner </em>knytter bisetningen til hovedsetningen: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Jus' asttán, 'de' boađán. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Hvis jeg har tid, så kommer jeg.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Iŋgá dadjá 'ahte' Elle boahtá. </em>
+      </p>
+      <p type="listitem">(Ingá sier at Elle kommer.)</p>
+    </list>
+    <p>Noen konjunksjoner og subjunksjoner kan bety forskjellige ting, f.eks. <em type="italic">go </em>, som kan bety både 'når', 'fordi' og 'enn'. Noen betydninger kan uttrykkes på forskjellige måter, f.eks. 'eller', som kan uttrykkes med <em type="italic">vai, dahje, -ge </em>. I spørsmål brukes <em type="italic">vai </em>, og i nektende setninger brukes partikkel <em type="italic">-ge </em>sammen med det nektende verbet. Ellers brukes <em type="italic">dahje </em>: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán odne 'dahje' ihttin. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Jeg kommer i dag eller i morgen.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Boađátgo odne 'vai' ihttin? </em>
+      </p>
+      <p type="listitem" xml:lang="swe">(Kommer du i dag eller i morgen?)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In juga gáfe 'inge' deaja. </em>
+      </p>
+      <p type="listitem">(Jeg drikker verken kaffe eller te.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Jugan 'juogo' gáfe 'dahje' deaja. </em>
+      </p>
+      <p type="listitem">(Jeg drikker enten kaffe eller te.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán 'go' asttán. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Jeg kommer når jeg har tid.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán 'go' lean bovdejuvvon. </em>
+      </p>
+      <p type="listitem">(Jeg kommer fordi jeg er invitert.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán 'danne go/danin go /dainna go/dan dihte go/ lean bovdejuvvon. </em>
+      </p>
+      <p type="listitem">(Jeg kommer fordi jeg er invitert.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun lean stuorát 'go' don. </em>
+      </p>
+      <p type="listitem">(Jeg er større enn deg.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Veahkehan du 'vai' gearggat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg hjelper deg slik at du blir ferdig.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Veahkehan du 'nu ahte' gearggat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg hjelper deg slik at du blir ferdig.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Veahkehan du 'vaikko' it dárbbašge veahki. </em>
+      </p>
+      <p type="listitem">(Jeg hjelper deg selv om du ikke trenger hjelp.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Don borat 'dego' spiidni. </em>
+      </p>
+      <p type="listitem">(Du spiser som en gris.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Daga 'nugo' mun. </em>
+      </p>
+      <p type="listitem">(Gjør som jeg.)</p>
+    </list>
+    <p>Subjunksjonen <em type="italic">go </em>kan også kombineres med adverb og postposijonsuttrykk: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán 'ovdal go' don vuolggát. </em>
+      </p>
+      <p type="listitem">(Jeg kommer før du drar.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun boađán easkka 'maŋŋil go' don leat mannan. </em>
+      </p>
+      <p type="listitem">(Jeg kommer først etter at du har dratt.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Vuordde 'dassážii go' mun boađán. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Vent til jeg kommer.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Bargen leavssuid 'dan botta go' earát ođđe. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg gjorde lekser mens de andre sov.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Vuolggán 'dalle go' gávppit rahpasit. </em>
+      </p>
+      <p type="listitem">(Jeg drar når butikkene åpner.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Lea guokte jagi 'dassái go' bohten Romsii. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Det er to år siden jeg kom til Tromsø.)</p>
+    </list>
+  </body>
+</document>

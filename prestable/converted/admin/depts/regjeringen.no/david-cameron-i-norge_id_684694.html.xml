@@ -1,42 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>David Cameron Norggas - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>222</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>149</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/smk/aktuelt/nyheter/2012/david-cameron-i-norge.html?id=684694</origFileName>
-    <parallel_text location="david-cameron-norggas.html_id=684694" xml:lang="sme"/>
-    <parallel_text location="david-cameron-in-norway.html_id=684694" xml:lang="eng"/>
+    <parallel_text location="david-cameron-in-norway_id_684694.html" xml:lang="eng"/>
+    <parallel_text location="david-cameron-norggas_id_684694.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Nyhet  , 06.06.2012  </p>
-    <section>
-      <p type="title">David Cameron i Norge</p>
-    </section>
+    <p>David Cameron i Norge - regjeringen.no</p>
+    <p type="title">David Cameron i Norge</p>
     <p>
       <em type="italic">Statsminister Jens Stoltenberg tok onsdag kveld i mot Storbritannias statsminister David Cameron for samtaler i regjeringens representasjonsanlegg. </em>
     </p>
-    <p>- Det er en stor glede å ta i mot David Cameron her i Oslo. Storbritannia er en av våre gode naboer, og det er sterke bånd mellom våre to land, sa statsminister Jens Stoltenberg. </p>
-    <p>Hovedtema for samtalene var bilaterale forhold mellom Norge og Storbritannia, energisamarbeid og den økonomiske situasjonen i Europa. </p>
-    <p>Torsdag morgen møter Cameron og Stoltenberg norske og britiske energiaktører i lokalene til Aker på Aker brygge i Oslo. </p>
-    <p>Torsdag formiddag reiser de to regjeringssjefene sammen til Berlin, hvor de blant annet skal diskutere demokrati, teknologi og innbyggerdialog med forbundskansler Angela Merkel. </p>
+    <p>- Det er en stor glede å ta i mot David Cameron her i Oslo. Storbritannia er en av våre gode naboer, og det er sterke bånd mellom våre to land, sa statsminister Jens Stoltenberg.</p>
+    <p>Hovedtema for samtalene var bilaterale forhold mellom Norge og Storbritannia, energisamarbeid og den økonomiske situasjonen i Europa.</p>
+    <p>Torsdag morgen møter Cameron og Stoltenberg norske og britiske energiaktører i lokalene til Aker på Aker brygge i Oslo.</p>
+    <p>Torsdag formiddag reiser de to regjeringssjefene sammen til Berlin, hvor de blant annet skal diskutere demokrati, teknologi og innbyggerdialog med forbundskansler Angela Merkel.</p>
     <list>
-      <p type="listitem">Bilder på Flickr </p>
-      <p type="listitem">Norway and the United Kingdom: Energy partnership for sustainable growth Joint Statement by the British Prime Minister David Cameron  and Norwegian Prime Minister Jens Stoltenberg  </p>
+      <p type="listitem">Bilder på Flickr</p>
+      <p type="listitem">Norway and the United Kingdom: Energy partnership for sustainable growth Joint Statement by the British Prime Minister David Cameron  and Norwegian Prime Minister Jens Stoltenberg</p>
     </list>
-    <p></p>
   </body>
 </document>

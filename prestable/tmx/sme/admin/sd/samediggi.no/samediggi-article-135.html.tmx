@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-135.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-135.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kongens signaturer - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gonagasa nammačállosat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Kongens signaturer</seg>
@@ -12,10 +22,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Signert fiskeskinn © Pål Hivand olavs skinn</seg>
+        <seg>Signert fiskeskinn © Pål Hivand</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>G. M. Gonagas Harald V nammačálus stáinnárčuomas 2000:s. © Pål Hivand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>olavs skinn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>G. M. Gonagas Olav V nammačálus bohcconáhkis 1989:s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,22 +74,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Stáinnárčuopma ja bohcconáhkki leat heŋgejuvvon resepšuvdna- ja bibliotehkaoassái váldouvssa lahka.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Pål Hivand.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Pål Hivand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Første gang publisert 10.02.2005</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuosttaš geardde almmuhan 10.02.2005</seg>
       </tuv>
     </tu>
   </body>

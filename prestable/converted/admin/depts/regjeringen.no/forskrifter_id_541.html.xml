@@ -1,115 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Láhkaásahusat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>179</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>166</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/krd/dok/lover_regler/forskrifter.html?id=541</origFileName>
-    <parallel_text location="lahkaasahusat.html_id=541" xml:lang="sme"/>
-    <parallel_text location="forskrifter.html_id=541" xml:lang="nno"/>
+    <parallel_text location="forskrifter_id_541.html" xml:lang="nno"/>
+    <parallel_text location="lahkaasahusat_id_541.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Forskrifter</p>
-    </section>
-    <p>På denne siden finner du informasjon om aktuelle forskrifter fra Kommunal- og regionaldepartementet. For å få en komplett oversikt over aktuelle forskrifter, henvises det til Lovdata. </p>
-    <list>
-      <p type="listitem">Kommunal- og regionaldepartementets ajourførte forskrifter (Lovdata) </p>
-    </list>
-    <section>
-      <p type="title">Byggteknisk forskrift</p>
-    </section>
-    <p>[30.06.2010] </p>
-    <p>Forskriften i fulltekst </p>
-    <section>
-      <p type="title">Byggesaksforskriften</p>
-    </section>
-    <p>[30.06.2010] </p>
-    <p>Forskriften i fulltekst </p>
-    <section>
-      <p type="title">Forskrift om betaling for registrering
-                        av retter på andel i borettslag i grunnboken
-                        mv.</p>
-    </section>
-    <p>[20.06.2006] </p>
-    <section>
-      <p type="title">Forskrift om valg til
-                        Sametinget</p>
-    </section>
-    <p>[05.01.2005] </p>
-    <p>Mearriduvvon gonagaslaš resolušuvnna bokte juovlamánu 10. b. 2004 geassemánu 12. b. 1987-mannosaš lága § 2-11 nr. 56 vuođul Sámedikki ja eará sámi riektedilálašvuođaid birra (sámelága vuođul). </p>
-    <section>
-      <p type="title">Forskrift om endring i forskrift av
-                        15.12.2000 om rapportering fra kommuner og
-                        fylkeskommuner</p>
-    </section>
-    <p>[16.06.2004] </p>
-    <section>
-      <p type="title">Forskrift om endring i forskrift av
-                        15.12.2000 nr. 1425 om rapportering fra
-                        kommuner og fylkeskommuner</p>
-    </section>
-    <p>[28.10.2003] </p>
-    <section>
-      <p type="title">Forskrift om rapportering fra
-                        interkommunale selskaper og kommunale og
-                        fylkeskommunale foretak som driver
-                        næringsvirksomhet</p>
-    </section>
-    <p>[28.10.2003] </p>
-    <section>
-      <p type="title">Forskrift om rapportering fra IKS -
-                        utsatt ikrafttredelse</p>
-    </section>
-    <p>[16.12.2002] </p>
-    <section>
-      <p type="title">Forskrifter for forsøk med alternativ
-                        rapportering av økonomi og
-                        tjenestedata</p>
-    </section>
-    <section>
-      <p type="title">KOSTRA</p>
-    </section>
-    <p>[22.03.2000] </p>
-    <section>
-      <p type="title">Forskrifter for forsøk med alternativ
-                        rapportering av økonomi og
-                        tjenestedata</p>
-    </section>
-    <section>
-      <p type="title">KOSTRA</p>
-    </section>
-    <p>[22.03.2000] </p>
-    <section>
-      <p type="title">Forskrifter for forsøk med alternativ
-                        rapportering av økonomi og
-                        tjenestedata</p>
-    </section>
-    <section>
-      <p type="title">KOSTRA</p>
-    </section>
-    <p>[22.03.2000] </p>
-    <section>
-      <p type="title">Forskrifter for forsøk med alternativ
-                        rapportering av økonomi og
-                        tjenestedata</p>
-    </section>
-    <section>
-      <p type="title">Revidert forsøksforskrift for
-                        FylkesKOSTRA</p>
-    </section>
-    <p>[22.11.1999] </p>
+    <p>Forskrifter - regjeringen.no</p>
+    <p type="title">Byggteknisk forskrift</p>
+    <p>[30.06.2010]</p>
+    <p>Forskriften i fulltekst</p>
+    <p type="title">Byggesaksforskriften</p>
+    <p>[30.06.2010]</p>
+    <p>Forskriften i fulltekst</p>
+    <p type="title">Forskrift om betaling for registrering av retter på andel i borettslag i grunnboken mv.</p>
+    <p>[20.06.2006]</p>
+    <p type="title">Forskrift om valg til Sametinget</p>
+    <p>[05.01.2005]</p>
+    <p>Mearriduvvon gonagaslaš resolušuvnna bokte juovlamánu 10. b. 2004 geassemánu 12. b. 1987-mannosaš lága § 2-11 nr. 56 vuođul Sámedikki ja eará sámi riektedilálašvuođaid birra (sámelága vuođul).</p>
+    <p type="title">Forskrift om endring i forskrift av 15.12.2000 om rapportering fra kommuner og fylkeskommuner</p>
+    <p>[16.06.2004]</p>
+    <p type="title">Forskrift om endring i forskrift av 15.12.2000 nr. 1425 om rapportering fra kommuner og fylkeskommuner</p>
+    <p>[28.10.2003]</p>
+    <p type="title">Forskrift om rapportering fra interkommunale selskaper og kommunale og fylkeskommunale foretak som driver næringsvirksomhet</p>
+    <p>[28.10.2003]</p>
+    <p type="title">Forskrift om rapportering fra IKS - utsatt ikrafttredelse</p>
+    <p>[16.12.2002]</p>
+    <p type="title">Forskrifter for forsøk med alternativ rapportering av økonomi og tjenestedata</p>
+    <p type="title">KOSTRA</p>
+    <p>[22.03.2000]</p>
+    <p type="title">Forskrifter for forsøk med alternativ rapportering av økonomi og tjenestedata</p>
+    <p type="title">KOSTRA</p>
+    <p>[22.03.2000]</p>
+    <p type="title">Forskrifter for forsøk med alternativ rapportering av økonomi og tjenestedata</p>
+    <p type="title">KOSTRA</p>
+    <p>[22.03.2000]</p>
+    <p type="title">Forskrifter for forsøk med alternativ rapportering av økonomi og tjenestedata</p>
+    <p type="title">Revidert forsøksforskrift for FylkesKOSTRA</p>
+    <p>[22.11.1999]</p>
   </body>
 </document>

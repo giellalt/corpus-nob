@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-267.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-267.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Plenumsmøtet i mai 2005 utsatt fra uke 21 til uke 22 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki miessemánu dievasčoahkkin lea maŋiduvvon 21. vahkus 22. vahkkui - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Plenumsmøtet i mai 2005 utsatt fra uke 21 til uke 22</seg>
@@ -16,22 +26,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikki dievasčoahkkin mii galggai dollojuvvot 23. – 27.05.2005, lea maŋiduvvon 30.05. – 02.06.2005 rádjái, ja loahpahuvvo dii. 16.00.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Pål Hivand.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Pål Hivand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Første gang publisert 08.04.2005</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuosttaš geardde almmuhan 08.04.2005</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,56 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ossodagat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Barne-, likestillings- og inkluderingsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>348</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>149</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/bld/dep/org/avdelinger.html?id=325</origFileName>
-    <parallel_text location="ossodagat.html_id=325" xml:lang="sme"/>
-    <parallel_text location="avdelingar.html_id=325" xml:lang="nno"/>
-    <parallel_text location="departments.html_id=325" xml:lang="eng"/>
+    <parallel_text location="departments_id_325.html" xml:lang="eng"/>
+    <parallel_text location="avdelingar_id_325.html" xml:lang="nno"/>
+    <parallel_text location="ossodagat_id_325.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Avdelinger</p>
-    </section>
-    <section>
-      <p type="title">Barne- og ungdomsavdelingen</p>
-    </section>
-    <p>Avdelingen har ansvaret for utformingen og samordningen av den generelle barne- og ungdomspolitikken. Herunder hører barnevern, adopsjon og lovgivningen på området, samt tilskudd til barne- og ungdomsorganisasjonene, internasjonal ungdomsutveksling samt tilskudd til barne- og ungdomstiltak i større bysamfunn. </p>
-    <section>
-      <p type="title">Forbrukeravdelingen</p>
-    </section>
-    <p>Avdelingens ansvarsområder er utvikling av forbrukerpolitikken, forbrukerinformasjon, husholdningsøkonomi, bærekraftig forbruk og forskning om forbrukerspørsmål. </p>
-    <section>
-      <p type="title">Integrerings- og
-                    mangfoldsavdelingen</p>
-    </section>
-    <p>Integrerings- og mangfoldsavdelingen arbeider med integrerings- og inkluderingspolitikken overfor innvandrerbefolkningen. </p>
-    <section>
-      <p type="title">Samlivs- og
-                    likestillingsavdelingen</p>
-    </section>
-    <p>Avdelingen har ansvar for samordning av den statlige samlivs-, familie- og likestillingspolitikken, antidiskrimineringsarbeid og lovgivningen på området. Dette omfatter overføringsordninger til barnefamiliene, lovgivning om og tiltak rettet mot samliv og foreldreskap, og likestilling mellom kjønnene, herunder også fokus på mannsrollen. Avdelingen arbeider tverrdepartementalt med tiltak mot vold i nære relasjoner, herunder arbeid mot tvangsgifte og kjønnslemlestelse og annen æresrelatert vold. Videre faller oppgaver som koordinering av politikken for personer med nedsatt funksjonsevne, etnisk diskriminering og diskrimineringslovutvalget innunder avdelingens ansvarsområde. </p>
-    <section>
-      <p type="title">Kommunikasjonsenheten (BLD)</p>
-    </section>
-    <p>Barne-, likestillings- og inkluderingsdepartementet legger vekt på åpenhet, og skal utgi korrekt informasjon til rett tid. Vi tar initiativ til kommunikasjonstiltak og har oppdaterte meldinger på www.bld.dep.no. Mediehenvendelser og kommunikasjonsspørsmål blir håndtert fortløpende. </p>
-    <section>
-      <p type="title">Plan- og
-                    administrasjonsavdelingen</p>
-    </section>
-    <p>Avdelingen koordinerer alle felles administrative funksjoner innenfor statsbudsjettarbeidet, økonomistyring, IKT, lønns- og personalpolitikk, organisasjonsutvikling, kompetansetiltak og FoU politikkforvaltning. I tillegg ivaretar avdelingen felles drifts- og støttefunksjoner. </p>
+    <p>Avdelinger - regjeringen.no</p>
+    <p type="title">Barnevernsavdelingen</p>
+    <p>Avdelingen har ansvaret for barnevernet, herunder institusjons-, fosterhjemstilbud og hjelpetiltak. I dette inngår lovutvikling på barnevernsområdet, politikkutvikling, styring og samordning av tjenestene.</p>
+    <p type="title">Familie- og oppvekstavdelingen</p>
+    <p>Avdelingen har ansvar for utforming og samordning av den generelle barne- og ungdomspolitikken og den statlige samlivs- og familiepolitikken.</p>
+    <p type="title">Forbruker-, rettighets- og likestillingsavdelingen</p>
+    <p>Avdelingen har ansvaret for forbrukerpolitikk, likestillings- og ikke-diskrimineringspolitikk.</p>
+    <p type="title">Integreringsavdelingen</p>
+    <p>Integrerings- og mangfoldsavdelingen arbeider med integrerings- og inkluderingspolitikken overfor innvandrerbefolkningen.</p>
+    <p type="title">Kommunikasjonsenheten (BLD)</p>
+    <p>Barne-, likestillings- og inkluderingsdepartementet legger vekt på åpenhet, og skal utgi korrekt informasjon til rett tid. Vi tar initiativ til kommunikasjonstiltak og har oppdaterte meldinger på www.bld.dep.no. Mediehenvendelser og kommunikasjonsspørsmål blir håndtert fortløpende.</p>
+    <p type="title">Plan- og administrasjonsavdelingen</p>
+    <p>Plan- og administrasjonsavdelingen har ansvaret for å bistå departementsråden i styringen av departementet og sørge for effektiv drift. Avdelingen har ansvaret for å koordinere, kvalitetssikre og følge opp departementets arbeid med statsbudsjettet, økonomistyringen i departementet og styringen av underliggende virksomheter.</p>
   </body>
 </document>

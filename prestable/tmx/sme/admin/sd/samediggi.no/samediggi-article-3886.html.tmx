@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3886.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3886.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki valáštallanstipeanda – guhkiduvvon ohcanáigemearri 12.10.2010 - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets idrettsstipend – forlenget søknadsfrist 12.10.2010</seg>
@@ -23,7 +33,7 @@
         <seg>Målet med idrettstipendet er å motivere unge idrettsutøvere til satsing på idrett.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ulbmil valáštallanstipeanddain lea movttiidahttit nuorra valáštalliid áŋgiruššat valáštallat.</seg>
+        <seg>Ulbmil valáštallanstipeanddain lea movttidahttit nuorra valáštalliid áŋgiruššat valáštallat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,38 +74,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sii geat ovdal leat ožžon stipeantta: 2009: Martin Hanssen Lillevik (friidrett) Aila Emilie Sarre (beanavuoddji) 2008: Finn Hågen Krogh (čuoigi) Odd Isak Kappfjell (judo) 2007: Oda Onstad Utsi (friidrett) Siv Anja Mienna (taekwondo)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 10.09.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 10.09.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>artikler</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Idrettsstipend: søknadskriterier</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Valáštallanstipeanda - ohcangáibadusat</seg>
       </tuv>
     </tu>
   </body>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3666.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3666.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Brosjyrer og logo - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gihppagat ja logot - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Brosjyrer og logo</seg>
@@ -20,11 +30,19 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Med forbehold om at endring av logoen ikke er tillat.</seg>
+        <seg>Brosjyrene er i pdf-format og fri til nedlastning.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gihppagat leat pdf-formáhtas ja daid sáhttá viežžat nuvttá.</seg>
       </tuv>
     </tu>
-    </body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan også laste ned Sametingets logo til bruk. Med forbehold om at endring av logoen ikke er tillat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Don sáhtát maiddái viežžat Sámedikki logo ja geavahit dan, muhto dan ii leat lohpi rievdadit movtge.</seg>
+      </tuv>
+    </tu>
+  </body>
 </tmx>

@@ -9,8 +9,9 @@
       <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
     </translator>
     <wordcount>963</wordcount>
+    <conversion_status type="standard"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
     <multilingual/>
@@ -20,19 +21,19 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p>Kvensk er et finsk-ugrisk språk, nært beslektet med meänkieli i Sverige og med nord-finske dialekter. Kvensk defineres i dag som et trua språk. Det vil si at kvensk først og fremst lever som et muntlig språk blant den eldre generasjonen i de kvenske kjerneområdene.</p>
-    <p>I april 2005 ble kvensk anerkjent som et eget språk i Norge. Før dette hadde man en grundig diskusjon om hvorvidt kvensk skulle oppfattes som et eget språk el<hyph/>ler som en gammel finsk dialekt. Språkvitenskapen har faktisk ikke verktøy for å kunne skille mellom språk og dialekt. Da kvensk ble anerkjent som et eget språk, var det fle<hyph/>re forhold som lå til grunn: kvensk snakkes utenfor Finlands grenser språket har en lang historie utenfor Finlands grenser riksfinsk og kvensk har utviklet seg i forskjellige ret<hyph/>ninger en finlender og en kven kan ha problemer med å for<hyph/>stå hverandre</p>
-    <p>Det jobbes i dag med å utvikle et kvensk skriftspråk. Et skriftspråk er ikke ment å skulle vaske ut språkforskjel<hyph/>lene mellom de kvenske dialektene i Norge. Skriftsprå<hyph/>ket skal være et verktøy for øke bruken og videreutvikle det kvenske språket.</p>
+    <p>I april 2005 ble kvensk anerkjent som et eget språk i Norge. Før dette hadde man en grundig diskusjon om hvorvidt kvensk skulle oppfattes som et eget språk eller som en gammel finsk dialekt. Språkvitenskapen har faktisk ikke verktøy for å kunne skille mellom språk og dialekt. Da kvensk ble anerkjent som et eget språk, var det flere forhold som lå til grunn: kvensk snakkes utenfor Finlands grenser språket har en lang historie utenfor Finlands grenser riksfinsk og kvensk har utviklet seg i forskjellige retninger en finlender og en kven kan ha problemer med å forstå hverandre</p>
+    <p>Det jobbes i dag med å utvikle et kvensk skriftspråk. Et skriftspråk er ikke ment å skulle vaske ut språkforskjellene mellom de kvenske dialektene i Norge. Skriftspråket skal være et verktøy for øke bruken og videreutvikle det kvenske språket.</p>
     <p xml:lang="sms">• • •</p>
-    <p xml:lang="fin">• Kveeni on suomalais-ugrilainen kieli, jolle läheistä su<hyph/>kua ovat meänkieli ja pohjoislappilaiset murteet. Tänä päivänä kveenin kieltä pidetään uhanalaisena kielenä. Kveenin kieli elää nykyisin suullisena kielenä vanhem<hyph/>pien kveenisukupolvien keskuudessa kveenien asuma<hyph/>alueilla.</p>
-    <p xml:lang="fin">Kveenin kieli hyväksyttiin omaksi kielekseen Norjassa huhtikuussa 2005. Päätöstä edelsi perinpohjainen kes<hyph/>kustelu siitä, missä määrin kveeni on oma kielensä vai onko se vanha suomen murre. Kielitieteessä ei ole ole<hyph/>massa välinettä, jolla kyetään erottamaan murre kie<hyph/>lestä. Kveenin tunnustamisella omaksi kielekseen oli useita perusteita: kveeniä puhutaan Suomen rajojen ulkopuolella kielellä on pitkä historia Suomen rajojen ulkopuolella suomi ja kveeni ovat kehittyneet eri suuntiin suomenkielisellä ja kveenillä voi olla vaikeuksia ym<hyph/>märtää toisiaan</p>
-    <p xml:lang="fin">Kveenin kielelle ollaan kehittämässä omaa kirjakieltä. Kirjakielen tarkoituksena ei ole hävittää eri kveenimur<hyph/>teiden kielellisiä eroja. Kirjakieli lisää kveenin kielen käyttöä ja kieltä on mahdollista kehittää.</p>
-    <p xml:lang="eng">• • • • Kven is a Finno-Ugric language, closely related to meänkieli in Sweden and North Finnish dialects. Kven is today classified as an endangered language. In other words, Kven first and foremost survives as an oral lan<hyph/>guage among older generations in the central Kven ar<hyph/>eas.</p>
-    <p xml:lang="eng">In April 2005, Kven was recognised as a separate lan<hyph/>guage in Norway. Until this point, there had been major discussion about whether Kven should be regarded as a separate language or an old Finnish dialect. There is actually no linguistic tool to distinguish between lan<hyph/>guages and dialects. There were several contributing factors as to why Kven was recognised as a language in its own right: Kven is spoken beyond Finland’s borders The language has a long history beyond Finland’s bor<hyph/>ders Finnish and Kven have developed in different direc<hyph/>tions A Finnish person and a Kven person can experience difficulties understanding each other</p>
-    <p xml:lang="eng">Work is currently underway to develop a written Kven lan<hyph/>guage. A written language is not designed to distinguish language differences between the different Kven dialects in Norway, but instead to serve as a tool to increase the use of and further develop the Kven language.</p>
+    <p xml:lang="fin">• Kveeni on suomalais-ugrilainen kieli, jolle läheistä sukua ovat meänkieli ja pohjoislappilaiset murteet. Tänä päivänä kveenin kieltä pidetään uhanalaisena kielenä. Kveenin kieli elää nykyisin suullisena kielenä vanhempien kveenisukupolvien keskuudessa kveenien asumaalueilla.</p>
+    <p xml:lang="fin">Kveenin kieli hyväksyttiin omaksi kielekseen Norjassa huhtikuussa 2005. Päätöstä edelsi perinpohjainen keskustelu siitä, missä määrin kveeni on oma kielensä vai onko se vanha suomen murre. Kielitieteessä ei ole olemassa välinettä, jolla kyetään erottamaan murre kielestä. Kveenin tunnustamisella omaksi kielekseen oli useita perusteita: kveeniä puhutaan Suomen rajojen ulkopuolella kielellä on pitkä historia Suomen rajojen ulkopuolella suomi ja kveeni ovat kehittyneet eri suuntiin suomenkielisellä ja kveenillä voi olla vaikeuksia ymmärtää toisiaan</p>
+    <p xml:lang="fin">Kveenin kielelle ollaan kehittämässä omaa kirjakieltä. Kirjakielen tarkoituksena ei ole hävittää eri kveenimurteiden kielellisiä eroja. Kirjakieli lisää kveenin kielen käyttöä ja kieltä on mahdollista kehittää.</p>
+    <p xml:lang="eng">• • • • Kven is a Finno-Ugric language, closely related to meänkieli in Sweden and North Finnish dialects. Kven is today classified as an endangered language. In other words, Kven first and foremost survives as an oral language among older generations in the central Kven areas.</p>
+    <p xml:lang="eng">In April 2005, Kven was recognised as a separate language in Norway. Until this point, there had been major discussion about whether Kven should be regarded as a separate language or an old Finnish dialect. There is actually no linguistic tool to distinguish between languages and dialects. There were several contributing factors as to why Kven was recognised as a language in its own right: Kven is spoken beyond Finland’s borders The language has a long history beyond Finland’s borders Finnish and Kven have developed in different directions A Finnish person and a Kven person can experience difficulties understanding each other</p>
+    <p xml:lang="eng">Work is currently underway to develop a written Kven language. A written language is not designed to distinguish language differences between the different Kven dialects in Norway, but instead to serve as a tool to increase the use of and further develop the Kven language.</p>
     <p xml:lang="eng">
       <em type="bold">Uralilaisten kielten sukupuita | Language trees of Uralian Languages </em>
     </p>

@@ -1,448 +1,222 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Raporttat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>191</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>1578</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/krd/dok/rapporter_planer/rapporter.html?id=1946</origFileName>
-    <parallel_text location="raporttat.html_id=1946" xml:lang="sme"/>
-    <parallel_text location="rapportar.html_id=1946" xml:lang="nno"/>
-    <parallel_text location="reports.html_id=1946" xml:lang="eng"/>
+    <parallel_text location="" xml:lang="eng"/>
+    <parallel_text location="rapportar_id_1946.html" xml:lang="nno"/>
+    <parallel_text location="raporttat_id_1946.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Rapporter</p>
-    </section>
-    <p>På denne siden finner du en oversikt over utvalgte rapporter utarbeidet av eller overlevert til Kommunal- og regionaldepartementet. </p>
+    <p>Rapporter - regjeringen.no</p>
     <list>
-      <p type="listitem">Avgrensning: Forskning, utredninger og evalueringer i distrikts- og regionalpolitikken 2000-2006 </p>
-      <p type="listitem">Forskning fra Distriktssenteret </p>
-      <p type="listitem">Kommunal- og regionaldepartementet sin årsrapport 2009 . </p>
+      <p type="listitem">1</p>
+      <p type="listitem">2</p>
+      <p type="listitem">3</p>
+      <p type="listitem">4</p>
+      <p type="listitem">5</p>
+      <p type="listitem">Neste &gt;</p>
     </list>
-    <section>
-      <p type="title">Delegering av forvaltningen av
-                        regionale utviklingsmidler til virksomheter som
-                        ikke er offentlig heleid</p>
-    </section>
-    <section>
-      <p type="title">
-                        NIVI-rapport 2010:3</p>
-    </section>
-    <p>[20.09.2010] </p>
-    <p>I hvilke omfang overlater fylkeskommunene forvaltningen av distrikts- og regionalpolitiske virkemiddel til selskaper som ikke er heloffentlig eide? </p>
-    <section>
-      <p type="title">Fjellområder og fjellkommuner i
-                        Sør-Norge</p>
-    </section>
-    <section>
-      <p type="title">ØF-rapport
-                        08/2010</p>
-    </section>
-    <p>[16.09.2010] </p>
-    <p>Hva er et fjellområde, og hvordan kan store fjellformasjoner og landskap forme samfunnsutviklingen? Dette er spørsmål som Østlandsforskning går inn på i rapporten. </p>
-    <section>
-      <p type="title">Regionale sentre for likestilling og
-                        mangfold</p>
-    </section>
-    <section>
-      <p type="title">AFI-rapport
-                        / 2010</p>
-    </section>
-    <p>[10.09.2010] </p>
-    <p>Arbeidsforskningsinstituttet har evaluert pilotprosjektet Regionale sentre for likestilling og mangfold. </p>
-    <section>
-      <p type="title">Energieffektivisering av bygg. En
-                        ambisiøs og realistisk plan mot 2040</p>
-    </section>
-    <p>[23.08.2010] </p>
-    <p>Kommunal- og regionalminister Liv Signe Navarsete ba i 2009 en arbeidsgruppe ledet av Eli Arnstad om å legge fram forslag til mål og utarbeide en tidsplan for å øke energieffektiviteten i nye og eksisterende bygg. </p>
-    <section>
-      <p type="title">Evaluering av Innovasjon
-                        Norge</p>
-    </section>
-    <p>[17.08.2010] </p>
-    <p>Evalueringen viser at Innovasjon Norge med stor sannsynlighet bidrar til økt verdiskaping i Norge. </p>
-    <section>
-      <p type="title">Byggekostnadsprogrammet -
-                        sluttevaluering</p>
-    </section>
-    <p>[28.06.2010] </p>
-    <p>Denne rapporten tar for seg sluttevalueringen av programmet, med vekt på hvordan programmet er gjennomført, hvordan programmet har formidlet resultater fra prosjektene og hvilken nytte næringen mener programmet har bidratt med for dem. </p>
-    <section>
-      <p type="title">Byggekostnadsprogrammet -
-                        programstyrets sluttrapport</p>
-    </section>
-    <p>[28.06.2010] </p>
-    <p>Dette er programstyrets avsluttende rapport til eierne. Den oppsummerer programmets leveranser, styrets vurdering av måloppnåelse, spesielle funn som er gjort og styrets erfaringer og avsluttende anbefalinger. </p>
-    <section>
-      <p type="title">Analyse og sammenlikning av krav til
-                        energieffektivitet i bygg i Norden og
-                        Europa</p>
-    </section>
-    <p>[21.06.2010] </p>
-    <p>Målsetningen med denne utredningen er å gi en oversikt over og evaluere energikrav i en del europeiske land. </p>
-    <section>
-      <p type="title">Ringvirkningsanalyse
-                        Barentshavet-Lofoten</p>
-    </section>
-    <p>[16.06.2010] </p>
-    <p>Utredning om sammenhengen mellom petroleumsvirksomhet og sysselsetting i nord. </p>
-    <section>
-      <p type="title">Infrastruktur gjør forskjell.
-                        Evaluering av SIVA 2002-2008</p>
-    </section>
-    <p>[09.06.2010] </p>
-    <p>Det er behov for SIVAs tjenester og selskapet utfører oppdraget sitt på en god måte. Det viser en ekstern evaluering av SIVA. </p>
-    <section>
-      <p type="title">En statlig redningsbøye. Innovasjon
-                        Norges rolle i kapitalmarkedet under
-                        finansuroen.</p>
-    </section>
-    <section>
-      <p type="title">
-                        MENON-publikasjon nr. 8/2010</p>
-    </section>
-    <p>[09.06.2010] </p>
-    <p>Innovasjon Norge bidro til å utløse privat kapital i krisetid ved hjelp av Regjeringens tiltakspakker. Dette viser en utredning MENON Business Economics har utført for Nærings- og handelsdepartementet. </p>
-    <section>
-      <p type="title">Deskriptiv analyse – næringer og
-                        samfunn i området knyttet til
-                        forvaltningsplanen</p>
-    </section>
-    <p>[04.06.2010] </p>
-    <p>Underlagsrapport for oppdateringen av den helhetlige forvaltningsplanen for Barentshavet – Lofoten (HFBL). </p>
-    <section>
-      <p type="title">Slik kommunene ser det</p>
-    </section>
-    <section>
-      <p type="title">Rapport fra
-                        et utviklingsarbeid om statlig tilsyn med
-                        kommunene</p>
-    </section>
-    <p>[04.06.2010] </p>
-    <p>Fylkesmannen i Vestfold og Høgskolen i Vestfold, i samarbeid med Sandefjord, Horten og Lardal kommuner. </p>
-    <section>
-      <p type="title">Response to OSCE'S EAM report of
-                        27 November 2009</p>
-    </section>
-    <p>[31.05.2010] </p>
-    <p>At the invitation of the Norwegian Government, OSCE/ODIHR carried out an Election Assessment Mission in Norway during the General Election of September 2009. OSCE’s report from the visit was presented on 27 November 2009. This report gives an overview of the requests contained in the OSCE report and the planned follow up to them. </p>
-    <section>
-      <p type="title">120 punkter for å øke den demokratiske
-                        deltagelsen blant unge</p>
-    </section>
-    <p>[20.05.2010] </p>
-    <p>Den hurtigarbeidende gruppen for ungdomsdemokrati ble satt ned 27. september 2007, med representanter fra alle ungdomspartiene med moderpartier på Stortinget, Elevorganisasjonen og Landsrådet for Norges barne- og ungdomsorganisasjoner. </p>
-    <section>
-      <p type="title">Valgets kval?</p>
-    </section>
-    <section>
-      <p type="title">Utredning
-                        for etablering av en sentral valgenhet. Difi
-                        rapport 2010:3</p>
-    </section>
-    <p>[18.05.2010] </p>
-    <p>Departementet ba i fjor høst Direktoratet for forvaltning og IKT (DIFI) om å utrede alternativer til dagens organisering av valgarbeidet på statlig nivå. I oppdraget ble det bedt om å utrede hvorvidt det bør etableres en sentral statlig valgenhet. </p>
-    <section>
-      <p type="title">Veileder. Lokalt e-demokrati</p>
-    </section>
-    <section>
-      <p type="title">Nye metoder
-                        på kjente mål</p>
-    </section>
-    <p>[10.05.2010] </p>
-    <p>Veilederen er utarbeidet på grunnlag av rapporten Møte mellom moderne teknologi og lokaldemokrati skrevet av forskere ved Institutt for samfunnsforskning på oppdrag fra Kommunal- og regionaldepartementet. </p>
-    <section>
-      <p type="title">Møte mellom moderne teknologi og
-                        lokaldemokrati</p>
-    </section>
-    <section>
-      <p type="title">Utredning
-                        og evaluering av seks e-demokratiprosjekter i
-                        norske kommuner</p>
-    </section>
-    <p>[10.05.2010] </p>
-    <p>På oppdrag av Kommunal- og regionaldepartementet har Institutt for samfunnsforskning gjennomført et utredningsprosjekt med fokus på anvendelse av ulike modeller for bruk av elektronisk demokrati (e-demokrati) i Kommune-Norge. </p>
-    <section>
-      <p type="title">Hvordan fungerer
-                        lokaldemokratiet?</p>
-    </section>
-    <section>
-      <p type="title">Kartlegging
-                        av innbyggernes og folkevalgtes erfaringer og
-                        oppfatninger. En sammenfattende rapport basert
-                        på 50 kommuner</p>
-    </section>
-    <p>[04.05.2010] </p>
-    <p>Kommunal- og regionaldepartementet og KS inviterte 50 kommuner til å være med å teste ut et verktøy for lokaldemokratiutvikling som grunnlag for opprettelse av en lokaldemokratidatabase. </p>
-    <section>
-      <p type="title">Barnehager i inntektssystemet for
-                        kommunene</p>
-    </section>
-    <section>
-      <p type="title">SØF-rapport
-                        nr. 02/10</p>
-    </section>
-    <p>[29.04.2010] </p>
-    <p>Senter for økonomisk forskning (SØF) har på oppdrag fra Kommunal- og regionaldepartementet analysert hvilke faktorer som har betydning for variasjonene i kostnadene til barnehager mellom kommunene. </p>
-    <section>
-      <p type="title">Statlig styring av kommunene</p>
-    </section>
-    <section>
-      <p type="title">Om
-                        utviklingen i bruken av juridiske virkemidler
-                        på tre sektorer</p>
-    </section>
-    <p>[26.04.2010] </p>
-    <p>Difi har foretatt en kartlegging av statens bruk av juridiske virkemidler i styringen av kommunene i perioden 1999-2009. Kartleggingen gjelder områdene utdanning (grunnskole), helse og omsorg samt miljøvern (med unntak av plansaker). </p>
-    <section>
-      <p type="title">Rapport fra Det tekniske
-                        beregningsutvalg for kommunal og fylkeskommunal
-                        økonomi</p>
-    </section>
-    <section>
-      <p type="title">April 2010
-                        - H-2247 B</p>
-    </section>
-    <p>[14.04.2010] </p>
-    <p>Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) har lagt fram sin rapport for våren 2010. </p>
-    <section>
-      <p type="title">Evaluering av
-                        kvalitetskommuneprogrammet</p>
-    </section>
-    <p>[25.03.2010] </p>
-    <p>Evalueringen gir klare indikasjoner på at kvalitetskommunene har lykkes i å bedre kvaliteten i møtet mellom tjenesteyter og bruker, og de har hatt en gunstigere utvikling i sykefraværet enn andre norske kommuner i perioden fra 2006 til 2009. </p>
-    <section>
-      <p type="title">Valgets kval?</p>
-    </section>
-    <p>[18.03.2010] </p>
-    <p>Utredning for etablering av en sentral valgenhet. Difi. </p>
-    <section>
-      <p type="title">Kommunal- og regionaldepartementets
-                        forskningsstrategi</p>
-    </section>
-    <p>[08.03.2010] </p>
-    <p>Kommunal- og regionaldepartementets FoU-strategi gir en oversikt over hvilke kunnskapsbehov departementet ser framover i et fireårsperspektiv, dvs i perioden 2006 – 2010. </p>
-    <section>
-      <p type="title">Lokale ruter for kollektivtransport i
-                        inntektssystemet for fylkeskommunene</p>
-    </section>
-    <p>[22.02.2010] </p>
-    <p>Rapport utarbeidet av Econ for Kommunal- og regionaldepartementet. </p>
-    <section>
-      <p type="title">Test av designløsning i
-                        valglokalet</p>
-    </section>
-    <section>
-      <p type="title">
-                        Evalueringsrapport fra Stortingsvalget
-                        2009</p>
-    </section>
-    <p>[19.02.2010] </p>
-    <p>I 2008 gikk Kommunal- og regionaldepartementet sammen med Norsk Form om å arrangere Statens designkonkurranse der temaet var utvikling av nytt valgutstyr. </p>
-    <section>
-      <p type="title">Årsaker til økning i utgiftene til
-                        toppfinansieringsordningen for ressurskrevende
-                        tjenester fra 2007 til 2008</p>
-    </section>
-    <section>
-      <p type="title">
-                        Sluttrapport</p>
-    </section>
-    <p>[12.02.2010] </p>
-    <p>Kommunal- og regionaldepartementet har ansvaret for toppfinansieringsordningen for ressurskrevende tjenester. Fürst og Høverstad ANS har kartlagt årsakene til den sterke utgiftsøkningen fra 2007 til 2008. </p>
-    <section>
-      <p type="title">God praksis med startlån</p>
-    </section>
-    <p>[09.02.2010] </p>
-    <p>Fleire kan kjøpe ein eigen heim og kommunane kan spare pengar viss dei nyttar Husbanken si startlånordning betre. Det er konklusjonane i ECON-rapporten ”God praksis med startlån”. </p>
-    <section>
-      <p type="title">Konsekvenser av mulige endringer i
-                        husleieloven</p>
-    </section>
-    <p>[18.01.2010] </p>
-    <p>Prosjektet vurderer konsekvenser av to mulige endringer i husleieloven både separat og samlet. </p>
-    <section>
-      <p type="title">Frivillige kommunesammenslutninger
-                        2005-2008</p>
-    </section>
-    <section>
-      <p type="title">Erfaringer
-                        og effekter fra Bodø, Aure, Vindafjord og
-                        Kristiansund</p>
-    </section>
-    <p>[11.01.2010] </p>
-    <section>
-      <p type="title">Kartlegging av lover og forskrifter om
-                        internkontroll i kommunar og
-                        fylkeskommunar</p>
-    </section>
-    <p>[15.12.2009] </p>
-    <p>Utarbeidd av sekretariatet for arbeidsgruppa som skal føreslå tiltak for å styrkja eigenkontrollen i kommunar og fylkeskommunar </p>
-    <section>
-      <p type="title">85 tilrådingar for styrkt
-                        eigenkontroll i kommunane</p>
-    </section>
-    <section>
-      <p type="title">H-2245</p>
-    </section>
-    <p>[15.12.2009] </p>
-    <p>Arbeidsgruppa som har jobba med egenkontroll har ferdigstilt sin rapport. </p>
-    <section>
-      <p type="title">Forvaltningsrevisjon og
-                        selskapskontroll som verktøy i egenkontrollen i
-                        norske kommuner og fylkeskommuner</p>
-    </section>
-    <section>
-      <p type="title">NF-rapport
-                        nr 13/2009</p>
-    </section>
-    <p>[15.12.2009] </p>
-    <p>Nordlandsforskning har kommet med ny forskningsrapport. </p>
-    <section>
-      <p type="title">Identifisering av prosjekter med
-                        formål om å få tilflyttere til å trives og bli
-                        værende på et sted.</p>
-    </section>
-    <p>[07.12.2009] </p>
-    <p>Kartlegging av prosjekter og innsats i kommuner rettet mot inkludering av tilflyttere. </p>
-    <section>
-      <p type="title">Aktivitetsrapport 2009
-                        (Rapporteringsåret 2008)</p>
-    </section>
-    <p>[06.12.2009] </p>
-    <p>Rapporten viser hvordan midlene til distrikts- og regionalpolitikken ble brukt i 2008,(Kommunal- og regionaldepartementet, 2009). </p>
-    <section>
-      <p type="title">Rapport fra Det tekniske
-                        beregningsutvalg for kommunal og fylkeskommunal
-                        økonomi</p>
-    </section>
-    <section>
-      <p type="title">H-2244</p>
-    </section>
-    <p>[25.11.2009] </p>
-    <p>Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) har lagt fram sin rapport for høsten 2009. </p>
-    <section>
-      <p type="title">Internkontroll i kommuner</p>
-    </section>
-    <section>
-      <p type="title">Rapport er
-                        utarbeidet av PriceWaterhouseCoopers.</p>
-    </section>
-    <p>[24.11.2009] </p>
-    <p>Kommunal- og regionaldepartementet har nedsatt en arbeidsgruppe som innen utgangen av 2009 skal foreslå tiltak for å styrke kontrollutvalget, revisjonen og den administrative internkontrollen i kommuner og fylkeskommuner. </p>
-    <section>
-      <p type="title">Forskning på internkontroll, revisjon
-                        og kontrollutvalg i kommunene</p>
-    </section>
-    <section>
-      <p type="title">Notat 19.
-                        mars 2009 (med revisjon av 13. juli 2009)</p>
-    </section>
-    <p>[17.11.2009] </p>
-    <p>Dette arbeidet tar utgangspunkt i mandatet for arbeidsgruppen som skal foreslå tiltak for å styrke egenkontrollen i kommuner og fylkeskommuner. Ideen er at det er de aktørene og de temaene som arbeidsgruppen er bedt om å forholde seg til som bør styre gruppens søken etter kunnskap – også forskningsbasert kunnskap. </p>
-    <section>
-      <p type="title">Inntektssystemet for kommuner og
-                        fylkeskommuner 2010</p>
-    </section>
-    <section>
-      <p type="title">Grønt
-                        hefte</p>
-    </section>
-    <p>[13.10.2009] </p>
-    <section>
-      <p type="title">Bostedsløse i Norge 2008 - en
-                        kartlegging</p>
-    </section>
-    <p>[11.09.2009] </p>
-    <p>Evelyn Dyb og Katja Johannessen: Bostedsløse i Norge 2008 - en kartlegging. NIBR-rapport 2009:17. </p>
-    <section>
-      <p type="title">På vei til egen bolig</p>
-    </section>
-    <section>
-      <p type="title">Evaluering
-                        av nasjonal strategi for å forebygge og
-                        bekjempe bostedsløshet 2005-2007</p>
-    </section>
-    <p>[11.09.2009] </p>
-    <p>Evelyn Dyb, Marit Kristine Helgesen og Katja Johannessen: På vei til egen bolig. Evaluering av nasjonal strategi for å forebygge og bekjempe bostedsløshet 2005-2007. NIBR-rapport 2008:15. </p>
-    <section>
-      <p type="title">Føreropplæring i tilknytning til
-                        videregående skole: Bedre og billigere i
-                        distriktene</p>
-    </section>
-    <p>[07.09.2009] </p>
-    <p>Sluttrapport fra prøveprosjekt om føreropplæring ved og i tilknytning til videregående skoler. </p>
-    <section>
-      <p type="title">Subsidiaritet på norsk: Mulige
-                        effekter av forvaltningsreformen</p>
-    </section>
-    <p>[04.09.2009] </p>
-    <p>Rapporten ser på hvilke effekter tiltakene i forvaltningsreformen kan få. (NIBR og TLA Consulting). </p>
-    <section>
-      <p type="title">Ny produksjonsindeks for
-                        kommunene</p>
-    </section>
-    <section>
-      <p type="title">SØF-rapport
-                        06/09</p>
-    </section>
-    <p>[01.09.2009] </p>
-    <p>Senter for økonomisk forskning har utarbeidet denne rapporten på oppdrag fra Kommunal- og regionaldepartementet. </p>
-    <section>
-      <p type="title">Evaluering av konkurranseutsettingen
-                        av kommunale revisjonstjenester 29. april
-                        2009</p>
-    </section>
-    <p>[20.08.2009] </p>
-    <p>Rapporten ser nærmere på konsekvenser av reformen fra 1. juli 2004 som åpner for at kommunale revisjonstjenester kan konkurranseutsettes og pålegger kontrollutvalgene å ha et eget sekretariat. </p>
-    <section>
-      <p type="title">Evaluering av mentorpiloter IN
-                        2008/2009</p>
-    </section>
-    <p>[03.08.2009] </p>
-    <p>Sluttrapporten i følgeevalueringen av prosjektet Mentorpiloter for unge etablerere gjennomført av Innovasjon Norge fra april 2008 til juni 2009. De tre pilotfylkene er Hordaland, Sogn og Fjordane og Troms (Næringssenteret i Vestfold). </p>
-    <section>
-      <p type="title">Verdien av kommunalt og
-                        fylkeskommunalt eierskap i
-                        kraftsektoren</p>
-    </section>
-    <section>
-      <p type="title">Econ
-                        Pövry-rapport 2008-051</p>
-    </section>
-    <p>[17.07.2009] </p>
-    <p>Econ Pövry har på oppdrag fra Kommunal- og regionaldepartementet levert rapporten "Verdien av kommunalt og fylkeskommunalt eierskap i kraftsektoren". </p>
-    <section>
-      <p type="title">Konsultasjonsordningen mellom staten
-                        og kommunesektoren</p>
-    </section>
-    <section>
-      <p type="title">SØF-rapport
-                        nr. 05/09</p>
-    </section>
-    <p>[30.06.2009] </p>
-    <p>Senter for økonomisk forskning har utgitt en rapport som vurderer konsultasjonsordningen som virkemiddel i styringsdialogen mellom staten og kommunesektoren ved KS. </p>
-    <section>
-      <p type="title">Årsrapport 2008</p>
-    </section>
-    <section>
-      <p type="title">H-2232
-                        N</p>
-    </section>
-    <p>[05.06.2009] </p>
-    <p>Kommunal- og regionaldepartementet sin årsrapport for 2008. </p>
+    <p type="title">Delegering av forvaltningen av regionale utviklingsmidler til virksomheter som ikke er offentlig heleid</p>
+    <p type="title">NIVI-rapport 2010:3</p>
+    <p>[20.09.2010]</p>
+    <p>I hvilke omfang overlater fylkeskommunene forvaltningen av distrikts- og regionalpolitiske virkemiddel til selskaper som ikke er heloffentlig eide?</p>
+    <p type="title">Fjellområder og fjellkommuner i Sør-Norge</p>
+    <p type="title">ØF-rapport 08/2010</p>
+    <p>[16.09.2010]</p>
+    <p>Hva er et fjellområde, og hvordan kan store fjellformasjoner og landskap forme samfunnsutviklingen? Dette er spørsmål som Østlandsforskning går inn på i rapporten.</p>
+    <p type="title">Regionale sentre for likestilling og mangfold</p>
+    <p type="title">AFI-rapport / 2010</p>
+    <p>[10.09.2010]</p>
+    <p>Arbeidsforskningsinstituttet har evaluert pilotprosjektet Regionale sentre for likestilling og mangfold.</p>
+    <p type="title">Energieffektivisering av bygg. En ambisiøs og realistisk plan mot 2040</p>
+    <p>[23.08.2010]</p>
+    <p>Kommunal- og regionalminister Liv Signe Navarsete ba i 2009 en arbeidsgruppe ledet av Eli Arnstad om å legge fram forslag til mål og utarbeide en tidsplan for å øke energieffektiviteten i nye og eksisterende bygg.</p>
+    <p type="title">Evaluering av Innovasjon Norge</p>
+    <p>[17.08.2010]</p>
+    <p>Evalueringen viser at Innovasjon Norge med stor sannsynlighet bidrar til økt verdiskaping i Norge.</p>
+    <p type="title">Byggekostnadsprogrammet - sluttevaluering</p>
+    <p>[28.06.2010]</p>
+    <p>Denne rapporten tar for seg sluttevalueringen av programmet, med vekt på hvordan programmet er gjennomført, hvordan programmet har formidlet resultater fra prosjektene og hvilken nytte næringen mener programmet har bidratt med for dem.</p>
+    <p type="title">Byggekostnadsprogrammet - programstyrets sluttrapport</p>
+    <p>[28.06.2010]</p>
+    <p>Dette er programstyrets avsluttende rapport til eierne. Den oppsummerer programmets leveranser, styrets vurdering av måloppnåelse, spesielle funn som er gjort og styrets erfaringer og avsluttende anbefalinger.</p>
+    <p type="title">Analyse og sammenlikning av krav til energieffektivitet i bygg i Norden og Europa</p>
+    <p>[21.06.2010]</p>
+    <p>Målsetningen med denne utredningen er å gi en oversikt over og evaluere energikrav i en del europeiske land.</p>
+    <p type="title">Ringvirkningsanalyse Barentshavet-Lofoten</p>
+    <p>[16.06.2010]</p>
+    <p>Utredning om sammenhengen mellom petroleumsvirksomhet og sysselsetting i nord.</p>
+    <p type="title">Infrastruktur gjør forskjell. Evaluering av SIVA 2002-2008</p>
+    <p>[09.06.2010]</p>
+    <p>Det er behov for SIVAs tjenester og selskapet utfører oppdraget sitt på en god måte. Det viser en ekstern evaluering av SIVA.</p>
+    <p type="title">En statlig redningsbøye. Innovasjon Norges rolle i kapitalmarkedet under finansuroen.</p>
+    <p type="title">MENON-publikasjon nr. 8/2010</p>
+    <p>[09.06.2010]</p>
+    <p>Innovasjon Norge bidro til å utløse privat kapital i krisetid ved hjelp av Regjeringens tiltakspakker. Dette viser en utredning MENON Business Economics har utført for Nærings- og handelsdepartementet.</p>
+    <p type="title">Deskriptiv analyse – næringer og samfunn i området knyttet til forvaltningsplanen</p>
+    <p>[04.06.2010]</p>
+    <p>Underlagsrapport for oppdateringen av den helhetlige forvaltningsplanen for Barentshavet – Lofoten (HFBL).</p>
+    <p type="title">Slik kommunene ser det</p>
+    <p type="title">Rapport fra et utviklingsarbeid om statlig tilsyn med kommunene</p>
+    <p>[04.06.2010]</p>
+    <p>Fylkesmannen i Vestfold og Høgskolen i Vestfold, i samarbeid med Sandefjord, Horten og Lardal kommuner.</p>
+    <p type="title">Response to OSCE'S EAM report of 27 November 2009</p>
+    <p>[31.05.2010]</p>
+    <p>At the invitation of the Norwegian Government, OSCE/ODIHR carried out an Election Assessment Mission in Norway during the General Election of September 2009. OSCE’s report from the visit was presented on 27 November 2009. This report gives an overview of the requests contained in the OSCE report and the planned follow up to them.</p>
+    <p type="title">120 punkter for å øke den demokratiske deltagelsen blant unge</p>
+    <p>[20.05.2010]</p>
+    <p>Den hurtigarbeidende gruppen for ungdomsdemokrati ble satt ned 27. september 2007, med representanter fra alle ungdomspartiene med moderpartier på Stortinget, Elevorganisasjonen og Landsrådet for Norges barne- og ungdomsorganisasjoner.</p>
+    <p type="title">Valgets kval?</p>
+    <p type="title">Utredning for etablering av en sentral valgenhet. Difi rapport 2010:3</p>
+    <p>[18.05.2010]</p>
+    <p>Departementet ba i fjor høst Direktoratet for forvaltning og IKT (DIFI) om å utrede alternativer til dagens organisering av valgarbeidet på statlig nivå. I oppdraget ble det bedt om å utrede hvorvidt det bør etableres en sentral statlig valgenhet.</p>
+    <p type="title">Veileder. Lokalt e-demokrati</p>
+    <p type="title">Nye metoder på kjente mål</p>
+    <p>[10.05.2010]</p>
+    <p>Veilederen er utarbeidet på grunnlag av rapporten Møte mellom moderne teknologi og lokaldemokrati skrevet av forskere ved Institutt for samfunnsforskning på oppdrag fra Kommunal- og regionaldepartementet.</p>
+    <p type="title">Møte mellom moderne teknologi og lokaldemokrati</p>
+    <p type="title">Utredning og evaluering av seks e-demokratiprosjekter i norske kommuner</p>
+    <p>[10.05.2010]</p>
+    <p>På oppdrag av Kommunal- og regionaldepartementet har Institutt for samfunnsforskning gjennomført et utredningsprosjekt med fokus på anvendelse av ulike modeller for bruk av elektronisk demokrati (e-demokrati) i Kommune-Norge.</p>
+    <p type="title">Hvordan fungerer lokaldemokratiet?</p>
+    <p type="title">Kartlegging av innbyggernes og folkevalgtes erfaringer og oppfatninger. En sammenfattende rapport basert på 50 kommuner</p>
+    <p>[04.05.2010]</p>
+    <p>Kommunal- og regionaldepartementet og KS inviterte 50 kommuner til å være med å teste ut et verktøy for lokaldemokratiutvikling som grunnlag for opprettelse av en lokaldemokratidatabase.</p>
+    <p type="title">Barnehager i inntektssystemet for kommunene</p>
+    <p type="title">SØF-rapport nr. 02/10</p>
+    <p>[29.04.2010]</p>
+    <p>Senter for økonomisk forskning (SØF) har på oppdrag fra Kommunal- og regionaldepartementet analysert hvilke faktorer som har betydning for variasjonene i kostnadene til barnehager mellom kommunene.</p>
+    <p type="title">Statlig styring av kommunene</p>
+    <p type="title">Om utviklingen i bruken av juridiske virkemidler på tre sektorer</p>
+    <p>[26.04.2010]</p>
+    <p>Difi har foretatt en kartlegging av statens bruk av juridiske virkemidler i styringen av kommunene i perioden 1999-2009. Kartleggingen gjelder områdene utdanning (grunnskole), helse og omsorg samt miljøvern (med unntak av plansaker).</p>
+    <p type="title">Rapport fra Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi</p>
+    <p type="title">April 2010 - H-2247 B</p>
+    <p>[14.04.2010]</p>
+    <p>Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) har lagt fram sin rapport for våren 2010.</p>
+    <p type="title">Evaluering av kvalitetskommuneprogrammet</p>
+    <p>[25.03.2010]</p>
+    <p>Evalueringen gir klare indikasjoner på at kvalitetskommunene har lykkes i å bedre kvaliteten i møtet mellom tjenesteyter og bruker, og de har hatt en gunstigere utvikling i sykefraværet enn andre norske kommuner i perioden fra 2006 til 2009.</p>
+    <p type="title">Valgets kval?</p>
+    <p>[18.03.2010]</p>
+    <p>Utredning for etablering av en sentral valgenhet. Difi.</p>
+    <p type="title">Kommunal- og regionaldepartementets forskningsstrategi</p>
+    <p>[08.03.2010]</p>
+    <p>Kommunal- og regionaldepartementets FoU-strategi gir en oversikt over hvilke kunnskapsbehov departementet ser framover i et fireårsperspektiv, dvs i perioden 2006 – 2010.</p>
+    <p type="title">Lokale ruter for kollektivtransport i inntektssystemet for fylkeskommunene</p>
+    <p>[22.02.2010]</p>
+    <p>Rapport utarbeidet av Econ for Kommunal- og regionaldepartementet.</p>
+    <p type="title">Test av designløsning i valglokalet</p>
+    <p type="title">Evalueringsrapport fra Stortingsvalget 2009</p>
+    <p>[19.02.2010]</p>
+    <p>I 2008 gikk Kommunal- og regionaldepartementet sammen med Norsk Form om å arrangere Statens designkonkurranse der temaet var utvikling av nytt valgutstyr.</p>
+    <p type="title">Årsaker til økning i utgiftene til toppfinansieringsordningen for ressurskrevende tjenester fra 2007 til 2008</p>
+    <p type="title">Sluttrapport</p>
+    <p>[12.02.2010]</p>
+    <p>Kommunal- og regionaldepartementet har ansvaret for toppfinansieringsordningen for ressurskrevende tjenester. Fürst og Høverstad ANS har kartlagt årsakene til den sterke utgiftsøkningen fra 2007 til 2008.</p>
+    <p type="title">God praksis med startlån</p>
+    <p>[09.02.2010]</p>
+    <p>Fleire kan kjøpe ein eigen heim og kommunane kan spare pengar viss dei nyttar Husbanken si startlånordning betre. Det er konklusjonane i ECON-rapporten <span type="quote">”God praksis med startlån”</span>.</p>
+    <p type="title">Konsekvenser av mulige endringer i husleieloven</p>
+    <p>[18.01.2010]</p>
+    <p>Prosjektet vurderer konsekvenser av to mulige endringer i husleieloven både separat og samlet.</p>
+    <p type="title">Frivillige kommunesammenslutninger 2005-2008</p>
+    <p type="title">Erfaringer og effekter fra Bodø, Aure, Vindafjord og Kristiansund</p>
+    <p>[11.01.2010]</p>
+    <p type="title">Kartlegging av lover og forskrifter om internkontroll i kommunar og fylkeskommunar</p>
+    <p>[15.12.2009]</p>
+    <p>Utarbeidd av sekretariatet for arbeidsgruppa som skal føreslå tiltak for å styrkja eigenkontrollen i kommunar og fylkeskommunar</p>
+    <p type="title">85 tilrådingar for styrkt eigenkontroll i kommunane</p>
+    <p type="title">H-2245</p>
+    <p>[15.12.2009]</p>
+    <p>Arbeidsgruppa som har jobba med egenkontroll har ferdigstilt sin rapport.</p>
+    <p type="title">Forvaltningsrevisjon og selskapskontroll som verktøy i egenkontrollen i norske kommuner og fylkeskommuner</p>
+    <p type="title">NF-rapport nr 13/2009</p>
+    <p>[15.12.2009]</p>
+    <p>Nordlandsforskning har kommet med ny forskningsrapport.</p>
+    <p type="title">Identifisering av prosjekter med formål om å få tilflyttere til å trives og bli værende på et sted.</p>
+    <p>[07.12.2009]</p>
+    <p>Kartlegging av prosjekter og innsats i kommuner rettet mot inkludering av tilflyttere.</p>
+    <p type="title">Aktivitetsrapport 2009 (Rapporteringsåret 2008)</p>
+    <p>[06.12.2009]</p>
+    <p>Rapporten viser hvordan midlene til distrikts- og regionalpolitikken ble brukt i 2008,(Kommunal- og regionaldepartementet, 2009).</p>
+    <p type="title">Rapport fra Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi</p>
+    <p type="title">H-2244</p>
+    <p>[25.11.2009]</p>
+    <p>Det tekniske beregningsutvalg for kommunal og fylkeskommunal økonomi (TBU) har lagt fram sin rapport for høsten 2009.</p>
+    <p type="title">Internkontroll i kommuner</p>
+    <p type="title">Rapport er utarbeidet av PriceWaterhouseCoopers.</p>
+    <p>[24.11.2009]</p>
+    <p>Kommunal- og regionaldepartementet har nedsatt en arbeidsgruppe som innen utgangen av 2009 skal foreslå tiltak for å styrke kontrollutvalget, revisjonen og den administrative internkontrollen i kommuner og fylkeskommuner.</p>
+    <p type="title">Forskning på internkontroll, revisjon og kontrollutvalg i kommunene</p>
+    <p type="title">Notat 19. mars 2009 (med revisjon av 13. juli 2009)</p>
+    <p>[17.11.2009]</p>
+    <p>Dette arbeidet tar utgangspunkt i mandatet for arbeidsgruppen som skal foreslå tiltak for å styrke egenkontrollen i kommuner og fylkeskommuner. Ideen er at det er de aktørene og de temaene som arbeidsgruppen er bedt om å forholde seg til som bør styre gruppens søken etter kunnskap – også forskningsbasert kunnskap.</p>
+    <p type="title">Inntektssystemet for kommuner og fylkeskommuner 2010</p>
+    <p type="title">Grønt hefte</p>
+    <p>[13.10.2009]</p>
+    <p type="title">Bostedsløse i Norge 2008 - en kartlegging</p>
+    <p>[11.09.2009]</p>
+    <p>Evelyn Dyb og Katja Johannessen: Bostedsløse i Norge 2008 - en kartlegging. NIBR-rapport 2009:17.</p>
+    <p type="title">På vei til egen bolig</p>
+    <p type="title">Evaluering av nasjonal strategi for å forebygge og bekjempe bostedsløshet 2005-2007</p>
+    <p>[11.09.2009]</p>
+    <p>Evelyn Dyb, Marit Kristine Helgesen og Katja Johannessen: På vei til egen bolig. Evaluering av nasjonal strategi for å forebygge og bekjempe bostedsløshet 2005-2007. NIBR-rapport 2008:15.</p>
+    <p type="title">Føreropplæring i tilknytning til videregående skole: Bedre og billigere i distriktene</p>
+    <p>[07.09.2009]</p>
+    <p>Sluttrapport fra prøveprosjekt om føreropplæring ved og i tilknytning til videregående skoler.</p>
+    <p type="title">Subsidiaritet på norsk: Mulige effekter av forvaltningsreformen</p>
+    <p>[04.09.2009]</p>
+    <p>Rapporten ser på hvilke effekter tiltakene i forvaltningsreformen kan få. (NIBR og TLA Consulting).</p>
+    <p type="title">Ny produksjonsindeks for kommunene</p>
+    <p type="title">SØF-rapport 06/09</p>
+    <p>[01.09.2009]</p>
+    <p>Senter for økonomisk forskning har utarbeidet denne rapporten på oppdrag fra Kommunal- og regionaldepartementet.</p>
+    <p type="title">Evaluering av konkurranseutsettingen av kommunale revisjonstjenester 29. april 2009</p>
+    <p>[20.08.2009]</p>
+    <p>Rapporten ser nærmere på konsekvenser av reformen fra 1. juli 2004 som åpner for at kommunale revisjonstjenester kan konkurranseutsettes og pålegger kontrollutvalgene å ha et eget sekretariat.</p>
+    <p type="title">Evaluering av mentorpiloter IN 2008/2009</p>
+    <p>[03.08.2009]</p>
+    <p>Sluttrapporten i følgeevalueringen av prosjektet Mentorpiloter for unge etablerere gjennomført av Innovasjon Norge fra april 2008 til juni 2009. De tre pilotfylkene er Hordaland, Sogn og Fjordane og Troms (Næringssenteret i Vestfold).</p>
+    <p type="title">Verdien av kommunalt og fylkeskommunalt eierskap i kraftsektoren</p>
+    <p type="title">Econ Pövry-rapport 2008-051</p>
+    <p>[17.07.2009]</p>
+    <p>Econ Pövry har på oppdrag fra Kommunal- og regionaldepartementet levert rapporten <span type="quote">"Verdien av kommunalt og fylkeskommunalt eierskap i kraftsektoren"</span>.</p>
+    <p type="title">Konsultasjonsordningen mellom staten og kommunesektoren</p>
+    <p type="title">SØF-rapport nr. 05/09</p>
+    <p>[30.06.2009]</p>
+    <p>Senter for økonomisk forskning har utgitt en rapport som vurderer konsultasjonsordningen som virkemiddel i styringsdialogen mellom staten og kommunesektoren ved KS.</p>
+    <p type="title">Årsrapport 2008</p>
+    <p type="title">H-2232 N</p>
+    <p>[05.06.2009]</p>
+    <p>Kommunal- og regionaldepartementet sin årsrapport for 2008.</p>
+    <list>
+      <p type="listitem">1</p>
+      <p type="listitem">2</p>
+      <p type="listitem">3</p>
+      <p type="listitem">4</p>
+      <p type="listitem">5</p>
+      <p type="listitem">Neste &gt;</p>
+    </list>
   </body>
 </document>

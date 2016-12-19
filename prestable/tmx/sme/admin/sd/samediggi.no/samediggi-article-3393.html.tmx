@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3393.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3393.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - samiske organisasjoner - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - sámi organisašuvnnat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søkerbaserte tilskudd - samiske organisasjoner</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcanvuđot doarjagat - sámi organisašuvnnat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 05.01.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 05.01.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -111,7 +105,7 @@
         <seg>Organisasjonen skal ikke ha medlemskontingent som er uforholdsmessig lav sammenlignet med tilsvarende organisasjoner</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Organišuvnna lahttomáksu ii galgga leat eahpegorrelaš unni go buohtastahttá eará vástevaš organaisašuvnnaiguin</seg>
+        <seg>Organišuvnna lahttomáksu ii galgga leat eahpegorrelaš unni go buohtastahttá eará vástesaš organaisašuvnnaiguin</seg>
       </tuv>
     </tu>
     <tu>
@@ -167,7 +161,7 @@
         <seg>b) Aktivitetstilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -175,7 +169,7 @@
         <seg>70 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja: 70 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>70 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,10 +326,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Beregningsregler: a) Basistilskudd:</seg>
+        <seg>Beregningsregler:a) Basistilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meroštallannjuolggadusat: a) Vuođđodoarjja:</seg>
+        <seg>Meroštallannjuolggadusat:a) Vuođđodoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,7 +345,7 @@
         <seg>b) Aktivitetstilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -359,7 +353,7 @@
         <seg>50 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja: 50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>
@@ -452,7 +446,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søknader sendt etter denne dato realitetsbehandles ikke</seg>
+        <seg>Sametingets søknadsskjema for ordningen benyttes</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikki ohcanskovvi ortnega várás galgá geavahuvvot</seg>
@@ -460,7 +454,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sametingets søknadsskjema for ordningen benyttes Organisasjonene må dokumentere at de pr. 31.12.08 hadde minst 30 betalende medlemmer og medlemmer i minimum 2 kommuner.</seg>
+        <seg>Organisasjonene må dokumentere at de pr. 31.12.08 hadde minst 30 betalende medlemmer og medlemmer i minimum 2 kommuner.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Organisašuvnnat fertejit duođaštit ahte dain ledje 31.12.08 muttus unnimusat 30 lahtu mat leat máksán lahttuvuođa, ja ahte ledje lahtut unnimusat guovtti gielddas.</seg>
@@ -516,10 +510,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Beregningsregler: a) Basistilskudd:</seg>
+        <seg>Beregningsregler:a) Basistilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meroštallannjuolggadusat: a) Vuođđodoarjja:</seg>
+        <seg>Meroštallannjuolggadusat:a) Vuođđodoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -535,7 +529,7 @@
         <seg>b) Aktivitetstilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,7 +537,7 @@
         <seg>50 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja: 50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,7 +745,7 @@
         <seg>b) Aktivitetstilskudd</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,7 +753,7 @@
         <seg>50 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja 50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>
@@ -916,10 +910,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Beregningsregler: a) Basistilskudd:</seg>
+        <seg>Beregningsregler:a) Basistilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meroštallannjuolggadusat: a) Vuođđodoarjja:</seg>
+        <seg>Meroštallannjuolggadusat:a) Vuođđodoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -935,7 +929,7 @@
         <seg>b) Aktivitetstilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -943,7 +937,7 @@
         <seg>50 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja: 50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>
@@ -1100,10 +1094,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Beregningsregler: a) Basistilskudd:</seg>
+        <seg>Beregningsregler:a) Basistilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meroštallannjuolggadusat: a) Vuođđodoarjja:</seg>
+        <seg>Meroštallannjuolggadusat:a) Vuođđodoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1119,7 +1113,7 @@
         <seg>b) Aktivitetstilskudd:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>b.)</seg>
+        <seg>b.) Doaibmadoarjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,7 +1121,7 @@
         <seg>50 % av den årlige rammen fordeles forholdsvis etter medlemsstallet pr. 31.12.08</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doaibmadoarjja: 50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
+        <seg>50 % jahkásaš rámmas juogaduvvo gorálaččat 31.12.08 lahttologu mielde</seg>
       </tuv>
     </tu>
     <tu>

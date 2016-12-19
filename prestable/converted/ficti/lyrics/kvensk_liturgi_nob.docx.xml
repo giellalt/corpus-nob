@@ -9,8 +9,9 @@
       <person firstname="Terje" lastname="Aaronsen" sex="m" born="" nationality="NO"/>
     </translator>
     <wordcount>1074</wordcount>
+    <conversion_status type="standard"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
     <multilingual/>
@@ -18,7 +19,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p xml:lang="fin"><em type="italic">Jumalan palvelus </em> </p>
@@ -80,7 +81,7 @@
     <p xml:lang="nno">
       <em type="bold">Inngangsor </em>
     </p>
-    <p xml:lang="deu">
+    <p xml:lang="ger">
       <em type="bold">d </em>
     </p>
     <p>Kjære menighet.</p>
@@ -105,7 +106,7 @@
     <p>Kyrie eleison! Gud Fader miskunne deg!</p>
     <p xml:lang="nno">Kyrie eleison! Herre Krist, miskunne deg!</p>
     <p>Kyrie eleison! herre Hellig Ånd, miskunne deg!</p>
-    <p xml:lang="ron">
+    <p xml:lang="romanian">
       <em type="bold">Gloria </em>
     </p>
     <p xml:lang="fkv">
@@ -116,7 +117,7 @@
       <em type="italic">Seurakunta: </em>
     </p>
     <p xml:lang="fin">Ja rauha maan pääle, ja ihmisile hyvä tahto!</p>
-    <p xml:lang="ron">
+    <p xml:lang="romanian">
       <em type="bold">Gloria </em>
     </p>
     <p xml:lang="sma">
@@ -198,7 +199,7 @@
     <p>skal derfra komme igjen for å dømme levende og døde.</p>
     <p>Jeg tror på Den Hellige Ånd, en hellige alminnelig kirke, de helliges samfunn, syndenes forlatelse, kjødets oppstandelse og det evige liv.</p>
     <p>Menigheten synger:</p>
-    <p xml:lang="deu">Amen.</p>
+    <p xml:lang="ger">Amen.</p>
     <p xml:lang="fkv">
       <em type="bold">Virsi </em>
     </p>
@@ -258,7 +259,7 @@
     <p xml:lang="smj">
       <em type="italic">Markus i </em>
     </p>
-    <p xml:lang="deu">
+    <p xml:lang="ger">
       <em type="italic">d </em>
     </p>
     <p>
@@ -342,7 +343,7 @@
     <p xml:lang="nno">
       <em type="bold">Fa </em>
     </p>
-    <p xml:lang="deu">
+    <p xml:lang="ger">
       <em type="bold">d </em>
     </p>
     <p xml:lang="nno">
@@ -361,14 +362,14 @@
     <p>men frels oss fra det oonde.</p>
     <p xml:lang="nno">For riket er ditt,</p>
     <p>og makten og æren i evighet.</p>
-    <p xml:lang="deu">Amen.</p>
+    <p xml:lang="ger">Amen.</p>
     <p xml:lang="fkv">
       <em type="bold">Virsi </em>
     </p>
     <p>
       <em type="bold">Salme </em>
     </p>
-    <p xml:lang="deu">
+    <p xml:lang="ger">
       <em type="bold">Siunaus </em>
     </p>
     <p xml:lang="fkv">
@@ -455,7 +456,7 @@
     <p xml:lang="smn">
       <em type="bold">Postlu </em>
     </p>
-    <p xml:lang="deu">
+    <p xml:lang="ger">
       <em type="bold">d </em>
     </p>
     <p xml:lang="isl">

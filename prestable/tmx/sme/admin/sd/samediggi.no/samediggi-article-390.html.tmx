@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-390.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-390.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avkryssingsmanntall - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Russenjienastuslohku - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Avkryssingsmanntall</seg>
@@ -104,46 +114,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jos dus leat gažaldagat dáid beliid birra, de válddes áinnas oktavuođa Sámedikkiin.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Roy Amundsen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Roy Amundsen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 03.09.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 03.09.2009</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Mal for avkryssingsmanntall</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mal for avkryssingsmanntall</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Mal for utleggingsmanntall</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mal for utleggingsmanntall</seg>
       </tuv>
     </tu>
   </body>

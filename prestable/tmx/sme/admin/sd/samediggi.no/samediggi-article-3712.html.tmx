@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3712.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3712.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Miniseminar om duodji - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oanehisseminára duoji birra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Miniseminar om duodji</seg>
@@ -48,22 +58,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seamma beaivvi buktá Sámediggeráđđi ovdan čilgehusa duoji birra dievasčoahkkin ovdii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Grønmo, John Osvald.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Grønmo, John Osvald.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 04.06.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 04.06.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,7 +193,7 @@
         <seg>Kl. 10.50 - 11.00</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>10.50 - 11.00</seg>
+        <seg>Ti. 10.50 - 11.00</seg>
       </tuv>
     </tu>
     <tu>
@@ -220,10 +214,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Debatt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ságastallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Det er ingen påmeldingsfrist.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ságastallan Ii leat dieđihanáigi.</seg>
+        <seg>Ii leat dieđihanáigi.</seg>
       </tuv>
     </tu>
     <tu>

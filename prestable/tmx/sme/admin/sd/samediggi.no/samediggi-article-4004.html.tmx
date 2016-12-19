@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-4004.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-4004.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har stengt 9. og 10. desember - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi gitta čakčamánu 9. ja 10. beivviid - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Vi har stengt 9. og 10. desember</seg>
@@ -28,26 +38,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vi åpner igjen mandag 13. desember kl.08 00.:</seg>
+        <seg>Vi åpner igjen mandag 13. desember kl.08:00.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rabas fas vuossárgga juovlamánu 13. b. dii.08 00.:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 07.12.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 07.12.2010</seg>
+        <seg>Rabas fas vuossárgga juovlamánu 13. b. dii.08:00.</seg>
       </tuv>
     </tu>
   </body>

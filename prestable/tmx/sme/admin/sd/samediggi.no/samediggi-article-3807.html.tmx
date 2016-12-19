@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3807.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3807.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets bilag publiseres nå fra Trondheim og nordover - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki diehtojuohkáviisa álmmuhuvvo maiddái davvin - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets bilag publiseres nå fra Trondheim og nordover</seg>
@@ -15,7 +25,7 @@
         <seg>Mandag 5. juli får befolkningen i Trondheim og nordover muligheten til å lese Sametingets bilag i Aftenposten.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámedikki diehtojuohkináviisa álmmuhuvvo maiddái davvi vuossárgga 05.07.2010 Aftenpostenis.</seg>
+        <seg>Sámedikki diehtojuohkináviisa álmmuhuvvo maiddái davvi vuossargga 05.07.2010 Aftenpostenis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47,7 +57,7 @@
         <seg>- Vi ønsker å synliggjøre Sametinget i Sør-Norge, da vi vet at det generelt er liten kunnskap om Sametinget.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Aviisalohkkit geat orrot Troandimis ja davás besset vuossárgga 05.07 lohkat Sámedikki birra Aftenposten aviissas.</seg>
+        <seg>Ovddalaččas lea diehtojuohkináviisa álmmuhuvvon Matta Norggas. Dál deaddiluvvo logi duhát gáhpála mat leat vuossargga Aftenposten mielde Troanddimis dávás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,22 +74,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mildosa sáhtát maid lohkat nuvttá min ruovttusiiddus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Magga, Sara Marja.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Magga, Sara Marja.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 08.07.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 08.07.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,22 +146,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>jan.roger.ostby@samediggi.no</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Link</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Liŋka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sametingets bilag i Aftenposten - med bla funksjon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mielddus Sámedikki birra Aftenposten aviissas</seg>
       </tuv>
     </tu>
   </body>

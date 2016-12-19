@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3962.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3962.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Invitasjon til Sametingets rovviltseminar - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bovdehus Sámedikki boraspireseminárii - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Invitasjon til Sametingets rovviltseminar</seg>
@@ -84,7 +94,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Seminaret holdes på Radisson Blu hotell i Stjørdal fra onsdag 10.november kl.12.</seg>
+        <seg>Seminaret holdes på Radisson Blu hotell i Stjørdal fra onsdag 10.november kl.12.00 og avsluttes med lunsj kl.13.00 torsdag 11.november.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seminára dollojuvvo Radisson Blu hoteallas Stjørdalas gaskavahku skábmamánu 10. b. rájes dii. 12.00 ja loahpahuvvo lunššain duorastaga skábmamánu 11. b. dii. 13.00.</seg>
@@ -92,7 +102,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>00 og avsluttes med lunsj kl.13. 00 torsdag 11.november.</seg>
+        <seg>Seminaret er åpent for reindriftsutøvere og andre interesserte.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seminára lea rabas boazodolliide ja eará berošteddjiide.</seg>
@@ -112,22 +122,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>R áđđeaddi Nanni Mari Westerfjeld t el 74 13 80 61 dahje nanni.mari.westerfjeld@samediggi.no dahje ráđđeaddi Brita Oskal Eira t el 78 47 41 85 dahje brita.oskal.eira@samediggi.no</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 01.11.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 01.11.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,13 +180,5 @@
         <seg>marianne.balto@samediggi.no</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

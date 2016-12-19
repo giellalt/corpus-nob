@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3528.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3528.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Politiske grupper - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Politihkalaš joavkut - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Politiske grupper</seg>
@@ -12,31 +22,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Amundsen, Roy.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Amundsen, Roy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 15.02.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 15.02.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>* Sametingets representanter - Arbeiderpartiet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Bargiidbellodat Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Bargiidbellodat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -412,15 +414,23 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>* Sametingets representanter - Norske Samers Riksforbund og NSR.</seg>
+        <seg>* Sametingets representanter - Norske Samers Riksforbund og NSR. / SáB</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Norgga Sámiid Riikasearvi Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Norgga Sámiid Riikasearvi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -807,12 +817,20 @@
         <seg>* Sametingets representanter - Árja</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Árja Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Árja</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -911,12 +929,20 @@
         <seg>* Sametingets representanter - Fremskrittspartiet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Ovddádusbellodat Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Ovddádusbellodat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -1100,7 +1126,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Anders Somby jr..</seg>
+        <seg>Anders Somby jr.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Anders Somby jr..</seg>
@@ -1199,12 +1225,20 @@
         <seg>* Sametingets representanter - Nordkalottfolket</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Nordkalottfolket Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Nordkalottfolket</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -1263,12 +1297,20 @@
         <seg>* Sametingets representanter - Åarjel-Saemiej Gielh</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Åarjel-Saemiej Gielh Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Åarjel-Saemiej Gielh</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>
@@ -1327,12 +1369,20 @@
         <seg>* Sametingets representanter - Samer bosatt i Sør-Norge</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggeáirasat - Sámit Lulli-Norggas Namma ja e-boasta</seg>
+        <seg>Sámediggeáirasat - Sámit Lulli-Norggas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Navn og e-post</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Namma ja e-boasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verv</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ámmát</seg>

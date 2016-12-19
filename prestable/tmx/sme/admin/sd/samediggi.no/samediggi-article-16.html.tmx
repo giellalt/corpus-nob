@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-16.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-16.html.xml</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Pressekontakter i Sametinget Ta kontakt med den fagenhet som best kan besvare dine spørsmål.</seg>
+        <seg>Pressekontakter i Sametinget - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Preassaoktavuođat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Pressekontakter i Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Preassaoktavuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ta kontakt med den fagenhet som best kan besvare dine spørsmål.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Váldde oktavuođa dainna fágaovttadagain mii buoremusat sáhttá vástidit du gažaldagaide.</seg>
@@ -255,12 +273,20 @@
         <seg>Navn</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Virgi</seg>
+        <seg>Namma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Stilling</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telefon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Telefovdna</seg>
@@ -407,12 +433,20 @@
         <seg>Navn</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Virgi</seg>
+        <seg>Namma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Stilling</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telefon</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Telefovdna</seg>

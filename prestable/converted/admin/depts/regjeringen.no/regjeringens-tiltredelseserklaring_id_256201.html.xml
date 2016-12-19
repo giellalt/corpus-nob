@@ -1,79 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Ráđđehusa álginjulggaštus - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Statsministerens kontor" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>159</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>109</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/smk/dok/regjeringens-tiltredelseserklaring.html?id=256201</origFileName>
-    <parallel_text location="raehusa-alginjulggatus.html_id=256201" xml:lang="sme"/>
-    <parallel_text location="tiltredingserklaringa-for-regjeringa.html_id=256201" xml:lang="nno"/>
-    <parallel_text location="inaugural-address.html_id=256201" xml:lang="eng"/>
+    <parallel_text location="inaugural-address_id_256201.html" xml:lang="eng"/>
+    <parallel_text location="tiltredingserklaringa-for-regjeringa_id_256201.html" xml:lang="nno"/>
+    <parallel_text location="raehusa-alginjulggatus_id_256201.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Regjeringens tiltredelseserklæring</p>
-    </section>
-    <p>Ved et regjeringsskifte utarbeides det gjerne en erklæring om hovedlinjene i den politikken som den nye regjeringen vil føre. Statsministeren legger denne tiltredelseserklæringen fram for Stortinget snarest mulig etter skiftet </p>
-    <section>
-      <p type="title">Regjeringen Jens Stoltenberg 17.10.2005 -</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen Stoltenberg IIs
-                      tiltredelseserklæring</p>
-    </section>
-    <section>
-      <p type="title">
-                      Regjeringen Stoltenberg II 19. oktober 2005</p>
-    </section>
-    <p>[Statsministerens kontor, 19.10.2005] </p>
-    <p>- Vi vil endre politikkens innhold og politikkens form. Vi vil føre en politikk for mer fellesskap og rettferdighet. Det sa statsminister Jens Stoltenberg i regjeringens tiltredelseserklæring i Stortinget i dag. </p>
-    <section>
-      <p type="title">Regjeringen Kjell Magne Bondevik II 19.10.2001
-                    – 17.10.2005</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen Bondevik IIs
-                      tiltredelseserklæring</p>
-    </section>
-    <p>[Statsministerens kontor, 23.10.2001] </p>
-    <section>
-      <p type="title">Regjeringen Jens Stoltenberg 17.03.2000 –
-                    19.10.2001</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen Stoltenberg Is
-                      tiltredelseserklæring</p>
-    </section>
-    <p>[Statsministerens kontor, 22.03.2000] </p>
-    <section>
-      <p type="title">Regjeringen Kjell Magne Bondevik I 17.10.1997 –
-                    17.03 2000</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen Bondevik Is
-                      tiltredelseserklæring</p>
-    </section>
-    <p>[Statsministerens kontor, 21.10.1997] </p>
-    <section>
-      <p type="title">Regjeringen Thorbjørn Jagland 25.10.1996 –
-                    17.10.1997</p>
-    </section>
-    <section>
-      <p type="title">Regjeringen Jaglands
-                      tiltredelseserklæring</p>
-    </section>
-    <p>[Statsministerens kontor, 29.10.1996] </p>
+    <p>Regjeringens tiltredelseserklæring - regjeringen.no</p>
+    <p type="title">Regjeringen Jens Stoltenberg 17.10.2005 -</p>
+    <p type="title">Regjeringen Stoltenberg IIs tiltredelseserklæring</p>
+    <p type="title">Regjeringen Stoltenberg II 19. oktober  2005</p>
+    <p>[Statsministerens kontor, 19.10.2005]</p>
+    <p>- Vi vil endre politikkens innhold og politikkens form. Vi vil føre en politikk for mer fellesskap og rettferdighet. Det sa statsminister Jens Stoltenberg i regjeringens tiltredelseserklæring i Stortinget i dag.</p>
+    <p type="title">Regjeringen Kjell Magne Bondevik II 19.10.2001 – 17.10.2005</p>
+    <p type="title">Regjeringen Bondevik IIs tiltredelseserklæring</p>
+    <p>[Statsministerens kontor, 23.10.2001]</p>
+    <p type="title">Regjeringen Jens Stoltenberg 17.03.2000 – 19.10.2001</p>
+    <p type="title">Regjeringen Stoltenberg Is tiltredelseserklæring</p>
+    <p>[Statsministerens kontor, 22.03.2000]</p>
+    <p type="title">Regjeringen Kjell Magne Bondevik I 17.10.1997 – 17.03 2000</p>
+    <p type="title">Regjeringen Bondevik Is tiltredelseserklæring</p>
+    <p>[Statsministerens kontor, 21.10.1997]</p>
+    <p type="title">Regjeringen Thorbjørn Jagland 25.10.1996 – 17.10.1997</p>
+    <p type="title">Regjeringen Jaglands tiltredelseserklæring</p>
+    <p>[Statsministerens kontor, 29.10.1996]</p>
   </body>
 </document>

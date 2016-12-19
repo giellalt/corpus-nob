@@ -1,30 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Fáddá - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Kunnskapsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>165</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>183</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/kd/tema.html?id=588</origFileName>
-    <parallel_text location="fadda.html_id=588" xml:lang="sme"/>
-    <parallel_text location="tema.html_id=588" xml:lang="nno"/>
-    <parallel_text location="selected-topics.html_id=588" xml:lang="eng"/>
+    <parallel_text location="selected-topics_id_588.html" xml:lang="eng"/>
+    <parallel_text location="tema_id_588.html" xml:lang="nno"/>
+    <parallel_text location="fadda_id_588.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Tema</p>
-    </section>
+    <p>Tema - regjeringen.no</p>
+    <p type="title">Tema</p>
     <list>
       <p type="listitem">
         <span>Barnehager </span>
@@ -35,44 +39,44 @@
       <p type="listitem">
         <span>Forskning </span>
         <list>
-          <p type="listitem">Marin forskning og innovasjon |  </p>
-          <p type="listitem">Landbruks- og matforskning |  </p>
-          <p type="listitem">Transport- og kommunikasjonsforskning |  </p>
-          <p type="listitem">Energi- og petroleumsforskning |  </p>
-          <p type="listitem">Helseforskning |  </p>
-          <p type="listitem">Forskningssystemet |  </p>
-          <p type="listitem">Forskningsstatistikk |  </p>
-          <p type="listitem">Forskningsetikk |  </p>
-          <p type="listitem">Forskningspriser |  </p>
-          <p type="listitem">Forskningsfond |  </p>
-          <p type="listitem">Internasjonalisering av forskning |  </p>
-          <p type="listitem">Forskningspolitikk |  </p>
-          <p type="listitem">Utdanningsforskning |  </p>
+          <p type="listitem">Marin forskning og innovasjon |</p>
+          <p type="listitem">Landbruks- og matforskning |</p>
+          <p type="listitem">Transport- og kommunikasjonsforskning |</p>
+          <p type="listitem">Energi- og petroleumsforskning |</p>
+          <p type="listitem">Helseforskning |</p>
+          <p type="listitem">Forskningssystemet |</p>
+          <p type="listitem">Forskningsstatistikk |</p>
+          <p type="listitem">Forskningsetikk |</p>
+          <p type="listitem">Forskningspriser |</p>
+          <p type="listitem">Forskningsfond |</p>
+          <p type="listitem">Internasjonalisering av forskning |</p>
+          <p type="listitem">Forskningspolitikk |</p>
+          <p type="listitem">Utdanningsforskning |</p>
         </list>
       </p>
       <p type="listitem">
         <span>Grunnskole </span>
         <list>
-          <p type="listitem">Den kulturelle skolesekken |  </p>
-          <p type="listitem">Kunnskapsløftet |  </p>
+          <p type="listitem">Den kulturelle skolesekken |</p>
+          <p type="listitem">Kunnskapsløftet |</p>
         </list>
       </p>
       <p type="listitem">
         <span>Høyere utdanning </span>
         <list>
-          <p type="listitem">Kvalitetsreformen |  </p>
-          <p type="listitem">Lærerutdanningsreformen |  </p>
+          <p type="listitem">Kvalitetsreformen |</p>
+          <p type="listitem">Lærerutdanningsreformen |</p>
         </list>
       </p>
       <p type="listitem">
         <span>Internasjonalt samarbeid om utdanning og forskning </span>
         <list>
-          <p type="listitem">Internasjonalisering av forskning |  </p>
-          <p type="listitem">Europarådet-samarbeid om utdanning og forskning |  </p>
-          <p type="listitem">EU-samarbeid om utdanning og forskning |  </p>
-          <p type="listitem">Bilateralt samarbeid om utdanning og forskning |  </p>
-          <p type="listitem">Nordisk samarbeid om utdanning og forskning |  </p>
-          <p type="listitem">UNESCO-samarbeid om utdanning og forskning |  </p>
+          <p type="listitem">Internasjonalisering av forskning |</p>
+          <p type="listitem">Europarådet-samarbeid om utdanning og forskning |</p>
+          <p type="listitem">EU-samarbeid om utdanning og forskning |</p>
+          <p type="listitem">Bilateralt samarbeid om utdanning og forskning |</p>
+          <p type="listitem">Nordisk samarbeid om utdanning og forskning |</p>
+          <p type="listitem">UNESCO-samarbeid om utdanning og forskning |</p>
         </list>
       </p>
     </list>
@@ -86,7 +90,7 @@
       <p type="listitem">
         <span>Livslang læring </span>
         <list>
-          <p type="listitem">Voksenopplæring |  </p>
+          <p type="listitem">Voksenopplæring |</p>
         </list>
       </p>
       <p type="listitem">
@@ -95,7 +99,7 @@
       <p type="listitem">
         <span>Videregående opplæring </span>
         <list>
-          <p type="listitem">Kunnskapsløftet |  </p>
+          <p type="listitem">Kunnskapsløftet |</p>
         </list>
       </p>
     </list>

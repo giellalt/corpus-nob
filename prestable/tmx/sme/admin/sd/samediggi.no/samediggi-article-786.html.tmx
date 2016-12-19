@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-786.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-786.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avdeling for rettigheter, næring og miljø - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoigatvuohta-, ealáhus- ja birasossodat - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Avdeling for rettigheter, næring og miljø</seg>
@@ -15,7 +25,7 @@
         <seg>Avdelingen har ansvaret for all politikkutvikling og forvaltning innenfor områdene samfunnsplanlegging, næring, miljø og rettigheter, helse og sosial, kulturvern og regionalt og internasjonalt samarbeid.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ossodagas lea ovddasvástádus hábmet buot politihka ja hálddašit buot surggiid siskkobealde nugo servodatplánen, ealáhusat, biras ja vuoigatvuođat, dearvvasvuohta ja sosiála, kultursuodjaleapmi ja guovlulaš ja riikkaidgaskasaš ovttasbargu.</seg>
+        <seg>Ossodagas lea ovddasvástádus hábmet buot politihka ja hálddašit buot surggiid siskkobealde nugo servodatplánen, ealáhusat, biras ja vuoigatvuođat, dearvvasvuohta ja sosiála, kultursuodjaleapmi ja guovllulaš ja riikkaidgaskasaš ovttasbargu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31,39 +41,7 @@
         <seg>Avdelingen har følgende faste team</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ossodaga ovddasvástádusa ja doaimmat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Regionalutvikling</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi servodatplánen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Grenseoverskridende arbeid Miljø og næring</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dásseárvoperspektiiva ovttasbargguin eará ossodagaiguin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Rettigheter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fylkkkagielddaid ovttasbargošiehtadusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Helse og sosial</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Guovlupolitihkka</seg>
+        <seg>Ossodagas leat čuovvovaš bissovaš teamat: Guovllulaš ovdánahttin Rájáidrastá bargu Biras ja ealáhusat Kultursuodjaleapmi Vuoigatvuođat Dearvvačuohta ja sosiála Váikkuhangaskaoamit</seg>
       </tuv>
     </tu>
     <tu>
@@ -71,7 +49,7 @@
         <seg>VirkemiddelAvdelingens ansvar og oppgaver</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Infrastrukturdoaibmabijut ja johtolat</seg>
+        <seg>Ossodaga ovddasvástádusa ja doaimmat</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,7 +57,47 @@
         <seg>Samisk samfunnsplanlegging</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guovlulaš ovdánahttinprográmmat</seg>
+        <seg>Sámi servodatplánen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Likestillingsperspektiv i samarbeid med andre avdelinger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dásseárvoperspektiiva ovttasbargguin eará ossodagaiguin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samarbeidsavtalene med fylkeskommunene</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fylkkkagielddaid ovttasbargošiehtadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalpolitikk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovlupolitihkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Infrastrukturtiltak og samferdsel</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Infrastrukturdoaibmabijut ja johtolat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionale utviklingsprogrammer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovllulaš ovdánahttinprográmmat</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,22 +314,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Oktavuohta Sametinget - Sámediggi 9840 Varangerbotn / Vuonnabahta E-poasta samediggi@samediggi.no Telefovdna (47) 78 47 40 00 Fáksa (47) 78 47 40 90</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av John-Marcus Kuhmunen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan John-Marcus Kuhmunen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 23.03.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 23.03.2010</seg>
       </tuv>
     </tu>
   </body>

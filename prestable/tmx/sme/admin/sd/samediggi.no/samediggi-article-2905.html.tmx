@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2905.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2905.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>PRM.:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>PRM.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget og Innovasjon Norge inngår samarbeidsavtale - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ja Innovašuvdna Norga dahkaba ovttasbargošiehtadusa - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>PRM.:</seg>
@@ -100,7 +118,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Samordne virkemiddelbruken og ellers holde hverandre orientert om prosjekter ihht.</seg>
+        <seg>Samordne virkemiddelbruken og ellers holde hverandre orientert om prosjekter ihht. gjeldende lover og regler</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktiiordnet váikkuhangaskaomiid geavaheami ja muđui gulahallat gaskaneaset prošeavttaid birra gustovaš lágaid ja njuolggadusaid ektui (omd. láhkamearrádusaid jávohisvuođageaskku birra, EEO stáhtadoarjjanjuolggadusaid birra jna.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilstrebe lik praksis ved samfinansiering av tiltak.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geahččalit doallat ovttalágan geavahusa daid doaibmabijuid oktavuođas main lea oktasaš ruhtadeapmi</seg>
@@ -124,7 +150,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Næringskombinasjoner</seg>
+        <seg>Landbruk og reindrift</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Eanandoallu ja boazodoallu</seg>
@@ -132,10 +158,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Næringskombinasjoner</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lotnolasealáhusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Duodji (samisk husflid)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lotnolasealáhusat Duodji</seg>
+        <seg>Duodji</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,29 +212,5 @@
         <seg>Maŋŋá vuolláičállima lea mediain ja earáin vejolašvuohta ovddidit gažaldagaid, loahpaha Sámedikki direktevra.</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Hætta, Anne Britt K..</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Hætta, Anne Britt K..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 10.02.2009</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 10.02.2009</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

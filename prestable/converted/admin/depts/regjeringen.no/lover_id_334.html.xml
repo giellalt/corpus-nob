@@ -1,161 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Lágat  - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Barne-, likestillings- og inkluderingsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>198</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>137</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/bld/dok/lover_regler/lover.html?id=334</origFileName>
-    <parallel_text location="lagat-.html_id=334" xml:lang="sme"/>
-    <parallel_text location="lover.html_id=334" xml:lang="nno"/>
-    <parallel_text location="laws.html_id=334" xml:lang="eng"/>
+    <parallel_text location="laws_id_334.html" xml:lang="eng"/>
+    <parallel_text location="lover_id_334.html" xml:lang="nno"/>
+    <parallel_text location="lagat-_id_334.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Lover</p>
-    </section>
-    <list>
-      <p type="listitem">På denne siden finner du informasjon om aktuelle lover fra Barne,- likestillings- og inkluderingsdepartementet. For å få en komplett oversikt over lover, henvises det til <em type="italic">Lovdata </em><em type="italic">. </em></p>
-    </list>
-    <p>
-      <em type="italic">Lover som forvaltes av Barne-, likestillings- og inkluderingsdepartementet (Lovdata) </em>
-    </p>
-    <p>
-                    SORTER SØK: </p>
-    <p>Sist publisert </p>
-    <p>Alfabetisk </p>
-    <section>
-      <p type="title">Adopsjonsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Angrerettloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Barneloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Barnetrygdloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Barnevernloven</p>
-    </section>
-    <section>
-      <p type="title">Barne-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Diskriminerings- og
-                      tilgjengelighetsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne-,
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Diskrimineringsloven</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Diskrimineringsombudsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Ekteskapsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Forbrukertvistloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Gjeldsordningsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Kontantstøtteloven</p>
-    </section>
-    <section>
-      <p type="title">Barne-,
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Likestillingsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Lov om råd for menneske med nedsett
-                      funksjonsevne</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Markedsføringsloven</p>
-    </section>
-    <section>
-      <p type="title">Barne-,
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
-    <section>
-      <p type="title">Pakkereiseloven</p>
-    </section>
-    <section>
-      <p type="title">Barne,-
-                      likestillings- og inkluderingsdepartementet</p>
-    </section>
-    <p>Loven i fulltekst </p>
+    <p>Lover - regjeringen.no</p>
+    <p>SORTER SØK:</p>
+    <p>Sist publisert</p>
+    <p>Alfabetisk</p>
+    <p type="title">Adopsjonsloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Angrerettloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Barneloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Barnetrygdloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Barnevernloven</p>
+    <p type="title">Barne- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Diskriminerings- og tilgjengelighetsloven</p>
+    <p type="title">Barne-, likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Diskrimineringsloven</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Diskrimineringsombudsloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Ekteskapsloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Forbrukertvistloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Gjeldsordningsloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Kontantstøtteloven</p>
+    <p type="title">Barne-, likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Likestillingsloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Lov om råd for menneske med nedsett funksjonsevne</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Markedsføringsloven</p>
+    <p type="title">Barne-, likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
+    <p type="title">Pakkereiseloven</p>
+    <p type="title">Barne,- likestillings- og inkluderingsdepartementet</p>
+    <p>Loven i fulltekst</p>
   </body>
 </document>

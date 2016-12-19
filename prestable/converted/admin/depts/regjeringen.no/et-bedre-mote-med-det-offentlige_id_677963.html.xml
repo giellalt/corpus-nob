@@ -1,41 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Buoret oktavuohta almmolašvuođain - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Fornyings-, administrasjons- og kirkedepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>330</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>329</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fad/pressesenter/pressemeldinger/2012/et-bedre-mote-med-det-offentlige.html?id=677963</origFileName>
-    <parallel_text location="buoret-oktavuohta-almmolavuoain.html_id=677963" xml:lang="sme"/>
-    <parallel_text location="eit-betre-mote-med-det-offentlege.html_id=677963" xml:lang="nno"/>
+    <parallel_text location="eit-betre-mote-med-det-offentlege_id_677963.html" xml:lang="nno"/>
+    <parallel_text location="buoret-oktavuohta-almmolavuoain_id_677963.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 11.04.2012  </p>
-    <section>
-      <p type="title">Et bedre møte med det offentlige</p>
-    </section>
+    <p>Et bedre møte med det offentlige - regjeringen.no</p>
     <p>
       <em type="italic">Regjeringen har som mål at innbyggere og næringsliv skal oppleve et bedre møte med det offentlige. Digitalisering skal gjøre det enklere og raskere å forholde seg til forvaltningen. Forvaltningen skal i tillegg skrive klart og forståelig, og tilby tjenester som er brukervennlige. </em>
     </p>
-    <p>- Brukerne av offentlige tjenester skal få hjelp på en rask, forståelig og respektfull måte. Åpenhet er en forutsetning for at brukerne skal oppleve et bedre møte med det offentlige, sier Rigmor Aasrud. </p>
-    <p>Av Digitaliseringsprogrammet ” På nett med innbyggerne ” går det frem at forvaltningen skal invitere brukere til å delta i utviklingen av tjenester, kunne si sin mening om tjenestetilbudet, eller få innsyn i det som gjøres i offentlig sektor. Offentlige virksomheter skal ta utgangspunkt i brukernes ønsker og behov når de utvikler de offentlige tjenestene. På den måten vil regjeringen sikre en offentlig sektor som setter brukeren i sentrum.  </p>
-    <p>Aasrud mener digitalisering av forvaltningen vil gi bedre tjenester og raskere saksbehandlingstider i mange saker. - Det vil videre gjøre det enklere å samordne informasjon og tilby helhetlige tjenester. Brukeren vil for eksempel slippe å oppgi de samme opplysningene flere ganger. Digitale tjenester er i tillegg tilgjengelige døgnet rundt, og man kan bruke tjenestene fra mobiltelefon, pc eller nettbrettet hjemme. Brukere som trenger det, skal få hjelp til å bruke de digitale tjenestene.  </p>
+    <p>- Brukerne av offentlige tjenester skal få hjelp på en rask, forståelig og respektfull måte. Åpenhet er en forutsetning for at brukerne skal oppleve et bedre møte med det offentlige, sier Rigmor Aasrud.</p>
+    <p>Av Digitaliseringsprogrammet ” På nett med innbyggerne ” går det frem at forvaltningen skal invitere brukere til å delta i utviklingen av tjenester, kunne si sin mening om tjenestetilbudet, eller få innsyn i det som gjøres i offentlig sektor. Offentlige virksomheter skal ta utgangspunkt i brukernes ønsker og behov når de utvikler de offentlige tjenestene. På den måten vil regjeringen sikre en offentlig sektor som setter brukeren i sentrum.</p>
+    <p>Aasrud mener digitalisering av forvaltningen vil gi bedre tjenester og raskere saksbehandlingstider i mange saker. - Det vil videre gjøre det enklere å samordne informasjon og tilby helhetlige tjenester. Brukeren vil for eksempel slippe å oppgi de samme opplysningene flere ganger. Digitale tjenester er i tillegg tilgjengelige døgnet rundt, og man kan bruke tjenestene fra mobiltelefon, pc eller nettbrettet hjemme. Brukere som trenger det, skal få hjelp til å bruke de digitale tjenestene.</p>
     <p><em type="italic">Regninger fra staten i nettbanken </em>Det skal bli slutt på at å taste inn lange KID-numre når du skal betale regninger fra staten. Regjeringen vil legge til rette for elektronisk faktura og autogiro til alle innbyggere som ønsker det. </p>
-    <p>- Med elektronisk faktura fjerner vi en irritasjon for brukerne. Alle som ønsker det, kan få fakturaen direkte i nettbanken i stedet for i papirkonvolutt i postkassen, sier fornyingsministeren. </p>
-    <p>Elektronisk faktura og automatisk trekk vil gjøre det enklere og raskere å betale regninger fra staten.  </p>
-    <p>Regjeringen vil derfor ta initiativ overfor bankene om å etablere elektronisk faktura som standardvalg fra staten til innbyggere med nettbank. </p>
+    <p>- Med elektronisk faktura fjerner vi en irritasjon for brukerne. Alle som ønsker det, kan få fakturaen direkte i nettbanken i stedet for i papirkonvolutt i postkassen, sier fornyingsministeren.</p>
+    <p>Elektronisk faktura og automatisk trekk vil gjøre det enklere og raskere å betale regninger fra staten.</p>
+    <p>Regjeringen vil derfor ta initiativ overfor bankene om å etablere elektronisk faktura som standardvalg fra staten til innbyggere med nettbank.</p>
   </body>
 </document>

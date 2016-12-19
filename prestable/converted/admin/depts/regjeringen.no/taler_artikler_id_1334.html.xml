@@ -1,408 +1,222 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Sártnit ja artihkkalat - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>824</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>1724</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/aktuelt/taler_artikler.html?id=1334</origFileName>
-    <parallel_text location="sartnit_artihkkalat.html_id=1334" xml:lang="sme"/>
-    <parallel_text location="taler_artiklar.html_id=1334" xml:lang="nno"/>
-    <parallel_text location="speeches_articles.html_id=1334" xml:lang="eng"/>
+    <parallel_text location="speeches_articles_id_1334.html" xml:lang="eng"/>
+    <parallel_text location="taler_artiklar_id_1334.html" xml:lang="nno"/>
+    <parallel_text location="sartnit_artihkkalat_id_1334.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Taler og artikler</p>
-    </section>
-    <p>Her finner du en kronologisk oversikt over taler og artikler fra Statministerens kontor og departementene. </p>
-    <p>Taler og artikler under tildigere regjeringer (Dokumentarkiv) </p>
-    <p>Abonner på e-postvarsling </p>
-    <p>Abonner på RSS-feed (høyreklikk og kopier snarvei) </p>
-    <section>
-      <p type="title">Landsdelssamling PPT og
-                        Statped</p>
-    </section>
-    <p>[Kunnskapsdepartementet, 05.10.2010] </p>
-    <p>Kristin Halvorsens tale til landsdelssamling PPT og Statped i Bodø 28. september 2010. </p>
-    <section>
-      <p type="title">Å støtte er å lede</p>
-    </section>
-    <p>[Forsvarsdepartementet, 05.10.2010] </p>
-    <p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo. </p>
-    <section>
-      <p type="title">Nord og sør – sammen i nord</p>
-    </section>
-    <section>
-      <p type="title">Forord til
-                        publikasjon: Nordområdesatsingen. Status
-                        oktober 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 05.10.2010] </p>
-    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Slik har det vært siden 2005 – og slik vil det fortsette, skriver utenriksminister Jonas Gahr Støre i dette forordet. </p>
-    <section>
-      <p type="title">Finanstale</p>
-    </section>
-    <p>[Finansdepartementet, 05.10.2010] </p>
-    <p>Statsbudsjettet for 2011 er et ansvarlig budsjett for å sikre arbeidsplasser, verdiskaping og velferd. Vi investerer i vår framtidige arbeidskraft og produksjon gjennom økt satsing på skole og utdanning. </p>
-    <section>
-      <p type="title">Innlegg til Stortingets
-                        trontaledebatt</p>
-    </section>
-    <section>
-      <p type="title">Stortinget
-                        4. oktober 2010</p>
-    </section>
-    <p>[Statsministerens kontor, 04.10.2010] </p>
-    <p>- Det er mitt håp at regjeringspartiene og opposisjonen møtes i debatter om de store linjevalgene og prinsipielle spørsmål, sa statsminister Jens Stoltenberg blant annet i sin tale under trontaledebatten i Stortinget. </p>
-    <section>
-      <p type="title">Melding frå Kongen til Stortinget om
-                        Noregs rikes tilstand og styring i tida etter
-                        siste melding</p>
-    </section>
-    <p>[Statsministerens kontor, 02.10.2010] </p>
-    <section>
-      <p type="title">Hans Majestet Kongens tale til det
-                        155. Storting ved dets åpning</p>
-    </section>
-    <p>[Statsministerens kontor, 02.10.2010] </p>
-    <section>
-      <p type="title">Grove feil om Forsvaret</p>
-    </section>
-    <p>[Forsvarsdepartementet, 02.10.2010] </p>
-    <p>Aftenposten tegner på kommentarplass 30. september et grovt misvisende bilde av status i forsvarssektoren. </p>
-    <section>
-      <p type="title">Hilsen ved Voksenåsens 50-års
-                        jubileum</p>
-    </section>
-    <p>[Fornyings-, administrasjons- og kirkedepartementet, 01.10.2010] </p>
-    <p>Hilsning fra fornyings-, administrasjons- og kirkeminister Rigmor Aasrud ved markeringen av 50 årsdagen for innvielsen av Voksenåsen. </p>
-    <section>
-      <p type="title">Regjeringens fattigdomsbekjempelse
-                        globalt – og hvorfor er fairtrade
-                        viktig?</p>
-    </section>
-    <section>
-      <p type="title">
-                        Saudakonferansen om fairtrade og etisk handel i
-                        offentlig sektor, 1. oktober 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 01.10.2010] </p>
-    <p>Under innledningen på Saudakonferansen om fairtrade og etisk handel i offentlig sektor, sa Støre bl.a. at ”... dere setter fingeren på et viktig anliggende for regjeringen: at det offentlige – statlige og kommunale virksomheter – har en rolle og et ansvar i arbeidet med å fremme rettferdig handel”. </p>
-    <section>
-      <p type="title">Åpningen av administrasjonsbygget på
-                        TCM</p>
-    </section>
-    <section>
-      <p type="title">
-                        Teknologisenter Mongstad 1. oktober 2010</p>
-    </section>
-    <p>[Olje- og energidepartementet, 01.10.2010] </p>
-    <section>
-      <p type="title">New security challenges – new
-                        strategic concept</p>
-    </section>
-    <p>[Forsvarsdepartementet, 01.10.2010] </p>
-    <p>- The financial crisis [...] will affect the assumptions on which NATO’s new Strategic Concept is being based, says Minister of Defence Grete Faremo. </p>
-    <section>
-      <p type="title">Åpenhet og tillit</p>
-    </section>
-    <p>[Justis- og politidepartementet, 01.10.2010] </p>
-    <p>Den eneste måten vi kan sikre at Politiets sikkerhetstjeneste har tillit i befolkningen, er ved å være så åpne som mulig om det arbeidet tjenesten gjør, skriver justisministeren i en kronikk i VG. </p>
-    <section>
-      <p type="title">Kontaktkonferansen 2010</p>
-    </section>
-    <section>
-      <p type="title">Lysbakkens
-                        tale til til de frivillige barne- og
-                        ungdomsorganisasjonene 29.september</p>
-    </section>
-    <p>[Barne-, likestillings- og inkluderingsdepartementet, 30.09.2010] </p>
-    <section>
-      <p type="title">Tale: Åpning av Matstreif
-                        2010</p>
-    </section>
-    <section>
-      <p type="title">Av:
-                        Landbruks- og matminister Lars Peder Brekk</p>
-    </section>
-    <p>[Landbruks- og matdepartementet, 30.09.2010] </p>
-    <section>
-      <p type="title">Innlegg på møte i Stortingets
-                        europautvalg 30.09.2010</p>
-    </section>
-    <section>
-      <p type="title">Stortinget,
-                        30. september</p>
-    </section>
-    <p>[Utenriksdepartementet, 30.09.2010] </p>
-    <p>Fornybardirektivet er viktig for Norge for å sikre et langsiktig samarbeid med EU-landene om fornybar energi. Etter grundige vurderinger av direktivet og dets konsekvenser for Norge, er vi nå i samtaler med EU om innlemmelse av fornybardirektivet i EØS-avtalen, sa utenriksministeren bl.a. i sitt innlegg. </p>
-    <section>
-      <p type="title">Matstreif 2010</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 30.09.2010] </p>
-    <p>Fiskeri- og kystministerens åpningstale på Matstreif 2010 Rådhusplassen 30. september 2010 </p>
-    <section>
-      <p type="title">Klima og miljømessige utfordringer for
-                        fiskerinæringa i nord og mulighetene
-                        for</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 30.09.2010] </p>
-    <p>Fiskeri- og kystministerens tale under åpningen av Framsenteret, Tromsø, 29. September 2010 </p>
-    <section>
-      <p type="title">Matsatsing under SKI-VM 2011</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 30.09.2010] </p>
-    <p>Fiskeri- og kystministerens tale på pressekonferanse om matsatsing under Ski-VM 2011 VM-huset, 30.september 2010 </p>
-    <section>
-      <p type="title">Tale: Norsk mat under Ski-VM
-                        2011</p>
-    </section>
-    <section>
-      <p type="title">Av:
-                        Landbruks- og matminister Lars Peder Brekk</p>
-    </section>
-    <p>[Landbruks- og matdepartementet, 30.09.2010] </p>
-    <section>
-      <p type="title">Den nordiske humlen</p>
-    </section>
-    <section>
-      <p type="title">Artikkel i
-                        Dagens Næringsliv, 30. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 30.09.2010] </p>
-    <p>Det summer blant verdens økonomiske og politiske toppledere. Nå skal de sverme rundt Norden for å finne ut hvordan demokratiet kan overleve kriser, skriver miljø- og utviklingsminister Erik Solheim. </p>
-    <section>
-      <p type="title">Norges innlegg om situasjonen i
-                        Afghanistan</p>
-    </section>
-    <section>
-      <p type="title">
-                        Sikkerhetsrådet, 29. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 29.09.2010] </p>
-    <p>Ambassadør Smith ga uttrykk for Norges støtte til FNs spesialrepresentant og tok bl.a. til orde for et mer robust afghansk lederskap, viktigheten av en inkluderende politisk prosess, at kvinnene må med i det politiske arbeidet og nødvendigheten av en valgreform. </p>
-    <section>
-      <p type="title">Norges hovedinnlegg i FNs 65.
-                        generalforsamlingen</p>
-    </section>
-    <section>
-      <p type="title">New York,
-                        29. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 29.09.2010] </p>
-    <p>Norges hovedinnlegg i Generalforsamlingen ble presentert av ambassadør Tine Mørch Smith 29. september 2010. Innlegget tok blant for seg Norges vedvarende engasjement på tusenårsmål 4 og 5, barne- og mødredødelighet. </p>
-    <section>
-      <p type="title">Vi skal forske på partnerdrap</p>
-    </section>
-    <p>[Justis- og politidepartementet, 29.09.2010] </p>
-    <p>VG skriver på lederplass søndag 26. september at det ”er på tide at forskningen på partnerdrap kommer i gang”. Det er jeg naturligvis enig i, skriver statssekretær Astri Aas-Hansen i en replikk i VG. </p>
-    <section>
-      <p type="title">En milepæl for klima- og
-                        miljøforskning i nord</p>
-    </section>
-    <p>[Miljøverndepartementet, 29.09.2010] </p>
-    <p>Det er ikke så veldig lenge siden vi trodde Arktis ville forbli slik det alltid har vært, hvitt og utilnærmelig, dekket av solid havis og med velfungerende økosystemer. Nå er klimaendringene i ferd med å endre alt dette, og vi trenger mer kunnskap. Da er det gledelig å vise til at vi i dag åpner Framsenteret i Tromsø – et tungt forskningssenter for klima og miljø i nordområdene. </p>
-    <section>
-      <p type="title">En fattigdomsprofeti</p>
-    </section>
-    <section>
-      <p type="title">Kommentar i
-                        Dagbladet, 29. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 29.09.2010] </p>
-    <p>Malcom Langford kan i sitt innlegg «Fattigdomspropaganda» i Dagbladet 22. september gi inntrykk av at alt snakket om fattigdom i Afrika er skivebom, skriver utenriksminister Jonas Gahr Støre og miljø- og utviklingsminister Erik Solheim. </p>
-    <section>
-      <p type="title">Hedret veteranene fra
-                        Korea-krigen</p>
-    </section>
-    <p>[Forsvarsdepartementet, 29.09.2010] </p>
-    <p>Fra 1951 til 1954 tjente 623 norske kvinner og menn freden i det norske feltsykehuset i Korea. </p>
-    <section>
-      <p type="title">Norwegian policy on renewable
-                        energy</p>
-    </section>
-    <p>[Olje- og energidepartementet, 28.09.2010] </p>
-    <p>Speech given by Mr. Terje Riis-Johansen, Minister of Petroleum and Energy at NEREC. </p>
-    <section>
-      <p type="title">Dyrøy-seminaret 2010</p>
-    </section>
-    <p>[Kommunal- og regionaldepartementet, 28.09.2010] </p>
-    <p>Innlegg av kommunal- og regionalminister Liv Signe Navarsete om bredbånd på Dyrøy-seminaret 28. september 2010. </p>
-    <section>
-      <p type="title">Verdiskaping på havet – hva skjer det
-                        neste tiåret?</p>
-    </section>
-    <section>
-      <p type="title">Samarbeid
-                        for arbeid i sjømatnæringa</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 28.09.2010] </p>
-    <p>Tale av fiskeri- og kystminister Lisbeth Berg-Hansen på konferanse i Egersund, 28. september 2010 </p>
-    <section>
-      <p type="title">Regjeringas arbeid med miljømessig
-                        bærekraft og Samarbeid for arbeid</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 27.09.2010] </p>
-    <p>Fiskeri- og kystministerens tale under åpent møte på Kino-Kino i Sandnes i regi av Rogaland Arbeiderparti. Mandag 27. september 2010 </p>
-    <section>
-      <p type="title">Tale: Åpent møte i Lierne</p>
-    </section>
-    <section>
-      <p type="title">Av:
-                        Landbruks- og matminister Lars Peder Brekk</p>
-    </section>
-    <p>[Landbruks- og matdepartementet, 27.09.2010] </p>
-    <section>
-      <p type="title">Mobbing i digitale minefelt</p>
-    </section>
-    <section>
-      <p type="title">Kronikk i
-                        BT 24. september 2010</p>
-    </section>
-    <p>[Barne-, likestillings- og inkluderingsdepartementet, 27.09.2010] </p>
-    <section>
-      <p type="title">Unyansert på NRK</p>
-    </section>
-    <p>[Finansdepartementet, 27.09.2010] </p>
-    <p>På NRKs Lørdagsrevyen 25. september ble det sendt en reportasje om det nye systemet for å fastsette ligningsverdien på boliger. Dette ble feilaktig fremstilt som en ny boligskatt. </p>
-    <section>
-      <p type="title">Norges åpningsinnlegg under ICG-møtet
-                        om Somalia</p>
-    </section>
-    <section>
-      <p type="title">Madrid, 27.
-                        september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 27.09.2010] </p>
-    <p>I sitt åpningsinnlegg sa statssekretær Espen Barth Eide bl.a: ”As the TFGs present transitional period has entered its final year, the situation in Mogadishu and large parts of the country is alarming. We are deeply concerned with both the security situation and with the state of affairs of the humanitarian side”. </p>
-    <section>
-      <p type="title">Vil ha etisk bevissthet</p>
-    </section>
-    <p>[Forsvarsdepartementet, 27.09.2010] </p>
-    <p>- Jeg vil at etisk bevissthet og refleksjon skal gjennomsyre vår sektor – på alle områder og alle nivåer, sier forsvarsminister Grete Faremo. </p>
-    <section>
-      <p type="title">Mer rettferdig ligningsverdi</p>
-    </section>
-    <section>
-      <p type="title">Innlegg i
-                        VG</p>
-    </section>
-    <p>[Finansdepartementet, 27.09.2010] </p>
-    <p>De med små formuer betaler mindre formuesskatt nå enn før denne regjeringen tok over, mens de med store formuer betaler mer. Det synes jeg er rettferdig og god fordelingspolitikk, skriver finansminister Sigbjørn Johnsen i et innlegg i VG. </p>
-    <section>
-      <p type="title">Målrettet litteraturstøtte</p>
-    </section>
-    <section>
-      <p type="title">Innlegg i
-                        Dagens Næringsliv</p>
-    </section>
-    <p>[Finansdepartementet, 27.09.2010] </p>
-    <p>Momsfritak er antagelig den minst målrettede måten å støtte norsk litteratur på, skriver statssekretær Roger Schjerva i et innlegg i Dagens Næringsliv. </p>
-    <section>
-      <p type="title">Beslutninger for fremtiden</p>
-    </section>
-    <p>[Forsvarsdepartementet, 27.09.2010] </p>
-    <p>- Norge er tjent med å ta høyde for forlengelsen av utviklingsprogrammet på amerikansk side ved å forskyve beslutningsprosessen tilsvarende både for kjøp av kampfly og valg av base, sier forsvarsminister Grete Faremo. </p>
-    <section>
-      <p type="title">Høynivåmøte om Sudan</p>
-    </section>
-    <section>
-      <p type="title">New York,
-                        24. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 24.09.2010] </p>
-    <p>Norway’s commitment is to Sudan, and this commitment will remain, irrespective of the outcome of the referendum. - This means that we will continue to engage with the whole country if there is a vote for unity, and we will engage with both states if the people of Southern Sudan vote for secession. </p>
-    <section>
-      <p type="title">Address at Ministerial Disarmament
-                        Conference</p>
-    </section>
-    <section>
-      <p type="title">United
-                        Nations, New York 24 September 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 24.09.2010] </p>
-    <p>»In order to maintain and increase the momentum of our work for a world free of nuclear weapons, we can no longer postpone the debate on how we should organise and structure the multilateral disarmament machinery", Foreign Minister Støre said. </p>
-    <section>
-      <p type="title">Tale: Åpning - Norsk Eplefest</p>
-    </section>
-    <section>
-      <p type="title">Av:
-                        Politisk rådgiver Ane Hansdatter Kismul</p>
-    </section>
-    <p>[Landbruks- og matdepartementet, 24.09.2010] </p>
-    <p>Eplefest i Gvarv </p>
-    <section>
-      <p type="title">Voldsofrenes rettssikkerhet blir ikke
-                        svekket</p>
-    </section>
-    <p>[Justis- og politidepartementet, 24.09.2010] </p>
-    <p>Dagbladet fremmer på lederplass tirsdag 14. september kritikk mot regjeringens forslag om å flytte klagebehandlingen i voldsoffererstatningssaker. Forslaget er fremdeles ute på høring, skriver statssekretær Astri Aas-Hansen i et innlegg i Dagbladet. </p>
-    <section>
-      <p type="title">Innledning om fiskernes sosiale
-                        rettigheter</p>
-    </section>
-    <section>
-      <p type="title">på Norsk
-                        Sjømannsforbunds landsmøte 2010</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 24.09.2010] </p>
-    <section>
-      <p type="title">Åpning 10 års jubileum for Nasjonalt
-                        kompetansesenter for læring og
-                        mestring</p>
-    </section>
-    <section>
-      <p type="title">Holdt 23.
-                        september 2010</p>
-    </section>
-    <p>[Helse- og omsorgsdepartementet, 24.09.2010] </p>
-    <p>Helse- og omsorgsminister Anne-Grete Strøm-Erichsens tale ved tiårsjubileumet for Nasjonalt kompetansesenter for læring og mestring. </p>
-    <section>
-      <p type="title">Address at CTBT Ministerial
-                        Meeting</p>
-    </section>
-    <section>
-      <p type="title">New York,
-                        23 September 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 23.09.2010] </p>
-    <p>The entry into force of the Comprehensive Test Ban Treaty (CTBT)is within reach, Foreign Minister Støre said in his address to the CBT Ministerial Meeting in New York 23 September. </p>
-    <section>
-      <p type="title">Klimaendringer sender folk på
-                        flukt</p>
-    </section>
-    <section>
-      <p type="title">Kronikk i
-                        Adresseavisen, 21. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 23.09.2010] </p>
-    <p>Vi har for alvor fått øynene opp for at ekstremvær kan ødelegge livet for mange mennesker. Forskere sier at ekstremværet vi nå opplever er årsak til naturkatastrofer uten sidestykke i nyere tid, skriver Jonas Gahr Støre og Erik Solheim. </p>
-    <section>
-      <p type="title">Ressursforvaltning og reguleringar i
-                        framtida – ulike forhold med økonomisk
-                        interesse for fiskarane</p>
-    </section>
-    <p>[Fiskeri- og kystdepartementet, 23.09.2010] </p>
-    <p>Tale av statssekretær Vidar Ulriksen til Årsmøte Nordland Fylkes Fiskarlag,Bodø 23. september 2010. </p>
-    <section>
-      <p type="title">De fattige alltid blant oss?</p>
-    </section>
-    <section>
-      <p type="title">Artikkel i
-                        Dagsavisen, 23. september 2010</p>
-    </section>
-    <p>[Utenriksdepartementet, 23.09.2010] </p>
-    <p>Fattigdommen i verden er nesten halvert siden 1990. Fortsetter den utviklinga de neste tjue åra vil vi være vitner til en unik historisk hendelse: En verden fri for fattigdom, skriver miljø- og utviklingsminister Erik Solheim. </p>
+    <p>Taler og artikler - regjeringen.no</p>
+    <list>
+      <p type="listitem">1</p>
+      <p type="listitem">2</p>
+      <p type="listitem">3</p>
+      <p type="listitem">4</p>
+      <p type="listitem">5</p>
+      <p type="listitem">6</p>
+      <p type="listitem">7</p>
+      <p type="listitem">8</p>
+      <p type="listitem">9</p>
+      <p type="listitem">10</p>
+      <p type="listitem">Neste &gt;</p>
+    </list>
+    <p type="title">Landsdelssamling PPT og Statped</p>
+    <p>[Kunnskapsdepartementet, 05.10.2010]</p>
+    <p>Kristin Halvorsens tale til landsdelssamling PPT og Statped i Bodø 28. september 2010.</p>
+    <p type="title">Å støtte er å lede</p>
+    <p>[Forsvarsdepartementet, 05.10.2010]</p>
+    <p>- Ikke bare skal vi ha toleranse for sterke ytringer, vi skal oppmuntre til det! Det jeg har reagert på, er uttrykte holdninger fra befal i intervju om lyst eller hevnlyst som motiv for å ta liv, skriver forsvarsminister Grete Faremo.</p>
+    <p type="title">Nord og sør – sammen i nord</p>
+    <p type="title">Forord til publikasjon: Nordområdesatsingen. Status oktober 2010</p>
+    <p>[Utenriksdepartementet, 05.10.2010]</p>
+    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Slik har det vært siden 2005 – og slik vil det fortsette, skriver utenriksminister Jonas Gahr Støre i dette forordet.</p>
+    <p type="title">Finanstale</p>
+    <p>[Finansdepartementet, 05.10.2010]</p>
+    <p>Statsbudsjettet for 2011 er et ansvarlig budsjett for å sikre arbeidsplasser, verdiskaping og velferd. Vi investerer i vår framtidige arbeidskraft og produksjon gjennom økt satsing på skole og utdanning.</p>
+    <p type="title">Innlegg til Stortingets trontaledebatt</p>
+    <p type="title">Stortinget 4. oktober 2010</p>
+    <p>[Statsministerens kontor, 04.10.2010]</p>
+    <p>- Det er mitt håp at regjeringspartiene og opposisjonen møtes i debatter om de store linjevalgene og prinsipielle spørsmål, sa statsminister Jens Stoltenberg blant annet i sin tale under trontaledebatten i Stortinget.</p>
+    <p type="title">Melding frå Kongen til Stortinget om Noregs rikes tilstand og styring i tida etter siste melding</p>
+    <p>[Statsministerens kontor, 02.10.2010]</p>
+    <p type="title">Hans Majestet Kongens tale til det 155. Storting ved dets åpning</p>
+    <p>[Statsministerens kontor, 02.10.2010]</p>
+    <p type="title">Grove feil om Forsvaret</p>
+    <p>[Forsvarsdepartementet, 02.10.2010]</p>
+    <p>Aftenposten tegner på kommentarplass 30. september et grovt misvisende bilde av status i forsvarssektoren.</p>
+    <p type="title">Hilsen ved Voksenåsens 50-års jubileum</p>
+    <p>[Fornyings-, administrasjons- og kirkedepartementet, 01.10.2010]</p>
+    <p>Hilsning fra fornyings-, administrasjons- og kirkeminister Rigmor Aasrud ved markeringen av 50 årsdagen for innvielsen av Voksenåsen.</p>
+    <p type="title">Regjeringens fattigdomsbekjempelse globalt – og hvorfor er fairtrade viktig?</p>
+    <p type="title">Saudakonferansen om fairtrade og etisk handel i offentlig sektor, 1. oktober 2010</p>
+    <p>[Utenriksdepartementet, 01.10.2010]</p>
+    <p>Under innledningen på Saudakonferansen om fairtrade og etisk handel i offentlig sektor, sa Støre bl.a. at ”... dere setter fingeren på et viktig anliggende for regjeringen: at det offentlige – statlige og kommunale virksomheter – har en rolle og et ansvar i arbeidet med å fremme rettferdig handel”.</p>
+    <p type="title">Åpningen av administrasjonsbygget på TCM</p>
+    <p type="title">Teknologisenter Mongstad 1. oktober 2010</p>
+    <p>[Olje- og energidepartementet, 01.10.2010]</p>
+    <p type="title">New security challenges – new strategic concept</p>
+    <p>[Forsvarsdepartementet, 01.10.2010]</p>
+    <p>- The financial crisis [...] will affect the assumptions on which NATO’s new Strategic Concept is being based, says Minister of Defence Grete Faremo.</p>
+    <p type="title">Åpenhet og tillit</p>
+    <p>[Justis- og politidepartementet, 01.10.2010]</p>
+    <p>Den eneste måten vi kan sikre at Politiets sikkerhetstjeneste har tillit i befolkningen, er ved å være så åpne som mulig om det arbeidet tjenesten gjør, skriver justisministeren i en kronikk i VG.</p>
+    <p type="title">Kontaktkonferansen 2010</p>
+    <p type="title">Lysbakkens tale til til de frivillige barne- og ungdomsorganisasjonene 29.september</p>
+    <p>[Barne-, likestillings- og inkluderingsdepartementet, 30.09.2010]</p>
+    <p type="title">Tale: Åpning av Matstreif 2010</p>
+    <p type="title">Av: Landbruks- og matminister Lars Peder Brekk</p>
+    <p>[Landbruks- og matdepartementet, 30.09.2010]</p>
+    <p type="title">Innlegg på møte i Stortingets europautvalg 30.09.2010</p>
+    <p type="title">Stortinget, 30. september</p>
+    <p>[Utenriksdepartementet, 30.09.2010]</p>
+    <p>Fornybardirektivet er viktig for Norge for å sikre et langsiktig samarbeid med EU-landene om fornybar energi. Etter grundige vurderinger av direktivet og dets konsekvenser for Norge, er vi nå i samtaler med EU om innlemmelse av fornybardirektivet i EØS-avtalen, sa utenriksministeren bl.a. i sitt innlegg.</p>
+    <p type="title">Matstreif 2010</p>
+    <p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
+    <p>Fiskeri- og kystministerens åpningstale på Matstreif 2010 Rådhusplassen 30. september 2010</p>
+    <p type="title">Klima og miljømessige utfordringer for fiskerinæringa i nord og mulighetene for</p>
+    <p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
+    <p>Fiskeri- og kystministerens tale under åpningen av Framsenteret, Tromsø, 29. September 2010</p>
+    <p type="title">Matsatsing under SKI-VM 2011</p>
+    <p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
+    <p>Fiskeri- og kystministerens tale på pressekonferanse om matsatsing under Ski-VM 2011 VM-huset, 30.september 2010</p>
+    <p type="title">Tale: Norsk mat under Ski-VM 2011</p>
+    <p type="title">Av: Landbruks- og matminister Lars Peder Brekk</p>
+    <p>[Landbruks- og matdepartementet, 30.09.2010]</p>
+    <p type="title">Den nordiske humlen</p>
+    <p type="title">Artikkel i Dagens Næringsliv, 30. september 2010</p>
+    <p>[Utenriksdepartementet, 30.09.2010]</p>
+    <p>Det summer blant verdens økonomiske og politiske toppledere. Nå skal de sverme rundt Norden for å finne ut hvordan demokratiet kan overleve kriser, skriver miljø- og utviklingsminister Erik Solheim.</p>
+    <p type="title">Norges innlegg om situasjonen i Afghanistan</p>
+    <p type="title">Sikkerhetsrådet, 29. september 2010</p>
+    <p>[Utenriksdepartementet, 29.09.2010]</p>
+    <p>Ambassadør Smith ga uttrykk for Norges støtte til FNs spesialrepresentant og tok bl.a. til orde for et mer robust afghansk lederskap, viktigheten av en inkluderende politisk prosess, at kvinnene må med i det politiske arbeidet og nødvendigheten av en valgreform.</p>
+    <p type="title">Norges hovedinnlegg i FNs 65. generalforsamlingen</p>
+    <p type="title">New York, 29. september 2010</p>
+    <p>[Utenriksdepartementet, 29.09.2010]</p>
+    <p>Norges hovedinnlegg i Generalforsamlingen ble presentert av ambassadør Tine Mørch Smith 29. september 2010. Innlegget tok blant for seg Norges vedvarende engasjement på tusenårsmål 4 og 5, barne- og mødredødelighet.</p>
+    <p type="title">Vi skal forske på partnerdrap</p>
+    <p>[Justis- og politidepartementet, 29.09.2010]</p>
+    <p>VG skriver på lederplass søndag 26. september at det <span type="quote">”er på tide at forskningen på partnerdrap kommer i gang”</span>. Det er jeg naturligvis enig i, skriver statssekretær Astri Aas-Hansen i en replikk i VG.</p>
+    <p type="title">En milepæl for klima- og miljøforskning i nord</p>
+    <p>[Miljøverndepartementet, 29.09.2010]</p>
+    <p>Det er ikke så veldig lenge siden vi trodde Arktis ville forbli slik det alltid har vært, hvitt og utilnærmelig, dekket av solid havis og med velfungerende økosystemer. Nå er klimaendringene i ferd med å endre alt dette, og vi trenger mer kunnskap. Da er det gledelig å vise til at vi i dag åpner Framsenteret i Tromsø – et tungt forskningssenter for klima og miljø i nordområdene.</p>
+    <p type="title">En fattigdomsprofeti</p>
+    <p type="title">Kommentar i Dagbladet, 29. september 2010</p>
+    <p>[Utenriksdepartementet, 29.09.2010]</p>
+    <p>Malcom Langford kan i sitt innlegg <span type="quote">«Fattigdomspropagandaš</span> i Dagbladet 22. september gi inntrykk av at alt snakket om fattigdom i Afrika er skivebom, skriver utenriksminister Jonas Gahr Støre og miljø- og utviklingsminister Erik Solheim.</p>
+    <p type="title">Hedret veteranene fra Korea-krigen</p>
+    <p>[Forsvarsdepartementet, 29.09.2010]</p>
+    <p>Fra 1951 til 1954 tjente 623 norske kvinner og menn freden i det norske feltsykehuset i Korea.</p>
+    <p type="title">Norwegian policy on renewable energy</p>
+    <p>[Olje- og energidepartementet, 28.09.2010]</p>
+    <p>Speech given by Mr. Terje Riis-Johansen, Minister of Petroleum and Energy at NEREC.</p>
+    <p type="title">Dyrøy-seminaret 2010</p>
+    <p>[Kommunal- og regionaldepartementet, 28.09.2010]</p>
+    <p>Innlegg av kommunal- og regionalminister Liv Signe Navarsete om bredbånd på Dyrøy-seminaret 28. september 2010.</p>
+    <p type="title">Verdiskaping på havet – hva skjer det neste tiåret?</p>
+    <p type="title">Samarbeid for arbeid i sjømatnæringa</p>
+    <p>[Fiskeri- og kystdepartementet, 28.09.2010]</p>
+    <p>Tale av fiskeri- og kystminister Lisbeth Berg-Hansen på konferanse i Egersund, 28. september 2010</p>
+    <p type="title">Regjeringas arbeid med miljømessig bærekraft og Samarbeid for arbeid</p>
+    <p>[Fiskeri- og kystdepartementet, 27.09.2010]</p>
+    <p>Fiskeri- og kystministerens tale under åpent møte på Kino-Kino i Sandnes i regi av Rogaland Arbeiderparti. Mandag 27. september 2010</p>
+    <p type="title">Tale: Åpent møte i Lierne</p>
+    <p type="title">Av: Landbruks- og matminister Lars Peder Brekk</p>
+    <p>[Landbruks- og matdepartementet, 27.09.2010]</p>
+    <p type="title">Mobbing i digitale minefelt</p>
+    <p type="title">Kronikk i BT 24. september 2010</p>
+    <p>[Barne-, likestillings- og inkluderingsdepartementet, 27.09.2010]</p>
+    <p type="title">Unyansert på NRK</p>
+    <p>[Finansdepartementet, 27.09.2010]</p>
+    <p>På NRKs Lørdagsrevyen 25. september ble det sendt en reportasje om det nye systemet for å fastsette ligningsverdien på boliger. Dette ble feilaktig fremstilt som en ny boligskatt.</p>
+    <p type="title">Norges åpningsinnlegg under ICG-møtet om Somalia</p>
+    <p type="title">Madrid, 27. september 2010</p>
+    <p>[Utenriksdepartementet, 27.09.2010]</p>
+    <p>I sitt åpningsinnlegg sa statssekretær Espen Barth Eide bl.a: <span type="quote">”As the TFGs present transitional period has entered its final year, the situation in Mogadishu and large parts of the country is alarming. We are deeply concerned with both the security situation and with the state of affairs of the humanitarian side”</span>.</p>
+    <p type="title">Vil ha etisk bevissthet</p>
+    <p>[Forsvarsdepartementet, 27.09.2010]</p>
+    <p>- Jeg vil at etisk bevissthet og refleksjon skal gjennomsyre vår sektor – på alle områder og alle nivåer, sier forsvarsminister Grete Faremo.</p>
+    <p type="title">Mer rettferdig ligningsverdi</p>
+    <p type="title">Innlegg i VG</p>
+    <p>[Finansdepartementet, 27.09.2010]</p>
+    <p>De med små formuer betaler mindre formuesskatt nå enn før denne regjeringen tok over, mens de med store formuer betaler mer. Det synes jeg er rettferdig og god fordelingspolitikk, skriver finansminister Sigbjørn Johnsen i et innlegg i VG.</p>
+    <p type="title">Målrettet litteraturstøtte</p>
+    <p type="title">Innlegg i Dagens Næringsliv</p>
+    <p>[Finansdepartementet, 27.09.2010]</p>
+    <p>Momsfritak er antagelig den minst målrettede måten å støtte norsk litteratur på, skriver statssekretær Roger Schjerva i et innlegg i Dagens Næringsliv.</p>
+    <p type="title">Beslutninger for fremtiden</p>
+    <p>[Forsvarsdepartementet, 27.09.2010]</p>
+    <p>- Norge er tjent med å ta høyde for forlengelsen av utviklingsprogrammet på amerikansk side ved å forskyve beslutningsprosessen tilsvarende både for kjøp av kampfly og valg av base, sier forsvarsminister Grete Faremo.</p>
+    <p type="title">Høynivåmøte om Sudan</p>
+    <p type="title">New York, 24. september 2010</p>
+    <p>[Utenriksdepartementet, 24.09.2010]</p>
+    <p>Norway’s commitment is to Sudan, and this commitment will remain, irrespective of the outcome of the referendum. - This means that we will continue to engage with the whole country if there is a vote for unity, and we will engage with both states if the people of Southern Sudan vote for secession.</p>
+    <p type="title">Address at Ministerial Disarmament Conference</p>
+    <p type="title">United Nations, New York 24 September 2010</p>
+    <p>[Utenriksdepartementet, 24.09.2010]</p>
+    <p>“In order to maintain and increase the momentum of our work for a world free of nuclear weapons, we can no longer postpone the debate on how we should organise and structure the multilateral disarmament machinery", Foreign Minister Støre said.</p>
+    <p type="title">Tale: Åpning - Norsk Eplefest</p>
+    <p type="title">Av: Politisk rådgiver Ane Hansdatter Kismul</p>
+    <p>[Landbruks- og matdepartementet, 24.09.2010]</p>
+    <p>Eplefest i Gvarv</p>
+    <p type="title">Voldsofrenes rettssikkerhet blir ikke svekket</p>
+    <p>[Justis- og politidepartementet, 24.09.2010]</p>
+    <p>Dagbladet fremmer på lederplass tirsdag 14. september kritikk mot regjeringens forslag om å flytte klagebehandlingen i voldsoffererstatningssaker. Forslaget er fremdeles ute på høring, skriver statssekretær Astri Aas-Hansen i et innlegg i Dagbladet.</p>
+    <p type="title">Innledning om fiskernes sosiale rettigheter</p>
+    <p type="title">på Norsk Sjømannsforbunds landsmøte 2010</p>
+    <p>[Fiskeri- og kystdepartementet, 24.09.2010]</p>
+    <p type="title">Åpning 10 års jubileum for Nasjonalt kompetansesenter for læring og mestring</p>
+    <p type="title">Holdt 23. september 2010</p>
+    <p>[Helse- og omsorgsdepartementet, 24.09.2010]</p>
+    <p>Helse- og omsorgsminister Anne-Grete Strøm-Erichsens tale ved tiårsjubileumet for Nasjonalt kompetansesenter for læring og mestring.</p>
+    <p type="title">Address at CTBT Ministerial Meeting</p>
+    <p type="title">New York, 23 September 2010</p>
+    <p>[Utenriksdepartementet, 23.09.2010]</p>
+    <p>The entry into force of the Comprehensive Test Ban Treaty (CTBT)is within reach, Foreign Minister Støre said in his address to the CBT Ministerial Meeting in New York 23 September.</p>
+    <p type="title">Klimaendringer sender folk på flukt</p>
+    <p type="title">Kronikk i Adresseavisen, 21. september 2010</p>
+    <p>[Utenriksdepartementet, 23.09.2010]</p>
+    <p>Vi har for alvor fått øynene opp for at ekstremvær kan ødelegge livet for mange mennesker. Forskere sier at ekstremværet vi nå opplever er årsak til naturkatastrofer uten sidestykke i nyere tid, skriver Jonas Gahr Støre og Erik Solheim.</p>
+    <p type="title">Ressursforvaltning og reguleringar i framtida – ulike forhold med økonomisk interesse for fiskarane</p>
+    <p>[Fiskeri- og kystdepartementet, 23.09.2010]</p>
+    <p>Tale av statssekretær Vidar Ulriksen til Årsmøte Nordland Fylkes Fiskarlag,Bodø 23. september 2010.</p>
+    <p type="title">De fattige alltid blant oss?</p>
+    <p type="title">Artikkel i Dagsavisen, 23. september 2010</p>
+    <p>[Utenriksdepartementet, 23.09.2010]</p>
+    <p>Fattigdommen i verden er nesten halvert siden 1990. Fortsetter den utviklinga de neste tjue åra vil vi være vitner til en unik historisk hendelse: En verden fri for fattigdom, skriver miljø- og utviklingsminister Erik Solheim.</p>
+    <list>
+      <p type="listitem">1</p>
+      <p type="listitem">2</p>
+      <p type="listitem">3</p>
+      <p type="listitem">4</p>
+      <p type="listitem">5</p>
+      <p type="listitem">6</p>
+      <p type="listitem">7</p>
+      <p type="listitem">8</p>
+      <p type="listitem">9</p>
+      <p type="listitem">10</p>
+      <p type="listitem">Neste &gt;</p>
+    </list>
   </body>
 </document>

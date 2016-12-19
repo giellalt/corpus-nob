@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3294.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3294.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>* Politikk og demokrati - Tilskuddsstyret - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Politihkka ja demokratiija - Doarjjastivra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets tilskuddstyre 2009 - 2013</seg>
@@ -24,22 +34,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Aslaksen ovddasta Sámiid Mátta-Norggas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 10.08.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 10.08.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -268,10 +262,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Leder</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jođiheaddji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Samer bosatt i Sør-Norge</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jođiheaddji Sámit Lulli-Norggas</seg>
+        <seg>Sámit Lulli-Norggas</seg>
       </tuv>
     </tu>
     <tu>

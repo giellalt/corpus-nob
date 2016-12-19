@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2419.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2419.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>STADGAR FÖR NORDISKT SAMISKT SPRÅKPRIS – GOLLEGIELLA - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>DAVVIRIIKKALAŠ SÁMI GIELLABÁLKKAŠUPMI - GOLLEGIELLA - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>STADGAR FÖR NORDISKT SAMISKT SPRÅKPRIS – GOLLEGIELLA</seg>
@@ -31,7 +41,7 @@
         <seg>Priset utdelas vartannat år från och med år 2004. § 2 Syfte Språkpriset skall medverka till att främja, utveckla eller bevara det samiska språket i Norge, Sverige, Finland och Ryssland.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bálkkašupmi juhkkojuvvo juohke nuppi jagi, vuohččan 2004 rájes. § 2 Ulbmil Giellabálkkašumi ulbmilin lea váikkuhit sámegiela ovddideapmái, gárggiidahttimii ja seailluheapmái Norggas, Ruoŧas, Suomas ja Ruoššas.</seg>
+        <seg>§ 2 Ulbmil Giellabálkkašumi ulbmilin lea váikkuhit sámegiela ovddideapmái, gárggiidahttimii ja seailluheapmái Norggas, Ruoŧas, Suomas ja Ruoššas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47,7 +57,7 @@
         <seg>Språkpriset kan avse insatser utförda inom vitt skilda verksamhetsfält.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Giellabálkkašupmi sáhttá mieđihuvvot viidát iešguđetlágan doaibmasurggiide.</seg>
+        <seg>Giellabálkkašupmi sáhttá mieđihuvvot viidát iešguđelágan doaibmasurggiide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84,7 +94,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bedömningskom mit ¬tén utgörs av sammanlagt fem ledamöter.</seg>
+        <seg>Bedömningskom mit ¨tén utgörs av sammanlagt fem ledamöter.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Árvvoštallanlávdegottis leat oktiibuot vihtta lahtu.</seg>
@@ -164,18 +174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Därefter sker finansiering efter rullande schema efter ordningen Norge, Finland och Sverige etc..</seg>
+        <seg>Därefter sker finansiering efter rullande schema efter ordningen Norge, Finland och Sverige etc. § 9 Ändring av stadgar Dessa stadgar, inklusive prisbelopp, kan ändras av sameministrarna och sametingspresi den ¨terna i Norge, Sverige och Finland.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dan maŋŋel ruhtadeamis vástidit Norgga, Suoma ja Ruoŧa ráđđehusat, dás namuhuvvon ortnegis.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>§ 9 Ändring av stadgar Dessa stadgar, inklusive prisbelopp, kan ändras av sameministrarna och sametingspresi den ¬terna i Norge, Sverige och Finland.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>§ 9 Njuolggadusaid rievdadeapmi Dáid njuolggadusaid ja bálkkašumi supmi sáhttet Norgga, Ruoŧa ja Suoma sámeministarat ja dáid riikkaid sámediggepresideanttat rievdadit.</seg>
+        <seg>Dan maŋŋel ruhtadeamis vástidit Norgga, Suoma ja Ruoŧa ráđđehusat, dás namuhuvvon ortnegis. § 9 Njuolggadusaid rievdadeapmi Dáid njuolggadusaid ja bálkkašumi supmi sáhttet Norgga, Ruoŧa ja Suoma sámeministarat ja dáid riikkaid sámediggepresideanttat rievdadit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,22 +186,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>--- Dát njuolggadusat, maid sámeministarat ja sámediggepresideanttat leat nannen 14 beaivve skábmamánus 2007, buhttejit 17 beaivve skábmamánus 2004 nannejuvvon njuolggadusaid.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Hætta, Anne Britt K..</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Hætta, Anne Britt K..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 01.07.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 01.07.2010</seg>
       </tuv>
     </tu>
   </body>

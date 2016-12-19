@@ -1,143 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Eanadoallu - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>401</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>835</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/lmd/tema/jordbruk.html?id=1286</origFileName>
-    <parallel_text location="eanadoallu.html_id=1286" xml:lang="sme"/>
-    <parallel_text location="jordbruk.html_id=1286" xml:lang="nno"/>
+    <parallel_text location="jordbruk_id_1286.html" xml:lang="nno"/>
+    <parallel_text location="eanadoallu_id_1286.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Jordbruk</p>
-    </section>
-    <p>Det samlede jordbruksarealet i Norge er 10,3 millioner dekar, eller 2,1 dekar pr innbygger. Jordbruksarealet utgjør om lag 3 prosent av landarealet, mot 57 prosent i gjennomsnitt i EU. Produktiv skog dekker 70 millioner dekar eller 22 prosent av landarealet, mens 75 prosent er fjell, sjøer og bebygde områder. </p>
-    <p>I jordbruksavtalen legges viktige føringer for de økonomiske rammebetingelsen i jordbruket.  Avtalen er en forhandling mellom staten og jordbruket om priser på jordbruksvarer og andre bestemmelser for næringen, samlet sett er det landbruksnæringens inntekstoppgjør.  </p>
-    <p>Jordbrukets rammevilkår er også avhengig av internasjonale handelsavtaler. </p>
-    <list></list>
-    <p>Abonner på e-postvarsling </p>
-    <section>
-      <p type="title">De beste jordbruksarealene under sterkt
-                      press</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>Nær halvparten all omdisponert matjord er omdisponert i 20 kommuner. Så godt som alle disse kommunene ligger i områder med svært gode vilkår for jordbruk, viser en rapport fra Statens landbruksforvaltning (SLF). </p>
-    <section>
-      <p type="title">Variable avlingar på Agder</p>
-    </section>
-    <p>[23.09.2010] </p>
-    <p>Våren og forsommaren var svært tørr på Sørlandet i år. Dette har ført til reduserte avlingar på ein del gardsbruk og fôrsituasjonen varierer svært mykje frå bruk til bruk, skriv Fylkesmannen i Aust-Agder i siste utgåve av Fylkesnytt. </p>
-    <section>
-      <p type="title">Fortsatt høye priser internasjonalt på
-                      korn</p>
-    </section>
-    <p>[22.09.2010] </p>
-    <p>Værforhold, eksportforsinkelser i Ukraina og rykter om russisk importbehov har preget det internasjonale kornmarkedet den siste måneden. Det har vært en bred prisoppgang i markedene for fett- og proteinråvarer til kraftfôr. </p>
-    <section>
-      <p type="title">Kornhøsten bedre enn forventet</p>
-    </section>
-    <p>[15.09.2010] </p>
-    <p>Årets kornavlinger er store over hele landet. Men kvaliteten er preget av mye nedbør midt i innhøstingsperioden. Hvor mye som vil holde matkvalitet er foreløpig uvisst. </p>
-    <section>
-      <p type="title">Vil plukke fleire plommer</p>
-    </section>
-    <p>[10.09.2010] </p>
-    <p>Midtvegs i sesongen ligg det an til eit normalår med vel tusen tonn norske plommer. Det forventar næringa minst kan doblast. Svak økonomi i dyrking av eple og pære gjer at mange no satsar mye på plommer i alle fruktdyrkingsområda i Norge. </p>
-    <section>
-      <p type="title">Foregangsfylke for økologisk
-                      grønnsakproduksjon</p>
-    </section>
-    <p>[09.09.2010] </p>
-    <p>Flere fylker setter nå inn en ekstra innsats for å øke det økologiske grønnsaksarealet. Vestfold, Buskerud, Telemark og Østfold har som mål å produsere økologiske kvalitetsgrønnsaker på 15 prosent av grønnsakarealet i fylkene innen 2015. </p>
-    <section>
-      <p type="title">Økt erstatning ved avlingsskade i
-                      Troms</p>
-    </section>
-    <p>[03.09.2010] </p>
-    <p>Erstatningssatsen for avlingsskade i grovfôrproduksjon i Troms dobles for avlingsåret 2010. Dette er løsningen partene i jordbruksoppgjøret er kommet fram til for å møte den ekstraordinære situasjonen i fylket i år. </p>
-    <section>
-      <p type="title">Jordbruket oppnår i varierende grad
-                      målpris</p>
-    </section>
-    <p>[02.09.2010] </p>
-    <p>Målprisrapporten for 2009-2010 viser at for melk, egg og kornslagene har markedsregulatorene TINE, Nortura og Felleskjøpet tatt ut målprisen. Samtidig har ikke Nortura klart å ta ut målprisen for lam eller gris. Utviklingen i målprisen viser at økningen de siste fem årene er langt mindre enn forbrukerprisene på mange sektorer. </p>
-    <section>
-      <p type="title">Inntektsutvikling på rett vei</p>
-    </section>
-    <p>[26.08.2010] </p>
-    <p>Inntektene i jordbruket er vokst med 30.000 kroner per årsverk fra 2009 til 2010, viser Totalkalkylen for jordbruket. - Dette er gledelig. Inntektsutviklingen er på rett vei, sier landbruks- og matminister Lars Peder Brekk. </p>
-    <section>
-      <p type="title">Tiltakspakke i hveteåkeren</p>
-    </section>
-    <p>[23.08.2010] </p>
-    <p>Integrerte tiltak med vekstskifte, bekjempelse etter varsel om planteskadegjørere og sjukdomssterke sorter skal prøves ut i hveteåkeren. Sterkere sjukdomspress øker faren for redusert avling og kvalitet, og det er stor interesse for om en "integrert tiltakspakke" kan løse noen av utfordringene. </p>
-    <section>
-      <p type="title">Gode avlingsutsikter i Hedmark</p>
-    </section>
-    <p>[19.08.2010] </p>
-    <p>Det ser ut til å bli bra avlinger av de fleste vekster i Hedmark i år, rapporterer Fylkesmannens landbruksavdeling i siste fylkesnytt. I juli har det vært en spesiell kombinasjon av varmt og fuktig vær som har ført til en vekst Hedmark ikke har sett maken til. </p>
-    <section>
-      <p type="title">Norske epler på markedet</p>
-    </section>
-    <p>[18.08.2010] </p>
-    <p>Årets første tidligepler kommer i små mengder denne uken. Det er tidligsorten Geneva Early som nå markedsføres. Sesongen for norske plommer starter også nå med økende tilførsler av de første tidligsortene. Moreller er det lite av og salget går meget bra. </p>
-    <section>
-      <p type="title">God prognose for kornhøsten</p>
-    </section>
-    <p>[17.08.2010] </p>
-    <p>Høstens kornavling kan godt bli over normalen viser årets første avlingsprognose. Treskinga er i gang, med god kvalitet på det som har kommet inn. Felleskjøpets prognose baseres på data fra Bioforsk og Norsk Landbruksrådgiving, og den ligger hele 28 prosent over fjorårets resultat. </p>
-    <section>
-      <p type="title">Kvoter for kornauksjon</p>
-    </section>
-    <p>[17.08.2010] </p>
-    <p>Statens landbruksforvaltning (SLF) har vedtatt kvotestørrelser for kornauksjonene 19. august. Kvoteandelene som auksjoneres bort nå er 18 000 tonn matkorn, 75 000 tonn karbohydratråvarer og 6 000 tonn oljefrø. </p>
-    <section>
-      <p type="title">Kraftig prisoppgang på korn</p>
-    </section>
-    <p>[09.08.2010] </p>
-    <p>Forrige uke ble det kjent at Russland innfører midlertidig eksportstans på alt korn og kornprodukter. Det sender kornprisene internasjonalt til det høyeste nivået på to år. </p>
-    <section>
-      <p type="title">Svensk landbruk har krympet</p>
-    </section>
-    <p>[06.08.2010] </p>
-    <p>En tredel av åkerarealet og fire femdeler av alle jordbruksforetak er blitt borte i Sverige siden 1930-tallet, viser en rapport fra Jordbruksverket. </p>
-    <section>
-      <p type="title">Produksjonstilskudd i
-                      jordbruket</p>
-    </section>
-    <p>[02.08.2010] </p>
-    <p>Søknadsfrist for produksjonstilskudd i jordbruket er 20. august. </p>
-    <section>
-      <p type="title">Stigende kornpriser
-                      internasjonalt</p>
-    </section>
-    <p>[22.07.2010] </p>
-    <p>Dårlige værforhold i viktige kornproduserende land senker anslagene for årets avlinger og driver korn- og oljefrøprisene opp. </p>
-    <section>
-      <p type="title">Grenseverdier for rester av
-                      plantevernmidler</p>
-    </section>
-    <p>[29.06.2010] </p>
-    <p>Mattilsynet har vedtatt endringer i Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer. </p>
-    <section>
-      <p type="title">Jordbruksoppgjeret: Detaljane er
-                      avklart</p>
-    </section>
-    <p>[23.06.2010] </p>
-    <p>Jordbruksoppgjeret: Partane i jordbruksoppgjeret, staten og Norges Bondelag, er no samde om alle detaljane knytt til oppgjeret. Avtaledokumentet er no ute hos partane for signering. </p>
-    <p>Alle ... </p>
+    <p>Jordbruk - regjeringen.no</p>
+    <p type="title">Jordbruk</p>
+    <p>Det samlede jordbruksarealet i Norge er 10,3 millioner dekar, eller 2,1 dekar pr innbygger. Jordbruksarealet utgjør om lag 3 prosent av landarealet, mot 57 prosent i gjennomsnitt i EU. Produktiv skog dekker 70 millioner dekar eller 22 prosent av landarealet, mens 75 prosent er fjell, sjøer og bebygde områder.</p>
+    <p>I jordbruksavtalen legges viktige føringer for de økonomiske rammebetingelsen i jordbruket. Avtalen er en forhandling mellom staten og jordbruket om priser på jordbruksvarer og andre bestemmelser for næringen, samlet sett er det landbruksnæringens inntekstoppgjør.</p>
+    <p>Jordbrukets rammevilkår er også avhengig av internasjonale handelsavtaler.</p>
+    <list/>
+    <p>Abonner på e-postvarsling</p>
+    <p type="title">De beste jordbruksarealene under sterkt press</p>
+    <p>[04.10.2010]</p>
+    <p>Nær halvparten all omdisponert matjord er omdisponert i 20 kommuner. Så godt som alle disse kommunene ligger i områder med svært gode vilkår for jordbruk, viser en rapport fra Statens landbruksforvaltning (SLF).</p>
+    <p type="title">Variable avlingar på Agder</p>
+    <p>[23.09.2010]</p>
+    <p>Våren og forsommaren var svært tørr på Sørlandet i år. Dette har ført til reduserte avlingar på ein del gardsbruk og fôrsituasjonen varierer svært mykje frå bruk til bruk, skriv Fylkesmannen i Aust-Agder i siste utgåve av Fylkesnytt.</p>
+    <p type="title">Fortsatt høye priser internasjonalt på korn</p>
+    <p>[22.09.2010]</p>
+    <p>Værforhold, eksportforsinkelser i Ukraina og rykter om russisk importbehov har preget det internasjonale kornmarkedet den siste måneden. Det har vært en bred prisoppgang i markedene for fett- og proteinråvarer til kraftfôr.</p>
+    <p type="title">Kornhøsten bedre enn forventet</p>
+    <p>[15.09.2010]</p>
+    <p>Årets kornavlinger er store over hele landet. Men kvaliteten er preget av mye nedbør midt i innhøstingsperioden. Hvor mye som vil holde matkvalitet er foreløpig uvisst.</p>
+    <p type="title">Vil plukke fleire plommer</p>
+    <p>[10.09.2010]</p>
+    <p>Midtvegs i sesongen ligg det an til eit normalår med vel tusen tonn norske plommer. Det forventar næringa minst kan doblast. Svak økonomi i dyrking av eple og pære gjer at mange no satsar mye på plommer i alle fruktdyrkingsområda i Norge.</p>
+    <p type="title">Foregangsfylke for økologisk grønnsakproduksjon</p>
+    <p>[09.09.2010]</p>
+    <p>Flere fylker setter nå inn en ekstra innsats for å øke det økologiske grønnsaksarealet. Vestfold, Buskerud, Telemark og Østfold har som mål å produsere økologiske kvalitetsgrønnsaker på 15 prosent av grønnsakarealet i fylkene innen 2015.</p>
+    <p type="title">Økt erstatning ved avlingsskade i Troms</p>
+    <p>[03.09.2010]</p>
+    <p>Erstatningssatsen for avlingsskade i grovfôrproduksjon i Troms dobles for avlingsåret 2010. Dette er løsningen partene i jordbruksoppgjøret er kommet fram til for å møte den ekstraordinære situasjonen i fylket i år.</p>
+    <p type="title">Jordbruket oppnår i varierende grad målpris</p>
+    <p>[02.09.2010]</p>
+    <p>Målprisrapporten for 2009-2010 viser at for melk, egg og kornslagene har markedsregulatorene TINE, Nortura og Felleskjøpet tatt ut målprisen. Samtidig har ikke Nortura klart å ta ut målprisen for lam eller gris. Utviklingen i målprisen viser at økningen de siste fem årene er langt mindre enn forbrukerprisene på mange sektorer.</p>
+    <p type="title">Inntektsutvikling på rett vei</p>
+    <p>[26.08.2010]</p>
+    <p>Inntektene i jordbruket er vokst med 30.000 kroner per årsverk fra 2009 til 2010, viser Totalkalkylen for jordbruket. - Dette er gledelig. Inntektsutviklingen er på rett vei, sier landbruks- og matminister Lars Peder Brekk.</p>
+    <p type="title">Tiltakspakke i hveteåkeren</p>
+    <p>[23.08.2010]</p>
+    <p>Integrerte tiltak med vekstskifte, bekjempelse etter varsel om planteskadegjørere og sjukdomssterke sorter skal prøves ut i hveteåkeren. Sterkere sjukdomspress øker faren for redusert avling og kvalitet, og det er stor interesse for om en <span type="quote">"integrert tiltakspakke"</span> kan løse noen av utfordringene.</p>
+    <p type="title">Gode avlingsutsikter i Hedmark</p>
+    <p>[19.08.2010]</p>
+    <p>Det ser ut til å bli bra avlinger av de fleste vekster i Hedmark i år, rapporterer Fylkesmannens landbruksavdeling i siste fylkesnytt. I juli har det vært en spesiell kombinasjon av varmt og fuktig vær som har ført til en vekst Hedmark ikke har sett maken til.</p>
+    <p type="title">Norske epler på markedet</p>
+    <p>[18.08.2010]</p>
+    <p>Årets første tidligepler kommer i små mengder denne uken. Det er tidligsorten Geneva Early som nå markedsføres. Sesongen for norske plommer starter også nå med økende tilførsler av de første tidligsortene. Moreller er det lite av og salget går meget bra.</p>
+    <p type="title">God prognose for kornhøsten</p>
+    <p>[17.08.2010]</p>
+    <p>Høstens kornavling kan godt bli over normalen viser årets første avlingsprognose. Treskinga er i gang, med god kvalitet på det som har kommet inn. Felleskjøpets prognose baseres på data fra Bioforsk og Norsk Landbruksrådgiving, og den ligger hele 28 prosent over fjorårets resultat.</p>
+    <p type="title">Kvoter for kornauksjon</p>
+    <p>[17.08.2010]</p>
+    <p>Statens landbruksforvaltning (SLF) har vedtatt kvotestørrelser for kornauksjonene 19. august. Kvoteandelene som auksjoneres bort nå er 18 000 tonn matkorn, 75 000 tonn karbohydratråvarer og 6 000 tonn oljefrø.</p>
+    <p type="title">Kraftig prisoppgang på korn</p>
+    <p>[09.08.2010]</p>
+    <p>Forrige uke ble det kjent at Russland innfører midlertidig eksportstans på alt korn og kornprodukter. Det sender kornprisene internasjonalt til det høyeste nivået på to år.</p>
+    <p type="title">Svensk landbruk har krympet</p>
+    <p>[06.08.2010]</p>
+    <p>En tredel av åkerarealet og fire femdeler av alle jordbruksforetak er blitt borte i Sverige siden 1930-tallet, viser en rapport fra Jordbruksverket.</p>
+    <p type="title">Produksjonstilskudd i jordbruket</p>
+    <p>[02.08.2010]</p>
+    <p>Søknadsfrist for produksjonstilskudd i jordbruket er 20. august.</p>
+    <p type="title">Stigende kornpriser internasjonalt</p>
+    <p>[22.07.2010]</p>
+    <p>Dårlige værforhold i viktige kornproduserende land senker anslagene for årets avlinger og driver korn- og oljefrøprisene opp.</p>
+    <p type="title">Grenseverdier for rester av plantevernmidler</p>
+    <p>[29.06.2010]</p>
+    <p>Mattilsynet har vedtatt endringer i Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer.</p>
+    <p type="title">Jordbruksoppgjeret: Detaljane er avklart</p>
+    <p>[23.06.2010]</p>
+    <p>Jordbruksoppgjeret: Partane i jordbruksoppgjeret, staten og Norges Bondelag, er no samde om alle detaljane knytt til oppgjeret. Avtaledokumentet er no ute hos partane for signering.</p>
   </body>
 </document>

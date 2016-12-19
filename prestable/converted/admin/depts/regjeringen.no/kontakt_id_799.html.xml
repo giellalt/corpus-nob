@@ -1,33 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Oktavuohta - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Samferdselsdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>214</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>398</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/sd/dep/kontakt.html?id=799</origFileName>
-    <parallel_text location="oktavuohta.html_id=799" xml:lang="sme"/>
-    <parallel_text location="kontakt.html_id=799" xml:lang="nno"/>
-    <parallel_text location="contact.html_id=799" xml:lang="eng"/>
+    <parallel_text location="contact_id_799.html" xml:lang="eng"/>
+    <parallel_text location="kontakt_id_799.html" xml:lang="nno"/>
+    <parallel_text location="oktavuohta_id_799.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Kontaktinformasjon</p>
-    </section>
-    <p>Tips: For å liste ut alle
-                            ansatte i en enhet kan du la feltet for
-                            navn eller tlf.nr stå tomt.</p>
+    <p>Kontakt - regjeringen.no</p>
+    <p>Skriv inn navn eller tlf.nr:</p>
+    <p>Skriv inn navn eller tlf.nr:</p>
+    <p>Vis ansatte i</p>
+    <p>Vis ansatte i</p>
+    <p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
     <p><em type="bold">Besøksadresse </em>Akersg. 59, (R5) Oslo Kart (Gule Sider) </p>
     <p><em type="bold">Postadresse </em>Postboks 8010 Dep 0030 Oslo </p>
     <p><em type="bold">Telefon </em>Sentralbord 22 24 90 90 Telefaks: 22 24 95 70 Telefonliste </p>
@@ -40,20 +45,17 @@
       <em type="italic">Format for e-postadresser: </em>
     </p>
     <p>
-      <em type="italic">Regelen for e-postadressene er slik: </em>
+      <em type="italic">Regelen for e-postadressene er slik: </em>
       <em type="italic">eventuelt </em>
     </p>
     <p>
       <em type="italic">For bokstavene æ – ø – å prøv følgende: æ = a ø = o eller oe å = a eller aa </em>
     </p>
-    <section>
-      <p type="title">Om brev og e-post som sendes til
-                            Samferdselsdepartementet</p>
-    </section>
-    <p>Departementet er etter arkivloven ( lov av 4. desember 1992 nr. 126 ), med tilhørende forskrift av 11. desember 1998 nr. 1193 , forpliktet til å føre offentlig journal. I journalen skal alle inn- og utgående dokumenter føres opp, dersom dokumentet er gjenstand for saksbehandling og har verdi som dokumentasjon. Følgende opplysninger går som hovedregel fram av offentlig journal: Avsenders navn, mottakers navn, dokumentets dato og en kort beskrivelse av dokumentets innhold. Journalen blir imidlertid alltid ført på en slik måte at den ikke røper taushetsbelagte opplysninger. </p>
-    <p>Vil du ha et skriftlig svar, må du oppgi navn og ordinær postadresse. </p>
-    <p>E-post som etter form og innhold må regnes som et saksdokument, journalføres som dokumenter for øvrig. Massegenerert e-post vil etter en nærmere vurdering kunne bli gjenstad for elektronisk filtrering og dermed ikke bli journalført og saksbehandlet. </p>
-    <p>Departementet er forpliktet til å behandle alle dokumenter, inkludert e-post, i samsvar med bestemmelsene i offentleglova ( lov av 19. mai 2006 nr. 16 ). Det betyr blant annet at departementets journal og alle departementets saksdokumenter, inkludert all korrespondanse til og fra departementet, som hovedregel er offentlige. Den som ønsker det, kan be om innsyn i departementets journal og saksdokumenter etter offentleglova. Send derfor ikke brev eller e-poster til departementet med informasjon som du ikke ønsker skal bli allment kjent. </p>
-    <p>Dersom dokumentet inneholder taushetsbelagte opplysninger, vil disse bli strøket før det gis innsyn i dokumentet. Opplysninger om noens helsetilstand, og opplysninger om at noen er eller har vært pasient, er alltid taushetsbelagte. </p>
+    <p type="title">Om brev og e-post som sendes til Samferdselsdepartementet</p>
+    <p>Departementet er etter arkivloven ( lov av 4. desember 1992 nr. 126 ), med tilhørende forskrift av 11. desember 1998 nr. 1193 , forpliktet til å føre offentlig journal. I journalen skal alle inn- og utgående dokumenter føres opp, dersom dokumentet er gjenstand for saksbehandling og har verdi som dokumentasjon. Følgende opplysninger går som hovedregel fram av offentlig journal: Avsenders navn, mottakers navn, dokumentets dato og en kort beskrivelse av dokumentets innhold. Journalen blir imidlertid alltid ført på en slik måte at den ikke røper taushetsbelagte opplysninger.</p>
+    <p>Vil du ha et skriftlig svar, må du oppgi navn og ordinær postadresse.</p>
+    <p>E-post som etter form og innhold må regnes som et saksdokument, journalføres som dokumenter for øvrig. Massegenerert e-post vil etter en nærmere vurdering kunne bli gjenstad for elektronisk filtrering og dermed ikke bli journalført og saksbehandlet.</p>
+    <p>Departementet er forpliktet til å behandle alle dokumenter, inkludert e-post, i samsvar med bestemmelsene i offentleglova ( lov av 19. mai 2006 nr. 16 ). Det betyr blant annet at departementets journal og alle departementets saksdokumenter, inkludert all korrespondanse til og fra departementet, som hovedregel er offentlige. Den som ønsker det, kan be om innsyn i departementets journal og saksdokumenter etter offentleglova. Send derfor ikke brev eller e-poster til departementet med informasjon som du ikke ønsker skal bli allment kjent.</p>
+    <p>Dersom dokumentet inneholder taushetsbelagte opplysninger, vil disse bli strøket før det gis innsyn i dokumentet. Opplysninger om noens helsetilstand, og opplysninger om at noen er eller har vært pasient, er alltid taushetsbelagte.</p>
   </body>
 </document>

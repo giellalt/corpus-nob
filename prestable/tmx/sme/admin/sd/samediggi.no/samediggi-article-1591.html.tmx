@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-1591.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-1591.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Åpent seminar om Samefolkets fond - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rabas seminára Sámeálbmotfoandda geavaheapmi birra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Åpent seminar om Samefolkets fond</seg>
@@ -116,7 +126,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>11.30-12.10: John Gustavsen:"Den samiske kunsten i et nasjonelt byggverk.</seg>
+        <seg>11.30-12.10: John Gustavsen:"Den samiske kunsten i et nasjonelt</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>11.30-12.10: John Gustavsen: " Sámi dáidda nášunálalaš huksehusas boahtteáigge perspektiivvas "</seg>
@@ -124,7 +134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>12.10-13.00: Jon Todal: ” Muligheter og utfordringer ved å gjenreise samisk språk – fokus på språkplanlegging ”</seg>
+        <seg>12.10-13.00: Jon Todal: ” Muligheter og utfordringer ved å</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>12.10-13.00: Jon Todal: ” Vejolašvuođat ja hástalusat sámegiela ođđasit huksemis – go giellaplánen lea guovddážis</seg>
@@ -156,7 +166,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>gjenreise samisk kultur og språk ”</seg>
+        <seg>14.20-15.10: Harald Gaski: ” Muligheter og utfordringer ved å</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>14.20-15.10: Harald Gaski: ” Vejolašvuođat ja hástalusat sámegiela ja sámi kultuvrra ođđasit huksemis ”</seg>
@@ -164,7 +174,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>15.10- 15.40: Ánde Somby: ” Hvordan ta vare på og utvikle joikearven ? ”</seg>
+        <seg>15.10- 15.40: Ánde Somby: ” Hvordan ta vare på og utvikle</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>15.10- 15.40: Ánde Somby: ” Movt sáhtášii seailluhit ja ovddidit juoiganárbbi ? ”</seg>
@@ -200,22 +210,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>16.50-17.10: Aili Keskitalo:Loahpaheapmi ja čoahkkáigeassu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Hivand, Pål.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Hivand, Pål.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 31.01.2007</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 31.01.2007</seg>
       </tuv>
     </tu>
   </body>

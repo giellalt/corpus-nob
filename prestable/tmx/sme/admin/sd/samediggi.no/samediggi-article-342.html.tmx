@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-342.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-342.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets plenumsmøte 30. mai - 2. juni - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dievasčoahkkin miessemánu 30. b. - geassemánu 2. b. - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingets plenumsmøte 30. mai - 2. juni</seg>
@@ -15,7 +25,7 @@
         <seg>Sametingets siste plenumsmøte våren 2005 starter mandag 29. mai kl. 15.00.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámedikki maŋimuš dievasčoahkkin 2005 giđa álgá vuossárgga miessemánu 30. b. dii. 15.00.</seg>
+        <seg>Sámedikki maŋimuš dievasčoahkkin 2005 giđa álgá vuosárgga miessemánu 30. b. dii. 15.00.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,7 +105,7 @@
         <seg>Sak 35/05 Sametingets personalreglement</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ášši 35/05 Sámedikki bargiidnjuolggadusat</seg>
+        <seg>Ášši 35/05 Sámedikki bárgiidnjuolggadusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,45 +204,5 @@
         <seg>Ášši 37/05 Sámedikki čoahkkinplána 2005/2006</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Pål Hivand.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Pål Hivand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Første gang publisert 30.05.2005</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuosttaš geardde almmuhan 30.05.2005</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Offentlige dokumenter</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmolaš dokumeanta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Saksliste</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Áššelisttu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    </body>
+  </body>
 </tmx>

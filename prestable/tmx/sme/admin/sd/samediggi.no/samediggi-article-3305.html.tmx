@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3305.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3305.html.xml</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vellykket ungdomskonferanse 2009 50 ungdommer deltok på Sametingets ungdomskonferanse 23. - 25.</seg>
+        <seg>Vellykket ungdomskonferanse 2009 - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuoraid konferánsa lihkostuvai - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vellykket ungdomskonferanse 2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuoraid konferánsa lihkostuvai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>50 ungdommer deltok på Sametingets ungdomskonferanse 23. - 25. Oktober i Trondheim.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>50 nuora oasálaste Sámedikki nuoraidkonferánsa mii dollojuvvui golggotmánu 23. - 25. b. 2009 Troandimis</seg>
@@ -12,18 +30,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Gruppebilde samisk ungdomskonferanse Siri Wernberg</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 02.11.2009 Siri Wernberg</seg>
+        <seg>Siri Wernberg</seg>
       </tuv>
     </tu>
     <tu>
@@ -108,11 +118,11 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Resolusjon samisk versjon</seg>
+        <seg>Se link nedenfor.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geahča liŋkka vuolábealde.</seg>
       </tuv>
     </tu>
-    </body>
+  </body>
 </tmx>

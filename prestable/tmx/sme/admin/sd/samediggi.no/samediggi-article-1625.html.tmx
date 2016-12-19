@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-1625.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-1625.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>" Vávvu " av Synnøve Persen - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Synnøve Persena dahkan málagovva " Vávvu " - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>" Vávvu " av Synnøve Persen</seg>
@@ -23,7 +33,7 @@
         <seg>Det er hennes oljemaleri " Vávvu " som overrekkes H.M. kong Harald V i 70 års gave fra Sametinget.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Su oljomálagovva " Vávvu " dat lea mii dál lea geigejuvvon G. M. gonagasa Harald Vii 70-jagi skeaŋkan Sámedikkis.</seg>
+        <seg>Synnøve Persena dahkan málagovva " Vávvu ".</seg>
       </tuv>
     </tu>
     <tu>
@@ -55,7 +65,7 @@
         <seg>Persen tok kunstutdannelse på begynnelsen av 1970-tallet, først ved Granums tegne- og maleskole i Oslo (1971), så ved Kunstskolen i Trondheim (1972) og deretter ved Statens Kunstakademi (1972-1978) i Oslo.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Persen čađahii dáiddaoahpu álgogeahčen 1970-jagi, vuos Granuma sárgun- ja njuohtanskuvllas Oslos (1971), ja de Troandima dáiddaskuvllas (1972) ja dasto Stáhta dáiddaakademiijas (1972-1978) Oslos.</seg>
+        <seg>Persen čađahii dáiddaoahpu álgogeahčen 1970-jagi, vuos Granuma sárgun- ja njuohtanskuvllas Oslos (1971), ja de Troanddima dáiddaskuvllas (1972) ja dasto Stáhta dáiddaakademiijas (1972-1978) Oslos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,38 +82,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Persen lea dan lassin almmuhan máŋga diktačoakkáldaga, ja okta dain, " Biekkakeahtes Balggis ", nammaduvvui Davviriikkaid Ráđi girjjálašvuođabálkkašupmái 1992.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Hivand, Pål.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Hivand, Pål.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 21.02.2007</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 21.02.2007</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Filer</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Synnøve Persen - CV</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Synnøve Persen - CV</seg>
       </tuv>
     </tu>
   </body>

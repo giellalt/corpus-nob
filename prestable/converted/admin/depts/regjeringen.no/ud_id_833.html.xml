@@ -1,168 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>Olgoriikadepartemeanta - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Utenriksdepartementet" sex="unknown" born="" nationality=""/>
     </author>
-    <wordcount>228</wordcount>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>681</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <origFileName>http://regjeringen.no/nb/dep/ud.html?id=833</origFileName>
-    <parallel_text location="ud.html_id=833" xml:lang="sme"/>
-    <parallel_text location="ud.html_id=833" xml:lang="nno"/>
-    <parallel_text location="ud.html_id=833" xml:lang="eng"/>
+    <parallel_text location="ud_id_833.html" xml:lang="eng"/>
+    <parallel_text location="ud_id_833.html" xml:lang="nno"/>
+    <parallel_text location="ud_id_833.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <section>
-      <p type="title">Utenriksminister</p>
-    </section>
-    <section>
-      <p type="title">Jonas Gahr Støre</p>
-    </section>
-    <p>Taler og artikler </p>
-    <p>Kalender </p>
-    <p>Bilder </p>
-    <p>Mer om ministeren </p>
-    <section>
-      <p type="title">Miljø- og utviklingsminister</p>
-    </section>
-    <section>
-      <p type="title">Erik Solheim</p>
-    </section>
-    <p>Taler og artikler </p>
-    <p>Kalender </p>
-    <p>Bilder </p>
-    <p>Mer om ministeren </p>
-    <section>
-      <p type="title">
-                      Statsbudsjettet 2011</p>
-    </section>
-    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Derfor foreslår regjeringen å bevilge 1,2 milliarder kroner til ulike nordområdetiltak neste år i tråd med handlingsplanen ”Nye byggesteiner i Nord”. Regjeringen gir også 27,1 milliarder kroner til kampen mot fattigdom i 2011. </p>
-    <section>
-      <p type="title">
-                      Endringer i Norges diplomatiske nærvær i
-                      utlandet</p>
-    </section>
-    <p>Utenriksdepartementet (UD) vil styrke sitt diplomatiske nærvær i en rekke land i 2011, dette gjelder blant annet i Brasil, India, Indonesia, Kina og Russland. For å rydde plass til denne satsingen vil fem utenriksstasjoner bli avviklet, og det vil bli gjennomført personellreduksjoner ved enkelte øvrige stasjoner. </p>
-    <section>
-      <p type="title">
-                      Dobler støtten til ren energi</p>
-    </section>
-    <p>Regjeringen foreslår en storsatsing på energisamarbeid med utviklingsland i 2011. Målet er økonomisk utvikling, færre fattige og lavere klimautslipp. </p>
-    <section>
-      <p type="title">
-                      Norge oppfordrer til å fortsette
-                      fredsforhandlingene</p>
-    </section>
-    <p>Fredsforhandlingene mellom Israel og PLO er kommet inn i en kritisk fase. – Jeg oppfordrer Israel og palestinerne til å gjøre sitt ytterste for å legge til rette for fortsatte forhandlinger, sier utenriksminister Jonas Gahr Støre. </p>
-    <section>
-      <p type="title">
-                      Norge signerer avtale med kyststater i
-                      Afrika</p>
-    </section>
-    <p>Miljø- og utviklingsminister Erik Solheim signerer avtale med seks land i Afrika. Avtalen kan hjelpe landene til å få råderett over egen olje og gass. </p>
-    <section>
-      <p type="title">
-                      UD starter blogg</p>
-    </section>
-    <p>Utenriksdepartementet er allerede på Facebook og Twitter. Nå ønsker vi mer åpenhet og dialog og lanserer en egen blogg – ”Norge i verden”. </p>
-    <section>
-      <p type="title">
-                  Nyheter fra Utenriksdepartementet</p>
-    </section>
-    <section>
-      <p type="title">Atomkommisjonsmøtet i Murmansk</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk. </p>
-    <section>
-      <p type="title">Nord og sør – sammen i nord</p>
-    </section>
-    <section>
-      <p type="title">
-                      Forord til publikasjon: Nordområdesatsingen.
-                      Status oktober 2010</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Slik har det vært siden 2005 – og slik vil det fortsette, skriver utenriksminister Jonas Gahr Støre i dette forordet. </p>
-    <section>
-      <p type="title">Styrket klimaprofil i
-                      utviklingspolitikken</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>Regjeringen gir 27,1 milliarder kroner til kampen mot fattigdom i 2011. Økt innsats på ren energi og klimatilpasning styrker klimaprofilen. </p>
-    <section>
-      <p type="title">1,2 milliarder til nordområdesatsingen i
-                      2011</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Derfor foreslår regjeringen å bevilge 1,2 milliarder kroner til ulike nordområdetiltak neste år i tråd med handlingsplanen ”Nye byggesteiner i Nord”. </p>
-    <section>
-      <p type="title">Dobler støtten til ren energi</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>Regjeringen foreslår en storsatsing på energisamarbeid med utviklingsland i 2011. Målet er økonomisk utvikling, færre fattige og lavere klimautslipp. </p>
-    <section>
-      <p type="title">Endringer i Norges diplomatiske nærvær i
-                      utlandet</p>
-    </section>
-    <p>[05.10.2010] </p>
-    <p>Utenriksdepartementet (UD) vil styrke sitt diplomatiske nærvær i en rekke land i 2011, dette gjelder blant annet i Brasil, India, Indonesia, Kina og Russland. For å rydde plass til denne satsingen vil fem utenriksstasjoner bli avviklet, og det vil bli gjennomført personellreduksjoner ved enkelte øvrige stasjoner. </p>
-    <section>
-      <p type="title">Vedtak for likestilling i FNs
-                      menneskerettighetsråd</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>I et enstemmig vedtak 1. oktober besluttet FNs menneskerettighetsråd å opprette en arbeidsgruppe med fokus på å avskaffe diskriminering av kvinner. Arbeidsgruppen skal komme med konkrete anbefalinger til hvordan medlemslandene kan avskaffe kvinnediskriminering, både i lovverk og i praksis. </p>
-    <section>
-      <p type="title">Møtte Norge første dag i ny
-                      jobb</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>Lederen av FNs nye likestillingsenhet, Michelle Bachelet, tok 4. oktober imot statssekretær Espen Barth Eide på sitt nye kontor. Det var Bachelets første bilaterale møte på hennes første dag som sjef for UN Women. </p>
-    <section>
-      <p type="title">Praktikant til ambassaden i
-                      Haag</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>Ambassaden i Haag tilbyr praktikantopphold for norske studenter fra norske eller utenlandske læresteder. </p>
-    <section>
-      <p type="title">Praktikantopphold ved ambassaden i
-                      Zagreb</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>Den norske ambassaden i Zagreb kan tilby en praktikantplass for norske viderekommende studenter/nyutdannede. Praktikantoppholdet begynner 3. januar 2011 og er av 4-6 måneders varighet. </p>
-    <section>
-      <p type="title">Praktikantopphald ved ambassaden i Paris
-                      våren 2011</p>
-    </section>
-    <p>[04.10.2010] </p>
-    <p>Ambassaden i Paris har etablert ei eiga praktikantordning for norske (vidarekomne) studentar og nyutdanna frå norske eller utanlandske lærestadar. </p>
-    <section>
-      <p type="title">Støre til Bodø i forbindelse med
-                      framlegging av statsbudsjettet</p>
-    </section>
-    <section>
-      <p type="title">
-                      Priv. til red.</p>
-    </section>
-    <p>[01.10.2010] </p>
-    <p>Utenriksminister Støre møter Fylkestinget i Nordland og besøker Bodø havn og Hovedredningssentralen Nord-Norge 5. oktober. </p>
-    <section>
-      <p type="title">Studentpraktikant ved ambassaden i Dar
-                      es Salaam</p>
-    </section>
-    <p>[01.10.2010] </p>
-    <p>Ambassaden i Dar es Salaam tilbyr et 6 måneders praktikantopphold (internship) for en student, med start fra januar 2011. </p>
-    <p>Flere... </p>
+    <p>Utenriksdepartementet - regjeringen.no</p>
+    <p type="title">Utenriksminister</p>
+    <p type="title">Jonas Gahr  Støre</p>
+    <p>Taler og artikler</p>
+    <p>Kalender</p>
+    <p>Bilder</p>
+    <p>Mer om ministeren</p>
+    <p type="title">Miljø- og utviklingsminister</p>
+    <p type="title">Erik Solheim</p>
+    <p>Taler og artikler</p>
+    <p>Kalender</p>
+    <p>Bilder</p>
+    <p>Mer om ministeren</p>
+    <p type="title">Statsbudsjettet 2011</p>
+    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Derfor foreslår regjeringen å bevilge 1,2 milliarder kroner til ulike nordområdetiltak neste år i tråd med handlingsplanen <span type="quote">”Nye byggesteiner i Nord”</span>. Regjeringen gir også 27,1 milliarder kroner til kampen mot fattigdom i 2011.</p>
+    <p type="title">Endringer i Norges diplomatiske nærvær i utlandet</p>
+    <p>Utenriksdepartementet (UD) vil styrke sitt diplomatiske nærvær i en rekke land i 2011, dette gjelder blant annet i Brasil, India, Indonesia, Kina og Russland. For å rydde plass til denne satsingen vil fem utenriksstasjoner bli avviklet, og det vil bli gjennomført personellreduksjoner ved enkelte øvrige stasjoner.</p>
+    <p type="title">Dobler støtten til ren energi</p>
+    <p>Regjeringen foreslår en storsatsing på energisamarbeid med utviklingsland i 2011. Målet er økonomisk utvikling, færre fattige og lavere klimautslipp.</p>
+    <p type="title">Norge oppfordrer til å fortsette fredsforhandlingene</p>
+    <p>Fredsforhandlingene mellom Israel og PLO er kommet inn i en kritisk fase. – Jeg oppfordrer Israel og palestinerne til å gjøre sitt ytterste for å legge til rette for fortsatte forhandlinger, sier utenriksminister Jonas Gahr Støre.</p>
+    <p type="title">Norge signerer avtale med kyststater i Afrika</p>
+    <p>Miljø- og utviklingsminister Erik Solheim signerer avtale med seks land i Afrika. Avtalen kan hjelpe landene til å få råderett over egen olje og gass.</p>
+    <p type="title">UD starter blogg</p>
+    <p>Utenriksdepartementet er allerede på Facebook og Twitter. Nå ønsker vi mer åpenhet og dialog og lanserer en egen blogg – <span type="quote">”Norge i verden”</span>.</p>
+    <p type="title">Nyheter fra Utenriksdepartementet</p>
+    <p type="title">Atomkommisjonsmøtet i Murmansk</p>
+    <p>[05.10.2010]</p>
+    <p>3. – 4. oktober ledet statsekretær Erik Lahnstein den norske delegasjonen under det årlige møtet i den norsk-russiske atomkommisjonen. Møtet fant sted i Murmansk.</p>
+    <p type="title">Nord og sør – sammen i nord</p>
+    <p type="title">Forord til publikasjon: Nordområdesatsingen. Status oktober 2010</p>
+    <p>[05.10.2010]</p>
+    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Slik har det vært siden 2005 – og slik vil det fortsette, skriver utenriksminister Jonas Gahr Støre i dette forordet.</p>
+    <p type="title">Styrket klimaprofil i utviklingspolitikken</p>
+    <p>[05.10.2010]</p>
+    <p>Regjeringen gir 27,1 milliarder kroner til kampen mot fattigdom i 2011. Økt innsats på ren energi og klimatilpasning styrker klimaprofilen.</p>
+    <p type="title">1,2 milliarder til nordområdesatsingen i 2011</p>
+    <p>[05.10.2010]</p>
+    <p>Nordområdene er regjeringens viktigste strategiske satsingsområde i utenrikspolitikken. Derfor foreslår regjeringen å bevilge 1,2 milliarder kroner til ulike nordområdetiltak neste år i tråd med handlingsplanen <span type="quote">”Nye byggesteiner i Nord”</span>.</p>
+    <p type="title">Dobler støtten til ren energi</p>
+    <p>[05.10.2010]</p>
+    <p>Regjeringen foreslår en storsatsing på energisamarbeid med utviklingsland i 2011. Målet er økonomisk utvikling, færre fattige og lavere klimautslipp.</p>
+    <p type="title">Endringer i Norges diplomatiske nærvær i utlandet</p>
+    <p>[05.10.2010]</p>
+    <p>Utenriksdepartementet (UD) vil styrke sitt diplomatiske nærvær i en rekke land i 2011, dette gjelder blant annet i Brasil, India, Indonesia, Kina og Russland. For å rydde plass til denne satsingen vil fem utenriksstasjoner bli avviklet, og det vil bli gjennomført personellreduksjoner ved enkelte øvrige stasjoner.</p>
+    <p type="title">Vedtak for likestilling i FNs menneskerettighetsråd</p>
+    <p>[04.10.2010]</p>
+    <p>I et enstemmig vedtak 1. oktober besluttet FNs menneskerettighetsråd å opprette en arbeidsgruppe med fokus på å avskaffe diskriminering av kvinner. Arbeidsgruppen skal komme med konkrete anbefalinger til hvordan medlemslandene kan avskaffe kvinnediskriminering, både i lovverk og i praksis.</p>
+    <p type="title">Møtte Norge første dag i ny jobb</p>
+    <p>[04.10.2010]</p>
+    <p>Lederen av FNs nye likestillingsenhet, Michelle Bachelet, tok 4. oktober imot statssekretær Espen Barth Eide på sitt nye kontor. Det var Bachelets første bilaterale møte på hennes første dag som sjef for UN Women.</p>
+    <p type="title">Praktikant til ambassaden i Haag</p>
+    <p>[04.10.2010]</p>
+    <p>Ambassaden i Haag tilbyr praktikantopphold for norske studenter fra norske eller utenlandske læresteder.</p>
+    <p type="title">Praktikantopphold ved ambassaden i Zagreb</p>
+    <p>[04.10.2010]</p>
+    <p>Den norske ambassaden i Zagreb kan tilby en praktikantplass for norske viderekommende studenter/nyutdannede. Praktikantoppholdet begynner 3. januar 2011 og er av 4-6 måneders varighet.</p>
+    <p type="title">Praktikantopphald ved ambassaden i Paris våren 2011</p>
+    <p>[04.10.2010]</p>
+    <p>Ambassaden i Paris har etablert ei eiga praktikantordning for norske (vidarekomne) studentar og nyutdanna frå norske eller utanlandske lærestadar.</p>
+    <p type="title">Støre til Bodø i forbindelse med framlegging av statsbudsjettet</p>
+    <p type="title">Priv. til red.</p>
+    <p>[01.10.2010]</p>
+    <p>Utenriksminister Støre møter Fylkestinget i Nordland og besøker Bodø havn og Hovedredningssentralen Nord-Norge 5. oktober.</p>
+    <p type="title">Studentpraktikant ved ambassaden i Dar es Salaam</p>
+    <p>[01.10.2010]</p>
+    <p>Ambassaden i Dar es Salaam tilbyr et 6 måneders praktikantopphold (internship) for en student, med start fra januar 2011.</p>
   </body>
 </document>

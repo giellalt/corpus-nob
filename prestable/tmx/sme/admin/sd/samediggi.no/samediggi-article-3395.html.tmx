@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3395.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3395.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - areal, miljø- og kulturvern - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - areálat, birasgáhtten ja kultursuodjaleapmi - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søkerbaserte tilskudd - areal, miljø- og kulturvern</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcanvuđot doarjagat - areálat, birasgáhtten ja kultursuodjaleapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 04.01.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 04.01.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,7 +198,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Utbetalingsvilkår:</seg>
+        <seg>Beregningsregler:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Máksineavttut:</seg>
@@ -271,7 +265,7 @@
         <seg>Regnskapsoppstillingen skal være sammenlignbar med godkjent kostnadsoverslag</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rehketdoalu galgá sáhttit buohtastahttit dohkkehuvvon gollomeroštallamiin</seg>
+        <seg>Doarjja gitta 50 % rádjai dohkkehuvvon oktasašruhtadangoluin, eanemusat 200 000 ru</seg>
       </tuv>
     </tu>
     <tu>
@@ -279,7 +273,7 @@
         <seg>For øvrig gjelder regelverket fastsatt av Sametinget i sak 43/07 Revisjon av Sametingets søkerbaserte tilskuddsforvaltning.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muđui gustojit dat njuolggadusat maid Sámediggi lea mearridan áššis 43/07 Daid doarjagiid hálddašeami ođasmahttin maid Sámedikkis sáhttá ohcat.</seg>
+        <seg>Ásahusat ja organisašuvnnat mat ožžot doaibmadoarjaga stáhtas, eai oaččo dábálaččat doarjaga hálddahusgoluide dán ortnegis.</seg>
       </tuv>
     </tu>
     <tu>

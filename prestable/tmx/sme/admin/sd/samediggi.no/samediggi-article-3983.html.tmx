@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3983.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3983.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingsrådets seminar – Evaluering av tilskudd til samiske barnehager - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki seminára – Sámi mánáidgárddiid doarjaga evalueren - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametingsrådets seminar – Evaluering av tilskudd til samiske barnehager</seg>
@@ -20,7 +30,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Seminaret varer fra kl.09. 00 - 12.00.</seg>
+        <seg>Seminaret varer fra kl.09.00 - 12.00.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seminára bistá dii. 09.00 rájes dii. 12.00 rádjai.</seg>
@@ -55,7 +65,7 @@
         <seg>09.10 - 09.40 Presentasjon av evaluering av Sametingets tilskudd til samiske barnehager v / Veslemøy Kristine Dahl, Asplan Viak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>09.10 - 09.40 Asplan Viak ovdanbuktá árvvoštallama: Sámedikki doarjja sámi mánáidgárddiide Veslemøy Kristine Dahl bokte, Asplan Viak</seg>
+        <seg>09.10 - 09.40 Asplan Viak ovdanbuktá árvvoštallama: Samedikki doarjja sámi mánáidgárddiide Veslemøy Kristine Dahl bokte, Asplan Viak</seg>
       </tuv>
     </tu>
     <tu>
@@ -63,7 +73,7 @@
         <seg>09. 40 - 10. 00 Áltta siidas erfaringer med tilskudd til samiske barnehager v / Inga Kristine Siri, daglig leder Álttá Siida, Alta</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>09.40 - 10.00 Áltá siidda vásáhusat sámi mánáidgárddiid doarjaga ektui Inga Kristine Siri bokte, beaivválaš jođiheaddji Álttá Siida</seg>
+        <seg>09.40 - 10.00 Áltta siidda vásáhusat sámi mánáidgárddiid doarjaga ektui Inga Kristine Siri bokte, beaivválaš jođiheaddji Álttá Siida</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,7 +105,7 @@
         <seg>11. 10 - 11.40 Diskusjon / debatt om Sametingets tilskudd til samiske barnehager</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>11.10 - 11.40 Digaštallan Sámedikki doarjaga birra sámi mánáidgárddiide</seg>
+        <seg>11.10 - 11.40 Digáštallan Sámedikki doarjaga birra sámi mánáidgárddiide</seg>
       </tuv>
     </tu>
     <tu>
@@ -103,7 +113,7 @@
         <seg>11. 40 - 1 1. 50 Oppsummering av debatten / avslutning v / Sametingsrådet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>11.40 - 11.50 Digaštallama oktiigeassu / Loahpaheapmi. Sámediggeráđi bokte</seg>
+        <seg>11.40 - 11.50 Digáštallama oktiigeassu / Loahpaheapmi. Sámediggeráđi bokte</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,34 +134,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
+        <seg>Ordningen som har blitt evaluert består av tre tiltak: særskilt tilskudd til samiske barnehager, tilsudd til språkopplæring for samiske barn og prosjekttilskudd.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
+        <seg>Ortnegis mii lea evalueren leat golbma doaibmabiju. Sierra doarjja sámi mánáidgárddiide, doarjja sámi mánáid giellaoahpahussii ja prošeaktadoarjja.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sist endret 16.11.2010 artikler</seg>
+        <seg>Du kan lese hele rapporten her.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 16.11.2010</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Artikkel - Evaluering av Sametingets tilskudd...</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Artihkkalat Sámi mánáidgárddiid doarjaga evalueren</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Artikkel - Sametingets komitémøter i november...</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámedikki lávdegoddečoahkkin 2010 skábmamánus</seg>
+        <seg>Olles raportta sáhtát lohkat dákko.</seg>
       </tuv>
     </tu>
   </body>

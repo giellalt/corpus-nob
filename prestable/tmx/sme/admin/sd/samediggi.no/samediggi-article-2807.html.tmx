@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-2807.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-2807.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ledig stilling: Kommunikasjonsdirektør 2. gangsutlysning - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rabas virgi: Gulahallandirektevra 2. gearddealmmuheapmi - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Ledig stilling: Kommunikasjonsdirektør 2.</seg>
@@ -132,10 +142,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Stillingene er plassert i stillingskode 1060 Avdelingsdirektør, ltr.70- 80. Det trekkes 2% innskudd til Statens pensjonskasse.</seg>
+        <seg>Stillingene er plassert i stillingskode 1060 Avdelingsdirektør, ltr.70-80.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Virgi lea biddjon virgekodii 1060 Ossodatdirektevra, bc.70- 80. Bálkkás gessojuvvo 2% Stáhta penšuvdnakássii.</seg>
+        <seg>Virgi lea biddjon virgekodii 1060 Ossodatdirektevra, bc.70-80.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det trekkes 2% innskudd til Statens pensjonskasse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkás gessojuvvo 2% Stáhta penšuvdnakássii.</seg>
       </tuv>
     </tu>
     <tu>

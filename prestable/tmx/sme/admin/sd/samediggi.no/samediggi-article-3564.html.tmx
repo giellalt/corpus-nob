@@ -1,26 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3564.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3564.html.xml</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Sametinget feiret kvinnedagen 8. mars - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ávvuda nissonbeaivvi njukčamánu 8. b. - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Sametinget feiret kvinnedagen 8. mars</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámediggi ávvuda nissonbeaivvi njukčamánu 8. b..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sametinget feiret kvinnedagen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámediggi ávvudii nissonbeaivvi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Ragnhild Dahlheim Eriksen, Hagbart Grønmo og Kirsti Bergstø holdt innlegg på Sametingets likestillingsseminar 08.03.10.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ragnhild Dahlheim Eriksen, Hagbart Grønmo ja Kirsti Bergstø dolle sáhkavuoruid dásseárvosemináras njukčamánu 8.</seg>
@@ -28,18 +22,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
+        <seg>Sametinget feiret kvinnedagen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 09.03.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 09.03.2010</seg>
+        <seg>beaivvi Sámedikkis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60,7 +46,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Politisk rådgiver for sametingsrådet Hagbart Grønmo åpnet seminaret. Nestleder i det nye kvinnepanelet Kirsti Bergstø og medlem i kvinnepanelet Ragnhild Dahlheim Eriksen holdt appeller.</seg>
+        <seg>Politisk rådgiver for sametingsrådet Hagbart Grønmo åpnet seminaret.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Politihkalaš ráđđeaddi Hagbart Grønmo rabai seminára, ođđa Nissonpanela nubbinjođiheaddji Kirsti Bergstø ja Nissonpanela lahttu Ragnhild Dahlheim Eriksen doalaiga sáhkavuoru.</seg>
@@ -68,42 +54,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Filer</seg>
+        <seg>Nestleder i det nye kvinnepanelet Kirsti Bergstø og medlem i kvinnepanelet Ragnhild Dahlheim Eriksen holdt appeller.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fiillat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8. mars tale Kirsi Bergstø</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Kirsti Bergstø nissonbeaivvi sárdni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8. mars tale Hagbart Grønmo</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Hagbart Grønmo nissonbeaivvi sárdni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>sametingets handlinsplan</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámedikki dássearvodoaibmaplana</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>8. mars tale Ragnhild Dahlheim Eriksen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ragnhild Dahlheim Eriksen nissonbeaivvi sárdni</seg>
+        <seg>Seminára loahpahuvvo rabas ságastallamiin dásseárvohástalusaid birra sámi servodagas.</seg>
       </tuv>
     </tu>
   </body>

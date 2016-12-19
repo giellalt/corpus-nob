@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-771.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-771.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>PRM.:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>PRD.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget og Finnmark fylkeskommune vil fortsatt utvikle samisk musikk - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ja Finnmárkku fylkkagielda áigot ain ovdánahttit sámi musihka - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>PRM.:</seg>
@@ -36,22 +54,6 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Publisert av Pål Hivand.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Pål Hivand.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Første gang publisert 25.11.2005</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuosttaš geardde almmuhan 25.11.2005</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Det konkrete innholdet i prosjektet er ny avdeling i Musikk i Finnmark, som skal legge til rette for og videreutvikle musikk som baserer seg på samisk språk og kultur.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -79,7 +81,7 @@
         <seg>- Sametinget ønsker velkommen en satsing på faglig utvikling av samisk musikk, sier sametingspresident Aili Keskitalo.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>- Sámediggi háliida áinnas áŋgiruššat ovdánahttit sámi musihka fágalaččat, dadjá sámediggepresideanta Aili Keskitalo.</seg>
+        <seg>- Sámediggi háliida áinnas áŋgiruššat ovdánahttit sámi musihka fágalaččat, dadjá sámedikkepresideanta Aili Keskitalo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3766.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3766.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget er fornøyd med Kongekrabbekvoten - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea duhtavaš Gonagasreabbábivdoeriin - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Sametinget er fornøyd med Kongekrabbekvoten</seg>
@@ -15,7 +25,7 @@
         <seg>Fiskeri- og kystdepartementet har nå fastsatt totalkvote og reguleringer for fangst av kongekrabbe for 2010/2011. - Vi er fornøyd fordi Sametinget har fått gjennomslag for sitt syn i mange og avgjørende punkter, sier sametingspresident Egil Olli.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guolástus- ja riddodepartemeanta lea dál mearridan ollislaš bivdoeari ja movt gonagasreabbá ­bivdu galgá regulerejuvvot jagiin 2010/2011. - Mii leat duhtavaččat danne go Sámediggi lea ožžon miehtama ollu ja mearrideaddji čuoggáide, dadjá Sámedikki presideanta Egil Olli.</seg>
+        <seg>Guolástus- ja riddodepartemeanta lea dál mearridan ollislaš bivdoeari ja movt gonagasreabbábivdu galgá regulerejuvvot jagiin 2010/2011. - Mii leat duhtavaččat danne go Sámediggi lea ožžon miehtama ollu ja mearrideaddji čuoggáide, dadjá Sámedikki presideanta Egil Olli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31,7 +41,7 @@
         <seg>http://www.regjeringen.no/nb/dep/fkd/pressesenter/pressemeldinger/2010/Reguleringer-for-fangst-av-kongekrabbe-i-20102011.html?id=608354#) Porsangerfjorden er nå innlemmes i det kvoteregulerte området og den nordlige grensen for det regulerte området er flyttet lengre ut fra land, slik Sametinget foreslo.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>http://www.regjeringen.no/nb/dep/fkd/pressesenter/pressemeldinger/2010/Reguleringer-for-fangst-av-kongekrabbe-i-20102011.html?id=608354#) Porsáŋgguvuotna gullá dál bivdoearreregulerejuvvon guvlui ja regulerejuvvon guovllu davimus rádji lea sirdojuvvon guhkkelii eret nannámis, nie movt Sámediggi evttohii.</seg>
+        <seg>http://www.regjeringen.no/nb/dep/fkd/pressesenter/pressemeldinger/2010/Reguleringer-for-fangst-av-kongekrabbe-i-20102011.html?id=608354#)</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,22 +90,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>- Gonagasreabbábivdu lea deaŧalaš ollu guolásteddjiide ja báikegottiide, ja mii leat danne duhtavaččat bivdoeriin mii lea mearriduvvon, dadjá Sámedikki presideanta Egil Olli.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Østby, Jan Roger.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Østby, Jan Roger.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 16.06.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 16.06.2010</seg>
       </tuv>
     </tu>
     <tu>

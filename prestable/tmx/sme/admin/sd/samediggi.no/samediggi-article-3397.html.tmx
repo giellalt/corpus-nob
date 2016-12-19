@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tmx>
-  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext"><prop type="x-filename">samediggi-article-3397.html.tmx</prop></header>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">samediggi-article-3397.html.xml</prop>
+  </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søkerbaserte tilskudd - kultur - Sámediggi Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanvuđot doarjagat - kultuvra - Sámediggi Sametinget</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søkerbaserte tilskudd - kultur</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcanvuđot doarjagat - kultuvra</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Publisert av Holmgren, Hanne.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmuhan Holmgren, Hanne.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Sist endret 10.09.2010</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimustá rievdaduvvon 10.09.2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -103,7 +97,7 @@
         <seg>Utøveren må være tilknyttet et idrettslag / - organisasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Valáštalli galgá leat miellahttun soames valáštallanjoavkkus / - organisašuvnnas</seg>
+        <seg>Valáštalli galgá leat mielláhttun soames valáštallanjoavkkus / - organisašuvnnas</seg>
       </tuv>
     </tu>
     <tu>
@@ -143,12 +137,20 @@
         <seg>Utbetalingen av stipendene vil skje ved utsendelse av sametingsrådets vedtak</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Stipeanda máksojuvvo go Sámediggeráđi mearrádus sáddejuvvo olggos. Meroštallannjuolggadusat:</seg>
+        <seg>Stipeanda máksojuvvo go Sámediggeráđi mearrádus sáddejuvvo olggos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Beregningsregler: Det gis to stipend á kr 50 000.</seg>
+        <seg>Beregningsregler:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meroštallannjuolggadusat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det gis to stipend á kr 50 000.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Guokte stipeandda juolluduvvojit, goabbáge 50 000 ru..</seg>
@@ -303,7 +305,15 @@
         <seg>Det ytes ikke ytterligere tilskudd til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dán prošektii dahje vejolaš liigegoluide ii addojuvvo šat eanet doarjja Doarjjaortnegii eai gula:</seg>
+        <seg>Dán prošektii dahje vejolaš liigegoluide ii addojuvvo šat eanet doarjja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilskuddsordningen omfatter ikke:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doarjjaortnegii eai gula:</seg>
       </tuv>
     </tu>
     <tu>
@@ -335,7 +345,7 @@
         <seg>Vitenskapelige avhandlinger, forskningsrapporter og utredninger</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dieđalaš nákkosgirjjit, dutkanraporttat ja čielggadusat Meroštallannjuolggadusat:</seg>
+        <seg>Dieđalaš nákkosgirjjit, dutkanraporttat ja čielggadusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -343,7 +353,7 @@
         <seg>Beregningsregler:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>a) Čállihonorar</seg>
+        <seg>Meroštallannjuolggadusat:</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,7 +361,7 @@
         <seg>a) Forfatterhonorar - Faglitteratur kr 85 000 - Honorar for oversetting av faglitteratur, inntil kr 1 500 pr. side med 2000 anslag - Romaner, noveller og fortellinger kr 85 000 - Dikt, skuespill kr 75 000 - Småbarnsbøker kr 55 000 - Honorar for oversetting av skjønnlitteratur, inntil kr 1 500 pr. side med 2000 anslag</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>- Honorára fágagirjjálašvuođa jorgaleami ovddas, gitta 1 500 ru rádjai juohke siiddus mas leat 2000 čállinguoskkahaga</seg>
+        <seg>- Girjjálašvuođa jorgalanhonorára, gitta 1 500 ru rádjai juohke siiddus 2000 guoskkahagain</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,7 +441,7 @@
         <seg>c) Illustrasjonskostnader Illustrasjonshonorarer avtales i hvert enkelt tilfelle med billedkunstneren / illustratøren.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>c) Illustrašuvdnagolut Illustrašuvdnamávssut šiehtaduvvojit juohke eaŋkildilis govvadáiddáriin / illustrerejeaddjiin.</seg>
+        <seg>Illustrašuvdnamávssut šiehtaduvvojit juohke eaŋkildilis govvadáiddáriin / illustrerejeaddjiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -460,7 +470,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>d) Generelle kostnader I tillegg kan det av utgiftene under pkt. b) beregnes inntil 75 % til generelle kostnader for trykte bøker og inntil 40% for lydbøker Generelle kostnader omfatter andre utgifter forlaget har til utvikling av boka utenom det som fremkommer i punkt b).</seg>
+        <seg>d) Generelle kostnader I tillegg kan det av utgiftene under pkt. b) beregnes inntil 75 % til generelle kostnader for trykte bøker og inntil 40% for lydbøker</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dan lassin sáhttá b) čuoggá goluin rehkenastit gitta 75 % oppalaš gollun prentejuvvon girjjiide ja gitta 40% rádjai jietnagirjjiin Oppalaš gollun lohkkojuvvojit eará golut mat lágádusas leat girjji ráhkadeapmái lassin daidda mat bohtet ovdan čuoggás b).</seg>
@@ -468,10 +478,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det kan blant annet være utgifter forlaget har til husleie, kontoradministrasjon, reiser, eksterne konsulenttjenester, opphavsrettigheter, faglig kvalitetssikring, bilderedigering og lignende</seg>
+        <seg>Generelle kostnader omfatter andre utgifter forlaget har til utvikling av boka utenom det som fremkommer i punkt b).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dat sáhttet earret eará leat golut mat lágadusas leat viessoláigui, kontor-hálddahussii, mátkkiide, olggobeale konsuleantabálvalusaide, vuođđovuoigatvuođaide, fágalaš kvalitehta sihkkarastimii, govvaredigeremii ja sullasaččaide.</seg>
+        <seg>e) Vuovdaleapmi ja juohkin</seg>
       </tuv>
     </tu>
     <tu>
@@ -479,7 +489,7 @@
         <seg>e) Markedsføring og distribusjon I tillegg kan tilskuddsmottaker få inntil 15 % av punkt b) til produksjonskostnader til markedsføring og distribusjon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>e) Vuovdaleapmi ja juohkin Dan lassin sáhttá doarjjavuostáiváldi oažžut gitta 15 % rádjai b) čuoggá buvttadangoluin vuovdaleapmái ja juohkimii.</seg>
+        <seg>Dan lassin sáhttá doarjjavuostáiváldi oažžut gitta 15 % rádjai b) čuoggá buvttadangoluin vuovdaleapmái ja juohkimii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -948,7 +958,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>· Åpen søknadsfrist fram til 1. september 2010.</seg>
+        <seg>Ž Åpen søknadsfrist fram til 1. september 2010.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rabas ohcanáigemearri čakčamánu 1. b. rádjai 2010.</seg>
@@ -1383,7 +1393,7 @@
         <seg>Ved spesielle tilfeller kan prosjekter få utsatt dato for ferdigstillelse inntil 2 år etter tilskuddsbrevets dato, dette må spesielt begrunnes.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Erenoamáš diliin sáhttá oažžut prošeavtta válbmenbeaivvi maŋiduvvot gitta guovtti jahkái maŋŋá doarjjareivve beaivádeami, dan ferte erenoamážit vuođustit.</seg>
+        <seg>Erenoamáš diliin sáhttá oažžut prošeavtta válbmenbeaivvi maŋiduvvot gitta guovtti jahkái maŋŋá doarjja ¨reivve beaivádeami, dan ferte erenoamážit vuođustit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1719,7 +1729,7 @@
         <seg>Søknadsfrist 1. februar 2010.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>· Ohcanáigemearri guovvamánu 1. b. 2010.</seg>
+        <seg>Ž Ohcanáigemearri guovvamánu 1. b. 2010.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,7 +1857,7 @@
         <seg>Ved utregning av tilskuddet legges det til grunn antall ark (16 sider pr. ark) pr. ferdigstilt samisk språklig utgivelse og antall ferdigstilte samiske musikkutgivelser i 2008.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Doarjaga rehkenastimis biddjojuvvo vuođđun árkkaid lohku (mearkkaša 16 siiddu juohke árkkas) juohke gárvvistuvvon sámegielat almmuheamis ja galle sámi musihkkaalmmuheami leat gárvvistuvvon 2009:s.</seg>
+        <seg>Doarjaga rehkenastimis biddjo ¨juvvo vuođđun árkkaid lohku (mearkkaša 16 siiddu juohke árkkas) juohke gárvvistuvvon sámegielat almmuheamis ja galle sámi musihkkaalmmuheami leat gárvvistuvvon 2009:s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2023,12 +2033,20 @@
         <seg>Søknader sendt etter denne dato realitetsbehandles ikke</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámedikki ohcanskovvi ortnega várás galgá geavahuvvot</seg>
+        <seg>Ohcamat mat leat sáddejuvvon dien dáhtona maŋŋá eai meannuduvvo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Søknader må ligge innenfor Sametingets prioriteringer for 2010</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ohcanskovvi ortnega várás galgá geavahuvvot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets søknadsskjema for ordningen benyttes</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ohcamat galget gullat Sámedikki 2010 vuoruhemiide</seg>

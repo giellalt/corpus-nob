@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
-<document id="no_id" xml:lang="nob">
+<document xml:lang="nob" id="no_id">
   <header>
     <title>OECD riikkaraporta norgga ekonomiija birra - regjeringen.no</title>
-    <genre/>
+    <genre code="admin"/>
     <author>
-      <unknown/>
+      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
     </author>
     <year>2012</year>
-    <wordcount>365</wordcount>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>362</wordcount>
+    <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <submitter email="divvun@samediggi.no" name=""/>
+    <submitter name="" email="divvun@samediggi.no"/>
     <multilingual/>
     <origFileName>http://regjeringen.no/nb/dep/fin/pressesenter/pressemeldinger/2012/oecds-landrapport-om-norsk-okonomi.html?id=672434</origFileName>
-    <parallel_text location="oecd-riikkaraporta-norgga-ekonomiija-bir.html_id=672434" xml:lang="sme"/>
-    <parallel_text location="oecd-sin-landrapport-om-norsk-okonomi.html_id=672434" xml:lang="nno"/>
+    <parallel_text location="oecd-sin-landrapport-om-norsk-okonomi_id_672434.html" xml:lang="nno"/>
+    <parallel_text location="oecd-riikkaraporta-norgga-ekonomiija-bir_id_672434.html" xml:lang="sme"/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 64438 $; </version>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">Pressemelding  , 15.02.2012  </p>
-    <p xml:lang="kal">Nr.: 3/2012  </p>
-    <section>
-      <p type="title">OECDs landrapport om norsk økonomi</p>
-    </section>
-    <p>
+    <p>OECDs landrapport om norsk økonomi - regjeringen.no</p>
+    <p xml:lang="nno">
       <em type="italic">Organisasjonen for økonomisk samarbeid og utvikling (OECD) la i dag fram sin rapport om norsk økonomi. </em>
     </p>
-    <p>
+    <p xml:lang="nno">
       <em type="italic">Finansminister Sigbjørn Johnsen takker Patrick Lenain og Paul O’Brien fra OECD for rapporten de overleverte. Foto: Tor Martin Bærum/Finansdepartementet </em>
     </p>
-    <p>- OECDs vurdering av norsk økonomi er et nyttig innspill for norske myndigheter. Jeg merker meg at OECD legger vekt på at retningslinjene for finans- og pengepolitikken og Statens pensjonsfond utland tjener Norge vel. Dette er vurderinger jeg deler fullt ut, sier finansminister Sigbjørn Johnsen. Rammeverket for den økonomiske politikken bidrar til økonomisk stabilitet på kort sikt og til bærekraftige offentlige finanser på lang sikt. Jeg merker meg at dette rammeverket etter OECDs vurdering har bidratt til at Norge har klart seg godt gjennom den internasjonale finanskrisen.  </p>
-    <p>- OECD peker på at Norge scorer høyt på internasjonale sammenlikninger av velferd og livskvalitet. Jeg legger merke til at OECD ser dette i sammenheng med vår måte å organisere samfunnet på, med stor grad av likhet, inkludering og trygghet for innbyggerne. Disse kvalitetene trenger ikke gå på bekostning av økonomisk utvikling, tvert imot, sier finansministeren. </p>
-    <p>- OECD viser i rapporten til at sykefraværet og antallet personer på uføretrygd er høyt i Norge. OECD skriver at de tiltakene Regjeringen har iverksatt på disse områdene, må vurderes etter hvert som man vinner erfaring med dem. Hvis de ikke virker etter hensikten, bør også andre tiltak vurderes. OECD peker her på viktige utfordringer i norsk økonomi, sier Sigbjørn Johnsen. Nødvendige tiltak er innført, og vi vil følge dem opp. Arbeidskraften er vår viktigste ressurs, og vi må sørge for at arbeidslivet legges til rette slik at flest mulig kan bidra. Det er til det beste både for den enkelte og for fellesskapet, sier finansministeren. </p>
-    <p>- OECDs rapport om Norge inneholder denne gang to utdypende kapitler, ett om kapitalbeskatning og ett om effektivitet i offentlig sektor. Regjeringen har høye ambisjoner i arbeidet med å videreutvikle velferdsstaten, sier finansministeren. Effektiv beskatning og effektiv utnyttelse av ressursene er da viktig. OECDs anbefalinger vil tjene som innspill i arbeidet med disse problemstillingene. </p>
-    <p>Nett-TV fra pressekonferansen Lysark fra presentasjonen OECDs nettside om landrapporten Overview of the Economic Survey of Norway </p>
+    <p>- OECDs vurdering av norsk økonomi er et nyttig innspill for norske myndigheter. Jeg merker meg at OECD legger vekt på at retningslinjene for finans- og pengepolitikken og Statens pensjonsfond utland tjener Norge vel. Dette er vurderinger jeg deler fullt ut, sier finansminister Sigbjørn Johnsen. Rammeverket for den økonomiske politikken bidrar til økonomisk stabilitet på kort sikt og til bærekraftige offentlige finanser på lang sikt. Jeg merker meg at dette rammeverket etter OECDs vurdering har bidratt til at Norge har klart seg godt gjennom den internasjonale finanskrisen.</p>
+    <p>- OECD peker på at Norge scorer høyt på internasjonale sammenlikninger av velferd og livskvalitet. Jeg legger merke til at OECD ser dette i sammenheng med vår måte å organisere samfunnet på, med stor grad av likhet, inkludering og trygghet for innbyggerne. Disse kvalitetene trenger ikke gå på bekostning av økonomisk utvikling, tvert imot, sier finansministeren.</p>
+    <p>- OECD viser i rapporten til at sykefraværet og antallet personer på uføretrygd er høyt i Norge. OECD skriver at de tiltakene Regjeringen har iverksatt på disse områdene, må vurderes etter hvert som man vinner erfaring med dem. Hvis de ikke virker etter hensikten, bør også andre tiltak vurderes. OECD peker her på viktige utfordringer i norsk økonomi, sier Sigbjørn Johnsen. Nødvendige tiltak er innført, og vi vil følge dem opp. Arbeidskraften er vår viktigste ressurs, og vi må sørge for at arbeidslivet legges til rette slik at flest mulig kan bidra. Det er til det beste både for den enkelte og for fellesskapet, sier finansministeren.</p>
+    <p>- OECDs rapport om Norge inneholder denne gang to utdypende kapitler, ett om kapitalbeskatning og ett om effektivitet i offentlig sektor. Regjeringen har høye ambisjoner i arbeidet med å videreutvikle velferdsstaten, sier finansministeren. Effektiv beskatning og effektiv utnyttelse av ressursene er da viktig. OECDs anbefalinger vil tjene som innspill i arbeidet med disse problemstillingene.</p>
+    <p xml:lang="nno">Nett-TV fra pressekonferansen Lysark fra presentasjonen OECDs nettside om landrapporten Overview of the Economic Survey of Norway</p>
   </body>
 </document>
