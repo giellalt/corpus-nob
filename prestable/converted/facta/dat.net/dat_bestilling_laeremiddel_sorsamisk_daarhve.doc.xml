@@ -15,7 +15,24 @@ Nuvttá skuvlagirjjit
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.dat.net/dat_bestilling_laeremiddel_sorsamisk_daarhve.doc</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="dat_bestilling_laeremiddel_sorsamisk_daarhve.doc"/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -58,7 +75,7 @@ Nuvttá skuvlagirjjit
     <p xml:lang="eng">Leveranseadresse</p>
     <p xml:lang="nno">Frakt:</p>
     <p>Vi sender med Posten Norge.</p>
-    <p xml:lang="ger">Faktureres:</p>
+    <p xml:lang="deu">Faktureres:</p>
     <p>Vi fakturerer bestilleren for ekspedisjons- og fraktkostnader.</p>
     <p xml:lang="nno">Send bestillingen med e-post til: <em type="italic">dat@dat.net </em></p>
     <p xml:lang="nno">DAT</p>
@@ -68,6 +85,6 @@ Nuvttá skuvlagirjjit
       <em type="italic">dat@dat.net </em>
     </p>
     <p xml:lang="nno">tel 78 48 67 72, 91 79 25 26</p>
-    <p xml:lang="ger">September 2012</p>
+    <p xml:lang="deu">September 2012</p>
   </body>
 </document>

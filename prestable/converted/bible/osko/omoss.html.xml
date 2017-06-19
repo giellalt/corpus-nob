@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
     <multilingual/>
     <origFileName>http://www.abc-company.no/osku/bm/omoss.html</origFileName>
-    <parallel_text location="omoss.html" xml:lang="sma"/>
-    <parallel_text location="omoss.html" xml:lang="sme"/>
-    <parallel_text location="omoss.html" xml:lang="smj"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="omoss.html"/>
+    <parallel_text xml:lang="sme" location="omoss.html"/>
+    <parallel_text xml:lang="smj" location="omoss.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -44,6 +59,6 @@
     <p xml:lang="nno">Tips til bruk av siden</p>
     <p xml:lang="nno">Skriv inn eskuvla her:</p>
     <p>Logg-inn navn:</p>
-    <p xml:lang="ger">Passord:</p>
+    <p xml:lang="deu">Passord:</p>
   </body>
 </document>

@@ -13,8 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Stipend-og-tilskudd/Musikk</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="musihke.html"/>
     <parallel_text xml:lang="sme" location="musihkka.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -41,7 +57,7 @@
     </p>
     <list>
       <p type="listitem" xml:lang="fkv">Turnèstøtte</p>
-      <p type="listitem" xml:lang="ger">Konsert</p>
+      <p type="listitem" xml:lang="deu">Konsert</p>
       <p type="listitem">Artisthonorarer og reisestøtte for samiske artister og kulturarbeidere</p>
     </list>
     <p>
@@ -52,7 +68,7 @@
     <p>- Reiseutgifter/opphold/kost</p>
     <p>- Tekniske utgifter</p>
     <p xml:lang="nno">- Kostnader til lyd og lys</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Konsert: </em>
     </p>
     <p>Enkeltkonserter støttes med inntil kr 10 000,-. Tiltaket skal gjennomføres i samfinansiering med arrangør.</p>
