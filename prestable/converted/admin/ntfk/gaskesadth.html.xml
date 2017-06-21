@@ -15,6 +15,7 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
     <origFileName>http://www.ntfk.no/Aarjelsaemien/Gaskesadth/Sider/default.aspx</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -40,12 +41,12 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p type="title">Gaskesadth mijjem</p>
-    <p type="title">Kontakt oss</p>
-    <p>Gaahpode: 08.00-15.30 Dåastove : 74113600 Faakse: 74111051 E-påaste dåastovasse: Sentralbord@ntfk.no E-påaste påastedåastovasse: postmottak@ntfk.no</p>
+    <p type="title" xml:lang="sma">Gaskesadth mijjem</p>
+    <p type="title" xml:lang="nno">Kontakt oss</p>
+    <p xml:lang="sma">Gaahpode: 08.00-15.30 Dåastove : 74113600 Faakse: 74111051 E-påaste dåastovasse: Sentralbord@ntfk.no E-påaste påastedåastovasse: postmottak@ntfk.no</p>
     <p><em type="italic">Påaste jïh reegnegeadresse </em>Nord-Trøndelag fylkeskommune Fylkets Hus Pb 2560, 7735 Steinkjer </p>
     <p>Sentralt fakturamottak Nord-Trøndelag fylkeskommune Pb 2560, 7735 Steinkjer</p>
-    <p>Lohkh vielie reeknegetjalemen bïjre daesnie</p>
+    <p xml:lang="sma">Lohkh vielie reeknegetjalemen bïjre daesnie</p>
     <p><em type="italic">Guessieadresse </em>Seilmakergata 2, Steinkjer Kaarhte Noerhte-Trøøndelagen fylhkentjïelten åejviekontovri bijjeli Barkijh gaavnh daesnie Reeremen stuvreme gaavnh daesnie Politihkeles stuvreme, fylhkenraerie gaavnh daesnie <em type="italic">Politihkerh </em>Fylhkendigkien lïhtsegh <em type="italic">Meedijegaskese </em>Nuhteligs preessese jïh preessegaskesasse ________________________________________________________ <em type="italic">Kontakt oss </em>Åpningstider: 08.00-15.30 Sentralbord: 74113600 Faks: 74111051 E-post til resepsjonen: Sentralbord@ntfk.no E-post til postmottak: postmottak@ntfk.no <em type="italic">Post og fakturaadresse </em>Nord-Trøndelag fylkeskommune Fylkests Hus Pb 2560, 7735 Steinkjer Sentralt fakturamottak Nord-Trøndelag fylkeskommune Pb 2560, 7735 Steinkjer Les mer om fakturering her <em type="italic">Besøksadresse </em>Seilmakergata 2, Steinkjer Kart over Nord-Trøndelag fylkeskommunes hovedkontor <em type="italic">Ansatte </em>finner du her <em type="italic">Administrativ ledelse </em>finner du her <em type="italic">Politisk ledelse, fylkesrådet </em>finner du her <em type="italic">Politikere </em>Oversikt over medlemmer i fylkestinget <em type="italic">Mediekontakt </em>Nyttig for pressen og pressekontakt finner du her </p>
   </body>
 </document>

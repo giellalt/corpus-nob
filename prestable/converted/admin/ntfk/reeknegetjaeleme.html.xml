@@ -15,6 +15,7 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
     <origFileName>http://www.ntfk.no/Aarjelsaemien/Gaskesadth/Sider/Reeknegetjaeleme.aspx</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -40,24 +41,24 @@
     <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p type="title">Reeknegetjaeleme</p>
+    <p type="title" xml:lang="sma">Reeknegetjaeleme</p>
     <p type="title">Fakturering</p>
-    <p>
+    <p xml:lang="sma">
       <em type="italic">Seedtede gaajhkh reeknegh seamma adressen gåajkoe, saaht mij goevtese fylhkentjïeltesne mij edtja reeknegem maeksedh. Tjoerede gaajhkh reeknegh mïerhkesjidh. </em>
     </p>
-    <p>Reeknegh Noerhte-Trøøndelagen fylhkentjïeltese seedtede daan adressen gåajkoe: <em type="italic">Nord-Trøndelag fylkeskommune Sentralt fakturamottak Postboks 2560 7735 Steinkjer </em></p>
+    <p xml:lang="sma">Reeknegh Noerhte-Trøøndelagen fylhkentjïeltese seedtede daan adressen gåajkoe: <em type="italic">Nord-Trøndelag fylkeskommune Sentralt fakturamottak Postboks 2560 7735 Steinkjer </em></p>
     <p>
       <em type="italic">Organisasjovnenommere: 938 967 091 </em>
     </p>
-    <p>Mïerhkesjidie hijvenlaakan</p>
-    <p type="listitem">Vihkeles gaajhkh reeknegh hijvenlaakan mïerhkesjidh.Daah bïevnesh tjuerieh meatan årrodh:</p>
-    <p type="listitem">Dongkijen nomme (skuvle, darjoe, goevtese j.p)</p>
-    <p type="listitem">Vierhtienommere. Gaajhkh dongkemh Noerhte-Trøøndelagen fylhkentjïelten darjojste edtjieh aktem vierhtienommerem jïh nommem utnedh. Virhtienommere låhkojne 5 aalka jïh 5 taallh åtna. Reegnegedåastojen /vihtiestæjjan vierhtienommere tjuara bïeljelamme årrodh aarebi deallahtæjja dongkemem tjïrrehte</p>
-    <p type="listitem">Bigkemeprosjekth: Prosjektenommere jïh prosjektenommere</p>
-    <p type="listitem">Jeatjah gaavhtan tjuara sïejhme krievemh dåeriedidh reeknegebievnesen bïjre, naemhtie guktie Bokføringsloven muana</p>
-    <p type="listitem">Reeknegh ålkoelaanten deallahtæjjijste tjuerieh IBAN-konto’m jïh BIC/SWIFTadressem utnedh.Reeknegh mah eah daejtie krievemidie jeakedh sïjhtebe bååstede seedtedh.</p>
-    <p>Dov gyhtjelassh? Ringkh 74113600.</p>
-    <p><em type="italic">Maeksemetsiehkieh: </em>Noerhte-Trøøndelagen fylhkentjïelten sïejhme maeksemetsiehkieh leah naemhtie: Maeksememierie 30 biejjieh- jis ij jeatjah-laakan seamadamme ___________________________________________________________ </p>
+    <p xml:lang="sma">Mïerhkesjidie hijvenlaakan</p>
+    <p type="listitem" xml:lang="sma">Vihkeles gaajhkh reeknegh hijvenlaakan mïerhkesjidh.Daah bïevnesh tjuerieh meatan årrodh:</p>
+    <p type="listitem" xml:lang="sma">Dongkijen nomme (skuvle, darjoe, goevtese j.p)</p>
+    <p type="listitem" xml:lang="sma">Vierhtienommere. Gaajhkh dongkemh Noerhte-Trøøndelagen fylhkentjïelten darjojste edtjieh aktem vierhtienommerem jïh nommem utnedh. Virhtienommere låhkojne 5 aalka jïh 5 taallh åtna. Reegnegedåastojen /vihtiestæjjan vierhtienommere tjuara bïeljelamme årrodh aarebi deallahtæjja dongkemem tjïrrehte</p>
+    <p type="listitem" xml:lang="sma">Bigkemeprosjekth: Prosjektenommere jïh prosjektenommere</p>
+    <p type="listitem" xml:lang="sma">Jeatjah gaavhtan tjuara sïejhme krievemh dåeriedidh reeknegebievnesen bïjre, naemhtie guktie Bokføringsloven muana</p>
+    <p type="listitem" xml:lang="sma">Reeknegh ålkoelaanten deallahtæjjijste tjuerieh IBAN-konto’m jïh BIC/SWIFTadressem utnedh.Reeknegh mah eah daejtie krievemidie jeakedh sïjhtebe bååstede seedtedh.</p>
+    <p xml:lang="sma">Dov gyhtjelassh? Ringkh 74113600.</p>
+    <p xml:lang="sma"><em type="italic">Maeksemetsiehkieh: </em>Noerhte-Trøøndelagen fylhkentjïelten sïejhme maeksemetsiehkieh leah naemhtie: Maeksememierie 30 biejjieh- jis ij jeatjah-laakan seamadamme ___________________________________________________________ </p>
     <p type="title">Fakturering</p>
     <p><em type="italic">Alle fakturaer sendes til samme adresse, uavhengig av hvilken del av fylkeskommunen som skal betale regningen. Alle fakturaer må merkes. </em>Fakturaer til Nord-Trøndelag fylkeskommune sendes til følgende adresse: <em type="italic">Nord-Trøndelag fylkeskommune Sentralt fakturamottak Postboks 2560 7735 Steinkjer Organisasjonsnummer: 938 967 091 Vi trenger god merking </em>Det er viktig at fakturaene er godt merket. Følgende opplysninger må være med: </p>
     <list>
