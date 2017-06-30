@@ -11,7 +11,6 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual/>
     <origFileName>http://www.abc-company.no/osku/bm/omoss.html</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -37,28 +36,28 @@
     <version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p type="title" xml:lang="sme">VELKOMMEN TIL SAMISK E-TROSOPPLÆRING</p>
+    <p type="title">VELKOMMEN TIL SAMISK E-TROSOPPLÆRING</p>
     <p type="title">for barn mellom 6 – 12 år</p>
     <p>Dette nettstedet handler om kristen tro og samisk kultur. Klikk på ulike tema for å finne ut mer: Lavvo, bjørk, vann, bål, sol, jord og kirke. Nettstedet har fire språkversjoner: sørsamisk, lulesamisk, nordsamisk og norsk.</p>
     <p>Samisk e-trosopplæring er utviklet av Samisk Kirkeråd i Den norske kirke. Samiske barn og unge skal være subjekt i sin egen trosopplæring. Opplæringen skal være forankret i samisk erfaring og lokalt samisk kirkeliv. Samisk åndelighet skal være en hjelp til livsorientering og livstolkning.</p>
     <p>Samisk e-trosopplæring er utviklet med støtte fra Størst av alt - trosopplæring i Den norske kirke. Trosopplæring er et av Den norske kirkes hovedsatningsområder. Det utarbeides nå en systematisk trosopplæring for alle døpte mellom 0-18 år, som skal legge til rette for at barn og unge kan utvikle sitt forhold til troen og den kirken de er en del av.</p>
     <p>Videre kan du lese om hvem som er bidragsytere. Les mer!</p>
-    <p xml:lang="sma"><em type="italic">Ide og prosjektledelse: </em>Anbjørg Holm Varsi </p>
-    <p xml:lang="nno"><em type="italic">Utvikling: </em>Teknisk utvikling og grafisk design er utført av ABC-Company e-skuvla.no Forsiden er utført av Bendik Kråvik Schøien tyde.no </p>
+    <p><em type="italic">Ide og prosjektledelse: </em>Anbjørg Holm Varsi </p>
+    <p><em type="italic">Utvikling: </em>Teknisk utvikling og grafisk design er utført av ABC-Company e-skuvla.no Forsiden er utført av Bendik Kråvik Schøien tyde.no </p>
     <p><em type="italic">Musikk: </em>Denne tjenesten tilbys av Samisk kirkeråd. Musikken er gjengitt med tillatelse fra TONO Uautorisert lenking, videreføring eller kopiering er ulovlig. </p>
     <p><em type="italic">Spill: </em>Norsk Søndagsskoleforbund har utviklet spillene. Utarbeidet av Kommunion as. </p>
-    <p xml:lang="sme"><em type="italic">Tekstproduksjon </em>: Karen Elle Gaup Ann Solveig Nystad Anne-Karin Hellesøy Inger Seierstad Inga Wernolf </p>
-    <p xml:lang="sme"><em type="italic">Oversettelse </em>: Inger Marie Oskal Inger Anne Gaup Gustad Rávdná Turi Henriksen Lars Theodor Kintel Ellen Jonassen Oskar Stein Bjørlykke Anne Silja Turi Birgit Andersen Anne-Grethe Leine Bientie </p>
+    <p><em type="italic">Tekstproduksjon </em>: Karen Elle Gaup Ann Solveig Nystad Anne-Karin Hellesøy Inger Seierstad Inga Wernolf </p>
+    <p><em type="italic">Oversettelse </em>: Inger Marie Oskal Inger Anne Gaup Gustad Rávdná Turi Henriksen Lars Theodor Kintel Ellen Jonassen Oskar Stein Bjørlykke Anne Silja Turi Birgit Andersen Anne-Grethe Leine Bientie </p>
     <p><em type="italic">Illustrasjoner </em>: Solfrid Fjellaksel Pedersen Svein Kvamme Liisa Helander Inger Seierstad Olga Grimsmo Nilsen Lisa Arneng Varsi Luther Forlag: Ståle Almenning Tore Johnsen Laila Krokmo Vanja Røkke Karasjok menighet Bendik Kråvik Schøien Ellen Sara Leine Bientie Karen Elle Gaup </p>
-    <p xml:lang="nno">Kåfjord kulturskole: Maria Seppälä, Maylin Brustad, Annette Forfang, Marie Olsen, Lise Mari Nilsen, Mariell Hansen, Johanne Steinlien, Heidi Pedersen, Ingvild Rundberg, Malene F S, Silje Hansen, Catrine Vatne, Sofie Olsen, Kaisa Lyshaug, Berthine M Johansen, Oda Agnethe Svendsen, Anne Marte Hansen, Selma Alette Mikkelsen</p>
-    <p xml:lang="nno">Alta Kulturskole: Severin Lyngstad, Siver Nielsen, Frida Sætveit, Sondre Andersen, Kristine Jonas, Vårin Larsen, Kamilla Losvar, Maria S Losvar, Erlend Mortensen, Bjørn Kerthan</p>
-    <p xml:lang="sme"><em type="italic">Fotografi av: </em>Áile Marita Varsi Arvid Varsi Ann-Katrin Tobiassen Lill-Therese Holm Varsi Wenche Holm Balto Máijá Holm Balto Ánne-Márgget Somby Johan Daniel Balto Heidi Sara Anti Lásse Biehtár Anti Nils Borge Teigen Tore Johnsen Bierna Bientie Johan Bakken Sandvik Gunn Hanne Elvebakk Kåre Smeland Berit Frøydis Svineng Johnsen Jaana Walle Ørjan Balto Hansen Johán Máhtte Kemi Nils Jovnna Gaup Piera Jovnna Heaikka Áslat Aslak Somby Ebba Joks Jovnna Levi Joks Sárá Márjá Utsi Elle Káre Somby Jan Widar Wigelius Niillas Aslaksen Smuk Bilde av tresåte fotografert utenfor Várjjat Sámi Musea Bilde av vedhoggested fotografert på Sámiid Vuorka Dávvirat Bilder kjøpt fra Scandinavian Stock Photo </p>
-    <p xml:lang="sme"><em type="italic">Sang </em>: Berit Alette Mienna Wenche Holm Balto Marit Holm-Johannesen Anbjørg Holm Varsi Máijá Holm Balto Ida Márjá Varsi Solbakk Ánne Márgget Somby Áile Marita Varsi Karl Edvard Urheim Kirsi Guvsám Jovna Zakharias Dunfjell Eli Anne Nystad Máret Inga Grenserud Eira Káre Brita Rognerud Eira Máret Lájlá Sara Nedrejord Risten Gutnel Guttorm Eira Biret Sárá Anti Julie Sofie Nordsletta Maina Sofie Wergeland Inger Marie Guttorm Ragnhild Hellesøy Sør-Varanger salmesanggruppe Barnekoret i Karasjok menighet v/Anne Karin Hellesøy: Hannah L Strømeng, Elisabeth Kneppen Strømeng, Rita Marie P Somby, Ingri Maylèn Larsen, Kaisa Henriette Larsen, Andreas Hellesøy, </p>
+    <p>Kåfjord kulturskole: Maria Seppälä, Maylin Brustad, Annette Forfang, Marie Olsen, Lise Mari Nilsen, Mariell Hansen, Johanne Steinlien, Heidi Pedersen, Ingvild Rundberg, Malene F S, Silje Hansen, Catrine Vatne, Sofie Olsen, Kaisa Lyshaug, Berthine M Johansen, Oda Agnethe Svendsen, Anne Marte Hansen, Selma Alette Mikkelsen</p>
+    <p>Alta Kulturskole: Severin Lyngstad, Siver Nielsen, Frida Sætveit, Sondre Andersen, Kristine Jonas, Vårin Larsen, Kamilla Losvar, Maria S Losvar, Erlend Mortensen, Bjørn Kerthan</p>
+    <p><em type="italic">Fotografi av: </em>Áile Marita Varsi Arvid Varsi Ann-Katrin Tobiassen Lill-Therese Holm Varsi Wenche Holm Balto Máijá Holm Balto Ánne-Márgget Somby Johan Daniel Balto Heidi Sara Anti Lásse Biehtár Anti Nils Borge Teigen Tore Johnsen Bierna Bientie Johan Bakken Sandvik Gunn Hanne Elvebakk Kåre Smeland Berit Frøydis Svineng Johnsen Jaana Walle Ørjan Balto Hansen Johán Máhtte Kemi Nils Jovnna Gaup Piera Jovnna Heaikka Áslat Aslak Somby Ebba Joks Jovnna Levi Joks Sárá Márjá Utsi Elle Káre Somby Jan Widar Wigelius Niillas Aslaksen Smuk Bilde av tresåte fotografert utenfor Várjjat Sámi Musea Bilde av vedhoggested fotografert på Sámiid Vuorka Dávvirat Bilder kjøpt fra Scandinavian Stock Photo </p>
+    <p><em type="italic">Sang </em>: Berit Alette Mienna Wenche Holm Balto Marit Holm-Johannesen Anbjørg Holm Varsi Máijá Holm Balto Ida Márjá Varsi Solbakk Ánne Márgget Somby Áile Marita Varsi Karl Edvard Urheim Kirsi Guvsám Jovna Zakharias Dunfjell Eli Anne Nystad Máret Inga Grenserud Eira Káre Brita Rognerud Eira Máret Lájlá Sara Nedrejord Risten Gutnel Guttorm Eira Biret Sárá Anti Julie Sofie Nordsletta Maina Sofie Wergeland Inger Marie Guttorm Ragnhild Hellesøy Sør-Varanger salmesanggruppe Barnekoret i Karasjok menighet v/Anne Karin Hellesøy: Hannah L Strømeng, Elisabeth Kneppen Strømeng, Rita Marie P Somby, Ingri Maylèn Larsen, Kaisa Henriette Larsen, Andreas Hellesøy, </p>
     <p><em type="italic">Tekstlesing </em>: May-Synnøve Trosten Brita Iren Thomassen Berit Kristine Andersen Guvsám Lill-Therese Holm Varsi Morten Tobiassen Per Dehlin Anne Silja Turi Leif Åge Hætta Máijá Holm Balto Elle-Káre Somby Nils Jørgen Nystø Copyright: Den norske kirke ved Samisk Kirkeråd, Postboks 799 Sentrum, N-0106 Oslo, Telefon:23081200, e-post: osko@kirken.no Ansvarlig redaktør: Generalsekretær i Samisk Kirkeråd, Rávdná Turi Henriksen Samisk kirkeåd har lagt mye arbeid i å få tak i rette copyrightinnehavere til hvert enkelt salme og illustrasjon, foto og film. I de tilfeller vi ikke har lyktes med dette, ber vi vennligst copyrightinnehaveren om å kontakte oss. </p>
-    <p xml:lang="nno">Til forsiden</p>
-    <p xml:lang="nno">Tips til bruk av siden</p>
-    <p xml:lang="nno">Skriv inn eskuvla her:</p>
+    <p>Til forsiden</p>
+    <p>Tips til bruk av siden</p>
+    <p>Skriv inn eskuvla her:</p>
     <p>Logg-inn navn:</p>
-    <p xml:lang="deu">Passord:</p>
+    <p>Passord:</p>
   </body>
 </document>
