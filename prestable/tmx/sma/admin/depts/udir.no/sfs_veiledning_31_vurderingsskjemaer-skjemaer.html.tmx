@@ -6,10 +6,26 @@
   <body>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Udir.no - Intervjuskjema</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Udir.no - Gihtjehtimmiegoere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuskjema</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gihtjehtimmiegoere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Hovedinnhold</seg>
       </tuv>
       <tuv xml:lang="sma">
-        <seg>Gihtjehtæjja:</seg>
+        <seg>Hovedinnhold</seg>
       </tuv>
     </tu>
     <tu>
@@ -17,7 +33,7 @@
         <seg>Intervjuer:</seg>
       </tuv>
       <tuv xml:lang="sma">
-        <seg>Gihtjelgæjja:</seg>
+        <seg>Gihtjehtæjja:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,7 +41,15 @@
         <seg>Intervjuobjekt:</seg>
       </tuv>
       <tuv xml:lang="sma">
-        <seg>Gaavnesjimmiesijjie:</seg>
+        <seg>Gihtjelgæjja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avtalt dag og tid: Møtested:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Latjkeme biejjie jïh tijje:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +78,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Spørsmål: Svar:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Spørsmål:</seg>
       </tuv>
       <tuv xml:lang="sma">
         <seg>Gyhtjelasse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Svar:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedasse:</seg>
       </tuv>
     </tu>
   </body>
