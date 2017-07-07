@@ -1,0 +1,3512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">rup_2013_trykt_versjon.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalt utviklingsprogram</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale evtiedimmieprogramme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalt utviklingsprogram (RUP) for Nord-Trøndelag 2013</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regiovnale evtiedimmieprogramme (RES) Noerhte-Trööndelage 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2012, sak 12/73 Journalsak NTFK 12/12567</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nænnoestimmie Fylhkendigkesne Noerhte-Trööndelagesne 6.12.2012, aamhtese 12/73 Journaleaamhtese NTFK 12/12567</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Layout: NTFK Regional utviklingsavdeling Trykk: NTFK Kopisenteret</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Layout: NTFK Regijovnale evtiedimmiegoevtese Trygke: NTFK Kopisenteret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle foto er tatt av fotograf Steinar Johansen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Steinar Johansen gaajhkh guvvieh vaalteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag fylkeskommune Fylkets Hus Besøksadresse: Seilmakergata 2 Postadresse: Postboks 2560 7735 Steinkjer</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagen fylhkentjïelte Fylhken gåetie Guessiesijjie: Seilmakergata 2 Påastesijjie: Postboks 2560 7735 Steinkjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telefon: 74 11 10 00 Telefaks: 74 11 10 51 E-post: postmottak@ntfk.no Internett: www.ntfk.no</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tellefovne: 74 11 10 00 Telefakse: 74 11 10 51 E-påaste: postmottak@ntfk.no Gaskeviermie: www.ntfk.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>FORORD</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅVTEBAAKOE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalt utviklingsprogram for Nord-Trøndelag 2013 (RUP) er et verktøy for en helhetlig utviklingspolitikk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale evtiedimmieprogramme Noerhte-Trööndelagese 2013 (RES) lea akte dïrrege akten ållesth evtiedimmiepolitihkese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet er et godt utgangspunkt for arbeidet for en positiv samfunns- og næringsutvikling i Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme lea akte hijven våarome juktie akten positijve siebriedahke- jïh jielemeevtiedimmien gaavhtan NoerhteTrööndelagesne barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er et viktig verktøy for fylkesrådet for operasjonalisering av den politiske plattformen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES akte vihkeles dïrrege fylhkenraaran juktie dam politihkels våaromem åtnosne vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet er endret i forhold til tidligere år med en sterkere strategisk profil.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme lea jarkelamme viertiestamme aarebi jaepiejgujmie, aktine nænnoesåbpoe strategeles profijline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet utarbeides årlig.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme dorjesåvva fierhten jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den strategiske hovedinnretningen vil ligge som et grunnlag for perioden 2013-2016, men vil bli tatt opp til vurdering gjennom den årlige behandlingen, dette for å være oppdatert i forhold til den aktuelle utviklingen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte strategeles åejvieöörnege sæjhta goh akte våarome årrodh boelhken 2013-2016, men sïjhtebe dam vuarjasjidh dan fïerhtenjaepien gïetedimmien tjïrrh, juktie urreste daajroem utnedh dan sjyöhtehke evtiedimmien bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det legges videre opp til en bransjenøytral satsing med 3 innsatsområder.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijriesåbpoe dle sjïehteladtebe akten suerkienøytrale barkose, 3 råajvarimmiesuerkiejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forankring og eierskap er avgjørende for å lykkes, og fylkesrådet har tro på partnerskap som metode i utviklingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gårreldimmie jïh aajhterevoete leah eevre vihkeles jis edtja lyhkesidh, jïh fylhkenraerie gujht veanhta guejmievoete lea akte hijven vuekie evtiedimmie-barkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er ikke fylkeskommunens, men regionens dokument.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES ij leah fylhkentjïelten, men regijovnen tjaatsege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunene og RUP-partnerskapet er våre viktigste samarbeidspartnere i utvikling og oppfølging av programmet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth jïh RES-guejmievoete leah mijjen vihkielommes laavenjostoeguejmieh gosse edtjebe programmem evtiedidh jïh dejnie vijriesåbpoe barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag er et fylke med mange muligheter, men også store utfordringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelage akte fylhke jïjnjh nuepiejgujmie, man aaj stoerre haestemigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samfunnet er i endring som følge av store strukturendringer i landbruket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Siebriedahke lea jarkeleminie stoerre struktuvrejarkelimmiej gaavhtan laanteburresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Industrimiljøene våre er sårbare, og sterkt påvirket av konjunktursituasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjen industrijebyjresh leah prååsehke, jïh tjarke tsevtseme konjunktuvretsiehkeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å møte utfordringene, er fokus og prioritering avgjørende.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie haestiemidie dåastodh, dle fokuse jïh prijoriteradimmie vihkeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det regionale utviklingsarbeidet må i 2013 har sterk fokus på næringsutvikling og programmets tydelige næringsperspektiv er forsterket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte regijovnale evtiedimmiebarkoe tjuara aktem nænnoes fokusem utnedh jielemeevtiedæmman 2013, jïh programmen tjïelke jielemeperspektijve lea nænnoesåbpoe dorjesovveme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er en balanse mellom hvor stor andel virkemidler som legges ut til andre aktører og det å ha slagkraftige virkemidler på fylkesnivå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte balanse gaskem man stoerre låhkoe tsavtshvierhtijste mij tjuara jeatjah aktöoride bïejesovvedh, jïh fååmijes tsavtshvierhtieh utnedh fylhken daltesisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Behovet for større og ressurskrevende satsinger på enkelte steder, og de omfattende utfordringene som landbruket og industrimiljøene sliter med, viser nødvendigheten av å ha slagkraftige virkemidler og tilstrekkelig handlingsrom på fylkesnivå som kan virke på tvers av bransjer og kommunegrenser.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste daerpies stuerebe jïh vierhtiekrievije barkoejgujmie muvhtene lehkesne, jïh dah stoerre haestemh mejgujmie laanteburrie jïh industrijebyjresh tjabreminie, dle daerpies fååmijes tsavtshvierhtieh jïh nuekies dahkoesijjiem fylhken daltesisnie utnedh mejtie maahta gaajhki suerkiej jïh tjïelteraasti dåaresth nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkesrådet er opptatt av kommunenes muligheter for aktivt lokalt næringsutviklingsarbeid.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkenraerie tuhtjie vihkeles tjïelth nuepieh utnieh eadtjohkelaakan voenges jielemeevtiedimmiebarkojne gïehtelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet representerer en omfattende satsing på kommunene gjennom omstilling og tildeling av fond.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme tjïeltide skreejrie jarkelimmien tjïrrh jïh joekedimmie foentijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkesrådet ønsker fortsatt regionalt samarbeid i bruken av regionale fond fordi det styrker kompetanse og kapasitet og bidrar til grenseoverskridende perspektiver, men har tillit til at kommunene vil videreføre samarbeidet selv den tidligere stimuleringsordning oppheves.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkenraerie sæjhta annje regijovnale laavenjostoem utnedh regijovnale foentijste, juktie dïhte maahtoem jïh barkoe-faamoem nænnoestahta, jïh perspektijvigujmie raastedåaresth viehkehte, men leajhtede tjïelth sijhtieh jåerhkedh laavenjostedh jalhts aarebi skreejremeöörnege orrije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På vegne av det nord-trønderske partnerskapet vil jeg ønske oss lykke til med arbeidet i 2013</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-tröönderen guejmievoeten bieleste sïjhtem mijjem barkojne læhkoehtidh jaepien 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Steinkjer den 13. november 2012</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stientje, gålkoen13. b. 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Terje Sørvik fylkesråd for regional utvikling og kultur</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Terje Sørvik fylhkenraerie regijovnale evtiedæmman jïh kultuvrese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innhold</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sisvege</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1. INNLEDNING...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. AALKOE...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5 1.1. Politisk forankring...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1 1.1. Politihkeles gårreldimmie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5 1.2. Sammenheng mellom RUP og øvrige planer...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1 1.2. Ektiedimmie RES'en jïh jeatjah soejkesji gaskem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5 1.3. Viktige partnerskap og samhandlingsarenaer...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1 1.3. Vihkeles guejmievoeth jïh ektiedahkoesijjieh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5 1.4. Hvem gjelder programmet for?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2 1.4. Giejtie lea programme?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2. NORD-TRØNDELAG, HER ALT ER MULIG – UANSETT...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. NOERHTE-TRÖÖNDELAGE, DAESNIE GAAJHKE GÅAREDE - SAAHT GUKTIE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3. NÆRINGSPOLITISKE UTFORDRINGER OG MULIGHETER...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3. JIELEMEPOLITIHKELES HAESTEMH JÏH NUEPIEH...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 3.1. Befolkning, arbeidsmarked og boligmarked...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4 3.1. Årrojh, barkoemaarkede jïh gåetiemaarkede...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 3.2. Kompetanse og FoU...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4 3.2. Maahtoe jïh FoU...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 3.3. Innovasjon, entreprenørskap og internasjonalisering...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5 3.3. Innovasjovne, entreprenørskap jïh gaskenasjovnaliseringe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8 3.4. Landbruk og naturressurser...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5 3.4. Laanteburrie jïh eatnemevierhtieh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>9 3.5. Infrastruktur og attraktivitet...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5 3.5. Infrastruktuvre jïh fryöjstehkevoete...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>9 3.6. Klima, energi og miljø...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6 3.6. Klijma, energije jïh byjrese...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4. VISJON OG HOVEDMÅL...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4. VISJOVNE JÏH ÅEJVIEULMIE...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>10 4.1. Visjon...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7 4.1. Visjovne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>10 4.2. Hovedmål...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7 4.2. Åejvieulmie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5. PRIORITERTE INNSATSOMRÅDER I 2013...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5. PRIJORITERADAMME SJÏERE BARKOESUERKIEH 2013...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>12 5.1. Infrastruktur og næringsnettverk...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>9 5.1. Infrastruktuvre jïh jielemeviermie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>12 5.2. Rekruttering til nordtrøndersk arbeids- og næringsliv...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>9 5.2. Noerhte-tröönderen barkoe- jïh jieliemasse dåårrehtidh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>13 5.3. Kompetanse for framtidig næringsvirksomhet...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>10 5.3. Maahtoe akten båetijen aejkien jielemegïehtelæmman...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6. ØKONOMISKE VIRKEMIDLER OG VIRKEMIDDELAKTØRER...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6. EKONOMELES TSAVTSHVIERHTIEH JÏH TSAVTSHVIERHTIEAKTÖÖRH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>15 6.1. Fylkeskommunale utviklingsmidler...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 6.1. Fylhkentjïelten evtiedimmievierhtieh...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>15 6.2. Programområder med egne økonomiske rammer...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>12 6.2. Programmesuerkieh jïjtsh ekonomeles mieriejgujmie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>15 6.2.1. Interreg...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>13 6.2.1. Interreg...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>15 6.2.2. Omstilling...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>13 6.2.2. Jarkelimmie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>16 6.2.3. Sørsamisk språk, næring og kultur...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>13 6.2.3. Åarjelsaemien gïele, jieleme jïh kultuvre...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>16 6.2.4. Kompensasjonsmidler for regionalt differensiert arbeidsgiveravgift...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>14 6.2.4. Kompensasjovnevierhtieh regijovnale joekehtamme barkoevedtije-maaksoen åvteste...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>17 6.2.5. VRI Trøndelag...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>14 6.2.5. VRI Trøndelag...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>17 6.2.6. Regionalt Forskningsfond Midt-Norge...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>14 6.2.6. Regijovnale Dotkemefoente Gaske-Nöörje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>17 6.3. Samlet fylkeskommunal utviklingsinnsats i RUP 2013...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>15 6.3. Tjåenghkies fylhkentjïelten evtiedimmiebarkoe RES'sne 2013...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>18 6.4. Innovasjon Norge...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>15 6.4. Innovasjovne Nöörje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>19 6.5. Kommunalt arbeid for næringsutvikling...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>16 6.5. Tjïelten barkoe jielemeevtiedimmien gaavhtan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>19 6.6. Fylkesmannen i Nord-Trøndelag...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>17 6.6. Fylhkenålma Noerhte-Trööndelagesne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>20</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7. MÅL- OG RESULTATSTYRING...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7. ULMIE- JÏH ILLEDAHKESTUVREME...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>21</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8. VEDLEGG...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>8. LISSIETJAALEGH...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>22</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1. INNLEDNING</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. AALKOE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalt utviklingsprogram for Nord-Trøndelag (RUP) er et verktøy for en helhetlig og koordinert utviklingspolitikk for fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale evtiedimmieprogramme Noerhte-Trööndelagese (RES) lea akte dïrrege akten ållesth jïh iktedamme evtiedimmiepolitihkese fylhkese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP konsentrerer seg først og fremst om strategier og tiltak som er mulig å følge opp med regional innsats og virkemidler, og angir retningen for bruken av sentrale utviklingsaktørers virkemiddelbruk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES uvtemes strategiji jïh råajvarimmiej bïjre ååktoe mejtie gåarede vijriesåbpoe barkedh regijovnale barkojne jïh tsavtsvierhtiejgujmie, jïh otnjegem beaja guktie tsavtsvierhtieh edtja åtnasovvedh voernges evtiedimmieaktöörijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet utarbeides årlig med en strategisk hovedinnretning som ligger fast for perioden 2013-2016. Programmet har et bredt samfunnsperspektiv hvor næringsperspektivet er det mest sentrale, og dermed mest fokusert.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme dorjesåvva fïerhten jaepien aktine strategeles åejvieöörneginie mij lea tjåadtjoen boelhken 2013-2016. Programmen akten gamte siebriedahkeperspektijve, gusnie jielemeperspektijve lea dïhte vihkielommes, jïh dan åvteste stööremes fokusem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.1. Politisk forankring RUP bygger på følgende politisk grunnlag:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.1. Politihkeles gårreldimmie RES daan politihkeles våaroemasse bigkie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Føringer fra staten, bl.a. tildelingsbrev fra Kommunal- og</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Bïhkedassh staateste, g. j. dåårjemeprievie Tjïelten- jïh regijovnaledepartemeenteste (TRD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regional planstrategi 2012-2016</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regijovnale soejkesjestrategije 2012-2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Fylkesrådets politiske plattform «Nord-Trøndelag inn i framtida»</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Fylhkenraerien politihkeles våarome "Nord-Trøndelag inn i framtida" (Noerhte-Trööndelage båetijen aejkien sïjse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Økonomistrategier i Fylkestinget i juni 2012</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Ekonomijestrategijh Fylhkendigkesne ruffien 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Følgende politiske perspektiver er sentrale for det regionale utviklingsarbeidet og for virkemiddelbruken gjennom programmet:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah politihkeles perspektijvh leah vihkeles dan regijovnale evtiedimmiebarkose jïh tsavtsvierhtieåtnose programmen tjïrrh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Ungdom</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Noerh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Miljø</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Byjrese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Likestilling og mangfold</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Mïrrestalleme jïh gellievoete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Universell utforming</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Universelle hammoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.2. Sammenheng mellom RUP og øvrige planer Fylkestinget i Nord-Trøndelag vedtok i juni 2012 Regional planstrategi for NordTrøndelag 2012-2016. Den fastslår at RUP skal utarbeides årlig som et regionalt strategidokument uten prosesskrav etter plan- og bygningsloven.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.2. Ektiedimmie RES'en jïh jeatjah soejkesji gaskem Fylhkendigkie Noerhte-Trööndelagesne nænnoesti ruffien 2012 Regijovnale soejkesjestrategijem Noerhte-Trööndelagese 2012-2216. Dïhte vihteste RES edtja dorjesovvedh fïerhten jaepien goh akte regijovnale strategijetjaatsege bielelen prosessekrïevenassh soejkesje- jïh bïgkemelaaken mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Planstrategien trekker opp en rekke utfordringer og muligheter (se kap. 3).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soejkesjestrategije gellie haestemh jïh nuepieh buakta (vuartesjh kap. 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innretningen av virkemiddelbruken skal søke å møte disse utfordringene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tsavtshvierhtieåtnoen öörnege edtja pryövedh daejtie haestiemidie dåastodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dermed er innsatsområdene i RUP direkte avledet av planstrategien.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste dle dah barkoesuerkieh RES'sne akte ryöktesth illedahke soejkesjestrategijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Planstrategiens planoversikt viser at det finnes en rekke tema- og bransjeplaner/strategier.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Soejkesjestrategijen soejkesjeguvvie vuesehte jïjnjh teema- jïh suerkiesoejkesjh/strategijh gååvnesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP skal medvirke til å oppfylle mål og strategier i andre regionale tema, bransje- og strategiplaner i fylket (se vedlegg 1). 1.3. Viktige partnerskap og samhandlingsarenaer Partnerskap er en viktig arbeidsmetodikk i det regionale utviklingsarbeidet i NordTrøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES edtja viehkiehtidh ulmide jïh strategijide illedh jeatjah regijovnale teema-, suerkie- jïh strategijesoejkesjinie fylhkesne (vuartesjh 1. lissietjaalegem) 1.3. Vihkeles guejmievoeth jïh ektiedahkoesijjieh Guejmievoete lea akte vihkeles barkoevuekie dennie regijovnale evtiedimmiebarkosne Noerhte-Trööndelagesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Partnerskap forstås som et forpliktende samarbeid med dialog, felles ressursinnsats og ansvarsfordeling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja guejmievoetem guarkedh goh akte viedteldihkie laavenjostoe govlesadteminie, tjåenghkies vierhtiedåarjojne jïh dïedtejoekedimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP-partnerskapet RUP-partnerskapet er det strategiske partnerskapet knyttet til RUP og fungerer som styringsgruppe for arbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES-guejmievoete RES-guejmievoete lea dïhte strategeles guejmievoete ektiedamme RES'ese, jïh sjædta goh stuvremedåehkie barkose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP-partnerskapet består av følgende organisasjoner/aktører: NHO Trøndelag, LO, KS, NAV Nord-Trøndelag, Norges Forskningsråd, Høgskolen i Nord-Trøndelag, Trøndelag Forskning og Utvikling, SIVA, Fiskeridirektoratet, Nord-Trøndelag Barne- og Ungdomsråd, Innovasjon Norge, Fylkesmannen i Nord-Trøndelag og Nord-Trøndelag fylkeskommune.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES-guejmievoetesne daah siebrieh/aktöörh: NHO Trööndelage, LO, KS, NAV Noerhte-Trööndelage, Nöörjen Dotkemeraerie, Noerhte-Trööndelagen Jilleskuvle, Trööndelagen Dotkeme jïh Evtiedimmie, SIVA, Göölemedirektovrate, Noerhte-Trööndelagen Maana- jïh Noereraerie, Innovasjovne Nöörje, Fylhkenålma Noerhte-Trööndelagesne jïh Noerhte-Trööndelagen fylhkentjïelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen har lederskap og sekretariat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelten leah åvtehke jïh tjaelijesijjie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunene i Nord-Trøndelag Kommunene har en sentral rolle i RUP.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth Noerhte-Trööndelagesne Tjïelti akte vihkeles råålla RES'sne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Årlig gjennomføres regionale møter med alle kommunene i fylket for operasjonalisering av de årlige programmene og innspill til påfølgende års program.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhten jaepien regijovnale tjåanghkoeh gaajhki tjïeltigujmie fylhkesne, juktie dej fïerhtenjaepien programmigujmie nïerhkedh jïh raerieh buektedh minngeben jaepien programmese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunene deltar også i RUP-partnerskapet gjennom KS.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth aaj meatan RES-guejmievoetesne KS'en tjïrrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen deltar på regionrådenes møter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte lea meatan regijovneraerien tjåanghkojne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag Forum for Næringsutvikling, som består av kommunenes næringsansvarlige, er direkte involvert i RUP-prosessen, og i forvaltning av de kommunale/regionale fondene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nord-Trøndelag Forum for Næringsutvikling, gusnie tjïelten jielemetjåadtjoehtæjjah leah meatan, lea ryöktesth meatan RESprosessesne, jïh reeremisnie dejstie regijovnale/tjïelten foentijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samarbeidet mellom fylkeskommunen, Innovasjon Norge og kommunene om forvaltningen av kommunale/regionale fond reguleres gjennom årlige tildelingsbrev.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhtenjaepien latjkoeh tjïeltigujmie dorjesuvvieh regijovnale/tjïelten foenti bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hver høst legges utkast til neste års RUP fram for kommunene og RUP-partnerskapet på Sannanmøtet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhten tjaktjen dle raeriestimmiem buakta minngeben jaepien RES'se tjïeltide jïh RESguejmievoetese Sannan-tjåanghkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ungdomskonferansen Ungdomskonferansen er fylkets viktigste politiske møteplass mellom ungdom og politikere.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerekonferanse Noerekonferanse lea fylhken vihkielommes politihkeles gaavnedimmiesijjie noeri jïh politihkeri gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>135 ungdommer, fylkestingspolitikere og ordførere samles for å gi konkrete føringer for framtidens Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>135 noerh, fylhkendigkiepolitihkerh jïh tjïelten åejvieh tjåanghkenieh juktie vihties bïhkedassh båetijen aejkien Noerhte-Trööndelagese vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ungdomskonferansen er NordTrøndelags svar på Ungdommens fylkesting, og føringer som blir gitt på denne arenaen er viktige signaler for prioriteringer i RUP.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerekonferanse lea Noerhte-Trööndelagen vaestiedasse Noeri fylhkendægkan, jïh bïhkedassh mah daesnie vadtasuvvieh leah vihkeles signalh guktie RES edtja prijoriteradidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Resultatene fra Ungdomskonferansen 2012 var følgende 3 prioriteringer:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah illedahkh Noerekonferanseste 2012 lin daan öörnegen mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Legge til rette for aktive møteplasser for ungdom</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Eadtjohke gaavnedimmiesijjide noeride sjïehteladtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Redusere mobbing</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Irhkemem giehpiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Videreføre og videreutvikle ungdomskonferansen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Noerekonferansem vijriebasse jåerhkedh jïh evtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.4. Hvem gjelder programmet for?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1.4. Giejtie lea programme?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er et verktøy for å samordne ulike aktørers innsats og skape en felles mobilisering rundt de viktigste innsatsområdene i fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES akte dïrrege juktie ovmessie aktööri barkoem iktedidh jïh aktem tjåenghkies skreejremem sjugniedidh dej vihkielommes barkoesuerkiej bïjre fylhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er et redskap for alle aktører i Nord-Trøndelag som jobber med regional utvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES akte dïrrege gaajhkide aktööride Noerhte-Trööndelagesne mah regijovnale evtiedimmine berkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUPpartnerskapet er det strategiske partnerskapet for RUP, og det er spesielt viktig at disse aktørenes virkemiddelbruk og utviklingsarbeid understøtter en samlet utviklingspolitikk for fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES-guejmievoete lea RES'en strategeles guejmievoete, jïh joekoen vihkeles daej aktööri tsavtsvierhtieåtnoe jïh evtiedimmiebarkoe aktem tjåenghkies evtiedimmiepolitihkem dåarjoehtieh fylhkese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2. NORD-TRØNDELAG, HER ALT ER MULIG – UANSETT</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. NOERHTE-TRÖÖNDELAGE, DAESNIE GAAJHKE GÅAREDE - SAAHT GUKTIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mennesket er fylkets viktigste ressurs og ungdommen er morgendagens innbyggere og etablerere.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Almetje lea fylhken vihkielommes vierhtie jïh noerh leah jïrredebiejjien årrojh jïh tseegkijh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På nasjonalt nivå er Nord-Trøndelag vurdert som et foregangsfylke når det gjelder å gi ungdom muligheter for medvirkning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjovnaale daltesisnie dle Noerhte-Trööndelagem vuarjasjamme goh akte åvtehkefylhke mij noeride nuepieh vadta meatan årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylket er preget av regionale variasjoner, både i næringsstruktur og i bosettingsmønster.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkesne jïjnjh regijovnale jeerehtsh, dovne jielemestruktuvresne jïh årromemaallesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Næringslivet består i stor grad av små og mellomstore bedrifter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jieleme lea åajvahkommes smaave jïh gaskestoerre sïelth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flest innbyggere er bosatt langs aksen Stjørdal-Steinkjer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes årrojh Skïerden- Stientjen gaskesne årroeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelags næringsstruktur er sterkt preget av primærnæringene, som er avgjørende for bosetting, sysselsetting og utvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagen jielemestruktuvre lea tjarki hammoedamme voestesjieliemistie, mij lea vihkeles dovne årromen, fasseldimmien jïh evtiedimmien gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag er det fylket i landet hvor landbrukets relative betydning er størst.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelage lea dïhte fylhke laantesne gusnie laanteburrie stööremes ulmiem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Strukturendringene de siste årene har hatt stor påvirkning på samfunnsutviklingen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Struktuvrejarkelimmieh dej minngemes jaepiej leah siebriedahken evtiedimmiem tjarke tsevtseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kystområdene i Trøndelag er svært godt egnet for havbruk, og oppdrettsnæringa står for over 40 prosent av all eksport i Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Trööndelagen mearoegaedtiedajvh hijven sjiehtieh mearoeburrine gïehtelidh, jïh bïepmehtimmiejieleme bijjelen 40 % åtna gaajhkeste maam NoerhteTrööndelageste olkese seedtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Matsektoren gir nye muligheter både for grønn og blå sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Beapmoesuerkie orre nuepieh vadta dovne kruana jïh plaave suarkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virksomheten i Norskehavet skaper stor aktivitet og omfattende ringvirkninger, og Statoils virksomhet og resten av driftsmiljøet på Stjørdal er viktig for verdiskaping i regionen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïehtelimmie Nöörjenmearosne jïjnjh darjomh sjugnede jïh destie jïjnjh vijries illedahkh sjædta, jïh Statoilen gïehtelimmie jïh dïhte jeatjah byjrese Skïerdesne leah vihkeles aarvoesjugniedimmien gaavhtan regijovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkets industrimiljø er konjunkturavhengige.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhken industrijebyjrese lea jearohke konjunktuvreste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De største er offshoreverftet Kværner på Verdal og Norske Skog på Skogn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah stööremes leah offshoreverfte Verdaelesne jïh Nöörjen Skåajje Skognesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med utgangspunkt i disse er det etablert innovasjonsmiljø der målet er produktutvikling, innovasjon og nyetableringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej våaroemisnie dle akte innovasjovnebyrjese tseegkesovveme, gusnie ulmie lea dorjeseevtiedimmie, innovasjovne jïh orre tseegkeldahkh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkets kultur-, utmarks- og naturressurser gir grunnlag for opplevelsesbaserte næringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhken kultuvre- miehtjie- jïh eatnemevierhtieh våaromem vedtieh jieliemidie mah dååjresh vedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Stjørdalsregionen har en betydelig kurs- og konferansesektor, og Trondheim Lufthavn Værnes gir nærhet til nasjonale og internasjonale markeder.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skierden regijovne aktem stoerre kuvsje- jïh konferansesuerkiem åtna, jïh Trondheim Lufthavn Værnes lïhkesvoetem vadta nasjovnaale jïh gaskenasjovnaale maarkedidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkets kunnskaps- og forskningsmiljø, med Høgskolen i Nord-Trøndelag og Trøndelag Forskning og Utvikling som de største, er – sammen med kunnskapsmiljøene i Trondheim - viktige for kunnskap og innovasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhken daajroe- jïh dotkemebyjrese, Noerhte-Trööndelagen Jïlleskuvline jïh Trööndelagen Dotkeme jïh Evtiedimmie goh dah stööremes, leah - daajroebyjresigujmie ektine Tråantesne - vihkeles daajroen jïh innovasjovnen gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det har grodd fram flere gode innovasjonsmiljø og bedriftsklynger i fylket de siste årene som er viktige verktøy for nyskaping og næringsutvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jienebh hijven innovasjovnebyjresh jïh sïeltetjomhph leah bïehtsegamme fylhkesne dej minngemes jaepiej, mah leah vihkeles dïrregh orresjugniedæmman jïh jielemeevtiedæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3. NÆRINGSPOLITISKE UTFORDRINGER OG MULIGHETER</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3. JIELEMEPOLITIHKELES HAESTEMH JÏH NUEPIEH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette kapitlet beskriver hovedutfordringer og muligheter for nærings- og samfunnsutvikling i Nord-Trøndelag som utviklingsarbeidet gjennom RUP skal søke å møte.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate kapihtele åejviehaestemh jïh nuepieh buerkeste jieleme- jïh siebriedahkeevtiedæmman Noerhte-Trööndelagesne mejtie evtiedimmiebarkoe RES'en tjïrrh edtja pryövedh dåastodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utfordringer og muligheter for enkeltbransjer er nærmere omtalt i egne bransjestrategier (oversikt se vedlegg 1).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haestemh jïh nuepieh aktegssuerkide leah veelebe ållermaahteme jïjtsh suerkiestrategijinie (vuartesjh 1. lissietjaalegem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.1. Befolkning, arbeidsmarked og boligmarked Folketallet i Nord-Trøndelag vokser, men fylket har lavere befolkningsvekst enn landsgjennomsnittet og store regionale variasjoner i befolkningsutviklingen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.1. Årrojh, barkoemaarkede jïh gåetiemaarkede Almetjelåhkoe Noerhte-Trööndelagesne sjïdteminie, men fylhken akte vueliehkåbpoe årrojelissiehtimmie goh laanten gaskemedtie, jïh stoerre regijovnale jeerehtsh årrojeevtiedimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Positiv utvikling i næringslivet gjør at rekruttering av kompetent arbeidskraft, spesielt til fagstillinger som krever fagbrev og høyere utdanning, er en stor utfordring både for næringsliv og offentlig sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste jieleme lea aktene positijve evtiedimmesne dle akte stoerre haesteme dovne jieliemasse jih byögkeles suarkan maehteles barkoefaamoem dåårrehtidh, joekoen faagebarkojde gusnie faageprievie jïh jollebe ööhpehtimmie daerpies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilgang på arbeidsplasser for par i samme arbeidsmarkedsregion er en utfordring.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte hasteme barkoesijjieh skååffedh paarrebielide seamma barkoemaarkederegijovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag har en større andel av befolkningen utenfor den ordinære arbeidsstyrken enn andre fylker, og det ligger muligheter i å trekke flere av disse inn i aktivt arbeid.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndeagen akte stuerebe låhkoe årroejijstie dan sïejhme barkoefaamoen ålkolen goh jeatjah fylhkh, jïh daesnie jïjnjh nuepieh dejtie eadtjohke barkose åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilgang på boliger er en begrensende faktor for rekruttering til arbeidsmarkedet i mindre sentrale regioner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste gåetieh fååtesieh dle geervebe barkoemaarkedese dåårrehtidh dejnie miehtjies regijovnine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.2. Kompetanse og FoU Det er sannsynlig at veksten i næringslivet hovedsakelig vil skje innen næringer som etterspør arbeidskraft med høyere utdanning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.2. Maahtoe jïh FoU Seapan dle evtiedimmie jieliemisnie åajvahkommes sæjhta årrodh dej jielemi sisnjeli mah barkoefaamoen mietie gihtjieh jollebe ööhpehtimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er en utfordring å fordele veksten av kompetansearbeidsplasser jevnt mellom sentrale strøk og andre regioner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte haesteme evtiedimmiem maahtoebarkoesijjijste jiebnelaakan joekedidh stuerebe dajvi jïh jeatjah regijovni gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Etterspørselen etter forskning i fylket er lav.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkesne vaenie dotkemen mietie gihtjie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder med få unntak både offentlig sektor og næringsliv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan gille laahpehtassigujmie dle naemhtie dovne byögkeles suerkesne jïh jieliemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er behov for å bedre tilgangen på FoU både til næringslivet og offentlig sektor gjennom å synliggjøre mulighetene som ligger i forskning og stimulere til prosjekter for å ta i bruk FoU.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daerpies FoU-vierhtide bueriedidh dovne jieliemasse jïh byögkeles suarkan viehkine nuepide våajnoes darjodh mah lea dotkemisnie, jïh prosjektide skreejredh juktie aelkedh FoU'em nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innenfor FoU, og en rekke andre utviklingsområder, har nordtrønderske aktører et høyt ambisjonsnivå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>FoU'en sisnjelen, jïh jïjnjh jeatjah evtiedimmiesuerkine, noerhtetröönderen aktöörh aktem jolle syjhtedassedaltesem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her er samarbeid og alliansebygging en viktig strategi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie laavenjostoe jïh alliansebigkeme akte vihkeles strategije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.3. Innovasjon, entreprenørskap og internasjonalisering Nordtrøndersk næringsliv er preget av lav lønnsomhet og lavt antall nyetableringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.3. Innovasjovne, entreprenørskap jïh gaskenasjovnaliseringe Noerhte-Tröönderen jieliemisnie vuelege dïeneste jïh akte onne låhkoe orre tseegkemijstie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innovasjonsgraden i næringslivet er, iflg. Telemarksforskning, høy, og her gjelder det å holde trykket oppe.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Innovasjovnegraade jieliemisnie lea, telemarkdotkemen mietie, jolle, jïh daesnie daerpies tjarke tjïskesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flere industrimiljø og bransjer er svært følsomme for konjunkturendringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jienebh industrijebyjresh jïh suerkieh eah dan stoerre jarkelimmieh konjunktuvresne tööllh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Videre er det mangel på risikovillig kapital for å understøtte knoppskytinger og næringslivets utviklingspotensial.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijriesåbpoe dle vaahravyljehke kapitaale fååtese juktie jieniedimmieh jïh jielemen evtiedimmienuepieh dåarjoehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det gjennomføres en rekke tiltak for å oppnå økt entreprenørskap, men NordTrøndelag har lavere etablererfrekvens enn andre fylker, og for få av de nyetablerte bedriftene vokser.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie gellie råajvarimmieh tjïrrehteminie juktie lissiehtamme entreprenørskapem buektiehtidh, Men Noerhte-Trööndelagesne vueliehkåbpoe tseegkijelåhkoe goh jeatjah fylhkine, jïh fer vaenie dejstie orretseegkeme sïeltijste sjidtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å møte denne utfordringen er det nødvendig å samordne og spisse innsatsen på entreprenørskap.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie daam haestemem dåastodh dle daerpies iktedidh jïh stuerebe barkoem darjodh entreprenørskapesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkets næringsliv har liten eksportandel, og det ligger muligheter i å kunne utnytte internasjonale potensial innenfor flere sektorer, bl.a. gjennom økt markedskompetanse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhken jieleme onne eksportelåhkoem åtna, jïh nov gåarede dam gaskenasjovnaale nuepiem nuhtjedh jienebi suerkiej sisnjeli, g. j. viehkine lissiehtamme markedemaahtoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med utgangspunkt i virksomheten i Norskehavet er det potensial for ytterligere verdiskaping og økt leveranseandel fra næringslivet i landsdelen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïehtelimmien tjïrrh Nöörjenmearosne dle nuepie gååvnese stuerebe aarvoesjugniedimmine jïh lissiehtamme deellemelåhkojne laantebielien jieliemistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.4. Landbruk og naturressurser Samfunnsutviklingen i fylket påvirkes av store strukturendringer og lav lønnsomhet i landbruket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.4. Laanteburrie jïh eatnemevierhtieh Siebriedahkeevtiedimmie fylhkesne tsevtseme sjædta stoerre struktuvrejarkelimmijste jïh vuelege dïeneste laanteburresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er samtidig politisk vedtatt å øke matproduksjonen med 20 % innen 2030. Markedsutviklingen for lokale matspesialiteter er imidlertid positiv og her ligger det muligheter i å skape nye produkter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma tïjjen dle politihkerh nænnoestamme beapmoedorjemassem lissiehtidh 20 % eannan 2030. Maarkedeevtiedimmie voenges sjïerebeapmojde leah gujht hijven, jïh daesnie lea nuepieh orre dorjesh sjugniedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lokal matproduksjon, natur- og kulturbasert reiseliv samt grønne velferdstjenester er eksempler på nye næringer på bygdene hvor det er utviklingsmuligheter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voenges beapmoedorjemasse, eatneme- jïh kultuvrefealadasse jïh kruana tryjjesdïenesjh leah såemies orre jielemh voenine gusnie evtiedimmienuepieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Konfliktene mellom rovdyrpolitikk og beitenæringer, samt miljørestriksjoner på næringsvirksomhet, er en utfordring for utnyttelse av fylkets skog- og utmarksarealer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ovvaantoeh juvrepolitihken jïh gåatomejielemi gaskem, jïh aaj byjresegaertjiedimmieh jielemegïehtelimmesne, leah akte haesteme jis edtja fylhken skåajje- jïh miehtjiedajvide nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Trelastbransjen har utfordringer som følge av konjunktursituasjonen og liten lokal avvirkning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Moerevaaroesuerkie haestemh åtna konjunktuvretsiehkien jïh onne voenges tjoehpemen gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det ligger positive muligheter i flere drivverdige mineralforekomster som er kartlagt i Namdalen og i Verdal.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Positijve nuepieh leah mineralegaavnojne mejtie gåarede nuhtjedh, jïh mejtie Nåamesjevuemesne jïh Verdaelesne goerehtalleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med økte priser representerer dette muligheter for næring og sysselsetting.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissiehtamme åasajgujmie daate nuepieh vadta jieliemasse jïh fasseldæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.5. Infrastruktur og attraktivitet Nord-Trøndelag ligger på landstoppen når det gjelder bredbåndsutbygging.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.5. Infrastruktuvre jïh fryöjstehkevoete Noerhte-Trööndelage lea laanten bijjiegietjesne gosse lea gamtebaantevijriedimmien bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Likevel er ikke alle deler av fylket fullt utbygd, og fylkeskommunen vil fortsatt være en pådriver for full utbygging av bredbåndsnettet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Læjhkan dle gaajhkh bielieh fylhkeste eah gamtebaantem åådtjeme, jïh fylhkentjïelte sæjhta annje tsevtsijinie årrodh guktie akte ellies vijriedimmie sjædta gamtebaantenedteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bredbåndsteknologien gir muligheter innen næringsutvikling og bolyst som kan utnyttes i enda større grad enn enkelte kommuner har gjort så langt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gamtebaanteteknologije nuepieh vadta jielemeevtiedimmien jïh årromelastoen sisnjeli, mejtie maahta sagki vielie nåhtadidh goh såemies tjïelth daan mearan dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vegstandarden på enkelte strekninger holder ikke nødvendig kvalitet ift. næringslivets transportbehov, her er laksenæringa på kysten et godt eksempel.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhth geajnoelaajroeh eah dam daerpies kvaliteetem utnieh jielemen skovhtedaerpievoeten mietie, daesnie loesejieleme mearoegaedtesne akte hijven vuesiehtimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bedre livskvalitet gjennom et helhetlig fysisk, sosialt og kulturelt miljø betyr stadig mer for folk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Buerebe jieledekvaliteete akten ållesth fysiske, sosijaale jïh kultuvrelle byjresen tjïrrh, lea vihkielåbpoe vihkielåbpoe almetjidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Befolkningen og næringslivet stiller skjerpede krav til gode estetiske omgivelser og opplevelser.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Årrojh jïh jieleme stuerebe krïevenassh buektieh hijven estetihkeles byjreskidie jïh dååjresidie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En videre opprusting og utvikling av våre offentlige rom gir muligheter til å fremme kulturen og utvikle egne stedsidentiteter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse mijjen byögkeles tjiehtjelh vielie bueriedibie jïh evtiedibie dle nuepieh åådtje kultuvrem vuesiehtidh jïh jïjtsh sijjieidentiteeth evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er vesentlig i forhold til lokal stolthet og en samfunnsutvikling basert på tilhørighet og deltakelse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate lea vihkeles dan voenges garmeresvoeten jïh siebriedahkeevtiedimmien gaavhtan, mij våaromem åtna ektievoetesne jïh meatan årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.6. Klima, energi og miljø Midt-Norge er et underskuddsområde på kraft.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3.6. Klijma, energije jïh byjrese Gaske-Nöörje faetiem faamoste åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Statnett bygger ut og forsterker sentralnettet for effektiv overføring av elektrisitet mellom overskudds- og underskuddsområder, og for å gi plass for ny elproduksjon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Statnett sentralenedtem vijrede jïh buerede juktie sertiestimmiem elektrisiteste nænnoestehtedh baatsadahke- jïh faetiedajvi gaskem, jïh sijjiem vedtedh orre el-dorjemassese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Energi- og miljøsektoren er på vei opp i Midt-Norge, både innen bio-, vind- og vannkraft.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Energije - jïh byjresesektovre lea bæjjeneminie Gaske-Nöörjesne, dovne bio-, bïegke- jïh tjaetsiefaamoen sisnjelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Knyttet til energiområdet er det spesielt stor økning innen leveranser til petroleumssektoren.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Energijesuerkien sjïekenisnie dle joekoen stoerre lissiehtimmie deallahtimmien sisnjielisnie petroleumsektovrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utfordringen er å holde trykket oppe, gjennom blant annet å forsterke forskningsfokuset i miljøene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Haesteme lea daam tjåadtjoehtidh, gaskem jeatjah dotkemem nænnoesåbpoe darjodh byjresinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fortsatt synliggjøring av enøk-muligheter og av skogens potensial i klimasammenheng, til skogproduksjon og bruk av trevirke i bygg og bioenergi, er viktig.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles jåerhkedh enøk-nuepide våajnoes darjodh, jïh aaj skåajjen faamoe klijman gaavhtan, skåajjedorjemassese jïh åtnoe moereste bïgkemisnie jïh bioenergijesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4. VISJON OG HOVEDMÅL</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4. VISJOVNE JÏH ÅEJVIEULMIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.1. Visjon Visjonen for det regionale utviklingsarbeidet er Verdiskaping og livskvalitet i Nord-Trøndelag</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4.1. Visjovne Visjovne dan regijovnale evtiedimmiebarkose lea Aarvoesjugniedimmie jïh jieledekvaliteete Noerhte-Trööndelagesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.2. Hovedmål Næringsvekst i Nord-Trøndelag er hovedmålet for arbeidet med regional utvikling i fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4.2. Åejvieulmie Jielemeevtiedimmie Noerhte-Trööndelagesne lea åejvieulmie dan barkose regijovnale evtiedimmine fylhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at hovedfokuset i virkemiddelbruken hos regionens sentrale utviklingsaktører er innrettet mot dette målet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste dle åejviefokuse tsavtshvierhtieåtnosne, regijovnen voernges evtiedimmieaktööri luvnie, daan ulmien vööste sjïehtedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det tidligere målet om at 90 % av virkemidlene skal ha et direkte eller indirekte næringsperspektiv videreføres.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aarebi ulmie, mij jeehti 90 % tsavtshvierhtijste edtieh aktem ryöktesth jallh ovryöktesth jielemeperspektijven utnedh, jåarhka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virkemidlene i programmet skal bidra til regional utvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programmen tsavtshvierhtieh edtjieh regijovnale evtiedimmiem sjugniedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet har fokus både på økonomisk verdiskaping og et godt samfunn for menneskene som bor her.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme fokusem åtna dovne ekonomeles aarvoesjugniedæmman jïh akten hijven siebriedahkese dejtie almetjidie mah daesnie årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det innebærer i tillegg til direkte næringsrettede tiltak også innsats på en del områder som skal skape økt livskvalitet og bolyst.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine ryöktesth råajvarimmieh mah leah jielemen vööste stuvreme, dle tjuara aaj såemies suerkine barkedh mah edtjieh lissiehtamme jieledekvaliteetem jïh årromelastoem sjugniedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktuelle tiltaksområder som understøtter visjonens fokus på livskvalitet er stedsutvikling, attraktivitetsfremmende tiltak og utbygging av kulturell infrastruktur.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjyöhtehke råajvarimmiesuerkieh mah visjovnen jieledekvaliteetem dåarjohte leah sijjieevtiedimmie, råajvarimmieh mah fryöjstehkevoetem skreejrieh jïh vijriedimmie kultuvrelle infrastruktuvreste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet tar høyde for å støtte utviklingsprosjekter innen disse områdene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme eajhnadåvva evtiedimmieprosjekth dåarjedidh daej suerkiej sisnjeli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg vil endel næringsretta tiltak også ha en bolystdimensjon, som eksempelvis bredbåndsutbygging.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine dle såemies jielemestuvreldh råajvarimmieh aaj årromelastoem skreejredh, vuesiehtimmien gaavhtan gamtebaantebïgkeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Måloppnåelse skal vurderes etter at programperioden er over.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse programmeboelhke nåhkeme edtja vuarjasjidh mejtie ulmiem jakseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom å uttrykke hovedmålet som et antall målbare parametere, ligger følgende modell til grunn for vurdering av måloppnåelse av RUP: Modellen forutsetter at det er positive sammenhenger mellom næringslivets innovasjonsevne og næringsvekst, næringslivets lønnsomhet og næringsvekst osv. Når det gjelder attraktivitetsparameteren sier den noe om både fylkets attraktivitet for næringsutvikling og bosetting jfr. også programmets visjon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse åejvieulmiem vuesehte goh akte låhkoe parameeterijstie mejtie gåarede mööledh, dle daate maalle våaroemisnie juktie ulmiejaksemem vuarjasjidh RES'este. Maalle hijven ektiedimmieh tsihkestahta gaskem jielemen innovasjovnemaahtoem jïh jielemeevtiedimmiem, jielemen dieneste jïh jielemeevtiedimmie jnv. Fryöjstehkevoeteparameeteren sjïekenisnie, dle dïhte naakedem jeahta dovne fylhken fryöjstehkevoeten bïjre jielemeevtiedæmman jïh viesehtæmman, v. aaj programmen visjovnine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Måloppnåelse vurderes etter at programperioden er over, altså når det foreligger tall for 2016. Målet er at da skal utviklingen i fylket innenfor de nevnte parameterne ha hatt en utvikling minst på landsgjennomsnittet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja vuarjasjidh mejtie ulmiem jakseme gosse programmeboelhke nåhkeme, amma gosse taallh jaapan 2016 gååvnesieh. Dellie veanhtede evtiedimmie fylhkesne dej neebneme parameeteri sisnjeli, lij evtiesovveme unnemes goh laanten gaskemedtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utgangspunktet for målingen er nivået for 2012. Se også kapittel 7 om mål- og resultatstyring.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Möölemen våarome lea daltese jaapan 2012. Vuartesjh aaj 7. kapihtelem, ulmie- jïh illedahkestuvremen bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP utarbeides årlig, og det er viktig å følge med på utviklingen, slik at innsatsen kan korrigeres underveis og innrettes etter de verktøy og virkemidler som viser seg å lykkes best.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES dorjesåvva fïerhten jaepien, jïh viehkeles evtiedimmiem gïehtjedidh, guktie maahta barkoem iktemearan staeriedidh jïh dam dej dïrregi jïh tsavtshvierhtiej mietie sjïehtesjidh mah vååjnoeh bööremes lyhkestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Modellen vil, i tillegg til å gi et målegrunnlag, også være et bidrag til å utvikle/peke ut innsatsområder i de årlige utviklingsprogrammene – hvor det må settes inn innsats for å få til næringsvekst.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maalle sæjhta, lissine aktem möölemevåaromem vedtedh, aaj viehkine årrodh barkoesuerkieh evtiedidh/ tjuvtjiedidh dejnie fïerhtenjaepien evtiedimmieprogrammine - gusnie tjuara aktem sjïere barkoem darjodh jis edtja jielemeevtiedimmiem buektiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5. PRIORITERTE INNSATSOMRÅDER I 2013</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5. PRIJORITERADAMME SJÏERE BARKOESUERKIEH 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For 2013 vil RUP-partnerskapet prioritere områdene infrastruktur, rekruttering og kompetanse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaapan 2013 dle RES-guejmievoete sæjhta suerkide infrastruktuvre, dåårrehtimmie jïh maahtoe prijoriteradidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvalget er gjort blant de utfordringer og muligheter som er beskrevet i kapittel 3, og med bakgrunn i innspill fra kommunene og RUP-partnerskapet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah leah veeljesovveme dej haestemi jïh nuepiej gaskem mah leah 3. kapihtelisnie buerkiestamme, jïh dejstie raerijste mah tjïeltijste jïh RES-guejmievoeteste båateme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Prosjekter som skal finansieres gjennom programmet vil bli vurdert i lys av disse prioriteringene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sæjhta vuarjasjidh dejtie prosjektide mejtie edtja finansieradidh programmen tjïrrh, tjoevkesisnie daejstie prijoriteradamme suerkijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet er bransjenøytralt og det er et bevisst valg at enkeltnæringer ikke er definerte som egne prioriterte områder.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme ij naan vihties suerkiem veeljeme, jïh voerkeslaakan veeljeme aktegsjielemh eah leah tjïelkestamme goh jïjtsh prijoriteradamme suerkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For disse er det utarbeidet egne bransjeplaner, se oversikt i vedlegg 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daejtie jïjtsh suerkiesoejkesjh dorjesovveme, vuartesjh 1. lissietjaalegem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5.1. Infrastruktur og næringsnettverk Infrastruktur brukes i denne sammenheng i overført betydning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5.1. Infrastruktuvre jïh jielemeviermie Daennie ektiedimmesne dle infrastruktuvre ånnetji jeatjahlaakan åtnasåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med infrastruktur menes eksempelvis anlegg som må til for å få bredbånd og mobilsignaler fram dit folk bor over hele fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Infrastruktuvre lea vuesiehtimmien gaavhtan gaajhke mij lea daerpies jis edtja gamtebaantem jïh mobijlesignalh dohkoe buektedh gusnie almetjh årroeh abpe fylhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg kan det også være overordnede tiltak som må gjøres for en nødvendig profilmarkedsføring av reiselivet i regionen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine maahta aaj bijjemes råajvarimmieh årrodh mejtie tjuara darjodh akten daerpies profijelemaarkededoekemen gaavhtan fealadasseste regijovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kulturell infrastruktur og stedsutvikling er viktig for identitetsutvikling, kulturbasert næring og etableringsattraktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kultuvrelle infrastruktuvre jïh sijjieevtiedimmie leah vihkeles identiteetevtiedimmien, kultuvrejielemen jïh tseegkemen fryjöstehkevoeten gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette satsingsområdet innbefatter også den rådgivning som innovasjonsselskapene gir overfor nyetablerere og samarbeidet mellom bedrifter i ulike nettverksprogram.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daennie sjïere barkoesuerkesne aaj daate raeriestimmie maam innovasjovnesïelth orre tseegkijidie vedtieh, jïh laavenjostoe sïelti gaskem ovmessie viermieprogrammine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi kaller derfor alt dette for infrastruktur og næringsnettverk.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mijjieh dan åveste gaajhkem gohtjebe infrastruktuvre jïh jielemeviermie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen er pådriver for å bygge ut bredbånd i Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte lea tsevtsiedæjja juktie gamtebaantem vijriedidh NoerhteTrööndelagesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utbygging av raskt bredbånd også i de ikke kommersielle områdene av fylket er viktig for næringsutvikling og bolyst.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vijriedimmie varke gamtebaanteste aaj dejnie ij-kommersijelle dajvine fylhkeste lea vihkeles jielemeevtiedimmien jïh årromelastoen gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen vil derfor bidra til å fullføre utbygging av moderne infrastruktur som bredbånd og mobiltelefoni over hele fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte sæjhta dan åvteste viehkiehtidh vijriedimmiem daajbaaletje infrastruktuvreste illedh goh gamtebaante jïh mobijletellefovnije abpe fylhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunene og fylkeskommunen er en viktig del av infrastrukturen gjennom å sikre gode tjenestetilbud for innbyggere og næringsliv i fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelth jïh fylhkentjïelte leah akte vihkeles bielie infrastruktuvreste dan åvteste dah hijven dïenesjefaalenassh årroejidie jïh jieliemasse fylhkesne huksieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et samfunn i endring krever en utviklingsorientert offentlig sektor, der tjenestetilbudet utvikles i takt med samfunnsendringene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte siebriedahke jarkelimmesne aktem byögkeles suerkiem kreava mij evtiedimmiem krööhkie, jïh gusnie dïenesjefaalenasse evtiesåvva siebriedahken jarkelimmiejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her er FoU er et viktig virkemiddel.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie FoU akte vihkeles tsavtshvierhtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er etablert ordninger som kan stimulere til dette, f.eks. offentlige utviklingskontrakter og Regionale Forskningsfond.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj öörnegh tseegkesovveme mah maehtieh disse skreejredh, v. g byögkeles evtiedimmielatjkoeh jïh Regijovnale Dotkemefoenth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har seks ulike innovasjonsmiljøer i Nord-Trøndelag som er tatt opp i nasjonale program.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagesne govhte joekehts innovasjovnebyjresh mah leah meatan vaaltasovveme nasjovnaale programmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse selskapene skal bidra til god samhandling mellom gründere, bedrifter og FoU-miljø og hjelpe fram gründerbedrifter som er knyttet til miljøene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah sïelth edtjieh hijven ektiedahkoem buektedh gründeri, sïelti jïh FoU-byjresi gaskem, jïh gründeresïeltide åvtese viehkiehtidh mah leah byjresidie viedteldihkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Erfaring viser at innovasjoner skjer lettere i en bedriftsklynge enn i den enkelte bedrift.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dååjrehtimmie vuesehte innovasjovnh aelhkebe jåhta aktene sïeltetjomhpesne goh dennie aktegs sïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De siste årene er det etablert flere bedriftsklynger i Nord-Trøndelag og tre av disse har fått nasjonal finansiering gjennom Arena-programmet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej minngemes jaepiej dle jienebh sïeltetjomhph tseegkesovveme Noerhte-Trööndelagesne, jïh golme dejstie leah nasjovnaale beetnegh åådtjeme Arena-programmen tjïrrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg er det flere bedriftsnettverk i Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine jienebh sïelteviermieh Noerhte-Trööndelagesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse miljøene bør støttes og videreutvikles.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Byöroe daejtie byjresidie dåarjodh jïh vijriesåbpoe evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på tiltak for bedre infrastruktur og næringsnettverk:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies råajvarimmieh akten buerebe infrastruktuvrese jïh jielemeviermieh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Legge til rette for ytterligere fiberdekning og bedre mobildekning</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Vielie fijberasse jïh buerebe mobijlegaptjesasse sjïehteladtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Bidra til å støtte tilretteleggende tiltak som støtter opp omkring satsingen på</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Viehkiehtidh sjïehteladtije råajvarimmieh dåarjedidh mah aktegsïelti barkoem dåarjede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Bidra til utvikling av innovasjonsmiljøene som er tatt opp i nasjonale programmer</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Viehkiehtidh dejtie innovasjovnebyjresidie evtiedidh mah leah meatan vaaltasovveme nasjovnaale programmine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Støtte opp omkring bedrifter og miljøer som ønsker å utvikle seg innenfor klynger og bedriftsnettverk</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sïelth jïh byjresh dåarjedidh mah sijhtieh jïjtjemse evtiedidh tjomhpi jïh sïelteviermiej sisnjeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Legge til rette for økt bruk av FoU for å utvikle offentlige tjenester</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sjïehteladtedh lissiehtamme åtnose FoU'ste juktie byögkeles dïenesjh evtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5.2. Rekruttering til nordtrøndersk arbeids- og næringsliv Rekruttering av kompetent arbeidskraft, spesielt til fagstillinger som krever fagbrev og høyere utdanning, vil i framtida fortsatt være krevende både for næringsliv og offentlig sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5.2. Noerhte-tröönderen barkoe- jïh jieliemasse dåårrehtidh Maehteles barkoefaamoem dåårrehtidh, joekoen faagebarkojde mah faageprieviem jïh jollebe ööhpehtimmiem krievieh, sæjhta båetijen aejkien annje krievije årrodh, dovne jieliemasse jïh byögkeles suarkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På samme måte vil tilgang til arbeidsplasser for par i samme arbeidsmarkedsregion og muligheter for karriereutvikling være en utfordring.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seammalaakan dle sæjhta akte haesteme årrodh barkoesijjieh paarride skååffedh seamma barkoemaarkederegijovnesne, jïh nuepieh karrierem evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidsinnvandring er nødvendig for at enkelte sektorer skal få dekket behovet for relevant arbeidskraft, og integrering og inkludering av innvandrere blir derfor viktig og gir muligheter i mange kommuner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïjs-juhtijh mah diekie båetieh barkoen gaavhtan leah daerpies ihke såemies sektovrh edtjieh sijjen daerpies sjyöhtehke barkoefaamoen åadtjodh, jïh sjïehtesjimmieh jïh ektiedimmie sïjs-juhtijijstie sijhtieh dan åvteste vihkeles sjïdtedh jïh nuepieh vedtedh gelline tjïeltine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Konkurransen om arbeidskraften er global.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Abpe veartene barkoefaamoen bïjre gaehtjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor må det tas hensyn til de etiske spørsmål som reises i forbindelse med rekruttering av arbeidskraft fra fattige land.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste tjuara krööhkedh dejtie etihkeles gyhtjelasside mah båetieh gosse barkoefaamoem giefies laantijste dåårrehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag har en utfordring i å synliggjøre at fylket er et attraktivt bostedsalternativ både når det gjelder infrastruktur, servicetilbud samt sosiale og kulturelle betingelser.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagen akte haesteme vuesiehtidh fylhke akte fryöjstehke årromesijjiealternatijve, dovne infrastruktuvren, hoksehtimmiefaalenassen jïh aaj sosijaale jïh kultuvrelle tsiehkiej bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er et stort samfunnsproblem at ungdom faller utenfor skole og arbeidsliv.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte stoerre dåeriesmoere siebriedahkesne noerh skuvlen jïh barkoejieleden ålkolen gehtjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis man fikk flere av disse ungdommene inn i utdanning eller jobb, ville det ha positive effekter på rekrutteringsutfordringene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis jienebh daejstie noerijste ööhpehtæmman jallh barkose åadtjoeji, dle lij sïjhteme hijven årrodh haestiemidie dåårrehtimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her må ansvarlige aktører jobbe helhetlig og samhandle om iverksetting av konkrete og målrettede tiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie dah aktöörh mah dïedtem utnieh, tjuerieh ellieslaakan jïh ektesne barkedh juktie vihties jïh ulmiestuvreldh råajvarimmiejgujmie nïerhkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oppvekstprogrammet i Nord-Trøndelag er et viktig verktøy i denne sammenheng.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Byjjenimmieprogramme Noerhte-Trööndelagesne lea akte vïhkeles dïrrege daennie sjïekenisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på tiltak for rekruttering:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie maahta dåårrehtidh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Tilrettelegge for rekruttering og inkludering av utenlandsk arbeidskraft</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sjïehteladtedh ålkoelaanten baarkoefaamoem dåårrehtidh jih sjïehtesjidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Bedre tilpasning mellom utdanning og arbeidslivets behov for kompetanse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Buerebe sjïehtedimmie ööhpehtimmien jïh barkoejieleden maahtoe- daerpiesvoeten gaskem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Legge til rette for å beholde og utvikle kompetanse i næringer/bransjer</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sjïehteladtedh maahtoem jielieminie/suerkine utniehtidh jïh evtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Utvikle steder hvor det både er attraktivt å bo og å etablere seg</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Sijjieh evtiedidh gusnie dovne fryöjstehke årrodh jïh orrejidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Legge til rette for aktivt utviklingsarbeid</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Akten eadtjohke evtiedimmiebarkose sjïehteladtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5.3. Kompetanse for framtidig næringsvirksomhet Framtidige arbeidsplasser i Norge vil være kompetansekrevende.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>5.3. Maahtoe akten båetijen aejkien jielemegïehtelæmman Båetijen aejkien barkoesijjieh Nöörjesne sijhtieh maahtoem krïevedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kompetanse har stor betydning for innovasjonsevne og vekstkraft i næringslivet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahtoe lea joekoen vihkeles innovasjovnemaehtelesvoeten jïh evtiedimmiefaamoen gaavhtan jieliemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er derfor nødvendig for nordtrøndersamfunnet å investere i kompetanse på alle nivå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste daerpies dan noerehtröönderen siebriedahkese maahtoem skåårvedh gaajhkine daltesinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Høgskolen i Nord-Trøndelag og kunnskapsmiljøene for øvrig må tilby sin kompetanse eksternt og næringslivet må i større grad se gevinstene med samarbeid med kunnskapsmiljøene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagen Jïlleskuvle jïh jeatjah daarjoebyjresh tjuerieh sijjen maahtoem olkese faalehtidh, jïh jieleme tjuara væjhkalåbpoe årrodh dïenestidie vuejnedh gosse daajroebyjresigujmie laavenjostoe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nordtrøndersk næringsliv er lite internasjonalt orientert.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhtetröönderen jieleme lea vaenie gaskenasjovnaale maarkeden vööste stuvreme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Betydningen av ny kunnskap gjennom nettverk og strategiske allianser internasjonalt øker.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie vihkelesvoete orre daajroste viermiej jïh strategeles ektiedimmiej tjïrrh læssene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For næringslivet er det viktig å opparbeide seg tilstrekkelig markedskompetanse for å kunne virkeliggjøre internasjonale markedsmuligheter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jielemen gaavhtan dle vihkeles nuekies maarkedemaahtoem reebledh juktie dejnie gaskenasjovnaale maarkedenuepine lyhkestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Enkelte industri- og kunnskapsmiljø i fylket har markert seg på landsbasis, og denne posisjonen er nådd med utgangspunkt i innovasjon, kompetanse- og teknologiutvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies industrije- jïh daajroebyjresh fylhkesne leah våajnoes sjïdteme laantesne, jïh daam sijjiem jakseme innovasjovnen jïh maahtoe- jih teknologijeevtiedimmien gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å utfordre fylkets kunnskapsaktører og bedrifter til nærmere samhandling om målrettede satsinger som kan bidra til næringsmessig vekst.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles fylhken daarjoeaktööride jïh sïeltide haestedh lïhkebelaakan laavenjostedh ulmiestuvreldh barkoej bïjre mah maehtieh jielemem sjïidtedehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forskning og utvikling skjer både direkte i bedriftene og på de enkelte forskningsinstitusjoner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dotkeme jïh evtiedimmie leah dovne sïeltine jïh fïereguhtene dotkemeinstitusjovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Økt bruk av forskning er nødvendig for å videreutvikle det nordtrønderske næringslivet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissiehtamme åtnoe dotkemistie lea daerpies juktie dam noerhtetröönderen jielemem evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regional FoU-strategi for Trøndelag vil være førende for satsinger innenfor RUP-partnerskapet i 2013.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale FoUstrategije Trööndelagese sæjhta otnjegem vuesiehtidh dejtie barkojde mah leah RES-guejmievoeten 2013 sisnjelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eksempler på tiltak for økt kompetanse:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies råajvarimmieh lissiehtamme maahtose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Tilrettelegge for mer samhandling mellom næringslivet og FoU-institusjonene</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Vielie ektiedahkose sjïehteladtedh jielemen jïh FoU-institusjovni gaskem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Tilby et utdanningstilbud som gir muligheter for å tilegne seg den kunnskap som næringslivet etterspør.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Aktem ööhpehtimmiefaalenassem faalehtidh mij nuepieh vadta dam daajroem vejtiestidh man mietie jieleme gihtjie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette omfatter også tilbud innen etter- og videreutdanning</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate aaj faalenassh minngie- jïh jåarhkeööhpehtimmien sisnjelen feerhmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Tilrettelegge for desentralisert etter- og videreutdanning</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Desentraliseradamme minngie- jïh jåarhkeööhpehtimmiem sjïehteladtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Utvikle bestillerkompetansen i næringslivet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Dongkememaahtoem jieliemisnie evtiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Sikre at alle prosjekter som finansieres via RUP koordineres med pågående satsinger innenfor VRI Trøndelag og Regionalt Forskningsfond Midt-Norge</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Hoksedh gaajhkh prosjekth mah beetnegh åadtjoeh RES'en baaktoe, iktesuvvieh juhtije barkoejgujmie VRI Trööndelagen jïh Regijovnale Dotkemefoenten Gaske-Nöörje sisnjeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6. ØKONOMISKE VIRKEMIDLER OG VIRKEMIDDELAKTØRER</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6. EKONOMELES TSAVTSHVIERHTIEH JÏH TSAVTSHVIERHTIEAKTÖÖRH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette kapitlet omtales fylkeskommunens utviklingsmidler, samt områder i utviklingsarbeidet hvor fylkeskommunen overfører midler til andre virkemiddelaktører, som Innovasjon Norge og kommunene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate kapihtele lea fylhkentjïelten evtiedimmievierhtiej bïjre, jïh suerkieh evtiedimmiebarkosne gusnie fylhkentjïelte vierhtieh jeatjah tsavtshvierhtieaktööride sertie, goh Innovasjovne Nöörje jïh tjïelth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse satsingene er en viktig del av fylkeskommunens partnerskapsarbeid og fylkeskommunen har, i tillegg til finansieringsrollen, også viktige roller i oppfølgingen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah barkoeh leah akte vihkeles bielie fylhkentjïelten guejmievoetebarkoste, jïh fylhkentjïelte, lissine beetnehvierhtieråållese, aaj vihkeles råållah dennie vijriesåbpoe gïetedimmesne åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er førende for alle aktørene som er omtalt i programmet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES gaajhkh aktöörh stuvrie mah leah ållermaahteme programmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.1. Fylkeskommunale utviklingsmidler Programmets utviklingsinnsats skal ivareta hele fylket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.1. Fylhkentjïelten evtiedimmievierhtieh Programmen evtiedimmiebarkoe edtja abpe fylhkem gorredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De økonomiske virkemidlene kommer i hovedsak fra KRD med føringer om at midlene skal styrke grunnlaget for bosetting og verdiskaping i områder og landsdeler med særlige utfordringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah ekonomeles tsavtshvierhtieh åajvahkommes TRD'ste båetieh, mij stillie vierhtieh edtjieh årromevåaromem jïh aarvoesjugniedimmiem nænnoestehtedh dajvine jïh laantebieline gusnie sjïere haestemh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Midlene skal i hovedsak brukes innenfor det distriktspolitiske virkeområdet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja åajvahkommes vierhtide dajvepolitihkeles barkoedajven sisnjelen nåhtadidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>90 prosent av fylkeskommunens utviklingsmidler skal gå til prosjekter der målet direkte eller indirekte er næringsutvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>90 prosenth fylhkentjïelten evtiedimmievierhtijste edtjieh prosjektide juhtedh gusnie ulmie ryöktesth jallh ovryöktesth lea jielemeevtiedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunens utviklingsmidler skal gå til nye og pågående utviklingsprosjekter i samsvar med programmets mål og innsatsområder.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelten evtiedimmievierhtieh edtjieh orre jïh juhtije evtiedimmieprosjektide årrodh mah leah programmen ulmien jïh barkoesuerkiej mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Driftsoppgaver støttes ikke.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij dåarjoem åadtjoeh sïelten gïehtelæmman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen støtter tilretteleggende utviklingsprosjekter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte sjïehteladtije evtiedimmieprosjekth dåarjede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sammenheng med gjeldende politikk, planer og bransjestrategier skal synliggjøres.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Edtja ektiedimmiem sïejhme politihkine, soejkesjigujmie jïh suerkiestrategijigujmie vuesiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Prosjekter må sannsynliggjøre en regional effekt, eksempelvis effekt ut over en kommune.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prosjekth tjuerieh aktem regijovnale effektem utnedh, vuesiehtimmien gaavhtan vijriebasse goh akten tjïeltese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP representerer ikke økonomiske virkemidler for utbygging av offentlig fysisk infrastruktur som veier, flyplasser, broer og bane.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES ij naan ekonomeles tsavtshvierhtieh utnieh juktie byögkeles fysiske infrastruktuvrem bïgkedh, goh geajnoeh, gïrtesijjieh, pruvvieh jïh baanah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nasjonal Transportplan og Fylkesvegplanen er de viktigste plandokumenter i denne sammenheng.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nasjonal Transportplan jïh Fylhkengeajnoesoejkesje leah dah vihkielommes soejkesjetjaatsegh daennie sjïekenisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være aktuelt å støtte utredninger og forprosjektoppgaver innenfor infrastrukturområdet med regionale utviklingsmidler.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta sjyöhtehke årrodh salkehtimmieh jïh åvteprosjekte-laavenjassh infrastruktuvresuerkien sisnjelen dåarjodh regijovnale evtiedimmievierhtiejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunale planprosesser støttes ikke.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïelten soejkesjeprosessh eah dåarjoem åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP-midler skal ikke brukes til oppfølging av Oppvekstprogrammets anbefalinger og tiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES-vierhtieh eah edtjh åtnasovvedh akten vijriesåbpoe gïetedæmman Byjjenimmieprogrammen juvnehtimmijste jïh råajvarimmijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Men avleda prosjekt som er i samsvar med RUP-ens prioriteringer, kan være aktuelle for finansiering gjennom programmet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Men prosjekth mah leah akte illedahke daejstie jïh leah RES'en prijoriteeti mietie maehtieh beetnehvierhtieh åadtjodh programmen tjïrrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2. Programområder med egne økonomiske rammer</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2. Programmesuerkieh jïjtsh ekonomeles mieriejgujmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.1. Interreg</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.1. Interreg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjeldende interregprogram går fra 2007-2013. Fylkeskommunen har positive erfaringer med samarbeidet Trøndelag – Jämtland og deltar i Interreg IV-A (Sverige/Norge) som kom i gang i 2008.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daaletje interregprogramme lea 2007 raejeste 2013 raajan. Fylhkentjïelte hijven dååjrehtimmieh åtna laavenjostojne Trööndelage- Jiemhte, jïh lea meatan programmesne Interreg IV-A (Sveerje/Nöörje), mij eelki 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den sørsamiske interregsatsingen er lagt til Interreg IV-A NORD-programmet og Nord-Trøndelag fylkeskommune har sekretariatet for dette Program er utarbeidet for de ulike interregprogrammene og fylkeskommunen medfinansierer prosjekt med midler avsatt i RUP.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte åarjelsaemien interregbarkoe lea biejesovveme Interreg IV-A NORDprogrammese jïh Noerhte-Trööndelaagen fylhkentjïelte lea tjaelijesijjie dïsse. Programme lea dorjesovveme dejtie ovmessie interregprogrammide jïh fylhkentjïelte lea meatan beetnegh dåårje vierhtiejgujmie mah leah RES'sne lyjkeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan også stimuleres til deltakelse i andre EU-programmer med disse midlene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj skreejredh meatan årrodh jeatjah EU-programmmine daej vierhtiejgujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.2. Omstilling</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.2. Jarkelimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved ekstraordinære utfordringer knyttet til nedleggelse av næringsvirksomhet i en kommune, kan det søkes om status som omstillingskommune (”Statlig ekstrainnsats i omstillingsområder”).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis gaajh sjïere haestemh gosse jielemegïehtelimmine orrije aktene tjïeltesne, dle maahta staatusen bïjre syökedh goh jarkelimmietjïelte ("Staateles lissiedåarjoe jarkelimmietjïeltine").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både kommunen selv, fylkeskommunen, Innovasjon Norge og staten har da et langsiktig oppfølgingsansvar.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie dovne jïjtjehke tjïelte, fylhkentjïelte, Innovasjovne Nöörje jïh staate aktem guhkies dïedtem utnieh dan vijriesåbpoe gïetedimmien åvteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I NordTrøndelag er det for tiden en region og to kommuner som følges opp spesielt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie akte regijovne jïh göökte tjïelth Noerhte-Trööndelagesne mah sjiere vijriesåbpoe gietedimmiem åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Meråker kommune fikk i 2007 status som omstillingskommune som følge av at Elkem la ned smelteverksdrifta i Kopperå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Meråkeren tjïelte staatusem jarkelimmietjïeltine åadtjoeji jaepien 2007, dan åvteste Elkem sjalkedahkine orriji Kopperåsne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen fikk i 2007 fra KRD tilført kr. 25 mill. for omstillingsperioden (2008-13), og det forventes at fylkeskommunen tilfører kommunen en ekstrainnsats på kr. 11 mill. Det avsettes i 2013 kr. 4. 130.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte 25 mill. kr TRD'ste åadtjoeji jaepien 2007 jarkelimmieboelhkese (2008-13), jïh veanhtede fylhkentjïelte aktem lissiedåarjoem 11 mill. kråvnine tjïeltese vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 av den statlige rammen og kr. 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2013 dle 4.130.000 kr lyjke dehtie staateles miereste, jïh 1.800.000 kr fylhkentjïelteste daan barkose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Prosjektet gjennomføres etter oppdaterte planer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjïrrehte prosjektem orrestehteme soejkesji mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er igangsatt et strategisk arbeid for oppfølging av omstillingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daelie aktine strategeles barkojne nïerhkeme juktie jarkelimmiebarkoem vijriesåbpoe gïetedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nærøy kommune har de siste årene mistet et betydelig antall arbeidsplasser.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nærøyen tjïelte lea dej minngemes jaepiej gellie barkoesijjieh dasseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som følge av dette har fylkeskommunen fått ekstrabevilgninger over Statsbudsjettet som sammen med bidrag fra fylkeskommunen og de tre kommunene i Ytre Namdal (Nærøy, Leka og Vikna), har gitt grunnlag for et regionalt omstillingsprosjekt med årlig ramme på kr. 6 mill.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åvteste dle fylhkentjïelte lissiedåarjoeh åådtjeme Staatebudsjedten bijjelen, mah dåarjojne ektine fylhkentjïelteste jïh dejstie golme tjïeltijste Byjngetje Nåamesjevuemesne (Nærøy, Leka jïh Vikna), våaromem vadteme akten regijovnale jarkelimmieprosjektese, aktine fïerhtenjaepien mierine 6. mill. kråvnine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Omstillingsarbeidet ble igangsatt høsten 2010 og forutsatt statlig oppfølging på samme nivå som tidligere år vil samme ramme for fylkeskommunens bidrag legges til grunn i 2013.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jarkelimmiebarkoe eelki tjaktjen 2010 jïh jis staateles vijriesåbpoe gïetedimmie seamma daltesisnie sjædta goh aarebi jaepiej, dle sæjhta seamma mieriem fylhkentjïelten dåarjose våaroemasse bïejedh 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I august 2012 besluttet styret i Sødra Cell AS å avvikle sitt eierskap i Sødra Cell Folla AS.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mietsken 2012 dle Sødra Cell AS'en ståvroe sjæjsjali sov aajhterevoetem orrijidh Sødra Cell Folla AS'sne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den umiddelbare virkningen av dette var at grunnlaget for nærmere 70 arbeidsplasser i Verran kommune falt bort.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte varke illedahke destie lij mahte 70 barkoesijjieh Verran'isnie gaarvanin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I denne situasjonen har kommunen med støtte fra et bredt regionalt partnerskap iverksatt et forprosjekt med tanke på et omstillingsarbeid i kommunen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse naemhtie sjïdti dle tjïelte dåarjojne aktede gamte regijovnale guejmievoeteste, aktine åvteprosjektine nïerhkeme juktie aktem jarkelimmiebarkoem aelkedh tjïeltesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen har intensjon om en omstillingsinnsats i Verran på kr. 3 mill. Innretning og omfang på dette arbeidet vil bli avklart gjennom forprosjektet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte veanhtede jarkelimmiedåarjoe Verranisnie 3. mill kr sjædta. Guktie jïh man stoerre daate barkoe sjædta sæjhta åvteprosjekten tjïrrh tjïelkestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innovasjon Norge har sammen med fylkeskommunen en faglig oppfølgingsrolle opp mot disse kommunene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Innovasjovne Nöörje, fylhkentjïeltine ektine, aktem faageles vijriesåbpoe gïetedimmieråållam åtna daej tjïelti vööste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Erfaringer fra tidligere omstillingsprosjekter vil være en del av denne oppfølgingen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dååjrehtimmieh aarebi jarkelimmieprosjektijste sæjhta akte bielie årrodh daehtie vijriesåbpoe gïetedimmeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.3. Sørsamisk språk, næring og kultur Nord-Trøndelag har en sørsamisk befolkningsgruppe.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.3. Åarjelsaemien gïele, jieleme jïh kultuvre Noerhte-Trööndelagesne åarjelsaemien årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tradisjonelt er den sørsamiske kulturen sterkt knyttet til reindriftsnæringen som har utviklet seg til å være en hovedbærer av den sørsamiske kulturen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aerpievuekien mietie dle åarjelsaemien kultuvre lea tjarke viedteldihkie båatsose mij åejvieguedtijinie evtiesovveme dehtie åarjelsaemien kultuvreste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Høgskolen i Nord-Trøndelag har den nasjonale rollen innen høyere utdanning når det gjelder sørsamisk språk og kultur.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelagen Jïlleskuvle dam nasjovnaale råållam åtna jollebe ööhpehtimmien sisnjelen gosse lea åarjelsaemien gïelen jïh kultuvren bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Grong videregående skole har et tilsvarende ansvar innen videregående opplæring i Nord-Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kråangken jåarhkeskuvle aktem seammalaakan dïedtem åtna jåarhkeööhpehtimmien sisnjelen Noerhte-Trööndelagesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nord-Trøndelag har en betydelig satsing på sørsamisk språk, næring og kultur.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Noerhte-Trööndelage åarjelsaemien gïelem, jielemem jïh kultuvrem tjarke dåarjede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Se også kap. 6.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuartesjh aaj kap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2. 1 Interreg med en egen sørsamisk satsing.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.1 Interreg, mij jïjtselaakan dam åarjelsaemien bieliem dåarjede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.4. Kompensasjonsmidler for regionalt differensiert arbeidsgiveravgift I 2007 ble regionalt differensiert arbeidsgiveravgift (RDA) gjeninnført.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.4. Kompensasjovnevierhtieh regijovnale joekehtamme barkoevedtijemaaksoen åvteste Jaepien 2007 dle regijovnale barkoevedtijemaaksoe (daroen RDA) vihth sjïehtesjamme sjïdti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bortsett fra Leksvik og Frosta, fikk alle kommunene i fylket ordningen tilbake som tidligere.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bielelen Leksvik jïh Frosta, dle gaajhkh tjïelth fylhkesne öörnegem bååstede åadtjoeji goh aarebi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Statsbudsjettet mottar fylkeskommunene midler over kap. 551 post 61 for en ekstrainnsats i kommuner med bedrifter som ikke fikk tilbake ordningen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Statebudsjedtesne fylhkentjïelth vierhtieh åadtjoeh kap. 551 påaste 61 bijjelen, akten lissiebarkose dejnie tjïeltine sïeltigujmie mah idtjin öörnegem bååstede åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordningen er todelt:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörnege lea juahkeldh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> direktekompensasjon til bedrifter for økte kostnader.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• ryöktesth kompensasjovne sïeltide lissiehtamme maaksoej åvteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I og med at de aller fleste kommunene i Nord-Trøndelag har fått tilbake ordningen, er dette beskjedne beløp for vårt fylke (i 2012 kr. 880.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan åveste dah jeenjemes tjïelth Noerhte-Trööndelagesne dam öörnegem bååstede åådtjeme, dle ij leah dan jïjnjh beetnegh mijjen fylhkese (880.000 kr jaepien 2012).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Midler som tilflyter fylket innenfor ordningen fordeles i samarbeid med berørte kommuner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vierhtieh mah fylhkese båetieh öörnegen sisnjelen juakasuvvieh laavenjostosne dej sjyöhtehke tjïeltigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> bevilgning som har sitt opphav i endringer i beregningsgrunnlaget for kompensasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• dåarjoe mij aalkoelistie bööti dejstie jarkelimmijste ryöknemevåaroemisnie kompensasjovnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2012 fikk Nord-Trøndelag tildelt en pott på kr. 9. 1 mill. øremerket utbygging av bredbånd og annen infrastruktur.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2012 Noerhte-Trööndelage aktem tjomhpem åadtjoeji 9,1 mill. kråvnine, mah lin bieljiemïerhkeme vijriedimmiem gamtebaanteste jïh jeatjah infrastruktuvre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordningen videreføres i 2013, men fordelingen er ikke klar før våren 2013.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörnege jåarhka 2013, men joekedimmie ij leah gaervies åvtelen gïjren 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.5. VRI Trøndelag VRI Trøndelag (Virkemidler for regional FoU og innovasjon) er et samarbeid mellom forskningsmiljø, virkemiddelaktører og næringsliv i Trøndelag.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.5. VRI Trøndelag VRI Trøndelag (daaroen Virkemidler for regional FoU og innovasjon) lea akte laavenjostoe gaskem dotkemen byjresh, tsavtshvierhtieaktöörh jïh jielemem Trööndelagesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom VRI Trøndelag kan bedrifter i regionen få tilgang til FoU-basert bistand i sine utviklingsprosesser (FoU: forskning og utvikling).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>VRI Trööndelagen tjïrrh dle regijovnen sïelth maehtieh FoUviehkiem åadtjodh sijjen evtiedimmieprosessine (FoU: dotkeme jïh evtiedimmie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom ordninger som kompetansemegling og studentmobilitet kan VRI Trøndelag bidra til å finne den beste kompetansen i forhold til bedriftens utfordringer, og gi økonomisk støtte til innkjøp av denne kompetansen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörnegi tjïrrh goh maahtoedeanahtimmie jïh studentemobijliteete, Vri Trööndelage maahta viehkiehtidh dam bööremes maahtoem gaavnedh sïelten haestiemidie, jïh ekonomeles dåarjoem vedtedh dam maahtoem åestedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Satsingsområdene i VRI Trøndelag er mat, fornybar energi og miljøteknologi og opplevelsesnæringer.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah sjïere barkoesuerkieh VRI Trööndelagesne leah beapmoe, orrestimmeles energije jïh byjreseteknologije jïh dåårjesejielemh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I enkelte tilfeller kan også prosjekter utenfor disse innsatsområdene støttes.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akti veajkoej dle maahta aaj prosjekth daej barkoesuerkiej ålkoli dåarjedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.2.6. Regionalt Forskningsfond Midt-Norge Det midtnorske forskningsfondet er et samarbeid mellom fylkene Nord-Trøndelag, Sør-Trøndelag og Møre og Romsdal.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.2.6. Regijovnale Dotkemefoente Gaske-Nöörje Gaskenöörjen dotkemefoente lea akte laavenjostoe fylhki gaskem NoerhteTrööndelagesne, Åarjel-Trööndelagesne jïh Møre jïh Romsdaelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fondet disponerer en årlig ramme på om lag 25-30 mill. kroner og satsingsområdene er marin sektor, mat, maritim sektor, olje/gass, fornybar energi og miljøteknologi og innovasjon i offentlig sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Foente aktem fïerhten jaepien mieriem åtna medtie 25-30 mill. kråvnine, jïh sjïere barkoesuerkieh leah marijne suerkie, beapmoe, ålja/gaasse, orrestimmeles energije jïh byjreseteknologije jïh innovasjovne byögkeles suerkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målet med ordningen er å styrke forskning for regional innovasjon og regional utvikling og mobilisere til økt FoU-innsats i regionene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörnegen ulmie lea dotkemem nænnoestehtedh regijovnale innovasjovnese jïh regijovnale evtiedæmman, jïh skreejredh lissiehtamme FoU'barkose regijovnine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Videre skal de regionale forskningsfondene bidra til økt forskningskvalitet og utvikling av gode og konkurransedyktige FoU-miljøer i regionene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah regijovnale dotkemefoenth edtjieh aaj lissiehtamme dotkemekvaliteetine viehkiehtidh, jïh hijven FoU-byjresh regijovnine evtiedidh, mah maehtieh meatan årrodh gaahtjemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.3. Samlet fylkeskommunal utviklingsinnsats i RUP 2013</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.3. Tjåenghkies fylhkentjïelten evtiedimmiebarkoe RES'sne 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilgang virkemidler 2013: Regionale utviklingsmidler: KRD utviklingsmidler (kap. 551 post 60) 102.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissiehtasse tsavtshvierhtieh 2013: Regijovnale evtiedimmievierhtieh: TRD evtiedimmievierhtieh (kap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>190. 000 KRD Interregmidler sentralt (kap. 551 post 60) 5.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>551 påaste 60) 102.190.000 TRD Interregvierhtieh staateles (kap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 KRD ekstrainnsats omstilling (Meråker, fond) 4.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>551 påaste 60) 5.490.000 TRD lissiebarkoe jarkelimmie (Meråker, foente) 4.130.000 Laanteburrie- jïh beapmoedepartemeente (RLK-vierhtieh) 1.740.000 FT Fylhkentjïelten evtiedimmievierhtieh 26.770.000 Summe regijovnale evtiedimmievierhtieh 140.320.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Øremerkede midler: KD Spillemidler til idrettsanlegg, nærmiljøanlegg og kulturbygg 43.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bieljiemïerhkeldh vierhtieh: KD Tseegkeldahkide gaarsjelæmman, voengese jïh kultuvregåetide 43.000.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 FK Tilskudd til friluftsspel og festivaler 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>FT Dåarjoe ålkonespielide jïh festivaalide 1.100.000 FT Ålkoejieledevierhtieh 310.000 Summe bieljiemïerhkeldh vierhtieh: 44.410.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 Eventuelle restmidler fra 2012 Samlet utviklingsinnsats i 2013 184.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>SUMME orre vierhtieh 184.730.000 Eventuelle beetsuvevierhtieh jaepeste 2012 Tjåenghkies evtiedimmiedåarjoe 2013 184.730.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg kommer en del statlige virkemidler som tildeles i 2013. Nivået var i 2012: Sametinget Tospråklighetsmidler 1. 200.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine naan staateles tsavtshvierhtieh båetieh mah juakasuvvieh 2013. Daltese 2012 lij: Saemiedigkie Guektiengïelevoetevierhtieh 1.200.000 Eatnemereeremen direktovraate Ålkoejieledevierhtieh 600.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Direktoratet for naturforvaltning Midler til viltformål 400.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eatnemereeremen direktovraate Vierhtieh vijreåssjelidie 400.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>KRD Kompensasjonsmidler for regionalt differensiert arbeidsgiveravgift (RDA) 9.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TRD Kompensasjovnevierhtieh regijovnale joekehtamme barkoevedtijemaaksoe (RDA) 9.890.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fordeling virkemidler 2013: Bevilgninger til andre forvaltere: Innovasjon Norge 52.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Joekedimmie tsavtshvierhtieh 2013: Dåarjoeh jeatjah reerijidie Innovasjovne Nöörje 52.000.000 Tjïelten/regijovnale foenth 20.030.000 Jarkelimmietjïelth 13.430.000 Interreg 6.490.000 Summe dåarjoeh jeatjah reerijidie: 91.950.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Øremerkede midler forvaltet av fylkeskommunen: Sørsamisk språk, næring og kultur 500. 000 Rekruttering, likestilling og kompetanse i landbruket (RLK) 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bieljiemïerhkeldh vierhtieh reereme fylhkentjïelteste: Åarjelsaemien gïele, jieleme jïh kultuvre 500.000 Dåårrehtimmie, mïrrestalleme jïh maahtoe laanteburresne (RLK) 1.740.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 Fylkeskommunale friluftsmidler 310. 000 Spillemidler til idrettsanlegg, nærmiljøanlegg og kulturbygg 43.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelten ålkoejieledevierhtieh 310.000 Spïelevierhtieh tseegkeldahkide gaarsjelæmman jïh voengese jïh kultuvregåetide 43.000.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 Tilskudd til friluftsspel og festivaler 1.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåarjoe ålkoespïelide jïh festivaalide 1.100.000 Summe bieljiemïerhkeldh vierhtieh reereme fylhkentjïelteste 46.650.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Frie fylkeskommunale utviklingsmidler til satsinger i RUP 46.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Frijje fylhkentjïelten evtiedimmievierhtieh sjïere barkojde RES'sne 46.130.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 Eventuelle restmidler fra 2012 Samlet utviklingsinnsats i RUP 2013 184.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Beetsuvevierhtieh jaepeste 2012 Tjåenghkies evtiedimmiedåarjoe RES'sne 2013 184.730.000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åeniedimmieh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forkortelser: KRD: Kommunal- og regionaldepartementet RLK: Rekruttering, likestilling og kompetanse i landbruket KD: Kulturdepartementet FK: Fylkeskommunen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TRD: Tjïelten- jïh regijovnaledepartemeente RLK: Dåårrehtimmie, mÏrrestalleme jïh maahtoe laanteburresne, (RLK-daaroen åeniedimmie) KD: Kultuvredepartemeente FT: Fylhkentjïelte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.4. Innovasjon Norge Innovasjon Norge eies av Nærings- og handelsdepartementet og fylkeskommunene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.4. Innovasjovne Nöörje Jieleme- jïh åesiestimmiedepartemeente jïh fylhkentjïelth Innovasjovne Nöörjem eekieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontoret i Nord-Trøndelag er det redskap fylkeskommunen benytter i det bedriftsrettede arbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kontovre Noerhte-Trööndelagesne lea dïhte dïrrege maam fylhkentjïelte nåhtede dennie barkose mij lea sïelti vööste stuvreme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>000 til Innovasjon Norge til bedriftsutvikling og kr. 2.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2013 Fylhkentjïelte sæjhta 49.750.000 kråvnah sertiestidh Innovasjovne Nöörjese sïelteevtiedæmman, jïh 2.250.000 kråvnah skovhtedåarjose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tråd med de næringspolitiske utfordringer beskrevet foran, bes Innovasjon Norge arbeide med innovasjon, entreprenørskap og internasjonalisering.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej jielemepolitihkeles haestemi mietie, mah leah bijjielisnie neebneme, dle bïrrebe Innovasjovne Nöörjem innovasjovnine, entreprenørskapine jïh gaskenasjovnaliseradimmine barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innovasjon Norge bes også å videreføre etablereropplæringen på vegne av det regionale partnerskapet, samt å opprettholde innsatsen overfor ungdom og kvinner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïrrebe aaj Innovasjovne Nöörjem tseegkijelïerhtimmiem jåerhkedh dan regijovnale guejmievoeten åvteste, jïh barkoem tjåadjoehtidh noeride jïh nyjsenæjjide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som en følge av de prioriterte innsatsområdene bes Innovasjon Norge særlig å arbeide med bedriftsklynger og bedriftene i disse klyngene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej prijoriteradamme barkoesuerkiej gaavhtan dle bïrrebe Innovasjovne Nöörjem joekoen sïeltetjomhpigujmie barkedh, jïh sïeltigujmie daejnie tjomhpine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.5. Kommunalt arbeid for næringsutvikling Kommunene er førstelinjetjeneste i næringsutviklingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.5. Tjïelten barkoe jielemeevtiedimmien gaavhtan Tjïelth lea voesteslinjedïenesje jielemeevtiedimmiebarkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En viktig del av dette arbeidet er forvaltning av midler til regional utvikling på lokalt nivå.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Akte vihkeles bielie daehtie barkoste lea reereme vierhtijste regijovnale evtiedæmman voenges daltesisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen overfører vesentlige midler til kommunale/regionale fond.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelth jïjnjh vierhtieh tjïelten/regijovnale foentide sertieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>RUP er førende for forvaltningen av midlene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>RES stuvrie guktie edtja daejtie vierhtide reeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>KRD gjennomførte en evaluering av ordningen i 2011. Resultatene viser at midlene har bidratt til å styrke arbeidsplasser i det lokale næringslivet, til økt attraktivitet og hatt en viktig utløsende effekt på andre midler.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TRD aktem vuarjasjimmiem tjïrrehti öörnegistie jaepien 2011. Illedahkh vuesiehtieh dah vierhtieh leah viehkiehtamme barkoesijjieh nænnoestehtedh dennie voenges jieliemisnie, fryöjstehkevoetem lissiehtamme jïh aaj jeatjah vierhtieh loevenamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilbakemeldinger fra kommuner i Nord-Trøndelag er at fondene er et viktig virkemiddel for utviklingsarbeidet i egen kommune/region og gir mulighet for lokalpolitisk engasjement i næringsutviklingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh mah bååstede båateme tjïeltijste NoerhteTrööndelagesne jiehtieh foenth leah akte vihkeles tsavtshvierhtie evtiedimmiebarkose jïjtse tjïeltesne/regijovnesne, jïh nuepieh vedtieh voengepolitihkeles eadtjohke årrodh jielemeevtiedimmiebarkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I flere år har fylkeskommunen premiert regionalt samarbeid om forvaltning av kommunale/regionale fond ved bruk av stimuleringspenger.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gellie jaepieh dle fylhkentjïelte regijovnale laavenjostoem premijeradamme reeremen bïjre tjïelten/regijovnale foentijste, viehkine skreejremevierhtijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Begrunnelsen har vært at interkommunal organisering styrker kompetanse og kapasitet og bidrar til nødvendige grenseoverskridende perspektiver i utviklingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Buerkiestimmie orreme dïhte gaskenasjovnaale öörnedimmie maahtoem jïh barkoefaamoem nænnoestahta jïh viehkehte daerpies raastedåaresth perspektijvh buektedh evtiedimmiebarkosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Strukturene synes nå å være på plass og de fleste kommunene samarbeider om bruken av midlene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah struktuvrh leah stïeresne daelie, jïh dah jeanatjommes tjïelth vierhtieåtnoen bïjre laavenjostoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen ønsker fortsatt regional organisering av kommunale fond, men har tillit til at kommunene, basert på sine erfaringer med regionale fond, vil videreføre samarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte sæjhta annje regijovnale öörnedimmiem utnedh tjïelten foentijste, men leajhtede tjïelth, mah sijjen dååjrehtimmieh utnieh regijovnale foentigujmie, sijhtieh laavenjostoem jåerhkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra 2013 avsluttes derfor stimuleringsordningen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2013 raejeste dan åvteste skreejremeöörnege orrije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen vil, ut fra samme begrunnelse, ikke lengre legge føringer på hvor stor andel av fondene som legges ut til enkeltkommunene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte sæjhta, seamma buerkiestimmine, ij vielie bïhkedassh bïejedh man stoerre låhkoe foentijste mah aktegstjïeltide bïejesåvva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fondene vil bli tildelt regionrådene/kommunesamarbeidene slik at de vil fortsatt ha ansvar for forvaltning og rapportering.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sæjhta foentide sertedh regijovneraeride/tjïeltelaavenjostojde guktie dah annje sijhtieh dïedtem utnedh reermen jïh reektemen åvteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunen setter følgende forutsetninger til kommunene:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelte daejtie krïevenasside tjïeltide beaja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Samarbeidet mellom kommunene videreføres og videreutvikles</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Laavenjostoe tjïelti gaskem jåahka jïh vijriesåbpoe evtiesåvva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Kommunenes næringsapparat tar aktivt del i forvaltningen av fondene</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Tjïelti jielemeabparate eadtjohkelaakan meatan reeremisnie foentijste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Deltakelse i Nord-Trøndelag Forum for Næringsutvikling Samarbeidet om forvaltningen av fondene reguleres av årlige tildelingsbrev fra fylkeskommunen til kommunene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Meatan siebresne Nord-Trøndelag Forum for Næringsutvikling Jïjtsh latjkoeh dorjesuvvieh fïereguhtine foentine, aktine viedteldihkie laavenjostojne tjïelti jïh fylhkentjïelten gaskem dan vïjriesåbpoe gïetedimmien bïjre RES'este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fordelingen av fond er basert på KRD’s distriktspolitiske soner.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Joekedimmie foentijste lea TRD'en dajvepolitihkeles sovni mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Midler øremerket i statsbudsjettet for 2013 til kommunale fond, kr. 20.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vierhtieh mah leah bieljiemïerhkeme staatebudsjedtesne jaapan 2013 tjïelten foentide, 20.030.000 kr, naemhtie juakasuvvieh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sone IV (Leka, Vikna, Nærøy, Namsskogan, Røyrvik, Lierne, Høylandet, Grong, Snåsa, Fosnes, Overhalla, Namsos, Namdalseid, Flatanger, Verran, Mosvik, Meråker) får hver kommune kr. 855.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sovne IV (Leka, Vikna, Nærøy, Namsskogan, Raavrevijhke, Lijre, Hillaante Kråangke, Snåase, Fosnes, Overhalla, Namsos, Namdalseid, Flatanger, Verran, Mosvik, Meråker), fïerhte tjïelte åådtje kr. 855.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sone III (Leksvik, Inderøy, Steinkjer, Verdal, Frosta) får hver kommune kr. 810.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>S ovne III (Leksvik, Inderøy, Stientje, Verdal, Frosta), fïerhte tjïelte åådtje kr. 810.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sone II (Levanger) får kommunen kr. 745.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sovne II (Lievenge) tjïelte åådtje kr. 745.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sone I (Stjørdal) får kommunen kr. 700.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sovne I (Skierde) tjïelte åådtje kr. 700.000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vises for øvrig til vedlagte retningslinjer for bruken av fondene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjah gaavhtan vuesiehtibie bïhkedasside åtnoen bïjre foentijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6.6. Fylkesmannen i Nord-Trøndelag Fylkesmannen skal medvirke til at den nasjonale landbrukspolitikken blir gjennomført regionalt.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>6.6. Fylhkenålma Noerhte-Trööndelagesne Fylhkenålma edtja hoksedh daate nasjovnaale laanteburriepolitihke tjïrrehtamme sjædta regijovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkesmannen og kommunene forvalter en rekke ordninger retta mot miljø, jord- og skogbruk, samt nærings og bygdeutvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkenålma jïh tjïelth gellie öörnegh reerieh mah leah byjresen, jåarta- jïh skåajjeburrien vööste stuvreme, jïh jieleme- jïh voeneevtiedimmien vööste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nytt i 2013 er Regionalt Bygdeutviklingsprogram som er felles for Trøndelagsfylkene.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte mij lea orre 2013 lea Regijovnale Voeneevtiedimmieprogramme mij lea tjåenghkies Trööndelagen fylhkide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programmet er en oppfølging av Landbruksmelding for Trøndelag for 2010 og målsettingen er å styrke og samordne det regionale miljø- og næringsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Programme akte vijriesåbpoe gïetedimmie Laanteburriebïevnesistie Trööndelagese jaapan 2010, jïh ulmie lea nænnoestehtedh jïh iktedidh dam regijovnale byjrese- jïh jielemebarkoem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette skal bidra til økt mobilisering av lokale ressurser og bygge opp under den lokale vekstkraften.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daate edtja voenges vierhtieh skreejredh jïh voenges evtiedimmiefaamoem dåarjedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regionalt Bygdeutviklingsprogram består av tre fylkesvise strategier:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale Voeneevtiedimmieprogrammesne golme strategijh fïerhtene fylhkese:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regionalt næringsprogram (RNP), om bruken av bygdeutviklingsmidlene med målsetting å legge til rette for langsiktig og lønnsom verdiskaping i og i tilknytning til landbruket.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regijovnale jielemeprogramme (daaroen RNP), åtnoen bïjre voeneevtiedimmievierhtijste gusnie ulmie lea sjïehteladtedh akten aarvoesjugniedæmman mij guhkiem vaasa jïh mestie dïeneste sjædta, jïh aaj laantebårran ektiedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regionalt miljøprogram (RMP), om de regionale miljøtilskuddene til kulturlandskapstiltak samt reduksjon av landbruksforurensning.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regijovnale byjreseprogramme (daaroen RMP), dej regijovnale byjresedåarjoej bïjre råajvarimmide kultuvreeatnamisnie, jïh gïehpiedimmie dearjoste laanteburresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regionalt skog- og klimaprogram (RSK), om tilskuddsmidler knyttet til planlegging og gjennomføring av skog- og miljøtiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regijovnale skåajje- jïh byjreseprogramme (daaroen RSK), dåarjoevierhtiej bïjre ektiedamme soejkesjæmman jïh tjïrrehtæmman skåajje- jïh byjreseråajvarimmijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7. MÅL- OG RESULTATSTYRING</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>7. ULMIE- JÏH ILLEDAHKESTUVREME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hovedmålet for Regionalt utviklingsprogram for perioden 2013-2016 er ”Næringsvekst i Nord-Trøndelag”.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Regijovnale evtiedimmieprogrammen åejvieulmie boelhken 2013-2016 lea "Jielemeevtiedimmie Noerhte-Trööndelagesne".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkestinget er opptatt av i hvilken grad virkemiddelbruken gjennom programmet bidrar til å nå dette målet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkendigkie tuhtjie vihkeles daejredh mennie mieresne tsavtshvierhtieåtnoe programmen tjïrrh viehkehte daam ulmiem jaksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Effektmåling av virkemiddelbruken er viktig også for å sikre gode prioriteringer av virkemidlene og for evt. å kunne gjøre korrigeringer underveis.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Effektemööleme tsavtshvierhtieåtnoste lea aaj vihkeles juktie hijven prijoriteradimmieh tsavtshvierhtijste hoksedh, jïh kanne aaj staeriedimmieh darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mål- og resultatstyringen av virkemiddelbruken gjennom RUP gjennomføres slik: 1. Nasjonalt opplegg for effekt- og resultatmåling 2. Fylkeskommunens system for aktivitetsmåling 3. Eksterne evalueringer etter behov 4. Måloppnåelse av hovedmålet i RUP</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ulmie- jïh illedahkestuvreme tsavtshvierhtieåtnoste RES'en tjïrrh naemhtie dorjesåvva: 1. Nasjovnaale öörnege effekte- jïh illedahkemöölemasse 2. Fylhkentjïelten öörnege darjomemöölemasse 3. Byjngetje vuarjasjimmieh daerpiesvoeten mietie 4. Ulmiejakseme åejvieulmeste RES'sne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Opplegget for mål- og resultatstyring er beskrevet nærmere i vedlegg 2.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörnege ulmie- jïh illedahkestuvremasse lea veelebe buerkiestamme 2. lissietjaalegisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8. VEDLEGG</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>8. LISSIETJAALEGH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>VEDLEGG 1 REGIONALE PLANER OG STRATEGIER</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. LISSIETJAALEGE - REGIJOVNALE SOEJKESJH JÏH STRATEGIJH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversikt over de mest sentrale regionale planer og strategier som Regionalt utviklingsprogram skal medvirke til å oppfylle:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah vihkielommes regijovnale soejkesjh jïh strategijh mejtie Regijovnale evtiedimmieprogramme edtja viehkiehtidh illedh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Fylkesrådets politiske plattform "Nord-Trøndelag inn i framtida"</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Fylkesrådets politiske plattform "Nord-Trøndelag inn i framtida"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regional planstrategi for Nord-Trøndelag 2012-2016</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regional planstrategi for Nord-Trøndelag 2012-2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Marin Strategiplan Trøndelag 2011-2014</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Marin Strategiplan Trøndelag 2011-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Reiselivsstrategi for Trøndelag 2008-2020</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Reiselivsstrategi for Trøndelag 2008-2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Landbruksmelding for Trøndelag</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Landbruksmelding for Trøndelag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Landbruksmelding for Trøndelag - status og oppfølging</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Landbruksmelding for Trøndelag - status og oppfølging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Ungdomspolitisk plattform Nord-Trøndelag fylkeskommune 2012-2015</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Ungdomspolitisk plattform Nord-Trøndelag fylkeskommune 2012-2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Strategiplan for kulturnæringer Trøndelag 2009-2016</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Strategiplan for kulturnæringer Trøndelag 2009-2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> FoU-strategi for Trøndelag</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• FoU-strategi for Trøndelag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Klima- og energiplan Nord-Trøndelag</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Klima- og energiplan Nord-Trøndelag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Regionalt bygdeutviklingsprogram (vedtas desember 2012)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Regionalt bygdeutviklingsprogram (vedtas desember 2012)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Internasjonal strategi Trøndelag (vedtas desember 2012)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Internasjonal strategi Trøndelag (vedtas desember 2012)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Strategi for folkehelsearbeidet i Nord-Trøndelag 2011-2014</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Strategi for folkehelsearbeidet i Nord-Trøndelag 2011-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> Strategi for idrett og friluftsliv (2013-2016)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• Strategi for idrett og friluftsliv (2013-2016)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>VEDLEGG 2 MÅL- OG RESULTATSTYRING I RUP 2013</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. LISSIETJAALEGE - ULMIE- JÏH ILLEDAHKESTUVREME RES'SNE 2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkeskommunens virkemidler er i stor grad tilretteleggende.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fylhkentjïelten tsavtshvierhtieh leah uvtemes sjïehteladtije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Effekt- og resultatmåling av denne type støtte er utfordrende, både fordi effektene gjerne kommer flere år etter prosjektavslutning, fordi tilretteleggende prosjekter kan være vanskelig å se målbare resultater av, og fordi effekter av innsats påvirkes av eksterne forhold (eksempelvis konjunkturutviklingen).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Effekte- jïh illedahkemööleme daagkaristie dåarjoste lea akte haesteme, dovne dan åvteste dah effekth maaje båetieh gellie jaepiej mænngan prosjekte orrijamme, dan åvteste maahta geerve årrodh mööleldihkie illedahkh sjïehteladtije prosjektijste vuejnedh, jïh dan åvteste barkoeeffekth tsevtseme sjidtieh byjngetje tsiehkijste (vuesiehtimmien gaavhtan konjunktuvreevtiedimmie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mål- og resultatstyring av virkemiddelbruken gjennom RUP er 4-delt: 1. Nasjonalt opplegg for effekt- og resultatmåling 2. Fylkeskommunens system for aktivitetsmåling 3. Eksterne evalueringer etter behov 4. Måloppnåelse av hovedmålet i RUP</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ulmie- jïh illedahkestuvreme tsavtshvierhtieåtnoste RES'en tjïrrh lea 4 bieline juakeme: 1. Nasjovnaale öörnegh effekte- jïh illedahkemöölemasse 2. Fylhkentjïelten öörnege darjomemöölemasse 3. Byjngetje vuarjasjimmieh daerpievoeten mietie 4. Ulmiejakseme åejvieulmeste RES'sne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1. Nasjonalt opplegg for effekt- og resultatmåling Fylkeskommunen har innarbeidet det nasjonale opplegget for effekt- og resultatmåling som er utviklet av KRD.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1. Effekte- jïh illedahkemööleme Fylhkentjïelte lea dam nasjovnaale öörnegem effekte- jïh illedahkemöölemasse sjïehtesjamme, maam TRD lea evtiedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er koplet til sluttrapportering ifb. med utbetaling av tilskudd.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea galhkuvereektemasse aktannamme, gosse dåarjoem maaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Prosjektene skal rapportere på måloppnåelse, de viktigste resultater og forventede effekter.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prosjekth edtjieh reektedh mejtie ulmiem jakseme, dah vihkielommes illedahkh jïh veanhtadamme effekth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg skal det rapporteres på hvorvidt prosjektene har bidratt til:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lissine edtja reektedh mejtie prosjekte lea daam buektiehtamme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> bedret lønnsomhet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• buerebe dïeneste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> bedret konkurranseevne</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• bueriedamme gaahtjememaehtelesvoete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> opprettholde/videreutvikle eksisterende virksomhet, evt. nyetableringer</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• tjåadtjoehtidh /vijriesåbpoe evtiedidh daaletje gïehtelimmieh, mejtie aaj orre tseegkemh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> økt innovasjon/innovasjonsevne  økt kompetanse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• lissiehtamme innovasjovne/innovasjovnemaehtelesvoeth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> økt tilgjengelighet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• lissiehtamme maahtoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> større attraktivitet som bosted eller lokaliseringsvalg for bedrifter</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• vielie fryöjstehke sjïdteme goh årromesijjie jallh sijjieh sïeltide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> økt attraktivitet som reisemål</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• vielie fryöjstehke goh feelemeulmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> styrking av regionale sentra</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• nænnoestehteme regijovnale jarngijste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg> stabilisering eller økning av befolkningen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>• jaabnedimmie jallh lissiehtimmie årroejijstie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Opplegget følges opp i 2013, og vil etter hvert som prosjekter avsluttes gi økt kunnskap om effekter og resultater.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Öörneginie vijriesåbpoe barka 2013, jïh sæjhta, gosse prosjekth orrijieh, vielie daajroem vedtedh effekti jïh illedahki bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2. Fylkeskommunens system for aktivitetsmåling Fylkeskommunen har i flere år hatt et system for aktivitetsmåling.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2. Darjomemööleme Fylhkentjïelte lea gellie jaepieh aktem öörnegem åtneme juktie darjoemidie mööledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Systemet innebærer en måling av hvordan virkemidlene er brukt i forhold til programmets 3 innsatsområder, og et sett av 10 underliggende indikatorer, slik: De fleste prosjekter kjennetegnes ved flere indikatorer, slik at summen både i prosent og faktisk vil overgå 100 prosent.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie möölie guktie tsavtshvierhtieh leah nåhtadamme viertiestamme programmen 3 barkoesuerkiejgujmie, jïh dej 10 vuelege indikatovrigujmie, naemhtie: Dah jeanatjommes prosjekth jienebh indikatovrh utnieh, guktie summe dovne prosentesne jïh rïektesisnie sæjhta bijjelen 100 prosenth årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eksempelvis kan et reiselivsprosjekt både ha næringsutviklings-, internasjonaliserings- og attraktivitetsperspektiv. Det er satt følgende mål for virkemiddelbruken ift.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan dle akte fealadasseprosjekte maahta utnedh dovne jielemeevtiedimmie-, gaskenasjovnaliseringe- jïh fryöjstehkevoeteperspektivem utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>fordeling på indikatorene: INDIKATORER OG MÅL FOR VIRKEMIDDELBRUKEN I % Næringsutvikling 90% Likestilling 20% Kompetanseutvikling 50% Kultur 30% Innovasjon 40% Miljø 20% Internasjonalisering 20% Kommunikasjon/infrastruktur 20% Ungdom 20% Attraktivitet/livskvalitet 20%</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daah ulmieh leah bïejesovveme tsavtshvierhtieåtnose joekedimmien bïjre indikatovride: INDIKATOVRH JÏH ULMIEH TSAVTSHVIERHTIEÅTNOSE % Jielemeevtiedimmie 90% Mïrrestalleme 20% Maahtoeevtiedimmie 50% Kultuvre 30% Innovasjovne 40% Byjrese 20% Gaskenasjovnaliseringe 20% Kommunikasjovne/infrastruktuvre 20% Noerh 20% Fryöjstehkevoete/jieledekvaliteete 20%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle som forvalter virkemidler gjennom Regionalt utviklingsprogram skal rapportere til fylkeskommunen på disse 10 indikatorene for de prosjekter de innvilger.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkesh mah tsavtshvierhtieh reerieh Regijovnale evtiedimmieprogrammen tjïrrh edtjieh fylhkentjïeltese reektedh daej 10 indikatovri bïjre, dejtie prosjektide dah dåarjoem vedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3. Eksterne evalueringer etter behov Ved behov gjennomføres eksterne evalueringer av deler av utviklingsinnsatsen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3. Byjngetje vuarjasjimmieh daerpiesvoeten mietie Jis daerpies dle byjngetje vuarjasimmieh dorjesuvvieh bielijste evtiedimmiedåarjoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2011 ble eksempelvis virkemiddelbruken overfor innovasjonsselskapene og stedsutvikling evaluert.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepien 2011 dle vuesiehtimmien gaavhtan tsavtshvierhtieåtnoem innovasjovnesïeltide jïh sijjieevtiedæmman vuarjasji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4. Måloppnåelse av hovedmålet i RUP Oppnåelsen av hovedmålet Næringsvekst i Nord-Trøndelag vil bli målt med utgangspunkt i de 8 parametrene som beskriver hovedmålsettingen på side 6.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4. Ulmiejakseme åejvieulmeste RES'sne Sæjhta mööledh mejtie åejvieulmiem Næringsvekst i Nord-Trøndelag jakseme dej 8 parameeterigujmie mah åejvieulmiem buerkeste 6. sæjrosne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Måleverktøy er bl.a. Telemarksforsknings årlige analyser som lages på oppdrag av Innovasjon Norge, SSB-statistikk og Norges Forskningsråds Indikatorrapport.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Möölemedïrrege lea g. j Telemarkforskningen fïerhten jaepien goerehtimmieh mah dorjesuvvieh stillemen mietie daejstie Innovasjovne Nöörje, SSB statistihke jïh Nöörjen Dotkemeraerien Indikatovrereektehtse.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
