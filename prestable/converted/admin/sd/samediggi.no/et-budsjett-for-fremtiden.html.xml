@@ -11,7 +11,11 @@
       <free/>
     </availability>
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="eng"/>
+      <language xml:lang="sme"/>
+    </multilingual>
     <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Sametingsraadet/Taler-og-artikler/Et-budsjett-for-fremtiden</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -34,7 +38,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Et budsjett for fremtiden / Taler og artikler / Sametingsrådet / Organisasjonsstruktur / Om Sametinget / Forsiden - Sametinget</p>
@@ -55,10 +59,10 @@
       <em type="bold">- Den felles samiske kulturarven er rik, men veldig mye av den ligger gjemt i arkiver og kjellere. Vi vil prioritere de samiske museene fordi det er ekstremt viktig at våre kulturskatter får verdige hjem og blir tilgjengelige for alle. Gjennom kulturarven bygger vi opp Sápmi for fremtiden. </em>
     </p>
     <p>Den totale rammen til virkemidler, faste og søkerbaserte, er i budsjettet for 2015 på 270 722 000,-. Det er en økning på 1 897 000,- fra 2014.</p>
-    <p xml:lang="fin">
+    <p>
       <em type="bold">Kontaktperson: </em>
     </p>
-    <p xml:lang="nno">Rådsmedlem Ann-Mari Thomassen, tlf. 900 57 123</p>
+    <p>Rådsmedlem Ann-Mari Thomassen, tlf. 900 57 123</p>
     <p type="title">Sametingets budsjett 2015</p>
   </body>
 </document>
