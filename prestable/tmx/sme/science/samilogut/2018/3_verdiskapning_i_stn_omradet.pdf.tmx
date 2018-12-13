@@ -1,0 +1,1152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">3_verdiskapning_i_stn_omradet.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3 Verdiskapning i STN-området</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 Árvoháhkan SED-guovllus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Per Tovmo, Norges teknisk-naturvitenskapelige universitet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Per Tovmo, Norgga teknihkalaš-luonddudieđalaš universitehta/Norges Teknisk Naturvitenskapelige Universitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sammendrag I denne artikkelen har jeg foreslått et opplegg for å beregne samlet verdiskapning i området i Finnmark og Troms med Sametingets tilskuddsordninger til næringsutvikling (STN), basert på nasjonalregnskapstall og sysselsettingsstatistikk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkáigeassu Dán artihkkalis lean árvalan vuogi movt sáhttá meroštallat ollislaš árvoháhkama dan guovllus Finnmárkkus ja Romssas gos Sámedikki ealáhusovddideami doarjjaortnet (SED) lea doaimmas, nationálarehketdoallologuid ja barggolašvuođastatistihka vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan beregningsopplegget kan brukes, er illustrert ved å beregne målet for verdiskapning for årene 2013 og 2016. Beregningene viser at verdiskapningen målt per innbygger er betydelig lavere i STN-området enn gjennomsnittet for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mainna lágiin meroštallanvuogi sáhttá atnit lea govviduvvon árvoháhkama árvvu rehkenastimiin jagiide 2013 ja 2016. Meroštallamat čájehit ahte árvoháhkan rehkenastojuvvon juohke ássi nammii lea mealgat vuollelis SED-guovllus Romssa ja Finnmárkku gaskameari ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forklaringen på dette er lavere yrkesdeltakelse i befolkningen i STNområdet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čilgehus dása lea vuollegeappot fidnooassálastin SED-guovllu álbmoga siskkobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noe av dette skyldes en høy andel eldre i befolkningen, men den viktigste forklaringsfaktoren er lavere yrkesdeltakelse i aldersgruppen som normalt sett utgjør arbeidsstyrken, sammenliknet med gjennomsnittet for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin muddui sáhttá dán sivvan atnit ahte doppe lea stuora oassi vuorrasit olbmot, muhto deháleamos čilgehusbuvttadahkki lea vuollegeappot fidnooassálastin ahkejoavkkus mii dábálaš dilis dahká bargoveaga, go buohtastahttá Finnmárkku ja Romssa gaskameriin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis yrkesdeltakelsen i STN-området hadde økt til gjennomsnittet for de to fylkene, ville verdiskapningen per innbygger også vært oppe på gjennomsnittet for fylkene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus fidnooassálastin SEDguovllus livččii lassánan dan dássái mas dán guovtti fylkka gaskamearri lea, de livččii árvoháhkan juohke olbmo nammii maiddái leamašan fylkkaid gaskameari dási rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.1 Innledning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.1 Álggahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Temaet for denne artikkelen er næringsutvikling i samisk område, her definert som området i Finnmark og Troms med Sametingets tilskuddsordninger til næringsutvikling (STN).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkala fáddá lea ealáhusovdáneapmi sámi guovlluin, dás definerejuvvon guovlun Finnmárkkus ja Romssas gos Sámedikki ealáhusovddideami doarjjaortnet (SED) lea doaimmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ulike aspekter ved dette har vært studert tidligere blant annet i flere utgaver av Samiske tall forteller.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iešguđetlágán oasit dás leat ovdal guorahallojuvvon earet eará moanat Sámi logut muitalit gáhppálagain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Claus (2014) har studert sysselsettingen i STN-området og sett på både utvikling i sysselsetting og egenskaper ved de sysselsatte sammenliknet med andre områder.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Claus (2014) lea guorahallan barggolašvuođa SED-guovllus ja geahčadan sihke barggolašvuođa ovdáneami ja bargiid iešvuođaid, buohtastahttojuvvon eará guovlluiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skålnes (2014) har studert næringsutvikling i STN-området ved å se på egenskaper i sysselsettingsmønsteret i ulike deler av området, og endring i sysselsettingsmønsteret over tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skålnes (2014) lea guorahallan ealáhusovdáneami SED-guovllus dainna vugiin ahte lea geahččan barggolašvuođaminstara iešvuođaid guovllu iešguđet osiin, ja barggolašvuođaminstara rievdamiid áiggi badjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telemarksforskning har på oppdrag fra Sametinget i flere rapporter sett på næringsutvikling, innovasjon og attraktivitet av å etablere seg i STN-området, se f.eks. Vareide og Roncossek (2016).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Telemarksforskning, Sámedikki gohččuma olis, lea máŋgga raporttas geahčadan ealáhusovdáneami, innovašuvnna ja man geasuheaddji lea álggahit fitnodaga SED-guovllus, geahča omd. Vareide ja Roncossek (2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Andre arbeid har handlet om utvikling i enkeltnæringer, som for eksempel Andersen (2017), som har sett på landbruk i samiske bosettingsområder, Broderstad og Eythòrsson (2014) har sett på fiskeri i de sjøsamiske fjordene, Riseth (2014) har sett på reindriftsnæringa, mens Andersen (2009) har studert utviklingen i primærnæringene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará barggut leat geahčadan ovttaskasealáhusaid ovdáneami, nugo ovdamearkka dihte Andersen (2017), gii lea geahčadan eanandoalu sámi ássanguovlluin, Broderstad ja Eythòrsson (2014) geat leaba geahčadan mearrasámi vuonaid guolásteami, Riseth (2014) lea geahčadan boazodoalu ja Andersen (2009) lea guorahallan vuođđoealáhusaid ovdáneami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Felles for de fleste studiene av næringsutvikling er at de ser på utviklingen ved å studere sysselsettingsmønsteret, der sammensetningen av de sysselsatte i STN-området, fordelt på næringer, sammenliknes med andre områder, eller man ser på utviklingen over tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktasaš eanaš ealáhusovdánahttima guorahallamiin lea ahte dat guorahallet ovdáneami dainna lágiin ahte geahčadit barggolašvuođaminstara, mas bargiidčoahkkádus SED-guovllus, juhkkojuvvon ealáhusaide, buohtastahttojuvvo eará guovlluiguin dahje gehččet ovdáneami áiggi badjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den økonomiske utviklingen i et land måles ofte ved å se endringer i brutto nasjonalprodukt (BNP), som er et mål på samlet verdiskapning i landet og blir beregnet fra nasjonalregnskapet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riika ekonomalaš ovdáneami meroštallet dávjá dainna go gehččet rievdamiid brutto nationálabuktaga (BNB), mii lea mihttu riika obbalaš árvoháhkamis ja rehkenasto nationálarehketdoalu vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er også det mest brukte målet når man sammenlikner økonomien i ulike land.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát leage eanemus geavahuvvon mihttu go buohtastahttet iešguđetge riikkaid ekonomiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tall for BNP brytes også ned på fylkesnivå slik at vi kan studere verdiskapning i hvert enkelt fylke.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>BNB loguid cuvkejit maiddái fylkadássái, vai sáhttit geahčadit árvoháhkama juohke ovttaskas fylkkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette betegnes ofte som brutto regionalprodukt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán rehkenastet dávjá brutto regiovdnabuvttan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Statistisk sentralbyrå (SSB) publiserer data for fylkesfordelt nasjonalregnskap.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Statistihkalaš guovddášdoaimmahat (SGD) almmuha nationálarehketdoalus dáhtaid fylkkaid mielde juhkkojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bidraget i denne artikkelen er å lage et mål på verdiskapningen i STN-området basert på nasjonalregnskapstall fra SSB.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buktu dán artihkkalis lea ráhkadit SED-guovllu árvoháhkamii mihtu man vuođđun leat SGD:a nationálarehketdoalu logut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nasjonalregnskapet og beregning av BNP og verdiskapning, som mål på økonomisk aktivitet i samfunnet, omfatter all produksjon av varer og tjenester i både private og offentlige virksomheter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nationálarehketdoallu ja BNB:a meroštallan ja árvoháhkan, mihttun servodaga ekonomalaš doaimmaide, fátmmasta buot buktagiid ja bálvalusaid buvttadeami sihke priváhta ja almmolaš doaimmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vareide og Roncossek (2016) presenterer også et mål på verdiskapning i STN-området basert på regnskapsinformasjon fra bedrifter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vareide ja Roncossek (2016) ovdanbuktima maiddái mihtu SED-guovllu árvoháhkamii, man vuođđun leat fitnodagaid rehketdoallodieđut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En ulempe med deres mål er at de kun får med regnskapspliktige foretak, samt at verdiskapningen i offentlig sektor er utelatt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Okta váivvádus sudno mihtus lea ahte soai duššo njámasteaba fitnodagaid main lea rehketdoallogeatnegasvuohta, ja ahte árvoháhkan almmolaš sektoris báhcá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Særlig det siste innebærer at man mister mye av verdiskapningen, siden en høy andel av sysselsettingen i STN-området er innen offentlig sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erenoamážit duot maŋit mearkkaša ahte manahit ollu árvoháhkama, daningo stuora oassi barggolašvuođas SED-guovllus lea almmolaš sektoris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For eksempel var 41 prosent av sysselsettingen i 2012 innen undervisning, offentlig administrasjon eller helse- og omsorgstjenester (Claus 2012).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte lei 41 proseanta barggolašvuođas jagis 2012 oahpaheamis, almmolaš hálddahusas dahje dearvvašvuođas ja fuolahusbálvalusain (Claus 2012).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fordelen med målet som utvikles her, er at det omfatter verdiskapning både i privat og offentlig sektor, og dermed gir et mer helhetlig bilde av økonomisk aktivitet enn målet basert på regnskapsinformasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamunni mihtus maid dás hábmet lea ahte dat fátmmasta árvoháhkama sihke priváhta ja almmolaš sektoriin, ja dainna lágiin addá eanet ollislaš gova ekonomalaš doaimmain, dan vuogi ektui mas vuođđun leat rehketdoallodieđut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På den andre siden må det gjøres noen antakelser om verdiskapning i ulike deler av økonomien som kan bidra til at målet ikke er helt presist.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppe dáfus ferte dás dahkat muhtin navdduid árvoháhkama hárrái muhtin osiin ekonomiijas, mat sáhttet dahkat ahte mihttu ii leat áibbas dárkil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette beskrives nærmere nedenfor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát čilgejuvvo vuolleleappos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I artikkelen har jeg beregnet verdiskapningen for to år, men tanken er at dette skal være et mål som lett kan oppdateres når nye data foreligger, og det kan også beregnes for tidligere perioder slik at utviklingen kan studeres over tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Artihkkalis lean rehkenastán árvoháhkama guovtti jahkái, muhto jurdda lea ahte dát galgá leat mihttu maid álkit sáhttá ođasmáhttit go ođđa dáhtat leat sajis, ja dan sáhttá maiddái rehkenastit vássán áigodagaide anne vai ovdáneami beassá geahčadit áiggi badjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne artikkelen handler kun om verdiskapning målt ved BNP.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát artihkal guovdilastá duššo árvoháhkama mii lea BNB bokte mihtiduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den tar ikke opp økonomiske aktiviteter som ikke registreres i BNP, som ulønnet arbeid i husholdninger og frivillig arbeid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás eat oainne ekonomalaš doaimmaid mat eai šatta oassin BNB:ii, nugo dállodoalu barggut ja eaktodáhtolaš barggut main ii leat bálká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når disse aktivitetene ikke er inkludert, vil BNP undervurdere samfunnets verdiskapning (Brunvoll og Kolshus (red.) 2011).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go dát doaimmat eai leat fátmmastuvvon, de BNB duolbmá servodaga árvoháhkama (Brunvoll ja Kolshus (red.) 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Produksjon av varer i form av jakt og fiske til eget bruk og andre typer utmarksbruk er inkludert, men etter det jeg kjenner til, fordeles det på fylker etter samme nøkkel som for markedsrettet næring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buktagiid buvttadeapmi bivddus ja guolásteamis iežas atnui, ja eará lágan meahcástallamat leat fátmmastuvvon, muhto mu dieđu mielde dát juhkkojuvvojit fylkkaide seamma vugiin go márkanii oaivvilduvvon ealáhusat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I nordområdene er det sterk tradisjon for egenproduksjon fra jakt, fiske, reindrift og mange former for utmarksbruk (Sametinget 2016, Holen m. fl. 2017).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviguovlluin lea nanu vierru alcceseaset buvttadit bivddu, guolásteami, boazodoalu ja ollu eará meahcástallamiid bokte (Sámediggi 2016, Holen je. 2017).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Reindrift er familienæring der familiemedlemmer i alle aldre medvirker til produksjon, og kvinnene bidrar i stor grad til verdiskapning som ikke registreres i BNP.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boazodoallu lea bearašealáhus mas buot agát bearašlahtut leat fárus buvttadeamis, ja nissonolbmot ovddidit ollu árvoháhkamis mii ii čálihuvvo BNB:ii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan derfor tenkes at når vi bruker samme fordelingsvekter som for markedsrettet næringsvirksomhet, innebærer det at verdien av egenproduksjon undervurderes i det fylkesfordelte nasjonalregnskapet, og at verdiskapningen i STN-området dermed blir noe undervurdert.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá danin jurddašit ahte seamma juogustusdeattut, go márkanii oaivvilduvvon ealáhusdoaimmain, mielddisbuktet ahte dán árvu dulbmojuvvo fylkkaide juhkkojuvvon nationálarehketdoalus ja ahte árvoháhkan SED-guovllus dasto maiddái dulbmojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.2 Et mål for verdiskapning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2 Árvoháhkamii mihttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette avsnittet beskrives hvordan målet for verdiskapning i STN-området er bygd opp.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán teakstaoasis válddahuvvo movt SED-guovllu árvoháhkama mihttu lea huksejuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det som oftest omtales som verdiskapning i en region, er bruttoproduktet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maid dávjjimusat gohčodit árvoháhkamin min regiovnnas lea bruttobuvtta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruttoproduktet er verdien av all produksjon i regionen fratrukket vareinnsatsen, dvs. råvarer eller ferdigvarer som brukes i produksjonen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bruttobuvtta lea árvu mii boahtá buot regiovnna buvttadeamis, mas leat geassán gálvobiju, namalassii álgoávdnasiid dahje válmmasbuktagiid maid atnet buvttadeamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette må trekkes fra for å unngå dobbelttelling.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan ferte váillidit, vai hehtte duppallohkama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Beregningene vil baseres på data over sysselsetting og det er derfor informativt å uttrykke bruttoproduktet ved antall sysselsatte: (1) &amp;#119861;&amp;#119903;&amp;#119906;&amp;#119905;&amp;#119905;&amp;#119900;&amp;#119901;&amp;#119903;&amp;#119900;&amp;#119889;&amp;#119906;&amp;#119896;&amp;#119905; = &amp;#119861;&amp;#119903;&amp;#119906;&amp;#119905;&amp;#119905;&amp;#119900;&amp;#119901;&amp;#119903;&amp;#119900;&amp;#119889;&amp;#119906;&amp;#119896;&amp;#119905; &amp;#119901;&amp;#119890;&amp;#119903; &amp;#119904;&amp;#119910;&amp;#119904;&amp;#119904;&amp;#119890;&amp;#119897;&amp;#119904;&amp;#119886;&amp;#119905;&amp;#119905; × &amp;#119886;&amp;#119899;&amp;#119905;&amp;#119886;&amp;#119897;&amp;#119897; &amp;#119904;&amp;#119910;&amp;#119904;&amp;#119904;&amp;#119890;&amp;#119897;&amp;#119904;&amp;#119886;&amp;#119905;&amp;#119905;&amp;#119890;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rehkenastimiid vuođđun atná dáhtat barggolašvuođas ja danin oažžu eanet dieđuid go deattuha bruttobuktaga juohke bargi nammii: (1) Bruttobuvtta = Juohke bargi bruttobuvtta x bargiidlohku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ikke mulig å ha informasjon om verdiskapning for alle sysselsatte, så i praksis gjøres beregninger av SSB på næringsnivå:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat vejolaš atnit árvoháhkama dieđuid juohke bargi nammii, nu ahte geavatlaččat SGD:s dahket meroštallamiid ealáhusdásis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(2) Bruttoprodukt i næringen = Bruttoprodukt per sysselsatt i næringen x antall sysselsatte i næringen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(2) Ealáhusa bruttobuvtta = Juohke bargi bruttobuvtta ealáhusas x bargiidlohku ealáhusas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verdiskapningen i en region, målt ved bruttoproduktet, er da summen av bruttoproduktet i alle næringene i regionen, beregnet ved (2).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvoháhkan regiovnnas, mihtiduvvon bruttobuktaga bokte, lea dasto buot regiovnna ealáhusaid bruttobuktagiid submi, rehkenaston (2.) bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det fremgår av relasjon (2) at vi møter to utfordringer når bruttoproduktet for STN-området skal beregnes, vi må finne (det gjennomsnittlige) bruttoproduktet per sysselsatt i de ulike næringene, og vi må finne ut hvor mange som er sysselsatt i de ulike næringene i området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Relašuvnnas (2) ovdanboahtá ahte deaivvadit guvttiin hástalusain go galgat meroštallat SEDguovllu bruttobuktaga. Fertet gávnnahit (gaskamearálaš) bruttobuktaga juohke bargi nammii dain iešguđetlágán ealáhusain ja fertet gávnnahit man gallis leat barggus guovllu iešguđetlágán ealáhusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan dette håndteres, beskrives under.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mainna lágiin dan gieđahallá lea čilgejuvvon vuollelis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den første utfordringen er at vi ikke kjenner verdiskapning (bruttoprodukt) per sysselsatt i de ulike næringene i STN-området, siden det ikke publiseres statistikk over dette.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš hástalus lea ahte mii eat dieđe mii árvoháhkan (bruttobuvtta) lea juohke bargi nammii dain iešguđetlágán ealáhusain SED-guovllus, daningo das ii almmuhuvvo makkárge statistihkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det må derfor gjøres et anslag på verdiskapningen per sysselsatt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ferte dasto navdit ollu árvoháhkan juohke bargi nammii lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jeg bruker her samme fremgangsmåte som Nyhus og Tovmo (2013), som har beregnet verdiskapningen for Trondheims-regionen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anán dás seamma bargovuogi go Nyhus ja Tovmo (2013), geat leaba rehkenastán árvoháhkama Troandinregiovdnii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Trondheims-regionen består av totalt ni kommuner i Trondheims-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Troandinregiovdnii gullet obba lohkui ovcci suohkana Troandima guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nyhus og Tovmo antar at verdiskapningen per sysselsatt i Trondheims-regionen er den samme som i SørTrøndelag fylke.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nyhus ja Tovmo navdiba ahte árvoháhkan juohke bargu nammii Troandinregiovnnas lea seamma go Lulli-Trøndelag fylkkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med tanke på målet for verdiskapning i STN-området innebærer dette en antakelse om at verdiskapning per sysselsatt i de ulike næringene i delene av STN-området som ligger i Troms fylke, er den samme som verdiskapningen per sysselsatt for hele Troms fylke i de samme næringene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SED-guovllu árvoháhkama mihtu dáfus sisttisdoallá dát navddu ahte árvoháhkan juohke bargi nammii dain iešguđetlágán ealáhusain mat leat dain osiin SED-guovllus mat gullet Romssa fylkii, lea seamma go árvoháhkan juohke bargi nammii olles Romssa fylkkas seamma ealáhusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For delene av STN-området som ligger i Finnmark, brukes tall for verdiskapning per sysselsatt i hele Finnmark fylke.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan oassái SED-guovllus mii lea Finnmárkkus adnojit logut árvoháhkamis juohke bargi nammii olles Finnmárkku fylkka ovddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis verdiskapningen per sysselsatt faktisk er lavere i STN-området enn i fylkene, vil verdiskapningen i STN-området overestimeres.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus árvoháhkan juohke bargi nammii duođas lea vuollegeappos SED-guovlluin go fylkkain, de árvoháhkan SED-guovlluin badjelmeari estimerejuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette vil imidlertid ha mindre å bety når man studerer utviklingen over tid, så lenge et avvik her er rimelig stabilt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás aŋkke lea unnit mearkkašupmi go guorahallá ovdáneami áiggi badjel, nu guhká go spiehkasteapmi dás lea oalle stáđis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I SSBs statistikk for fylkenes bruttoprodukt fordelt på næringer er flere næringer slått sammen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SGD:a statistihkain fylkkaid bruttobuktagiin juhkkojuvvon ealáhusaide leat ollu ealáhusat bidjon oktii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dataene som er tilgjengelige for sysselsetting, er mer detaljerte ettersom disse blir publisert etter hovedgruppe av næringer, det vil si de to første tallene i bedriftenes kode i standard for næringsklassifisering (NACE-kode).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáhtat mat lea olahan muttus barggolašvuođas leat eanet bienalaččat, dan dihte go daid almmuhit ealáhusaid váldojoavkkuid vuođul, namalassii dan guokte vuosttaš logu vuođul mat leat fitnodagaid kodain ealáhusluohkkájuoguid standárddain (NACE-koda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjør det nødvendig å slå sammen en del næringer både for bruttoprodukt og sysselsetting når man skal beregne regionens verdiskapning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát dagaha dárbbašlažžan oktii náitit muhtin ealáhusaid sihke bruttobuktaga ja barggolašvuođa hárrái go galgá meroštallat regiovnna árvoháhkama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>A1 i appendikset gir en oversikt over hvilke 31 næringer anslaget for den regionale verdiskapningen baseres på.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla A1 appendiksas addá oppalašgeahčastaga dan 31 ealáhusas mat regiovnna árvoháhkama navddu vuođđun leat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg til å beregne bruttoproduktet fra næringene gjør SSB beregninger av bruttoproduktet for boligtjenester som ikke relateres til sysselsetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin ealáhusaid bruttobuktaga meroštallamii, de SGD rehkenastá bruttobuktaga viessobálvalusaide mat eai čadno barggolašvuhtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Årsaken er at boligkapital utgjør en så stor andel av den samlede kapitalbeholdningen at det er viktig at nasjonalregnskapet fanger opp ytelsene av denne delen av kapitalen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ágga das lea ahte viessokapitála dahká dan mađe stuora oassemeari ollislaš kapitáladuvssas ahte lea dehálaš ahte nationálarehketdoallu njámasta dán kapitála oasi buvttuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I beregningene her utelates dette, siden man legger vekt på næringsutvikling.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rehkenastimiin dás guođán daid, danin go guovdilastán ealáhusovdáneami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når resultatene presenteres nedenfor, vil verdiskapningen i STNområdet sammenliknes med tilsvarende størrelser i Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go bohtosat ovdanbuktojit vuollelis, de SED-guovlluid árvoháhkan buohtastahttojuvvo vástideaddji mahtodagaiguin Romssas ja Finnmárkkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Boligtjenester er derfor også utelatt der.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Viessobálvalusat leat danin doppe maiddái guđđojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den andre utfordringen er at vi ikke kjenner antall sysselsatte i STN-området eksakt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi hástalus lea ahte eat dieđe vissásit bargiid logu SED-guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det laveste nivået SSB publiserer sysselsettingsstatistikk på, er kommuner, noe som betyr at vi ikke for eksempel kan inkludere deler av en kommune.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuollegeamos dásis mas SGD almmuha barggolašvuođastatistihkaid leat suohkanat, mii mearkkaša ovdamearkka dihte ahte eat sáhte fátmmastit muhtin oasi suohkaniin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2016 omfattet STN-området 21 kommuner og 10 kommunedelområder (Slaastad 2016).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagis 2006 fátmmastii SED-guovlu 21 suohkana ja 10 gielddaoasseguovlluid (Slaastad 2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Av disse 31 kommunene ligger 13 i Finnmark, 14 i Troms og fire i Nordland.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan 31 suohkanis ledje 13 suohkana Finnmárkkus, 14 Romssas ja njealje Nordlánddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jeg følger Skålnes (2014) og tar ut bykommunene Alta, SørVaranger og Tromsø.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvolan Skålnesa (2014) ja guođán gávpotsuohkaniid Álaheaju, Mátta-Várjjaga ja Romssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg gjør jeg ytterligere en avgrensing ved å ta ut de fire kommunene i Nordland fylke som inngår i STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin dagan vel ovtta ráddjejumi go váillidan dan njealji suohkana Nordlándda fylkkas mat leat oassin SED-guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette vil forenkle beregningene av verdiskapning, og i tillegg utgjør den samiske befolkningen majoriteten av befolkningen i bare en av de fire kommunene (Tysfjord).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát álkida rehkenastimiid árvoháhkamis ja dasa lassin lea duššo okta dan njealji suohkanis (Divttasvuotna) gos sámi álbmot dahká eanetlogu álbmogis, nu ahte olles suohkan lea oassin SED-guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Siden deler av kommuner ikke kan tas ut, velger jeg å inkludere alle kommunene i Troms og Finnmark der deler av kommunene ligger i STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan dihte go oasit suohkaniin eai sáhte leat oassin, lean válljen fátmmastit buot suohkaniid Romssas ja Finnmárkkus, main oasit suohkanis gullet SED-guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunene som inkluderes, er dermed som vist i tabell 3.1: Metoden beskrevet over vil altså måle samlet verdiskapning i kommunene i tabell 1 slik at vi måler verdiskapningen i kommunene i Troms og Finnmark fylker der hele eller deler av kommunen er innenfor STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suohkanat mat leat fátmmastuvvon leat vuosihuvvon tabeallas 3.1.: Bargovuohki maid badjelis lean čilgen galgá nappo mihtidit obbalaš árvoháhkama tabealla 1 suohkaniin, nu ahte sáhttit mihtidit árvoháhkama suohkaniin Romssa ja Finnmárkku fylkkain main olles dahje oasit suohkanis leat SED-guovllu siskkobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.3 Beregnet verdiskapning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3 Meroštallojuvvon árvoháhkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette avsnittet presenterer de beregnede verdiene for verdiskapning i STN-området basert på målet beskrevet i avsnittet foran.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán oasis ovdanbuvttán meroštallojuvvon árvvuid mat gullet árvoháhkamii SED-guovllus, mat leat rehkenaston daid mihtuid vuođul maid badjelis lean válddahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Beregningene baseres på data fra 2016, siden det er de nyeste nasjonalregnskapsdata på fylkesnivå som er publisert.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meroštallamiid vuođđun leat dáhtat jagi 2016 rájes, dan dihte go dát leat ođđaseamos nationálarehketdoallodáhtat fylkadásis mat leat almmuhuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg har jeg gjort tilsvarende beregninger basert på data fra 2013 for å illustrere hvordan målet kan benyttes til å studere utviklingen i verdiskapning over tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin lean dahkan sullasaš rehkenastimiid dáhtaid vuođul jagis 2013 govvidan dihte movt mihtu sáhttá atnit guorahallat árvoháhkama ovdáneami áiggi badjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle data er hentet i Statistikkbanken i SSB.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot dáhtat leat vižžon SGD:a Statistihkkabáŋkkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tall for verdiskapning er hentet fra nasjonalregnskapsstatistikken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvoháhkama logut leat vižžon nationálarehketdoallostatistihkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Data for sysselsetting er registerdata hentet fra arbeidsmarkedsstatistikken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáhtat barggolašvuođas leat registtardieđut vižžon bargomárkanstatistihkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I analysene under benyttes også data for folketall, alderssammensetning og andre egenskaper ved befolkningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lađastallamis vuolleleappos anán maiddái dáhtaid olmmošlogus, ahkečoahkkádusas ja álbmoga eará iešvuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her er data hentet fra KOSTRA (Kommune-Stat-Rapportering) i SSB.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daid dáhtaid lean viežžan SGD:a KOSTRA:s (Suohkan-Stáhta-Raporteren).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tall for verdiskapning sier ofte lite i seg selv, og det er derfor nyttig å sammenlikne med tall for andre områder.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvoháhkama logut iešalddis muitalit dávjá unnán ja lea danin ávkkálaš buohtastahttit eará guovllu loguiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her har jeg valgt å benytte bruttoproduktet for Troms og Finnmark samlet sett som sammenlikningsgrunnlag.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás lean válljen atnit Romssa ja Finnmárkku bruttobuktaga čoahkkehámis buohtastahttinvuođđun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er det samme som de faktiske tallene publisert av SSB i nasjonalregnskapsstatistikken, bortsett fra at verdien av boligtjenester er fratrukket.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát leat seamma go dat duohta logut maid SGD almmuha nationálarehketdoallostatistihkas, earetgo ahte viessobálvalusaid árvvut leat váilliduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ulempen ved å sammenlikne med fylket er at verdiskapningen i STN-området vil inngå også i sammenlikningsgrunnlaget, mens fordelen er at man sammenlikner med områder som er rimelig like i næringssammensetning og bosettingsmønster.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váivvádus fylkkain buohtastahttit lea ahte árvoháhkan SED-guovllus fátmmastuvvo maiddái buohtastahttinvuođus, ja ovdamunni lea fas ahte buohtastahttit guovlluid mat leat oba ovttalágánat ealáhusčoahkkádusa ja ássanmálle dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 3.2 presenterer beregningene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 3.2. ovdanbuktá meroštallamiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Resultatene viser at i 2016 var bruttoproduktet, eller samlet verdiskapning, i STN-området på vel 19 milliarder kroner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bohtosat čájehit ahte jagis 2016 lei bruttobuvtta, dahje ollislaš árvoháhkan, SED-guovllus roahkka 19 miljárdda ruvnno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vareide og Roncossek (2016) beregnet samlet verdiskapning, kun basert på regnskapsinformasjon, til å være på 4,5 milliarder kroner i 2015. Den store forskjellen mellom beregningene skyldes at målet på verdiskapning som er utviklet her, omfatter all produksjon, inkludert offentlig sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vareide ja Roncossek (2016) rehkenasttiiga ollislaš árvoháhkama, duššo rehketdoallodieđuid vuođul, leat 4,5 miljárdda ruvdnon jagis 2015. Meroštallamiid gaskkas stuora erohusa sivvan lea ahte árvoháhkama mihttu, maid dás leat hábmen, fátmmasta buot buvttadeami, maiddái almmolaš sektoris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det bør også nevnes at noe av forskjellen kan skyldes at målet i denne artikkelen kan overvurdere verdiskapningen noe, på grunn av at verdiskapning per sysselsatt i de ulike næringene i STN-området er antatt å være lik snittet for fylkene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seahtit maiddái namuhit ahte oassi erohusas sáhttá boahtit das go dán artihkkala mihttu sáhttá veaháš liiggás veardidit árvoháhkama, daningo árvoháhkan juohke bargi nammii SED-guovllu iešguđetlágán ealáhusain lea navdon leat seamma go fylkkaid gaskamearri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2013 var bruttoproduktet i STN-området på 15,7 milliarder kroner, noe som betyr en vekst på 21,4 prosent over de tre årene fra 2013 til 2016. Omsatt til årlige vekstrater tilsvarer dette en gjennomsnittlig årlig vekst på om lag 6,7 prosent.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagis 2013 lei bruttobuvtta SED-guovllus 15,7 miljárda ruvnno, mii mearkkaša ahte lei lassánan 21,4 proseanttain golmma jagis 2013 rájes 2016 rádjái. Rehkenastojuvvon jahkásaš goargŋumii lea dat seammgo 6,7 proseantasaš gaskamearálaš jahkásaš lassáneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle tall er i løpende priser, dvs. nominelle størrelser, noe som vil si at det ikke er tatt hensyn til prisveksten i samme periode.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot logut leat rievddadeaddji hattit, namalassii nominealla mahtodagat, mii mearkkaša ahte haddegoargŋun seamma áigodagas ii leat vuhtiiváldon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis vi antar at prisveksten for det som er produsert av verdier i STN-området, er lik prisveksten for alt som er produsert i Fastlands-Norge i samme periode, er realveksten på 12,5 prosent.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus navdit ahte haddegoargŋun árvvuin mat leat buvttaduvvon SED-guovllus lea seamma go haddegoargŋun visot dain mat leat buvttaduvvon Nannan-Norggas seamma áigodagas, de lea reálagoargŋun 12,5 proseanta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Real- eller volumvekst får vi ved å ta ut den delen av veksten som skyldes inflasjonen mellom 2013 og 2016 og ikke skyldes vekst i produsert kvantum.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Reála- dahje hivvodatgoargŋuma oažžut go váillidit dan oasi goargŋumis mii lea šaddan inflašuvnna dihte gaskal 2013 ja 2016, ja ii leat šaddan hivvodat buvttadeami dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette betyr at hvis vi tenker oss at alt som produseres i området, kan slås sammen til en vare, ville det i 2016 blitt produsert 12,5 prosent flere enheter av denne varen enn i 2013. Veksten er altså betydelig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát mearkkaša ahte jus jurddašit ahte visot mii buvttaduvvo guovllus sáhttá oktiičaskkit oktan buvttan, de livčče jagis 2016 buvttaduvvon 12,5 proseanta eanet gáhppálagat dán buktagis go jagis 2013, nappo lea lassáneapmi fuopmášahtti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å sammenlikne verdiskapning mellom geografiske områder av ulik størrelse, som land eller regioner, skaleres ofte bruttoprodukt (for regioner) og brutto nasjonalprodukt (for land) med innbyggertallet i de aktuelle områdene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go galgá buohtastahttit árvoháhkama geográfalaš guovlluid gaskkas, mat leat iešguđetlágán mahtosaččat, nugo riikkaid dahje regiovnnaid, de dávjá heivehit bruttobuktaga (regiovnnaid) ja brutto nationálabuktaga (riikkaid) áššáigullevaš guovlluid ássiidloguide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I STN-området var bruttoproduktet, eller verdiskapningen, på 334 567 kroner per innbygger i 2016. Folketallet i perioden var rimelig stabilt, slik at veksten på 21,7 prosent er omtrent like stor som veksten i total verdiskapning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SED-guovllus dagai bruttobuvtta, dahje árvoháhkan, 334 567 ruvnno juohke ássi nammii jagis 2016. Olmmošlohku áigodagas lei oalle stáđis, nu ahte lassáneapmi, mii lei 21,7 proseanta, lei sullii seamma mahtosaš go obbalaš árvoháhkama lassáneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tabell 2 presenteres også tallene for Troms og Finnmark samlet sett.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabeallas 2 ovdanbuvttán maiddái Romssa ja Finnmárkku loguid čoahkkehámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En sammenlikning viser at verdiskapningen per innbygger i STN-området i 2016 var vel 84 prosent av tilsvarende verdi for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Okta buohtastahttin mii lea dahkkon vuosiha ahte árvoháhkan juohke ássi nammii SED-guovllus jagis 2016 lei goit 84 proseanta Romssa ja Finnmárkku vástideaddji árvvus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2013 var imidlertid verdiskapningen per innbygger bare vel 80 prosent av det den var for Troms og Finnmark, så forskjellen er redusert på grunn av den sterkere veksten i STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagis 2013 lei árvoháhkan juohke ássi nammii duššo birrasiid 80 proseanta Romssa ja Finnmárkku árvvus, nu ahte erohus lea unnon SED-guovllu garra lassáneami dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Helt nederst i tabell 2 vises tallene for Norge totalt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áibbas vuolemusas tabeallas 2 oaidnit loguid mat leat Norgii obbalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er summen av bruttoproduktene beregnet fylkesvis og vil derfor avvike fra de offisielle tallene for veksten i brutto nasjonalprodukt (BNP) for hele landet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea submi bruttobuktagiin mat leat rehkenaston juohke fylkkas ja mat danin spiehkastit almmolaš loguin čadnon olles riikka brutto nationálabuktaga (BNB) lassáneapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det fremgår at verdiskapningen per innbygger både i STN-området og i Troms og Finnmark er betydelig lavere enn landsgjennomsnittet, slik som tidligere studier også har vist.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdanboahtá ahte árvoháhkan juohke ássi nammii sihke SED-guovllus ja Romssas ja Finnmárkkus lea mealgat vuolleleappos go riikagaskamearri, nugo dutkamat ovdal maiddái leat vuosihan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtidig er det sterkere vekst både i Troms og Finnmark samlet sett og i STN-området, slik at forskjellen er redusert i løpet av perioden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammás lea garra lassáneapmi sihke Romssas ja Finnmárkkus obbalaččat ja SED-guovllus, nu ahte erohusat leat unnon áigodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva er forklaringen på at verdiskapningen per innbygger er lavere i STN-området enn i Troms og Finnmarks samlet sett?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii lea čilgehus dasa ahte árvoháhkan juohke ássi nammii lea vuollegeappos SED-guovllus go Romssas ja Finnmárkkus obbalaččat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verdiskapningen per sysselsatt i de ulike næringene er per antakelse den samme, så det kan utelates som forklaring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvoháhkan juohke bargi nammii dain iešguđetlágan ealáhusain navdit leat seamma, nu ahte dat ii dohkke čilgehussan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Men næringssammensetningen er forskjellig, og hvis det er slik at STN-området har en «ugunstig» næringssammensetning i den forstand at en større andel av de sysselsatte jobber i næringer med lav verdiskapning, kan dette gi en lavere verdiskapning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto ealáhusčoahkkádus ii leat ovttalágán ja jus lea nu ahte SED-guovllus lea «gánnáhahtekeahtes» ealáhusčoahkkádus, daningo stuorimus oassi bargiin barget ealáhusain main lea unnán árvoháhkan, de dát sáhttá dagahit vuollegeappot árvoháhkama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan undersøkes ved å relatere bruttoproduktet til antall sysselsatte i stedet for til folketallet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán sáhttá iskkat go čatná bruttobuktaga bargiid lohkui, baiccago olmmošlohkui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er gjort i tabell 3.3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabeallas 3.3. lea nu dahkkon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>av tilsvarende størrelse for Troms og Finnmark samlet sett.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Logut tabeallas 3.3 čájehit ahte jagis 2013 lei árvoháhkan juohke bargi nammii SED-guovllus 98 proseanta vástideaddji mahtodagas Romssas ja Finnmárkkus obba hámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at noe av avviket i verdiskapning mellom STN-området og Troms og Finnmark kan forklares av næringssammensetning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte oasáš spiehkasteamis gaskal SED-guovllu ja Romssa ja Finnmárkku sáhttá čilget ealáhusčoahkkádusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2016 er imidlertid verdiskapningen per sysselsatt høyere i STNområdet, slik at næringssammensetning isolert sett bidrar til høyere verdiskapning enn i Troms og Finnmark samlet sett.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagis 2016 lei aŋkke árvoháhkan juohke bargi nammii badjelis SEDguovllus, nu ahte ealáhusčoahkkádus akto buktá eanet árvoháhkama go Romsa ja Finnmárku čoahkkehámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne endringen er også noe av forklaringen på at verdiskapningen per innbygger i STN-området er mer lik resten av Troms og Finnmark i 2016 enn i 2013. Siden forskjeller i næringssammensetning, noe som vi i denne sammenhengen forstår som forskjeller i verdiskapning per sysselsatt, ikke kan forklare hvorfor verdiskapningen per innbygger er lavere i STN-området enn i fylkene totalt sett, må det åpenbart henge sammen med sysselsettingsandelen i befolkningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát nuppástuvvan lea maiddái oassi čilgehusas dasa ahte árvoháhkan juohke ássi nammii SED-guovllus eanet sulastahttá Romssa ja Finnmárkku jagis 2016, go jagis 2013. Daningo erohusat ealáhusčoahkkádusas, maid mii dán oktavuođas ipmirdit erohussan árvoháhkamis juohke bargi nammii, eai nagot čilget manin árvoháhkan juohke ássi nammii lea unnánit SED-guovllus go fylkkain obba hámis, de ferte dat áibbas čielgasit leat čadnon álbmoga bargiidoassemearrái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tall for sysselsettingsandelen, både målt i forhold til totalt innbyggertall og antall innbyggere i alderen 16–66 år, er presentert i tabell 4. Tallene i tabell 4 viser en sysselsettingsandel, målt i forhold til innbyggertallet, som er om lag 10 prosentpoeng lavere i STN-området enn det som er snittet for Troms og Finnmark for begge årene, og det er en betydelig forskjell.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Barggolašvuođaoassemeari logut, sihke mihtiduvvon obbalaš ássiidlogu dáfus ja loguid dáfus ássiin mat ledje gaskal 16-66 jagi, lea vuosihuvvon tabeallas 4. Logut tabeallas 4 čájehit barggolašvuođaoassemeari meroštallojuvvon ássiidlogu ektui, mii SED-guovllus lea birrasiid 10 proseantapoeaŋŋa vuollelis go Romssa ja Finnmárkku gaskamearri, goappaš jagiide, ja das lea mihtilmas erohus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forskjellen er enda større når andelen måles i forhold til antall innbyggere i alderen 16–66 år.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erohus lassána vel eanet go oassemearri meroštallojuvvo ássiidlogu ektui ássiin mat leat gaskal 16-66 jagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvor mye dette betyr, kan illustreres ved et tankeeksperiment der vi tenker oss at andelen sysselsatte i STN-området øker til gjennomsnittet for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Man ollu mearkkašupmi das lea, sáhttá govvidit jurddaeksperimeanttain mas jurddašit ahte bargiid oassemearri SED-guovlluin lassánii Romssa ja Finnmárkku gaskameari rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette ville i 2016 gitt om lag 4 000 flere sysselsatte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát livččii jagis 2016 addán birrasiid 4 000 eanet bargi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis vi også tenker oss at de nye sysselsatte hadde fordelt seg på næringer som fantes i 2016, slik at det hadde blitt en prosentvis like stor sysselsettingsvekst i alle næringer, ville det gitt et bruttoprodukt på 393 000 per innbygger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jurddašit ahte dát ođđa bargit livčče juohkásan ealáhusaide dego 2016:s, nu ahte livččii gártan seamma proseantasaš stuoru bargguiduhttinlassáneapmi buot ealáhusain, de livččii dagahan ahte bruttobuvtta lei šaddat 393 000 juohke ássi nammii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da ville verdiskapningen vært 99,1 % av snittet for Troms og Finnmark, noe som betyr at nesten hele forskjellen i verdiskapning per innbygger kan forklares med at sysselsettingsandelen er lavere i STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle livččii árvoháhkan leamašan 99,1% Romssa ja Finnmárkku gaskamearis, mii máksá ahte goasii olles erohusa árvoháhkamis juohke ássi nammii sáhttá čilget dainna ahte barggolašvuođaoassemeari lea vuollegeappot SED-guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Klarer vi å forklare hvorfor sysselsettingsandelen er lavere?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nagoditgo čilget manin barggolašvuođaoassemearri lea vuollegeappot?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alderssammensetningen i befolkningen er en viktig faktor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmoga ahkečoahkkádus lea dehálaš buvttadahkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En lav andel innbyggere i alderen som normalt sett er yrkesaktiv, vil gi en lavere sysselsettingsandel.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go ássiid, mat leat dan agis goas dábálaččat leat bargoárjjalaččat, oassemearri lea unni, de dat addá vuollegeappot barggolašvuođaoassemeari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å undersøke dette har jeg sammenliknet andelen av innbyggere i alderen 16–66 år.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iskkan dihte dán lean mun buohtastahttán oassemeari ássiin gaskal 16-66 jagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv om mange av de yngste går på skole, er det denne aldersgruppen som vanligvis regnes som arbeidsstyrken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko oallugat dain nuoramusain vázzet skuvllaid, de lea aŋkke dát ahkejoavku maid dábálaččat navdet bargoveahkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tallene i tabell 4 viser at STNområdet har en noe lavere andel i alderen 16–66 år enn snittet for Troms og Finnmark, og årsaken er i første rekke en høyere andel eldre i befolkningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 4 logut vuosihit ahte SED-guovllus lea oassemearri gaskal 16-66 jagi veaháš vuollegeappos go Romssa ja Finnmárkku gaskamearri, ja ágga dása lea vuosttažettiin ahte vuorrasit olbmuid oassemearri lea alladeappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det må derfor forventes at yrkesdeltakelsen i området er lavere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ferte danin vuordit ahte fidnooassálastin guovllus lea vuollegeappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å si noe om utviklingen fremover presenteres også andelen av befolkningen som var under 17 år i 2016. Den er også lavere i STN-området og indikerer at utfordringen med en relativt lav andel av befolkningen i arbeidsstyrken vil forsterkes i årene fremover.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vai sáhttá dadjat juoidá ovdáneamis ovddasguvlui, de ovdanbuktojuvvo maiddái oassemearri álbmogis geat ledje vuollel 17 jagi 2016:s. Dat lea maiddái vuollegeappot SED-guovllus ja čujuha ahte hástalus das ahte oalle vuollegis oassemearri álbmogis leat bargoveagas, dat lassána jagiin mat bohtet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et annet forhold som kan forklare forskjellen, er variasjon i andelen av dem som normalt sett er i arbeidsstyrken, men som ikke er i arbeid for eksempel fordi de er arbeidsledige eller av andre grunner er falt ut av arbeidsstyrken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará dilálašvuohta mii sáhttá čilget erohusa lea molsašuvvan oassemearis sis geat dábálaččat leat bargoveagas, muhto geat eai leat barggus, ovdamearkka dihte daningo sis ii leat bargu dahje eará ákkaid dihte leat gártan bargoveaga olggobeallái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jeg har undersøkt dette ved å se på data for antall registrerte som uførepensjonister eller som arbeidsledige, begge størrelsene målt i forhold til antall innbyggere i aldersgruppen 16–66 år.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean guorahallan dán go lean geahččan dáhtaid mat vuosihit loguid sis geat leat čálihuvvon bargonávccahisvuođapensionistan dahje geat leat bargguhisvuođas, goappaš mahtodagat meroštallojuvvon logu ektui ássiin geat leat gaskal 16-66 jagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tallene er rapportert i tabell 4 og viser at uføreandelen er høyere i STN-området.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loguid lean raporteren tabeallas 4 ja dat čájehit ahte bargonávccahisvuođaoassemearri lea stuoribut SED-guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2016 var antall uførepensjonister i forhold til innbyggertallet i alderen 16–66 i overkant av 13 prosent og om lag sju prosentpoeng høyere enn snittet i Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagis 2016 lei bargonávccahisvuođapensionisttaid lohku, logu ektui ássiin gaskal 16-66 jagi, badjelaš 13 proseanta ja birrasiid čieža proseantapoeaŋŋa badjelis go Romssa ja Finnmárkku gaskamearri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Videre er andelen arbeidsledige noe høyere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Joatkevaččat lea sin oassemearri, geat leat bargguhisvuođas, veaháš vel badjelis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I de to årene tallene er beregnet for, er ledigheten om lag et halvt prosentpoeng høyere i STN-området enn snittet for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan guovtti jagis, go meroštallamat leat dahkkon, lea bargguhisvuohta birrasiid bealle proseantapoeaŋŋa badjelis SED-guovllus go Romssa ja Finnmárkku gaskamearri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er lavere enn rapportert av NAV, men det skyldes at her er ledigheten målt i forhold til antall personer i aldersgruppen 16–66 år, og ikke i forhold til arbeidsstyrken, som er lavere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea vuollelis go maid NAV raportere, muhto dat lea dan dihtego dás lea bargguhisvuohta mihtiduvvon logu ektui olbmuin geat ledje ahkejoavkkus 16-66 jagi, ja ii bargoveaga ektui, mii lea vuollegeappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.4 Oppsummering</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.4 Oktiigeassu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I denne artikkelen har jeg foreslått et opplegg for å beregne samlet verdiskapning i STNområdet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkalis lean árvalan vuogi movt sáhttá meroštallat SED-guovllu obbalaš árvoháhkama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan beregningsopplegget kan brukes, er illustrert ved å beregne målet for årene 2013 og 2016. Beregningene viser at verdiskapningen målt per innbygger er betydelig lavere i STN-området enn gjennomsnittet for Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mainna lágiin meroštallanvuogi sáhttá atnit lea govviduvvon meari rehkenastimiin jagiide 2013 ja 2016. Meroštallamat čájehit ahte árvoháhkan meroštallojuvvon juohke ássi nammii lea mealgat vuollelis SED-guovllus, dan ektui mii dahká Romssa ja Finnmárkku gaskameari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forklaringen på dette er lavere yrkesdeltakelse i befolkningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čilgehussan dasa lea vuollegeappot fidnooassálastin SED-guovllu álbmoga siskkobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noe av dette skyldes en høy andel eldre i befolkningen, men den viktigste forklaringsfaktoren er lavere yrkesdeltakelse i aldersgruppen som normalt sett utgjør arbeidsstyrken, enn det som er gjennomsnittet i Troms og Finnmark.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin oassi sivas manin ná lea, guoddá dat ahte doppe lea stuorra oassi álbmogis vuorrasit olbmot, muhto deháleamos čilgehusbuvttadahkki lea ahte fidnooassálastin lea vuollegeappos ahkejoavkkus mii dábálaš dilis dahká bargoveaga, go buohtastahttá Finnmárkku ja Romssa gaskameriin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis yrkesdeltakelsen hadde økt til snittet for de to fylkene, ville verdiskapningen per innbygger også vært oppe på gjennomsnittet for fylkene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus fidnooassálastin SED-guovllus livččii lassánan dan dássái mas dán guovtti fylkka gaskamearri lea, de livččii árvoháhkan juohke ássi nammii maiddái leamašan fylkkaid gaskameari dási rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette betyr at det er et stort potensial i området når det gjelder vekst i næringsutviklingen fremover.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát muitala ahte guovllus leat nanu vejolašvuođat lassánahttit ealáhusovdáneami ovddas guvlui.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
