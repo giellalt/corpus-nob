@@ -17,7 +17,7 @@
         <seg>Oppg. nr.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Eksáminándda nr..</seg>
+        <seg>Bihtá nr..</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,7 +25,15 @@
         <seg>HELHET</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bihtá nr..</seg>
+        <seg>OPPALAŠVUOHTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elevsvaret som helhet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppi vástádus oppalaččat:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,18 +62,82 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Tekstforståelse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teakstaipmárdus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Morfologi</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Hápmeoahppa</seg>
       </tuv>
     </tu>
-    <tu>
+     <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordforråd</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátneriggodat</seg>
+      </tuv>
+    </tu>
+     <tu>
+      <tuv xml:lang="nob">
+        <seg>Ortografi, syntaks</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ortografiija, syntaksa </seg>
+      </tuv>
+    </tu>
+     <tu>
+      <tuv xml:lang="nob">
+        <seg>Sitat og kildemarkering</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sitáhtaid ja gálduid merken</seg>
+      </tuv>
+    </tu>
+   <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjøre rede for faglig tema</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Selvehit fágalaš temá</seg>
+      </tuv>
+    </tu>
+   <tu>
       <tuv xml:lang="nob">
         <seg>Virkemidler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sátneriggodat</seg>
+        <seg>Váikkuhangaskaoamit</seg>
+      </tuv>
+    </tu>
+   <tu>
+      <tuv xml:lang="nob">
+        <seg>Analyse, fagspråk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Analysa, fágagiella</seg>
+      </tuv>
+    </tu>
+   <tu>
+      <tuv xml:lang="nob">
+        <seg>egne vurderinger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iežas árvvoštallamat</seg>
+      </tuv>
+    </tu>
+   <tu>
+      <tuv xml:lang="nob">
+        <seg>Tekststruktur</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teakstastruktuvra</seg>
       </tuv>
     </tu>
     <tu>
@@ -73,7 +145,15 @@
         <seg>Refleksjon og selvstendighet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sitáhtaid ja gálduid merken</seg>
+        <seg>Reflekšuvdna ja iešheanalašvuohta </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sjangerkunnskap</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šáŋramáhttu</seg>
       </tuv>
     </tu>
     <tu>
@@ -81,7 +161,15 @@
         <seg>Bruk av virkemidler</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Selvehit fágalaš temá</seg>
+        <seg>Váikkuhangaskaomiid geavaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disposisjon, fokus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Disposišuvdna, fokus</seg>
       </tuv>
     </tu>
     <tu>
@@ -89,12 +177,36 @@
         <seg>Saklig argumentasjon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Váikkuhangaskaoamit</seg>
+        <seg>Áššálaš ákkasteapmi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Virkemidler</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teakstastruktuvra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Analyse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Analysa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fagspråk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fágagiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Egne vurderinger</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Iežas árvvoštallamat</seg>
@@ -105,12 +217,28 @@
         <seg>Tradisjonell kunnskap og språket i bruk</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Reflekšuvdna ja iešheanalašvuohta</seg>
+        <seg>Árbevirolaš máhttu ja giella geavaheamis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjøre rede for, vurdere, sammenligne, drøfte språklige og kulturelle forhold</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Selvehit, árvvoštallat, buohtastahttit ja ságaškuššat giellaáššiid ja áššiid mat gullet árbevirolaš máhttui</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>gjøre rede for faglige temaer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Selvehit fágalaš temáid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Markering av sitat og kildebruk</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sitáhtaid ja gálduid merken</seg>
