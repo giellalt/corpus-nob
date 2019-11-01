@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">grunnskole-rett-til-samisk-opplaering.353673.no.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring - Gáldu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahus - Gáldu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samenes rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utkast til nordisk samekonvensjon</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikalaš sámekonvenšuvdna evttohus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samefolkets grunnlovsvern</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi álbmoga vuođđolágasuodjalus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske barn og unges rettigheter Samisk barnehagetilbudGrunnskole: rett til samisk opplæringVideregående skole: rett til samisk opplæringHøyere utdanningBarnevern: samiske barns rettigheterBarns rett til å bli hørt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi mánáid ja nuoraid vuoigatvuođat Sámi mánáidgárdefálaldatVuođđooahpahus: riekti sámegiel oahpahussiiJoatkkaoahpahus: riekti sámegiel oahpahussiiAlit oahpahusMánáidsuodjalus: sámi mánáid riektiMánáid riekti ovddidit iežaset oainnuidMovt váidit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk barnehagetilbud</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi mánáidgárdefálaldat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Grunnskole: rett til samisk opplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđooahpahus: riekti sámegiel oahpahussii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Videregående skole: rett til samisk opplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Joatkkaoahpahus: riekti sámegiel oahpahussii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Høyere utdanning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Alit oahpahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barnevern: samiske barns rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáidsuodjalus: sámi mánáid riekti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barns rett til å bli hørt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáid riekti ovddidit iežaset oainnuid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samenes språklige og sosiale rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Movt váidit Sámi giella- ja sosiálavuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske kvinners rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi nissoniid vuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske eldres rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi vuoras olbmuid vuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samenes land og ressursrettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođat eatnamiidda ja meahcceriggodagaide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske næringsrettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi ealáhusvuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samenes kulturelle rettigheter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kultuvrralaš vuoigatvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Internasjonal samisk representasjon</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid riikkaidgaskasaš oassálastin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áigeguovdilis gáldut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som bor i samiske distrikt har rett til opplæring i samisk og opplæring på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáin geat ásset sámi guovllus lea vuoigatvuohta oažžut sámegieloahpahusa ja buot eará oahpahusa sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som bor andre steder i landet har rett til undervisning i samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát vuoigatvuohta lea seamma vuođđoskuvllas ja joatkkaskuvllas. Sámegiela oahpahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring i samiske distrikt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahus sámi guovllus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring utenfor samiske distrikt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahus olggobealde sámi guovllu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Private skoler</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Priváhta skuvllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fag- og timefordeling</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahus sámiid birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Opplæring om samer og samiske forhold Opplæring i samisk språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go sámegillii oažžu oahpu, de oahpahit oahpaheaddjit sámegillii buot fágain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk kan være nordsamisk, lulesamisk eller sørsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiella sáhttá leat davvisámegiella, julevsámegiella dahje oarjelsámegiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan lære samisk som førstespråk eller samisk som andrespråk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Don sáhtát oahppat sámegiela vuosttašgiellan dahje nubbingiellan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Læreplanen for samisk som førstespråk finnes her</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela vuosttašgiela oahpahusa oahppoplána gávnnat dáppe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Læreplanen for samisk som andrespråk finnes her</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela nubbingiela oahpahusa oahppoplána gávnnat dáppe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som lærer samisk som førstespråk skal følge læreplanen " Norsk for elever med samisk som førstespråk " i norskfaget.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánát geat ohppet sámegiela vuosttašgiellan, galget čuovvut “ Dárogiella ohppiide geain lean sámegiella vuosttašgiellan - oahppoplána ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den skal de følge både i grunnskolen og på videregående, så lenge de lærer samisk som førstespråk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán sii galget čuovvut sihke vuođđoskuvllas ja joatkkaskuvllas nu guhká go sis lea sámegiel oahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som får opplæring i samisk som andrespråk, følge r or dinær læreplan for norskfaget, men er fritatt fra undervisning og vurdering i norsk sidemål.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánát geat ohppet sámegiela nubbingiellan, galget čuovvut dárogiela vuosttašgiela oahppoplána, muhto sii eai dárbbaš oahppat dárogiela siidogiela eaige dárbbat árvvoštallojuvvot das.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som får opplæring i samisk som første- eller andrespråk, er unntatt fra kravet om fremmedspråk eller språklig fordypning, men har rett til å velge slik opplæring dersom de ønsker det.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppi gii oažžu sámegiel oahpahusa ii leat geatnegahtton oahppat amasgiela dahje válljet giellačiekŋudanfága, muhto sus lea riekti válljet dakkár oahpahusa jus dan háliida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Opplæringslovens kap. 6 omhandler samisk opplæring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahuslága 6.kapihtalis čuožžu sámegiel oahpahusa birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring i samiske distrikt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahus sámi guovllus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som bor i samiske distrikt har rett til å få opplæring i samisk og all annen opplæring på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi guovllus lea ohppiin lea riekti oažžut sámegieloahpahusa ja buot eará oahpahusa sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I samiske distrikt skal elever følge læreplanen Kunnskapsløftet - Samisk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte lassin (sámegiela) giellaoahpahussii, de galget buot fágat oahpahuvvot sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som får opplæring i samisk som første- eller andrespråk, er unntatt fra kravet om fremmedspråk eller språklig fordypning, men har rett til å velge slik opplæring dersom de ønsker det.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sii galget čuovvut Máhttolokten - Sámegiella oahppoplánaid. Oahppi gii oažžu sámegiel oahpahusa ii leat geatnegahtten oahppat amasgiela dahje válljet giellačiekŋudanfága, muhto sus lea riekti válljet dakkár oahpahusa jus dan háliida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Foreldre har rett til at all kontakt med skolen skjer på samisk (brev, informasjon, ukeplaner etc.) Det gjelder også når foreldre tar muntlig kontakt med skolen og f.eks. ved foreldremøter, foreldresamtaler etc.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váhnemiin lea riekti gáibidit ahte buot gulahallan skuvllain (reivvet, diehtojuohkin, vahkkoplánat jna.) galgá leat sámegillii. Dát guoská maid go njálmmálaččat gulahallá skuvllain, ja váhnenčoahkkimiin, váhnenságastallamiin jna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk distrikt er de kommuner som har valgt å bli tospråklige kommuner med samisk og norsk som likestilte språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi guovlu lea dat suohkanat mat leat mearridan ahte sámegiella lea ovttadássásaš dárogielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I opplæringsloven heter dette området for samiske distrikt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahuslágas gohčoduvvo dát guovlu Sámi guovlun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sameloven heter dette området Forvaltningsområdet for samisk språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámelágas gohčoduvvo dát seamma guovlu fas Sámegiela hálddašanguovlun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk opplæring utenfor samiske distrikt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahus olggobealde sámi guovllu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hver samiske elev har rett til å få opplæring i samisk uansett hvor man bor i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohke sámi oahppis lea vuoigatvuohta oažžut sámegielas oahpu, vaikko gos orrot Norggas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne retten følger det enkelte barn, og dersom foreldre krever opplæring i samisk, så er skoleeier pliktig til å ordne et slikt tilbud.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát riekti čuovvu eaŋkilmáná, ja jus váhnen gáibida sámegieloahpahusa, de galgá skuvla dan lágidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som får opplæring i samisk som første- eller andrespråk, er unntatt fra kravet om fremmedspråk eller språklig fordypning, men har rett til å velge slik opplæring dersom de ønsker det.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppi gii oažžu sámegiel oahpahusa ii leat geatnegahtten oahppat amasgiela dahje válljet giellačiekŋudanfága, muhto sus lea riekti válljet dakkár oahpahusa jus dan háliida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom skolen ikke greier å finne samisklærer, så er skolen forpliktet til å gjennomføre samiskopplæring ved hjelp av alternative opplæringsformer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus skuvla ii nagot gávdnat oahpaheaddji, de lea skuvla geatnegahtton čađahit sámegieloahpahusa molssaevttolaš oahpahusvugiid bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En alternativ opplæringsform er fjernundervisning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Okta molssaevttolaš oahpahusvuohki lea gáiddusoahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da foregår opplæringen ved hjelp av videokonferanse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle gulahallaba oahppi ja oahpaheaddji video bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et annet alternativ er hospitering, da hospiterer eleven ved en samisk skole og får opplæring i samisk der.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará oahpahusvuohki lea hospiteren, dalle fitná oahppi muhtin sámi skuvllas ja oažžu doppe sámegiela oahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skoler som tilbyr undervisning i samisk kan få dekket ekstrautgiftene fra fylkesmannen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvllat mat fállet sámegieloahpahusa, sáhttet oažžut doarjaga fylkkamánnis gokčat liigegoluid maid oahpahus buktá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom det er minst 10 elever i en kommune utenfor samisk distrikt som krever undervisning på samisk, så er kommunen pliktig til å tilby det. Kommunen kan fritt velge på hvilken skole denne undervisningen skal gis.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus muhtin suohkanis olggobealde sámi guovllu leat unnimusat 10 oahppi geat gáibidit sámegillii oahpahusa, de lea suohkan geatnegahttán dan fállat, muhto suohkan sáhttá ieš mearridit guđe skuvlii bidjá dan oahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da skal elevene få undervisning på samisk i alle fag.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle galget oahppit oažžut sihke sámegiela oahpahusa ja sámegillii oahpahusa buot eará fágain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunen er forpliktet til å opprettholde dette tilbudet så lenge det er minst 6 elever igjen i gruppa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán fálaldaga lea suohkan geatnegahtton fállat nu guhká go leat unnimus 6 máná ain joavkkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkesmannen i Finnmark koordinerer nordsamisk fjernundervisning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Finnmárkku fylkkamánni koordinere davvisámegiel gáiddusoahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fylkesmannen i Nordland koordinerer sørsamisk og lulesamisk fjernundervisning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nordlándda fylkkamánni koordinere lullisámegiel ja julevsámegiel gáiddusoahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>O pplæringslovens kap. 6.omhandler samisk opplæring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahuslága 6.kapihtalis čuožžu sámegiel oahpahusa birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På Sametingets hjemmesider finnes det mer informasjon om samisk opplæring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki siidduin gávnnat eambbo dieđuid sámi oahpahusa birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På Utdanningsdirektoratets hjemmesider finnes det mer informasjon om samisk opplæring, der finnes det også mer informasjon om fag- og timefordeling,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahusdirektoráhta siidduin gávnnat eambbo dieđuid sámi oahpahusa birra, doppe gávnnat maid dieđuid fága- ja diibmojuohkima birra,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Private skoler</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Priváhta skuvllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Private skoler skal følge friskoleloven.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Priváhta skuvllat galget čuovvut friddjaskuvlalága.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Friskoleloven har ingen bestemmelse som pålegger skolene til å gi undervisning i samisk eller undervisning på samisk. Privatskolene kan imidlertid gjøre det dersom de ønsker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Friddjaskuvla lágas ii leat makkárge mearrádus mii geatnegahttá sin addit oahpahusa sámegielas dahje sámegillii, muhto priváhta skuvllat sáhttet dan dahkat jus háliidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Friskolelov a</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Friddjaskuvlaláhka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kunnskapsdepartementet igangsatte i oktober 2014 arbeidet med å revidere friskoleloven.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahusdepartemeanta lea 2014 golggotmánus álggahan barggu rievdadit friddjaaskuvllalága.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I den forbindelse har Sametinget sendt inn en høringsuttalelse hvor Sametinget krever styrkede rettigheter for samiske barn til undervisning i samisk også i privatskolene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan oktavuođas lea Sámediggi sádden gulaskuddancealkámuša mas lea gáibidan ahte sámi mánáid vuoigatvuohta oažžut sámegiel oahpahusa maiddái priváhtaskuvllain nannejuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget har også krevd at det også i friskoleloven skal stå noe om de plikter som skoler har til å lære alle barna om den samiske befolkningen, samisk språk, samisk kultur og samfunnsliv.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea maid gáibidan ahte maiddái friddjaskuvlalágas galgá čuožžut ahte priváhta skuvllat leat geatnegahtton oahpahit buot mánáide sámi álbmoga, sámi giela, kultuvrra ja servodateallima birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dag finnes denne bestemmelsen bare i opplæringsloven.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Otne lea dát gáibádus dušše čállojuvvon oahpahuslágas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget har krevd å få konsultere med Kunnskapsdepartementet om denne saken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea gáibidan beassat Oahpahusdepartemeanttain ráđđádallat dán ašši birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I juni 2015 rapporterte Sametingsrådet til Sametingets plenum at Kunnskapsdepartementet ikke har imøtekommet det kravet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geassemánus 2015 raporterii Sámediggeráđđi Sámediggái ahte departemeanta ii leat miehtan dasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fag- og timefordeling I Norge bestemmes fag- og timefordelingen nasjonalt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norgga skuvllain lea fága- ja diibmojuohkin mearriduvvon našunála dásis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det sikrer at alle elever får like mye undervisning i alle fag.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat sihkkarastá ahte buot oahppit galget oažžut lihkka ollu oahpahusa buot fágain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skoler kan etter vedtatte regler tilpasse fag- og timefordelingen noe for å tilpasse opplæringen til lokale forhold.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvllat sáhttet mearriduvvon vugiid mielde veahá rievdadit diibmologuid heivehan dihte oahpahusa báikkálaš diliide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fag- og timefordelingen er bestemt både for grunnskolen og den videregående skole.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fága- ja diibmojuohkin lea mearriduvvon sihke vuođđoskuvlii ja joatkkaskuvlii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er laget en egen fag- og timefordeling for læreplanen Kunnskapsløftet - samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máhttolokten - Sámegiella oahppoplánaid e lea ráhkaduvvon sierra fága ja diibmojuohkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På Utdanningsdirektoratets sider finnes fag- og timefordelingen og mer informasjon om den.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahusdirektoráhta siidduin gávnnat fága- ja diibmojuohkima ja eambbo dieđuid dan birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fag- og timefordeling og opplæring i samisk språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fága ja diibmojuohkin ja sámegieloahpahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barneskolen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáidskuvllas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever på barneskoletrimmet som har opplæring i samisk skal ha minst 1562 timer i første- og andrespråket fordelt på minst 954 timer til førstespråket og minst 608 timer til andrespråket.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppit mánáidskuvllas geain lea sámegieloahpahus galget oažžut unnimus 1562 diimmu vuosttaš- ja nubbingieloahpahusa. Diimmut galget juhkkojuvvot nu ahte oahppi oažžu unnimusat 954 diimmu vuosttašgieloahpahusa ja unnimus 608 diimmu nubbingieloahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er 190 timer mer enn ordinære elever har i norsk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea 190 diimmu eambbo go ohppiin geain lea dušše dárogieloahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skolen bestemmer hvordan de organiserer denne undervisningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvla mearrida movt dat organisere dán liige oahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den kan skje ved at all samiskundervisning gis som et tillegg, det vil si at eleven da i løpet av barneskolen har undervisning i 190 timer mer enn elever som ikke leser samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvla sáhttá mearridit ahte buot dát 190 diimmu galget leat lassin eará diimmuide, dalle lea dábálaččat ohppiin sámegiel oahpahus maŋŋel go eará oahppit leat geargan skuvlabeivviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skolen kan også velge å redusere undervisningstimene i andre fag for elever som leser samisk (ta i bruk lokale læreplaner).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvla sáhttá maid unnidit diibmomeari eará fágain (de skuvla ráhkada báikkálaš oahppoplánaid main unnida muhtin eará fágain diibmomeari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De kan også vedta å bruke en ordning hvor de kombinerer omdisponering av timer fra andre fag (ved hjelp av lokale læreplaner) med tilleggstimer til samiskundervisningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sii sáhttet maid kombineret dán guokte vejolašvuođa; ahte okta oassi diimmuin addo maŋŋel skuvlabeaivvi ja lassin de ráhkada vel skuvla báikkálaš oahppoplánaid nu ahte leat unnit diimmut muhtin eará fágain vai oahppit besset sámegiela lohkat skuvlaáiggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ungdomsskolen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuoraidskuvllas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever på ungdomstrinnet som har opplæring i samisk skal ha minst 512 timer i første- og andrespråket fordelt på minst 284 timer til førstespråket og minst 228 timer til andrespråket.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppit nuoraidskuvllas geain lea sámegieloahpahus galget oažžut unnimus 512 diimmu vuosttaš- ja nubbigieloahpahusa. Diimmut galget juhkkojuvvot nu ahte oahppi oažžu unnimusat 284 diimmu vuosttašgieloahpahusa ja unnimus 228 diimmu nubbingieloahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er 114 timer mer enn ordinære elever har i norsk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea 114 diimmu eambbo go ohppiin geain lea dušše dárogieloahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Organiseringen av opplæringen i samisk vil avhenge av om eleven velger fremmedspråk eller ikke. Elever som har opplæring i samisk er fritatt fra opplæring i fremmedspråk, men kan likevel velge fremmedspråk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahusa organiseren mearriduvvo dan mielde ahte vállje go oahppi ahte háliida oahpahusa amasgielas vai ii. Oahppit geat lohket sámegiela eai dárbbat oahppat amasgiela, muhto sáhttet dan dahkat jus sii dan háliidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Elever som ikke velger fremmedspråk, får flere timer i første- og andrespråket.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oahppi ii vállje amasgiela oahpahusa, de galgá oahppi oažžut eambbo diimmuid vuosttaš- ja nuppigielas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også på ungdomsskolen kan skolen bestemme hvordan de organiserer opplæringen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái nuoraidskuvllas sáhttá skuvla mearridit movt sii organiserejit oahpahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiskundervisningen kan gis som et tillegg, det vil si at eleven da i løpet av ungdomsskolen har undervisning i 114 timer mer enn elever som ikke leser samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvla sáhttá mearridit ahte buot dát 114 diimmu galget leat lassin eará diimmuide, dalle lea dábálaččat ohppiin sámegiel oahpahus maŋŋel go eará oahppit leat geargan skuvlabeivviin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skolen kan også velge å redusere undervisningstimene i andre fag for elever som leser samisk (ta i bruk lokale læreplaner).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvla sáhttá maid unnidit diibmomeari eará fágain (de skuvla ráhkada báikkálaš oahppoplánaid main unnida muhtin eará fágain diibmomeari).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De kan også vedta å bruke en ordning hvor de kombinerer omdisponering av timer fra andre fag (ved hjelp av lokale læreplaner) med tilleggstimer til samiskundervisningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sii sáhttet maid kombineret dán guokte vejolašvuođa; ahte okta oassi diimmuin addo maŋŋel skuvlabeaivvi ja lassin de ráhkada vel skuvla báikkálaš oahppoplánaid nu ahte leat unnit diimmut muhtin eará fágain vai oahppit besset sámegiela lohkat skuvlaáiggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Opplæring om samer og samiske forhold</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahus sámiid birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle grunnskoler og videregående skoler i Norge er etter opplæringslovens § 6-4 forpliktet til å lære alle barn om den samiske befolkningen, om samisk språk, kultur og samfunnsliv.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot vuođđoskuvllat ja joatkkaskuvllat Norggas leat oahpahuslága § 6-4 mielde geatnegahtton oahpahit mánáide sámi álbmoga, sámi giela, kultuvrra ja servodateallima birra.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
