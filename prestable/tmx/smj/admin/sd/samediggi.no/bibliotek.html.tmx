@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">bibliotek.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets bibliotek ligger i Karasjok og er en del av Sametingets administrasjon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke girjjevuorkká l Kárášjågån ja oassen Sámedikke háldadusás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Biblioteket har Norges største samling av bøker og annet materiell på samiske språk og om samiske forhold.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Girjjevuorkán la Vuona stuorámus tjoahkke girjij ja ietjá materiálaj sáme gielajda ja sáme dilij birra vájk makkir giellaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse kan fjernlånes hvor som helst i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dájt máhttá luojkadit vájku makkir bájkes Vuonan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Åpningstider:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Rabásájge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Biblioteket er åpent for alle mandag til fredag, kl. 09.00-15.30.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Rahpamájge Girjjevuorkká l rabás mánnodagás bierjjedahkaj 09.00-15.30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bli låner</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sjatta luojkken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus sidá ietjat nammaj diŋŋgot jali luojkkat Sámedikke girjjevuorkás hæhttu liehket tjáledum luojkke girjjevuorkán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Luojkke ietjá bájkes rijkan máhtti buoremusát mijás luojkkat ietjasa lagámus girjjevuorká baktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lån fra andre bibliotek - fjernlån</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ietjá girjjevuorkás luojkkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus materiálla mav dån sidá ij la girjjevuorkán, máhttep dunji dav ietjá fáhkagirjjevuorkás rávvit (mælggatluojkkam).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Reservere, bestille og forlenge lån</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diŋŋgot ietjat nammaj, rávvit ja guhkedit luojkkamav ORIA baktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I ORIA kan du søke opp bøker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>ORIA nbaktu máhtá girjijt åhtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Der kan du også reservere, bestille eller forlenge lån.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Danna aj máhtá ietjat nammaj diŋŋgot, rávvit jali luojkkamav guhkedit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle bibliotek kan låne bokpakker (depot) hos oss.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gájkka girjjevuorká máhtti girjjepáhkijt (depot) mijás luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Miján la stuorra tjoahkke fáhkagirjálasjvuodas ja tjáppagirjálasjvuodas mánájda ja ållessjattugijda, iesjgeŋga sámegiellaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg låner vi ut DVDer, CDer og lydbøker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duodden luojkadip DVDajt, CDajt ja jiednagirjijt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvalget settes sammen etter lånerens/bibliotekets ønsker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oasse l luojkke /girjjevuorká sávadusáj milta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Langtidslån er mulig.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la mælggadav luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Násstetjoahkken li birrusij 1200 girjjenamá (tittala) ma li sáme dilij hárráj jali avta sámegiellaj tjáledum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Majoriteten av titlene er eldre enn 100 år gamle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus oasse girjjenamájs li oabmásabbo gå 100 jage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkken li antikváralasj, vuorjjás, oabmásap ja mávsulasj girje ja ájggetjállaga, ja muhtem kárta 1669 rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duodden li aj gallegasj girjjenamá maŋemus 100 jages ma li sierralágásj árvvusattja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkke l áttjak gehtjadum ja gájkka girjjenamá li dálla girjjevuorkkávuogádahkaj tjáledum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De er dermed søkbare på lik linje med andre dokumenter.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dan diehti, sæmmiláhkáj gå ietjá tjállaga, máhttá dajt åhtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus tjállagij gáktuj násstetjoahkken la akta girjje biejadum magasijnnaj mav máhtá luojkkat, valla da girje ma li násstetjoahkken ij oattjo sijddaj luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De kan i noen tilfeller hentes frem og leses i biblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dajt máhttá muhtem bále viettjaduvvat ja girjjevuorká lågåduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke girjjevuorkká ásadij jagen 2014 sierra álggoálmmuktjoahkkev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sáme bibliografijja Vuonan álgaduváj Universitiehttagirjjevuorkán Roandemin jagen 1980, åvddåla dat jagen 1993 almulattjat sirdeduváj Nasjonalgirjjevuorkkáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Badjelasj 20 jage dat rájes, ságastahttjájin máhttelisvuodas aktisasj sáme bibliografijjav dahkat vuododum daj sáme bibliografijjaj nanna ma buvtaduvvi Ruossjan, Suoman, Svierigin ja Vuonan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Da gålmmå ietjá rijka li viehkedam låhpadimbargov ållitjit aktisasjbargon BIBSYSajn mij aj dievnastusáv dåjmat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Låne og bestille</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Luojkkat ja rávvit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bli låner</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sjatta luojkken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus sidá ietjat nammaj diŋŋgot jali luojkkat Sámedikke girjjevuorkás hæhttu liehket tjáledum luojkke girjjevuorkán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Luojkke ietjá bájkes rijkan máhtti buoremusát mijás luojkkat ietjasa lagámus girjjevuorká baktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lån fra andre bibliotek - fjernlån</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ietjá girjjevuorkás luojkkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus materiálla mav dån sidá ij la girjjevuorkán, máhttep dunji dav ietjá fáhkagirjjevuorkás rávvit (mælggatluojkkam).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Reservere, bestille og forlenge lån</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diŋŋgot ietjat nammaj, rávvit ja guhkedit luojkkamav ORIA baktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I ORIA kan du søke opp bøker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>ORIA nbaktu máhtá girjijt åhtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Der kan du også reservere, bestille eller forlenge lån.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Danna aj máhtá ietjat nammaj diŋŋgot, rávvit jali luojkkamav guhkedit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å bruke ORIA registrerer du deg først som lånekunde.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Náv ORIAv aná Anátjit ORIAv vuostak ietjat luojkken tjáleda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da får du et lånekort som også blir din lånetaker-ID.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>De luojkkamkårtåv oattjo mij aj duv luojkke-IDn sjaddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deretter kan du få ditt eget passord til innlogging på ORIA.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dassta maŋŋela ietjat bessambágov máhtá oadtjot sisi låggitjit ORIAj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik logger du deg inn</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muv bielle/gåktu bessambágov dahkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Klikk først på «Logg på» øverst i høyre hjørne i Oria.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>ORIAj låggi sisi gå dieddela «Logg på» ållu bajemusán oalges bielen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets bibliotek står ikke i nedtrekksmenyen på påloggingssiden.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke girjjevuorkká ij la rahpamfállon sislåggimbielen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du må velge BIBSYS som institusjon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Hæhttu válljit BIBSYSav institusjåvnnån.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Logg inn med din låntagerID og BIBSYS-passord.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Låggi sisi ietjat luojkkeIDajn ja BIBSYS-bessambágojn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bestill passord for ORIA</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diŋgo ORIA beassansáni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bokpakker</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Girjjepáhke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle bibliotek kan låne bokpakker (depot) hos oss.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gájkka girjjevuorká máhtti girjjepáhkijt (depot) mijás luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Miján la stuorra tjoahkke fáhkagirjálasjvuodas ja tjáppagirjálasjvuodas mánájda ja ållessjattugijda, iesjgeŋga sámegiellaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg låner vi ut DVDer, CDer og lydbøker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duodden luojkadip DVDajt, CDajt ja jiednagirjijt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utvalget settes sammen etter lånerens/bibliotekets ønsker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oasse l luojkke /girjjevuorká sávadusáj milta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Langtidslån er mulig.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la mælggadav luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontakt oss om bokpakker</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válde aktavuodav girjjepáhkij birra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>E-post: sambib@samediggi.no Telefon: +47 78 47 40 00</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>E-poassta: sambib@samediggi.no Telefåvnnå: +47 78 47 40 00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Stjernesamlingen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Násstetjoahkke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Násstetjoahkken li birrusij 1200 girjjenamá (tittala) ma li sáme dilij hárráj jali avta sámegiellaj tjáledum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Majoriteten av titlene er eldre enn 100 år gamle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus oasse girjjenamájs li oabmásabbo gå 100 jage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkken li antikváralasj, vuorjjás, oabmásap ja mávsulasj girje ja ájggetjállaga, ja muhtem kárta 1669 rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duodden li aj gallegasj girjjenamá maŋemus 100 jages ma li sierralágásj árvvusattja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjoahkke l áttjak gehtjadum ja gájkka girjjenamá li dálla girjjevuorkkávuogádahkaj tjáledum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De er dermed søkbare på lik linje med andre dokumenter.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dan diehti, sæmmiláhkáj gå ietjá tjállaga, máhttá dajt åhtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus tjállagij gáktuj násstetjoahkken la akta girjje biejadum magasijnnaj mav máhtá luojkkat, valla da girje ma li násstetjoahkken ij oattjo sijddaj luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De kan i noen tilfeller hentes frem og leses i biblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dajt máhttá muhtem bále viettjaduvvat ja girjjevuorká lågåduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utgivelsene i stjernesamlingen fordeler seg pr. dags dato slik:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Almodusá násstetjoahkken li udnásj bæjvváj náv:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Omtrent 10 titler fra 1600-tallet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Birrusij 0 tihttala 1600-lågos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>80 titler fra 1700-tallet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>80 tihttala 1700-lågos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>430 titler fra 1800-tallet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>430 tihttala 1800-lågos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Av de eldste bøkene i samlingen kan nevnes Manuale Lapponicum av Olaus Stepani Graan (Stockholm 1669) og Lapponia av Johannes Schefferus, i flere utg. fra 1674 og framover.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oabmásamos girjij gaskan dán tjoahkken máhttá nammadit Manuale Lapponicum tjáledum Olaus Stepani Graanas (Stockholm 1669) ja Lapponia tjáledum Johannes Schefferusis, ienep almodusá 1674 rájes ja åvddålijguovlluj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Urfolkssamling</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Álggoálmmuktjoahkke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke girjjevuorkká ásadij jagen 2014 sierra álggoálmmuktjoahkkev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Urfolkssamlingen inneholder dokumenter om urfolk i hele verden, og teller pr. dags dato omkring 200 titler.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Álggoálmmuktjoahkken li tjállaga álggoálmmugij birra ålles væráldin, ja dan li udnásj biejve bájkoj 200 girjjenamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dermed er bøker Sametinget har samlet og fått i gave blitt registrert og gjort tilgjengelig for utlån/fjernlån.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dajnas li girje majt Sámedigge l tjoahkkim ja vattáldahkan oadtjum tjáleduvvam ja ulmutja bessi dajt luojkkat/mælggadis luojkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk bibliografi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sáme bibliografijja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sáme bibliografijja Vuonan álgaduváj Universitiehttagirjjevuorkán Roandemin jagen 1980, åvddåla dat jagen 1993 almulattjat sirdeduváj Nasjonalgirjjevuorkkáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Badjelasj 20 jage dat rájes, ságastahttjájin máhttelisvuodas aktisasj sáme bibliografijjav dahkat vuododum daj sáme bibliografijjaj nanna ma buvtaduvvi Ruossjan, Suoman, Svierigin ja Vuonan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Da gålmmå ietjá rijka li viehkedam låhpadimbargov ållitjit aktisasjbargon BIBSYSajn mij aj dievnastusáv dåjmat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søk i samisk bibliografi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Åtså sáme bibliografijjan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontakt biblioteket</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guládalá girjjevuorkájn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>+47 78 47 40 00</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>+47 78 47 40 00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Følg biblioteket i sosiale medier</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Følg biblioteket i sosiale medier</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
