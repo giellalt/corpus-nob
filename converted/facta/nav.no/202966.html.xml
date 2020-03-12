@@ -1,0 +1,70 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>NAV - Foreldrepenger ved fødsel - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>799</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Stønadsperioden for foreldrepenger ved adopsjon</p>
+    <p>Loven er endret fra 1. juli 2009. Lengden på stønadsperioden er avhengig av om dato for omsorgsovertakelsen ved adopsjon er 30. juni 2009 og tidligere eller 1. juli 2009 og senere. Nedenfor omtales reglene som gjelder for adopsjon 1. juli 2009 og senere.</p>
+    <p>Lengden på stønadsperioden er også avhengig av om begge foreldrene har rett til foreldrepenger, om bare mor har rett, om bare far har rett, om mor har aleneomsorg for barnet eller far har aleneomsorg for barnet. I tillegg er stønadsperioden lengre ved adopsjon av flere barn samtidig. Nedenfor finner du mer informasjon om de ulike lengdene på stønadsperioden, samt om det gjelder spesielle vilkår for uttak av foreldrepenger i periodene.</p>
+    <p type="title">Når både mor og far har rett</p>
+    <p>Når foreldrene bor sammen og begge har rett til foreldrepenger, er stønadsperioden 43 uker med 100 prosent dekningsgrad og 53 uker med 80 prosent dekningsgrad. Stønadsperioden starter ved dato for omsorgsovertakelse eller dato for adopsjon. Perioden er tre uker kortere enn ved fødsel, fordi stønadsperioden ved fødsel senest starter tre uker før termindato.</p>
+    <p>Far har visse uker av stønadsperioden forbeholdt seg. Uker som ikke er forbeholdt far, kan foreldrene dele.</p>
+    <p>Dersom morens stillingsprosent før adopsjon var 50 prosent eller mer, er</p>
+    <list>
+      <p type="listitem">10 uker er forbeholdt far (fedrekvoten)</p>
+      <p type="listitem">33/43 uker felles for foreldrene. Det stilles spesielle krav til mor når far skal ta ut foreldrepenger som ikke er fedrekvoten, se nedenfor</p>
+    </list>
+    <p>Dersom morens stillingsprosent før adopsjon var mindre enn 50 prosent stilling, er</p>
+    <list>
+      <p type="listitem">Ingen uker er forbeholdt far</p>
+      <p type="listitem">Foreldrene kan dele hele perioden. Det stilles spesielle krav til mor når far skal ta ut foreldrepenger som ikke er fedrekvoten, se nedenfor.</p>
+    </list>
+    <p>Det er med andre ord ikke fedrekvote dersom morens stillingsprosent før adopsjonen var mindre enn 50 prosent.</p>
+    <p type="title">Når bare mor har rett til foreldrepenger</p>
+    <p>Når foreldrene bor sammen, men bare mor har rett til foreldrepenger, er stønadsperioden 43 uker med 100 prosent dekningsgrad og 53 uker med 80 prosent dekningsgrad. Mor får hele perioden alene. Far kan imidlertid opparbeide seg rett til foreldrepenger mens mor mottar foreldrepenger. Dersom foreldrene ønsker det, kan far benytte seg av denne retten.</p>
+    <p type="title">Når bare far har rett til foreldrepenger</p>
+    <p>Når foreldrene bor sammen, men bare far har rett til foreldrepenger, er stønadstiden 37 uker med 100 prosent dekningsgrad og 47 uker med 80 prosent dekningsgrad. Ukene som ville vært forbeholdt mor ved fødsel (tre uker før og seks uker etter fødselen) er trukket i fra. Det er med andre ord ikke fedrekvote når bare far har rett til foreldrepenger. Det stilles spesielle krav til mor når far skal ta ut foreldrepenger som ikke er fedrekvoten, se nedenfor. Mor kan ha rett til engangsstønad i tillegg til at far mottar foreldrepenger.</p>
+    <p type="title">Når mor er alene om omsorgen</p>
+    <p>Når mor har rett til foreldrepenger og bor alene med barnet er stønadstiden 43 uker med 100 prosent dekningsgrad og 53 uker med 80 prosent dekningsgrad. Mor får hele perioden alene. Det er ikke fedrekvote.</p>
+    <p type="title">Når far er alene om omsorgen</p>
+    <p>Når far har rett til foreldepenger og bor alene med barnet er stønadstiden 43 uker med 100 prosent dekningsgrad og 53 uker med 80 prosent dekningsgrad.</p>
+    <p type="title">Adopsjon av flere barn samtidig</p>
+    <list>
+      <p type="listitem">Når både mor og far har rett til foreldrepenger, legges det til 5/7 uker (avhengig av valgt dekningsgrad) til de ukene som er felles for foreldrene.</p>
+      <p type="listitem">Når bare en av foreldrene har rett til foreldrepenger, legges 5/7 uker (avhengig av valgt dekningsgrad) til de ukene som vedkommende har rett til.</p>
+    </list>
+    <p type="title">Spesielle krav til mor når far skal ta ut foreldrepenger</p>
+    <p>Når far skal ta ut foreldrepenger som ikke er fedrekvote, er det en forutsetning at mor</p>
+    <list>
+      <p type="listitem">arbeider helt eller delvis</p>
+      <p type="listitem">tar offentlig utdanning på heltid</p>
+      <p type="listitem">studerer i kombinasjon med arbeid som til sammen blir heltid</p>
+      <p type="listitem">på grunn av sykdom eller skade er helt avhengig av hjelp til å ta seg av barnet</p>
+      <p type="listitem">er innlagt i helseinstitusjon og ikke kan ta seg av barnet</p>
+      <p type="listitem">deltar i introduksjonsprogrammet for nyankomne innvandrere</p>
+      <p type="listitem">deltar i kvalifiseringsprogrammet for personer med vesentlig nedsatt arbeids- og inntektsevne</p>
+    </list>
+    <p>Dersom mor etter adopsjon arbeider minst 75 prosent av full arbeidstid, anses mor for å arbeide fulltid. Far kan derfor i slike tilfeller få foreldrepenger ut i fra at mor arbeider full tid. Arbeider mor mindre enn 75 prosent av full arbeidstid, reduseres farens foreldepenger tilsvarende reduksjonen i morens arbeidstid. Dersom far ønsker å arbeide fulltid for å utsette perioden, er det et vilkår at også mor arbeider eller studerer på fulltid. Dette gjelder selv om mor ikke har rett til foreldrepenger.</p>
+    <p type="title">Dere får et barn til i stønadsperioden</p>
+    <p>Dersom dere får et barn til før stønadsperioden for det forrige barnet er oppbrukt, mister dere retten til å ta ut de ubrukte ukene for det forrige barnet. Derimot har dere rett til full periode med foreldrepenger for det nye barnet. </p>
+  </body>
+</document>

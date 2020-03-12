@@ -1,0 +1,38 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>OSKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>109</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <origFileName>http://www.osko.no/index.php?kat_id=208&amp;art_id=234</origFileName>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=208_art_id=234.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=208_art_id=234.html"/>
+    <parallel_text xml:lang="smj" location="index.php_kat_id=208_art_id=234.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Lær om: Kirka</p>
+    <p type="title">Gudstjenester har uttallige former.</p>
+    <p>Noen steder synges det salmer fra middelalderen, andre steder hip-hop, og noen steder begge deler i samme gudstjeneste.</p>
+    <p>I kirken har vi gudstjenester, barnedåp, konfirmasjon, brudevigsel, begravelse. Disse handlingene synliggjør våre kristne verdier.</p>
+    <p>Gudstjeneste er et møte mellom Gud og mennesker gjennom tilbedelse og bønn. Under prekenen er det noe Gud vil si deg.</p>
+    <p>I Norge er gudstjenestene oftest på søndag kl. 11.00. Søndag, fordi det er Jesu oppstandelsesdag. Kl. 11.00 fordi bonden i gamle dager skulle ha tid til å melke kyrne først. Men noen ganger er gudstjenesten seinere på dagen.</p>
+    <p>Hva vet du om din lokale kirke historie?</p>
+    <p>Utskriftsvennlig versjon</p>
+  </body>
+</document>

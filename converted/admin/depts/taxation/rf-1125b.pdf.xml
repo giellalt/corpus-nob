@@ -1,0 +1,123 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1043</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
+    <multilingual/>
+    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1125B.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="rf-1125s.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Skjemaet skal fylles ut uoppfordret og legges ved selvangivelsen av alle skattytere som krever fradrag for egne og leasede personbiler (herunder stasjonsvogner),  varebiler, kombinerte biler, busser med inntil 15 passasjerplasser samt lastebiler med totalvekt under 7 500 kilo.</p>
+    <p>- dersom det kun kreves fradrag etter kilometersats for yrkeskjøring med privatbil (gjelder hovedsakelig bil som brukes mindre enn 6 000 kilometer i yrke/næring) - av lønnstakere som mottar bilgodtgjørelse med krav om forenklet overskuddsberegning (om forenklet overskuddsberegning, se tema <span type="quote" xml:lang="nno">"Bil"</span> i   rettledningen til selvangivelsen) - for arbeidsgivers biler benyttet av arbeidstaker hvor standard fordel (30 % av bilens listepris som ny inntil kr 280 100 og 20 % av overstigende beløp) er   innberettet på lønns- og trekkoppgave - dersom man har plikt til å fylle ut RF-1223 <span type="quote">"Drosje- og lastebilnæring"</span>, dvs. alle som innehar bevilling for personbefordring utenfor rute eller   driver med lastebilnæring. Likningsmyndighetene kan også i ovennevnte tilfeller kreve skjemaet utfylt dersom dette finnes nødvendig. Rettledning finnes på baksiden av skjemaet.</p>
+    <p><em type="bold">Unntak:</em>Skjemaet skal ikke ukrevet leveres: </p>
+    <p xml:lang="est">Postnr.</p>
+    <p>NavnOrganisasjonsnummerFødselsnummer</p>
+    <p xml:lang="eng">GateadressePoststed</p>
+    <p>Regnskapsførers navnPostnr.Poststed</p>
+    <p xml:lang="dan">Forretningsadresse</p>
+    <p>Kryss av for om skjemaet er vedlegg til selvangivelsen eller en næringsoppgave Selvangivelsen</p>
+    <p>Selvangivelsen med fritak for næringsoppgave (lønnstakere som krever yrkesbil lignet etter regnskap benytter skjemaet som vedlegg til selvangivelsen) (næringsdrivende som kommer inn under reglene om fritak for levering av næringsoppgave benytter skjemaet som vedlegg til selvangivelsen)</p>
+    <p>Næringsoppgave(næringsdrivende benytter skjemaet som vedlegg til en næringsoppgave)</p>
+    <p>ABC</p>
+    <p>Bilens registreringsnummer</p>
+    <p xml:lang="dan">Bilkategori (personbil, herunder stasjons</p>
+    <p>vogn, varebil, kombinert bil, lastebil mv.)</p>
+    <p>Bilmerke og -type</p>
+    <p xml:lang="swe">Årsmodell</p>
+    <p>Listepris som ny</p>
+    <p xml:lang="dan">Driftskostnader (se rettledning)</p>
+    <p>Kilometerstand per 31.12 i inntekståret</p>
+    <p>Kilometerstand per 1.1 i inntekståret</p>
+    <p>Antall kilometer yrkeskjøring</p>
+    <p xml:lang="swe">i inntektsåret</p>
+    <p>Hva brukes bilen til i arbeidstiden?</p>
+    <p>(Kort beskrivelse av bruksområdet)</p>
+    <p>Hvor er bilen parkert utenom arbeidstiden?</p>
+    <p xml:lang="sma">Hjemmeadresse</p>
+    <p xml:lang="sma">Hjemmeadresse</p>
+    <p xml:lang="sma">Hjemmeadresse</p>
+    <p>(Ved plassmangel kan du bruke et eget ark)</p>
+    <p xml:lang="nno">Virksomhetens adresse</p>
+    <p>Eventuelt annet sted</p>
+    <p xml:lang="dan">Varierende parkeringssted</p>
+    <p>Angi hvor:</p>
+    <p xml:lang="nno">Virksomhetens adresse</p>
+    <p>Eventuelt annet sted</p>
+    <p xml:lang="dan">Varierende parkeringssted</p>
+    <p>Angi hvor:</p>
+    <p xml:lang="nno">Virksomhetens adresse</p>
+    <p>Eventuelt annet sted</p>
+    <p xml:lang="dan">Varierende parkeringssted</p>
+    <p>Angi hvor:</p>
+    <p>Spesifiser nærmere:</p>
+    <p>Spesifiser nærmere:</p>
+    <p>Spesifiser nærmere:</p>
+    <p>Hvem bruker bilen utenom arbeidstiden?</p>
+    <p>Oppgi navn, fødselsnummer og adresse</p>
+    <p xml:lang="kal">Navn</p>
+    <p xml:lang="kal">Navn</p>
+    <p xml:lang="kal">Navn</p>
+    <p xml:lang="dan">Fødselsnr.</p>
+    <p xml:lang="deu">Adresse</p>
+    <p xml:lang="dan">Fødselsnr.</p>
+    <p xml:lang="deu">Adresse</p>
+    <p xml:lang="dan">Fødselsnr.</p>
+    <p xml:lang="deu">Adresse</p>
+    <p xml:lang="est">Postnr.Poststed</p>
+    <p xml:lang="est">Postnr.Poststed</p>
+    <p xml:lang="est">Postnr.Poststed</p>
+    <p xml:lang="nno">Ja              Nei                Ja              NeiJa              Nei</p>
+    <p xml:lang="dan">Er det ført kjørebok vedrørende yrkes-/næringskjøring?</p>
+    <p xml:lang="dan">DatoUnderskrift</p>
+    <p xml:lang="deu"><em type="bold">CBA</em> </p>
+    <p xml:lang="eng"><em type="bold">IIIIIIIII</em> </p>
+    <p xml:lang="eng">Drivstoff</p>
+    <p xml:lang="vep">Vedlikehold</p>
+    <p xml:lang="nno">Forsikringer og avgifter</p>
+    <p xml:lang="isl">Sum driftskostnader</p>
+    <p xml:lang="dan">Eventuelle saldoavskrivninger</p>
+    <p xml:lang="eng">Eventuell leasingleie</p>
+    <p xml:lang="dan">Mottatt bilgodtgørelse</p>
+    <p xml:lang="koi">+</p>
+    <p xml:lang="dan">17 % saldoavskrivning (se rettledningen)</p>
+    <p xml:lang="koi">++ +</p>
+    <p xml:lang="koi">+ +</p>
+    <p xml:lang="dan">Grunnlag for beregning</p>
+    <p>av 75 % tilbakeføring</p>
+    <p>Faktisk tilbakeføring for privat bruk</p>
+    <p xml:lang="isl">÷</p>
+    <p xml:lang="nno">÷÷</p>
+    <p xml:lang="swe">Driftskostnader i yrket</p>
+    <p xml:lang="dan">Overskudd</p>
+    <p xml:lang="dan">Underskudd</p>
+    <p xml:lang="dan"><em type="bold">Rettledning</em> </p>
+    <p>Skjemaet inneholder tre kolonner. Det kan derfor benyttes for inntil tre biler. Hvis det skal leveres opplysninger om flere enn tre biler, må flere skjemaer benyttes.</p>
+    <p>Til de enkelte postene:</p>
+    <p>Post 4 Med årsmodell menes årstall for første gangs registrering som ny i Norge eller i utlandet.</p>
+    <p>Post 5 Med listepris som ny menes hovedimportørens veiledende pris for vedkommende bilmodell levert importsted på tidspunktet for første gangs registrering hos Statens vegvesens trafikkstasjon, før eventuell rabatt, inklusiv merverdiavgift og vrakpant. Ekstrautstyr skal tas med i listeprisen. Dette gjelder f.eks. radio/musikkanlegg, vinterdekk, skiboks, tilhengerfeste mv. Ekstrautstyr som utelukkende har verdi for yrkesbruken, holdes utenfor. Dette gjelder f.eks. spesialinnredninger ment for frakt av verktøy mv.</p>
+    <p>Post 12 og 13 Mottaker av bilgodtgjørelse svarer ikke på disse spørsmålene.</p>
+    <p>Post 26 Den årlige saldoavskrivningen på 17 % fastsettes med utgangspunkt i bilens listepris på tidspunktet for førstegangs registrering. Saldoavskrivingen kan regnes ut slik:</p>
+    <p>Post 6 Denne posten skal kun fylles ut av lønnstakere som krever yrkesbil lignet etter regnskap. Deltakere i deltakerliknede selskaper samt eier av enkeltpersonforetak skal også fylle ut posten dersom fordel ved privat bruk etter standardsatsene overstiger 75 % av driftskostnadene inklusive verdiforringelse, eventuelt leasingleie. Disse næringsdrivende behøver likevel kun fylle ut kolonne I i spesifikasjonen ovenfor. Sum driftskostnader føres eksklusive faktiske saldoavskrivninger. Avskrivningene skal fremgå av RF-1084 Avskrivning som må vedlegges. Spesifikasjon av driftskostnader og mottatt bilgodtgjørelse føres i feltet ovenfor.</p>
+    <p>Fordel ved privatkjøring fastsettes ut fra reglene om privat bruk av arbeidsgivers bil. Denne fordelen fastsettes til 30 % av bilens listepris som ny inntil kr 280 100 og 20 % av overskytende listepris.</p>
+    <p>Grunnlaget ved beregningen etter forrige avsnitt er i utgangspunktet 100 % av bilens listepris som ny, men for: - biler eldre enn 3 år per 1. januar i inntektsåret, eller - skattytere som godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret blir det ved utregningen tatt utgangspunkt i 75 % av bilens listepris som ny.</p>
+    <p>For: - el-bil blir det ved utregningen tatt utgangspunkt i 50 % av bilens listepris som ny.</p>
+    <p>Er bilen eldre enn 3 år per 1. januar i inntektsåret og skattyter godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret, blir det ved utregningen tatt utgangspunkt i 56,25 % av bilens listepris som ny. Ved kombinasjon av bil eldre enn 3 år per 1. januar i inntektsåret og el-bil, blir det ved utregningen tatt utgangspunkt i 37,5 % av bilens listepris som ny. Er bilen en el-bil og skattyter godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret, blir det ved utregningen tatt utgangspunkt i 50 % av bilens listepris som ny. Ved bilordning i deler av inntektsåret, gjennomføres fordelsbeskatningen forholdsmessig for det antall hele og påbegynte måneder bilen har stått til disposisjon.</p>
+    <p>Eksempel på når en bil må regnes som eldre enn 3 år per 1. januar i inntektsåret er bil førstegangsregistrert 5. januar 2010. Deretter legger man til 3 år. Dette gir datoen 5. januar 2013. Inntektsåret etter, dvs. 2014, blir bilen regnet som eldre enn 3 år per 1. januar i inntektsåret. Tilbakeføring for privat fordel skal ikke overstige 75 % av de faktiske kostnader med tillegg av en årlig saldoavskrivning på 17 % med utgangspunkt i bilens listepris på tidspunktet for førstegangs registrering.</p>
+    <p xml:lang="est">(Listepris x 0,83</p>
+    <p>n) x 0,17 = saldoavskrivningen. n = antall påbegynte inntektsår bilen er registrert før det aktuelle inntektsåret.</p>
+    <p>Dette kan illustreres med følgende eksempel: Bil benyttet i 2014 med førstegangs registrering i 2011 og med listepris som ny kr 250 000. Saldoavskrivningen for inntektsåret 2014 blir da: (250 000 x 0,83 x 0,83 x 0,83) x 0,17 = 24 300. Saldoavskrivingen i inntektsåret 2014 er kr 24 300. Dersom skattyter anskaffer, realiserer eller lar seg uttaksbeskatte for yrkesbil i inntektsåret, må den beregnede saldoavskrivning på 17 % avkortes forholdsmessig etter antall dager (365-deler). Beløpet skal inn i post 26.</p>
+  </body>
+</document>

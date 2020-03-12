@@ -1,0 +1,49 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>OSKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>109</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <origFileName>http://www.osko.no/index.php?kat_id=204&amp;art_id=226</origFileName>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=204_art_id=226.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=204_art_id=226.html"/>
+    <parallel_text xml:lang="smj" location="index.php_kat_id=204_art_id=226.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Lær om: Bjørk</p>
+    <p type="title">Fra bestefar</p>
+    <p>Min mor heter/ het:_____________________________, og ble født den __________ i/på ____________.</p>
+    <p>Hennes pikenavn var ________________.</p>
+    <p>Hun vokste opp i /på __________________________.</p>
+    <p>Min mormor og morfar het _______________________________________________</p>
+    <p>Dette vet jeg om min mormor og morfar:_______________________________________________________</p>
+    <p>_____________________________________________________________________________________</p>
+    <p>_____________________________________________________________________________________</p>
+    <p>Min far heter/ het:_____________________________, og ble født den __________ i/på ____________.</p>
+    <p>Han vokste opp i /på __________________________.</p>
+    <p>Min farmor og farfar het _______________________________________________</p>
+    <p>Dette vet jeg om min farmor og farfar:_______________________________________________________</p>
+    <p>_____________________________________________________________________________________</p>
+    <p>_____________________________________________________________________________________</p>
+    <p>Din bestefar og bestemor var _____________år da vi traff hverandre i /på ______________________________.</p>
+    <p>Vi giftet oss i år _____________, og vi bosatte oss i /på ____________________________________.</p>
+    <p>Vi fikk ________________barn, og de heter________________________________________.</p>
+    <p>Utskriftsvennlig versjon</p>
+  </body>
+</document>

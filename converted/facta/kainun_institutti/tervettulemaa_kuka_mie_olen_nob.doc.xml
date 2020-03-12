@@ -1,0 +1,39 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title> 
+Untitled
+</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/>
+    </translator>
+    <wordcount>195</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="fkv"/>
+    </multilingual>
+    <parallel_text xml:lang="fkv" location="tervettulemaa_kvensk.doc"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fkv">Met toivotamma teät tervettulheiksi kattomhaan näyttämäpeliä</p>
+    <p xml:lang="fkv">"Kuka mie olen?"</p>
+    <p xml:lang="fkv">Näyttämäpeli oon yhtheistyöprošekti jonka järjestää Kainun institutti, Kvääninuoret ja Kansoittenvälinen nuorisoklubi Solveig Petroskoista, Venäjän Karjalasta. Prošektissa oon myötä kvääninuoria ja karjalaisia nuoria. Prošektin avula haluama tua esile sekä kväänitten ja karjalaisten minoriteettikulttuuria ja lua ymmärystä toistema suomalais-ugrilaisesta kielestä ja kulttuurista. Samala haluama rakentaa yhtheyen nuoritten ja kulttuurilaitosten välilä yli norjalais-venäläisen rajan. Nuoret tekevä näyttämäpelin itte ja ammattiohjaajat ja -muusikot Norjasta ja Venäjältä avittava heitä. Näyttämäpelin nimi oon "Kuka mie olen?", ja se muistelee kielestä ja identiteetistä.</p>
+    <p xml:lang="fkv">Tervettulemaa!</p>
+    <p>Vi vil ønske dere velkommen til teaterforestillingen</p>
+    <p>"Hvem er jeg?"</p>
+    <p>som er et samarbeidsprosjekt mellom Kvensk institutt, Kvensk ungdomsnettverk og Den internasjonale ungdomsklubben Solveig i Petrozavodsk i Russiske Karelen. Kvenske og karelske ungdommer har deltatt i prosjektet. Prosjektet har som formål å synliggjøre de kvenske og karelske minoritetene og skape gjensidig kulturforståelse og felleskap blant ungdommer med finsk-ugrisk språk- og kulturbakgrunn i to forskjellig land. Vi vil bygge nettverk mellom ungdommer og kulturinstitusjoner over den norsk-russiske grensen. Ungdommer har laget forestillingen selv under veiledning av profesjonelle instruktører og musikalske ledere fra Norge og Russland. Forestillingen har fått navn: "Hvem er jeg?", og den handler om språk og identitet.</p>
+    <p>Velkommen!</p>
+  </body>
+</document>

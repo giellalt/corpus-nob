@@ -1,0 +1,43 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Tallord</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>233</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/numintro.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="numintro.eng.html"/>
+    <parallel_text xml:lang="sme" location="numintro.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="est">Tallord</p>
+    <p>Tallord er ord som forteller hvor mange ting uttrykk refererer til. De deles inn i grunntall, ordenstall og samlingstall. Bare grunntall hører til ordklassen tallord. Det er ord som <em type="italic">okta, guokte, golbma </em>(en, to, tre). <em type="italic">Ordenstall er adjektiv </em>: <em type="italic">vuosttaš, nubbi, goalmmát </em>(første, andre, tredje). <em type="italic">Samlingstall er substantiv </em>: <em type="italic">guovttis, golmmas, njealjis </em>(to personer, tre personer, fire personer). </p>
+    <p>Tallord kan brukes alene som setningsledd i setningen, her f.eks. som predikativ og objekt:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun bohten 'goalmmádin'. </em>(Jeg kom på tredje plass). </p>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmáda'. </em>(Jeg tar den tredje). </p>
+    </list>
+    <p>Når de står alene, bøyes tallord i alle kasus.</p>
+    <p>Grunntall og ordenstall kan også stå sammen med et substantiv. Ordenstall bøyes ikke foran et substantiv, mens grunntall følger bestemte regler for samsvarsbøyning:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmát' vuoru. </em>(Jeg tar den tredje vakten). </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Mun vuorddán 'goalmmát' beaivái. </em>(Jeg venter til den tredje dagen). </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Mun válddán 'golbma' vuoru. </em>(Jeg tar tre vakter). </p>
+      <p type="listitem"><em type="italic">Mun attán liđiid 'golmma' olbmui. </em>(Jeg gir blomster til tre personer). </p>
+    </list>
+    <p>Legg merke til at substantivet står i entallsform etter et tallord i entallsform, selv om det er snakk om flere ting. Flertall brukes bare i flertallsord, slik som høytider, feiringer og par (et par sokker, et par bukser osv.), og da skal både tallordet og substantivet være i flertall. <em type="italic">Dáppe leat odne 'golmmat heajat' </em>. (Det er tre bryllup her i dag). </p>
+    <p xml:lang="nno"><em type="italic">Her kan du lese mer </em><em type="italic">om tallord </em>. </p>
+    <p>Tilbake til grammatikk hovedside .</p>
+  </body>
+</document>

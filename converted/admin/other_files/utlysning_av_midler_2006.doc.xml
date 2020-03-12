@@ -1,0 +1,51 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title> 
+Utlysning av midler - Samiske språktiltak
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>118</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Lene Antonsen" email="lene.antonsen@uit.no"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="sme"/>
+    </multilingual>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>
+      <em type="bold">Utlysning av midler - Samiske språktiltak </em>
+    </p>
+    <p>Kommunale lag/foreninger og andre kan søke støtte til følgende:</p>
+    <list>
+      <p type="listitem">Merutgifter som påløper for at et lokalt tiltak eller arrangement også skal være på samisk.</p>
+      <p type="listitem">Tiltak som er med på å fremme forståelsen for og bruk av samisk språk i kommunen.</p>
+    </list>
+    <p>Flere opplysninger: Kåfjord kommune v. Inger M. Åsli, tlf. 77 71 92 32 eller <em type="italic">inger.marie.asli@kafjord.kommune.no </em></p>
+    <p>Søknad sendes : Kåfjord kommune, 9146 Olderdalen.</p>
+    <p xml:lang="sme">
+      <em type="bold">Almmu </em>
+      <em type="bold">hus: Doarjja sámegiel doaimmaide </em>
+    </p>
+    <p xml:lang="sme">Suohkana searvvit ja iežát sáhttet ohcat doarjaga</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Lassegoluide go báikkálaš doaimmat dahe doalut leat sámegillii maid</p>
+      <p type="listitem" xml:lang="sme">Doaimmaide maiguin suohkanis ovddida sámegiela geavaheami ja ipmárdusa das.</p>
+    </list>
+    <p xml:lang="sme">Eanet dieđuid: Inger M. Åsli, Gáivuona suohkanis, tlf 77 71 92 32 dahe</p>
+    <p>
+      <em type="italic">inger.marie.asli@kafjord.kommune.no </em>
+    </p>
+    <p xml:lang="sme">Ohcan sáddejuvvo: Gáivuona suohkan, 9146 Olderdalen</p>
+  </body>
+</document>

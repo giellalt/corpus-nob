@@ -1,0 +1,608 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Syntaks</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>4063</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/syntaks.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="syntaks.eng.html"/>
+    <parallel_text xml:lang="sme" location="syntaks.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="est">Syntaks</p>
+    <list>
+      <p type="listitem" xml:lang="dan">Hoved- og bisetninger</p>
+      <p type="listitem" xml:lang="deu">Kongruens</p>
+      <p type="listitem">Bekreftende setninger</p>
+      <p type="listitem">Nektende setninger</p>
+      <p type="listitem">Hjelpeverb og hovedverb</p>
+      <p type="listitem" xml:lang="dan">Spørresetninger med spørreord</p>
+      <p type="listitem" xml:lang="nno">go-spørsmål</p>
+      <p type="listitem">Relative setninger</p>
+      <p type="listitem">'Ha'-setninger og eksistensialsetninger</p>
+      <p type="listitem">Imperative setninger</p>
+      <p type="listitem">Passive setninger</p>
+      <p type="listitem">Tallordsfraser</p>
+      <p type="listitem">Reksjoner</p>
+      <p type="listitem" xml:lang="dan">Setningsledd</p>
+    </list>
+    <p>Tilbake til grammatikk hovedside .</p>
+    <p>I nordsamisk må alle fullstendige setninger minst inneholde ett verb som er bøyd. Vanlige fortellende setninger inneholder gjerne også et subjekt, det vil si den som utfører verbhandlingen. Verbet skal bøyes etter subjektet. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">Borgá </em>. 'Det snør.' </p>
+      <p type="listitem"><em type="italic">Moai bohte </em>. 'Vi kommer.' </p>
+    </list>
+    <p type="title" xml:lang="dan">Hoved- og bisetninger</p>
+    <p>Hovedsetninger er selvstendige setninger, som ikke er ledd i andre setninger. To hovedsetninger kan knyttes sammen med konjunksjoner, som 'ja' og 'muhto'.</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun oainnán viesu. </em>Jeg ser et hus. </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Soai lohkaba girjji ja guldaleaba Sámi radio. </em>
+      </p>
+      <p type="listitem">De to leser en bok og hører på Sámi radio.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun jugan gáfe, muhto in juga deaja. </em>
+      </p>
+      <p type="listitem">Jeg drikker kaffe, men jeg drikker ikke te.</p>
+    </list>
+    <p>Bisetninger kan ikke stå alene som selvstendige setninger. De fungerer som ledd i hovedsetninger, og innledes med subjunksjoner som 'ahte' og 'go', eller med relative pronomen. I nordsamisk er ordfølgen den samme i bisetninger som hovedsetninger. Les mer om konjunksjoner og subjunksjoner og relative setninger .</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun oainnán 'ahte viessu buollá'. </em>
+      </p>
+      <p type="listitem">Jeg ser at huset brenner.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Soai dadjaba 'ahte busse ii boađe'. </em>
+      </p>
+      <p type="listitem">De to sier at bussen ikke kommer.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Go mánná oađđá', de eadni vuoiŋŋasta. </em>
+      </p>
+      <p type="listitem">Når barnet sover, så hviler mor.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Don oaččut borrat, 'go mii ollet ruoktot'. </em>
+      </p>
+      <p type="listitem">Du får spise, når vi kommer hjem.</p>
+    </list>
+    <p type="title" xml:lang="deu">Kongruens</p>
+    <p>Kongruens er samsvarsbøyning mellom to ledd. I samisk skal det være kongruens mellom subjekt og verbal. Det betyr at verbet skal bøyes etter subjektet i tall og person. Hvis subjektet er 3. person entall, da skal verbet også være i 3. person entall. Mellom verbet og subjektet er det full kongruens.</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun 'lávllun'. </em>Jeg synger. </p>
+      <p type="listitem"><em type="italic">Don 'lávllut'. </em>Du synger. </p>
+      <p type="listitem"><em type="italic">Moai 'lávlo'. </em>Vi to synger. </p>
+      <p type="listitem"><em type="italic">Soai 'lávluba'. </em>De to synger. </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Sii 'lávlot'. </em>De synger. </p>
+    </list>
+    <p>Det skal også være kongruens mellom et adjektiv i predikativ form og det substantivet som det beskriver. Hvis substantivet er i flertall, da skal adjektivet også være i flertall. Legg merke til at pronomener i totall også regnes som flertall i denne sammenhengen:</p>
+    <list>
+      <p type="listitem"><em type="italic">Viessu lea 'fiskat'. </em>Huset er gult. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Viesut leat 'fiskadat'. </em>Husene er gule. </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'čeahppi'. </em>Elle er flink. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Soai leaba 'čeahpit'. </em>De to er flinke. </p>
+      <p type="listitem"><em type="italic">Mun lean 'jođáneamos'. </em>Jeg er raskest. </p>
+      <p type="listitem"><em type="italic">Doai leahppi 'jođánepmosat'. </em>Dere to er raskest. </p>
+    </list>
+    <p>Det skal være kongruens mellom subjektet/habitivet og pronomenet 'ieš'. 'ieš' brukes som refleksivt pronomen, og skal peke tilbake til subjektet/habitivet i setningen. Da skal pronomenet kongruere i tall og person.</p>
+    <list>
+      <p type="listitem"><em type="italic">'Mun' in gávnna 'iežan' girjji. </em>Jeg finner ikke min egen bok. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Moai' oste 'alcceme' ođđa biilla. </em>Vi kjøper oss en ny bil. </p>
+      <p type="listitem"><em type="italic">'Márjá' lea dušše 'alcces' viežžan mielkki. </em>Marja har hentet melk bare til seg selv. </p>
+      <p type="listitem"><em type="italic">'Sudnos' lea 'addiska' biila. </em>De to har bil selv. </p>
+      <p type="listitem"><em type="italic">'Áhkku' jurddašii 'iežainis' ahte gal dat manná bures. </em>Bestemor tenkte med seg selv at det går nok bra. </p>
+    </list>
+    <p>Les mer om bøyning av 'ieš' .</p>
+    <p>Det skal også være kongruens mellom subjektet og resiproke pronomen. Resiproke pronomen kan oversettes med 'hverandre', og skal peke tilbake til subjektet i setningen. Da skal pronomenet kongruere i tall og person.</p>
+    <list>
+      <p type="listitem"><em type="italic">'Moai' liikosteimme 'goabbat guoibmáseame'. </em>Vi forelsket oss i hverandre. </p>
+      <p type="listitem"><em type="italic">'Soai' leigga 'goabbat guoimmiska' ožžon čoavdagiid. </em>De to hadde fått nøkler av hverandre. </p>
+      <p type="listitem"><em type="italic">'Dii' digaštallabehtet dušše 'guhtet guimmiineattet'. </em>Dere diskuterer bare med hverandre. </p>
+      <p type="listitem"><em type="italic">'Mii' fertet oahppat 'nuppit nuppiin'. </em>Vi må lære av hverandre. </p>
+    </list>
+    <p xml:lang="nno">Les mer om resiproke pronomen .</p>
+    <p>I <em type="italic">ha-setninger </em>og <em type="italic">eksistensialsetninger </em>er det også samsvarsbøyning i tall. Les mer om det her . </p>
+    <p>Innenfor en nominalfrase kan det også være regler for samsvarsbøyning. Når et tallord eller pronomen står i samme frase som et substantiv, så bøyes substantivet etter vanlige regler for kasusbøyning. Tallordet og pronomenet vil derimot følge regler for samsvarsbøyning. Eksempler: <em type="italic">Mun liikon 'dien girjái' </em>. (Jeg liker den boka). <em type="italic">Soai boahtiba 'golmmain mánáin' </em>. (De to kommer med tre barn). </p>
+    <p>Mellom substantivet og tallordet/pronomenet er det <em type="italic">halvkongruens </em>. Det betyr at de skal bøyes i samme tall, men ikke nødvendigvis i samme kasus. Tallord og pronomen følger stort sett de samme reglene, men i nominativ er tallordene annerledes, les mer om det her . Det er full kongruens mellom pronomen og substantiv i de fleste kasus. Unntakene er lokativ og illativ, i både entall og flertall. Når substantivet står i lokativ eller illativ, så skal pronomenet/tallordet stå i genitiv form. I komitativ flertall kan man velge mellom hel- eller halvkongruens. I tabellen nedenfor illustreres reglene for samsvarsbøyning med det påpekende pronomenet 'dat'. Feltene med halvkongruens er skraverte. </p>
+    <p>
+      <em type="italic">Samsvarsbøyning </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Entall </em>
+    </p>
+    <p>
+      <em type="italic">Flertall </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="smj">dat mánná</p>
+    <p xml:lang="sme">dat mánát</p>
+    <p xml:lang="smj">Akk./Gen.</p>
+    <p xml:lang="smj">dan máná</p>
+    <p xml:lang="sme">daid mánáid</p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">dan mánnái</p>
+    <p xml:lang="sme">daidda mánáide</p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="smj">dan mánás</p>
+    <p xml:lang="sme">dain mánáin</p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">dainna mánáin</p>
+    <p xml:lang="sme">daiguin mánáiguin, daid mánáiguin</p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">danin mánnán</p>
+    <p>I tillegg til tallord, så gjelder disse reglene for påpekende pronomen , spørrende/relative pronomen , noen ubestemte pronomen og adjektivet 'buorre' .</p>
+    <p>Når både påpekende pronomen og tallord kommer foran substantivet i samme frase, skal begge samsvarsbøyes etter vanlige regler. Adjektiv samsvarsbøyes ikke, bortsett fra 'buorre':</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun adden ruđa 'dan guovtti mánnái'. </em>
+      </p>
+      <p type="listitem">Jeg ga penger til de to barna.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Moai bártideimme 'dainna njeljiin boares dihtoriin'. </em>
+      </p>
+      <p type="listitem">Vi to plagdes med de fire gamle datamaskinene.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son čuojahii gitára 'iežas golmmain buriin suorpmain'. </em>
+      </p>
+      <p type="listitem">Han spilte gitar med de tre gode fingrene sine.</p>
+    </list>
+    <p>En nominalfrase kan også inneholde en relativsetning. Det relative pronomenet skal samsvarsbøyes i tall med nominalfrasens hovedord. Hvis hovedordet står i entall, da skal også det relative pronomenet stå i entall.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Áššit' 'maiguin' mii leat bargan, eai leat vel loahpahuvvon. </em>
+      </p>
+      <p type="listitem">De sakene som vi har jobbet med, er ennå ikke avsluttet.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dat 'bárdni' 'gii' dien rukses viesus orru, lea fárreme. </em>
+      </p>
+      <p type="listitem">Gutten som bor i det røde huset, holder på å flytte.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Sii' 'geat' buhcet golgodávddain, fertejit jávkat barggus. </em>
+      </p>
+      <p type="listitem">De som er syke med influensa, må være borte fra jobb.</p>
+    </list>
+    <p>Les mer om relative setninger .</p>
+    <p type="title">Bekreftende setninger</p>
+    <p>I samisk skiller vi mellom bekreftende og nektende setninger. Bekreftende setninger er fortellende setninger som ikke inneholder nektelsesverbet. Det bekreftende verbet bøyes etter subjektet.</p>
+    <list>
+      <p type="listitem"><em type="italic">Son 'diđii' buot. </em>Han visste alt. </p>
+      <p type="listitem"><em type="italic">Mihkkal 'lea' skuvllas. </em>Mikkel er på skolen. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Moai 'vurde' busse. </em>Vi to venter på bussen. </p>
+    </list>
+    <p type="title">Nektende setninger</p>
+    <p>Samisk har et eget nektelsesverb, nemlig 'ii'. Nektelsesverbet er et hjelpeverb som kombineres med et hovedverb. Nektelsesverbet bøyes etter subjektet i setningen. Hovedverbet står i nektelsesform etter det nektende verbet, og bøyes ikke etter subjektet. Hovedverbet bøyes derimot i tid, nåtid og fortid. Les mer om nektelsesverbet her.</p>
+    <list>
+      <p type="listitem"><em type="italic">Son 'ii dieđe' buot. </em>Han vet ikke alt. </p>
+      <p type="listitem"><em type="italic">Son 'ii diehtán' buot. </em>Han visste ikke alt. </p>
+      <p type="listitem"><em type="italic">Mihkkal 'ii leat' skuvllas. </em>Mikkel er ikke på skolen. </p>
+      <p type="listitem"><em type="italic">Mihkkal 'ii lean' skuvllas. </em>Mikkel var ikke på skolen. </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Moai 'ean vuordde' busse. </em>Vi to venter ikke på bussen. </p>
+      <p type="listitem"><em type="italic">Moai 'ean vuordán' busse. </em>Vi to ventet ikke på bussen. </p>
+    </list>
+    <p type="title">Hjelpeverb og hovedverb</p>
+    <p>Noen setninger har flere verb. Da er det vanlig at bare det første verbet er bøyd etter person. De andre verbene bøyes ikke, de er såkalte infinitte verb . Eksempler: <em type="italic">Mun 'in boađe'. Soai 'eaba boađe' </em>. (Jeg kommer ikke. De to kommer ikke.) </p>
+    <p>Det første verbet er <em type="italic">hjelpeverbet </em>, og det siste er <em type="italic">hovedverbet </em>. Samisk har tre typer hjelpeverb: leat-verbet, nektelsesverbet og modale hjelpeverb. </p>
+    <p xml:lang="nno">Etter leat-verbet kan hovedverbet stå i perfektum partisipp eller aktio essiv:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">leat + perfektum partisipp </em>: <em type="italic">Moai 'letne gárvodan'. </em></p>
+      <p type="listitem" xml:lang="nno">(Vi har kledd på oss).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">leat + aktio essiv </em>: <em type="italic">Áhkku 'lea bassame' biktasiid. </em></p>
+      <p type="listitem">(Bestemor holder på å vaske klær).</p>
+    </list>
+    <p>Etter nektelsesverbet har hovedverbet nektelsesform, enten i nåtid eller fortid:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">ii + nåtid </em>: <em type="italic">Soai 'eaba oro' dás. </em></p>
+      <p type="listitem" xml:lang="dan">(De to bor ikke her).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">ii + fortid </em>: <em type="italic">Mii 'eat joksan' busse. </em></p>
+      <p type="listitem" xml:lang="nno">(Vi nådde ikke bussen).</p>
+    </list>
+    <p xml:lang="nno">Etter modale hjelpeverb skal hovedverbet stå i infinitiv:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">máhttit + infinitiv </em>: <em type="italic">Issát 'máhttá rehkenastit'. </em></p>
+      <p type="listitem" xml:lang="dan">(Issát kan regne).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">lávet + infinitiv </em>: <em type="italic">Mu váhnemat 'láveba diggot'. </em></p>
+      <p type="listitem" xml:lang="nno">(Mine foreldre pleier å krangle).</p>
+    </list>
+    <p>Setninger kan inneholde flere hjelpeverb etter hverandre. Det er bare det første verbet som bøyes etter person og tall. Formen til de andre verbene bestemmes av det verbet som kommer foran. Etter nektelsesverbet får neste verb nektelsesform, etter modale verb får neste verb infinitiv form osv. Rekkefølgen er bestandig slik: <em type="italic">nektelsesverbet + leat-verbet + modalt hjelpeverb + hovedverb </em>. </p>
+    <p>Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">ii+máhttit+hovedverb: </em>
+        <em type="italic">Elle ii máhte sihkkelastit. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Elle kan ikke sykle.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">leat+áigut+hovedverb: </em>
+        <em type="italic">Soai leaba áigon veahkehit min. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(De to har sagt seg villige til å hjelpe oss).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">ii+leat+sáhttit+hovedverb: </em>
+        <em type="italic">Moai ean leat sáhttán boahtit ovdal. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Vi to har ikke kunnet komme før.)</p>
+    </list>
+    <p xml:lang="nno">Her kan du lese mer om hjelpeverb .</p>
+    <p type="title" xml:lang="dan">Spørresetninger med spørreord</p>
+    <p>Spørresetninger kan man lage på to måter, med spørreord eller med spørrepartikkel -go. Samisk har flere spørreord, blant annet spørrende pronomen . Disse bøyes etter kasus. Andre spørreord er: <em type="italic">gos, gosa, movt/mo, manne, makkár, goas, galle </em>. Eksempler: </p>
+    <list>
+      <p type="listitem"><em type="italic">'Gos' don boađát? </em>Hvor kommer du fra? </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Manne' jearat mus? </em>Hvorfor spør du meg? </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">'Galle' máná dus leat? </em>Hvor mange barn har du? </p>
+      <p type="listitem"><em type="italic">'Maid' don ostet? </em>Hva kjøpte du? </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">'Gosa' don leat fárren? </em>Hvor har du flyttet? </p>
+    </list>
+    <p>Når man svarer på spørsmål med spørreord, så skal svaret inneholde et ledd i samme kasus som spørreordet. Dette gjelder også når man svarer med ett ord. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Gos' don boađát? Mun boađán 'gávpogis'. </em>
+      </p>
+      <p type="listitem">Hvor kommer du fra? Jeg kommer fra byen.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Geainna' Elle hupmá? Son hupmá 'áhčiin'. </em>
+      </p>
+      <p type="listitem">Hvem snakker Elle med? Hun snakker med far.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Maid' don ostet? Osten 'jáhka'. </em>
+      </p>
+      <p type="listitem">Hva kjøpte du? Jeg kjøpte en jakke.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Gosa' don leat fárren? Mun lean fárren 'Detnui'. </em>
+      </p>
+      <p type="listitem">Hvor har du flyttet? Jeg har flyttet til Tana.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Geasa' don riŋget? 'Eadnái'. </em>
+      </p>
+      <p type="listitem">Hvem ringer du til? Mamma.</p>
+    </list>
+    <p type="title" xml:lang="nno">go-spørsmål</p>
+    <p xml:lang="nno">På samisk lager man ja/nei-spørsmål med å legge til partikkelen 'go' etter verbet: <em type="italic">Boađát go odne? </em>eller <em type="italic">Boađátgo odne? </em>. Man svarer med verbet: <em type="italic">In boađe </em>(nei) eller <em type="italic">De boađán </em>(ja). </p>
+    <p>Man kan også lage spørresetninger av nektende setninger. Da skal 'go' legges til etter nektelsesverbet:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">It go leat geargan? In leat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Er du ikke ferdig? Nei, det er jeg ikke.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Eai go dus leat mánát? De leat. Guokte nieiddaža. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Har du ikke barn? Jo, det har jeg. To jenter.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Ean go moai leat dáppe ovdal leamaš? Ean leat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Har ikke vi to vært her før? Nei, det har vi ikke.)</p>
+    </list>
+    <p>'go' kan også legges til etter andre ord enn verb. Det er likevel slik at det ordet som 'go' står til, skal komme først i setningen. Ordet som 'go' står til er fokusert. Man svarer bekreftende med det leddet som er fokusert, eller avkreftende med nektelsesverbet:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Guovdageidnui go vulggii Piera? Guovdageidnui fal. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Var det til Guovdageaidnu Per dro? Ja, det var til Guovdageaidnu).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Munnje go lea diet reive? Dutnje fal. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Er det til meg, det brevet? Ja, det er til deg).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Ieš go leat gorron gávtti? In leat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Er det du selv som har sydd kofta? Nei, det er det ikke).</p>
+    </list>
+    <p xml:lang="dan">Vær obs på at 'go' også kan være subjunksjon .</p>
+    <p type="title">Relative setninger</p>
+    <p>Relative setninger er bisetninger. Relative pronomen innleder en relativsetning. I samisk brukes spørrepronomen også som relativ pronomen. Pronomenet viser til et ledd i hovedsetningen. Pronomenet 'mii' viser til ting, og pronomenene 'gii', 'guhte', 'guhtemuš' og 'goabbá' viser til personer. Relative pronomen bøyes i tall og kasus. Les mer om relative pronomen her: spørrende og relative pronomen .</p>
+    <p>Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son, 'gii' ovddemus olle mollii, vuoitá. </em>
+      </p>
+      <p type="listitem">Den som først kommer i mål, vinner.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In bora dan, 'mii' lea beavddis čužžon beaivvi. </em>
+      </p>
+      <p type="listitem">Jeg spiser ikke det, som har stått på bordet hele dagen.</p>
+    </list>
+    <p xml:lang="dan">Det relative pronomenet kan ikke utelates i setningen.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In liiko dasa, 'maid' ikte gullen. </em>
+      </p>
+      <p type="listitem">Jeg liker ikke det (som) jeg hørte i går.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mii sáhttit atnit daid niibbiid, 'maid' mun ikte osten. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">Vi kan bruke de knivene (som) jeg kjøpte i går.</p>
+    </list>
+    <p>Husk også på at det relative pronomenet får kasus innenfor relativsetningen. Det betyr at pronomenet og det leddet som det viser tilbake til, ikke nødvendigvis har samme kasus. De skal derimot alltid bøyes i samme tall.</p>
+    <p>Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oidnen 'su', 'geasa' Máhtte liiko. </em>
+      </p>
+      <p type="listitem">Jeg så henne, som Máhtte liker.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oidnen 'sin', 'geaidda' Máhtte liiko. </em>
+      </p>
+      <p type="listitem">Jeg så dem, som Máhtte liker.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Elle osttii 'dan jáhka', 'mas' leat lummat. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">Elle kjøpte den jakka som har lommer.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Elle osttii 'daid jáhkaid', 'main' leat lummat. </em>
+      </p>
+      <p type="listitem">Elle kjøpte de jakkene som har lommer.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Dat olmmoš', 'geainna' dii humaidet, lea mannan. </em>
+      </p>
+      <p type="listitem">Den personen, som dere snakket med, har dratt.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Dat olbmot', 'geaiguin' dii humaidet, leat mannan. </em>
+      </p>
+      <p type="listitem">De menneskene, som dere snakket med, har dratt.</p>
+    </list>
+    <p type="title">'Ha'-setninger og eksistensialsetninger</p>
+    <p xml:lang="nno">Samisk har ikke et eget verb som betyr 'å ha'. Istedetfor bruker man <em type="italic">leat-verbet </em>sammen med et substantiv eller pronomen i lokativ form: <em type="italic">Elles lea beana </em>. (Elle har en hund). </p>
+    <p>Disse 'ha-setningene' består av minst tre ledd; den som har noe, leat-verbet og det man har. Den som har noe, skal stå i lokativ form. Det man har, står i nominativ form. Leat-verbet bøyes etter det vedkommende har. I disse setningene kan leat-verbet bare forekomme i tredje person. Verbet bøyes i entall eller flertall, alt etter om man har en enkelt ting eller flere ting. Eksempler:</p>
+    <list>
+      <p type="listitem"><em type="italic">'Mánás' lea spábba. </em>Barnet har en ball. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Oappás' leat girjjit. </em>Søster har bøker. </p>
+      <p type="listitem"><em type="italic">'Ohppiin' lea borranboddu. </em>Elevene har matpause. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Mus' lea biila. </em>Jeg har en bil. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Dudnos' leat ollu ustibat. </em>Dere to har mange venner. </p>
+    </list>
+    <p>I nektende ha-setninger, er det nektelsesverbet som bøyes. Leat-verbet står i nektelsesform. Nektelsesverbet kan bare forekomme i tredje person. Verbet bøyes i entall eller flertall, alt etter om man benekter å ha en enkelt ting eller flere ting. Eksempler:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mánás 'ii leat' spábba. </em>Barnet har ikke en ball. </p>
+      <p type="listitem"><em type="italic">Oappás 'eai leat' girjjit. </em>Søster har ikke bøker. </p>
+      <p type="listitem"><em type="italic">Ohppiin 'ii leat' borranboddu. </em>Elevene har ikke matpause. </p>
+      <p type="listitem"><em type="italic">Mus 'ii leat' biila. </em>Jeg har ikke en bil. </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Dudnos 'eai leat' ollu ustibat. </em>Dere to har ikke mange venner. </p>
+    </list>
+    <p>Hvis man lager spørresetninger, så skal spørrepartikkelen -go komme etter leat-verbet i bekreftende setninger, og etter nektelsesverbet i nektende setninger. I spørresetninger med spørreord, skal spørreordet være i lokativ form. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Lea go' mánás spábba? </em>Har barnet en ball? </p>
+      <p type="listitem"><em type="italic">'Leat go' oappás girjjit? </em>Har søster bøker? </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Ii go' mánás leat spábba? </em>Har ikke barnet en ball? </p>
+      <p type="listitem"><em type="italic">'Eai go' oappás leat girjjit? </em>Har ikke søster bøker? </p>
+      <p type="listitem"><em type="italic">'Geas' lea biila? </em>Hvem har en bil? </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">'Geas' leat ollu ustibat? </em>Hvem har mange venner? </p>
+    </list>
+    <p><em type="italic">Eksistensialsetninger </em>forteller at noe eksisterer eller finnes ett steds. I nordsamisk brukes leat-verbet i kombinasjon med et substantiv i lokativ form. Setningene har minst tre ledd: det stedet hvor noe finnes, leat-verbet og det som finnes. Leat-verbet bøyes etter det som finnes. I disse setningene kan leat-verbet bare forekomme i tredje person. Verbet bøyes i entall eller flertall. Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Gievkkanis' lea beavdi. </em>På kjøkkenet er det et bord. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Lávus' leat riššat. </em>I lavvoen er det fyrstikker. </p>
+      <p type="listitem"><em type="italic">'Norggas' ásset sápmelaččat. </em>I Norge bor det samer. </p>
+    </list>
+    <p>I nektende setninger er det nektelsesverbet som bøyes i entall eller flertall. I spørresetninger kommer spørrepartikkelen -go etter det bøyde verbet, (leat-verbet i bekreftende setninger, og nektelsesverbet i nektende setninger). Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">Gievkkanis 'ii leat' beavdi. </em>På kjøkkenet er det ikke et bord. </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Lávus 'eai leat' riššat. </em>Det er ikke fyrstikker i lavvoen. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Lea go' gievkkanis beavdi? </em>Er det et bord på kjøkkenet? </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">'Leat go' lávus riššat? </em>Er det fyrstikker i lavvoen? </p>
+    </list>
+    <p>Også i perfektum oversettes leat-verbet med 'ha' i norsk. Det er viktig å skille mellom perfektum og ha-setninger. I perfektum bøyes leat-verbet etter subjektet i setningen, og etterfølges av et hovedverb i perfektum partisipp. Eksempler på ha-struktur og perfektum: (Legg spesielt merke til verbbøyningen)</p>
+    <list>
+      <p type="listitem"><em type="italic">Mus 'lea' biila. </em>Jeg har en bil. </p>
+      <p type="listitem"><em type="italic">Mun 'lean oastán' biilla. </em>Jeg har kjøpt en bil. </p>
+      <p type="listitem"><em type="italic">Sudnos 'lea' girji. </em>De to har en bok. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Soai 'leaba' lohkan girjji. </em>De to har lest boka. </p>
+    </list>
+    <p type="title">Imperative setninger</p>
+    <p>Imperativ er bydeformen, altså den formen man bruker når man skal be andre gjøre noe. Alle ni personer har sin egen bydeform, men 2.person entall er den mest vanlige formen: <em type="italic">Boađe deike! </em>'Kom hit!' <em type="italic">Juga gáfe! </em>'Drikk kaffe!' Her kan du lese mer om imperativ . </p>
+    <p>I imperativsetninger utelater man subjektet. Verbet er likevel bøyd i person, etter den/de man prater til. Objektet i imperativsetninger skal bøyes i akkusativ, akkurat som i vanlige setninger.</p>
+    <list>
+      <p type="listitem"><em type="italic">'Mana' ruoktot! </em>Dra hjem! </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Vulgot' dal skuvlii! </em>La oss dra til skolen! </p>
+      <p type="listitem"><em type="italic">'Orrot' jaska! </em>Vær stille, dere! </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">'Boahtti' deike! </em>Dere to, kom hit! </p>
+      <p type="listitem"><em type="italic">'Čájeheahkki' munnje govaid! </em>Dere to, vis meg bildene! </p>
+    </list>
+    <p>Det fins også nektende imperativ. Nektende imperativ består av nektelsesverbet og et hovedverb i nektelsesform. Nektelsesverbet har sin egen imperativform, f.eks 'ale' for 2. person entall. Her kan du lese mer om nektende imperativ .</p>
+    <list>
+      <p type="listitem"><em type="italic">'Ale' čiero! </em>Ikke gråt! </p>
+      <p type="listitem"><em type="italic">'Allot' vuolgge skuvlii! </em>La oss ikke dra til skolen! </p>
+      <p type="listitem"><em type="italic">'Allet' huma duššiid! </em>Ikke snakk tull, dere! </p>
+      <p type="listitem"><em type="italic">'Alli' boađe deike! </em>Dere to, ikke kom hit! </p>
+      <p type="listitem"><em type="italic">'Allu' čájet sutnje govaid! </em>La oss (to) ikke vise henne bildene! </p>
+    </list>
+    <p type="title">Passive setninger</p>
+    <p>I nordsamisk lager man passiv med avledningsendelsen <em type="italic">-juvvot </em>. I likestavelsesverb veksler vokalen til 'o' i andre stavelse, og konsonantene har lengste grad, f.eks 'borrojuvvot' og 'lohkkojuvvot'. Det skjer ingen endringer i stammen i kontrakte verb, f.eks 'málejuvvot'. I ulikestavelsesverb legges endelsen -uvvot til stammen, etter siste stammekonsonant, f.eks 'muitaluvvot'. </p>
+    <p>Passive verb med -(j)uvvot-endelse er kontrakte verb. De har derfor ikke stadieveksling. Som andre verb, samsvarsbøyes de med subjektet i tall og person. I setninger med -juvvot-endelse kan man ikke angi agenten, altså den som utfører verbhandlingen, slik som på norsk.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mánná 'vižžojuvvui' ruoktot. </em>
+      </p>
+      <p type="listitem">Barnet ble hentet hjem.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Nuoraide 'lágiduvvojedje' gilvvut. </em>
+      </p>
+      <p type="listitem">For ungdommen ble det arrangert konkurranser.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Bihtát galget 'gárvejuvvot' ihttážii. </em>
+      </p>
+      <p type="listitem">Oppgavene skal gjøres ferdig til i morgen.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Moai dolvojuvvuime girdišilljui. </em>
+      </p>
+      <p type="listitem">Vi to ble ført til flyplassen.</p>
+    </list>
+    <p>For noen likestavelsesverb fins det også kort passiv. Vokalen i andre stavelse er 'o' og konsonantene er i lengste grad, f.eks. 'borrot' og 'lohkkot'. Disse er også kontrakte verb.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">viežžat &gt; vižžot: <em type="italic">Mánná 'vižžui' ruoktot. </em></p>
+      <p type="listitem">Barnet ble hentet hjem.</p>
+      <p type="listitem" xml:lang="sme">bidjat &gt; biddjot: <em type="italic">Moai 'biddjuime' bargui. </em></p>
+      <p type="listitem">Vi to ble satt i arbeid.</p>
+      <p type="listitem" xml:lang="sme">čállit &gt; čállot: <em type="italic">Dán áššis leat 'čállon' ollu giellásat. </em></p>
+      <p type="listitem">Det er blitt skrevet mye løgn i denne saken.</p>
+    </list>
+    <p>Man kan også lage passiv med avledningsendelsen <em type="italic">-hallat </em>. Denne legges til likestavelsesverb. Stammen har svak grad, f.eks 'borahallat', 'gávnnahallat'. Verb med -hallat-endelse er likestavelsesverb, og har dermed stadieveksling i ordets siste takt. Denne passive formen har tilleggsbetydningen 'uheldigvis'. I setninger med -hallat-endelse kan man angi agenten, som på norsk. Agenten skal være i illativ form. </p>
+    <list>
+      <p type="listitem" xml:lang="sme">gávdnat &gt; gávnnahallat: <em type="italic">Suola 'gávnnahalai' viesu eaiggádii. </em></p>
+      <p type="listitem">Tyven ble oppdaget av husets eier.</p>
+      <p type="listitem" xml:lang="sme">vuodjit &gt; vuojahallat: <em type="italic">Áhkku 'vuojahalai' boastabiilii. </em></p>
+      <p type="listitem">Bestemor ble påkjørt av postbilen.</p>
+      <p type="listitem" xml:lang="sme">bealkit &gt; bealkkahallat: <em type="italic">Vázzi olbmot čuoiganláhttus 'bealkkahalle' čuoigái. </em></p>
+      <p type="listitem">Gående i skiløypa ble skjelt ut av en skiløper.</p>
+    </list>
+    <p type="title">Tallordsfraser</p>
+    <p xml:lang="nno">Tallordsfraser er fraser med et tallord og et substantiv, f.eks <em type="italic">'golbma máná' </em>og <em type="italic">'vihtta viesu' </em>(tre barn, fem hus). </p>
+    <p>Etter tallord som er større enn 1, skal substantivet stå i genitiv entall. Selv om substantivet er i entall, forstås frasen som flertall. Det ser man i verbbøyninga. Etter 'okta' skal substantivet stå i nominativ entall. Her kan du lese mer om genitiv .</p>
+    <p>Verb som står til tallordsfraser med 'okta', bøyes i entall. Andre tallordsfraser bøyes i flertall.</p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">Mánás lea 'okta spábba'. </em>Barnet har en ball </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Oappás leat 'gávcci girjji'. </em>Søster har åtte bøker. </p>
+      <p type="listitem"><em type="italic">'Guhtta máná' bohte skuvlii. </em>Seks barn kom på skolen. </p>
+      <p type="listitem" xml:lang="swe"><em type="italic">'Okta mánná' bođii skuvlii. </em>Ett barn kom på skolen. </p>
+      <p type="listitem"><em type="italic">Dus leat 'čuođi heađi'. </em>Du har hundre problemer. </p>
+    </list>
+    <p>I andre kasus fins det regler for samsvarsbøyning. Hovedregelen er at tallordet og substantivet skal stå i samme kasus. Unntaket er lokativ og illativ entall. I lokativ og illativ entall står tallordet i genitiv form, mens substantivet er bøyd i lokativ eller illativ. Her kan du lese mer om samsvarsbøyning .</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Golmma mánás' lei nuorvu. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">Tre barn var forkjølet.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oahpaheaddji manai 'golmmain mánáin' girjerádjosii. </em>
+      </p>
+      <p type="listitem">Læreren dro på biblioteket med tre barn.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Hoavda riŋgii 'golmma bargái'. </em>
+      </p>
+      <p type="listitem">Sjefen ringte til tre ansatte.</p>
+    </list>
+    <p type="title">Reksjoner</p>
+    <p xml:lang="nno">Noen verb krever at substantiv eller pronomen har en bestemt kasus.</p>
+    <p><em type="italic">Lokativ-verb </em>krever at substantiv eller pronomen kommer i lokativ form. Vanlige lokativ-verb er: <em type="italic">ballat, beroštit, dolkat, heaitit, nohkkot, váruhit </em>. Les mer om lokativ . Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">Mánná ballá 'stálus'. </em>Barnet er redd for trollet. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Eadni berošta 'mánás'. </em>Mor bryr seg om barnet. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Oahppit leat dolkan 'guolis'. </em>Elevene er blitt lei av fisk. </p>
+      <p type="listitem"><em type="italic">Finnmárkulaččat heitet 'joatkkaskuvllas'. </em>Finnmarkingene slutter på videregående skole. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Mii nohkkuimet 'niesttis'. </em>Vi gikk tom for niste. </p>
+      <p type="listitem"><em type="italic">Váruhehket 'beatnagis'! </em>Pass dere for hunden! </p>
+    </list>
+    <p><em type="italic">Illativ-verb </em>krever at substantiv eller pronomen kommer i illativ form. Vanlige illativ-verb er: <em type="italic">álgit, darvánit, guoskat, heivet, liikot, suhttat </em>. Les mer om illativ . Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Čakčat soai álgiba 'skuvlii'. </em>
+      </p>
+      <p type="listitem">Til høsten begynner de to på skolen.</p>
+      <p type="listitem"><em type="italic">Rievssat darvána 'gillii'. </em>Rypa blir sittende fast i snaren. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Málagušta guoskkai 'gáktái'. </em>Penselen kom borti kofta. </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Diet gákti ii heive 'munnje'. </em>
+      </p>
+      <p type="listitem">Den kofta passer ikke til meg.</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mánná liiko 'njálgáide'. </em>Barnet liker godter. </p>
+      <p type="listitem"><em type="italic">Eadni suhtai 'siessái'. </em>Mor ble sint på tante. </p>
+    </list>
+    <p><em type="italic">Komitativ-verb </em>krever at substantiv eller pronomen kommer i komitativ form. Vanlige komitativ-verb er: <em type="italic">hilbošit, háladit, humadit, ságastallat, bártidit, riidalit </em>. Les mer om komitativ . Eksempler: </p>
+    <list>
+      <p type="listitem"><em type="italic">Mánná hilbošii 'áhkuin'. </em>Barnet var slem mot bestemor. </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oahpaheaddji háladii 'rektoriin'. </em>
+      </p>
+      <p type="listitem">Læreren snakket med rektor.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Báhppa humadii 'konfirmánttaiguin'. </em>
+      </p>
+      <p type="listitem">Presten snakket med konfirmantene.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun ságastallen guhká 'doaktáriin'. </em>
+      </p>
+      <p type="listitem">Jeg snakket lenge med legen.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Soai bártideigga 'dihtoriin'. </em>
+      </p>
+      <p type="listitem">De to plagdes med datamaskinen.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Manne don riidalat 'ránnjáiguin'? </em>
+      </p>
+      <p type="listitem" xml:lang="dan">Hvorfor krangler du med naboene?</p>
+    </list>
+    <p type="title" xml:lang="dan">Setningsledd</p>
+    <p>Setninger kan deles inn i setningsledd. Et setningsledd kan være et enkeltord, en leddsetning eller en gruppe ord som sammen fungerer som en enhet:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">enkeltord: </em>
+        <em type="italic">Moai borre 'gáhku'. </em>
+      </p>
+      <p type="listitem">Vi to spiser kake.</p>
+      <p type="listitem" xml:lang="nno">
+        <em type="italic">gruppe av ord: </em>
+        <em type="italic">Moai borre 'golbma njálgga gáhku'. </em>
+      </p>
+      <p type="listitem">Vi to spiser tre gode kaker.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">leddsetning: </em>
+        <em type="italic">Mun dieđán 'ahte áhkku lea boahtán'. </em>
+      </p>
+      <p type="listitem">Jeg vet at bestemor er kommet.</p>
+    </list>
+    <p>Setningsledd har en funksjon i setningen. Vanlige syntaktiske funksjoner er subjekt, verbal, objekt, predikativ og adverbial.</p>
+    <p><em type="italic">Subjekt </em>i setningen står i nominativ form. Subjektet og verbet samsvarer i person og tall. Man finner subjektet ved å spørre: 'hvem/hva + verbet i setningen'. Subjekt i setningen kan være et substantiv, pronomen, adjektiv, tallord, verb i infinitiv form eller en leddsetning: </p>
+    <list>
+      <p type="listitem">pronomen: <em type="italic">'Soai' álgiba skuvlii. </em>(De to begynner på skolen.) </p>
+      <p type="listitem">substantiv: <em type="italic">'Lottit' girdiledje. </em>(Fuglene fløy av sted.) </p>
+      <p type="listitem">adjektiv: <em type="italic">'Dat ruoksadat' leat čábbát. </em>(De røde er pene.) </p>
+      <p type="listitem">tallord: <em type="italic">'Guhtta' leat láhppon. </em>(Seks stykker er blitt borte.) </p>
+      <p type="listitem" xml:lang="nno">verb i infinitiv: <em type="italic">'Čállit' lea somá. </em>(Det er artig å skrive.) </p>
+      <p type="listitem" xml:lang="nno">leddsetning: <em type="italic">Lei buorre 'go don bohtet'. </em>(Det var bra at du kom.) </p>
+    </list>
+    <p><em type="italic">Verbalet </em>kan bestå av ett verb eller flere. Hvis verbalet består av flere verb, er det bare ett av dem som er finitt. Det finitte verbet skal samsvare med subjektet i tall og person. Grammatiske setninger må alltid inneholde et finitt verb. </p>
+    <list>
+      <p type="listitem"><em type="italic">Soai 'álgiba' skuvlii. </em>(De to begynner på skolen.) </p>
+      <p type="listitem"><em type="italic">Lottit 'leat girdilan'. </em>(Fuglene har fløyet av sted.) </p>
+      <p type="listitem"><em type="italic">Okta loddi 'ii leat girdilan'. </em>(En fugl har ikke fløyet av sted.) </p>
+      <p type="listitem"><em type="italic">Moai 'letne čállime'. </em>(Vi to holder på å skrive.) </p>
+    </list>
+    <p xml:lang="nno">Les mer om infinitte verb og hjelpeverb .</p>
+    <p><em type="italic">Objektet </em>er vanligvis et substantiv eller pronomen, og det skal bøyes i akkusativ. Objektet finner man ved å spørre: hva + verbet i setningen + subjektet. Objektet kan også være adjektiv, tallord, verb i infinitiv form, leddsetning, og setningstilsvar. </p>
+    <list>
+      <p type="listitem" xml:lang="nno">pronomen: <em type="italic">Mun oidnen 'sudno'. </em>(Jeg så de to.) </p>
+      <p type="listitem">substantiv: <em type="italic">Moai letne hukseme 'viesu'. </em>(Vi holder på å bygge et hus.) </p>
+      <p type="listitem">adjektiv: <em type="italic">Mun čoggen 'daid ruoksadiid'. </em>(Jeg plukket de røde.) </p>
+      <p type="listitem" xml:lang="nno">tallord: <em type="italic">Soai válddiiga 'ovtta'. </em>(De to tok én.) </p>
+      <p type="listitem" xml:lang="sme">verb i infinitiv: <em type="italic">Skuvllas mii oahppat 'lohkat ja čállit'. </em></p>
+      <p type="listitem">(På skolen lærer vi å lese og skrive.)</p>
+      <p type="listitem" xml:lang="sme">leddsetning: <em type="italic">Mun oidnen 'ahte mánná gahčai'. </em></p>
+      <p type="listitem" xml:lang="nno">(Jeg så at barnet falt.)</p>
+      <p type="listitem" xml:lang="nno">setningstilsvar: <em type="italic">Mun oidnen 'máná gahččame'. </em>(Jeg så barnet falle.) </p>
+    </list>
+    <p><em type="italic">Predikativ </em>beskriver hva eller hvordan subjektet eller objektet er, blir eller kalles. Det kommer vanligvis etter verbene 'leat', 'šaddat' og 'gohčodit'. Dette leddet kan være et substantiv eller adjektiv i nominativ eller essiv form. Når predikativet beskriver subjektet i setningen, kalles det for subjektspredikativ. Subjektspredikativet skal samsvarsbøyes med subjektet i tall. Hvis predikativet beskriver objektet i setningen, kalles det for objektspredikativ. </p>
+    <p>Subjektspredikativ:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Máret lea 'oahpaheaddji'. </em>(Máret er lærer.) </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Máret šattai 'oahpaheaddjin'. </em>(Máret ble lærer.) </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Moai letne 'lihkolaččat'. </em>(Vi to er lykkelige.) </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Sii leat 'kveanat'. </em>(De er kvener.) </p>
+      <p type="listitem"><em type="italic">Sii gohčoduvvojit 'kveanan'. </em>(De kalles for kvener.) </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Biila lea 'divrras'. </em>(Bilen er dyr.) </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Biillat leat 'divrasat'. </em>(Bilene er dyre.) </p>
+    </list>
+    <p>Objektspredikativ:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun gohčodan Iŋggá 'muoŧŧán'. </em>(Jeg kaller Iŋgá for tante.) </p>
+      <p type="listitem"><em type="italic">Soai máliiga viesu 'vielgadin'. </em>(De to malte huset hvitt.) </p>
+    </list>
+    <p><em type="italic">Adverbial </em>gir tilleggsinformasjon om verbhandlingen, f.eks når, hvor og hvordan verbhandlingen skjer. Adverbialene kan deles inn i tidsadverbial, stedsadverbial og måtesadverbial. Adverbial kan blant annet være adverb, nomen, pre- eller postposisjonsfrase og leddsetning. </p>
+    <list>
+      <p type="listitem">nomen: <em type="italic">Soai leaba 'skuvllas'. </em>(De to er på skolen.) </p>
+      <p type="listitem">adverb: <em type="italic">Sii murjejit 'čakčat'. </em>(De plukker bær om høsten.) </p>
+      <p type="listitem" xml:lang="sme">postposisjonsfrase: <em type="italic">Stállu jávkkai 'vári duohkái'. </em></p>
+      <p type="listitem">(Trollet ble borte bak fjellet.)</p>
+      <p type="listitem" xml:lang="sme">leddsetning: <em type="italic">'Go áhčči lei nuorra', de son barggai bohccuiguin. </em></p>
+      <p type="listitem">(Da far var ung, jobbet han med rein.)</p>
+    </list>
+  </body>
+</document>

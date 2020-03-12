@@ -1,0 +1,40 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>For studentene | Samisk Høgskole</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>82</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://samas.no/nb/studenter</origFileName>
+    <parallel_text xml:lang="sme" location="studeanttaide.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">For studenter</p>
+    <p>
+      <em type="italic">Nye studenter har mye som skal på stell. Her er en liten huskeliste for dere. </em>
+    </p>
+    <p>
+      <em type="italic">Har du husket? </em>
+    </p>
+    <list>
+      <p type="listitem" xml:lang="deu">Boplass</p>
+      <p type="listitem" xml:lang="deu">Barnehageplass</p>
+      <p type="listitem">Søkt stipend og lån</p>
+      <p type="listitem">Betalt studieavgift (sendes med posten etter at du har tatt imot studieplass)</p>
+      <p type="listitem">Godtatt utdanningsplan/progresjonsplan på StudentWeb</p>
+      <p type="listitem">Hentet studentkort (hentes på forkontoret etter at du har betalt studieavgift)</p>
+      <p type="listitem">Logge inn på PedIt/Digigiisa . (Brukernavn og passord sendes på mail)</p>
+    </list>
+    <p>Fant du ikke informasjonen du trenger? Ta gjerne kontakt med studieadministrasjonen, mail: studieadm@samiskhs.no , eller ring +47 78448400</p>
+  </body>
+</document>

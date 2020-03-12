@@ -1,0 +1,43 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>OSKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>51</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <origFileName>http://www.osko.no/index.php?kat_id=42&amp;art_id=44</origFileName>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=42_art_id=44.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=42_art_id=44.html"/>
+    <parallel_text xml:lang="smj" location="index.php_kat_id=42_art_id=44.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kristuskransen</p>
+    <p type="title">Ilden</p>
+    <p>Ilden</p>
+    <p>Ilden er en kjær venn</p>
+    <p>som ikke lar seg fange</p>
+    <p>dens varme og lys</p>
+    <p>gir råd og godt mot</p>
+    <p>åpner hjertets stier</p>
+    <p>i den store vide verden</p>
+    <p>Paulus Utsi</p>
+    <p>Gáldu/ kilde: Utsi, Paulus – Utsi, Inger: Giela gielain. Divttat. Dikter.</p>
+    <p>Oversettelse norsk: Rávdná Turi Henriksen (2011)</p>
+    <p>Utskriftsvennlig versjon</p>
+  </body>
+</document>

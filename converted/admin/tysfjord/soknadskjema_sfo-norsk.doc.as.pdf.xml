@@ -1,0 +1,49 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>121</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>https://www.tysfjord.kommune.no/getfile.php/644020.1172.btxdswvpwp/soknadskjema+sfo-norsk.doc.as.pdf</origFileName>
+    <parallel_text xml:lang="smj" location="soknadskjema_sfo_samisk.doc.as.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tysfjord kommune Oppvekst og utdanning 8590 Kjøpsvik</p>
+    <p><em type="bold">SØKNAD OM PLASS I SKOLEFRITIDSORDNING</em> <em type="bold"> I TYSFJORD KOMMUNE</em> </p>
+    <p><em type="bold">Opplysninger om barnet :</em> </p>
+    <p>Etternavn, fornavn:____________________________________________________________</p>
+    <p>Født:___________________</p>
+    <p>Hvem har den daglige omsorgen for barnet ?</p>
+    <p>Begge foreldrene:_____   Moren alene:________     Faren alene:__________</p>
+    <p>Andre : _____________________________________________________________________</p>
+    <p><em type="bold">Opplysninger om hovedforsørger:</em> </p>
+    <p>Etternavn, fornavn:____________________________________________________________</p>
+    <p>Fødsels- og personnummer:_____________________________________________________</p>
+    <p>Adresse:____________________________________________________________________</p>
+    <p>Telefon priv. / arbeid:__________________________________________________________</p>
+    <p><em type="bold">Opplysninger om ektefelle/samboer:</em> </p>
+    <p>Etternavn, fornavn: ___________________________________________________________</p>
+    <p>Fødsels- og personnummer:_____________________________________________________</p>
+    <p>Adresse:____________________________________________________________________</p>
+    <p>Telefon priv. / arbeid :_________________________________________________________</p>
+    <p><em type="bold">Skolefritidsordningen det søkes plass i:</em>__________________________________________ </p>
+    <p>Det søkes hel plass – dvs. mer enn 15 t pr. uke _____________________________________</p>
+    <p>Det søkes halv plass – dvs. t.o.m. 14 t pr. uke_______________________________________</p>
+    <p><em type="bold">Det søkes plass følgende dager og tidspunkt:</em> </p>
+    <p>Mandag_____ Tirsdag______ Onsdag_____ Torsdag_____ Fredag_______</p>
+    <p>Før skoletid 07:30 – 08:30_________________________________________</p>
+    <p>Etter skoletid til kl. :______________________________________________</p>
+    <p>Sted og dato:Underskrift:</p>
+  </body>
+</document>

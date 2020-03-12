@@ -1,0 +1,43 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>OSKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>87</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <origFileName>http://www.osko.no/index.php?kat_id=3&amp;art_id=1</origFileName>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=3_art_id=1.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=3_art_id=1.html"/>
+    <parallel_text xml:lang="smj" location="index.php_kat_id=3_art_id=1.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>1</p>
+    <p>2</p>
+    <p>3</p>
+    <p>4</p>
+    <p>5</p>
+    <p>6</p>
+    <p>7</p>
+    <p>Reportasjer</p>
+    <p type="title">Konfirmanter på tur</p>
+    <p>Opplegget for konfirmasjonstiden varierer fra sted til sted. Det vanligste er at konfirmasjonsundervisningen foregår det året du går i niende klasse, og at det strekker seg over åtte måneder. Noen steder er det undervisning på ukedager, hver uke eller annenhver uke. Noen steder er det helgesamlinger, mens andre drar på leir. Les mer om konfirmasjon</p>
+    <p>her.</p>
+    <p>Her har vi samlet noen bilder fra konfirmasjonstreff. Vi oppfordrer konfirmanter til å lage reportasjer fra deres opplegg.</p>
+    <p>Utskriftsvennlig versjon</p>
+  </body>
+</document>

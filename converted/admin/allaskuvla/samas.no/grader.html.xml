@@ -1,0 +1,33 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Grader | Samisk Høgskole</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>178</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://samas.no/nb/studenter/grader</origFileName>
+    <parallel_text xml:lang="sme" location="gradat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="deu">Grader</p>
+    <p>Bachelorgrad er en lavere grad som oppnås ved:</p>
+    <list>
+      <p type="listitem">Fullført 3 – årig yrkesrettet utdanning ( 180 studiepoeng) som er i henhold til nasjonale rammeplaner.</p>
+      <p type="listitem">Fullført 3 –årig integrert utdanning (180 studiepoeng) i henhold til studieplaner som er godkjent ved Samisk høgskole. Det kreves at kandidaten har fullført et arbeide på 15 studiepoeng. Utdanningen kan være enten helhetlig 3 årig utdanning (180 studiepoeng) eller 2 årig utdanning (120 studiepoeng) og i tillegg fag som utgjør 60 studiepoeng.</p>
+      <p type="listitem">Fullført 3 –årig utdanning (180 studiepoeng). Det kreves en fordypning på minst 90 studiepoeng i et fagfelt, og minst 30 studiepoeng i et annet fagfelt. Det kreves at studenten gjennomfører et selvstendig arbeide med et omfang på minimum 10 studiepoeng</p>
+    </list>
+    <p>Les mer om regler for bachelorgrad ved Samisk høgskole :</p>
+    <p>Mastergrad er en høyere grad, med normert studietid på to år etter bachelorgraden, totalt 5 år høyere utdanning. Opptakskrav til masterstudier er normalt bachelorgrad eller tilsvarende utdanning innen et fagområde som er relevant for mastergraden.</p>
+    <p>Vi oppfordrer studenter til å lese og bli kjent med håndbok for kvalitet ved Samisk høgskole.</p>
+  </body>
+</document>

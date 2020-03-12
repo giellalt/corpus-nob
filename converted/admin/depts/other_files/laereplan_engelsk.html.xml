@@ -1,0 +1,340 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>3425</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.udir.no/kl06/ENG1-03/Hele/Komplett_visning?lplang=nob&amp;read=1</origFileName>
+    <parallel_text xml:lang="eng" location="laereplan_engelsk.html"/>
+    <parallel_text xml:lang="sma" location="laereplan_engelsk.html"/>
+    <parallel_text xml:lang="sme" location="laereplan_engelsk.html"/>
+    <parallel_text xml:lang="smj" location="laereplan_engelsk.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Læreplan i engelsk</p>
+    <p>Hovedinnhold</p>
+    <p type="title">Læreplan i engelsk</p>
+    <p xml:lang="nno">Fastsatt som forskrift av Kunnskapsdepartementet 21.06.2013</p>
+    <p>Gjelder fra: 01.08.2013</p>
+    <p type="title">Formål</p>
+    <p>Engelsk er et verdensspråk. I møte med mennesker fra andre land, hjemme eller på reiser, har vi ofte bruk for engelsk. Engelsk brukes i film, litteratur, sang, sport, handel, produkter, vitenskap, og teknologi, og gjennom disse bruksområdene har mange engelske ord og uttrykk funnet veien til våre egne språk. Når vi skal lete etter informasjon ut fra våre egne interesser eller i faglig sammenheng, skjer dette ofte på engelsk. I tillegg brukes engelsk i økende grad i utdanning og som arbeidsspråk i mange bedrifter.</p>
+    <p>For å klare oss i en verden der engelsk benyttes i internasjonal kommunikasjon, er det nødvendig å kunne bruke det engelske språket og ha kunnskap om hvordan språket brukes i ulike sammenhenger. Det betyr å utvikle ordforråd og ferdigheter i å bruke språkets lydsystem, rettskriving, grammatikk og prinsipper for setnings- og tekstbygging, og kunne tilpasse språket til ulike emner og kommunikasjonssituasjoner. Dette innebærer å kunne skille mellom muntlig og skriftlig språkføring og formell og uformell språkbruk. Videre betyr det å kunne ta hensyn til kulturelle omgangsformer og høflighetskonvensjoner når vi bruker språket.</p>
+    <p>Språklæringen skjer i møte med et mangfold av tekster, der tekstbegrepet brukes i vid forstand. Det omfatter muntlige og skriftlige framstillinger i forskjellige kombinasjoner, og ulike muntlige og skriftlige tekster fra digitale medier. Når vi er bevisste på strategier som brukes for å lære språk, og strategier som hjelper oss til å forstå og å bli forstått, blir tilegnelsen av kunnskaper og ferdigheter enklere og mer meningsfylt. Det er også viktig å sette egne mål for læringen, finne ut hvordan målene kan nås og vurdere egen språkbruk. Å lære engelsk bidrar til flerspråklighet og kan bli en viktig del av vår personlige utvikling.</p>
+    <p>I tillegg til språklæring skal engelskfaget bidra til å gi innsikt i levesett og kulturer der engelsk er hovedspråk eller et offisielt språk. Faget skal gi innsikt i hvordan engelsk brukes som et internasjonalt kommunikasjonsmiddel. Å lære om engelskspråklige land og den stadig økende bruken av engelsk i ulike internasjonale kontekster, vil gi et godt grunnlag for å forstå verden omkring oss og utviklingen av engelsk som et verdensspråk. Engelskspråklige litterære tekster kan gi leseglede for livet og en dypere forståelse for andre og oss selv. Muntlige, skriftlige og digitale tekster, film, musikk og andre kulturuttrykk kan videre inspirere til egen utfoldelse og kreativitet.</p>
+    <p>Engelskfaget er både et redskapsfag og et dannelsesfag. Det skal gi mulighet til å delta i kommunikasjon om personlige, sosiale, litterære og faglige emner. Faget skal bygge opp den generelle språkkompetansen gjennom å lytte, snakke, lese og skrive, og gi mulighet til å tilegne seg informasjon og fagkunnskap via det engelske språket. Utviklingen av kommunikative og språklige ferdigheter og kulturell innsikt kan fremme økt samhandling, forståelse og respekt mellom mennesker med ulik kulturbakgrunn. Slik blir språk- og kulturkompetanse en del av allmenndannelsen og bidrar til å styrke demokratisk engasjement og medborgerskap.</p>
+    <p type="title">Hovedområder</p>
+    <p>Faget er strukturert i hovedområder som det er formulert kompetansemål innenfor. Hovedområdene utfyller hverandre og må ses i sammenheng.</p>
+    <p>Faget er et fellesfag for alle utdanningsprogrammene i videregående opplæring. Opplæringen skal derfor gjøres mest mulig relevant for elevene ved å tilpasses de ulike utdanningsprogrammene.</p>
+    <p>Engelsk har kompetansemål etter 2., 4., 7. og 10. årstrinn i grunnskolen og etter Vg1 studieforberedende utdanningsprogram/Vg2 yrkesfaglige utdanningsprogram.</p>
+    <p>
+      <em type="bold">Oversikt over hovedområder: </em>
+    </p>
+    <p xml:lang="isl">
+      <em type="bold">Årstrinn </em>
+    </p>
+    <p>
+      <em type="bold">Hovedområder </em>
+    </p>
+    <p>1.–10. Vg1 Vg2 (yrkesfaglige utdanningsprogram)</p>
+    <p xml:lang="dan">Språklæring</p>
+    <p>Muntlig kommunikasjon</p>
+    <p>Skriftlig kommunikasjon</p>
+    <p>Kultur, samfunn og litteratur</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Hovedområdet språklæring dreier seg om hva det innebærer å lære et nytt språk, å lære det engelske språket, og å se sammenhenger mellom engelsk, morsmål og andre språk. Det omfatter kunnskap om språket og innsikt i egen språklæring. Å kunne vurdere egen språkbruk og egne læringsbehov og velge egnede strategier og arbeidsmåter er nyttig for å lære og å bruke det engelske språket.</p>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Hovedområdet muntlig kommunikasjon dreier seg om å forstå og bruke det engelske språket ved å lytte, tale og samtale og å bruke hensiktsmessige kommunikasjonsstrategier. Hovedområdet innebærer å utvikle ordforråd og bruke idiomatiske strukturer og grammatiske mønstre i tale og samtale. Det omfatter også å bruke språket med tydelig uttale og intonasjon.</p>
+    <p>Hovedområdet innebærer å lytte til, forstå og bruke det engelske språket i ulike muntlige kommunikasjonssituasjoner. Å vise høflighet og hensyn til gjeldende omgangsformer er her et viktig element. Dette dreier seg også om tilpasning av språket til formål og mottaker, blant annet gjennom å skille mellom formelt og uformelt muntlig språk.</p>
+    <p>Bruk av ulike medier og ressurser, og utvikling av et språklig repertoar på tvers av fag og emner er sentralt i dette hovedområdet.</p>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Hovedområdet skriftlig kommunikasjon dreier seg om å forstå og bruke det engelske språket ved å lese og skrive og å bruke hensiktsmessige lese- og skrivestrategier.</p>
+    <p>Hovedområdet omfatter å lese varierte typer tekster på engelsk for å stimulere til leseglede og opplevelse, og for å forstå og tilegne seg kunnskap. Det innebærer mengdelesing som fremmer språkforståelse og tekstkompetanse. Lesing av ulike typer tekster kan legge grunnlag for personlig vekst, modning og kreativitet og gi inspirasjon til egen tekstskaping.</p>
+    <p>Hovedområdet omfatter også å skrive engelske tekster i ulike kommunikasjonssituasjoner for å stimulere til skriveglede og opplevelse, og for å forstå og tilegne seg kunnskap. Dette dreier seg også om tilpasning av språket til formål og mottaker, blant annet gjennom å skille mellom formelt og uformelt skriftlig språk. Hovedområdet innebærer å utvikle ordforråd og bruke rettskriving, idiomatiske strukturer og grammatiske mønstre i skrift. Det omfatter også å skape struktur og sammenheng i tekster.</p>
+    <p>Bruk av ulike medier og ressurser, og utviklingen av et språklig repertoar på tvers av fag og emner er sentralt i dette hovedområdet.</p>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Hovedområdet kultur, samfunn og litteratur dreier seg om kulturforståelse i vid forstand. Det tar utgangspunkt i engelskspråklige land, og dekker sentrale emner knyttet til samfunnsliv, litteratur og andre kulturuttrykk. Hovedområdet dreier seg også om å tilegne seg kunnskap om engelsk som et verdensspråk med mange bruksområder.</p>
+    <p>Hovedområdet innebærer arbeid med og drøfting av fagtekster, litterære tekster og kulturelle uttrykksformer fra ulike medier. Dette er sentralt for å utvikle kunnskap om og forståelse og respekt for andres levesett og kulturer.</p>
+    <p type="title" xml:lang="est">Timetall</p>
+    <p>Timetall oppgitt i 60-minutters enheter:</p>
+    <p xml:lang="deu">BARNETRINNET</p>
+    <p>1.–4. årstrinn: 138 timer</p>
+    <p>5.–7. årstrinn: 228 timer</p>
+    <p xml:lang="deu">UNGDOMSTRINNET</p>
+    <p>8.–10. årstrinn: 222 timer</p>
+    <p xml:lang="deu">STUDIEFORBEREDENDE UTDANNINGSPROGRAM</p>
+    <p>Vg1: 140 timer</p>
+    <p xml:lang="deu">YRKESFAGLIGE UTDANNINGSPROGRAM</p>
+    <p>Vg1: 84 timer</p>
+    <p>Vg2: 56 timer</p>
+    <p type="title">Grunnleggende ferdigheter</p>
+    <p>Grunnleggende ferdigheter er integrert i kompetansemålene der de bidrar til utvikling av og er en del av fagkompetansen. I engelsk forstås grunnleggende ferdigheter slik:</p>
+    <p><em type="italic">Muntlige ferdigheter </em>i engelsk er å kunne lytte, tale og samhandle ved å bruke det engelske språket. Det betyr å vurdere og tilpasse uttrykksmåter til formål, mottaker og situasjon. Det innebærer videre å lære om sosiale konvensjoner og omgangsformer i engelskspråklige land og i internasjonale kontekster. Utvikling av muntlige ferdigheter i engelsk innebærer å bruke det muntlige språket gradvis mer presist og nyansert i samtaler og i andre typer muntlig kommunikasjon. Videre innebærer det å lytte til, forstå og drøfte forskjellige emner og problemstillinger for å tilegne seg fagkunnskap. Det innebærer også å kunne forstå varianter av muntlig engelsk fra forskjellige deler av verden. </p>
+    <p><em type="italic">Å kunne skrive </em>i engelsk er å kunne uttrykke ideer og meninger på en forståelig og hensiktsmessig måte ved å bruke det engelske skriftspråket. Det betyr å planlegge, utforme og bearbeide tekster som kommuniserer, og som har god struktur og sammenheng. I tillegg er skriving et redskap for språklæring. Utvikling av skriveferdigheter i engelsk innebærer å lære rettskriving og utvikle et økende repertoar av engelske ord og språklige strukturer. Videre innebærer det å utvikle en allsidig kompetanse i å skrive ulike typer generelle, litterære og faglige tekster på engelsk ved bruken av uformelt og formelt språk, tilpasset formål og mottaker. </p>
+    <p><em type="italic">Å kunne lese </em>i engelsk er å kunne skape mening ut fra ulike typer tekster. Det betyr å lese engelskspråklige tekster for å forstå, reflektere over og tilegne seg innsikt og kunnskap på tvers av kulturer og fagfelt. Det innebærer videre å forberede, utføre og bearbeide lesing av engelskspråklige tekster til forskjellige formål, og av varierende lengde og kompleksitet. Utvikling av leseferdigheter i engelsk er å ta i bruk lesestrategier tilpasset formålet med lesingen i stadig mer krevende tekster. Videre innebærer det å lese engelskspråklige tekster med flyt og forståelse, og utforske, drøfte, lære av og reflektere over ulike typer informasjon. </p>
+    <p><em type="italic">Å kunne regne </em>i engelsk er å kunne bruke relevante matematiske begreper på engelsk i ulike situasjoner. Det innebærer å kjenne til måleenheter som brukes i engelskspråklige land, og forstå og kommunisere om tall, grafiske framstillinger, tabeller og statistikk på engelsk. Utvikling av regneferdigheter i engelsk innebærer å bruke tall og regning ved å utvikle et repertoar av matematiske termer på engelsk knyttet til dagliglivet, og generelle og faglige emner. </p>
+    <p><em type="italic">Digitale ferdigheter </em>i engelsk er å kunne bruke et variert utvalg digitale verktøy, medier og ressurser for å styrke språklæringen, kommunisere på engelsk og tilegne seg relevant kunnskap i engelskfaget. Bruk av digitale ressurser gir mulighet for å oppleve engelskspråklige tekster i autentiske situasjoner, det vil si naturlige, ikke-tilpassede situasjoner. Utvikling av digitale ferdigheter innebærer å innhente og behandle informasjon for å skape ulike typer tekster. Digitale formkrav i tekster betyr at effekter, bilder, tabeller, overskrifter og punkter er satt sammen for å understreke og formidle et budskap. Det innebærer videre å bruke digitale kilder i skriftlige og muntlige tekster, og å ha en kritisk og selvstendig holdning til kildebruk. Digitale ferdigheter innebærer å utvikle kunnskap om opphavsrett og personvern gjennom etterprøvbare kildehenvisninger. </p>
+    <p type="title">Kompetansemål etter 2. årstrinn</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gi eksempler på noen situasjoner der det kan være nyttig å kunne engelsk</p>
+      <p type="listitem">finne ord og uttrykk som er felles for engelsk og eget morsmål</p>
+      <p type="listitem">bruke digitale ressurser i opplevelse av språket</p>
+    </list>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">lytte etter og bruke engelske språklyder gjennom praktisk-estetiske uttrykksmåter</p>
+      <p type="listitem">lytte til og forstå enkle instruksjoner på engelsk</p>
+      <p type="listitem">lytte til og forstå ord og uttrykk i engelskspråklige rim, regler, sanger, eventyr og fortellinger</p>
+      <p type="listitem">forstå og bruke noen engelske ord, uttrykk og setningsmønstre knyttet til nære omgivelser og egne interesser</p>
+      <p type="listitem">hilse, stille og svare på enkle spørsmål og bruke noen høflighetsuttrykk</p>
+      <p type="listitem">delta i enkle innøvde dialoger og spontane samtaler knyttet til nære omgivelser og egne opplevelser</p>
+      <p type="listitem">bruke tall i samtale om nære omgivelser og egne opplevelser</p>
+    </list>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">kjenne igjen sammenhengen mellom noen engelske språklyder og stavemønstre</p>
+      <p type="listitem">eksperimentere med å lese og skrive engelske ord, uttrykk og enkle setninger knyttet til nære omgivelser og egne interesser</p>
+    </list>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">samtale om sider ved barns dagligliv i engelskspråklige land</p>
+      <p type="listitem">ta del i og oppleve barnekultur fra engelskspråklige land gjennom å bruke ord, bilder, musikk og bevegelse</p>
+      <p type="listitem">gi uttrykk for egne opplevelser av engelskspråklige rim, regler, sanger, eventyr og fortellinger</p>
+    </list>
+    <p type="title">Kompetansemål etter 4. årstrinn</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">identifisere situasjoner der det kan være nyttig eller nødvendig å kunne engelsk</p>
+      <p type="listitem">samtale om eget arbeid med å lære engelsk</p>
+      <p type="listitem">finne likheter mellom ord og uttrykksmåter i engelsk og eget morsmål</p>
+      <p type="listitem">bruke digitale ressurser og andre hjelpemidler i utforsking av språket</p>
+    </list>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">bruke enkle lytte- og talestrategier</p>
+      <p type="listitem">lytte til og forstå betydningen av ord og uttrykk ut fra sammenhengen de er brukt i</p>
+      <p type="listitem">forstå og bruke engelske ord, uttrykk og setningsmønstre knyttet til egne behov og følelser, dagligliv, fritid og interesser</p>
+      <p type="listitem">forstå hovedinnholdet i rim, regler, sanger, eventyr og fortellinger</p>
+      <p type="listitem">bruke noen høflighetsuttrykk og enkle fraser for å få hjelp til å forstå og bli forstått</p>
+      <p type="listitem">delta i dagligdagse samtaler knyttet til nære omgivelser og egne opplevelser</p>
+      <p type="listitem">si det engelske alfabetet og stave navn og bostedsnavn</p>
+      <p type="listitem">forstå og bruke ord og uttrykk knyttet til priser, mengder, form og størrelser i kommunikasjon om dagligliv, fritid og interesser</p>
+    </list>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">bruke enkle lese- og skrivestrategier</p>
+      <p type="listitem">forstå sammenhengen mellom engelske språklyder og bokstaver og trekke lyder sammen til ord</p>
+      <p type="listitem">forstå betydningen av ord og uttrykk ut fra sammenhengen de er brukt i</p>
+      <p type="listitem">lese, forstå og skrive engelske ord og uttrykk knyttet til egne behov og følelser, dagligliv, fritid og interesser</p>
+      <p type="listitem">forstå hovedinnholdet i enkle tekster om kjente emner</p>
+      <p type="listitem">skrive korte tekster som uttrykker meninger og interesser, og som beskriver, forteller og spør</p>
+      <p type="listitem">bruke noen vanlige småord og enkle stave- og setningsmønstre</p>
+      <p type="listitem">bruke digitale verktøy for å hente informasjon og eksperimentere med å skape tekst</p>
+    </list>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">gi noen eksempler på engelskspråklige land og kjente personer derfra</p>
+      <p type="listitem">samtale om noen sider ved ulike levesett, tradisjoner og skikker i engelskspråklige land og i Norge</p>
+      <p type="listitem">delta i framføring av engelskspråklige rim, regler, sanger, korte skuespill og fortellinger</p>
+      <p type="listitem">gi uttrykk for egne tanker og meninger i møte med engelskspråklig litteratur og barnekultur</p>
+      <p type="listitem">lage egne tekster inspirert av engelskspråklig litteratur og barnekultur</p>
+    </list>
+    <p type="title">Kompetansemål etter 7. årstrinn</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">identifisere og bruke ulike situasjoner og læringsstrategier for å utvide egne ferdigheter i engelsk</p>
+      <p type="listitem">beskrive eget arbeid med å lære engelsk</p>
+      <p type="listitem">identifisere noen språklige likheter og ulikheter mellom engelsk og eget morsmål</p>
+      <p type="listitem">bruke digitale ressurser og andre hjelpemidler i egen språklæring</p>
+    </list>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="nno">bruke lytte- og talestrategier</p>
+      <p type="listitem">forstå og bruke et ordforråd knyttet til kjente emner</p>
+      <p type="listitem">forstå hovedinnholdet i muntlige tekster om kjente emner</p>
+      <p type="listitem">bruke høflighetsuttrykk og situasjonsrelaterte uttrykk</p>
+      <p type="listitem">uttrykke seg for å få hjelp til å forstå og bli forstått i ulike situasjoner</p>
+      <p type="listitem">uttrykke og begrunne egen mening om kjente emner</p>
+      <p type="listitem">innlede, holde i gang og avslutte samtaler knyttet til kjente situasjoner</p>
+      <p type="listitem">bruke grunnleggende mønstre for uttale, intonasjon, ordbøying og setningstyper i kommunikasjon</p>
+      <p type="listitem">uttrykke seg om enkle beregninger, valuta og måleenheter i kommunikasjon om dagligdagse situasjoner</p>
+    </list>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="nno">bruke lese- og skrivestrategier</p>
+      <p type="listitem">forstå og bruke et ordforråd knyttet til kjente emner</p>
+      <p type="listitem">forstå hovedinnholdet i selvvalgte tekster</p>
+      <p type="listitem">lese og forstå ulike typer tekster av varierende omfang fra forskjellige kilder</p>
+      <p type="listitem">ta notater for å lage ulike typer tekster</p>
+      <p type="listitem">skrive sammenhengende tekster som forteller, gjenforteller, beskriver opplevelser og uttrykker egne meninger</p>
+      <p type="listitem">bruke grunnleggende mønstre for rettskriving, ordbøying, setnings- og tekstbygging i produksjon av tekst</p>
+      <p type="listitem">bruke digitale verktøy og andre hjelpemidler for å finne relevant informasjon og lage ulike typer tekster</p>
+    </list>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">fortelle om personer, steder og begivenheter fra engelskspråklige land</p>
+      <p type="listitem">samtale om levesett og omgangsformer i ulike kulturer i engelskspråklige land og i Norge, deriblant samisk kultur</p>
+      <p type="listitem">lese engelskspråklig barne- og ungdomslitteratur og samtale om personer og innhold</p>
+      <p type="listitem">gi uttrykk for egne reaksjoner på engelskspråklige litterære tekster, film, nettkultur, bilder og musikk</p>
+      <p type="listitem">uttrykke seg på en kreativ måte inspirert av ulike typer engelskspråklige litterære tekster fra forskjellige kilder</p>
+      <p type="listitem" xml:lang="dan">formidle korte tekster om selvvalgte emner</p>
+    </list>
+    <p type="title">Kompetansemål etter 10. årstrinn</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">bruke ulike situasjoner, arbeidsmåter og læringsstrategier for å utvikle egne ferdigheter i engelsk</p>
+      <p type="listitem">kommentere eget arbeid med å lære engelsk</p>
+      <p type="listitem">identifisere vesentlige språklige likheter og ulikheter mellom engelsk og eget morsmål, og bruke dette i egen språklæring</p>
+      <p type="listitem">velge ulike digitale ressurser og andre hjelpemidler, og bruke dem på en selvstendig måte i egen språklæring</p>
+    </list>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">velge og bruke ulike lytte- og talestrategier tilpasset formålet</p>
+      <p type="listitem">forstå og bruke et generelt ordforråd knyttet til forskjellige emner</p>
+      <p type="listitem">vise evne til å skille mellom positivt og negativt ladede uttrykk som refererer til enkeltindivider og grupper av mennesker</p>
+      <p type="listitem">forstå hovedinnhold og detaljer i ulike typer muntlige tekster om forskjellige emner</p>
+      <p type="listitem">lytte til og forstå varianter av engelsk fra forskjellige autentiske situasjoner</p>
+      <p type="listitem">uttrykke seg med flyt og sammenheng tilpasset formål og situasjon</p>
+      <p type="listitem">uttrykke og begrunne egen mening om forskjellige emner</p>
+      <p type="listitem">innlede, holde i gang og avslutte samtaler om forskjellige emner ved å stille spørsmål og følge opp innspill</p>
+      <p type="listitem">bruke sentrale mønstre for uttale, intonasjon, ordbøying og ulike setningstyper i kommunikasjon</p>
+      <p type="listitem">forstå og bruke ulike uttrykk for tall og andre data i kommunikasjon</p>
+    </list>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">velge og bruke ulike lese- og skrivestrategier tilpasset formålet</p>
+      <p type="listitem">forstå og bruke et generelt ordforråd knyttet til forskjellige emner</p>
+      <p type="listitem">vise evne til å skille mellom positivt og negativt ladede uttrykk som refererer til enkeltindivider og grupper av mennesker</p>
+      <p type="listitem" xml:lang="dan">forstå hovedinnhold og detaljer i selvvalgte tekster</p>
+      <p type="listitem">lese, forstå og vurdere ulike typer tekster av varierende omfang om forskjellige emner</p>
+      <p type="listitem">bruke egne notater og forskjellige kilder som grunnlag for skriving</p>
+      <p type="listitem">skrive ulike typer tekster med struktur og sammenheng</p>
+      <p type="listitem">bruke sentrale mønstre for rettskriving, ordbøying, setnings- og tekstbygging i produksjon av tekst</p>
+      <p type="listitem">bruke digitale verktøy og formkrav for informasjonsbehandling, tekstproduksjon og kommunikasjon</p>
+      <p type="listitem">kjenne til personvern og opphavsrett og velge og bruke innhold fra forskjellige kilder på en etterprøvbar måte</p>
+    </list>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">drøfte levesett og omgangsformer i Storbritannia, USA, andre engelskspråklige land og Norge</p>
+      <p type="listitem">gjøre rede for trekk ved historie og geografi i Storbritannia og USA</p>
+      <p type="listitem">drøfte ulike typer engelskspråklige litterære tekster fra engelskspråklige land</p>
+      <p type="listitem">beskrive og reflektere over situasjonen til urfolk i engelskspråklige land</p>
+      <p type="listitem">lage, formidle og samtale om egne tekster inspirert av engelskspråklig litteratur, film og kulturelle uttrykksformer</p>
+      <p type="listitem" xml:lang="dan">samtale om og formidle aktuelle og faglige emner</p>
+    </list>
+    <p type="title">Kompetansemål etter Vg1 – studieforberedende utdanningsprogram og Vg2 - yrkesfaglige utdanningsprogram</p>
+    <p type="title" xml:lang="dan">Språklæring</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">vurdere og bruke ulike situasjoner, arbeidsmåter og læringsstrategier for å videreutvikle egne ferdigheter i engelsk</p>
+      <p type="listitem">vurdere egen framgang i arbeidet med å lære engelsk</p>
+      <p type="listitem">vurdere ulike digitale ressurser og andre hjelpemidler kritisk og selvstendig, og bruke dem i egen språklæring</p>
+    </list>
+    <p type="title">Muntlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">vurdere og bruke egnede lytte- og talestrategier tilpasset formål og situasjon</p>
+      <p type="listitem">forstå og bruke et bredt generelt ordforråd og et faglig ordforråd knyttet til eget utdanningsprogram</p>
+      <p type="listitem">forstå hovedinnhold og detaljer i ulike typer muntlige tekster om allmenne emner og faglige emner knyttet til eget utdanningsprogram</p>
+      <p type="listitem">lytte til og forstå sosiale og geografiske varianter av engelsk fra autentiske situasjoner</p>
+      <p type="listitem">uttrykke seg på en nyansert og presis måte med god flyt og sammenheng, tilpasset formål og situasjon</p>
+      <p type="listitem">innlede, holde i gang og avslutte samtaler og diskusjoner om allmenne emner og faglige emner knyttet til eget utdanningsprogram</p>
+      <p type="listitem">bruke mønstre for uttale, intonasjon, ordbøying og varierte setningstyper i kommunikasjon</p>
+      <p type="listitem">tolke og bruke teknisk og matematisk informasjon i kommunikasjon</p>
+    </list>
+    <p type="title">Skriftlig kommunikasjon</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem">vurdere og bruke egnede lese- og skrivestrategier tilpasset formål og type tekst</p>
+      <p type="listitem">forstå og bruke et bredt generelt ordforråd og et faglig ordforråd knyttet til eget utdanningsprogram</p>
+      <p type="listitem">forstå hovedinnhold og detaljer i tekster av varierende omfang om forskjellige emner</p>
+      <p type="listitem">lese for å tilegne seg fagkunnskaper fra eget utdanningsprogram</p>
+      <p type="listitem">bruke egne notater for å skrive tekster med tilknytning til eget utdanningsprogram</p>
+      <p type="listitem">skrive ulike typer tekster med struktur og sammenheng, tilpasset formål og situasjon</p>
+      <p type="listitem">bruke mønstre for rettskriving, ordbøying og variert setnings- og tekstbygging i produksjon av tekst</p>
+      <p type="listitem">produsere ulike typer tekster tilpasset digitale formkrav i forskjellige digitale medier</p>
+      <p type="listitem">vurdere forskjellige kilder og bruke innhold fra kildene på en selvstendig, kritisk og etterprøvbar måte</p>
+    </list>
+    <p type="title">Kultur, samfunn og litteratur</p>
+    <p>Mål for opplæringen er at eleven skal kunne</p>
+    <list>
+      <p type="listitem" xml:lang="dan">drøfte kultur og samfunnsforhold i flere engelskspråklige land</p>
+      <p type="listitem">presentere og diskutere aktuelle nyheter fra engelskspråklige kilder</p>
+      <p type="listitem" xml:lang="nno">drøfte framveksten av engelsk som et verdensspråk</p>
+      <p type="listitem">drøfte ulike typer engelskspråklige litterære tekster fra ulike deler av verden</p>
+      <p type="listitem">drøfte engelskspråklige filmer og andre kulturuttrykk fra forskjellige medier</p>
+      <p type="listitem">drøfte tekster av og om urfolk i engelskspråklige land</p>
+      <p type="listitem">fordype seg i et faglig emne innenfor eget utdanningsprogram og presentere dette</p>
+    </list>
+    <p type="title">Vurdering</p>
+    <p xml:lang="dan">Bestemmelser for sluttvurdering:</p>
+    <p>
+      <em type="bold">Standpunktvurdering </em>
+    </p>
+    <p xml:lang="isl">
+      <em type="bold">Årstrinn </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årstrinn</p>
+    <p>Elevene skal ha én skriftlig og én muntlig standpunktkarakter.</p>
+    <p>Vg1 studieforberedende utdanningsprogram Vg2 yrkesfaglige utdanningsprogram</p>
+    <p>Elevene skal ha én standpunktkarakter.</p>
+    <p>
+      <em type="bold">Eksamen for elever </em>
+    </p>
+    <p xml:lang="isl">
+      <em type="bold">Årstrinn </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årstrinn</p>
+    <p>Elevene kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>
+    <p>Vg1 studieforberedende utdanningsprogram Vg2 yrkesfaglige utdanningsprogram</p>
+    <p>Elevene kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (140 timer).</p>
+    <p xml:lang="dan">
+      <em type="bold">Eksamen for privatister </em>
+    </p>
+    <p xml:lang="isl">
+      <em type="bold">Årstrinn </em>
+    </p>
+    <p xml:lang="dan">
+      <em type="bold">Ordning </em>
+    </p>
+    <p>10. årstrinn</p>
+    <p>Se gjeldende ordning for grunnskole-opplæring for voksne.</p>
+    <p>Vg1 studieforberedende utdanningsprogram Vg2 yrkesfaglige utdanningsprogram</p>
+    <p>Privatistene skal opp til skriftlig og muntlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (140 timer).</p>
+    <p>De generelle bestemmelsene om vurdering er fastsatt i forskriften til opplæringsloven.</p>
+  </body>
+</document>

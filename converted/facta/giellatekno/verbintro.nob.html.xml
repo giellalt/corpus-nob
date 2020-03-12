@@ -1,0 +1,48 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Verb</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>211</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/verbintro.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="verbintro.eng.html"/>
+    <parallel_text xml:lang="sme" location="verbintro.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="vep">Verb</p>
+    <p>Verbet forteller hva som skjer eller hva som gjøres.</p>
+    <p>Verbets bøyning bestemmes av hva slags stamme ordet har. Det finner vi ut ved å se på hvor mange stavelser det er i ordets siste takt. Det finnes</p>
+    <list>
+      <p type="listitem" xml:lang="nno">likestavelsesverb som to stavelser i siste takt, og ender på '-at', '-it' eller '-ut' i infinitiv: <em type="italic">boahtit, mannat, lávlut, rehkenastit, muitališgoahtit </em>. </p>
+      <p type="listitem">ulikestavelsesverb som har tre stavelser. De ender alltid på '-it' i infinitiv: <em type="italic">muitalit, boradit </em>. </p>
+      <p type="listitem" xml:lang="nno">kontrakte verb som har to stavelser, og ender på '-át', '-et' eller '-ot' i infinitiv: <em type="italic">diŋgot, čohkkát, fárret </em>. </p>
+    </list>
+    <p xml:lang="nno">Det viktig å passe på diftongforenkling og stadieveksling når man bøyer orda.</p>
+    <p>Man skiller mellom finitte og infinitte verb:</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Finitte verb er verb som er bøyd i person og tall. De kongruerer med subjektet: <em type="italic">don 'bohtet', son 'ii' boađe, sii 'boađášedje' </em>. </p>
+      <p type="listitem">Infinitte verb bøyes ikke i person og tall, f.eks. infinitiv: <em type="italic">boahtit </em>og perfektum partisipp: <em type="italic">boahtán </em>. </p>
+    </list>
+    <p>Modus er en bøyningsform av verbet som betegner den talendes forhold til det som sies. Vi har fire modus på samisk:</p>
+    <list>
+      <p type="listitem" xml:lang="vep">Indikativ (fortellende form): <em type="italic">Mun 'boađán' ihttin. </em></p>
+      <p type="listitem" xml:lang="vep">Imperativ (bydeform): <em type="italic">'Boađe' donge! </em></p>
+      <p type="listitem" xml:lang="sme">Kondisjonalis (betinget form): <em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
+      <p type="listitem" xml:lang="sme">Potensialis (mulighet): <em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
+    </list>
+    <p xml:lang="nno"><em type="italic">Her kan kan lese med </em><em type="italic">om verb </em>. </p>
+    <p>Tilbake til grammatikk hovedside .</p>
+  </body>
+</document>

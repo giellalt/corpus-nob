@@ -1,0 +1,2123 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Verb</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>4795</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/verb.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="verb.eng.html"/>
+    <parallel_text xml:lang="sme" location="verb.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="vep">Verb</p>
+    <list>
+      <p type="listitem">Ulike stammer</p>
+      <p type="listitem" xml:lang="dan">Diftongforenkling</p>
+      <p type="listitem" xml:lang="est">Stadieveksling</p>
+      <p type="listitem">Andre konsonantvekslinger</p>
+      <p type="listitem" xml:lang="nno">Finitt verb og kongruens</p>
+      <p type="listitem" xml:lang="sme">Leat-verbet</p>
+      <p type="listitem" xml:lang="nno">Hovedverb og hjelpeverb</p>
+      <p type="listitem" xml:lang="nno">Infinitte verb</p>
+      <p type="listitem" xml:lang="nno">Transitivt og intransitivt verb</p>
+      <p type="listitem" xml:lang="smj">Modus</p>
+      <p type="listitem" xml:lang="vep">Indikativ</p>
+      <p type="listitem" xml:lang="deu">Presens</p>
+      <p type="listitem">Preteritum (fortid)</p>
+      <p type="listitem" xml:lang="nno">Nekting</p>
+      <p type="listitem" xml:lang="ron">Nektende imperativ</p>
+      <p type="listitem" xml:lang="isl">Perfektum</p>
+      <p type="listitem" xml:lang="eng">Aktio essiv</p>
+      <p type="listitem" xml:lang="est">Kondisjonalis</p>
+      <p type="listitem" xml:lang="est">Potensialis</p>
+      <p type="listitem" xml:lang="eng">Imperativ</p>
+    </list>
+    <p>Tilbake til grammatikk hovedside .</p>
+    <p><em type="italic">Verb </em>forteller hva som skjer eller hva som gjøres. </p>
+    <p type="title">Ulike stammer</p>
+    <p>Verbets bøyning bestemmes av hva slags stamme ordet har. Det finner vi ut ved å se på hvor mange stavelser det er i ordets siste takt. Ei <em type="italic">takt </em>er ei gruppe av stavelser der den første stavelsen har trykk. Her er stavelsene skilt med -, og takta merka med (). Trykk er merket med ' foran stavelsen. </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">láibut </em>('lái-but) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) har fire stavelser og to takter. </p>
+      <p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) har fem stavelser og to takter. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">boradit </em>('bo-ra-dit) derimot, har tre stavelser og bare ei takt. </p>
+    </list>
+    <p><em type="italic">Likestavelsesverb </em>har to stavelser i siste takt, og ender på '-at', '-it' eller '-ut' i infinitiv: </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">boahtit </em>('boah-tit) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">mannat </em>('man-nat) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">lávlut </em>('láv-lut) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) har fire stavelser og to takter. </p>
+      <p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) har fem stavelser og to takter. </p>
+    </list>
+    <p>Disse verbene har stadieveksling i ordets siste takt.</p>
+    <p><em type="italic">Ulikestavelsesverb </em>har en eller tre stavelser. Verbene med tre stavelser ender alltid på '-it' i infinitiv: </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">leat </em>('leat) og <em type="italic">ii </em>('ii) har begge en stavelse og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">muitalit </em>('mui-ta-lit) har tre stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">boradit </em>('bo-ra-dit) har tre stavelser og ei takt. </p>
+    </list>
+    <p xml:lang="dan">Disse verbene har ikke stadieveksling.</p>
+    <p xml:lang="nno"><em type="italic">Kontrakt verb </em>har to stavelser, og ender på '-át', '-et' eller '-ot' i infinitiv: </p>
+    <list>
+      <p type="listitem" xml:lang="nno"><em type="italic">diŋgot </em>('diŋ-got) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">čohkkát </em>('čohk-kát) har to stavelser og ei takt. </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">fárret </em>('fár-ret) har to stavelser og ei takt. </p>
+    </list>
+    <p>Disse verbene har ikke stadieveksling, og bøyes stort sett som likestavelsesverb, men som ulikestavelsesverb i noen bøyningsformer: <em type="italic">moai diŋgojetne, sii diŋgojit, mun diŋgojin, don diŋgojit, sii diŋgojedje. </em></p>
+    <p type="title" xml:lang="dan">Diftongforenkling</p>
+    <p>Diftongen i første stavelse av en takt kan påvirkes av vokalen i andre stavelse. Diftong går over til monoftong (en enkelt vokal), når vokalen i andre stavelse er:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">- 'ii', f.eks. <em type="italic">diđii (diehtit) </em></p>
+      <p type="listitem">- 'e' og 'o', f.eks. <em type="italic">dihten (diehtit), ožžon (oažžut) </em>, men ikke i nektingsform: <em type="italic">in 'dieđe', in 'oaččo </em>. </p>
+    </list>
+    <p type="title" xml:lang="est">Stadieveksling</p>
+    <p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i ei takt, f.eks. <em type="italic">diehtit - dieđán </em>. Det er <em type="italic">sterkt stadium </em>f.eks. i infinitiv og flertall i presens. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nektingsforma av likestavelsesverb. Det er bare likestavelsesverb som har stadieveksling. </p>
+    <p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre. Vær obs på at når '-i-' kommer etter en vokal, regnes som en konsonant ('-j-') og er en del av konsonantgruppa:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">ma <em type="italic">nn </em>at - ma <em type="italic">n </em>an, oa <em type="italic">đđ </em>it - oa <em type="italic">đ </em>án, ba <em type="italic">ss </em>at - ba <em type="italic">s </em>an, ba <em type="italic">ll </em>at - ba <em type="italic">l </em>an </p>
+      <p type="listitem" xml:lang="isl">lá <em type="italic">ib </em>ut - lá <em type="italic">ibb </em>ui, lá <em type="italic">vl </em>ut - lá <em type="italic">vll </em>un, oa <em type="italic">st </em>it - oa <em type="italic">stt </em>án </p>
+      <p type="listitem" xml:lang="nno">oa <em type="italic">gg </em>ut - oa <em type="italic">kk </em>un </p>
+      <p type="listitem" xml:lang="smn">bo <em type="italic">tn </em>it - bo <em type="italic">n </em>án, vuo <em type="italic">dj </em>it - vuo <em type="italic">j </em>án, já <em type="italic">pm </em>it - já <em type="italic">m </em>án </p>
+      <p type="listitem" xml:lang="nno">bu <em type="italic">kt </em>it - bu <em type="italic">vtt </em>án, ha <em type="italic">ks </em>it - ha <em type="italic">vss </em>án </p>
+      <p type="listitem" xml:lang="smj">da <em type="italic">hk </em>at - da <em type="italic">g </em>an, bá <em type="italic">hč </em>it - bá <em type="italic">ž </em>án </p>
+    </list>
+    <p>I avledede verb vil det være stadieveksling i avledningsendelsen, dersom denne er på to stavelser, som i ordene <em type="italic">dolastallat, muitaladdat </em>. Disse ordene har to takter: ('do-la)('stal-lat) ('mui-ta)('lad-dat). Da vil det være stadieveksling i ordets siste takt. Sterk grad vil forekomme i blant annet 3. person entall, presens, og svak grad vil forekomme i blant annet 1.person entall presens: </p>
+    <list>
+      <p type="listitem" xml:lang="fin">dolasta <em type="italic">ll </em>at - dolasta <em type="italic">ll </em>á - dolasta <em type="italic">l </em>an </p>
+      <p type="listitem" xml:lang="sme">muitala <em type="italic">dd </em>at - muitala <em type="italic">dd </em>á - muitala <em type="italic">tt </em>an </p>
+    </list>
+    <p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
+    <p type="title">Andre konsonantvekslinger</p>
+    <p>Ulikestavelsesverb slutter på konsonant i nektelsesform presens og imperativ 2. person entall . Vanligvis er denne konsonanten den samme som i infinitiv, men det finnes unntak. Lyder som i infinitiv befinner seg mellom andre og tredje stavelse, befinner seg i slutten av ordet i nektelsesform/imperativ. I nordsamisk er det begrensninger på hvilke konsonanter som kan forekomme i slutten av ord, og da kan vi få spesielle konsonantvekslinger mellom infinitiv og imperativ/nektelsesform. Konsonanter som kan forekomme i slutten av ord er t, s, š, l, r og n. Eksempler på vekslinger i ulikestavelsesverb:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">h &gt; t </em>, f.eks. veahkehit - (ii) veahket </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">d &gt; t </em>, f.eks. boradit - (ii) borat </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">z &gt; s </em>, f.eks. smirezit - (ii) smires </p>
+    </list>
+    <p>Det er heller ikke mulig å ha to konsonanter i slutten av ord. Hvis infinitivformen har to konsonanter mellom andre og tredje stavelse, så vil den første konsonanten bli bevart i nektelsesform og imperativ.</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">st &gt; s </em>, f.eks. oamastit - (ii) oamas </p>
+      <p type="listitem"><em type="italic">sk &gt; s </em>, f.eks. dájáskit - (ii) dájás </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">sm &gt; s </em>, f.eks. boarásmit - (ii) boarás </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">št &gt; š </em>, f.eks. beroštit - (ii) beroš </p>
+      <p type="listitem"><em type="italic">ld &gt; l </em>, f.eks. buđaldit - (ii) buđal </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">lg &gt; l </em>, f.eks. jámálgit - (ii) jámál </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">rd &gt; r </em>, f.eks. ipmirdit - (ii) ipmir </p>
+    </list>
+    <p type="title" xml:lang="nno">Finitt verb og kongruens</p>
+    <p>Finitt verb er et verb som er bøyd i person og tall.</p>
+    <p xml:lang="nno">Det er kongruens (samsvar i bøyning) mellom subjektet og det finitte verbet: <em type="italic">mun boađán, don boađát, mun boađán, sii boađášedje </em>. Les mer om kongruens her . </p>
+    <p type="title" xml:lang="sme">Leat-verbet</p>
+    <p><em type="italic">leat </em>er det nordsamiske verbet for <span type="quote">"å være"</span>. Det er et ulikestavelsesverb, og får samme bøyningsendelser som andre ulikestavelsesverb. <em type="italic">leat </em>-verbet kan være både hovedverb og hjelpeverb i setninger: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Hovedverb: </em>
+        <em type="italic">Mun lean Elle. Beana lea skibas. Joavnna lea dáppe. </em>
+      </p>
+      <p type="listitem">(Jeg er Elle. Hunden er syk. Joavnna er her).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Hjelpeverb: </em>
+        <em type="italic">Mun lean lohkan girjji. Soai leaba fárren. </em>
+      </p>
+      <p type="listitem">(Jeg har lest en bok. De to har flyttet.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Hoved- og hjelpeverb: </em>
+        <em type="italic">Mun lean leamaš olgoriikkas. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg har vært i utlandet).</p>
+    </list>
+    <p><em type="italic">leat </em>-verbet brukes som hjelpeverb for å danne perfektum og aktio essiv: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">perfektum: </em>
+        <em type="italic">Soai 'leaba boahtán'. Don 'leat čohkkedan' mu stullui. </em>
+      </p>
+      <p type="listitem">De to har kommet. Du har satt deg på min stol.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">aktio essiv: </em>
+        <em type="italic">Soai 'leaba boahtime'. Moai 'letne bassame' viesu. </em>
+      </p>
+      <p type="listitem">De to er på tur hit. Vi to holder på å vaske huset.)</p>
+    </list>
+    <p xml:lang="nno">Les mer om perfektum her og aktio essiv her .</p>
+    <p><em type="italic">leat </em>kan også oversettes med <span type="quote" xml:lang="nno">"å ha"</span>. Da skal det kombineres med et ledd i lokativ form: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Eatnis leat bohccot. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">Mor har rein.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Márehis lea ođđa biila. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">Marit har en ny bil.</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Munnos eai leat gintalat. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">Vi to har ikke stearinlys.</p>
+    </list>
+    <p>Les mer om 'ha'-setninger her .</p>
+    <p type="title" xml:lang="nno">Hovedverb og hjelpeverb</p>
+    <p>Hovedverb kan stå alene i en setning. Hjelpeverb må stå sammen med et hovedverb for at setningen skal være grammatisk. Samisk har tre typer hjelpeverb: <em type="italic">leat </em>-verbet, nektelsesverbet og modale hjelpeverb. Legg merke til at det er hjelpeverbet som bøyes i person og tall. Hovedverbet har en infinitt form. </p>
+    <p>Etter <em type="italic">nektelsesverbet </em>skal hovedverbet stå i nektelsesform, enten i presens eller preteritum: <em type="italic">Mun in boađe. Iŋgá ii boahtán. </em>(Jeg kommer ikke. Inga kom ikke.) </p>
+    <p>Etter <em type="italic">leat-verbet </em>kan hovedverbet enten stå i perfektum partisipp eller aktio essiv. Perfektum partisipp betegner avsluttet handling, mens aktio essiv betegner en pågående handling: <em type="italic">Mun lean oađđán. Elle lei viesu bassame, go telefuvdna čuojai. </em>(Jeg har sovet. Elle holdt på å vaske huset, da telefonen ringte.) </p>
+    <p><em type="italic">Modale hjelpeverb </em>er verb som betegner mulighet eller nødvendighet. Vanlige modale hjelpeverb er <em type="italic">galgat </em>(å skulle), <em type="italic">sáhttit </em>(å kunne, ha anledning til), <em type="italic">máhttit </em>(å kunne, ha kompetanse til), <em type="italic">fertet </em>(å måtte), <em type="italic">šaddat </em>(være nødt til) og <em type="italic">áigut </em>(å ville). Etter modale hjelpeverb skal hovedverbet stå i infinitiv: <em type="italic">Mun áiggun vuolgit. Elle máhttá sihkkelastit. Soai sáhttiba veahkehit du. Biila cuovkanii, ja mii šattaimet bussiin johtit. </em>(Jeg vil dra. Elle kan sykle. De to kan hjelpe deg. Bilen brøt sammen, og vi var nødt til å reise med buss.) </p>
+    <p>Her kan du lese mer om hjelpeverb og hovedverb .</p>
+    <p type="title" xml:lang="nno">Infinitte verb</p>
+    <p>er verb som ikke bøyes i person og tall, f.eks.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">infinitiv (grunnform): <em type="italic">Dii fertebehtet 'boahtit' áiggil. </em></p>
+      <p type="listitem" xml:lang="dan">(Dere må komme i tide).</p>
+      <p type="listitem" xml:lang="sme">perfektum partisipp: <em type="italic">Soai leaba juo 'boradan'. </em></p>
+      <p type="listitem">(De to har allerede spist).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Máret lea 'leamaš' olgoriikkas. </em>
+      </p>
+      <p type="listitem">(Máret har vært i utlandet).</p>
+      <p type="listitem" xml:lang="nno">nektingsform av verb, presens og preteritum:</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun in 'boađe' ihttin, ja lean gullan ahte earátge eai 'boađe'. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Jeg kommer ikke i morgen, og jeg har hørt at andre heller ikke kommer).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mii eat 'leat' olgoriikkas. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Vi er ikke i utlandet).</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Doai eahppi 'lean' olgoriikkas diibmá. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Dere to var ikke i utlandet i fjor).</p>
+      <p type="listitem" xml:lang="sme">aktio essiv: <em type="italic">Mun ledjen 'oađđime', go telefovdna riŋgii. </em></p>
+      <p type="listitem">(Jeg lå og sov, da telefonen ringte).</p>
+    </list>
+    <p>Disse har en og samme form uavhengig av subjektet i setningen. De brukes sammen med et hjelpeverb, som er bøyd i person og tall. Perfektum partisipp er som oftest lik preteritum av verbets nektingsform. Unntaket er <em type="italic">leat </em>-verbet, der perfektum partisipp er <em type="italic">leamaš </em>, mens preteritum av verbets nektingsform er <em type="italic">lean </em>. </p>
+    <p>Dessuten finnes det infinitte verb som ikke er en del av verbalet:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">presens partisipp: <em type="italic">Uvnna duohken 'orru' sáhpánat eai addán ráfi. </em></p>
+      <p type="listitem">(Musene bak ovnen ga oss ikke fred).</p>
+      <p type="listitem" xml:lang="sme">aktio lokativ: <em type="italic">Son gilddii mu dan 'muitaleames'. </em></p>
+      <p type="listitem">(Han nektet meg å fortelle det).</p>
+      <p type="listitem" xml:lang="sme">gerundium: <em type="italic">Ohppen ollu 'barggadettiin' áššiin. </em></p>
+      <p type="listitem">(Jeg lærte mye gjennom arbeidet med saken).</p>
+      <p type="listitem" xml:lang="sme">verbgenitiv: <em type="italic">Son bođii 'čuoigga' skuvlii. </em></p>
+      <p type="listitem" xml:lang="nno">(Han kom til skolen på ski).</p>
+      <p type="listitem" xml:lang="sme">verbabessiv: <em type="italic">Son doamai 'borakeahttá' gávpogii. </em></p>
+      <p type="listitem">(Han hastet seg til byen uten å ha spist).</p>
+      <p type="listitem" xml:lang="sme">supinum: <em type="italic">Son bođii girjjiid 'vieččažit'. Ferten gárvodit bures 'aman' galbmot jámas. </em></p>
+      <p type="listitem">(Han kom for å hente bøkene. Jeg må kle godt på meg, så jeg ikke fryser ihjel).</p>
+    </list>
+    <p type="title" xml:lang="nno">Transitivt og intransitivt verb</p>
+    <p>Transitive verb tar objekt i akkusativ: <em type="italic">Mun 'boran' láibbi. </em>( Jeg spiser brød). Intransitive verb kan ikke ta objekt i akkusativ, f.eks. <em type="italic">mannat </em>. Andre vanlige transitive verb er <em type="italic">juhkat, lohkat, oastit, vuovdit, váldit </em>. Eksempler: <em type="italic">Moai juhke gáfe. Mánát lohket girjji. Ovllá osttii viesu. Elle vuvddii biilla. Reaŋga válddii mávssu </em>. (Vi to drikker kaffe. Barna leser boken. Ovllá kjøpte hus. Elle solgte bilen. Drengen tok betaling). </p>
+    <p type="title" xml:lang="smj">Modus</p>
+    <p>Form av verbet som betegner den talendes forhold til det som sies. Vi har fire modus på samisk:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">indikativ (fortellende form): <em type="italic">Mun 'boađán' ihttin. </em></p>
+      <p type="listitem" xml:lang="dan">(Jeg kommer i morgen).</p>
+      <p type="listitem" xml:lang="ron">imperativ (bydeform): <em type="italic">'Boađe' donge! </em></p>
+      <p type="listitem" xml:lang="nno">(Kom, du også!)</p>
+      <p type="listitem" xml:lang="sme">kondisjonalis (betinget form): <em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
+      <p type="listitem" xml:lang="dan">(Det nytter ikke, selv om politiet skulle komme).</p>
+      <p type="listitem" xml:lang="sme">potensialis (mulighet): <em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
+      <p type="listitem">(Jeg vet ikke om julenissen kommer).</p>
+    </list>
+    <p type="title" xml:lang="vep">Indikativ</p>
+    <p>Indikativ er verbets fortellende form - f.eks. <em type="italic">boađát, it boahtán </em>. Her kommer indikativ presens og preteritum: </p>
+    <p type="title" xml:lang="deu">Presens</p>
+    <p>(nåtid). Indikativ (fortellende form).</p>
+    <p>Likestavelsesverb har to stavelser i siste takt, og ender på '-at', '-it' og '-ut'. De har stadieveksling, diftongforenkling og vokalveksling i andre stavelse:</p>
+    <p xml:lang="nno">
+      <em type="italic">LIKESTAVELSESVERB - presens </em>
+    </p>
+    <p>Skravert: svakt stadium</p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sma">
+      <em type="italic">viegan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarun </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="smj">
+      <em type="italic">viegat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarut </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="smj">
+      <em type="italic">viehká </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diehtá </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarru </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sma">
+      <em type="italic">vihke </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">dihte </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorro </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">viehkabeahtti </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">diehtibeahtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrubeahtti </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkaba </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">diehtiba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarruba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sma">
+      <em type="italic">viehkabehtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diehtibehtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrubehtet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">vihket </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dihtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorrot </em>
+    </p>
+    <p>Legg merke til at alle personer, bortsett fra 1. og 2. person entall, har sterk grad i presens. Diftongforenkling skjer i 1. person totall, og i 3. person flertall, f.eks <em type="italic">moai vihke, sii vihket </em>. Vokalen i andre stavelse er 'e' i -at- og -it-verb, og 'o' i -ut-verb i disse personene. Det er vokalvekslingen som fører til diftongforenkling. </p>
+    <p>Andre vokalvekslinger i presens er 'i&gt;á' i entallsformene, og 'a&gt;á' i 3.person entall. 3. person entall og 1. person totall har ingen personendelse i presens.Eksempler: <em type="italic">Mun oađán. Don boađát. Son juhká. Moai vulge </em>.(Jeg sover. Du kommer. Han drikker. Vi to drar). </p>
+    <p>Eksempler på bruk:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii boahtit ihttin. </em>(Vi kommmer i morgen.) </p>
+      <p type="listitem"><em type="italic">Diehtibeahtti go gos girku lea? </em>(Vet dere to hvor kirka er?) </p>
+    </list>
+    <p>Ulikestavelsesverb har en eller tre stavelser i siste takt. De har ikke stadieveksling eller andre vekslinger i stammen:</p>
+    <p xml:lang="nno">
+      <em type="italic">ULIKESTAVELSESVERB - presens </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lean </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">muitala </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lea </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="fin">
+      <em type="italic">muitaletne </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">letne </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leahppi </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leaba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit, muitalat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lehpet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <list>
+      <p type="listitem"><em type="italic">Mii muitalit dan ihttin. </em>(Vi forteller det i morgen.) </p>
+      <p type="listitem"><em type="italic">Leaba go girkus dál? </em>(Er de to i kirka nå? ) </p>
+    </list>
+    <p>Kontrakte verb har to stavelser, og ender på '-át', '-et' eller '-ot'. De har ikke stadieveksling, eller andre vekslinger i stammen. Legg merke til at i noen bøyninger legges konsonanten '-j-' til og da bøyes verbet som ulikestavelsesverb:</p>
+    <p xml:lang="nno">
+      <em type="italic">KONTRAKTE VERB - presens </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárren </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgon </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkká </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárre </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgo </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájetne </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">fárrejetne </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">diŋgojetne </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkábeahtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrebeahtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgobeahtti </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkába </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárreba </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgoba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkábehtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrebehtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgobehtet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgojit </em>
+    </p>
+    <p type="title">Preteritum (fortid)</p>
+    <p>Likestavelsesverb har to stavelser i siste takt, og ender på '-at', '-it' og '-ut'. De har stadieveksling, diftongforenkling og vokalveksling i andre stavelse:</p>
+    <p xml:lang="nno">
+      <em type="italic">LIKESTAVELSESVERB - preteritum </em>
+    </p>
+    <p>Skravert: svakt stadium</p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sma">
+      <em type="italic">vihken </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">dihten </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorron </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">vihket </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dihtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorrot </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">viegai </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarui </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sma">
+      <em type="italic">viegaime </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđiime </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaruime </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaruide </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegaiga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđiiga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaruiga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegaimet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđiimet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaruimet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegaidet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđiidet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaruidet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sma">
+      <em type="italic">vihke </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">dihte </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorro </em>
+    </p>
+    <p>Fortidsendelsen er -i. Denne kommer fram i alle personer, bortsett fra 1. og 2. person entall og 3. person flertall. Der får vi en vokalveksling istedetfor, i&gt;e, a&gt;e eller u&gt;o. Eksempler: <em type="italic">Mun dihten. Son manai. Mii doamaimet. Sii bohte </em>.(Jeg visste. Han dro. Vi skyndte oss. De kom). </p>
+    <p>Legg merke til at alle personer, bortsett fra 1. og 2. person entall og 3. person flertall, har svak grad i preteritum. Det vil si at de personer som har sterk grad i presens har svak grad i preteritum, og motsatt. 3.person flertall har sterk grad uansett.</p>
+    <p>Diftongforenkling skjer i 1. og 2. person entall og 3. person flertall. Dette skjer på grunn av vokalvekslingene i&gt;e, a&gt;e og u&gt;o. I -it-verb skjer det diftongforenkling i alle personer. Med fortidsendelsen -i, får vi -ii- i andre stavelse, og den kombinasjonen fører til forenkling av diftongen.Eksempler: <em type="italic">Mii diđiimet dan. Don oidnet ádjá. Sii gorro gávttiid </em>. (Vi visste det. Du så bestefar. De sydde kofter). </p>
+    <p>3. person entall har bare tidsendelse i preteritum, og ingen personendelse. 3. person flertall har ingen endelser i preteritum.</p>
+    <p>Ulikestavelsesverb har en eller tre stavelser i siste takt. De har ikke stadieveksling:</p>
+    <p xml:lang="nno">
+      <em type="italic">ULIKESTAVELSESVERB - preteritum </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalin </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">ledjen </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ledjet </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lei, leai </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="fin">
+      <em type="italic">muitaleimme </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">leimme </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleidde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leidde </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleigga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leigga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleimmet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leimmet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleiddet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leiddet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaledje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ledje </em>
+    </p>
+    <p>Fortidsendelsen er '-i'. Denne kommer fram i alle personer, bortsett fra 3. person flertall. Der får vi en 'dj' i endelsen. Det får vi også i 1. og 2. person entall i <em type="italic">leat </em>-verbet, men ikke ellers. Eksempler: <em type="italic">Mun gávppašin. Don jurddašit. Sii dárbbašedje veahki </em>.(Jeg handlet. Du tenkte. De trengte hjelp). </p>
+    <p>Kontrakte verb har to stavelser, og ender på '-át', '-et' eller '-ot'. De har ikke stadieveksling. Legg merke til at de i noen bøyninger får konsonanten '-j-' og dermed bøyes som ulikestavelsesverb.</p>
+    <p xml:lang="nno">
+      <em type="italic">KONTRAKTE VERB - preteritum </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejin </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojin </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgojit </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgui </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáime </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárriime </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋguime </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárriide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋguide </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáiga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárriiga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋguiga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáimet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárriimet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋguimet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáidet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárriidet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋguidet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájedje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejedje </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojedje </em>
+    </p>
+    <p>Fortidsendelsen er '-i'. Denne kommer fram i alle personer, bortsett fra 3. person flertall. Der får vi en 'dj' i endelsen. Eksempler: <em type="italic">Mun veallájin. Mii balláimet. Sii duddjojedje </em>.(Jeg lå. Vi ble skremt. De drev med håndarbeid). </p>
+    <p type="title" xml:lang="nno">Nekting</p>
+    <p>Nekting består av nektingsverb og hovedverb i nektingsform - <em type="italic">in boađe </em>(jeg kommer ikke) eller <em type="italic">in boahtán </em>(jeg kom ikke). Nektelsesverbet bøyes i tall og person, og hovedverbet i nektelsesform bøyes i tid. </p>
+    <p>I presens er nektingsformen av verbet lik imperativ 2. person singularis. I likestavelsesverb er nektingsformen i svak grad. I andre stavelse har vi vokalveksling i&gt;e og u&gt;o. Denne vekslingen fører ikke til diftongforenkling, f.eks. <em type="italic">oastit &gt; in oastte, oažžut &gt; in oaččo </em>. I kontrakte verb er nektingsformen lik 3. person entall presens: <em type="italic">čohkkát &gt; in čohkká, duddjot &gt; in duddjo </em>. I ulikestavelsesverb er nektingsformen forkortet til to stavelser, med konsonant på slutten: <em type="italic">gávppašit &gt; in gávppaš, boradit &gt; in borat </em>. </p>
+    <p>I preteritum er hovedverbet lik perfektum partisipp. Det betyr at endelsen i alle stammeklasser er '-n'. I likestavelsesverb er fortid av nektingsformen i sterk grad, og vi har vokalveksling i&gt;á, u&gt;o. Den siste vekslingen fører til diftongforenkling: <em type="italic">oađđit &gt; in oađđán, čierrut &gt; in čirron </em>. I kontrakte verb er formen den samme som 1. person entall, presens: <em type="italic">čohkkát &gt; in čohkkán, duddjot &gt; in duddjon </em>. Ulikestavelsesverb har endelsen -an: <em type="italic">gávppašit &gt; in gávppašan, boradit &gt; in boradan </em>. I fortid er nektingsform av 'leat'-verbet 'lean': <em type="italic">Mun in 'lean' doppe </em>. (Jeg var ikke der). </p>
+    <p xml:lang="nno">
+      <em type="italic">NEKTING presens og preteritum </em>
+    </p>
+    <p xml:lang="deu">Pers.</p>
+    <p xml:lang="smj">
+      <em type="italic">bieht.v. </em>
+    </p>
+    <p>
+      <em type="italic">presens </em>
+    </p>
+    <p xml:lang="ron">
+      <em type="italic">preteritum </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="eng">
+      <em type="italic">in </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">in boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">in muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">in boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">in muitalan </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="kal">
+      <em type="italic">it </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">it boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">it muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">it boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">it muitalan </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">ii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ii boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ii muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ii boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ii muitalan </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">ean </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ean boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ean muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ean boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ean muitalan </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">eahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eahppi boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eahppi muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eahppi boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eahppi muitalan </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">eaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eaba boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eaba muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eaba boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eaba muitalan </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">eat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eat boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eat muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eat boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eat muitalan </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">ehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ehpet boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ehpet muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ehpet boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ehpet muitalan </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">eai </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eai boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eai muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eai boahtán </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">eai muitalan </em>
+    </p>
+    <p>Eksempler på bruk:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Máret ii boađe ruoktot. </em>(Marit kommer ikke hjem.) </p>
+      <p type="listitem"><em type="italic">Mun in diehtán maidege. </em>(Jeg visste ikke noe.), <em type="italic">Sii eai ása dieppe. </em>(De bor ikke der.) </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Moai ean juhkan gáfe. </em>(Vi drakk ikke kaffe.) </p>
+    </list>
+    <p>I nektende ha-setninger, har nektingsverbet bare to mulige former. I entall brukes 'ii' og i flertall brukes 'eai'. Det er viktig å huske på at verbet ikke skal bøyes etter den som har eller ikke har noe. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Eatnis ii leat biila </em>. </p>
+      <p type="listitem" xml:lang="nno">(Mor har ikke bil).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat mánát </em>. </p>
+      <p type="listitem" xml:lang="nno">(Vi to har ikke barn).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Dus eai leat guokte vielja </em>. </p>
+      <p type="listitem">(Du har ikke to brødre).</p>
+    </list>
+    <p type="title" xml:lang="ron">Nektende imperativ</p>
+    <p>Nektingsverbet har også en imperativ form, altså en bydeform. I 2. person entall er den 'ale'. Imperativformen bøyes også etter person og tall, og etterfølges av hovedverbet i nektingsform.</p>
+    <p xml:lang="ron">
+      <em type="italic">NEKTING imperativ </em>
+    </p>
+    <p xml:lang="deu">Pers.</p>
+    <p xml:lang="nno">
+      <em type="italic">nekt.v. </em>
+    </p>
+    <p xml:lang="nno"/>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="fin">
+      <em type="italic">allon </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allon boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allon muital </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="ron">
+      <em type="italic">ale </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ale boađe </em>
+    </p>
+    <p xml:lang="ron">
+      <em type="italic">ale muital </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="fin">
+      <em type="italic">allos </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allos boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allos muital </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="kal">
+      <em type="italic">allu </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allu boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allu muital </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="fin">
+      <em type="italic">alli </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alli boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alli muital </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="fin">
+      <em type="italic">alloska </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alloska boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alloska muital </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="krl">
+      <em type="italic">allot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allot boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allot muital </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="fin">
+      <em type="italic">allet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allet boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">allet muital </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="fin">
+      <em type="italic">alloset </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alloset boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">alloset muital </em>
+    </p>
+    <p>Eksempler på bruk:</p>
+    <list>
+      <p type="listitem"><em type="italic">Allu šat riidal! </em>(La oss to ikke krangle mer!) </p>
+      <p type="listitem"><em type="italic">Allet dájo! </em>(Ikke tull!), <em type="italic">Ale mana vuos! </em>(Ikke dra ennå!) </p>
+      <p type="listitem"><em type="italic">Alloset boađe mus bearrat dan vealggi! </em>(De skal ikke komme og kreve gjelda betalt av meg!) </p>
+    </list>
+    <p type="title" xml:lang="isl">Perfektum</p>
+    <p>Perfektum består av hjelpeverbet <em type="italic">leat </em>i presens og hovedverb i perfektum partisipp - <em type="italic">lean boahtán </em>(jeg har kommet), <em type="italic">leahppi boradan </em>(dere to har spist), <em type="italic">letne čorgen </em>(vi to har ryddet). </p>
+    <p>Med perfektum uttrykker man at handlingen er avsluttet. Det er hjelpeverbet som bøyes i tall og person. Hovedverbet endrer seg ikke.</p>
+    <p>Perfektum partisipp av likestavelsesverb har sterk grad og endelse '-n'. I it-verb og ut-verb får vi vokalveksling i&gt;á og u&gt;o i andre stavelse. Vekslingen u&gt;o fører til diftongforenkling i stammen. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'gorron' gávtti </em>. </p>
+      <p type="listitem" xml:lang="nno">(Iŋgá har sydd kofte).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne juo 'boahtán </em>. </p>
+      <p type="listitem" xml:lang="dan">(Vi to har allerede kommet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'dadjan' dan maid áiggun </em>. </p>
+      <p type="listitem" xml:lang="nno">(Jeg har sagt det jeg vil si).</p>
+    </list>
+    <p>Perfektum partisipp av ulikestavelsesverb har endelse '-n'. Vokalen i tredje stavelse er '-a'. Perfektum partisipp av <em type="italic">leat </em>er <em type="italic">leamaš </em>. Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkehan' ránnjáid </em>. </p>
+      <p type="listitem" xml:lang="dan">(Vi har hjulpet naboene).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'náitalan </em>. </p>
+      <p type="listitem">(Ánte og Sárá har giftet seg).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'leamaš' Suomas </em>. </p>
+      <p type="listitem" xml:lang="nno">(Vi to har vært i Finland).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Lehpet go 'boradan </em>? </p>
+      <p type="listitem">(Har dere spist)?</p>
+    </list>
+    <p>Perfektum partisipp av kontrakte verb har endelse '-n'. Ellers er det ingen endringer i stammen. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'čorgen' lanja </em>. </p>
+      <p type="listitem">(Dere to har ryddet rommet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjon' gievkkanis </em>. </p>
+      <p type="listitem">(Vi har drevet med håndarbeid på kjøkkenet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea 'ollen' ruoktot </em>. </p>
+      <p type="listitem">(Ásllat har nådd hjem).</p>
+    </list>
+    <p>Nektende perfektum består av tre verb: nektelsesverbet, nektelsesform av <em type="italic">leat </em>-verbet og perfektum partisipp av hovedverbet. Nektelsesform av leat-verbet er <em type="italic">leat </em>. I nektende perfektum er det bare nektelsesverbet som er bøyd i person og tall. Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Doai eahppi leat 'gávdnan' buot </em>. </p>
+      <p type="listitem">(Dere to har ikke funnet alt).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii eat leat 'boradan' gievkkanis </em>. </p>
+      <p type="listitem">(Vi har ikke spist på kjøkkenet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Issát ii leat 'leamaš' Romssas </em>. </p>
+      <p type="listitem">(Issát har ikke vært i Tromsø).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Don it leat 'njuiken' guhkás </em>. </p>
+      <p type="listitem">(Du har ikke hoppet langt).</p>
+    </list>
+    <p>Perfektum partisipp i ha-setninger består av to verb, <em type="italic">leat </em>-verbet bøyd i presens etterfulgt av partisippformen <em type="italic">leamaš </em>. Husk at den som har noe, skal stå i lokativ kasus, og det man har, skal stå i nominativ. I nektende setninger er det nektelsesverbet som blir bøyd. Eksempler: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mus lea 'leamaš' nuorvu golbma beaivvi </em>. </p>
+      <p type="listitem">(Jeg har hatt forkjølelse i tre dager).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Sudnos lea 'leamaš' lihkku </em>. </p>
+      <p type="listitem" xml:lang="nno">(De to har hatt flaks).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mis ii leat 'leamaš' veahkki </em>. </p>
+      <p type="listitem" xml:lang="nno">(Vi har ikke hatt hjelp).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Čeazis ii leat 'leamaš' bargu dán jagi </em>. </p>
+      <p type="listitem" xml:lang="nno">(Onkel har ikke hatt jobb i år).</p>
+    </list>
+    <p type="title" xml:lang="eng">Aktio essiv</p>
+    <p>Aktio essiv består av hjelpeverbet 'leat' og hovedverb i aktio essiv form - <em type="italic">lean boahtime </em>(jeg er på tur), <em type="italic">leahppi boradeame </em>(dere to holder på å spise), <em type="italic">letne čorgeme </em>(vi to holder på å rydde). </p>
+    <p>Med aktio essiv uttrykker man at handlingen ikke er avsluttet. Det er hjelpeverbet som bøyes i tall og person. Hovedverbet endrer seg ikke.</p>
+    <p>Aktio essiv av likestavelsesverb har sterk grad og endelse '-me' eller '-min'. Det er ingen vokalveksling i stammen. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'goarrume' gávtti </em>. </p>
+      <p type="listitem">(Iŋgá holder på å sy kofte).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'čállime' reivve </em>. </p>
+      <p type="listitem">(Vi to holder på å skrive brev).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'bassame' biktasiid </em>. </p>
+      <p type="listitem">(De to holder på å vaske klær).</p>
+    </list>
+    <p>Aktio essiv av ulikestavelsesverb har endelse '-me' eller '-men'. Vokalen i tredje stavelse er '-ea-'. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkeheame' ránnjáid </em>. </p>
+      <p type="listitem">(Vi holder på å hjelpe naboene).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'boradeame </em>. </p>
+      <p type="listitem">(Ánte og Sárá holder på å spise).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Lehpet go dii 'ráhkadeame' hilduid </em>? </p>
+      <p type="listitem">(Holder dere på å lage hyller)?</p>
+    </list>
+    <p>Aktio essiv av kontrakte verb har endelse '-me' eller '-min'. Ellers er det ingen endringer i stammen. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'ivdneme' gova </em>. </p>
+      <p type="listitem">(Dere to holder på å fargelegge bildet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjome' gievkkanis </em>. </p>
+      <p type="listitem">(Vi holder på med håndarbeid på kjøkkenet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea ain 'gaifáme' dan niidii </em>. </p>
+      <p type="listitem" xml:lang="nno">(Ásllat glaner fortsatt på den jenta).</p>
+    </list>
+    <p>Aktio essiv av leat-verbet er <em type="italic">leame </em>eller <em type="italic">leamen </em>. Denne formen brukes helst etter verbene <em type="italic">orrut, fertet </em>. Andre verb kan også forekomme i aktio essiv i kombinasjon med <em type="italic">orrut </em>. </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Máret orui 'leame' suhtus </em>. </p>
+      <p type="listitem">(Det virket som om Máret var sur).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Don orut 'diehtime' juoidá </em>. </p>
+      <p type="listitem">(Det virker som om du vet noe).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Son ferte 'leame' gárremin, go nie hoavrrista </em>. </p>
+      <p type="listitem">(Han må være full, når han vrøvler slik).</p>
+    </list>
+    <p>Aktio essiv kan også brukes etter bevegelsesverb, f.eks etter 'mannat' og 'viehkat'. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun manan 'jearrame' sus </em>. </p>
+      <p type="listitem" xml:lang="nno">(Jeg går og spør henne).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Moai vihke 'geahččame' mii dat boŋká </em>. </p>
+      <p type="listitem">(Vi to springer og ser etter hva det er som smeller).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Issat finai ruovttus 'viežžame' ruđa </em>. </p>
+      <p type="listitem">(Issat var hjemme og hentet penger).</p>
+    </list>
+    <p type="title" xml:lang="est">Kondisjonalis</p>
+    <p>Verbets form som uttrykker betingelse for handlingen/hendelsen eller hypotetiske utsagn. Kondisjonalis brukes også for å uttrykke beskjedne ønsker eller for å være høflig.</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Det nytter ikke selv om politiet skulle komme.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mávssášin', jus 'gáibidivččet'. </em>
+      </p>
+      <p type="listitem">(Jeg ville betale hvis du krevde det.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Livččen' ovdal boahtán, muhto ii lean dilli. </em>
+      </p>
+      <p type="listitem" xml:lang="dan">(Jeg ville ha kommet tidligere, men jeg hadde ikke tid.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun 'háliidivččen' hupmat duinna. </em>
+      </p>
+      <p type="listitem">(Jeg skulle gjerne ha snakket med deg.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dajašin' ahte don diekko dahket boastut. </em>
+      </p>
+      <p type="listitem" xml:lang="nno">(Jeg ville si at der gjorde du en feil.)</p>
+    </list>
+    <p xml:lang="nno">Likestavelsesverb får konsonanten '-š-' og så bøyes de som ulikestavelsesverb i preteritum. Legg merke til at stammen har svakt stadium i kondisjonalis:</p>
+    <p xml:lang="est">
+      <em type="italic">LIKESTAVELSESVERB - kondisjonalis </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošin </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošit </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošii </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sma">
+      <em type="italic">viegašeimme </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">dieđášeimme </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">gorošeimme </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašeidde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášeidde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošeidde </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašeigga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášeigga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošeigga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašeimmet </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">dieđášeimmet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošeimmet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašeiddet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášeiddet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošeiddet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegašedje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">dieđášedje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorošedje </em>
+    </p>
+    <p>Ulikestavelsesverb får '-ivčč-' og bøyes som likestavelsesverb i preteritum:</p>
+    <p xml:lang="est">
+      <em type="italic">ULIKESTAVELSESVERB - kondisjonalis </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="fin">
+      <em type="italic">muitalivččen </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">livččen </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="smn">
+      <em type="italic">muitalivččet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livččet </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="smn">
+      <em type="italic">muitalivččii </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">livččii </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="smn">
+      <em type="italic">muitalivččiime </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">livččiime </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalivččiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livččiide </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalivččiiga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livččiiga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="smn">
+      <em type="italic">muitalivččiimet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livččiimet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalivččiidet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livččiidet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="smn">
+      <em type="italic">muitalivčče </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">livčče </em>
+    </p>
+    <p xml:lang="nno">Kontrakte verb får konsonanten '-š-' og så bøyes de som ulikestavelsesverb i preteritum:</p>
+    <p xml:lang="est">
+      <em type="italic">KONTRAKTE VERB - kondisjonalis </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošin </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošit </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošii </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášeimme </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešeimme </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">diŋgošeimme </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášeidde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešeidde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošeidde </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášeigga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešeigga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošeigga </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášeimmet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešeimmet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošeimmet </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášeiddet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešeiddet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošeiddet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkášedje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrešedje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgošedje </em>
+    </p>
+    <p>Nektende kondisjonalis består av to verb: nektelsesverbet og nektelsesform av hovedverbet. Nektelsesform av kontrakte og likestavelsesverb har endelsen '-še', mens nektelsesform av ulikestavelsesverb har endelsen '-ivčče'. I nektende kondisjonalis er det bare nektelsesverbet som er bøyd i person og tall. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Doai 'eahppi dieđáše' maidege, jus 'ii livčče' Facebook </em>. </p>
+      <p type="listitem" xml:lang="nno">(Dere to hadde ikke visst noen ting, hadde det ikke vært for Facebook).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mii eat 'boradivčče' stobus, jus gievkkanis livččii sadji </em>. </p>
+      <p type="listitem">(Vi hadde ikke spist i stua, hvis det hadde vært plass på kjøkkenet).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">In moddjáše politihkkáriidda bálkká ovddas ge </em>. </p>
+      <p type="listitem">Jeg hadde ikke smilt til politikerne om jeg så fikk lønn for det.</p>
+    </list>
+    <p type="title" xml:lang="est">Potensialis</p>
+    <p>Verbets form som uttrykker mulighet, gjerne når vi ikke er sikre:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Boražit' go mánát guoli? </em>
+      </p>
+      <p type="listitem">(Spiser så ungene fisk?)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In dieđe 'bođeža' go juovlastállu. </em>
+      </p>
+      <p type="listitem">(Jeg vet ikke om julenissen kommer.)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Bođeš' go oahpaheaddji odne? </em>
+      </p>
+      <p type="listitem" xml:lang="swe">(Kommer så læreren i dag?)</p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Don oaččut dan čuohte ruvdnui, go juo 'válddežat'. </em>
+      </p>
+      <p type="listitem">(Du får den til 100 kroner, hvis du skal ta den.)</p>
+    </list>
+    <p xml:lang="nno">Likestavelsesverb får '-ž-' og så bøyes de som ulikestavelsesverb i presens. Legg merke til at stammen har svakt stadium i potensialis:</p>
+    <p xml:lang="est">
+      <em type="italic">LIKESTAVELSESVERB - potensialis </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sma">
+      <em type="italic">viegažan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožan </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">viegažat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožat </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">viegaža, viegaš </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđeža, diđeš </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goroža, goroš </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sma">
+      <em type="italic">viegažetne </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">diđežetne </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">gorožetne </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegažeahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežeahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožeahppi </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">viegažeaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežeaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožeaba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegažit, viegažat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežit, diđežat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožit, gorožat </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="smj">
+      <em type="italic">viegažehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožehpet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">viegažit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diđežit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorožit </em>
+    </p>
+    <p>Ulikestavelsesverb får '-eažž-' og bøyes som likestavelsesverb i presens:</p>
+    <p xml:lang="est">
+      <em type="italic">ULIKESTAVELSESVERB - potensialis </em>
+    </p>
+    <p xml:lang="nno">Skravert: ending i svakt stadium</p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleaččan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leaččan </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleaččat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leaččat </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleažžá, muitaleaš, muitaleš </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leažžá, leaš, leš </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaležže </em>
+    </p>
+    <p xml:lang="sms">
+      <em type="italic">ležže </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleažžabeahtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leažžabeahtti </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleažžaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leažžaba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleažžat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leažžat </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleažžabehtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leažžabehtet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaležžet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ležžet </em>
+    </p>
+    <p xml:lang="nno">Kontrakte verb får konsonanten '-ž-' og så bøyes de som ulikestavelsesverb i presens:</p>
+    <p xml:lang="est">
+      <em type="italic">KONTRAKTE VERB - potensialis </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožan </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožat </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkáža, čohkkáš </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárreža, fárreš </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgoža, diŋgoš </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážetne </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežetne </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">diŋgožetne </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážeahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežeahppi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožeahppi </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážeaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežeaba </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožeaba </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážit, čohkkážat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežit, fárrežat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožit, diŋgožat </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežehpet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožehpet </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkážit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrežit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgožit </em>
+    </p>
+    <p>Nektende potensialis består av to verb: nektelsesverbet og nektelsesform av hovedverbet. Nektelsesform av kontrakte og likestavelsesverb har endelsen '-š', mens ulikestavelsesverb har endelsen '-eačča' eller '-eš'. I nektende potensialis er det bare nektelsesverbet som er bøyd i person og tall. Eksempler:</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ean leačča' Romssas leamaš guhkes áigái </em>. </p>
+      <p type="listitem" xml:lang="nno">(Vi to har vel ikke vært i Tromsø på lenge).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ii bođeš' Máhtte jur ovddemus veahkkin </em>. </p>
+      <p type="listitem" xml:lang="nno">(Máhtte er vel ikke den første som hjelper til).</p>
+    </list>
+    <p type="title" xml:lang="eng">Imperativ</p>
+    <p xml:lang="dan">Verbets bydeform, f.eks. <em type="italic">'Boađe' donge! </em></p>
+    <p>Imperativ kan ha forskjellig innhold:</p>
+    <list>
+      <p type="listitem">i 1. person brukes ved oppfordring eller forslag: <em type="italic">De vuolgut dál! </em>(La oss dra nå!). </p>
+      <p type="listitem">i 2. person brukes ved oppfordring, befaling, forbud: <em type="italic">Boađe donge! </em>(Kom du også!). </p>
+      <p type="listitem">i 3. person brukes ved oppfordring, ønske, innrømmelse: <em type="italic">Bohtoset vaikko odne! </em>(La dem komme om så idag!). </p>
+    </list>
+    <p xml:lang="ron">
+      <em type="italic">LIKESTAVELSESVERB - imperativ </em>
+    </p>
+    <p>- Skravert: svakt stadium</p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkat </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="italic">diehtit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarrut </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="fin">
+      <em type="italic">vihkon </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohton </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorron </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="smj">
+      <em type="italic">viega </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">boađe </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goaro </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sma">
+      <em type="italic">vihkos </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohtos </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorros </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="smj">
+      <em type="italic">viehkku </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">boahttu </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarru </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sma">
+      <em type="italic">viehkki </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">boahtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">goarru </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="swe">
+      <em type="italic">vihkoska </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohtoska </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorroska </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="krl">
+      <em type="italic">vihkot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohtot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorrot </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">vihket </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohtet </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorrot </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="krl">
+      <em type="italic">vihkoset </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">bohtoset </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gorroset </em>
+    </p>
+    <p>Legg merke til at det er ekstra sterkt stadium i 1. og 2. person totall. Det betyr at verbet veksler mellom tre lengder: enkeltkonsonant i svakt stadium, dobbeltkonsonant eller konsonantforbindelse i sterkt stadium og lang dobbeltkonsonant eller konsonantforbindelse i ekstra sterkt stadium. Dette kan best illustreres med h-forbindelser: <em type="italic">Viega ruoktot! Vihket ruoktot. Viehkku ruoktot </em>. </p>
+    <p>Det skjer diftongforenkling i 1. og 3. person entall, i 3. person totall, og i alle personer i flertall. Eksempler: <em type="italic">Vihkos ruoktot! Vihket ruoktot. Vihkot ruoktot </em>. </p>
+    <p xml:lang="ron">
+      <em type="italic">ULIKESTAVELSESVERB - imperativ </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leat </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="fin">
+      <em type="italic">muitalehkon </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lehkon </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">muital </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leage </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalehkos </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lehkos </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleadnu </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leadnu, leahkku </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">muitaleahkki </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">leahkki </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="fin">
+      <em type="italic">muitalehkoska </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">lehkoska </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalehkot, muitaleatnot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lehkot, leatnot </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">muitalehket </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">lehket </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="fin">
+      <em type="italic">muitalehkoset </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lehkoset </em>
+    </p>
+    <p xml:lang="ron">
+      <em type="italic">KONTRAKTE VERB - imperativ </em>
+    </p>
+    <p xml:lang="deu">Person</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárret </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgot </em>
+    </p>
+    <p xml:lang="smn">mun</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájehkon </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejehkon </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojehkon </em>
+    </p>
+    <p xml:lang="sme">don</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkká </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárre </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgo </em>
+    </p>
+    <p xml:lang="nno">son</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájehkos </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">fárrejehkos </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojehkos </em>
+    </p>
+    <p xml:lang="sme">moai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájeadnu, čohkkájeahkku </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejeadnu, fárrejeahkku </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgojeadnu, diŋgojeahkku </em>
+    </p>
+    <p xml:lang="sme">doai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájeahkki </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejeahkki </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgojeahkki </em>
+    </p>
+    <p xml:lang="sme">soai</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájehkoska </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejehkoska </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojehkoska </em>
+    </p>
+    <p xml:lang="sme">mii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájednot, čohkkájehkot, čohkkájeahkkot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejednot, fárrejehkot, fárrejeahkkot </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">diŋgojednot, diŋgojehkot, diŋgojeahkkot </em>
+    </p>
+    <p xml:lang="sme">dii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájehket </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejehket </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojehket </em>
+    </p>
+    <p xml:lang="smn">sii</p>
+    <p xml:lang="sme">
+      <em type="italic">čohkkájehkoset </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">fárrejehkoset </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">diŋgojehkoset </em>
+    </p>
+  </body>
+</document>

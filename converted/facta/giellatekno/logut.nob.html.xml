@@ -1,0 +1,1314 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>Tallord</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>2836</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/logut.nob.html</origFileName>
+    <parallel_text xml:lang="eng" location="logut.eng.html"/>
+    <parallel_text xml:lang="sme" location="logut.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="est">Tallord</p>
+    <list>
+      <p type="listitem">Ulike stammer</p>
+      <p type="listitem" xml:lang="est">Stadieveksling</p>
+      <p type="listitem" xml:lang="est">Kasus</p>
+      <p type="listitem" xml:lang="swe">Enkle grunntall</p>
+      <p type="listitem">Sammensatte grunntall</p>
+      <p type="listitem" xml:lang="nno">Ordenstall er adjektiver</p>
+      <p type="listitem" xml:lang="nno">Samlingstall er substantiver</p>
+      <p type="listitem">Vanlige avledninger med tallord</p>
+      <p type="listitem" xml:lang="nno">Enkle tallord sammen med substantiv</p>
+      <p type="listitem" xml:lang="nno">Sammensatte tallord sammen med substantiv</p>
+    </list>
+    <p>Tilbake til grammatikk hovedside .</p>
+    <p>Tallord er ord som forteller hvor mange ting uttrykk refererer til. De deles inn i grunntall, ordenstall og samlingstall. Bare grunntall hører til ordklassen tallord. Det er ord som <em type="italic">okta, guokte, golbma </em>(en, to, tre). <em type="italic">Ordenstall er adjektiv </em>: <em type="italic">vuosttaš, nubbi, goalmmát </em>(første, andre, tredje). <em type="italic">Samlingstall er substantiv </em>: <em type="italic">guovttis, golmmas, njealjis </em>(to personer, tre personer, fire personer). </p>
+    <p>Tallord kan brukes alene som setningsledd i setningen, her f.eks. som predikativ og objekt:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun bohten 'goalmmádin'. </em>(Jeg kom på tredje plass). </p>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmáda'. </em>(Jeg tar den tredje). </p>
+    </list>
+    <p>Når de står alene, bøyes tallord i alle kasus.</p>
+    <p>Grunntall og ordenstall kan også stå sammen med et substantiv. Ordenstall bøyes ikke foran et substantiv, mens grunntall følger bestemte regler for samsvarsbøyning:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmát' vuoru. </em>(Jeg tar den tredje vakten). </p>
+      <p type="listitem" xml:lang="dan"><em type="italic">Mun vuorddán 'goalmmát' beaivái. </em>(Jeg venter til den tredje dagen). </p>
+      <p type="listitem" xml:lang="nno"><em type="italic">Mun válddán 'golbma' vuoru. </em>(Jeg tar tre vakter). </p>
+      <p type="listitem"><em type="italic">Mun attán liđiid 'golmma' olbmui. </em>(Jeg gir blomster til tre personer). </p>
+    </list>
+    <p type="title">Ulike stammer</p>
+    <p><em type="italic">Takt </em>er en gruppe av stavelser der den første stavelsen har trykk: <em type="italic">mil-jovnna </em>og <em type="italic">guoktása </em>har begge tre stavelser. Det første ordet har to takter, mens det andre bare har en takt. <em type="italic">guokte-logi </em>har to takter. </p>
+    <p><em type="italic">Likestavelsestallord </em>har to stavelser i siste takt i flertall. Disse tallordene har sterkt stadium i nominativ entall, og svakt stadium i flertall, f.eks. <em type="italic">nubbi - nuppit </em>. De fleste grunntall har likestavelsesstamme. Unntaket er 'duhát', som har ulikestavelsesstamme. 'guovttos' kan også bøyes som kontrakt tallord. Tallordene 'galle', 'máŋga' og 'moadde' har også likestavelsesstamme. </p>
+    <p><em type="italic">Ulikestavelsestallord </em>har tre stavelser i siste takt i akkusativ/genitiv entall, f.eks. <em type="italic">vuosttaš - vuosttaža, </em><em type="italic">golmmas - golbmasa </em>. Nominativ entall har svakt stadium, de fleste andre formene har sterkt stadium, men ikke alle ulikestavelsestallord har stadieveksling. </p>
+    <p>De fleste ordenstall har ulikestavelsesstamme, og de har ikke stadieveksling. Unntaket er 'nubbi', som har likestavelsesstamme, og stadieveksling. De fleste samlingstall har ulikestavelsesstamme og stadieveksling. Unntaket er 'guovttis' som også kan bøyes som kontrakt tallord.</p>
+    <p xml:lang="nno"><em type="italic">Kontrakte tallord </em>har to stavelser i siste takt i både nominativ og akkusativ/genitiv entall. Tallordet har svakt stadium i nominativ entall og sterkt stadium i andre kasus, f.eks. <em type="italic">guovttis - guoktá </em>, <em type="italic">guovttos - gukto </em>. Legg merke til at 'guovttis' også kan bøyes som ulikestavelsestallord: <em type="italic">guovttis - guoktása </em>. 'guovttos' kan også bøyes som likestavelsestallord, og har da ikke stadieveksling: <em type="italic">guovttos - guovtto </em>. </p>
+    <p type="title" xml:lang="est">Stadieveksling</p>
+    <p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i ei takt, f.eks. <em type="italic">nubbi - nuppit </em>. Det er <em type="italic">sterkt stadium </em>f.eks. i nominativ entall i likestavelsestallord, og i nominativ flertall i ulikestavelsestallord. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nominativ flertall i likestavelsestallord, eller i nominativ ental i ulikestavelsestallord. </p>
+    <p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre:</p>
+    <list>
+      <p type="listitem" xml:lang="kal">nu <em type="italic">bb </em>i - nu <em type="italic">pp </em>it </p>
+      <p type="listitem" xml:lang="dan">vi <em type="italic">htt </em>a - vi <em type="italic">đ </em>at </p>
+      <p type="listitem" xml:lang="sme">go <em type="italic">lbm </em>asa - go <em type="italic">lmm </em>as </p>
+      <p type="listitem" xml:lang="nno">o <em type="italic">kt </em>a - o <em type="italic">vtt </em>at </p>
+      <p type="listitem" xml:lang="smj">guo <em type="italic">kt </em>e - guo <em type="italic">vtt </em>i </p>
+      <p type="listitem" xml:lang="sme">guo <em type="italic">kt </em>á - guo <em type="italic">vtt </em>is </p>
+    </list>
+    <p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
+    <p type="title" xml:lang="est">Kasus</p>
+    <p>er bøyningsformer som markerer hvilken funksjon substantiv, adjektiv, tallord og pronomen har i setninga (disse 4 ordklassene kalles med et samlebegrep for <em type="italic">nomen </em>). I nordsamisk er det sju kasus. Grunntall følger vanlig kasusbøyning for substantiv, men grunntall skiller seg fra andre nomen ved at objektsforma i entall (akkusativ) er identisk med nominativ, mens den for andre nomen er lik genitiv. I flertall er objektsforma identisk med genitiv, som i vanlig nomenbøyning. </p>
+    <p type="title" xml:lang="swe">Enkle grunntall</p>
+    <p><em type="italic">Nominativ </em>er grunnformen av tallordet. <em type="italic">'Golbma' bohte ruoktot. 'Čieža' lea stuorát go 'guhtta' </em>. Likestavelsestallord har sterkt stadium i nominativ entall, og svakt stadium i nominativ flertall. Tallordene 'čuođi', 'logi', 'čieža', 'gávcci' og 'ovcci' har svakt stadium i nominativ entall, selv om de ellers følger bøyningsmønsteret til likestavelsestallord. Tallordene 'vihtta' og 'guhtta' har veksling mellom 'htt' i sterkt stadium og 'đ' i svakt stadium. Grunntallet 'duhát' har ulikestavelsesstamme, og har ikke stadieveksling. </p>
+    <p><em type="italic">Akkusativ </em>er kasus som brukes for objekt, f.eks. <em type="italic">Mun oainnán 'golbma'. Soai váldiba 'vihtta'. Mun válddán 'ovtta' </em>. Formen er lik nominativ, bortsett fra i tallordene 'okta', 'nolla' og 'miljon', som har svakt stadium i akkusativ singular. Legg merke til at 'nolla' har stadieveksling i uttalen, selv om denne vekslingen er usynlig i skrivemåten. Akkusativ flertall er likt genitiv flertall for alle grunntall. </p>
+    <p><em type="italic">Genitiv </em>er kasus som angir eieform f.eks. <em type="italic">Die lea 'golmma' sadji </em>. Genitiv brukes også i pre- og postposisjonsuttrykk, f.eks. <em type="italic">Boađán maŋŋil 'guovtti'. Fertet vuolgit ovdal 'golmma'. Olbmot ledje boahtán 'čuđiid' mielde </em>. Både entall og flertall har svakt stadium i likestavelsestallord. Dette gjelder også 'galle' og 'nolla', selv om vekslingen ikke vises i skrivemåten. </p>
+    <p>Genitiv entall er ikke likt akkusativ entall, bortsett fra tallordene 'okta', 'nolla' og 'miljon'. Genitiv flertall er lik akkusativ flertall i alle grunntall. Grunntallene 'čuođi', 'logi', 'čieža', 'gávcci' og 'ovcci' har samme form i nominativ, akkusativ og genitiv entall. Legg merke til at tall som ender på '-e', har '-i'-endelse i svakt stadium.</p>
+    <p><em type="italic">Illativ </em>er kasus som betegner bevegelse til eller inn i noe. Illativ entall har sterkt stadium, mens flertall har svakt stadium. 'duhát' har ikke stadieveksling. <em type="italic">Go joavddán 'čuohtái', de heaittán lohkamis </em>. Tallet 'čieža' har flere mulige former, en uten stadieveksling, en med vanlig sterkt stadium og en med ekstra sterkt stadium. </p>
+    <p><em type="italic">Lokativ </em>er kasus som betegner på/i/hos eller fra. Man uttrykker omtrentlig tidspunkt med tallord i lokativ entall. Lokativ har svakt stadium i både entall og flertall. <em type="italic">Mun jávkkan 'guovttis' guđa rádjái. Elle dajai ahte boahtá 'viđas' </em>. </p>
+    <p><em type="italic">Komitativ </em>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>. Flertall har endelsen '-guin', mens entall har endelsen '-in'. Komitativ har svakt stadium både i entall og flertall. <em type="italic">Ii 'miljovnnain' oastte viesu dán áigge. 'Miljovnnaiguin' gal baicca boađášii viessu </em>. </p>
+    <p><em type="italic">Essiv </em>er tilstandskasus som ofte gir betydningen <span type="quote" xml:lang="swe">"som"</span>. Essiv har sterkt stadium, og endelsen er '-n': <em type="italic">Mun gádden supmi 'miljovdnan', muhto ii leange eambbo go moadde duhát </em>. Essiv er likt i entall og flertall. </p>
+    <p xml:lang="swe">
+      <em type="italic">Entall </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Nom. </em>
+    </p>
+    <p xml:lang="kal">
+      <em type="italic">Akk. </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">Gen. </em>
+    </p>
+    <p xml:lang="eng">
+      <em type="italic">Ill. </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Lok. </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Kom. </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Essiv </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">okta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">oktii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">oktan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovtti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golbma </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golbma </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmma </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golbmii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golbman </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeallje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeallje </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njealji </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njealljái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njealjis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeljiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njealljin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">vihtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">vihtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđa </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">vihttii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">vihttan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guhtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guhtta </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđa </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guhttii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guhttan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čieža </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čieža </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čieža </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">čižii, čihčii, čihččii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiehčan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gákcái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávccis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcciin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gákcin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcci </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">okcái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovccis </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="italic">ovcciin </em>
+    </p>
+    <p xml:lang="eng">
+      <em type="italic">okcin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">lohkái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logiin </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="italic">lohkin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuođi, (čuohti) </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuođi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuođi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuohtái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuođis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuđiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuohtin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duhát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duhát </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháha </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhin </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nolla, nulla </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nolla, nulla </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nolla, nulla </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">nollii, nullii </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="italic">nollas, nullas </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nollain, nullain </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nollan, nullan </em>
+    </p>
+    <p xml:lang="est">
+      <em type="italic">miljon </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnna </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnna </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovdnii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovdnan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋgga </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋgii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggain </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">máŋgan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moadde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moadde </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moatti </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moaddái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moattis </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="italic">mottiin </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">moadden </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">galle </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">galle </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">galli </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gallái </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">gállis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gálliin </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">gallen </em>
+    </p>
+    <p>
+      <em type="italic">Flertall </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Nom. </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">Akk/Gen. </em>
+    </p>
+    <p xml:lang="eng">
+      <em type="italic">Ill. </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Lok. </em>
+    </p>
+    <p xml:lang="vep">
+      <em type="italic">Kom. </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovttaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">golmmaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njealjit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeljiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeljiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeljiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">njeljiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">viđaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guđaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čiežaiguin </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">gávccit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcciid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcciide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcciin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gávcciiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovccit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcciid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcciide </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="italic">ovcciin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">ovcciiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">logiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuođit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuđiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuđiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuđiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">čuđiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhiidda </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">duháhiiguin </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nollat, nullat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">nollaid, nullaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">nollaide, nullaide </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nollain, nullain </em>
+    </p>
+    <p xml:lang="fin">
+      <em type="italic">nollaiguin, nullaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">miljovnnaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">máŋggaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">moattit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">mottiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">mottiide </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="italic">mottiin </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="italic">mottiiguin </em>
+    </p>
+    <p xml:lang="smj">
+      <em type="italic">gallit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">galliid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">galliide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gálliin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">gálliiguin </em>
+    </p>
+    <p type="title">Sammensatte grunntall</p>
+    <p>Samisk har mange sammensatte tallord. Hele tiere, hundreder og tusener har to ledd, f.eks <em type="italic">guokte/logi, vihtta/čuođi, gávcci/duhát </em>. Tallene 11-19 har tre ledd, f.eks. <em type="italic">guokte/nuppe/lohkái, čieža/nuppe/lohkái </em>. Dette mønsteret kan også brukes for tall fra 21 og oppover, f.eks. <em type="italic">čieža/goalmmát/lohkái </em>(27). Dette er den gamle tellemåten. Det vanligste mønsteret for disse tallene er likevel at tiere benevnes først, og deretter enere: <em type="italic">guokte/logi/čieža </em>(27). Sammensatte grunntall skiller seg også fra andre nomen ved at objektsformen i entall er lik nominativformen. </p>
+    <p>I sammensatte tallord bøyes det siste leddet i kasus, feks. <em type="italic">Mun válddán 'čiežalogiguhtta'. 'Gávccilogiguđas' ledjen mun ain vuođđoskuvllas </em>. Når det sammensatte tallordet består av to eller tre ledd, bøyes første og andre ledd også, etter bestemte regler. I hele tiere, hundreder og tusener bøyes det første leddet i samme kasus som det andre, bortsett fra i lokativ og illativ entall, der det første leddet står i genitiv entall. I illativ og komitativ flertall, kan det første leddet også stå i genitiv flertall. </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Lohkagoađán jitnosit 'golmma/logi' rájes. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In ollen guhkkelii go 'golmma/lohkái'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun álggán 'viđain/logiin'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Rehkenasttán 'guvttiid/logiiguin'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Rehkenasttán 'guvttiiguin/logiiguin' </em>. </p>
+    </list>
+    <p>I sammensatte tallord fra 11-19, og tallord etter den gamle tellemåten, bøyes endelsen '-lohkái' som 'logi' i de fleste kasus. I nominativ og akkusativ entall brukes endelsen '-lohkái'. Det andre leddet bøyes ikke. Det første leddet står vanligvis i nominativ entall. I illativ og lokativ entall står første leddet derimot i genitiv entall. Når det siste leddet står i komitativ entall eller lokativ flertall, bøyes første ledd i samme kasus, f.eks</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Logan 'viđa/nuppe/logi' rádjái. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In ollen guhkkelii go 'viđa/nuppe/lohkái'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Gal 'viđain/nuppe/logiin' birge. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Gal 'vihtta/nuppe/logiiguin' birge </em>. </p>
+    </list>
+    <p>I de andre sammensatte tall bøyes vanligvis bare det siste leddet. Første og andre ledd står i nominativ entall. I komitativ entall og lokativ flertall er det samsvarsbøyning mellom alle de tre leddene:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Logan 'guokte/logi/golmma' rádjái. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">In ollen guhkkelii go 'guokte/logi/golbmii'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Gal 'guvttiin/logiin/golmmain' birge </em>. </p>
+    </list>
+    <p>I sammensatte tall med flere ledd, bøyes bare siste ledd: <em type="italic">Gal 'vihtta/duhát/guokte/čuođi/golmmain' birge </em>. </p>
+    <p xml:lang="swe">
+      <em type="italic">Entall </em>
+    </p>
+    <p xml:lang="vep">Nom./Akk.</p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/lohkái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golbma </em>
+    </p>
+    <p xml:lang="smj">Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/nuppe/logi </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmma </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/lohkái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/nuppe/lohkái </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golbmii </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/logis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovtte/nuppe/logis </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmmas </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/logiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/nuppe/logiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/logiin/golmmain </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sma">
+      <em type="italic">guoktin/lohkin, guoktin/login </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/lohkin, guokte/nuppe/login </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golbman </em>
+    </p>
+    <p>
+      <em type="italic">Flertall </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttit/logit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/logit </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmmat </em>
+    </p>
+    <p xml:lang="smj">Akk./Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid/logiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/logiid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmmaid </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid/logiide, guvttiide/logiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/logiide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmmaide </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/logiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/nuppe/logiin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin/logiin/golmmain </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid/logiiguin, guvttiiguin/logiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/nuppe/logiiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guokte/logi/golmmaiguin </em>
+    </p>
+    <p type="title" xml:lang="nno">Ordenstall er adjektiver</p>
+    <p>Man kan lage ordenstall av alle grunntall, bortsett fra 'moadde' og 'máŋga'. Ordenstall lages vanligvis ved at endelsen '-át' legges til genitivsformen av grunntallet i entall. Denne endelsen kan også legges til sammensatte tall. <em type="italic">njealját, guđát, viđát, logát, čieža/nuppe/logát </em>. Unntakene til denne regelen er 'vuosttaš', 'nubbi', 'goalmmát' og 'čihččet'. </p>
+    <p>De fleste ordenstall bøyes som ulikestavelsesadjektiver. Unntaket er 'nubbi', som bøyes som likestavelsesadjektiv. De andre ordenstallene har ikke stadieveksling, og de bøyes ikke når de står sammen med et substantiv (bortsett fra 'nubbi'):</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá lea 'vuosttaš'. Mun oainnán 'vuosttažiid'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá lea 'goalmmát'. Mun válddán 'goalmmáda'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun válddán 'goalmmát' girjji. 'Viđát' siiddus čuožžu eambbo dan birra </em>. </p>
+    </list>
+    <p type="title" xml:lang="nno">Samlingstall er substantiver</p>
+    <p>Samlingstall lages ved å legge endelsen '-s' til genitivsformen av grunntallet i entall. Samlingstall viser til hvor mange personer det er snakk om. <em type="italic">golmmas, njealjis, viđas, guđas </em>. Alle samlingstall er ulikestavelsessubstantiv og har stadieveksling, med svakt stadium i nominativ entall og essiv, og sterkt stadium ellers: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Guovttis' leat boahtán. Mun oainnán 'guoktása'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">'Golmmas' sihtet gáfe. Attán 'golbmasii' gáfe </em>. </p>
+    </list>
+    <p>Samlingstall kan ikke stå sammen med substantiv i et setningsledd.</p>
+    <p type="title">Vanlige avledninger med tallord</p>
+    <p>Man kan lage nye ord av tallord, både substantiv og adverb. Ved å legge endelsen '-eš' til svakt stadium av tallord, får man et nytt substantiv. Legg merke til at endelsen fører til diftongforenkling: <em type="italic">ovtteš, guvtteš, golmmeš, logeš </em>. Disse ordene kan oversettes med <span type="quote">"ener"</span>, <span type="quote" xml:lang="eng">"toer"</span>, <span type="quote" xml:lang="eng">"treer"</span> og <span type="quote" xml:lang="dan">"tier"</span>. Dette er den vanlige måten å referere til tall på i kortspill. <em type="italic">Mus leat njeallje 'ovcceža' </em>. (Jeg har fire niere). </p>
+    <p>Hvis man legger endelsen '-ii' til sterkt stadium av tallord, får man et adverb som betyr <span type="quote">"så mange ganger"</span>. Formen ligner på illativ entall, men det er noen forskjeller. Legg merke til at endelsen fører til diftongforenkling, slik at illativ singular for 'guokte' og 'njeallje' er forskjellig fra denne adverbformen.</p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Lean 'golbmii' leamaš olgoriikkas </em>. </p>
+      <p type="listitem">(Jeg har vært i utlandet tre ganger).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Son lea 'guktii' dán kurssa váldán </em>. </p>
+      <p type="listitem" xml:lang="nno">(Han har tatt dette kurset to ganger).</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ledjen 'njelljii' doaktára luhtte ovdal go dearvvašnuvven </em>. </p>
+      <p type="listitem">(Jeg var hos legen fire ganger før jeg ble frisk).</p>
+    </list>
+    <p type="title" xml:lang="nno">Enkle tallord sammen med substantiv</p>
+    <p>Når tallord står sammen med substantiv i samme setningsledd, er det egne regler for samsvarsbøyning. Hvis setningsleddet står i nominativ, er det tallordet som står i nominativ. Ordene som står til tallord, står i genitiv entall. <em type="italic">Mus leat 'golbma beatnaga' </em>. (Jeg har tre hunder). Ord som står til 'okta' står derimot i nominativ entall: <em type="italic">Mus lea 'okta beana' </em>. </p>
+    <p>Legg merke til at ordene står i entallsform, selv om det er snakk om flere ting. Flertall brukes bare i flertallsord, slik som høytider, feiringer og par (et par sokker, et par bukser osv.). Når substantivet er et flertallsord, og setningsleddet skal stå i nominativ, da står både tallordet og substantivet i nominativ flertall: <em type="italic">Dáppe leat odne 'golmmat heajat' </em>. (Det er tre bryllup her i dag). </p>
+    <p>I andre kasus er det samsvarsbøyning mellom tallord og substantiv. Tallordet bøyes i samme kasus som substantivet, bortsett fra i illativ og lokativ entall. Da bøyes tallordet i genitiv entall. I illativ og komitativ flertall, kan tallordet også stå i akkusativ/genitiv flertall. Legg merke til at ordenstallet 'nubbi' følger de samme reglene for samsvarsbøyning:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čálán 'guokte reivve'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun lean ožžon 'máŋgga oahppis' rámi. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Skuvla lea sádden 'viđa studentii' árvosániid. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Bija 'nuppi juolgái' suohku. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son lea 'logiid fáhcaid' juo láhppán. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Čálán 'logiide fáhcaide' namaid. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Čálán 'logiid fáhcaide' namaid. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Ii 'máŋggaiguin sabehiiguin' goastta gosage. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Ii 'máŋggaid sabehiiguin' goastta gosage </em>. </p>
+    </list>
+    <p xml:lang="nno">
+      <em type="italic">Tallord sammen med substantiv </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">Entall </em>
+    </p>
+    <p>
+      <em type="italic">Flertall </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guokte fáhca </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttit fáhcat </em>
+    </p>
+    <p xml:lang="kal">Akk.</p>
+    <p xml:lang="sme">
+      <em type="italic">guokte fáhca </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid fáhcaid </em>
+    </p>
+    <p xml:lang="smj">Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtti fáhca </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid fáhcaid </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtti fáhccii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid fáhcaide, guvttiide fáhcaide </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovtti fáhcas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin fáhcain </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiin fáhcain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiid fáhcaiguin, guvttiiguin fáhcaiguin </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktin fáhccan </em>
+    </p>
+    <p type="title" xml:lang="nno">Sammensatte tallord sammen med substantiv</p>
+    <p>Når tallord står sammen med substantiv i samme setningsledd, er det egne regler for samsvarsbøyning. Hvis setningsleddet står i nominativ, er det tallordet som står i nominativ. Ordene som står til tallord, står i genitiv entall. Sammensatte tallord som ender på '-lohkái' og '-logi' har en egen attributtform med endelsen '-lot'. <em type="italic">Mun lean ožžon 'guoktenuppelot rávddu'. Son lea jávkan 'golbmalot diimmu' </em>. </p>
+    <p>Legg merke til at substantivene står i entallsform, selv om det er snakk om flere ting. Foran substantiv i entall brukes vanligvis bare endelsen '-lot'. Endelsene '-lohkái' og '-logi' kan bare brukes i noen kasus. '-lohkái' kan brukes i nominativ og akkusativ. Endelsen '-logi' kan brukes i nominativ, akkusativ og genitiv. Legg merke til at den da viser til hele tiere, og er ikke en bøyd form av '-lohkái'.</p>
+    <p xml:lang="vep">Nominativ:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golbmanuppelot silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golbmanuppelohkái silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golbmalot silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golbmalogi silbaboalu' </em>
+      </p>
+    </list>
+    <p xml:lang="kal">Akkusativ:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oasttán 'golbmanuppelot silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oasttán 'golbmanuppelohkái silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Oasttán 'golbmalot silbaboalu'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Oasttán 'golbmalogi silbaboalu' </em>. </p>
+    </list>
+    <p xml:lang="vep">Genitiv:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golmmanuppelot silbaboalu' lávggastagat. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Dá leat 'golmmalot silbaboalu' lávggastagat. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Dá leat 'golmmalogi silbaboalu' lávggastagat </em>. </p>
+    </list>
+    <p>Den korte attributtformen kan stå ubøyd foran substantivet, uansett hvilken kasus substantivet måtte ha:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čálán 'guoktenuppelot reivve'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Skuvla lea sádden 'vihttanuppelot studentii' árvosániid. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son lea 'vihttalot niibbi' juo láhppán. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son lea ságastallan 'vihttanuppelot' studeanttain. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji bođii girkui 'guoktelot' ohppiin </em>. </p>
+    </list>
+    <p>Første ledd kan også bøyes i samsvar med substantivet. Det bøyes da i samme kasus som substantivet, bortsett fra i illativ og lokativ entall. Da bøyes tallordet i genitiv entall:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čálán 'guoktenuppelot reivve'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Skuvla lea sádden 'viđanuppelot studentii' árvosániid. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son lea 'vihttalot niibbi' juo láhppán. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Son lea ságastallan 'viđainnuppelot studeanttain'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji bođii girkui 'viđainlot ohppiin' </em>. </p>
+    </list>
+    <p xml:lang="swe">
+      <em type="italic">Entall </em>
+    </p>
+    <p xml:lang="vep">Nom./Akk.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelot fáhca </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelot fáhca </em>
+    </p>
+    <p xml:lang="smj">Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttenuppelot fáhca </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttelot fáhca </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttenuppelot fáhccii </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttelot fáhccii </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttenuppelot fáhcas </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttelot fáhcas </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinnuppelot fáhcain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinlot fáhcain </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktinnuppelot fáhccan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktinlot fáhccan </em>
+    </p>
+    <p>Flertallsord står i flertall etter tallord. Det er ord som høytider, feiringer og par (et par sokker, et par bukser osv.). I flertall kan både '-lot' og '-logi/-lohkái' brukes. I '-lot'-formene skal første leddet bøyes i samsvar med substantivet. I '-logi/-lohkái'-formene er det valgfritt om første leddet bøyes eller ikke, men siste leddet skal alltid bøyes i samsvar med substantivet. I flertall bøyes tallordet i samsvar med substantivet i alle kasus, bortsett fra illativ og komitativ. Da bøyes tallordet i genitiv flertall.</p>
+    <p>Eksempler med '-lot':</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mus leat 'viđatnuppelot ulloleasttut'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun vurden 'máŋggaidlot juovllaid'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Viđainnuppelot gápmagiin' leat vuoddagat. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čuolddán vuoddagiid 'viđaidlot gápmagiidda'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Áhkku vuoddjái márkaniidda 'viđaidlot gápmagiiguin' </em>. </p>
+    </list>
+    <p>Eksempler med '-logi/lohkái' uten bøyning av første ledd:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mus leat 'vihttanuppelogit ulloleasttut'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun vurden 'máŋgalogiid juovllaid'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Vihttanuppelogiin gápmagiin' leat vuoddagat. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čuolddán vuoddagiid 'vihttalogiid gápmagiidda'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Áhkku vuoddjái márkaniidda 'vihttalogiid gápmagiiguin' </em>. </p>
+    </list>
+    <p>Eksempler med 'logi/lohkái' med bøyning av første ledd:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mus leat 'viđatnuppelogit ulloleasttut'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun vurden 'máŋggaidlogiid juovllaid'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">'Viđainnuppelogiin gápmagiin' leat vuoddagat. </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="italic">Mun čuolddán vuoddagiid 'viđaidlogiid gápmagiidda'. </em>
+      </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Áhkku vuoddjái márkaniidda 'viđaidlogiid gápmagiiguin' </em>. </p>
+    </list>
+    <p>
+      <em type="italic">Flertall, -lohkái/-logi, med bøying av første ledd </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitnuppelogit fáhcat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitlogit fáhcat </em>
+    </p>
+    <p xml:lang="smj">Akk./Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelogiid fáhcaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlogiid fáhcaid </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelogiid fáhcaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlogiid fáhcaide </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinnuppelogiin fáhcain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinlogiin fáhcain </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelogiid fáhcaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlogiid fáhcaiguin </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitnuppelogin fáhccan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktinlogin fáhccan </em>
+    </p>
+    <p>
+      <em type="italic">Flertall, -lohkái/-logi, uten bøying av første ledd </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogit fáhcat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogit fáhcat </em>
+    </p>
+    <p xml:lang="smj">Akk./Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogiid fáhcaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogiid fáhcaid </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogiid fáhcaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogiid fáhcaide </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogiin fáhcain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogiin fáhcain </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogiid fáhcaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogiid fáhcaiguin </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">
+      <em type="italic">guoktenuppelogin fáhccan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktelogin fáhccan </em>
+    </p>
+    <p xml:lang="eng">
+      <em type="italic">Flertall, -lot </em>
+    </p>
+    <p xml:lang="vep">Nom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitnuppelot fáhcat </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitlot fáhcat </em>
+    </p>
+    <p xml:lang="smj">Akk./Gen.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelot fáhcaid </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlot fáhcaid </em>
+    </p>
+    <p xml:lang="eng">Ill.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelot fáhcaide </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlot fáhcaide </em>
+    </p>
+    <p xml:lang="vep">Lok.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinnuppelot fáhcain </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiinlot fáhcain </em>
+    </p>
+    <p xml:lang="vep">Kom.</p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidnuppelot fáhcaiguin </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guvttiidlot fáhcaiguin </em>
+    </p>
+    <p xml:lang="swe">Essiv</p>
+    <p xml:lang="sme">
+      <em type="italic">guovttitnuppelot fáhccan </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">guoktinlot fáhccan </em>
+    </p>
+  </body>
+</document>

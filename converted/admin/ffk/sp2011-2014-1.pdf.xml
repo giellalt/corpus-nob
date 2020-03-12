@@ -1,0 +1,290 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title>STRATEGIPLAN for samisk kompetanse i Finnmark fylkeskommune 2011 – 2014</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2011</year>
+    <publChannel>
+      <publication>
+        <publisher>Finnmark fylkeskommune</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>5623</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Márjá Eira" email="marja.eira@uit.no"/>
+    <origFileName>http://ffk.no/docs/bf359167-6075-42b9-95f7-21b7cd6a2a4c.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="sp2011-2014-1.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>STRATEGIPLANfor samisk kompetanse iFinnmark fylkeskommune 2011 – 2014</p>
+    <p>Innhold</p>
+    <p>Forord .................................................................................................................................. 3</p>
+    <p>1 Innledning ........................................................................................................................ 4 1.1 Hovedsatsingsområder ........................................................................................ 4 1.2 Mål ............................................................................................................................... 4 1.3 Prosessen ................................................................................................................... 4</p>
+    <p>2 Plangrunnlag ................................................................................................................... 5 2.1 Lovgrunnlag  ............................................................................................................. 5 2.2 Samelovens språkregler........................................................................................ 5 2.3 Sameloven i praksis ............................................................................................... 5 2.4 Fylkeskommunalt plangrunnlag  ...................................................................... 5</p>
+    <p>3 Situasjonsbeskrivelse ................................................................................................... 6 3.1 Sentraladministrasjonen ..................................................................................... 6 3.2 Tannklinikkene ......................................................................................................... 6 3.3 Videregående skoler  ............................................................................................. 7 3.4 Finnmark fylkesbibliotek  ..................................................................................... 8 3.5 Scene Finnmark  ...................................................................................................... 9 3.6 Politisk nivå ............................................................................................................... 9</p>
+    <p>4 Bruk av samisk språk i Finnmark fylkeskommune .......................................... 10 4.1 Kommunikasjon og informasjon ................................................................... 10 4.2 Profilering og synliggjøring .............................................................................. 10 4.3 Samisk språklig kompetanseutvikling ......................................................... 11</p>
+    <p>5 Kompetanse om samisk kultur  .............................................................................. 12</p>
+    <p>6 Økonomiske virkemidler  ........................................................................................... 13 6.1 Tospråklighetsmidler .......................................................................................... 13 6.2 Fylkeskommunens egne midler til samiske kulturformål  .................... 13</p>
+    <p>Lov om Sametinget og andre samiske rettsforhold (sameloven).  .......... 14</p>
+    <p>2</p>
+    <p>Forord</p>
+    <p>Strategiplan for samisk kompetanse i Finnmark fylkeskommune 2011- 2014 er en overordnet plan med mål, strategier og utfordringer, og gjelder for sentraladministrasjonen og alle virksomhetene i fylkeskommunen. Plandokumentet er fra og med 2011 blitt løftet opp fra å være en handlingsplan for samisk kompetanse til å bli en strategisk plan for hele organisasjonen. Strategiplanen er gjeldende frem til 2014 med overordnede prespektiver som strekker seg fram i tid. Det tror jeg er et riktig valg som i enda større grad synliggjør Finnmark fylkeskommune sine forpliktelser ovenfor den samiske befolkninga. Planen følges opp gjennom "Samarbeidsavtalen mellom Sametinget og Finnmark fylkeskommune".</p>
+    <p>Strategiplanen er først og fremst en intern plan, men den har også regional relevans i og med at den også gjelder virksomhetene utenfor sentraladministrasjonen. Dokumentet skal være et verktøy i videreutvikling av samisk språk og kultur, og danne grunnlag for fylkeskommunens årlige handlingsplan.</p>
+    <p>Finnmark fylkeskommune ønsker med dette strategidokumentet å synliggjøre og øke kompetansen i samisk språk og kultur i hele organisasjonen.</p>
+    <p>Jørn Losvar.</p>
+    <p>Runar Sjåstad fylkesordfører Fylkesutvalget vedtok i 2001 for første gang en egen <span type="quote">“Handlingsplan for utvikling av samisk kompetanse i Finnmark fylkeskommune”</span>. Planen gjaldt for perioden 2001 – 2005, og ble senere rullert av fylkestinget i 2007. Fylkesutvalget vedtok i sak 10/25 at "Handlingsplanen for utvikling av samisk kompetanse 2007</p>
+    <p type="listitem">– 2010" skal rulleres og godkjennes</p>
+    <p>av fylkestinget i juni 2011. I arbeidet med å rullere handlingsplanen vedtok fylkesutvalget i sak 10/4 at handlingsplanen skulle gjøres om til en strategiplan fordi planen er fylkeskommunens sektorovergripende plandokument med overordnede mål, strategier og utfordringer. En slik endring vil også være i samsvar med fylkeskommunens egen planveileder. Det formelle navnet på planen er endret til <span type="quote">"Strategiplan for samisk kompetanse i Finnmark fylkeskommune 2011 – 2014"</span>. Det vil i tilknytning til strategiplanen bli utarbeidet en egen handlingsplan som skal vise hvordan strategiplanens mål og strategier følges opp. Handlingsplanen rulleres årlig.</p>
+    <p>Strategiplanen er en plan med overordnede mål, strategier og utfordringer for fylkeskommunen når det gjelder utvikling av samisk språk og kultur. Fylkesrådmannen har det overordnede ansvaret for oppfølging av strategiplanen, og den enkelte virksomhetsleder har ansvaret for å følge opp strategiplanen innenfor sine ansvarsområder.</p>
+    <p>Finnmark fylkeskommune mottar tospråklighetsmidler fra Sametinget som brukes til gjennomføring av samisk språktiltak i organisasjonen. I tillegg har fylkeskommunen og Sametinget en samarbeidsavtale som bl.a. omfatter samisk språk med oppfølging og rapportering. Samarbeidsavtalen stadfester at utvikling og styrking av samisk språk er viktig. En forutsetning for at fylkeskommunen skal lykkes med språkutvikling er at fylkeskommunen har gode økonomiske rammevilkår. Det er derfor viktig med større forut sig - barhet knyttet til tildelingen av tospråklighetsmidlene.</p>
+    <p><em type="bold">1.1 Hovedsatsingsområder</em> </p>
+    <p>Strategiplanen for samisk kompetanse i Finnmark fylkeskommune 2011 – 2014 viderefører hovedsatsingsområdene vedtatt i Handlingsplanen for samisk kompetanse i Finnmark fylkeskommune 2007 – 2010:</p>
+    <p type="listitem">• Utvikling og synliggjøring av samisk språk i forhold til Samelovens språkregler</p>
+    <p type="listitem">• Styrking av kompetansen om samisk kultur i den fylkeskommunale organisasjonen</p>
+    <p><em type="bold">1.2 Mål</em> </p>
+    <p type="listitem">• Betjene befolkningen på samisk, både muntlig og skriftlig</p>
+    <p type="listitem">• Fylkeskommunens ansatte kjenner til samiske kulturspørsmål</p>
+    <p>For å nå de fastsatte målene skal det føres en aktiv dialog internt i orga ni - sasjonen og med samarbeidspartene som Sametinget.</p>
+    <p><em type="bold">1.3 Prosessen</em> </p>
+    <p>Fylkesutvalget vedtok i sak 10/25 å opprette en arbeidsgruppe i forbindelse med rullering av Handlingsplanen for samisk kompetanse i Finnmark fylkeskommune 2007 – 2010. Kultur- og idrettsavdelinga, opplæringsavdelinga, IT-avdelinga, dokument- og serviceavdelinga, planavdelinga og FFK eiendom har vært representert i gruppa. Arbeidsgruppa har vært ledet av samisk språkrådgiver. Kompetanseutvalget har hatt rollen som styringsgruppe.</p>
+    <p>I prosessen med utarbeiding av strategiplanen har arbeidsgruppa gjennomført en QuestBack-undersøkelse i hele fylkeskommunen, for å finne ut i hvilken grad de fylkeskommunale virksomhetene kjenner til og har nyttiggjort seg eksisterende handlingsplan for samisk kompe - tanse. Svarene som ble gitt er brukt i utarbeidelsen av denne planen.</p>
+    <p>Kompetanseutvalget ble informert om arbeidsgruppas vurderinger på møte 24. november 2010 i forhold til å utarbeide strategiplan istedenfor handlingsplan. Kompetanseutvalget har på møte 23. februar 2011 drøftet høringsutkastet til strategiplanen og sendt den ut på høring internt i fylkeskommunen med svarfrist 1. april 2011. KU har på møte 24.-25. mai 2011 godkjent høringsutkastet og “Strategiplan for samisk kompetanse i Finnmark fylkeskommune 2011 – 2014” ble endelig vedtatt i fylkestinget 15. juni 2011.</p>
+    <p>4</p>
+    <p><em type="bold">2.1 Lovgrunnlag</em> </p>
+    <p>Befolkningens rettigheter knyttet til bruk av samisk er hjemlet i flere lover, også i internasjonale avtaler. De viktigste lovene er sameloven, navneloven, stadnamnlova og opplæringsloven. Stadnamnlova med forskrifter hjemler rett til bruk av samiske stedsnavn. Navneloven gir personer av samisk herkomst rett til å ta i bruk sine tradisjonelle personnavn. Opplæringsloven § 6-3 har bestemmelser om samisk videregående opplæring. Her heter det at <span type="quote">"samer i vidaregåande opplæring har rett til opplæring i samisk"</span>.</p>
+    <p><em type="bold">2.2 Samelovens språkregler</em> </p>
+    <p>Finnmark fylkeskommune omfattes av Samelovens språkregler som trådte i kraft 1.januar 1992. Formålet med språkreglene er å bevare og utvikle det samiske språket ved særlig å styrke bruken av språket i offentlig sammenheng. Samisk og norsk er i følge sameloven § 1-5 likeverdige språk i Norge. Loven skal sikre innbyggerne grunnleggende rettigheter vedrørende bruk av samisk. Det er viktig å merke seg at avgrensningen av forvaltningsområdet er et rettslig minimum, og bestemmelsene i samelovens språkkapittel er et minimumskrav. Forvaltningsområdet for samisk språk omfatter pr. 1.1.2011 flg. kommuner: Karasjok, Kautokeino, Tana, Nesseby og Porsanger i Finnmark, Kåfjord og Lavangen i Troms, Tysfjord i Nordland, og Snåsa i NordTrøndelag. Samelovens språkregler gjelder også for Finnmark fylkes - kommune fordi flere kommuner i fylket er en del av forvaltningsområdet for samisk språk.</p>
+    <p>
+      <em type="bold">2.3 Sameloven i praksis </em>
+    </p>
+    <p>Fylkeskommunale virksomheter skal oppfylle følgende kriterier for å betjene den samiske befolkningen på samisk:</p>
+    <p type="listitem">• Kunngjøre på samisk, dvs. annonsering og skilting</p>
+    <p type="listitem">• Ha tilgjengelig informasjon på fylkeskommunens nettsider på samisk</p>
+    <p type="listitem">• Oversette dokumenter til samisk og tolke hhv. til samisk og norsk</p>
+    <p type="listitem">• Gi permisjon med lønn til ansatte for å tilegne seg kunnskaper i samisk</p>
+    <p type="listitem">• Besvare skriftlige henvendelser på samisk ved behov</p>
+    <p type="listitem">• Tannklinikkene skal kunne betjene samisktalende muntlig på tjeneste - stedet</p>
+    <p><em type="bold">2.4 Fylkeskommunalt plangrunnlag</em> </p>
+    <p>Fylkestinget har vedtatt i fylkeskommunens økonomiplan 2011-2014 at det skal være et overordnet mål og delmål å følge opp tiltak i "Handlingsplan for samisk kompetanse " og bruken av tospråklighetsmidler.</p>
+    <p>5 Finnmark fylkeskommune tilhører samisk forvaltningsområde og har derfor et særlig ansvar for å utvikle og styrke samisk språk og kultur. Det er viktig at alle virksomheter er bevisst sitt ansvar i forhold til dette. Finnmark fylkeskommune har siden 2006 hatt samisk språkrådgiver som betjener hele fylkeskommunen. Vedkommende jobber på tvers av sektorene, og har koordineringsansvar for samisk språk i fylkeskommunen.</p>
+    <p>Samelovens språkregler gjelder følgende fylkeskommunale virksom - heter:</p>
+    <p>Sentraladministrasjonen med 14 avdelinger, tannhelsetjenesten med 20 klinikker, 8 videregående skoler, 1 folkehøgskole, Finnmark fylkesbibliotek med 2 avdelinger, Scene Finnmark med Den kulturelle skolesekken, Musikk i Finnmark og Sápmi Music. I tillegg kommer poli - tisk nivå der politikerne har krav på tolking og hvis ønskelig kunne fremme saker på samisk, muntlig og skriftlig.</p>
+    <p>
+      <em type="bold">3.1 Sentraladministrasjonen </em>
+    </p>
+    <p>Fylkeskommunen har inngått en avtale om at stillingsannonser, fellesannonser og kunngjøringer annonseres på samisk.</p>
+    <p>Det er FFK eiendom som har ansvaret for at det skiltes på fylkeskommunale bygg. På Fylkeshuset er informasjonstavla på begge språk, det samme gjelder uteskilt, veggskilt og dørskilt, og disse blir oppdatert etter behov.</p>
+    <p>Møter og arrangementer blir annonsert både på norsk og samisk på informasjonsskjermen i foajeen. Det har vært avholdt nybegynner -</p>
+    <p>kurs og videregåendekurs i samisk for ansatte i SA. Kursene er på dagtid og ansatte får permisjon med lønn. I forbindelse med samisk språk - kurs er det også vanlig å arrangere språkbad.</p>
+    <p>Fylkeskommunens oversikt <span type="quote">“Hvem gjør hva i sentraladministrasjonen”</span> er publisert på begge språk. Ansattes visittkort er også på samisk. På fylkeskommunens internettside www.ffk.no publiseres aktuelle nyheter sporadisk på samisk. Arbeidet med å fornye fylkeskommunens internettsider starter i 2011, og en samisk tvillingside er planlagt i den forbindelse.</p>
+    <p>Når det gjelder bruken av samiske stedsnavn ved postforsendelser er disse lagt inn i postsystemet, og inngående brev og e-post på samisk blir besvart på samisk. Forøvrig er det sjelden at fylkeskommunen mottar brev som bare er på samisk.</p>
+    <p>Fylkeskommunen har i flere år utviklet veggkalender med merkedager på samisk og norsk for å synliggjøre samisk språk. Kalenderen er blitt godt mottatt, og sendes samtlige virksomheter, politikerne og samarbeidspartnere.</p>
+    <p>Viktige dokumenter som langsiktige planer og fylkeskommunens årsmelding oversettes til samisk. Disse blir også lagt ut på fylkeskommunens internett sider. Som eksem - pel kan nevnes: Regionale kulturstrategier for Finnmark 2008 – 2014, Den kulturelle skolesekken, Skolekatalog for videregående skoler,<em type="italic">Giellagiella møte, oktober 2011 i Karasjok.</em> </p>
+    <p>6</p>
+    <p>2013 og årsmelding 2010.</p>
+    <p>Når det gjelder IT-løsninger på samisk så støtter systemene i Finnmark fylkeskommune samisk. Samisk tastatur oppsett blir lagt til som standard for alle fylkeskommunale pc-er i 2011. Samisk retteprogram for MS Word 2010 vil være tilgjengelig i løpet av første halvår 2011.</p>
+    <p>På nettsidene til www.finnmark.no er informasjonen oversatt til samisk. www.finnmark.no er en informa - sjons side/portal om det å leve og bo i Finnmark, arbeidsmulighetene og om virkemiddelordningene i Finnmark.</p>
+    <p><em type="bold">3.2 Tannklinikkene</em> </p>
+    <p>Finnmark fylkeskommune har i flere år hatt utfordringer med å skaffe samisktalende tannleger. Det er mangel på samisktalende personell ved samtlige tannklinikker i samisk forvaltningsområd. Behovet for samisktalende personell er størst i de områdene barn og eldre ikke forstår norsk.</p>
+    <p>Forøvrig har enkelte ansatte fått permisjon med lønn for å ta etterutdanning i samisk kulturkunnskap.</p>
+    <p>Oversikt som viser antall ansatte med samiskspråklige kunnskaper ved tannklinikkene i samisk forvaltningsområdet: Alle tannklinikker har uteskilt og dørog veggskilt på norsk og samisk, men det vil fortsatt være behov for oppdateringer av vegg- og dørskilt og skilting til nye bygg. På informasjonssidene til tannklinikkene på nett er det ikke samisk tekst og samisk benyttes ikke i informasjon som går til pasientene. Det er utarbeidet fraseordbok på norsk og samisk som ansatte ved tannklinikkene kan bruke overfor publikum som ikke behersker norsk. Det er avholdt innføringskurs i samisk språk for ansatte ved tannklinikken i Karasjok. Det er ønskelig med liknende kurs ved tannklinikken i Kautokeino og Tana.</p>
+    <p><em type="bold">3.3 Videregående skoler</em> </p>
+    <p>Det undervises i samisk på ulike nivåer på de fleste fylkeskommunale videregående skoler. Det rettslige grunnlaget for opplæring i samisk er sameloven og opplæringsloven. Etter samelovens § 3-8 og opplæringsloven §6-3 har enhver rett til opplæring i samisk. Ifølge artikkel 15 i</p>
+    <p><em type="bold">Tannklinikk Tannhelseskr.TannpleiereTannlegerAntall ansatte</em> </p>
+    <p>Kautokeino Karasjok1 0 Porsanger0 0 Tana1 0 Seida0 0 Nesseby</p>
+    <p>7</p>
+    <p><em type="italic">Yngve Johansen holder foredrag om samiske stedsnavn.</em> </p>
+    <p>samarbeidsavtalen mellom Finnmark fylkeskommune og Sametinget vil partene bidra til at fylkeskommunale videregående skoler tilrettelegger for opplæring i samiske fag og om samiske forhold. Alle elever skal få tilbud om opplæring i samisk.</p>
+    <p>Elever som leste samisk skoleåret 2009/2010 fordelt på skoler:</p>
+    <p><em type="bold">SkolerElever</em> </p>
+    <p>Alta videregående skole Nordkapp maritime fagskole og videregående skole Lakselv videregående skole Kirkenes videregående skole Vadsø videregående skole Tana videregående skole</p>
+    <p><em type="bold">Totalt</em> </p>
+    <p>Fra skoleåret 2008/2009 til skoleåret 2009/2010 har antallet elever i videregående opplæring som leser samisk økt fra 135 til 173 elever. Økningen utgjør 28%.</p>
+    <p>Vi har 11 lærere som underviser i samisk ved våre videregående skoler. Tre av skolene har ikke undervisning i</p>
+    <p>samisk. Det gjelder skolene i Hammerfest, Honningsvåg og Vardø. Tradisjonelt er det bare i enkelte skoleår disse skolene har elever som ber om opplæring i samisk. Inne - værende år er det ingen elever som får undervisning i samisk ved skolestedene i Vardø og Hammerfest, men to elever ved Nordkapp maritime fagskole og videregående skole.</p>
+    <p>Når det gjelder undervisningskompetanse så har Alta videregående skole, Kirkenes videregående skole og Vadsø videregående skole tre lærere hver som underviser i samisk. De vidergående skolene i Tana og Lakselv har begge en lærer som underviser i samisk.</p>
+    <p>Kirkenes videregående skole er fylkets eneste videregående skole som har egen internettside på samisk. Samisklærere frikjøpes for å produsere tekstene på samisk. Videre planlegger skolen å gjennomføre et prosjekt for å skape et grenseoverskridende nettverk av samisklærere. Når det gjelder skilting så har samtlige skoler hovedskilt og dørskilt på begge språk. Det vil forsatt være og skilting til nye bygg. For øvrig er det vanlig at skolene organiserer samisk temauke i dagene rundt samefolkets dag, 6. februar.</p>
+    <p><em type="bold">3.4 Finnmark fylkesbibliotek</em> </p>
+    <p>Finnmark fylkesbibliotekets strategiplan 2005 – 2014 slår fast at fylkesbiblioteket skal arbeide for å styrke bibliotektjenesten til hele Finnmarks befolkning. I dette ligger også ansvar for å spre kunnskap om samisk litteratur og kultur. Dette skjer i samarbeid med Sámedikki girjerádju/Sametingets bibliotek. Fylkesbiblioteket skal være pådriver for tjenesteutvikling og kompetanseheving i de kommunale bibliotekene i fylket. I forhold til samisk bibliotektjeneste er det aktuelt å arrangere kurs i litteraturformidling for bibliotekansatte innrettet mot formidling til samiskspråklige, og det er ønskelig å ha et fast tilbud til bibliotek og skoler i Finnmark om turnèer med samiske forfattere både for barn, ungdom og voksne.</p>
+    <p>Fylkesbibliotekets samling av samiskspråklig litteratur, musikk og film er til bruk for alle i fylket, og kan lånes gjennom de kommunale biblio - tekene. Samlingen omfatter også litteratur om samiske forhold på mange språk, og suppleres jevnlig. Videre har fylkesbibliotekets fotoarkiv en stor samling fotografier med samiske motiver, som blant annet formidles gjennom nettutstillinger. Fylkesbiblioteket samarbeider også med Samisk arkiv i Kautokeino gjennom Nettverk for privatarkiv i Finnmark.</p>
+    <p>Finnmark internasjonale litteratur - festival er et permanent tiltak, som arrangeres av Finnmark fylkesbibliotek, blant annet i samarbeid</p>
+    <p>8 med Sametinget. Samisk språk og kultur vil ha en bred plass i festivalprogrammet for 2012.</p>
+    <p><em type="bold">3.5 Scene Finnmark</em> </p>
+    <p>Scene Finnmark ble etablert som ny kulturinstitusjon i 2010. Det er fylkets største leverandør av musikkopplevelser, en av Nord-Norges største musikkentreprenører, og har samlet sett det største og tetteste nettverket til musikkmiljøer i hele Barentsregionen. Den samiske musikkinstitusjonen Sápmi Music (SAMU), Den kulturelle Skolesekken i Finnmark og Musikk i Finnmark er en del av Scene Finnmark.</p>
+    <p>SAMU er en egen enhet under Scene Finnmark, og har som hovedoppgave å bevare samisk kulturarv og kulturkompetanse gjennom musikk. SAMU er basert på samiske tradisjoner, og skal være med å forme samisk musikk i det moderne Sápmi. SAMU utvikler egne produksjoner sammen med profesjonelle frilansere over hele Sápmi. SAMU gir også økonomisk støtte til samisk musikk. Hvert år kåres <span type="quote">"Årets artist"</span> og denne</p>
+    <p>artisten følges opp gjennom ett helt år. SAMU ønsker å bygge opp et nettverk av spillesteder, festivaler og andre arenaer, booking byråer, produsenter osv. som artistene skal kunne nyte godt av. SAMU har en produsent i 50% stilling som skal samisk musikk i Finnmark. Hjemme siden til SAMU er sentral i informasjonsarbeidet og må oppdateres fortløpende. All informasjon og pressemeldinger tilstrebes å være tospråklig.</p>
+    <p>På Scene Finnmark er det en som behersker samisk muntlig og skriftlig og en som forstår samisk. <span type="quote">"Den kultu - relle skolesekken"</span> for grunnskole og videregående skole blir oversatt til samisk.</p>
+    <p><em type="bold">3.6 Politisk nivå</em> </p>
+    <p>Norsk og samisk er sidestilte språk i Norge. Dette har fylketinget valgt å synliggjøre gjennom å tilby tolkning til og fra samisk. De som ønsker å benytte samisk under fylketstinget sine møter har anledning til det. Fylkeskommunen har inngått en avtale om tolking og dette er en løsning som fungerer tilfredsstillende. Fylkestingsmøtene og fylkesutvalgsmøtene kunngjøres både på samisk og norsk.</p>
+    <p>
+      <em type="italic">Ann-Britt Svane, ny biblioteksjef ved Finnmark fylkesbibliotek. </em>
+    </p>
+    <p>Kari Bjørkli Thomassen</p>
+    <p><em type="italic">Niko Valkeapää er årets samiske artist i 2012 og Elin Kåven som var årets samiske artist i 2011. </em>Foto: Kari Bjørkli Thomassen </p>
+    <p>9 Strategiplanen for samisk kompe tan - se i Finnmark fylkeskommune 2011 – 2014 er et resultat av arbeidet med å fortsatt synliggjøre og ta i bruk samisk språk utover minimumsreglene Sameloven. Finnmark fylkeskommune vil fortsatt jobbe for:</p>
+    <p type="listitem">• Samisktalende skal kunne bruke samisk i kontakt med offentlige organ</p>
+    <p type="listitem">• Publikum skal møte samisk språk i offentlige s ammen henger</p>
+    <p type="listitem">• Ansatte skal få mulighet til opplæring i samisk språk</p>
+    <p><em type="bold">4.1 Kommunikasjon og informasjon</em> </p>
+    <p>I følge Samelovens språkregler, § 3-2, skal informasjon og annonseringer være på norsk og samisk. Finnmark fylkeskommune vil arbeide for at informasjon på samisk også skjer via fylkeskommunens internettsider. Hittil har fylkeskommunen publisert aktuelle samiske nyheter på de norske sidene. De norske internettsidene vil i løpet av 2011 få nytt profil, og etablering av de samiske sidene vil foregå parallelt med arbeidet med de norske. Etablering av samisk tvillingside til den norske medfører at kostnadene knyttet til oversettelser vil øke.</p>
+    <p>SAMU ønsker å utvikle samisk hjemmeside, og ser det som naturlig at informasjon og annonser er på samisk og norsk. Et av tildelingskriteriene fra Sametinget er at tospråklighetsmidlene også skal brukes til samisk internettside.</p>
+    <p><em type="bold">Utfordringer</em> </p>
+    <p type="listitem">• Finnmark fylkeskommune har ikke egen samisk internettside, dvs. en tvillingside til de norske sidene</p>
+    <p type="listitem">• Det er ressurskrevende å oversette all informasjon på nettsidene til samisk. Samisk side oppdateres derfor ikke på linje med informa - sjon på norsk</p>
+    <p type="listitem">• Øke organisasjonens bevissthet i forhold til hvilke typer, dokumenter og kataloger som skal være tilgjengelig på samisk</p>
+    <p type="listitem">• Bevissthet rundt utarbeidelse av formelle avtaler og rutiner for annonseringer og kunngjøringer på samisk</p>
+    <p type="listitem">• Annonser, kunngjøringer og presse - meldinger må være tilgjengelig på samisk</p>
+    <p type="listitem">• Pga. manglende samisk kompe - tanse informeres det lite skriftlig på samisk, spesielt på tannklinikkene i de samiske forvaltningsområder</p>
+    <p><em type="bold">Strategier</em> </p>
+    <p type="listitem">• Ved å utvikle fylkeskommunens nettsider på samisk i løpet av 2011</p>
+    <p type="listitem">• Ved å oversette og oppdatere informasjon på nett parallelt med den norske</p>
+    <p type="listitem">• Ved å oversette relevante langsiktige planer til samisk. Årsmelding, Opplæringskatalog og Den kulturelle skolesekken oversettes hvert år</p>
+    <p type="listitem">• Ved å kunngjøre stillingsannonser, fellesannonser, kunngjøringer og pressemeldinger på samisk</p>
+    <p type="listitem">• Ved å sende generelle informasjonsbrev og timekort på tannklinikkene på samisk og norsk</p>
+    <p><em type="bold">4.2Profilering og synliggjøring</em> </p>
+    <p>I Norge er samisk og norsk to likestilte språk. Dette skal så langt det er mulig fortsatt synliggjøres i alle fylkeskommunens virksomheter. Når det gjelder skilting så har FFK eien dom det tekniske ansvaret, og skal ha oversikt over skilting på fylkeskommunale bygg. Skilting på samisk er et viktig tiltak som støtter opp om formålet med samelovens språkregler, som er å bevare og styrke det samiske språket ved å synlig gjøre språket i offentlig sammenheng.</p>
+    <p><em type="italic">Språklæring ute i naturen. </em>Foto: Elen R Sara </p>
+    <p type="listitem">10 • Fylkeskommunale bygg skal skiltes både på norsk og samisk, men det gjenstår skilting på nye bygg og oppdateringer på gamle bygg</p>
+    <p type="listitem">• Korrekt skrivemåte på samiske navn, stedsnavn, adresser osv. i virksomhetenes postsystem og arkiv system</p>
+    <p type="listitem">• Det er for lite fokus på å synliggjøre det samiske språket i tilknytning til ulike typer informasjon på virksomhetene, spesielt på venterom, kafferom, møterom og i resepsjonene</p>
+    <p type="listitem">• Skiltbenevnelser som blir brukt på fylkeskommunale bygg er ikke samordnet</p>
+    <p type="listitem">• Profilere Finnmark fylkeskommune som bruker av både samisk og norsk</p>
+    <p><em type="bold">Strategier</em> </p>
+    <p type="listitem">• Ved at virksomhetene sender årlig oversikt til FFK eiendom over hva som er skiltet og hva som gjenstår</p>
+    <p type="listitem">• Ved å arbeide for at alle nye bygg har skilting på begge språk og at oppdateringer gjøres fortløpende ved fylkeskommunale bygg og anlegg</p>
+    <p type="listitem">• Ved å utvikle katalog over skiltbenevnelser på fylkeskommunale bygg</p>
+    <p type="listitem">• Ved å legge til rette for at samiske navn, stedsnavn, adresser osv. regi - streres korrekt i fylkeskommunens arkiv- og postsystem og i virksom - hetene</p>
+    <p type="listitem">• Ved at virksomhetene legger ut informasjon på samisk på venterom, møterom, resepsjon i form av plakater og brosjyrer</p>
+    <p type="listitem">• Ved at virksomhetene tilgjengeliggjør informasjon på samisk for publikum og pasienter</p>
+    <p type="listitem">• Ved at fylkeskommunens tospråklige kalender fortsatt utvikles og brukes av samtlige fylkeskommunale ansatte og politikere</p>
+    <p type="listitem">• Ved at fylkeskommunens oversikt over ansatte i SA publiseres på begge språk</p>
+    <p type="listitem">• Ved at visittkortene også tekstes på samisk</p>
+    <p type="listitem">• Ved å legge til rette for at det tolkes på møtene i fylkestinget</p>
+    <p><em type="bold">4.3 Samisk språklig kompetanseutvikling</em> </p>
+    <p>Finnmark fylkeskommune er etter Samelovens språkregler forpliktet til å legge forholdene til rette slik at ansatte får permisjon med lønn for å lære samisk.</p>
+    <p><em type="bold">Utfordringer</em> </p>
+    <p type="listitem">• Øke kunnskap om samisk språk både muntlig og skriftlig. De som tar kontakt med virksomhetene, for eksempel ved konsultasjoner og behandling, skal ha mulighet til å bruke samisk muntlig og skriftlig og få svar på samisk</p>
+    <p type="listitem">• At ansatte i fylkeskommunen som ønsker det får mulighet til å utvikle sin kompetanse i samisk språk</p>
+    <p type="listitem">• Bedre utnyttelse av IKTmulighetene som finnes for samisk språk, slik at vi kan gi gode offentlige tjenester på samisk</p>
+    <p type="listitem">• Kompetanse i samisk språk, kultur og samfunnsliv som tilleggskvalifikasjon ved ansettelser</p>
+    <p type="listitem">• Samisk lærere ønsker å styrke deres fagkompetanse gjennom deltakelse i forvaltningskommunenes felles samisk språkforum Giellagiella</p>
+    <p><em type="bold">Strategier</em> </p>
+    <p type="listitem">• Ved å arbeide for at Finnmark fylkeskommunes virksomheter har ansatte som kan samisk muntlig og skriftlig</p>
+    <p type="listitem">• Ved å legge til rette for at fylkeskommunen kan tilby kompetansegivende kurs i samisk språk for sine ansatte og at det avsettes midler til dette</p>
+    <p type="listitem">• Ved å vektlegge kunnskaper i samisk språk, kultur og samfunnsliv som en viktig tilleggskvalifikasjon ved utlysning av ledige stillinger</p>
+    <p type="listitem">• Ved å tilgjengeliggjøre dataprogrammer som legger til rette for bruk av samisk språk ved alle virksomhetene</p>
+    <p type="listitem">• Ved at skoleeier legger forholdene til rette for og dekker utgiftene i forbindelse med samiske læreres deltagelse i Giellagiella språkforum, som samles to ganger i året</p>
+    <p><em type="italic">Samisk språkbad i Børselv august 2011. </em>Foto: Elen R Sara </p>
+    <p>11 Vi bor i et fylke hvor den samiske kulturen står sterkt og er levende. Det er derfor nødvendig at ansatte i fylkeskommunen har basiskunnskaper om samisk kultur og samfunnsforhold. I den forbindelse kan det være aktuelt med generelle kurs, temakurs eller spesialtilpassede temadager for den enkelte virksomhet. Virksomheten er selv ansvarlig for planlegging, og kursene finansieres ved hjelp av personalpolitiske midler øremerket samisk kulturformål.</p>
+    <p>I følge samarbeidsavtalen mellom fylkeskommunen og Sametinget ønsker partene å iverksette en besøksordning for ansatte i Finnmark fylkeskommune og Sametinget. Formålet med besøkene er å høyne kompetansen for den/de ansatte som deltar. Partene er også enige om at de har et felles ansvar for at befolkningen og offentlige instanser i Finnmark fylke er orientert om og har kunnskaper om samiske spørsmål.</p>
+    <p>Kompetansemålene i Kunnskapsløftet er bl.a. at elevene skal kjenne til samisk kultur, litteratur og samfunnsliv. Det er derfor viktig at lærere på de videregående skolene har kunnskap for å kunne oppfylle kompetansemålene.</p>
+    <p><em type="bold">Utfordringer</em> </p>
+    <p type="listitem">• Det er ønskelig at ansatte i fylkeskommunen har kunnskap om samisk kultur og samfunnsforhold</p>
+    <p type="listitem">• Styrking av kompetanse med hensyn til Sametingets virksom - het, som er stadfestet i samarbeidsavtalen mellom Finnmark fylkeskommune og Sametinget</p>
+    <p type="listitem">• Finnmark fylkesbibliotek ønsker å videreutvikle arbeidet med formidling av samisk litteratur og kultur i bibliotekene</p>
+    <p type="listitem">• Finnmark fylkesbibliotek ønsker å styrke arbeidet med kompetansehevingstiltak innenfor samisk bibliotektjeneste</p>
+    <p><em type="bold">Strategier</em> </p>
+    <p type="listitem">• Ved å legge til rette for kompe - tanse givende kurs om samisk kultur og samfunnsforhold til alle ansatte i fylkeskommunen</p>
+    <p type="listitem">• Ved å markere samefolkets dag med samisk kulturuttrykk og informasjon om aktuelle samiske tema</p>
+    <p type="listitem">• Ved å arbeide for en besøksordning til Sametinget for ansatte i Finnmark fylkeskommune</p>
+    <p type="listitem">• Ved å legge til rette for at Finnmark fylkesbibliotek kan svidereutvikle samlingen av samisk materiale</p>
+    <p type="listitem">• Ved å legge til rette for kompetansehevingstiltak i samisk litteratur, fortellerkunst o.a.</p>
+    <p type="listitem">• Ved å avsette midler til oppfølging av strategiplanen når det gjelder kunnskap om samisk kultur</p>
+    <p><em type="italic">Fremtida.  </em>Foto: Elen R Sara </p>
+    <p>12</p>
+    <p><em type="bold">6.1 Tospråklighetsmidler</em> </p>
+    <p>Finnmark fylkeskommune har siden 1993 mottatt tospråklighetsmidler fra Sametinget. Tospråklighetsmidlene kan brukes til blant annet annonseringer, oversettelser, samiske internettsider, tolking og opplæringstiltak i samisk språk. Sametingets midler kan ikke brukes til direkte undervisningstiltak i videregående opplæring.</p>
+    <p>Sametinget har i mars 2011 vedtatt nye tildelingskriterier for tildeling av tospråklighetsmidlene. Tospråklighetsmidlene går fra å være kost - nads  styrt til å bli en målstyrt modell med todelt beregningsgrunnlag og består av en basis- og betjeningsdel samt en utviklingsdel. Basis- og betjeningsdel utgjør 75% av den totale tospråklighetsrammen for fylkeskommuner og fordeles likt mellom  fylkeskommunene. Utviklingsdel utgjør 25% av den totale tospråklighetsrammen for fylkeskommuner.</p>
+    <p>For basis- og betjeningsdelen gjelder følgende kriterier:</p>
+    <p type="listitem">• Antall ansatte med kompetanse for å betjene befolkningen på samisk muntlig og/eller skriftlig</p>
+    <p type="listitem">• Antall ansatte som har fått opplæring i samisk</p>
+    <p type="listitem">• Kunngjøringer, informasjon, skjemaer og tekst på hjemmesiden på samisk</p>
+    <p type="listitem">• Antall tospråklige dokumenter (samisk/norsk)</p>
+    <p>Utviklingsdelen reguleres i henhold til aktivitet og gjennomførte tiltak fra år til år, og i henhold til samarbeidsavtaler mellom den enkelte fylkeskommune og Sametinget. Samarbeidsavtalen skal blant annet omfatte mål og strategier for hvordan fylkeskommunen skal oppfylle samelovens språkregler, og hvordan fylkeskommunen vil bruke utviklingsdelen.</p>
+    <p>Disponeringen av tospråklighetsmidlene skal skje med utgangspunkt i den årlige handlingsplanen for samisk kompetanse i Finnmark fylkeskommune. Budsjett og handlingsplan sendes Sametinget.</p>
+    <p><em type="bold">6.2 Fylkeskommunens egne midler til samiske kulturformål</em> </p>
+    <p>Finnmark fylkeskommune har siden begynnelsen av 2000-tallet avsatt egne midler til samisk kulturformål som publikum kan søke om. Midlene er ikke bundet til kriteriene satt av Sametinget. Støtte kan tildeles institusjoner, organisasjoner, bedrifter, lag/foreninger, enkeltgrupper og enkeltpersoner.</p>
+    <p>I henhold til retningslinjene skal midlene brukes til å styrke og fremme samisk kultur og samfunnsliv i Finnmark fylke i tråd med artikkel 1 i samarbeidsavtalen mellom Finnmark fylkeskommune og Sametinget.</p>
+    <p>I 2010 ble det avsatt 800.000,kroner til samiske kulturformål, hvorav 300.000,- kroner blir brukt til samiske museer. I henhold til samarbeidsavtalen med Sametinget har fylkeskommunen et allment ansvar for de samiske museene og skal derfor bidra med årlig regional driftsstøtte også til de samiske museenes virksomhet.</p>
+    <p>Resterende 500.000,- kroner ble i 2010 blant annet brukt til driftstilskudd til samiske språksentre i Finnmark og driftstilskudd til nettstedet for ungdom, Infonuorra. Videre ble det bevilget tilskudd til arrangering av reinkappkjøring, skolekonsert på Samefolkets dag, filmprosjekter om samisk kultur, deltagelse i Arctic Winter games, konferanse om urfolksstedsnavn, samt andre mindre kulturprosjekter.</p>
+    <p><em type="italic">Vuonnamárkanat 2011. </em>Foto: Elen R Sara </p>
+    <p>13</p>
+    <p><em type="bold">Lov om Sametinget og andre</em> </p>
+    <p>
+      <em type="bold">samiske rettsforhold (sameloven) </em>
+    </p>
+    <p><em type="bold">Kapittel 1. Allmenne bestemmelser.</em> </p>
+    <p><em type="bold">§ 1-1. </em><em type="italic">Lovens formål</em>. Lovens formål er å legge forholdene til rette for at den samiske folkegruppe i Norge kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv. </p>
+    <p><em type="bold">§ 1-2. </em><em type="italic">Sametinget</em>. Den samiske folkegruppe skal ha et eget landsomfattende sameting valgt av og blant samene. </p>
+    <p><em type="bold">§ 1-3. </em><em type="italic">Sametingets årsmelding</em>. Sametingets årsmelding sendes til Kongen. </p>
+    <p><em type="bold">§ 1-4. </em><em type="italic">Statens økonomiske ansvar</em>. De særlige utgifter som påføres fylkeskommuner og kommuner ved valg til Sametinget dekkes av staten. Kongen gir forskrift om gjennomføring av første ledd. </p>
+    <p><em type="bold">§ 1-5. </em><em type="italic">Samisk språk</em> Samisk og norsk er likeverdige språk. De skal være likestilte språk etter bestemmelsene i kapittel 3. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 1-6. </em><em type="italic">Det samiske flagget</em> Det samiske flagget er flagget godkjent av den 13. nordiske samekonferansen 15. august 1986. </p>
+    <p>Sametinget kan ved forskrift gi nærmere bestemmelser om bruken av det samiske flagget.</p>
+    <p>Tilføyd ved lov 11 apr 2003 nr. 22.</p>
+    <p>
+      <em type="bold">Kapittel 3. Samisk språk. </em>
+    </p>
+    <p><em type="bold">§ 3-1. </em><em type="italic">Definisjoner</em> I dette kapitlet menes med: 1. Forvaltningsområdet for samisk språk: de kommunene som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samisk språk, 2. Offentlige organ: ethvert organ for stat og kommune, </p>
+    <p>3. Lokalt offentlig organ i forvaltningsområdet: ethvert kommunalt, fylkeskommunalt og statlig organ som har en tjenestekrets som omfatter en kommune eller en del av en kommune i forvaltningsområdet for samisk språk,</p>
+    <p>4. Regionalt offentlig organ i forvaltningsområdet: ethvert fylkeskommunalt og statlig organ som har en tjenestekrets som helt eller delvis omfatter flere av kommunene i forvaltningsområdet for samisk språk, men som likevel ikke er landsomfattende.</p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78, endret ved lov 17 juni 2005 nr. 99 (ikr. 1 jan 2006 iflg. res.</p>
+    <p>17 juni 2005 nr. 656).</p>
+    <p><em type="bold">§ 3-2. </em><em type="italic">Oversettelse av regler. Kunngjøringer og skjema</em> Lover og forskrifter av særlig interesse for hele eller deler av den samiske befolkning, skal oversettes til samisk. </p>
+    <p>Kunngjøringer fra offentlige organ som særlig retter seg mot hele eller deler av befolkningen i forvaltningsområdet, skal skje både på samisk og norsk.</p>
+    <p>Skjema til bruk overfor et lokalt eller regionalt offentlig organ i forvaltningsområdet skal foreligge både på samisk og norsk. Kongen gir nærmere regler om iverksetting av denne bestemmelsen.</p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-3. </em><em type="italic">Rett til svar på samisk</em> Den som henvender seg på samisk til et lokalt offentlig organ i forvaltningsområdet, har rett til svar på samisk. Dette gjelder likevel ikke ved muntlige henvendelser til tjenestemenn som utfører oppdrag utenfor organets kontor. </p>
+    <p>Den som henvender seg skriftlig på samisk til et regionalt offentlig organ i forvaltningsområdet, har rett til skriftlig svar på samisk. Kongen kan i særlige tilfeller gjøre unntak for bestemte regionale offentlige organ.</p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78 (ikr. 1 jan</p>
+    <p>1993).</p>
+    <p><em type="bold">§ 3-4. </em><em type="italic">Utvidet rett til bruk av samisk i</em> <em type="italic">rettsvesenet</em> For domstoler med embetskrets som helt eller delvis omfatter forvaltningsområdet, gjelder i tillegg følgende regler om bruk av samisk: </p>
+    <p>1. Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.</p>
+    <p>2. Enhver har rett til å henvende seg muntlig til domstolen på samisk dersom rettergangslovgivningen gir adgang til muntlig istedenfor skriftlig henvendelse. Har domstolen plikt til å nedtegne henvendelsen, kan den som fremmer henvendelsen, kreve at nedtegnelsen skjer på samisk. Et slikt krav bryter ingen frist. Nr. 1 andre og tredje punktum gjelder tilsvarende.</p>
+    <p>3. Enhver har rett til å tale samisk i rettsmøter. Skal noen som ikke kan samisk delta i forhandlingene, brukes en tolk som retten har oppnevnt eller godkjent.</p>
+    <p>4. Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.</p>
+    <p>5. Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.</p>
+    <p>6. Domstolen sørger for at rettsbøker som er skrevet på norsk, oversettes til samisk når en part krever det. Et slikt krav bryter ingen frist.</p>
+    <p>14 For politi og påtalemyndighet med tjenestekrets som helt eller delvis omfatter forvaltningsområdet, gjelder i tillegg følgende regler om bruk av samisk:</p>
+    <p>1. Enhver har rett til å tale samisk i avhør på organets kontor.</p>
+    <p>2. Enhver har rett til å bruke samisk ved muntlig anmeldelse og rettsmiddelerklæring.</p>
+    <p>For kriminalomsorgens anstalter i Troms og Finnmark gjelder i tillegg følgende regler om bruk av samisk: 1. § 3-5 gjelder tilsvarende for innsatte.</p>
+    <p>2. Innsatte har rett til å bruke samisk overfor hverandre og overfor sine pårørende.</p>
+    <p>3. Innsatte har rett til å bruke samisk ved muntlig rettsmiddelerklæring til fengselsmyndigheten.</p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78, endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg.</p>
+    <p>res. 20 juni 2003 nr. 712), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88)</p>
+    <p>som endret ved lov 26 jan 2007 nr. 3.</p>
+    <p><em type="bold">§ 3-5. </em><em type="italic">Utvidet rett til bruk av samisk i</em> <em type="italic">helse- og sosialsektoren</em> Den som ønsker å bruke samisk for å ivareta egne interesser overfor lokale og regionale offentlige helse- og sosialinstitusjoner i forvaltningsområdet, har rett til å bli betjent på samisk. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-6. </em><em type="italic">Individuelle kirkelige tjenester</em> Enhver har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i forvaltningsområdet. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-7. </em><em type="italic">Rett til utdanningspermisjon</em> Tilsatte i et lokalt eller regionalt offentlig organ i forvaltningsområdet har rett til permisjon med lønn for å skaffe seg kunnskap i samisk når organet har behov for slik kunnskap. Retten kan gjøres avhengig av at den tilsatte forplikter seg til å arbeide for organet en viss tid etter utdanningen. Kongen gir nærmere regler om gjennomføringen av disse bestemmelsene. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-8. </em><em type="italic">Rett til opplæring i samisk</em> Enhver har rett til opplæring i samisk. Kongen kan gi nærmere regler om gjennomføringen av denne bestemmelsen. For opplæring i og på samisk gjelder reglene i og i medhold av lov om grunnskolen og den vidaregåande opplæringa (opplæringslova). </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78, endret ved lov 17 juli 1998 nr. 61 (ikr. 1 aug 1999 iflg.</p>
+    <p>res. 27 nov 1998 nr. 1096).</p>
+    <p><em type="bold">§ 3-9. </em><em type="italic">Samisk i den kommunale forvaltning</em> Kommunestyret kan bestemme at samisk skal være likestilt med norsk i hele eller deler av den kommunale forvaltning. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-10. </em><em type="italic">Utvidelse av bestemmelsenes virkeområde</em> Kongen kan fastsette at bestemmelsene i dette kapitlet som er begrenset til lokale eller regionale offentlige organ i forvaltningsområdet, helt eller delvis også skal gjelde for andre offentlige organ eller for private rettssubjekt når de treffer vedtak på vegne av stat eller kommune. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-11. </em><em type="italic">Klage</em> Dersom et offentlig organ ikke følger bestemmelsene i dette kapitlet, kan den som saken direkte gjelder, klage til det organet som er nærmest overordnet det organet klagen angår. Fylkesmannen er klageinstans når klagen angår kommunale eller fylkeskommunale organ. Også landsomfattende samiske organisasjoner og landsomfattende offentlige organer med oppgaver av særlig betydning for hele eller deler av den samiske befolkningen, har klagerett i slike saker. Det samme gjelder i saker hvor ingen enkeltperson er særskilt berørt. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78.</p>
+    <p><em type="bold">§ 3-12. </em><em type="italic">Organisering av samisk språkarbeid</em> Sametinget skal arbeide for vern og videre utvikling av samiske språk i Norge. Sametinget utarbeider hvert fjerde år en rapport til Kongen om situasjonen for samiske språk i Norge. </p>
+    <p>Tilføyd ved lov 21 des 1990 nr. 78, endret ved lov 13 des 2002 nr. 81 (ikr. 1 jan 2003 iflg. res.</p>
+    <p>13 des 2002 nr. 1394).</p>
+    <p>Kárášjohka</p>
+    <p>Karasjok</p>
+    <p>Deatnu Tana</p>
+    <p>Deanušaldi Tanabru</p>
+  </body>
+</document>

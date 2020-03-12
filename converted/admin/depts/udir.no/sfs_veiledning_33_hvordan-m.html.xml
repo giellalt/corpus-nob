@@ -1,0 +1,51 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>491</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Artiklerressurser/Hvordan-m/index.html</origFileName>
+    <parallel_text xml:lang="sma" location="sfs_veiledning_33_hvordan-ma.html"/>
+    <parallel_text xml:lang="sme" location="sfs_veiledning_33_hvordan-man-lager-et.html"/>
+    <parallel_text xml:lang="smj" location="sfs_veiledning_33_gaktu-sji.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Hvordan man lager et regneark-skjema for å drille ordbøying</p>
+    <p type="title">Hvordan man lager et regneark-skjema for å drille ordbøying</p>
+    <p>Hovedinnhold</p>
+    <p>Dersom læreren lagrer et tomt dokument som en mal, kan han eller hun bruke den til å lage tilsvarende øvinger senere. For å opprette en tom mal som fylles ut senere, brukes lagringsmuligheten Lagre som -&gt; filtype: Regneark-mal.</p>
+    <list>
+      <p type="listitem">Åpne en ny tom arbeidsbok i et regnearkprogram</p>
+      <p type="listitem">2. Fyll inn nødvendig informasjon i cellene. Disse rutene bør ikke ha kantlinjer fordi cellene må være gode å lese. a. Celle A1: Skriv inn en passende overskrift, for eksempel <span type="quote">“Bøy verbet”</span>. b. Rad 2 skal være tom. c. Celle A3: Dette er et felt hvor eleven skriver inn navnet sitt. Elevene skriver i celle B3. Denne ruten kan gjerne fargelegges. d. Celle D3: Her skrives dato dersom det er ønskelig. Bruk gjerne funksjonen ‘Sett inn dato’. Den finnes under fanen <span type="quote">”Sett inn”</span>. e. Rad 4 er tom. Dersom læreren er avansert bruker, kan også denne slettes. Han eller hun kan regulere radhøyden på 5. rad. f. Celle A5: Sett inn setningen <span type="quote">“Hvilket verb skal du bøye?”</span> Skriv inn infinitivsformen av verbet som skal bøyes i celle D3. Ruta med verbet kan gjerne fargelegges. g. Kolonne C skal senere skjules. Derfor må ikke stoff som skal vises for elevene, skrives i denne ruta. Hvordan kolonnen skjules, er beskrevet senere.</p>
+    </list>
+    <p>Nå kommer det som har virkelig relevans for drilløvelsen.</p>
+    <list>
+      <p type="listitem">Marker cellene mellom A6 og E16. Velg <span type="quote">”Kantlinjer”</span>, og sett kantlinjer rundt alle cellene. Da er det lettere for elevene og læreren å se hva som er hva.</p>
+      <p type="listitem">Juster kolonnebredder slik at de passer til tekstlengdene. Dette kan gjøres både før arbeidet starter eller senere.</p>
+      <p type="listitem">Rad 6 brukes til overskrifter i tabellen som elevene skal fylle ut: a. Celle A6 er tom b. Celle B6: Skriv inn <span type="quote">“Presens”</span> eller <span type="quote">“Preteritum”</span> eller et annet ord som beskriver verbets tid. c. Celle C6: Skriv inn <span type="quote">“Fasit”</span> eller et annet passende ord. Denne raden skal ikke elevene se, overskriften er mest for inntasteren. d. Celle D6: Skriv <span type="quote">“Resultat”</span>. e. Celle E6: Skriv <span type="quote">”Poeng”</span>.</p>
+      <p type="listitem">Fyll inn de personlige pronomenene fortløpende nedover i kolonne A.</p>
+      <p type="listitem">Kolonne B er kolonnen elevene skal skrive inn i. Denne skal være tom.</p>
+      <p type="listitem">Kolonne C er fasiten. Læreren skriver inn de riktige verbbøyningene. Dette brukes som grunnlag for tilbakemeldingen til elevene. Det er helt avgjørende at fasiten er riktig.</p>
+      <p type="listitem">Kolonne D er formelkolonnen. Her skrives denne formelen inn i celle D7: =HVIS(B7=C7;<span type="quote">"Bra!";"</span>Prøv en gang til.")</p>
+      <p type="listitem">For å gjøre dette raskere kan læreren kopiere cellen D7 og lime inn i de påfølgende radene i kolonne D.</p>
+      <p type="listitem">Kolonne E: Her får eleven ett poeng for rett svar, 0 poeng for galt svar. Dette er valgt for å gjøre formelen enkel.</p>
+      <p type="listitem">Summer kolonnene i E, formel: =SUMMER(E6:E22)</p>
+      <p type="listitem">Skjul Kolonne C ved å markere kolonnen. Klikk på C øverst i kolonnen. Kolonnen skal da skifte farge. Hold markøren inne på kolonnen. Høyreklikk, og velg <span type="quote">”Skjul”</span>.</p>
+      <p type="listitem">Du kan også låse celler</p>
+    </list>
+  </body>
+</document>

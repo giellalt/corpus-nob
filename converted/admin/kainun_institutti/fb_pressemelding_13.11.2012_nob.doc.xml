@@ -1,0 +1,104 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title> 
+Untitled
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/>
+    </translator>
+    <wordcount>669</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+      <language xml:lang="fkv"/>
+    </multilingual>
+    <parallel_text xml:lang="fkv" location="fb_pressemelding_13.11.2012.doc"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fkv">
+      <em type="bold">Facebook </em>
+      <em type="bold">in käytetyimät </em>
+      <em type="bold">sanat </em>
+      <em type="bold">kväänin eli kainun kielelä </em>
+    </p>
+    <p xml:lang="fkv">Facebookin käytetyimät sanat ja toiminot oon nyt käänetty kväänin eli kainun kielele. Tämä oon ollu maholista vähemistökielitten käänösprošektin avula. Monet vähemistökielet, niin ko kväänin kieli, ei kuulu niitten 100 viralisen Facebook-kielen joukkhoon.</p>
+    <p xml:lang="fkv">Jotta voit käyttää Facebookia kväänin kielelä, sie tarvittet vasituisen skriptin joka tekkee muutoksia nettisivula. Skriptin asenat netinlukijhaan ja se vaihettaa Facebookin norjan- eli ruijankieliset sanat kväänin kielele.</p>
+    <p xml:lang="fkv">Kainun institutti - Kvensk institutt oon kääntäny <em type="bold">200 tärkeintä sannaa </em><em type="bold">ja toimintoa </em><em type="bold">tätä skriptiä varten </em>. Sanat oon käänetty kahele eri variantile: <em type="bold">Kvääni/Kainu (öystä) ja Kvääni/Kainu (vesta) </em>. Sie saatat valita kumpaa varianttia käytät. Pääkielenä oon <em type="bold">Norsk (bokmål). </em></p>
+    <p xml:lang="fkv">
+      <em type="bold">Käänösfiilin asen </em>
+      <em type="bold">us </em>
+    </p>
+    <p xml:lang="fkv">Tästä löyät neuvot kunka asenat skriptin Chrome- ja Firefox-netinlukijhaan. Skripti toimii parhaiten Chrome-netinlukijassa. Chromen asenat helposti, ja sitä oon nopea ja helppo käyttää.</p>
+    <p xml:lang="fkv">
+      <em type="bold">Chrome </em>
+    </p>
+    <p xml:lang="fkv">Valitte tältä sivulta sen variantin jonka haluat asentaa:</p>
+    <p xml:lang="fkv">
+      <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile </em>
+    </p>
+    <p xml:lang="fkv">Valitte ensin Chrome-linkin jotta pääset sivule Chrome Web Store. Klikkaa sitte sinistä <span type="quote">”Legg til chrome”</span>- knappia, mikä oon ylhäälä oikealla.</p>
+    <p>
+      <em type="bold">Firefox </em>
+    </p>
+    <p xml:lang="fkv">Greasemonkey-skripti oon netinlukijan lisäosa, joka tekkee muutoksia nettisivuile ennen ko net näkyvä käyttäjälle. Skriptin asenat klikkaamalla tätä fiiliä: <em type="italic">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ </em></p>
+    <p xml:lang="fkv">Valitte tältä sivulta sen variantin jonka haluat asentaa:</p>
+    <p xml:lang="fkv">
+      <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile </em>
+    </p>
+    <p xml:lang="fkv">Asena skriptin ja valitte sitte Facebookin pääkieleksi tämän: Norsk (bokmål). Net sanat, joita ei ole vielä käänetty kvääniksi, näkyvä silloin norjaksi eli ruijaksi.</p>
+    <p xml:lang="fkv">
+      <em type="bold">Facebookissa tahtuu </em>
+      <em type="bold">koko aijan </em>
+      <em type="bold">muutoksia. </em>
+      <em type="bold">Sen tähen jokku käänökset saattava muutamisti näkyä tyhä ruijaksi eli norjaksi. </em>
+    </p>
+    <p xml:lang="fkv">
+      <em type="bold">Käänöksiä jo yli 30 vähemistökielelä </em>
+    </p>
+    <p xml:lang="fkv">Kanadalainen Neskie Manuel aloitti tämän prošektin siksi ko hän halusi kääntää Facebookin hänen omale First Nations-kielele, Secwepemctsínille. Neskie Manuel kuoli viimi vuona, ja professori Kevin Scannell halusi kunnioittaa hänen muistoa ja jatkoi prošektia. Hän muutti skriptiä niin, ette se toimii kaikila kielilä, ja hän oon tehny skriptin kans kväänin kieliväršuunia varten.</p>
+    <p xml:lang="fkv">Facebookin käyttäminen kväänin kielelä voi antaa monipuolisen kielikokemuksen, ja samala opit monta uutta sannaa.</p>
+    <p xml:lang="fkv">Nyt oon jo yli kolmekymmentä vähemistökieltä saanheet oman käänöksen. Monet näistä kielistä oon uhattuja kieliä: <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/LINGUAS </em>. </p>
+    <p xml:lang="fkv">Met lähätämmä suuren kiitoksen Kevin Scannellile Amerikkhaan, ko hän oon työtely vähemistökielitten ja uusien medioitten etheen.</p>
+    <p xml:lang="fkv"><em type="bold">Kainun institutti </em><em type="bold">Facebookissa </em><em type="bold">. </em><em type="bold">Ota kontaktin </em>: <em type="italic">www.facebook.com/Kvenskinstitutt </em></p>
+    <p>
+      <em type="bold">Facebook </em>
+      <em type="bold">s </em>
+      <em type="bold">mest brukte funksjoner på </em>
+      <em type="bold">kvensk </em>
+    </p>
+    <p>Facebooks hovedfunksjoner er blitt oversatt til kvensk med hjelp av oversettingsprosjekt for minoritetsspråk. Mange små språk, som kvensk, er ikke bland de 100 offisielle Facebook-språk. Oversettelse brukes med en skreddersydd skript som gjør endringer på websider, før de vises for brukere. Skripten installerer du på nettleseren din, og den skifter norske ord til kvensk på Facebook. Kainun institutti - Kvensk institutt har oversatt <em type="bold">c </em><em type="bold">a 200 </em><em type="bold">av de mest sentrale Facebook-ord </em><em type="bold">ene </em><em type="bold">for skripten. </em></p>
+    <p>Du kan velge mellom oversettelse på øst- eller vestdialekt: <em type="bold">Kvääni/Kainu (öystä) og Kvääni/Kainu (vesta). Hovedspråk på Facebook er Norsk (bokmål). </em></p>
+    <p>
+      <em type="bold">Innstallering av språkfiler </em>
+    </p>
+    <p>Her finner du bruksveiledning til nettlesere Chrome og Firefox som du må ha installert på din maskin. Det er anbefalt å installere skripten på nettleseren Chrome. Chrome tilbyr den enkleste installasjonen, raskeste ytelse og færrest feil.</p>
+    <p xml:lang="fkv">
+      <em type="bold">Chrome </em>
+    </p>
+    <p>Velg dialekten du vil installere på tabellen nedenfor på siden: <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile </em>Følg linken Chrome til Chrome Web Store, og klikk blå <span type="quote">"Legg til i Chrome"</span> knappen øverst til høyre på siden. </p>
+    <p>
+      <em type="bold">Firefox </em>
+    </p>
+    <p>Greasemonkey-skript er et tillegg til nettleseren. Skripten installerer du ved å klikke på filen: <em type="italic">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ </em>. </p>
+    <p>Velg dialekten du vil installere på tabellen nedenfor på siden: <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/INSTALL.textile </em></p>
+    <p>Facebook forandrer seg stadig og dette kan forårsake at enkelte oversatte ord av og til vises på norsk.</p>
+    <p>
+      <em type="bold">Oversettelser for over 3 </em>
+      <em type="bold">0 minoritetsspråk </em>
+    </p>
+    <p>Kanadansk Neskie Manuel skapte prosjektet for at oversette Facebook til hans eget First Nations språk, Secwepemctsín. Etter Manuels tidlig bortgang i fjor og som hyllest til hans minne, overtok professor Kevin Scannell prosjektet. Han generaliserte skripten til å fungere med alle språk, og har laget skripten til den kvenske språkversjonen. Facebook på kvensk kan tilby en oppslukende språkopplevelse. Du blir også kjent med masse ny, moderne ord. Hittil over tretti minoritetsspråk har laget oversettelser, mange av dem er truede språk: <em type="italic">https://github.com/kscanne/secwepemc-facebook/blob/master/LINGUAS </em>Vi sender en stor takk til Kevin Scannell i USA for hans arbeid med minoritetsspråk og nye medier. </p>
+    <p xml:lang="fkv"><em type="bold">Kontakt oss på Facebook </em>: <em type="italic">www.facebook.com/Kvenskinstitutt </em></p>
+  </body>
+</document>

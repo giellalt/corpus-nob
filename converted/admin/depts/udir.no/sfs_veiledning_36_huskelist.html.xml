@@ -1,0 +1,41 @@
+<document xml:lang="nob" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>53</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="nob"/>
+    </multilingual>
+    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Artiklerressurser/Huskelist/index.html</origFileName>
+    <parallel_text xml:lang="sma" location="sfs_veiledning_36_huskeliste.html"/>
+    <parallel_text xml:lang="sme" location="sfs_veiledning_36_a-skrive-sammendrag1.html"/>
+    <parallel_text xml:lang="smj" location="sfs_veiledning_36_mujttolis.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Udir.no - Huskeliste for skriftlig samisk</p>
+    <p type="title">Huskeliste for skriftlig samisk</p>
+    <p>Hovedinnhold</p>
+    <list>
+      <p type="listitem">Finn verbet eller verbene.</p>
+      <p type="listitem">Finn subjektet.</p>
+      <p type="listitem">Skriv verbet i rett tid.</p>
+      <p type="listitem">Bøy verb etter person.</p>
+      <p type="listitem">Dersom det er et hjelpeverb i setningen, må du bøye det.</p>
+      <p type="listitem">Hovedverbet skal da stå i infinitiv.</p>
+      <p type="listitem">Finn objektet. Objektet skal stå i akkusativ.</p>
+      <p type="listitem">Finn andre kasus.</p>
+    </list>
+  </body>
+</document>
