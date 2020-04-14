@@ -1,574 +1,500 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <place>http://www.fug.no/cgi-bin/fug/imaker?id=27768</place>
-    <wordcount>4439</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Joseph Fjellgren" email="joseph.fjellgren@samediggi.no"/>
-    <origFileName>http://www.fug.no/data/f/0/28/58/8_2401_0/Tid_for_samtale_bm_nett.pdf</origFileName>
-    <parallel_text xml:lang="nno" location="tid_for_samtale_nyn_nett.pdf"/>
-    <parallel_text xml:lang="sma" location="tid_for_samtale_sorsamisk.pdf"/>
-    <parallel_text xml:lang="sme" location="tid_for_samtale_nordsamisk.pdf"/>
-    <parallel_text xml:lang="smj" location="tid_for_samtale_lulesamisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.3 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tid for samtale</p>
-    <p><em type="bold">Hjem og skole sammen om elevens læring og utvikling</em> </p>
-    <p> <em type="bold">Konferansetime = Utviklingssamtale</em> </p>
-    <p> <em type="bold">Forberedelse</em> </p>
-    <p> <em type="bold">Organisering og rammer</em> </p>
-    <p> <em type="bold">Innholdet i samtalen</em> </p>
-    <p> <em type="bold">Spesielle utfordringer</em> </p>
-    <p>Tid for samtale</p>
-    <p>Hjem og skole sammen om elevens læring og utvikling</p>
-    <p>Foreldreutvalget for grunnskolen</p>
-    <p>© FUG 2005</p>
-    <p>Printed in Norway</p>
-    <p>Layout: emk</p>
-    <p>Mal: deville design</p>
-    <p>Trykk: AS Papermill</p>
-    <p>Kåre Lutro og Marianne Vangsnes</p>
-    <p>i samarbeid med FUG</p>
-    <p>Illustrasjoner: Ragnhild Ronja Berge</p>
-    <p>Foreldreutvalget for grunnskolen</p>
-    <p>Postboks 8119 Dep.</p>
-    <p>0032 Oslo</p>
-    <p>Tlf.:22 24 75 63</p>
-    <p>Faks: 22 24 75 90</p>
-    <p>www.fug.no</p>
-    <p>www.foreldrenettet.no</p>
-    <p>post@fug.no</p>
-    <p>1. utgave 1. opplag 2005</p>
-    <p>ISBN: 82-92517-62-6</p>
-    <p>FORORD</p>
-    <p>Alle foreldre ønsker en positiv utvikling for barna sine, og skolen er en av de vik</p>
-    <p>tigste medspillerne til denne utviklingen. Foreldrekonferansen er en sentral møte</p>
-    <p>plass for samarbeidet om barnet/eleven. I dette heftet vil vi bruke ordet</p>
-    <p>utviklingssamtale i stedet for foreldrekonferanse. Ordet utviklingssamtale under</p>
-    <p>streker hva denne samtalen skal handle om; hvordan eleven fungerer, lærer og</p>
-    <p>utvikler seg.</p>
-    <p>Foreldreutvalget for grunnskolen gir ut heftet Tid for samtale for å bidra til</p>
-    <p>bedre samarbeid mellom hjem og skole. Foreldrekonferansen er en av de viktigste</p>
-    <p>arenaene for samarbeid rundt barnet.</p>
-    <p>Heftet er skrevet for både foreldre og lærere. I heftet brukes ordet <em type="italic">foreldre</em> </p>
-    <p>både om <em type="italic">foreldre </em>og <em type="italic">foresatte</em>. </p>
-    <p>Tid for samtale er utarbeidet av lærere og foreldre i Os kommune i Hordaland. Os</p>
-    <p>kommune har i flere år arbeidet med metoder for veiledning og vurdering av</p>
-    <p>elever. I samarbeid med Fusa kommune har en prosjektgruppe utviklet et verktøy</p>
-    <p>for systematisk arbeid med vurdering uten karakterer (VUK)1. I dette heftet er</p>
-    <p>det brukt materiale fra VUK-prosjektet.</p>
-    <p>Elevene skal ha vurdering uten karakterer g jennom hele grunnopplæringen. I de</p>
-    <p>tre siste årene i grunnskolen og på videregående skole kommer vurdering med</p>
-    <p>karakterer i tillegg. Vurderingsverktøyet VUK er tatt i bruk ved alle skoler i de to</p>
-    <p>kommunene og er en viktig del av grunnlaget for utviklingssamtalene.</p>
-    <p>Dette heftet er en kort veiledning til innholdet i utviklingssamtalen. Vi håper</p>
-    <p>heftet vil inspirere både foreldre og lærere og medvirke til å lage gode rammer</p>
-    <p>for samtalen og samarbeidet rundt eleven.</p>
-    <p>FUG vil takke undervisningsinspektør Kåre Lutro og adjunkt Marianne Vangsnes</p>
-    <p>ved Søfteland skule som har ført heftet i pennen. FUG vil også takke Kristin og</p>
-    <p>Bjørn Halvor Haukeland, Lill-Karin Wallem og Per Olav Sørås som har gitt innspill til</p>
-    <p>innholdet.</p>
-    <p>Foreldreutvalget for grunnskolen</p>
-    <p>Juni 2005</p>
-    <p><em type="italic">1. Mer informasjon om VUK finner du på: www.vuk.no</em> </p>
-    <p>GRUNNLAGET</p>
-    <p><em type="bold">Vurdering og veiledning</em> </p>
-    <p>Kontaktlæreren har hovedansvar for å kalle inn til utviklingssamtalen, og han skal</p>
-    <p>legge til rette for et samarbeid med foreldrene om innhold og ramme for</p>
-    <p>samtalen. Vi kommer tilbake til hvordan dette kan g jøres.</p>
-    <p>
-      <em type="italic">FFoorrsskkrriifftt  ffoorr  ggrruunnnnsskkoolleenn  §§  33--2,,  ssiieerr  bbllaanntt  aannnneett  ddeettttee  oomm  kkoonnttaakktteenn  mmeelllloomm  sskkoollee  oogg  hhjjeemm::  </em>
-    </p>
-    <p><em type="italic">- Skolen skal halde god kontakt med foreldra. Kontaktlæraren skal minst to gonger om året ha ein</em> </p>
-    <p><em type="italic">planlagd og strukturert samtale med dei. I samtalen skal kontaktlæraren mellom anna gjere greie for</em> </p>
-    <p>
-      <em type="italic">korleis eleven står i høve til dei måla som er sette i læreplanverket og korleis eleven arbeider til dag</em>
-    </p>
-    <p><em type="italic">leg. Samtalen skal munne ut i ei oppsummering, mellom anna med sikte på å bli einige om kva det</em> </p>
-    <p>
-      <em type="italic">særskilt skal leggjast vekt på i det vidare arbeidet. Etter fylte 12 år har eleven rett til å vere med. </em>
-    </p>
-    <p>Det er som oftest naturlig og nyttig at eleven deltar i utviklingssamtalen. Noen</p>
-    <p>ganger kan det likevel være grunner til at samtalen bare bør være mellom lærer</p>
-    <p>og foreldre. Dette må partene avtale  på forhånd. Når vi i dette heftet bruker</p>
-    <p>eksempler på hvordan utviklingssamtaler kan g jennomføres, tar vi utgangspunkt i</p>
-    <p>samtaler der elev, foreldre og lærer er tilstede.</p>
-    <p>En utviklingssamtale mellom eleven, læreren og foreldrene må være godt planlagt.</p>
-    <p>Og for at partene i møtet skal kjenne seg likeverdige, må innholdet i samtalen</p>
-    <p>være kjent for alle. Strukturen for samtalen må likevel ikke være så stram at det</p>
-    <p>ikke er rom for innspill underveis.</p>
-    <p>Alle elever har rett til veiledning og vurdering de 10 årene de går i grunnskolen.</p>
-    <p>Denne veiledningen og vurderingen skal si noe om hvordan eleven fungerer faglig</p>
-    <p>og sosialt, og hvilke arbeidsmetoder eleven mestrer. Samtalen må også være en</p>
-    <p>dialog om arbeidet videre.</p>
-    <p><em type="italic">FFoorrsskkrriifftt  ffoorr  ggrruunnnnsskkoolleenn  §§  33--1  oogg      §§  33--3,,  ssiieerr  bbllaanntt  aannnneett  ddeettttee  oomm  vvuurrddeerriinngg::</em> </p>
-    <p><em type="italic">- På barnesteget skal skolen berre nytte vurdering utan karakterar. På ungdomssteget skal eleven, i</em> </p>
-    <p>
-      <em type="italic">tillegg til vurdering utan karakterar, ha fagkarakterar og karakterar i orden og åtferd. </em>
-    </p>
-    <p>Fordi ros fremmer utvikling, er det viktig å legge vekt på elevens positive</p>
-    <p>mestring når det g jelder faglig og sosial kompetanse og bruk av arbeidsmetoder.</p>
-    <p>Selv om samtalen tar utgangspunkt i elevens sterke sider, må en også ta opp spesielle utfordringer for eleven. I tillegg må man vurdere tilrettelegging og</p>
-    <p>oppfølging fra læreren og foreldrene.</p>
-    <p>En utviklingssamtale må føre til enighet om hvilke mål man skal arbeide mot i</p>
-    <p>perioden som kommer. Dette kan g jøres som en skriftlig avtale mellom skole, elev</p>
-    <p>og hjem. En slik avtale kan inneholde mål for elev, lærer og foreldre. (Se eksempel</p>
-    <p>på avtale på s. 13)</p>
-    <p>FORBEREDELSE</p>
-    <p>Det finnes ulike modeller for å forberede og organisere en utviklingssamtale.</p>
-    <p>Uansett hvilken modell man velger, er det viktig å sikre at utviklingssamtalen fører</p>
-    <p>til et  samarbeid mellom eleven, foreldrene og skolen.</p>
-    <p><em type="bold">Foreldre og skole</em> </p>
-    <p>For å sikre godt samarbeid, kan utviklingssamtalen for eksempel være tema på et</p>
-    <p>foreldremøte. Der kan både læreren og foreldrene komme med innspill til hva</p>
-    <p>samtalen skal handle om. Læreren kan også sende ut et skriv om samtalen der</p>
-    <p>foreldrene blir oppfordret til å skrive ned saker de ønsker å ta opp. Når læreren</p>
-    <p>får skrivet tilbake, kan han tilpasse innholdet til hver enkelt samtale.</p>
-    <p>En spørreundersøkelse blant foreldrene om utviklingssamtalen kan også være</p>
-    <p>nyttig. Eksempler på spørsmål kan være:</p>
-    <p>Hvilke tema bør utviklingssamtalen inneholde?  Hvor ofte bør skole og foreldre møtes i løpet av skoleåret?  Hvor lang bør samtalen være?  Hvem bør være til stede under samtalen?</p>
-    <p>1: Elev og lærer/</p>
-    <p>forberedelse 2: Elev/foreldre –</p>
-    <p>forberedelse hjemme 3: Utviklingssamtalen,</p>
-    <p>forberedt av alle.</p>
-    <p><em type="bold">NAVN:</em> </p>
-    <p><em type="bold">Område: RESPEKT OG TOLERANSE</em> </p>
-    <p><em type="bold">Kriterier:Svært ofte Ofte  Av og til Sjelden Merknad:</em> </p>
-    <p>Jeg viser tålmodighet med dem som</p>
-    <p>trenger det</p>
-    <p>Jeg støtter og forsvarer dem som blir krenket</p>
-    <p>Jeg respekterer andres rett til å ha</p>
-    <p>egne meninger</p>
-    <p>Jeg respekterer andres egenart</p>
-    <p><em type="bold">Elev og lærer</em> </p>
-    <p><em type="italic">Eksempel på skjema</em> </p>
-    <p>Allerede i barneskolen kan elever være modne nok til å delta under forberedelser</p>
-    <p>til utviklingssamtalen. I ungdomsskolen er det satt av egne timer til klasseråds</p>
-    <p>møte som kan brukes til slike forberedelser. Hva ønsker elevene å diskutere i</p>
-    <p>samtalen? Sammen med læreren kan de finne fram til passende tema.</p>
-    <p>Elever på 5. og 8. trinn mener blant annet dette om utviklingssamtalen:</p>
-    <p>Eleven må være med i utviklingssamtalen, det er  jo han det handler om.  Møtet må vare i minst 30 minutter, slik at det</p>
-    <p>ikke blir stress, og alle får snakke.</p>
-    <p>Det er fint å forberede seg til samtale.  Det er viktig å sammenligne seg med seg</p>
-    <p>selv, ikke med de andre.</p>
-    <p>Det er gøy med gode tilbakemeldinger</p>
-    <p>fra læreren.</p>
-    <p>Det er flaut når læreren skryter av meg,</p>
-    <p>men litt gøy også!</p>
-    <p>Det er viktig å snakke om det positive, det</p>
-    <p>som går bra, men en må vel få høre om det</p>
-    <p>dumme også.</p>
-    <p>Det g jør vondt i halsen når vi snakker om noe dumt.</p>
-    <p>At innholdet i samtalen er kjent for eleven, skaper trygghet. I elevsamtalen,</p>
-    <p>samtalen mellom lærer og elev, kan en forberede utviklingssamtalen. Her kan</p>
-    <p>eleven få hjelp til å vurdere seg selv når det g jelder faglig og sosial utvikling, og</p>
-    <p>hvordan han eller hun mestrer de ulike arbeidsmetodene. I samtalen bør en også</p>
-    <p>ta opp hva eleven mener om sin egen læring. Er det noe som burde være anner</p>
-    <p>ledes på skolen eller hjemme, slik at læring og utvikling kan bli bedre? Eleven og</p>
-    <p>læreren forbereder hvordan dette skal presenteres i utviklingssamtalen. Sammen</p>
-    <p>kan de formulere nye mål som eleven skal arbeide mot i tiden som kommer. Slik</p>
-    <p>elevdeltakelse kan være motiverende.</p>
-    <p>Når elevene blir eldre, kan det være nyttig å bruke et egenvurderingsskjema for</p>
-    <p>faglig og sosial utvikling. Et utfylt skjema er et godt grunnlag for samtalen med</p>
-    <p>læreren. Lignende skjema kan også brukes i utviklingssamtalen.</p>
-    <p><em type="bold">Elev og foreldre</em> </p>
-    <p>Når eleven og foreldrene er kjent med innholdet i samtalen, kan de forberede seg</p>
-    <p>til møtet. Som en hjelp til forberedelsene kan læreren sende et skriv med spørs</p>
-    <p>mål om elevens utvikling den siste tiden. En kan f. eks. spørre om:</p>
-    <p>Hvilke fag synes du selv at du mestrer godt?  Hvilke arbeidsmåter liker du å bruke?  Hvem er du sammen med på skolen?  Hva liker du å g jøre i friminuttene?</p>
-    <p>Å forberede utviklingssamtalen sikrer at samtalen blir brukt til det som er vik</p>
-    <p>tigst; å bygge opp eleven og motivere ham eller henne til de utfordringene som</p>
-    <p>møter dem i skolehverdagen. Gode forberedelser skaper positive forventninger og</p>
-    <p>trygge rammer for alle parter.</p>
-    <p>ORGANISERING OG RAMMER</p>
-    <p>
-      <em type="bold">Invitasjonen </em>
-    </p>
-    <p>Noen skoler legger fremdeles opp til at utviklingssamtaler skal holdes på etter</p>
-    <p>middags- eller kveldstid, men stadig flere skoler prøver nå å holde samtalene på</p>
-    <p>dagtid. Både lærer og foreldre må være fleksible for å finne et passende tids</p>
-    <p>punkt for samtalen. Men skolen har plikt til å legge til rette forholdene slik at alle</p>
-    <p>foreldrene kan komme.</p>
-    <p><em type="bold">Til Gunvor og Hans</em> </p>
-    <p>Det er tid for utviklingssamtale. De som skal møte er: foreldre, elev og</p>
-    <p>kontaktlærer. Vel møtt!</p>
-    <p>Møtested: Biblioteket      Dato: onsdag 30.04          Tid: kl. 14.00 - 14.30</p>
-    <p>Tema for samtalen er:</p>
-    <p>
-      <em type="bold">Faglig utvikling </em>
-    </p>
-    <p>norsk rett</p>
-    <p><em type="italic">Eksempel på skjema</em> </p>
-    <p><em type="bold">Aktivitet i timene</em> </p>
-    <p>muntlig</p>
-    <p>friminutt og</p>
-    <p>skriving (og/å)</p>
-    <p>aktivitet</p>
-    <p>venner</p>
-    <p>leksene</p>
-    <p>matematikk (algebra)  engelsk</p>
-    <p>konsentrasjon</p>
-    <p>timene og</p>
-    <p>samarbeid <em type="bold">Hjemmearbeid</em> </p>
-    <p>når g jøres</p>
-    <p>arbeids</p>
-    <p>vaner</p>
-    <p>(leseflyt/uttale)</p>
-    <p>om arbeids</p>
-    <p>oppgavene <em type="bold">Trivsel</em> </p>
-    <p>Hilsen</p>
-    <p>Invitasjon til utviklingssamtalen må sendes hjem i god tid. En idé kan være at hver</p>
-    <p>elev inviterer egne foreldre. I samråd med læreren finner man fram til passende</p>
-    <p>tidspunkt og sender hjem en personlig invitasjon. Andre ganger kan det være</p>
-    <p>mest nyttig å sende en felles invitasjon til foreldrene i klassen der de kan krysse</p>
-    <p>av på ønskelige tidspunkt.</p>
-    <p>Som tidligere nevnt er det i dag vanlig at eleven deltar i samtalen allerede fra 2.</p>
-    <p>eller 3. trinn. Elevmedvirkning er nyttig, men de voksne kan noen ganger ha behov</p>
-    <p>for å snakke sammen uten barna. Kanskje bør de voksne møtes én gang i året</p>
-    <p>uten barn.</p>
-    <p>Noen foreldre sier dette om hvem som bør delta i samtalen:</p>
-    <p>Det kan være greit med møte uten barna.  Det er lettere å snakke om vanskelige tema uten barna.  Noen ganger ønsker vi å ta opp et tema uten at barna er til stede.  Fint at eleven er med, da kan de høre både ris og ros.  Informasjonen blir best når alle parter er til stede; eleven, foreldrene og</p>
-    <p>læreren.</p>
-    <p>På invitasjonen bør det stå hva som skal være innholdet i utviklingssamtalen og</p>
-    <p>hvem som skal være til stede.</p>
-    <p>
-      <em type="bold">Rommet </em>
-    </p>
-    <p>Klasserommet passer godt for møtet mellom lærer, elev og foreldre. Det kan</p>
-    <p>være fint å møtes i arbeidsrommet til barnet og se arbeidsplassen, tegninger</p>
-    <p>eller andre elevarbeider.</p>
-    <p>En kan g jerne bruke andre rom til utviklingssamtalen, for eksempel et grupperom</p>
-    <p>eller skolebiblioteket. Rommet må være egnet til en god og uforstyrret dialog.</p>
-    <p>Uavhengig av selve rommet er det naturlig å organisere samtalen slik at foreldre,</p>
-    <p>elev og lærer sitter rundt samme bord. Den praktiske organiseringen skal gi</p>
-    <p>tydelig signal om at alle deltakerne i samtalen er likeverdige parter.</p>
-    <p>
-      <em type="bold">Tiden </em>
-    </p>
-    <p>Utviklingssamtalen må ikke være preget av dårlig tid eller hastverk. Alle må få</p>
-    <p>komme til orde. Ved slutten av møtet må det være nok tid til å oppsummere og formulere mål for den kommende perioden.</p>
-    <p>Mange foreldre gir uttrykk for at de ønsker å ha minst 30 minutter til slike</p>
-    <p>samtaler. I en undersøkelse blant foreldre sier noen dette om tid til samtale:</p>
-    <p>Utvid samtalen til 30 minutter, så slipper man å være redd for å bruke for</p>
-    <p>lang tid, og lærerne slipper  forsinkelser.</p>
-    <p>Ønskelig med litt mer tid enn 30 minutter.  Dersom alle parter skal kunne uttale seg, trenger en minst 30 minutter.</p>
-    <p><em type="bold">Ledelsen</em> </p>
-    <p>Som oftest er det naturlig at læreren leder samtalen. I planleggingen av samtalen</p>
-    <p>kan lærer og elev bli enige om hvem som skal ta opp hva, og kanskje kan eleven få</p>
-    <p>ansvar for å lede deler av samtalen. Lærere som har prøvd ut elevledelse, har</p>
-    <p>erfart at det er lærerikt for eleven, men at det medfører en tidkrevende</p>
-    <p>forberedelse for elev og lærer.</p>
-    <p>INNHOLDET I SAMTALEN</p>
-    <p>
-      <em type="bold">Tilbakeblikk </em>
-    </p>
-    <p>Utviklingssamtalen skal være et planlagt møte</p>
-    <p>mellom skole og hjem, og det må settes opp tema</p>
-    <p>for møtet. Det kan for eksempel være fruktbart å</p>
-    <p>starte samtalen med et kort tilbakeblikk og se på</p>
-    <p>målene fra forrige møte. Hvordan har utviklingen vært den</p>
-    <p>siste perioden? Har eleven nådd de målene som ble satt? Og var målene nyttige for</p>
-    <p>hvordan eleven fungerer og utvikler seg? Eleven, foreldrene og læreren evaluerer</p>
-    <p>resultatene, og blir enige om nye mål for den videre utviklingen.</p>
-    <p><em type="bold">Utviklingsmål</em> </p>
-    <p>I grunnskolen er det mange felles mål for opplæringen, både faglig og sosialt. Mål</p>
-    <p>ene beskriver hva eleven skal lære på de ulike trinnene. I utviklingssamtalen må en</p>
-    <p>derfor se på hva eleven mestrer. Hva mener eleven selv? Sammen med læreren og</p>
-    <p>foreldrene kan eleven planlegge nye mål å arbeide mot. Målene skal stille krav til</p>
-    <p>eleven, men også til oppfølging fra lærer og foreldre. Et utviklingsmål må være mål</p>
-    <p>bart, og eleven og foreldrene må få vite underveis om målet er innen rekkevidde.</p>
-    <p>SSAAMMAARRBBEEIIDD (eksempel)</p>
-    <p><em type="bold">Mål:</em> Eleven viser evne og vilje til samarbeid </p>
-    <p>
-      <em type="bold">Eksempler på delmål: </em>
-    </p>
-    <p>Eleven lytter til andre  Eleven arbeider aktivt med</p>
-    <p>felles oppgaver</p>
-    <p>Eleven holder avtaler</p>
-    <p>Utviklingsmålene kan være knyttet til enkeltfag eller til enkeltoppgaver eleven skal</p>
-    <p>utføre. Målene kan også handle om arbeidsmetoder og mestring eller være av mer</p>
-    <p>sosial karakter, som det å mestre samhandling med andre.</p>
-    <p>La oss bruke samarbeid som eksempel på et område for utvikling. Å mestre sam</p>
-    <p>arbeid er viktig for hvordan eleven fungerer både faglig og sosialt, på skolen og</p>
-    <p>senere i arbeidslivet. På skolen skal eleven arbeide sam</p>
-    <p>men med andre, både i par og i grupper. De skal lære</p>
-    <p>ulike arbeidsmetoder som for eksempel prosjekt</p>
-    <p>arbeid. Derfor vil samarbeidsmestring være</p>
-    <p>grunnleggende. Hvilke delmål må oppfylles for at</p>
-    <p>det skal være et godt samarbeid? Det er svært</p>
-    <p>viktig at delmålene for et bestemt utviklingsmål</p>
-    <p>også er kjent for eleven og foreldrene. Eleven</p>
-    <p>må lære hva som ligger i begrepet samarbeid, og</p>
-    <p>så få hjelp til å se hvordan han eller hun fungerer i</p>
-    <p>forhold til målene.</p>
-    <p>Utviklingsmålene skal være tilpasset den enkelte eleven. Elever som strever, kan</p>
-    <p>oppleve det som vanskelig dersom de blir sammenliknet med elever som g jør det</p>
-    <p>bedre. Dersom det er et sterkt fokus på felles mål og delmål, kan eleven få en</p>
-    <p>følelse av å komme til kort, noe som ikke er heldig for den videre utviklingen. I en</p>
-    <p>utviklingssamtale skal man stadfeste hvordan eleven fungerer og hvordan frem</p>
-    <p>gangen er ut fra elevens forutsetninger. Utviklingssamtalen skal være et møte</p>
-    <p>der man skaper motivasjon for arbeid mot realistiske utviklingsmål.</p>
-    <p>
-      <em type="bold">Elevens kompetanse </em>
-    </p>
-    <p>Skolen har som mål i samarbeid med hjemmet å utvikle elevens kompetanse på et</p>
-    <p>bredt felt, der hele mennesket er i fokus. Skolen skal være et sted for både læring</p>
-    <p>og trivsel. Når det g jelder læring, skal eleven tilegne seg kunnskap i ulike fag. I til</p>
-    <p>legg til å reprodusere kunnskapen, skal eleven også lære å reflektere over og</p>
-    <p>bruke den i arbeidet på skolen, hjemme og senere i arbeidslivet.</p>
-    <p>Eleven får i dag større grad av ansvar for egen læring og utvikling. Stadig flere</p>
-    <p>skoler bruker arbeidsplaner, en arbeidsmåte som innebærer at eleven i større</p>
-    <p>grad må planlegge og g jennomføre arbeidsoppgaver selv.</p>
-    <p>Da trenger eleven kunnskap om ulike arbeidsmåter og metoder.</p>
-    <p>Eleven trenger også å ha god innsikt i hvordan han eller hun fungerer. Hva vil det</p>
-    <p>si å ta ansvar for egen læring? Det kan være et nyttig spørsmål å diskutere med</p>
-    <p>eleven og foreldrene i en utviklingssamtale. Hvordan synes eleven selv at han/hun</p>
-    <p>tar ansvar for egen læring?</p>
-    <p>I tillegg til den faglige utviklingen og læring av arbeidsmetoder, skal eleven også</p>
-    <p>utvikle kunnskap og bevissthet om hvordan han eller hun</p>
-    <p>fungerer sammen med andre. Denne sosiale kunn</p>
-    <p>skapen skal eleven lære å bruke på beste måte i</p>
-    <p>samvær og samhandling. Graden av trivsel er</p>
-    <p>ofte et uttrykk for hvordan eleven fungerer</p>
-    <p>sosialt. Derfor er det viktig å spørre eleven om</p>
-    <p>hvordan han/hun har det på skolen. Kjenner</p>
-    <p>eleven seg trygg i klasse- og skolemiljøet?</p>
-    <p>Kjenner eleven seg verdsatt av lærere og medel</p>
-    <p>ever? Er eleven flink til å verdsette andre?</p>
-    <p>
-      <em type="bold">Faglig utvikling </em>
-    </p>
-    <p>Når det g jelder den faglige utviklingen, må man ta utgangspunkt i hvordan eleven</p>
-    <p>fungerer innenfor det enkelte faget. I utviklingssamtalen må eleven og foreldrene</p>
-    <p>få informasjon om hvilken kompetanse eleven har nådd i faget i forhold til mål og</p>
-    <p>delmål. På barneskolen skjer denne tilbakemeldingen i form av vurdering uten</p>
-    <p>karakterer. I ungdomsskolen vil karakterene på enkeltoppgavene og terminkarak</p>
-    <p>terene gi en viss tilbakemelding om i hvilken grad eleven mestrer faget. Det er</p>
-    <p>likevel viktig at karakterene blir supplert med begrunnelser og veiledning. Her er</p>
-    <p>et eksempel på tilbakemelding fra en norsklærer til en elev i ungdomsskolen:</p>
-    <p>Du har mye godt stoff i teksten din om forfatteren. Fint at du har med sitater fra</p>
-    <p>bøker og det  forfatteren har sagt selv. Teksten din har</p>
-    <p>god lengde, og du mestrer inndeling i avsnitt. Bra!</p>
-    <p>Du har noen skrivefeil, og du må spesielt arbeide</p>
-    <p>mer med kommaregler. Jeg har skrevet noen</p>
-    <p>kommentarer i margen. Les dem og se i kurs</p>
-    <p>boka s. 140. Husk også tegn ved direkte tale.</p>
-    <p>Dette er ekstra viktig dersom eleven har van</p>
-    <p>skeligheter med et fag eller et  fagområde.</p>
-    <p>AANNSSVVAARR  FFOORR  EEGGEENN</p>
-    <p>LLÆÆRRIINNGG  ((II)) (eksempel)</p>
-    <p>Setter du deg mål for</p>
-    <p>eget arbeid?</p>
-    <p>Har du med deg det du</p>
-    <p>trenger av utstyr?</p>
-    <p>Utfører du arbeidsoppgaver</p>
-    <p>du har ansvar for?</p>
-    <p>
-      <em type="bold">ANSVAR FOR EGEN </em>
-    </p>
-    <p><em type="bold">LÆRING(II) </em>(eksempel) </p>
-    <p>Er du forberedt til</p>
-    <p>skolearbeidet?</p>
-    <p>Er du oppmerksom i under</p>
-    <p>visningssituasjoner?</p>
-    <p>Gjennom begrunnelser og veiledning vil eleven få vite hva han eller hun kan g jøre</p>
-    <p>for å bedre sin egen læring og utvikling. Har eleven for eksempel vanskeligheter</p>
-    <p>med faget, eller skyldes de svake resultatene manglende arbeidsinnsats? Hva</p>
-    <p>mener eleven selv? Kan undervisningen og hjelpen på skolen legges bedre til rette?</p>
-    <p>Disse spørsmålene kan være nyttige å arbeide med i en utviklingssamtale. Jo eldre</p>
-    <p>eleven er, jo mer innsikt kan han/hun ha i sin egen fungering. Det er også nyttig å</p>
-    <p>se på hvordan foreldrene kan hjelpe til i den videre utviklingen.</p>
-    <p><em type="bold">Sosial utvikling</em> </p>
-    <p>Skolene har flere sett av regler og normer som de vil at elevene skal utvikle seg</p>
-    <p>mot og rette seg etter. Slike sett av regler og normer er holdningsskapende og</p>
-    <p>selve grunnlaget for å utvikle et trygt skolemiljø og bør utarbeides i samarbeid</p>
-    <p>mellom elever, foreldre og skolen. Eleven må lære hvordan hans/hennes væremåte</p>
-    <p>og handlemåte påvirker medelever og klasse- og skolemiljøet. Det er også viktig</p>
-    <p>at eleven lærer å sette grenser når han eller hun ikke blir møtt med respekt.</p>
-    <p>Som tidligere nevnt er evne til samhandling og samarbeid grunnleggende for både</p>
-    <p>faglig og sosial utvikling. Respekt og toleranse er andre begrep som sier noe om</p>
-    <p>dette. Hva ligger i uttrykkene?  Og hvordan kan eleven oppnå å fungere godt og</p>
-    <p>utvikle seg når det g jelder respekt og toleranse? Begrepene må avklares og</p>
-    <p>eksemplifiseres g jennom et sett av delmål. Også</p>
-    <p>her kan man bruke et vurderingsskjema. Hvilke</p>
-    <p>utviklingsmål kan eleven strekke seg mot når det</p>
-    <p>g jelder respekt og toleranse?</p>
-    <p>
-      <em type="bold">Oppsummering av samtalen og nye </em>
-    </p>
-    <p>
-      <em type="bold">utviklingsmål  </em>
-    </p>
-    <p>En godt planlagt utviklingssamtale har en opp</p>
-    <p>summering der en setter opp faglige og sosiale</p>
-    <p>utviklingsmål for neste arbeidsperiode.</p>
-    <p>
-      <em type="bold">RESPEKT OG </em>
-    </p>
-    <p><em type="bold">TOLERANSE</em> </p>
-    <p><em type="bold">Mål: </em> Eleven viser respekt og toleranse for sine medmennesker </p>
-    <p><em type="bold">Delmål (eksempler):</em> </p>
-    <p>Eleven viser tålmodighet med dem</p>
-    <p>som trenger det</p>
-    <p>Eleven støtter/forsvarer dem</p>
-    <p>som blir krenket</p>
-    <p>Eleven godtar andres</p>
-    <p>egenart</p>
-    <p>AVTALE</p>
-    <p><em type="bold">Mål:</em> </p>
-    <p>Bedre leseflyten ved å øve høytlesning 10 min.</p>
-    <p>mandag og onsdag</p>
-    <p>Fullføre lekser på arbeidsplanen</p>
-    <p>Ikke avbryte den som har ordet</p>
-    <p>Skrive ned alle muntlige meldinger på tavla</p>
-    <p><em type="bold">Ansvar:</em> </p>
-    <p>Elev</p>
-    <p>Elev/foreldre</p>
-    <p>Elev</p>
-    <p>Lærer</p>
-    <p>elev                                        foreldre/foresatte                                     lærer</p>
-    <p><em type="italic">Eksempel på skjema</em> </p>
-    <p>Oppsummeringen kan være både muntlig og skriftlig, men er målene viktige for</p>
-    <p>elevens videre utvikling, bør man skrive dem ned. I og med at det er elevens ut</p>
-    <p>vikling det er snakk om, må han eller hun være aktivt med på å velge utviklings</p>
-    <p>målene, også de som skal være skriftlige. Målene må være få og konkrete.</p>
-    <p>Vanligvis er to til tre mål nok. Da er det lettere for alle å se om eleven nærmer</p>
-    <p>seg målene eller ikke. Avtalen kan også inneholde mål for oppfølging fra lærer</p>
-    <p>og/eller foreldre.</p>
-    <p>
-      <em type="bold">Fordeling av ansvar mellom elev, foreldre og skole </em>
-    </p>
-    <p>Som en del av oppsummeringen er det naturlig å bli enige om hvem som har</p>
-    <p>hovedansvar for oppfølging av de ulike målene. Ansvaret kan og bør deles mellom</p>
-    <p>elev, skole og foreldre.</p>
-    <p>
-      <em type="bold">Oppfølging av målene i perioden </em>
-    </p>
-    <p>I tiden mellom to utviklingssamtaler kan det være nyttig at de tre partene i sam</p>
-    <p>talen holder kontakt og gir korte tilbakemeldinger om utviklingen. Slik tilbake</p>
-    <p>melding kan bli gitt som skriftlig tilbakemelding på elevarbeid, i elevsamtale, på</p>
-    <p>e-post eller over telefon.</p>
-    <p>SPESIELLE UTFORDRINGER</p>
-    <p>
-      <em type="bold">Barn med ulike forutsetninger </em>
-    </p>
-    <p>Barna kommer til skolen med ulike behov og erfaringer. For å legge best mulig til</p>
-    <p>rette for den enkelte, er det viktig at foreldrene gir skolen informasjon om barnet.</p>
-    <p>Mens noen barn har spesielle problemer når det g jelder fag, kan andre ha prob</p>
-    <p>lemer når det g jelder å fungere sosialt. Det å ha nedsatt hørsel eller dårlig syn,</p>
-    <p>kan også være til hinder for trivsel, læring og utvikling. God informasjon og dialog</p>
-    <p>mellom hjem og skole kan forebygge dette.</p>
-    <p>Skolen har plikt til å gi alle elever tilpasset opplæring. Får for eksempel selv</p>
-    <p>stendige og lesesterke barn nok utfordringer i skolehverdagen?</p>
-    <p><em type="bold">Konflikter og konflikthåndtering</em> </p>
-    <p>Utviklingssamtalen skal være en positiv dialog mellom elev, lærer og foreldre der</p>
-    <p>hovedfokuset er elevens mestring og utvikling. Det betyr ikke at man skal unngå å</p>
-    <p>diskutere problemer, men konflikter bør løses i egne møter. Noen konflikter er</p>
-    <p>likevel slik at de må drøftes der og da. Utviklingssamtalen må da utsettes til en</p>
-    <p>annen gang.</p>
-    <p>Eleven og foreldrene skal ikke grue seg for å møte til utviklingssamtale, men</p>
-    <p>komme dit med positive forventninger.</p>
-    <p>
-      <em type="bold">Utviklingssamtalen og minoritetsspråklige elever </em>
-    </p>
-    <p>Til skolen kommer det barn fra ulike land og kulturer. Et</p>
-    <p>flerkulturelt samfunn har gitt oss en flerkulturell</p>
-    <p>skole og på mange måter en rikere skolehverdag. I</p>
-    <p>samarbeidet mellom skole og hjem har det opp</p>
-    <p>stått nye utfordringer.</p>
-    <p>Synet på skolen er svært ulikt fra kultur til kultur.</p>
-    <p>Mens det i Norge etter hvert er tradisjon for et</p>
-    <p>nært samarbeid mellom foreldre og lærer, er det i</p>
-    <p>andre kulturer stor avstand mellom skole og hjem. Å</p>
-    <p>legge til rette for et godt samarbeid og en likeverdig dialog</p>
-    <p>mellom partene, kan bli utfordrende, men er nødvendig for å sikre god utvikling for</p>
-    <p>eleven. I noen kulturer er det ingen tradisjon for møte mellom skole og hjem, og</p>
-    <p>foreldrene har stor respekt for læreren. Da kan det være vanskelig å skape en</p>
-    <p>god dialog. Å skape trygge rammer rundt møtet, blir derfor svært viktig. Å være</p>
-    <p>vennlig, åpen og imøtekommende er en forutsetning for å lykkes i samtalen. For</p>
-    <p>læreren blir det viktig å sette seg inn i og prøve å forstå barnet og foreldrenes</p>
-    <p>kulturelle bakgrunn. Noen ganger må man kanskje akseptere at det blir mer</p>
-    <p>informasjon enn dialog.</p>
-    <p>Å komme fra et annet land eller en annen kultur, kan innebære språkvansker som</p>
-    <p>er til hinder for dialogen. Barn og foreldre som nettopp har kommet til Norge, har</p>
-    <p>selvsagt større problemer med å orientere seg enn dem som har bodd her noen</p>
-    <p>år. Skolen må ta ansvar for å skaffe tolk til foreldre som trenger dette.</p>
-    <p>Erfaring viser at det kan være fornuftig å bruke tolk både i samtaler med dem</p>
-    <p>som har bodd her kort og dem som har bodd her lenge. Det er viktig at alle</p>
-    <p>foreldre får den informasjonen de har krav på, og at de får anledning til å stille</p>
-    <p>spørsmål og gi skolen informasjon.</p>
-    <p>En morsmålslærer kan være en ressurs og samarbeidspartner for læreren, eleven</p>
-    <p>og foreldrene, men bør likevel ikke brukes som tolk i utviklingssamtaler.</p>
-    <p>VARIASJON I UTVIKLINGSSAMTALEN</p>
-    <p>
-      <em type="bold">Variere opplegget fra ett årstrinn til et annet </em>
-    </p>
-    <p>Både innhold i og organisering av utviklingssamtaler kan variere fra en klasse til</p>
-    <p>en annen. Også mellom skoler kan det være forskjeller. Uavhengig av klasse eller</p>
-    <p>skoler skal hjem og skole samarbeide om utviklingssamtalene.</p>
-    <p>I samtalene er det naturlig å legge vekt på ulike emner alt etter hvilket årstrinn</p>
-    <p>eleven er på. Samtalene vil også endre seg når eleven går over på ungdomsskolen.</p>
-    <p>I tillegg til områder man har vektlagt tidligere, blir vurdering med karakterer et</p>
-    <p>nytt tema i samtalene.</p>
-    <p>
-      <em type="bold">Ulike varianter </em>
-    </p>
-    <p>Tradisjonen i skolen er at sosial fungering får mye oppmerksomhet i barneskolen,</p>
-    <p>mens den faglige utviklingen er viktigst i ungdomsskolen. Et hovedpoeng med</p>
-    <p>utviklingssamtalene er at hele mennesket skal være i fokus. For å få til dette, må</p>
-    <p>en legge vekt på hvordan eleven fungerer både sosialt og faglig. En trenger likevel</p>
-    <p>ikke å ta opp alle temaene i hver samtale, men legge særlig vekt på det som er</p>
-    <p>naturlig i en bestemt periode.</p>
-    <p>Mens det i én samtale er kjernefagene norsk og matematikk som er tema, kan det</p>
-    <p>i en annen legges mer vekt på de praktiske og estetiske fagene. Arbeidsmåter</p>
-    <p>kan også være et tema for utviklingssamtalen. Hvordan eleven fungerer sosialt,</p>
-    <p>bør være et tema i alle utviklingssamtaler.</p>
-    <p>Selv om temaene kan og bør endres fra én samtale til den neste, er det viktig at</p>
-    <p>elev og foreldre opplever at det de er mest opptatt av, kommer på dagsordenen i</p>
-    <p>den aktuelle samtalen. Gode forberedelser og dialog mellom partene sikrer et</p>
-    <p>godt utbytte for alle.</p>
-    <p>Visste du</p>
-    <p>at det står i lovverket at foreldrene har hovedansvar for</p>
-    <p>barnas opplæring, og at de derfor har medansvar i sko</p>
-    <p>len?</p>
-    <p>at du kan påvirke barnas opplæring og skolegang som</p>
-    <p>foreldrekontakt, som medlem av foreldrerådet, FAU eller</p>
-    <p>av samarbeidsutvalget/styret?</p>
-    <p>at alle elever har rett til tilpasset opplæring etter evner</p>
-    <p>og forutsetninger?</p>
-    <p>at elever som ikke har tilfredsstillende utbytte av det</p>
-    <p>ordinære skoletilbudet, har rett til spesialundervisning?</p>
-    <p>at alle elever har rett til et godt fysisk og psykososialt</p>
-    <p>miljø som fremmer helse, trivsel og læring?</p>
-    <p>at foreldre har rett til å klage?</p>
-    <p><em type="bold">FUG - Foreldreutvalget for grunnskolen - er et utvalg av foreldre, oppnevnt av</em> </p>
-    <p><em type="bold">Kongen i statsråd for fire år av gangen. Utvalget er et rådgivende organ for</em> </p>
-    <p>
-      <em type="bold">Utdannings- og forskningsdepartementet. Utvalget skal ivareta foreldrenes og </em>
-    </p>
-    <p><em type="bold">elevenes interesser i skolesamfunnet og arbeide for å fremme et godt samarbeid</em> </p>
-    <p><em type="bold">mellom hjem og skole.</em> </p>
-    <p><em type="bold">Foreldreutvalget for grunnskolen</em> </p>
-    <p><em type="bold">Postboks 8119 Dep.</em> </p>
-    <p><em type="bold">0032 Oslo</em> </p>
-    <p><em type="bold">www.fug.no</em> </p>
-    <p>
-      <em type="bold">www.foreldrenettet.no </em>
-    </p>
-    <p><em type="bold">bestilling@fug.no</em> </p>
-    <p><em type="bold">post@fug.no</em> </p>
-    <p><em type="bold">Tlf.: 22 24 75 63</em> </p>
-    <p><em type="bold">Faks: 22 24 75 90</em> </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><place>http://www.fug.no/cgi-bin/fug/imaker?id=27768</place><wordcount>4439</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Joseph Fjellgren" email="joseph.fjellgren@samediggi.no"/><origFileName>http://www.fug.no/data/f/0/28/58/8_2401_0/Tid_for_samtale_bm_nett.pdf</origFileName><parallel_text xml:lang="nno" location="tid_for_samtale_nyn_nett.pdf"/><parallel_text xml:lang="sma" location="tid_for_samtale_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="tid_for_samtale_nordsamisk.pdf"/><parallel_text xml:lang="smj" location="tid_for_samtale_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.3 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Tid for samtale</p>
+<p><em type="bold">Hjem og skole sammen om elevens læring og utvikling</em> </p>
+<p> <em type="bold">Konferansetime = Utviklingssamtale</em> </p>
+<p> <em type="bold">Forberedelse</em> </p>
+<p> <em type="bold">Organisering og rammer</em> </p>
+<p> <em type="bold">Innholdet i samtalen</em> </p>
+<p> <em type="bold">Spesielle utfordringer</em> </p>
+<p>Tid for samtale</p>
+<p>Hjem og skole sammen om elevens læring og utvikling</p>
+<p>Foreldreutvalget for grunnskolen</p>
+<p>© FUG 2005</p>
+<p>Printed in Norway</p>
+<p>Layout: emk</p>
+<p>Mal: deville design</p>
+<p>Trykk: AS Papermill</p>
+<p>Kåre Lutro og Marianne Vangsnes</p>
+<p>i samarbeid med FUG</p>
+<p>Illustrasjoner: Ragnhild Ronja Berge</p>
+<p>Foreldreutvalget for grunnskolen</p>
+<p>Postboks 8119 Dep.</p>
+<p>0032 Oslo</p>
+<p>Tlf.:22 24 75 63</p>
+<p>Faks: 22 24 75 90</p>
+<p>www.fug.no</p>
+<p>www.foreldrenettet.no</p>
+<p>post@fug.no</p>
+<p>1. utgave 1. opplag 2005</p>
+<p>ISBN: 82-92517-62-6</p>
+<p>FORORD</p>
+<p>Alle foreldre ønsker en positiv utvikling for barna sine, og skolen er en av de vik</p>
+<p>tigste medspillerne til denne utviklingen. Foreldrekonferansen er en sentral møte</p>
+<p>plass for samarbeidet om barnet/eleven. I dette heftet vil vi bruke ordet</p>
+<p>utviklingssamtale i stedet for foreldrekonferanse. Ordet utviklingssamtale under</p>
+<p>streker hva denne samtalen skal handle om; hvordan eleven fungerer, lærer og</p>
+<p>utvikler seg.</p>
+<p>Foreldreutvalget for grunnskolen gir ut heftet Tid for samtale for å bidra til</p>
+<p>bedre samarbeid mellom hjem og skole. Foreldrekonferansen er en av de viktigste</p>
+<p>arenaene for samarbeid rundt barnet.</p>
+<p>Heftet er skrevet for både foreldre og lærere. I heftet brukes ordet <em type="italic">foreldre</em> </p>
+<p>både om <em type="italic">foreldre </em>og <em type="italic">foresatte</em>. </p>
+<p>Tid for samtale er utarbeidet av lærere og foreldre i Os kommune i Hordaland. Os</p>
+<p>kommune har i flere år arbeidet med metoder for veiledning og vurdering av</p>
+<p>elever. I samarbeid med Fusa kommune har en prosjektgruppe utviklet et verktøy</p>
+<p>for systematisk arbeid med vurdering uten karakterer (VUK)1. I dette heftet er</p>
+<p>det brukt materiale fra VUK-prosjektet.</p>
+<p>Elevene skal ha vurdering uten karakterer g jennom hele grunnopplæringen. I de</p>
+<p>tre siste årene i grunnskolen og på videregående skole kommer vurdering med</p>
+<p>karakterer i tillegg. Vurderingsverktøyet VUK er tatt i bruk ved alle skoler i de to</p>
+<p>kommunene og er en viktig del av grunnlaget for utviklingssamtalene.</p>
+<p>Dette heftet er en kort veiledning til innholdet i utviklingssamtalen. Vi håper</p>
+<p>heftet vil inspirere både foreldre og lærere og medvirke til å lage gode rammer</p>
+<p>for samtalen og samarbeidet rundt eleven.</p>
+<p>FUG vil takke undervisningsinspektør Kåre Lutro og adjunkt Marianne Vangsnes</p>
+<p>ved Søfteland skule som har ført heftet i pennen. FUG vil også takke Kristin og</p>
+<p>Bjørn Halvor Haukeland, Lill-Karin Wallem og Per Olav Sørås som har gitt innspill til</p>
+<p>innholdet.</p>
+<p>Foreldreutvalget for grunnskolen</p>
+<p>Juni 2005</p>
+<p><em type="italic">1. Mer informasjon om VUK finner du på: www.vuk.no</em> </p>
+<p>GRUNNLAGET</p>
+<p><em type="bold">Vurdering og veiledning</em> </p>
+<p>Kontaktlæreren har hovedansvar for å kalle inn til utviklingssamtalen, og han skal</p>
+<p>legge til rette for et samarbeid med foreldrene om innhold og ramme for</p>
+<p>samtalen. Vi kommer tilbake til hvordan dette kan g jøres.</p>
+<p><em type="italic">FFoorrsskkrriifftt  ffoorr  ggrruunnnnsskkoolleenn  §§  33--2,,  ssiieerr  bbllaanntt  aannnneett  ddeettttee  oomm  kkoonnttaakktteenn  mmeelllloomm  sskkoollee  oogg  hhjjeemm::  </em></p>
+<p><em type="italic">- Skolen skal halde god kontakt med foreldra. Kontaktlæraren skal minst to gonger om året ha ein</em> </p>
+<p><em type="italic">planlagd og strukturert samtale med dei. I samtalen skal kontaktlæraren mellom anna gjere greie for</em> </p>
+<p><em type="italic">korleis eleven står i høve til dei måla som er sette i læreplanverket og korleis eleven arbeider til dag</em></p>
+<p><em type="italic">leg. Samtalen skal munne ut i ei oppsummering, mellom anna med sikte på å bli einige om kva det</em> </p>
+<p><em type="italic">særskilt skal leggjast vekt på i det vidare arbeidet. Etter fylte 12 år har eleven rett til å vere med. </em></p>
+<p>Det er som oftest naturlig og nyttig at eleven deltar i utviklingssamtalen. Noen</p>
+<p>ganger kan det likevel være grunner til at samtalen bare bør være mellom lærer</p>
+<p>og foreldre. Dette må partene avtale  på forhånd. Når vi i dette heftet bruker</p>
+<p>eksempler på hvordan utviklingssamtaler kan g jennomføres, tar vi utgangspunkt i</p>
+<p>samtaler der elev, foreldre og lærer er tilstede.</p>
+<p>En utviklingssamtale mellom eleven, læreren og foreldrene må være godt planlagt.</p>
+<p>Og for at partene i møtet skal kjenne seg likeverdige, må innholdet i samtalen</p>
+<p>være kjent for alle. Strukturen for samtalen må likevel ikke være så stram at det</p>
+<p>ikke er rom for innspill underveis.</p>
+<p>Alle elever har rett til veiledning og vurdering de 10 årene de går i grunnskolen.</p>
+<p>Denne veiledningen og vurderingen skal si noe om hvordan eleven fungerer faglig</p>
+<p>og sosialt, og hvilke arbeidsmetoder eleven mestrer. Samtalen må også være en</p>
+<p>dialog om arbeidet videre.</p>
+<p><em type="italic">FFoorrsskkrriifftt  ffoorr  ggrruunnnnsskkoolleenn  §§  33--1  oogg      §§  33--3,,  ssiieerr  bbllaanntt  aannnneett  ddeettttee  oomm  vvuurrddeerriinngg::</em> </p>
+<p><em type="italic">- På barnesteget skal skolen berre nytte vurdering utan karakterar. På ungdomssteget skal eleven, i</em> </p>
+<p><em type="italic">tillegg til vurdering utan karakterar, ha fagkarakterar og karakterar i orden og åtferd. </em></p>
+<p>Fordi ros fremmer utvikling, er det viktig å legge vekt på elevens positive</p>
+<p>mestring når det g jelder faglig og sosial kompetanse og bruk av arbeidsmetoder.</p>
+<p>Selv om samtalen tar utgangspunkt i elevens sterke sider, må en også ta opp spesielle utfordringer for eleven. I tillegg må man vurdere tilrettelegging og</p>
+<p>oppfølging fra læreren og foreldrene.</p>
+<p>En utviklingssamtale må føre til enighet om hvilke mål man skal arbeide mot i</p>
+<p>perioden som kommer. Dette kan g jøres som en skriftlig avtale mellom skole, elev</p>
+<p>og hjem. En slik avtale kan inneholde mål for elev, lærer og foreldre. (Se eksempel</p>
+<p>på avtale på s. 13)</p>
+<p>FORBEREDELSE</p>
+<p>Det finnes ulike modeller for å forberede og organisere en utviklingssamtale.</p>
+<p>Uansett hvilken modell man velger, er det viktig å sikre at utviklingssamtalen fører</p>
+<p>til et  samarbeid mellom eleven, foreldrene og skolen.</p>
+<p><em type="bold">Foreldre og skole</em> </p>
+<p>For å sikre godt samarbeid, kan utviklingssamtalen for eksempel være tema på et</p>
+<p>foreldremøte. Der kan både læreren og foreldrene komme med innspill til hva</p>
+<p>samtalen skal handle om. Læreren kan også sende ut et skriv om samtalen der</p>
+<p>foreldrene blir oppfordret til å skrive ned saker de ønsker å ta opp. Når læreren</p>
+<p>får skrivet tilbake, kan han tilpasse innholdet til hver enkelt samtale.</p>
+<p>En spørreundersøkelse blant foreldrene om utviklingssamtalen kan også være</p>
+<p>nyttig. Eksempler på spørsmål kan være:</p>
+<p>Hvilke tema bør utviklingssamtalen inneholde?  Hvor ofte bør skole og foreldre møtes i løpet av skoleåret?  Hvor lang bør samtalen være?  Hvem bør være til stede under samtalen?</p>
+<p>1: Elev og lærer/</p>
+<p>forberedelse 2: Elev/foreldre –</p>
+<p>forberedelse hjemme 3: Utviklingssamtalen,</p>
+<p>forberedt av alle.</p>
+<p><em type="bold">NAVN:</em> </p>
+<p><em type="bold">Område: RESPEKT OG TOLERANSE</em> </p>
+<p><em type="bold">Kriterier:Svært ofte Ofte  Av og til Sjelden Merknad:</em> </p>
+<p>Jeg viser tålmodighet med dem som</p>
+<p>trenger det</p>
+<p>Jeg støtter og forsvarer dem som blir krenket</p>
+<p>Jeg respekterer andres rett til å ha</p>
+<p>egne meninger</p>
+<p>Jeg respekterer andres egenart</p>
+<p><em type="bold">Elev og lærer</em> </p>
+<p><em type="italic">Eksempel på skjema</em> </p>
+<p>Allerede i barneskolen kan elever være modne nok til å delta under forberedelser</p>
+<p>til utviklingssamtalen. I ungdomsskolen er det satt av egne timer til klasseråds</p>
+<p>møte som kan brukes til slike forberedelser. Hva ønsker elevene å diskutere i</p>
+<p>samtalen? Sammen med læreren kan de finne fram til passende tema.</p>
+<p>Elever på 5. og 8. trinn mener blant annet dette om utviklingssamtalen:</p>
+<p>Eleven må være med i utviklingssamtalen, det er  jo han det handler om.  Møtet må vare i minst 30 minutter, slik at det</p>
+<p>ikke blir stress, og alle får snakke.</p>
+<p>Det er fint å forberede seg til samtale.  Det er viktig å sammenligne seg med seg</p>
+<p>selv, ikke med de andre.</p>
+<p>Det er gøy med gode tilbakemeldinger</p>
+<p>fra læreren.</p>
+<p>Det er flaut når læreren skryter av meg,</p>
+<p>men litt gøy også!</p>
+<p>Det er viktig å snakke om det positive, det</p>
+<p>som går bra, men en må vel få høre om det</p>
+<p>dumme også.</p>
+<p>Det g jør vondt i halsen når vi snakker om noe dumt.</p>
+<p>At innholdet i samtalen er kjent for eleven, skaper trygghet. I elevsamtalen,</p>
+<p>samtalen mellom lærer og elev, kan en forberede utviklingssamtalen. Her kan</p>
+<p>eleven få hjelp til å vurdere seg selv når det g jelder faglig og sosial utvikling, og</p>
+<p>hvordan han eller hun mestrer de ulike arbeidsmetodene. I samtalen bør en også</p>
+<p>ta opp hva eleven mener om sin egen læring. Er det noe som burde være anner</p>
+<p>ledes på skolen eller hjemme, slik at læring og utvikling kan bli bedre? Eleven og</p>
+<p>læreren forbereder hvordan dette skal presenteres i utviklingssamtalen. Sammen</p>
+<p>kan de formulere nye mål som eleven skal arbeide mot i tiden som kommer. Slik</p>
+<p>elevdeltakelse kan være motiverende.</p>
+<p>Når elevene blir eldre, kan det være nyttig å bruke et egenvurderingsskjema for</p>
+<p>faglig og sosial utvikling. Et utfylt skjema er et godt grunnlag for samtalen med</p>
+<p>læreren. Lignende skjema kan også brukes i utviklingssamtalen.</p>
+<p><em type="bold">Elev og foreldre</em> </p>
+<p>Når eleven og foreldrene er kjent med innholdet i samtalen, kan de forberede seg</p>
+<p>til møtet. Som en hjelp til forberedelsene kan læreren sende et skriv med spørs</p>
+<p>mål om elevens utvikling den siste tiden. En kan f. eks. spørre om:</p>
+<p>Hvilke fag synes du selv at du mestrer godt?  Hvilke arbeidsmåter liker du å bruke?  Hvem er du sammen med på skolen?  Hva liker du å g jøre i friminuttene?</p>
+<p>Å forberede utviklingssamtalen sikrer at samtalen blir brukt til det som er vik</p>
+<p>tigst; å bygge opp eleven og motivere ham eller henne til de utfordringene som</p>
+<p>møter dem i skolehverdagen. Gode forberedelser skaper positive forventninger og</p>
+<p>trygge rammer for alle parter.</p>
+<p>ORGANISERING OG RAMMER</p>
+<p><em type="bold">Invitasjonen </em></p>
+<p>Noen skoler legger fremdeles opp til at utviklingssamtaler skal holdes på etter</p>
+<p>middags- eller kveldstid, men stadig flere skoler prøver nå å holde samtalene på</p>
+<p>dagtid. Både lærer og foreldre må være fleksible for å finne et passende tids</p>
+<p>punkt for samtalen. Men skolen har plikt til å legge til rette forholdene slik at alle</p>
+<p>foreldrene kan komme.</p>
+<p><em type="bold">Til Gunvor og Hans</em> </p>
+<p>Det er tid for utviklingssamtale. De som skal møte er: foreldre, elev og</p>
+<p>kontaktlærer. Vel møtt!</p>
+<p>Møtested: Biblioteket      Dato: onsdag 30.04          Tid: kl. 14.00 - 14.30</p>
+<p>Tema for samtalen er:</p>
+<p><em type="bold">Faglig utvikling </em></p>
+<p>norsk rett</p>
+<p><em type="italic">Eksempel på skjema</em> </p>
+<p><em type="bold">Aktivitet i timene</em> </p>
+<p>muntlig</p>
+<p>friminutt og</p>
+<p>skriving (og/å)</p>
+<p>aktivitet</p>
+<p>venner</p>
+<p>leksene</p>
+<p>matematikk (algebra)  engelsk</p>
+<p>konsentrasjon</p>
+<p>timene og</p>
+<p>samarbeid <em type="bold">Hjemmearbeid</em> </p>
+<p>når g jøres</p>
+<p>arbeids</p>
+<p>vaner</p>
+<p>(leseflyt/uttale)</p>
+<p>om arbeids</p>
+<p>oppgavene <em type="bold">Trivsel</em> </p>
+<p>Hilsen</p>
+<p>Invitasjon til utviklingssamtalen må sendes hjem i god tid. En idé kan være at hver</p>
+<p>elev inviterer egne foreldre. I samråd med læreren finner man fram til passende</p>
+<p>tidspunkt og sender hjem en personlig invitasjon. Andre ganger kan det være</p>
+<p>mest nyttig å sende en felles invitasjon til foreldrene i klassen der de kan krysse</p>
+<p>av på ønskelige tidspunkt.</p>
+<p>Som tidligere nevnt er det i dag vanlig at eleven deltar i samtalen allerede fra 2.</p>
+<p>eller 3. trinn. Elevmedvirkning er nyttig, men de voksne kan noen ganger ha behov</p>
+<p>for å snakke sammen uten barna. Kanskje bør de voksne møtes én gang i året</p>
+<p>uten barn.</p>
+<p>Noen foreldre sier dette om hvem som bør delta i samtalen:</p>
+<p>Det kan være greit med møte uten barna.  Det er lettere å snakke om vanskelige tema uten barna.  Noen ganger ønsker vi å ta opp et tema uten at barna er til stede.  Fint at eleven er med, da kan de høre både ris og ros.  Informasjonen blir best når alle parter er til stede; eleven, foreldrene og</p>
+<p>læreren.</p>
+<p>På invitasjonen bør det stå hva som skal være innholdet i utviklingssamtalen og</p>
+<p>hvem som skal være til stede.</p>
+<p><em type="bold">Rommet </em></p>
+<p>Klasserommet passer godt for møtet mellom lærer, elev og foreldre. Det kan</p>
+<p>være fint å møtes i arbeidsrommet til barnet og se arbeidsplassen, tegninger</p>
+<p>eller andre elevarbeider.</p>
+<p>En kan g jerne bruke andre rom til utviklingssamtalen, for eksempel et grupperom</p>
+<p>eller skolebiblioteket. Rommet må være egnet til en god og uforstyrret dialog.</p>
+<p>Uavhengig av selve rommet er det naturlig å organisere samtalen slik at foreldre,</p>
+<p>elev og lærer sitter rundt samme bord. Den praktiske organiseringen skal gi</p>
+<p>tydelig signal om at alle deltakerne i samtalen er likeverdige parter.</p>
+<p><em type="bold">Tiden </em></p>
+<p>Utviklingssamtalen må ikke være preget av dårlig tid eller hastverk. Alle må få</p>
+<p>komme til orde. Ved slutten av møtet må det være nok tid til å oppsummere og formulere mål for den kommende perioden.</p>
+<p>Mange foreldre gir uttrykk for at de ønsker å ha minst 30 minutter til slike</p>
+<p>samtaler. I en undersøkelse blant foreldre sier noen dette om tid til samtale:</p>
+<p>Utvid samtalen til 30 minutter, så slipper man å være redd for å bruke for</p>
+<p>lang tid, og lærerne slipper  forsinkelser.</p>
+<p>Ønskelig med litt mer tid enn 30 minutter.  Dersom alle parter skal kunne uttale seg, trenger en minst 30 minutter.</p>
+<p><em type="bold">Ledelsen</em> </p>
+<p>Som oftest er det naturlig at læreren leder samtalen. I planleggingen av samtalen</p>
+<p>kan lærer og elev bli enige om hvem som skal ta opp hva, og kanskje kan eleven få</p>
+<p>ansvar for å lede deler av samtalen. Lærere som har prøvd ut elevledelse, har</p>
+<p>erfart at det er lærerikt for eleven, men at det medfører en tidkrevende</p>
+<p>forberedelse for elev og lærer.</p>
+<p>INNHOLDET I SAMTALEN</p>
+<p><em type="bold">Tilbakeblikk </em></p>
+<p>Utviklingssamtalen skal være et planlagt møte</p>
+<p>mellom skole og hjem, og det må settes opp tema</p>
+<p>for møtet. Det kan for eksempel være fruktbart å</p>
+<p>starte samtalen med et kort tilbakeblikk og se på</p>
+<p>målene fra forrige møte. Hvordan har utviklingen vært den</p>
+<p>siste perioden? Har eleven nådd de målene som ble satt? Og var målene nyttige for</p>
+<p>hvordan eleven fungerer og utvikler seg? Eleven, foreldrene og læreren evaluerer</p>
+<p>resultatene, og blir enige om nye mål for den videre utviklingen.</p>
+<p><em type="bold">Utviklingsmål</em> </p>
+<p>I grunnskolen er det mange felles mål for opplæringen, både faglig og sosialt. Mål</p>
+<p>ene beskriver hva eleven skal lære på de ulike trinnene. I utviklingssamtalen må en</p>
+<p>derfor se på hva eleven mestrer. Hva mener eleven selv? Sammen med læreren og</p>
+<p>foreldrene kan eleven planlegge nye mål å arbeide mot. Målene skal stille krav til</p>
+<p>eleven, men også til oppfølging fra lærer og foreldre. Et utviklingsmål må være mål</p>
+<p>bart, og eleven og foreldrene må få vite underveis om målet er innen rekkevidde.</p>
+<p>SSAAMMAARRBBEEIIDD (eksempel)</p>
+<p><em type="bold">Mål:</em> Eleven viser evne og vilje til samarbeid </p>
+<p><em type="bold">Eksempler på delmål: </em></p>
+<p>Eleven lytter til andre  Eleven arbeider aktivt med</p>
+<p>felles oppgaver</p>
+<p>Eleven holder avtaler</p>
+<p>Utviklingsmålene kan være knyttet til enkeltfag eller til enkeltoppgaver eleven skal</p>
+<p>utføre. Målene kan også handle om arbeidsmetoder og mestring eller være av mer</p>
+<p>sosial karakter, som det å mestre samhandling med andre.</p>
+<p>La oss bruke samarbeid som eksempel på et område for utvikling. Å mestre sam</p>
+<p>arbeid er viktig for hvordan eleven fungerer både faglig og sosialt, på skolen og</p>
+<p>senere i arbeidslivet. På skolen skal eleven arbeide sam</p>
+<p>men med andre, både i par og i grupper. De skal lære</p>
+<p>ulike arbeidsmetoder som for eksempel prosjekt</p>
+<p>arbeid. Derfor vil samarbeidsmestring være</p>
+<p>grunnleggende. Hvilke delmål må oppfylles for at</p>
+<p>det skal være et godt samarbeid? Det er svært</p>
+<p>viktig at delmålene for et bestemt utviklingsmål</p>
+<p>også er kjent for eleven og foreldrene. Eleven</p>
+<p>må lære hva som ligger i begrepet samarbeid, og</p>
+<p>så få hjelp til å se hvordan han eller hun fungerer i</p>
+<p>forhold til målene.</p>
+<p>Utviklingsmålene skal være tilpasset den enkelte eleven. Elever som strever, kan</p>
+<p>oppleve det som vanskelig dersom de blir sammenliknet med elever som g jør det</p>
+<p>bedre. Dersom det er et sterkt fokus på felles mål og delmål, kan eleven få en</p>
+<p>følelse av å komme til kort, noe som ikke er heldig for den videre utviklingen. I en</p>
+<p>utviklingssamtale skal man stadfeste hvordan eleven fungerer og hvordan frem</p>
+<p>gangen er ut fra elevens forutsetninger. Utviklingssamtalen skal være et møte</p>
+<p>der man skaper motivasjon for arbeid mot realistiske utviklingsmål.</p>
+<p><em type="bold">Elevens kompetanse </em></p>
+<p>Skolen har som mål i samarbeid med hjemmet å utvikle elevens kompetanse på et</p>
+<p>bredt felt, der hele mennesket er i fokus. Skolen skal være et sted for både læring</p>
+<p>og trivsel. Når det g jelder læring, skal eleven tilegne seg kunnskap i ulike fag. I til</p>
+<p>legg til å reprodusere kunnskapen, skal eleven også lære å reflektere over og</p>
+<p>bruke den i arbeidet på skolen, hjemme og senere i arbeidslivet.</p>
+<p>Eleven får i dag større grad av ansvar for egen læring og utvikling. Stadig flere</p>
+<p>skoler bruker arbeidsplaner, en arbeidsmåte som innebærer at eleven i større</p>
+<p>grad må planlegge og g jennomføre arbeidsoppgaver selv.</p>
+<p>Da trenger eleven kunnskap om ulike arbeidsmåter og metoder.</p>
+<p>Eleven trenger også å ha god innsikt i hvordan han eller hun fungerer. Hva vil det</p>
+<p>si å ta ansvar for egen læring? Det kan være et nyttig spørsmål å diskutere med</p>
+<p>eleven og foreldrene i en utviklingssamtale. Hvordan synes eleven selv at han/hun</p>
+<p>tar ansvar for egen læring?</p>
+<p>I tillegg til den faglige utviklingen og læring av arbeidsmetoder, skal eleven også</p>
+<p>utvikle kunnskap og bevissthet om hvordan han eller hun</p>
+<p>fungerer sammen med andre. Denne sosiale kunn</p>
+<p>skapen skal eleven lære å bruke på beste måte i</p>
+<p>samvær og samhandling. Graden av trivsel er</p>
+<p>ofte et uttrykk for hvordan eleven fungerer</p>
+<p>sosialt. Derfor er det viktig å spørre eleven om</p>
+<p>hvordan han/hun har det på skolen. Kjenner</p>
+<p>eleven seg trygg i klasse- og skolemiljøet?</p>
+<p>Kjenner eleven seg verdsatt av lærere og medel</p>
+<p>ever? Er eleven flink til å verdsette andre?</p>
+<p><em type="bold">Faglig utvikling </em></p>
+<p>Når det g jelder den faglige utviklingen, må man ta utgangspunkt i hvordan eleven</p>
+<p>fungerer innenfor det enkelte faget. I utviklingssamtalen må eleven og foreldrene</p>
+<p>få informasjon om hvilken kompetanse eleven har nådd i faget i forhold til mål og</p>
+<p>delmål. På barneskolen skjer denne tilbakemeldingen i form av vurdering uten</p>
+<p>karakterer. I ungdomsskolen vil karakterene på enkeltoppgavene og terminkarak</p>
+<p>terene gi en viss tilbakemelding om i hvilken grad eleven mestrer faget. Det er</p>
+<p>likevel viktig at karakterene blir supplert med begrunnelser og veiledning. Her er</p>
+<p>et eksempel på tilbakemelding fra en norsklærer til en elev i ungdomsskolen:</p>
+<p>Du har mye godt stoff i teksten din om forfatteren. Fint at du har med sitater fra</p>
+<p>bøker og det  forfatteren har sagt selv. Teksten din har</p>
+<p>god lengde, og du mestrer inndeling i avsnitt. Bra!</p>
+<p>Du har noen skrivefeil, og du må spesielt arbeide</p>
+<p>mer med kommaregler. Jeg har skrevet noen</p>
+<p>kommentarer i margen. Les dem og se i kurs</p>
+<p>boka s. 140. Husk også tegn ved direkte tale.</p>
+<p>Dette er ekstra viktig dersom eleven har van</p>
+<p>skeligheter med et fag eller et  fagområde.</p>
+<p>AANNSSVVAARR  FFOORR  EEGGEENN</p>
+<p>LLÆÆRRIINNGG  ((II)) (eksempel)</p>
+<p>Setter du deg mål for</p>
+<p>eget arbeid?</p>
+<p>Har du med deg det du</p>
+<p>trenger av utstyr?</p>
+<p>Utfører du arbeidsoppgaver</p>
+<p>du har ansvar for?</p>
+<p><em type="bold">ANSVAR FOR EGEN </em></p>
+<p><em type="bold">LÆRING(II) </em>(eksempel) </p>
+<p>Er du forberedt til</p>
+<p>skolearbeidet?</p>
+<p>Er du oppmerksom i under</p>
+<p>visningssituasjoner?</p>
+<p>Gjennom begrunnelser og veiledning vil eleven få vite hva han eller hun kan g jøre</p>
+<p>for å bedre sin egen læring og utvikling. Har eleven for eksempel vanskeligheter</p>
+<p>med faget, eller skyldes de svake resultatene manglende arbeidsinnsats? Hva</p>
+<p>mener eleven selv? Kan undervisningen og hjelpen på skolen legges bedre til rette?</p>
+<p>Disse spørsmålene kan være nyttige å arbeide med i en utviklingssamtale. Jo eldre</p>
+<p>eleven er, jo mer innsikt kan han/hun ha i sin egen fungering. Det er også nyttig å</p>
+<p>se på hvordan foreldrene kan hjelpe til i den videre utviklingen.</p>
+<p><em type="bold">Sosial utvikling</em> </p>
+<p>Skolene har flere sett av regler og normer som de vil at elevene skal utvikle seg</p>
+<p>mot og rette seg etter. Slike sett av regler og normer er holdningsskapende og</p>
+<p>selve grunnlaget for å utvikle et trygt skolemiljø og bør utarbeides i samarbeid</p>
+<p>mellom elever, foreldre og skolen. Eleven må lære hvordan hans/hennes væremåte</p>
+<p>og handlemåte påvirker medelever og klasse- og skolemiljøet. Det er også viktig</p>
+<p>at eleven lærer å sette grenser når han eller hun ikke blir møtt med respekt.</p>
+<p>Som tidligere nevnt er evne til samhandling og samarbeid grunnleggende for både</p>
+<p>faglig og sosial utvikling. Respekt og toleranse er andre begrep som sier noe om</p>
+<p>dette. Hva ligger i uttrykkene?  Og hvordan kan eleven oppnå å fungere godt og</p>
+<p>utvikle seg når det g jelder respekt og toleranse? Begrepene må avklares og</p>
+<p>eksemplifiseres g jennom et sett av delmål. Også</p>
+<p>her kan man bruke et vurderingsskjema. Hvilke</p>
+<p>utviklingsmål kan eleven strekke seg mot når det</p>
+<p>g jelder respekt og toleranse?</p>
+<p><em type="bold">Oppsummering av samtalen og nye </em></p>
+<p><em type="bold">utviklingsmål  </em></p>
+<p>En godt planlagt utviklingssamtale har en opp</p>
+<p>summering der en setter opp faglige og sosiale</p>
+<p>utviklingsmål for neste arbeidsperiode.</p>
+<p><em type="bold">RESPEKT OG </em></p>
+<p><em type="bold">TOLERANSE</em> </p>
+<p><em type="bold">Mål: </em> Eleven viser respekt og toleranse for sine medmennesker </p>
+<p><em type="bold">Delmål (eksempler):</em> </p>
+<p>Eleven viser tålmodighet med dem</p>
+<p>som trenger det</p>
+<p>Eleven støtter/forsvarer dem</p>
+<p>som blir krenket</p>
+<p>Eleven godtar andres</p>
+<p>egenart</p>
+<p>AVTALE</p>
+<p><em type="bold">Mål:</em> </p>
+<p>Bedre leseflyten ved å øve høytlesning 10 min.</p>
+<p>mandag og onsdag</p>
+<p>Fullføre lekser på arbeidsplanen</p>
+<p>Ikke avbryte den som har ordet</p>
+<p>Skrive ned alle muntlige meldinger på tavla</p>
+<p><em type="bold">Ansvar:</em> </p>
+<p>Elev</p>
+<p>Elev/foreldre</p>
+<p>Elev</p>
+<p>Lærer</p>
+<p>elev                                        foreldre/foresatte                                     lærer</p>
+<p><em type="italic">Eksempel på skjema</em> </p>
+<p>Oppsummeringen kan være både muntlig og skriftlig, men er målene viktige for</p>
+<p>elevens videre utvikling, bør man skrive dem ned. I og med at det er elevens ut</p>
+<p>vikling det er snakk om, må han eller hun være aktivt med på å velge utviklings</p>
+<p>målene, også de som skal være skriftlige. Målene må være få og konkrete.</p>
+<p>Vanligvis er to til tre mål nok. Da er det lettere for alle å se om eleven nærmer</p>
+<p>seg målene eller ikke. Avtalen kan også inneholde mål for oppfølging fra lærer</p>
+<p>og/eller foreldre.</p>
+<p><em type="bold">Fordeling av ansvar mellom elev, foreldre og skole </em></p>
+<p>Som en del av oppsummeringen er det naturlig å bli enige om hvem som har</p>
+<p>hovedansvar for oppfølging av de ulike målene. Ansvaret kan og bør deles mellom</p>
+<p>elev, skole og foreldre.</p>
+<p><em type="bold">Oppfølging av målene i perioden </em></p>
+<p>I tiden mellom to utviklingssamtaler kan det være nyttig at de tre partene i sam</p>
+<p>talen holder kontakt og gir korte tilbakemeldinger om utviklingen. Slik tilbake</p>
+<p>melding kan bli gitt som skriftlig tilbakemelding på elevarbeid, i elevsamtale, på</p>
+<p>e-post eller over telefon.</p>
+<p>SPESIELLE UTFORDRINGER</p>
+<p><em type="bold">Barn med ulike forutsetninger </em></p>
+<p>Barna kommer til skolen med ulike behov og erfaringer. For å legge best mulig til</p>
+<p>rette for den enkelte, er det viktig at foreldrene gir skolen informasjon om barnet.</p>
+<p>Mens noen barn har spesielle problemer når det g jelder fag, kan andre ha prob</p>
+<p>lemer når det g jelder å fungere sosialt. Det å ha nedsatt hørsel eller dårlig syn,</p>
+<p>kan også være til hinder for trivsel, læring og utvikling. God informasjon og dialog</p>
+<p>mellom hjem og skole kan forebygge dette.</p>
+<p>Skolen har plikt til å gi alle elever tilpasset opplæring. Får for eksempel selv</p>
+<p>stendige og lesesterke barn nok utfordringer i skolehverdagen?</p>
+<p><em type="bold">Konflikter og konflikthåndtering</em> </p>
+<p>Utviklingssamtalen skal være en positiv dialog mellom elev, lærer og foreldre der</p>
+<p>hovedfokuset er elevens mestring og utvikling. Det betyr ikke at man skal unngå å</p>
+<p>diskutere problemer, men konflikter bør løses i egne møter. Noen konflikter er</p>
+<p>likevel slik at de må drøftes der og da. Utviklingssamtalen må da utsettes til en</p>
+<p>annen gang.</p>
+<p>Eleven og foreldrene skal ikke grue seg for å møte til utviklingssamtale, men</p>
+<p>komme dit med positive forventninger.</p>
+<p><em type="bold">Utviklingssamtalen og minoritetsspråklige elever </em></p>
+<p>Til skolen kommer det barn fra ulike land og kulturer. Et</p>
+<p>flerkulturelt samfunn har gitt oss en flerkulturell</p>
+<p>skole og på mange måter en rikere skolehverdag. I</p>
+<p>samarbeidet mellom skole og hjem har det opp</p>
+<p>stått nye utfordringer.</p>
+<p>Synet på skolen er svært ulikt fra kultur til kultur.</p>
+<p>Mens det i Norge etter hvert er tradisjon for et</p>
+<p>nært samarbeid mellom foreldre og lærer, er det i</p>
+<p>andre kulturer stor avstand mellom skole og hjem. Å</p>
+<p>legge til rette for et godt samarbeid og en likeverdig dialog</p>
+<p>mellom partene, kan bli utfordrende, men er nødvendig for å sikre god utvikling for</p>
+<p>eleven. I noen kulturer er det ingen tradisjon for møte mellom skole og hjem, og</p>
+<p>foreldrene har stor respekt for læreren. Da kan det være vanskelig å skape en</p>
+<p>god dialog. Å skape trygge rammer rundt møtet, blir derfor svært viktig. Å være</p>
+<p>vennlig, åpen og imøtekommende er en forutsetning for å lykkes i samtalen. For</p>
+<p>læreren blir det viktig å sette seg inn i og prøve å forstå barnet og foreldrenes</p>
+<p>kulturelle bakgrunn. Noen ganger må man kanskje akseptere at det blir mer</p>
+<p>informasjon enn dialog.</p>
+<p>Å komme fra et annet land eller en annen kultur, kan innebære språkvansker som</p>
+<p>er til hinder for dialogen. Barn og foreldre som nettopp har kommet til Norge, har</p>
+<p>selvsagt større problemer med å orientere seg enn dem som har bodd her noen</p>
+<p>år. Skolen må ta ansvar for å skaffe tolk til foreldre som trenger dette.</p>
+<p>Erfaring viser at det kan være fornuftig å bruke tolk både i samtaler med dem</p>
+<p>som har bodd her kort og dem som har bodd her lenge. Det er viktig at alle</p>
+<p>foreldre får den informasjonen de har krav på, og at de får anledning til å stille</p>
+<p>spørsmål og gi skolen informasjon.</p>
+<p>En morsmålslærer kan være en ressurs og samarbeidspartner for læreren, eleven</p>
+<p>og foreldrene, men bør likevel ikke brukes som tolk i utviklingssamtaler.</p>
+<p>VARIASJON I UTVIKLINGSSAMTALEN</p>
+<p><em type="bold">Variere opplegget fra ett årstrinn til et annet </em></p>
+<p>Både innhold i og organisering av utviklingssamtaler kan variere fra en klasse til</p>
+<p>en annen. Også mellom skoler kan det være forskjeller. Uavhengig av klasse eller</p>
+<p>skoler skal hjem og skole samarbeide om utviklingssamtalene.</p>
+<p>I samtalene er det naturlig å legge vekt på ulike emner alt etter hvilket årstrinn</p>
+<p>eleven er på. Samtalene vil også endre seg når eleven går over på ungdomsskolen.</p>
+<p>I tillegg til områder man har vektlagt tidligere, blir vurdering med karakterer et</p>
+<p>nytt tema i samtalene.</p>
+<p><em type="bold">Ulike varianter </em></p>
+<p>Tradisjonen i skolen er at sosial fungering får mye oppmerksomhet i barneskolen,</p>
+<p>mens den faglige utviklingen er viktigst i ungdomsskolen. Et hovedpoeng med</p>
+<p>utviklingssamtalene er at hele mennesket skal være i fokus. For å få til dette, må</p>
+<p>en legge vekt på hvordan eleven fungerer både sosialt og faglig. En trenger likevel</p>
+<p>ikke å ta opp alle temaene i hver samtale, men legge særlig vekt på det som er</p>
+<p>naturlig i en bestemt periode.</p>
+<p>Mens det i én samtale er kjernefagene norsk og matematikk som er tema, kan det</p>
+<p>i en annen legges mer vekt på de praktiske og estetiske fagene. Arbeidsmåter</p>
+<p>kan også være et tema for utviklingssamtalen. Hvordan eleven fungerer sosialt,</p>
+<p>bør være et tema i alle utviklingssamtaler.</p>
+<p>Selv om temaene kan og bør endres fra én samtale til den neste, er det viktig at</p>
+<p>elev og foreldre opplever at det de er mest opptatt av, kommer på dagsordenen i</p>
+<p>den aktuelle samtalen. Gode forberedelser og dialog mellom partene sikrer et</p>
+<p>godt utbytte for alle.</p>
+<p>Visste du</p>
+<p>at det står i lovverket at foreldrene har hovedansvar for</p>
+<p>barnas opplæring, og at de derfor har medansvar i sko</p>
+<p>len?</p>
+<p>at du kan påvirke barnas opplæring og skolegang som</p>
+<p>foreldrekontakt, som medlem av foreldrerådet, FAU eller</p>
+<p>av samarbeidsutvalget/styret?</p>
+<p>at alle elever har rett til tilpasset opplæring etter evner</p>
+<p>og forutsetninger?</p>
+<p>at elever som ikke har tilfredsstillende utbytte av det</p>
+<p>ordinære skoletilbudet, har rett til spesialundervisning?</p>
+<p>at alle elever har rett til et godt fysisk og psykososialt</p>
+<p>miljø som fremmer helse, trivsel og læring?</p>
+<p>at foreldre har rett til å klage?</p>
+<p><em type="bold">FUG - Foreldreutvalget for grunnskolen - er et utvalg av foreldre, oppnevnt av</em> </p>
+<p><em type="bold">Kongen i statsråd for fire år av gangen. Utvalget er et rådgivende organ for</em> </p>
+<p><em type="bold">Utdannings- og forskningsdepartementet. Utvalget skal ivareta foreldrenes og </em></p>
+<p><em type="bold">elevenes interesser i skolesamfunnet og arbeide for å fremme et godt samarbeid</em> </p>
+<p><em type="bold">mellom hjem og skole.</em> </p>
+<p><em type="bold">Foreldreutvalget for grunnskolen</em> </p>
+<p><em type="bold">Postboks 8119 Dep.</em> </p>
+<p><em type="bold">0032 Oslo</em> </p>
+<p><em type="bold">www.fug.no</em> </p>
+<p><em type="bold">www.foreldrenettet.no </em></p>
+<p><em type="bold">bestilling@fug.no</em> </p>
+<p><em type="bold">post@fug.no</em> </p>
+<p><em type="bold">Tlf.: 22 24 75 63</em> </p>
+<p><em type="bold">Faks: 22 24 75 90</em> </p>
+</body></document>

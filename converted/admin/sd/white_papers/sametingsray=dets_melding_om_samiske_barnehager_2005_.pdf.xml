@@ -1,839 +1,722 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>8574</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samediggi.no/content/download/538/4873/version/1/file/Sametingsr%C3%A5dets+melding+om+samiske+barnehager+%282005%29.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="sametingsmelding_om_samisk_barnehagetilbud_-_sa_rsamisk.pdf"/>
-    <parallel_text xml:lang="sme" location="sa_medikkera_ai_dieaa_hus_sa_mi_ma_na_idga_rddiid_birra_2005_.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Våre barn – vårt håp – vår stemme!</p>
-    <p xml:lang="sme">Min mánát – min doaivva – min jietna!</p>
-    <p xml:lang="smj">Mijjen maanah – mijjen håhkoe – mijjen giele! Mijá máná - mijá doajvvo - mijá jiedna!</p>
-    <p>Sametingsrådets melding om samiske</p>
-    <p>barnehager 14 04 2005</p>
-    <p><em type="bold">1 Innledning</em>               <em type="bold">2 Bakgrunn og formål med meldingen</em>            2.1 Sametingets barnehagepolitikk            </p>
-    <p> 2.2 Lovgrunnlag               2.3 Konvensjoner               2.4 Sametingets kommune- og barnehagebesøk          <em type="bold">3 Samiske barns oppvekstvilkår</em>            3.1 Barn i barnehage             3.2 Barn uten barnehageplass – ulike oppvekstvilkår         3.3 Barn som behøver individuelt tilpasset tilbud           3.4 Overgang barnehage – skole             3.5 Kultur                 3.5.1 Mangfoldet i kulturen            <em type="bold">4 Barnehager</em>               4.1 Samiske barnehage             4.2 Innhold            4.3 Språk              4.4 Oversikt over samiske barnehager 2001 og 2004      <em type="bold">5 Mål for barnehagene</em>           5.1 Ulike utfordringer           5.2 Funn fra kommunebesøk           5.2.1 Språkstimulering – et privat ansvar?         5.2.2 Kommuneøkonomi           5.2.3 Fordeling av særskilt tilskudd til samiske barnehager       5.2.4 Ytre markører             5.2.5 Regelverk som hindring i formidling av samisk kultur      <em type="bold">6 Metoder</em>             6.1 Læring gjennom aktiv deltakelse         6.2 Språkopplæring          <em type="bold">7 Kompetanse</em>            7.1 Personalet            7.2 Behov             <em type="bold">8 Læremidler</em>            <em type="bold">9 Sametingets arbeids- og satsingsområder</em>        9.1 Nettverksbygging           9.2 Barnehagekonferanser           9.3 Barnehagetidsskrift           9.4 Sámi oahpponeahtta/Samisk læringsnett        9.5 Veiledning            9.6 Samarbeid           <em type="bold">10 Utfordringer</em>           <em type="bold">11 Tiltak</em>             11.1 Sametingets politikk            11.2 Tilskuddsordninger             11.3 Forskning            11.4 Informasjon og veiledning           11.5 Stipend            11.6 Prioriterte tiltak          <em type="bold">12 Økonomiske og administrative konsekvenser</em>        <em type="bold">Litteraturliste </em>           </p>
-    <p><em type="bold">INNLEDNING </em>Denne meldingen har som målsetting å bidra til refleksjon og dialog om hvordan oppnå politiske </p>
-    <p>mål for forbedret oppvekstvilkår gjennom barnehagetilbud. Sametinget vil bidra til at samiske</p>
-    <p>barns barnehagetilbud er kvalitativt godt og at det er tilstrekkelig mange samiske barnehager.</p>
-    <p>Sametinget vil også  påse at rekruttering av pedagogisk personell intensiveres slik at de innehar</p>
-    <p>kompetanse i samisk språk og ei kultursensitiv holdning. Dette er viktig for både tilegnelse av og</p>
-    <p>utvikling av samisk språk og kulturkunnskap hos barn og som igjen fører til en trygg og styrket</p>
-    <p>identitet. Barnehagene driver også kulturformidling til det øvrige samfunnet gjennom sitt arbeid.</p>
-    <p>Dette bør utnyttes for å skape en bedre kulturforståelse hos det øvrige samfunnet, noe som igjen</p>
-    <p>kan gjøre at våre barn møter større aksept og toleranse fra storsamfunnet.</p>
-    <p>Grunnlaget for denne meldingen er lov om barnehager, Sametingsplanen 2002-2005, Sametingets</p>
-    <p>strategiske plan for samiske barnehager 2002-2005 og de erfaringer som Sametingsrådet har</p>
-    <p>høstet i sitt arbeid i forhold til barnehager i årene 2002 – 2004. Sametingets mål er en framdrift</p>
-    <p>for samiske barnehager hvor utvikling av samisk språk og kultur står sentralt.</p>
-    <p>
-      <em type="bold">2.  BAKGRUNN OG FORMÅL MED MELDINGEN 2.1  Sametingets barnehagepolitikk </em>
-    </p>
-    <p>Sametinget følger til enhver tid gjeldende lover og målsettinger for barnehager fastsatt av</p>
-    <p>Stortinget.</p>
-    <p>Sametinget har gjennom mange år arbeidet for å inkorporere samisk kultur i barnehager og</p>
-    <p>skoler. Sametinget uttrykker i Sametingsplanen 2002-2005 at barnehager i dagens samfunn har</p>
-    <p>ansvar for kulturformidling. Det er Sametinget i plenum og Sametingsrådet som vedtar rammer</p>
-    <p>og regler for arbeid på barnehageområdet ut fra ressursene som tildeles over statsbudsjettet hvert</p>
-    <p xml:lang="nno">år.</p>
-    <p xml:lang="isl">
-      <em type="bold">2.2  Lovgrunnlag  </em>
-    </p>
-    <p>Grunnlovens § 110a sier at ”Det paaligger Statens Myndigheter at lægge Forholdene til Rette for</p>
-    <p xml:lang="nno">at den samiske Folkegruppe kan sikre og utvikle sit Sprog, sin kultur og sit Samfundsliv ”</p>
-    <p>Sameloven, kap. 3 om samisk språk, regulerer bruk av samisk språk i offentlig virksomhet i</p>
-    <p>forvaltningsområdet for samisk språk. I dag er det 6 kommuner som hører under denne</p>
-    <p>ordningen, se punkt 3.5.1. Flere kommuner vil etter hvert bli innlemmet i ordningen.</p>
-    <p>man er undersøkende og nysgjerrig både innad i sin egen, men også på andres kulturer uten at man vurderer og rangerer de ut fra egne normer. Man prøver å forstå kulturer på kulturens egne premisser. Dunfjeld, G. (2004), I Tronvoll, I.M, Moe,A. og Henriksen J.E. (red.).</p>
-    <p>Barneloven slår fast at det er foreldre som har ansvaret for barnets oppvekst. De skal gi barnet</p>
-    <p>forsvarlig oppdragelse og omsorg, og har rett og plikt til å ta avgjørelser på vegne av barnet.</p>
-    <p>Nåværende lov om barnehager sier at samiske barnehager i samiske distrikter skal bygge på</p>
-    <p>samisk språk og kultur. Rammeplanen for barnehager har et eget kapittel som omhandler samisk</p>
-    <p>språk og kultur, og som brukes av samiske barnehager.</p>
-    <p>Barnehageloven sier også at kommuner har ansvar for utbygging og drift av barnehager, og plikt</p>
-    <p>til å sørge for at det finnes tilstrekkelig antall barnehageplasser i kommunen. Kommunen og</p>
-    <p>Fylkesmannen er barnehagemyndigheter etter barnehageloven. Det innebærer at det er</p>
-    <p xml:lang="nno">kommunen som har tilsyns- og veiledningsansvar lokalt for både kommunale og private</p>
-    <p>barnehager.</p>
-    <p>Etter gjeldende barnehagelov, forskrifter og rammeplan skal barnehagetilbudet tilpasses lokale</p>
-    <p>forhold og behov, deriblant behovene til samiske barn.</p>
-    <p>Regjeringen har i høringsutkast til ny barnehagelov av 09.11.04 foreslått i § 2 at barnehagetilbudet</p>
-    <p>til samiske barn skal bygge på samisk språk og kultur, og i § 8 at kommunen har ansvar for at</p>
-    <p>barnehagetilbudet til samiske barn bygger på samisk språk og kultur.</p>
-    <p>
-      <em type="bold">2.3  Konvensjoner  </em>
-    </p>
-    <p>FNs konvensjon om barns rettigheter (barnekonvensjonen), som Norge ratifiserte i 1991, sier i</p>
-    <p>artikkel 29.1-c bl.a: <em type="italic">”partene er enige om at barnets utdanning skal ta sikte på å utvikle respekt for dets egen </em></p>
-    <p><em type="italic">kulturelle identitet, språk og verdier”.</em> Artikkel 30 understreker at <em type="italic">”i land hvor det finnes etniske, religiøse eller </em></p>
-    <p>
-      <em type="italic">språklige minoriteter eller urbefolkning, skal et barn som tilhører en slik minoritet eller urbefolkning, ikke nektes </em>
-    </p>
-    <p>
-      <em type="italic">retten til sammen med andre medlemmer av sin gruppe å nyte godt av sin kultur, å bekjenne seg til og utøve sin </em>
-    </p>
-    <p><em type="italic">religion eller til å bruke sitt eget språk”.</em> Også ILO-konvensjon nr. 169 om urfolk og stammefolk i </p>
-    <p>selvstendige stater og FNs konvensjon om sivile og politiske rettigheter av 1966 er sentrale i</p>
-    <p>forhold til samiske rettigheter.</p>
-    <p>ILO-konvensjon nr. 169 om urfolk og stammefolk i selvstendige stater som Norge ratifiserte i</p>
-    <p>1990, og FNs konvensjon av 1966 om sivile og politiske rettigheter, sier også at det skal treffes</p>
-    <p>tiltak for å bevare og fremme utvikling og bruk av de opprinnelige språk for vedkommende folk.</p>
-    <p>Dette innebærer at Norge har et ansvar for å iverksette ulike tiltak slik at samer kan bevare sitt</p>
-    <p>språk, sin kultur og sitt levesett, og dette gjelder også for barnehagesektoren.</p>
-    <p>Sametingets oppgave er forvaltning av det særskilte tilskuddet til samiske barnehager. Med det</p>
-    <p>følger ansvar for å tildele tilskudd, føre kontroll med, og oppfølging av tilskuddsmottaker. I den</p>
-    <p>forbindelse gis det faglig veiledning til både enkeltbarnehager og kommuner.</p>
-    <p>
-      <em type="bold">2.4 Sametingets kommune- og barnehagebesøk </em>
-    </p>
-    <p>Sametingets visepresident har besøkt samiske barnehager og barnehager med samiske barn,</p>
-    <p>barnehageeiere, og kommuner. Hensikten med disse besøkene har vært å gjøre seg kjent med</p>
-    <p>barnehagene og få en oversikt over hvilke behov og utfordringer de står overfor. Det som går</p>
-    <p>igjen, er hvordan en kan styrke barnehagenes og kommunenes arbeid med samisk språk- og</p>
-    <p xml:lang="est">kulturarbeid.</p>
-    <p>Sametinget har i perioden 2002 – 2004 besøkt samtlige kommuner i Norge hvor det er samiske</p>
-    <p>barnehager. Visepresidenten har i den forbindelse besøkt en eller flere samiske barnehager i hver</p>
-    <p>kommune. På møtene har også barnehagens ansatte, foreldre og eiere deltatt. Det har blitt gitt</p>
-    <p>gjensidig informasjon på møtene og aktuelle problemstillinger har blitt drøftet. Visepresidentens</p>
-    <p>besøksrunde vil også være bakgrunn for denne meldingen, og oppsummering av disse besøkene</p>
-    <p>kommer inn under meldingens pkt. 5 Mål for barnehagene.</p>
-    <p><em type="bold">3.  SAMISKE BARNS OPPVEKSTVILKÅR </em>De ytre vilkårene for samisk oppvekst og livsutfoldelse varierer fordi vi har til dels ulike samiske </p>
-    <p>samfunn å forholde oss til. Det er derfor en utfordring å gjøre seg kjent med de ulike samiske</p>
-    <p>samfunn enn de en selv bor i og er en del av. Langs kysten i Nord-Norge og sør i landet, er samer</p>
-    <p>i mindretall og blir derfor lett usynlige som gruppe i lokalsamfunnet. Vilkårene for å beholde</p>
-    <p>språket når man bor utenfor områder hvor samisk språk står sterkt, er således vanskelige, selv om</p>
-    <p>kulturen fortsatt kan være levende innad i familie, slekt og mellom samer generelt. De kulturelle</p>
-    <p>uttrykkene endrer seg også, uansett samisk samfunn, fordi samer på lik linje med andre er blitt</p>
-    <p>mer urbane. Kulturelle uttrykk er for de som er ukjente med samisk kultur, ofte usynlige. Derfor</p>
-    <p>kreves det fra de voksnes side å se den kulturen samiske barn vokser opp i. Dette gjelder spesielt</p>
-    <p>de som står utenfor, men også de som har samisk kulturtilhørighet, ettersom man kan ha blinde</p>
-    <p>flekker. Det kan være en utfordring for foreldre å skape en trygg samisk identitet hos sine barn</p>
-    <p>når storsamfunnet ikke ser det samiske samfunnet slik vi fra samisk side forventer, eller at miljøet</p>
-    <p>rundt ikke støtter opp om den enkeltes tilhørighet i det samiske samfunnet.</p>
-    <p>1)å se med tre ulike blikk – dødt blikk, da ser man ingen samisk kultur (Jakob Meløe,1979) ukyndig blikk, da ser man at her er det noe man ikke</p>
-    <p>helt vet hva er, og viser nysgjerrighet gjennom spørsmål og kyndig blikk, da vet man hva man ser</p>
-    <p>blinde flekker – gjennom det kyndige blikk kan man miste informasjon fordi man ikke kjenner detaljer.</p>
-    <p>Tidligere var samiske barns oppvekst preget av hjemmets oppdragelse der man vokste opp blant</p>
-    <p>slektninger, neebne (navnesøstre/-brødre), gudforeldre og senere også klaassevoelpe</p>
-    <p>(klassekamerater). Disse personene gjorde det mulig for foreldre å velge betydningsfulle modeller</p>
-    <p>for sine barn. Gjennom valg av navn og faddere, og slektstilhørighet kunne de styre</p>
-    <p>sosialiseringen og identitetsutviklingen på en indirekte måte.</p>
-    <p>De voksnes arbeid og aktiviteter var rammen for barns oppvekst og dermed var barn integrert i</p>
-    <p>voksenverdenen. Ved fysisk nærhet til voksnes arbeid og voksne som modeller, var mulighetene</p>
-    <p xml:lang="dan">til stede for en normativ oppdragelse.</p>
-    <p>I dag er mye av sosialiseringen og oppdragelsen flyttet over til institusjoner  som barnehager og</p>
-    <p>skoler, også i det samiske samfunnet. Disse institusjonene har sin opprinnelse og verdigrunnlag</p>
-    <p>fra et annet samfunn. Derfor er oppbygging av samiske barnehager og skoler en utfordring, ikke</p>
-    <p>bare i forhold til etablering, men også i utformingen av et samisk innhold. Mangel på pedagogisk</p>
-    <p>personale med samisk språk- og kulturkompetanse har vanskeliggjort arbeidet. Dette gjelder</p>
-    <p>fortsatt for de fleste samiske barnehager over hele landet.</p>
-    <p>
-      <em type="bold">3.1  Barn i barnehage </em>
-    </p>
-    <p>St.meld. nr. 30 (2004-2005) <em type="italic">Kultur for læring </em>understreker at ”barnehagen er et viktig grunnlag for </p>
-    <p>livslang læring.” Samiske barn som ikke har tilgang til samiske barnehager, er vanligvis i norske</p>
-    <p>barnehager på linje med andre barn. Norske barnehager legger ikke i sin hverdag opp til å</p>
-    <p>stimulere barnas utvikling i samisk språk og kultur. Dette kan føre til forstyrrelse i barnets</p>
-    <p>utvikling fordi oppholdet i barnehagen blir løsrevet fra hjemmets miljø. Dette skjer selv om</p>
-    <p>norske barnehager også har muligheter til å søke Sametinget om midler til morsmålsopplæring i</p>
-    <p>samisk dersom de synliggjør at barnehagen formidler samisk språk og kultur, og har ansatte som</p>
-    <p>behersker samisk.</p>
-    <p>Samiske foreldre kan velge om de vil søke sine barn inn i samiske eller norske barnehager,</p>
-    <p>dersom det finnes samisk barnehage der de bor. Dette følger både av foreldreretten,</p>
-    <p>barnekonvensjonen og Unesco-konvensjonen mot diskriminering i undervisningen.</p>
-    <p>Den første samiske barnehagen i Norge ble etablert i Kautokeino i 1969. Samisk barnehagetilbud</p>
-    <p>etterspørres mer og mer, spesielt i områder der foreldre har behov for hjelp og støtte til språklig</p>
-    <p>stimulering og utvikling av en sosial kompetanse der barna får tilhørighet til sitt folk og styrking</p>
-    <p>av sin samiske identitet.</p>
-    <p>De fleste samiske barnehager bruker samisk som hverdagsspråk, og har aktiviteter som er knyttet</p>
-    <p>til samisk kultur og samiske tradisjoner. Dette er i tråd med retningslinjer for lokal tilpasning av</p>
-    <p>rammeplan for barnehager som de seks kommunene i språkforvaltningsområdet har utarbeidet.</p>
-    <p>Mangel på materiale som egner seg til språklig og kulturell stimuli og mangel på samisk</p>
-    <p>pedagogisk personell, skaper merarbeid og hindringer i arbeidet.</p>
-    <p>
-      <em type="bold">3.2  Barn uten barnehageplass -  ulike oppvekstvilkår </em>
-    </p>
-    <p>Ikke alle samiske barn har tilgang på samisk barnhage. Barn som ikke går i samisk barnehage</p>
-    <p>mangler en viktig språkstimuleringsarena som en samisk barnehage representerer. Dette gjelder</p>
-    <p>spesielt i områder der foreldre ikke kan være gode språkstimulatorer ved at de ikke behersker</p>
-    <p>samisk. Samisk språkstimulering i barnehagen kan gi utslag i valg av samisk som første- eller</p>
-    <p>andrespråk ved skolestart.</p>
-    <p>Samiske barn og ungdom skal sikres gode og trygge oppvekst- og levekår. Det innebærer at alle</p>
-    <p>skal ha likeverdige tilbud og muligheter jfr. ”Samisk oppvekst, om tilbud til samiske barn og</p>
-    <p>ungdom” utgitt av Barne- og familiedepartementet i samarbeid med Sametinget i 2003.</p>
-    <p>Hva som er likeverdige tilbud og muligheter for samiske barn i forhold til hva norske barn og</p>
-    <p>unge har, må synliggjøres i Sametingets politikk.</p>
-    <p>Samiske foreldre har ut fra behov opprettet foreldrenettverk. Det er fordi kampen for å få</p>
-    <p>oppfylt rettigheter oppleves å bli privatisert, og hver enkelt familie må kjempe for å få tilrettelagt</p>
-    <p>sosiale, kulturelle og språklige tiltak for barna både i barnehagen og i andre sammenhenger. Det</p>
-    <p>er et signal om at det kan være vanskelig å få de lovfestede rettigheter samer har i områdene der</p>
-    <p xml:lang="dan">de bor.</p>
-    <p>Barn og unge er fremtidens bærere, forvaltere og videreformidlere av samisk kultur. De vil ut fra</p>
-    <p>foreldres valg, kontakt med slekta og andre voksne personer, få ulik tilknytning til det samiske</p>
-    <p>samfunn og storsamfunnet for øvrig. Som selvstendige mennesker vil de derfor ha ulike forhold</p>
-    <p>til samiske verdier, tradisjoner og normer. Foreldre trenger å få støtte både fra det offentlige og</p>
-    <p>de omkringliggende miljøene med positive holdninger til det samiske. Dette vil støtte opp om</p>
-    <p>barns opplevelse av samisk identitet.</p>
-    <p>Barn og unges verden er i dag annerledes enn foreldregenerasjonens. Sosialiseringsarenaene</p>
-    <p>konkurrerer med nasjonale og internasjonale medier. Det samiske språket får ofte for liten stimuli i konkurransen med andre språk, derfor må samiskspråklige medietilbud utvikles og intensiveres</p>
-    <p>og tilpasses dagens barn og unge.</p>
-    <p>
-      <em type="bold">3.3  Barn som behøver individuelt tilpasset tilbud </em>
-    </p>
-    <p>Samiske barn behøver som andre barn av og til individuelle tilpassede tilbud i barnehagen. Det</p>
-    <p>som er hverdagen for de fleste samiske brukere er at ved søknad om hjelp, møter de et norsk</p>
-    <p>hjelpeapparat med en norsk tenkemåte. I slike situasjoner er man som minoritet mer sårbar enn</p>
-    <p>andre. Derfor er det viktig at barnehagens ansatte har god spesialpedagogisk kompetanse, og at</p>
-    <p>de er seg bevisst den kulturelle konteksten barnet befinner seg i, selv om barnet og foreldrene</p>
-    <p xml:lang="dan">snakker norsk. Undersøkelse har vist at de sakkyndige ikke tar innover seg at den samiske</p>
-    <p>verdenen er annerledes enn den norske. Det  kan skape mistillit og mangel på respekt hos</p>
-    <p>foreldre/foresatte ovenfor hjelpeapparatet. Dette kan igjen går utover barnet som behøver hjelp</p>
-    <p>til å få et tilbud som er likeverdig med det som norske barn har. For å imøtegå barns behov, bør</p>
-    <p>det norske hjelpeapparatet bli mer bevisst sin posisjon og tenke flerkulturelt.  Det er behov for at</p>
-    <p>flere samer utdannes for å imøtekomme behovet for spesialisering.</p>
-    <p xml:lang="nno">
-      <em type="bold">3.4 Overgang barnehage - skole </em>
-    </p>
-    <p>Læreplanverket for grunnskolen og rammeplanen fremhever begge betydningen av et formalisert</p>
-    <p>samarbeid mellom barnehage og skole for å sikre barn en god overgang. Barna bør få god</p>
-    <p>språkstimulering i samiske barnehager slik at de kan mestre samisk som førstespråk eller</p>
-    <p>andrespråk. For at språket skal videreutvikles, ettersom barnet vokser til og går over i skolen, er</p>
-    <p>noe av utfordringen i dag at skolen blir opprustet med tilstrekkelige samiskspråklige</p>
-    <p>lærerressurser og læremateriell. Spesielt i områder utenfor forvaltningsområdet for samisk språk</p>
-    <p>står barna i fare for at språkutviklingen stagnerer dersom de ikke får en smidig overgang fra</p>
-    <p>barnehage til skole. Alle overganger i livet kan oppleves som kritiske. For å avhjelpe denne</p>
-    <p>overgangen, bør en sikre at samisk språk og kultur utvikles på deres eget nivå også i grunnskolen.</p>
-    <p xml:lang="deu">
-      <em type="bold">3.5  Kultur </em>
-    </p>
-    <p>Kultur er et begrep uten objektive kriterier og kan forstås som de tanker, kunnskaper og</p>
-    <p>ferdigheter mennesker har tilegnet seg som medlemmer av et samfunn. Det er et system av ideer,</p>
-    <p>verdier, normer, koder og symboler som et menneske overtar fra den foregående generasjon, og</p>
-    <p>som man forsøker å bringe videre – ofte noe forandret, til neste generasjon (Klausen 1992).</p>
-    <p>Kultur er summen av de erfaringer og kunnskaper som vi mennesker erverver oss gjennom</p>
-    <p>Hjelp i kontekst v/G. Dunfjeld sosialisering og ved å være medlemmer av et samfunn. Samfunnet som preger oss vil hele tiden</p>
-    <p>være forskjellig ut fra hvor i landet vi bor og hvor lenge vi oppholder oss der i tid. Derfor vil det</p>
-    <p>være forskjeller på hva vi lærer også innad i en og samme kultur.</p>
-    <p>
-      <em type="bold">3.5.1   Mangfoldet i kulturen </em>
-    </p>
-    <p>Samene har fra gammelt av hatt sine bosettingsområder som geografisk omfatter både det</p>
-    <p>nordsamiske, lulesamiske og sørsamiske språkområdet. Disse samiske områdene eksisterer</p>
-    <p>fortsatt selv om de er blitt geografisk innskrenket. I tillegg bor det samer i byer. Den samiske</p>
-    <p>befolkningen i byene er sammensatt av personer fra ulike deler av landet og kan derfor ha ulik</p>
-    <p>tilknytning til samisk språk og kultur. Samene bor spredt over hele landet. Flertallet av samene</p>
-    <p>bor i de seks kommunene som blir kalt forvaltningsområdet for samisk språk, og de seks</p>
-    <p>kommunene er Nesseby, Tana, Porsanger, Karasjok, Kautokeino og Kåfjord.</p>
-    <p>I dette området er samer betegnet som majoritet i forhold til nordmenn, men likevel er</p>
-    <p>samfunnene i disse kommunene forskjellige. I noen av kommunene er samisk språk synlig og</p>
-    <p>levende og anvendes både i private og offentlige sammenhenger, mens i andre kommuner er</p>
-    <p>samisk språk et privat anliggende. Det offentlige tjenestetilbudet er mer tilrettelagt for samiske</p>
-    <p>brukere i barnehager og skoler, helse- og sosiale tilbud samt andre tilbud i forvaltningsområdet</p>
-    <p>for samisk språk.</p>
-    <p>Det er viktig at samiske barn må få muligheten til å lære om sin lokale kultur uansett hvor de bor</p>
-    <p>i landet samtidig som de også må få innblikk i andres tradisjoner, verdier og normer.</p>
-    <p>
-      <em type="bold">4. BARNEHAGER 4.1. Samisk barnehage </em>
-    </p>
-    <p>De samiske barnehagenes formål er først og fremst å styrke og utvikle barnas samiske språk og</p>
-    <p>kultur. I Rammeplan for barnehagen, s. 92 legger barne- og familiedepartementet følgende</p>
-    <p>definisjon til grunn for hva en samisk barnehage er:</p>
-    <p>
-      <em type="italic">”En samisk barnehage er en barnehage der barna i barnehagen har samisk bakgrunn – er samer. Barnehagen </em>
-    </p>
-    <p>
-      <em type="italic">har som formål å styrke barnas identitet som samer ved å fremme bruken av samisk språk og ved å formidle </em>
-    </p>
-    <p>
-      <em type="italic">samisk kultur. Barnehagen ledes av samisk pedagogisk personale”.  </em>
-    </p>
-    <p>I Norge finnes det i dag samiske barnehager i Finnmark, Troms, Nordland, Nord-Trøndelag,</p>
-    <p>Hedmark og i Oslo. I tillegg finnes det samiske barn i norske barnehager ulike steder i hele landet</p>
-    <p>der barn får tilbud om samisk språk og kulturopplæring. De fleste samiske barnehagene er</p>
-    <p>organisert som kommunale barnehager, men det er også enkelte private samiske barnehager.</p>
-    <p xml:lang="nno">
-      <em type="bold">4.2. Innhold </em>
-    </p>
-    <p>De samiske barnehagene er opprettet for å gi barnehagen et samisk innhold. Barnehagens</p>
-    <p>innhold er i stor grad bestemt i rammeplan for barnehager. De emnene som er beskrevet i</p>
-    <p>rammeplanen er likevel ikke uttømmende, og må suppleres lokalt. Hver barnehage må tillegge</p>
-    <p xml:lang="nno">temaarbeidet lokalt preg og vektlegge den lokale kulturen i formidlingen i barnehagen. Den</p>
-    <p>viktigste oppgaven samiske barnehager har, er formidling av samiske verdier, samisk språk og</p>
-    <p>kultur. Samisk kultur har usynlige, synlige og ytre markører som bl.a. språk, klestradisjoner,</p>
-    <p>omgangsformer, matskikker, duodji (herunder kunst), joik og samisk musikk,  navneskikker og</p>
-    <p>næringer. Samisk kultur består også av immaterielle faktorer som verdinormer, tenkesett,</p>
-    <p>samhørighetsfølelse og en felles historie og bakgrunn. Alt dette må barnehagen formidle til barna</p>
-    <p xml:lang="nno">på en slik måte at barna får et positivt syn på det samiske og kan være stolte av sin samiske</p>
-    <p>tilhørighet.</p>
-    <p>Rammeplanen forutsetter at barna får erfaring fra alle de fem fagområdene som er nevnt i planen.</p>
-    <p xml:lang="dan">De fem fagområdene er følgende:</p>
-    <p>1. Samfunn, religion og etikk</p>
-    <p>2. Språk, tekst og kommunikasjon</p>
-    <p>3. Estetiske fag</p>
-    <p>4. Natur, miljø og teknikk</p>
-    <p>5. Fysisk aktivitet og helse</p>
-    <p>I tillegg nevner rammeplanen sju hovedområder som samiske barnehager skal bygge sin</p>
-    <p>virksomhet på. De sju hovedområdene er :</p>
-    <p>1. Styrke og utvikle samisk fellesskapsfølelse</p>
-    <p>2. Utvikle respekt for mangfoldet i samekulturen</p>
-    <p xml:lang="nno">3. Få kjennskap til egen lokalkultur og trekke det samiske nærmiljøet inn i</p>
-    <p xml:lang="nno">barnehagen</p>
-    <p xml:lang="dan">4. Utvikle respekt for naturen og miljøet</p>
-    <p>5. Aktivt samarbeid med hjemmet</p>
-    <p>6. Likestilling mellom de to kjønn</p>
-    <p xml:lang="dan">7. Utvikle respekt for andre kulturer og levemåter</p>
-    <p>Mange samiske barnehager arbeider ut fra en åtte årstidskalender; vinter, vår-vinter, vår, vår</p>
-    <p>sommer, sommer, høst-sommer, høst, høst-vinter. Ved å bruke årstidskalenderen ved planlegging kan man legge inn aktiviteter fra både de sju samiske hovedområdene og de fem fagområdene</p>
-    <p>rammeplanen nevner.</p>
-    <p>
-      <em type="bold">4.3. Språk </em>
-    </p>
-    <p>Barnehagetilbudet til samiske barn er ulikt fra sted til sted. Det finnes samiske barnehager med</p>
-    <p>samisk og/eller norsk som hovedspråk eller med både norsk og samisk som hovedspråk, men</p>
-    <p>med fokus på samisk innhold. I tillegg er det samiske barn i norske barnehager med norsk som</p>
-    <p xml:lang="nno">hovedspråk og som er bygget på norsk kultur.</p>
-    <p>En må ta utgangspunkt i barnets språklige situasjon når en setter opp målsettingen for bruk og</p>
-    <p>styrking av samisk språk. I følge rammeplanen skal hvert enkelt barn få et barnehagetilbud som er</p>
-    <p>tilpasset dets språksituasjon med tanke på at bruken av samisk språk styrkes.</p>
-    <p>For 2004 har Sametinget følgende oversikt over antall barn som går i barnehager som har fått</p>
-    <p>tilskudd fra Sametinget;</p>
-    <p>Nordsamiske barn i barnehage: 913 barn</p>
-    <p>Lulesamiske barn i barnehage:      8 barn</p>
-    <p>Sørsamiske barn i barnehage:      19 barn</p>
-    <p xml:lang="isl">Sum                                          940 barn</p>
-    <p xml:lang="swe">Under punkt 6.2  Språkopplæring kommer det mer om språk.</p>
-    <p xml:lang="sme">
-      <em type="bold">4.4 OVERSIKT OVER SAMISKE BARNEHAGER 2001 OG 2004 </em>
-    </p>
-    <p>Antall    Antall   Antall   Antall</p>
-    <p>barnehager   samiske barn  barnehager   samiske barn</p>
-    <p>Kommune</p>
-    <p xml:lang="nno">Kautokeino</p>
-    <p>Karasjok</p>
-    <p xml:lang="est">Tana</p>
-    <p>Porsanger</p>
-    <p>Nesseby</p>
-    <p>Kåfjord</p>
-    <p>Tromsø</p>
-    <p xml:lang="est">Alta</p>
-    <p xml:lang="nno">Lavangen</p>
-    <p>Vadsø</p>
-    <p>Engerdal</p>
-    <p>Skånland</p>
-    <p>Tysfjord</p>
-    <p xml:lang="sme">Oslo</p>
-    <p>Nordreisa</p>
-    <p xml:lang="sma">Snåsa</p>
-    <p>
-      <em type="bold">Norske barnehager som gir samisk opplæring :  </em>
-    </p>
-    <p xml:lang="nno">Hattfjelldal *</p>
-    <p xml:lang="nno">Rennebu *</p>
-    <p xml:lang="nno">Målselv*</p>
-    <p xml:lang="nno">Grane*</p>
-    <p>Harstad*</p>
-    <p xml:lang="vep">Kvalsund*</p>
-    <p>Sør-Varanger*</p>
-    <p>Storfjord*</p>
-    <p xml:lang="nno">Saltdal*</p>
-    <p xml:lang="isl">Sum</p>
-    <p>Sum samisk tilskudd   2001   5.923.776 kr  20048.108.833 kr</p>
-    <p>Sonjatun barnehage i Nordreisa, Stubben barnehage i Vadsø, Gimle barnehage i Tromsø og</p>
-    <p>Nyland barnehage i Alta er norske barnehager med en samisk avdeling.</p>
-    <p>Det har vært nedgang av barn i en del barnehager, men det totale antall barn er likevel stabilt pga</p>
-    <p>at det er opprettet nye barnhager.</p>
-    <p>Sametinget har ikke evaluert om kontantstøtten har ført til nedgang i antall samiske barn i</p>
-    <p>barnehager. Det kunne vært interessant å se nærmere på dette ved en egnet anledning.</p>
-    <p>Samiske barnehager har ingen lang tradisjon og historie.</p>
-    <p>Barnehager merket med stjerne er norske barnehager med samiske barn som får tildelt midler fra Sametinget til</p>
-    <p>samiskopplæring.</p>
-    <p>Fra den første samiske barnehagen ble åpnet i 1969, er det i dag totalt 46 samiske barnehager i</p>
-    <p>Norge. Av disse er 42 rene samiske barnehager, mens fire er egne samiske avdelinger i norske</p>
-    <p>barnehager. Totalt i disse barnehagene er det ca 940 barn.</p>
-    <p>Noen samiske barn bor i områder hvor det ikke er grunnlag for egen samisk barnehage. Her går</p>
-    <p>mange samiske barn i norske barnehager. Sametinget tildeler i 2005 midler i form av tilskudd til</p>
-    <p>19 norske barnehager hvor det er samiske barn. Dette er barnehager som vil styrke de samiske</p>
-    <p>barnas språk. Tilskuddet skal bl.a. brukes til lønn for samiskspråklige ansatte.</p>
-    <p>Det samiske samfunnet har gjennomgått store endringer i løpet av forholdsvis kort tid.</p>
-    <p>Tilsynelatende ser det ut til at denne utviklingen har gått greit. Manglende forskning og statistisk</p>
-    <p>materiale medfører imidlertid at vi har liten kunnskap om hvordan det har påvirket samiske barns</p>
-    <p>oppvekstvilkår.</p>
-    <p>Sametinget forvalter særskilt tilskudd til samiske barnehager i Norge. Dette innebærer også at</p>
-    <p>Sametinget har ansvar for å se til at de samiske barnehagene som mottar tilskudd har vedtekter i</p>
-    <p>henhold til  tildelingskriterier for tilskudd, og at barnehagene drives i samsvar med disse.</p>
-    <p>I 2004 tildelte Sametinget kr. 750.000,- som prosjektmidler til samiske barnehager. Det kom totalt</p>
-    <p>inn søknader for kr. to millioner. Sametinget tildelte kr. 600.000,- til pedagogisk</p>
-    <p>materiale/læremidler.</p>
-    <p>Økning av tilskuddet fra 2001 til 2004 er et resultat av både flere samiske barnehager og økt</p>
-    <p>tildeling over statsbudsjettet. Sametinget økte satsen for tilskuddet i 2004.</p>
-    <p><em type="bold">5. MÅL FOR BARNEHAGENE </em>Samiske barn har krav på et barnehagetilbud som er likeverdig med det barnehagetilbudet øvrige </p>
-    <p>norske barn får. Samiske barnehager har derfor en sentral funksjon i språkopplæringen og som</p>
-    <p>kulturformidlere for å støtte opp om barns identitetsdannelse. Denne rollen må barnehager være</p>
-    <p>seg bevisste og ta på alvor og utøve denne rollen på best mulig måte. Dette innebærer at når</p>
-    <p>barnehagen er en læringsarena for samisk språk, må ulike språktiltak være sentrale og de vil</p>
-    <p>variere noe fra sted til sted. De største utfordringene er der det samiske språket ikke er</p>
-    <p xml:lang="dan">dagligspråk og hvor det er forholdsvis små språkmiljøer.</p>
-    <p>Sametinget igangsatte et femårig språkmotiveringsprosjekt ved Elgå Oppvekstsenter i Engerdal</p>
-    <p>kommune i Hedmark i 2001. Dette prosjektet har hittil vist positive resultater. Barn med</p>
-    <p xml:lang="nno">sørsamisk som førstespråk har økt i dette området. Dette tiltaket har hatt effekt, og viser at</p>
-    <p>dersom man ønsker å styrke samisk språk i et område hvor språket er nesten borte, er det</p>
-    <p>nødvendig med særskilte tiltak for å lykkes.</p>
-    <p>Læring i barnehage foregår kontinuerlig. Barna lærer når de samspiller med andre barn og med</p>
-    <p>voksne i barnehagen. Barna lærer i lek og aktivitet og de lærer i hverdagssituasjoner. Barnehagen</p>
-    <p>har også flere formelle læringssituasjoner som er knyttet til tema. Læring i barnehagen må være</p>
-    <p>nært knyttet til omsorg og lek, og vil være en del av oppdragelsen. Den beste læringen skjer</p>
-    <p>gjennom erfaring. Derfor er barnehagens arbeidsmåter sentrale. Barns læring har tradisjonelt</p>
-    <p>foregått ved deltakelse i praktisk arbeid. Den beste læringen foregår når barn får være delaktige i</p>
-    <p xml:lang="nno">arbeidet. Barnehagen må legge opp hverdagen slik at barn kan delta i det praktiske arbeidet, både</p>
-    <p>for læringsutbytte, men også for å oppleve at de er en del av sammenhengen. Deres bidrag må</p>
-    <p xml:lang="dan">ikke være <span type="quote" xml:lang="nno">”på liksom”</span>, men til nytte for fellesskapet.</p>
-    <p>Det er viktig at barnehagens ansatte har et reflektert forhold til påvirkning fra det moderne</p>
-    <p>samfunnet. Barnehagens ansatte og foreldre bør drøfte de problemstillinger som oppstår i</p>
-    <p>barnehagen på bakgrunn av ytre påvirkninger fra media og ellers fra storsamfunnet.</p>
-    <p>
-      <em type="bold">5.1  Ulike utfordringer </em>
-    </p>
-    <p>I Norge bor samer spredt i alle deler av landet. Språket brukes likevel i ulik og varierende grad</p>
-    <p>avhengig av den lokale forhistorie. Mange barnehager opplever at samisk språk ikke har status i</p>
-    <p>lokalmiljøet og heller ikke blant foreldre i barnehagen. Noen steder er heller ikke lokale</p>
-    <p>myndigheter ubetinget positive til det samiske. Selv om det ikke kan sies at noen er direkte</p>
-    <p>negative, merker barnehagen dette ved at saker blir trenert, og liten velvilje og unnfallenhet til å</p>
-    <p>følge opp. De utfordringer samiske barnehager har, er i denne meldingen sammenfattet på</p>
-    <p>bakgrunn av de opplysninger og signaler Sametinget har tilegnet seg under besøkene i de samiske</p>
-    <p>barnehagene.</p>
-    <p>
-      <em type="bold">5.2   Funn fra kommunebesøk  </em>
-    </p>
-    <p>På bakgrunn av erfaringer fra Sametingsrådets barnehagebesøk, jf. punkt 2.4, omtales i det</p>
-    <p>følgende en del problemstillinger som er felles for flere kommuner.</p>
-    <p>
-      <em type="bold">5.2.1 Språkstimulering – et privat ansvar ? </em>
-    </p>
-    <p>Med noen unntak er de samiske barnehagenes største utfordring å få barna til å bruke det samiske</p>
-    <p>språket daglig, og spesielt som lekespråk. Utfordringene er knyttet til barnas eget språk og</p>
-    <p>hjemmespråk, og samisktalende ansatte og deres språkkunnskaper. Den største utfordringer</p>
-    <p>knytter seg til å få en stabil samiskspråklig kompetanse i barnehagene. Mangel på samisktalende</p>
-    <p>ansatte i barnehagene medfører et svekket språktilbud til samiske barn. Det er i denne</p>
-    <p>sammenheng viktig at det er flere enn en ansatt som behersker samisk. I noen barnehager er hele personalet samisktalende. Dette gjelder de aller fleste barnehager i Kautokeino og Karasjok,</p>
-    <p>enkelte i Porsanger og Tana, og samiske barnehager i Oslo, Tromsø og Alta. De fleste andre</p>
-    <p>samiske barnehagene har som regel noen få ansatte som kan samisk, mens øvrige ansatte ikke</p>
-    <p>behersker samisk muntlig. Dette medfører at de ansatte må snakke norsk store deler av</p>
-    <p>arbeidsdagen. Dette hører barna, og de påvirkes slik at de får det inntrykket at samisk er noe man</p>
-    <p>snakker i visse situasjoner, men ikke ellers. Å ha en samisktalende ansatt er bedre enn ingenting,</p>
-    <p>men dette fører til stor slitasje på den ene eller de få ansatte som kan språket. De samiskspråklige</p>
-    <p>ansatte føler et stort press på seg i språkopplæringssammenheng, og opplever at dette blir et</p>
-    <p>personlig ansvar for den enkelte ansatte. De kjenner også at det er deres ansvar og bare opp til</p>
-    <p>dem om samisk skal høres og brukes i barnehagen. Det er også kommet frem signaler om at</p>
-    <p>barnehagens øvrige ansatte og ledelsen skyver dette fra seg, bevisst eller ubevisst, over til de</p>
-    <p>samiskspråklige ansatte. Et problem som blir fremhevet er, når det bare er en som har ansvar for</p>
-    <p>samisk i barnehagen, er at det blir veldig personavhengig. Hvis den personen som har ansvar for</p>
-    <p>det samiske språktilbudet i barnehagen ikke er til stede, stopper hele opplegget opp. Ofte blir det</p>
-    <p>ikke satt inn vikar for vedkommende. En grunn til dette kan være at det er problematisk å finne</p>
-    <p>samisktalende personer som kan være vikar. Mange foreldre mener at de må påse at</p>
-    <p>samisktilbudet opprettes, opprettholdes og videreføres. Dette føles som belastende og blir</p>
-    <p>nærmest en tilleggsjobb når man har samiske barn i barnehagen.</p>
-    <p>Lekespråket i mange barnehager er norsk. Barna bruker samisk seg imellom når dette blir påpekt.</p>
-    <p>Flere barnehager sier imidlertid at de ser resultater når de har jobbet bevisst over flere år. Det ser</p>
-    <p>ut som om noen barnehager lykkes bedre med språkarbeidet enn andre.</p>
-    <p>Årsakene til dette kan være personalets og foreldrenes holdning til saken. I enkelte barnehager</p>
-    <p>har man vært noe tilbakeholdende med å pålegge barna, ansatte og foreldre til å bruke samisk</p>
-    <p>språk. Andre barnehager har gjort det klart for foreldre at de ikke klarer å opprettholde eller lære</p>
-    <p>barna samisk språk hvis ikke foreldrene er med på dette og bruker språket aktivt med barna.</p>
-    <p>Mange barnehager har diskutert språkspørsmålene og blitt enige om å pålegge ansatte å kun</p>
-    <p>snakke samisk. Andre igjen har kommet til at de ikke vil gi slike pålegg. Hvilken avgjørelse den</p>
-    <p>enkelt barnehage tar, er avhengig av hvor barnehagen er, hvilken kompetanse ansatte har og</p>
-    <p>hvilken foreldregruppe/ barnegruppe barnehagen har.</p>
-    <p xml:lang="vep">
-      <em type="bold">5.2.2. Kommuneøkonomi </em>
-    </p>
-    <p>I følge Lov om barnehager har kommunene både tilsynsansvar og veiledningsansvar ovenfor alle</p>
-    <p>barnehager i kommunen. Kommuneøkonomien i Norge er blitt vesentlig dårligere de senere årene. Dette har gitt utslag på økonomien for både kommunale og private barnehager. Mange</p>
-    <p>kommuner har fjernet det administrative mellomleddet mellom barnehagen og rådmannen, og</p>
-    <p>rådmannens stab mangler barnehagefaglig kompetanse. Det igjen har ført til at det er vanskeligere</p>
-    <p>å få faglig veiledning fra kommunene og mindre koordinering av barnehageaktiviteter lokalt.</p>
-    <p>Dårlig kommuneøkonomi merkes også ved at investeringer og kompetanseheving for de ansatte</p>
-    <p>er redusert. Sametinget merker dette ved at en del barnehager tar kontakt og etterspør midler til</p>
-    <p>innkjøp av  utstyr, f.eks. datautstyr. Mange barnehager har heller ikke råd til å delta på</p>
-    <p>Sametingets nettverksmøter og barnehagekonferanser.</p>
-    <p>
-      <em type="bold">5.2.3  Fordeling av særskilt tilskudd til samiske barnehager </em>
-    </p>
-    <p>Det som også trekkes frem er at mange barnehager utenfor forvaltningsområdet mener at de får</p>
-    <p>for lite midler fra Sametinget. Disse barnehagene mener at de har større utgifter til direkte</p>
-    <p>språkopplæring enn barnehager hvor språket står sterkt. Flere barnehager og kommuner har bedt</p>
-    <p>Sametinget vurdere om det kan finnes en annen fordelingsnøkkel for tilskuddet. De mener at</p>
-    <p>barnehager i områder hvor språket står svakt bør få tildelt mer midler enn barnehagene i</p>
-    <p>Kautokeino og Karasjok. Barnehagene utenfor de to kommunene ønsker økt tilskudd fordi de</p>
-    <p>mener at de har større utgifter for å styrke samisktilbudet i barnehagen når miljøet er norsk og</p>
-    <p>barna ikke hører mye samisk utenfor barnehagen. I tillegg mener flere barnehager at de må drive</p>
-    <p>opplæring, gi støtte og informasjon til foreldre, og stå for ulike arrangementer i det samisk</p>
-    <p xml:lang="dan">miljøet.</p>
-    <p>Det er også kommet ønske om å indeksregulere tilskuddet.</p>
-    <p xml:lang="nno">
-      <em type="bold">5.2.4  Ytre markører  </em>
-    </p>
-    <p>Barnehagene bør ha et samisk preg som er synlig, en ytre markør. Spesielt utemiljøet blir ønsket</p>
-    <p>som viktige markører ettersom mange samiske barnehager ser ut som barnehager flest. Det er</p>
-    <p>ikke mulig å se at det er en samisk barnehage når man ser på barnehagens arkitektur og</p>
-    <p>utelekemilø. Det enkleste barnehagene gjør, noe som også er praktisk, er å sette opp lavvo,</p>
-    <p>gamme/goahti, luovvi, båt eller lignende som kan synliggjøre at dette er en samisk barnehage.</p>
-    <p>Sametinget mottok i 2004 søknader fra barnehager på prosjektmidler på over kr. 600.000,- til</p>
-    <p>utforming av samiskpreget utemiljø ved barnehagen. Å synliggjøre barnehagen som en samisk</p>
-    <p>institusjon er viktig. Barnehageeiere bør derfor prioritere også det samisk utelekemiljøet.</p>
-    <p>De fleste barnehager har et samisk preg inne i barnehagen, som plakater, samiske utstyr, duodji</p>
-    <p>osv. Mange barnehager har også skilting inne i barnehagen både på samisk og norsk.</p>
-    <p>
-      <em type="bold">5.2.5  Regelverk som hindring i formidling av samisk kultur  </em>
-    </p>
-    <p>Flere barnehager har fått beskjed fra Mattilsynet om at de ikke lenger kan foreta slakting av rein</p>
-    <p>på tradisjonelt vis uten at en veterinær eller en ansatt fra Mattilsynet er tilstede. Noen barnehager</p>
-    <p>har fått muntlige restriksjoner for bearbeiding av kjøtt og blodmat, som for eks. røyking og</p>
-    <p>tørking av kjøtt, tilbereding av blodpølser osv.</p>
-    <p>Barnehagene kan ikke fritt besøke fjøser de selv ønsker. Dette gjelder både for ku/storfe- og</p>
-    <p>sauefjøs. Selv om bønder vil formidle sine verdier, og vise sine arbeidsmetoder til barn i</p>
-    <p>barnehager, kan dagens regelverk føles som en hindring for dette.</p>
-    <p>Det har ikke lyktes Sametinget å framskaffe skriftlig dokumentasjon eller regelverk fra</p>
-    <p>Mattilsynet, og Sametinget vil derfor oppfordre barnehager å formidle samisk kultur til barna slik</p>
-    <p xml:lang="dan">de tidligere har gjort.</p>
-    <p xml:lang="deu">
-      <em type="bold">6. METODER </em>
-    </p>
-    <p>
-      <em type="bold">6.1 Læring gjennom aktiv deltakelse  </em>
-    </p>
-    <p>Samisk barneoppdragelse var tidligere i stor grad knyttet opp mot læring gjennom arbeid. I</p>
-    <p>Rammeplanen (s. 95) heter det: ”Det pedagogiske tilbudet må organiseres slik at barna tas med i</p>
-    <p>ulike arbeidsprosesser og får delta i kulturell og sosial virksomhet som kommer det enkelte barn,</p>
-    <p>barnehage eller nærmiljø til gode.”</p>
-    <p>For at barn skal føle en trygg forankring i det samiske samfunnet, arbeider de fleste etter</p>
-    <p>prinsippet om at barn lærer sitt språk og sin kultur gjennom aktiv deltakelse av ulike aktiviteter.</p>
-    <p>Praktisk og trygghetsmessig skal dette passe inn med daglige rutiner i barnehagen. Aktivitetene</p>
-    <p>kan være f.eks. slakting av rein og sau, ivaretakelse av råstoffer til mat og råmaterialer til duodji.</p>
-    <p>Ved at barna får følge med i det de voksne gjør, får de rollemodeller samtidig som de lærer</p>
-    <p>hvordan ting skal gjøres. Dette styrkes ved at de selv også får prøve og delta  i arbeidet.</p>
-    <p>
-      <em type="bold">6.2  Språkopplæring </em>
-    </p>
-    <p>I de samiske barnehagene er det både samiskspråklige, norskspråklige og tospråklige barn.</p>
-    <p>Barnehagene jobber med det samiske språket på ulike måter.</p>
-    <p>I de samiskspråklige barnehagene/avdelingene brukes kun samisk. Her kan det ofte være enklere</p>
-    <p>å ta vare på språket, beskytte og styrke muligheten for språklig videreutvikling av barna, enn i</p>
-    <p>språkblandede grupper der det kreves mer bevissthet fra de voksnes side.</p>
-    <p>Det er flere typer tospråklighet, blant annet morsmålstospråklighet der barna lærer samisk og</p>
-    <p>norsk parallelt, og additivt tospråklighet der barna har norsk eller samisk som førstespråk og</p>
-    <p>norsk eller samisk som andrespråk</p>
-    <p>I tospråklige barnehager/avdelinger hvor det brukes både samisk og norsk, må personalet ta i</p>
-    <p>bruk en rekke strategier, metoder og prinsipper for å bidra til å utvikle en tospråklig bevissthet</p>
-    <p>hos samiske tospråklige barn, slik at de ikke alltid velger bort samisk som kommunikasjonspråk</p>
-    <p>dersom det er norsktalende eller norsk-samisktalende til stede (Øzerk/Juuso, s. 27).</p>
-    <p>Styrking og utvikling av samisk skjer blant annet ved at:</p>
-    <p>- de ansatte kun snakker samisk til barna</p>
-    <p>- barnet hører språket gjennom kommunikasjon med andre barn og voksne</p>
-    <p>- barna hører språket gjennom eventyr, sagn, teater, joik, sang og ulike aktiviteter, og aktiv bruk av skriftspråk</p>
-    <p>- de voksne både i barnehage og i andre sammenhenger er gode rollemodeller</p>
-    <p>- at barna bruker språket på en naturlig måte</p>
-    <p>- å gi alle barn mulighet til å tilegne seg så mye samisk som mulig før skolestart</p>
-    <p>Generelt må alle barnehager påse følgende:</p>
-    <p>- personalet er bevisst sin egen språkbruk</p>
-    <p xml:lang="dan">- personalet diskuterer språkproblematikken på personalmøter</p>
-    <p>- barnehagen samtaler om språkbevissthet på foreldremøter, synliggjør problemene og oppfordrer foreldre til samarbeid</p>
-    <p xml:lang="dan">- personalet er konsekvent sin egen språkbruk i dagligtalen</p>
-    <p>- personalet hjelper hverandre med språkarbeidet</p>
-    <p>På de stedene hvor samisk er majoritetsspråket, vil den største oppgaven være å jobbe med</p>
-    <p>språkrøkt og bevare ordforrådet/mangfoldet i språket. Det norske språket som er</p>
-    <p>majoritetsspråket, har en enormt utbredelse i det samiske samfunnet og ofte blandes norske ord i</p>
-    <p>det samiske språket.</p>
-    <p>I tillegg til generelle mål må de ansatte arbeide med å:</p>
-    <p>- gjøre hverandre oppmerksomme på når de blander norske ord i samisk</p>
-    <p>- bruke samiske ord i større grad ved temaarbeid - innføre glemte ord og for eks. bestemme seg for å innføre ett nytt ord i måneden e.l.</p>
-    <p>Der hvor samisk språk ikke står så sterkt, må barnehagen arbeide enda mer aktivt med språket.</p>
-    <p>Også her må barnehagen samspille med foreldrene, og det må være enighet i personalgruppen om</p>
-    <p>dette. I tillegg til de generelle målene, må barnehagen:</p>
-    <p>- bruke samisk muntlig hele tiden</p>
-    <p>- oppmuntre barna til å kun snakke samisk</p>
-    <p>- skrive alt på samisk. Hvis man må bruke norsk, må man bruke begge språkene</p>
-    <p>- stadig utvikle barnas ordforråd</p>
-    <p>I  norskspråklige barnehager bør en:</p>
-    <p>- bruke mange samiske sanger, rim og regler</p>
-    <p>- ha minst ett rom eller bestemte steder i barnehagen der det brukes kun samisk</p>
-    <p>- slå av norsksendinger på radio/TV og heller høre på samiskspråklige CD-er</p>
-    <p>- lage en plan over hvilke ord man skal lære og når</p>
-    <p>- snakke så mye samisk som mulig med barna, til barna og i barns nærvær</p>
-    <p>En rimelig grad av språklig bombardering har en viktig læringsfremmende effekt når barna forstår</p>
-    <p xml:lang="swe">det som blir sagt.</p>
-    <p xml:lang="vep">7.  KOMPETANSE</p>
-    <p>Sametinget har ved flere anledninger tatt opp med Barne- og familiedepartementet</p>
-    <p>problemstillinger som det må settes søkelys på, og hvor vi trenger styrking av de økonomiske</p>
-    <p>tiltak. Bl.a. har Sametinget påpekt manglende tiltak for rekruttering, kompetanseheving,</p>
-    <p>pedagogisk materiell, informasjon og forskning.</p>
-    <p>Veiledning og kompetanseheving for ansatte i samiske barnehager gjennom årlig</p>
-    <p>barnehagekonferanse og nettverkssamlinger er viktige kompetansehevingstiltak som må</p>
-    <p>videreutvikles. Sametinget bruker store ressurser på informasjon, faglig veiledning og</p>
-    <p>holdningsskapende arbeid.</p>
-    <p>
-      <em type="bold">7.1  Personalet  </em>
-    </p>
-    <p>Personalet er den viktigste ressursen i barnehagen. Personalets kompetanse er avgjørende for hva</p>
-    <p>som blir formidlet og vektlagt i barnehagehverdagen. Derfor må de voksne være seg bevisste sin</p>
-    <p>holdning til samisk språk og kultur, og hvordan man formidler dette. Det gjør man ved å være seg</p>
-    <p>bevisst sin rolle kollegialt og overfor foreldre og barn gjennom en kultursensitiv holdning. Om</p>
-    <p>man skal lykkes med å lære barna samisk språk, er det nødvendig å ha samisktalende ansatte i de</p>
-    <p>samiske barnehagene. Det er videre nødvendig at de ansatte i barnehagen har et reflektert forhold</p>
-    <p>til sine egne holdninger overfor samiske barn og foreldre. Ansatte må videre ha kompetanse i de</p>
-    <p>ulike delene i samisk kultur, levesett og samfunnsliv. Dette innebærer ikke at alle skal inneha lik</p>
-    <p>kompetanse på alle områder, men at den samlede kompetansen i barnehagen er på et akseptabelt</p>
-    <p>nivå slik at barnehagen kan formidle samiske emner på en god og tilfredsstillende måte. Det er</p>
-    <p xml:lang="nno">også viktig at personalet har god kompetanse og kunnskap om lokalkulturen.</p>
-    <p xml:lang="deu">
-      <em type="bold">7.2  Behov </em>
-    </p>
-    <p>Det er behov for å utdanne flere førskolelærere med samiskspråklig kompetanse i sør- og</p>
-    <p>lulesamisk språkområde. Det er også stort behov for samisktalende personell i flere kommuner</p>
-    <p>utenfor indre Finnmark. Samiskspråklig kompetanse kan ivaretas av andre enn det pedagogiske</p>
-    <p>personell. Det er derfor behov for etter- og videreutdanningsprogrammer for samiske</p>
-    <p>språkstudier på flere nivåer. Her er også stipendordninger sentrale virkemidler.</p>
-    <p>Mange barnehager er lokalisert til steder hvor flere kulturer er representert, samtidig som samer i</p>
-    <p>dag også flytter i større grad enn tidligere. Studier i flerkulturell pedagogikk er derfor en måte å</p>
-    <p>tilegne seg kunnskap om hvordan omgås andre kulturer.</p>
-    <p>Mange samiske barn er en del av en tospråklig familie. Barnehager må derfor ha kompetanse i</p>
-    <p>tospråklig pedagogikk.</p>
-    <p>For å ivareta samisk kultur og tradisjon, er det videre behov for etter- og videreutdanning i</p>
-    <p>kulturrelaterte emner som skal formidles i barnehagen. Her kan nevnes kunnskap om næringer,</p>
-    <p>duodji, joik, fortellerkunst, mat, samisk historie m.m.</p>
-    <p>Flere barnehager bør få tilbud om innføringskurs i samisk historie, kultur og samfunnsliv.</p>
-    <p>Kompetanseheving er først og fremst arbeidsgivers oppgave. Sametinget kan ikke påta seg å stå</p>
-    <p>for kompetanseheving for ulike yrkesgrupper. Det vil likevel være naturlig at konferanser,</p>
-    <p>seminarer og nettverksmøter i Sametingets regi brukes til kompetanseheving for</p>
-    <p xml:lang="swe">barnehageansatte.</p>
-    <p xml:lang="deu">
-      <em type="bold">8. LÆREMIDLER </em>
-    </p>
-    <p>Sametinget tildeler årlig midler til utarbeidelse av læremidler til barnehageområdet. Læremidler</p>
-    <p>som Sametinget bevilger midler til skal så langt som mulig gis ut på nord-, lule- og sørsamisk</p>
-    <p>For 2005 er det avsatt kr. 800.000 til læremidler til barnehageområdet. I årene 2003 og 2004 var</p>
-    <p>det avsatt kr. 600.000 pr. år, og fra årene 2000 til og med 2002 var det avsatt kr. 200.000 pr. år til</p>
-    <p>læremidler for barnehageområdet. Med disse beløpene til disposisjon sier det seg selv at</p>
-    <p>Sametinget ikke har tilstrekkelig med midler til utarbeidelse av læremidler for barnehageområdet.</p>
-    <p>Hvis en ønsker å bevare og utvikle samisk språk og kultur i alle de samiske områdene må det en</p>
-    <p>raskere og økt utvikling av læremidler, spesielt til språkopplæringen. Sametinget tildeler midler til</p>
-    <p>utvikling av læremidler til forlag og andre produsenter som ferdigstiller produkter, og gir støtte,</p>
-    <p>motiverer og veileder produsenter, forfattere, musikere og andre.</p>
-    <p>Læremiddelsituasjonene er dårlig for den samiske barnehagesektoren. Dette medfører at</p>
-    <p>barnehageansatte bruker ressurser på å utvikle materiell, noe som kan gå ut over andre aktiviteter.</p>
-    <p>Barnehagene har behov for ulike læremidler. Det finnes i dag en del læremidler, men det er</p>
-    <p>fortsatt et stort behov for ulikt materiell. Det finnes blant annet en del bøker, plakater, kassetter</p>
-    <p>og filmer, men det er fortsatt stor mangel på blant annet faktabøker, lydbøker, fagbøker, dataspill</p>
-    <p>og andre spill. Det finnes få eller ingen fagbøker på samisk eller om samiske tema for de ansatte.</p>
-    <p xml:lang="sme">
-      <em type="bold">9.  SAMETINGETS ARBEIDS- OG SATSINGSOMRÅDER </em>
-    </p>
-    <p>I <span type="quote">”Strategisk plan for samiske barnehager 2002-2005”</span> heter det at Sametinget i denne perioden vil</p>
-    <p>satse mer på informasjon til barnehager og kommuner med samiske barnehager og kommuner</p>
-    <p>som har samiske barn i norske barnehager.</p>
-    <p>Fra 2001 til 2004 har barnehager med samiske barn økt fra 46 til 65. Denne økningen gir</p>
-    <p>Sametinget en større arbeidsmengde, og et større ansvar for oppfølging av samiske barn slik at de</p>
-    <p>tilbud som gis kvalitetssikres.</p>
-    <p>
-      <em type="bold">9.1  Nettverksbygging </em>
-    </p>
-    <p>Sametinget har igangsatt ulike nettverk. Styrere i barnehagene innenfor forvaltningsområdet for</p>
-    <p>samisk språk har dannet et nettverk, likeså styrerne utenfor forvaltningsområdet.</p>
-    <p>Språkmedarbeidere har eget nettverk, og nytt fra i år er et eget nettverk for menn i barnehagen.</p>
-    <p>Målet med disse nettverkene er erfaringsutveksling og kompetanseheving. Nettverkene blir en</p>
-    <p>viktig møteplass hvor faglige spørsmål blir diskutert. Nettverkene er en del av barnehagenes</p>
-    <p>kompetanseheving.</p>
-    <p>
-      <em type="bold">9.2  Barnehagekonferanser </em>
-    </p>
-    <p>Sametinget arrangerer i samarbeid med fylkesmennene i Finnmark og Troms årlige</p>
-    <p>barnehagekonferanser. Tema under konferansene har blant annet vært språk, tospråklighet,</p>
-    <p>barneoppdragelse, likestilling, lek, duodji og joik/musikk. Det har vært stor interesse for disse</p>
-    <p>konferansene. Det er årlig deltakelse av over 100 barnehageansatte fra hele landet, og det har også</p>
-    <p>vært deltakere fra finsk og svensk side. Barnehagekonferansene er en del av Sametingets</p>
-    <p>kompetansehevingstiltak.</p>
-    <p>I 2004 arrangerte Sametinget i samarbeid med Samisk høgskole og Sametinget i Finland den</p>
-    <p>første nordiske oppvekstkonferansen. Her var det deltakere fra Norge, Sverige, Finland og</p>
-    <p>Russland. Vi fikk informasjon om de fire landenes barnehagesektorer og om hvilke utfordringer</p>
-    <p>de har i sin hverdag. Målet med konferansen var å skape en møteplass for ulike aktører innen</p>
-    <p>barns oppvekstmiljø i Sápmi. Under konferansen var det blant annet erfaringsutveksling og ulike</p>
-    <p xml:lang="dan">forelesninger om barneoppdragelse.</p>
-    <p xml:lang="dan">
-      <em type="bold">9.3 Barnehagetidsskrift </em>
-    </p>
-    <p>Sametinget utgir Barnehagetidsskriftet <span type="quote" xml:lang="sme">”Stullán”</span>. I hvert nummer er det en hovedartikkel med</p>
-    <p>ulike tema i tillegg til informasjon fra Sametinget og informasjon om ulike prosjekter i</p>
-    <p>barnehagene og andre aktuelle saker. Tidsskriftet utkommer to ganger i året.</p>
-    <p xml:lang="sme">
-      <em type="bold">9.4  Sámi oahpponeahtta/Samisk læringsnett – www.oahpponeahtta.no </em>
-    </p>
-    <p>Samisk læringsnett er et nettsted for opplæring, og er en informasjonskilde og en ressurs for</p>
-    <p>barnehager, skoler og foreldre. På nettstedet finnes aktuell informasjon fra Sametinget,</p>
-    <p>læringsressurser og snarveier til andre aktuelle nettsteder.</p>
-    <p>Samisk læringsnett er et samarbeid mellom Sametinget og Utdanningsdirektoratet.</p>
-    <p xml:lang="dan">
-      <em type="bold">9.5  Veiledning </em>
-    </p>
-    <p>Sametinget får ulike spørsmål og problemstillinger fra barnehager, foreldre, barnehageeiere,</p>
-    <p>studenter og andre. Så langt det er mulig, gir vi veiledning og råd i spørsmål som dukker opp.</p>
-    <p>Spørsmålene dreier seg blant annet om tilskudd, språkopplæring, læremidler og spørsmål om</p>
-    <p>veiledning til barnehagepersonale.</p>
-    <p>Sametinget har merket seg et stort behov for veiledning fra barnehagene, men har dessverre ikke</p>
-    <p>hatt kapasitet til å utføre dette i tråd med forventningene.</p>
-    <p xml:lang="nno">
-      <em type="bold">9.6   Samarbeid </em>
-    </p>
-    <p>Sametinget har mange samarbeidspartnere slik som Barne- og familiedepartementet, aktuelle</p>
-    <p>fylkesmannembeter, kommuner og barnehageeiere og selvsagt barnehager, foreldre, og andre</p>
-    <p xml:lang="dan">enkeltpersoner.</p>
-    <p>I strategisk plan for samiske barnehager er det nevnt at Sametinget også samarbeider med Samisk</p>
-    <p>høgskole om kompetanseheving. Vi har samarbeidet med høgskolen i enkeltsaker så som nordisk</p>
-    <p>oppvekstkonferanse, rekruttering og stipend til førskolelærere. Samarbeidet kan forbedres, og</p>
-    <p>Sametinget ønsker å prioritere et slikt samarbeid i fremtiden.</p>
-    <p>Sametinget samarbeider også med samisk spesialpedagogisk støtte (SEAD).</p>
-    <p><em type="bold">10.  UTFORDRINGER </em>En utfordring er at storsamfunnet ikke inkluderer nok det samiske som en del av fellesskapet. </p>
-    <p>Det samiske samfunnet blir ofte sett på som noe som bare berører oss samer. Det er noe som de</p>
-    <p>norske ikke behøver å interessere seg for, og kunne noe om. Dette bidrar lett til å skape liten</p>
-    <p>forståelse for hverandres kultur. Noe annet er at den samiske og norske kulturen har mange</p>
-    <p>likheter. Dette skaper til tider et syn der man overser ulikhetene og dermed de ulike behovene</p>
-    <p>Ettersom de norske er i majoritet, defineres behov utifra deres ståsted, for både seg selv og for</p>
-    <p>oss samer. Dette kan igjen skape misnøye og at samer ikke respektere det norske flertallets</p>
-    <p>avgjørelser da det ikke er bygget på det samiske samfunnets behov. Ettersom det samiske</p>
-    <p>samfunnet er så mangfoldig, er det en stor utfordring å kunne møte den enkelte familie og deres</p>
-    <p>barn på det nivå de behøver. Samtidig skal man ta utgangspunkt i grunnelementene i den samiske</p>
-    <p>kulturen både lokalt og helhetlig. Dette skal ikke oppleves som verken fremmedgjøring og skal</p>
-    <p>ikke være en usynliggjøring av en kultur, men skal medføre at det enkelte barn vokser opp som</p>
-    <p>noe genuint, med sin identitet – en samisk identitet.</p>
-    <p>Derfor ligger utfordringene først og fremst hos oss voksne som jobber med barn – der vi må</p>
-    <p>bestrebe oss på en kulturrelativ holdning ved å akseptere de systematiske forskjeller som finnes i</p>
-    <p>det som barn og voksne erverver seg gjennom sosialisering og ved å være medlemmer i et</p>
-    <p>samfunn. På den måten kan man oppleve en aksept av sin samiske identitet og utvikle den til å bli</p>
-    <p>enda sterkere ettersom identiteten ikke er noe vi har eller får i vuggegave, men utvikler så lenge vi</p>
-    <p>lever.</p>
-    <p>Barn er av natur mer åpne for forskjeller. Derfor er barnehagen og dens innhold av stor</p>
-    <p>betydning for å bygge bro mellom kulturer samtidig som man ivaretar det genuine i kulturene. På</p>
-    <p>den måten kan man øke innsikten til den oppvoksende slekt for å mestre en verden i endring.</p>
-    <p>Det samiske språket er lettere å tilegne seg i dag enn det var for de som er i femtiårene eller eldre.</p>
-    <p>Årsaken til dette er at hvert enkelt individ har en individuell rett til å lære sitt språk fra de er i</p>
-    <p>skolepliktig alder. Utfordringene ligger i å tilrettelegge mulighetene for læring gjennom</p>
-    <p>kompetanse og bedret økonomi i barnehage og for foreldre/nærmiljø, slik at barn uansett alder</p>
-    <p>får et språkmiljø godt nok til å utvikle et funksjonelt samisk språk.</p>
-    <p>
-      <em type="bold">11.  TILTAK 11.1 Sametingets politikk </em>
-    </p>
-    <p>Sametinget mener at barnehager for samiske barn har stor betydning for samisk språkutvikling og</p>
-    <p>for samiske barns oppvekst generelt.</p>
-    <p>Barnehagen skal styrke og utvikle samiske barns språk og kultur, og bidra til revitalisering og</p>
-    <p>vitalisering av samisk språk. Barnehagen skal bidra til at samiske barn kan utvikle sin samiske</p>
-    <p>identitet og få trygghet og glede i forhold til sin egen kultur og sitt eget språk.</p>
-    <p xml:lang="dan">
-      <em type="bold">11.2 Tilskuddsordninger </em>
-    </p>
-    <p>Sametinget administrerer i dag ulike tilskuddsordninger.</p>
-    <p>Sametinget tildeler midler til særskilt tilskudd til samiske barnehager, tilskudd til samiskopplæring</p>
-    <p>for enkeltbarn i barnehage, midler til prosjekter og utviklingsarbeid i barnehagen, og midler til</p>
-    <p>læremiddelutvikling.</p>
-    <p>Sametinget vedtok 26. november 2004 nye retningslinjer for tilskudd til barnehager. Kriterier for</p>
-    <p>å få tilskudd er at barnehagen har vedtektsfestet at dens virksomhet bygger på samisk språk og</p>
-    <p>kultur. Det skilles ikke mellom samiske barn og norske barn. Den enkelte barnehage må selv</p>
-    <p>definere om de søker for alle barn i barnehagen under kategorien samiske barn, eller om man</p>
-    <p>søker særskilt for samiske barn. De fleste barnehager søker for hele barnegruppen, uavhengig av</p>
-    <p>etnisitet. De barnehager som bare har en eller to samiskspråklige avdelinger søker som</p>
-    <p>hovedregel for de samiske avdelingene. Det bør vurderes om Sametinget skal revidere</p>
-    <p>retningslinjeene hvor man vurderer gradering av tilskuddet utifra ulike forhold. Dagens</p>
-    <p>retningslinjer stiller ikke krav om at barnet eller barnets foreldre skal være samisktalende for at</p>
-    <p>barnehagen skal oppnå tilskudd. Dette er også et moment som bør vurderes i fremtiden, uten at man på det nåværende tidspunkt vil anbefale at dette realiseres. Forutsatt at barnehagen oppfyller</p>
-    <p>kriterier for tilskudd, gir dagens ordning likt kronebeløp til alle samiske barnehager uavhengig av</p>
-    <p>hvor de er lokalisert.</p>
-    <p>Sametinget bør i neste valgperiode evaluere tilskuddsordningen i sin helhet.</p>
-    <p xml:lang="dan">
-      <em type="bold">11.3 Forskning </em>
-    </p>
-    <p>I Sametingsplanen 2002-2005 heter det at Sametinget flere ganger har påpekt behovet for</p>
-    <p>igangsetting av større forskningsprogram for oppbygging og utvikling av samisk høgere</p>
-    <p>utdanning og forskning.</p>
-    <p>Det må avsettes midler til forskning innen barnehageområdet og til forskning av samiske barns</p>
-    <p>oppvekstvilkår da det nesten ikke eksisterer forskning på dette området. For å kunne</p>
-    <p>dokumentere tiltak, behov og utfordringer er det høyst nødvendig at forskning på det samisk</p>
-    <p>barnehageområdet blir igangsatt. Både Stortingsmelding nr.55 (2000-2001) <em type="italic">Om samepolitikk,</em>  </p>
-    <p>Stortingsmelding 34 (2001-2002) <em type="italic">Kvalitetsreformen Om høyere samisk utdanning og forskning</em>  og </p>
-    <p>Stortingsmelding 20 (2004-2005) <em type="italic">Vilje til forskning</em> legger opp til at samisk forskning skal </p>
-    <p xml:lang="dan">prioriteres.</p>
-    <p>Sametinget har oppfordret departementet til å opprette forskningsstipender og stipendiatstilling</p>
-    <p>for forskning på samiske barn, barnehager og oppvekstvilkår.</p>
-    <p>
-      <em type="bold">11.4 Informasjon og veiledning </em>
-    </p>
-    <p>Sametinget vil fortsatt bruke store ressurser på informasjon, veiledning og holdningsskapende</p>
-    <p>arbeid. Hvis man skal nå fram til alle deler av samfunnet, er det påkrevd at flere offentlige</p>
-    <p>instanser, institusjoner og organisasjoner også bruker ressurser på dette området. Lokalt er det</p>
-    <p>viktig at kommuner og barnehageeiere er villige til å gi tilbud til samiske barn basert på barnas</p>
-    <p>språk, kultur og identitet.</p>
-    <p>
-      <em type="bold">11.5 Stipend </em>
-    </p>
-    <p>Det er nødvendig å følge opp tiltak for å rekruttere samisktalende ansatte til samiske barnehager.</p>
-    <p>Som rekruttingstiltak må det opprettes stipend til både studenter som tar førskolelærerutdanning</p>
-    <p>og også studiehjemler til ansatte i barnehager som tar etter- eller videreutdanning i samisk språk.</p>
-    <p>Sametinget har i 2005 avsatt midler til stipend til høgere utdanning. Dette alene er ikke nok for å</p>
-    <p>komme på et akseptabelt nivå når det gjelder rekruttering av samisktalende personell til</p>
-    <p>barnehager. Regjeringen sier i St.meld. nr 55 (2000-2001) Om Samepolitikk <em type="italic">at ”Barne- og </em></p>
-    <p><em type="italic">familiedepartementet vil, i samarbeid med Sametinget utrede spørsmål om stipend for studenter som tar samisk førskolelærerutdanning”</em>, og videre at regjeringen vil utrede behovet for etter –  og  </p>
-    <p>videreutdanningstiltak på barnehagesektoren. Stortingsmelding 34 (2001-2002) <em type="italic">Kvalitetsreformen </em></p>
-    <p><em type="italic">Om høyere samisk utdanning og forskning</em> skisserer bl.a. følgende tiltak: ”<em type="italic">Barne- og familiedepartementet vil i </em></p>
-    <p>
-      <em type="italic">samarbeid med Sametinget utrede spørsmålet om en særskilt  stipendordning for studenter som tar </em>
-    </p>
-    <p><em type="italic">førskolelærerutdanning ved Samisk høgskole”.</em>  </p>
-    <p>
-      <em type="bold">11.6 Prioriterte tiltak </em>
-    </p>
-    <p>Sametinget vil prioritere:</p>
-    <p>· stipend</p>
-    <p>· rekruttering – spesielt til utvalgte områder</p>
-    <p>· læremidler til bruk i språkopplæringen</p>
-    <p>· veiledning</p>
-    <p>· prosjektstøtte til utelekemiljøet, jfr. pkt. 5.2.3</p>
-    <p>· videreføre konferanser og nettverk</p>
-    <p>· informasjon</p>
-    <p>· holdningsskapende arbeid</p>
-    <p xml:lang="dan">· evaluere tilskuddsordningen</p>
-    <p><em type="bold">12.  ØKONOMISKE OG ADMINISTRATIVE KONSEKVENSER </em>For å gjennomføre prioriterte tiltak, har Sametinget behov for et godt og nært samarbeid med </p>
-    <p>barnehagene, samiske foreldre, aktuelle departementer, aktuelle fylkesmenn, kommuner,</p>
-    <p>barnehageeiere, samiske institusjoner og den samiske befolkningen forøvrig.</p>
-    <p>Det er behov for økt satsing fra sentrale myndigheter for å bedre samiske barns oppvekstvilkår</p>
-    <p>og økte midler til Sametinget gjennom årlige bevilgninger over statsbudsjettet.</p>
-    <p xml:lang="nno"><em type="bold">LITTERATURLISTE </em>Barne- og familiedepartementet (1997): Rammeplan for barnehagen   </p>
-    <p>Barne- og familiedepartementet: Lov om barnehager</p>
-    <p>Barne- og familiedepartementet og Sametinget (2003): Samisk oppvekst. Om tilbud til samiske</p>
-    <p>barn og ungdom.</p>
-    <p>Dunfjeld,G. (2004):Pedagogisk Psykologisk Tjeneste i en flerkulturell kontekst I: Tronvoll, I. M.,</p>
-    <p>Moe, A. og Henriksen, J. E. (red): Hjelp i kontekst. Praksis, refleksjon og forskning. Idut</p>
-    <p xml:lang="nno">Kommunal- og regionaldepartementet: St.meld.nr.35 (2000-2001) Om samepolitikk.</p>
-    <p xml:lang="nno">Kommunal – og regionaldepartementet: St.meld. nr. 33 (2001-2002) Om samepolitikk –</p>
-    <p xml:lang="dan">tilleggsmelding</p>
-    <p>Lov om Sametinget og andre samiske rettsforhold (sameloven)</p>
-    <p>Sametinget (2001): Strategisk plan for samiske barnehager 2002-2005. Barnelærdommen er evig</p>
-    <p xml:lang="nno">kunnskap</p>
-    <p>Sametinget (2002): Sametingsplanen 2002-2005</p>
-    <p>Sametingsrådet melding om samisk språk (2004): Samisk er tøft!</p>
-    <p>Utdannings- og forskningsdepartementet: St.meld.nr. 34 (2001-2002) Kvalitetsreformen Om</p>
-    <p>høyere samisk utdanning og forskning</p>
-    <p>Utdannings- og forskningsdepartementet: St.meld.nr.30 (2003-2004). Kultur for læring.</p>
-    <p>Øzerk, K.Z og Juuso, R (1999): Pedagogisk idebok for tospråklige barnehager. Samisk</p>
-    <p>utdanningsråd</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>8574</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://samediggi.no/content/download/538/4873/version/1/file/Sametingsr%C3%A5dets+melding+om+samiske+barnehager+%282005%29.pdf</origFileName><parallel_text xml:lang="sma" location="sametingsmelding_om_samisk_barnehagetilbud_-_sa_rsamisk.pdf"/><parallel_text xml:lang="sme" location="sa_medikkera_ai_dieaa_hus_sa_mi_ma_na_idga_rddiid_birra_2005_.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Våre barn – vårt håp – vår stemme!</p>
+<p xml:lang="sme">Min mánát – min doaivva – min jietna!</p>
+<p xml:lang="smj">Mijjen maanah – mijjen håhkoe – mijjen giele! Mijá máná - mijá doajvvo - mijá jiedna!</p>
+<p>Sametingsrådets melding om samiske</p>
+<p>barnehager 14 04 2005</p>
+<p><em type="bold">1 Innledning</em>               <em type="bold">2 Bakgrunn og formål med meldingen</em>            2.1 Sametingets barnehagepolitikk            </p>
+<p> 2.2 Lovgrunnlag               2.3 Konvensjoner               2.4 Sametingets kommune- og barnehagebesøk          <em type="bold">3 Samiske barns oppvekstvilkår</em>            3.1 Barn i barnehage             3.2 Barn uten barnehageplass – ulike oppvekstvilkår         3.3 Barn som behøver individuelt tilpasset tilbud           3.4 Overgang barnehage – skole             3.5 Kultur                 3.5.1 Mangfoldet i kulturen            <em type="bold">4 Barnehager</em>               4.1 Samiske barnehage             4.2 Innhold            4.3 Språk              4.4 Oversikt over samiske barnehager 2001 og 2004      <em type="bold">5 Mål for barnehagene</em>           5.1 Ulike utfordringer           5.2 Funn fra kommunebesøk           5.2.1 Språkstimulering – et privat ansvar?         5.2.2 Kommuneøkonomi           5.2.3 Fordeling av særskilt tilskudd til samiske barnehager       5.2.4 Ytre markører             5.2.5 Regelverk som hindring i formidling av samisk kultur      <em type="bold">6 Metoder</em>             6.1 Læring gjennom aktiv deltakelse         6.2 Språkopplæring          <em type="bold">7 Kompetanse</em>            7.1 Personalet            7.2 Behov             <em type="bold">8 Læremidler</em>            <em type="bold">9 Sametingets arbeids- og satsingsområder</em>        9.1 Nettverksbygging           9.2 Barnehagekonferanser           9.3 Barnehagetidsskrift           9.4 Sámi oahpponeahtta/Samisk læringsnett        9.5 Veiledning            9.6 Samarbeid           <em type="bold">10 Utfordringer</em>           <em type="bold">11 Tiltak</em>             11.1 Sametingets politikk            11.2 Tilskuddsordninger             11.3 Forskning            11.4 Informasjon og veiledning           11.5 Stipend            11.6 Prioriterte tiltak          <em type="bold">12 Økonomiske og administrative konsekvenser</em>        <em type="bold">Litteraturliste </em>           </p>
+<p><em type="bold">INNLEDNING </em>Denne meldingen har som målsetting å bidra til refleksjon og dialog om hvordan oppnå politiske </p>
+<p>mål for forbedret oppvekstvilkår gjennom barnehagetilbud. Sametinget vil bidra til at samiske</p>
+<p>barns barnehagetilbud er kvalitativt godt og at det er tilstrekkelig mange samiske barnehager.</p>
+<p>Sametinget vil også  påse at rekruttering av pedagogisk personell intensiveres slik at de innehar</p>
+<p>kompetanse i samisk språk og ei kultursensitiv holdning. Dette er viktig for både tilegnelse av og</p>
+<p>utvikling av samisk språk og kulturkunnskap hos barn og som igjen fører til en trygg og styrket</p>
+<p>identitet. Barnehagene driver også kulturformidling til det øvrige samfunnet gjennom sitt arbeid.</p>
+<p>Dette bør utnyttes for å skape en bedre kulturforståelse hos det øvrige samfunnet, noe som igjen</p>
+<p>kan gjøre at våre barn møter større aksept og toleranse fra storsamfunnet.</p>
+<p>Grunnlaget for denne meldingen er lov om barnehager, Sametingsplanen 2002-2005, Sametingets</p>
+<p>strategiske plan for samiske barnehager 2002-2005 og de erfaringer som Sametingsrådet har</p>
+<p>høstet i sitt arbeid i forhold til barnehager i årene 2002 – 2004. Sametingets mål er en framdrift</p>
+<p>for samiske barnehager hvor utvikling av samisk språk og kultur står sentralt.</p>
+<p><em type="bold">2.  BAKGRUNN OG FORMÅL MED MELDINGEN 2.1  Sametingets barnehagepolitikk </em></p>
+<p>Sametinget følger til enhver tid gjeldende lover og målsettinger for barnehager fastsatt av</p>
+<p>Stortinget.</p>
+<p>Sametinget har gjennom mange år arbeidet for å inkorporere samisk kultur i barnehager og</p>
+<p>skoler. Sametinget uttrykker i Sametingsplanen 2002-2005 at barnehager i dagens samfunn har</p>
+<p>ansvar for kulturformidling. Det er Sametinget i plenum og Sametingsrådet som vedtar rammer</p>
+<p>og regler for arbeid på barnehageområdet ut fra ressursene som tildeles over statsbudsjettet hvert</p>
+<p xml:lang="nno">år.</p>
+<p xml:lang="isl"><em type="bold">2.2  Lovgrunnlag  </em></p>
+<p>Grunnlovens § 110a sier at ”Det paaligger Statens Myndigheter at lægge Forholdene til Rette for</p>
+<p xml:lang="nno">at den samiske Folkegruppe kan sikre og utvikle sit Sprog, sin kultur og sit Samfundsliv ”</p>
+<p>Sameloven, kap. 3 om samisk språk, regulerer bruk av samisk språk i offentlig virksomhet i</p>
+<p>forvaltningsområdet for samisk språk. I dag er det 6 kommuner som hører under denne</p>
+<p>ordningen, se punkt 3.5.1. Flere kommuner vil etter hvert bli innlemmet i ordningen.</p>
+<p>man er undersøkende og nysgjerrig både innad i sin egen, men også på andres kulturer uten at man vurderer og rangerer de ut fra egne normer. Man prøver å forstå kulturer på kulturens egne premisser. Dunfjeld, G. (2004), I Tronvoll, I.M, Moe,A. og Henriksen J.E. (red.).</p>
+<p>Barneloven slår fast at det er foreldre som har ansvaret for barnets oppvekst. De skal gi barnet</p>
+<p>forsvarlig oppdragelse og omsorg, og har rett og plikt til å ta avgjørelser på vegne av barnet.</p>
+<p>Nåværende lov om barnehager sier at samiske barnehager i samiske distrikter skal bygge på</p>
+<p>samisk språk og kultur. Rammeplanen for barnehager har et eget kapittel som omhandler samisk</p>
+<p>språk og kultur, og som brukes av samiske barnehager.</p>
+<p>Barnehageloven sier også at kommuner har ansvar for utbygging og drift av barnehager, og plikt</p>
+<p>til å sørge for at det finnes tilstrekkelig antall barnehageplasser i kommunen. Kommunen og</p>
+<p>Fylkesmannen er barnehagemyndigheter etter barnehageloven. Det innebærer at det er</p>
+<p xml:lang="nno">kommunen som har tilsyns- og veiledningsansvar lokalt for både kommunale og private</p>
+<p>barnehager.</p>
+<p>Etter gjeldende barnehagelov, forskrifter og rammeplan skal barnehagetilbudet tilpasses lokale</p>
+<p>forhold og behov, deriblant behovene til samiske barn.</p>
+<p>Regjeringen har i høringsutkast til ny barnehagelov av 09.11.04 foreslått i § 2 at barnehagetilbudet</p>
+<p xml:lang="nno">til samiske barn skal bygge på samisk språk og kultur, og i § 8 at kommunen har ansvar for at</p>
+<p>barnehagetilbudet til samiske barn bygger på samisk språk og kultur.</p>
+<p><em type="bold">2.3  Konvensjoner  </em></p>
+<p>FNs konvensjon om barns rettigheter (barnekonvensjonen), som Norge ratifiserte i 1991, sier i</p>
+<p>artikkel 29.1-c bl.a: <em type="italic">”partene er enige om at barnets utdanning skal ta sikte på å utvikle respekt for dets egen </em></p>
+<p><em type="italic">kulturelle identitet, språk og verdier”.</em> Artikkel 30 understreker at <em type="italic">”i land hvor det finnes etniske, religiøse eller </em></p>
+<p><em type="italic">språklige minoriteter eller urbefolkning, skal et barn som tilhører en slik minoritet eller urbefolkning, ikke nektes </em></p>
+<p><em type="italic">retten til sammen med andre medlemmer av sin gruppe å nyte godt av sin kultur, å bekjenne seg til og utøve sin </em></p>
+<p><em type="italic">religion eller til å bruke sitt eget språk”.</em> Også ILO-konvensjon nr. 169 om urfolk og stammefolk i </p>
+<p>selvstendige stater og FNs konvensjon om sivile og politiske rettigheter av 1966 er sentrale i</p>
+<p>forhold til samiske rettigheter.</p>
+<p>ILO-konvensjon nr. 169 om urfolk og stammefolk i selvstendige stater som Norge ratifiserte i</p>
+<p>1990, og FNs konvensjon av 1966 om sivile og politiske rettigheter, sier også at det skal treffes</p>
+<p>tiltak for å bevare og fremme utvikling og bruk av de opprinnelige språk for vedkommende folk.</p>
+<p>Dette innebærer at Norge har et ansvar for å iverksette ulike tiltak slik at samer kan bevare sitt</p>
+<p>språk, sin kultur og sitt levesett, og dette gjelder også for barnehagesektoren.</p>
+<p>Sametingets oppgave er forvaltning av det særskilte tilskuddet til samiske barnehager. Med det</p>
+<p>følger ansvar for å tildele tilskudd, føre kontroll med, og oppfølging av tilskuddsmottaker. I den</p>
+<p>forbindelse gis det faglig veiledning til både enkeltbarnehager og kommuner.</p>
+<p><em type="bold">2.4 Sametingets kommune- og barnehagebesøk </em></p>
+<p>Sametingets visepresident har besøkt samiske barnehager og barnehager med samiske barn,</p>
+<p>barnehageeiere, og kommuner. Hensikten med disse besøkene har vært å gjøre seg kjent med</p>
+<p>barnehagene og få en oversikt over hvilke behov og utfordringer de står overfor. Det som går</p>
+<p>igjen, er hvordan en kan styrke barnehagenes og kommunenes arbeid med samisk språk- og</p>
+<p xml:lang="est">kulturarbeid.</p>
+<p>Sametinget har i perioden 2002 – 2004 besøkt samtlige kommuner i Norge hvor det er samiske</p>
+<p>barnehager. Visepresidenten har i den forbindelse besøkt en eller flere samiske barnehager i hver</p>
+<p>kommune. På møtene har også barnehagens ansatte, foreldre og eiere deltatt. Det har blitt gitt</p>
+<p>gjensidig informasjon på møtene og aktuelle problemstillinger har blitt drøftet. Visepresidentens</p>
+<p>besøksrunde vil også være bakgrunn for denne meldingen, og oppsummering av disse besøkene</p>
+<p>kommer inn under meldingens pkt. 5 Mål for barnehagene.</p>
+<p><em type="bold">3.  SAMISKE BARNS OPPVEKSTVILKÅR </em>De ytre vilkårene for samisk oppvekst og livsutfoldelse varierer fordi vi har til dels ulike samiske </p>
+<p>samfunn å forholde oss til. Det er derfor en utfordring å gjøre seg kjent med de ulike samiske</p>
+<p>samfunn enn de en selv bor i og er en del av. Langs kysten i Nord-Norge og sør i landet, er samer</p>
+<p>i mindretall og blir derfor lett usynlige som gruppe i lokalsamfunnet. Vilkårene for å beholde</p>
+<p>språket når man bor utenfor områder hvor samisk språk står sterkt, er således vanskelige, selv om</p>
+<p>kulturen fortsatt kan være levende innad i familie, slekt og mellom samer generelt. De kulturelle</p>
+<p>uttrykkene endrer seg også, uansett samisk samfunn, fordi samer på lik linje med andre er blitt</p>
+<p>mer urbane. Kulturelle uttrykk er for de som er ukjente med samisk kultur, ofte usynlige. Derfor</p>
+<p>kreves det fra de voksnes side å se den kulturen samiske barn vokser opp i. Dette gjelder spesielt</p>
+<p>de som står utenfor, men også de som har samisk kulturtilhørighet, ettersom man kan ha blinde</p>
+<p>flekker. Det kan være en utfordring for foreldre å skape en trygg samisk identitet hos sine barn</p>
+<p>når storsamfunnet ikke ser det samiske samfunnet slik vi fra samisk side forventer, eller at miljøet</p>
+<p>rundt ikke støtter opp om den enkeltes tilhørighet i det samiske samfunnet.</p>
+<p>1)å se med tre ulike blikk – dødt blikk, da ser man ingen samisk kultur (Jakob Meløe,1979) ukyndig blikk, da ser man at her er det noe man ikke</p>
+<p>helt vet hva er, og viser nysgjerrighet gjennom spørsmål og kyndig blikk, da vet man hva man ser</p>
+<p>blinde flekker – gjennom det kyndige blikk kan man miste informasjon fordi man ikke kjenner detaljer.</p>
+<p>Tidligere var samiske barns oppvekst preget av hjemmets oppdragelse der man vokste opp blant</p>
+<p>slektninger, neebne (navnesøstre/-brødre), gudforeldre og senere også klaassevoelpe</p>
+<p>(klassekamerater). Disse personene gjorde det mulig for foreldre å velge betydningsfulle modeller</p>
+<p>for sine barn. Gjennom valg av navn og faddere, og slektstilhørighet kunne de styre</p>
+<p>sosialiseringen og identitetsutviklingen på en indirekte måte.</p>
+<p>De voksnes arbeid og aktiviteter var rammen for barns oppvekst og dermed var barn integrert i</p>
+<p>voksenverdenen. Ved fysisk nærhet til voksnes arbeid og voksne som modeller, var mulighetene</p>
+<p xml:lang="dan">til stede for en normativ oppdragelse.</p>
+<p>I dag er mye av sosialiseringen og oppdragelsen flyttet over til institusjoner  som barnehager og</p>
+<p>skoler, også i det samiske samfunnet. Disse institusjonene har sin opprinnelse og verdigrunnlag</p>
+<p>fra et annet samfunn. Derfor er oppbygging av samiske barnehager og skoler en utfordring, ikke</p>
+<p>bare i forhold til etablering, men også i utformingen av et samisk innhold. Mangel på pedagogisk</p>
+<p>personale med samisk språk- og kulturkompetanse har vanskeliggjort arbeidet. Dette gjelder</p>
+<p>fortsatt for de fleste samiske barnehager over hele landet.</p>
+<p><em type="bold">3.1  Barn i barnehage </em></p>
+<p>St.meld. nr. 30 (2004-2005) <em type="italic">Kultur for læring </em>understreker at ”barnehagen er et viktig grunnlag for </p>
+<p>livslang læring.” Samiske barn som ikke har tilgang til samiske barnehager, er vanligvis i norske</p>
+<p>barnehager på linje med andre barn. Norske barnehager legger ikke i sin hverdag opp til å</p>
+<p>stimulere barnas utvikling i samisk språk og kultur. Dette kan føre til forstyrrelse i barnets</p>
+<p>utvikling fordi oppholdet i barnehagen blir løsrevet fra hjemmets miljø. Dette skjer selv om</p>
+<p>norske barnehager også har muligheter til å søke Sametinget om midler til morsmålsopplæring i</p>
+<p>samisk dersom de synliggjør at barnehagen formidler samisk språk og kultur, og har ansatte som</p>
+<p>behersker samisk.</p>
+<p>Samiske foreldre kan velge om de vil søke sine barn inn i samiske eller norske barnehager,</p>
+<p>dersom det finnes samisk barnehage der de bor. Dette følger både av foreldreretten,</p>
+<p>barnekonvensjonen og Unesco-konvensjonen mot diskriminering i undervisningen.</p>
+<p>Den første samiske barnehagen i Norge ble etablert i Kautokeino i 1969. Samisk barnehagetilbud</p>
+<p>etterspørres mer og mer, spesielt i områder der foreldre har behov for hjelp og støtte til språklig</p>
+<p>stimulering og utvikling av en sosial kompetanse der barna får tilhørighet til sitt folk og styrking</p>
+<p>av sin samiske identitet.</p>
+<p>De fleste samiske barnehager bruker samisk som hverdagsspråk, og har aktiviteter som er knyttet</p>
+<p>til samisk kultur og samiske tradisjoner. Dette er i tråd med retningslinjer for lokal tilpasning av</p>
+<p>rammeplan for barnehager som de seks kommunene i språkforvaltningsområdet har utarbeidet.</p>
+<p>Mangel på materiale som egner seg til språklig og kulturell stimuli og mangel på samisk</p>
+<p>pedagogisk personell, skaper merarbeid og hindringer i arbeidet.</p>
+<p><em type="bold">3.2  Barn uten barnehageplass -  ulike oppvekstvilkår </em></p>
+<p>Ikke alle samiske barn har tilgang på samisk barnhage. Barn som ikke går i samisk barnehage</p>
+<p>mangler en viktig språkstimuleringsarena som en samisk barnehage representerer. Dette gjelder</p>
+<p>spesielt i områder der foreldre ikke kan være gode språkstimulatorer ved at de ikke behersker</p>
+<p>samisk. Samisk språkstimulering i barnehagen kan gi utslag i valg av samisk som første- eller</p>
+<p>andrespråk ved skolestart.</p>
+<p>Samiske barn og ungdom skal sikres gode og trygge oppvekst- og levekår. Det innebærer at alle</p>
+<p>skal ha likeverdige tilbud og muligheter jfr. ”Samisk oppvekst, om tilbud til samiske barn og</p>
+<p>ungdom” utgitt av Barne- og familiedepartementet i samarbeid med Sametinget i 2003.</p>
+<p>Hva som er likeverdige tilbud og muligheter for samiske barn i forhold til hva norske barn og</p>
+<p>unge har, må synliggjøres i Sametingets politikk.</p>
+<p>Samiske foreldre har ut fra behov opprettet foreldrenettverk. Det er fordi kampen for å få</p>
+<p>oppfylt rettigheter oppleves å bli privatisert, og hver enkelt familie må kjempe for å få tilrettelagt</p>
+<p>sosiale, kulturelle og språklige tiltak for barna både i barnehagen og i andre sammenhenger. Det</p>
+<p>er et signal om at det kan være vanskelig å få de lovfestede rettigheter samer har i områdene der</p>
+<p xml:lang="dan">de bor.</p>
+<p>Barn og unge er fremtidens bærere, forvaltere og videreformidlere av samisk kultur. De vil ut fra</p>
+<p>foreldres valg, kontakt med slekta og andre voksne personer, få ulik tilknytning til det samiske</p>
+<p>samfunn og storsamfunnet for øvrig. Som selvstendige mennesker vil de derfor ha ulike forhold</p>
+<p>til samiske verdier, tradisjoner og normer. Foreldre trenger å få støtte både fra det offentlige og</p>
+<p>de omkringliggende miljøene med positive holdninger til det samiske. Dette vil støtte opp om</p>
+<p>barns opplevelse av samisk identitet.</p>
+<p>Barn og unges verden er i dag annerledes enn foreldregenerasjonens. Sosialiseringsarenaene</p>
+<p>konkurrerer med nasjonale og internasjonale medier. Det samiske språket får ofte for liten stimuli i konkurransen med andre språk, derfor må samiskspråklige medietilbud utvikles og intensiveres</p>
+<p>og tilpasses dagens barn og unge.</p>
+<p><em type="bold">3.3  Barn som behøver individuelt tilpasset tilbud </em></p>
+<p>Samiske barn behøver som andre barn av og til individuelle tilpassede tilbud i barnehagen. Det</p>
+<p>som er hverdagen for de fleste samiske brukere er at ved søknad om hjelp, møter de et norsk</p>
+<p>hjelpeapparat med en norsk tenkemåte. I slike situasjoner er man som minoritet mer sårbar enn</p>
+<p>andre. Derfor er det viktig at barnehagens ansatte har god spesialpedagogisk kompetanse, og at</p>
+<p>de er seg bevisst den kulturelle konteksten barnet befinner seg i, selv om barnet og foreldrene</p>
+<p>snakker norsk. Undersøkelse har vist at de sakkyndige ikke tar innover seg at den samiske</p>
+<p>verdenen er annerledes enn den norske. Det  kan skape mistillit og mangel på respekt hos</p>
+<p>foreldre/foresatte ovenfor hjelpeapparatet. Dette kan igjen går utover barnet som behøver hjelp</p>
+<p>til å få et tilbud som er likeverdig med det som norske barn har. For å imøtegå barns behov, bør</p>
+<p>det norske hjelpeapparatet bli mer bevisst sin posisjon og tenke flerkulturelt.  Det er behov for at</p>
+<p>flere samer utdannes for å imøtekomme behovet for spesialisering.</p>
+<p xml:lang="nno"><em type="bold">3.4 Overgang barnehage - skole </em></p>
+<p>Læreplanverket for grunnskolen og rammeplanen fremhever begge betydningen av et formalisert</p>
+<p>samarbeid mellom barnehage og skole for å sikre barn en god overgang. Barna bør få god</p>
+<p>språkstimulering i samiske barnehager slik at de kan mestre samisk som førstespråk eller</p>
+<p>andrespråk. For at språket skal videreutvikles, ettersom barnet vokser til og går over i skolen, er</p>
+<p>noe av utfordringen i dag at skolen blir opprustet med tilstrekkelige samiskspråklige</p>
+<p>lærerressurser og læremateriell. Spesielt i områder utenfor forvaltningsområdet for samisk språk</p>
+<p>står barna i fare for at språkutviklingen stagnerer dersom de ikke får en smidig overgang fra</p>
+<p>barnehage til skole. Alle overganger i livet kan oppleves som kritiske. For å avhjelpe denne</p>
+<p>overgangen, bør en sikre at samisk språk og kultur utvikles på deres eget nivå også i grunnskolen.</p>
+<p xml:lang="deu"><em type="bold">3.5  Kultur </em></p>
+<p>Kultur er et begrep uten objektive kriterier og kan forstås som de tanker, kunnskaper og</p>
+<p>ferdigheter mennesker har tilegnet seg som medlemmer av et samfunn. Det er et system av ideer,</p>
+<p>verdier, normer, koder og symboler som et menneske overtar fra den foregående generasjon, og</p>
+<p>som man forsøker å bringe videre – ofte noe forandret, til neste generasjon (Klausen 1992).</p>
+<p>Kultur er summen av de erfaringer og kunnskaper som vi mennesker erverver oss gjennom</p>
+<p>Hjelp i kontekst v/G. Dunfjeld sosialisering og ved å være medlemmer av et samfunn. Samfunnet som preger oss vil hele tiden</p>
+<p>være forskjellig ut fra hvor i landet vi bor og hvor lenge vi oppholder oss der i tid. Derfor vil det</p>
+<p>være forskjeller på hva vi lærer også innad i en og samme kultur.</p>
+<p><em type="bold">3.5.1   Mangfoldet i kulturen </em></p>
+<p>Samene har fra gammelt av hatt sine bosettingsområder som geografisk omfatter både det</p>
+<p>nordsamiske, lulesamiske og sørsamiske språkområdet. Disse samiske områdene eksisterer</p>
+<p>fortsatt selv om de er blitt geografisk innskrenket. I tillegg bor det samer i byer. Den samiske</p>
+<p>befolkningen i byene er sammensatt av personer fra ulike deler av landet og kan derfor ha ulik</p>
+<p>tilknytning til samisk språk og kultur. Samene bor spredt over hele landet. Flertallet av samene</p>
+<p>bor i de seks kommunene som blir kalt forvaltningsområdet for samisk språk, og de seks</p>
+<p>kommunene er Nesseby, Tana, Porsanger, Karasjok, Kautokeino og Kåfjord.</p>
+<p>I dette området er samer betegnet som majoritet i forhold til nordmenn, men likevel er</p>
+<p>samfunnene i disse kommunene forskjellige. I noen av kommunene er samisk språk synlig og</p>
+<p>levende og anvendes både i private og offentlige sammenhenger, mens i andre kommuner er</p>
+<p>samisk språk et privat anliggende. Det offentlige tjenestetilbudet er mer tilrettelagt for samiske</p>
+<p>brukere i barnehager og skoler, helse- og sosiale tilbud samt andre tilbud i forvaltningsområdet</p>
+<p>for samisk språk.</p>
+<p>Det er viktig at samiske barn må få muligheten til å lære om sin lokale kultur uansett hvor de bor</p>
+<p>i landet samtidig som de også må få innblikk i andres tradisjoner, verdier og normer.</p>
+<p><em type="bold">4. BARNEHAGER 4.1. Samisk barnehage </em></p>
+<p>De samiske barnehagenes formål er først og fremst å styrke og utvikle barnas samiske språk og</p>
+<p>kultur. I Rammeplan for barnehagen, s. 92 legger barne- og familiedepartementet følgende</p>
+<p>definisjon til grunn for hva en samisk barnehage er:</p>
+<p><em type="italic">”En samisk barnehage er en barnehage der barna i barnehagen har samisk bakgrunn – er samer. Barnehagen </em></p>
+<p><em type="italic">har som formål å styrke barnas identitet som samer ved å fremme bruken av samisk språk og ved å formidle </em></p>
+<p><em type="italic">samisk kultur. Barnehagen ledes av samisk pedagogisk personale”.  </em></p>
+<p>I Norge finnes det i dag samiske barnehager i Finnmark, Troms, Nordland, Nord-Trøndelag,</p>
+<p>Hedmark og i Oslo. I tillegg finnes det samiske barn i norske barnehager ulike steder i hele landet</p>
+<p>der barn får tilbud om samisk språk og kulturopplæring. De fleste samiske barnehagene er</p>
+<p>organisert som kommunale barnehager, men det er også enkelte private samiske barnehager.</p>
+<p xml:lang="nno"><em type="bold">4.2. Innhold </em></p>
+<p>De samiske barnehagene er opprettet for å gi barnehagen et samisk innhold. Barnehagens</p>
+<p>innhold er i stor grad bestemt i rammeplan for barnehager. De emnene som er beskrevet i</p>
+<p>rammeplanen er likevel ikke uttømmende, og må suppleres lokalt. Hver barnehage må tillegge</p>
+<p xml:lang="nno">temaarbeidet lokalt preg og vektlegge den lokale kulturen i formidlingen i barnehagen. Den</p>
+<p>viktigste oppgaven samiske barnehager har, er formidling av samiske verdier, samisk språk og</p>
+<p>kultur. Samisk kultur har usynlige, synlige og ytre markører som bl.a. språk, klestradisjoner,</p>
+<p>omgangsformer, matskikker, duodji (herunder kunst), joik og samisk musikk,  navneskikker og</p>
+<p>næringer. Samisk kultur består også av immaterielle faktorer som verdinormer, tenkesett,</p>
+<p>samhørighetsfølelse og en felles historie og bakgrunn. Alt dette må barnehagen formidle til barna</p>
+<p xml:lang="nno">på en slik måte at barna får et positivt syn på det samiske og kan være stolte av sin samiske</p>
+<p>tilhørighet.</p>
+<p>Rammeplanen forutsetter at barna får erfaring fra alle de fem fagområdene som er nevnt i planen.</p>
+<p xml:lang="dan">De fem fagområdene er følgende:</p>
+<p>1. Samfunn, religion og etikk</p>
+<p>2. Språk, tekst og kommunikasjon</p>
+<p>3. Estetiske fag</p>
+<p>4. Natur, miljø og teknikk</p>
+<p>5. Fysisk aktivitet og helse</p>
+<p>I tillegg nevner rammeplanen sju hovedområder som samiske barnehager skal bygge sin</p>
+<p>virksomhet på. De sju hovedområdene er :</p>
+<p>1. Styrke og utvikle samisk fellesskapsfølelse</p>
+<p>2. Utvikle respekt for mangfoldet i samekulturen</p>
+<p xml:lang="nno">3. Få kjennskap til egen lokalkultur og trekke det samiske nærmiljøet inn i</p>
+<p xml:lang="nno">barnehagen</p>
+<p xml:lang="dan">4. Utvikle respekt for naturen og miljøet</p>
+<p>5. Aktivt samarbeid med hjemmet</p>
+<p>6. Likestilling mellom de to kjønn</p>
+<p xml:lang="dan">7. Utvikle respekt for andre kulturer og levemåter</p>
+<p>Mange samiske barnehager arbeider ut fra en åtte årstidskalender; vinter, vår-vinter, vår, vår</p>
+<p>sommer, sommer, høst-sommer, høst, høst-vinter. Ved å bruke årstidskalenderen ved planlegging kan man legge inn aktiviteter fra både de sju samiske hovedområdene og de fem fagområdene</p>
+<p>rammeplanen nevner.</p>
+<p><em type="bold">4.3. Språk </em></p>
+<p>Barnehagetilbudet til samiske barn er ulikt fra sted til sted. Det finnes samiske barnehager med</p>
+<p>samisk og/eller norsk som hovedspråk eller med både norsk og samisk som hovedspråk, men</p>
+<p>med fokus på samisk innhold. I tillegg er det samiske barn i norske barnehager med norsk som</p>
+<p xml:lang="nno">hovedspråk og som er bygget på norsk kultur.</p>
+<p>En må ta utgangspunkt i barnets språklige situasjon når en setter opp målsettingen for bruk og</p>
+<p>styrking av samisk språk. I følge rammeplanen skal hvert enkelt barn få et barnehagetilbud som er</p>
+<p>tilpasset dets språksituasjon med tanke på at bruken av samisk språk styrkes.</p>
+<p>For 2004 har Sametinget følgende oversikt over antall barn som går i barnehager som har fått</p>
+<p>tilskudd fra Sametinget;</p>
+<p>Nordsamiske barn i barnehage: 913 barn</p>
+<p>Lulesamiske barn i barnehage:      8 barn</p>
+<p>Sørsamiske barn i barnehage:      19 barn</p>
+<p xml:lang="isl">Sum                                          940 barn</p>
+<p xml:lang="swe">Under punkt 6.2  Språkopplæring kommer det mer om språk.</p>
+<p xml:lang="sme"><em type="bold">4.4 OVERSIKT OVER SAMISKE BARNEHAGER 2001 OG 2004 </em></p>
+<p>Antall    Antall   Antall   Antall</p>
+<p>barnehager   samiske barn  barnehager   samiske barn</p>
+<p>Kommune</p>
+<p xml:lang="vep">Kautokeino</p>
+<p>Karasjok</p>
+<p xml:lang="rmf">Tana</p>
+<p>Porsanger</p>
+<p>Nesseby</p>
+<p>Kåfjord</p>
+<p>Tromsø</p>
+<p xml:lang="est">Alta</p>
+<p xml:lang="nno">Lavangen</p>
+<p>Vadsø</p>
+<p>Engerdal</p>
+<p>Skånland</p>
+<p>Tysfjord</p>
+<p xml:lang="rmn">Oslo</p>
+<p>Nordreisa</p>
+<p xml:lang="sma">Snåsa</p>
+<p><em type="bold">Norske barnehager som gir samisk opplæring :  </em></p>
+<p xml:lang="nno">Hattfjelldal *</p>
+<p xml:lang="nno">Rennebu *</p>
+<p xml:lang="nno">Målselv*</p>
+<p xml:lang="nno">Grane*</p>
+<p>Harstad*</p>
+<p xml:lang="vep">Kvalsund*</p>
+<p>Sør-Varanger*</p>
+<p>Storfjord*</p>
+<p xml:lang="nno">Saltdal*</p>
+<p xml:lang="isl">Sum</p>
+<p>Sum samisk tilskudd   2001   5.923.776 kr  20048.108.833 kr</p>
+<p>Sonjatun barnehage i Nordreisa, Stubben barnehage i Vadsø, Gimle barnehage i Tromsø og</p>
+<p>Nyland barnehage i Alta er norske barnehager med en samisk avdeling.</p>
+<p>Det har vært nedgang av barn i en del barnehager, men det totale antall barn er likevel stabilt pga</p>
+<p>at det er opprettet nye barnhager.</p>
+<p>Sametinget har ikke evaluert om kontantstøtten har ført til nedgang i antall samiske barn i</p>
+<p>barnehager. Det kunne vært interessant å se nærmere på dette ved en egnet anledning.</p>
+<p>Samiske barnehager har ingen lang tradisjon og historie.</p>
+<p>Barnehager merket med stjerne er norske barnehager med samiske barn som får tildelt midler fra Sametinget til</p>
+<p>samiskopplæring.</p>
+<p>Fra den første samiske barnehagen ble åpnet i 1969, er det i dag totalt 46 samiske barnehager i</p>
+<p>Norge. Av disse er 42 rene samiske barnehager, mens fire er egne samiske avdelinger i norske</p>
+<p>barnehager. Totalt i disse barnehagene er det ca 940 barn.</p>
+<p>Noen samiske barn bor i områder hvor det ikke er grunnlag for egen samisk barnehage. Her går</p>
+<p>mange samiske barn i norske barnehager. Sametinget tildeler i 2005 midler i form av tilskudd til</p>
+<p>19 norske barnehager hvor det er samiske barn. Dette er barnehager som vil styrke de samiske</p>
+<p>barnas språk. Tilskuddet skal bl.a. brukes til lønn for samiskspråklige ansatte.</p>
+<p>Det samiske samfunnet har gjennomgått store endringer i løpet av forholdsvis kort tid.</p>
+<p>Tilsynelatende ser det ut til at denne utviklingen har gått greit. Manglende forskning og statistisk</p>
+<p>materiale medfører imidlertid at vi har liten kunnskap om hvordan det har påvirket samiske barns</p>
+<p>oppvekstvilkår.</p>
+<p>Sametinget forvalter særskilt tilskudd til samiske barnehager i Norge. Dette innebærer også at</p>
+<p>Sametinget har ansvar for å se til at de samiske barnehagene som mottar tilskudd har vedtekter i</p>
+<p>henhold til  tildelingskriterier for tilskudd, og at barnehagene drives i samsvar med disse.</p>
+<p>I 2004 tildelte Sametinget kr. 750.000,- som prosjektmidler til samiske barnehager. Det kom totalt</p>
+<p>inn søknader for kr. to millioner. Sametinget tildelte kr. 600.000,- til pedagogisk</p>
+<p>materiale/læremidler.</p>
+<p>Økning av tilskuddet fra 2001 til 2004 er et resultat av både flere samiske barnehager og økt</p>
+<p>tildeling over statsbudsjettet. Sametinget økte satsen for tilskuddet i 2004.</p>
+<p><em type="bold">5. MÅL FOR BARNEHAGENE </em>Samiske barn har krav på et barnehagetilbud som er likeverdig med det barnehagetilbudet øvrige </p>
+<p>norske barn får. Samiske barnehager har derfor en sentral funksjon i språkopplæringen og som</p>
+<p>kulturformidlere for å støtte opp om barns identitetsdannelse. Denne rollen må barnehager være</p>
+<p>seg bevisste og ta på alvor og utøve denne rollen på best mulig måte. Dette innebærer at når</p>
+<p>barnehagen er en læringsarena for samisk språk, må ulike språktiltak være sentrale og de vil</p>
+<p>variere noe fra sted til sted. De største utfordringene er der det samiske språket ikke er</p>
+<p xml:lang="dan">dagligspråk og hvor det er forholdsvis små språkmiljøer.</p>
+<p>Sametinget igangsatte et femårig språkmotiveringsprosjekt ved Elgå Oppvekstsenter i Engerdal</p>
+<p>kommune i Hedmark i 2001. Dette prosjektet har hittil vist positive resultater. Barn med</p>
+<p xml:lang="nno">sørsamisk som førstespråk har økt i dette området. Dette tiltaket har hatt effekt, og viser at</p>
+<p>dersom man ønsker å styrke samisk språk i et område hvor språket er nesten borte, er det</p>
+<p>nødvendig med særskilte tiltak for å lykkes.</p>
+<p>Læring i barnehage foregår kontinuerlig. Barna lærer når de samspiller med andre barn og med</p>
+<p>voksne i barnehagen. Barna lærer i lek og aktivitet og de lærer i hverdagssituasjoner. Barnehagen</p>
+<p>har også flere formelle læringssituasjoner som er knyttet til tema. Læring i barnehagen må være</p>
+<p>nært knyttet til omsorg og lek, og vil være en del av oppdragelsen. Den beste læringen skjer</p>
+<p>gjennom erfaring. Derfor er barnehagens arbeidsmåter sentrale. Barns læring har tradisjonelt</p>
+<p>foregått ved deltakelse i praktisk arbeid. Den beste læringen foregår når barn får være delaktige i</p>
+<p xml:lang="nno">arbeidet. Barnehagen må legge opp hverdagen slik at barn kan delta i det praktiske arbeidet, både</p>
+<p>for læringsutbytte, men også for å oppleve at de er en del av sammenhengen. Deres bidrag må</p>
+<p xml:lang="dan">ikke være <span type="quote" xml:lang="nno">”på liksom”</span>, men til nytte for fellesskapet.</p>
+<p>Det er viktig at barnehagens ansatte har et reflektert forhold til påvirkning fra det moderne</p>
+<p>samfunnet. Barnehagens ansatte og foreldre bør drøfte de problemstillinger som oppstår i</p>
+<p>barnehagen på bakgrunn av ytre påvirkninger fra media og ellers fra storsamfunnet.</p>
+<p><em type="bold">5.1  Ulike utfordringer </em></p>
+<p>I Norge bor samer spredt i alle deler av landet. Språket brukes likevel i ulik og varierende grad</p>
+<p>avhengig av den lokale forhistorie. Mange barnehager opplever at samisk språk ikke har status i</p>
+<p>lokalmiljøet og heller ikke blant foreldre i barnehagen. Noen steder er heller ikke lokale</p>
+<p>myndigheter ubetinget positive til det samiske. Selv om det ikke kan sies at noen er direkte</p>
+<p>negative, merker barnehagen dette ved at saker blir trenert, og liten velvilje og unnfallenhet til å</p>
+<p>følge opp. De utfordringer samiske barnehager har, er i denne meldingen sammenfattet på</p>
+<p>bakgrunn av de opplysninger og signaler Sametinget har tilegnet seg under besøkene i de samiske</p>
+<p>barnehagene.</p>
+<p><em type="bold">5.2   Funn fra kommunebesøk  </em></p>
+<p>På bakgrunn av erfaringer fra Sametingsrådets barnehagebesøk, jf. punkt 2.4, omtales i det</p>
+<p>følgende en del problemstillinger som er felles for flere kommuner.</p>
+<p><em type="bold">5.2.1 Språkstimulering – et privat ansvar ? </em></p>
+<p>Med noen unntak er de samiske barnehagenes største utfordring å få barna til å bruke det samiske</p>
+<p>språket daglig, og spesielt som lekespråk. Utfordringene er knyttet til barnas eget språk og</p>
+<p>hjemmespråk, og samisktalende ansatte og deres språkkunnskaper. Den største utfordringer</p>
+<p>knytter seg til å få en stabil samiskspråklig kompetanse i barnehagene. Mangel på samisktalende</p>
+<p>ansatte i barnehagene medfører et svekket språktilbud til samiske barn. Det er i denne</p>
+<p>sammenheng viktig at det er flere enn en ansatt som behersker samisk. I noen barnehager er hele personalet samisktalende. Dette gjelder de aller fleste barnehager i Kautokeino og Karasjok,</p>
+<p>enkelte i Porsanger og Tana, og samiske barnehager i Oslo, Tromsø og Alta. De fleste andre</p>
+<p>samiske barnehagene har som regel noen få ansatte som kan samisk, mens øvrige ansatte ikke</p>
+<p>behersker samisk muntlig. Dette medfører at de ansatte må snakke norsk store deler av</p>
+<p>arbeidsdagen. Dette hører barna, og de påvirkes slik at de får det inntrykket at samisk er noe man</p>
+<p>snakker i visse situasjoner, men ikke ellers. Å ha en samisktalende ansatt er bedre enn ingenting,</p>
+<p>men dette fører til stor slitasje på den ene eller de få ansatte som kan språket. De samiskspråklige</p>
+<p>ansatte føler et stort press på seg i språkopplæringssammenheng, og opplever at dette blir et</p>
+<p>personlig ansvar for den enkelte ansatte. De kjenner også at det er deres ansvar og bare opp til</p>
+<p>dem om samisk skal høres og brukes i barnehagen. Det er også kommet frem signaler om at</p>
+<p>barnehagens øvrige ansatte og ledelsen skyver dette fra seg, bevisst eller ubevisst, over til de</p>
+<p>samiskspråklige ansatte. Et problem som blir fremhevet er, når det bare er en som har ansvar for</p>
+<p>samisk i barnehagen, er at det blir veldig personavhengig. Hvis den personen som har ansvar for</p>
+<p>det samiske språktilbudet i barnehagen ikke er til stede, stopper hele opplegget opp. Ofte blir det</p>
+<p>ikke satt inn vikar for vedkommende. En grunn til dette kan være at det er problematisk å finne</p>
+<p>samisktalende personer som kan være vikar. Mange foreldre mener at de må påse at</p>
+<p>samisktilbudet opprettes, opprettholdes og videreføres. Dette føles som belastende og blir</p>
+<p>nærmest en tilleggsjobb når man har samiske barn i barnehagen.</p>
+<p>Lekespråket i mange barnehager er norsk. Barna bruker samisk seg imellom når dette blir påpekt.</p>
+<p>Flere barnehager sier imidlertid at de ser resultater når de har jobbet bevisst over flere år. Det ser</p>
+<p>ut som om noen barnehager lykkes bedre med språkarbeidet enn andre.</p>
+<p>Årsakene til dette kan være personalets og foreldrenes holdning til saken. I enkelte barnehager</p>
+<p>har man vært noe tilbakeholdende med å pålegge barna, ansatte og foreldre til å bruke samisk</p>
+<p>språk. Andre barnehager har gjort det klart for foreldre at de ikke klarer å opprettholde eller lære</p>
+<p>barna samisk språk hvis ikke foreldrene er med på dette og bruker språket aktivt med barna.</p>
+<p>Mange barnehager har diskutert språkspørsmålene og blitt enige om å pålegge ansatte å kun</p>
+<p>snakke samisk. Andre igjen har kommet til at de ikke vil gi slike pålegg. Hvilken avgjørelse den</p>
+<p>enkelt barnehage tar, er avhengig av hvor barnehagen er, hvilken kompetanse ansatte har og</p>
+<p>hvilken foreldregruppe/ barnegruppe barnehagen har.</p>
+<p xml:lang="vep"><em type="bold">5.2.2. Kommuneøkonomi </em></p>
+<p>I følge Lov om barnehager har kommunene både tilsynsansvar og veiledningsansvar ovenfor alle</p>
+<p>barnehager i kommunen. Kommuneøkonomien i Norge er blitt vesentlig dårligere de senere årene. Dette har gitt utslag på økonomien for både kommunale og private barnehager. Mange</p>
+<p>kommuner har fjernet det administrative mellomleddet mellom barnehagen og rådmannen, og</p>
+<p>rådmannens stab mangler barnehagefaglig kompetanse. Det igjen har ført til at det er vanskeligere</p>
+<p>å få faglig veiledning fra kommunene og mindre koordinering av barnehageaktiviteter lokalt.</p>
+<p>Dårlig kommuneøkonomi merkes også ved at investeringer og kompetanseheving for de ansatte</p>
+<p>er redusert. Sametinget merker dette ved at en del barnehager tar kontakt og etterspør midler til</p>
+<p>innkjøp av  utstyr, f.eks. datautstyr. Mange barnehager har heller ikke råd til å delta på</p>
+<p>Sametingets nettverksmøter og barnehagekonferanser.</p>
+<p><em type="bold">5.2.3  Fordeling av særskilt tilskudd til samiske barnehager </em></p>
+<p>Det som også trekkes frem er at mange barnehager utenfor forvaltningsområdet mener at de får</p>
+<p>for lite midler fra Sametinget. Disse barnehagene mener at de har større utgifter til direkte</p>
+<p>språkopplæring enn barnehager hvor språket står sterkt. Flere barnehager og kommuner har bedt</p>
+<p>Sametinget vurdere om det kan finnes en annen fordelingsnøkkel for tilskuddet. De mener at</p>
+<p>barnehager i områder hvor språket står svakt bør få tildelt mer midler enn barnehagene i</p>
+<p>Kautokeino og Karasjok. Barnehagene utenfor de to kommunene ønsker økt tilskudd fordi de</p>
+<p>mener at de har større utgifter for å styrke samisktilbudet i barnehagen når miljøet er norsk og</p>
+<p>barna ikke hører mye samisk utenfor barnehagen. I tillegg mener flere barnehager at de må drive</p>
+<p>opplæring, gi støtte og informasjon til foreldre, og stå for ulike arrangementer i det samisk</p>
+<p xml:lang="dan">miljøet.</p>
+<p>Det er også kommet ønske om å indeksregulere tilskuddet.</p>
+<p xml:lang="nno"><em type="bold">5.2.4  Ytre markører  </em></p>
+<p>Barnehagene bør ha et samisk preg som er synlig, en ytre markør. Spesielt utemiljøet blir ønsket</p>
+<p>som viktige markører ettersom mange samiske barnehager ser ut som barnehager flest. Det er</p>
+<p>ikke mulig å se at det er en samisk barnehage når man ser på barnehagens arkitektur og</p>
+<p>utelekemilø. Det enkleste barnehagene gjør, noe som også er praktisk, er å sette opp lavvo,</p>
+<p>gamme/goahti, luovvi, båt eller lignende som kan synliggjøre at dette er en samisk barnehage.</p>
+<p>Sametinget mottok i 2004 søknader fra barnehager på prosjektmidler på over kr. 600.000,- til</p>
+<p>utforming av samiskpreget utemiljø ved barnehagen. Å synliggjøre barnehagen som en samisk</p>
+<p>institusjon er viktig. Barnehageeiere bør derfor prioritere også det samisk utelekemiljøet.</p>
+<p>De fleste barnehager har et samisk preg inne i barnehagen, som plakater, samiske utstyr, duodji</p>
+<p>osv. Mange barnehager har også skilting inne i barnehagen både på samisk og norsk.</p>
+<p><em type="bold">5.2.5  Regelverk som hindring i formidling av samisk kultur  </em></p>
+<p>Flere barnehager har fått beskjed fra Mattilsynet om at de ikke lenger kan foreta slakting av rein</p>
+<p>på tradisjonelt vis uten at en veterinær eller en ansatt fra Mattilsynet er tilstede. Noen barnehager</p>
+<p>har fått muntlige restriksjoner for bearbeiding av kjøtt og blodmat, som for eks. røyking og</p>
+<p>tørking av kjøtt, tilbereding av blodpølser osv.</p>
+<p>Barnehagene kan ikke fritt besøke fjøser de selv ønsker. Dette gjelder både for ku/storfe- og</p>
+<p>sauefjøs. Selv om bønder vil formidle sine verdier, og vise sine arbeidsmetoder til barn i</p>
+<p>barnehager, kan dagens regelverk føles som en hindring for dette.</p>
+<p>Det har ikke lyktes Sametinget å framskaffe skriftlig dokumentasjon eller regelverk fra</p>
+<p>Mattilsynet, og Sametinget vil derfor oppfordre barnehager å formidle samisk kultur til barna slik</p>
+<p xml:lang="dan">de tidligere har gjort.</p>
+<p xml:lang="deu"><em type="bold">6. METODER </em></p>
+<p><em type="bold">6.1 Læring gjennom aktiv deltakelse  </em></p>
+<p>Samisk barneoppdragelse var tidligere i stor grad knyttet opp mot læring gjennom arbeid. I</p>
+<p>Rammeplanen (s. 95) heter det: ”Det pedagogiske tilbudet må organiseres slik at barna tas med i</p>
+<p>ulike arbeidsprosesser og får delta i kulturell og sosial virksomhet som kommer det enkelte barn,</p>
+<p>barnehage eller nærmiljø til gode.”</p>
+<p>For at barn skal føle en trygg forankring i det samiske samfunnet, arbeider de fleste etter</p>
+<p>prinsippet om at barn lærer sitt språk og sin kultur gjennom aktiv deltakelse av ulike aktiviteter.</p>
+<p>Praktisk og trygghetsmessig skal dette passe inn med daglige rutiner i barnehagen. Aktivitetene</p>
+<p>kan være f.eks. slakting av rein og sau, ivaretakelse av råstoffer til mat og råmaterialer til duodji.</p>
+<p>Ved at barna får følge med i det de voksne gjør, får de rollemodeller samtidig som de lærer</p>
+<p>hvordan ting skal gjøres. Dette styrkes ved at de selv også får prøve og delta  i arbeidet.</p>
+<p><em type="bold">6.2  Språkopplæring </em></p>
+<p>I de samiske barnehagene er det både samiskspråklige, norskspråklige og tospråklige barn.</p>
+<p>Barnehagene jobber med det samiske språket på ulike måter.</p>
+<p>I de samiskspråklige barnehagene/avdelingene brukes kun samisk. Her kan det ofte være enklere</p>
+<p>å ta vare på språket, beskytte og styrke muligheten for språklig videreutvikling av barna, enn i</p>
+<p>språkblandede grupper der det kreves mer bevissthet fra de voksnes side.</p>
+<p>Det er flere typer tospråklighet, blant annet morsmålstospråklighet der barna lærer samisk og</p>
+<p>norsk parallelt, og additivt tospråklighet der barna har norsk eller samisk som førstespråk og</p>
+<p>norsk eller samisk som andrespråk</p>
+<p>I tospråklige barnehager/avdelinger hvor det brukes både samisk og norsk, må personalet ta i</p>
+<p>bruk en rekke strategier, metoder og prinsipper for å bidra til å utvikle en tospråklig bevissthet</p>
+<p>hos samiske tospråklige barn, slik at de ikke alltid velger bort samisk som kommunikasjonspråk</p>
+<p>dersom det er norsktalende eller norsk-samisktalende til stede (Øzerk/Juuso, s. 27).</p>
+<p>Styrking og utvikling av samisk skjer blant annet ved at:</p>
+<p>- de ansatte kun snakker samisk til barna</p>
+<p>- barnet hører språket gjennom kommunikasjon med andre barn og voksne</p>
+<p>- barna hører språket gjennom eventyr, sagn, teater, joik, sang og ulike aktiviteter, og aktiv bruk av skriftspråk</p>
+<p>- de voksne både i barnehage og i andre sammenhenger er gode rollemodeller</p>
+<p>- at barna bruker språket på en naturlig måte</p>
+<p>- å gi alle barn mulighet til å tilegne seg så mye samisk som mulig før skolestart</p>
+<p>Generelt må alle barnehager påse følgende:</p>
+<p>- personalet er bevisst sin egen språkbruk</p>
+<p xml:lang="dan">- personalet diskuterer språkproblematikken på personalmøter</p>
+<p>- barnehagen samtaler om språkbevissthet på foreldremøter, synliggjør problemene og oppfordrer foreldre til samarbeid</p>
+<p xml:lang="dan">- personalet er konsekvent sin egen språkbruk i dagligtalen</p>
+<p>- personalet hjelper hverandre med språkarbeidet</p>
+<p>På de stedene hvor samisk er majoritetsspråket, vil den største oppgaven være å jobbe med</p>
+<p>språkrøkt og bevare ordforrådet/mangfoldet i språket. Det norske språket som er</p>
+<p>majoritetsspråket, har en enormt utbredelse i det samiske samfunnet og ofte blandes norske ord i</p>
+<p>det samiske språket.</p>
+<p>I tillegg til generelle mål må de ansatte arbeide med å:</p>
+<p>- gjøre hverandre oppmerksomme på når de blander norske ord i samisk</p>
+<p>- bruke samiske ord i større grad ved temaarbeid - innføre glemte ord og for eks. bestemme seg for å innføre ett nytt ord i måneden e.l.</p>
+<p>Der hvor samisk språk ikke står så sterkt, må barnehagen arbeide enda mer aktivt med språket.</p>
+<p>Også her må barnehagen samspille med foreldrene, og det må være enighet i personalgruppen om</p>
+<p>dette. I tillegg til de generelle målene, må barnehagen:</p>
+<p>- bruke samisk muntlig hele tiden</p>
+<p>- oppmuntre barna til å kun snakke samisk</p>
+<p>- skrive alt på samisk. Hvis man må bruke norsk, må man bruke begge språkene</p>
+<p>- stadig utvikle barnas ordforråd</p>
+<p>I  norskspråklige barnehager bør en:</p>
+<p>- bruke mange samiske sanger, rim og regler</p>
+<p>- ha minst ett rom eller bestemte steder i barnehagen der det brukes kun samisk</p>
+<p>- slå av norsksendinger på radio/TV og heller høre på samiskspråklige CD-er</p>
+<p>- lage en plan over hvilke ord man skal lære og når</p>
+<p>- snakke så mye samisk som mulig med barna, til barna og i barns nærvær</p>
+<p>En rimelig grad av språklig bombardering har en viktig læringsfremmende effekt når barna forstår</p>
+<p xml:lang="swe">det som blir sagt.</p>
+<p xml:lang="vep">7.  KOMPETANSE</p>
+<p>Sametinget har ved flere anledninger tatt opp med Barne- og familiedepartementet</p>
+<p>problemstillinger som det må settes søkelys på, og hvor vi trenger styrking av de økonomiske</p>
+<p>tiltak. Bl.a. har Sametinget påpekt manglende tiltak for rekruttering, kompetanseheving,</p>
+<p>pedagogisk materiell, informasjon og forskning.</p>
+<p>Veiledning og kompetanseheving for ansatte i samiske barnehager gjennom årlig</p>
+<p>barnehagekonferanse og nettverkssamlinger er viktige kompetansehevingstiltak som må</p>
+<p>videreutvikles. Sametinget bruker store ressurser på informasjon, faglig veiledning og</p>
+<p>holdningsskapende arbeid.</p>
+<p><em type="bold">7.1  Personalet  </em></p>
+<p>Personalet er den viktigste ressursen i barnehagen. Personalets kompetanse er avgjørende for hva</p>
+<p>som blir formidlet og vektlagt i barnehagehverdagen. Derfor må de voksne være seg bevisste sin</p>
+<p>holdning til samisk språk og kultur, og hvordan man formidler dette. Det gjør man ved å være seg</p>
+<p>bevisst sin rolle kollegialt og overfor foreldre og barn gjennom en kultursensitiv holdning. Om</p>
+<p>man skal lykkes med å lære barna samisk språk, er det nødvendig å ha samisktalende ansatte i de</p>
+<p>samiske barnehagene. Det er videre nødvendig at de ansatte i barnehagen har et reflektert forhold</p>
+<p>til sine egne holdninger overfor samiske barn og foreldre. Ansatte må videre ha kompetanse i de</p>
+<p>ulike delene i samisk kultur, levesett og samfunnsliv. Dette innebærer ikke at alle skal inneha lik</p>
+<p>kompetanse på alle områder, men at den samlede kompetansen i barnehagen er på et akseptabelt</p>
+<p>nivå slik at barnehagen kan formidle samiske emner på en god og tilfredsstillende måte. Det er</p>
+<p xml:lang="nno">også viktig at personalet har god kompetanse og kunnskap om lokalkulturen.</p>
+<p xml:lang="deu"><em type="bold">7.2  Behov </em></p>
+<p>Det er behov for å utdanne flere førskolelærere med samiskspråklig kompetanse i sør- og</p>
+<p>lulesamisk språkområde. Det er også stort behov for samisktalende personell i flere kommuner</p>
+<p>utenfor indre Finnmark. Samiskspråklig kompetanse kan ivaretas av andre enn det pedagogiske</p>
+<p>personell. Det er derfor behov for etter- og videreutdanningsprogrammer for samiske</p>
+<p>språkstudier på flere nivåer. Her er også stipendordninger sentrale virkemidler.</p>
+<p>Mange barnehager er lokalisert til steder hvor flere kulturer er representert, samtidig som samer i</p>
+<p>dag også flytter i større grad enn tidligere. Studier i flerkulturell pedagogikk er derfor en måte å</p>
+<p>tilegne seg kunnskap om hvordan omgås andre kulturer.</p>
+<p>Mange samiske barn er en del av en tospråklig familie. Barnehager må derfor ha kompetanse i</p>
+<p>tospråklig pedagogikk.</p>
+<p>For å ivareta samisk kultur og tradisjon, er det videre behov for etter- og videreutdanning i</p>
+<p>kulturrelaterte emner som skal formidles i barnehagen. Her kan nevnes kunnskap om næringer,</p>
+<p>duodji, joik, fortellerkunst, mat, samisk historie m.m.</p>
+<p>Flere barnehager bør få tilbud om innføringskurs i samisk historie, kultur og samfunnsliv.</p>
+<p>Kompetanseheving er først og fremst arbeidsgivers oppgave. Sametinget kan ikke påta seg å stå</p>
+<p>for kompetanseheving for ulike yrkesgrupper. Det vil likevel være naturlig at konferanser,</p>
+<p>seminarer og nettverksmøter i Sametingets regi brukes til kompetanseheving for</p>
+<p xml:lang="swe">barnehageansatte.</p>
+<p xml:lang="deu"><em type="bold">8. LÆREMIDLER </em></p>
+<p>Sametinget tildeler årlig midler til utarbeidelse av læremidler til barnehageområdet. Læremidler</p>
+<p>som Sametinget bevilger midler til skal så langt som mulig gis ut på nord-, lule- og sørsamisk</p>
+<p>For 2005 er det avsatt kr. 800.000 til læremidler til barnehageområdet. I årene 2003 og 2004 var</p>
+<p>det avsatt kr. 600.000 pr. år, og fra årene 2000 til og med 2002 var det avsatt kr. 200.000 pr. år til</p>
+<p>læremidler for barnehageområdet. Med disse beløpene til disposisjon sier det seg selv at</p>
+<p>Sametinget ikke har tilstrekkelig med midler til utarbeidelse av læremidler for barnehageområdet.</p>
+<p>Hvis en ønsker å bevare og utvikle samisk språk og kultur i alle de samiske områdene må det en</p>
+<p>raskere og økt utvikling av læremidler, spesielt til språkopplæringen. Sametinget tildeler midler til</p>
+<p>utvikling av læremidler til forlag og andre produsenter som ferdigstiller produkter, og gir støtte,</p>
+<p>motiverer og veileder produsenter, forfattere, musikere og andre.</p>
+<p>Læremiddelsituasjonene er dårlig for den samiske barnehagesektoren. Dette medfører at</p>
+<p>barnehageansatte bruker ressurser på å utvikle materiell, noe som kan gå ut over andre aktiviteter.</p>
+<p>Barnehagene har behov for ulike læremidler. Det finnes i dag en del læremidler, men det er</p>
+<p>fortsatt et stort behov for ulikt materiell. Det finnes blant annet en del bøker, plakater, kassetter</p>
+<p>og filmer, men det er fortsatt stor mangel på blant annet faktabøker, lydbøker, fagbøker, dataspill</p>
+<p>og andre spill. Det finnes få eller ingen fagbøker på samisk eller om samiske tema for de ansatte.</p>
+<p xml:lang="sme"><em type="bold">9.  SAMETINGETS ARBEIDS- OG SATSINGSOMRÅDER </em></p>
+<p>I <span type="quote">”Strategisk plan for samiske barnehager 2002-2005”</span> heter det at Sametinget i denne perioden vil</p>
+<p>satse mer på informasjon til barnehager og kommuner med samiske barnehager og kommuner</p>
+<p>som har samiske barn i norske barnehager.</p>
+<p>Fra 2001 til 2004 har barnehager med samiske barn økt fra 46 til 65. Denne økningen gir</p>
+<p>Sametinget en større arbeidsmengde, og et større ansvar for oppfølging av samiske barn slik at de</p>
+<p>tilbud som gis kvalitetssikres.</p>
+<p><em type="bold">9.1  Nettverksbygging </em></p>
+<p>Sametinget har igangsatt ulike nettverk. Styrere i barnehagene innenfor forvaltningsområdet for</p>
+<p>samisk språk har dannet et nettverk, likeså styrerne utenfor forvaltningsområdet.</p>
+<p>Språkmedarbeidere har eget nettverk, og nytt fra i år er et eget nettverk for menn i barnehagen.</p>
+<p>Målet med disse nettverkene er erfaringsutveksling og kompetanseheving. Nettverkene blir en</p>
+<p>viktig møteplass hvor faglige spørsmål blir diskutert. Nettverkene er en del av barnehagenes</p>
+<p>kompetanseheving.</p>
+<p><em type="bold">9.2  Barnehagekonferanser </em></p>
+<p>Sametinget arrangerer i samarbeid med fylkesmennene i Finnmark og Troms årlige</p>
+<p>barnehagekonferanser. Tema under konferansene har blant annet vært språk, tospråklighet,</p>
+<p>barneoppdragelse, likestilling, lek, duodji og joik/musikk. Det har vært stor interesse for disse</p>
+<p>konferansene. Det er årlig deltakelse av over 100 barnehageansatte fra hele landet, og det har også</p>
+<p>vært deltakere fra finsk og svensk side. Barnehagekonferansene er en del av Sametingets</p>
+<p>kompetansehevingstiltak.</p>
+<p>I 2004 arrangerte Sametinget i samarbeid med Samisk høgskole og Sametinget i Finland den</p>
+<p>første nordiske oppvekstkonferansen. Her var det deltakere fra Norge, Sverige, Finland og</p>
+<p>Russland. Vi fikk informasjon om de fire landenes barnehagesektorer og om hvilke utfordringer</p>
+<p>de har i sin hverdag. Målet med konferansen var å skape en møteplass for ulike aktører innen</p>
+<p>barns oppvekstmiljø i Sápmi. Under konferansen var det blant annet erfaringsutveksling og ulike</p>
+<p xml:lang="dan">forelesninger om barneoppdragelse.</p>
+<p xml:lang="dan"><em type="bold">9.3 Barnehagetidsskrift </em></p>
+<p>Sametinget utgir Barnehagetidsskriftet <span type="quote" xml:lang="sme">”Stullán”</span>. I hvert nummer er det en hovedartikkel med</p>
+<p>ulike tema i tillegg til informasjon fra Sametinget og informasjon om ulike prosjekter i</p>
+<p>barnehagene og andre aktuelle saker. Tidsskriftet utkommer to ganger i året.</p>
+<p xml:lang="sme"><em type="bold">9.4  Sámi oahpponeahtta/Samisk læringsnett – www.oahpponeahtta.no </em></p>
+<p>Samisk læringsnett er et nettsted for opplæring, og er en informasjonskilde og en ressurs for</p>
+<p>barnehager, skoler og foreldre. På nettstedet finnes aktuell informasjon fra Sametinget,</p>
+<p>læringsressurser og snarveier til andre aktuelle nettsteder.</p>
+<p>Samisk læringsnett er et samarbeid mellom Sametinget og Utdanningsdirektoratet.</p>
+<p xml:lang="dan"><em type="bold">9.5  Veiledning </em></p>
+<p>Sametinget får ulike spørsmål og problemstillinger fra barnehager, foreldre, barnehageeiere,</p>
+<p>studenter og andre. Så langt det er mulig, gir vi veiledning og råd i spørsmål som dukker opp.</p>
+<p>Spørsmålene dreier seg blant annet om tilskudd, språkopplæring, læremidler og spørsmål om</p>
+<p>veiledning til barnehagepersonale.</p>
+<p>Sametinget har merket seg et stort behov for veiledning fra barnehagene, men har dessverre ikke</p>
+<p>hatt kapasitet til å utføre dette i tråd med forventningene.</p>
+<p xml:lang="nno"><em type="bold">9.6   Samarbeid </em></p>
+<p>Sametinget har mange samarbeidspartnere slik som Barne- og familiedepartementet, aktuelle</p>
+<p>fylkesmannembeter, kommuner og barnehageeiere og selvsagt barnehager, foreldre, og andre</p>
+<p xml:lang="dan">enkeltpersoner.</p>
+<p>I strategisk plan for samiske barnehager er det nevnt at Sametinget også samarbeider med Samisk</p>
+<p>høgskole om kompetanseheving. Vi har samarbeidet med høgskolen i enkeltsaker så som nordisk</p>
+<p>oppvekstkonferanse, rekruttering og stipend til førskolelærere. Samarbeidet kan forbedres, og</p>
+<p>Sametinget ønsker å prioritere et slikt samarbeid i fremtiden.</p>
+<p>Sametinget samarbeider også med samisk spesialpedagogisk støtte (SEAD).</p>
+<p><em type="bold">10.  UTFORDRINGER </em>En utfordring er at storsamfunnet ikke inkluderer nok det samiske som en del av fellesskapet. </p>
+<p>Det samiske samfunnet blir ofte sett på som noe som bare berører oss samer. Det er noe som de</p>
+<p>norske ikke behøver å interessere seg for, og kunne noe om. Dette bidrar lett til å skape liten</p>
+<p>forståelse for hverandres kultur. Noe annet er at den samiske og norske kulturen har mange</p>
+<p>likheter. Dette skaper til tider et syn der man overser ulikhetene og dermed de ulike behovene</p>
+<p>Ettersom de norske er i majoritet, defineres behov utifra deres ståsted, for både seg selv og for</p>
+<p>oss samer. Dette kan igjen skape misnøye og at samer ikke respektere det norske flertallets</p>
+<p>avgjørelser da det ikke er bygget på det samiske samfunnets behov. Ettersom det samiske</p>
+<p>samfunnet er så mangfoldig, er det en stor utfordring å kunne møte den enkelte familie og deres</p>
+<p>barn på det nivå de behøver. Samtidig skal man ta utgangspunkt i grunnelementene i den samiske</p>
+<p>kulturen både lokalt og helhetlig. Dette skal ikke oppleves som verken fremmedgjøring og skal</p>
+<p>ikke være en usynliggjøring av en kultur, men skal medføre at det enkelte barn vokser opp som</p>
+<p>noe genuint, med sin identitet – en samisk identitet.</p>
+<p>Derfor ligger utfordringene først og fremst hos oss voksne som jobber med barn – der vi må</p>
+<p>bestrebe oss på en kulturrelativ holdning ved å akseptere de systematiske forskjeller som finnes i</p>
+<p>det som barn og voksne erverver seg gjennom sosialisering og ved å være medlemmer i et</p>
+<p>samfunn. På den måten kan man oppleve en aksept av sin samiske identitet og utvikle den til å bli</p>
+<p>enda sterkere ettersom identiteten ikke er noe vi har eller får i vuggegave, men utvikler så lenge vi</p>
+<p>lever.</p>
+<p>Barn er av natur mer åpne for forskjeller. Derfor er barnehagen og dens innhold av stor</p>
+<p>betydning for å bygge bro mellom kulturer samtidig som man ivaretar det genuine i kulturene. På</p>
+<p>den måten kan man øke innsikten til den oppvoksende slekt for å mestre en verden i endring.</p>
+<p>Det samiske språket er lettere å tilegne seg i dag enn det var for de som er i femtiårene eller eldre.</p>
+<p>Årsaken til dette er at hvert enkelt individ har en individuell rett til å lære sitt språk fra de er i</p>
+<p>skolepliktig alder. Utfordringene ligger i å tilrettelegge mulighetene for læring gjennom</p>
+<p>kompetanse og bedret økonomi i barnehage og for foreldre/nærmiljø, slik at barn uansett alder</p>
+<p>får et språkmiljø godt nok til å utvikle et funksjonelt samisk språk.</p>
+<p><em type="bold">11.  TILTAK 11.1 Sametingets politikk </em></p>
+<p>Sametinget mener at barnehager for samiske barn har stor betydning for samisk språkutvikling og</p>
+<p>for samiske barns oppvekst generelt.</p>
+<p>Barnehagen skal styrke og utvikle samiske barns språk og kultur, og bidra til revitalisering og</p>
+<p>vitalisering av samisk språk. Barnehagen skal bidra til at samiske barn kan utvikle sin samiske</p>
+<p>identitet og få trygghet og glede i forhold til sin egen kultur og sitt eget språk.</p>
+<p xml:lang="dan"><em type="bold">11.2 Tilskuddsordninger </em></p>
+<p>Sametinget administrerer i dag ulike tilskuddsordninger.</p>
+<p>Sametinget tildeler midler til særskilt tilskudd til samiske barnehager, tilskudd til samiskopplæring</p>
+<p>for enkeltbarn i barnehage, midler til prosjekter og utviklingsarbeid i barnehagen, og midler til</p>
+<p>læremiddelutvikling.</p>
+<p>Sametinget vedtok 26. november 2004 nye retningslinjer for tilskudd til barnehager. Kriterier for</p>
+<p>å få tilskudd er at barnehagen har vedtektsfestet at dens virksomhet bygger på samisk språk og</p>
+<p>kultur. Det skilles ikke mellom samiske barn og norske barn. Den enkelte barnehage må selv</p>
+<p>definere om de søker for alle barn i barnehagen under kategorien samiske barn, eller om man</p>
+<p>søker særskilt for samiske barn. De fleste barnehager søker for hele barnegruppen, uavhengig av</p>
+<p>etnisitet. De barnehager som bare har en eller to samiskspråklige avdelinger søker som</p>
+<p>hovedregel for de samiske avdelingene. Det bør vurderes om Sametinget skal revidere</p>
+<p>retningslinjeene hvor man vurderer gradering av tilskuddet utifra ulike forhold. Dagens</p>
+<p>retningslinjer stiller ikke krav om at barnet eller barnets foreldre skal være samisktalende for at</p>
+<p>barnehagen skal oppnå tilskudd. Dette er også et moment som bør vurderes i fremtiden, uten at man på det nåværende tidspunkt vil anbefale at dette realiseres. Forutsatt at barnehagen oppfyller</p>
+<p>kriterier for tilskudd, gir dagens ordning likt kronebeløp til alle samiske barnehager uavhengig av</p>
+<p>hvor de er lokalisert.</p>
+<p>Sametinget bør i neste valgperiode evaluere tilskuddsordningen i sin helhet.</p>
+<p xml:lang="dan"><em type="bold">11.3 Forskning </em></p>
+<p>I Sametingsplanen 2002-2005 heter det at Sametinget flere ganger har påpekt behovet for</p>
+<p>igangsetting av større forskningsprogram for oppbygging og utvikling av samisk høgere</p>
+<p>utdanning og forskning.</p>
+<p>Det må avsettes midler til forskning innen barnehageområdet og til forskning av samiske barns</p>
+<p>oppvekstvilkår da det nesten ikke eksisterer forskning på dette området. For å kunne</p>
+<p>dokumentere tiltak, behov og utfordringer er det høyst nødvendig at forskning på det samisk</p>
+<p>barnehageområdet blir igangsatt. Både Stortingsmelding nr.55 (2000-2001) <em type="italic">Om samepolitikk,</em>  </p>
+<p>Stortingsmelding 34 (2001-2002) <em type="italic">Kvalitetsreformen Om høyere samisk utdanning og forskning</em>  og </p>
+<p>Stortingsmelding 20 (2004-2005) <em type="italic">Vilje til forskning</em> legger opp til at samisk forskning skal </p>
+<p xml:lang="dan">prioriteres.</p>
+<p>Sametinget har oppfordret departementet til å opprette forskningsstipender og stipendiatstilling</p>
+<p>for forskning på samiske barn, barnehager og oppvekstvilkår.</p>
+<p><em type="bold">11.4 Informasjon og veiledning </em></p>
+<p>Sametinget vil fortsatt bruke store ressurser på informasjon, veiledning og holdningsskapende</p>
+<p>arbeid. Hvis man skal nå fram til alle deler av samfunnet, er det påkrevd at flere offentlige</p>
+<p>instanser, institusjoner og organisasjoner også bruker ressurser på dette området. Lokalt er det</p>
+<p>viktig at kommuner og barnehageeiere er villige til å gi tilbud til samiske barn basert på barnas</p>
+<p>språk, kultur og identitet.</p>
+<p><em type="bold">11.5 Stipend </em></p>
+<p>Det er nødvendig å følge opp tiltak for å rekruttere samisktalende ansatte til samiske barnehager.</p>
+<p>Som rekruttingstiltak må det opprettes stipend til både studenter som tar førskolelærerutdanning</p>
+<p>og også studiehjemler til ansatte i barnehager som tar etter- eller videreutdanning i samisk språk.</p>
+<p>Sametinget har i 2005 avsatt midler til stipend til høgere utdanning. Dette alene er ikke nok for å</p>
+<p>komme på et akseptabelt nivå når det gjelder rekruttering av samisktalende personell til</p>
+<p>barnehager. Regjeringen sier i St.meld. nr 55 (2000-2001) Om Samepolitikk <em type="italic">at ”Barne- og </em></p>
+<p><em type="italic">familiedepartementet vil, i samarbeid med Sametinget utrede spørsmål om stipend for studenter som tar samisk førskolelærerutdanning”</em>, og videre at regjeringen vil utrede behovet for etter –  og  </p>
+<p>videreutdanningstiltak på barnehagesektoren. Stortingsmelding 34 (2001-2002) <em type="italic">Kvalitetsreformen </em></p>
+<p><em type="italic">Om høyere samisk utdanning og forskning</em> skisserer bl.a. følgende tiltak: ”<em type="italic">Barne- og familiedepartementet vil i </em></p>
+<p><em type="italic">samarbeid med Sametinget utrede spørsmålet om en særskilt  stipendordning for studenter som tar </em></p>
+<p><em type="italic">førskolelærerutdanning ved Samisk høgskole”.</em>  </p>
+<p><em type="bold">11.6 Prioriterte tiltak </em></p>
+<p>Sametinget vil prioritere:</p>
+<p>· stipend</p>
+<p>· rekruttering – spesielt til utvalgte områder</p>
+<p>· læremidler til bruk i språkopplæringen</p>
+<p>· veiledning</p>
+<p>· prosjektstøtte til utelekemiljøet, jfr. pkt. 5.2.3</p>
+<p>· videreføre konferanser og nettverk</p>
+<p>· informasjon</p>
+<p>· holdningsskapende arbeid</p>
+<p xml:lang="dan">· evaluere tilskuddsordningen</p>
+<p><em type="bold">12.  ØKONOMISKE OG ADMINISTRATIVE KONSEKVENSER </em>For å gjennomføre prioriterte tiltak, har Sametinget behov for et godt og nært samarbeid med </p>
+<p>barnehagene, samiske foreldre, aktuelle departementer, aktuelle fylkesmenn, kommuner,</p>
+<p>barnehageeiere, samiske institusjoner og den samiske befolkningen forøvrig.</p>
+<p>Det er behov for økt satsing fra sentrale myndigheter for å bedre samiske barns oppvekstvilkår</p>
+<p>og økte midler til Sametinget gjennom årlige bevilgninger over statsbudsjettet.</p>
+<p xml:lang="nno"><em type="bold">LITTERATURLISTE </em>Barne- og familiedepartementet (1997): Rammeplan for barnehagen   </p>
+<p>Barne- og familiedepartementet: Lov om barnehager</p>
+<p>Barne- og familiedepartementet og Sametinget (2003): Samisk oppvekst. Om tilbud til samiske</p>
+<p>barn og ungdom.</p>
+<p>Dunfjeld,G. (2004):Pedagogisk Psykologisk Tjeneste i en flerkulturell kontekst I: Tronvoll, I. M.,</p>
+<p>Moe, A. og Henriksen, J. E. (red): Hjelp i kontekst. Praksis, refleksjon og forskning. Idut</p>
+<p xml:lang="nno">Kommunal- og regionaldepartementet: St.meld.nr.35 (2000-2001) Om samepolitikk.</p>
+<p xml:lang="nno">Kommunal – og regionaldepartementet: St.meld. nr. 33 (2001-2002) Om samepolitikk –</p>
+<p xml:lang="dan">tilleggsmelding</p>
+<p>Lov om Sametinget og andre samiske rettsforhold (sameloven)</p>
+<p>Sametinget (2001): Strategisk plan for samiske barnehager 2002-2005. Barnelærdommen er evig</p>
+<p xml:lang="nno">kunnskap</p>
+<p>Sametinget (2002): Sametingsplanen 2002-2005</p>
+<p>Sametingsrådet melding om samisk språk (2004): Samisk er tøft!</p>
+<p>Utdannings- og forskningsdepartementet: St.meld.nr. 34 (2001-2002) Kvalitetsreformen Om</p>
+<p>høyere samisk utdanning og forskning</p>
+<p>Utdannings- og forskningsdepartementet: St.meld.nr.30 (2003-2004). Kultur for læring.</p>
+<p>Øzerk, K.Z og Juuso, R (1999): Pedagogisk idebok for tospråklige barnehager. Samisk</p>
+<p>utdanningsråd</p>
+</body></document>

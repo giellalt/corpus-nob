@@ -1,71 +1,47 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>601</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/globalassets/upload/vurdering/kjennetegn/kjennetegn_samisk2_niva6_norsk.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk2_niva6_sorsamisk.txt"/>
-    <parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk2_niva6_nordsamisk.txt"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk som andrespråk: veiledende nasjonale kjennetegn på måloppnåelse for standpunktvurdering etter nivå 6</p>
-    <p>Kjennetegn på måloppnåelse beskriver kvaliteten på kompetanse i faget. Kjennetegnene er utformet på tvers av hovedområdene i faget og med utgangspunkt i kompetansemålene i læreplanen. De må derfor brukes sammen med læreplanen.</p>
-    <p>Kjennetegn på måloppnåelse er ment å være til hjelp ved standpunktvurderingen av elevens samlede kompetanse i faget. Standpunktkarakteren skal uttrykke den kompetansen eleven har i faget ved avslutningen av opplæringen. Kjennetegnene er utformet slik at de skal gi muligheter for konkretisering og tilpasning. Du kan lese mer om vurdering på nettsidene til Utdanningsdirektoratet: www.udir.no/Vurdering/Standpunktvurdering-i-fag/</p>
-    <p>Kjennetegnene er inndelt i to: samisk som andrespråk muntlig og samisk som andrespråk skriftlig. Hovedområdet språk, kultur og litteratur er integrert i de to delene.</p>
-    <p>Kjennetegnene er utformet på tre nivåer. Tabellen må leses horisontalt for å lese progresjonen mellom de ulike nivåene og vertikalt for å finne elevens samlede kompetanse.</p>
-    <p>SAMISK SOM ANDRESPRÅK - NIVÅ 6 - MUNTLIG</p>
-    <p>Karakteren 2</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- bruker et ordforråd som i noen grad dekker behovet for å uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
-    <p>- samhandler i noen grad for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
-    <p>- lytter og gjengir konkret innhold, gir eksempler på enkelte sider av tekster og uttrykker egne meninger på en enkel måte</p>
-    <p>- presenterer noe fagstoff på en forståelig måte og kan bruke enkelte presentasjonsverktøy</p>
-    <p>Karakteren 3 og 4</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- bruker et ordforråd som stort sett dekker et behov for å uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
-    <p>- samhandler nokså godt for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
-    <p>- lytter og forstår deler av innholdet av lengre tekster og uttrykker egne meninger om enkelte sider ved tekster</p>
-    <p>- presenterer faglige emner på en nokså god måte og kan bruke digitale verktøy og medier til en viss grad tilpasset formålet</p>
-    <p>Karakteren 5 og 6</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- bruker et ordforråd som kan uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
-    <p>- samhandler godt for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
-    <p>- lytter og forstår hovedinnholdet av lengre tekster og reflekterer over ulike sider ved tekster</p>
-    <p>- presenterer ulike faglige emner formålstjenlig og bruker digitale verktøy og medier formålstjenlig</p>
-    <p>SAMISK SOM ANDRESPRÅK – NIVÅ 6 - SKRIFTLIG</p>
-    <p>Karakteren 2</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- leser og gjengir noe av hovedinnholdet eller enkeltdeler i tekst</p>
-    <p>- leser og reflekterer over enkelte sider ved utvalgte sjangre</p>
-    <p>- skriver tekster med enkelt ordforråd og setningsbygning, og mestrer til en viss grad grunnleggende grammatikk</p>
-    <p>- skriver ulike typer tekster med enkelte kjente virkemidler, og tilpasser tekstene til en viss grad til formålet med tekstene</p>
-    <p>- bruker enkelte kilder i arbeid med egne tekster og oppgir kildene</p>
-    <p>Karakteren 3 og 4</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- leser og refererer hovedinnholdet i tekst</p>
-    <p>- leser og reflekterer over innhold og form i enkelte sjangre</p>
-    <p>- skriver tekster med dekkende ordvalg og enkel setningsbygning, og mestrer stort sett grunnleggende grammatikk</p>
-    <p>- skriver ulike typer tekster med noen virkemidler, og tilpasser tekstene til formålet med tekstene</p>
-    <p>- bruker stort sett relevante kilder i arbeid med egne tekster og oppgir kildene</p>
-    <p>Karakteren 5 og 6</p>
-    <p xml:lang="eng">Eleven ...</p>
-    <p>- leser, refererer og oppsummerer hovedinnhold i tekst</p>
-    <p>- leser og reflekterer over innhold og form i ulike sjangre</p>
-    <p>- skriver tekster med variert ordvalg og variert setningsbygning, og mestrer grunnleggende grammatikk</p>
-    <p>- skriver ulike typer tekster med forskjellige virkemidler tilpasset til formålet med tekstene</p>
-    <p>- bruker relevante kilder i arbeid med egne tekster bevisst og oppgir kildene på en etterprøvbar måte slik at leseren kan finne fram til dem</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>601</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/globalassets/upload/vurdering/kjennetegn/kjennetegn_samisk2_niva6_norsk.pdf</origFileName><parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk2_niva6_sorsamisk.txt"/><parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk2_niva6_nordsamisk.txt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk som andrespråk: veiledende nasjonale kjennetegn på måloppnåelse for standpunktvurdering etter nivå 6</p>
+<p>Kjennetegn på måloppnåelse beskriver kvaliteten på kompetanse i faget. Kjennetegnene er utformet på tvers av hovedområdene i faget og med utgangspunkt i kompetansemålene i læreplanen. De må derfor brukes sammen med læreplanen.</p>
+<p>Kjennetegn på måloppnåelse er ment å være til hjelp ved standpunktvurderingen av elevens samlede kompetanse i faget. Standpunktkarakteren skal uttrykke den kompetansen eleven har i faget ved avslutningen av opplæringen. Kjennetegnene er utformet slik at de skal gi muligheter for konkretisering og tilpasning. Du kan lese mer om vurdering på nettsidene til Utdanningsdirektoratet: www.udir.no/Vurdering/Standpunktvurdering-i-fag/</p>
+<p>Kjennetegnene er inndelt i to: samisk som andrespråk muntlig og samisk som andrespråk skriftlig. Hovedområdet språk, kultur og litteratur er integrert i de to delene.</p>
+<p>Kjennetegnene er utformet på tre nivåer. Tabellen må leses horisontalt for å lese progresjonen mellom de ulike nivåene og vertikalt for å finne elevens samlede kompetanse.</p>
+<p>SAMISK SOM ANDRESPRÅK - NIVÅ 6 - MUNTLIG</p>
+<p>Karakteren 2</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- bruker et ordforråd som i noen grad dekker behovet for å uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
+<p>- samhandler i noen grad for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
+<p>- lytter og gjengir konkret innhold, gir eksempler på enkelte sider av tekster og uttrykker egne meninger på en enkel måte</p>
+<p>- presenterer noe fagstoff på en forståelig måte og kan bruke enkelte presentasjonsverktøy</p>
+<p>Karakteren 3 og 4</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- bruker et ordforråd som stort sett dekker et behov for å uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
+<p>- samhandler nokså godt for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
+<p>- lytter og forstår deler av innholdet av lengre tekster og uttrykker egne meninger om enkelte sider ved tekster</p>
+<p>- presenterer faglige emner på en nokså god måte og kan bruke digitale verktøy og medier til en viss grad tilpasset formålet</p>
+<p>Karakteren 5 og 6</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- bruker et ordforråd som kan uttrykke opplevelser, følelser, erfaringer, kunnskap og egne meninger</p>
+<p>- samhandler godt for å forstå og gjøre seg forstått i samtaler og presentasjoner</p>
+<p>- lytter og forstår hovedinnholdet av lengre tekster og reflekterer over ulike sider ved tekster</p>
+<p>- presenterer ulike faglige emner formålstjenlig og bruker digitale verktøy og medier formålstjenlig</p>
+<p>SAMISK SOM ANDRESPRÅK – NIVÅ 6 - SKRIFTLIG</p>
+<p>Karakteren 2</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- leser og gjengir noe av hovedinnholdet eller enkeltdeler i tekst</p>
+<p>- leser og reflekterer over enkelte sider ved utvalgte sjangre</p>
+<p>- skriver tekster med enkelt ordforråd og setningsbygning, og mestrer til en viss grad grunnleggende grammatikk</p>
+<p>- skriver ulike typer tekster med enkelte kjente virkemidler, og tilpasser tekstene til en viss grad til formålet med tekstene</p>
+<p>- bruker enkelte kilder i arbeid med egne tekster og oppgir kildene</p>
+<p>Karakteren 3 og 4</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- leser og refererer hovedinnholdet i tekst</p>
+<p>- leser og reflekterer over innhold og form i enkelte sjangre</p>
+<p>- skriver tekster med dekkende ordvalg og enkel setningsbygning, og mestrer stort sett grunnleggende grammatikk</p>
+<p>- skriver ulike typer tekster med noen virkemidler, og tilpasser tekstene til formålet med tekstene</p>
+<p>- bruker stort sett relevante kilder i arbeid med egne tekster og oppgir kildene</p>
+<p>Karakteren 5 og 6</p>
+<p xml:lang="eng">Eleven ...</p>
+<p>- leser, refererer og oppsummerer hovedinnhold i tekst</p>
+<p>- leser og reflekterer over innhold og form i ulike sjangre</p>
+<p>- skriver tekster med variert ordvalg og variert setningsbygning, og mestrer grunnleggende grammatikk</p>
+<p>- skriver ulike typer tekster med forskjellige virkemidler tilpasset til formålet med tekstene</p>
+<p>- bruker relevante kilder i arbeid med egne tekster bevisst og oppgir kildene på en etterprøvbar måte slik at leseren kan finne fram til dem</p>
+</body></document>

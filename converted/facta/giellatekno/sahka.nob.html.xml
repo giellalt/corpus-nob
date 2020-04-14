@@ -1,48 +1,14 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Sahka</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>161</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/sahka.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="sahka.eng.html"/>
-    <parallel_text xml:lang="fin" location="sahka.fin.html"/>
-    <parallel_text xml:lang="sme" location="sahka.html"/>
-    <parallel_text xml:lang="swe" location="sahka.swe.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="sme">Sahka</p>
-    <list>
-      <p type="listitem">Dialogene er:</p>
-    </list>
-    <p xml:lang="nno">Sahka er interaktive dialoger. Du kan chatte med datamaskinen. Målet er å øve verbbøying, kasusbruk, og utvide ordforrådet. Du kan svare på spørsmålene på mange måtar, men i og med at målet er å øve på ordbøying, skal du alltid svare med full setning og vanligvis med same verb som du blir spurt om, f.eks.</p>
-    <p xml:lang="sme">
-      <em type="italic">- Jugat go gáfe? - Gal mun jugan. / In juga. </em>
-    </p>
-    <p xml:lang="nno">Ofte er det åpne spørsmål. Til disse kan det være knytta ei ordliste (f.eks. liste over matvarer). Til andre spørsmål kan du svare kva som helst, bare det er i riktig kasus, f.eks.:</p>
-    <p xml:lang="sme">
-      <em type="italic">- Masa don liikot buoremusat? - Liikon lákcagáhkkui/njálgáide/... </em>
-    </p>
-    <p>Programmet gjør oppmerksom på en del språklige feil, men ikke på alle.</p>
-    <p type="title">Dialogene er:</p>
-    <list>
-      <p type="listitem">Oahpásmuvvan Kárii (Vanlige spørsmål om personlige forhold).</p>
-      <p type="listitem" xml:lang="nno">Guossis (Her får man øve seg i totall (<span type="quote" xml:lang="sme">"moai"</span>) og i lokativ og illativ. På slutten også akkusativ.)</p>
-      <p type="listitem" xml:lang="nno">Borramušgávppis (Øving på akkusativ.)</p>
-      <p type="listitem" xml:lang="nno">Veardideapmi rámbuvrris (Komparering av adjektiv.)</p>
-    </list>
-    <p>Link til Sahka</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Sahka</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>161</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/sahka.nob.html</origFileName><parallel_text xml:lang="eng" location="sahka.eng.html"/><parallel_text xml:lang="fin" location="sahka.fin.html"/><parallel_text xml:lang="sme" location="sahka.html"/><parallel_text xml:lang="swe" location="sahka.swe.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="sme">Sahka</p>
+<list><p type="listitem">Dialogene er:</p>
+</list><p xml:lang="nno">Sahka er interaktive dialoger. Du kan chatte med datamaskinen. Målet er å øve verbbøying, kasusbruk, og utvide ordforrådet. Du kan svare på spørsmålene på mange måtar, men i og med at målet er å øve på ordbøying, skal du alltid svare med full setning og vanligvis med same verb som du blir spurt om, f.eks.</p>
+<p xml:lang="sme"><em type="italic">- Jugat go gáfe? - Gal mun jugan. / In juga. </em></p>
+<p xml:lang="nno">Ofte er det åpne spørsmål. Til disse kan det være knytta ei ordliste (f.eks. liste over matvarer). Til andre spørsmål kan du svare kva som helst, bare det er i riktig kasus, f.eks.:</p>
+<p xml:lang="sme"><em type="italic">- Masa don liikot buoremusat? - Liikon lákcagáhkkui/njálgáide/... </em></p>
+<p>Programmet gjør oppmerksom på en del språklige feil, men ikke på alle.</p>
+<p type="title">Dialogene er:</p>
+<list><p type="listitem">Oahpásmuvvan Kárii (Vanlige spørsmål om personlige forhold).</p>
+<p type="listitem" xml:lang="nno">Guossis (Her får man øve seg i totall (<span type="quote" xml:lang="sme">"moai"</span>) og i lokativ og illativ. På slutten også akkusativ.)</p>
+<p type="listitem" xml:lang="nno">Borramušgávppis (Øving på akkusativ.)</p>
+<p type="listitem" xml:lang="nno">Veardideapmi rámbuvrris (Komparering av adjektiv.)</p>
+</list><p>Link til Sahka</p>
+</body></document>

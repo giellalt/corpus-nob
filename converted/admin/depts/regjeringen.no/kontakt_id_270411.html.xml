@@ -1,59 +1,27 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Oktavuohta - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>389</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/fin/dep/kontakt.html?id=270411</origFileName>
-    <parallel_text xml:lang="eng" location="contact_id_270411.html"/>
-    <parallel_text xml:lang="nno" location="kontakt_id_270411.html"/>
-    <parallel_text xml:lang="sme" location="oktavuohta_id_270411.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kontakt - regjeringen.no</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Vis ansatte i</p>
-    <p>Vis ansatte i</p>
-    <p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
-    <p type="title">Kontakt Finansdepartementet</p>
-    <p><em type="italic">Postadresse: </em>Akersgt. 40 Postboks 8008 Dep. 0030 Oslo </p>
-    <p>
-      <em type="bold">E-post: </em>
-    </p>
-    <p>E-post til Finansdepartementet</p>
-    <p type="title">E-post til ansatte:</p>
-    <p>Regelen for e-postadressene er slik:</p>
-    <p>Bokstavene æ – ø – å blir omskrevet slik: æ = a ø = o å = a</p>
-    <p type="title">E-post til Finansdepartementet</p>
-    <p>Finansdepartementet er etter arkivloven ( lov av 4. desember 1992 nr. 126 ), med tilhørende forskrift av 11. desember 1998 nr. 1193 , forpliktet til å føre offentlig journal. I journalen skal alle inn- og utgående dokumenter føres opp, dersom dokumentet er gjenstand for saksbehandling og har verdi som dokumentasjon. Følgende opplysninger går som hovedregel fram av offentlig journal: Avsenders navn, mottakers navn, dokumentets dato og en kort beskrivelse av dokumentets innhold. Journalen blir imidlertid alltid ført på en slik måte at den ikke røper taushetsbelagte opplysninger.</p>
-    <p>Vil du ha et skriftlig svar, må du oppgi navn og ordinær postadresse.</p>
-    <p>E-post som etter form og innhold må regnes som et saksdokument, journalføres som dokumenter for øvrig. Massegenerert e-post vil etter en nærmere vurdering kunne bli gjenstad for elektronisk filtrering og dermed ikke bli journalført og saksbehandlet.</p>
-    <p>Departementet er forpliktet til å behandle alle dokumenter, inkludert e-post, i samsvar med bestemmelsene i <em type="italic">offentleglova </em>( lov av 19. mai 2006 nr. 16 ). Det betyr blant annet at departementets journal og alle departementets saksdokumenter, inkludert all korrespondanse til og fra departementet, som hovedregel er offentlige. Den som ønsker det, kan be om innsyn i departementets journal og saksdokumenter etter offentleglova. Send derfor ikke brev eller e-poster til departementet med informasjon som du ikke ønsker skal bli allment kjent. </p>
-    <p>Dersom dokumentet inneholder taushetsbelagte opplysninger, vil disse bli strøket før det gis innsyn i dokumentet. Opplysninger om noens helsetilstand, og opplysninger om at noen er eller har vært pasient, er alltid taushetsbelagte.</p>
-    <p type="title">Innsynsforespørsler</p>
-    <p>Vi gjør oppmerksom på at innsynsforespørsler fremmes via e-post til</p>
-    <p type="title">Telefon:</p>
-    <p>Finansdepartementet kan kontaktes via departementenes felles sentralbordtjeneste på telefon nr. 22 24 90 90.</p>
-    <p>Se også pressekontakter i Finansdepartementet</p>
-    <p><em type="italic">Spørsmål om din egen likning, folkeregistrering eller moms </em>må du rette til skattekontoret . </p>
-    <p>Hvis du lurer på hvor du skal henvende deg, se skatteetatens serviceerklæring her .</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Oktavuohta - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Finansdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>389</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/fin/dep/kontakt.html?id=270411</origFileName><parallel_text xml:lang="eng" location="contact_id_270411.html"/><parallel_text xml:lang="nno" location="kontakt_id_270411.html"/><parallel_text xml:lang="sme" location="oktavuohta_id_270411.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kontakt - regjeringen.no</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Vis ansatte i</p>
+<p>Vis ansatte i</p>
+<p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
+<p type="title">Kontakt Finansdepartementet</p>
+<p><em type="italic">Postadresse: </em>Akersgt. 40 Postboks 8008 Dep. 0030 Oslo </p>
+<p><em type="bold">E-post: </em></p>
+<p>E-post til Finansdepartementet</p>
+<p type="title">E-post til ansatte:</p>
+<p>Regelen for e-postadressene er slik:</p>
+<p>Bokstavene æ – ø – å blir omskrevet slik: æ = a ø = o å = a</p>
+<p type="title">E-post til Finansdepartementet</p>
+<p>Finansdepartementet er etter arkivloven ( lov av 4. desember 1992 nr. 126 ), med tilhørende forskrift av 11. desember 1998 nr. 1193 , forpliktet til å føre offentlig journal. I journalen skal alle inn- og utgående dokumenter føres opp, dersom dokumentet er gjenstand for saksbehandling og har verdi som dokumentasjon. Følgende opplysninger går som hovedregel fram av offentlig journal: Avsenders navn, mottakers navn, dokumentets dato og en kort beskrivelse av dokumentets innhold. Journalen blir imidlertid alltid ført på en slik måte at den ikke røper taushetsbelagte opplysninger.</p>
+<p>Vil du ha et skriftlig svar, må du oppgi navn og ordinær postadresse.</p>
+<p>E-post som etter form og innhold må regnes som et saksdokument, journalføres som dokumenter for øvrig. Massegenerert e-post vil etter en nærmere vurdering kunne bli gjenstad for elektronisk filtrering og dermed ikke bli journalført og saksbehandlet.</p>
+<p>Departementet er forpliktet til å behandle alle dokumenter, inkludert e-post, i samsvar med bestemmelsene i <em type="italic">offentleglova </em>( lov av 19. mai 2006 nr. 16 ). Det betyr blant annet at departementets journal og alle departementets saksdokumenter, inkludert all korrespondanse til og fra departementet, som hovedregel er offentlige. Den som ønsker det, kan be om innsyn i departementets journal og saksdokumenter etter offentleglova. Send derfor ikke brev eller e-poster til departementet med informasjon som du ikke ønsker skal bli allment kjent. </p>
+<p>Dersom dokumentet inneholder taushetsbelagte opplysninger, vil disse bli strøket før det gis innsyn i dokumentet. Opplysninger om noens helsetilstand, og opplysninger om at noen er eller har vært pasient, er alltid taushetsbelagte.</p>
+<p type="title">Innsynsforespørsler</p>
+<p>Vi gjør oppmerksom på at innsynsforespørsler fremmes via e-post til</p>
+<p type="title">Telefon:</p>
+<p>Finansdepartementet kan kontaktes via departementenes felles sentralbordtjeneste på telefon nr. 22 24 90 90.</p>
+<p>Se også pressekontakter i Finansdepartementet</p>
+<p><em type="italic">Spørsmål om din egen likning, folkeregistrering eller moms </em>må du rette til skattekontoret . </p>
+<p>Hvis du lurer på hvor du skal henvende deg, se skatteetatens serviceerklæring her .</p>
+</body></document>

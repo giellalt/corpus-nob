@@ -1,79 +1,37 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>297</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Duodji</origFileName>
-    <parallel_text xml:lang="sma" location="duedtie.html"/>
-    <parallel_text xml:lang="sme" location="duodji.html"/>
-    <parallel_text xml:lang="smj" location="duodje.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Duodji / Næringer / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title" xml:lang="sme">Duodji</p>
-    <p>Duodji er en viktig identitetsskapende virksomhet som er av stor betydning for den samiske kulturen og språket. Mange kvinner har duodji som hovednæring eller som et tillegg til andre virksomheter.</p>
-    <p>Sametingets overordnete mål er å bidra til å utvikle en næringsrettet duodji med økt lønnsomhet og omsetning av egenproduserte varer.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Vesthavet</p>
-    <p>Aktuelt</p>
-    <p>Driftstilskuddsordningen i duodji</p>
-    <p>Gjennom duodjiforhandlingene i 2015 mellom Sametinget, Duojáriid Ealáhussear...</p>
-    <p>Les mer</p>
-    <p>Sametinget inviterer til duodjikonferanse 27. - 28. januar 2016</p>
-    <p>I forbindelse med Sametingets kommende duodjimelding inviteres næringsaktøre...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Sametinget jobber for å: </em>
-    </p>
-    <list>
-      <p type="listitem">Øke omsetningen av egenproduserte varer</p>
-      <p type="listitem">Rekruttere unge til duodjinæringen</p>
-    </list>
-    <p>For å nå våre målsetninger bidra Sametinget til faglig veiledning overfor duodjiutøverne, realisere næringsavtalen for duodji og finansiering av tiltak som bidrar til å utvikle en næringsrettet duodji.</p>
-    <p>Sametinget forhandler årlig om en næringsavtale for duodjinæringen. Sametinget forvalter også midler til tiltak i duodjinæringen</p>
-    <p>Innovasjon Norge forvalter midler til bedriftsrettede tiltak i duodjinæringen.</p>
-    <p>Kommunale næringsfond kan finansiere mindre tiltak og prosjekter.</p>
-    <p>I henhold til næringsavtalen for duodji deler Sametinget ut følgende tilskudd:</p>
-    <list>
-      <p type="listitem">Drifttilskudd</p>
-      <p type="listitem">Investerings- og utviklingstilskudd</p>
-      <p type="listitem">Velferdsordninger</p>
-      <p type="listitem">Fag – og økonomisk utvalg</p>
-      <p type="listitem">Salgsfremmende tiltak (søkerbasert)</p>
-    </list>
-    <p>
-      <em type="bold">Faste overføringer </em>
-    </p>
-    <list>
-      <p type="listitem">Duodjeinstituhtta får hvert år over tre millioner til sin virksomhet. Det har som mål å drive med å utvikle duodjinæringen</p>
-      <p type="listitem">Opplæringskontoret for reindrift og duodji får 1,5 millioner kroner i årlig støtte til lærlingordning i duodji. Det skal ta opp 10 lærlinger slik at disse kan ta fagbrev i duodji</p>
-      <p type="listitem">Duodjiorganisasjonene Sámiid duodji og Duojáriid ealáhussearvi får årlig driftsstøtte for å ivareta duodjiutøvernes interesser</p>
-      <p type="listitem">Duodjiutsalg kan søke om prosjektstøtte for å sikre omsetning av duodji produsert av andre duodjiutøvere</p>
-    </list>
-    <list/>
-    <p>
-      <span type="quote">Duodji er en viktig identitetsskapende virksomhet som er av stor betydning for den samiske kulturen og språket. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>297</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Duodji</origFileName><parallel_text xml:lang="sma" location="duedtie.html"/><parallel_text xml:lang="sme" location="duodji.html"/><parallel_text xml:lang="smj" location="duodje.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Duodji / Næringer / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title" xml:lang="sme">Duodji</p>
+<p>Duodji er en viktig identitetsskapende virksomhet som er av stor betydning for den samiske kulturen og språket. Mange kvinner har duodji som hovednæring eller som et tillegg til andre virksomheter.</p>
+<p>Sametingets overordnete mål er å bidra til å utvikle en næringsrettet duodji med økt lønnsomhet og omsetning av egenproduserte varer.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Vesthavet</p>
+<p>Aktuelt</p>
+<p>Driftstilskuddsordningen i duodji</p>
+<p>Gjennom duodjiforhandlingene i 2015 mellom Sametinget, Duojáriid Ealáhussear...</p>
+<p>Les mer</p>
+<p>Sametinget inviterer til duodjikonferanse 27. - 28. januar 2016</p>
+<p>I forbindelse med Sametingets kommende duodjimelding inviteres næringsaktøre...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Sametinget jobber for å: </em></p>
+<list><p type="listitem">Øke omsetningen av egenproduserte varer</p>
+<p type="listitem">Rekruttere unge til duodjinæringen</p>
+</list><p>For å nå våre målsetninger bidra Sametinget til faglig veiledning overfor duodjiutøverne, realisere næringsavtalen for duodji og finansiering av tiltak som bidrar til å utvikle en næringsrettet duodji.</p>
+<p>Sametinget forhandler årlig om en næringsavtale for duodjinæringen. Sametinget forvalter også midler til tiltak i duodjinæringen</p>
+<p>Innovasjon Norge forvalter midler til bedriftsrettede tiltak i duodjinæringen.</p>
+<p>Kommunale næringsfond kan finansiere mindre tiltak og prosjekter.</p>
+<p>I henhold til næringsavtalen for duodji deler Sametinget ut følgende tilskudd:</p>
+<list><p type="listitem">Drifttilskudd</p>
+<p type="listitem">Investerings- og utviklingstilskudd</p>
+<p type="listitem">Velferdsordninger</p>
+<p type="listitem">Fag – og økonomisk utvalg</p>
+<p type="listitem">Salgsfremmende tiltak (søkerbasert)</p>
+</list><p><em type="bold">Faste overføringer </em></p>
+<list><p type="listitem">Duodjeinstituhtta får hvert år over tre millioner til sin virksomhet. Det har som mål å drive med å utvikle duodjinæringen</p>
+<p type="listitem">Opplæringskontoret for reindrift og duodji får 1,5 millioner kroner i årlig støtte til lærlingordning i duodji. Det skal ta opp 10 lærlinger slik at disse kan ta fagbrev i duodji</p>
+<p type="listitem">Duodjiorganisasjonene Sámiid duodji og Duojáriid ealáhussearvi får årlig driftsstøtte for å ivareta duodjiutøvernes interesser</p>
+<p type="listitem">Duodjiutsalg kan søke om prosjektstøtte for å sikre omsetning av duodji produsert av andre duodjiutøvere</p>
+</list><list/><p><span type="quote">Duodji er en viktig identitetsskapende virksomhet som er av stor betydning for den samiske kulturen og språket. </span></p>
+</body></document>

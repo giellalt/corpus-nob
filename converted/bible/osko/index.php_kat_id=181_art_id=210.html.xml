@@ -1,37 +1,8 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>138</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=181&amp;art_id=210</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=181_art_id=210.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=181_art_id=210.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=181_art_id=210.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Sol</p>
-    <p type="title">Å være kristen</p>
-    <p>De første som trodde på Jesus ble kalt for kristne, på grunn av navnet Kristus.</p>
-    <p>Å tro på Gud er å ha tillit til Ham. Det kommer fra hjertet. Det kan ikke bevises med ord, det kan ikke demonstreres eller forklares med vitenskaplige teorier. Selvsagt betyr ikke det at man ikke kan forsøke å forstå med fornuften sin, men å tro eller å elske, det kan ikke forklares. Det må leves. Mange mennesker kjenner seg trygge når de tror på Gud.</p>
-    <p>Det kan være vanskelig å tro at Jesus var Guds sønn. Vi som lever idag kan ikke se Jesus, men vi kjenner historien om han, fordi det er skrevet om han i Bibelen.</p>
-    <p>Hvorfor tror du på Jesus? Hvorfor er det noen ganger vanskelig for å tro på Jesus?</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>138</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=181&amp;art_id=210</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=181_art_id=210.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=181_art_id=210.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=181_art_id=210.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Sol</p>
+<p type="title">Å være kristen</p>
+<p>De første som trodde på Jesus ble kalt for kristne, på grunn av navnet Kristus.</p>
+<p>Å tro på Gud er å ha tillit til Ham. Det kommer fra hjertet. Det kan ikke bevises med ord, det kan ikke demonstreres eller forklares med vitenskaplige teorier. Selvsagt betyr ikke det at man ikke kan forsøke å forstå med fornuften sin, men å tro eller å elske, det kan ikke forklares. Det må leves. Mange mennesker kjenner seg trygge når de tror på Gud.</p>
+<p>Det kan være vanskelig å tro at Jesus var Guds sønn. Vi som lever idag kan ikke se Jesus, men vi kjenner historien om han, fordi det er skrevet om han i Bibelen.</p>
+<p>Hvorfor tror du på Jesus? Hvorfor er det noen ganger vanskelig for å tro på Jesus?</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

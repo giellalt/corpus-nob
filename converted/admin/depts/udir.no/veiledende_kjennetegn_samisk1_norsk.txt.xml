@@ -1,79 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>911</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.udir.no/globalassets/upload/vurdering/kjennetegn/kjennetegn_samisk1_norsk.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk1_sorsamisk.txt"/>
-    <parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk1_nordsamisk.txt"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk som førstespråk: veiledende nasjonale kjennetegn på måloppnåelse for standpunktvurdering etter 10. årstrinn</p>
-    <p>Kjennetegn på måloppnåelse beskriver kvaliteten på kompetanse i faget. Kjennetegnene er utformet på tvers av hovedområdene i faget og med utgangspunkt i kompetansemålene i læreplanen. De må derfor brukes sammen med læreplanen.</p>
-    <p>Kjennetegn på måloppnåelse er ment å være til hjelp ved vurderingen av elevens samlede kompetanse i faget. Standpunktkarakteren skal uttrykke den kompetansen eleven har i faget ved avslutningen av opplæringen. Kjennetegnene er utformet slik at de skal gi muligheter for konkretisering og tilpasning. Du kan lese mer om vurdering på nettsidene til Utdanningsdirektoratet: www.udir.no/Vurdering/Standpunktvurdering-i-fag/</p>
-    <p>Kjennetegnene er inndelt i to: samisk som førstespråk muntlig og samisk som førstespråk skriftlig. Hovedområdet språk, kultur og litteratur er integrert i de to delene.</p>
-    <p>Kjennetegnene er utformet på tre nivåer. Tabellen må leses horisontalt for å lese progresjonen mellom de ulike nivåene og vertikalt for å finne elevens samlede kompetanse.</p>
-    <p>SAMISK SOM FØRSTESPRÅK - MUNTLIG</p>
-    <p>Karakteren 2</p>
-    <p>Eleven ...</p>
-    <p>- gjengir noe kunnskap, forteller og uttrykker egne meninger om tekster og enkelte faglige emner i ulike muntlige kommunikasjonssituasjoner</p>
-    <p>- gjengir hovedinnhold i tekster, forteller om form og forklarer kjente virkemidler</p>
-    <p>- lytter og deltar til en viss grad i samtaler og diskusjoner og uttrykker egne meninger</p>
-    <p>- gir tilbakemeldinger og begrunner til en viss grad egne meninger om eget og andres arbeid ut fra faglige kriterier</p>
-    <p>- presenterer noe fagstoff som til en viss grad er tilpasset mottaker og kan bruke enkelte digitale verktøy i presentasjonen</p>
-    <p>- finner og gjengir informasjon fra enkelte kilder</p>
-    <p>- bruker et forståelig språk og enkelte begrep fra grammatikk og tekstkunnskap i forberedte kommunikasjonssituasjoner</p>
-    <p>Karakteren 3 og 4</p>
-    <p>Eleven ...</p>
-    <p>- viser kunnskap, forklarer og reflekterer over tekster og faglige emner i ulike muntlige kommunikasjonssituasjoner</p>
-    <p>- gjengir innhold og sammenlikner og reflekterer over enkelte sider ved tekster, gjør rede for og begrunner egne meninger om virkningen av enkelte virkemidler</p>
-    <p>- lytter og deltar i samtaler og diskusjoner og begrunner egne meninger og presenterer noe relevant informasjon</p>
-    <p>- gir begrunnede tilbakemeldinger og vurderer sider ved eget og andres arbeid ut fra faglige kriterier</p>
-    <p>- presenterer variert fagstoff som er tilpasset mottaker og innhold og kan bruke ulike digitale verktøy og medium i presentasjonen</p>
-    <p>- finner og bruker relevant informasjon fra ulike kilder og begrunner valg av kildene</p>
-    <p>- bruker et variert språk og enkelte begrep fra grammatikk og tekstkunnskap i ulike kommunikasjonssituasjoner</p>
-    <p>Karakteren 5 og 6</p>
-    <p>Eleven ...</p>
-    <p>- bruker relevant kunnskap, utdyper, reflekterer og arbeider selvstendig med tekster og faglige emner i varierte muntlige kommunikasjonssituasjoner</p>
-    <p>- gjengir innhold, vurderer, tolker og sammenlikner tekster fra ulike perspektiv og gjør rede for bruken av virkemidler og reflekterer over virkningen de har</p>
-    <p>- lytter kritisk og deltar i samtaler og diskusjoner, begrunner egne meninger med relevant informasjon og argumenterer saklig</p>
-    <p>- gir konstruktive tilbakemeldinger og vurderer eget og andres arbeid ut fra faglige kriterier og ut fra kunnskap om tekst og språk</p>
-    <p>- presenterer relevant og variert fagstoff på en strukturert og selvstendig måte, tilpasset innhold, situasjon, mottaker og media, og kan bruke digitale verktøy og media tilpasset presentasjon av fagstoff</p>
-    <p>- finner, reflekterer over og bruker relevant informasjon formålstjenlig og kritisk og begrunner valg av kildene</p>
-    <p>- bruker et presist språk og behersker begrep fra grammatikk og tekstkunnskap i ulike kommunikasjonssituasjoner</p>
-    <p>SAMISK SOM FØRSTESPRÅK - SKRIFTLIG</p>
-    <p>Karakteren 2</p>
-    <p>Eleven ...</p>
-    <p>- utformer tekster som til en viss grad er tilpasset formålet og endrer egne tekster etter innspill og ut fra kriterier</p>
-    <p>- leser og gjengir hovedinnhold tekster og forteller om hovedtema i tekster i enkelte sjangre, viser til mulige tolkninger</p>
-    <p>- skriver ulike typer tekster med en viss struktur og som til en viss grad er tilpasset formål, mottaker og medium og uttrykker egne meninger, kjenner og bruker enkelte virkemidler</p>
-    <p>- finner, siterer og viser til en viss grad til kildene og lager enkel kildeliste</p>
-    <p>- uttrykker seg skriftlig med enkel setningsoppbygging og tekstbinding og mestrer til en viss grad ortografi og skriveregler</p>
-    <p>Karakteren 3 og 4</p>
-    <p>Eleven ...</p>
-    <p>- planlegger og utformer tekster som er tilpasset formålet, bygger ut innhold og bearbeider egne tekster etter innspill og ut fra kriterier</p>
-    <p>- leser tekster i ulike sjangre og gjengir innholdet, forklarer og reflekterer over tema i tekster, formidler mulige tolkninger</p>
-    <p>- skriver ulike typer tekster med klar struktur og som er tilpasset formål, mottaker og medium, uttrykker enkelte argumenter og forklarer egne meninger om ulike tekster og emner, kjenner og bruker vanlige virkemidler</p>
-    <p>- refererer og siterer kilder og kan stort sett integrere informasjonen i egne tekster på en etterprøvbar måte og lager kildeliste</p>
-    <p>- uttrykker seg skriftlig med tilpasset setningsoppbygging, tekstbinding og nøyaktig ordforråd og mestrer stort sett ortografi og skriveregler</p>
-    <p>Karakteren 5 og 6</p>
-    <p>Eleven ...</p>
-    <p>- planlegger og utformer tekster som er tilpasset formålet, utvikler innhold, vurderer og bearbeider egne tekster ut fra språk- og tekstkunnskap og etter innspill og ut fra kriterier</p>
-    <p>- leser tekster i ulike sjangre, gjengir innholdet, finner og bruker relevant informasjon i tekstene, utdyper og reflekterer på selvstendig grunnlag over tema i tekster og formidler mulige tolkninger</p>
-    <p>- skriver ulike typer tekster med god struktur og som er tydelig tilpasset formål, mottaker og medium, begrunner egne meninger formålstjenlig og kritisk og bruker relevante virkemidler</p>
-    <p>- bruker relevante kilder hensiktsmessig og kritisk, kan skille mellom integrering, referering og sitering av kilder i arbeidet på en etterprøvbar måte og lager full kildeliste</p>
-    <p>- uttrykker seg skriftlig med presis og treffende ordforråd, mestrer variert setningsoppbygging og ulike tekstbindingsformer og mestrer ortografi og skriveregler</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>911</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.udir.no/globalassets/upload/vurdering/kjennetegn/kjennetegn_samisk1_norsk.pdf</origFileName><parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk1_sorsamisk.txt"/><parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk1_nordsamisk.txt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk som førstespråk: veiledende nasjonale kjennetegn på måloppnåelse for standpunktvurdering etter 10. årstrinn</p>
+<p>Kjennetegn på måloppnåelse beskriver kvaliteten på kompetanse i faget. Kjennetegnene er utformet på tvers av hovedområdene i faget og med utgangspunkt i kompetansemålene i læreplanen. De må derfor brukes sammen med læreplanen.</p>
+<p>Kjennetegn på måloppnåelse er ment å være til hjelp ved vurderingen av elevens samlede kompetanse i faget. Standpunktkarakteren skal uttrykke den kompetansen eleven har i faget ved avslutningen av opplæringen. Kjennetegnene er utformet slik at de skal gi muligheter for konkretisering og tilpasning. Du kan lese mer om vurdering på nettsidene til Utdanningsdirektoratet: www.udir.no/Vurdering/Standpunktvurdering-i-fag/</p>
+<p>Kjennetegnene er inndelt i to: samisk som førstespråk muntlig og samisk som førstespråk skriftlig. Hovedområdet språk, kultur og litteratur er integrert i de to delene.</p>
+<p>Kjennetegnene er utformet på tre nivåer. Tabellen må leses horisontalt for å lese progresjonen mellom de ulike nivåene og vertikalt for å finne elevens samlede kompetanse.</p>
+<p>SAMISK SOM FØRSTESPRÅK - MUNTLIG</p>
+<p>Karakteren 2</p>
+<p>Eleven ...</p>
+<p>- gjengir noe kunnskap, forteller og uttrykker egne meninger om tekster og enkelte faglige emner i ulike muntlige kommunikasjonssituasjoner</p>
+<p>- gjengir hovedinnhold i tekster, forteller om form og forklarer kjente virkemidler</p>
+<p>- lytter og deltar til en viss grad i samtaler og diskusjoner og uttrykker egne meninger</p>
+<p>- gir tilbakemeldinger og begrunner til en viss grad egne meninger om eget og andres arbeid ut fra faglige kriterier</p>
+<p>- presenterer noe fagstoff som til en viss grad er tilpasset mottaker og kan bruke enkelte digitale verktøy i presentasjonen</p>
+<p>- finner og gjengir informasjon fra enkelte kilder</p>
+<p>- bruker et forståelig språk og enkelte begrep fra grammatikk og tekstkunnskap i forberedte kommunikasjonssituasjoner</p>
+<p>Karakteren 3 og 4</p>
+<p>Eleven ...</p>
+<p>- viser kunnskap, forklarer og reflekterer over tekster og faglige emner i ulike muntlige kommunikasjonssituasjoner</p>
+<p>- gjengir innhold og sammenlikner og reflekterer over enkelte sider ved tekster, gjør rede for og begrunner egne meninger om virkningen av enkelte virkemidler</p>
+<p>- lytter og deltar i samtaler og diskusjoner og begrunner egne meninger og presenterer noe relevant informasjon</p>
+<p>- gir begrunnede tilbakemeldinger og vurderer sider ved eget og andres arbeid ut fra faglige kriterier</p>
+<p>- presenterer variert fagstoff som er tilpasset mottaker og innhold og kan bruke ulike digitale verktøy og medium i presentasjonen</p>
+<p>- finner og bruker relevant informasjon fra ulike kilder og begrunner valg av kildene</p>
+<p>- bruker et variert språk og enkelte begrep fra grammatikk og tekstkunnskap i ulike kommunikasjonssituasjoner</p>
+<p>Karakteren 5 og 6</p>
+<p>Eleven ...</p>
+<p>- bruker relevant kunnskap, utdyper, reflekterer og arbeider selvstendig med tekster og faglige emner i varierte muntlige kommunikasjonssituasjoner</p>
+<p>- gjengir innhold, vurderer, tolker og sammenlikner tekster fra ulike perspektiv og gjør rede for bruken av virkemidler og reflekterer over virkningen de har</p>
+<p>- lytter kritisk og deltar i samtaler og diskusjoner, begrunner egne meninger med relevant informasjon og argumenterer saklig</p>
+<p>- gir konstruktive tilbakemeldinger og vurderer eget og andres arbeid ut fra faglige kriterier og ut fra kunnskap om tekst og språk</p>
+<p>- presenterer relevant og variert fagstoff på en strukturert og selvstendig måte, tilpasset innhold, situasjon, mottaker og media, og kan bruke digitale verktøy og media tilpasset presentasjon av fagstoff</p>
+<p>- finner, reflekterer over og bruker relevant informasjon formålstjenlig og kritisk og begrunner valg av kildene</p>
+<p>- bruker et presist språk og behersker begrep fra grammatikk og tekstkunnskap i ulike kommunikasjonssituasjoner</p>
+<p>SAMISK SOM FØRSTESPRÅK - SKRIFTLIG</p>
+<p>Karakteren 2</p>
+<p>Eleven ...</p>
+<p>- utformer tekster som til en viss grad er tilpasset formålet og endrer egne tekster etter innspill og ut fra kriterier</p>
+<p>- leser og gjengir hovedinnhold tekster og forteller om hovedtema i tekster i enkelte sjangre, viser til mulige tolkninger</p>
+<p>- skriver ulike typer tekster med en viss struktur og som til en viss grad er tilpasset formål, mottaker og medium og uttrykker egne meninger, kjenner og bruker enkelte virkemidler</p>
+<p>- finner, siterer og viser til en viss grad til kildene og lager enkel kildeliste</p>
+<p>- uttrykker seg skriftlig med enkel setningsoppbygging og tekstbinding og mestrer til en viss grad ortografi og skriveregler</p>
+<p>Karakteren 3 og 4</p>
+<p>Eleven ...</p>
+<p>- planlegger og utformer tekster som er tilpasset formålet, bygger ut innhold og bearbeider egne tekster etter innspill og ut fra kriterier</p>
+<p>- leser tekster i ulike sjangre og gjengir innholdet, forklarer og reflekterer over tema i tekster, formidler mulige tolkninger</p>
+<p>- skriver ulike typer tekster med klar struktur og som er tilpasset formål, mottaker og medium, uttrykker enkelte argumenter og forklarer egne meninger om ulike tekster og emner, kjenner og bruker vanlige virkemidler</p>
+<p>- refererer og siterer kilder og kan stort sett integrere informasjonen i egne tekster på en etterprøvbar måte og lager kildeliste</p>
+<p>- uttrykker seg skriftlig med tilpasset setningsoppbygging, tekstbinding og nøyaktig ordforråd og mestrer stort sett ortografi og skriveregler</p>
+<p>Karakteren 5 og 6</p>
+<p>Eleven ...</p>
+<p>- planlegger og utformer tekster som er tilpasset formålet, utvikler innhold, vurderer og bearbeider egne tekster ut fra språk- og tekstkunnskap og etter innspill og ut fra kriterier</p>
+<p>- leser tekster i ulike sjangre, gjengir innholdet, finner og bruker relevant informasjon i tekstene, utdyper og reflekterer på selvstendig grunnlag over tema i tekster og formidler mulige tolkninger</p>
+<p>- skriver ulike typer tekster med god struktur og som er tydelig tilpasset formål, mottaker og medium, begrunner egne meninger formålstjenlig og kritisk og bruker relevante virkemidler</p>
+<p>- bruker relevante kilder hensiktsmessig og kritisk, kan skille mellom integrering, referering og sitering av kilder i arbeidet på en etterprøvbar måte og lager full kildeliste</p>
+<p>- uttrykker seg skriftlig med presis og treffende ordforråd, mestrer variert setningsoppbygging og ulike tekstbindingsformer og mestrer ortografi og skriveregler</p>
+</body></document>

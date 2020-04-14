@@ -1,80 +1,34 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>295</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Kulturnaering</origFileName>
-    <parallel_text xml:lang="sma" location="kulturejieleme.html"/>
-    <parallel_text xml:lang="sme" location="kulturealahus.html"/>
-    <parallel_text xml:lang="smj" location="kulturaeladus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulturnæring / Næringer / Forsiden - Sametinget</p>
-    <p type="title">Kulturnæring</p>
-    <p>Kulturnæringer er et av landets mest spennende og rasktest voksende næringer. I det samiske samfunnet er dette en næring med lange tradisjoner, og en næring med stort potensial. I dag består den av utøvere fra hele landet som ønsker å skape et virke av sitt kunst- og kulturuttrykk.</p>
-    <p>Dáhttu – en satsing på samisk kulturnæring</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Nordre</p>
-    <p>Aktuelt</p>
-    <p>Inviterer til bedriftsutvikling i sørsamisk område</p>
-    <p>Sametinget igangsetter bedriftsutvikling for kulturnæring i sørsamisk område...</p>
-    <p>Les mer</p>
-    <p>Sametingets kulturnæringskonferanse</p>
-    <p>Sametinget ønsker alle som er interessert i samisk kulturnæring velkommen ti...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Om kulturnæringer: </em>
-    </p>
-    <p>Sametingets definisjon av næringen er som følger: Private bedrifter som fremstiller og selger kulturelle produkter i form av varer eller tjenester. Denne definisjonen rommer alt fra små enkeltmannsforetak til større foretak. Kulturnæringsaktører lever av å selge sine produkter til et marked og har et ønske om å drive - eller driver i dag sitt virke som en lønnsom næring. Deler av inntektsgrunnlaget kan også komme fra offentlig tilskudd eller annet bidrag. Reiseliv sees på som en egen næring, hvor samiske kulturelementer utgjør en sentral del av bedriftenes virksomhet.</p>
-    <p>I Sametingets kulturmelding er følgende mål og strategier satt opp for samisk kulturnæring:</p>
-    <p>
-      <em type="bold">Hovedmål: </em>
-    </p>
-    <list>
-      <p type="listitem">Bærekraftige arbeidsplasser i samiske kunst- og kulturbasert næring</p>
-    </list>
-    <p>
-      <em type="bold">Delmål: </em>
-    </p>
-    <list>
-      <p type="listitem">Økt omsetning og lønnsomhet hos kulturnæringsaktører</p>
-      <p type="listitem">Økt sysselsetting som følge av samisk kunst- og kulturbasert næring</p>
-      <p type="listitem">Kulturnæring der ekthet og troverdighet er i fokus</p>
-      <p type="listitem">Kompetansebasert kulturnæring</p>
-    </list>
-    <p>
-      <em type="bold">Strategier: </em>
-    </p>
-    <list>
-      <p type="listitem">Fremme lønnsomhet i kulturnæringsbransjen</p>
-      <p type="listitem">Øke profesjonaliseringen i samisk kulturnæring</p>
-      <p type="listitem">Tilrettelegge for møteplasser og nettverk for kulturnæringsaktører</p>
-      <p type="listitem">Initiere mer forskning på samisk kulturnæring</p>
-      <p type="listitem">I samarbeid med regjeringen og regionale aktører arbeide for å bygge kulturnæring som en av de nye næringsveiene for samer</p>
-    </list>
-    <list/>
-    <p>
-      <span type="quote">Sametinget jobber i 2013 med en handlingsplan for samiske kulturnæringer. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>295</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Kulturnaering</origFileName><parallel_text xml:lang="sma" location="kulturejieleme.html"/><parallel_text xml:lang="sme" location="kulturealahus.html"/><parallel_text xml:lang="smj" location="kulturaeladus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulturnæring / Næringer / Forsiden - Sametinget</p>
+<p type="title">Kulturnæring</p>
+<p>Kulturnæringer er et av landets mest spennende og rasktest voksende næringer. I det samiske samfunnet er dette en næring med lange tradisjoner, og en næring med stort potensial. I dag består den av utøvere fra hele landet som ønsker å skape et virke av sitt kunst- og kulturuttrykk.</p>
+<p>Dáhttu – en satsing på samisk kulturnæring</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Nordre</p>
+<p>Aktuelt</p>
+<p>Inviterer til bedriftsutvikling i sørsamisk område</p>
+<p>Sametinget igangsetter bedriftsutvikling for kulturnæring i sørsamisk område...</p>
+<p>Les mer</p>
+<p>Sametingets kulturnæringskonferanse</p>
+<p>Sametinget ønsker alle som er interessert i samisk kulturnæring velkommen ti...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Om kulturnæringer: </em></p>
+<p>Sametingets definisjon av næringen er som følger: Private bedrifter som fremstiller og selger kulturelle produkter i form av varer eller tjenester. Denne definisjonen rommer alt fra små enkeltmannsforetak til større foretak. Kulturnæringsaktører lever av å selge sine produkter til et marked og har et ønske om å drive - eller driver i dag sitt virke som en lønnsom næring. Deler av inntektsgrunnlaget kan også komme fra offentlig tilskudd eller annet bidrag. Reiseliv sees på som en egen næring, hvor samiske kulturelementer utgjør en sentral del av bedriftenes virksomhet.</p>
+<p>I Sametingets kulturmelding er følgende mål og strategier satt opp for samisk kulturnæring:</p>
+<p><em type="bold">Hovedmål: </em></p>
+<list><p type="listitem">Bærekraftige arbeidsplasser i samiske kunst- og kulturbasert næring</p>
+</list><p><em type="bold">Delmål: </em></p>
+<list><p type="listitem">Økt omsetning og lønnsomhet hos kulturnæringsaktører</p>
+<p type="listitem">Økt sysselsetting som følge av samisk kunst- og kulturbasert næring</p>
+<p type="listitem">Kulturnæring der ekthet og troverdighet er i fokus</p>
+<p type="listitem">Kompetansebasert kulturnæring</p>
+</list><p><em type="bold">Strategier: </em></p>
+<list><p type="listitem">Fremme lønnsomhet i kulturnæringsbransjen</p>
+<p type="listitem">Øke profesjonaliseringen i samisk kulturnæring</p>
+<p type="listitem">Tilrettelegge for møteplasser og nettverk for kulturnæringsaktører</p>
+<p type="listitem">Initiere mer forskning på samisk kulturnæring</p>
+<p type="listitem">I samarbeid med regjeringen og regionale aktører arbeide for å bygge kulturnæring som en av de nye næringsveiene for samer</p>
+</list><list/><p><span type="quote">Sametinget jobber i 2013 med en handlingsplan for samiske kulturnæringer. </span></p>
+</body></document>

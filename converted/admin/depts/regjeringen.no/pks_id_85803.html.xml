@@ -1,87 +1,57 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Preassa- ja gulahallansekšuvdna  - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>132</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/ad/dep/org/avdelinger/pks.html?id=85803</origFileName>
-    <parallel_text xml:lang="eng" location="the-press-and-communications-division_id_85803.html"/>
-    <parallel_text xml:lang="nno" location="presse--og-kommunikasjonsseksjonen_id_85803.html"/>
-    <parallel_text xml:lang="sme" location="preassa--ja-gulahallansekuvdna-_id_85803.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Presse- og kommunikasjonsseksjonen - regjeringen.no</p>
-    <p type="title">Kommunikasjonssjef Kristin Hetle</p>
-    <p type="title">Kommunikasjonssjef / pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 21 16</p>
-    <p>Mobil:</p>
-    <p>916 73 515</p>
-    <p type="title">Seniorrådgiver Gro Ørsal</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 84 26</p>
-    <p>Mobil:</p>
-    <p>91 75 26 21</p>
-    <p type="title">Seniorrådgiver Morten Dagre</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 85 30</p>
-    <p>Mobil:</p>
-    <p>95 17 96 40</p>
-    <p type="title">Seniorrådgiver Ingrid Dåsnes</p>
-    <p type="title">Tale- og kronikkskriver / pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 82 42</p>
-    <p>Mobil:</p>
-    <p>45 24 18 74</p>
-    <p type="title">Førstekonsulent Cecilie Herdal Thune</p>
-    <p type="title">Forværelse og ekspedisjon</p>
-    <p>Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 84 28</p>
-    <p type="title">Seniorrådgiver Guttorm Aanes</p>
-    <p type="title">Internettredaktør / pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 83 78</p>
-    <p>Mobil:</p>
-    <p>99 38 44 38</p>
-    <p type="title">Kommunikasjonsrådgiver Anita Sletten</p>
-    <p type="title">Intranettredaktør</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 84 54</p>
-    <p>Mobil:</p>
-    <p>41 43 79 75</p>
-    <p type="title">Seniorrådgiver Nina Kraugerud Ertzaas</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 85 40</p>
-    <p>Mobil:</p>
-    <p>48 00 10 61</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Preassa- ja gulahallansekšuvdna  - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>132</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/ad/dep/org/avdelinger/pks.html?id=85803</origFileName><parallel_text xml:lang="eng" location="the-press-and-communications-division_id_85803.html"/><parallel_text xml:lang="nno" location="presse--og-kommunikasjonsseksjonen_id_85803.html"/><parallel_text xml:lang="sme" location="preassa--ja-gulahallansekuvdna-_id_85803.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Presse- og kommunikasjonsseksjonen - regjeringen.no</p>
+<p type="title">Kommunikasjonssjef Kristin Hetle</p>
+<p type="title">Kommunikasjonssjef / pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 21 16</p>
+<p>Mobil:</p>
+<p>916 73 515</p>
+<p type="title">Seniorrådgiver Gro Ørsal</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 84 26</p>
+<p>Mobil:</p>
+<p>91 75 26 21</p>
+<p type="title">Seniorrådgiver Morten Dagre</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 85 30</p>
+<p>Mobil:</p>
+<p>95 17 96 40</p>
+<p type="title">Seniorrådgiver Ingrid Dåsnes</p>
+<p type="title">Tale- og kronikkskriver / pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 82 42</p>
+<p>Mobil:</p>
+<p>45 24 18 74</p>
+<p type="title">Førstekonsulent Cecilie Herdal Thune</p>
+<p type="title">Forværelse og ekspedisjon</p>
+<p>Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 84 28</p>
+<p type="title">Seniorrådgiver Guttorm Aanes</p>
+<p type="title">Internettredaktør / pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 83 78</p>
+<p>Mobil:</p>
+<p>99 38 44 38</p>
+<p type="title">Kommunikasjonsrådgiver Anita Sletten</p>
+<p type="title">Intranettredaktør</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 84 54</p>
+<p>Mobil:</p>
+<p>41 43 79 75</p>
+<p type="title">Seniorrådgiver Nina Kraugerud Ertzaas</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 85 40</p>
+<p>Mobil:</p>
+<p>48 00 10 61</p>
+</body></document>

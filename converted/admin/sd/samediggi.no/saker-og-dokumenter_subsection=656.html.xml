@@ -1,31 +1,9 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Saker og dokumenter</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>44</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Politikk/Saker-og-dokumenter?subsection=656</origFileName>
-    <parallel_text xml:lang="sme" location="assit-ja-dokumeanttat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Saker og dokumenter</p>
-    <p type="title">Dokumenter og mange andre papirer og pdf-er som er publisert siden Sametinget ble stiftet i 1989.</p>
-    <p>Her kan du søke etter dokumenter og saker i Sametingets arkiv.</p>
-    <p>Her kan du se møteplan med sakslister, saksdokumenter og møteprotokoller.</p>
-    <p type="title" xml:lang="koi">2019</p>
-    <p type="title" xml:lang="koi">2016</p>
-    <p type="title" xml:lang="koi">2013</p>
-    <p type="title" xml:lang="koi">2012</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Saker og dokumenter</title><genre code="admin"/><author><unknown/></author><wordcount>44</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Politikk/Saker-og-dokumenter?subsection=656</origFileName><parallel_text xml:lang="sme" location="assit-ja-dokumeanttat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Saker og dokumenter</p>
+<p type="title">Dokumenter og mange andre papirer og pdf-er som er publisert siden Sametinget ble stiftet i 1989.</p>
+<p>Her kan du søke etter dokumenter og saker i Sametingets arkiv.</p>
+<p>Her kan du se møteplan med sakslister, saksdokumenter og møteprotokoller.</p>
+<p type="title" xml:lang="vep">2019</p>
+<p type="title" xml:lang="vep">2016</p>
+<p type="title" xml:lang="vep">2013</p>
+<p type="title" xml:lang="vep">2012</p>
+</body></document>

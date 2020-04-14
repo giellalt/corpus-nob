@@ -1,63 +1,36 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Avdeling for administrasjon - Sámediggi Sametinget</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Sámediggi/Sametinget</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>123</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://samediggi.no/Artikkel.aspx?aid=785&amp;sprak=Norsk&amp;Print=1</origFileName>
-    <parallel_text xml:lang="sme" location="samediggi-article-785.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Avdeling for administrasjon - Sámediggi Sametinget</p>
-    <p type="title">Avdeling for administrasjon</p>
-    <p>Avdelingen har ansvaret for all administrativ støtte som Sametinget og Sametingets administrasjon har behov for. Avdelingen ledes av en avdelingsdirektør og to underdirektører/nestledere.</p>
-    <p type="listitem">Avdelingen har følgende faste team:</p>
-    <p type="listitem">Økonomi og drift</p>
-    <p type="listitem">Personal</p>
-    <p type="listitem">Arkiv</p>
-    <p type="listitem">IT og intern kommunikasjon</p>
-    <p type="listitem">Resepsjon</p>
-    <p type="listitem">Interne språktjenesterAvdelingens ansvar og oppgaver</p>
-    <p type="listitem">Økonomistyring og -kontroll (budsjett og regnskap)</p>
-    <p type="listitem">Reiseadministrasjon</p>
-    <p type="listitem">Innkjøp</p>
-    <p type="listitem">Budsjettarbeid og -ansvar</p>
-    <p type="listitem">Sametingsplan</p>
-    <p type="listitem">Årsmelding</p>
-    <p type="listitem">Renhold</p>
-    <p type="listitem">Drift og vedlikehold av bygninger</p>
-    <p type="listitem">Sikkerhet</p>
-    <p type="listitem">Kunst i Sametinget</p>
-    <p type="listitem">Organisasjonsutvikling</p>
-    <p type="listitem">Personal</p>
-    <p type="listitem">Helse-, miljø- og sikkerhetsarbeid (HMS)</p>
-    <p type="listitem">Arkivtjenester</p>
-    <p type="listitem">IT-strategi og drift</p>
-    <p type="listitem">Teknisk utstyr</p>
-    <p type="listitem">Telefoni</p>
-    <p type="listitem">Resepsjonstjenester</p>
-    <p type="listitem">Kopiering og utsending av sakspapirer</p>
-    <p type="listitem">Sekretærfunksjoner</p>
-    <p type="listitem">Sentralbord</p>
-    <p type="listitem">Interne språktjenester</p>
-    <p type="listitem">Tolketjeneste</p>
-    <p type="listitem">Dokumentforvaltning</p>
-    <p><em type="italic">Kontakt </em>Sámediggi - Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka E-post samediggi@samediggi.no Telefon (47) 78 47 40 00 Faks (47) 78 47 40 90 </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Avdeling for administrasjon - Sámediggi Sametinget</title><genre code="admin"/><author><unknown/></author><publChannel><publication><publisher>Sámediggi/Sametinget</publisher></publication></publChannel><wordcount>123</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://samediggi.no/Artikkel.aspx?aid=785&amp;sprak=Norsk&amp;Print=1</origFileName><parallel_text xml:lang="sme" location="samediggi-article-785.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Avdeling for administrasjon - Sámediggi Sametinget</p>
+<p type="title">Avdeling for administrasjon</p>
+<p>Avdelingen har ansvaret for all administrativ støtte som Sametinget og Sametingets administrasjon har behov for. Avdelingen ledes av en avdelingsdirektør og to underdirektører/nestledere.</p>
+<p type="listitem">Avdelingen har følgende faste team:</p>
+<p type="listitem">Økonomi og drift</p>
+<p type="listitem">Personal</p>
+<p type="listitem">Arkiv</p>
+<p type="listitem">IT og intern kommunikasjon</p>
+<p type="listitem">Resepsjon</p>
+<p type="listitem">Interne språktjenesterAvdelingens ansvar og oppgaver</p>
+<p type="listitem">Økonomistyring og -kontroll (budsjett og regnskap)</p>
+<p type="listitem">Reiseadministrasjon</p>
+<p type="listitem">Innkjøp</p>
+<p type="listitem">Budsjettarbeid og -ansvar</p>
+<p type="listitem">Sametingsplan</p>
+<p type="listitem">Årsmelding</p>
+<p type="listitem">Renhold</p>
+<p type="listitem">Drift og vedlikehold av bygninger</p>
+<p type="listitem">Sikkerhet</p>
+<p type="listitem">Kunst i Sametinget</p>
+<p type="listitem">Organisasjonsutvikling</p>
+<p type="listitem">Personal</p>
+<p type="listitem">Helse-, miljø- og sikkerhetsarbeid (HMS)</p>
+<p type="listitem">Arkivtjenester</p>
+<p type="listitem">IT-strategi og drift</p>
+<p type="listitem">Teknisk utstyr</p>
+<p type="listitem">Telefoni</p>
+<p type="listitem">Resepsjonstjenester</p>
+<p type="listitem">Kopiering og utsending av sakspapirer</p>
+<p type="listitem">Sekretærfunksjoner</p>
+<p type="listitem">Sentralbord</p>
+<p type="listitem">Interne språktjenester</p>
+<p type="listitem">Tolketjeneste</p>
+<p type="listitem">Dokumentforvaltning</p>
+<p><em type="italic">Kontakt </em>Sámediggi - Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka E-post samediggi@samediggi.no Telefon (47) 78 47 40 00 Faks (47) 78 47 40 90 </p>
+</body></document>

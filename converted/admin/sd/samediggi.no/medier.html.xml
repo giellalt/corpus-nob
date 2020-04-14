@@ -1,62 +1,25 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>267</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Medier</origFileName>
-    <parallel_text xml:lang="sma" location="meedijah.html"/>
-    <parallel_text xml:lang="sme" location="mediaid.html"/>
-    <parallel_text xml:lang="smj" location="media.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Medier / Kulturliv / Forsiden - Sametinget</p>
-    <p type="title">Medier</p>
-    <p>De samiske mediers oppgaver er å informere den samiske befolkning og formidle kunnskaper, fakta og innsikt fra samfunnets store spennvidde. Samiske medietilbud og samiske publikasjoner har en stor betydning for synliggjøring av samiske språk, som et ledd i språkutviklingen og språkopplæringen for hele den samiske befolkningen, og særlig blant barn og unge.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p>Aktuelt</p>
-    <p>Gir ros til Nils Johan Heatta</p>
-    <p>Direktør  for NRK Sápmi Nils Johan Heatta har utført et meget godt arbeid me...</p>
-    <p>Les mer</p>
-    <p>Ellen Inga O. Hætta i NRKs styre</p>
-    <p>Fungerende sametingspresident Silje Karine Muotka gratulerer Ellen Inga O. H...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Sametinget jobber for: </em>
-    </p>
-    <list>
-      <p type="listitem">Gjennom dialog med lokale, regionale og sentrale myndigheter og andre aktører styrke rammevilkårene for samisk medieutvikling</p>
-      <p type="listitem">Gjennom aktiv virkemiddelbruk bidra til å opprettholde og videreutvikle samiske medier</p>
-      <p type="listitem">Bidra til en styrking av det samiske medietilbudet på alle samiske språk</p>
-    </list>
-    <p>
-      <em type="bold">Økonomiske virkemidler </em>
-    </p>
-    <p>Målet med Sametingets virkemidler til medier er et mangfold av medier som synliggjør samisk språk, kultur og samfunnsliv. Delmålet er å bygge opp og utvikle samiske medier som bidrar til samfunnsengasjement.</p>
-    <p>Sametinget gir direktetilskudd til 6 ulike medier i 2014: Samiske publikasjoner (5) og Julev Film AS. Julev Film driver NuorajTV, som er et viktig medietilbud på internett for lulesamisk ungdom.</p>
-    <p>Direktetilskuddene til medier skal bidra til arenaer der samisk språk, kultur og samfunnsliv har en uavhengig stemme, og er identitetsskapende.</p>
-    <p>
-      <span type="quote">Samiske medietilbud og samiske publikasjoner har en stor betydning for synliggjøring av samiske språk, som et ledd i språkutviklingen og språkopplæringen for hele den samiske befolkningen, og særlig blant barn og unge.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>267</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Medier</origFileName><parallel_text xml:lang="sma" location="meedijah.html"/><parallel_text xml:lang="sme" location="mediaid.html"/><parallel_text xml:lang="smj" location="media.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Medier / Kulturliv / Forsiden - Sametinget</p>
+<p type="title">Medier</p>
+<p>De samiske mediers oppgaver er å informere den samiske befolkning og formidle kunnskaper, fakta og innsikt fra samfunnets store spennvidde. Samiske medietilbud og samiske publikasjoner har en stor betydning for synliggjøring av samiske språk, som et ledd i språkutviklingen og språkopplæringen for hele den samiske befolkningen, og særlig blant barn og unge.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<p>Aktuelt</p>
+<p>Gir ros til Nils Johan Heatta</p>
+<p>Direktør  for NRK Sápmi Nils Johan Heatta har utført et meget godt arbeid me...</p>
+<p>Les mer</p>
+<p>Ellen Inga O. Hætta i NRKs styre</p>
+<p>Fungerende sametingspresident Silje Karine Muotka gratulerer Ellen Inga O. H...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Sametinget jobber for: </em></p>
+<list><p type="listitem">Gjennom dialog med lokale, regionale og sentrale myndigheter og andre aktører styrke rammevilkårene for samisk medieutvikling</p>
+<p type="listitem">Gjennom aktiv virkemiddelbruk bidra til å opprettholde og videreutvikle samiske medier</p>
+<p type="listitem">Bidra til en styrking av det samiske medietilbudet på alle samiske språk</p>
+</list><p><em type="bold">Økonomiske virkemidler </em></p>
+<p>Målet med Sametingets virkemidler til medier er et mangfold av medier som synliggjør samisk språk, kultur og samfunnsliv. Delmålet er å bygge opp og utvikle samiske medier som bidrar til samfunnsengasjement.</p>
+<p>Sametinget gir direktetilskudd til 6 ulike medier i 2014: Samiske publikasjoner (5) og Julev Film AS. Julev Film driver NuorajTV, som er et viktig medietilbud på internett for lulesamisk ungdom.</p>
+<p>Direktetilskuddene til medier skal bidra til arenaer der samisk språk, kultur og samfunnsliv har en uavhengig stemme, og er identitetsskapende.</p>
+<p><span type="quote">Samiske medietilbud og samiske publikasjoner har en stor betydning for synliggjøring av samiske språk, som et ledd i språkutviklingen og språkopplæringen for hele den samiske befolkningen, og særlig blant barn og unge.</span></p>
+</body></document>

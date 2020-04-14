@@ -1,62 +1,23 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>277</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Kunst-og-kulturutoevelse/Samisk-runebomme-kan-tilbakefoeres</origFileName>
-    <parallel_text xml:lang="sma" location="saemien-gievrie-maahta-baaaastede.html"/>
-    <parallel_text xml:lang="sme" location="sami-goavddis-sahta-mahcahuvvot.html"/>
-    <parallel_text xml:lang="smj" location="same-goabdes-mahtta-mahtsaduvvat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk runebomme kan tilbakeføres / Kunst- og kulturutøvelse / Kulturliv / Forsiden - Sametinget</p>
-    <p type="title">Samisk runebomme kan tilbakeføres</p>
-    <p>07. september 2015</p>
-    <p>
-      <em type="bold">Den kjente Bindalstrommen er en av flere historiske kulturgjenstander som kan leveres tilbake til samiske museer i forbindelse med Bååstede-prosjektet. </em>
-    </p>
-    <p>I flere hundre år har forskere og misjonærer samlet inn samiske kulturgjenstander. Runebommen fra Bindal fra Helgeland planlegges å leveres tilbake til Saemien Sijte i Snåsa.</p>
-    <p>Bindalstrommen er en av de best bevarte runebommer som er igjen.</p>
-    <p>
-      <em type="bold">-Å få tilbake en runebomme i samisk eie er symbolsk veldig viktig. Runebommer har vært sentrale i tradisjonell samisk religion for blant annet å hente kunnskap om fremtiden, sier sametingsråd Henrik Olsen. Det finnes kun et fåtall trommer igjen, ingen i samisk eie, og derfor er vi glad for at trommen tilbakeføres, sier Olsen. </em>
-    </p>
-    <p><em type="bold">Les mer om trommen: </em>https://no.wikipedia.org/wiki/Bindalstromma </p>
-    <p>
-      <em type="bold">Ta tilbake historien </em>
-    </p>
-    <p>Det var i 2012 at Sametinget underskrev en avtale med Norsk Folkemuseum og Kulturhistorisk museum om å tilbakeføre over 2000 historiske gjenstander til de samiske museene.</p>
-    <p>http://www.sametinget.no/Kalender/Signering-av-avtale</p>
-    <p>http://www.sametinget.no/Arkiv/Valgperiode-2009-2013/Artikler/Samisk-kulturarv</p>
-    <p>
-      <em type="bold">Manglende finansiering </em>
-    </p>
-    <p>Sametinget har i flere år bedt norske myndigheter om å finansiere tilbakeføringen. De samiske museene har i dag ikke økonomiske ressurser, teknisk konservatorkompetanse og lokaler til å motta gjenstandene.</p>
-    <p>
-      <em type="bold">-Vi skal selv kunne forvalte vår egen kulturarv. Det er en rett vi har som urfolk. Derfor må myndighetene bevilge tilstrekkelige økonomiske ressurser til en tilbakeføring av den samiske kulturarven fra Norsk folkemuseum og kulturhistorisk museum (UiO), sier sametingsråd Henrik Olsen. </em>
-    </p>
-    <p>
-      <em type="bold">Plenum behandler saken torsdag 24.september etter kl. 15.00. </em>
-    </p>
-    <p><em type="bold">Her er sakspapirene: </em>http://innsyn.e-kommune.no/innsyn_sametinget_norsk/wfinnsyn.ashx?response=journalpost_detaljer&amp;journalpostid=2015022757&amp; </p>
-    <p>
-      <em type="bold">For mer informasjon: Sametingsråd Henrik Olsen, 907 75 219 </em>
-    </p>
-    <p>
-      <em type="bold">Les mer: </em>
-    </p>
-    <p>http://www.norskfolkemuseum.no/PageFiles/6823/B%C3%A5%C3%A5stede_Tilbakef%C3%B8ring+av+samisk+kulturarv.pdf</p>
-    <p>http://digitaltfortalt.no/things/bstede-tilbakefring-av-samisk-kulturarv/H-DF/DF.5392</p>
-    <p>Det er skrevet en artikkel: <span type="quote">”Bindalstromma”</span> av Signy Norendal, i Museumsnytt 1/2015</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>277</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Kunst-og-kulturutoevelse/Samisk-runebomme-kan-tilbakefoeres</origFileName><parallel_text xml:lang="sma" location="saemien-gievrie-maahta-baaaastede.html"/><parallel_text xml:lang="sme" location="sami-goavddis-sahta-mahcahuvvot.html"/><parallel_text xml:lang="smj" location="same-goabdes-mahtta-mahtsaduvvat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk runebomme kan tilbakeføres / Kunst- og kulturutøvelse / Kulturliv / Forsiden - Sametinget</p>
+<p type="title">Samisk runebomme kan tilbakeføres</p>
+<p>07. september 2015</p>
+<p><em type="bold">Den kjente Bindalstrommen er en av flere historiske kulturgjenstander som kan leveres tilbake til samiske museer i forbindelse med Bååstede-prosjektet. </em></p>
+<p>I flere hundre år har forskere og misjonærer samlet inn samiske kulturgjenstander. Runebommen fra Bindal fra Helgeland planlegges å leveres tilbake til Saemien Sijte i Snåsa.</p>
+<p>Bindalstrommen er en av de best bevarte runebommer som er igjen.</p>
+<p><em type="bold">-Å få tilbake en runebomme i samisk eie er symbolsk veldig viktig. Runebommer har vært sentrale i tradisjonell samisk religion for blant annet å hente kunnskap om fremtiden, sier sametingsråd Henrik Olsen. Det finnes kun et fåtall trommer igjen, ingen i samisk eie, og derfor er vi glad for at trommen tilbakeføres, sier Olsen. </em></p>
+<p><em type="bold">Les mer om trommen: </em>https://no.wikipedia.org/wiki/Bindalstromma </p>
+<p><em type="bold">Ta tilbake historien </em></p>
+<p>Det var i 2012 at Sametinget underskrev en avtale med Norsk Folkemuseum og Kulturhistorisk museum om å tilbakeføre over 2000 historiske gjenstander til de samiske museene.</p>
+<p>http://www.sametinget.no/Kalender/Signering-av-avtale</p>
+<p>http://www.sametinget.no/Arkiv/Valgperiode-2009-2013/Artikler/Samisk-kulturarv</p>
+<p><em type="bold">Manglende finansiering </em></p>
+<p>Sametinget har i flere år bedt norske myndigheter om å finansiere tilbakeføringen. De samiske museene har i dag ikke økonomiske ressurser, teknisk konservatorkompetanse og lokaler til å motta gjenstandene.</p>
+<p><em type="bold">-Vi skal selv kunne forvalte vår egen kulturarv. Det er en rett vi har som urfolk. Derfor må myndighetene bevilge tilstrekkelige økonomiske ressurser til en tilbakeføring av den samiske kulturarven fra Norsk folkemuseum og kulturhistorisk museum (UiO), sier sametingsråd Henrik Olsen. </em></p>
+<p><em type="bold">Plenum behandler saken torsdag 24.september etter kl. 15.00. </em></p>
+<p><em type="bold">Her er sakspapirene: </em>http://innsyn.e-kommune.no/innsyn_sametinget_norsk/wfinnsyn.ashx?response=journalpost_detaljer&amp;journalpostid=2015022757&amp; </p>
+<p><em type="bold">For mer informasjon: Sametingsråd Henrik Olsen, 907 75 219 </em></p>
+<p><em type="bold">Les mer: </em></p>
+<p>http://www.norskfolkemuseum.no/PageFiles/6823/B%C3%A5%C3%A5stede_Tilbakef%C3%B8ring+av+samisk+kulturarv.pdf</p>
+<p>http://digitaltfortalt.no/things/bstede-tilbakefring-av-samisk-kulturarv/H-DF/DF.5392</p>
+<p>Det er skrevet en artikkel: <span type="quote">”Bindalstromma”</span> av Signy Norendal, i Museumsnytt 1/2015</p>
+</body></document>

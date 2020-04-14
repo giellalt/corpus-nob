@@ -1,231 +1,190 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2019</year>
-    <wordcount>4345</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <parallel_text xml:lang="sme" location="prp201820190134000se_epub.epub"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 180635 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Prop. 134 L</p>
-    <p type="title">(2018–2019) Proposisjon til Stortinget (forslag til lovvedtak)</p>
-    <p type="title">Endringer i finnmarksloven  (endringer som følge av sammenslåingen av Troms og Finnmark fylker)</p>
-    <p>Tilråding fra Kommunal- og modernseringsdepartementet 21. juni 2019, godkjent i statsråd samme dag. (Regjeringen Solberg)</p>
-    <p>Dokumentet på regjeringen.no</p>
-    <p type="title">1 Proposisjonens hovedinnhold</p>
-    <p>Kommunal- og moderniseringsdepartementet fremmer i denne proposisjonen forslag om endringer i finnmarksloven. Finnmarksloven gjelder forvaltning av grunn og naturressurser i Finnmark fylke. Som følge av Stortingets vedtak av 8. juni 2017 om regionreformen skal Troms og Finnmark fylker slås sammen fra 1. januar 2020. Sammenlåingen gjør det nødvendig å gjøre visse endringer for å tilpasse finnmarksloven til den nye fylkesinndelingen.</p>
-    <p>Det er behov for tilpasning i loven når det gjelder hvordan man angir lovens geografiske virkeområde. Departementet foreslår å endre loven slik at det vises til det geografiske området Finnmark, som i dag utgjør Finnmark fylke, slik at virkeområdet blir det samme som i dag. Oppgaver som i dagens lov er lagt til Finnmark fylkesting (blant annet valg av styremedlemmer til Finnmarkseiendommen, valg til kontrollkomiteen og godkjenning av Finnmarkseiendommens avhending av eiendom i visse tilfeller), foreslås lagt til fylkestinget i den nye Troms og Finnmark fylkeskommune. Det er også foreslått tilpasninger i reglene for hvem som skal kunne være mottaker av et eventuelt overskudd fra Finnmarkseiendommen, dersom styret beslutter at overskuddet skal deles ut.</p>
-    <p type="title">2 Bakgrunnen for proposisjonen</p>
-    <p type="title">2.1 Regionreformen</p>
-    <p>Fra 1. januar 2020 har vi elleve fylker i Norge; ti fylkeskommuner samt Oslo kommune med fylkeskommunale oppgaver. Mens ni fylker i dag har under 200 000 innbyggere, vil minste fylke i innbyggertall fra 2020 øke fra 76 000 til 240 000 innbyggere.</p>
-    <p>Når fylkeskommunene nå blir større, skal de også få flere virkemidler til å utvikle fylkene i tråd med regionale behov og muligheter. Det skal overføres oppgaver og virkemidler innenfor områder der fylkeskommunene allerede har ansvar og kompetanse.</p>
-    <p>Fylkeskommunene skal få nye oppgaver blant annet innen kompetanse og integrering, folkehelse, klima og miljø, næringsutvikling og landbruk, forskning, samferdsel, planlegging og kultur. Dette er viktige områder for utviklingen av samfunnet i det enkelte fylket og oppgaver som fylkeskommunene har gode forutsetninger for å løse.</p>
-    <p type="title">2.2 Finnmarksloven</p>
-    <p>Proposisjonen fremmes av Kommunal- og moderniseringsdepartementet, som ansvarlig for forvaltningen av finnmarkslovens bestemmelser om Finnmarkseiendommen. Proposisjonen fremmes i samråd med Justis- og beredskapsdepartementet som har ansvaret for finnmarksloven som sådan.</p>
-    <p>Lovens formål er å legge til rette for at grunn og naturressurser i Finnmark fylke forvaltes på en balansert og økologisk bærekraftig måte til beste for innbyggerne i fylket og særlig som grunnlag for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv.</p>
-    <p type="title">2.3 Høringen</p>
-    <p>Kommunal- og moderniseringsdepartementet sendte 4. desember 2018 på høring et forslag om endringer i finnmarksloven. Saken ble sendt til følgende høringsinstanser med høringsfrist 4. mars 2019:</p>
-    <list>
-      <p type="listitem">Departementene</p>
-    </list>
-    <list>
-      <p type="listitem">Sametinget</p>
-    </list>
-    <list>
-      <p type="listitem">Finnmark fylkeskommune</p>
-      <p type="listitem">Troms fylkeskommune</p>
-    </list>
-    <list>
-      <p type="listitem">Fylkesmannen i Finnmark</p>
-      <p type="listitem">Fylkesmannen i Troms</p>
-    </list>
-    <list>
-      <p type="listitem">Alta kommune</p>
-      <p type="listitem">Balsfjord kommune</p>
-      <p type="listitem">Bardu kommune</p>
-      <p type="listitem">Berg kommune</p>
-      <p type="listitem">Berlevåg kommune</p>
-      <p type="listitem">Båtsfjord kommune</p>
-      <p type="listitem">Dyrøy kommune</p>
-      <p type="listitem">Gamvik kommune</p>
-      <p type="listitem">Gratangen kommune</p>
-      <p type="listitem">Hammerfest kommune</p>
-      <p type="listitem">Harstad kommune</p>
-      <p type="listitem">Hasvik kommune</p>
-      <p type="listitem">Ibestad kommune</p>
-      <p type="listitem">Karasjok kommune</p>
-      <p type="listitem">Karlsøy kommune</p>
-      <p type="listitem">Kautokeino kommune</p>
-      <p type="listitem">Kvæfjord kommune</p>
-      <p type="listitem">Kvænangen kommune</p>
-      <p type="listitem">Kåfjord kommune</p>
-      <p type="listitem">Lavangen kommune</p>
-      <p type="listitem">Lebesby kommune</p>
-      <p type="listitem">Lenvik kommune</p>
-      <p type="listitem">Loppa kommune</p>
-      <p type="listitem">Lyngen kommune</p>
-      <p type="listitem">Målselv kommune</p>
-      <p type="listitem">Måsøy kommune</p>
-      <p type="listitem">Nesseby kommune</p>
-      <p type="listitem">Nordkapp kommune</p>
-      <p type="listitem">Nordreisa kommune</p>
-      <p type="listitem">Porsanger kommune</p>
-      <p type="listitem">Salangen kommune</p>
-      <p type="listitem">Skjervøy kommune</p>
-      <p type="listitem">Skånland kommune</p>
-      <p type="listitem">Storfjord kommune</p>
-      <p type="listitem">Sørreisa kommune</p>
-      <p type="listitem">Sør-Varanger kommune</p>
-      <p type="listitem">Tana kommune</p>
-      <p type="listitem">Torsken kommune</p>
-      <p type="listitem">Tranøy kommune</p>
-      <p type="listitem">Tromsø kommune</p>
-      <p type="listitem">Vadsø kommune</p>
-      <p type="listitem">Vardø kommune</p>
-    </list>
-    <list>
-      <p type="listitem">Finnmark bonde- og småbrukarlag</p>
-      <p type="listitem">Finnmark bondelag</p>
-      <p type="listitem">Finnmarkseiendommen</p>
-      <p type="listitem">Fiskarlaget nord</p>
-      <p type="listitem">Landsorganisasjonen i Norge</p>
-      <p type="listitem">Norges jeger- og fiskerforbund Finnmark</p>
-      <p type="listitem">Norges jeger- og fiskerforbund Troms</p>
-      <p type="listitem">Norske reindriftssamers landsforbund</p>
-      <p type="listitem">Norske samers riksforbund</p>
-      <p type="listitem">Næringslivets hovedorganisasjon</p>
-      <p type="listitem">Troms bonde- og småbrukarlag</p>
-      <p type="listitem">Troms bondelag</p>
-      <p type="listitem">UiT Norges arktiske universitet</p>
-    </list>
-    <p>Disse har hatt merknader til høringsnotatet:</p>
-    <list>
-      <p type="listitem">Sametinget</p>
-    </list>
-    <list>
-      <p type="listitem">Finnmark fylkeskommune</p>
-      <p type="listitem">Troms fylkeskommune</p>
-    </list>
-    <list>
-      <p type="listitem">Tana kommune</p>
-      <p type="listitem">Karasjok kommune</p>
-      <p type="listitem">Kautokeino kommune</p>
-      <p type="listitem">Porsanger kommune</p>
-      <p type="listitem">Vadsø kommune</p>
-    </list>
-    <list>
-      <p type="listitem">Etnisk og demokratisk likeverd (EDL)</p>
-      <p type="listitem">Finnmarkseiendommen/Finnmárkkuopmodat</p>
-      <p type="listitem">For Finnmark</p>
-      <p type="listitem">Norske Kveners Forbund – Ruijan Kveeniliitto</p>
-      <p type="listitem">Norske Samers Riksforbund</p>
-      <p type="listitem">Steinar N. Christensen</p>
-      <p type="listitem">Stig Harby</p>
-      <p type="listitem">Øst-Finnmark regionråd</p>
-    </list>
-    <p type="title">2.4 Konsultasjoner</p>
-    <p>Når departementet vurderer endringer i finnmarksloven, har departementet plikt til å konsultere Sametinget. Det er, slik departementet vurderer det, gjennomført konsultasjoner i tråd med avtale om prosedyrer for konsultasjoner mellom statlige myndigheter og Sametinget. Departementet har valgt å involvere Finnmark fylkeskommune på tilsvarende måte som Sametinget. Det ble gjennomført to konsultasjonsmøter med både Sametinget og Finnmark fylkeskommune, hvor det siste møtet ble gjennomført som felles møte. Det har vært utvekslet dokumenter mellom konsultasjonspartene. Det ble ikke oppnådd enighet om lovforslaget.</p>
-    <p>Sametinget har i konsultasjonene fremholdt som sitt utgangspunkt at Sametinget ikke ønsker at Troms og Finnmark fylker skal slås sammen. Sammenslåingen svekker etter Sametingets syn Finnmarkseiendommens mulighet for å drive en god og helhetlig ressurs- og arealforvaltning, og fører til negative konsekvenser for innbyggerne i Finnmark. Etter Sametingets vurdering vil en kunne bøte på de negative konsekvensene ved å gi Sametinget og den nye fylkeskommunen frihet til selv å velge hvordan de skal oppnevne styremedlemmer, altså at lovens krav om forholdsvalg og valg i plenum bør falle bort. Som begrunnelse viser Sametinget til prinsippet om samenes rett til selvbestemmelse i interne anliggender, for Sametingets del, og for den nye fylkeskommunens del til prinsippet om kommunalt og fylkeskommunalt selvstyre.</p>
-    <p>Finnmark fylkeskommune støttet ikke Sametingets forslag, for fylkestingets oppnevning av styremedlemmer. Fylkeskommunen ga imidlertid støtte til at Sametingets styremedlemmer burde kunne oppnevnes i henhold til Sametingets forslag.</p>
-    <p>Finnmark fylkeskommune har i konsultasjonene motsatt seg departementets forslag om at det nye fylkestinget skal velge styremedlemmer, varamedlemmer og kontrollkomite for Finnmarkseiendommen, og få overført øvrige oppgaver som i dag er lagt til Finnmark fylkesting. Finnmark fylkeskommune vurderer det slik at det nye fylkestinget ikke vil være representativt for innbyggerne i Finnmark, og mener at det er i strid med Finnmarkslovens intensjon å legge oppgavene til Troms og Finnmark fylkesting, slik departementet foreslår. Finnmark fylkeskommune viser til at det nye fylkestinget vil hovedsakelig være valgt av en befolkning fra Troms, som ikke omfattes av grunneierstatusen og rettighetene i Finnmarksloven.</p>
-    <p>Fylkeskommunen har lansert andre alternativer for valg til vervene i Finnmarkseiendommen, og for de andre oppgavene som i dag ligger til Finnmark fylkeskommune. Prinsipalt foreslår Finnmark fylkeskommune et eget valgorgan eller representantskap, valgt av kommunene i Finnmark etter nærmere regler. Subsidiært foreslår fylket at styremedlemmene skal velges og de øvrige oppgavene utføres av <span type="quote">«Finnmarksbenken»</span> i det nye fylkestinget for Troms og Finnmark, altså av de medlemmene i det nye fylkestinget som har bostedsadresse i Finnmark.</p>
-    <p>Sametinget støttet ikke fylkeskommunens forslag om særskilt valgorgan eller representantskap, men ga støtte til en nærmere utredning av muligheten for at <span type="quote">«Finnmarksbenken»</span> kunne være et organ som ivaretar oppgavene som i dag løses av Finnmark fylkesting.</p>
-    <p>Sametinget og Finnmark fylkeskommune mente begge at departementets høringsgrunnlag ikke i tilfredsstillende grad hadde utredet konsekvenser og aktuelle alternativ, og at høringsgrunnlaget derfor ikke ga muligheter til reelle konsultasjoner for å finne løsninger som ivaretok flere interesser. Sametinget og Finnmark fylkeskommune fant heller ikke at departementet ga noen begrunnelse for hvorfor foreslåtte alternative framgangsmåter for styreoppnevning ikke kunne vurderes. Sametinget og Finnmark fylkeskommunene holdt fram at siden de ikke hadde kjennskap til departementets vurderinger, var det ikke mulig til å konsultere reelt, og at det dermed ikke var mulig å oppnå enighet i saken.</p>
-    <p>Sametinget ønsket at det i proposisjonen skulle varsles at det skal foretas en grundig vurdering med sikte på mulige endringer av finnmarkslovens bestemmelser knyttet til styreoppnevning med videre til Finnmarkseiendommen. Finnmark fylkeskommune mente det på tilsvarende måte burde gjøres en grundig vurdering av forslagene fylkeskommunen hadde spilt inn. Sametinget og Finnmark fylkeskommune ba om departementets tilbakemelding på dette. Departementet fant ikke å kunne gå inn på forslagene, da de går ut over det som er nødvendig som følge av fylkessammenslåingen. Departementet viste for øvrig til at Sametinget har anledning til å ta opp sitt forslag på selvstendig grunnlag i den ordinære dialogen med departementet.</p>
-    <p>For departementets vurderinger av de nevnte forslagene, se pkt. 3.3.2, nedenfor.</p>
-    <p type="title">3 Endringer i finnmarksloven</p>
-    <p>Endringene som foreslås i denne proposisjonen skjer på bakgrunn av sammenslåingen av Troms og Finnmark fylker. Endringene i fylkesstrukturen krever tilpasning i loven når det gjelder hvordan man angir lovens geografiske virkeområde, hvordan styremedlemmer til Finnmarkseiendommen og kontrollkomiteen skal velges, samt hvem som skal kunne være mottaker av et eventuelt overskudd fra Finnmarkseiendommen, dersom styret beslutter at dette skal deles ut.</p>
-    <p type="title">3.1 Gjeldende rett og forslagene i høringsutkastet</p>
-    <p type="title">3.1.1 Om lovens geografiske virkeområde og navn</p>
-    <p>Flere steder i loven er det vist til Finnmark fylke. Departementet foreslo i høringsutkastet å endre lovteksten ved å henvise til det geografiske området Finnmark, i stedet for Finnmark fylke. Det geografiske området Finnmark vil da tilsvare det området som per i dag utgjør Finnmark fylke.</p>
-    <p>I dagens lovtekst er det også henvist til Finnmark fylkesting, Finnmark fylkeskommune og fylkesmannen i Finnmark. Dette endres i tråd med de nye navnene på organene.</p>
-    <p>Når det gjelder formålsparagrafen, ble det i høringsutkastet foreslått å endre ordlyden til å gjelde <span type="quote">«Finnmark»</span> i stedet for <span type="quote">«Finnmark fylke»</span>, og at grunn og naturressurser forvaltes på en <span type="quote">«balansert og økologisk bærekraftig måte til beste for innbyggerne»</span>.</p>
-    <p type="title">3.1.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
-    <p>Finnmarksloven § 7 regulerer hvordan medlemmer til Finnmarkseiendommens styre skal velges. Ifølge dagens bestemmelse velger Sametinget og Finnmark fylkesting tre medlemmer, med hvert sitt personlige varamedlem, hver. Alle må være bosatt i Finnmark. I høringsutkastet ble det foreslått at tre medlemmer, med hvert sitt personlige varamedlem, skal velges av nye Troms og Finnmark fylkesting. Forslaget innebærer en endring ved at fylkestingspolitikere fra Troms er med på å bestemme hvem som skal styre Finnmarkseiendommen. Samtidig legger forslaget, som i dag, opp til at medlemmene og varamedlemmene må være bosatt i området som tidligere utgjorde Finnmark fylke.</p>
-    <p>I § 16 reguleres det hvordan medlemmer til kontrollkomiteen velges. I høringsutkastet ble det lagt opp til at ett medlem til kontrollkomiteen, med et personlig varamedlem, velges av det nye fylkestinget.</p>
-    <p type="title">3.1.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
-    <p>Lovens § 15 har en bestemmelse om at styret i Finnmarkseiendommen kan bestemme at et eventuelt overskudd kan deles ut til Finnmark fylkeskommune, Sametinget eller allmennyttige formål som kommer fylkets innbyggere til gode. I høringsutkastet ble det foreslått at den nye fylkeskommunen skal kunne motta overskudd dersom styret beslutter dette. Departementet foreslår at ordningen for utdeling av overskudd avgrenses, slik at eventuelle tildelinger til fylkeskommunen må komme innbyggerne i det området som i dag utgjør Finnmark fylke, til gode. Sametinget har på sin side ikke hatt en tilsvarende begrensning, og departementet foreslo heller ikke en slik begrensning i høringsutkastet.</p>
-    <p type="title">3.2 Høringsinstansenes syn</p>
-    <p type="title">3.2.1 Om lovens geografiske virkeområde og navn</p>
-    <p>Ingen av høringsinstansene har kommet med innsigelser til den delen av forslaget som gjelder hvordan man skal angi lovens geografiske virkeområde. Finnmark fylkeskommune mener at forslaget bidrar til at lovens geografiske virkeområde ikke misforstås.</p>
-    <p>Finnmark fylkeskommune og Vadsø kommune spilte inn at det i formålsparagrafen bør understrekes at loven er ment å tilgodese innbyggerne <em type="italic">i Finnmark. </em></p>
-    <p type="title">3.2.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
-    <p>Mange av høringsinstansene har vært kritiske til høringsutkastets forslag på dette punktet. Finnmarkseiendommen mener at denne løsningen bryter med prinsippet om at eierrådigheten skal ligge hos finnmarkingene, samt at flertallet i det nye fylkestinget kan ha motstridende interesser med befolkningen i Finnmark. Finnmark fylkeskommune viser til at en slik løsning vil være i strid med finnmarkslovens intensjon, og at det nye fylkestinget vil ha hovedvekt av folkevalgte fra Troms. Etter Finnmark fylkeskommunes vurdering kan en slik løsning svekke tilliten til fylkestinget og Finnmarkseiendommens styre. Finnmark fylkeskommune støtter forslaget om at styremedlemmene må være bosatt i Finnmark, men mener at dette ikke er nok til å løse problemene fylkeskommunen ser med å tillegge oppgavene til det felles fylkestinget. Finnmark fylkeskommune har utdypet sine synspunkter i konsultasjonsmøtene med departementet, jf. pkt. 2.4, ovenfor.</p>
-    <p>Tana kommune er også kritisk til å legge oppgaven om å legge valgene til disse vervene til det nye fylkestinget. Det vises blant annet til forarbeidene i finnmarksloven, der det drøftes at dersom fylkeskommunen forsvinner, kan en mulig løsning være at ordførerne i fylket velger medlemmene i samlet møte. Porsanger og Kautokeino kommuner er også kritiske til forslaget, og ønsker heller å opprette et representantskap som utgår fra kommunene i gamle Finnmark fylke.</p>
-    <p>Øst-Finnmark regionråd mener at Finnmarkseiendommen er strategisk viktig for samfunnsutvikling i kommunene i Finnmark. Derfor må finnmarkingene fortsatt ha full styring med Finnmarkseiendommen. De anbefaler å opprette et representantskap som utnevnes med utgangspunkt i kommunenes innbyggertall.</p>
-    <p>Troms fylkeskommune har ikke innsigelser til forslaget i høringsutkastet.</p>
-    <p type="title">3.2.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
-    <p>Finnmark fylkeskommune mente i høringsrunden at Troms og Finnmark fylkeskommune ikke skal kunne være mottaker av et eventuelt overskudd, fordi organet ikke anses som representativt for befolkningen i Finnmarks interesser i denne sammenheng. Fylkeskommunen mente at løsningen som er mest i tråd med lovens formål, er at et eventuelt overskudd benyttes til tiltak i nåværende Finnmark fylke. Sametinget skriver i sin høringsuttalelse at dersom fylkeskommunen er mottaker av utbyttet, så må midlene komme innbyggerne i Finnmark til gode. Kautokeino kommune mente at overskuddet må komme kommunene i Finnmark til gode. Norges jeger- og fiskerforbund Finnmark foreslo i høringen å opprette et fond som styres fra Finnmark, der de som forvalter fondet er personer bosatt i Finnmark, og tildeler midler til beste for Finnmarks befolkning.</p>
-    <p type="title">3.2.4 Innspill på fremgangsmåten for valg av styremedlemmer</p>
-    <p>I høringsbrevet ble det, etter et innspill fra Sametinget, åpnet for at høringsinstansene kunne komme med eventuelle innspill til fremgangsmåten for valg av styre- og varamedlemmer til Finnmarkseiendommen. Etter dagens § 7 skal valget gjøres av fylkestinget og Sametinget i plenum, og etter § 8 skal valget gjøres ved forholdstallsvalg når minst ett medlem av organet krever det.</p>
-    <p>I høringsrunden har Kautokeino og Porsanger kommuner stilt spørsmål ved om regelen om forholdstallsvalg er formålstjenlig. De har foreslått heller å la Sametinget vedta særskilte kriterier for valg av styremedlemmer.</p>
-    <p>Sametinget ønsker også å endre finnmarkslovens § 8, slik at Sametinget selv kan velge fremgangsmåte. Sametinget viser til at det ville være i bedre samsvar med det samiske folkets rett til selvbestemmelse og Sametingets selvstendige stilling og myndighet, om Sametinget selv gir bestemmelser om sin arbeidsordning. Sametinget foreslår også å ta bort kravet i § 7 om at valget skal skje i plenum, slik at plenum selv kan velge å delegere oppgaven til Sametingsrådet eller til et annet organ, jf. også omtalen av konsultasjonene, under pkt. 2.4, ovenfor.</p>
-    <p type="title">3.3 Departementets vurderinger</p>
-    <p type="title">3.3.1 Om lovens geografiske virkeområde og navn</p>
-    <p>Departementet fastholder i hovedsak forslaget i høringsutkastet. Når det gjelder formålsparagrafen og hvem loven er ment å tilgodese, foreslår departementet å spesifisere at loven er ment å tilgodese innbyggerne i Finnmark, i tråd med innspill fra Finnmark fylkeskommune. Intensjonen har ikke vært å utvide kretsen av de som skal tilgodeses etter loven, og forslaget fra Finnmark fylkeskommune gjør dette klarere.</p>
-    <p type="title">3.3.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
-    <p>Departementet la i høringsnotatet opp til å legge oppgaven med å velge medlemmer til Finnmarkseiendommens styre og kontrollkomite til det nye fylkestinget. Flere av høringsinstansene går inn for at det skal opprettes et nytt organ for å løse denne oppgaven, for eksempel et råd eller et representantskap som utgår fra kommunene i Finnmark.</p>
-    <p>Etter departementets vurdering er det mest hensiktsmessig å benytte seg av eksisterende strukturer, og ikke opprette et eget system med et valgorgan som bare har som oppgave å oppnevne medlemmer til Finnmarkseiendommens styre og kontrollkomite, og eventuelle andre oppgaver som etter finnmarksloven i dag ligger til Finnmark fylkesting. Dersom man skulle ha valgt en slik løsning, er det en rekke problemstillinger man må finne egne løsninger på. Det gjelder blant annet hvordan stemmegivning i valgorganet skal skje, om hver kommune i gamle Finnmark skal ha én stemme, eller om stemmene skal avgjøres ut fra antall innbyggere eller areal. Et nytt organ vil også kreve løsninger for administrasjon og finansiering. Etter departementets vurdering vil dette være dyrere og mer byråkratisk enn å legge oppgaven til den nye fylkeskommunen. Videre kan det ved opprettelse av et slikt nytt organ bli uklart hvordan styremedlemmene skal kunne holdes til ansvar mellom de ordinære valgene. I dag kan Sametinget og fylkestinget avsette og velge nye styremedlemmer på et hvilket som helst tidspunkt. Et eget valgorgan vil møtes sjeldnere og vil vanskelig kunne holde styremedlemmene i Finnmarkseiendommen ansvarlig på tilsvarende måte. Videre vil et valg fra et kommunebasert valgorgan kunne føre til at ulike grupper av kommuner i praksis vil velge <span type="quote">«sitt»</span> styremedlem, noe som vil kunne gi uheldige bindinger for de som er valgt. Departementet vil her vise til at det jevnlig oppstår situasjoner der en kommune og Finnmarkseiendommen har motstridende interesser.</p>
-    <p>I konsultasjonene med Finnmark fylkeskommune ble det, som nevnt under pkt. 2.4, også foreslått at valget av styremedlemmer kunne bli lagt til fylkestingsrepresentantene med bostedsadresse i Finnmark, den såkalte <span type="quote">«Finnmarksbenken»</span>. Departementet vurderer heller ikke det alternativet som en god løsning. Fra 1. januar 2020 vil det nye fylket være én valgkrets. Hvor mange representanter de ulike listene har fra Finnmark, vil kunne variere, og dette alternativet vil gi en vilkårlig fordel til de listene som har flere representanter fra Finnmark. Videre vil representanter bosatt i Finnmark kunne ha vararepresentanter bosatt i Troms, og motsatt, slik at sammensetningen av <span type="quote">«Finnmarksbenken»</span> vil kunne variere fra fylkestingssamling til fylkestingssamling, noe som kan gi tilfeldige utslag.</p>
-    <p>Departementet vurderer det derfor fortsatt slik at oppgaven med å velge styremedlemmer bør legges til det nye fylkestinget. Når Sametinget i dag velger medlemmer til Finnmarkseiendommens styre, gjøres det av et samlet plenumsmøte, som også består av representanter fra utenfor Finnmark. Etter departementets vurdering er det en praktisk løsning, som også vil kunne fungere godt for de tre øvrige styremedlemmene. Departementet vurderer det også slik at kravet om at medlemmene skal være bosatt i Finnmark, vil være med på å forankre styringen i Finnmarks befolkning.</p>
-    <p>Etter departementets vurdering er det gode grunner for at modellen for oppnevning av styremedlemmer bør være så lik som mulig for de sametingsvalgte styremedlemmene og de fylkestingsvalgte. Det er i stor grad de samme hensynene som gjør seg gjeldende, og hensynet til et oversiktlig system tilsier at valgmodellene fortrinnsvis bør være like. Det er vanskelig å se at tilstrekkelig tungtveiende grunner er anført for å innføre ulike modeller.</p>
-    <p>Departementet har notert seg Finnmark fylkeskommunes bekymring for om det nye fylkestinget vil ha tilstrekkelig legitimitet, men deler ikke denne bekymringen. Departementet legger til grunn at det nye fylkestinget vil ha et godt grunnlag for å løse oppgaven med valg av styremedlemmer og medlemmer i kontrollkomiteen på en god måte. Oppnevning av styremedlemmer er en oppgave fylkestinget som folkevalgt organ er godt egnet til å løse.</p>
-    <p>Departementet har en tilsvarende vurdering når det gjelder de andre oppgavene som i dagens lov er lagt til Finnmark fylkeskommune, for eksempel samtykke til avhending av grunn i visse tilfeller, etter reglene i lovens § 10 sjette ledd.</p>
-    <p type="title">3.3.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
-    <p>Departementet holder fast ved løsningen som ble skissert i høringsutkastet. Loven er ment å tilgodese innbyggerne i Finnmark. Dersom overskuddet deles ut til den nye fylkeskommunen eller allmennyttige formål, er det spesifisert at midlene skal komme Finnmarks innbyggere til gode. Midlene skal ikke anvendes til formål som er innrettet mot innbyggerne i hele det nye fylket.</p>
-    <p type="title">3.3.4 Om fremgangsmåte for valg av medlemmer til Finnmarkseiendommens styre</p>
-    <p>Sametinget, og enkelte andre høringsinstanser, har i høringen kommet med forslag om å endre § 7 og § 8 i loven, slik at Sametinget får frihet til selv å velge hvordan Sametingets styremedlemmer skal oppnevnes. Forslaget ville innebære at kravene om forholdsvalg og valg i plenum tas ut av loven.</p>
-    <p>Departementet kan ikke se at forslaget er nødvendig som følge av fylkessammenslåingen. Sametinget har allerede tatt til orde for forslaget på et tidligere tidspunkt, og begrunnelsen fra Sametinget er i liten grad knyttet til sammenslåingen. Forslaget om en tilsvarende endring for fylkeskommunens valg av styremedlemmer har ikke støtte fra Finnmark fylkeskommune, og forslaget har heller ikke vært utredet eller vært på alminnelig høring. Det vil være uheldig om modellen for valg av styremedlemmer skulle endres bare for Sametingets vedkommende. Etter departementets syn bør man dessuten i utgangspunktet være tilbakeholden med endringer i finnmarksloven, som var et resultat av et bredt og skjørt kompromiss, inngått i 2005. Departementets syn er på denne bakgrunn at man ikke bør gå videre med Sametingets forslag i denne sammenhengen.</p>
-    <p type="title">4 Økonomiske og administrative konsekvenser av forslaget</p>
-    <p>Etter departementets vurdering vil ikke endringsforslagene i denne proposisjonen innebære økonomiske eller administrative konsekvenser av betydning. Forslaget legger opp til at ansvaret for hvordan man går fram ved valg av styremedlemmer, varamedlemmer og kontrollkomite legges til eksisterende organisasjonsstrukturer. Der Finnmark fylkesting tidligere har hatt oppgaver etter loven, er det i proposisjonen foreslått å legge oppgavene til det nye samlede fylkestinget for Troms og Finnmark.</p>
-    <p type="title">5 Merknader til de enkelte bestemmelser i lovforslaget</p>
-    <p type="title">Til § 1, § 22 første ledd, § 23 første ledd, § 25 andre ledd og § 29 andre ledd</p>
-    <p>Det foreslås å endre bestemmelsenes bruk av begrepet Finnmark fylke, til å vise til det geografiske området Finnmark. Forslaget innebærer at lovens ordning i hovedsak blir videreført når Troms og Finnmark fylke blir slått sammen. Lovens geografiske virkeområde vil forbli det samme.</p>
-    <p>Tittelen på loven endres tilsvarende. Lovens korttittel endres slik at den skrives med stor bokstav, i tråd med anbefalingene fra Språkrådet.</p>
-    <p type="title">Til § 2</p>
-    <p>Det er tatt inn en presisering i første ledd om at Finnmark skal forstås som det området som utgjorde Finnmark fylke 1. juli 2006, da det meste av loven trådte i kraft, og Finnmarkseiendommen overtok Statskogs eiendommer i Finnmark. Dette er Alta, Berlevåg, Båtsfjord, Gamvik, Hasvik, Hammerfest, Kautokeino – Guovdageainnu, Karasjok – Kárášjoga, Kvalsund, Lebesby, Loppa, Måsøy, Nesseby – Unjárgga, Nordkapp, Porsanger – Porsáŋggu – Porsanki, Sør-Varanger, Tana – Deanu, Vadsø og Vardø kommuner.</p>
-    <p type="title">Til § 7 andre ledd, § 7 sjette ledd, § 10 tredje ledd, § 10 sjette ledd, § 16 første ledd, § 16 femte ledd og § 31 andre ledd</p>
-    <p>I dagens lov er noen oppgaver og funksjoner knyttet opp til Finnmark fylkesting. Forslaget innebærer at en legger disse til det nye fylkestinget. Det innebærer for eksempel at det nye fylkestinget i visse situasjoner skal godkjenne styrevedtak i Finnmarkseiendommen om avhending av grunn, som beskrevet i § 10 sjette ledd. Endringene innebærer en endring i forhold til dagens situasjon.</p>
-    <p>Når det gjelder § 7 andre ledd, vil det innebære at hele det nye fylkestinget er med på å velge representantene til styret til Finnmarkseiendommen. Dette innebærer at også representanter fra tidligere Troms fylke vil være med på å bestemme hvem som skal sitte i Finnmarkseiendommens styre. Styremedlemmene må fortsatt være bosatt i Finnmark.</p>
-    <p>Forslaget innebærer også at det nye fylkestinget får oppgaven med å oppnevne et medlem til kontrollkomiteen, jf. § 16 første ledd. De to andre medlemmene oppnevnes av henholdsvis Sametinget og Kongen (Kommunal- og moderniseringsdepartementet iht. kgl. res. 8. april 2011 nr. 387). Videre vil det nye fylkestinget være mottaker av kontrollkomiteens rapport, jf. § 16 femte ledd.</p>
-    <p type="title">Til § 15</p>
-    <p>Finnmarkseiendommens virksomhet har ikke som formål å gå med overskudd, men dersom dette skjer, kan styret beslutte å dele ut hele eller deler av overskuddet av virksomheten. Overskuddet kunne ifølge den tidligere bestemmelsen gå til fylkeskommunen, Sametinget eller til allmennyttige formål som kommer fylkets innbyggere til gode. Lovendringen innebærer at Troms og Finnmark fylkeskommune kan være mottaker av et eventuelt overskudd, dersom Finnmarkseiendommens styre beslutter det. Dersom fylkeskommunen er mottaker av overskudd, stilles det nå uttrykkelig krav om at midlene må komme det geografiske området Finnmarks innbyggere til gode. Det ligger til styret å bestemme om overskuddet skal deles ut, og hvem som skal motta midler.</p>
-    <p type="title">Til § 18 andre ledd og § 46 første ledd</p>
-    <p>Forslaget innebærer at det nye fylkesmannsembetet vil bli klageorgan for avslag på krav om innsyn i Finnmarkseiendommens saksdokumenter, jf. § 18 andre ledd, og Finnmarkskommisjonens saksdokumenter, jf. § 46 første ledd. Det nye fylkesmannsembetet for Troms og Finnmark er allerede etablert, fra 1. januar 2019, og endringen bringer lovbestemmelsen i tråd med det.</p>
-    <p type="title">Tilråding</p>
-    <p>Kommunal og moderniseringsdepartementet</p>
-    <p>tilrår:</p>
-    <p>At Deres Majestet godkjenner og skriver under et framlagt forslag til proposisjon til Stortinget om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker).</p>
-    <p><em type="bold">Vi HARALD, </em>Norges Konge, </p>
-    <p>stadfester:</p>
-    <p>Stortinget blir bedt om å gjøre vedtak til lov om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker) i samsvar med et vedlagt forslag.</p>
-    <p type="title">Forslag          til lov om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker)</p>
-    <p type="title">I lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke gjøres følgende endringer:</p>
-    <p type="title">Lovens tittel skal lyde:</p>
-    <p type="title">Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)</p>
-    <p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«Finnmark fylke»</span> endres til <span type="quote">«Finnmark»</span>:  § 22 første ledd, § 23 første ledd og § 29 andre ledd.</p>
-    <p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«Finnmark fylkesting»</span> endres til <span type="quote">«Troms og Finnmark fylkesting»</span>:  § 7 andre ledd, § 7 sjette ledd, § 10 tredje ledd, § 10 sjette ledd, § 16 første ledd, § 16 femte ledd og § 31 andre ledd.</p>
-    <p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«fylkesmannen i Finnmark»</span> endres til <span type="quote">«fylkesmannen i Troms og Finnmark»</span>:  § 18 andre ledd og § 46 første ledd.</p>
-    <p type="title">§ 1 første ledd skal lyde:</p>
-    <p>Lovens formål er å legge til rette for at grunn og naturressurser i Finnmark  forvaltes på en balansert og økologisk bærekraftig måte til beste for innbyggerne  i Finnmark  og særlig som grunnlag for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv.</p>
-    <p type="title">§ 2 første ledd skal lyde:</p>
-    <p>Loven gjelder for fast eiendom og vassdrag med naturressurser i Finnmark. Med Finnmark menes det området som utgjorde Finnmark fylke 1. juli 2006.</p>
-    <p type="title">§ 15 første ledd skal lyde:</p>
-    <p>Dersom Finnmarkseiendommen i bankinnskudd, kontanter og lignende har aktiva som fratrukket eventuell gjeld overstiger det som trengs av reserver for å sikre driften, kan styret beslutte at overskuddet helt eller delvis skal utbetales til Troms og Finnmark  fylkeskommune, Sametinget eller allmennyttige  formål. Overskudd som deles ut til fylkeskommunen eller allmennyttige formål, skal komme Finnmarks  innbyggere til gode.</p>
-    <p type="title">§ 25 andre ledd skal lyde:</p>
-    <p>Finnmarkseiendommen kan gi andre enn dem som er bosatt i kommunen eller i Finnmark  , ytterligere adgang til å utnytte fornybare ressurser som nevnt i §§ 22 og 23.</p>
-    <p type="title">II</p>
-    <p>Loven gjelder fra den tid Kongen bestemmer.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2019</year><wordcount>4345</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><parallel_text xml:lang="sme" location="prp201820190134000se_epub.epub"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 180635 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Prop. 134 L</p>
+<p type="title">(2018–2019) Proposisjon til Stortinget (forslag til lovvedtak)</p>
+<p type="title">Endringer i finnmarksloven  (endringer som følge av sammenslåingen av Troms og Finnmark fylker)</p>
+<p>Tilråding fra Kommunal- og modernseringsdepartementet 21. juni 2019, godkjent i statsråd samme dag. (Regjeringen Solberg)</p>
+<p>Dokumentet på regjeringen.no</p>
+<p type="title">1 Proposisjonens hovedinnhold</p>
+<p>Kommunal- og moderniseringsdepartementet fremmer i denne proposisjonen forslag om endringer i finnmarksloven. Finnmarksloven gjelder forvaltning av grunn og naturressurser i Finnmark fylke. Som følge av Stortingets vedtak av 8. juni 2017 om regionreformen skal Troms og Finnmark fylker slås sammen fra 1. januar 2020. Sammenlåingen gjør det nødvendig å gjøre visse endringer for å tilpasse finnmarksloven til den nye fylkesinndelingen.</p>
+<p>Det er behov for tilpasning i loven når det gjelder hvordan man angir lovens geografiske virkeområde. Departementet foreslår å endre loven slik at det vises til det geografiske området Finnmark, som i dag utgjør Finnmark fylke, slik at virkeområdet blir det samme som i dag. Oppgaver som i dagens lov er lagt til Finnmark fylkesting (blant annet valg av styremedlemmer til Finnmarkseiendommen, valg til kontrollkomiteen og godkjenning av Finnmarkseiendommens avhending av eiendom i visse tilfeller), foreslås lagt til fylkestinget i den nye Troms og Finnmark fylkeskommune. Det er også foreslått tilpasninger i reglene for hvem som skal kunne være mottaker av et eventuelt overskudd fra Finnmarkseiendommen, dersom styret beslutter at overskuddet skal deles ut.</p>
+<p type="title">2 Bakgrunnen for proposisjonen</p>
+<p type="title">2.1 Regionreformen</p>
+<p>Fra 1. januar 2020 har vi elleve fylker i Norge; ti fylkeskommuner samt Oslo kommune med fylkeskommunale oppgaver. Mens ni fylker i dag har under 200 000 innbyggere, vil minste fylke i innbyggertall fra 2020 øke fra 76 000 til 240 000 innbyggere.</p>
+<p>Når fylkeskommunene nå blir større, skal de også få flere virkemidler til å utvikle fylkene i tråd med regionale behov og muligheter. Det skal overføres oppgaver og virkemidler innenfor områder der fylkeskommunene allerede har ansvar og kompetanse.</p>
+<p>Fylkeskommunene skal få nye oppgaver blant annet innen kompetanse og integrering, folkehelse, klima og miljø, næringsutvikling og landbruk, forskning, samferdsel, planlegging og kultur. Dette er viktige områder for utviklingen av samfunnet i det enkelte fylket og oppgaver som fylkeskommunene har gode forutsetninger for å løse.</p>
+<p type="title">2.2 Finnmarksloven</p>
+<p>Proposisjonen fremmes av Kommunal- og moderniseringsdepartementet, som ansvarlig for forvaltningen av finnmarkslovens bestemmelser om Finnmarkseiendommen. Proposisjonen fremmes i samråd med Justis- og beredskapsdepartementet som har ansvaret for finnmarksloven som sådan.</p>
+<p>Lovens formål er å legge til rette for at grunn og naturressurser i Finnmark fylke forvaltes på en balansert og økologisk bærekraftig måte til beste for innbyggerne i fylket og særlig som grunnlag for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv.</p>
+<p type="title">2.3 Høringen</p>
+<p>Kommunal- og moderniseringsdepartementet sendte 4. desember 2018 på høring et forslag om endringer i finnmarksloven. Saken ble sendt til følgende høringsinstanser med høringsfrist 4. mars 2019:</p>
+<list><p type="listitem">Departementene</p>
+</list><list><p type="listitem">Sametinget</p>
+</list><list><p type="listitem">Finnmark fylkeskommune</p>
+<p type="listitem">Troms fylkeskommune</p>
+</list><list><p type="listitem">Fylkesmannen i Finnmark</p>
+<p type="listitem">Fylkesmannen i Troms</p>
+</list><list><p type="listitem">Alta kommune</p>
+<p type="listitem">Balsfjord kommune</p>
+<p type="listitem">Bardu kommune</p>
+<p type="listitem">Berg kommune</p>
+<p type="listitem">Berlevåg kommune</p>
+<p type="listitem">Båtsfjord kommune</p>
+<p type="listitem">Dyrøy kommune</p>
+<p type="listitem">Gamvik kommune</p>
+<p type="listitem">Gratangen kommune</p>
+<p type="listitem">Hammerfest kommune</p>
+<p type="listitem">Harstad kommune</p>
+<p type="listitem">Hasvik kommune</p>
+<p type="listitem">Ibestad kommune</p>
+<p type="listitem">Karasjok kommune</p>
+<p type="listitem">Karlsøy kommune</p>
+<p type="listitem">Kautokeino kommune</p>
+<p type="listitem">Kvæfjord kommune</p>
+<p type="listitem">Kvænangen kommune</p>
+<p type="listitem">Kåfjord kommune</p>
+<p type="listitem">Lavangen kommune</p>
+<p type="listitem">Lebesby kommune</p>
+<p type="listitem">Lenvik kommune</p>
+<p type="listitem">Loppa kommune</p>
+<p type="listitem">Lyngen kommune</p>
+<p type="listitem">Målselv kommune</p>
+<p type="listitem">Måsøy kommune</p>
+<p type="listitem">Nesseby kommune</p>
+<p type="listitem">Nordkapp kommune</p>
+<p type="listitem">Nordreisa kommune</p>
+<p type="listitem">Porsanger kommune</p>
+<p type="listitem">Salangen kommune</p>
+<p type="listitem">Skjervøy kommune</p>
+<p type="listitem">Skånland kommune</p>
+<p type="listitem">Storfjord kommune</p>
+<p type="listitem">Sørreisa kommune</p>
+<p type="listitem">Sør-Varanger kommune</p>
+<p type="listitem">Tana kommune</p>
+<p type="listitem">Torsken kommune</p>
+<p type="listitem">Tranøy kommune</p>
+<p type="listitem">Tromsø kommune</p>
+<p type="listitem">Vadsø kommune</p>
+<p type="listitem">Vardø kommune</p>
+</list><list><p type="listitem">Finnmark bonde- og småbrukarlag</p>
+<p type="listitem">Finnmark bondelag</p>
+<p type="listitem">Finnmarkseiendommen</p>
+<p type="listitem">Fiskarlaget nord</p>
+<p type="listitem">Landsorganisasjonen i Norge</p>
+<p type="listitem">Norges jeger- og fiskerforbund Finnmark</p>
+<p type="listitem">Norges jeger- og fiskerforbund Troms</p>
+<p type="listitem">Norske reindriftssamers landsforbund</p>
+<p type="listitem">Norske samers riksforbund</p>
+<p type="listitem">Næringslivets hovedorganisasjon</p>
+<p type="listitem">Troms bonde- og småbrukarlag</p>
+<p type="listitem">Troms bondelag</p>
+<p type="listitem">UiT Norges arktiske universitet</p>
+</list><p>Disse har hatt merknader til høringsnotatet:</p>
+<list><p type="listitem">Sametinget</p>
+</list><list><p type="listitem">Finnmark fylkeskommune</p>
+<p type="listitem">Troms fylkeskommune</p>
+</list><list><p type="listitem">Tana kommune</p>
+<p type="listitem">Karasjok kommune</p>
+<p type="listitem">Kautokeino kommune</p>
+<p type="listitem">Porsanger kommune</p>
+<p type="listitem">Vadsø kommune</p>
+</list><list><p type="listitem">Etnisk og demokratisk likeverd (EDL)</p>
+<p type="listitem">Finnmarkseiendommen/Finnmárkkuopmodat</p>
+<p type="listitem">For Finnmark</p>
+<p type="listitem">Norske Kveners Forbund – Ruijan Kveeniliitto</p>
+<p type="listitem">Norske Samers Riksforbund</p>
+<p type="listitem">Steinar N. Christensen</p>
+<p type="listitem">Stig Harby</p>
+<p type="listitem">Øst-Finnmark regionråd</p>
+</list><p type="title">2.4 Konsultasjoner</p>
+<p>Når departementet vurderer endringer i finnmarksloven, har departementet plikt til å konsultere Sametinget. Det er, slik departementet vurderer det, gjennomført konsultasjoner i tråd med avtale om prosedyrer for konsultasjoner mellom statlige myndigheter og Sametinget. Departementet har valgt å involvere Finnmark fylkeskommune på tilsvarende måte som Sametinget. Det ble gjennomført to konsultasjonsmøter med både Sametinget og Finnmark fylkeskommune, hvor det siste møtet ble gjennomført som felles møte. Det har vært utvekslet dokumenter mellom konsultasjonspartene. Det ble ikke oppnådd enighet om lovforslaget.</p>
+<p>Sametinget har i konsultasjonene fremholdt som sitt utgangspunkt at Sametinget ikke ønsker at Troms og Finnmark fylker skal slås sammen. Sammenslåingen svekker etter Sametingets syn Finnmarkseiendommens mulighet for å drive en god og helhetlig ressurs- og arealforvaltning, og fører til negative konsekvenser for innbyggerne i Finnmark. Etter Sametingets vurdering vil en kunne bøte på de negative konsekvensene ved å gi Sametinget og den nye fylkeskommunen frihet til selv å velge hvordan de skal oppnevne styremedlemmer, altså at lovens krav om forholdsvalg og valg i plenum bør falle bort. Som begrunnelse viser Sametinget til prinsippet om samenes rett til selvbestemmelse i interne anliggender, for Sametingets del, og for den nye fylkeskommunens del til prinsippet om kommunalt og fylkeskommunalt selvstyre.</p>
+<p>Finnmark fylkeskommune støttet ikke Sametingets forslag, for fylkestingets oppnevning av styremedlemmer. Fylkeskommunen ga imidlertid støtte til at Sametingets styremedlemmer burde kunne oppnevnes i henhold til Sametingets forslag.</p>
+<p>Finnmark fylkeskommune har i konsultasjonene motsatt seg departementets forslag om at det nye fylkestinget skal velge styremedlemmer, varamedlemmer og kontrollkomite for Finnmarkseiendommen, og få overført øvrige oppgaver som i dag er lagt til Finnmark fylkesting. Finnmark fylkeskommune vurderer det slik at det nye fylkestinget ikke vil være representativt for innbyggerne i Finnmark, og mener at det er i strid med Finnmarkslovens intensjon å legge oppgavene til Troms og Finnmark fylkesting, slik departementet foreslår. Finnmark fylkeskommune viser til at det nye fylkestinget vil hovedsakelig være valgt av en befolkning fra Troms, som ikke omfattes av grunneierstatusen og rettighetene i Finnmarksloven.</p>
+<p>Fylkeskommunen har lansert andre alternativer for valg til vervene i Finnmarkseiendommen, og for de andre oppgavene som i dag ligger til Finnmark fylkeskommune. Prinsipalt foreslår Finnmark fylkeskommune et eget valgorgan eller representantskap, valgt av kommunene i Finnmark etter nærmere regler. Subsidiært foreslår fylket at styremedlemmene skal velges og de øvrige oppgavene utføres av <span type="quote">«Finnmarksbenken»</span> i det nye fylkestinget for Troms og Finnmark, altså av de medlemmene i det nye fylkestinget som har bostedsadresse i Finnmark.</p>
+<p>Sametinget støttet ikke fylkeskommunens forslag om særskilt valgorgan eller representantskap, men ga støtte til en nærmere utredning av muligheten for at <span type="quote">«Finnmarksbenken»</span> kunne være et organ som ivaretar oppgavene som i dag løses av Finnmark fylkesting.</p>
+<p>Sametinget og Finnmark fylkeskommune mente begge at departementets høringsgrunnlag ikke i tilfredsstillende grad hadde utredet konsekvenser og aktuelle alternativ, og at høringsgrunnlaget derfor ikke ga muligheter til reelle konsultasjoner for å finne løsninger som ivaretok flere interesser. Sametinget og Finnmark fylkeskommune fant heller ikke at departementet ga noen begrunnelse for hvorfor foreslåtte alternative framgangsmåter for styreoppnevning ikke kunne vurderes. Sametinget og Finnmark fylkeskommunene holdt fram at siden de ikke hadde kjennskap til departementets vurderinger, var det ikke mulig til å konsultere reelt, og at det dermed ikke var mulig å oppnå enighet i saken.</p>
+<p>Sametinget ønsket at det i proposisjonen skulle varsles at det skal foretas en grundig vurdering med sikte på mulige endringer av finnmarkslovens bestemmelser knyttet til styreoppnevning med videre til Finnmarkseiendommen. Finnmark fylkeskommune mente det på tilsvarende måte burde gjøres en grundig vurdering av forslagene fylkeskommunen hadde spilt inn. Sametinget og Finnmark fylkeskommune ba om departementets tilbakemelding på dette. Departementet fant ikke å kunne gå inn på forslagene, da de går ut over det som er nødvendig som følge av fylkessammenslåingen. Departementet viste for øvrig til at Sametinget har anledning til å ta opp sitt forslag på selvstendig grunnlag i den ordinære dialogen med departementet.</p>
+<p>For departementets vurderinger av de nevnte forslagene, se pkt. 3.3.2, nedenfor.</p>
+<p type="title">3 Endringer i finnmarksloven</p>
+<p>Endringene som foreslås i denne proposisjonen skjer på bakgrunn av sammenslåingen av Troms og Finnmark fylker. Endringene i fylkesstrukturen krever tilpasning i loven når det gjelder hvordan man angir lovens geografiske virkeområde, hvordan styremedlemmer til Finnmarkseiendommen og kontrollkomiteen skal velges, samt hvem som skal kunne være mottaker av et eventuelt overskudd fra Finnmarkseiendommen, dersom styret beslutter at dette skal deles ut.</p>
+<p type="title">3.1 Gjeldende rett og forslagene i høringsutkastet</p>
+<p type="title">3.1.1 Om lovens geografiske virkeområde og navn</p>
+<p>Flere steder i loven er det vist til Finnmark fylke. Departementet foreslo i høringsutkastet å endre lovteksten ved å henvise til det geografiske området Finnmark, i stedet for Finnmark fylke. Det geografiske området Finnmark vil da tilsvare det området som per i dag utgjør Finnmark fylke.</p>
+<p>I dagens lovtekst er det også henvist til Finnmark fylkesting, Finnmark fylkeskommune og fylkesmannen i Finnmark. Dette endres i tråd med de nye navnene på organene.</p>
+<p>Når det gjelder formålsparagrafen, ble det i høringsutkastet foreslått å endre ordlyden til å gjelde <span type="quote">«Finnmark»</span> i stedet for <span type="quote">«Finnmark fylke»</span>, og at grunn og naturressurser forvaltes på en <span type="quote">«balansert og økologisk bærekraftig måte til beste for innbyggerne»</span>.</p>
+<p type="title">3.1.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
+<p>Finnmarksloven § 7 regulerer hvordan medlemmer til Finnmarkseiendommens styre skal velges. Ifølge dagens bestemmelse velger Sametinget og Finnmark fylkesting tre medlemmer, med hvert sitt personlige varamedlem, hver. Alle må være bosatt i Finnmark. I høringsutkastet ble det foreslått at tre medlemmer, med hvert sitt personlige varamedlem, skal velges av nye Troms og Finnmark fylkesting. Forslaget innebærer en endring ved at fylkestingspolitikere fra Troms er med på å bestemme hvem som skal styre Finnmarkseiendommen. Samtidig legger forslaget, som i dag, opp til at medlemmene og varamedlemmene må være bosatt i området som tidligere utgjorde Finnmark fylke.</p>
+<p>I § 16 reguleres det hvordan medlemmer til kontrollkomiteen velges. I høringsutkastet ble det lagt opp til at ett medlem til kontrollkomiteen, med et personlig varamedlem, velges av det nye fylkestinget.</p>
+<p type="title">3.1.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
+<p>Lovens § 15 har en bestemmelse om at styret i Finnmarkseiendommen kan bestemme at et eventuelt overskudd kan deles ut til Finnmark fylkeskommune, Sametinget eller allmennyttige formål som kommer fylkets innbyggere til gode. I høringsutkastet ble det foreslått at den nye fylkeskommunen skal kunne motta overskudd dersom styret beslutter dette. Departementet foreslår at ordningen for utdeling av overskudd avgrenses, slik at eventuelle tildelinger til fylkeskommunen må komme innbyggerne i det området som i dag utgjør Finnmark fylke, til gode. Sametinget har på sin side ikke hatt en tilsvarende begrensning, og departementet foreslo heller ikke en slik begrensning i høringsutkastet.</p>
+<p type="title">3.2 Høringsinstansenes syn</p>
+<p type="title">3.2.1 Om lovens geografiske virkeområde og navn</p>
+<p>Ingen av høringsinstansene har kommet med innsigelser til den delen av forslaget som gjelder hvordan man skal angi lovens geografiske virkeområde. Finnmark fylkeskommune mener at forslaget bidrar til at lovens geografiske virkeområde ikke misforstås.</p>
+<p>Finnmark fylkeskommune og Vadsø kommune spilte inn at det i formålsparagrafen bør understrekes at loven er ment å tilgodese innbyggerne <em type="italic">i Finnmark. </em></p>
+<p type="title">3.2.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
+<p>Mange av høringsinstansene har vært kritiske til høringsutkastets forslag på dette punktet. Finnmarkseiendommen mener at denne løsningen bryter med prinsippet om at eierrådigheten skal ligge hos finnmarkingene, samt at flertallet i det nye fylkestinget kan ha motstridende interesser med befolkningen i Finnmark. Finnmark fylkeskommune viser til at en slik løsning vil være i strid med finnmarkslovens intensjon, og at det nye fylkestinget vil ha hovedvekt av folkevalgte fra Troms. Etter Finnmark fylkeskommunes vurdering kan en slik løsning svekke tilliten til fylkestinget og Finnmarkseiendommens styre. Finnmark fylkeskommune støtter forslaget om at styremedlemmene må være bosatt i Finnmark, men mener at dette ikke er nok til å løse problemene fylkeskommunen ser med å tillegge oppgavene til det felles fylkestinget. Finnmark fylkeskommune har utdypet sine synspunkter i konsultasjonsmøtene med departementet, jf. pkt. 2.4, ovenfor.</p>
+<p>Tana kommune er også kritisk til å legge oppgaven om å legge valgene til disse vervene til det nye fylkestinget. Det vises blant annet til forarbeidene i finnmarksloven, der det drøftes at dersom fylkeskommunen forsvinner, kan en mulig løsning være at ordførerne i fylket velger medlemmene i samlet møte. Porsanger og Kautokeino kommuner er også kritiske til forslaget, og ønsker heller å opprette et representantskap som utgår fra kommunene i gamle Finnmark fylke.</p>
+<p>Øst-Finnmark regionråd mener at Finnmarkseiendommen er strategisk viktig for samfunnsutvikling i kommunene i Finnmark. Derfor må finnmarkingene fortsatt ha full styring med Finnmarkseiendommen. De anbefaler å opprette et representantskap som utnevnes med utgangspunkt i kommunenes innbyggertall.</p>
+<p>Troms fylkeskommune har ikke innsigelser til forslaget i høringsutkastet.</p>
+<p type="title">3.2.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
+<p>Finnmark fylkeskommune mente i høringsrunden at Troms og Finnmark fylkeskommune ikke skal kunne være mottaker av et eventuelt overskudd, fordi organet ikke anses som representativt for befolkningen i Finnmarks interesser i denne sammenheng. Fylkeskommunen mente at løsningen som er mest i tråd med lovens formål, er at et eventuelt overskudd benyttes til tiltak i nåværende Finnmark fylke. Sametinget skriver i sin høringsuttalelse at dersom fylkeskommunen er mottaker av utbyttet, så må midlene komme innbyggerne i Finnmark til gode. Kautokeino kommune mente at overskuddet må komme kommunene i Finnmark til gode. Norges jeger- og fiskerforbund Finnmark foreslo i høringen å opprette et fond som styres fra Finnmark, der de som forvalter fondet er personer bosatt i Finnmark, og tildeler midler til beste for Finnmarks befolkning.</p>
+<p type="title">3.2.4 Innspill på fremgangsmåten for valg av styremedlemmer</p>
+<p>I høringsbrevet ble det, etter et innspill fra Sametinget, åpnet for at høringsinstansene kunne komme med eventuelle innspill til fremgangsmåten for valg av styre- og varamedlemmer til Finnmarkseiendommen. Etter dagens § 7 skal valget gjøres av fylkestinget og Sametinget i plenum, og etter § 8 skal valget gjøres ved forholdstallsvalg når minst ett medlem av organet krever det.</p>
+<p>I høringsrunden har Kautokeino og Porsanger kommuner stilt spørsmål ved om regelen om forholdstallsvalg er formålstjenlig. De har foreslått heller å la Sametinget vedta særskilte kriterier for valg av styremedlemmer.</p>
+<p>Sametinget ønsker også å endre finnmarkslovens § 8, slik at Sametinget selv kan velge fremgangsmåte. Sametinget viser til at det ville være i bedre samsvar med det samiske folkets rett til selvbestemmelse og Sametingets selvstendige stilling og myndighet, om Sametinget selv gir bestemmelser om sin arbeidsordning. Sametinget foreslår også å ta bort kravet i § 7 om at valget skal skje i plenum, slik at plenum selv kan velge å delegere oppgaven til Sametingsrådet eller til et annet organ, jf. også omtalen av konsultasjonene, under pkt. 2.4, ovenfor.</p>
+<p type="title">3.3 Departementets vurderinger</p>
+<p type="title">3.3.1 Om lovens geografiske virkeområde og navn</p>
+<p>Departementet fastholder i hovedsak forslaget i høringsutkastet. Når det gjelder formålsparagrafen og hvem loven er ment å tilgodese, foreslår departementet å spesifisere at loven er ment å tilgodese innbyggerne i Finnmark, i tråd med innspill fra Finnmark fylkeskommune. Intensjonen har ikke vært å utvide kretsen av de som skal tilgodeses etter loven, og forslaget fra Finnmark fylkeskommune gjør dette klarere.</p>
+<p type="title">3.3.2 Om hvilke organer som skal velge medlemmer til Finnmarkseiendommens styre og kontrollkomite</p>
+<p>Departementet la i høringsnotatet opp til å legge oppgaven med å velge medlemmer til Finnmarkseiendommens styre og kontrollkomite til det nye fylkestinget. Flere av høringsinstansene går inn for at det skal opprettes et nytt organ for å løse denne oppgaven, for eksempel et råd eller et representantskap som utgår fra kommunene i Finnmark.</p>
+<p>Etter departementets vurdering er det mest hensiktsmessig å benytte seg av eksisterende strukturer, og ikke opprette et eget system med et valgorgan som bare har som oppgave å oppnevne medlemmer til Finnmarkseiendommens styre og kontrollkomite, og eventuelle andre oppgaver som etter finnmarksloven i dag ligger til Finnmark fylkesting. Dersom man skulle ha valgt en slik løsning, er det en rekke problemstillinger man må finne egne løsninger på. Det gjelder blant annet hvordan stemmegivning i valgorganet skal skje, om hver kommune i gamle Finnmark skal ha én stemme, eller om stemmene skal avgjøres ut fra antall innbyggere eller areal. Et nytt organ vil også kreve løsninger for administrasjon og finansiering. Etter departementets vurdering vil dette være dyrere og mer byråkratisk enn å legge oppgaven til den nye fylkeskommunen. Videre kan det ved opprettelse av et slikt nytt organ bli uklart hvordan styremedlemmene skal kunne holdes til ansvar mellom de ordinære valgene. I dag kan Sametinget og fylkestinget avsette og velge nye styremedlemmer på et hvilket som helst tidspunkt. Et eget valgorgan vil møtes sjeldnere og vil vanskelig kunne holde styremedlemmene i Finnmarkseiendommen ansvarlig på tilsvarende måte. Videre vil et valg fra et kommunebasert valgorgan kunne føre til at ulike grupper av kommuner i praksis vil velge <span type="quote">«sitt»</span> styremedlem, noe som vil kunne gi uheldige bindinger for de som er valgt. Departementet vil her vise til at det jevnlig oppstår situasjoner der en kommune og Finnmarkseiendommen har motstridende interesser.</p>
+<p>I konsultasjonene med Finnmark fylkeskommune ble det, som nevnt under pkt. 2.4, også foreslått at valget av styremedlemmer kunne bli lagt til fylkestingsrepresentantene med bostedsadresse i Finnmark, den såkalte <span type="quote">«Finnmarksbenken»</span>. Departementet vurderer heller ikke det alternativet som en god løsning. Fra 1. januar 2020 vil det nye fylket være én valgkrets. Hvor mange representanter de ulike listene har fra Finnmark, vil kunne variere, og dette alternativet vil gi en vilkårlig fordel til de listene som har flere representanter fra Finnmark. Videre vil representanter bosatt i Finnmark kunne ha vararepresentanter bosatt i Troms, og motsatt, slik at sammensetningen av <span type="quote">«Finnmarksbenken»</span> vil kunne variere fra fylkestingssamling til fylkestingssamling, noe som kan gi tilfeldige utslag.</p>
+<p>Departementet vurderer det derfor fortsatt slik at oppgaven med å velge styremedlemmer bør legges til det nye fylkestinget. Når Sametinget i dag velger medlemmer til Finnmarkseiendommens styre, gjøres det av et samlet plenumsmøte, som også består av representanter fra utenfor Finnmark. Etter departementets vurdering er det en praktisk løsning, som også vil kunne fungere godt for de tre øvrige styremedlemmene. Departementet vurderer det også slik at kravet om at medlemmene skal være bosatt i Finnmark, vil være med på å forankre styringen i Finnmarks befolkning.</p>
+<p>Etter departementets vurdering er det gode grunner for at modellen for oppnevning av styremedlemmer bør være så lik som mulig for de sametingsvalgte styremedlemmene og de fylkestingsvalgte. Det er i stor grad de samme hensynene som gjør seg gjeldende, og hensynet til et oversiktlig system tilsier at valgmodellene fortrinnsvis bør være like. Det er vanskelig å se at tilstrekkelig tungtveiende grunner er anført for å innføre ulike modeller.</p>
+<p>Departementet har notert seg Finnmark fylkeskommunes bekymring for om det nye fylkestinget vil ha tilstrekkelig legitimitet, men deler ikke denne bekymringen. Departementet legger til grunn at det nye fylkestinget vil ha et godt grunnlag for å løse oppgaven med valg av styremedlemmer og medlemmer i kontrollkomiteen på en god måte. Oppnevning av styremedlemmer er en oppgave fylkestinget som folkevalgt organ er godt egnet til å løse.</p>
+<p>Departementet har en tilsvarende vurdering når det gjelder de andre oppgavene som i dagens lov er lagt til Finnmark fylkeskommune, for eksempel samtykke til avhending av grunn i visse tilfeller, etter reglene i lovens § 10 sjette ledd.</p>
+<p type="title">3.3.3 Om utdeling av overskudd fra Finnmarkseiendommen</p>
+<p>Departementet holder fast ved løsningen som ble skissert i høringsutkastet. Loven er ment å tilgodese innbyggerne i Finnmark. Dersom overskuddet deles ut til den nye fylkeskommunen eller allmennyttige formål, er det spesifisert at midlene skal komme Finnmarks innbyggere til gode. Midlene skal ikke anvendes til formål som er innrettet mot innbyggerne i hele det nye fylket.</p>
+<p type="title">3.3.4 Om fremgangsmåte for valg av medlemmer til Finnmarkseiendommens styre</p>
+<p>Sametinget, og enkelte andre høringsinstanser, har i høringen kommet med forslag om å endre § 7 og § 8 i loven, slik at Sametinget får frihet til selv å velge hvordan Sametingets styremedlemmer skal oppnevnes. Forslaget ville innebære at kravene om forholdsvalg og valg i plenum tas ut av loven.</p>
+<p>Departementet kan ikke se at forslaget er nødvendig som følge av fylkessammenslåingen. Sametinget har allerede tatt til orde for forslaget på et tidligere tidspunkt, og begrunnelsen fra Sametinget er i liten grad knyttet til sammenslåingen. Forslaget om en tilsvarende endring for fylkeskommunens valg av styremedlemmer har ikke støtte fra Finnmark fylkeskommune, og forslaget har heller ikke vært utredet eller vært på alminnelig høring. Det vil være uheldig om modellen for valg av styremedlemmer skulle endres bare for Sametingets vedkommende. Etter departementets syn bør man dessuten i utgangspunktet være tilbakeholden med endringer i finnmarksloven, som var et resultat av et bredt og skjørt kompromiss, inngått i 2005. Departementets syn er på denne bakgrunn at man ikke bør gå videre med Sametingets forslag i denne sammenhengen.</p>
+<p type="title">4 Økonomiske og administrative konsekvenser av forslaget</p>
+<p>Etter departementets vurdering vil ikke endringsforslagene i denne proposisjonen innebære økonomiske eller administrative konsekvenser av betydning. Forslaget legger opp til at ansvaret for hvordan man går fram ved valg av styremedlemmer, varamedlemmer og kontrollkomite legges til eksisterende organisasjonsstrukturer. Der Finnmark fylkesting tidligere har hatt oppgaver etter loven, er det i proposisjonen foreslått å legge oppgavene til det nye samlede fylkestinget for Troms og Finnmark.</p>
+<p type="title">5 Merknader til de enkelte bestemmelser i lovforslaget</p>
+<p type="title">Til § 1, § 22 første ledd, § 23 første ledd, § 25 andre ledd og § 29 andre ledd</p>
+<p>Det foreslås å endre bestemmelsenes bruk av begrepet Finnmark fylke, til å vise til det geografiske området Finnmark. Forslaget innebærer at lovens ordning i hovedsak blir videreført når Troms og Finnmark fylke blir slått sammen. Lovens geografiske virkeområde vil forbli det samme.</p>
+<p>Tittelen på loven endres tilsvarende. Lovens korttittel endres slik at den skrives med stor bokstav, i tråd med anbefalingene fra Språkrådet.</p>
+<p type="title">Til § 2</p>
+<p>Det er tatt inn en presisering i første ledd om at Finnmark skal forstås som det området som utgjorde Finnmark fylke 1. juli 2006, da det meste av loven trådte i kraft, og Finnmarkseiendommen overtok Statskogs eiendommer i Finnmark. Dette er Alta, Berlevåg, Båtsfjord, Gamvik, Hasvik, Hammerfest, Kautokeino – Guovdageainnu, Karasjok – Kárášjoga, Kvalsund, Lebesby, Loppa, Måsøy, Nesseby – Unjárgga, Nordkapp, Porsanger – Porsáŋggu – Porsanki, Sør-Varanger, Tana – Deanu, Vadsø og Vardø kommuner.</p>
+<p type="title">Til § 7 andre ledd, § 7 sjette ledd, § 10 tredje ledd, § 10 sjette ledd, § 16 første ledd, § 16 femte ledd og § 31 andre ledd</p>
+<p>I dagens lov er noen oppgaver og funksjoner knyttet opp til Finnmark fylkesting. Forslaget innebærer at en legger disse til det nye fylkestinget. Det innebærer for eksempel at det nye fylkestinget i visse situasjoner skal godkjenne styrevedtak i Finnmarkseiendommen om avhending av grunn, som beskrevet i § 10 sjette ledd. Endringene innebærer en endring i forhold til dagens situasjon.</p>
+<p>Når det gjelder § 7 andre ledd, vil det innebære at hele det nye fylkestinget er med på å velge representantene til styret til Finnmarkseiendommen. Dette innebærer at også representanter fra tidligere Troms fylke vil være med på å bestemme hvem som skal sitte i Finnmarkseiendommens styre. Styremedlemmene må fortsatt være bosatt i Finnmark.</p>
+<p>Forslaget innebærer også at det nye fylkestinget får oppgaven med å oppnevne et medlem til kontrollkomiteen, jf. § 16 første ledd. De to andre medlemmene oppnevnes av henholdsvis Sametinget og Kongen (Kommunal- og moderniseringsdepartementet iht. kgl. res. 8. april 2011 nr. 387). Videre vil det nye fylkestinget være mottaker av kontrollkomiteens rapport, jf. § 16 femte ledd.</p>
+<p type="title">Til § 15</p>
+<p>Finnmarkseiendommens virksomhet har ikke som formål å gå med overskudd, men dersom dette skjer, kan styret beslutte å dele ut hele eller deler av overskuddet av virksomheten. Overskuddet kunne ifølge den tidligere bestemmelsen gå til fylkeskommunen, Sametinget eller til allmennyttige formål som kommer fylkets innbyggere til gode. Lovendringen innebærer at Troms og Finnmark fylkeskommune kan være mottaker av et eventuelt overskudd, dersom Finnmarkseiendommens styre beslutter det. Dersom fylkeskommunen er mottaker av overskudd, stilles det nå uttrykkelig krav om at midlene må komme det geografiske området Finnmarks innbyggere til gode. Det ligger til styret å bestemme om overskuddet skal deles ut, og hvem som skal motta midler.</p>
+<p type="title">Til § 18 andre ledd og § 46 første ledd</p>
+<p>Forslaget innebærer at det nye fylkesmannsembetet vil bli klageorgan for avslag på krav om innsyn i Finnmarkseiendommens saksdokumenter, jf. § 18 andre ledd, og Finnmarkskommisjonens saksdokumenter, jf. § 46 første ledd. Det nye fylkesmannsembetet for Troms og Finnmark er allerede etablert, fra 1. januar 2019, og endringen bringer lovbestemmelsen i tråd med det.</p>
+<p type="title">Tilråding</p>
+<p>Kommunal og moderniseringsdepartementet</p>
+<p>tilrår:</p>
+<p>At Deres Majestet godkjenner og skriver under et framlagt forslag til proposisjon til Stortinget om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker).</p>
+<p><em type="bold">Vi HARALD, </em>Norges Konge, </p>
+<p>stadfester:</p>
+<p>Stortinget blir bedt om å gjøre vedtak til lov om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker) i samsvar med et vedlagt forslag.</p>
+<p type="title">Forslag          til lov om endringer i finnmarksloven (endringer som følge av sammenslåingen av Troms og Finnmark fylker)</p>
+<p type="title">I lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke gjøres følgende endringer:</p>
+<p type="title">Lovens tittel skal lyde:</p>
+<p type="title">Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)</p>
+<p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«Finnmark fylke»</span> endres til <span type="quote">«Finnmark»</span>:  § 22 første ledd, § 23 første ledd og § 29 andre ledd.</p>
+<p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«Finnmark fylkesting»</span> endres til <span type="quote">«Troms og Finnmark fylkesting»</span>:  § 7 andre ledd, § 7 sjette ledd, § 10 tredje ledd, § 10 sjette ledd, § 16 første ledd, § 16 femte ledd og § 31 andre ledd.</p>
+<p type="title">I følgende bestemmelser skal uttrykket <span type="quote">«fylkesmannen i Finnmark»</span> endres til <span type="quote">«fylkesmannen i Troms og Finnmark»</span>:  § 18 andre ledd og § 46 første ledd.</p>
+<p type="title">§ 1 første ledd skal lyde:</p>
+<p>Lovens formål er å legge til rette for at grunn og naturressurser i Finnmark  forvaltes på en balansert og økologisk bærekraftig måte til beste for innbyggerne  i Finnmark  og særlig som grunnlag for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv.</p>
+<p type="title">§ 2 første ledd skal lyde:</p>
+<p>Loven gjelder for fast eiendom og vassdrag med naturressurser i Finnmark. Med Finnmark menes det området som utgjorde Finnmark fylke 1. juli 2006.</p>
+<p type="title">§ 15 første ledd skal lyde:</p>
+<p>Dersom Finnmarkseiendommen i bankinnskudd, kontanter og lignende har aktiva som fratrukket eventuell gjeld overstiger det som trengs av reserver for å sikre driften, kan styret beslutte at overskuddet helt eller delvis skal utbetales til Troms og Finnmark  fylkeskommune, Sametinget eller allmennyttige  formål. Overskudd som deles ut til fylkeskommunen eller allmennyttige formål, skal komme Finnmarks  innbyggere til gode.</p>
+<p type="title">§ 25 andre ledd skal lyde:</p>
+<p>Finnmarkseiendommen kan gi andre enn dem som er bosatt i kommunen eller i Finnmark  , ytterligere adgang til å utnytte fornybare ressurser som nevnt i §§ 22 og 23.</p>
+<p type="title">II</p>
+<p>Loven gjelder fra den tid Kongen bestemmer.</p>
+</body></document>

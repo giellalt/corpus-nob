@@ -1,52 +1,21 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Morfa</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>210</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/morfa.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="morfa.eng.html"/>
-    <parallel_text xml:lang="fin" location="morfa.fin.html"/>
-    <parallel_text xml:lang="sme" location="morfa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="isl">Morfa</p>
-    <list>
-      <p type="listitem">Valgmuligheter</p>
-      <p type="listitem" xml:lang="nno">Ordklasser og bøying</p>
-    </list>
-    <p>Her får man trene på å bøye ord - enten enkeltord i Morfa-S, eller i setninger i Morfa-C slik at man også lærer hvilken sammenheng man skal bruke ordformene i.</p>
-    <p type="title">Valgmuligheter</p>
-    <list>
-      <p type="listitem">Ordklasse, se detaljer lenger ned på sida.</p>
-      <p type="listitem">Stammetype (Morfa-S): likestavelses-, ulikestavelses- eller kontrakte stammer, eller alle.</p>
-      <p type="listitem" xml:lang="nno">Ordforråd fra lærebøker.</p>
-      <p type="listitem">Man kan få norsk oversetting ved å trykke på ordet.</p>
-      <p type="listitem" xml:lang="nno">Hjelp: Når man skriver feil, kan man få tips om bøyninga.</p>
-    </list>
-    <p type="title" xml:lang="nno">Ordklasser og bøying</p>
-    <p xml:lang="nno">Ordklassene man kan arbeide med er substantiv, adjektiv, verb, pronomen og talord.</p>
-    <list>
-      <p type="listitem"><em type="italic">Substantiv: </em>nominativ flertal og alle kasus, grunnord kommer i både entall og flertall. Er grunnordet i flertall, skal det bøyes i kasus i flertall. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Verb: </em>indikativ presens og preteritum, perfektum, kondisjonalis, potensialis, imperativ og gerundium. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Adjektiv: </em>som attributt eller som predikativ med komparering. Morfa-S har de samme bøyningskategoriene i alle kasus. </p>
-      <p type="listitem" xml:lang="dan"><em type="italic">Pronomen: </em>personlige, påpekende, relative, refleksive og resiproke, i alle kasus. </p>
-      <p type="listitem"><em type="italic">Tallord </em>opp til 10 i ulike kasus, også som attributt til substantiv. Samlingstall og ordenstall med kasusbøyning. Morfa-S nivå 1 innholder bare tall i entall. Nivå 2 inneholder også flertall. Morfa-C inneholder tall i entall og flertall opp til 10. </p>
-      <p type="listitem"><em type="italic">Substantiv med genitive suffikser </em>kommer snart, vi arbeider med dem. </p>
-    </list>
-    <p>Link til MORFA-S enkeltord</p>
-    <p>Link til MORFA-C setninger</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Morfa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>210</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/morfa.nob.html</origFileName><parallel_text xml:lang="eng" location="morfa.eng.html"/><parallel_text xml:lang="fin" location="morfa.fin.html"/><parallel_text xml:lang="sme" location="morfa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="isl">Morfa</p>
+<list><p type="listitem" xml:lang="swe">Valgmuligheter</p>
+<p type="listitem" xml:lang="nno">Ordklasser og bøying</p>
+</list><p>Her får man trene på å bøye ord - enten enkeltord i Morfa-S, eller i setninger i Morfa-C slik at man også lærer hvilken sammenheng man skal bruke ordformene i.</p>
+<p type="title" xml:lang="swe">Valgmuligheter</p>
+<list><p type="listitem">Ordklasse, se detaljer lenger ned på sida.</p>
+<p type="listitem">Stammetype (Morfa-S): likestavelses-, ulikestavelses- eller kontrakte stammer, eller alle.</p>
+<p type="listitem" xml:lang="nno">Ordforråd fra lærebøker.</p>
+<p type="listitem">Man kan få norsk oversetting ved å trykke på ordet.</p>
+<p type="listitem" xml:lang="nno">Hjelp: Når man skriver feil, kan man få tips om bøyninga.</p>
+</list><p type="title" xml:lang="nno">Ordklasser og bøying</p>
+<p xml:lang="nno">Ordklassene man kan arbeide med er substantiv, adjektiv, verb, pronomen og talord.</p>
+<list><p type="listitem"><em type="italic">Substantiv: </em>nominativ flertal og alle kasus, grunnord kommer i både entall og flertall. Er grunnordet i flertall, skal det bøyes i kasus i flertall. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Verb: </em>indikativ presens og preteritum, perfektum, kondisjonalis, potensialis, imperativ og gerundium. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Adjektiv: </em>som attributt eller som predikativ med komparering. Morfa-S har de samme bøyningskategoriene i alle kasus. </p>
+<p type="listitem" xml:lang="dan"><em type="italic">Pronomen: </em>personlige, påpekende, relative, refleksive og resiproke, i alle kasus. </p>
+<p type="listitem"><em type="italic">Tallord </em>opp til 10 i ulike kasus, også som attributt til substantiv. Samlingstall og ordenstall med kasusbøyning. Morfa-S nivå 1 innholder bare tall i entall. Nivå 2 inneholder også flertall. Morfa-C inneholder tall i entall og flertall opp til 10. </p>
+<p type="listitem"><em type="italic">Substantiv med genitive suffikser </em>kommer snart, vi arbeider med dem. </p>
+</list><p>Link til MORFA-S enkeltord</p>
+<p>Link til MORFA-C setninger</p>
+</body></document>

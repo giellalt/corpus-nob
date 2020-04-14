@@ -1,281 +1,191 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2718</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/tabell-samisk/Undervisningsopplegg-Niva-4/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="6_undervisningsopplegg-niva-4.html"/>
-    <parallel_text xml:lang="sme" location="6_undervisningsopplegg-niva-4.html"/>
-    <parallel_text xml:lang="smj" location="6_undervisningsopplegg-niva-4.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Nivå 4</p>
-    <p type="title">Undervisningsopplegg: Nivå 4</p>
-    <p>Hovedinnhold</p>
-    <p>
-      <em type="bold">Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 4. </em>
-    </p>
-    <p>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven. Vurdering underveis, språkdomener og fjernundervisning er en del av opplegget. Nivå 4 er avsluttende nivå for samisk 3.</p>
-    <p>En av utfordringene i Samisk 2 og 3 er å få elevene til å bruke samisk aktivt. Nedenfor presenteres kompetansemål fra læreplanens nivå 4 som samlet støtter opp om muntlig kommunikasjon.</p>
-    <p>Dette eksempelet viser gjennom drama og rollespill hvordan elevene kan samtale om samiske tradisjonelle næringer. Hovedfokuset i eksempelet er muntlig kommunikasjon. Det er valgt å trekke inn kompetansemålet <em type="italic">å delta i samtaler om samiske tradisjonelle næringer </em>i denne veiledningen. Grunnen er at det er et utfordrende kompetansemål på nivå 4 i læreplanen. </p>
-    <p type="title">Kompetansemål</p>
-    <p>
-      <em type="italic">Muntlig kommunikasjon </em>
-    </p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">bruke et ordforråd som dekker dagligdagse situasjoner</p>
-      <p type="listitem">uttrykke seg gjennom dramaøvelser, rollespill og enklere improvisasjon</p>
-      <p type="listitem">bruke tall til å angi tid og datoer</p>
-    </list>
-    <p>
-      <em type="italic">Bevissthet om språk og kultur </em>
-    </p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">delta i samtaler om samiske tradisjonelle næringer</p>
-    </list>
-    <p>
-      <em type="italic">Skriftlig kommunikasjon </em>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">skrive tekster som forteller, beskriver eller formidler inntrykk</p>
-      <p type="listitem">framføre egne tekster for andre</p>
-    </list>
-    <p>Undervisningsopplegget dekker ikke alltid hele kompetansemål. Kompetansemålene er konkretisert i læringsmål. Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</p>
-    <p>Vis alle</p>
-    <p type="title">Læringsmål</p>
-    <p>Målet er at elevene skal bruke et ordforråd som dekker dagligdagse situasjoner, hvor også en av de samiske tradisjonelle næringene i elevenes nærområde inngår. Dette innebærer at eleven skal kunne:</p>
-    <list>
-      <p type="listitem">utvide det daglige ordforrådet gjennom å lære begrep knyttet til den dagligdagse situasjonen og til en samisk tradisjonell næring</p>
-      <p type="listitem">lære noen ord som hører til samisk telle- og regnemåte</p>
-      <p type="listitem">bruke hverdagsspråket knyttet til en samisk tradisjonell næring som omhandler en konkret situasjon</p>
-      <p type="listitem">skrive et lite rollespill med handling og begrep som er knyttet til næringa</p>
-      <p type="listitem">gjennomføre rollespillet</p>
-      <p type="listitem">vurdere den muntlige aktiviteten ut i fra de kriterier som er beskrevet nedenfor</p>
-    </list>
-    <p>Det er lagt vekt på å skape en autentisk oppgave. Her skal elevene vise kompetansen sin ved å lage og gjennomføre et rollespill om dagligdagse situasjoner i en tradisjonell samisk næring. Da får elevene mulighet til å anvende kunnskap og språk på samme måte som i det virkelige liv.</p>
-    <p>Læringsaktivitetene knyttet til læringsmålene danner grunnlaget for det produktet, rollespillet, som elevene skal lage.</p>
-    <p>Her er det valgt å ta utgangspunkt i dagens reinsdriftsnæring i sørsamisk område. Reindriftsnæringa er representert i hele Saepmie. Det er like aktuelt å ta utgangspunkt i andre tradisjonelle samiske næringer som fiske, jordbruk, duodji/duedtie og andre utmarksnæringer og kombinasjonsnæringer.</p>
-    <p type="title">Måloppnåelse</p>
-    <p>Kompetansemål med kjennetegn på måloppnåelse og læringsmål med kriterier for måloppnåelse må gjøres kjent for elevene. Gjennomgå og diskuter dette muntlig med dem. Målene kan være synlige i klasserommet, og/eller de kan være en del av arbeidsplanen. Hvis kjennetegnene eller kriteriene skriftliggjøres, for eksempel i arbeidsplanen, kan foreldre/foresatte ta del i arbeidet.</p>
-    <p>Forslag til kriterier for læringsmålene kan fremstilles i et skjema. Her brukes nivåene høy, middels og lav for barnetrinnet og angivelse av karakterer for ungdomsskolen og videregående skole. Tabellen kan gjøres enklere for grunnskolen enn for videregående. Dette eksempelet tar hensyn til at det også skal kunne brukes i ungdomsskolen og i videregående skole i Samisk 3 (nivå 1-4).</p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>
-      <em type="bold">Lav/(2) </em>
-    </p>
-    <p>
-      <em type="bold">Middels/(3-4) </em>
-    </p>
-    <p>
-      <em type="bold">Høy/(5-6) </em>
-    </p>
-    <p>Eleven skal kunne:</p>
-    <p>utvide det daglige ordforrådet gjennom å lære begrep tilknyttet den dagligdagse situasjonen og til denne næringen</p>
-    <p>Du kan bruke noen ord og begrep som dekker dagligdagse situasjoner.</p>
-    <p>Du kan bruke noen ord og begrep tilknyttet denne næringa.</p>
-    <p>Du kan bruke ganske mange ord og begrep som dekker dagligdagse situasjoner.</p>
-    <p>Du kan bruke ganske mange ord og begrep tilknyttet denne næringa.</p>
-    <p>Du kan bruke veldig mange ord og begrep som dekker dagligdagse situasjoner.</p>
-    <p>Du kan bruke veldig mange ord og begrep tilknyttet denne næringa.</p>
-    <p>lære noen ord som hører til samisk telle- og regnemåte</p>
-    <p>Du har lært noen ord som tilhører samisk telle- og regnemåte.</p>
-    <p>Du har lært flere ord som tilhører samisk telle- og regnemåte og kan bruke dem i noen ulike situasjoner.</p>
-    <p>Du har lært mange ord som tilhører samisk telle- og regnemåte og kan bruke dem i flere ulike situasjoner.</p>
-    <p>skrive et lite rollespill med handling og begrep som er tilknyttet næringa</p>
-    <p>Du skriver noen roller til et lite rollespill, og du trekker inn noen begrep tilknyttet næringa.</p>
-    <p>Du skriver roller til et lite rollespill, og du trekker inn en realistisk handling og noen begrep tilknyttet næringa.</p>
-    <p>Du skriver roller til et rollespill, og du trekker inn en realistisk handling og mange begrep tilknyttet næringa.</p>
-    <p>gjennomføre rollespillet med muntlige dialoger</p>
-    <p>Du fremfører noen av de dialogene du hadde forberedt.</p>
-    <p>Du fremfører dialogene du hadde forberedt i rollespillet, på en god måte.</p>
-    <p>Du fremfører dialogene i rollespillet på en naturlig og god måte.</p>
-    <p>Her passer det at elevene får en innføring i samisk telle- og regnemåte selv om det hører til nivå 6. For eksempel kan samlingstall for mennesker (gööktesh, golmesh, njealjesh osv. – to, tre, fire mennesker sammen), rein (gööktege, golmege, njealjege osv. – to, tre, fire rein sammen) og flokkstørrelser (bïrhketje, stuhtje, ealoe osv. – liten flokk rein, 8-12 dyr) og del av en reinflokk (reinflokk/reinhjord) være aktuelle begrep. Innenfor alle de samiske tradisjonelle næringene finnes det telle- og regnemåter som kan innføres i dette eksemplet.</p>
-    <p>Skjemaet kan være utgangspunkt for både lærerens underveisvurdering og elevenes egenvurdering. Skjemaet kan også danne grunnlag for en elevsamtale eller en utviklingssamtale mellom lærer, elev og foreldre/foresatte.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p>Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 4; innhold og læringsaktiviteter, grunnleggende ferdigheter, tilpasset opplæring, fjernundervisning og vurdering underveis.</p>
-    <p type="title">Forkunnskaper</p>
-    <p>Det er en forutsetning at elevene kan en god del av de hverdagslige begrepene og at de har lært seg tallord og ordenstall. I forkant av undervisningsopplegget kan det være hensiktsmessig å repetere nødvendige hverdagsbegrep og tall.</p>
-    <p type="title">Innføring av nye begrep</p>
-    <p>Læreren gjennomgår de viktigste ordene og begrepene. Se her eksempel på to kort med nye ord og begrep:</p>
-    <p>Elin Fjellheim, Elgå skuvle</p>
-    <p>Deretter kan elevene lære seg de mest sentrale begrepene gjennom forskjellige aktiviteter, for eksempel ordloop, ordpussel, veggspill og kroppskrøll.</p>
-    <p>
-      <em type="italic">Beskrivelse av læringsstiler </em>
-    </p>
-    <p>
-      <em type="bold">Visuelle elever liker </em>
-    </p>
-    <p>
-      <em type="bold">Auditive elever liker </em>
-    </p>
-    <p>- å lese og skrive, å se film, å tegne, å jobbe med arbeidshefter og å illustrere tankekart</p>
-    <p>- bilder og ord</p>
-    <p>- å lytte, diskutere, snakke med seg selv eller med andre og lese høyt</p>
-    <p>
-      <em type="bold">Taktile elever liker </em>
-    </p>
-    <p>
-      <em type="bold">Kinestetiske elever liker </em>
-    </p>
-    <p>- å røre på ting, arbeide med hendene, arbeide med pc, lage veggplakater, spille, skrive, klippe og klistre</p>
-    <p>- å arbeide med nøkkelring og trådbrett</p>
-    <p>- å bevege seg og bruke hele kroppen, spille ulike spill, spille teater og praktisk arbeid</p>
-    <p>- vegg- og gulvspill</p>
-    <p>For tips til hvordan elevene kan repetere og lære nye ord, se artikkel om ordlæring og artikkel om læringsstrategier i veiledningen for engelsk.</p>
-    <p>Bruk som innføring, det som passer for elevgruppen.</p>
-    <list>
-      <p type="listitem">Få noen fra det lokale området til å fortelle om en lokal samisk tradisjonell næring.</p>
-      <p type="listitem">Ta utgangspunkt i et studiebesøk dere har gjort til noen som driver tradisjonelle næringer.</p>
-      <p type="listitem">La elevene lese korte og enkle faktatekster om en samisk tradisjonell næring fra elevens lokale område</p>
-    </list>
-    <p type="title">ROLLESPILL</p>
-    <p>Rollespill er en måte å få elevene til å aktivisere det samiske språket sitt på. I et rollespill er det ikke <span type="quote">”eleven selv”</span> som snakker, men det er en rolle. Da er det også enklere å komme over prestasjonsangst og redsel for å snakke feil. Når elevene lager rollespill, har de en tenkt situasjon.</p>
-    <p>Eksempel</p>
-    <p>
-      <em type="italic">Vi møtes på reinskilling </em>
-    </p>
-    <p type="listitem">Lag et situasjonsbilde <list><p type="listitem">Hvor er vi?</p><p type="listitem">Hvordan ser det ut her?</p><p type="listitem">Beskrivelse av natur, personer osv.</p></list></p>
-    <p type="listitem">Hvilke personer er til stede? Se rollekort.</p>
-    <list>
-      <p type="listitem">Rollekort:</p>
-    </list>
-    <list>
-      <p type="listitem">Navn</p>
-      <p type="listitem">Alder</p>
-      <p type="listitem">Hvem er jeg? - person - relasjon til andre i spillet - slekt - arbeidskamerat - drahjelp</p>
-      <p type="listitem">Personlighet Bruk adjektiv til å beskrive Eksempel: Jeg er glad, snill, sint osv.</p>
-    </list>
-    <p type="listitem">Hva skjer i den tenkte situasjonen?</p>
-    <p>Eksempel <em type="italic">Vinter </em></p>
-    <list>
-      <p type="listitem">Samling til reingjerdet</p>
-      <p type="listitem">Arbeid i reingjerdet</p>
-    </list>
-    <p>Her kan det differensieres avhengig av elevenes forkunnskaper. Aktuelt er for eksempel skilling, slakt og telling.</p>
-    <p>Det er viktig at elevene gjøres kjent med rollene sine slik at de blir trygge. Lag dialoger for hver situasjon. La elevene lage situasjoner som kan være aktuelle. Alle kan delta samtidig i spillet, men det kan også gjøres i samme rom ved ulike ”talestasjoner” som kan fungere som egne <em type="italic">språkdomener </em>. Les mer om språkdomener i egen artikkel . </p>
-    <p><em type="italic">Talestasjon 1 </em>En person kommer fra nabodistriktet og vil se over reinflokken for å se om de har sine rein der. </p>
-    <list>
-      <p type="listitem">Kjenner disse to hverandre fra før? <list><p type="listitem">De hilser på hverandre, presenterer seg eventuelt og forteller hvor de kommer i fra.</p></list></p>
-      <p type="listitem">Hva sier de til hverandre?</p>
-    </list>
-    <p>Elin Fjellheim, Elgå skuvle</p>
-    <p>En tredje person kommer inn og spør om reinbeitet, hvordan sommeren og høsten har vært osv.</p>
-    <p><em type="italic">Talestasjon 2 </em>To personer samtaler om hvilke / hvem sine rein fra nabodistriktet som er samlet. </p>
-    <p><em type="italic">Talestasjon 3 </em>Noen personer sitter rundt bålet og samtaler om andre hverdagslige ting. </p>
-    <p>Elin Fjellheim, Elgå skuvle</p>
-    <p>Slik kan hele situasjonsbildet flytte fra talestasjon til talestasjon, og nye tenkte situasjoner oppstår ut fra behov. Dette er byggesteiner som utvider språkbruken.</p>
-    <p>Velg hvor mange personer som skal delta i rollespillet, ut i fra antall elever i samisktimene. Læreren kan også delta for å få flere aktører.</p>
-    <p>Nedenfor følger forslag til person- og talestasjonskort, som elevene fyller ut.</p>
-    <p>
-      <em type="italic">Person 1 </em>
-    </p>
-    <p>Navn: Alder: Hvem jeg er: Personlighet/karakter: Slekt/arbeidskamerat/ arbeidshjelp/annen relasjon:</p>
-    <p>
-      <em type="italic">Person 2 </em>
-    </p>
-    <p>Navn: Alder: Hvem jeg er: Personlighet/karakter: Slekt/arbeidskamerat/ arbeidshjelp/annen relasjon:</p>
-    <p>
-      <em type="italic">Talestasjon 1 </em>
-    </p>
-    <p>Hvor: Hvem: Handling: Samtaler om:</p>
-    <p>
-      <em type="italic">Talestasjon 2 </em>
-    </p>
-    <p>Hvor: Hvem: Handling: Samtaler om:</p>
-    <p>Samme metode og mal kan også brukes for å lage rollespill innenfor andre tradisjonelle samiske næringer som:</p>
-    <list>
-      <p type="listitem">sjøfiske</p>
-      <p type="listitem">laksefiske</p>
-      <p type="listitem">jordbruk</p>
-      <p type="listitem">jakt- og fangst</p>
-      <p type="listitem">andre utmarksnæringer</p>
-      <p type="listitem">duedtie/duodji/sløyd</p>
-      <p type="listitem">kombinasjonsnæringer</p>
-    </list>
-    <p>Hver og en av disse næringene kan fungere som <em type="italic">samiskspråklige domener </em>, som elevene kan besøke, og lage et rollespill ut fra. Rollene/rollespillet fungerer også som språkdomener. Se egen artikkel for flere eksempler om språkdomener . </p>
-    <p>Rollespillet kan også utvides og danne utgangspunkt for et storyline-prosjekt.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Differensier ved å velge et passende omfang på rollespillet, for eksempel type personer og antall talestasjoner, ut fra antall elever, elevenes forkunnskaper og alderen deres. Når elevene selv er med på å skrive roller, vil de bruke sine tilegnede kunnskaper. Det blir da lærerens jobb å gi elevene tilpassede utfordringer.</p>
-    <p>Antall talestasjoner kan utvides. Det kan for eksempel lages en talestasjon hvor turister eller andre kommer på besøk. Her kan det gis informasjon om stedets historie og tradisjoner. Denne talestasjonen egner seg for elever som er noe sterkere i samisk, samt eldre elever som følger læreplanen i samisk 3.</p>
-    <p type="title">Fjernundervisning</p>
-    <p>Rollespill kan det være litt mer utfordrende å gjennomføre via fjernundervisning, men med forberedelser er det mulig. Antall deltakere vil være avhengig av undervisningsorganisering og muligheter for flerpartskonferanse, det vil si undervisning av flere elever parallelt. Samme person kan også ha flere roller.</p>
-    <p>Begrensningene ligger i mulighetene for å bevege seg foran kamera fordi radiusen blir snevrere. Det er også avhengig av fjernutstyrets tekniske løsninger og overføringskapasitet.</p>
-    <p>Det vil kreve større innlevelse å spille rollespill når man i rollespillet skal være på samme arena, men sitte på forskjellige steder.</p>
-    <p>Forberedelsene til rollespillet vil være de samme som i klasserommet. Når det gjelder gjennomføringen av rollespillet, vil det være avhengig av organiseringen og type utstyr. Hvis kun en lærer og en elev deltar, må rollespillet tilpasses det, for eksempel slik at eleven og læreren har flere roller hver. Der det er muligheter for flerpartskonferanse, vil det være flere å spille på.</p>
-    <p>Et annet alternativ kan være at fjernundervisningseleven kan være en utsendt medarbeider fra et tv-selskap og skal rapportere fra en bestemt hendelse i en samisk tradisjonell næring. Er det to elever, kan den ene intervjue den andre om temaet. Da kan fjernundervisningskameraet fungere som tv-kamera, og læreren kan være mottakeren av programmet.</p>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig: </em>Den muntlige ferdigheten er den dominerende aktiviteten i dette eksempelet, spesielt samtale med andre. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig: </em>Elevene skriver replikker til rollespillet. </p>
-    <p><em type="italic">Å kunne lese: </em>Som en innføring til temaet, er det aktuelt å finne og lese en tekst som er tilpasset elevgruppen for Samisk 2 og 3. </p>
-    <p><em type="italic">Å kunne regne: </em>Undervisningsopplegget trekker inn regneferdigheter, både generelle og næringsspesifikke. For eksempel gir det å telle rein mulighet til å trekke inn tellemåter med rein og å lære en del begrep på reinflokkstørrelser. De andre samiske, tradisjonelle næringene har også sin næringsspesifikke regning som kan trekkes inn i eksempelet. </p>
-    <p><em type="italic">Å kunne bruke digitale verktøy: </em>Det egner seg å lage rollekort og talestasjoner ved hjelp av data. Innøvinga av replikker kan gjøres ved hjelp av data, mp3-spiller, mobiltelefon etc. Det blir lettere for elevene å forbedre framføringa og vurdere egen innsats når de kan lytte på egne replikker. </p>
-    <p type="title">Vurdering</p>
-    <p>Vurderingen i eksemplene skal være læringsfremmende gjennom tilbakemeldinger/framovermeldinger som er motiverende og bevisstgjørende. Kriterier for læringsmål skal være kjente og tilgjengelige for elevene i begynnelsen av arbeidet. En måte å gi underveisvurdering/framovermelding på presenteres nedenfor.</p>
-    <p>Du skal:</p>
-    <p>bruke ord som dekker dagligdagse situasjoner</p>
-    <p><em type="italic">Du kan: </em>Du forstår det vi snakker om og kan svare med enkeltord. </p>
-    <p><em type="italic">Øv på: </em>Øv på å ta ordet uten at alt er forberedt. Etter hvert vil du automatisere det ordforrådet du har. Prøv å bruke de nye ordene i hele setninger og ikke bare svare med enkeltord. </p>
-    <p>gjennomføre rollespillet med muntlige dialoger</p>
-    <p><em type="italic">Du kan: </em>Du viser at du kan de fleste av replikkene. </p>
-    <p><em type="italic">Øv på: </em>Lær deg rollen godt, og lev deg inn i den. </p>
-    <p type="title">Logg som vurderingsform</p>
-    <p>Her presenteres logg som vurderingsform. Loggen eller deler av den bør skrives på samisk. Differensier etter elevenes samiskkunnskaper.</p>
-    <p>Gruppelogg 1, startlogg Denne gruppeloggen brukes i forkant av arbeidet med å lage og gjennomføre rollespillet. Loggen kan også brukes som individuell logg. Her beskrives det hvem som deltar, og hva som er temaet. Det gis en situasjonsbeskrivelse og målbeskrivelse. Arbeidsmåter angis. Vurdering og kommentarer fra læreren inngår. I dette eksempelet kan man bruke gruppelogg 1 på følgende ” lenke ”.</p>
-    <p>Gruppelogg 2, underveislogg Denne loggen er en underveislogg som gir en beskrivelse av situasjonen, arbeidsmåter og vurdering i tillegg til kommentarer fra læreren. Denne loggen kan også være en individuell logg. Se www.lex.no/vurdering . Dersom gruppearbeidet strekker seg over litt lengre tid, kan det være hensiktsmessig å føre flere underveislogger under arbeidets gang.</p>
-    <p>Gruppelogg 3, sluttlogg Etter at rollespillet er gjennomført, kan prosessen og resultatet oppsummeres i en logg, individuelt eller i gruppen. Her kan arbeidsfordeling, samarbeid osv oppsummeres, men fokus skal være på språkkompetansen og læringsmålene. Læreren gir til slutt en kommentar.</p>
-    <p type="title">Egenvurdering</p>
-    <p>Alternativt kan elevene vurdere seg selv etter vurderingskriteriene som er nevnt i tabellen nedenfor, og benytte samme gradering som i Europeisk språkpass (ESP).</p>
-    <p>Dette kan jeg</p>
-    <list>
-      <p type="listitem">litt</p>
-      <p type="listitem">ganske godt</p>
-      <p type="listitem">veldig godt</p>
-    </list>
-    <p>Elevene kan vurdere de læringsmålene de mestrer gjennom følgende tabell:</p>
-    <p>
-      <em type="bold">Beskrivelse </em>
-    </p>
-    <p><em type="italic">Dette kan jeg litt: </em>Dato </p>
-    <p><em type="italic">Dette kan jeg ganske godt: </em>Dato </p>
-    <p>
-      <em type="bold">Dette kan jeg veldig godt: </em>
-    </p>
-    <p>Dato</p>
-    <p>Jeg kan snakke om dagligdagse situasjoner.</p>
-    <p>Jeg kan snakke om den tradisjonelle næringa som vi har arbeidet med.</p>
-    <p>Jeg kan ord som hører til samisk telle- og regnemåte.</p>
-    <p>Jeg kan skrive replikker til et rollespill.</p>
-    <p>Jeg kan replikkene og gjennomfører rollespillet med muntlige dialoger.</p>
-    <p>Som en del av egenvurderinga, kan elevene vurdere hva de har lært av nye begrep. Se også nivå 7 for utvidet bruk av dette skjemaet.</p>
-    <p>Jeg trenger hjelp for å forstå betydningen av dette ordet.</p>
-    <p>Jeg tror jeg vet hva dette ordet betyr.</p>
-    <p>Jeg vet hva dette ordet betyr.</p>
-    <p>Læreren kan gå gjennom egenvurderinga med elevene og komme med sine vurderinger muntlig og/eller skriftlig.</p>
-    <p>Når underveisvurderinga er utført, bør elevene få tid til å forbedre arbeidet for å øke læringsutbyttet.</p>
-    <p type="title">Lærestoff</p>
-    <p><em type="italic">Sørsamisk: </em><em type="italic">Bergsland, Knut </em>: Gåebrehki soptsesh, Universitetsforlaget, 2. utgave, 1987 <em type="italic">Bergsland, Knut </em>: Sydsamisk grammatikk, Davvi Girji o.s., §§129, 131, 134 <em type="italic">Bull, Ella Holm </em><em type="italic">og Bergsland, Knut </em>: Lohkede saemien, Davvi Girji O.S, 2. opplag, 1993 <em type="italic">Bull, Ella Holm </em>: Åarjel-saemien 5, Davvi Media o.s., 1986/86 <em type="italic">Bull, Ella Holm </em>: Dejpeladtje muvhth vätnoeh jih vuekieh, Samernas utbildningscentrum, 2001 <em type="italic">Utsi, Gun M </em>.: Bovtsen Guelmieh, Sijti Jarnge, 1994 Várjavuonna, Meara ávkástallan, Isak Saba guovdás, 2009 </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>2718</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/tabell-samisk/Undervisningsopplegg-Niva-4/index.html</origFileName><parallel_text xml:lang="sma" location="6_undervisningsopplegg-niva-4.html"/><parallel_text xml:lang="sme" location="6_undervisningsopplegg-niva-4.html"/><parallel_text xml:lang="smj" location="6_undervisningsopplegg-niva-4.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Nivå 4</p>
+<p type="title">Undervisningsopplegg: Nivå 4</p>
+<p>Hovedinnhold</p>
+<p><em type="bold">Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 4. </em></p>
+<p>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven. Vurdering underveis, språkdomener og fjernundervisning er en del av opplegget. Nivå 4 er avsluttende nivå for samisk 3.</p>
+<p>En av utfordringene i Samisk 2 og 3 er å få elevene til å bruke samisk aktivt. Nedenfor presenteres kompetansemål fra læreplanens nivå 4 som samlet støtter opp om muntlig kommunikasjon.</p>
+<p>Dette eksempelet viser gjennom drama og rollespill hvordan elevene kan samtale om samiske tradisjonelle næringer. Hovedfokuset i eksempelet er muntlig kommunikasjon. Det er valgt å trekke inn kompetansemålet <em type="italic">å delta i samtaler om samiske tradisjonelle næringer </em>i denne veiledningen. Grunnen er at det er et utfordrende kompetansemål på nivå 4 i læreplanen. </p>
+<p type="title">Kompetansemål</p>
+<p><em type="italic">Muntlig kommunikasjon </em></p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">bruke et ordforråd som dekker dagligdagse situasjoner</p>
+<p type="listitem">uttrykke seg gjennom dramaøvelser, rollespill og enklere improvisasjon</p>
+<p type="listitem">bruke tall til å angi tid og datoer</p>
+</list><p><em type="italic">Bevissthet om språk og kultur </em></p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">delta i samtaler om samiske tradisjonelle næringer</p>
+</list><p><em type="italic">Skriftlig kommunikasjon </em><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">skrive tekster som forteller, beskriver eller formidler inntrykk</p>
+<p type="listitem">framføre egne tekster for andre</p>
+</list><p>Undervisningsopplegget dekker ikke alltid hele kompetansemål. Kompetansemålene er konkretisert i læringsmål. Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</p>
+<p>Vis alle</p>
+<p type="title">Læringsmål</p>
+<p>Målet er at elevene skal bruke et ordforråd som dekker dagligdagse situasjoner, hvor også en av de samiske tradisjonelle næringene i elevenes nærområde inngår. Dette innebærer at eleven skal kunne:</p>
+<list><p type="listitem">utvide det daglige ordforrådet gjennom å lære begrep knyttet til den dagligdagse situasjonen og til en samisk tradisjonell næring</p>
+<p type="listitem">lære noen ord som hører til samisk telle- og regnemåte</p>
+<p type="listitem">bruke hverdagsspråket knyttet til en samisk tradisjonell næring som omhandler en konkret situasjon</p>
+<p type="listitem">skrive et lite rollespill med handling og begrep som er knyttet til næringa</p>
+<p type="listitem">gjennomføre rollespillet</p>
+<p type="listitem">vurdere den muntlige aktiviteten ut i fra de kriterier som er beskrevet nedenfor</p>
+</list><p>Det er lagt vekt på å skape en autentisk oppgave. Her skal elevene vise kompetansen sin ved å lage og gjennomføre et rollespill om dagligdagse situasjoner i en tradisjonell samisk næring. Da får elevene mulighet til å anvende kunnskap og språk på samme måte som i det virkelige liv.</p>
+<p>Læringsaktivitetene knyttet til læringsmålene danner grunnlaget for det produktet, rollespillet, som elevene skal lage.</p>
+<p>Her er det valgt å ta utgangspunkt i dagens reinsdriftsnæring i sørsamisk område. Reindriftsnæringa er representert i hele Saepmie. Det er like aktuelt å ta utgangspunkt i andre tradisjonelle samiske næringer som fiske, jordbruk, duodji/duedtie og andre utmarksnæringer og kombinasjonsnæringer.</p>
+<p type="title">Måloppnåelse</p>
+<p>Kompetansemål med kjennetegn på måloppnåelse og læringsmål med kriterier for måloppnåelse må gjøres kjent for elevene. Gjennomgå og diskuter dette muntlig med dem. Målene kan være synlige i klasserommet, og/eller de kan være en del av arbeidsplanen. Hvis kjennetegnene eller kriteriene skriftliggjøres, for eksempel i arbeidsplanen, kan foreldre/foresatte ta del i arbeidet.</p>
+<p>Forslag til kriterier for læringsmålene kan fremstilles i et skjema. Her brukes nivåene høy, middels og lav for barnetrinnet og angivelse av karakterer for ungdomsskolen og videregående skole. Tabellen kan gjøres enklere for grunnskolen enn for videregående. Dette eksempelet tar hensyn til at det også skal kunne brukes i ungdomsskolen og i videregående skole i Samisk 3 (nivå 1-4).</p>
+<p><em type="bold">Læringsmål </em></p>
+<p><em type="bold">Lav/(2) </em></p>
+<p><em type="bold">Middels/(3-4) </em></p>
+<p><em type="bold">Høy/(5-6) </em></p>
+<p>Eleven skal kunne:</p>
+<p>utvide det daglige ordforrådet gjennom å lære begrep tilknyttet den dagligdagse situasjonen og til denne næringen</p>
+<p>Du kan bruke noen ord og begrep som dekker dagligdagse situasjoner.</p>
+<p>Du kan bruke noen ord og begrep tilknyttet denne næringa.</p>
+<p>Du kan bruke ganske mange ord og begrep som dekker dagligdagse situasjoner.</p>
+<p>Du kan bruke ganske mange ord og begrep tilknyttet denne næringa.</p>
+<p>Du kan bruke veldig mange ord og begrep som dekker dagligdagse situasjoner.</p>
+<p>Du kan bruke veldig mange ord og begrep tilknyttet denne næringa.</p>
+<p>lære noen ord som hører til samisk telle- og regnemåte</p>
+<p>Du har lært noen ord som tilhører samisk telle- og regnemåte.</p>
+<p>Du har lært flere ord som tilhører samisk telle- og regnemåte og kan bruke dem i noen ulike situasjoner.</p>
+<p>Du har lært mange ord som tilhører samisk telle- og regnemåte og kan bruke dem i flere ulike situasjoner.</p>
+<p>skrive et lite rollespill med handling og begrep som er tilknyttet næringa</p>
+<p>Du skriver noen roller til et lite rollespill, og du trekker inn noen begrep tilknyttet næringa.</p>
+<p>Du skriver roller til et lite rollespill, og du trekker inn en realistisk handling og noen begrep tilknyttet næringa.</p>
+<p>Du skriver roller til et rollespill, og du trekker inn en realistisk handling og mange begrep tilknyttet næringa.</p>
+<p>gjennomføre rollespillet med muntlige dialoger</p>
+<p>Du fremfører noen av de dialogene du hadde forberedt.</p>
+<p>Du fremfører dialogene du hadde forberedt i rollespillet, på en god måte.</p>
+<p>Du fremfører dialogene i rollespillet på en naturlig og god måte.</p>
+<p>Her passer det at elevene får en innføring i samisk telle- og regnemåte selv om det hører til nivå 6. For eksempel kan samlingstall for mennesker (gööktesh, golmesh, njealjesh osv. – to, tre, fire mennesker sammen), rein (gööktege, golmege, njealjege osv. – to, tre, fire rein sammen) og flokkstørrelser (bïrhketje, stuhtje, ealoe osv. – liten flokk rein, 8-12 dyr) og del av en reinflokk (reinflokk/reinhjord) være aktuelle begrep. Innenfor alle de samiske tradisjonelle næringene finnes det telle- og regnemåter som kan innføres i dette eksemplet.</p>
+<p>Skjemaet kan være utgangspunkt for både lærerens underveisvurdering og elevenes egenvurdering. Skjemaet kan også danne grunnlag for en elevsamtale eller en utviklingssamtale mellom lærer, elev og foreldre/foresatte.</p>
+<p type="title">Læringsaktiviteter</p>
+<p>Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 4; innhold og læringsaktiviteter, grunnleggende ferdigheter, tilpasset opplæring, fjernundervisning og vurdering underveis.</p>
+<p type="title">Forkunnskaper</p>
+<p>Det er en forutsetning at elevene kan en god del av de hverdagslige begrepene og at de har lært seg tallord og ordenstall. I forkant av undervisningsopplegget kan det være hensiktsmessig å repetere nødvendige hverdagsbegrep og tall.</p>
+<p type="title">Innføring av nye begrep</p>
+<p>Læreren gjennomgår de viktigste ordene og begrepene. Se her eksempel på to kort med nye ord og begrep:</p>
+<p>Elin Fjellheim, Elgå skuvle</p>
+<p>Deretter kan elevene lære seg de mest sentrale begrepene gjennom forskjellige aktiviteter, for eksempel ordloop, ordpussel, veggspill og kroppskrøll.</p>
+<p><em type="italic">Beskrivelse av læringsstiler </em></p>
+<p><em type="bold">Visuelle elever liker </em></p>
+<p><em type="bold">Auditive elever liker </em></p>
+<p>- å lese og skrive, å se film, å tegne, å jobbe med arbeidshefter og å illustrere tankekart</p>
+<p>- bilder og ord</p>
+<p>- å lytte, diskutere, snakke med seg selv eller med andre og lese høyt</p>
+<p><em type="bold">Taktile elever liker </em></p>
+<p><em type="bold">Kinestetiske elever liker </em></p>
+<p>- å røre på ting, arbeide med hendene, arbeide med pc, lage veggplakater, spille, skrive, klippe og klistre</p>
+<p>- å arbeide med nøkkelring og trådbrett</p>
+<p>- å bevege seg og bruke hele kroppen, spille ulike spill, spille teater og praktisk arbeid</p>
+<p>- vegg- og gulvspill</p>
+<p>For tips til hvordan elevene kan repetere og lære nye ord, se artikkel om ordlæring og artikkel om læringsstrategier i veiledningen for engelsk.</p>
+<p>Bruk som innføring, det som passer for elevgruppen.</p>
+<list><p type="listitem">Få noen fra det lokale området til å fortelle om en lokal samisk tradisjonell næring.</p>
+<p type="listitem">Ta utgangspunkt i et studiebesøk dere har gjort til noen som driver tradisjonelle næringer.</p>
+<p type="listitem">La elevene lese korte og enkle faktatekster om en samisk tradisjonell næring fra elevens lokale område</p>
+</list><p type="title">ROLLESPILL</p>
+<p>Rollespill er en måte å få elevene til å aktivisere det samiske språket sitt på. I et rollespill er det ikke <span type="quote">”eleven selv”</span> som snakker, men det er en rolle. Da er det også enklere å komme over prestasjonsangst og redsel for å snakke feil. Når elevene lager rollespill, har de en tenkt situasjon.</p>
+<p>Eksempel</p>
+<p><em type="italic">Vi møtes på reinskilling </em></p>
+<p type="listitem">Lag et situasjonsbilde <list><p type="listitem">Hvor er vi?</p>
+<p type="listitem">Hvordan ser det ut her?</p>
+<p type="listitem">Beskrivelse av natur, personer osv.</p>
+</list></p>
+<p type="listitem">Hvilke personer er til stede? Se rollekort.</p>
+<list><p type="listitem">Rollekort:</p>
+</list><list><p type="listitem">Navn</p>
+<p type="listitem">Alder</p>
+<p type="listitem">Hvem er jeg? - person - relasjon til andre i spillet - slekt - arbeidskamerat - drahjelp</p>
+<p type="listitem">Personlighet Bruk adjektiv til å beskrive Eksempel: Jeg er glad, snill, sint osv.</p>
+</list><p type="listitem">Hva skjer i den tenkte situasjonen?</p>
+<p>Eksempel <em type="italic">Vinter </em></p>
+<list><p type="listitem">Samling til reingjerdet</p>
+<p type="listitem">Arbeid i reingjerdet</p>
+</list><p>Her kan det differensieres avhengig av elevenes forkunnskaper. Aktuelt er for eksempel skilling, slakt og telling.</p>
+<p>Det er viktig at elevene gjøres kjent med rollene sine slik at de blir trygge. Lag dialoger for hver situasjon. La elevene lage situasjoner som kan være aktuelle. Alle kan delta samtidig i spillet, men det kan også gjøres i samme rom ved ulike ”talestasjoner” som kan fungere som egne <em type="italic">språkdomener </em>. Les mer om språkdomener i egen artikkel . </p>
+<p><em type="italic">Talestasjon 1 </em>En person kommer fra nabodistriktet og vil se over reinflokken for å se om de har sine rein der. </p>
+<list><p type="listitem">Kjenner disse to hverandre fra før? <list><p type="listitem">De hilser på hverandre, presenterer seg eventuelt og forteller hvor de kommer i fra.</p>
+</list></p>
+<p type="listitem">Hva sier de til hverandre?</p>
+</list><p>Elin Fjellheim, Elgå skuvle</p>
+<p>En tredje person kommer inn og spør om reinbeitet, hvordan sommeren og høsten har vært osv.</p>
+<p><em type="italic">Talestasjon 2 </em>To personer samtaler om hvilke / hvem sine rein fra nabodistriktet som er samlet. </p>
+<p><em type="italic">Talestasjon 3 </em>Noen personer sitter rundt bålet og samtaler om andre hverdagslige ting. </p>
+<p>Elin Fjellheim, Elgå skuvle</p>
+<p>Slik kan hele situasjonsbildet flytte fra talestasjon til talestasjon, og nye tenkte situasjoner oppstår ut fra behov. Dette er byggesteiner som utvider språkbruken.</p>
+<p>Velg hvor mange personer som skal delta i rollespillet, ut i fra antall elever i samisktimene. Læreren kan også delta for å få flere aktører.</p>
+<p>Nedenfor følger forslag til person- og talestasjonskort, som elevene fyller ut.</p>
+<p><em type="italic">Person 1 </em></p>
+<p>Navn: Alder: Hvem jeg er: Personlighet/karakter: Slekt/arbeidskamerat/ arbeidshjelp/annen relasjon:</p>
+<p><em type="italic">Person 2 </em></p>
+<p>Navn: Alder: Hvem jeg er: Personlighet/karakter: Slekt/arbeidskamerat/ arbeidshjelp/annen relasjon:</p>
+<p><em type="italic">Talestasjon 1 </em></p>
+<p>Hvor: Hvem: Handling: Samtaler om:</p>
+<p><em type="italic">Talestasjon 2 </em></p>
+<p>Hvor: Hvem: Handling: Samtaler om:</p>
+<p>Samme metode og mal kan også brukes for å lage rollespill innenfor andre tradisjonelle samiske næringer som:</p>
+<list><p type="listitem">sjøfiske</p>
+<p type="listitem">laksefiske</p>
+<p type="listitem">jordbruk</p>
+<p type="listitem">jakt- og fangst</p>
+<p type="listitem">andre utmarksnæringer</p>
+<p type="listitem">duedtie/duodji/sløyd</p>
+<p type="listitem">kombinasjonsnæringer</p>
+</list><p>Hver og en av disse næringene kan fungere som <em type="italic">samiskspråklige domener </em>, som elevene kan besøke, og lage et rollespill ut fra. Rollene/rollespillet fungerer også som språkdomener. Se egen artikkel for flere eksempler om språkdomener . </p>
+<p>Rollespillet kan også utvides og danne utgangspunkt for et storyline-prosjekt.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Differensier ved å velge et passende omfang på rollespillet, for eksempel type personer og antall talestasjoner, ut fra antall elever, elevenes forkunnskaper og alderen deres. Når elevene selv er med på å skrive roller, vil de bruke sine tilegnede kunnskaper. Det blir da lærerens jobb å gi elevene tilpassede utfordringer.</p>
+<p>Antall talestasjoner kan utvides. Det kan for eksempel lages en talestasjon hvor turister eller andre kommer på besøk. Her kan det gis informasjon om stedets historie og tradisjoner. Denne talestasjonen egner seg for elever som er noe sterkere i samisk, samt eldre elever som følger læreplanen i samisk 3.</p>
+<p type="title">Fjernundervisning</p>
+<p>Rollespill kan det være litt mer utfordrende å gjennomføre via fjernundervisning, men med forberedelser er det mulig. Antall deltakere vil være avhengig av undervisningsorganisering og muligheter for flerpartskonferanse, det vil si undervisning av flere elever parallelt. Samme person kan også ha flere roller.</p>
+<p>Begrensningene ligger i mulighetene for å bevege seg foran kamera fordi radiusen blir snevrere. Det er også avhengig av fjernutstyrets tekniske løsninger og overføringskapasitet.</p>
+<p>Det vil kreve større innlevelse å spille rollespill når man i rollespillet skal være på samme arena, men sitte på forskjellige steder.</p>
+<p>Forberedelsene til rollespillet vil være de samme som i klasserommet. Når det gjelder gjennomføringen av rollespillet, vil det være avhengig av organiseringen og type utstyr. Hvis kun en lærer og en elev deltar, må rollespillet tilpasses det, for eksempel slik at eleven og læreren har flere roller hver. Der det er muligheter for flerpartskonferanse, vil det være flere å spille på.</p>
+<p>Et annet alternativ kan være at fjernundervisningseleven kan være en utsendt medarbeider fra et tv-selskap og skal rapportere fra en bestemt hendelse i en samisk tradisjonell næring. Er det to elever, kan den ene intervjue den andre om temaet. Da kan fjernundervisningskameraet fungere som tv-kamera, og læreren kan være mottakeren av programmet.</p>
+<p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne uttrykke seg muntlig: </em>Den muntlige ferdigheten er den dominerende aktiviteten i dette eksempelet, spesielt samtale med andre. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig: </em>Elevene skriver replikker til rollespillet. </p>
+<p><em type="italic">Å kunne lese: </em>Som en innføring til temaet, er det aktuelt å finne og lese en tekst som er tilpasset elevgruppen for Samisk 2 og 3. </p>
+<p><em type="italic">Å kunne regne: </em>Undervisningsopplegget trekker inn regneferdigheter, både generelle og næringsspesifikke. For eksempel gir det å telle rein mulighet til å trekke inn tellemåter med rein og å lære en del begrep på reinflokkstørrelser. De andre samiske, tradisjonelle næringene har også sin næringsspesifikke regning som kan trekkes inn i eksempelet. </p>
+<p><em type="italic">Å kunne bruke digitale verktøy: </em>Det egner seg å lage rollekort og talestasjoner ved hjelp av data. Innøvinga av replikker kan gjøres ved hjelp av data, mp3-spiller, mobiltelefon etc. Det blir lettere for elevene å forbedre framføringa og vurdere egen innsats når de kan lytte på egne replikker. </p>
+<p type="title">Vurdering</p>
+<p>Vurderingen i eksemplene skal være læringsfremmende gjennom tilbakemeldinger/framovermeldinger som er motiverende og bevisstgjørende. Kriterier for læringsmål skal være kjente og tilgjengelige for elevene i begynnelsen av arbeidet. En måte å gi underveisvurdering/framovermelding på presenteres nedenfor.</p>
+<p>Du skal:</p>
+<p>bruke ord som dekker dagligdagse situasjoner</p>
+<p><em type="italic">Du kan: </em>Du forstår det vi snakker om og kan svare med enkeltord. </p>
+<p><em type="italic">Øv på: </em>Øv på å ta ordet uten at alt er forberedt. Etter hvert vil du automatisere det ordforrådet du har. Prøv å bruke de nye ordene i hele setninger og ikke bare svare med enkeltord. </p>
+<p>gjennomføre rollespillet med muntlige dialoger</p>
+<p><em type="italic">Du kan: </em>Du viser at du kan de fleste av replikkene. </p>
+<p><em type="italic">Øv på: </em>Lær deg rollen godt, og lev deg inn i den. </p>
+<p type="title">Logg som vurderingsform</p>
+<p>Her presenteres logg som vurderingsform. Loggen eller deler av den bør skrives på samisk. Differensier etter elevenes samiskkunnskaper.</p>
+<p>Gruppelogg 1, startlogg Denne gruppeloggen brukes i forkant av arbeidet med å lage og gjennomføre rollespillet. Loggen kan også brukes som individuell logg. Her beskrives det hvem som deltar, og hva som er temaet. Det gis en situasjonsbeskrivelse og målbeskrivelse. Arbeidsmåter angis. Vurdering og kommentarer fra læreren inngår. I dette eksempelet kan man bruke gruppelogg 1 på følgende ” lenke ”.</p>
+<p>Gruppelogg 2, underveislogg Denne loggen er en underveislogg som gir en beskrivelse av situasjonen, arbeidsmåter og vurdering i tillegg til kommentarer fra læreren. Denne loggen kan også være en individuell logg. Se www.lex.no/vurdering . Dersom gruppearbeidet strekker seg over litt lengre tid, kan det være hensiktsmessig å føre flere underveislogger under arbeidets gang.</p>
+<p>Gruppelogg 3, sluttlogg Etter at rollespillet er gjennomført, kan prosessen og resultatet oppsummeres i en logg, individuelt eller i gruppen. Her kan arbeidsfordeling, samarbeid osv oppsummeres, men fokus skal være på språkkompetansen og læringsmålene. Læreren gir til slutt en kommentar.</p>
+<p type="title">Egenvurdering</p>
+<p>Alternativt kan elevene vurdere seg selv etter vurderingskriteriene som er nevnt i tabellen nedenfor, og benytte samme gradering som i Europeisk språkpass (ESP).</p>
+<p>Dette kan jeg</p>
+<list><p type="listitem">litt</p>
+<p type="listitem">ganske godt</p>
+<p type="listitem">veldig godt</p>
+</list><p>Elevene kan vurdere de læringsmålene de mestrer gjennom følgende tabell:</p>
+<p><em type="bold">Beskrivelse </em></p>
+<p><em type="italic">Dette kan jeg litt: </em>Dato </p>
+<p><em type="italic">Dette kan jeg ganske godt: </em>Dato </p>
+<p><em type="bold">Dette kan jeg veldig godt: </em></p>
+<p>Dato</p>
+<p>Jeg kan snakke om dagligdagse situasjoner.</p>
+<p>Jeg kan snakke om den tradisjonelle næringa som vi har arbeidet med.</p>
+<p>Jeg kan ord som hører til samisk telle- og regnemåte.</p>
+<p>Jeg kan skrive replikker til et rollespill.</p>
+<p>Jeg kan replikkene og gjennomfører rollespillet med muntlige dialoger.</p>
+<p>Som en del av egenvurderinga, kan elevene vurdere hva de har lært av nye begrep. Se også nivå 7 for utvidet bruk av dette skjemaet.</p>
+<p>Jeg trenger hjelp for å forstå betydningen av dette ordet.</p>
+<p>Jeg tror jeg vet hva dette ordet betyr.</p>
+<p>Jeg vet hva dette ordet betyr.</p>
+<p>Læreren kan gå gjennom egenvurderinga med elevene og komme med sine vurderinger muntlig og/eller skriftlig.</p>
+<p>Når underveisvurderinga er utført, bør elevene få tid til å forbedre arbeidet for å øke læringsutbyttet.</p>
+<p type="title">Lærestoff</p>
+<p><em type="italic">Sørsamisk: </em><em type="italic">Bergsland, Knut </em>: Gåebrehki soptsesh, Universitetsforlaget, 2. utgave, 1987 <em type="italic">Bergsland, Knut </em>: Sydsamisk grammatikk, Davvi Girji o.s., §§129, 131, 134 <em type="italic">Bull, Ella Holm </em><em type="italic">og Bergsland, Knut </em>: Lohkede saemien, Davvi Girji O.S, 2. opplag, 1993 <em type="italic">Bull, Ella Holm </em>: Åarjel-saemien 5, Davvi Media o.s., 1986/86 <em type="italic">Bull, Ella Holm </em>: Dejpeladtje muvhth vätnoeh jih vuekieh, Samernas utbildningscentrum, 2001 <em type="italic">Utsi, Gun M </em>.: Bovtsen Guelmieh, Sijti Jarnge, 1994 Várjavuonna, Meara ávkástallan, Isak Saba guovdás, 2009 </p>
+</body></document>

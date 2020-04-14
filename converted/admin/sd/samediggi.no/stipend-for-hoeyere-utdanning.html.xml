@@ -1,97 +1,51 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Stipend for høyere utdanning</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>505</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Stipend-for-hoeyere-utdanning</origFileName>
-    <parallel_text xml:lang="sma" location="stipende-jollebe-oeoehpehtaemman.html"/>
-    <parallel_text xml:lang="sme" location="stipeanda-alit-ohppui.html"/>
-    <parallel_text xml:lang="smj" location="stipenda-alep-aahpadussaj.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Stipend for høyere utdanning</p>
-    <p>Søknadsfrist: 01.10.2019 23:59</p>
-    <p>​​​​​​ <em type="italic">Du kan få tildelt stipend dersom du er student ved et av følgende studier i 2019: </em></p>
-    <list>
-      <p type="listitem">Samisk barnehagelærerutdanning</p>
-      <p type="listitem">Annen barnehagelærerutdanning for studenter med avlagt eksamen/standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå</p>
-      <p type="listitem">Samisk grunnskolelærerutdanning master, 1-7 eller 5-10</p>
-      <p type="listitem">Grunnskolelærerutdanning master med samisk i fagkretsen, 1-7 eller 5-10</p>
-      <p type="listitem">Annen lærerutdanning for studenter med avlagt eksamen/standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå: <list><p type="listitem" xml:lang="nno">Lektorutdanning 8-13</p><p type="listitem">Praktisk-pedagogisk utdanning for allmenne fag</p><p type="listitem">Praktisk-pedagogisk utdanning for yrkesfag 8-13</p><p type="listitem" xml:lang="dan">Yrkesfaglærerutdanning</p><p type="listitem">Faglærerutdanninger i praktiske og estetiske fag</p></list></p>
-    </list>
-    <p>
-      <em type="italic">Hvem kan søke om stipend? </em>
-    </p>
-    <list>
-      <p type="listitem">Studenter i samisk barnehage- og grunnskolelærerutdanning og praktisk-pedagogisk utdanning ved Sámi allaskuvla</p>
-      <p type="listitem">Studenter i sør- og lulesamisk grunnskolelærerutdanning ved Nord universitet</p>
-      <p type="listitem">Studenter ved høgskoler og universitet i Norge som er folkeregistrert i Norge, og som kan dokumentere avlagt eksamen eller standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå</p>
-    </list>
-    <p>
-      <em type="italic">Stipendenes størrelse: </em>
-    </p>
-    <p>
-      <em type="italic">Beregningsregler I: </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="dan">Barnehagelærerutdanning</p>
-      <p type="listitem">Grunnskolelærerutdanning master 1-7 og 5-10 med samisk i fagkretsen <list><p type="listitem" xml:lang="nno">Minimum 30 studiepoeng pr semester kr 25000</p><p type="listitem" xml:lang="nno">Mellom 15 og 29 studiepoeng pr semester kr 10000</p><p type="listitem" xml:lang="nno">Mellom 10 og 14 studiepoeng pr semester kr 5000</p></list></p>
-    </list>
-    <p>
-      <em type="italic">Beregningsregler II: </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="nno">Lektorutdanning 8-13</p>
-      <p type="listitem">Praktisk-pedagogisk utdanning for allmenne fag</p>
-      <p type="listitem">Praktisk-pedagogisk utdanning for yrkesfag 8-13</p>
-      <p type="listitem" xml:lang="dan">Yrkesfaglærerutdanning</p>
-      <p type="listitem">Faglærerutdanninger i praktiske og estetiske fag <list><p type="listitem" xml:lang="nno">Minimum 30 studiepoeng pr semester kr 10000</p><p type="listitem" xml:lang="nno">Mellom 15 og 29 studiepoeng pr semester kr 5000</p><p type="listitem" xml:lang="nno">Mellom 10 og 14 studiepoeng pr semester kr 3000</p></list></p>
-    </list>
-    <p xml:lang="nno">
-      <em type="italic">Søknadsskjema: </em>
-    </p>
-    <list>
-      <p type="listitem">Sametingets elektroniske søknadsskjema <em type="italic">skal </em>brukes. </p>
-    </list>
-    <p>
-      <em type="italic">Søknadsskjema for søker som ikke er folkeregistrert i Norge: </em>
-    </p>
-    <list>
-      <p type="listitem">Søker som er student ved Sámi allaskuvla eller i sør- og lulesamisk grunnskolelærerutdanning ved Nord universitet - og <em type="italic">ikke </em>folkeregistrert i Norge - må selv ta kontakt med Sametinget for utlevering av særskilt søknadsskjema. <list><p type="listitem"><em type="italic">Underskrevet </em>søknadskjema skal sendes med <em type="italic">epost innen søknadsfristen </em>– vårsemesteret 1. februar og høstsemesteret 1. oktober. </p></list></p>
-    </list>
-    <p>
-      <em type="italic">Dokumentasjon som skal følge søknaden: </em>
-    </p>
-    <list>
-      <p type="listitem">Bekreftelse på at du er student ved studiet du søker stipend til, og hvor mange studiepoeng du skal avlegge eksamen for.</p>
-      <p type="listitem">Bekreftelse på at du har samisk språk i fagkretsen dersom du ikke er student ved en samisk grunnskolelærerutdanning.</p>
-      <p type="listitem">Bekreftelse på at du har betalt semesteravgift for semesteret søknaden omfatter</p>
-    </list>
-    <p xml:lang="eng">
-      <em type="italic">Rapportering: </em>
-    </p>
-    <p>I regelverket for stipend for høyere utdanning, finnes egne bestemmelser om rapportering, kontroll, tilbakebetaling og annullering av stipend, blant annet:</p>
-    <list>
-      <p type="listitem">Det skal leveres dokumentasjon for gjennomført eksamen for vårsemesteret innen 01.10.2019</p>
-      <p type="listitem">Det skal leveres dokumentasjon for gjennomført eksamen for høstsemesteret innen 01.02.2020</p>
-    </list>
-    <p>Eksamensdokumentasjonen sendes samediggi@samediggi.no</p>
-    <p xml:lang="dan">
-      <em type="italic">Kontaktperson for ordningen: </em>
-    </p>
-    <p>Heidi Salmi , Seniorrådgiver høyere utdanning og forskning, +47 78 47 40 46</p>
-    <p xml:lang="dan">Elektronisk søknadsskjema</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Stipend for høyere utdanning</title><genre code="admin"/><author><unknown/></author><wordcount>505</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Stipend-for-hoeyere-utdanning</origFileName><parallel_text xml:lang="sma" location="stipende-jollebe-oeoehpehtaemman.html"/><parallel_text xml:lang="sme" location="stipeanda-alit-ohppui.html"/><parallel_text xml:lang="smj" location="stipenda-alep-aahpadussaj.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Stipend for høyere utdanning</p>
+<p>Søknadsfrist: 01.10.2019 23:59</p>
+<p>​​​​​​ <em type="italic">Du kan få tildelt stipend dersom du er student ved et av følgende studier i 2019: </em></p>
+<list><p type="listitem">Samisk barnehagelærerutdanning</p>
+<p type="listitem">Annen barnehagelærerutdanning for studenter med avlagt eksamen/standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå</p>
+<p type="listitem">Samisk grunnskolelærerutdanning master, 1-7 eller 5-10</p>
+<p type="listitem">Grunnskolelærerutdanning master med samisk i fagkretsen, 1-7 eller 5-10</p>
+<p type="listitem">Annen lærerutdanning for studenter med avlagt eksamen/standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå: <list><p type="listitem" xml:lang="nno">Lektorutdanning 8-13</p>
+<p type="listitem">Praktisk-pedagogisk utdanning for allmenne fag</p>
+<p type="listitem">Praktisk-pedagogisk utdanning for yrkesfag 8-13</p>
+<p type="listitem" xml:lang="dan">Yrkesfaglærerutdanning</p>
+<p type="listitem">Faglærerutdanninger i praktiske og estetiske fag</p>
+</list></p>
+</list><p><em type="italic">Hvem kan søke om stipend? </em></p>
+<list><p type="listitem">Studenter i samisk barnehage- og grunnskolelærerutdanning og praktisk-pedagogisk utdanning ved Sámi allaskuvla</p>
+<p type="listitem">Studenter i sør- og lulesamisk grunnskolelærerutdanning ved Nord universitet</p>
+<p type="listitem">Studenter ved høgskoler og universitet i Norge som er folkeregistrert i Norge, og som kan dokumentere avlagt eksamen eller standpunktkarakter i samisk som 1. eller 2. språk fra videregående opplæring, eller tilsvarende nivå</p>
+</list><p><em type="italic">Stipendenes størrelse: </em></p>
+<p><em type="italic">Beregningsregler I: </em></p>
+<list><p type="listitem" xml:lang="dan">Barnehagelærerutdanning</p>
+<p type="listitem">Grunnskolelærerutdanning master 1-7 og 5-10 med samisk i fagkretsen <list><p type="listitem" xml:lang="nno">Minimum 30 studiepoeng pr semester kr 25000</p>
+<p type="listitem" xml:lang="nno">Mellom 15 og 29 studiepoeng pr semester kr 10000</p>
+<p type="listitem" xml:lang="nno">Mellom 10 og 14 studiepoeng pr semester kr 5000</p>
+</list></p>
+</list><p><em type="italic">Beregningsregler II: </em></p>
+<list><p type="listitem" xml:lang="nno">Lektorutdanning 8-13</p>
+<p type="listitem">Praktisk-pedagogisk utdanning for allmenne fag</p>
+<p type="listitem">Praktisk-pedagogisk utdanning for yrkesfag 8-13</p>
+<p type="listitem" xml:lang="dan">Yrkesfaglærerutdanning</p>
+<p type="listitem">Faglærerutdanninger i praktiske og estetiske fag <list><p type="listitem" xml:lang="nno">Minimum 30 studiepoeng pr semester kr 10000</p>
+<p type="listitem" xml:lang="nno">Mellom 15 og 29 studiepoeng pr semester kr 5000</p>
+<p type="listitem" xml:lang="nno">Mellom 10 og 14 studiepoeng pr semester kr 3000</p>
+</list></p>
+</list><p xml:lang="nno"><em type="italic">Søknadsskjema: </em></p>
+<list><p type="listitem">Sametingets elektroniske søknadsskjema <em type="italic">skal </em>brukes. </p>
+</list><p><em type="italic">Søknadsskjema for søker som ikke er folkeregistrert i Norge: </em></p>
+<list><p type="listitem">Søker som er student ved Sámi allaskuvla eller i sør- og lulesamisk grunnskolelærerutdanning ved Nord universitet - og <em type="italic">ikke </em>folkeregistrert i Norge - må selv ta kontakt med Sametinget for utlevering av særskilt søknadsskjema. <list><p type="listitem"><em type="italic">Underskrevet </em>søknadskjema skal sendes med <em type="italic">epost innen søknadsfristen </em>– vårsemesteret 1. februar og høstsemesteret 1. oktober. </p>
+</list></p>
+</list><p><em type="italic">Dokumentasjon som skal følge søknaden: </em></p>
+<list><p type="listitem">Bekreftelse på at du er student ved studiet du søker stipend til, og hvor mange studiepoeng du skal avlegge eksamen for.</p>
+<p type="listitem">Bekreftelse på at du har samisk språk i fagkretsen dersom du ikke er student ved en samisk grunnskolelærerutdanning.</p>
+<p type="listitem">Bekreftelse på at du har betalt semesteravgift for semesteret søknaden omfatter</p>
+</list><p xml:lang="eng"><em type="italic">Rapportering: </em></p>
+<p>I regelverket for stipend for høyere utdanning, finnes egne bestemmelser om rapportering, kontroll, tilbakebetaling og annullering av stipend, blant annet:</p>
+<list><p type="listitem">Det skal leveres dokumentasjon for gjennomført eksamen for vårsemesteret innen 01.10.2019</p>
+<p type="listitem">Det skal leveres dokumentasjon for gjennomført eksamen for høstsemesteret innen 01.02.2020</p>
+</list><p>Eksamensdokumentasjonen sendes samediggi@samediggi.no</p>
+<p xml:lang="dan"><em type="italic">Kontaktperson for ordningen: </em></p>
+<p>Heidi Salmi , Seniorrådgiver høyere utdanning og forskning, +47 78 47 40 46</p>
+<p xml:lang="dan">Elektronisk søknadsskjema</p>
+</body></document>

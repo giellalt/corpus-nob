@@ -1,79 +1,48 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>373</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Barn-og-foreldre/Barneloven/</origFileName>
-    <parallel_text xml:lang="eng" location="index_20.html"/>
-    <parallel_text xml:lang="sma" location="index_20.html"/>
-    <parallel_text xml:lang="sme" location="index_20.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Barneloven – lov om barn og foreldre – Fylkesmannen - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title">Barn og foreldre</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-      <p type="listitem" xml:lang="dan">Miljø og klima</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p>Barn og foreldre</p>
-    <p xml:lang="vep">Barneloven</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Barneloven</p>
-      <p type="listitem" xml:lang="dan">Barnevern</p>
-      <p type="listitem">Biologiske foreldre til adoptivbarn</p>
-      <p type="listitem">Familievern</p>
-    </list>
-    <p type="title" xml:lang="vep">Barneloven</p>
-    <p xml:lang="nno">Publisert 21.09.2012 Oppdatert 05.04.2017</p>
-    <p>Barneloven gjelder for barn og unge under 18 år, og regulerer foreldrenes plikter overfor barna – og barnas rettigheter overfor foreldrene. Barneloven har blant annet bestemmelser om fastsetting av farskap, foreldreansvar og daglig omsorg, gjensidig samværsrett for barn og foreldre og foreldrenes plikt til å forsørge barna sine.</p>
-    <p>Flere av bestemmelsene regulerer rettigheter og plikter når foreldrene ikke bor sammen, for eksempel hvis de er separert eller skilt. Ved samlivsbrudd kan foreldrene selv gjøre avtaler om foreldreansvar, fast bosted, samvær og reisekostnader ved samvær. Dersom foreldrene ikke blir enige, kan hver av dem reise sak for domstolen for å få avgjort spørsmålet. Før det reises sak for domstolen, må foreldrene møte til mekling. Familievernkontorene kan svare på spørsmål knyttet til mekling.</p>
-    <p type="title">Økonomiske forhold mellom foreldre</p>
-    <p>Det økonomiske forholdet mellom foreldrene er i utgangspunktet et privatrettslig forhold. Ved beregning av reisekostnader ved samvær er hovedregelen at kostnadene skal fordeles etter størrelsen på inntektene dersom foreldrene ikke blir enige om en annen fordeling. Fylkesmannen kan avgjøre fordelingen av reisekostnader hvis en annen fordeling enn hovedregelen er rimelig. Dette kan for eksempel være store inntektsforskjeller mellom foreldrene samtidig som reisekostnadene er høye.</p>
-    <p type="title">Fylkesmannen kan gjøre avtaler bindende</p>
-    <p>Fylkesmannen kan gjøre en skriftlig avtale om foreldreansvar, fast bosted, samvær og reisekostnader juridisk bindende (gi den tvangskraft). Begge foreldrene må være enige om administrativ behandling hos Fylkesmannen. Dersom det gjeld reisekostnader i forbindelse med samvær, og barnet er over 15 år, kan Fylkesmannen behandle saken selv om bare én av foreldrene ønsker det. Foreldrene kan også bringe saken inn for domstolen.</p>
-    <p>Foreldre som ikke har foreldreansvar, har etter barneloven likevel rett til opplysninger om barnet fra barnehage, skole, helse- og omsorgstjenesten og politiet. Fylkesmannen er klageinstans ved avslag på krav om slike opplysninger.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem">Foreldreansvar og samværsrett</p>
-      <p type="listitem">Mekling for foreldre</p>
-      <p type="listitem" xml:lang="nno">Reisekostnader ved samvær</p>
-      <p type="listitem" xml:lang="dan">Barneombudet</p>
-      <p type="listitem" xml:lang="nno">Ung.no</p>
-      <p type="listitem">Sjumilssteget</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>373</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Barn-og-foreldre/Barneloven/</origFileName><parallel_text xml:lang="eng" location="index_20.html"/><parallel_text xml:lang="sma" location="index_20.html"/><parallel_text xml:lang="sme" location="index_20.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Barneloven – lov om barn og foreldre – Fylkesmannen - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title">Barn og foreldre</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<p type="listitem" xml:lang="dan">Miljø og klima</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p>Barn og foreldre</p>
+<p xml:lang="vep">Barneloven</p>
+<list><p type="listitem" xml:lang="vep">Barneloven</p>
+<p type="listitem" xml:lang="dan">Barnevern</p>
+<p type="listitem">Biologiske foreldre til adoptivbarn</p>
+<p type="listitem">Familievern</p>
+</list><p type="title" xml:lang="vep">Barneloven</p>
+<p xml:lang="nno">Publisert 21.09.2012 Oppdatert 05.04.2017</p>
+<p>Barneloven gjelder for barn og unge under 18 år, og regulerer foreldrenes plikter overfor barna – og barnas rettigheter overfor foreldrene. Barneloven har blant annet bestemmelser om fastsetting av farskap, foreldreansvar og daglig omsorg, gjensidig samværsrett for barn og foreldre og foreldrenes plikt til å forsørge barna sine.</p>
+<p>Flere av bestemmelsene regulerer rettigheter og plikter når foreldrene ikke bor sammen, for eksempel hvis de er separert eller skilt. Ved samlivsbrudd kan foreldrene selv gjøre avtaler om foreldreansvar, fast bosted, samvær og reisekostnader ved samvær. Dersom foreldrene ikke blir enige, kan hver av dem reise sak for domstolen for å få avgjort spørsmålet. Før det reises sak for domstolen, må foreldrene møte til mekling. Familievernkontorene kan svare på spørsmål knyttet til mekling.</p>
+<p type="title">Økonomiske forhold mellom foreldre</p>
+<p>Det økonomiske forholdet mellom foreldrene er i utgangspunktet et privatrettslig forhold. Ved beregning av reisekostnader ved samvær er hovedregelen at kostnadene skal fordeles etter størrelsen på inntektene dersom foreldrene ikke blir enige om en annen fordeling. Fylkesmannen kan avgjøre fordelingen av reisekostnader hvis en annen fordeling enn hovedregelen er rimelig. Dette kan for eksempel være store inntektsforskjeller mellom foreldrene samtidig som reisekostnadene er høye.</p>
+<p type="title">Fylkesmannen kan gjøre avtaler bindende</p>
+<p>Fylkesmannen kan gjøre en skriftlig avtale om foreldreansvar, fast bosted, samvær og reisekostnader juridisk bindende (gi den tvangskraft). Begge foreldrene må være enige om administrativ behandling hos Fylkesmannen. Dersom det gjeld reisekostnader i forbindelse med samvær, og barnet er over 15 år, kan Fylkesmannen behandle saken selv om bare én av foreldrene ønsker det. Foreldrene kan også bringe saken inn for domstolen.</p>
+<p>Foreldre som ikke har foreldreansvar, har etter barneloven likevel rett til opplysninger om barnet fra barnehage, skole, helse- og omsorgstjenesten og politiet. Fylkesmannen er klageinstans ved avslag på krav om slike opplysninger.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem">Foreldreansvar og samværsrett</p>
+<p type="listitem">Mekling for foreldre</p>
+<p type="listitem" xml:lang="nno">Reisekostnader ved samvær</p>
+<p type="listitem" xml:lang="dan">Barneombudet</p>
+<p type="listitem" xml:lang="nno">Ung.no</p>
+<p type="listitem">Sjumilssteget</p>
+</list></body></document>

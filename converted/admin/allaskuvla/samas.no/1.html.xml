@@ -1,97 +1,68 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Avd. for språkfag | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>410</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/taxonomy/term/1</origFileName>
-    <parallel_text xml:lang="eng" location="1.html"/>
-    <parallel_text xml:lang="sme" location="1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="dan">Avd. for språkfag</p>
-    <p>Språkvitenskapelig avdeling fremmer og støtter utviklingen av samisk språk gjennom å tilby kurs i samisk fra og med begynnernivå og helt opp til mastergradsnivå. Gjennom sin undervisnings- og forskningsaktivitet arbeider Språkvitenskapelig avdeling for å heve kompetansen i samisk språk, og for å formidle kunnskap om samisk litteratur til det samiske folk. Språket bærer i seg vår kunnskap. Språket er et redskap for formidling. Språket viderefører verdier og livsinnsikt fra generasjon til generasjon. Samisk er et urfolksspråk. Språket utvikler seg når det er i bruk. Derfor bruker høgskolen samisk språk i sin daglige virksomhet, både innen administrasjon, undervisning og forskning. Språkvitenskapelig avdeling hever samisk språk til høyeste akademiske nivå og viser verden at urfolksspråk både kan og bør brukes innen høyere utdanning. Samisk høgskole har prioritert å bruke ressurser på å utvikle det første utdanningsprogrammet innen samisk språk og litteratur på doktorgradsnivå.</p>
-    <p>
-      <em type="italic">Språkvitenskapelig av deling tilbyr følgende utdanninger innen språk og litteratur: </em>
-    </p>
-    <list>
-      <p type="listitem">Introduksjonskurs i samisk språk, og samisk semesteremne (kvalifiserer for opptak til Samisk høgskoles øvrige utdanninger og studieprogrammer)</p>
-      <p type="listitem">Halvårs- og årsenhet, bachelorgrad, mastergrad og doktorgrad i samisk språk og litteratur</p>
-      <p type="listitem">Språkfagene samisk, finsk og norsk som del av lærerutdanningene</p>
-      <p type="listitem">Språkrøkt i journalistutdanningen</p>
-      <p type="listitem">Språk som fag innenfor duodjiutdanningene</p>
-      <p type="listitem">Utdanning innen samisk musikk og joik</p>
-    </list>
-    <p type="title" xml:lang="nno">Bachelor i samisk språk og litteratur</p>
-    <p xml:lang="isl">BA - Program</p>
-    <p xml:lang="est">Fulltid</p>
-    <p xml:lang="nno">180 sp</p>
-    <p type="title" xml:lang="dan">SÁM Lulesamiska i praktisk läringssituation - introduktionsstudie 1. del (Jåhkåmåhkke)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Alta)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Gáivuotna/Kåfjord)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Oslo)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del (Alta kveldskurs)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del (Alta)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title" xml:lang="sme">SÁM Nordsamisk semesteremne / Davvisámegiela lohkanbadjeoahppu</p>
-    <p>BA - Enkeltemne</p>
-    <p xml:lang="est">Heltid</p>
-    <p xml:lang="nno">-30 stp</p>
-    <p type="title">SÁM Sørsamisk i praktiske situasjoner - innføringsstudium 1. del (Plassje/Røros)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Sørsamisk i praktiske situasjoner - innføringsstudium 2. del (Plassje/Røros)</p>
-    <p>Begynnerkurs i samisk</p>
-    <p xml:lang="dan">Deltid</p>
-    <p xml:lang="nno">-15 stp</p>
-    <p type="title">SÁM Sørsamisk semesteremne (Plassje/Røros)</p>
-    <p>BA - Enkeltemne</p>
-    <p xml:lang="est">Heltid</p>
-    <p xml:lang="nno">-30 stp</p>
-    <p type="title">Ansatte Avd. for språkfag</p>
-    <p type="title" xml:lang="deu">Sider</p>
-    <list>
-      <p type="listitem" xml:lang="koi">1</p>
-      <p type="listitem" xml:lang="koi">2</p>
-      <p type="listitem" xml:lang="ron">neste ›</p>
-      <p type="listitem">siste »</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Avd. for språkfag | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>410</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/taxonomy/term/1</origFileName><parallel_text xml:lang="eng" location="1.html"/><parallel_text xml:lang="sme" location="1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="dan">Avd. for språkfag</p>
+<p>Språkvitenskapelig avdeling fremmer og støtter utviklingen av samisk språk gjennom å tilby kurs i samisk fra og med begynnernivå og helt opp til mastergradsnivå. Gjennom sin undervisnings- og forskningsaktivitet arbeider Språkvitenskapelig avdeling for å heve kompetansen i samisk språk, og for å formidle kunnskap om samisk litteratur til det samiske folk. Språket bærer i seg vår kunnskap. Språket er et redskap for formidling. Språket viderefører verdier og livsinnsikt fra generasjon til generasjon. Samisk er et urfolksspråk. Språket utvikler seg når det er i bruk. Derfor bruker høgskolen samisk språk i sin daglige virksomhet, både innen administrasjon, undervisning og forskning. Språkvitenskapelig avdeling hever samisk språk til høyeste akademiske nivå og viser verden at urfolksspråk både kan og bør brukes innen høyere utdanning. Samisk høgskole har prioritert å bruke ressurser på å utvikle det første utdanningsprogrammet innen samisk språk og litteratur på doktorgradsnivå.</p>
+<p><em type="italic">Språkvitenskapelig av deling tilbyr følgende utdanninger innen språk og litteratur: </em></p>
+<list><p type="listitem">Introduksjonskurs i samisk språk, og samisk semesteremne (kvalifiserer for opptak til Samisk høgskoles øvrige utdanninger og studieprogrammer)</p>
+<p type="listitem">Halvårs- og årsenhet, bachelorgrad, mastergrad og doktorgrad i samisk språk og litteratur</p>
+<p type="listitem">Språkfagene samisk, finsk og norsk som del av lærerutdanningene</p>
+<p type="listitem">Språkrøkt i journalistutdanningen</p>
+<p type="listitem">Språk som fag innenfor duodjiutdanningene</p>
+<p type="listitem">Utdanning innen samisk musikk og joik</p>
+</list><p type="title" xml:lang="nno">Bachelor i samisk språk og litteratur</p>
+<p xml:lang="isl">BA - Program</p>
+<p xml:lang="est">Fulltid</p>
+<p xml:lang="nno">180 sp</p>
+<p type="title" xml:lang="dan">SÁM Lulesamiska i praktisk läringssituation - introduktionsstudie 1. del (Jåhkåmåhkke)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Alta)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Gáivuotna/Kåfjord)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 1. del (Oslo)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del (Alta kveldskurs)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Nordsamisk i praktisk læringssituasjon - innføringsstudium 2. del (Alta)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title" xml:lang="sme">SÁM Nordsamisk semesteremne / Davvisámegiela lohkanbadjeoahppu</p>
+<p>BA - Enkeltemne</p>
+<p xml:lang="est">Heltid</p>
+<p xml:lang="nno">-30 stp</p>
+<p type="title">SÁM Sørsamisk i praktiske situasjoner - innføringsstudium 1. del (Plassje/Røros)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Sørsamisk i praktiske situasjoner - innføringsstudium 2. del (Plassje/Røros)</p>
+<p>Begynnerkurs i samisk</p>
+<p xml:lang="dan">Deltid</p>
+<p xml:lang="nno">-15 stp</p>
+<p type="title">SÁM Sørsamisk semesteremne (Plassje/Røros)</p>
+<p>BA - Enkeltemne</p>
+<p xml:lang="est">Heltid</p>
+<p xml:lang="nno">-30 stp</p>
+<p type="title">Ansatte Avd. for språkfag</p>
+<p type="title" xml:lang="deu">Sider</p>
+<list><p type="listitem" xml:lang="vep">1</p>
+<p type="listitem" xml:lang="vep">2</p>
+<p type="listitem" xml:lang="ron">neste ›</p>
+<p type="listitem">siste »</p>
+</list></body></document>

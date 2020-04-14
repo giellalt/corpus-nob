@@ -1,96 +1,65 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Dieđáhusat Stuorradiggái - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>245</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/ad/dok/regpubl/stmeld.html?id=198</origFileName>
-    <parallel_text xml:lang="nno" location="stortingsmeldingar_id_198.html"/>
-    <parallel_text xml:lang="sme" location="stuorradiggedieahusat_id_198.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Meldinger til Stortinget - regjeringen.no</p>
-    <list>
-      <p type="listitem">1</p>
-      <p type="listitem">2</p>
-      <p type="listitem">Neste &gt;</p>
-    </list>
-    <p type="title">St.meld. nr. 43 (2008-2009)</p>
-    <p type="title">Om Sametingets virksomhet 2008</p>
-    <p>[12.06.2009]</p>
-    <p type="title">St.meld. nr. 28 (2007-2008)</p>
-    <p type="title">Samepolitikken</p>
-    <p>[30.05.2008]</p>
-    <p type="title">St.meld. nr. 18 (2007-2008)</p>
-    <p type="title">Arbeidsinnvandring</p>
-    <p>[18.04.2008]</p>
-    <p type="title">Report No. 18 (2007-2008) to the Storting</p>
-    <p type="title">Labour Migration</p>
-    <p>[18.04.2008]</p>
-    <p type="title">St.meld. nr. 37 (2006-2007)</p>
-    <p type="title">Om beboere i statlige asylmottak som kan utgjøre en risiko</p>
-    <p>[29.06.2007]</p>
-    <p type="title">St.meld. nr. 9 (2006-2007)</p>
-    <p type="title">Arbeid, velferd og inkludering</p>
-    <p>[03.11.2006]</p>
-    <p type="title">St.meld. nr. 7 (2006-2007)</p>
-    <p type="title">Om Sametingets virksomhet i 2005</p>
-    <p>[20.10.2006]</p>
-    <p type="title">St.meld. nr. 6 (2006-2007)</p>
-    <p type="title">Om seniorpolitikk</p>
-    <p>[05.11.2006]</p>
-    <p type="title">St.meld. nr. 5 (2006-2007)</p>
-    <p type="title">Opptjening og uttak av alderspensjon i folketrygden</p>
-    <p>[20.10.2006]</p>
-    <p type="title">Report No. 5 (2006-2007) to the Storting</p>
-    <p type="title">Earning and drawing old age pension from the National Insurance Scheme</p>
-    <p>[20.10.2006]</p>
-    <p type="title">Ot.meld. nr. 1 (2006-2007)</p>
-    <p type="title">Om tilbaketrekning av deler av Ot.prp. nr. 2   (2006–2007) Om lov om endringer i folketrygdloven og i  enkelte andre lover</p>
-    <p>[19.11.2006]</p>
-    <p type="title">St.meld. nr. 12 (2005-2006)</p>
-    <p type="title">Helse, miljø og sikkerhet i petroleumsvirksomheten</p>
-    <p>[07.04.2006]</p>
-    <p type="title">St.meld. nr. 9 (2005-2006)</p>
-    <p type="title">Om overgangsordningane for arbeidstakarar frå dei nye  EØS-landa mv.</p>
-    <p>[31.03.2006]</p>
-    <p type="title">Ot.meld. nr. 2 (2005-2006)</p>
-    <p type="title">Om tilbaketrekking av Ot.prp nr. 4 (2005–2006) Om endringer i lov om folketrygd og i enkelte andre lover</p>
-    <p>[10.11.2005]</p>
-    <p type="title">St.meld. nr. 49 (2003-2004)</p>
-    <p type="title">Mangfold gjennom inkludering og deltakelse</p>
-    <p>[01.10.2004]</p>
-    <p type="title">St.meld. nr. 40 (2002-2003)</p>
-    <p type="title">Nedbygging av funksjonshemmende barrierer</p>
-    <p>[13.06.2003]</p>
-    <p type="title">St.meld. nr. 14 (2002-2003)</p>
-    <p type="title">Samordning av Aetat, trygdeetaten og sosialtjenesten</p>
-    <p>[13.12.2002]</p>
-    <p type="title">St.meld. nr. 10 (2002-2003)</p>
-    <p type="title">Om verksemda i Sametinget 2001</p>
-    <p>[08.11.2002]</p>
-    <p type="title">St.meld. nr. 6 (2002-2003)</p>
-    <p type="title">Tiltaksplan mot fattigdom</p>
-    <p>[04.10.2002]</p>
-    <p type="title">St.died. nr. 33 (2001-2002)</p>
-    <p type="title">Lassedieđáhus St.dieđáhussii nr. 55 (2000-2001) Sámepolitihka birra</p>
-    <p>[31.05.2002]</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Dieđáhusat Stuorradiggái - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Arbeidsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>245</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/ad/dok/regpubl/stmeld.html?id=198</origFileName><parallel_text xml:lang="nno" location="stortingsmeldingar_id_198.html"/><parallel_text xml:lang="sme" location="stuorradiggedieahusat_id_198.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Meldinger til Stortinget - regjeringen.no</p>
+<list><p type="listitem">1</p>
+<p type="listitem">2</p>
+<p type="listitem">Neste &gt;</p>
+</list><p type="title">St.meld. nr. 43 (2008-2009)</p>
+<p type="title">Om Sametingets virksomhet 2008</p>
+<p>[12.06.2009]</p>
+<p type="title">St.meld. nr. 28 (2007-2008)</p>
+<p type="title">Samepolitikken</p>
+<p>[30.05.2008]</p>
+<p type="title">St.meld. nr. 18 (2007-2008)</p>
+<p type="title">Arbeidsinnvandring</p>
+<p>[18.04.2008]</p>
+<p type="title">Report No. 18 (2007-2008) to the Storting</p>
+<p type="title">Labour Migration</p>
+<p>[18.04.2008]</p>
+<p type="title">St.meld. nr. 37 (2006-2007)</p>
+<p type="title">Om beboere i statlige asylmottak som kan utgjøre en risiko</p>
+<p>[29.06.2007]</p>
+<p type="title">St.meld. nr. 9 (2006-2007)</p>
+<p type="title">Arbeid, velferd og inkludering</p>
+<p>[03.11.2006]</p>
+<p type="title">St.meld. nr. 7 (2006-2007)</p>
+<p type="title">Om Sametingets virksomhet i 2005</p>
+<p>[20.10.2006]</p>
+<p type="title">St.meld. nr. 6 (2006-2007)</p>
+<p type="title">Om seniorpolitikk</p>
+<p>[05.11.2006]</p>
+<p type="title">St.meld. nr. 5 (2006-2007)</p>
+<p type="title">Opptjening og uttak av alderspensjon i folketrygden</p>
+<p>[20.10.2006]</p>
+<p type="title">Report No. 5 (2006-2007) to the Storting</p>
+<p type="title">Earning and drawing old age pension from the National Insurance Scheme</p>
+<p>[20.10.2006]</p>
+<p type="title">Ot.meld. nr. 1 (2006-2007)</p>
+<p type="title">Om tilbaketrekning av deler av Ot.prp. nr. 2   (2006–2007) Om lov om endringer i folketrygdloven og i  enkelte andre lover</p>
+<p>[19.11.2006]</p>
+<p type="title">St.meld. nr. 12 (2005-2006)</p>
+<p type="title">Helse, miljø og sikkerhet i petroleumsvirksomheten</p>
+<p>[07.04.2006]</p>
+<p type="title">St.meld. nr. 9 (2005-2006)</p>
+<p type="title">Om overgangsordningane for arbeidstakarar frå dei nye  EØS-landa mv.</p>
+<p>[31.03.2006]</p>
+<p type="title">Ot.meld. nr. 2 (2005-2006)</p>
+<p type="title">Om tilbaketrekking av Ot.prp nr. 4 (2005–2006) Om endringer i lov om folketrygd og i enkelte andre lover</p>
+<p>[10.11.2005]</p>
+<p type="title">St.meld. nr. 49 (2003-2004)</p>
+<p type="title">Mangfold gjennom inkludering og deltakelse</p>
+<p>[01.10.2004]</p>
+<p type="title">St.meld. nr. 40 (2002-2003)</p>
+<p type="title">Nedbygging av funksjonshemmende barrierer</p>
+<p>[13.06.2003]</p>
+<p type="title">St.meld. nr. 14 (2002-2003)</p>
+<p type="title">Samordning av Aetat, trygdeetaten og sosialtjenesten</p>
+<p>[13.12.2002]</p>
+<p type="title">St.meld. nr. 10 (2002-2003)</p>
+<p type="title">Om verksemda i Sametinget 2001</p>
+<p>[08.11.2002]</p>
+<p type="title">St.meld. nr. 6 (2002-2003)</p>
+<p type="title">Tiltaksplan mot fattigdom</p>
+<p>[04.10.2002]</p>
+<p type="title">St.died. nr. 33 (2001-2002)</p>
+<p type="title">Lassedieđáhus St.dieđáhussii nr. 55 (2000-2001) Sámepolitihka birra</p>
+<p>[31.05.2002]</p>
+</body></document>

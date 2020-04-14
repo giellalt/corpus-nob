@@ -1,59 +1,35 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>PP-tjenesten og spesialundervisning</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Udir" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2018</year>
-    <wordcount>496</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.udir.no/globalassets/filer/regelverk/tidlig-innsats/foreldreinfo/bokmal_spesialunderv_foreldre.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="spesundervisning_foreldre_sma.pdf"/>
-    <parallel_text xml:lang="sme" location="spesundervisning_foreldre_sme.pdf"/>
-    <parallel_text xml:lang="smj" location="spesundervisning_foreldre_smj.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>HVIS BARNET DITT IKKE HAR TILSTREKKELIG UTBYTTE AV DEN VANLIGE OPPLÆRINGEN, KAN HAN ELLER HUN HA RETT TIL Å FÅ SPESIALUNDERVISNING.</p>
-    <p>Spesialundervisning kan for eksempel være at eleven jobber etter andre læringsmål enn andre elever, at en lærer eller assistent følger opp eleven i klassen eller at eleven får særskilt tilpasset utstyr. Spesialundervisningen skal være tilpasset ditt barns behov.</p>
-    <p>Hvis du eller skolen er bekymret for om ditt barn ikke har godt nok utbytte av opplæringen, skal skolen forsøke å tilpasse bedre for ditt barn. Hvis det ikke er tilstrekkelig må skolen og PP-tjenesten vurdere og gi råd om hva barnet trenger, og skolen må fatte et enkeltvedtak.</p>
-    <p>PP-tjenesten kan samarbeide tverrfaglig på lokalt nivå, for eksempel med helsetjenesten eller barneverntjenesten, og på statlig nivå med for eksempel Statped eller psykiatriske tjenester. PP- tjenesten har taushetsplikt.</p>
-    <p>PEDAGOGPEDAGOGISK-PSYKOLOGISK TJENESTE (PP</p>
-    <p>TJENESTEN)</p>
-    <p>En tjeneste som gir råd til barnehager og skoler i kommuner og fylkeskommuner om tilrettelegging for barn, unge og voksne med særskilte behov.</p>
-    <p>SAKKYNDIG VURDERING</p>
-    <p>Et dokument fra PP-tjenesten som viser om eleven trenger spesialundervisning, og som gir råd om hva slags tilbud eleven bør få.</p>
-    <p>ENKELTVEDTAK</p>
-    <p>Et brev fra skolen som sier om eleven har rett på spesialundervisning eller ikke, og hva spesialundervisningen skal være. Du kan alltid klage på enkeltvedtaket.</p>
-    <p>INDIVIDUELL OPPLÆRINGSPLAN (IOP)</p>
-    <p>En IOP skal vise mål og innhold i spesialundervisningen og er et arbeidsverktøy</p>
-    <p>HVA KAN JEG FORVENTE AV SKOLEN?</p>
-    <p>HVA KAN JEG GJØRE?</p>
-    <p>SKOLEN SKAL</p>
-    <p type="listitem">• Sørge for at barnets beste blir ivaretatt</p>
-    <p type="listitem">•  involvere og spørre deg før de tar avgjørelser som gjelder barnet ditt</p>
-    <p type="listitem">•  ha samtaler med barnet og foreldrene, og gjøre nødvendige kartlegginger av barnet</p>
-    <p type="listitem">•  be PP-tjenesten om å gjøre en sakkyndig vurdering hvis du ber om det, og hvis skolen mener at eleven trenger spesialundervisning</p>
-    <p type="listitem">•  fatte et enkeltvedtak som sier om eleven skal få spesialundervisning eller ikke, og hva spesialundervisningen skal være</p>
-    <p type="listitem">•  lage en individuell opplæringsplan (IOP)</p>
-    <p type="listitem">•  gi eleven spesialundervisning slik det er beskrevet i enkeltvedtaket og IOP-en</p>
-    <p type="listitem">•  lage en skriftlig rapport om spesialundervisningen og utviklingen til eleven en gang i året</p>
-    <p type="listitem">•  sørge for at du og barnet ditt får veiledning om hva vurdering med og uten karakterer på ungdomsskolen innebærer, før dere bestemmer dere</p>
-    <p>DU SOM ER FORELDER</p>
-    <p type="listitem">•  kan kreve at skolen undersøker om barnet ditt trenger spesialundervisning</p>
-    <p type="listitem">•  drøfte din bekymring med PP-tjenesten og skolen før henvisning</p>
-    <p type="listitem">•  skal bli involvert og si ja før skolen ber PP-tjenesten om å utrede og vurdere barnet ditt</p>
-    <p type="listitem">•  skal bli involvert og si ja før skolen bestemmer at barnet ditt skal få spesialundervisning</p>
-    <p type="listitem">•  skal få en skriftlig rapport en gang i året om spesialundervisningen barnet ditt får og en vurdering av hvordan barnet ditt utvikler seg</p>
-    <p type="listitem">•  kan klage hvis barnet ditt ikke får spesialundervisning</p>
-    <p type="listitem">•  kan klage på innholdet, gjennomføringen eller organiseringen av spesialundervisningen</p>
-    <p type="listitem">•  kan bestemme om barnet ditt på ungdomsskolen skal få fritak fra vurdering med karakter i de fagene han eller hun får spesialundervisning</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>PP-tjenesten og spesialundervisning</title><genre code="admin"/><author><person firstname="" lastname="Udir" sex="unknown" born="" nationality=""/></author><year>2018</year><wordcount>496</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.udir.no/globalassets/filer/regelverk/tidlig-innsats/foreldreinfo/bokmal_spesialunderv_foreldre.pdf</origFileName><parallel_text xml:lang="sma" location="spesundervisning_foreldre_sma.pdf"/><parallel_text xml:lang="sme" location="spesundervisning_foreldre_sme.pdf"/><parallel_text xml:lang="smj" location="spesundervisning_foreldre_smj.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>HVIS BARNET DITT IKKE HAR TILSTREKKELIG UTBYTTE AV DEN VANLIGE OPPLÆRINGEN, KAN HAN ELLER HUN HA RETT TIL Å FÅ SPESIALUNDERVISNING.</p>
+<p>Spesialundervisning kan for eksempel være at eleven jobber etter andre læringsmål enn andre elever, at en lærer eller assistent følger opp eleven i klassen eller at eleven får særskilt tilpasset utstyr. Spesialundervisningen skal være tilpasset ditt barns behov.</p>
+<p>Hvis du eller skolen er bekymret for om ditt barn ikke har godt nok utbytte av opplæringen, skal skolen forsøke å tilpasse bedre for ditt barn. Hvis det ikke er tilstrekkelig må skolen og PP-tjenesten vurdere og gi råd om hva barnet trenger, og skolen må fatte et enkeltvedtak.</p>
+<p>PP-tjenesten kan samarbeide tverrfaglig på lokalt nivå, for eksempel med helsetjenesten eller barneverntjenesten, og på statlig nivå med for eksempel Statped eller psykiatriske tjenester. PP- tjenesten har taushetsplikt.</p>
+<p>PEDAGOGPEDAGOGISK-PSYKOLOGISK TJENESTE (PP</p>
+<p>TJENESTEN)</p>
+<p>En tjeneste som gir råd til barnehager og skoler i kommuner og fylkeskommuner om tilrettelegging for barn, unge og voksne med særskilte behov.</p>
+<p>SAKKYNDIG VURDERING</p>
+<p>Et dokument fra PP-tjenesten som viser om eleven trenger spesialundervisning, og som gir råd om hva slags tilbud eleven bør få.</p>
+<p>ENKELTVEDTAK</p>
+<p>Et brev fra skolen som sier om eleven har rett på spesialundervisning eller ikke, og hva spesialundervisningen skal være. Du kan alltid klage på enkeltvedtaket.</p>
+<p>INDIVIDUELL OPPLÆRINGSPLAN (IOP)</p>
+<p>En IOP skal vise mål og innhold i spesialundervisningen og er et arbeidsverktøy</p>
+<p>HVA KAN JEG FORVENTE AV SKOLEN?</p>
+<p>HVA KAN JEG GJØRE?</p>
+<p>SKOLEN SKAL</p>
+<p type="listitem">• Sørge for at barnets beste blir ivaretatt</p>
+<p type="listitem">•  involvere og spørre deg før de tar avgjørelser som gjelder barnet ditt</p>
+<p type="listitem">•  ha samtaler med barnet og foreldrene, og gjøre nødvendige kartlegginger av barnet</p>
+<p type="listitem">•  be PP-tjenesten om å gjøre en sakkyndig vurdering hvis du ber om det, og hvis skolen mener at eleven trenger spesialundervisning</p>
+<p type="listitem">•  fatte et enkeltvedtak som sier om eleven skal få spesialundervisning eller ikke, og hva spesialundervisningen skal være</p>
+<p type="listitem">•  lage en individuell opplæringsplan (IOP)</p>
+<p type="listitem">•  gi eleven spesialundervisning slik det er beskrevet i enkeltvedtaket og IOP-en</p>
+<p type="listitem">•  lage en skriftlig rapport om spesialundervisningen og utviklingen til eleven en gang i året</p>
+<p type="listitem">•  sørge for at du og barnet ditt får veiledning om hva vurdering med og uten karakterer på ungdomsskolen innebærer, før dere bestemmer dere</p>
+<p>DU SOM ER FORELDER</p>
+<p type="listitem">•  kan kreve at skolen undersøker om barnet ditt trenger spesialundervisning</p>
+<p type="listitem">•  drøfte din bekymring med PP-tjenesten og skolen før henvisning</p>
+<p type="listitem">•  skal bli involvert og si ja før skolen ber PP-tjenesten om å utrede og vurdere barnet ditt</p>
+<p type="listitem">•  skal bli involvert og si ja før skolen bestemmer at barnet ditt skal få spesialundervisning</p>
+<p type="listitem">•  skal få en skriftlig rapport en gang i året om spesialundervisningen barnet ditt får og en vurdering av hvordan barnet ditt utvikler seg</p>
+<p type="listitem">•  kan klage hvis barnet ditt ikke får spesialundervisning</p>
+<p type="listitem">•  kan klage på innholdet, gjennomføringen eller organiseringen av spesialundervisningen</p>
+<p type="listitem">•  kan bestemme om barnet ditt på ungdomsskolen skal få fritak fra vurdering med karakter i de fagene han eller hun får spesialundervisning</p>
+</body></document>

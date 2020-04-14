@@ -1,39 +1,17 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>43</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>https://www.tysfjord.kommune.no/oppvekst-og-utdanningsetaten.95792.no.html</origFileName>
-    <parallel_text xml:lang="smj" location="kulturskaavlla.5132866-95792.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tysfjord kommune : Oppvekst- og utdanningsetaten</p>
-    <p type="title">Etatsadministrasjon</p>
-    <p>Her er en oversikt over ansatte ved oppvekst- og utdanningsetaten</p>
-    <p>Les mer...</p>
-    <p type="title">Barnehager</p>
-    <p>Informasjon om barnehagetilbudet i Tysfjord kommune</p>
-    <p>Les mer...</p>
-    <p type="title">SFO</p>
-    <p>Informasjon om skolefritidsordningen</p>
-    <p>Les mer...</p>
-    <p type="title">Skoler</p>
-    <p>Les mer...</p>
-    <p type="title">Kulturskolen</p>
-    <p>Les mer...</p>
-    <p type="title">Skolerute</p>
-    <p>Les mer...</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>43</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>https://www.tysfjord.kommune.no/oppvekst-og-utdanningsetaten.95792.no.html</origFileName><parallel_text xml:lang="smj" location="kulturskaavlla.5132866-95792.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tysfjord kommune : Oppvekst- og utdanningsetaten</p>
+<p type="title">Etatsadministrasjon</p>
+<p>Her er en oversikt over ansatte ved oppvekst- og utdanningsetaten</p>
+<p>Les mer...</p>
+<p type="title">Barnehager</p>
+<p>Informasjon om barnehagetilbudet i Tysfjord kommune</p>
+<p>Les mer...</p>
+<p type="title">SFO</p>
+<p>Informasjon om skolefritidsordningen</p>
+<p>Les mer...</p>
+<p type="title">Skoler</p>
+<p>Les mer...</p>
+<p type="title">Kulturskolen</p>
+<p>Les mer...</p>
+<p type="title">Skolerute</p>
+<p>Les mer...</p>
+</body></document>

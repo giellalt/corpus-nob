@@ -1,116 +1,90 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="nob" id="no_id"><header><title> 
 Lávdegotti miellahtut
-</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Dunfjell" lastname="Alvar" sex="m" born="" nationality=""/>
-    </author>
-    <year>2004</year>
-    <wordcount>628</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-    </multilingual>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.9 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="sme">Lávdegotti miellahtut</p>
-    <p xml:lang="sme">GOH ČČUN Č OAHKKIMII </p>
-    <p xml:lang="sme">Lávdegoddi: Ovdagoddi  </p>
-    <p xml:lang="sme">Č oahkkinbáiki: Teknihkalas coahkkinlatnja </p>
-    <p xml:lang="sme">Dáhton: 28.09.2004 Áigi: 09:00 </p>
-    <p>ÁŠŠELISTU </p>
-    <p xml:lang="sme">Áššenr. Bajil č ála. </p>
-    <p>0047/04 TV - ÁKŠUVDNA 2004 0048/04 GUOVDAGEAINNU SUOHKANA NJOAMMUMAHEHT TENPLÁNA 0049/04 GIRJEBUSSESTIVRRA VÁLLJEN 0050/04 OHCAN LUOITIT REASTAVEARU - Unntatt offentlighet §5A </p>
-    <p xml:lang="sme">Ságaškuššanášši: </p>
-    <p xml:lang="sme">- Prográmmastatusárvvoštallan</p>
-    <p xml:lang="sme">Jus it sáhte boahtit, dieđit nu jođanit og vejolaš tlf. 7848 7100, vai sáhttit gohččut sadjásaš</p>
-    <p xml:lang="sme">lahtu.</p>
-    <p xml:lang="sme">Guovdageaidnu, 21.09.2004</p>
-    <p>Aslak Anders Tornensis (sign)</p>
-    <p xml:lang="sme">Varresátnejođiheaddji</p>
-    <p>ČOAHKKINGIRJI</p>
-    <p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
-    <p xml:lang="sme">0047/04 Ovdagoddi 28.09.2004 </p>
-    <p>0047/04 Formannskapet 28.09.2004 </p>
-    <p xml:lang="sme">Áššemeannud.: Alvar Dunfjell Vuorká X03</p>
-    <p xml:lang="sme">Vuorkááššenr. : 04/00525</p>
-    <p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
-    <p>TV - ÁKŠUVDNA 2004 </p>
-    <p xml:lang="sme">Č ujuhusat leat: </p>
-    <p xml:lang="sme">Ášše č ilgehus: </p>
-    <p xml:lang="sme">TV-ákšuvdna 2004 lágiduvvo sotnabeaivvi golggotmánu 17.beaivvi 2004.</p>
-    <p xml:lang="sme">Dán jagá ákšuvdna manná Kirkens Bymisjon ja Rådet for psykisk helse ásahusaide. TV-ákšuvdna ”Hjerterom” galgá hábmet ovtta Norgga mas lea stuorit váibmosadji. Ákšuvdna galgá soahtat psykalaš ja sosiála heađi vuosttá.</p>
-    <p xml:lang="sme">Mearrádusevttohus: Guovdageainnu suohkan addá kr. 2.500,- TV-ákšuvdnii 2004. </p>
-    <p>ČOAHKKINGIRJI</p>
-    <p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
-    <p>0048/04 Formannskapet 28.09.2004 </p>
-    <p xml:lang="sme">0048/04 Ovdagoddi 28.09.2004 </p>
-    <p xml:lang="sme">Áššemeannud.: Øivind Vandbakk Vuorká 143 G03</p>
-    <p xml:lang="sme">Vuorkááššenr. : 04/00544</p>
-    <p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
-    <p>GUOVDAGEAINNU SUOHKANA NJOAMMUMAHEHTTENPLÁNA </p>
-    <p xml:lang="sme">Č ujuhusat leat: </p>
-    <p xml:lang="sme">./. Ráhkaduvvon njoam mumahehttenplána </p>
-    <p xml:lang="sme">- Njuolggadusat njoammumahehttenplána birra </p>
-    <p xml:lang="sme">Áššečilgehus: </p>
-    <p xml:lang="sme">Suohkandoavttir I lea veahkkálaga doavtterstudeanttain ráhkadan ođđa njoammumahehttenplána Guovdageainnu suohkanii.</p>
-    <p xml:lang="sme">Plána čuovusreivves lohkaba Rikard Nygård ja Øivind Vandbakk:</p>
-    <p>Av smittevernhensyn bør følgende tiltak vurderes:</p>
-    <list>
-      <p type="listitem">For å forbygge seksuelt overførbare sykdommer bør det etableres en helsestasjon for 	ungdom på kveldstid som er bemannet med lege og helsesøster.</p>
-      <p type="listitem">Muligheten for isolering på sykehjemmet er svært begrenset. Det bør vurderes om det ernødvendig med tiltak for å bedre dette forholdet. Ved behov for isolering over lengre tid vil det være nødvendig med ombygging/tilbygg på sykehjemmet. Det anbefales at det utarbeides en plan for tiltak ved behov for langtids isolering av pasienter.</p>
-      <p type="listitem">Det må lages en oversikt over kommunale institusjoner og andre virksomheter med behov for infeksjonskontrollprogram eller hygienekontroller.</p>
-    </list>
-    <p xml:lang="sme">Árvvoštallan: </p>
-    <p xml:lang="sme">Buot evttohuvvon doaibmabijut mearkkašit olggosgoluid suohkanii, eanet ja unnit. Sierra sierranahttinlatnja buhcciidruovttus lea várra stuorimus gollu. Molssaevttot berre árvvoštallat dahkat šiehtadusaid eará suohkaniiguin oastit dákkár bálvalusa. Goluid ferte čielggadit iešguhtet molssaeavttuin ja rávvejuvvo ahte njoammumahehttenplána dohkkehuvvo, earret sierranahttindoaibmabiju, man ferte maŋidit dassážii go čielggadeapmi lea dahkkon.</p>
-    <p xml:lang="sme">Sierra dearvvašvuođastášuvdna nuoraide mearkkaša doaibmangoluid bálkkáide ja lanjaid láigoheapmái. Muhtin dákkár goluid sáhttá unnidit go avspassere ja go atná suohkana iežas lanjaid. Ferte gal maid čujuhit ahte dát lea ideella čoavddus, iige láhkageatnegahtton bálvalus. Rávvejuvvo dan dihte ahte dearvvašvuođadivššárbálvalus čađaha dán guokte golbma beaivvi vahkus liigegoluid haga.</p>
-    <p xml:lang="sme">Válddáhusa suohkanlaš ásahusaid ja doaimmaid badjel, mat dárbbašit infekšuvdnadárkkistanprográmma dahje buhtisindoalubearráigeahču, sáhttá oažžut go čađaha suohkana doaimmaid. Dán sáhttá dahkat ovttasbargočoahkkimiin gaskal suohkana ovttadatjođiheddjiid.</p>
-    <p xml:lang="sme">Mearrádusevttohus: </p>
-    <p xml:lang="sme">Njoammumahehttenplána dohkkehuvvo, earret sierranahttindoaibmabiju, man ferte maŋidit dassážii go čielggadeapmi lea dahkkon.</p>
-    <p xml:lang="sme">Nuoraid dearvvašvuođastášuvdna čađahuvvo dan láhkái ahte dearvvašvuođabálvalus doallá rabas fálaldaga guokte golbma beaivvi vahkus liigegoluid haga.</p>
-    <p xml:lang="sme">Válddáhusa suohkanlaš ásahusaid ja doaimmaid badjel, mat dárbbašit infekšuvdnadárkkistanprográmma dahje buhtisindoalubearráigeahču, sáhttá oažžut go čađaha suohkana doaimmaid. Dán sáhttá dahkat ovttasbargočoahkkimiin gaskal suohkana ovttadatjođiheddjiid.</p>
-    <p>ČOAHKKINGIRJI</p>
-    <p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
-    <p xml:lang="sme">0049/04 Ovdagoddi 28.09.2004 </p>
-    <p>0049/04 Formannskapet 28.09.2004 </p>
-    <p xml:lang="sme">Áššemeannud.: Reidar Erke Vuorká C62</p>
-    <p xml:lang="sme">Vuorkááššenr. : 04/00875</p>
-    <p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
-    <p>GIRJEBUSSESTIVRRA VÁLLJEN </p>
-    <p xml:lang="sme">Č ujuhusat leat: </p>
-    <p xml:lang="sme">./. Šiehtadus oktasaš girjebussedoaimma birra</p>
-    <p xml:lang="sme">Ášše č ilgehus: </p>
-    <p xml:lang="sme">Galgá válljejuvvot girjebussestivra nu movt lea šiehtadusa vuođul. Válljen čuovvu dábálaš válljenáigodaga nu movt eará suohkanlaš lávdegottit, dat mearkkaša áigodaga 2003-2006.</p>
-    <p xml:lang="sme">Guovdageainnu suohkanis galget válljejuvvot guokte miellahttu ja guokte varrelahttu. Dán radjái leaba Kajsa Rautio Helander ja Laila Palojärvi leamaš áirasin. Varrelahttut eai leat leamaš dán áigodagas.</p>
-    <p xml:lang="sme">Mearrádusevttohus: </p>
-    <p xml:lang="sme">Čuovvovaččat evttohuvvojit girjebussestivrii:</p>
-    <p xml:lang="sme">________________________________ ja _____________________________ varrelahttun</p>
-    <p xml:lang="sme">________________________________ ja _____________________________ varrelahttun</p>
-    <p xml:lang="sme">Postačujuhus: Čujuhus: Telefuvdna (suohkan ) : 78 48 71 00 </p>
-    <p xml:lang="sme">Servicetorget Bredbuktnesveien 6 Telefuvdna (áššem.) 78 48 71 30</p>
-    <p>Bredbuktnesveien 6 9520 KAUTOKEINO Telefaksa: 78 48 71 99</p>
-    <p>KAUTOKEINO E-postadresse: e-post@kautokeino.kommune.no</p>
-    <p xml:lang="sme">Ášši 0047/04 </p>
-    <p>Side 3 av 6</p>
-    <p xml:lang="sme">0047 -ášši 0047/04 </p>
-    <p>Side 2 av 2</p>
-    <p xml:lang="sme">Ášši 0048/04 </p>
-    <p>Side 4 av 5</p>
-    <p xml:lang="sme">0048 -ášši 0048/04 </p>
-    <p>Side 3 av 3</p>
-    <p xml:lang="sme">Ášši 0049/04 </p>
-    <p>Side 5 av 5</p>
-    <p xml:lang="sme">0049 -ášši 0049/04 </p>
-    <p>Side 5 av 6</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><person firstname="Dunfjell" lastname="Alvar" sex="m" born="" nationality=""/></author><year>2004</year><wordcount>628</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/><language xml:lang="sme"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.9 $; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sme">Lávdegotti miellahtut</p>
+<p xml:lang="sme">GOH ČČUN Č OAHKKIMII </p>
+<p xml:lang="sme">Lávdegoddi: Ovdagoddi  </p>
+<p xml:lang="sme">Č oahkkinbáiki: Teknihkalas coahkkinlatnja </p>
+<p xml:lang="sme">Dáhton: 28.09.2004 Áigi: 09:00 </p>
+<p>ÁŠŠELISTU </p>
+<p xml:lang="sme">Áššenr. Bajil č ála. </p>
+<p>0047/04 TV - ÁKŠUVDNA 2004 0048/04 GUOVDAGEAINNU SUOHKANA NJOAMMUMAHEHT TENPLÁNA 0049/04 GIRJEBUSSESTIVRRA VÁLLJEN 0050/04 OHCAN LUOITIT REASTAVEARU - Unntatt offentlighet §5A </p>
+<p xml:lang="sme">Ságaškuššanášši: </p>
+<p xml:lang="sme">- Prográmmastatusárvvoštallan</p>
+<p xml:lang="sme">Jus it sáhte boahtit, dieđit nu jođanit og vejolaš tlf. 7848 7100, vai sáhttit gohččut sadjásaš</p>
+<p xml:lang="sme">lahtu.</p>
+<p xml:lang="sme">Guovdageaidnu, 21.09.2004</p>
+<p>Aslak Anders Tornensis (sign)</p>
+<p xml:lang="sme">Varresátnejođiheaddji</p>
+<p>ČOAHKKINGIRJI</p>
+<p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
+<p xml:lang="sme">0047/04 Ovdagoddi 28.09.2004 </p>
+<p>0047/04 Formannskapet 28.09.2004 </p>
+<p xml:lang="sme">Áššemeannud.: Alvar Dunfjell Vuorká X03</p>
+<p xml:lang="sme">Vuorkááššenr. : 04/00525</p>
+<p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
+<p>TV - ÁKŠUVDNA 2004 </p>
+<p xml:lang="sme">Č ujuhusat leat: </p>
+<p xml:lang="sme">Ášše č ilgehus: </p>
+<p xml:lang="sme">TV-ákšuvdna 2004 lágiduvvo sotnabeaivvi golggotmánu 17.beaivvi 2004.</p>
+<p xml:lang="sme">Dán jagá ákšuvdna manná Kirkens Bymisjon ja Rådet for psykisk helse ásahusaide. TV-ákšuvdna ”Hjerterom” galgá hábmet ovtta Norgga mas lea stuorit váibmosadji. Ákšuvdna galgá soahtat psykalaš ja sosiála heađi vuosttá.</p>
+<p xml:lang="sme">Mearrádusevttohus: Guovdageainnu suohkan addá kr. 2.500,- TV-ákšuvdnii 2004. </p>
+<p>ČOAHKKINGIRJI</p>
+<p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
+<p>0048/04 Formannskapet 28.09.2004 </p>
+<p xml:lang="sme">0048/04 Ovdagoddi 28.09.2004 </p>
+<p xml:lang="sme">Áššemeannud.: Øivind Vandbakk Vuorká 143 G03</p>
+<p xml:lang="sme">Vuorkááššenr. : 04/00544</p>
+<p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
+<p>GUOVDAGEAINNU SUOHKANA NJOAMMUMAHEHTTENPLÁNA </p>
+<p xml:lang="sme">Č ujuhusat leat: </p>
+<p xml:lang="sme">./. Ráhkaduvvon njoam mumahehttenplána </p>
+<p xml:lang="sme">- Njuolggadusat njoammumahehttenplána birra </p>
+<p xml:lang="sme">Áššečilgehus: </p>
+<p xml:lang="sme">Suohkandoavttir I lea veahkkálaga doavtterstudeanttain ráhkadan ođđa njoammumahehttenplána Guovdageainnu suohkanii.</p>
+<p xml:lang="sme">Plána čuovusreivves lohkaba Rikard Nygård ja Øivind Vandbakk:</p>
+<p>Av smittevernhensyn bør følgende tiltak vurderes:</p>
+<list><p type="listitem">For å forbygge seksuelt overførbare sykdommer bør det etableres en helsestasjon for 	ungdom på kveldstid som er bemannet med lege og helsesøster.</p>
+<p type="listitem">Muligheten for isolering på sykehjemmet er svært begrenset. Det bør vurderes om det ernødvendig med tiltak for å bedre dette forholdet. Ved behov for isolering over lengre tid vil det være nødvendig med ombygging/tilbygg på sykehjemmet. Det anbefales at det utarbeides en plan for tiltak ved behov for langtids isolering av pasienter.</p>
+<p type="listitem">Det må lages en oversikt over kommunale institusjoner og andre virksomheter med behov for infeksjonskontrollprogram eller hygienekontroller.</p>
+</list><p xml:lang="sme">Árvvoštallan: </p>
+<p xml:lang="sme">Buot evttohuvvon doaibmabijut mearkkašit olggosgoluid suohkanii, eanet ja unnit. Sierra sierranahttinlatnja buhcciidruovttus lea várra stuorimus gollu. Molssaevttot berre árvvoštallat dahkat šiehtadusaid eará suohkaniiguin oastit dákkár bálvalusa. Goluid ferte čielggadit iešguhtet molssaeavttuin ja rávvejuvvo ahte njoammumahehttenplána dohkkehuvvo, earret sierranahttindoaibmabiju, man ferte maŋidit dassážii go čielggadeapmi lea dahkkon.</p>
+<p xml:lang="sme">Sierra dearvvašvuođastášuvdna nuoraide mearkkaša doaibmangoluid bálkkáide ja lanjaid láigoheapmái. Muhtin dákkár goluid sáhttá unnidit go avspassere ja go atná suohkana iežas lanjaid. Ferte gal maid čujuhit ahte dát lea ideella čoavddus, iige láhkageatnegahtton bálvalus. Rávvejuvvo dan dihte ahte dearvvašvuođadivššárbálvalus čađaha dán guokte golbma beaivvi vahkus liigegoluid haga.</p>
+<p xml:lang="sme">Válddáhusa suohkanlaš ásahusaid ja doaimmaid badjel, mat dárbbašit infekšuvdnadárkkistanprográmma dahje buhtisindoalubearráigeahču, sáhttá oažžut go čađaha suohkana doaimmaid. Dán sáhttá dahkat ovttasbargočoahkkimiin gaskal suohkana ovttadatjođiheddjiid.</p>
+<p xml:lang="sme">Mearrádusevttohus: </p>
+<p xml:lang="sme">Njoammumahehttenplána dohkkehuvvo, earret sierranahttindoaibmabiju, man ferte maŋidit dassážii go čielggadeapmi lea dahkkon.</p>
+<p xml:lang="sme">Nuoraid dearvvašvuođastášuvdna čađahuvvo dan láhkái ahte dearvvašvuođabálvalus doallá rabas fálaldaga guokte golbma beaivvi vahkus liigegoluid haga.</p>
+<p xml:lang="sme">Válddáhusa suohkanlaš ásahusaid ja doaimmaid badjel, mat dárbbašit infekšuvdnadárkkistanprográmma dahje buhtisindoalubearráigeahču, sáhttá oažžut go čađaha suohkana doaimmaid. Dán sáhttá dahkat ovttasbargočoahkkimiin gaskal suohkana ovttadatjođiheddjiid.</p>
+<p>ČOAHKKINGIRJI</p>
+<p xml:lang="sme">Áššenr. Lávdegoddi Čoahkkindáhton</p>
+<p xml:lang="sme">0049/04 Ovdagoddi 28.09.2004 </p>
+<p>0049/04 Formannskapet 28.09.2004 </p>
+<p xml:lang="sme">Áššemeannud.: Reidar Erke Vuorká C62</p>
+<p xml:lang="sme">Vuorkááššenr. : 04/00875</p>
+<p xml:lang="sme">Čoahkkinčálus sáddejuvvo:</p>
+<p>GIRJEBUSSESTIVRRA VÁLLJEN </p>
+<p xml:lang="sme">Č ujuhusat leat: </p>
+<p xml:lang="sme">./. Šiehtadus oktasaš girjebussedoaimma birra</p>
+<p xml:lang="sme">Ášše č ilgehus: </p>
+<p xml:lang="sme">Galgá válljejuvvot girjebussestivra nu movt lea šiehtadusa vuođul. Válljen čuovvu dábálaš válljenáigodaga nu movt eará suohkanlaš lávdegottit, dat mearkkaša áigodaga 2003-2006.</p>
+<p xml:lang="sme">Guovdageainnu suohkanis galget válljejuvvot guokte miellahttu ja guokte varrelahttu. Dán radjái leaba Kajsa Rautio Helander ja Laila Palojärvi leamaš áirasin. Varrelahttut eai leat leamaš dán áigodagas.</p>
+<p xml:lang="sme">Mearrádusevttohus: </p>
+<p xml:lang="sme">Čuovvovaččat evttohuvvojit girjebussestivrii:</p>
+<p xml:lang="sme">________________________________ ja _____________________________ varrelahttun</p>
+<p xml:lang="sme">________________________________ ja _____________________________ varrelahttun</p>
+<p xml:lang="sme">Postačujuhus: Čujuhus: Telefuvdna (suohkan ) : 78 48 71 00 </p>
+<p xml:lang="sme">Servicetorget Bredbuktnesveien 6 Telefuvdna (áššem.) 78 48 71 30</p>
+<p>Bredbuktnesveien 6 9520 KAUTOKEINO Telefaksa: 78 48 71 99</p>
+<p>KAUTOKEINO E-postadresse: e-post@kautokeino.kommune.no</p>
+<p xml:lang="sme">Ášši 0047/04 </p>
+<p>Side 3 av 6</p>
+<p xml:lang="sme">0047 -ášši 0047/04 </p>
+<p>Side 2 av 2</p>
+<p xml:lang="sme">Ášši 0048/04 </p>
+<p>Side 4 av 5</p>
+<p xml:lang="sme">0048 -ášši 0048/04 </p>
+<p>Side 3 av 3</p>
+<p xml:lang="sme">Ášši 0049/04 </p>
+<p>Side 5 av 5</p>
+<p xml:lang="sme">0049 -ášši 0049/04 </p>
+<p>Side 5 av 6</p>
+</body></document>

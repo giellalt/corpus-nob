@@ -1,69 +1,38 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>141</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Barnehage-og-opplaring/Opplaring-innen-kriminalomsorgen/</origFileName>
-    <parallel_text xml:lang="eng" location="index_17.html"/>
-    <parallel_text xml:lang="sma" location="index_17.html"/>
-    <parallel_text xml:lang="sme" location="index_17.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Opplæring innen kriminalomsorgen - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title">Barnehage og opplæring</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-      <p type="listitem" xml:lang="dan">Miljø og klima</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p>Barnehage og opplæring</p>
-    <p>Opplæring innen kriminalomsorgen</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Barnehage</p>
-      <p type="listitem" xml:lang="nno">En trygg skoledag uten mobbing</p>
-      <p type="listitem">Grunnskole og videregående opplæring</p>
-      <p type="listitem">Opplæring innen kriminalomsorgen</p>
-      <p type="listitem">Utdanning i utlandet</p>
-    </list>
-    <p type="title">Opplæring innen kriminalomsorgen</p>
-    <p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
-    <p>Ifølge internasjonale konvensjoner skal ingen nektes rett til utdanning. Retten til opplæring og utdanning er den samme for innsatte i fengsel som for øvrige borgere i Norge. Fylkeskommunene er faglig og administrativt ansvarlige for utdanningen i fengslene. Lokale videregående skoler har det praktiske ansvaret for opplæringen. Fylkesmannen i Hordaland har det nasjonale ansvaret for all opplæring innen kriminalomsorgen.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem">Opplæring innen kriminalomsorgen</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>141</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Barnehage-og-opplaring/Opplaring-innen-kriminalomsorgen/</origFileName><parallel_text xml:lang="eng" location="index_17.html"/><parallel_text xml:lang="sma" location="index_17.html"/><parallel_text xml:lang="sme" location="index_17.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Opplæring innen kriminalomsorgen - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title">Barnehage og opplæring</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<p type="listitem" xml:lang="dan">Miljø og klima</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p>Barnehage og opplæring</p>
+<p>Opplæring innen kriminalomsorgen</p>
+<list><p type="listitem" xml:lang="nno">Barnehage</p>
+<p type="listitem" xml:lang="nno">En trygg skoledag uten mobbing</p>
+<p type="listitem">Grunnskole og videregående opplæring</p>
+<p type="listitem">Opplæring innen kriminalomsorgen</p>
+<p type="listitem">Utdanning i utlandet</p>
+</list><p type="title">Opplæring innen kriminalomsorgen</p>
+<p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
+<p>Ifølge internasjonale konvensjoner skal ingen nektes rett til utdanning. Retten til opplæring og utdanning er den samme for innsatte i fengsel som for øvrige borgere i Norge. Fylkeskommunene er faglig og administrativt ansvarlige for utdanningen i fengslene. Lokale videregående skoler har det praktiske ansvaret for opplæringen. Fylkesmannen i Hordaland har det nasjonale ansvaret for all opplæring innen kriminalomsorgen.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem">Opplæring innen kriminalomsorgen</p>
+</list></body></document>

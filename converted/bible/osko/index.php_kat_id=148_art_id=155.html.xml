@@ -1,54 +1,15 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>367</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=148&amp;art_id=155</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=148_art_id=155.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=148_art_id=155.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=148_art_id=155.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Lavvo</p>
-    <p type="title">Den Hellige Ånd</p>
-    <p>
-      <em type="italic">Den treenige Gud  </em>
-    </p>
-    <p>Gud er én, men samtidig tre personer. Sammen med Gud, er Sønnen og Den Hellige Ånd som er den tredje personen i Treenigheten. Da Jesus ble døpt, kom den Hellige Ånd ned over han. Det bibelske uttrykket <span type="quote">“ånd”</span> betyr vinden som beveger. Den kan bety både ånd, vind eller pust <em type="italic">. </em>Vinden ser vi ikke, vi ser ikke hvor den kommer i fra, og ser ikke hvor den farer hen. Den Hellige Ånd kan vi heller ikke se.      </p>
-    <p>
-      <em type="italic">Guds vilje  </em>
-    </p>
-    <p>Gud er nær oss gjennom den Hellige Ånd. Den Hellige Ånd er over alt. Å være kristen handler om å la den Hellige Ånd lede deg. Når du leser Bibelen, hjelper den Hellige Ånd deg med å forstå det du leser. Når du tjener Gud, så gir den Hellige Ånd deg krefter og kjærlighet, gjør deg modig og lærer deg det du trenger</p>
-    <p>
-      <em type="italic">Vinden  </em>
-    </p>
-    <p>Vi ser ikke vinden, men vi hører vinden suser og ser trærne bøye seg når vinden blåser. Reinsdyret er av naturen innrettet slik at den alltid vandrer motvinds, ikke fordi den trosser vinden, men fordi den gjennom luktesansen henter viktig informasjon fra vinden. Vinden bringer lukter fra rovdyr som truer, eller varsler om gode beiter. Den Hellige Ånd er som vinden -den er usynlig, den viser vei og Gud ber oss om å lytte til den.</p>
-    <p>
-      <em type="italic">Ilden  </em>
-    </p>
-    <p>På pinsedagen viste den Hellige Ånd seg som tunger av ild som satte seg på disiplene. Den Hellige Ånd bor i den som tror på Gud, slik at vi brenner for Jesus.</p>
-    <p>
-      <em type="italic">Due  </em>
-    </p>
-    <p>Da Jesus ble døpt, kom den Hellige Ånd ned over han som ei due. Due er et fredssymbol. Den Hellige Ånd gir oss fred og bygger opp vår tro, håp og kjærlighet.</p>
-    <p>Det er vanskelig å vite nøyaktig hvordan Den Hellige Ånd er. Vi kan ikke se den. Det er sagt at Den Hellige Ånd gjør at vi får lyst til å be. At vi får lyst til å gjøre noe godt for andre. At vi får lyst til å gjøre det hyggelig rundt oss. At vi ønsker å vise kjærlighet og omsorg for andre. Hva betyr den Hellige Ånd for deg?</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>367</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=148&amp;art_id=155</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=148_art_id=155.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=148_art_id=155.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=148_art_id=155.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Lavvo</p>
+<p type="title">Den Hellige Ånd</p>
+<p><em type="italic">Den treenige Gud  </em></p>
+<p>Gud er én, men samtidig tre personer. Sammen med Gud, er Sønnen og Den Hellige Ånd som er den tredje personen i Treenigheten. Da Jesus ble døpt, kom den Hellige Ånd ned over han. Det bibelske uttrykket <span type="quote">“ånd”</span> betyr vinden som beveger. Den kan bety både ånd, vind eller pust <em type="italic">. </em>Vinden ser vi ikke, vi ser ikke hvor den kommer i fra, og ser ikke hvor den farer hen. Den Hellige Ånd kan vi heller ikke se.      </p>
+<p><em type="italic">Guds vilje  </em></p>
+<p>Gud er nær oss gjennom den Hellige Ånd. Den Hellige Ånd er over alt. Å være kristen handler om å la den Hellige Ånd lede deg. Når du leser Bibelen, hjelper den Hellige Ånd deg med å forstå det du leser. Når du tjener Gud, så gir den Hellige Ånd deg krefter og kjærlighet, gjør deg modig og lærer deg det du trenger</p>
+<p><em type="italic">Vinden  </em></p>
+<p>Vi ser ikke vinden, men vi hører vinden suser og ser trærne bøye seg når vinden blåser. Reinsdyret er av naturen innrettet slik at den alltid vandrer motvinds, ikke fordi den trosser vinden, men fordi den gjennom luktesansen henter viktig informasjon fra vinden. Vinden bringer lukter fra rovdyr som truer, eller varsler om gode beiter. Den Hellige Ånd er som vinden -den er usynlig, den viser vei og Gud ber oss om å lytte til den.</p>
+<p><em type="italic">Ilden  </em></p>
+<p>På pinsedagen viste den Hellige Ånd seg som tunger av ild som satte seg på disiplene. Den Hellige Ånd bor i den som tror på Gud, slik at vi brenner for Jesus.</p>
+<p><em type="italic">Due  </em></p>
+<p>Da Jesus ble døpt, kom den Hellige Ånd ned over han som ei due. Due er et fredssymbol. Den Hellige Ånd gir oss fred og bygger opp vår tro, håp og kjærlighet.</p>
+<p>Det er vanskelig å vite nøyaktig hvordan Den Hellige Ånd er. Vi kan ikke se den. Det er sagt at Den Hellige Ånd gjør at vi får lyst til å be. At vi får lyst til å gjøre noe godt for andre. At vi får lyst til å gjøre det hyggelig rundt oss. At vi ønsker å vise kjærlighet og omsorg for andre. Hva betyr den Hellige Ånd for deg?</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

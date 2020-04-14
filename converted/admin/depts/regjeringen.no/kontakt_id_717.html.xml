@@ -1,46 +1,14 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Oktavuohta - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Nærings- og handelsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>93</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/nhd/dep/kontakt.html?id=717</origFileName>
-    <parallel_text xml:lang="eng" location="contact_id_717.html"/>
-    <parallel_text xml:lang="nno" location="kontakt_id_717.html"/>
-    <parallel_text xml:lang="sme" location="oktavuohta_id_717.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kontakt - regjeringen.no</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Vis ansatte i</p>
-    <p>Vis ansatte i</p>
-    <p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
-    <p><em type="bold">Besøksadresse: </em>Einar Gerhardsens plass 1, Oslo </p>
-    <p><em type="bold">Postadresse: </em>Postboks 8014 Dep. 0030 Oslo </p>
-    <p><em type="italic">Telefon: </em>Sentralbord 2224 9090 Telefaks: 22 24 01 30 </p>
-    <p>
-      <em type="italic">E-post til ansatte: </em>
-    </p>
-    <p>Bokstavene æ – ø – å blir omskrevet slik: æ = a ø = o å = a</p>
-    <p><em type="bold">E-post: </em>E-post til Nærings- og handelsministeren E-post til Nærings- og handelsdepartementet </p>
-    <p>Pressekontakter </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Oktavuohta - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Nærings- og handelsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>93</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/nhd/dep/kontakt.html?id=717</origFileName><parallel_text xml:lang="eng" location="contact_id_717.html"/><parallel_text xml:lang="nno" location="kontakt_id_717.html"/><parallel_text xml:lang="sme" location="oktavuohta_id_717.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kontakt - regjeringen.no</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Vis ansatte i</p>
+<p>Vis ansatte i</p>
+<p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
+<p><em type="bold">Besøksadresse: </em>Einar Gerhardsens plass 1, Oslo </p>
+<p><em type="bold">Postadresse: </em>Postboks 8014 Dep. 0030 Oslo </p>
+<p><em type="italic">Telefon: </em>Sentralbord 2224 9090 Telefaks: 22 24 01 30 </p>
+<p><em type="italic">E-post til ansatte: </em></p>
+<p>Bokstavene æ – ø – å blir omskrevet slik: æ = a ø = o å = a</p>
+<p><em type="bold">E-post: </em>E-post til Nærings- og handelsministeren E-post til Nærings- og handelsdepartementet </p>
+<p>Pressekontakter </p>
+</body></document>

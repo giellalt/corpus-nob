@@ -1,67 +1,32 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>PEDAGOGISK DOKUMENTASJON | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/a/pedagogisk-dokumentasjon</origFileName>
-    <parallel_text xml:lang="sme" location="pedagogalas-dokumentasuvdna.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">Seminar</p>
-    <p xml:lang="est">09. januar, 11:00</p>
-    <p xml:lang="nno">til</p>
-    <p xml:lang="est">10. januar, 12:15</p>
-    <p type="title" xml:lang="deu">PEDAGOGISK DOKUMENTASJON</p>
-    <p xml:lang="deu">
-      <em type="italic">PEDAGOGISK DOKUMENTASJON </em>
-    </p>
-    <p>
-      <em type="italic">SEMINAR </em>
-      <em type="italic">09. og 10.01.2017 </em>
-    </p>
-    <p xml:lang="deu">DIEHTOSIIDDA, GUOVDAGEAIDNU/ KAUTOKEINO</p>
-    <p type="title">
-      <span type="quote">«Pedagogisk dokumentasjon og samisk pedagogisk tenkning – hvilke sammenhenger finnes?»</span>
-    </p>
-    <p>Sámi allaskuvlla/Samisk Høgskole inviterer til et spennende seminar om pedagogisk dokumentasjon i barnehagen. Målgruppen er studenter, barnehageansatte, fagpersoner og er også åpen for andre interesserte.</p>
-    <p xml:lang="eng"><span type="quote">«Pedagogisk dokumentasjon er en arbeidsmåte som handler om å gjøre pedagogisk arbeid synlig og åpent for tolkning, dialog, diskusjon og innsikt. Dokumentasjon av barnehagens praksis blir til pedagogisk dokumentasjon når personalet og barna reflekterer over og diskuterer den. Arbeidsmåten kobler sammen verdier, praksis, barnehagens mandat og pedagogiske og filosofiske teorier.»</span> (udir.no)</p>
-    <p>Mona Nicolaysen, barnehagelærer med mastergrad i barnehagepedagogikk, utdannet pedagogista fra Reggio Emilia Instituttet i Stockholm, er foreleser. Hun har utarbeidet et støttemateriell om pedagogisk dokumentasjon i samarbeid med Utdanningsdirektoratet. Hun har lang erfaring og stor kompetanse med denne arbeidsmetoden og er en av dem som har mest kunnskap om denne i Norge.</p>
-    <p>Forelesningen er på norsk og blir simultantolket til samisk.</p>
-    <p xml:lang="deu">
-      <em type="italic">PROGRAM </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="italic">Mandag 9. januar </em>
-    </p>
-    <p xml:lang="nno">1100 – 1130 Lunsj i kantina, Diehtosiida</p>
-    <p>1130 – 1145 Åpning av seminaret</p>
-    <p>1145 – 1330 <em type="italic">Pedagogisk dokumentasjon – introduksjon </em>. Mona Nicolaysen </p>
-    <p xml:lang="est">1330 – 1345 Kaffepause</p>
-    <p xml:lang="nno">1345 - 1530 <em type="italic">Pedagogisk dokumentasjon – prosjektarbeid. </em>Mona Nicolaysen </p>
-    <p xml:lang="nno">1530 Slutt for dagen</p>
-    <p>
-      <em type="italic">Tirsdag 10. januar </em>
-    </p>
-    <p>0900 – 1030: <em type="italic">Pedagogisk dokumentasjon- - refleksjon og Workshop. </em></p>
-    <p xml:lang="est">1030 – 1045: Pause</p>
-    <p>1045 – 1200: <em type="italic">Pedagogisk dokumentasjon - refleksjon og Workshop. </em></p>
-    <p xml:lang="dan">1200 – 1215: Avslutning</p>
-    <p>Seminaret er gratis, men deltakerne må selv dekke utgifter til reise og opphold. Sámi allaskuvlla/Samisk Høgskole byr på kaffe/te og frukt/kake. Lunsj kan kjøpes i kantina.</p>
-    <p><em type="italic">Påmelding </em><em type="italic">før 05.01.2017 </em>via e-post anneise@samiskhs.no . Gi beskjed om du har behov for overnatting. Ta gjerne kontakt dersom du har behov for ytterligere opplysninger via epost eller tel. +47 78448516 </p>
-    <p>Les mer på Utdanningsdirektoratets hjemmeside:</p>
-    <p xml:lang="nno">http://www.udir.no/kvalitet-og-kompetanse/kvalitet-i-barnehagen/verktoy-for-kvalitetsarbeid/pedagogisk-dokumentasjon/</p>
-    <p type="title" xml:lang="vep">VELKOMMEN!</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>PEDAGOGISK DOKUMENTASJON | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>303</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/a/pedagogisk-dokumentasjon</origFileName><parallel_text xml:lang="sme" location="pedagogalas-dokumentasuvdna.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="isl">Seminar</p>
+<p xml:lang="est">09. januar, 11:00</p>
+<p xml:lang="nno">til</p>
+<p xml:lang="est">10. januar, 12:15</p>
+<p type="title" xml:lang="deu">PEDAGOGISK DOKUMENTASJON</p>
+<p xml:lang="deu"><em type="italic">PEDAGOGISK DOKUMENTASJON </em></p>
+<p><em type="italic">SEMINAR </em><em type="italic">09. og 10.01.2017 </em></p>
+<p xml:lang="deu">DIEHTOSIIDDA, GUOVDAGEAIDNU/ KAUTOKEINO</p>
+<p type="title"><span type="quote">«Pedagogisk dokumentasjon og samisk pedagogisk tenkning – hvilke sammenhenger finnes?»</span></p>
+<p>Sámi allaskuvlla/Samisk Høgskole inviterer til et spennende seminar om pedagogisk dokumentasjon i barnehagen. Målgruppen er studenter, barnehageansatte, fagpersoner og er også åpen for andre interesserte.</p>
+<p xml:lang="eng"><span type="quote">«Pedagogisk dokumentasjon er en arbeidsmåte som handler om å gjøre pedagogisk arbeid synlig og åpent for tolkning, dialog, diskusjon og innsikt. Dokumentasjon av barnehagens praksis blir til pedagogisk dokumentasjon når personalet og barna reflekterer over og diskuterer den. Arbeidsmåten kobler sammen verdier, praksis, barnehagens mandat og pedagogiske og filosofiske teorier.»</span> (udir.no)</p>
+<p>Mona Nicolaysen, barnehagelærer med mastergrad i barnehagepedagogikk, utdannet pedagogista fra Reggio Emilia Instituttet i Stockholm, er foreleser. Hun har utarbeidet et støttemateriell om pedagogisk dokumentasjon i samarbeid med Utdanningsdirektoratet. Hun har lang erfaring og stor kompetanse med denne arbeidsmetoden og er en av dem som har mest kunnskap om denne i Norge.</p>
+<p>Forelesningen er på norsk og blir simultantolket til samisk.</p>
+<p xml:lang="deu"><em type="italic">PROGRAM </em></p>
+<p xml:lang="nno"><em type="italic">Mandag 9. januar </em></p>
+<p xml:lang="nno">1100 – 1130 Lunsj i kantina, Diehtosiida</p>
+<p>1130 – 1145 Åpning av seminaret</p>
+<p>1145 – 1330 <em type="italic">Pedagogisk dokumentasjon – introduksjon </em>. Mona Nicolaysen </p>
+<p xml:lang="est">1330 – 1345 Kaffepause</p>
+<p xml:lang="nno">1345 - 1530 <em type="italic">Pedagogisk dokumentasjon – prosjektarbeid. </em>Mona Nicolaysen </p>
+<p xml:lang="nno">1530 Slutt for dagen</p>
+<p><em type="italic">Tirsdag 10. januar </em></p>
+<p>0900 – 1030: <em type="italic">Pedagogisk dokumentasjon- - refleksjon og Workshop. </em></p>
+<p xml:lang="est">1030 – 1045: Pause</p>
+<p>1045 – 1200: <em type="italic">Pedagogisk dokumentasjon - refleksjon og Workshop. </em></p>
+<p xml:lang="swe">1200 – 1215: Avslutning</p>
+<p>Seminaret er gratis, men deltakerne må selv dekke utgifter til reise og opphold. Sámi allaskuvlla/Samisk Høgskole byr på kaffe/te og frukt/kake. Lunsj kan kjøpes i kantina.</p>
+<p><em type="italic">Påmelding </em><em type="italic">før 05.01.2017 </em>via e-post anneise@samiskhs.no . Gi beskjed om du har behov for overnatting. Ta gjerne kontakt dersom du har behov for ytterligere opplysninger via epost eller tel. +47 78448516 </p>
+<p>Les mer på Utdanningsdirektoratets hjemmeside:</p>
+<p xml:lang="nno">http://www.udir.no/kvalitet-og-kompetanse/kvalitet-i-barnehagen/verktoy-for-kvalitetsarbeid/pedagogisk-dokumentasjon/</p>
+<p type="title" xml:lang="vep">VELKOMMEN!</p>
+</body></document>

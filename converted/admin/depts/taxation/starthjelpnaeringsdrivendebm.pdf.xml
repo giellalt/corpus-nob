@@ -1,311 +1,286 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>6603</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/PDFer/Rettledninger_2013/StarthjelpNaeringsdrivendeBM.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="starthjelpnaeringsdrivendes.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="dan">næringsdrivende</p>
-    <p>
-      <em type="bold">Selvangivelse for næringsdrivende  må leveres </em>
-    </p>
-    <p><em type="bold">Enkel elektronisk levering Leveringsfrister: 30. april (papir) og</em> <em type="bold">31. mai (elektronisk)</em> </p>
-    <p>I <span type="quote">«Rettledning til postene»</span> finner du hvor  i selvangivelsen inntekt/fradrag og formue/ gjeld skal føres. Denne finner du på  skatteetaten.no/rettledningen. Du kan også få hjelp ved å kontakte Skatteetaten.</p>
-    <p>Ved dødsfall: Selvangivelse for personer som er gått bort i 2013 sendes ikke ut. Avdødes forhåndsutfylte selvangivelse kan gjenlevende ektefelle få tilsendt ved å ta kontakt med Skatteetaten. Andre arvinger får utlevert selvangivelsen ved å dokumentere for  Skatteetaten at de er arving. Skifteattest, annen attestasjon fra tingretten eller kopi av testamentet må legges frem. I tillegg må du vise frem legitimasjon.  Se skatteetaten.no/avdode.</p>
-    <p xml:lang="dan"><em type="bold">Del 1 </em>Selvangivelsen – levering, frister mv.  </p>
-    <p xml:lang="nno"><em type="bold">Del 2 </em>Fritak fra levering av næringsoppgave   </p>
-    <p><em type="bold">Del 3</em>Poster som bare gjelder næringsdrivende: </p>
-    <p xml:lang="nno">- Enkeltpersonforetak  - Deltaker i deltakerliknet selskap  <em type="bold">Del 4 </em>Viktige skjemaer  </p>
-    <p>Trenger du å bytte næringsoppgave?  Mer informasjon  Kontrollere, endre og levere selvangivelsen på nett Levering av selvangivelse uten næringsoppgave</p>
-    <p xml:lang="est"><em type="bold">Sjekkliste</em> </p>
-    <p><em type="bold">Du kan lese mer om postene nedenfor  i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen.</em> </p>
-    <p>Det kan være aktuelt å gjøre endringer eller tilføyelser i selvangivelsen hvis du i 2013 bl.a. har hatt:</p>
-    <p><em type="bold">Aksjer </em>Formue, utbytte eller salg av aksjer/ egenkapitalbevis PostENE  3.1.5, 3.1.7, 3.1.8, 3.1.10, 3.1.12, 3.3.8, 3.3.10 og 4.1.8 </p>
-    <p><em type="bold">Alderspensjon</em> Se temaet <span type="quote">«Skattefradrag for pensjonsinntekt og skattebegrensning ved lav alminnelig inntekt»</span> – overskriften «Alderspensjonister </p>
-    <p type="listitem">– skattefradrag for pensjonsinntekt»</p>
-    <p xml:lang="nno">i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen.</p>
-    <p xml:lang="nno"><em type="bold">Barnehage/dagmamma/SFO </em>Utgifter til pass og stell av barn (gjelder også kostnader til transport) Post  3.2.10 </p>
-    <p><em type="bold">Bil og/eller båt</em> Kjøpt eller solgt båt, bil eller campingvogn PostENE  4.2.4, 4.2.5 og 4.2.6 </p>
-    <p><em type="bold">Bolig og/eller fritidsbolig - formue</em> Se temaet <span type="quote">«Bolig og annen fast eiendom»</span> i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen. Post 4.3.2, 4.3.3 og 4.6.1. </p>
-    <p><em type="bold">Engangserstatning og forsikringsutbetaling til barn og ungdom ved personskade og tap av forsørger</em> Se temaet <span type="quote" xml:lang="nno">«Foreldre og barn»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen. </p>
-    <p><em type="bold">Enslig forsørger</em> Er du enslig forsørger for barn under 18 år får du særfradrag for enslig forsørger hvis du har mottatt utvidet barnetrygd fra NAV i 2013. Se temaet <span type="quote">«Særfradrag for enslig forsørger»</span> i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen.  For 2013 lignes enslig forsørgere i skatteklasse 1. Post 3.5.5 </p>
-    <p><em type="bold">Fri bolig utenfor arbeidsforhold (føderåd) </em>PostENE  2.2.2 og 2.6.2 </p>
-    <p><em type="bold">Fri bolig utenfor arbeidsforhold </em>Post  3.1.12 </p>
-    <p><em type="bold">Kjøp eller salg av bolig </em>PostENE 2.8.4 (skattepliktig gevinst) og 3.3.6 (fradragsberettiget tap) </p>
-    <p><em type="bold">Utleie bolig/fritidsbolig</em> PostENE  2.8.2 og 3.3.12 </p>
-    <p><em type="bold">Utleie av fritidsbolig du selv bruker </em>PostENE  2.8.3 og 2.8.5 </p>
-    <p><em type="bold">Festet (bygslet/leid) tomt </em>Se temaet «Festetomter til bolig og fritidshus» i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen. </p>
-    <p><em type="bold">Lån til/fra private</em> Lånt penger til eller fra familie og venner PostENE 3.1.2, 3.3.1, 4.1.6 og 4.8.1 </p>
-    <p><em type="bold">Næringsinntekt/-underskudd</em> PostENE  2.1.3, 2.7 og 3.2.19 </p>
-    <p><em type="bold">Pendlerkostnader</em> Bodd utenfor hjemmet på grunn av arbeidet PostENE  3.2.7 og 3.2.9 </p>
-    <p><em type="bold">Reiseutgifter hjem – arbeid/besøksreiser</em> Reisefradrag på mer enn kr 13 950. PostENE  3.2.8/3.2.9 </p>
-    <p><em type="bold">Renteinntekt – ekstrabeskatning</em> Post  3.1.3 </p>
-    <p><em type="bold">Sykdomskostnader</em> Regelen om særfradrag for store sykdoms- kostnader er opphevet fra og med inntekts- året 2012. Fikk du særfradrag både for 2010 og 2011, kan du kreve særfradrag også for 2013. Du kan imidlertid ikke kreve særfradrag for utgifter som knytter seg til tannbehandling, transport og bolig. Dette gjelder selv om du fikk særfradrag for slike utgifter ved likningen for 2010 og 2011. For inntektsåret 2013 skal det foretas en nedtrapping av særfradraget. For inntektsåret 2013 gis særfradrag med  </p>
-    <p>tidligere ektefelle PostENE  2.6.1 og 3.3.3</p>
-    <p><em type="bold">Ektefeller</em> </p>
-    <p><em type="bold">Underskudd</em> Påse at riktig underskudd fra tidligere år er ført til fradrag i 2013 Post  3.3.11 </p>
-    <p><em type="bold">Utland – inntekt og formue </em>PostENE  1.5.6, 2.2.2, 2.2.3, 2.8.5, 3.1.11, 3.3.2, 4.1.9, 4.6.1, 4.6.2 og 4.8.3 </p>
-    <p>Ektefeller som velger å fordele bankinnskudd, renteinntekter, gjeld og gjeldsrenter annerledes enn det som framgår av de forhåndsutfylte selvangivelsene, må sørge for at begge selvangivelser blir korrigert. Se også <span type="quote">«Ektefeller, registrerte partnere og meldepliktige samboere»</span> i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen.</p>
-    <p>Er du gift eller meldepliktig samboer og har du lav alderspensjon fra folketrygden eller AFP, kan en fordeling av kapitalinntekter og kapitalutgifter mellom deg og ektefellen/ meldepliktig samboer få betydning for hvor stort skattefradrag du/dere kan få. Er du gift/ meldepliktig samboer og uførepensjonist med lav inntekt, kan en slik fordeling få betydning for i hvilken utstrekning du/dere kan gis skattebegrensning. Les mer om temaet <span type="quote">«Skattefradrag for pensjonsinntekt og skattebegrensning ved lav alminnelig inntekt»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen, brosjyren <span type="quote">«Skatteregler for pensjonister»</span> og <span type="quote">«Pensjonister som er gift og har lav pensjon kan i visse tilfeller få lavere samlet skatt»</span> på skatteetaten.no.</p>
-    <p xml:lang="koi"><em type="bold">!</em> </p>
-    <p>Selvangivelsen –</p>
-    <p type="listitem">•  RF-1242 Næringsoppgave for billedkunstner</p>
-    <p type="listitem">•  Uten næringsoppgave: Jeg er deltaker i KS, ANS mv, eller har inntekt fra felles bedrift fra ektefelle.</p>
-    <p type="listitem">•  Uten næringsoppgave: Mine sum drifts- inntekter overstiger ikke kr 50 000 og jeg oppfyller vilkårene. Se vilkår i Del 2 Fritak for levering av næringsoppgave.</p>
-    <p>Når du benytter Næringsoppgave 2 (RF-1167) eller Næringsoppgave for billedkunstnere (RF-1242), blir ikke beløpene overført mellom skjemaene og til selvangivelsen. Dette må du gjøre.</p>
-    <p>Næringsdrivende skal vanligvis levere næringsoppgave (se omtale av RF-1175 på sidE 9) og personinntektsskjema. Arten av  din næringsvirksomhet avgjør hvilke øvrige skjemaer som er nødvendige for at du skal få levert en komplett selvangivelse, se sidE 9.</p>
-    <p xml:lang="nno">Husk å føre opp alle fradrag du har krav på. Da unngår du å betale for mye skatt, se skatteetaten.no/enkelfradrag. Har du krav på fradrag for kostnader til barnepass (foreldrefradrag) bør du sjekke  at beløpet er riktig.</p>
-    <p>Har du i løpet av året skiftet arbeidsplass/ forretningssted eller bosted, kan et eventuelt forhåndsutfylt reisefradrag være feil. Det samme gjelder dersom du ikke har vært i arbeid hele året eller har endret stilllingsbrøk.</p>
-    <p>Er du enslig forsørger med barn under 18 år, får du særfradrag for enslig forsørger hvis du har mottatt utvidet barnetrygd fra NAV.</p>
-    <p><em type="bold">Selvangivelsestyper</em> </p>
-    <p>Personlige skattytere får enten:</p>
-    <p type="listitem">•  <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> eller</p>
-    <p type="listitem">•  <span type="quote">«Selvangivelse for lønnstakere og pensjonister mv.»</span></p>
-    <p>Du kan lese mer om levering av selvangivelsen i <span type="quote">«Rettledning til postene»</span> som du finner på skatteetaten.no/rettledningen.</p>
-    <p>Selvangivelsen kan du levere elektronisk eller på papir. Skatteetaten oppfordrer deg  til å levere selvangivelsen elektronisk. Frem- gangsmåten er beskrevet på sidene 11 til 15. Ved å levere <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> elektronisk har du en måned lengre innleveringsfrist enn når du leverer på papir.</p>
-    <p>Endringer og tilføyelser kan gjøres raskt og enkelt med noen få tastetrykk. Systemet vil hjelpe deg til å fylle ut selvangivelsen og skjemaer. Se skatteetaten.no/enkelutfylling.</p>
-    <p><em type="bold">Skatteplikt til flere  kommuner</em> </p>
-    <p>Er du skattepliktig til flere kommuner, skal  du likevel bare levere selvangivelsen til Skatte- etaten en gang. Sammen med selvangivelsen leverer du skjemaet RF-1034 med forslag til fordeling av formue og inntekt mellom kommunene. Dette skjemaet er en del av den elektroniske løsningen og du finner det under arkfanen vedlegg. Se del 4 for hvordan du legger til og fyller ut vedleggsskjema.</p>
-    <p><em type="bold">Pliktig dokumentasjon</em> </p>
-    <p>Sammen med selvangivelsen skal du alltid sende inn:</p>
-    <p type="listitem">•  dokumentasjon for gjeldsrenter i utlandet</p>
-    <p type="listitem">•  dokumentasjon for betalt skatt i utlandet hvis du krever kreditfradrag eller inntektsfradrag</p>
-    <p>Leverer du selvangivelsen på skatteetaten.no, kan du levere pliktig dokumentasjon enten som elektroniske vedlegg eller på papir innen selvangivelsesfristen. Husk å merke vedleggene på papir med navn og fødselsnummer.</p>
-    <p><em type="bold">Annen dokumentasjon skal du kun sende inn hvis Skatteetaten ber om det.</em> Vær likevel oppmerksom på at du kan bli bedt om dokumentasjon også etter at du har mottatt skatteoppgjøret. Ta derfor vare på  dokumentasjonen. Leveringsfristen for <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> er 30. april 2014 hvis du leverer på papir, eller 31. mai 2014 hvis du leverer elektronisk. </p>
-    <p>Ordningen med leveringsfritak gjelder ikke for de som mottar selvangivelse for næringsdrivende.</p>
-    <p>Har du i 2013 vært deltaker i et deltakerliknet selskap som sender inn selskapsoppgaven elektronisk, har du frist til 31. mai 2014.</p>
-    <p>Du kan søke om utsettelse hvis det er svært vanskelig for deg å levere innen fristen, f.eks. på grunn av sykdom. Søker du elektronisk får du straks svar på din søknad om utsettelse.</p>
-    <p>Søk etter skjemaet RF-1114 på skatteetaten.no/skjema for mer informasjon om utsettelse.</p>
-    <p><em type="bold">For sent levert selvangivelse</em> </p>
-    <p>Med mindre du har fått utsettelse, får du forsinkelsesavgift hvis du leverer selvangivelsen etter fristen, men før skatte- oppgjøret er sendt ut.</p>
-    <p><em type="bold">Elektronisk  kommunikasjon</em> </p>
-    <p>Stat og kommune ønsker et felles kontakt- register for å kommunisere elektronisk med innbyggerne. Registeret inneholder mobilnummeret og e-postadressen du selv har lagt inn dersom du tidligere har logget inn på offentlige tjenester hos MinID. Står du i kontaktregisteret vil du få fremtidige skatteoppgjør mv. elektronisk og du blir varslet på mobil eller e-post når det er klart.</p>
-    <p>Har du aldri logget deg inn på offentlige tjenester via MinID, må du melde deg på for å få fremtidige brev, skatteoppgjør og  selvangivelser elektronisk:  skatteetaten.no/ebruker</p>
-    <p>Fordelene med elektronisk  kommunikasjon:</p>
-    <p type="listitem">•  Du får selvangivelsen tidligere enn de som velger papir.</p>
-    <p type="listitem">•  Du får raskere svar på en sak eller en henvendelse, fordi det offentlige unngår postgang.</p>
-    <p type="listitem">•  Du blir varslet med SMS eller e-post når du mottar post fra det offentlige.</p>
-    <p type="listitem">•  Uvedkommende får ikke tilgang til dine personlige opplysninger.</p>
-    <p type="listitem">•  Du er med på å spare miljøet og redusere offentlige utgifter.</p>
-    <p>Andre offentlige etater vil også gradvis gå over til elektronisk kommunikasjon.</p>
-    <p>Ønsker du å reservere deg mot elektroniske brev, selvangivelser, skatteoppgjør mv,  må du gå inn på skatteetaten.no/ebruker. Følgende innloggingsalternativer gir deg elektronisk tilgang til selvangivelsen din på skatteetaten.no:</p>
-    <p>1. ID-porten/MinID Har du registrert deg som bruker i  ID-porten/MinID og oppgitt mobilnummer og e-postadresse, får du engangskoder umiddelbart på SMS. Du må ha følgende for å registrere deg:</p>
-    <p type="listitem">• Fødselsnummer/D-nummer</p>
-    <p type="listitem" xml:lang="nno">• Mobilnr. og/eller e-postadresse</p>
-    <p type="listitem">•  PIN-koder (trenger du PIN-koder til MinID bestiller du på pinbestilling.difi.no)</p>
-    <p xml:lang="eng">2. BankID  3. Buypass 4. Commfides</p>
-    <p xml:lang="nno"><em type="bold">Slik logger du inn</em> </p>
-    <p>Etter å ha valgt innloggingsalternativ følger du veiledningen du får underveis.</p>
-    <p xml:lang="nno">Tilleggsforskudd betalt før 1. februar 2014  25 000</p>
-    <p xml:lang="nno">er avgiften 1 promille av nettoformuen og 2 promille av nettoinntekten.</p>
-    <p xml:lang="nno">fristen, er avgiften 1 promille av netto- formuen og 1 prosent av nettoinntekten.</p>
-    <p xml:lang="nno">fristen, men før skatteoppgjøret er sendt ut, er avgiften 1 promille av nettoformuen og 2 prosent av nettoinntekten.</p>
-    <p>gjeld som til sammen ikke utgjør mer enn kr 20 000</p>
-    <p>som til sammen ikke utgjør mer enn  kr 1 000</p>
-    <p>berettiget, når du har fått strøket en tilsvarende post ved en tidligere likning</p>
-    <p>eller inntektspost og tilsvarende endring er foretatt ved en tidligere likning</p>
-    <p>åpenbart skyldes regne-/skrivefeil eller misforståelse av skattelovgivningen, og en eventuell uttalelse fra deg ikke vil ha betydning for likningen 30 prosent. Den totale tilleggsskatten blir da 45 eller 60 prosent.</p>
-    <p xml:lang="dan"><em type="bold">Skatteberegning</em> </p>
-    <p>På skatteetaten.no/skatteberegning finner du et enkelt skatteberegningsprogram.</p>
-    <p>Det er kun skattytere som mottar selvangivelse for lønnstakere og pensjonister som får foreløpig skatteberegning sammen med selvangivelsen.</p>
-    <p>Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU (boligsparing for ungdom), er dette vist øverst på siden <span type="quote">«Foreløpig oversikt over skatter 2013»</span> i selvangivelsen.</p>
-    <p><em type="bold">Når kommer skatteoppgjøret?</em> </p>
-    <p>Skatteoppgjøret får du så snart selvangivelsen er ferdig behandlet i august, september eller senest oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig.</p>
-    <p>Er du e-bruker, vil du bli varslet på SMS og e-post straks skatteoppgjøret ditt er tilgjengelig i altinn.</p>
-    <p xml:lang="swe"><em type="bold">Restskatt</em> </p>
-    <p>På restskatt blir det beregnet et rentetillegg. Restskatt (med rentetillegg) på kr 99 eller lavere kreves ikke inn. Skatteetaten.no/renter.</p>
-    <p>Uførepensjonister, mottakere av overgangsstønad, etterlattepensjon, pensjon til familiepleiere eller supplerende stønad til person med kort tid i Norge som får skattebegrensning pga. lav inntekt, slipper rentetillegg på restskatt. Om skattebegrensning, se <span type="quote">«Skattebegrensning ved lav alminnelig inntekt »</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen.</p>
-    <p>Nærmere opplysninger om renteberegningen og rentesatser i skatteoppgjøret kan du få ved å gå inn på skatteetaten.no eller ved å henvende deg til skatteoppkreveren/ kemneren eller telefon 800 80 000.</p>
-    <p xml:lang="nno"><em type="bold">Tilleggsforskudd</em> </p>
-    <p>Vil du unngå renter på restskatten, kan du betale tilleggsforskudd innen 31. mai 2014. Tilleggsforskudd betalt etter 31. mai vil ikke bli tatt hensyn til ved skatteoppgjøret.</p>
-    <p>Du finner informasjon om konto- og KID-nummer for betaling av tilleggsforskudd på selvangivelsen din.</p>
-    <p>Hvis du vil kontrollere om tilleggsforskudd er blitt godskrevet deg, kan du kontrollere dette ved å logge på <span type="quote" xml:lang="dan">«Mine krav og betalinger»</span> og velge arkfanen Inn/utbetalinger. Tjenesten finner du på skatteetaten.no/krav-og-betalinger.</p>
-    <p xml:lang="dan"><em type="bold">Penger til gode</em> </p>
-    <p>Har du penger til gode på skatten kan du få beløpet inn på bankkonto.</p>
-    <p xml:lang="nno">Tilgodebeløpet blir overført til den konto som står i selvangivelsen.</p>
-    <p>Dersom du ønsker tilgodebeløpet overført til en annen konto, kan du endre dette i skjema RF-1030A. Dette skjema finner du på altinn. no. Du kan bare velge mellom de kontoene som vises i skjemaet.</p>
-    <p>På tilgodebeløp er det beregnet rentegodtgjørelse. Tilgodebeløp (med rentegodtgjørelse) på kr 99 eller lavere vil ikke bli tilbakebetalt. Nærmere opplysninger om renteberegningen og rentesatser i skatteoppgjøret kan du få ved</p>
-    <p xml:lang="nno">Nordmann Kari 100664 003 60</p>
-    <p>        <em type="bold">Foreløpig oversikt over skatter 2013</em> </p>
-    <p xml:lang="swe"> <em type="bold">  Skatt </em></p>
-    <p xml:lang="dan">Innbetalt forskuddsskatt  79 000</p>
-    <p xml:lang="nno">Tilleggsforskudd betalt før 1. februar 2014  25 000</p>
-    <p>Når kommer skatteoppgjøret? Din foreløpige skatteberegning er ikke skrevet ut fordi skattekontoret vil trenge ekstra tid til likningsbehandlingen. Skatteoppgjørene blir  ikke sendt ut på spesifikke datoer. Det vil si at du får skatteoppgjøret så snart selvangivelsen er ferdig behandlet i august eller september, senest i oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig. Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU, er dette vist øverst på siden.</p>
-    <p>Når kommer skatteoppgjøret? Din foreløpige skatteberegning er ikke skrevet ut fordi skattekontoret vil trenge ekstra tid til likningsbehandlingen. Skatteoppgjørene blir  ikke sendt ut på spesifikke datoer. Det vil si at du får skatteoppgjøret så snart selvangivelsen er ferdig behandlet i august eller september, senest i oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig. Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU, er dette vist øverst på siden.</p>
-    <p> <em type="bold">Vil du unngå rentetillegg på eventuell restskatt, må du betale tilleggsforskudd innen 31. mai 2014. Fristen gjelder selv om  du har fått utsettelse med innlevering av selvangivelsen. Eventuell innbetaling er frivillig. Ved betaling må følgende benyttes:</em> </p>
-    <p xml:lang="kal"><em type="bold"> Kontnr: xxxx xx xxxxx Navn: NN skatteoppkrever KID - nr: yyyyyyyyyyyyyyyyyyy IBAN : NOzzzzzzzzzzzzz SWIFT/BIC: NDEANOKK</em> </p>
-    <p> <em type="bold">Vil du unngå rentetillegg på eventuell restskatt, må du betale tilleggsforskudd innen 31. mai 2014. Fristen gjelder selv om  du har fått utsettelse med innlevering av selvangivelsen. Eventuell innbetaling er frivillig. Ved betaling må følgende benyttes:</em> </p>
-    <p xml:lang="nno"><em type="bold"> Kontnr: xxxx xx xxxxx Navn: NN skatteoppkrever KID - nr: yyyyyyyyyyyyyyyyyyy IBAN : NOzzzzzzzzzzzzz SWIFT/BIC: NDEANOKK</em> å gå inn på skatteetaten.no eller ved å henvende deg til skatteoppkreveren/ kemneren eller telefon 800 80 000. </p>
-    <p xml:lang="nno"><em type="bold">Klage på skatteoppgjør</em> </p>
-    <p>Klage på skatteoppgjør skal sendes til skatteoppkreveren innen tre uker etter at  du har mottatt oppgjøret.</p>
-    <p>Skatteoppgjør finner du i <span type="quote" xml:lang="sme">«Min meldingsboks»</span> når du logger den inn i den elektroniske løsningen fra skatteetaten.no. Klagefristen er 6 uker fra skatteoppgjøret  er sendt til deg, likevel tidligst 10. august. Du kan levere klage elektronisk (søk etter skjemaet RF-1117 på skatteetaten.no) eller på papir til Skatteetaten. For mer informasjon, se skatteetaten.no/klage.</p>
-    <p xml:lang="fkv"><em type="bold">Skatteklasse</em> </p>
-    <p>Ektefeller som liknes sammen, blir enten satt  i skatteklasse 2F eller 1E. Skatteklasse 2F viser at inntekt og formue er liknet under ett og skatten fordelt mellom ektefellene i forhold til hver ektefelles netto inntekt og netto formue. Skatteklasse 1E viser at ektefellenes inntekt er liknet særskilt. Selv om inntekten liknes særskilt, blir formuen alltid liknet felles i skatteklasse 2 og skatten fordelt mellom ektefellene i forhold til hver ektefelles netto formue. Opplysninger om hvordan du er foreslått lignet står på linjen under ditt fødselsnummer på mottatt selvangivelse.</p>
-    <p>Enslige skattytere settes i skatteklasse 1.  Fra og med 2013 settes også enslige forsørgere  i klasse 1. Enslige forsørgere som mottar utvidet barnetrygd for barn under 18 år gis et særfradrag som erstatter ligning i skatte- klasse 2. Se Post 3.5.5 og temaet <span type="quote">«Særfradrag for enslig forsørger»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen.</p>
-    <p>Noen personlige næringsdrivende er fritatt fra å levere næringsoppgave. Omfattes du av denne ordningen, kan du likevel velge å levere næringsoppgave. Dersom du er fritatt fra  å levere næringsoppgave, er du også fritatt fra å fylle ut vedleggsskjema RF-1224  Personinntekt fra enkeltpersonforetak.</p>
-    <p>Ønsker du likevel å gjøre det, for å kunne utnytte et eventuelt skjermingsfradrag, har du anledning til å fylle ut skjemaet. Er du fritatt fra å levere næringsoppgave, har du heller ikke bokføringsplikt. Du må likevel dokumentere alle dine inntekter og kostnader. Denne dokumentasjonen må du oppbevare i 10 år.</p>
-    <p xml:lang="nno"><em type="bold">Vilkår for fritak</em> </p>
-    <p type="listitem">•  Årets brutto driftsinntekt må ikke overstige kr 50 000</p>
-    <p type="listitem">•  Du må være skattemessig bosatt i Norge</p>
-    <p type="listitem">•  Foretaket ditt må ikke ha regnskapsplikt, jf. lov 17.07.1998 nr. 56 (regnskapsloven)  § 1-2</p>
-    <p type="listitem">•  Foretaket ditt må ikke være registreringspliktig, jf. lov 19.06.2009 nr. 58 (merverdi- avgiftsloven) § 2-1.</p>
-    <p xml:lang="nno"><em type="bold">Unntak</em> </p>
-    <p>Inngår virksomhetens årsresultat i gjennomsnittslikning for skogbruk (skatteloven § 14-81) eller reindrift (skatteloven § 14-82) kan du ikke benytte deg av ordningen. Driver du slik virksomhet må du levere næringsoppgave og RF-1177. Ordningen kan ikke benyttes dersom du plikter å levere:</p>
-    <p type="listitem">•  RF-1223 <span type="quote">«Drosje- og lastebilnæring»</span></p>
-    <p type="listitem">•  RF-1189 <span type="quote">«Utleie mv. av fast eiendom»</span> sammen med RF-1084 <span type="quote" xml:lang="dan">«Avskrivning»</span> som både gjelder næringsvirksomhet og den utleide eiendommen</p>
-    <p>Du kan heller ikke benytte ordningen hvis du:</p>
-    <p type="listitem">•  krever næringsinntekten fordelt med ektefelle mv.</p>
-    <p type="listitem">•  har drevet mer enn én virksomhet i året</p>
-    <p type="listitem">•  har drevet virksomhet som er skattepliktig til mer enn én kommune.</p>
-    <p>Se sidE 14 for hvordan du leverer selvangivelse for næringsdrivende uten næringsoppgave.</p>
-    <p>Del 2 Fritak fra levering av  næringsoppgave mv.</p>
-    <p>Del 3 Poster som bare gjelder næringsdrivende mv.</p>
-    <p xml:lang="nno">Om deltakerliknet selskap (ANS, DA, KS mv.), se side 8 og 9.</p>
-    <p>Når det nedenfor er vist til skjemaer med RF-nummer, finner du nærmere informasjon om skjemaene i del 4. Se skatteetaten.no/skjema eller altinn.no</p>
-    <p><em type="bold">Enkeltpersonforetak</em> </p>
-    <p>Har du inntekt fra enkeltpersonforetak (selvstendig næringsdrivende), inngår denne i alminnelig inntekt. Av alminnelig inntekt betaler du skatt til kommune og fylkes- kommune samt fellesskatt til staten.  Av næringsinntekten beregnes det også personinntekt, som er grunnlaget for beregning av trygdeavgift og toppskatt.  Som næringsdrivende er du pliktig til å levere næringsoppgave og skjema for beregning av personinntekt. Du kan lese mer om skjemaene i del 4 nedenfor. Næringsdrivende med</p>
-    <p><em type="bold">1.5.10 Felles bedrift</em> Ektefeller som har fordelt næringsinntekt/ beregnet personinntekt fra felles bedrift, skal krysse av i denne posten. Fordelt næringsinntekt føres i Post 2.1.3/2.7 og fordelt beregnet personinntekt i Post 1.6. Fordelingen skal foretas i næringsoppgaven og i skjemaet for beregning av personinntekt. Den ektefellen som er hovedutøver, sender inn næringsoppgave og skjemaet <span type="quote">«Personinntekt fra enkeltpersonforetak»</span> (RF-1224) som vedlegg til selvangivelsen sin. Om fordeling, se rettledning RF-1176 (omtalen av PostENE 0401-0403), eller rettledning RF-1168 (omtalen av Post 0999). </p>
-    <p><em type="bold">1.6.1 eller 1.6.2 Positiv personinntekt fra enkeltpersonforetak og mannskapslott fra fiske og fangst</em> Som næringsdrivende plikter du å levere RF-1224 «Personinntekt fra enkeltpersonforetak». Dette gjelder ikke næringsdrivende som er fritatt for å levere næringsoppgave, se del 2 ovenfor. Om beregning av personinntekt, se rettledningen RF-1225. Negativ beregnet personinntekt skal ikke overføres fra RF-1224 til selvangivelsen, men kan framføres til fradrag i senere års personinntekt. </p>
-    <p>Positiv inntekt fra Post 119 i RF-1213 <span type="quote">«Fiske»</span> fører du i Post 1.6.1 i selvangivelsen.</p>
-    <p>Har du opphørt å drive enkeltpersonforetak (opphørt selvstendig næringsvirksomhet), men det gjenstår saldo på RF-1219 eller  negativ saldo på RF-1084 etter næringsvirksomheten, skal du føre den skattepliktige delen som personinntekt i Post 1.6.1 eller 1.6.2, selv om det ikke er levert næringsoppgave og personinntektsskjema (RF-1224), se skjemaoversikten sidE 9 og 10. Beløpet fra post 15a i RF-1219 og/eller positiv inntekt fra Post 110 i RF-1084, blir overført til Post 3.1.12 og 1.6.2 i selvangivelsen. Dette gjelder også gevinst fra jordbruk, skogbruk, reindrift og pelsdyrnæring. Stammer derimot gevinsten fra fiske, familiebarnehage eller annet barnepass i eget hjem, blir den overført til Post 3.1.12 og 1.6.1.</p>
-    <p>Har du framført negativ personinntekt fra tidligere år for det opphørte enkeltpersonforetaket, skal denne avkorte positiv personinntekt som eventuelt er overført direkte til selvangivelsen fra post 15a i RF-1219 og/eller Post 110 i RF-1084. Gi i så fall tilleggsopplysninger om den framførte negative personinntekten i Post 5.0 (Tilleggsopplysninger) i selvangivelsen. Se også skatteetaten.no/enkelutfylling. <em type="bold">1.6.3 eller 1.6.4 Sykepenger utbetalt til selvstendig næringsdrivende </em>Beløpet føres i disse postene. Det blir også overført til Post 2.7.13/2.1.3. </p>
-    <p><em type="bold">2.1.3 Inntekt, dagmamma eller familie- barnehage i eget hjem, herunder sykepenger</em> Se tilsvarende post i <span type="quote">«Rettledning til postene»</span>på skatteetaten.no/rettledningen. </p>
-    <p><em type="bold">2.7 Næringsinntekter</em> Når du fyller ut selvangivelsen på internett blir næringsinntektene overført til riktige poster i selvangivelsen når du benytter <span type="quote">«Næringsoppgave 1»</span> eller <span type="quote" xml:lang="deu">«Veiviseren»</span>.  Se sidE 14 og 15. </p>
-    <p><em type="bold">2.7.3 Næringsinntekt fra fiske og fangst</em> For fiskere som ikke har bokføringsplikt (lottakere), hentes beløpet fra Post 117 i RF-1213. Har du drevet fiske som enkeltpersonforetak, hentes næringsinntekten fra Post 0402 i næringsoppgaven. </p>
-    <p><em type="bold">2.7.13 Sykepenger mv.</em> til selvstendig næringsdrivende Se Post 1.6.3/1.6.4. </p>
-    <p><em type="bold">3.2.14 Særskilt fradrag for fiskere og fangstfolk</em> Har du fiske/fangst som hovedyrke i minst 130 dager i året, har du krav på eget fradrag på 30 prosent av inntekten. Fradraget har en øvre grense på kr 150 000. For å få fradraget må du fylle ut RF-1213 <span type="quote">«Fiske»</span> del B <span type="quote">«Oversikt over driftstid i fiske og fangst»</span> og del C <span type="quote">«Utrekning av særskilt fradrag»</span>. Nærmere opplysninger finner du i rettledningen RF-1214. </p>
-    <p><em type="bold">3.2.15 Jordbruksfradrag</em> Du kan kreve jordbruksfradrag dersom bestemte vilkår er oppfylt. Du må da levere RF-1177. Er du fritatt for å levere næringsoppgave (driftsinntekter som ikke overstiger kr 50 000 og ikke påbegynt gjennomsnittslikning), se del 2 ovenfor, skal du ikke levere RF-1177. Du fører i stedet fradraget direkte i selvangivelsen Post 3.2.15 jordbruksfradrag. Informasjon om vilkårene og fradragets størrelse finner du i rettledningen RF-1178. Om spesielle vilkår for deltakere i ansvarlig selskap innen jordbruk, se rettledningen RF-1222. Se skatteetaten.no/skjema. </p>
-    <p><em type="bold">3.2.16 Særskilt fradrag i reindriftsvirksomhet</em> Er du reineier og har drevet reindrift mer enn halvparten av inntektsåret, kan du kreve reindriftsfradrag. Du må da levere RF-1177. </p>
-    <p xml:lang="vep"><em type="bold">EKSEMPEL</em> </p>
-    <p xml:lang="koi"><em type="bold">!</em> </p>
-    <p>Poster for næringsdrivende med enkeltpersonforetak</p>
-    <p>Ifølge lønns- og trekkoppgaven, kode 401/402/404 (utbetaling til nærings- drivende), har du i 2013  mottatt kr 32 714. Alle opptjente næringsinntekter  i 2013 føres i næringsoppgaven (RF-1175) post 3000 – 3900.</p>
-    <p>Er du fritatt for å levere næringsoppgave, se del 2 ovenfor, skal du ikke levere RF-1177. Du fører i stedet fradraget direkte i selv- angivelsen Post 3.2.16. Informasjon om reglene og fradragets størrelse finner du i rettledningen RF-1178.</p>
-    <p><em type="bold">3.2.17 Særskilt fradrag i skifervirksomhet</em> Driver du skiferproduksjon i Finnmark eller bestemte kommuner i Nord-Troms, kan du kreve et særskilt fradrag. Du må føre fradraget direkte i selvangivelsen Post 3.2.17 <span type="quote" xml:lang="nno">«Særskilt fradrag for skiferproduksjon i Nord-Troms og Finnmark»</span>. Informasjon om reglene og fradragets størrelse finner du i rettledningen RF-1178. Se skatteetaten.no/skjema. </p>
-    <p><em type="bold">3.2.18 Premie til egen tilleggstrygd  for næringsdrivende</em> Her fører du frivillig premie til folketrygden for egen tilleggstrygd for sykepenger eller yrkes- skadetrygd. Se skatteetaten.no/enkelfradrag. </p>
-    <p><em type="bold">3.2.19 Årets underskudd i næringsvirksomhet</em> Når du leverer selvangivelsen elektronisk, blir underskudd i næringsvirksomheten overført til riktig post når du benytter «Næringsoppgave 1» eller <span type="quote" xml:lang="deu">«Veiviseren»</span>, sidE 14 og 15. Er virksomheten opphørt, og du har et underskudd ved driften som ikke er dekket av annen inntekt, kan du kreve fradrag for dette underskuddet  i inntekten for 2012. Blir ikke underskuddet dekket av inntekt i 2012, kan det føres til fradrag i inntekten i 2011, men ikke lenger tilbake. Tilbakeføringen av underskudd gjennomføres ved endring av likningen for de aktuelle årene. Hvis udekket underskudd ikke kan utnyttes ved tilbakeføring, eller du ikke ønsker det, kan underskuddet i stedet trekkes fra i framtidig inntekt, se Post 3.3.11 i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen. I Post 5.0 (Tilleggsopplysninger) i selvangivelsen kan du kreve å få endret likningen for 2012 og/ eller 2011 dersom vilkårene er oppfylt. </p>
-    <p><em type="bold">Framførbart underskudd fra tidligere år</em> Om framførbart underskudd generelt, se tilsvarende Post 3.3.11 i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen. Særregel for tidligere underskudd knyttet til våningshus på gårdsbruk går fram av avsnitt VI i RF-1178. </p>
-    <p><em type="bold">4.3.4 Skogverdi</em> Skogverdien for 2013 er forhåndsutfylt med det beløp som er lagt til grunn i selvangivelsen for 2012. Har skogverdien endret seg vesentlig i året (f.eks. pga. tilkjøp, frasalg, naturskade eller lignende), må du levere skjemaet RF-1016 med beregnet ny verdi og fylle inn den nye i Post 4.3.4 i selvangivelsen. Nye skogeiere må alltid levere skjemaet RF-1016. Skogeiere som slutter markerer øverst i skjemaet at de ikke lenger eier skog ved utgangen av året. Nærmere opplysninger framgår av rettledningen RF-1017. </p>
-    <p><em type="bold">4.4.1 Biler, maskiner, inventar mv.</em> Når du registrerer driftsmidler i næringsoppgaven blir skattemessige verdier overført til riktige poster i selvangivelsen når du benytter <span type="quote">«Næringsoppgave 1»</span>. Den skattemessige nedskrevne verdien legges til grunn dersom det ikke kan påvises at den faktiske verdien er lavere. Biler, innbo og annet løsøre som ikke er driftsmidler, føres i Post 4.2.3–4.2.6. </p>
-    <p><em type="bold">4.4.2 Buskap</em> Her føres beløpet fra venstre kolonne av Post 0150 i RF-1175 eller RF-1167. Skatteetaten har fastsatt normalverdier for de fleste husdyr. Se Skatteetatens takseringsregler § 3-1-4 på skatteetaten.no. </p>
-    <p><em type="bold">4.4.3 Varelager</em> Her føres summen av venstre kolonne i Post 0110, 0120, 0130 og 0140 i RF-1175 eller RF-1167 og Post 0165 i RF-1175. Egenproduserte varer verdsettes til tilvirkningsverdien, og innkjøpte varer verdsettes til anskaffelsesverdien. </p>
-    <p><em type="bold">4.4.4 Skip, fiske- og fangstfartøy mv.</em> Se Skatteetatens takseringsregler § 2-1-5 på skatteetaten.no. </p>
-    <p><em type="bold">4.8.1 Gjeld fra næringsoppgave som ikke er forhåndsutfylt i selvangivelsen</em> Eksempler på dette vil være leverandørgjeld, forskudd fra kunder, skyldig arbeidsgiver- og merverdiavgift, pantegjeld til tidligere eier ved overdragelse av næring, gjeld til ansatte mv. </p>
-    <p xml:lang="nno"><em type="bold">Deltaker i deltakerliknet selskap (ANS, DA, KS mv.)</em> </p>
-    <p>Som deltaker i deltakerliknet selskap mv. (DLS) trenger du ikke å sende næringsoppgave og/eller personinntektskjema, dersom dette er din eneste næringsvirksomhet. Når du leverer selvangivelsen elektronisk så velger du <span type="quote">«uten næringsoppgave: Jeg er deltaker i KS,ANS mv eller har inntekt felles bedrift fra ektefelle»</span>. Deltakeren skal motta kopi av <span type="quote">«Selskapets oppgave over deltakerens formue og inntekt i deltakerlignet selskap»</span> (RF-1233). Ut fra opplysningene i RF-1233 fyller du ut <span type="quote">«Deltakerens oppgave over egen formue og inntekt i deltakerlignet selskap»</span> (RF-1221). Se også rettledningen RF-1222 og  <span type="quote">«Deltakermodellen»</span> på skatteetaten.no.</p>
-    <p>Når du leverer selvangivelsen elektronisk og fyller ut RF-1221 blir alle beløp overført til riktige poster i selvangivelsen.</p>
-    <p>Arbeidsgodtgjørelse til personlig deltaker regnes både som alminnelig inntekt og personinntekt, se omtalen av PostENE 1.7.1 og 1.7.4 nedenfor. Arbeidsgodtgjørelse inngår ikke i selskapets virksomhetsinntekt. Deltakerens andel av overskudd fra DLS beskattes som alminnelig inntekt på deltakerens hånd. Tilsvarende gis det fradrag i deltakers alminnelige inntekt for deltakerens andel av selskapets underskudd. Dersom deltakeren mottar en utdeling fra selskapet, skal det beregnes et tillegg i alminnelig inntekt for deltakeren. Tilbakebetaling av innbetalt egenkapital regnes ikke som utdeling fra selskapet.</p>
-    <p><em type="bold">1.7.1 eller 1.7.4 Arbeidsgodtgjørelse fra deltakerliknet selskap</em> Arbeidsgodtgjørelse fra selskap som driver fiske eller familiebarnehage i eget hjem, føres  i Post 1.7.1. Beløpet hentes fra Post 1160 i deltakeroppgaven (RF-1221). Arbeidsgodtgjørelse fra annet selskap føres i Post 1.7.4. Beløpet hentes fra Post 1162 i deltakeroppgaven (RF-1221). Har du mottatt lønn som kommandittist, må du påse at beløpet er ført  i Post 2.1 og ikke i Post 1.7.1 eller 1.7.4. </p>
-    <p><em type="bold">1.7.2 eller 1.7.5 Samordning av negativ beregnet personinntekt fra enkeltpersonforetak med arbeidsgodtgjørelse fra deltakerliknet selskap</em> Her føres negativ personinntekt som du kan samordne (se nedenfor) med arbeidsgodtgjørelse i Post 1.7.1 eller 1.7.4. Om vilkårene for slik samordning, se rettledningen RF-1225 Post 1.21. </p>
-    <p>Beløpet i Post 1.7.2 eller 1.7.5 henter du fra Post 1.21 i RF-1224. Både årets negative beregnede personinntekt og tidligere års framførbare negative beregnede personinntekt fra enkeltpersonforetaket, kan inngå i dette beløpet. Du kan ikke kreve fradrag for tidligere negativ personinntekt fra aksjeselskaper eller deltakerliknede selskaper.</p>
-    <p><em type="bold">1.7.7 eller 1.7.8 Andel av ektefellens arbeidsgodtgjørelse fra deltakerliknet selskap</em> Godtgjørelse du har fått for arbeid utført i DLS hvor din ektefelle er ansvarlig deltaker, skattlegges ikke som lønn, men som barnehage i eget hjem, blir deltakerens del av overskuddet overført til Post 2.1.3. Har selskapet drevet fiske, blir deltakerens andel av overskuddet i selskapet overført til Post 2.7.7 i selvangivelsen. I andre tilfeller overføres overskuddet til Post 2.7.8. Står det minustegn foran beløpet på deltakeroppgaven, overføres beløpet til Post 3.2.19 i selvangivelsen. Er oversikten over fordeling av formue og inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes totalbeløpene for deltaker og ektefelle fra oversikten, og føres i Post 2.1.3, 2.7.7. eller 2.7.8. Ektefellen må selv føre beløpene i sin selvangivelse. </p>
-    <p><em type="bold">2.7.10 eller 2.7.11 Tillegg i alminnelig inntekt</em> Om beregning av tillegg i alminnelig inntekt av utdeling fra deltakerliknet selskap til deltaker, se rettledningen til deltakeroppgavene for deltakerliknede selskaper, RF-1222 Post 1143 og RF-1288 Post 201-216. Er oversikten over fordeling av formue og  inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes beløpet for deltaker og ektefelle fra hhv. Post 1243 og Post 1244 og føres i selvangivelsen. </p>
-    <p><em type="bold">3.1.12 eller 3.3.7 Gevinst/tap ved salg mv. av andel i deltakerliknet selskap</em> Beløpet står i Post 1145 i RF-1221. Dersom inntekt og formue er fordelt mellom ektefeller er beløpene for deltaker og ektefelle også ført i hhv. Post 1245 og 1246.  Gevinst føres i Post 3.1.12 i selvangivelsen, mens tap føres i Post 3.3.7. </p>
-    <p><em type="bold">4.5.4 eller 4.8.1 Andel formue/gjeld i deltakerliknet selskap</em> Du finner beløpet i Post 1101 i RF-1221. Andel av positiv nettoformue føres i Post 4.5.4  i selvangivelsen, mens andel av negativ nettoformue føres i Post 4.8.1. Er oversikten over fordeling av formue og inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes beløpet for deltaker og ektefelle fra RF-1221 i hhv. Post 1201 og 1202 og føres i selvangivelsen. </p>
-    <p xml:lang="nno">Viktige skjemaer</p>
-    <p>skjemaene og til selvangivelsen. Dette må du gjøre. Se også skatteetaten.no/enkelutfylling.</p>
-    <p>Har du driftsinntekter på kr 50 000 eller lavere, kan du på visse vilkår fritas fra å levere næringsoppgave, se del 2 foran. Du trenger heller ikke å levere næringsoppgave dersom du bare mottar næringsinntekt fra:</p>
-    <p type="listitem" xml:lang="nno">•  deltakerliknet selskap (ANS, DA, KS mv.)</p>
-    <p type="listitem">•  felles bedrift fordelt fra ektefelle</p>
-    <p type="listitem">•  lott fra fiske og fangst</p>
-    <p type="listitem">•  barnepass i eget hjem</p>
-    <p>Har du fått tilsendt selvangivelse for næringsdrivende uten å ha drevet næringsvirksomhet i 2013, skal du levere selvangivelse for næringsdrivende med næringsoppgave 1 (RF-1175) uten å fylle ut næringsoppgaven. <em type="bold">Deltakeroppgave</em> Deltakere i deltakerliknet selskap (ANS, DA, KS mv.) mottar kopi av av RF-1233 Selskapets oppgave over deltakerens formue og inntekt i deltakerliknet selskap, fra selskapet. Du må selv opprette RF-1221 Deltakerens oppgave over egen formue og inntekt i deltakerliknet selskap, som vedleggsskjema til selvangivelsen din. RF-1221 bygger på opplysninger fra RF-1233, og du må derfor kontrollere at opplysningene i RF-1233 er riktige. Beløpene fra RF-1221 blir overført til riktige poster i selvangivelsen når du leverer elektronisk. </p>
-    <p>ytelser, skal du levere lønns- og trekkoppgaver. Du plikter da å sende inn kontrolloppstilling (RF-1022) sammen med selvangivelsen.</p>
-    <p><em type="bold">RF-1034 Fordeling av inntekt og formue mellom kommuner</em> I dette skjemaet foreslår du fordeling av formue og inntekt mellom kommunene. <em type="bold">RF-1052 Avstemming av egenkapital</em> Leverer du RF-1167, skal du også levere RF-1052. </p>
-    <p><em type="bold">RF-1053 Fradrag i skatt for forskning og utvikling</em> Krever du fradrag i skatt for kostnader til godkjent forsknings- og utviklingsprosjekter, må du levere RF-1053. Dette skjemaet skal underskrives av revisor. Du finner rettledning på skjemaet. </p>
-    <p><em type="bold">RF-1084 Avskrivning</em> Skjemaet spesifiserer nærmere avskrivningene i næringsoppgaven. Gjenstår det positiv eller negativ saldo i saldogruppe a, b, c, d eller j i årene etter at virksomheten har opphørt, overfører du inntekten eller fra draget direkte fra RF-1084 til selvangivelsen. Se tilhørende rettledning RF-1270 og skatteetaten.no/ enkelfradrag. </p>
-    <p><em type="bold">RF-1098 Formue av næringseiendom</em> Se tilhørende rettledning RF-1099. </p>
-    <p><em type="bold">RF-1109 Uttak fra norsk område for skattlegging</em> Se tilhørende rettledning RF-1110. Dette skjemaet finnes bare i papirutgave. Hentes på skatteetaten.no/skjema. Må scannes og leveres som vedlegg sammen med  selvangivelsen. </p>
-    <p><em type="bold">RF-1122 Overnattings- og serveringssted</em> </p>
-    <p><em type="bold">RF-1125 Bruk av bil</em> Du skal levere skjemaet dersom du krever fradrag for kostnader til egne eller leasede biler. Rettledning står på baksiden av skjemaet. Skatteetaten.no/enkelfradrag. </p>
-    <p><em type="bold">RF-1141 <span type="quote">«Gevinst og tap på aksjer og andeler ved utflytting»</span></em> Se rettledningen 1280 som hører til. </p>
-    <p><em type="bold">RF-1147 Fradrag for skatt betalt i utlandet av person – kreditfradrag</em> Se tilhørende rettledning RF-1148. </p>
-    <p><em type="bold">RF-1149 Næringsinntekt skattlagt i utlandet</em> Rettledning finner du på sidE 2 i skjemaet. </p>
-    <p><em type="bold">RF-1150 Nedsetting av inntektsskatt på lønn</em> Skjemaet kan i enkelte tilfeller være aktuelt dersom du har mottatt lønn fra kilder i utlandet. Nærmere forklaring på dette finner du på sidE 2 i skjemaet. </p>
-    <p><em type="bold">RF-1177 Landbruk</em> Se tilhørende rettledning RF-1178. </p>
-    <p><em type="bold">RF-1213 Fiske</em> Se tilhørende rettledning RF-1214. </p>
-    <p><em type="bold">RF-1217 Forskjeller mellom  regnskapsmessige og skattemessige verdier</em> Skjemaet er bare aktuelt for de som leverer RF-1167. Se tilhørende rettledning RF-1218. </p>
-    <p><em type="bold">RF-1219 Gevinst- og tapskonto</em> Se tilhørende rettledning RF-1210. </p>
-    <p><em type="bold">RF-1221 Deltakerens oppgave over egen formue og inntekt i deltakerliknet selskap</em> Se tilhørende rettledning RF-1222. </p>
-    <p><em type="bold">RF-1223 Drosje- og lastebilnæring</em> Har du bevilling for personbefordring utenfor rute, driver med lastebilnæring eller budbiltransport, skal du levere RF-1223. </p>
-    <p><em type="bold">RF-1224 Personinntekt fra  enkeltpersonforetak</em> Dersom du leverer næringsoppgave, skal du også levere RF-1224. Se tilhørende  rettledning RF-1225. </p>
-    <p><em type="bold">RF-1269 Foretak som bruker IFRS eller forenklet IFRS</em> <em type="bold">RF-1294 Realisasjon av/fra  landbrukseiendom</em> Du skal levere RF-1294 dersom du har solgt/ realisert hel eller del av landbrukseiendom i 2013. </p>
-    <p><em type="bold">RF-1298 Oppstart av virksomhet –  bilagsoversikt</em> Du kan levere RF-1298 i tillegg til nærings- oppgave hvis du har startet næring i enkeltpersonforetak, og mener aktiviteten i 2012 og eventuelt tidligere år har vært en del av oppstartsperioden. Hadde du kostnader og/eller inntekter som knytter seg til aktiviteten i 2012 eller tidligere år, fører du disse i RF-1298 dersom du verken leverte næringsoppgave eller brukte selvangivelsens poster for enkeltpersonforetak som ikke leverer næringsoppgave. Levér ett RF-1298 for hvert tidligere år du hadde inntekter og/ eller kostnader i næringen. Dette skjemaet finnes bare i papirutgave. Hentes på  skatteetaten.no/skjema. Må scannes og leveres som vedlegg sammen med selv- angivelsen. Er du usikker på om aktiviteten du driver er skattepliktig næring eller ikke, kan du lese om dette på skatteetaten.no. </p>
-    <p><em type="bold">Trenger du å bytte  næringsoppgave?</em> </p>
-    <p type="listitem">• Klikk på <span type="quote">«Skjema og tjenester»</span></p>
-    <p type="listitem" xml:lang="nno">•  Legg inn RF-1030 i søkefeltet til venstre og klikk <span type="quote">«Søk»</span></p>
-    <p type="listitem">•  Klikk på <span type="quote">«Selvangivelse for nærings- drivende mv.»</span></p>
-    <p type="listitem" xml:lang="nno">•  Klikk på «Selvangivelse for nærings-</p>
-    <p>drivende mv.» under overskriften <span type="quote">«Hvor finner du skjemaet»</span></p>
-    <p type="listitem">•  Klikk på <span type="quote">«Fortsett med nytt eksemplar av skjema/tjeneste»</span></p>
-    <p type="listitem">•  I bildet som vises velger du hvordan du skal innrapportere næringsinntekten</p>
-    <p type="listitem" xml:lang="nno">• Klikk <span type="quote">«Fortsett»</span></p>
-    <p>Det er mulig å sende inn selvangivelsen med Næringsoppgave 1 uten at det er grønn hake foran <span type="quote" xml:lang="dan">«Spesifiser års- resultat og avstem egenkapital»</span>.</p>
-    <p xml:lang="nno">skatteetaten.no/rettledning</p>
-    <p>og selvstendige næringsdrivende -  skatteetaten.no/selvangivelse-utenlandsk</p>
-    <p>som mottar pensjon fra Norge -  skatteetaten.no/selvangivelse <em type="bold">Brosjyrer med informasjon til utenlandske arbeidstakere med opphold i Norge:</em> <em type="bold">skatteetaten.no/selvangivelse-utenlandsk</em> </p>
-    <p type="listitem">•  Informasjon til utenlandske arbeidstakere: Selvangivelsen 2013</p>
-    <p type="listitem">•  Informasjon til utenlandske arbeidstakere: Pendlerfradrag</p>
-    <p type="listitem">•  Informasjon til utenlandske arbeidstakere: Standardfradrag</p>
-    <p><em type="bold">Annet:</em> </p>
-    <p type="listitem" xml:lang="nno">•  Hjelpeprogram Enkel skatteberegning 2013 på skatteetaten.no/skatteberegning</p>
-    <p type="listitem" xml:lang="nno">•  Kodeoversikt for lønns- og trekkoppgaver - skatteetaten.no/lto</p>
-    <p type="listitem" xml:lang="nno">• skatteetaten.no/enkelfradrag</p>
-    <p type="listitem" xml:lang="nno">• skatteetaten.no/enkelutfylling</p>
-    <p>Du finner dette og mer informasjon på skatteetaten.no eller ved å henvende deg  til Skatteetaten.</p>
-    <p>De fl este selvstendig næringsdrivende leverer selvangivelse sammen med Næringsoppgave 1 (RF-1175) Fyller du ut Næringsoppgave 1, må du også levere personinntektsskjema RF-1224. Dine næringsforhold for øvrig avgjør hvorvidt du må levere andre vedleggsskjema i tillegg. Har du for eksempel avskrivninger på driftsmidler må du også fylle ut og levere RF-1084 Avskrivninger. Se også skatteetaten.no/enkelutfylling.</p>
-    <p>Se tilsendt selvangivelse og innbetalt forskuddsskatt. Åpne selvangivelsen for å kontrollere, gjøre endringer og sende inn.</p>
-    <p type="listitem">•  Kari har driftsinntekter fra næringsvirksomheten som i 2013 utgjorde kr 710 000.</p>
-    <p type="listitem">•  Kari har investert i en del foto- og datautstyr da hun startet opp virksomheten for to år siden. Investeringen avskriver hun i regnskapet sitt. Verdien av utstyret ved starten av året var kr 115 000.</p>
-    <p type="listitem">•  Kari leier lokaler til virksomheten sin. Leiekostnad utgjør kr 40 000.</p>
-    <p type="listitem">•  Kari bruker egen privat bil når hun er ute på oppdrag (5 000 km x 4,05 kr/km).</p>
-    <p type="listitem">•  Kari har videre en del utgifter til materiell i sin fotografvirksomhet. Varekostnad utgjør kr 80 000.</p>
-    <p type="listitem">•   Kari har utgifter til mobiltelefon og internett som brukes både privat og i næring. Utgifter til elektronisk kommunikasjon utgjør til sammen kr 32 000. Da Kari her gjør bruk av fl ere typer elektroniske kommunikasjons- tjenester privat, skal fordelsbeskatningen skje etter en sjablongsats på Kr 6 000.</p>
-    <p><em type="bold">Steg 1 Spesifiser resultat</em> I Post 9900 Sum driftsinntekt legger hun inn sin samlede driftsinntekt fra virksomheten. Merk også at fjorårsverdi skal legges inn. Fjorårsverdier finner hun i selvangivelsen som </p>
-    <p>ble sendt året før. Den finner hun i Min meldingsboks &gt; Arkivert.</p>
-    <p>Post 9910 Sum driftskostnad er litt mer omfattende. Når du åpner siden er enkelte poster lagt opp på forhånd. Andre poster må hentes fra nedtrekksmenyen nederst på siden. Skjermbildet under viser siden for innlegging av driftskostnader etter at hun har lagt inn sine kostnader.</p>
-    <p>I Post 4005 legger hun inn sine varekostnader (materiell og lignende).</p>
-    <p>I Post 6300 legger hun inn sine husleiekostnader.</p>
-    <p>I Post 6995 legges inn ulike kontor- kostnader, blant annet utgifter til elektronisk kommunikasjon som mobiltelefon og internett.</p>
-    <p>I Post 7080 legger Kari inn fradrags- berettiget bruk av privatbil i næring (5 000 km a 4,05 kr/km). Posten må legges til fra nedtrekkslisten nederst på siden.</p>
-    <p>Post 7098 er en korreksjonspost for privat bruk av mobiltelefon og internett. Posten må legges til fra nedtrekkslisten nederst på siden.</p>
-    <p>I Post 6000 fremkommer kostnad for avskrivning av foto- og datautstyr. Dette er en kostnad som må beregnes i et vedleggsskjema. For å gjøre dette må Post 6000 legges til fra nedtrekkslisten nederst på siden. Når posten er valgt, åpnes vedleggsskjema RF-1084  Avskrivning. Data fra skjemaet overføres automatisk tilbake til næringsoppgaven. Skjermbildet til høyre viser en informasjons- side etter at skjemaet er fylt ut.</p>
-    <p><em type="bold">Steg 2 Spesifiser balanse</em> Etter utfylling av driftsinntekter og drifts- utgifter skal balansen spesifiseres.  I Post 9950 Sum eiendeler legger Kari inn et bankinnskudd (Post 1920 Bankinnskudd) på  kr 75 000. Sammen med utgående verdi fra avskrivningsskjema utgjør Sum eiendeler kr 155 500. </p>
-    <p>I Post 9960 Skattemessig egenkapital legger  Kari inn sin egenkapital (Post 2050 Annen egenkapital) som er på kr 135 500.</p>
-    <p>I Post 9990 Sum gjeld legger Kari inn en gjeldspost for skyldig merverdiavgift (Post 2740 oppgjørskonto merverdiavgift)  på kr 20 000.</p>
-    <p xml:lang="nno">Skjermbildet over viser næringsoppgaven slik den ser ut etter spesifisering av resultat og balanse.</p>
-    <p><em type="bold">Steg 3 Avsluttende beregning</em> Avsluttende beregninger er det siste steget  i utfylling av næringsoppgave. Kari klikker  på <span type="quote" xml:lang="nno">«Fordel næringsinntekt og beregn person- inntekt»</span>. Kari fordeler sin næringsinntekt  som vist i skjermbildet til venstre. I tillegg  må hun åpne vedleggsskjema RF-1224 for  å få beregnet personinntekten. Det gjør hun fra nedtrekkslisten nederst på siden. </p>
-    <p>Etter at RF-1224 er fylt ut går hun tilbake til oversiktssiden. Nå må hun utføre den siste oppgaven, <span type="quote" xml:lang="dan">«Spesifiser årsresultat og avstem egenkapital»</span>. Etter at avstemming er utført, skal Post 0425 Skattemessig egenkapital være lik Post 9960 i næringsoppgaven. I dette tilfelle justerer Kari poster under Post 0422 Sum privatkonto.</p>
-    <p>Når Kari er ferdig med å fylle ut steg 3 i næringsoppgaven, skal det være en grønn hake foran:</p>
-    <p type="listitem" xml:lang="koi">•  <span type="quote" xml:lang="nno">«Fordel næringsinntekt og beregn person- inntekt»</span>.</p>
-    <p type="listitem" xml:lang="koi">•  <span type="quote" xml:lang="dan">«Spesifiser årsresultat og avstem egenkapital»</span>.</p>
-    <p>Det er mulig å sende inn selvangivelsen med Næringsoppgave 1 uten at det er grønn hake foran <span type="quote" xml:lang="dan">«Spesifiser års- resultat og avstem egenkapital»</span>.</p>
-    <p>Dersom du oppfyller betingelsene som beskrevet i del 2 kan du levere selvangivelse uten næringsoppgave. Når du klikker på selvangivelsen i Min meldingsboks, velger du levering uten næringsoppgave.</p>
-    <p>Når du har åpnet tilsendt selvangivelse, kan du se på sidE 10 om hvordan du kan bytte til et annet alternativ for å rapportere næringsinntekten.</p>
-    <p>Du får da opp selvangivelsen sammen med en veiviser for utfylling av driftsinntekter og driftskostnader. Veiviseren erstatter næringsoppgaven som vist i eksemplet over.</p>
-    <p><em type="bold">Enkle næringsforhold uten nærmere spesifisering i vedlegg</em> Slik ser veiviseren ut for deg som ikke har behov for å spesifisere beløpene i vedleggsskjema. </p>
-    <p><em type="bold">Sum driftsinntekter</em> Her fører du alle driftsinntektene dine. Feltet tilsvarer Post 9900 i næringsoppgaven. </p>
-    <p><em type="bold">Sum driftskostnader</em> Her fører du dine totale fradrags- berettigede driftskostnader. Feltet tilsvarer Post 9910 i næringsoppgaven. </p>
-    <p><em type="bold">Driftsresultatet</em> Driftsresultatet blir overført til riktig post i selvangivelsen. </p>
-    <p><em type="bold">Beregnet personinntekt</em> Dersom du benytter deg av leverings- fritaket for næringsoppgaven, er levering av RF-1224 <span type="quote">«Personinntekt fra enkelt- personforetak 2013»</span> frivillig. </p>
-    <p>Leverer du ikke skjemaet, blir beløpet  i feltet <span type="quote" xml:lang="ron">«Driftsresultat»</span> lagt til grunn som beregnet personinntekt.</p>
-    <p>Ønsker du å beregne personinntekten i RF-1224, kan du levere skjemaet sammen med selvangivelsen. Du må levere RF-1224 hvis du har negativ beregnet personinntekt, enten fra det aktuelle inntektsåret, eller til framføring.</p>
-    <p><em type="italic">Utgitt av: </em>Skattedirektoratet Februar 2014 </p>
-    <p><em type="italic">Design og layout:  </em>TRY Asap <em type="italic">Illustrasjon:  </em>Darling Clementine <em type="italic">Trykk:</em> Wittusen &amp; Jensen <em type="italic">Opplag:</em> 329 000 </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6603</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/PDFer/Rettledninger_2013/StarthjelpNaeringsdrivendeBM.pdf</origFileName><parallel_text xml:lang="sme" location="starthjelpnaeringsdrivendes.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="dan">næringsdrivende</p>
+<p><em type="bold">Selvangivelse for næringsdrivende  må leveres </em></p>
+<p><em type="bold">Enkel elektronisk levering Leveringsfrister: 30. april (papir) og</em> <em type="bold">31. mai (elektronisk)</em> </p>
+<p>I <span type="quote">«Rettledning til postene»</span> finner du hvor  i selvangivelsen inntekt/fradrag og formue/ gjeld skal føres. Denne finner du på  skatteetaten.no/rettledningen. Du kan også få hjelp ved å kontakte Skatteetaten.</p>
+<p>Ved dødsfall: Selvangivelse for personer som er gått bort i 2013 sendes ikke ut. Avdødes forhåndsutfylte selvangivelse kan gjenlevende ektefelle få tilsendt ved å ta kontakt med Skatteetaten. Andre arvinger får utlevert selvangivelsen ved å dokumentere for  Skatteetaten at de er arving. Skifteattest, annen attestasjon fra tingretten eller kopi av testamentet må legges frem. I tillegg må du vise frem legitimasjon.  Se skatteetaten.no/avdode.</p>
+<p xml:lang="dan"><em type="bold">Del 1 </em>Selvangivelsen – levering, frister mv.  </p>
+<p xml:lang="nno"><em type="bold">Del 2 </em>Fritak fra levering av næringsoppgave   </p>
+<p><em type="bold">Del 3</em>Poster som bare gjelder næringsdrivende: </p>
+<p xml:lang="nno">- Enkeltpersonforetak  - Deltaker i deltakerliknet selskap  <em type="bold">Del 4 </em>Viktige skjemaer  </p>
+<p>Trenger du å bytte næringsoppgave?  Mer informasjon  Kontrollere, endre og levere selvangivelsen på nett Levering av selvangivelse uten næringsoppgave</p>
+<p xml:lang="est"><em type="bold">Sjekkliste</em> </p>
+<p><em type="bold">Du kan lese mer om postene nedenfor  i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen.</em> </p>
+<p>Det kan være aktuelt å gjøre endringer eller tilføyelser i selvangivelsen hvis du i 2013 bl.a. har hatt:</p>
+<p><em type="bold">Aksjer </em>Formue, utbytte eller salg av aksjer/ egenkapitalbevis PostENE  3.1.5, 3.1.7, 3.1.8, 3.1.10, 3.1.12, 3.3.8, 3.3.10 og 4.1.8 </p>
+<p><em type="bold">Alderspensjon</em> Se temaet <span type="quote">«Skattefradrag for pensjonsinntekt og skattebegrensning ved lav alminnelig inntekt»</span> – overskriften «Alderspensjonister </p>
+<p type="listitem">– skattefradrag for pensjonsinntekt»</p>
+<p xml:lang="nno">i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen.</p>
+<p xml:lang="nno"><em type="bold">Barnehage/dagmamma/SFO </em>Utgifter til pass og stell av barn (gjelder også kostnader til transport) Post  3.2.10 </p>
+<p><em type="bold">Bil og/eller båt</em> Kjøpt eller solgt båt, bil eller campingvogn PostENE  4.2.4, 4.2.5 og 4.2.6 </p>
+<p><em type="bold">Bolig og/eller fritidsbolig - formue</em> Se temaet <span type="quote">«Bolig og annen fast eiendom»</span> i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen. Post 4.3.2, 4.3.3 og 4.6.1. </p>
+<p><em type="bold">Engangserstatning og forsikringsutbetaling til barn og ungdom ved personskade og tap av forsørger</em> Se temaet <span type="quote" xml:lang="nno">«Foreldre og barn»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen. </p>
+<p><em type="bold">Enslig forsørger</em> Er du enslig forsørger for barn under 18 år får du særfradrag for enslig forsørger hvis du har mottatt utvidet barnetrygd fra NAV i 2013. Se temaet <span type="quote">«Særfradrag for enslig forsørger»</span> i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen.  For 2013 lignes enslig forsørgere i skatteklasse 1. Post 3.5.5 </p>
+<p><em type="bold">Fri bolig utenfor arbeidsforhold (føderåd) </em>PostENE  2.2.2 og 2.6.2 </p>
+<p><em type="bold">Fri bolig utenfor arbeidsforhold </em>Post  3.1.12 </p>
+<p><em type="bold">Kjøp eller salg av bolig </em>PostENE 2.8.4 (skattepliktig gevinst) og 3.3.6 (fradragsberettiget tap) </p>
+<p><em type="bold">Utleie bolig/fritidsbolig</em> PostENE  2.8.2 og 3.3.12 </p>
+<p><em type="bold">Utleie av fritidsbolig du selv bruker </em>PostENE  2.8.3 og 2.8.5 </p>
+<p><em type="bold">Festet (bygslet/leid) tomt </em>Se temaet «Festetomter til bolig og fritidshus» i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen. </p>
+<p><em type="bold">Lån til/fra private</em> Lånt penger til eller fra familie og venner PostENE 3.1.2, 3.3.1, 4.1.6 og 4.8.1 </p>
+<p><em type="bold">Næringsinntekt/-underskudd</em> PostENE  2.1.3, 2.7 og 3.2.19 </p>
+<p><em type="bold">Pendlerkostnader</em> Bodd utenfor hjemmet på grunn av arbeidet PostENE  3.2.7 og 3.2.9 </p>
+<p><em type="bold">Reiseutgifter hjem – arbeid/besøksreiser</em> Reisefradrag på mer enn kr 13 950. PostENE  3.2.8/3.2.9 </p>
+<p><em type="bold">Renteinntekt – ekstrabeskatning</em> Post  3.1.3 </p>
+<p><em type="bold">Sykdomskostnader</em> Regelen om særfradrag for store sykdoms- kostnader er opphevet fra og med inntekts- året 2012. Fikk du særfradrag både for 2010 og 2011, kan du kreve særfradrag også for 2013. Du kan imidlertid ikke kreve særfradrag for utgifter som knytter seg til tannbehandling, transport og bolig. Dette gjelder selv om du fikk særfradrag for slike utgifter ved likningen for 2010 og 2011. For inntektsåret 2013 skal det foretas en nedtrapping av særfradraget. For inntektsåret 2013 gis særfradrag med  </p>
+<p>tidligere ektefelle PostENE  2.6.1 og 3.3.3</p>
+<p><em type="bold">Ektefeller</em> </p>
+<p><em type="bold">Underskudd</em> Påse at riktig underskudd fra tidligere år er ført til fradrag i 2013 Post  3.3.11 </p>
+<p><em type="bold">Utland – inntekt og formue </em>PostENE  1.5.6, 2.2.2, 2.2.3, 2.8.5, 3.1.11, 3.3.2, 4.1.9, 4.6.1, 4.6.2 og 4.8.3 </p>
+<p>Ektefeller som velger å fordele bankinnskudd, renteinntekter, gjeld og gjeldsrenter annerledes enn det som framgår av de forhåndsutfylte selvangivelsene, må sørge for at begge selvangivelser blir korrigert. Se også <span type="quote">«Ektefeller, registrerte partnere og meldepliktige samboere»</span> i <span type="quote">«Rettledning til postene»</span>  på skatteetaten.no/rettledningen.</p>
+<p>Er du gift eller meldepliktig samboer og har du lav alderspensjon fra folketrygden eller AFP, kan en fordeling av kapitalinntekter og kapitalutgifter mellom deg og ektefellen/ meldepliktig samboer få betydning for hvor stort skattefradrag du/dere kan få. Er du gift/ meldepliktig samboer og uførepensjonist med lav inntekt, kan en slik fordeling få betydning for i hvilken utstrekning du/dere kan gis skattebegrensning. Les mer om temaet <span type="quote">«Skattefradrag for pensjonsinntekt og skattebegrensning ved lav alminnelig inntekt»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen, brosjyren <span type="quote">«Skatteregler for pensjonister»</span> og <span type="quote">«Pensjonister som er gift og har lav pensjon kan i visse tilfeller få lavere samlet skatt»</span> på skatteetaten.no.</p>
+<p xml:lang="vep"><em type="bold">!</em> </p>
+<p xml:lang="rmy-rka">Selvangivelsen –</p>
+<p type="listitem">•  RF-1242 Næringsoppgave for billedkunstner</p>
+<p type="listitem">•  Uten næringsoppgave: Jeg er deltaker i KS, ANS mv, eller har inntekt fra felles bedrift fra ektefelle.</p>
+<p type="listitem">•  Uten næringsoppgave: Mine sum drifts- inntekter overstiger ikke kr 50 000 og jeg oppfyller vilkårene. Se vilkår i Del 2 Fritak for levering av næringsoppgave.</p>
+<p>Når du benytter Næringsoppgave 2 (RF-1167) eller Næringsoppgave for billedkunstnere (RF-1242), blir ikke beløpene overført mellom skjemaene og til selvangivelsen. Dette må du gjøre.</p>
+<p>Næringsdrivende skal vanligvis levere næringsoppgave (se omtale av RF-1175 på sidE 9) og personinntektsskjema. Arten av  din næringsvirksomhet avgjør hvilke øvrige skjemaer som er nødvendige for at du skal få levert en komplett selvangivelse, se sidE 9.</p>
+<p xml:lang="nno">Husk å føre opp alle fradrag du har krav på. Da unngår du å betale for mye skatt, se skatteetaten.no/enkelfradrag. Har du krav på fradrag for kostnader til barnepass (foreldrefradrag) bør du sjekke  at beløpet er riktig.</p>
+<p>Har du i løpet av året skiftet arbeidsplass/ forretningssted eller bosted, kan et eventuelt forhåndsutfylt reisefradrag være feil. Det samme gjelder dersom du ikke har vært i arbeid hele året eller har endret stilllingsbrøk.</p>
+<p>Er du enslig forsørger med barn under 18 år, får du særfradrag for enslig forsørger hvis du har mottatt utvidet barnetrygd fra NAV.</p>
+<p xml:lang="rmy-rka"><em type="bold">Selvangivelsestyper</em> </p>
+<p>Personlige skattytere får enten:</p>
+<p type="listitem">•  <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> eller</p>
+<p type="listitem">•  <span type="quote">«Selvangivelse for lønnstakere og pensjonister mv.»</span></p>
+<p>Du kan lese mer om levering av selvangivelsen i <span type="quote">«Rettledning til postene»</span> som du finner på skatteetaten.no/rettledningen.</p>
+<p>Selvangivelsen kan du levere elektronisk eller på papir. Skatteetaten oppfordrer deg  til å levere selvangivelsen elektronisk. Frem- gangsmåten er beskrevet på sidene 11 til 15. Ved å levere <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> elektronisk har du en måned lengre innleveringsfrist enn når du leverer på papir.</p>
+<p>Endringer og tilføyelser kan gjøres raskt og enkelt med noen få tastetrykk. Systemet vil hjelpe deg til å fylle ut selvangivelsen og skjemaer. Se skatteetaten.no/enkelutfylling.</p>
+<p><em type="bold">Skatteplikt til flere  kommuner</em> </p>
+<p>Er du skattepliktig til flere kommuner, skal  du likevel bare levere selvangivelsen til Skatte- etaten en gang. Sammen med selvangivelsen leverer du skjemaet RF-1034 med forslag til fordeling av formue og inntekt mellom kommunene. Dette skjemaet er en del av den elektroniske løsningen og du finner det under arkfanen vedlegg. Se del 4 for hvordan du legger til og fyller ut vedleggsskjema.</p>
+<p><em type="bold">Pliktig dokumentasjon</em> </p>
+<p>Sammen med selvangivelsen skal du alltid sende inn:</p>
+<p type="listitem">•  dokumentasjon for gjeldsrenter i utlandet</p>
+<p type="listitem">•  dokumentasjon for betalt skatt i utlandet hvis du krever kreditfradrag eller inntektsfradrag</p>
+<p>Leverer du selvangivelsen på skatteetaten.no, kan du levere pliktig dokumentasjon enten som elektroniske vedlegg eller på papir innen selvangivelsesfristen. Husk å merke vedleggene på papir med navn og fødselsnummer.</p>
+<p><em type="bold">Annen dokumentasjon skal du kun sende inn hvis Skatteetaten ber om det.</em> Vær likevel oppmerksom på at du kan bli bedt om dokumentasjon også etter at du har mottatt skatteoppgjøret. Ta derfor vare på  dokumentasjonen. Leveringsfristen for <span type="quote">«Selvangivelse for næringsdrivende mv.»</span> er 30. april 2014 hvis du leverer på papir, eller 31. mai 2014 hvis du leverer elektronisk. </p>
+<p>Ordningen med leveringsfritak gjelder ikke for de som mottar selvangivelse for næringsdrivende.</p>
+<p>Har du i 2013 vært deltaker i et deltakerliknet selskap som sender inn selskapsoppgaven elektronisk, har du frist til 31. mai 2014.</p>
+<p>Du kan søke om utsettelse hvis det er svært vanskelig for deg å levere innen fristen, f.eks. på grunn av sykdom. Søker du elektronisk får du straks svar på din søknad om utsettelse.</p>
+<p>Søk etter skjemaet RF-1114 på skatteetaten.no/skjema for mer informasjon om utsettelse.</p>
+<p><em type="bold">For sent levert selvangivelse</em> </p>
+<p>Med mindre du har fått utsettelse, får du forsinkelsesavgift hvis du leverer selvangivelsen etter fristen, men før skatte- oppgjøret er sendt ut.</p>
+<p><em type="bold">Elektronisk  kommunikasjon</em> </p>
+<p>Stat og kommune ønsker et felles kontakt- register for å kommunisere elektronisk med innbyggerne. Registeret inneholder mobilnummeret og e-postadressen du selv har lagt inn dersom du tidligere har logget inn på offentlige tjenester hos MinID. Står du i kontaktregisteret vil du få fremtidige skatteoppgjør mv. elektronisk og du blir varslet på mobil eller e-post når det er klart.</p>
+<p>Har du aldri logget deg inn på offentlige tjenester via MinID, må du melde deg på for å få fremtidige brev, skatteoppgjør og  selvangivelser elektronisk:  skatteetaten.no/ebruker</p>
+<p>Fordelene med elektronisk  kommunikasjon:</p>
+<p type="listitem">•  Du får selvangivelsen tidligere enn de som velger papir.</p>
+<p type="listitem">•  Du får raskere svar på en sak eller en henvendelse, fordi det offentlige unngår postgang.</p>
+<p type="listitem">•  Du blir varslet med SMS eller e-post når du mottar post fra det offentlige.</p>
+<p type="listitem">•  Uvedkommende får ikke tilgang til dine personlige opplysninger.</p>
+<p type="listitem">•  Du er med på å spare miljøet og redusere offentlige utgifter.</p>
+<p>Andre offentlige etater vil også gradvis gå over til elektronisk kommunikasjon.</p>
+<p>Ønsker du å reservere deg mot elektroniske brev, selvangivelser, skatteoppgjør mv,  må du gå inn på skatteetaten.no/ebruker. Følgende innloggingsalternativer gir deg elektronisk tilgang til selvangivelsen din på skatteetaten.no:</p>
+<p>1. ID-porten/MinID Har du registrert deg som bruker i  ID-porten/MinID og oppgitt mobilnummer og e-postadresse, får du engangskoder umiddelbart på SMS. Du må ha følgende for å registrere deg:</p>
+<p type="listitem">• Fødselsnummer/D-nummer</p>
+<p type="listitem" xml:lang="nno">• Mobilnr. og/eller e-postadresse</p>
+<p type="listitem">•  PIN-koder (trenger du PIN-koder til MinID bestiller du på pinbestilling.difi.no)</p>
+<p xml:lang="eng">2. BankID  3. Buypass 4. Commfides</p>
+<p xml:lang="nno"><em type="bold">Slik logger du inn</em> </p>
+<p>Etter å ha valgt innloggingsalternativ følger du veiledningen du får underveis.</p>
+<p xml:lang="nno">Tilleggsforskudd betalt før 1. februar 2014  25 000</p>
+<p xml:lang="nno">er avgiften 1 promille av nettoformuen og 2 promille av nettoinntekten.</p>
+<p xml:lang="nno">fristen, er avgiften 1 promille av netto- formuen og 1 prosent av nettoinntekten.</p>
+<p xml:lang="nno">fristen, men før skatteoppgjøret er sendt ut, er avgiften 1 promille av nettoformuen og 2 prosent av nettoinntekten.</p>
+<p>gjeld som til sammen ikke utgjør mer enn kr 20 000</p>
+<p>som til sammen ikke utgjør mer enn  kr 1 000</p>
+<p>berettiget, når du har fått strøket en tilsvarende post ved en tidligere likning</p>
+<p>eller inntektspost og tilsvarende endring er foretatt ved en tidligere likning</p>
+<p>åpenbart skyldes regne-/skrivefeil eller misforståelse av skattelovgivningen, og en eventuell uttalelse fra deg ikke vil ha betydning for likningen 30 prosent. Den totale tilleggsskatten blir da 45 eller 60 prosent.</p>
+<p xml:lang="dan"><em type="bold">Skatteberegning</em> </p>
+<p>På skatteetaten.no/skatteberegning finner du et enkelt skatteberegningsprogram.</p>
+<p>Det er kun skattytere som mottar selvangivelse for lønnstakere og pensjonister som får foreløpig skatteberegning sammen med selvangivelsen.</p>
+<p>Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU (boligsparing for ungdom), er dette vist øverst på siden <span type="quote">«Foreløpig oversikt over skatter 2013»</span> i selvangivelsen.</p>
+<p><em type="bold">Når kommer skatteoppgjøret?</em> </p>
+<p>Skatteoppgjøret får du så snart selvangivelsen er ferdig behandlet i august, september eller senest oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig.</p>
+<p>Er du e-bruker, vil du bli varslet på SMS og e-post straks skatteoppgjøret ditt er tilgjengelig i altinn.</p>
+<p xml:lang="swe"><em type="bold">Restskatt</em> </p>
+<p>På restskatt blir det beregnet et rentetillegg. Restskatt (med rentetillegg) på kr 99 eller lavere kreves ikke inn. Skatteetaten.no/renter.</p>
+<p>Uførepensjonister, mottakere av overgangsstønad, etterlattepensjon, pensjon til familiepleiere eller supplerende stønad til person med kort tid i Norge som får skattebegrensning pga. lav inntekt, slipper rentetillegg på restskatt. Om skattebegrensning, se <span type="quote">«Skattebegrensning ved lav alminnelig inntekt »</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen.</p>
+<p>Nærmere opplysninger om renteberegningen og rentesatser i skatteoppgjøret kan du få ved å gå inn på skatteetaten.no eller ved å henvende deg til skatteoppkreveren/ kemneren eller telefon 800 80 000.</p>
+<p xml:lang="dan"><em type="bold">Tilleggsforskudd</em> </p>
+<p>Vil du unngå renter på restskatten, kan du betale tilleggsforskudd innen 31. mai 2014. Tilleggsforskudd betalt etter 31. mai vil ikke bli tatt hensyn til ved skatteoppgjøret.</p>
+<p>Du finner informasjon om konto- og KID-nummer for betaling av tilleggsforskudd på selvangivelsen din.</p>
+<p>Hvis du vil kontrollere om tilleggsforskudd er blitt godskrevet deg, kan du kontrollere dette ved å logge på <span type="quote" xml:lang="dan">«Mine krav og betalinger»</span> og velge arkfanen Inn/utbetalinger. Tjenesten finner du på skatteetaten.no/krav-og-betalinger.</p>
+<p xml:lang="dan"><em type="bold">Penger til gode</em> </p>
+<p>Har du penger til gode på skatten kan du få beløpet inn på bankkonto.</p>
+<p xml:lang="nno">Tilgodebeløpet blir overført til den konto som står i selvangivelsen.</p>
+<p>Dersom du ønsker tilgodebeløpet overført til en annen konto, kan du endre dette i skjema RF-1030A. Dette skjema finner du på altinn. no. Du kan bare velge mellom de kontoene som vises i skjemaet.</p>
+<p>På tilgodebeløp er det beregnet rentegodtgjørelse. Tilgodebeløp (med rentegodtgjørelse) på kr 99 eller lavere vil ikke bli tilbakebetalt. Nærmere opplysninger om renteberegningen og rentesatser i skatteoppgjøret kan du få ved</p>
+<p xml:lang="nno">Nordmann Kari 100664 003 60</p>
+<p>        <em type="bold">Foreløpig oversikt over skatter 2013</em> </p>
+<p xml:lang="swe"> <em type="bold">  Skatt </em></p>
+<p xml:lang="dan">Innbetalt forskuddsskatt  79 000</p>
+<p xml:lang="nno">Tilleggsforskudd betalt før 1. februar 2014  25 000</p>
+<p>Når kommer skatteoppgjøret? Din foreløpige skatteberegning er ikke skrevet ut fordi skattekontoret vil trenge ekstra tid til likningsbehandlingen. Skatteoppgjørene blir  ikke sendt ut på spesifikke datoer. Det vil si at du får skatteoppgjøret så snart selvangivelsen er ferdig behandlet i august eller september, senest i oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig. Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU, er dette vist øverst på siden.</p>
+<p>Når kommer skatteoppgjøret? Din foreløpige skatteberegning er ikke skrevet ut fordi skattekontoret vil trenge ekstra tid til likningsbehandlingen. Skatteoppgjørene blir  ikke sendt ut på spesifikke datoer. Det vil si at du får skatteoppgjøret så snart selvangivelsen er ferdig behandlet i august eller september, senest i oktober. Vi har ikke mulighet til å si når ditt oppgjør vil være ferdig. Dersom vi har mottatt opplysninger om betalt/trukket skatt eller BSU, er dette vist øverst på siden.</p>
+<p> <em type="bold">Vil du unngå rentetillegg på eventuell restskatt, må du betale tilleggsforskudd innen 31. mai 2014. Fristen gjelder selv om  du har fått utsettelse med innlevering av selvangivelsen. Eventuell innbetaling er frivillig. Ved betaling må følgende benyttes:</em> </p>
+<p xml:lang="kal"><em type="bold"> Kontnr: xxxx xx xxxxx Navn: NN skatteoppkrever KID - nr: yyyyyyyyyyyyyyyyyyy IBAN : NOzzzzzzzzzzzzz SWIFT/BIC: NDEANOKK</em> </p>
+<p> <em type="bold">Vil du unngå rentetillegg på eventuell restskatt, må du betale tilleggsforskudd innen 31. mai 2014. Fristen gjelder selv om  du har fått utsettelse med innlevering av selvangivelsen. Eventuell innbetaling er frivillig. Ved betaling må følgende benyttes:</em> </p>
+<p xml:lang="nno"><em type="bold"> Kontnr: xxxx xx xxxxx Navn: NN skatteoppkrever KID - nr: yyyyyyyyyyyyyyyyyyy IBAN : NOzzzzzzzzzzzzz SWIFT/BIC: NDEANOKK</em> å gå inn på skatteetaten.no eller ved å henvende deg til skatteoppkreveren/ kemneren eller telefon 800 80 000. </p>
+<p xml:lang="nno"><em type="bold">Klage på skatteoppgjør</em> </p>
+<p>Klage på skatteoppgjør skal sendes til skatteoppkreveren innen tre uker etter at  du har mottatt oppgjøret.</p>
+<p>Skatteoppgjør finner du i <span type="quote" xml:lang="sme">«Min meldingsboks»</span> når du logger den inn i den elektroniske løsningen fra skatteetaten.no. Klagefristen er 6 uker fra skatteoppgjøret  er sendt til deg, likevel tidligst 10. august. Du kan levere klage elektronisk (søk etter skjemaet RF-1117 på skatteetaten.no) eller på papir til Skatteetaten. For mer informasjon, se skatteetaten.no/klage.</p>
+<p xml:lang="fit"><em type="bold">Skatteklasse</em> </p>
+<p>Ektefeller som liknes sammen, blir enten satt  i skatteklasse 2F eller 1E. Skatteklasse 2F viser at inntekt og formue er liknet under ett og skatten fordelt mellom ektefellene i forhold til hver ektefelles netto inntekt og netto formue. Skatteklasse 1E viser at ektefellenes inntekt er liknet særskilt. Selv om inntekten liknes særskilt, blir formuen alltid liknet felles i skatteklasse 2 og skatten fordelt mellom ektefellene i forhold til hver ektefelles netto formue. Opplysninger om hvordan du er foreslått lignet står på linjen under ditt fødselsnummer på mottatt selvangivelse.</p>
+<p>Enslige skattytere settes i skatteklasse 1.  Fra og med 2013 settes også enslige forsørgere  i klasse 1. Enslige forsørgere som mottar utvidet barnetrygd for barn under 18 år gis et særfradrag som erstatter ligning i skatte- klasse 2. Se Post 3.5.5 og temaet <span type="quote">«Særfradrag for enslig forsørger»</span> i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen.</p>
+<p>Noen personlige næringsdrivende er fritatt fra å levere næringsoppgave. Omfattes du av denne ordningen, kan du likevel velge å levere næringsoppgave. Dersom du er fritatt fra  å levere næringsoppgave, er du også fritatt fra å fylle ut vedleggsskjema RF-1224  Personinntekt fra enkeltpersonforetak.</p>
+<p>Ønsker du likevel å gjøre det, for å kunne utnytte et eventuelt skjermingsfradrag, har du anledning til å fylle ut skjemaet. Er du fritatt fra å levere næringsoppgave, har du heller ikke bokføringsplikt. Du må likevel dokumentere alle dine inntekter og kostnader. Denne dokumentasjonen må du oppbevare i 10 år.</p>
+<p xml:lang="nno"><em type="bold">Vilkår for fritak</em> </p>
+<p type="listitem">•  Årets brutto driftsinntekt må ikke overstige kr 50 000</p>
+<p type="listitem">•  Du må være skattemessig bosatt i Norge</p>
+<p type="listitem" xml:lang="nno">•  Foretaket ditt må ikke ha regnskapsplikt, jf. lov 17.07.1998 nr. 56 (regnskapsloven)  § 1-2</p>
+<p type="listitem">•  Foretaket ditt må ikke være registreringspliktig, jf. lov 19.06.2009 nr. 58 (merverdi- avgiftsloven) § 2-1.</p>
+<p xml:lang="nno"><em type="bold">Unntak</em> </p>
+<p>Inngår virksomhetens årsresultat i gjennomsnittslikning for skogbruk (skatteloven § 14-81) eller reindrift (skatteloven § 14-82) kan du ikke benytte deg av ordningen. Driver du slik virksomhet må du levere næringsoppgave og RF-1177. Ordningen kan ikke benyttes dersom du plikter å levere:</p>
+<p type="listitem">•  RF-1223 <span type="quote">«Drosje- og lastebilnæring»</span></p>
+<p type="listitem">•  RF-1189 <span type="quote">«Utleie mv. av fast eiendom»</span> sammen med RF-1084 <span type="quote" xml:lang="dan">«Avskrivning»</span> som både gjelder næringsvirksomhet og den utleide eiendommen</p>
+<p>Du kan heller ikke benytte ordningen hvis du:</p>
+<p type="listitem">•  krever næringsinntekten fordelt med ektefelle mv.</p>
+<p type="listitem">•  har drevet mer enn én virksomhet i året</p>
+<p type="listitem">•  har drevet virksomhet som er skattepliktig til mer enn én kommune.</p>
+<p>Se sidE 14 for hvordan du leverer selvangivelse for næringsdrivende uten næringsoppgave.</p>
+<p>Del 2 Fritak fra levering av  næringsoppgave mv.</p>
+<p>Del 3 Poster som bare gjelder næringsdrivende mv.</p>
+<p xml:lang="nno">Om deltakerliknet selskap (ANS, DA, KS mv.), se side 8 og 9.</p>
+<p>Når det nedenfor er vist til skjemaer med RF-nummer, finner du nærmere informasjon om skjemaene i del 4. Se skatteetaten.no/skjema eller altinn.no</p>
+<p><em type="bold">Enkeltpersonforetak</em> </p>
+<p>Har du inntekt fra enkeltpersonforetak (selvstendig næringsdrivende), inngår denne i alminnelig inntekt. Av alminnelig inntekt betaler du skatt til kommune og fylkes- kommune samt fellesskatt til staten.  Av næringsinntekten beregnes det også personinntekt, som er grunnlaget for beregning av trygdeavgift og toppskatt.  Som næringsdrivende er du pliktig til å levere næringsoppgave og skjema for beregning av personinntekt. Du kan lese mer om skjemaene i del 4 nedenfor. Næringsdrivende med</p>
+<p><em type="bold">1.5.10 Felles bedrift</em> Ektefeller som har fordelt næringsinntekt/ beregnet personinntekt fra felles bedrift, skal krysse av i denne posten. Fordelt næringsinntekt føres i Post 2.1.3/2.7 og fordelt beregnet personinntekt i Post 1.6. Fordelingen skal foretas i næringsoppgaven og i skjemaet for beregning av personinntekt. Den ektefellen som er hovedutøver, sender inn næringsoppgave og skjemaet <span type="quote">«Personinntekt fra enkeltpersonforetak»</span> (RF-1224) som vedlegg til selvangivelsen sin. Om fordeling, se rettledning RF-1176 (omtalen av PostENE 0401-0403), eller rettledning RF-1168 (omtalen av Post 0999). </p>
+<p><em type="bold">1.6.1 eller 1.6.2 Positiv personinntekt fra enkeltpersonforetak og mannskapslott fra fiske og fangst</em> Som næringsdrivende plikter du å levere RF-1224 «Personinntekt fra enkeltpersonforetak». Dette gjelder ikke næringsdrivende som er fritatt for å levere næringsoppgave, se del 2 ovenfor. Om beregning av personinntekt, se rettledningen RF-1225. Negativ beregnet personinntekt skal ikke overføres fra RF-1224 til selvangivelsen, men kan framføres til fradrag i senere års personinntekt. </p>
+<p>Positiv inntekt fra Post 119 i RF-1213 <span type="quote">«Fiske»</span> fører du i Post 1.6.1 i selvangivelsen.</p>
+<p>Har du opphørt å drive enkeltpersonforetak (opphørt selvstendig næringsvirksomhet), men det gjenstår saldo på RF-1219 eller  negativ saldo på RF-1084 etter næringsvirksomheten, skal du føre den skattepliktige delen som personinntekt i Post 1.6.1 eller 1.6.2, selv om det ikke er levert næringsoppgave og personinntektsskjema (RF-1224), se skjemaoversikten sidE 9 og 10. Beløpet fra post 15a i RF-1219 og/eller positiv inntekt fra Post 110 i RF-1084, blir overført til Post 3.1.12 og 1.6.2 i selvangivelsen. Dette gjelder også gevinst fra jordbruk, skogbruk, reindrift og pelsdyrnæring. Stammer derimot gevinsten fra fiske, familiebarnehage eller annet barnepass i eget hjem, blir den overført til Post 3.1.12 og 1.6.1.</p>
+<p>Har du framført negativ personinntekt fra tidligere år for det opphørte enkeltpersonforetaket, skal denne avkorte positiv personinntekt som eventuelt er overført direkte til selvangivelsen fra post 15a i RF-1219 og/eller Post 110 i RF-1084. Gi i så fall tilleggsopplysninger om den framførte negative personinntekten i Post 5.0 (Tilleggsopplysninger) i selvangivelsen. Se også skatteetaten.no/enkelutfylling. <em type="bold">1.6.3 eller 1.6.4 Sykepenger utbetalt til selvstendig næringsdrivende </em>Beløpet føres i disse postene. Det blir også overført til Post 2.7.13/2.1.3. </p>
+<p><em type="bold">2.1.3 Inntekt, dagmamma eller familie- barnehage i eget hjem, herunder sykepenger</em> Se tilsvarende post i <span type="quote">«Rettledning til postene»</span>på skatteetaten.no/rettledningen. </p>
+<p><em type="bold">2.7 Næringsinntekter</em> Når du fyller ut selvangivelsen på internett blir næringsinntektene overført til riktige poster i selvangivelsen når du benytter <span type="quote">«Næringsoppgave 1»</span> eller <span type="quote" xml:lang="deu">«Veiviseren»</span>.  Se sidE 14 og 15. </p>
+<p><em type="bold">2.7.3 Næringsinntekt fra fiske og fangst</em> For fiskere som ikke har bokføringsplikt (lottakere), hentes beløpet fra Post 117 i RF-1213. Har du drevet fiske som enkeltpersonforetak, hentes næringsinntekten fra Post 0402 i næringsoppgaven. </p>
+<p><em type="bold">2.7.13 Sykepenger mv.</em> til selvstendig næringsdrivende Se Post 1.6.3/1.6.4. </p>
+<p><em type="bold">3.2.14 Særskilt fradrag for fiskere og fangstfolk</em> Har du fiske/fangst som hovedyrke i minst 130 dager i året, har du krav på eget fradrag på 30 prosent av inntekten. Fradraget har en øvre grense på kr 150 000. For å få fradraget må du fylle ut RF-1213 <span type="quote">«Fiske»</span> del B <span type="quote">«Oversikt over driftstid i fiske og fangst»</span> og del C <span type="quote">«Utrekning av særskilt fradrag»</span>. Nærmere opplysninger finner du i rettledningen RF-1214. </p>
+<p><em type="bold">3.2.15 Jordbruksfradrag</em> Du kan kreve jordbruksfradrag dersom bestemte vilkår er oppfylt. Du må da levere RF-1177. Er du fritatt for å levere næringsoppgave (driftsinntekter som ikke overstiger kr 50 000 og ikke påbegynt gjennomsnittslikning), se del 2 ovenfor, skal du ikke levere RF-1177. Du fører i stedet fradraget direkte i selvangivelsen Post 3.2.15 jordbruksfradrag. Informasjon om vilkårene og fradragets størrelse finner du i rettledningen RF-1178. Om spesielle vilkår for deltakere i ansvarlig selskap innen jordbruk, se rettledningen RF-1222. Se skatteetaten.no/skjema. </p>
+<p><em type="bold">3.2.16 Særskilt fradrag i reindriftsvirksomhet</em> Er du reineier og har drevet reindrift mer enn halvparten av inntektsåret, kan du kreve reindriftsfradrag. Du må da levere RF-1177. </p>
+<p xml:lang="vep"><em type="bold">EKSEMPEL</em> </p>
+<p xml:lang="vep"><em type="bold">!</em> </p>
+<p>Poster for næringsdrivende med enkeltpersonforetak</p>
+<p>Ifølge lønns- og trekkoppgaven, kode 401/402/404 (utbetaling til nærings- drivende), har du i 2013  mottatt kr 32 714. Alle opptjente næringsinntekter  i 2013 føres i næringsoppgaven (RF-1175) post 3000 – 3900.</p>
+<p>Er du fritatt for å levere næringsoppgave, se del 2 ovenfor, skal du ikke levere RF-1177. Du fører i stedet fradraget direkte i selv- angivelsen Post 3.2.16. Informasjon om reglene og fradragets størrelse finner du i rettledningen RF-1178.</p>
+<p><em type="bold">3.2.17 Særskilt fradrag i skifervirksomhet</em> Driver du skiferproduksjon i Finnmark eller bestemte kommuner i Nord-Troms, kan du kreve et særskilt fradrag. Du må føre fradraget direkte i selvangivelsen Post 3.2.17 <span type="quote" xml:lang="nno">«Særskilt fradrag for skiferproduksjon i Nord-Troms og Finnmark»</span>. Informasjon om reglene og fradragets størrelse finner du i rettledningen RF-1178. Se skatteetaten.no/skjema. </p>
+<p><em type="bold">3.2.18 Premie til egen tilleggstrygd  for næringsdrivende</em> Her fører du frivillig premie til folketrygden for egen tilleggstrygd for sykepenger eller yrkes- skadetrygd. Se skatteetaten.no/enkelfradrag. </p>
+<p><em type="bold">3.2.19 Årets underskudd i næringsvirksomhet</em> Når du leverer selvangivelsen elektronisk, blir underskudd i næringsvirksomheten overført til riktig post når du benytter «Næringsoppgave 1» eller <span type="quote" xml:lang="deu">«Veiviseren»</span>, sidE 14 og 15. Er virksomheten opphørt, og du har et underskudd ved driften som ikke er dekket av annen inntekt, kan du kreve fradrag for dette underskuddet  i inntekten for 2012. Blir ikke underskuddet dekket av inntekt i 2012, kan det føres til fradrag i inntekten i 2011, men ikke lenger tilbake. Tilbakeføringen av underskudd gjennomføres ved endring av likningen for de aktuelle årene. Hvis udekket underskudd ikke kan utnyttes ved tilbakeføring, eller du ikke ønsker det, kan underskuddet i stedet trekkes fra i framtidig inntekt, se Post 3.3.11 i <span type="quote">«Rettledning til postene»</span> på  skatteetaten.no/rettledningen. I Post 5.0 (Tilleggsopplysninger) i selvangivelsen kan du kreve å få endret likningen for 2012 og/ eller 2011 dersom vilkårene er oppfylt. </p>
+<p><em type="bold">Framførbart underskudd fra tidligere år</em> Om framførbart underskudd generelt, se tilsvarende Post 3.3.11 i <span type="quote">«Rettledning til postene»</span> på skatteetaten.no/rettledningen. Særregel for tidligere underskudd knyttet til våningshus på gårdsbruk går fram av avsnitt VI i RF-1178. </p>
+<p><em type="bold">4.3.4 Skogverdi</em> Skogverdien for 2013 er forhåndsutfylt med det beløp som er lagt til grunn i selvangivelsen for 2012. Har skogverdien endret seg vesentlig i året (f.eks. pga. tilkjøp, frasalg, naturskade eller lignende), må du levere skjemaet RF-1016 med beregnet ny verdi og fylle inn den nye i Post 4.3.4 i selvangivelsen. Nye skogeiere må alltid levere skjemaet RF-1016. Skogeiere som slutter markerer øverst i skjemaet at de ikke lenger eier skog ved utgangen av året. Nærmere opplysninger framgår av rettledningen RF-1017. </p>
+<p><em type="bold">4.4.1 Biler, maskiner, inventar mv.</em> Når du registrerer driftsmidler i næringsoppgaven blir skattemessige verdier overført til riktige poster i selvangivelsen når du benytter <span type="quote">«Næringsoppgave 1»</span>. Den skattemessige nedskrevne verdien legges til grunn dersom det ikke kan påvises at den faktiske verdien er lavere. Biler, innbo og annet løsøre som ikke er driftsmidler, føres i Post 4.2.3–4.2.6. </p>
+<p><em type="bold">4.4.2 Buskap</em> Her føres beløpet fra venstre kolonne av Post 0150 i RF-1175 eller RF-1167. Skatteetaten har fastsatt normalverdier for de fleste husdyr. Se Skatteetatens takseringsregler § 3-1-4 på skatteetaten.no. </p>
+<p><em type="bold">4.4.3 Varelager</em> Her føres summen av venstre kolonne i Post 0110, 0120, 0130 og 0140 i RF-1175 eller RF-1167 og Post 0165 i RF-1175. Egenproduserte varer verdsettes til tilvirkningsverdien, og innkjøpte varer verdsettes til anskaffelsesverdien. </p>
+<p><em type="bold">4.4.4 Skip, fiske- og fangstfartøy mv.</em> Se Skatteetatens takseringsregler § 2-1-5 på skatteetaten.no. </p>
+<p><em type="bold">4.8.1 Gjeld fra næringsoppgave som ikke er forhåndsutfylt i selvangivelsen</em> Eksempler på dette vil være leverandørgjeld, forskudd fra kunder, skyldig arbeidsgiver- og merverdiavgift, pantegjeld til tidligere eier ved overdragelse av næring, gjeld til ansatte mv. </p>
+<p xml:lang="nno"><em type="bold">Deltaker i deltakerliknet selskap (ANS, DA, KS mv.)</em> </p>
+<p>Som deltaker i deltakerliknet selskap mv. (DLS) trenger du ikke å sende næringsoppgave og/eller personinntektskjema, dersom dette er din eneste næringsvirksomhet. Når du leverer selvangivelsen elektronisk så velger du <span type="quote">«uten næringsoppgave: Jeg er deltaker i KS,ANS mv eller har inntekt felles bedrift fra ektefelle»</span>. Deltakeren skal motta kopi av <span type="quote">«Selskapets oppgave over deltakerens formue og inntekt i deltakerlignet selskap»</span> (RF-1233). Ut fra opplysningene i RF-1233 fyller du ut <span type="quote">«Deltakerens oppgave over egen formue og inntekt i deltakerlignet selskap»</span> (RF-1221). Se også rettledningen RF-1222 og  <span type="quote">«Deltakermodellen»</span> på skatteetaten.no.</p>
+<p>Når du leverer selvangivelsen elektronisk og fyller ut RF-1221 blir alle beløp overført til riktige poster i selvangivelsen.</p>
+<p>Arbeidsgodtgjørelse til personlig deltaker regnes både som alminnelig inntekt og personinntekt, se omtalen av PostENE 1.7.1 og 1.7.4 nedenfor. Arbeidsgodtgjørelse inngår ikke i selskapets virksomhetsinntekt. Deltakerens andel av overskudd fra DLS beskattes som alminnelig inntekt på deltakerens hånd. Tilsvarende gis det fradrag i deltakers alminnelige inntekt for deltakerens andel av selskapets underskudd. Dersom deltakeren mottar en utdeling fra selskapet, skal det beregnes et tillegg i alminnelig inntekt for deltakeren. Tilbakebetaling av innbetalt egenkapital regnes ikke som utdeling fra selskapet.</p>
+<p><em type="bold">1.7.1 eller 1.7.4 Arbeidsgodtgjørelse fra deltakerliknet selskap</em> Arbeidsgodtgjørelse fra selskap som driver fiske eller familiebarnehage i eget hjem, føres  i Post 1.7.1. Beløpet hentes fra Post 1160 i deltakeroppgaven (RF-1221). Arbeidsgodtgjørelse fra annet selskap føres i Post 1.7.4. Beløpet hentes fra Post 1162 i deltakeroppgaven (RF-1221). Har du mottatt lønn som kommandittist, må du påse at beløpet er ført  i Post 2.1 og ikke i Post 1.7.1 eller 1.7.4. </p>
+<p><em type="bold">1.7.2 eller 1.7.5 Samordning av negativ beregnet personinntekt fra enkeltpersonforetak med arbeidsgodtgjørelse fra deltakerliknet selskap</em> Her føres negativ personinntekt som du kan samordne (se nedenfor) med arbeidsgodtgjørelse i Post 1.7.1 eller 1.7.4. Om vilkårene for slik samordning, se rettledningen RF-1225 Post 1.21. </p>
+<p>Beløpet i Post 1.7.2 eller 1.7.5 henter du fra Post 1.21 i RF-1224. Både årets negative beregnede personinntekt og tidligere års framførbare negative beregnede personinntekt fra enkeltpersonforetaket, kan inngå i dette beløpet. Du kan ikke kreve fradrag for tidligere negativ personinntekt fra aksjeselskaper eller deltakerliknede selskaper.</p>
+<p><em type="bold">1.7.7 eller 1.7.8 Andel av ektefellens arbeidsgodtgjørelse fra deltakerliknet selskap</em> Godtgjørelse du har fått for arbeid utført i DLS hvor din ektefelle er ansvarlig deltaker, skattlegges ikke som lønn, men som barnehage i eget hjem, blir deltakerens del av overskuddet overført til Post 2.1.3. Har selskapet drevet fiske, blir deltakerens andel av overskuddet i selskapet overført til Post 2.7.7 i selvangivelsen. I andre tilfeller overføres overskuddet til Post 2.7.8. Står det minustegn foran beløpet på deltakeroppgaven, overføres beløpet til Post 3.2.19 i selvangivelsen. Er oversikten over fordeling av formue og inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes totalbeløpene for deltaker og ektefelle fra oversikten, og føres i Post 2.1.3, 2.7.7. eller 2.7.8. Ektefellen må selv føre beløpene i sin selvangivelse. </p>
+<p><em type="bold">2.7.10 eller 2.7.11 Tillegg i alminnelig inntekt</em> Om beregning av tillegg i alminnelig inntekt av utdeling fra deltakerliknet selskap til deltaker, se rettledningen til deltakeroppgavene for deltakerliknede selskaper, RF-1222 Post 1143 og RF-1288 Post 201-216. Er oversikten over fordeling av formue og  inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes beløpet for deltaker og ektefelle fra hhv. Post 1243 og Post 1244 og føres i selvangivelsen. </p>
+<p><em type="bold">3.1.12 eller 3.3.7 Gevinst/tap ved salg mv. av andel i deltakerliknet selskap</em> Beløpet står i Post 1145 i RF-1221. Dersom inntekt og formue er fordelt mellom ektefeller er beløpene for deltaker og ektefelle også ført i hhv. Post 1245 og 1246.  Gevinst føres i Post 3.1.12 i selvangivelsen, mens tap føres i Post 3.3.7. </p>
+<p><em type="bold">4.5.4 eller 4.8.1 Andel formue/gjeld i deltakerliknet selskap</em> Du finner beløpet i Post 1101 i RF-1221. Andel av positiv nettoformue føres i Post 4.5.4  i selvangivelsen, mens andel av negativ nettoformue føres i Post 4.8.1. Er oversikten over fordeling av formue og inntekt mellom ektefeller fylt ut i deltakeroppgaven, hentes beløpet for deltaker og ektefelle fra RF-1221 i hhv. Post 1201 og 1202 og føres i selvangivelsen. </p>
+<p xml:lang="nno">Viktige skjemaer</p>
+<p>skjemaene og til selvangivelsen. Dette må du gjøre. Se også skatteetaten.no/enkelutfylling.</p>
+<p>Har du driftsinntekter på kr 50 000 eller lavere, kan du på visse vilkår fritas fra å levere næringsoppgave, se del 2 foran. Du trenger heller ikke å levere næringsoppgave dersom du bare mottar næringsinntekt fra:</p>
+<p type="listitem" xml:lang="nno">•  deltakerliknet selskap (ANS, DA, KS mv.)</p>
+<p type="listitem">•  felles bedrift fordelt fra ektefelle</p>
+<p type="listitem">•  lott fra fiske og fangst</p>
+<p type="listitem">•  barnepass i eget hjem</p>
+<p>Har du fått tilsendt selvangivelse for næringsdrivende uten å ha drevet næringsvirksomhet i 2013, skal du levere selvangivelse for næringsdrivende med næringsoppgave 1 (RF-1175) uten å fylle ut næringsoppgaven. <em type="bold">Deltakeroppgave</em> Deltakere i deltakerliknet selskap (ANS, DA, KS mv.) mottar kopi av av RF-1233 Selskapets oppgave over deltakerens formue og inntekt i deltakerliknet selskap, fra selskapet. Du må selv opprette RF-1221 Deltakerens oppgave over egen formue og inntekt i deltakerliknet selskap, som vedleggsskjema til selvangivelsen din. RF-1221 bygger på opplysninger fra RF-1233, og du må derfor kontrollere at opplysningene i RF-1233 er riktige. Beløpene fra RF-1221 blir overført til riktige poster i selvangivelsen når du leverer elektronisk. </p>
+<p>ytelser, skal du levere lønns- og trekkoppgaver. Du plikter da å sende inn kontrolloppstilling (RF-1022) sammen med selvangivelsen.</p>
+<p><em type="bold">RF-1034 Fordeling av inntekt og formue mellom kommuner</em> I dette skjemaet foreslår du fordeling av formue og inntekt mellom kommunene. <em type="bold">RF-1052 Avstemming av egenkapital</em> Leverer du RF-1167, skal du også levere RF-1052. </p>
+<p><em type="bold">RF-1053 Fradrag i skatt for forskning og utvikling</em> Krever du fradrag i skatt for kostnader til godkjent forsknings- og utviklingsprosjekter, må du levere RF-1053. Dette skjemaet skal underskrives av revisor. Du finner rettledning på skjemaet. </p>
+<p><em type="bold">RF-1084 Avskrivning</em> Skjemaet spesifiserer nærmere avskrivningene i næringsoppgaven. Gjenstår det positiv eller negativ saldo i saldogruppe a, b, c, d eller j i årene etter at virksomheten har opphørt, overfører du inntekten eller fra draget direkte fra RF-1084 til selvangivelsen. Se tilhørende rettledning RF-1270 og skatteetaten.no/ enkelfradrag. </p>
+<p><em type="bold">RF-1098 Formue av næringseiendom</em> Se tilhørende rettledning RF-1099. </p>
+<p><em type="bold">RF-1109 Uttak fra norsk område for skattlegging</em> Se tilhørende rettledning RF-1110. Dette skjemaet finnes bare i papirutgave. Hentes på skatteetaten.no/skjema. Må scannes og leveres som vedlegg sammen med  selvangivelsen. </p>
+<p><em type="bold">RF-1122 Overnattings- og serveringssted</em> </p>
+<p><em type="bold">RF-1125 Bruk av bil</em> Du skal levere skjemaet dersom du krever fradrag for kostnader til egne eller leasede biler. Rettledning står på baksiden av skjemaet. Skatteetaten.no/enkelfradrag. </p>
+<p><em type="bold">RF-1141 <span type="quote">«Gevinst og tap på aksjer og andeler ved utflytting»</span></em> Se rettledningen 1280 som hører til. </p>
+<p><em type="bold">RF-1147 Fradrag for skatt betalt i utlandet av person – kreditfradrag</em> Se tilhørende rettledning RF-1148. </p>
+<p><em type="bold">RF-1149 Næringsinntekt skattlagt i utlandet</em> Rettledning finner du på sidE 2 i skjemaet. </p>
+<p><em type="bold">RF-1150 Nedsetting av inntektsskatt på lønn</em> Skjemaet kan i enkelte tilfeller være aktuelt dersom du har mottatt lønn fra kilder i utlandet. Nærmere forklaring på dette finner du på sidE 2 i skjemaet. </p>
+<p><em type="bold">RF-1177 Landbruk</em> Se tilhørende rettledning RF-1178. </p>
+<p><em type="bold">RF-1213 Fiske</em> Se tilhørende rettledning RF-1214. </p>
+<p><em type="bold">RF-1217 Forskjeller mellom  regnskapsmessige og skattemessige verdier</em> Skjemaet er bare aktuelt for de som leverer RF-1167. Se tilhørende rettledning RF-1218. </p>
+<p><em type="bold">RF-1219 Gevinst- og tapskonto</em> Se tilhørende rettledning RF-1210. </p>
+<p><em type="bold">RF-1221 Deltakerens oppgave over egen formue og inntekt i deltakerliknet selskap</em> Se tilhørende rettledning RF-1222. </p>
+<p><em type="bold">RF-1223 Drosje- og lastebilnæring</em> Har du bevilling for personbefordring utenfor rute, driver med lastebilnæring eller budbiltransport, skal du levere RF-1223. </p>
+<p><em type="bold">RF-1224 Personinntekt fra  enkeltpersonforetak</em> Dersom du leverer næringsoppgave, skal du også levere RF-1224. Se tilhørende  rettledning RF-1225. </p>
+<p><em type="bold">RF-1269 Foretak som bruker IFRS eller forenklet IFRS</em> <em type="bold">RF-1294 Realisasjon av/fra  landbrukseiendom</em> Du skal levere RF-1294 dersom du har solgt/ realisert hel eller del av landbrukseiendom i 2013. </p>
+<p><em type="bold">RF-1298 Oppstart av virksomhet –  bilagsoversikt</em> Du kan levere RF-1298 i tillegg til nærings- oppgave hvis du har startet næring i enkeltpersonforetak, og mener aktiviteten i 2012 og eventuelt tidligere år har vært en del av oppstartsperioden. Hadde du kostnader og/eller inntekter som knytter seg til aktiviteten i 2012 eller tidligere år, fører du disse i RF-1298 dersom du verken leverte næringsoppgave eller brukte selvangivelsens poster for enkeltpersonforetak som ikke leverer næringsoppgave. Levér ett RF-1298 for hvert tidligere år du hadde inntekter og/ eller kostnader i næringen. Dette skjemaet finnes bare i papirutgave. Hentes på  skatteetaten.no/skjema. Må scannes og leveres som vedlegg sammen med selv- angivelsen. Er du usikker på om aktiviteten du driver er skattepliktig næring eller ikke, kan du lese om dette på skatteetaten.no. </p>
+<p><em type="bold">Trenger du å bytte  næringsoppgave?</em> </p>
+<p type="listitem">• Klikk på <span type="quote">«Skjema og tjenester»</span></p>
+<p type="listitem" xml:lang="nno">•  Legg inn RF-1030 i søkefeltet til venstre og klikk <span type="quote">«Søk»</span></p>
+<p type="listitem">•  Klikk på <span type="quote">«Selvangivelse for nærings- drivende mv.»</span></p>
+<p type="listitem" xml:lang="nno">•  Klikk på «Selvangivelse for nærings-</p>
+<p>drivende mv.» under overskriften <span type="quote">«Hvor finner du skjemaet»</span></p>
+<p type="listitem">•  Klikk på <span type="quote">«Fortsett med nytt eksemplar av skjema/tjeneste»</span></p>
+<p type="listitem">•  I bildet som vises velger du hvordan du skal innrapportere næringsinntekten</p>
+<p type="listitem" xml:lang="nno">• Klikk <span type="quote">«Fortsett»</span></p>
+<p>Det er mulig å sende inn selvangivelsen med Næringsoppgave 1 uten at det er grønn hake foran <span type="quote" xml:lang="dan">«Spesifiser års- resultat og avstem egenkapital»</span>.</p>
+<p xml:lang="nno">skatteetaten.no/rettledning</p>
+<p>og selvstendige næringsdrivende -  skatteetaten.no/selvangivelse-utenlandsk</p>
+<p>som mottar pensjon fra Norge -  skatteetaten.no/selvangivelse <em type="bold">Brosjyrer med informasjon til utenlandske arbeidstakere med opphold i Norge:</em> <em type="bold">skatteetaten.no/selvangivelse-utenlandsk</em> </p>
+<p type="listitem">•  Informasjon til utenlandske arbeidstakere: Selvangivelsen 2013</p>
+<p type="listitem">•  Informasjon til utenlandske arbeidstakere: Pendlerfradrag</p>
+<p type="listitem">•  Informasjon til utenlandske arbeidstakere: Standardfradrag</p>
+<p><em type="bold">Annet:</em> </p>
+<p type="listitem" xml:lang="nno">•  Hjelpeprogram Enkel skatteberegning 2013 på skatteetaten.no/skatteberegning</p>
+<p type="listitem" xml:lang="nno">•  Kodeoversikt for lønns- og trekkoppgaver - skatteetaten.no/lto</p>
+<p type="listitem" xml:lang="nno">• skatteetaten.no/enkelfradrag</p>
+<p type="listitem" xml:lang="nno">• skatteetaten.no/enkelutfylling</p>
+<p>Du finner dette og mer informasjon på skatteetaten.no eller ved å henvende deg  til Skatteetaten.</p>
+<p>De fl este selvstendig næringsdrivende leverer selvangivelse sammen med Næringsoppgave 1 (RF-1175) Fyller du ut Næringsoppgave 1, må du også levere personinntektsskjema RF-1224. Dine næringsforhold for øvrig avgjør hvorvidt du må levere andre vedleggsskjema i tillegg. Har du for eksempel avskrivninger på driftsmidler må du også fylle ut og levere RF-1084 Avskrivninger. Se også skatteetaten.no/enkelutfylling.</p>
+<p>Se tilsendt selvangivelse og innbetalt forskuddsskatt. Åpne selvangivelsen for å kontrollere, gjøre endringer og sende inn.</p>
+<p type="listitem">•  Kari har driftsinntekter fra næringsvirksomheten som i 2013 utgjorde kr 710 000.</p>
+<p type="listitem">•  Kari har investert i en del foto- og datautstyr da hun startet opp virksomheten for to år siden. Investeringen avskriver hun i regnskapet sitt. Verdien av utstyret ved starten av året var kr 115 000.</p>
+<p type="listitem">•  Kari leier lokaler til virksomheten sin. Leiekostnad utgjør kr 40 000.</p>
+<p type="listitem">•  Kari bruker egen privat bil når hun er ute på oppdrag (5 000 km x 4,05 kr/km).</p>
+<p type="listitem">•  Kari har videre en del utgifter til materiell i sin fotografvirksomhet. Varekostnad utgjør kr 80 000.</p>
+<p type="listitem">•   Kari har utgifter til mobiltelefon og internett som brukes både privat og i næring. Utgifter til elektronisk kommunikasjon utgjør til sammen kr 32 000. Da Kari her gjør bruk av fl ere typer elektroniske kommunikasjons- tjenester privat, skal fordelsbeskatningen skje etter en sjablongsats på Kr 6 000.</p>
+<p><em type="bold">Steg 1 Spesifiser resultat</em> I Post 9900 Sum driftsinntekt legger hun inn sin samlede driftsinntekt fra virksomheten. Merk også at fjorårsverdi skal legges inn. Fjorårsverdier finner hun i selvangivelsen som </p>
+<p>ble sendt året før. Den finner hun i Min meldingsboks &gt; Arkivert.</p>
+<p>Post 9910 Sum driftskostnad er litt mer omfattende. Når du åpner siden er enkelte poster lagt opp på forhånd. Andre poster må hentes fra nedtrekksmenyen nederst på siden. Skjermbildet under viser siden for innlegging av driftskostnader etter at hun har lagt inn sine kostnader.</p>
+<p>I Post 4005 legger hun inn sine varekostnader (materiell og lignende).</p>
+<p>I Post 6300 legger hun inn sine husleiekostnader.</p>
+<p>I Post 6995 legges inn ulike kontor- kostnader, blant annet utgifter til elektronisk kommunikasjon som mobiltelefon og internett.</p>
+<p>I Post 7080 legger Kari inn fradrags- berettiget bruk av privatbil i næring (5 000 km a 4,05 kr/km). Posten må legges til fra nedtrekkslisten nederst på siden.</p>
+<p>Post 7098 er en korreksjonspost for privat bruk av mobiltelefon og internett. Posten må legges til fra nedtrekkslisten nederst på siden.</p>
+<p>I Post 6000 fremkommer kostnad for avskrivning av foto- og datautstyr. Dette er en kostnad som må beregnes i et vedleggsskjema. For å gjøre dette må Post 6000 legges til fra nedtrekkslisten nederst på siden. Når posten er valgt, åpnes vedleggsskjema RF-1084  Avskrivning. Data fra skjemaet overføres automatisk tilbake til næringsoppgaven. Skjermbildet til høyre viser en informasjons- side etter at skjemaet er fylt ut.</p>
+<p><em type="bold">Steg 2 Spesifiser balanse</em> Etter utfylling av driftsinntekter og drifts- utgifter skal balansen spesifiseres.  I Post 9950 Sum eiendeler legger Kari inn et bankinnskudd (Post 1920 Bankinnskudd) på  kr 75 000. Sammen med utgående verdi fra avskrivningsskjema utgjør Sum eiendeler kr 155 500. </p>
+<p>I Post 9960 Skattemessig egenkapital legger  Kari inn sin egenkapital (Post 2050 Annen egenkapital) som er på kr 135 500.</p>
+<p>I Post 9990 Sum gjeld legger Kari inn en gjeldspost for skyldig merverdiavgift (Post 2740 oppgjørskonto merverdiavgift)  på kr 20 000.</p>
+<p xml:lang="nno">Skjermbildet over viser næringsoppgaven slik den ser ut etter spesifisering av resultat og balanse.</p>
+<p><em type="bold">Steg 3 Avsluttende beregning</em> Avsluttende beregninger er det siste steget  i utfylling av næringsoppgave. Kari klikker  på <span type="quote" xml:lang="nno">«Fordel næringsinntekt og beregn person- inntekt»</span>. Kari fordeler sin næringsinntekt  som vist i skjermbildet til venstre. I tillegg  må hun åpne vedleggsskjema RF-1224 for  å få beregnet personinntekten. Det gjør hun fra nedtrekkslisten nederst på siden. </p>
+<p>Etter at RF-1224 er fylt ut går hun tilbake til oversiktssiden. Nå må hun utføre den siste oppgaven, <span type="quote" xml:lang="dan">«Spesifiser årsresultat og avstem egenkapital»</span>. Etter at avstemming er utført, skal Post 0425 Skattemessig egenkapital være lik Post 9960 i næringsoppgaven. I dette tilfelle justerer Kari poster under Post 0422 Sum privatkonto.</p>
+<p>Når Kari er ferdig med å fylle ut steg 3 i næringsoppgaven, skal det være en grønn hake foran:</p>
+<p type="listitem" xml:lang="vep">•  <span type="quote" xml:lang="nno">«Fordel næringsinntekt og beregn person- inntekt»</span>.</p>
+<p type="listitem" xml:lang="vep">•  <span type="quote" xml:lang="dan">«Spesifiser årsresultat og avstem egenkapital»</span>.</p>
+<p>Det er mulig å sende inn selvangivelsen med Næringsoppgave 1 uten at det er grønn hake foran <span type="quote" xml:lang="dan">«Spesifiser års- resultat og avstem egenkapital»</span>.</p>
+<p>Dersom du oppfyller betingelsene som beskrevet i del 2 kan du levere selvangivelse uten næringsoppgave. Når du klikker på selvangivelsen i Min meldingsboks, velger du levering uten næringsoppgave.</p>
+<p>Når du har åpnet tilsendt selvangivelse, kan du se på sidE 10 om hvordan du kan bytte til et annet alternativ for å rapportere næringsinntekten.</p>
+<p>Du får da opp selvangivelsen sammen med en veiviser for utfylling av driftsinntekter og driftskostnader. Veiviseren erstatter næringsoppgaven som vist i eksemplet over.</p>
+<p><em type="bold">Enkle næringsforhold uten nærmere spesifisering i vedlegg</em> Slik ser veiviseren ut for deg som ikke har behov for å spesifisere beløpene i vedleggsskjema. </p>
+<p><em type="bold">Sum driftsinntekter</em> Her fører du alle driftsinntektene dine. Feltet tilsvarer Post 9900 i næringsoppgaven. </p>
+<p><em type="bold">Sum driftskostnader</em> Her fører du dine totale fradrags- berettigede driftskostnader. Feltet tilsvarer Post 9910 i næringsoppgaven. </p>
+<p><em type="bold">Driftsresultatet</em> Driftsresultatet blir overført til riktig post i selvangivelsen. </p>
+<p><em type="bold">Beregnet personinntekt</em> Dersom du benytter deg av leverings- fritaket for næringsoppgaven, er levering av RF-1224 <span type="quote">«Personinntekt fra enkelt- personforetak 2013»</span> frivillig. </p>
+<p>Leverer du ikke skjemaet, blir beløpet  i feltet <span type="quote" xml:lang="ron">«Driftsresultat»</span> lagt til grunn som beregnet personinntekt.</p>
+<p>Ønsker du å beregne personinntekten i RF-1224, kan du levere skjemaet sammen med selvangivelsen. Du må levere RF-1224 hvis du har negativ beregnet personinntekt, enten fra det aktuelle inntektsåret, eller til framføring.</p>
+<p><em type="italic">Utgitt av: </em>Skattedirektoratet Februar 2014 </p>
+<p><em type="italic">Design og layout:  </em>TRY Asap <em type="italic">Illustrasjon:  </em>Darling Clementine <em type="italic">Trykk:</em> Wittusen &amp; Jensen <em type="italic">Opplag:</em> 329 000 </p>
+</body></document>

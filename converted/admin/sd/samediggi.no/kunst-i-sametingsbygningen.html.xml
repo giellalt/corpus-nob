@@ -1,60 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>388</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Sametingsbygningen/Kunst-i-Sametingsbygningen</origFileName>
-    <parallel_text xml:lang="sma" location="tjeahpoeh-saemiedigkiegaaetesne.html"/>
-    <parallel_text xml:lang="sme" location="daidda-samediggeviesus.html"/>
-    <parallel_text xml:lang="smj" location="dajdda-samedikketsiekkadusan.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kunst i Sametingsbygningen / Sametingsbygningen / Om Sametinget / Forsiden - Sametinget</p>
-    <p type="title">Kunst i Sametingsbygningen</p>
-    <p>Sametinget har i sitt eie en rekke ulike kunstverk, av både samiske og norske kunstnere. Kunstverkene spenner over alle typer teknikker, herunder tradisjonell samisk duodji, skulpturer og moderne fotokunst.</p>
-    <p>Noen av de kunstnere og kunstverk som er representert i Sametingsbygningen er:</p>
-    <p>
-      <em type="bold">Hilde Skancke Pedersen </em>
-    </p>
-    <p>Det storslåtte og magiske veggmaleriet Luottat – Spor av kunstneren Hilde Skancke Pedersen finnes i og utenfor Sametingets plenumssal. Det er zinkplater på betong bak talerstole/podium i plenumsalen (utført i emalje og bladgull på sink) og langs veggene i utenfor plenumsalen (foajéen) og i underetasjen utenfor auditoriet, etset på metallplater arkeologiske spor (fra samiske bo- og gravplasser) som samekulturen har etterlatt seg i form av hustufter/sirkler og labyrinter.</p>
-    <p>Hilde Skancke Pedersen var en av to som vant lukket konkurranse med 12 inviterte kunstnere i forbindelse med utsmykkingen av Sametingsbygget.</p>
-    <p>
-      <em type="bold">Kristin Ytreberg </em>
-    </p>
-    <p>Utsmykningen Den som... av kunstneren Kristin Ytreberg finnes i alle vegger i vandrehall. To elementer er tatt i bruk: tinnbroderi inspirert av samisk ornamentikk og ordspråk og visdomsord fra J. Quigstads samlinger. Ytreberg var en av to kunstnere som vant lukket konkurranse med 12 inviterte kunstnere i forbindelse med utsmykkingen av Sametingsbygget.</p>
-    <p>
-      <em type="bold">Kåre Kivijärvi </em>
-    </p>
-    <p>I Sametingets bibliotek finnes Kåre Kivijärvis Fra de store banker (1959/1961), samt Kvinne (portrett) i Nesseby (1972). Fotografiene er kopier (2004) av original foto 1/9 (d.v.s. den første av ni fotografier av samme motiv).</p>
-    <p>Fotografiene ble innkjøpt av Utsmykkingsfondet for offentlige bygg i forbindelse med utsmykkingen av Sametingsbygget i 2000. De opprinnelige bildene ble skadet av sollys, og kopiene av fotografiene ble hengt opp våren 2004 i biblioteket.</p>
-    <p>
-      <em type="bold">Harald Bodøgaard </em>
-    </p>
-    <p>Skulpturen Rød, utført i granitt (1999), er laget av kunstneren Harald Bodøgaard og var en gave fra Bjørn Bygg AS, Tromsø i forbindelse med den offisielle åpningen Sametingsbygget. november 2001.</p>
-    <p>
-      <em type="bold">Eva Bergmann </em>
-    </p>
-    <p>Maleriet Finnmark i gull utført i metallfarger (1965) er laget av kunstneren Anna Eeva Bergman. Maleriet er en gave fra Nord-Trøndelag, Nordland, Troms og Finnmark fylkeskommuner i forbindelse med åpningen av Sametingsbygget 2. november 2001.</p>
-    <p>
-      <em type="bold">Astri Aasen </em>
-    </p>
-    <p>Malerier av kunstneren Astri Aasen fra det store lappemøte i Trondhjem” i 1917 finnes blant annet i hallen inn mot plenumssalen. Sametinget kjøpte disse av Trondheims Kunstmuseum i forbindelse med 80-års jubileum den 6. februar 1997. Bildene var utstilt i kjelleren på Metodistkirken i Trondheim.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>388</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Sametingsbygningen/Kunst-i-Sametingsbygningen</origFileName><parallel_text xml:lang="sma" location="tjeahpoeh-saemiedigkiegaaetesne.html"/><parallel_text xml:lang="sme" location="daidda-samediggeviesus.html"/><parallel_text xml:lang="smj" location="dajdda-samedikketsiekkadusan.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kunst i Sametingsbygningen / Sametingsbygningen / Om Sametinget / Forsiden - Sametinget</p>
+<p type="title">Kunst i Sametingsbygningen</p>
+<p>Sametinget har i sitt eie en rekke ulike kunstverk, av både samiske og norske kunstnere. Kunstverkene spenner over alle typer teknikker, herunder tradisjonell samisk duodji, skulpturer og moderne fotokunst.</p>
+<p>Noen av de kunstnere og kunstverk som er representert i Sametingsbygningen er:</p>
+<p><em type="bold">Hilde Skancke Pedersen </em></p>
+<p>Det storslåtte og magiske veggmaleriet Luottat – Spor av kunstneren Hilde Skancke Pedersen finnes i og utenfor Sametingets plenumssal. Det er zinkplater på betong bak talerstole/podium i plenumsalen (utført i emalje og bladgull på sink) og langs veggene i utenfor plenumsalen (foajéen) og i underetasjen utenfor auditoriet, etset på metallplater arkeologiske spor (fra samiske bo- og gravplasser) som samekulturen har etterlatt seg i form av hustufter/sirkler og labyrinter.</p>
+<p>Hilde Skancke Pedersen var en av to som vant lukket konkurranse med 12 inviterte kunstnere i forbindelse med utsmykkingen av Sametingsbygget.</p>
+<p><em type="bold">Kristin Ytreberg </em></p>
+<p>Utsmykningen Den som... av kunstneren Kristin Ytreberg finnes i alle vegger i vandrehall. To elementer er tatt i bruk: tinnbroderi inspirert av samisk ornamentikk og ordspråk og visdomsord fra J. Quigstads samlinger. Ytreberg var en av to kunstnere som vant lukket konkurranse med 12 inviterte kunstnere i forbindelse med utsmykkingen av Sametingsbygget.</p>
+<p><em type="bold">Kåre Kivijärvi </em></p>
+<p>I Sametingets bibliotek finnes Kåre Kivijärvis Fra de store banker (1959/1961), samt Kvinne (portrett) i Nesseby (1972). Fotografiene er kopier (2004) av original foto 1/9 (d.v.s. den første av ni fotografier av samme motiv).</p>
+<p>Fotografiene ble innkjøpt av Utsmykkingsfondet for offentlige bygg i forbindelse med utsmykkingen av Sametingsbygget i 2000. De opprinnelige bildene ble skadet av sollys, og kopiene av fotografiene ble hengt opp våren 2004 i biblioteket.</p>
+<p><em type="bold">Harald Bodøgaard </em></p>
+<p>Skulpturen Rød, utført i granitt (1999), er laget av kunstneren Harald Bodøgaard og var en gave fra Bjørn Bygg AS, Tromsø i forbindelse med den offisielle åpningen Sametingsbygget. november 2001.</p>
+<p><em type="bold">Eva Bergmann </em></p>
+<p>Maleriet Finnmark i gull utført i metallfarger (1965) er laget av kunstneren Anna Eeva Bergman. Maleriet er en gave fra Nord-Trøndelag, Nordland, Troms og Finnmark fylkeskommuner i forbindelse med åpningen av Sametingsbygget 2. november 2001.</p>
+<p><em type="bold">Astri Aasen </em></p>
+<p>Malerier av kunstneren Astri Aasen fra det store lappemøte i Trondhjem” i 1917 finnes blant annet i hallen inn mot plenumssalen. Sametinget kjøpte disse av Trondheims Kunstmuseum i forbindelse med 80-års jubileum den 6. februar 1997. Bildene var utstilt i kjelleren på Metodistkirken i Trondheim.</p>
+</body></document>

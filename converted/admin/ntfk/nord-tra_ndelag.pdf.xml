@@ -1,103 +1,81 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>503</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.ntfk.no/NordTrondelag/brosjyre/Documents/Nord-Tr%C3%B8ndelag.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="noerhte-tra_a_ndelaage.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>LEKA</p>
-    <p>Leka</p>
-    <p>VIKNA</p>
-    <p>Store Namsvatnet</p>
-    <p>Vikna</p>
-    <p>Rørvik</p>
-    <p>Kolvereid</p>
-    <p>Namsskogan</p>
-    <p>RØYRVIK</p>
-    <p>NÆRØYNAMS</p>
-    <p>Salsbruket</p>
-    <p>SKOGAN</p>
-    <p>Limingen</p>
-    <p>Abelvær</p>
-    <p>Salsvatnet</p>
-    <p>Limingen Seierstad</p>
-    <p>FOSNES</p>
-    <p>HØYLANDET</p>
-    <p>Tunnsjøen</p>
-    <p>Skorovatn</p>
-    <p>Høylandet</p>
-    <p>FLATANGER</p>
-    <p>NAMSOS</p>
-    <p>Lauvsnes</p>
-    <p>GRONG</p>
-    <p>OverhallaStatland</p>
-    <p>Grong</p>
-    <p>Sanddøla</p>
-    <p>Nordli</p>
-    <p>Namsos</p>
-    <p>Bangsund</p>
-    <p>Namsen</p>
-    <p>OVERHALLA</p>
-    <p>LIERNE</p>
-    <p>NAMDALSEID</p>
-    <p>GRESSÅMOEN NASJONALPARK</p>
-    <p>Snåsa</p>
-    <p>Namdalseid</p>
-    <p>Snåsavatn</p>
-    <p>Beitstad</p>
-    <p>SNÅSA</p>
-    <p>Sunnan</p>
-    <p>Malm</p>
-    <p>Steinkjer</p>
-    <p>VERRAN</p>
-    <p>Rengen</p>
-    <p>STEINKJER</p>
-    <p>Sparbu</p>
-    <p>INDERØY</p>
-    <p>Strømmen</p>
-    <p>Mosvik</p>
-    <p>MOSVIK</p>
-    <p>LevangerVerdal</p>
-    <p>Skogn</p>
-    <p>Leksvik</p>
-    <p>VERDAL</p>
-    <p>LEVANGER</p>
-    <p>Åsen</p>
-    <p>FROSTA</p>
-    <p>Feren</p>
-    <p>STJØRDAL</p>
-    <p><em type="bold">Fakta om Nord-Trøndelag</em> </p>
-    <p>Hommelvik</p>
-    <p>Kopperå</p>
-    <p>Meråker</p>
-    <p>MERÅKER</p>
-    <p><em type="bold">Nord-Trøndelagv o k s e o p p – b o – l æ r e – a r b e i d e – l e v e</em> </p>
-    <p>Areal:22 396 kvadratkilometer Folketall:129 069 (1. januar 2007) Lengste elv:Namsen 210 km Fylkets høyeste punkt:Jetnamklumpen 1 513 moh Største innsjø:Snåsavatnet 118 km2 – 42 km langt Nasjonalparker:Børgefjell, Lierne og Blåfjella-Skjækerfjella Antall kommuner: Fylkeshovedstad:Steinkjer – Norges geografiske sentrum Byer:Stjørdal, Levanger, Verdal, Steinkjer, Namsos og Kolvereid (Norges minste by) Fylkesblomst:Marisko – orkidé (cypripedium calceolus) Fylkesstein:Tulitt</p>
-    <p>Du kan lese mer om Nord-Trøndelag som reisemål på www.trondelag.com</p>
-    <p><em type="bold">!</em> </p>
-    <p><em type="bold">Verdt å merke seg</em> </p>
-    <p>Bor du midt i Norge og midt i Norden, har du selvsagt tilgang på gode kommunikasjoner. Enten det dreier seg om en av landets hovedflyplasser, eller flere mindre flyplasser med rutetrafikk. Nordlandsbanen snor seg gjennom hele fylket, og Meråkerbanen gir forbindelse til Sverige. 30 mil av landets lengste europaveg gir oss mange forbindelser til verden omkring.</p>
-    <p><em type="bold">Her alt e mulig – uansett</em> Gjennomsnittsinntekta for nordtrønderne ligger ikke på topp på landsbasis. Men det gjør heller ikke bokostnader, arbeidsledighet, kriminalitet eller forurensning. Spør oss heller om oppvekstvilkår, barnehagedekning, trygghet for helse og alderdom, kulturelle tilbud, trivsel, idrettsanlegg, jakt- og fiskemuligheter og evne/vilje til nyskaping. Da skal du få svar! </p>
-    <p><em type="bold">Verdt å merke seg</em> </p>
-    <p>Få andre fylker i Norge satser så mye på videregående utdanning som Nord-Trøndelag. 10 av fylkets kommuner har videregående skoler, flere av dem med landslinjer. Høgskolen i Nord-Trøndelag har fire utdanningssteder med om lag 200 ulike studieretninger. I tillegg er det et utstrakt samarbeid med Universitetet i Trondheim og tilsvarende læresteder på svensk side av grensa. Med base i Nord-Trøndelag kan du derfor utdanne deg til nær sagt hva du vil.</p>
-    <p><em type="bold">Her alt e mulig – uansett</em> </p>
-    <p>Rike skoger. Brede bygder. Landbruket gir grunnlag for mye verdiskaping. Langs vår lange kystlinje har vi mange livskraftige lokalsamfunn som satser på havbruk og fiskeoppdrett. Her trengs arbeidsvillige hender og kloke hoder i tida som kommer. Det samme gjelder til industrien. Anført av Norske Skog, Statoil, Aker og NTE, har fylket tunge industrielle miljøer som satser på ulike fagfelt. Ja, Nord-Trøndelag har blitt stedet for knoppskyting innen forskning og utvikling på mange områder. Slik skal det fortsatt være.</p>
-    <p><em type="bold">Verdt å merke seg</em> </p>
-    <p>1 000 år etter slaget på Stiklestad framstår fortsatt Spelet på Stiklestad som alle spels mor her til lands. Norsk revyfestival på Høylandet kan nesten trekkes fram i samme åndedrag. Vi kan stolt nevne Namsos Rock City, Kystkultursenteret Norveg i Vikna og den herlige Midnattsoperaen på Steinvikholmen. Alle er lysende fyrtårn med nasjonal status – i kulturfylket Nord-Trøndelag.</p>
-    <p><em type="bold">Her alt e mulig – uansett</em> </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>503</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.ntfk.no/NordTrondelag/brosjyre/Documents/Nord-Tr%C3%B8ndelag.pdf</origFileName><parallel_text xml:lang="sma" location="noerhte-tra_a_ndelaage.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>LEKA</p>
+<p>Leka</p>
+<p>VIKNA</p>
+<p>Store Namsvatnet</p>
+<p>Vikna</p>
+<p>Rørvik</p>
+<p>Kolvereid</p>
+<p>Namsskogan</p>
+<p>RØYRVIK</p>
+<p>NÆRØYNAMS</p>
+<p>Salsbruket</p>
+<p>SKOGAN</p>
+<p>Limingen</p>
+<p>Abelvær</p>
+<p>Salsvatnet</p>
+<p>Limingen Seierstad</p>
+<p>FOSNES</p>
+<p>HØYLANDET</p>
+<p>Tunnsjøen</p>
+<p>Skorovatn</p>
+<p>Høylandet</p>
+<p>FLATANGER</p>
+<p>NAMSOS</p>
+<p>Lauvsnes</p>
+<p>GRONG</p>
+<p>OverhallaStatland</p>
+<p>Grong</p>
+<p>Sanddøla</p>
+<p>Nordli</p>
+<p>Namsos</p>
+<p>Bangsund</p>
+<p>Namsen</p>
+<p>OVERHALLA</p>
+<p>LIERNE</p>
+<p>NAMDALSEID</p>
+<p>GRESSÅMOEN NASJONALPARK</p>
+<p>Snåsa</p>
+<p>Namdalseid</p>
+<p>Snåsavatn</p>
+<p>Beitstad</p>
+<p>SNÅSA</p>
+<p>Sunnan</p>
+<p>Malm</p>
+<p>Steinkjer</p>
+<p>VERRAN</p>
+<p>Rengen</p>
+<p>STEINKJER</p>
+<p>Sparbu</p>
+<p>INDERØY</p>
+<p>Strømmen</p>
+<p>Mosvik</p>
+<p>MOSVIK</p>
+<p>LevangerVerdal</p>
+<p>Skogn</p>
+<p>Leksvik</p>
+<p>VERDAL</p>
+<p>LEVANGER</p>
+<p>Åsen</p>
+<p>FROSTA</p>
+<p>Feren</p>
+<p>STJØRDAL</p>
+<p><em type="bold">Fakta om Nord-Trøndelag</em> </p>
+<p>Hommelvik</p>
+<p>Kopperå</p>
+<p>Meråker</p>
+<p>MERÅKER</p>
+<p><em type="bold">Nord-Trøndelagv o k s e o p p – b o – l æ r e – a r b e i d e – l e v e</em> </p>
+<p>Areal:22 396 kvadratkilometer Folketall:129 069 (1. januar 2007) Lengste elv:Namsen 210 km Fylkets høyeste punkt:Jetnamklumpen 1 513 moh Største innsjø:Snåsavatnet 118 km2 – 42 km langt Nasjonalparker:Børgefjell, Lierne og Blåfjella-Skjækerfjella Antall kommuner: Fylkeshovedstad:Steinkjer – Norges geografiske sentrum Byer:Stjørdal, Levanger, Verdal, Steinkjer, Namsos og Kolvereid (Norges minste by) Fylkesblomst:Marisko – orkidé (cypripedium calceolus) Fylkesstein:Tulitt</p>
+<p>Du kan lese mer om Nord-Trøndelag som reisemål på www.trondelag.com</p>
+<p><em type="bold">!</em> </p>
+<p><em type="bold">Verdt å merke seg</em> </p>
+<p>Bor du midt i Norge og midt i Norden, har du selvsagt tilgang på gode kommunikasjoner. Enten det dreier seg om en av landets hovedflyplasser, eller flere mindre flyplasser med rutetrafikk. Nordlandsbanen snor seg gjennom hele fylket, og Meråkerbanen gir forbindelse til Sverige. 30 mil av landets lengste europaveg gir oss mange forbindelser til verden omkring.</p>
+<p><em type="bold">Her alt e mulig – uansett</em> Gjennomsnittsinntekta for nordtrønderne ligger ikke på topp på landsbasis. Men det gjør heller ikke bokostnader, arbeidsledighet, kriminalitet eller forurensning. Spør oss heller om oppvekstvilkår, barnehagedekning, trygghet for helse og alderdom, kulturelle tilbud, trivsel, idrettsanlegg, jakt- og fiskemuligheter og evne/vilje til nyskaping. Da skal du få svar! </p>
+<p><em type="bold">Verdt å merke seg</em> </p>
+<p>Få andre fylker i Norge satser så mye på videregående utdanning som Nord-Trøndelag. 10 av fylkets kommuner har videregående skoler, flere av dem med landslinjer. Høgskolen i Nord-Trøndelag har fire utdanningssteder med om lag 200 ulike studieretninger. I tillegg er det et utstrakt samarbeid med Universitetet i Trondheim og tilsvarende læresteder på svensk side av grensa. Med base i Nord-Trøndelag kan du derfor utdanne deg til nær sagt hva du vil.</p>
+<p><em type="bold">Her alt e mulig – uansett</em> </p>
+<p>Rike skoger. Brede bygder. Landbruket gir grunnlag for mye verdiskaping. Langs vår lange kystlinje har vi mange livskraftige lokalsamfunn som satser på havbruk og fiskeoppdrett. Her trengs arbeidsvillige hender og kloke hoder i tida som kommer. Det samme gjelder til industrien. Anført av Norske Skog, Statoil, Aker og NTE, har fylket tunge industrielle miljøer som satser på ulike fagfelt. Ja, Nord-Trøndelag har blitt stedet for knoppskyting innen forskning og utvikling på mange områder. Slik skal det fortsatt være.</p>
+<p><em type="bold">Verdt å merke seg</em> </p>
+<p>1 000 år etter slaget på Stiklestad framstår fortsatt Spelet på Stiklestad som alle spels mor her til lands. Norsk revyfestival på Høylandet kan nesten trekkes fram i samme åndedrag. Vi kan stolt nevne Namsos Rock City, Kystkultursenteret Norveg i Vikna og den herlige Midnattsoperaen på Steinvikholmen. Alle er lysende fyrtårn med nasjonal status – i kulturfylket Nord-Trøndelag.</p>
+<p><em type="bold">Her alt e mulig – uansett</em> </p>
+</body></document>

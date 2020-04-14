@@ -1,93 +1,37 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Musikkutvikling 2019</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>284</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Musikkutvikling-2019</origFileName>
-    <parallel_text xml:lang="sma" location="musihkeevtiedimmie-2019.html"/>
-    <parallel_text xml:lang="sme" location="musihkkaovddideapmi-2019.html"/>
-    <parallel_text xml:lang="smj" location="musihkkaaavdedibme-2019.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Musikkutvikling 2019</p>
-    <p>
-      <em type="italic">Åpen søknadsfrist </em>
-    </p>
-    <p>
-      <em type="italic">Mål for støtteordningen: </em>
-    </p>
-    <p>Økt salg og spredning av joik og samisk musikk innenlands og utenlands, herunder samisk musikk både i tradisjonell og nyskapende form.</p>
-    <p xml:lang="dan">
-      <em type="italic">Tilskuddsmottakere for ordningen: </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="nno">Foretak</p>
-    </list>
-    <p>Det gis ikke tilskudd til Norskregistrerte utenlandske foretak (NUF). Kommuner og statlige institusjoner er ikke tilskuddsberettiget.</p>
-    <p>
-      <em type="italic">Det kan søkes om tilskudd til følgende tiltak: </em>
-    </p>
-    <list>
-      <p type="listitem">Promotering av samiske musikere og artister, herunder turnestøtte, musikkvideo, internasjonalisering og management.</p>
-    </list>
-    <p>
-      <em type="italic">Krav til søknadens innhold og form: </em>
-    </p>
-    <list>
-      <p type="listitem">Sametingets elektroniske søknadsskjema skal benyttes.</p>
-      <p type="listitem">Søknader som ikke oppfyller kriteriene for å kunne søke vil bli avvist.</p>
-      <p type="listitem">Tilskuddsmottaker skal ha et likestillings- og mangfoldsperspektiv i sitt virke og i sine tjenester og produkter.</p>
-      <p type="listitem">Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan.</p>
-      <p type="listitem">Den som underskriver søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.</p>
-      <p type="listitem">Dersom søker mottar støtte skal det opplyses at Sametinget har støttet tiltaket/prosjektet.</p>
-    </list>
-    <p>
-      <em type="italic">Beregningsregler: </em>
-    </p>
-    <p>
-      <em type="italic">Turnestøtte: </em>
-    </p>
-    <p>Maksimal støtte til turnevirksomhet er kr 50 000,-. Støtten dekker utgifter som naturlig hører under turnevirksomhet, herunder:</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Markedsføring/promotering</p>
-      <p type="listitem">Reiseutgifter/opphold/kost</p>
-      <p type="listitem">Tekniske utgifter</p>
-      <p type="listitem" xml:lang="nno">Kostnader til lyd og lys</p>
-    </list>
-    <p>
-      <em type="italic">Internasjonal promotering av musikere: </em>
-    </p>
-    <p>Maksimal støtte til internasjonal promotering er 50 000 kr. Støtten dekker utgifter som naturlig hører inn under internasjonal promotering, herunder:</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Markedsføring / promotering</p>
-      <p type="listitem">Reiseutgifter / opphold / kost</p>
-      <p type="listitem">Tekniske utgifter</p>
-      <p type="listitem" xml:lang="nno">Kostnader til lyd og lys</p>
-    </list>
-    <p xml:lang="vep">
-      <em type="italic">Musikkvideo: </em>
-    </p>
-    <p xml:lang="nno">Maksimal støtte til musikkvideo er 50 000 kr.</p>
-    <p xml:lang="est">
-      <em type="italic">Saksbehandlingstid: </em>
-    </p>
-    <p>Søker kan forvente svar på søknad 3 måneder etter at søknad er mottatt, Jf forvaltningsloven § 11. Foreløpig melding i forvaltningssak sendes ut innen en måned etter mottatt søknad.</p>
-    <p>
-      <em type="italic">Kontaktinformasjon: </em>
-    </p>
-    <p xml:lang="nno">Inger Tjikkom , tlf: +47 78 47 40 45, Emma Margret Skåden , tlf: +47 78 47 41 01, Nanni Mari Westerfjeld , tlf: +47 78 47 40 25, Silja Somby , tlf +47 78 48 42 30</p>
-    <p xml:lang="dan">Elektronisk søknadsskjema</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Musikkutvikling 2019</title><genre code="admin"/><author><unknown/></author><wordcount>284</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Musikkutvikling-2019</origFileName><parallel_text xml:lang="sma" location="musihkeevtiedimmie-2019.html"/><parallel_text xml:lang="sme" location="musihkkaovddideapmi-2019.html"/><parallel_text xml:lang="smj" location="musihkkaaavdedibme-2019.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="est">Musikkutvikling 2019</p>
+<p><em type="italic">Åpen søknadsfrist </em></p>
+<p><em type="italic">Mål for støtteordningen: </em></p>
+<p>Økt salg og spredning av joik og samisk musikk innenlands og utenlands, herunder samisk musikk både i tradisjonell og nyskapende form.</p>
+<p xml:lang="dan"><em type="italic">Tilskuddsmottakere for ordningen: </em></p>
+<list><p type="listitem" xml:lang="nno">Foretak</p>
+</list><p>Det gis ikke tilskudd til Norskregistrerte utenlandske foretak (NUF). Kommuner og statlige institusjoner er ikke tilskuddsberettiget.</p>
+<p><em type="italic">Det kan søkes om tilskudd til følgende tiltak: </em></p>
+<list><p type="listitem">Promotering av samiske musikere og artister, herunder turnestøtte, musikkvideo, internasjonalisering og management.</p>
+</list><p><em type="italic">Krav til søknadens innhold og form: </em></p>
+<list><p type="listitem">Sametingets elektroniske søknadsskjema skal benyttes.</p>
+<p type="listitem">Søknader som ikke oppfyller kriteriene for å kunne søke vil bli avvist.</p>
+<p type="listitem">Tilskuddsmottaker skal ha et likestillings- og mangfoldsperspektiv i sitt virke og i sine tjenester og produkter.</p>
+<p type="listitem">Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan.</p>
+<p type="listitem">Den som underskriver søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.</p>
+<p type="listitem">Dersom søker mottar støtte skal det opplyses at Sametinget har støttet tiltaket/prosjektet.</p>
+</list><p><em type="italic">Beregningsregler: </em></p>
+<p><em type="italic">Turnestøtte: </em></p>
+<p>Maksimal støtte til turnevirksomhet er kr 50 000,-. Støtten dekker utgifter som naturlig hører under turnevirksomhet, herunder:</p>
+<list><p type="listitem" xml:lang="dan">Markedsføring/promotering</p>
+<p type="listitem">Reiseutgifter/opphold/kost</p>
+<p type="listitem">Tekniske utgifter</p>
+<p type="listitem" xml:lang="nno">Kostnader til lyd og lys</p>
+</list><p><em type="italic">Internasjonal promotering av musikere: </em></p>
+<p>Maksimal støtte til internasjonal promotering er 50 000 kr. Støtten dekker utgifter som naturlig hører inn under internasjonal promotering, herunder:</p>
+<list><p type="listitem" xml:lang="dan">Markedsføring / promotering</p>
+<p type="listitem">Reiseutgifter / opphold / kost</p>
+<p type="listitem">Tekniske utgifter</p>
+<p type="listitem" xml:lang="nno">Kostnader til lyd og lys</p>
+</list><p xml:lang="vep"><em type="italic">Musikkvideo: </em></p>
+<p xml:lang="nno">Maksimal støtte til musikkvideo er 50 000 kr.</p>
+<p xml:lang="est"><em type="italic">Saksbehandlingstid: </em></p>
+<p>Søker kan forvente svar på søknad 3 måneder etter at søknad er mottatt, Jf forvaltningsloven § 11. Foreløpig melding i forvaltningssak sendes ut innen en måned etter mottatt søknad.</p>
+<p><em type="italic">Kontaktinformasjon: </em></p>
+<p xml:lang="nno">Inger Tjikkom , tlf: +47 78 47 40 45, Emma Margret Skåden , tlf: +47 78 47 41 01, Nanni Mari Westerfjeld , tlf: +47 78 47 40 25, Silja Somby , tlf +47 78 48 42 30</p>
+<p xml:lang="dan">Elektronisk søknadsskjema</p>
+</body></document>

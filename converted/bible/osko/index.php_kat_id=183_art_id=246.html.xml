@@ -1,36 +1,7 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>172</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=183&amp;art_id=246</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=183_art_id=246.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=183_art_id=246.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=183_art_id=246.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Kirka</p>
-    <p type="title">Kirkehistorie</p>
-    <p>Det gikk 300 år før de første kristne fikk egne kirkebygg. Fram til da holdt de vanligvis sine gudstjenester i private hjem. Antakelig skjedde det som regel rundt et bord, hvor fellesskapet kom til uttrykk ved at alle bidro.</p>
-    <p>Da kirkene ble bygget var utgangspunktet hvordan man i et romersk hushold samlet seg om et langbord. Husfaren satt øverst ved bordet. Det samme ser vi i kirka nå, presten som leder gudstjenesten står øverst i kirkerommet.</p>
-    <p>Det religiøse stedet i dag er kirkebygget. I det gamle testamentet, hvor mennesker har inngått pakt med Gud, er det hellige knyttet til særskilte steder, blant annet fikk Moses De ti bud på Sinaifjellet. Det er inspirerende å være i nærkontakt med naturen under gudstjenesten. Også pilegrimsvandringer er populære i mange kretser. Hva med gudstjenester ute i det fri, nær naturen og skaperverket på samme tid? Slik blir ikke det religiøse kun begrenset til kirken som byggverk, men knyttes til konkrete steder i naturen og landskap med en særskilt historie.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>172</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=183&amp;art_id=246</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=183_art_id=246.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=183_art_id=246.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=183_art_id=246.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Kirka</p>
+<p type="title">Kirkehistorie</p>
+<p>Det gikk 300 år før de første kristne fikk egne kirkebygg. Fram til da holdt de vanligvis sine gudstjenester i private hjem. Antakelig skjedde det som regel rundt et bord, hvor fellesskapet kom til uttrykk ved at alle bidro.</p>
+<p>Da kirkene ble bygget var utgangspunktet hvordan man i et romersk hushold samlet seg om et langbord. Husfaren satt øverst ved bordet. Det samme ser vi i kirka nå, presten som leder gudstjenesten står øverst i kirkerommet.</p>
+<p>Det religiøse stedet i dag er kirkebygget. I det gamle testamentet, hvor mennesker har inngått pakt med Gud, er det hellige knyttet til særskilte steder, blant annet fikk Moses De ti bud på Sinaifjellet. Det er inspirerende å være i nærkontakt med naturen under gudstjenesten. Også pilegrimsvandringer er populære i mange kretser. Hva med gudstjenester ute i det fri, nær naturen og skaperverket på samme tid? Slik blir ikke det religiøse kun begrenset til kirken som byggverk, men knyttes til konkrete steder i naturen og landskap med en særskilt historie.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

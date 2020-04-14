@@ -1,61 +1,36 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Virkeområdet for tilskudd til næringsutvikling (STN-området)</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>352</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Tjenester/Naering/Virkeomraadet-for-tilskudd-til-naeringsutvikling-STN-omraadet</origFileName>
-    <parallel_text xml:lang="sme" location="ealahusovddideami-doarjjadoaibmaguovlu-sed-guovlu.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Virkeområdet for tilskudd til næringsutvikling (STN-området)</p>
-    <p>Disse kommunene er i virkeområdet for tilskudd til næringsutvikling (STN-området):</p>
-    <p xml:lang="nno">2011 Kautokeino, hele kommunen</p>
-    <p>2012 Alta, følgende grunnkretser: 0101 Stjernøy 0102 Seiland 0103 Lille Lerresfjord 0104 Store Lerresfjord 0105 Komagfjord 0106 Korsfjord 0107 Nyvoll 0108 Storekorsnes 0110 Kongshus 0201 Isnestoften 0202 Tappeluft/Riverbukt 0203 Langfjordbotn 0204 Talvik 0205 Vasbotnelv</p>
-    <p>2014 Loppa, hele kommunen</p>
-    <p>2017 Kvalsund, hele kommunen</p>
-    <p>2018 Måsøy, følgende grunnkretser: 0119 Snefjorden 0120 Litlefjord 0121 Slåtten 0122 Gunnarnes 0123 Tufjord 0124 Ingøy</p>
-    <p>2019 Nordkapp, følgende grunnkretser: 0113 Vestersida-Botnområdet 0114 Nordvågnesområdet 0115 Kjelvik-Helnesområdet 0117 Skuotanjargga 0118 Mannskarvik-Repvåg 0119 Sværholthalvøya 0200 Gjesvær 0201 Gjesvær 0202 Knivskjellodden 0203 Tufjorden 0204 Magerøystua 0205 Finnvik 0206 Vannfjordnæringen Bygda Sarnes</p>
-    <p>2020 Porsanger, hele kommunen</p>
-    <p>2021 Karasjok, hele kommunen</p>
-    <p>2022 Lebesby, følgende grunnkretser: 0103 Dyfjord 0104 Kifjord/Normanset/Mårøyfj. 0105 Torskefjord/Bekkarfjord 0106 Lebesby 0107 Ifjord 0108 Friarfjord/Adamsfjord 0109 Laksefjordbotn/Kunes 0110 Veidnesklubben/Godviknes 0111 Vadasbaksæibos 0112 Gappatvarri 0113 Eretoaivit 0114 Vuonjalrassa</p>
-    <p>2023 Gamvik, hele kommunen</p>
-    <p>2025 Tana, hele kommunen</p>
-    <p>2027 Nesseby, hele kommunen</p>
-    <p>2030 Sør-Varanger, følgende grunnkretser: 0101 Bugøynes 0102 Bugøyfjord 0103 Spurvnes/Skogerøya 0104 Neiden 0402 Jakobsnes 0403 Ropelv 0404 Jarfjord 0405 Grense Jakobselv 0503 Svanvik 0504 Melkefoss/Skrotnes 0505 Øvre Pasvik</p>
-    <p>1902 Tromsø, følgende grunnkretser: 3301 Jøvik 3302 Olderbakken 3303 Lakselvbukt 3304 Lakselvdalen 3305 Sjøvassbotn 3306 Stordal 3307 Sjursnes 3308 Reiervik 3309 Breivika 3310 Ullsfjordmoane</p>
-    <p>1913 Skånland, hele kommunen</p>
-    <p>1919 Gratangen, hele kommunen</p>
-    <p>1920 Lavangen, hele kommunen</p>
-    <p>1923 Salangen, hele kommunen</p>
-    <p>1925 Sørreisa, følgende grunnkretser: 0101 Gumpedal 0102 Øvre Bakkejord 0103 Skøelvdal 0104 Smørsgård 0201 Storlia/Rabbås 0207 Reinelv 0208 Andsvatn</p>
-    <p>1933 Balsfjord, hele kommunen</p>
-    <p>1936 Karlsøy, hele kommunen</p>
-    <p>1938 Lyngen, hele kommunen</p>
-    <p>1939 Storfjord, hele kommunen</p>
-    <p>1940 Kåfjord, hele kommunen</p>
-    <p>1941 Skjervøy, hele kommunen</p>
-    <p>1942 Nordreisa, hele kommunen</p>
-    <p>1943 Kvænangen, hele kommunen</p>
-    <p>1805 Narvik, følgende grunnkretser: 0102 Herjangen 0109 Vassdal 0110 Elvegården 0111 Kvandal</p>
-    <p>1849 Hamarøy, følgende grunnkretser: 0116 Innhavet 0117 Veggfjell 0118 Sagvatnan 0119 Grensefjellene</p>
-    <p>1850 Tysfjord, hele kommunen</p>
-    <p>1853 Evenes, følgende grunnkretser: 0109 Evenesmark 0110 Myrnes 0111 Osmark 0114 Lenvik/Lenvikmark 0117 Veggen</p>
-    <p>
-      <em type="italic">Midler til næringsutvikling kan i tillegg til det geografiske virkeområdet ytes til: </em>
-    </p>
-    <p>- Duodji i hele landet - Samiske kulturnæringer i hele landet - Samisk reiseliv i hele landet - Tilleggsnæringer i reindrift</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Virkeområdet for tilskudd til næringsutvikling (STN-området)</title><genre code="admin"/><author><unknown/></author><year>2018</year><wordcount>352</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Tjenester/Naering/Virkeomraadet-for-tilskudd-til-naeringsutvikling-STN-omraadet</origFileName><parallel_text xml:lang="sme" location="ealahusovddideami-doarjjadoaibmaguovlu-sed-guovlu.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Virkeområdet for tilskudd til næringsutvikling (STN-området)</p>
+<p>Disse kommunene er i virkeområdet for tilskudd til næringsutvikling (STN-området):</p>
+<p xml:lang="nno">2011 Kautokeino, hele kommunen</p>
+<p>2012 Alta, følgende grunnkretser: 0101 Stjernøy 0102 Seiland 0103 Lille Lerresfjord 0104 Store Lerresfjord 0105 Komagfjord 0106 Korsfjord 0107 Nyvoll 0108 Storekorsnes 0110 Kongshus 0201 Isnestoften 0202 Tappeluft/Riverbukt 0203 Langfjordbotn 0204 Talvik 0205 Vasbotnelv</p>
+<p>2014 Loppa, hele kommunen</p>
+<p>2017 Kvalsund, hele kommunen</p>
+<p>2018 Måsøy, følgende grunnkretser: 0119 Snefjorden 0120 Litlefjord 0121 Slåtten 0122 Gunnarnes 0123 Tufjord 0124 Ingøy</p>
+<p>2019 Nordkapp, følgende grunnkretser: 0113 Vestersida-Botnområdet 0114 Nordvågnesområdet 0115 Kjelvik-Helnesområdet 0117 Skuotanjargga 0118 Mannskarvik-Repvåg 0119 Sværholthalvøya 0200 Gjesvær 0201 Gjesvær 0202 Knivskjellodden 0203 Tufjorden 0204 Magerøystua 0205 Finnvik 0206 Vannfjordnæringen Bygda Sarnes</p>
+<p>2020 Porsanger, hele kommunen</p>
+<p>2021 Karasjok, hele kommunen</p>
+<p>2022 Lebesby, følgende grunnkretser: 0103 Dyfjord 0104 Kifjord/Normanset/Mårøyfj. 0105 Torskefjord/Bekkarfjord 0106 Lebesby 0107 Ifjord 0108 Friarfjord/Adamsfjord 0109 Laksefjordbotn/Kunes 0110 Veidnesklubben/Godviknes 0111 Vadasbaksæibos 0112 Gappatvarri 0113 Eretoaivit 0114 Vuonjalrassa</p>
+<p>2023 Gamvik, hele kommunen</p>
+<p>2025 Tana, hele kommunen</p>
+<p>2027 Nesseby, hele kommunen</p>
+<p>2030 Sør-Varanger, følgende grunnkretser: 0101 Bugøynes 0102 Bugøyfjord 0103 Spurvnes/Skogerøya 0104 Neiden 0402 Jakobsnes 0403 Ropelv 0404 Jarfjord 0405 Grense Jakobselv 0503 Svanvik 0504 Melkefoss/Skrotnes 0505 Øvre Pasvik</p>
+<p>1902 Tromsø, følgende grunnkretser: 3301 Jøvik 3302 Olderbakken 3303 Lakselvbukt 3304 Lakselvdalen 3305 Sjøvassbotn 3306 Stordal 3307 Sjursnes 3308 Reiervik 3309 Breivika 3310 Ullsfjordmoane</p>
+<p>1913 Skånland, hele kommunen</p>
+<p>1919 Gratangen, hele kommunen</p>
+<p>1920 Lavangen, hele kommunen</p>
+<p>1923 Salangen, hele kommunen</p>
+<p>1925 Sørreisa, følgende grunnkretser: 0101 Gumpedal 0102 Øvre Bakkejord 0103 Skøelvdal 0104 Smørsgård 0201 Storlia/Rabbås 0207 Reinelv 0208 Andsvatn</p>
+<p>1933 Balsfjord, hele kommunen</p>
+<p>1936 Karlsøy, hele kommunen</p>
+<p>1938 Lyngen, hele kommunen</p>
+<p>1939 Storfjord, hele kommunen</p>
+<p>1940 Kåfjord, hele kommunen</p>
+<p>1941 Skjervøy, hele kommunen</p>
+<p>1942 Nordreisa, hele kommunen</p>
+<p>1943 Kvænangen, hele kommunen</p>
+<p>1805 Narvik, følgende grunnkretser: 0102 Herjangen 0109 Vassdal 0110 Elvegården 0111 Kvandal</p>
+<p>1849 Hamarøy, følgende grunnkretser: 0116 Innhavet 0117 Veggfjell 0118 Sagvatnan 0119 Grensefjellene</p>
+<p>1850 Tysfjord, hele kommunen</p>
+<p>1853 Evenes, følgende grunnkretser: 0109 Evenesmark 0110 Myrnes 0111 Osmark 0114 Lenvik/Lenvikmark 0117 Veggen</p>
+<p><em type="italic">Midler til næringsutvikling kan i tillegg til det geografiske virkeområdet ytes til: </em></p>
+<p>- Duodji i hele landet - Samiske kulturnæringer i hele landet - Samisk reiseliv i hele landet - Tilleggsnæringer i reindrift</p>
+</body></document>

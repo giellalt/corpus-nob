@@ -1,49 +1,15 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>NAV - Bearaš - Bearaš</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>66</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-    </multilingual>
-    <origFileName>http://www.nav.no/Samisk/Familie</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="sme">Bearaš</p>
-    <p xml:lang="sme">Dáppe leat dieđut vuoigatvuođaid ja geatnegasvuođaid birra bearraša hárrái.</p>
-    <p>Váhnenruhta riegádeami oktavuođas (Foreldrepenger ved fødsel)</p>
-    <p xml:lang="sme">Váhnenruhta adopšuvnna oktavuođas (Foreldrepenger ved adopsjon)</p>
-    <p>Váhnenruhta áhččái riegádahttimis ja adopšuvnnas (Foreldrepenger til far ved fødsel og adopsjon)</p>
-    <p>Áhččivuohta ja váhnenovddasvástádus (Farskap og foreldreansvar)</p>
-    <p xml:lang="sme">Mánnáoadju (Barnetrygd)</p>
-    <p xml:lang="sme">Reaidadoarjja unnamánášváhnemiidda (Kontantstøtte)</p>
-    <p xml:lang="sme">Máksu ovdagihtii (Bidragsforskudd)</p>
-    <p xml:lang="sme">Nuppástusdoarjja (Overgangsstønad)</p>
-    <p xml:lang="sme">Mánáidgeahččama doarjja (Barnetilsyn)</p>
-    <p xml:lang="sme">Oahppodoarjja (Utdanningsstønad)</p>
-    <p>Fárrendoarjja (Tilskudd til flytting)</p>
-    <p>Doarjja ovttaskas eadnái/áhččái (Stønad til enslig mor/far)</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>NAV - Bearaš - Bearaš</title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>66</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/></multilingual><origFileName>http://www.nav.no/Samisk/Familie</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="sme">Bearaš</p>
+<p xml:lang="sme">Dáppe leat dieđut vuoigatvuođaid ja geatnegasvuođaid birra bearraša hárrái.</p>
+<p>Váhnenruhta riegádeami oktavuođas (Foreldrepenger ved fødsel)</p>
+<p xml:lang="sme">Váhnenruhta adopšuvnna oktavuođas (Foreldrepenger ved adopsjon)</p>
+<p>Váhnenruhta áhččái riegádahttimis ja adopšuvnnas (Foreldrepenger til far ved fødsel og adopsjon)</p>
+<p>Áhččivuohta ja váhnenovddasvástádus (Farskap og foreldreansvar)</p>
+<p xml:lang="sme">Mánnáoadju (Barnetrygd)</p>
+<p xml:lang="sme">Reaidadoarjja unnamánášváhnemiidda (Kontantstøtte)</p>
+<p xml:lang="sme">Máksu ovdagihtii (Bidragsforskudd)</p>
+<p xml:lang="sme">Nuppástusdoarjja (Overgangsstønad)</p>
+<p xml:lang="sme">Mánáidgeahččama doarjja (Barnetilsyn)</p>
+<p xml:lang="sme">Oahppodoarjja (Utdanningsstønad)</p>
+<p>Fárrendoarjja (Tilskudd til flytting)</p>
+<p>Doarjja ovttaskas eadnái/áhččái (Stønad til enslig mor/far)</p>
+</body></document>

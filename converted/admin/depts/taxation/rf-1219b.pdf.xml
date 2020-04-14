@@ -1,69 +1,42 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>454</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1219B.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="80336_rf-1219-s_utfyll.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Det vises til rettledning RF-1210</p>
-    <p>NavnFødselsnummer</p>
-    <p>Organisasjonsnummer</p>
-    <p>Kommunenr. Gevinst- og tapskonto nr.</p>
-    <p>av i altgevinst</p>
-    <p>og tapskontoer</p>
-    <p>Saldo pr. 31.12. overført fra forrige års gevinst- og tapskonto (tapsposisjon føres med negativt fortegn)</p>
-    <p>
-      <em type="bold">Gevinster mv. som skal tillegges gevinst- og tapskonto </em>
-    </p>
-    <p>Årets gevinst ved realisasjon/uttak av driftsmidler som ikke kan avskrives etter reglene i skatteloven § 14-40 flg.</p>
-    <p xml:lang="nno">Årets gevinst ved realisasjon/uttak av driftsmidler i saldogruppe e-i jf. avskrivningsskjemaet post 109</p>
-    <p xml:lang="nno">Negativ saldo (gevinst) oppstått i år i saldgruppe b forretningsverdi (goodwill)</p>
-    <p>Gevinst ved realisasjon av hel buskap på gårdsbruk ved opphør av driftsgren</p>
-    <p xml:lang="dan">Andre betingede skattfrie avsetninger som skal føres på gevinst- og tapskonto (se rettledningen)</p>
-    <p>Sum postene 1 - 6=</p>
-    <p xml:lang="nno">
-      <em type="bold">Tap mv. som skal fradras på gevinst- og tapskonto </em>
-    </p>
-    <p>Årets tap ved realisasjon av driftsm. som ikke kan avskrives etter reglene i skatteloven 14-40 flg.</p>
-    <p>Årets tap ved realisasjon av driftsmidler i saldogruppe e-i jf. avskrivningsskjema post 109</p>
-    <p>Differanse mellom deltakers andel av oppregulert verdi og bokført skattemessig verdi pr. 31.12.1991 på eiendel som et deltakerlignet selskap har realisert</p>
-    <p>Deltakers andel av gevinst vedr. realisasjon av eiendel fra deltakerlignet selskap når deltaker oppfyller betingelsene for skattefrihet etter skatteloven § 9-3 (2-6)</p>
-    <p>SUM postene 9-12=÷</p>
-    <p xml:lang="nno">Grunnlag for årets inntekts-/fradragsføring (post 8 ÷ post 13)=</p>
-    <p>Minimum 20% til inntekt  (se rettledningen). Eventuelt restbeløp under kr 15 000 til inntekt÷</p>
-    <p>Maksimum 20% til inntektsfradrag (se rettledningen). Eventuelt restbeløp under kr 15 000 til fradrag</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="ron">15a</p>
-    <p xml:lang="sme">15b</p>
-    <p xml:lang="dan">Saldo på gevinst- og tapskonto 31.12.=</p>
-    <p>Stammer saldoen fra realisasjon av tomt fra alminnelig jordbruk eller skogbruk, hvor opprinnelig gevinst i inntektsåret ikke oversteg kr 150 000 (se rettledningen)? Hvis ja skal dette føres på et eget eksemplar av RF-1219JaNei</p>
-    <p xml:lang="nno">Er beløpet i post 15a/15b ført direkte i selvangivelsen eller næringsoppgaven?til selvangivelsentil næringsoppgaven</p>
-    <p>Dersom beløpet i post 15a/15b er ført i selvangivelsen, hvordan er dette overført?</p>
-    <p xml:lang="ron">18a</p>
-    <p>Beløpet gjelder opphørt fiske eller fangst; til post 3.1.12/3.3.7 og 1.6.1</p>
-    <p>Beløpet gjelder annen virksomhet som er opphørt; til post 3.1.12/3.3.7 og 1.6.2</p>
-    <p>Beløpet gjelder verken pågående eller tidligere virksomhet; til post 3.1.12/3.3.7</p>
-    <p>Beløpet gjelder enkeltpersonforetak fritatt fra å levere næringsoppgave, inngår i driftsresultatet i selvangivelsen</p>
-    <p>Er selskapet oppløst, eller er skatteplikten (til Norge) opphørt?JaNei</p>
-    <p>Har selskapet gått over til å benytte avvikende regnskapsår?JaNei</p>
-    <p xml:lang="dan">DatoUnderskrift</p>
-    <p><em type="bold">Andre offentlige organers bruk av opplysninger i RF-1219</em> For å samle og forenkle oppgaveinnleveringen fra næringslivet, kan opplysninger som avgis i Gevinst- og tapskonto, RF-1219, helt eller delvis bli benyttet også av andre offentlige organer som har hjemmel til å innhente de samme opplysningene, jfr lov om Oppgaveregisteret §§ 5 og 6. Opplysninger om evt </p>
-    <p xml:lang="dan">samordning kan fås ved henvendelse til Oppgaveregisteret på telefon 75 00 75 00. Kommunenavn</p>
-    <p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 28. november 1994, jf. ligningsloven § 4-4 nr. 7.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>454</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1219B.pdf</origFileName><parallel_text xml:lang="sme" location="80336_rf-1219-s_utfyll.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Det vises til rettledning RF-1210</p>
+<p>NavnFødselsnummer</p>
+<p xml:lang="rmu">Organisasjonsnummer</p>
+<p>Kommunenr. Gevinst- og tapskonto nr.</p>
+<p>av i altgevinst</p>
+<p>og tapskontoer</p>
+<p xml:lang="dan">Saldo pr. 31.12. overført fra forrige års gevinst- og tapskonto (tapsposisjon føres med negativt fortegn)</p>
+<p><em type="bold">Gevinster mv. som skal tillegges gevinst- og tapskonto </em></p>
+<p>Årets gevinst ved realisasjon/uttak av driftsmidler som ikke kan avskrives etter reglene i skatteloven § 14-40 flg.</p>
+<p xml:lang="nno">Årets gevinst ved realisasjon/uttak av driftsmidler i saldogruppe e-i jf. avskrivningsskjemaet post 109</p>
+<p xml:lang="nno">Negativ saldo (gevinst) oppstått i år i saldgruppe b forretningsverdi (goodwill)</p>
+<p>Gevinst ved realisasjon av hel buskap på gårdsbruk ved opphør av driftsgren</p>
+<p xml:lang="dan">Andre betingede skattfrie avsetninger som skal føres på gevinst- og tapskonto (se rettledningen)</p>
+<p>Sum postene 1 - 6=</p>
+<p xml:lang="nno"><em type="bold">Tap mv. som skal fradras på gevinst- og tapskonto </em></p>
+<p>Årets tap ved realisasjon av driftsm. som ikke kan avskrives etter reglene i skatteloven 14-40 flg.</p>
+<p>Årets tap ved realisasjon av driftsmidler i saldogruppe e-i jf. avskrivningsskjema post 109</p>
+<p>Differanse mellom deltakers andel av oppregulert verdi og bokført skattemessig verdi pr. 31.12.1991 på eiendel som et deltakerlignet selskap har realisert</p>
+<p>Deltakers andel av gevinst vedr. realisasjon av eiendel fra deltakerlignet selskap når deltaker oppfyller betingelsene for skattefrihet etter skatteloven § 9-3 (2-6)</p>
+<p>SUM postene 9-12=÷</p>
+<p xml:lang="nno">Grunnlag for årets inntekts-/fradragsføring (post 8 ÷ post 13)=</p>
+<p>Minimum 20% til inntekt  (se rettledningen). Eventuelt restbeløp under kr 15 000 til inntekt÷</p>
+<p>Maksimum 20% til inntektsfradrag (se rettledningen). Eventuelt restbeløp under kr 15 000 til fradrag</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="ron">15a</p>
+<p xml:lang="sme">15b</p>
+<p xml:lang="dan">Saldo på gevinst- og tapskonto 31.12.=</p>
+<p>Stammer saldoen fra realisasjon av tomt fra alminnelig jordbruk eller skogbruk, hvor opprinnelig gevinst i inntektsåret ikke oversteg kr 150 000 (se rettledningen)? Hvis ja skal dette føres på et eget eksemplar av RF-1219JaNei</p>
+<p xml:lang="nno">Er beløpet i post 15a/15b ført direkte i selvangivelsen eller næringsoppgaven?til selvangivelsentil næringsoppgaven</p>
+<p>Dersom beløpet i post 15a/15b er ført i selvangivelsen, hvordan er dette overført?</p>
+<p xml:lang="ron">18a</p>
+<p>Beløpet gjelder opphørt fiske eller fangst; til post 3.1.12/3.3.7 og 1.6.1</p>
+<p>Beløpet gjelder annen virksomhet som er opphørt; til post 3.1.12/3.3.7 og 1.6.2</p>
+<p>Beløpet gjelder verken pågående eller tidligere virksomhet; til post 3.1.12/3.3.7</p>
+<p>Beløpet gjelder enkeltpersonforetak fritatt fra å levere næringsoppgave, inngår i driftsresultatet i selvangivelsen</p>
+<p>Er selskapet oppløst, eller er skatteplikten (til Norge) opphørt?JaNei</p>
+<p>Har selskapet gått over til å benytte avvikende regnskapsår?JaNei</p>
+<p xml:lang="dan">DatoUnderskrift</p>
+<p><em type="bold">Andre offentlige organers bruk av opplysninger i RF-1219</em> For å samle og forenkle oppgaveinnleveringen fra næringslivet, kan opplysninger som avgis i Gevinst- og tapskonto, RF-1219, helt eller delvis bli benyttet også av andre offentlige organer som har hjemmel til å innhente de samme opplysningene, jfr lov om Oppgaveregisteret §§ 5 og 6. Opplysninger om evt </p>
+<p xml:lang="dan">samordning kan fås ved henvendelse til Oppgaveregisteret på telefon 75 00 75 00. Kommunenavn</p>
+<p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 28. november 1994, jf. ligningsloven § 4-4 nr. 7.</p>
+</body></document>

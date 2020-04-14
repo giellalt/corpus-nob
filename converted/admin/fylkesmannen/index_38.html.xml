@@ -1,91 +1,59 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>318</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Klima/</origFileName>
-    <parallel_text xml:lang="eng" location="index_38.html"/>
-    <parallel_text xml:lang="sma" location="index_38.html"/>
-    <parallel_text xml:lang="sme" location="index_38.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Klima - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="dan">Miljø og klima</p>
-    <p xml:lang="kal">Klima</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
-      <p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
-      <p type="listitem">Fiskeoppdrett</p>
-      <p type="listitem" xml:lang="dan">Forurensning</p>
-      <p type="listitem" xml:lang="nno">Friluftsliv</p>
-      <p type="listitem" xml:lang="kal">Klima</p>
-      <p type="listitem" xml:lang="est">Motorferdsel</p>
-      <p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p></list></p>
-      <p type="listitem" xml:lang="est">Rovvilt</p>
-      <p type="listitem" xml:lang="isl">Vann</p>
-      <p type="listitem" xml:lang="dan">Verneområder</p>
-    </list>
-    <p type="title" xml:lang="kal">Klima</p>
-    <p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
-    <p>Global oppvarming krever klimatilpasninger. For Norges del betyr klimaendringene i hovedsak høyere gjennomsnitttemperaturer, mer nedbør og mer ekstremvær. Klimautfordringene kan få store konsekvenser for miljø og samfunn.</p>
-    <p>Fylkesmannen skal arbeide for å redusere utslipp av klimagasser og for å begrense framtidige skader. Gode transportløsninger, robuste veier og jernbaner, sikker energiforsyning og boliger og andre bygninger som ikke ligger utsatt til for jordskred eller andre naturkatastrofer utgjør en viktig del av planleggingsarbeidet. Fylkesmannen skal også bidra til at samfunnet er forberedt på å takle flom, skred, strømbrudd og andre alvorlige hendelser.</p>
-    <p type="title">Lokal planlegging for klimaendringer</p>
-    <p>Fylkesmannen fungerer som bindeledd mellom den nasjonale klimapolitikken og gjennomføringen ute i lokalsamfunnene. Det er kommunene som har hovedansvaret for å bygge gode samfunn for sine innbyggere, og klimaperspektivet er en viktig del av denne planleggingen. </p>
-    <list>
-      <p type="listitem">Fylkesmannen skal sikre at kommunene tar tilstrekkelig hensyn til klimaendringene når de fatter vedtak. Fylkesmannen er sektormyndighet, blant annet for miljø og landbruk, og har myndighet til å føre tilsyn med kommunene, overprøve enkeltvedtak som ikke tar tilstrekkelig hensyn til klimaendringer, og fremme innsigelser etter plan- og bygningsloven.</p>
-      <p type="listitem" xml:lang="nno">Fylkesmannen fører tilsyn med kommunenes beredskapsarbeid.</p>
-      <p type="listitem">Fylkesmannen veileder kommunene i klimaarbeidet. Fylkesmannen skal klargjøre hvilke krav og forventninger staten har til kommunene, og samtidig formidle kommunenes synspunkter til sentrale myndigheter.</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem">Klima- og miljødepartementet: klima</p>
-      <p type="listitem" xml:lang="nno">Meld. St. 21 (2011–2012): Norsk klimapolitikk</p>
-      <p type="listitem" xml:lang="nno">Meld. St. 13 (2014-2015): Ny utslippsforpliktelse for 2030</p>
-      <p type="listitem" xml:lang="nno">Meld. St. 33 (2012–2013): Klimatilpasning i Norge</p>
-      <p type="listitem" xml:lang="nno">Miljødirektoratet: klima</p>
-      <p type="listitem" xml:lang="nno">Miljøkommune: klima</p>
-      <p type="listitem" xml:lang="est">Miljøstatus: klima</p>
-      <p type="listitem">Klima i Norge 2100 (rapport)</p>
-      <p type="listitem" xml:lang="eng">Klimatilpasning.no</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>318</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Klima/</origFileName><parallel_text xml:lang="eng" location="index_38.html"/><parallel_text xml:lang="sma" location="index_38.html"/><parallel_text xml:lang="sme" location="index_38.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Klima - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="dan">Miljø og klima</p>
+<p xml:lang="kal">Klima</p>
+<list><p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
+<p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
+<p type="listitem">Fiskeoppdrett</p>
+<p type="listitem" xml:lang="dan">Forurensning</p>
+<p type="listitem" xml:lang="nno">Friluftsliv</p>
+<p type="listitem" xml:lang="kal">Klima</p>
+<p type="listitem" xml:lang="est">Motorferdsel</p>
+<p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p>
+</list></p>
+<p type="listitem" xml:lang="est">Rovvilt</p>
+<p type="listitem" xml:lang="isl">Vann</p>
+<p type="listitem" xml:lang="dan">Verneområder</p>
+</list><p type="title" xml:lang="kal">Klima</p>
+<p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
+<p>Global oppvarming krever klimatilpasninger. For Norges del betyr klimaendringene i hovedsak høyere gjennomsnitttemperaturer, mer nedbør og mer ekstremvær. Klimautfordringene kan få store konsekvenser for miljø og samfunn.</p>
+<p>Fylkesmannen skal arbeide for å redusere utslipp av klimagasser og for å begrense framtidige skader. Gode transportløsninger, robuste veier og jernbaner, sikker energiforsyning og boliger og andre bygninger som ikke ligger utsatt til for jordskred eller andre naturkatastrofer utgjør en viktig del av planleggingsarbeidet. Fylkesmannen skal også bidra til at samfunnet er forberedt på å takle flom, skred, strømbrudd og andre alvorlige hendelser.</p>
+<p type="title">Lokal planlegging for klimaendringer</p>
+<p>Fylkesmannen fungerer som bindeledd mellom den nasjonale klimapolitikken og gjennomføringen ute i lokalsamfunnene. Det er kommunene som har hovedansvaret for å bygge gode samfunn for sine innbyggere, og klimaperspektivet er en viktig del av denne planleggingen. </p>
+<list><p type="listitem">Fylkesmannen skal sikre at kommunene tar tilstrekkelig hensyn til klimaendringene når de fatter vedtak. Fylkesmannen er sektormyndighet, blant annet for miljø og landbruk, og har myndighet til å føre tilsyn med kommunene, overprøve enkeltvedtak som ikke tar tilstrekkelig hensyn til klimaendringer, og fremme innsigelser etter plan- og bygningsloven.</p>
+<p type="listitem" xml:lang="nno">Fylkesmannen fører tilsyn med kommunenes beredskapsarbeid.</p>
+<p type="listitem">Fylkesmannen veileder kommunene i klimaarbeidet. Fylkesmannen skal klargjøre hvilke krav og forventninger staten har til kommunene, og samtidig formidle kommunenes synspunkter til sentrale myndigheter.</p>
+</list><list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem">Klima- og miljødepartementet: klima</p>
+<p type="listitem" xml:lang="nno">Meld. St. 21 (2011–2012): Norsk klimapolitikk</p>
+<p type="listitem" xml:lang="nno">Meld. St. 13 (2014-2015): Ny utslippsforpliktelse for 2030</p>
+<p type="listitem" xml:lang="nno">Meld. St. 33 (2012–2013): Klimatilpasning i Norge</p>
+<p type="listitem" xml:lang="nno">Miljødirektoratet: klima</p>
+<p type="listitem" xml:lang="nno">Miljøkommune: klima</p>
+<p type="listitem" xml:lang="est">Miljøstatus: klima</p>
+<p type="listitem">Klima i Norge 2100 (rapport)</p>
+<p type="listitem" xml:lang="eng">Klimatilpasning.no</p>
+</list></body></document>

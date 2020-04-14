@@ -1,109 +1,72 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Borramuš - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>938</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/lmd/tema/mat.html?id=1270</origFileName>
-    <parallel_text xml:lang="nno" location="mat_id_1270.html"/>
-    <parallel_text xml:lang="sme" location="borramu_id_1270.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mat - regjeringen.no</p>
-    <p type="title">Mat</p>
-    <p>Målene for matpolitikken er trygg mat, kvalitet og forbrukerhensyn. Målet om trygg mat bygger på prinsippet om at det er næringsutøverne som har ansvaret for å sikre mattryggheten. Et sunt kosthold og en langsiktig matforsyning er i tillegg til nyskapning, mangfold og verdiskapning viktige innsatsområder i matpolitikken. Forbrukerne viser stor interesse for hvordan maten blir produsert, foredlet og omsatt. Forbrukernes meninger tillegges stor vekt i matpolitikken.</p>
-    <list>
-      <p type="listitem"><em type="italic">Smaken av Norge </em>En matpolitisk strategi 2008 - 2010 </p>
-      <p type="listitem"><em type="italic">Helhetlig kvalitetssystem i norsk matproduksjon </em>- Rapport </p>
-    </list>
-    <p>Prop. 1 S (2009–2010) -</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Matpolitikk </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">Forsking og innovasjon </em>
-      </p>
-    </list>
-    <p>Abonner på e-postvarsling</p>
-    <p type="title">Presenterer statsbudsjettet i Stavanger</p>
-    <p>[Landbruks- og matdepartementet, 04.10.2010]</p>
-    <p>Landbruks- og matminister Lars Peder Brekk presenterer statsbudsjettet 2011 på en pressekonferanse i Stavanger. Det skjer på Måltidets Hus kl. 11.00 etter at finanstalen er TV-overført.</p>
-    <p type="title">Matstreif for fullt</p>
-    <p>[Landbruks- og matdepartementet, 01.10.2010]</p>
-    <p>Tre dager til endes, 30. september – 2. oktober, er det Matstreif på Rådhusplassen i Oslo. Årets streif byr på 3000 småskala-produkter fra 140 forskjellige mataktører. Fredag gikk landbruks- og matminister Lars Peder Brekk en runde på matfestivalen.</p>
-    <p type="title">Norgesmester i kokkekunst</p>
-    <p>[Landbruks- og matdepartementet, 01.10.2010]</p>
-    <p>Ørjan Johannessen heter vinneren av Norgesmesterskapet i kokkekunst 2010. Han er med på det norske kokkelandslaget. Toer Morten Rathe fra Trondheim er på juniorlandslaget.</p>
-    <p type="title">Oppdatert på landbruk og matnyheter i høst</p>
-    <p>[Landbruks- og matdepartementet, 01.10.2010]</p>
-    <p>Statsbudsjettet legges frem tirsdag 5. oktober. Hvordan faller det ut for landbruks- og matsektoren? Vil du holde deg oppdatert på fag- og politikkområdet landbruk og mat, kan du skaffe deg en gratis nyhetstjeneste fra Landbruks- og matdepartementets nettside.</p>
-    <p type="title">Profilerer norsk mat under Ski-VM 2011</p>
-    <p>[Landbruks- og matdepartementet, 30.09.2010]</p>
-    <p>Publikum og gjester til Ski-VM 2011 kan glede seg til å bli sultne. De får servert spesialutviklet VM-mat basert på norsk matkultur. Både i kiosker, gjestetelt og VM-sertifiserte restauranter i Oslo sentrum blir det mulig å smake norsk tradisjonsmat.</p>
-    <p type="title">Åpnet Matstreif 2010</p>
-    <p>[Landbruks- og matdepartementet, 30.09.2010]</p>
-    <p>- Jeg vil ha en politikk som fremmer lokale og regionale fortrinn, og dermed norske mattradisjoner og mangfold, sa landbruks- og matminister Lars Peder Brekk da han i dag åpnet Matstreif 2010 på Rådhusplassen i Oslo.</p>
-    <p type="title">Sjømat på Matstreif 2010</p>
-    <p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
-    <p>- Matstreif har vokst til å bli en viktig matbegivenhet i Oslo og jeg er svært glad for at sjømatsiden er så godt representert på Matstreif i år, sa fiskeri- og kystminister Lisbeth Berg-Hansen under åpningen av matfestivalen Matstreif på Rådhusplassen i Oslo torsdag.</p>
-    <p type="title">Profilerer norsk mat under SKI-VM 2011</p>
-    <p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
-    <p>Publikum og gjester til Ski-VM 2011 kan glede seg til å bli sultne. De får servert spesialutviklet VM-mat basert på norsk matkultur. Både i kiosker, gjestetelt og VM-sertifiserte restauranter i Oslo sentrum, blir det mulig å spise norsk tradisjonsmat.</p>
-    <p type="title">Matproduksjon i <span type="quote">”grønne byer”</span></p>
-    <p>[Landbruks- og matdepartementet, 30.09.2010]</p>
-    <p>Hagebruk i byer kan bidra til ferske matvarer, nye arbeidsplasser og muliggjør gjenvinning av avfall. I lavinntektsland kan <span type="quote">”grønne byer”</span> og hagebruk bidra til en ny sosial og økonomisk dimensjon.</p>
-    <p type="title">Presenterer menyene til Ski-VM 2011</p>
-    <p type="title">Presseinvitasjon:</p>
-    <p>[Landbruks- og matdepartementet, 29.09.2010]</p>
-    <p>Landbruks- og matminister Lars Peder Brekk og fiskeri- og kystminister Lisbeth Berg-Hansen presenterer i morgen opplegget for maten som skal serveres publikum under VM på ski i 2011. Det er verdensklasse over norsk tradisjonskost også.</p>
-    <p type="title">Matstreif 2010</p>
-    <p type="title">Presseinvitasjon:</p>
-    <p>[Landbruks- og matdepartementet, 29.09.2010]</p>
-    <p>I morgen åpner landbruks- og matminister Lars Peder Brekk og fiskeri- og kystminister Lisbeth Berg-Hansen årets Matstreif i Oslo. Fredag 1. oktober går Brekk en runde på matfestivalen for å se og smake.</p>
-    <p type="title">Regionale Ganefartvinnere 2010</p>
-    <p>[Landbruks- og matdepartementet, 29.09.2010]</p>
-    <p>Det er nå klart hvilke åtte spisesteder langs veien som er kåret til regionale Ganefartvinnere i 2010. Fra publikum har det kommet inn nær 3000 tips i løpet av sommeren og konkurransen har vært hard for de 207 spisestedene som har deltatt.</p>
-    <p type="title">Ustabile matvarepriser en trussel</p>
-    <p>[Landbruks- og matdepartementet, 28.09.2010]</p>
-    <p>Ustabile matvarepriser er en trussel mot matvaretilgangen, men det er ingen tegn på en global krise konkluderer eksperter fra mer enn 75 av FAOs medlemsland.</p>
-    <p type="title">Klart for Matstreif 2010</p>
-    <p>[Landbruks- og matdepartementet, 27.09.2010]</p>
-    <p>Torsdag 30. september åpner landbruks- og matminister Lars Peder Brekk årets Matstreif i Oslo. I år er arrangementet flyttet til Rådhusplassen i Oslo og er utvidet til tre dager. Matstreif byr i år på 3000 småskala-produkter fra nærmere 140 ulike mataktører.</p>
-    <p type="title">Norsk eplefest</p>
-    <p>[Landbruks- og matdepartementet, 24.09.2010]</p>
-    <p>Under Norsk Eplefest på Gvarv lørdag 25. september 2010 vil Norges beste eplemost 2010 bli kåra. Juryleiar er Ane Hansdatter Kismul, politisk rådgjevar i Landbruks- og matdepartementet.</p>
-    <p type="title">Smak på timeplanen i Smakens uke</p>
-    <p>[Landbruks- og matdepartementet, 24.09.2010]</p>
-    <p>Vil du og 6. klassen din sette ”Smak på timeplanen?”. 1.-5. november avvikles Smakens uke. I den forbindelse er undervisningsopplegget for 6. klasse nå ferdig til bruk.</p>
-    <p type="title">Brussel erklært som GMO-fri sone</p>
-    <p>[Landbruks- og matdepartementet, 24.09.2010]</p>
-    <p>Brussel har erklært seg som en GMO-fri region. Det kom fram på en konferanse for <span type="quote">”Nettverket for GMO-frie regioner”</span> nettopp i Brussel sist uke.</p>
-    <p type="title">eSporing for bærekraftig matproduksjon</p>
-    <p>[Landbruks- og matdepartementet, 23.09.2010]</p>
-    <p>Landbruks- og matminister Lars Peder Brekk holdt i dag innlegg om eSporingsprosjektet på ITtinget. - God sporing fra bonde til forbruker forutsetter grenseløs samhandling mellom aktørene i verdikjeden for mat, mener Brekk.</p>
-    <p type="title">Norsk lam til fårikålen</p>
-    <p>[Landbruks- og matdepartementet, 23.09.2010]</p>
-    <p>Årets norske lammesesong i gang, og fårikålelskere kan regne med at de får kjøpt norsk lammeekjøtt. I år har det ikke vært nødvendig med import for å fylle markedet, og det påregnes å bli et overskudd i løpet av lammeslaktingen.</p>
-    <p type="title">EU-parlamentet vil forby pølsekrig</p>
-    <p>[Landbruks- og matdepartementet, 23.09.2010]</p>
-    <p>EU-parlamentet mener det bør innføres forbud mot å selge med tap. Det ble vedtatt i en resolusjon tidligere denne måneden. Dette kan innebære at handelens kampanjer med pølse- og ribbekriger ikke lenger vil være mulig.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Borramuš - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>938</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/lmd/tema/mat.html?id=1270</origFileName><parallel_text xml:lang="nno" location="mat_id_1270.html"/><parallel_text xml:lang="sme" location="borramu_id_1270.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mat - regjeringen.no</p>
+<p type="title">Mat</p>
+<p>Målene for matpolitikken er trygg mat, kvalitet og forbrukerhensyn. Målet om trygg mat bygger på prinsippet om at det er næringsutøverne som har ansvaret for å sikre mattryggheten. Et sunt kosthold og en langsiktig matforsyning er i tillegg til nyskapning, mangfold og verdiskapning viktige innsatsområder i matpolitikken. Forbrukerne viser stor interesse for hvordan maten blir produsert, foredlet og omsatt. Forbrukernes meninger tillegges stor vekt i matpolitikken.</p>
+<list><p type="listitem"><em type="italic">Smaken av Norge </em>En matpolitisk strategi 2008 - 2010 </p>
+<p type="listitem"><em type="italic">Helhetlig kvalitetssystem i norsk matproduksjon </em>- Rapport </p>
+</list><p>Prop. 1 S (2009–2010) -</p>
+<list><p type="listitem"><em type="italic">Matpolitikk </em></p>
+<p type="listitem"><em type="italic">Forsking og innovasjon </em></p>
+</list><p>Abonner på e-postvarsling</p>
+<p type="title">Presenterer statsbudsjettet i Stavanger</p>
+<p>[Landbruks- og matdepartementet, 04.10.2010]</p>
+<p>Landbruks- og matminister Lars Peder Brekk presenterer statsbudsjettet 2011 på en pressekonferanse i Stavanger. Det skjer på Måltidets Hus kl. 11.00 etter at finanstalen er TV-overført.</p>
+<p type="title">Matstreif for fullt</p>
+<p>[Landbruks- og matdepartementet, 01.10.2010]</p>
+<p>Tre dager til endes, 30. september – 2. oktober, er det Matstreif på Rådhusplassen i Oslo. Årets streif byr på 3000 småskala-produkter fra 140 forskjellige mataktører. Fredag gikk landbruks- og matminister Lars Peder Brekk en runde på matfestivalen.</p>
+<p type="title">Norgesmester i kokkekunst</p>
+<p>[Landbruks- og matdepartementet, 01.10.2010]</p>
+<p>Ørjan Johannessen heter vinneren av Norgesmesterskapet i kokkekunst 2010. Han er med på det norske kokkelandslaget. Toer Morten Rathe fra Trondheim er på juniorlandslaget.</p>
+<p type="title">Oppdatert på landbruk og matnyheter i høst</p>
+<p>[Landbruks- og matdepartementet, 01.10.2010]</p>
+<p>Statsbudsjettet legges frem tirsdag 5. oktober. Hvordan faller det ut for landbruks- og matsektoren? Vil du holde deg oppdatert på fag- og politikkområdet landbruk og mat, kan du skaffe deg en gratis nyhetstjeneste fra Landbruks- og matdepartementets nettside.</p>
+<p type="title">Profilerer norsk mat under Ski-VM 2011</p>
+<p>[Landbruks- og matdepartementet, 30.09.2010]</p>
+<p>Publikum og gjester til Ski-VM 2011 kan glede seg til å bli sultne. De får servert spesialutviklet VM-mat basert på norsk matkultur. Både i kiosker, gjestetelt og VM-sertifiserte restauranter i Oslo sentrum blir det mulig å smake norsk tradisjonsmat.</p>
+<p type="title">Åpnet Matstreif 2010</p>
+<p>[Landbruks- og matdepartementet, 30.09.2010]</p>
+<p>- Jeg vil ha en politikk som fremmer lokale og regionale fortrinn, og dermed norske mattradisjoner og mangfold, sa landbruks- og matminister Lars Peder Brekk da han i dag åpnet Matstreif 2010 på Rådhusplassen i Oslo.</p>
+<p type="title">Sjømat på Matstreif 2010</p>
+<p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
+<p>- Matstreif har vokst til å bli en viktig matbegivenhet i Oslo og jeg er svært glad for at sjømatsiden er så godt representert på Matstreif i år, sa fiskeri- og kystminister Lisbeth Berg-Hansen under åpningen av matfestivalen Matstreif på Rådhusplassen i Oslo torsdag.</p>
+<p type="title">Profilerer norsk mat under SKI-VM 2011</p>
+<p>[Fiskeri- og kystdepartementet, 30.09.2010]</p>
+<p>Publikum og gjester til Ski-VM 2011 kan glede seg til å bli sultne. De får servert spesialutviklet VM-mat basert på norsk matkultur. Både i kiosker, gjestetelt og VM-sertifiserte restauranter i Oslo sentrum, blir det mulig å spise norsk tradisjonsmat.</p>
+<p type="title">Matproduksjon i <span type="quote">”grønne byer”</span></p>
+<p>[Landbruks- og matdepartementet, 30.09.2010]</p>
+<p>Hagebruk i byer kan bidra til ferske matvarer, nye arbeidsplasser og muliggjør gjenvinning av avfall. I lavinntektsland kan <span type="quote">”grønne byer”</span> og hagebruk bidra til en ny sosial og økonomisk dimensjon.</p>
+<p type="title">Presenterer menyene til Ski-VM 2011</p>
+<p type="title">Presseinvitasjon:</p>
+<p>[Landbruks- og matdepartementet, 29.09.2010]</p>
+<p>Landbruks- og matminister Lars Peder Brekk og fiskeri- og kystminister Lisbeth Berg-Hansen presenterer i morgen opplegget for maten som skal serveres publikum under VM på ski i 2011. Det er verdensklasse over norsk tradisjonskost også.</p>
+<p type="title">Matstreif 2010</p>
+<p type="title">Presseinvitasjon:</p>
+<p>[Landbruks- og matdepartementet, 29.09.2010]</p>
+<p>I morgen åpner landbruks- og matminister Lars Peder Brekk og fiskeri- og kystminister Lisbeth Berg-Hansen årets Matstreif i Oslo. Fredag 1. oktober går Brekk en runde på matfestivalen for å se og smake.</p>
+<p type="title">Regionale Ganefartvinnere 2010</p>
+<p>[Landbruks- og matdepartementet, 29.09.2010]</p>
+<p>Det er nå klart hvilke åtte spisesteder langs veien som er kåret til regionale Ganefartvinnere i 2010. Fra publikum har det kommet inn nær 3000 tips i løpet av sommeren og konkurransen har vært hard for de 207 spisestedene som har deltatt.</p>
+<p type="title">Ustabile matvarepriser en trussel</p>
+<p>[Landbruks- og matdepartementet, 28.09.2010]</p>
+<p>Ustabile matvarepriser er en trussel mot matvaretilgangen, men det er ingen tegn på en global krise konkluderer eksperter fra mer enn 75 av FAOs medlemsland.</p>
+<p type="title">Klart for Matstreif 2010</p>
+<p>[Landbruks- og matdepartementet, 27.09.2010]</p>
+<p>Torsdag 30. september åpner landbruks- og matminister Lars Peder Brekk årets Matstreif i Oslo. I år er arrangementet flyttet til Rådhusplassen i Oslo og er utvidet til tre dager. Matstreif byr i år på 3000 småskala-produkter fra nærmere 140 ulike mataktører.</p>
+<p type="title">Norsk eplefest</p>
+<p>[Landbruks- og matdepartementet, 24.09.2010]</p>
+<p>Under Norsk Eplefest på Gvarv lørdag 25. september 2010 vil Norges beste eplemost 2010 bli kåra. Juryleiar er Ane Hansdatter Kismul, politisk rådgjevar i Landbruks- og matdepartementet.</p>
+<p type="title">Smak på timeplanen i Smakens uke</p>
+<p>[Landbruks- og matdepartementet, 24.09.2010]</p>
+<p>Vil du og 6. klassen din sette ”Smak på timeplanen?”. 1.-5. november avvikles Smakens uke. I den forbindelse er undervisningsopplegget for 6. klasse nå ferdig til bruk.</p>
+<p type="title">Brussel erklært som GMO-fri sone</p>
+<p>[Landbruks- og matdepartementet, 24.09.2010]</p>
+<p>Brussel har erklært seg som en GMO-fri region. Det kom fram på en konferanse for <span type="quote">”Nettverket for GMO-frie regioner”</span> nettopp i Brussel sist uke.</p>
+<p type="title">eSporing for bærekraftig matproduksjon</p>
+<p>[Landbruks- og matdepartementet, 23.09.2010]</p>
+<p>Landbruks- og matminister Lars Peder Brekk holdt i dag innlegg om eSporingsprosjektet på ITtinget. - God sporing fra bonde til forbruker forutsetter grenseløs samhandling mellom aktørene i verdikjeden for mat, mener Brekk.</p>
+<p type="title">Norsk lam til fårikålen</p>
+<p>[Landbruks- og matdepartementet, 23.09.2010]</p>
+<p>Årets norske lammesesong i gang, og fårikålelskere kan regne med at de får kjøpt norsk lammeekjøtt. I år har det ikke vært nødvendig med import for å fylle markedet, og det påregnes å bli et overskudd i løpet av lammeslaktingen.</p>
+<p type="title">EU-parlamentet vil forby pølsekrig</p>
+<p>[Landbruks- og matdepartementet, 23.09.2010]</p>
+<p>EU-parlamentet mener det bør innføres forbud mot å selge med tap. Det ble vedtatt i en resolusjon tidligere denne måneden. Dette kan innebære at handelens kampanjer med pølse- og ribbekriger ikke lenger vil være mulig.</p>
+</body></document>

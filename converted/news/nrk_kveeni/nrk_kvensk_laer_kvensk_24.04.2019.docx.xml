@@ -1,47 +1,25 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="news"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>266</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>orig/fkv/news/nrk_kveeni/nrk_kvensk_laer_kvensk_24.04.2019.docx</origFileName>
-    <parallel_text xml:lang="fkv" location="nrk_kvensk_laer_kvensk_24.04.2019.docx"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="fkv">NRK Kvensk / Lær kvensk</p>
-    <p xml:lang="fkv">Oversatt til kvensk av Kainun institutti – Kvensk institutt 24.04.2019 Pirjo Paavalniemi</p>
-    <p xml:lang="est">Publiseres 30.4.</p>
-    <p xml:lang="fin">Opi kväänii: Lauluhetki</p>
-    <p xml:lang="fkv">Lemmijovessa, Marjapounun lastentarhaan Variksenmarjatuvassa, opithaan lapset puhumhaan kväänii, ja lisäksi het opithaan kans laulamhaan kvääniksi. Ja het tykäthään ette se oon soma.</p>
-    <p xml:lang="fkv">Kuvateksti: Lapset Marjapounun lastentarhaassa Lemmijovessa tykäthään laulaat, ja het piethään ette se oon soma laulaat kvääniksi.</p>
-    <p>Lær kvensk: Sangstund</p>
-    <p xml:lang="nno">På Krøkebærstua i Bærtua barnehage i Lakselv lærer barna seg ikke bare å snakke kvensk, men også å synge på kvensk. Og det syns de er morsomt.</p>
-    <p xml:lang="nno">Barna i Bærtua barnehage i Lakselv liker godt å synge og syns det er morsomt å synge på kvensk.</p>
-    <p xml:lang="koi">---------------------------------</p>
-    <p xml:lang="est">Publiseres 8.5.</p>
-    <p xml:lang="fin">Opi kväänii: Pallopeli</p>
-    <p xml:lang="fkv">Levi ja Peder oon koulun saalissa ja viskothaan palloo. – Viskaa minule, sannoo Levi kvääniksi.</p>
-    <p xml:lang="fkv">Kuvateksti: Levi ja Peder oon saalissa missä het tykäthään viskoot palloo toinen toisele, ja het freistathaan kans viskata pallon korhiin.</p>
-    <p xml:lang="fkv">Lær kvensk: Ballspill</p>
-    <p>Levi og Peder er i gymsalen på skolen og kaster ball. – Kast til meg, sier Levi på kvensk.</p>
-    <p>Levi og Peder er i gymsalen der de liker å kaste ballen til hverandre og forsøke å treffe kurven.</p>
-    <p xml:lang="est">Publiseres 15.5.</p>
-    <p xml:lang="fin">Opi kväänii: Leikkihetki</p>
-    <p xml:lang="fkv">Amalie ja Elvira tykäthään leikkiit kuvapalapelin kans, ja het löyethään sekä koirii ja kissoi. Ja mitä oon <span type="quote" xml:lang="deu">”hund”</span> ja <span type="quote" xml:lang="swe">”katt”</span> kvääniksi?</p>
-    <p xml:lang="fkv">Kuvateksti: Amalie ja Elvira leikithään kuvapalapelin kans ja löyethään sekä kissoi ja koirii.</p>
-    <p>Lær kvensk: Lekestund</p>
-    <p>Amalie og Elvira liker å leke med puslespill, og de finner både hunder og katter. Og hva heter det på kvensk?</p>
-    <p>Amalie og Elvira leker med puslespill og finner både katter og hunder.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="news"/><author><unknown/></author><wordcount>266</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>orig/fkv/news/nrk_kveeni/nrk_kvensk_laer_kvensk_24.04.2019.docx</origFileName><parallel_text xml:lang="fkv" location="nrk_kvensk_laer_kvensk_24.04.2019.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="fkv">NRK Kvensk / Lær kvensk</p>
+<p xml:lang="fkv">Oversatt til kvensk av Kainun institutti – Kvensk institutt 24.04.2019 Pirjo Paavalniemi</p>
+<p xml:lang="est">Publiseres 30.4.</p>
+<p xml:lang="fin">Opi kväänii: Lauluhetki</p>
+<p xml:lang="fkv">Lemmijovessa, Marjapounun lastentarhaan Variksenmarjatuvassa, opithaan lapset puhumhaan kväänii, ja lisäksi het opithaan kans laulamhaan kvääniksi. Ja het tykäthään ette se oon soma.</p>
+<p xml:lang="fkv">Kuvateksti: Lapset Marjapounun lastentarhaassa Lemmijovessa tykäthään laulaat, ja het piethään ette se oon soma laulaat kvääniksi.</p>
+<p>Lær kvensk: Sangstund</p>
+<p xml:lang="nno">På Krøkebærstua i Bærtua barnehage i Lakselv lærer barna seg ikke bare å snakke kvensk, men også å synge på kvensk. Og det syns de er morsomt.</p>
+<p xml:lang="nno">Barna i Bærtua barnehage i Lakselv liker godt å synge og syns det er morsomt å synge på kvensk.</p>
+<p xml:lang="vep">---------------------------------</p>
+<p xml:lang="est">Publiseres 8.5.</p>
+<p xml:lang="fin">Opi kväänii: Pallopeli</p>
+<p xml:lang="fkv">Levi ja Peder oon koulun saalissa ja viskothaan palloo. – Viskaa minule, sannoo Levi kvääniksi.</p>
+<p xml:lang="fkv">Kuvateksti: Levi ja Peder oon saalissa missä het tykäthään viskoot palloo toinen toisele, ja het freistathaan kans viskata pallon korhiin.</p>
+<p xml:lang="fkv">Lær kvensk: Ballspill</p>
+<p>Levi og Peder er i gymsalen på skolen og kaster ball. – Kast til meg, sier Levi på kvensk.</p>
+<p>Levi og Peder er i gymsalen der de liker å kaste ballen til hverandre og forsøke å treffe kurven.</p>
+<p xml:lang="est">Publiseres 15.5.</p>
+<p xml:lang="fin">Opi kväänii: Leikkihetki</p>
+<p xml:lang="fkv">Amalie ja Elvira tykäthään leikkiit kuvapalapelin kans, ja het löyethään sekä koirii ja kissoi. Ja mitä oon <span type="quote" xml:lang="deu">”hund”</span> ja <span type="quote" xml:lang="swe">”katt”</span> kvääniksi?</p>
+<p xml:lang="fkv">Kuvateksti: Amalie ja Elvira leikithään kuvapalapelin kans ja löyethään sekä kissoi ja koirii.</p>
+<p>Lær kvensk: Lekestund</p>
+<p>Amalie og Elvira liker å leke med puslespill, og de finner både hunder og katter. Og hva heter det på kvensk?</p>
+<p>Amalie og Elvira leker med puslespill og finner både katter og hunder.</p>
+</body></document>

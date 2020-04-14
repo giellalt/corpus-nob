@@ -1,86 +1,33 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>235</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Opplaering/Laeremidler/Stipend-og-tilskudd</origFileName>
-    <parallel_text xml:lang="sme" location="stipeanda-ja-doarjja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stipend og tilskudd / Læremidler / Opplæring / Forsiden - Sametinget</p>
-    <p type="title">Stipend og tilskudd</p>
-    <p>Frist: 15.03.2016 23:59</p>
-    <p type="title">Tilskudd til utvikling av læremidler til grunnopplæring og særskilt tilrettelagte læremidler</p>
-    <p>
-      <em type="bold">Hvem kan få tilskudd: </em>
-    </p>
-    <p>Forlag, foretak og private institusjoner og andre miljøer.</p>
-    <p>
-      <em type="bold">Hva kan man få tilskudd til: </em>
-    </p>
-    <p>Det kan gis tilskudd til nyutvikling, parallellutgaver, nyopptrykk, revidering av eksisterende læremidler, tilleggskomponenter til, eller komplementering av læremiddel/læreverk.</p>
-    <p>
-      <em type="bold">Hvor mye kan man få: </em>
-    </p>
-    <p>Det kan gis inntil 100 % tilskudd til utvikling og produksjon av læremidler. Sametinget foretar årlige prioriteringer for satsningsområder innen de ulike fag og årstrinn. Dersom det søkes om tilskudd til prosjekter utenfor årets prioriteringsområder, må det legges ved begrunnelse og dokumentasjon for behovet.</p>
-    <p>
-      <em type="bold">Prioriteringer 2016 </em>
-    </p>
-    <p>
-      <em type="bold">Læremidler på sørsamisk: </em>
-    </p>
-    <list>
-      <p type="listitem">Samisk som førstespråk 9. årstrinn.</p>
-      <p type="listitem">Samisk som førstespråk Vg2.</p>
-      <p type="listitem">Samisk som andrespråk , Samisk 3 ungdomstrinn/Samisk 4 Videregående opplæring, Nivåer 1-3.</p>
-      <p type="listitem">Samfunnsfag, Historie 5.-7. årstrinn. Nyproduksjon eller oversetting.</p>
-      <p type="listitem">Samfunnsfag, Samfunnskunnskap 8.-10. årstrinn. Parallellutgivelse med lulesamisk.</p>
-      <p type="listitem">Samfunnsfag 1.-4. årstrinn.</p>
-      <p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
-    </list>
-    <p>
-      <em type="bold">Læremidler på lulesamisk: </em>
-    </p>
-    <list>
-      <p type="listitem">Samfunnsfag , Historie 5.-7. årstrinn. Nyproduksjon eller oversetting.</p>
-      <p type="listitem">Samfunnsfag, Samfunnskunnskap 8.-10. årstrinn. Parallellutgivelse med sørsamisk.</p>
-      <p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
-    </list>
-    <p>
-      <em type="bold">Læremidler på nordsamisk: </em>
-    </p>
-    <list>
-      <p type="listitem">Samisk som førstespråk Vg2.</p>
-      <p type="listitem">Samisk som andrespråk, Videregående opplæring, Nivåer 7-9.</p>
-      <p type="listitem">Naturfag 5.-7. årstrinn.</p>
-      <p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
-    </list>
-    <p>
-      <em type="bold">Særskilt tilrettelagte læremidler på sør-, lule- og nordsamisk </em>
-      <em type="bold">f </em>
-      <em type="bold">or elever i mellom- og ungdomsskoletrinnet innen fagområdene: </em>
-    </p>
-    <list>
-      <p type="listitem">Språk og kommunikasjon.</p>
-      <p type="listitem">Lese- og skrivevansker.</p>
-      <p type="listitem">Syn og/eller hørsel.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>235</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Opplaering/Laeremidler/Stipend-og-tilskudd</origFileName><parallel_text xml:lang="sme" location="stipeanda-ja-doarjja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stipend og tilskudd / Læremidler / Opplæring / Forsiden - Sametinget</p>
+<p type="title">Stipend og tilskudd</p>
+<p>Frist: 15.03.2016 23:59</p>
+<p type="title">Tilskudd til utvikling av læremidler til grunnopplæring og særskilt tilrettelagte læremidler</p>
+<p><em type="bold">Hvem kan få tilskudd: </em></p>
+<p>Forlag, foretak og private institusjoner og andre miljøer.</p>
+<p><em type="bold">Hva kan man få tilskudd til: </em></p>
+<p>Det kan gis tilskudd til nyutvikling, parallellutgaver, nyopptrykk, revidering av eksisterende læremidler, tilleggskomponenter til, eller komplementering av læremiddel/læreverk.</p>
+<p><em type="bold">Hvor mye kan man få: </em></p>
+<p>Det kan gis inntil 100 % tilskudd til utvikling og produksjon av læremidler. Sametinget foretar årlige prioriteringer for satsningsområder innen de ulike fag og årstrinn. Dersom det søkes om tilskudd til prosjekter utenfor årets prioriteringsområder, må det legges ved begrunnelse og dokumentasjon for behovet.</p>
+<p><em type="bold">Prioriteringer 2016 </em></p>
+<p><em type="bold">Læremidler på sørsamisk: </em></p>
+<list><p type="listitem">Samisk som førstespråk 9. årstrinn.</p>
+<p type="listitem">Samisk som førstespråk Vg2.</p>
+<p type="listitem">Samisk som andrespråk , Samisk 3 ungdomstrinn/Samisk 4 Videregående opplæring, Nivåer 1-3.</p>
+<p type="listitem">Samfunnsfag, Historie 5.-7. årstrinn. Nyproduksjon eller oversetting.</p>
+<p type="listitem">Samfunnsfag, Samfunnskunnskap 8.-10. årstrinn. Parallellutgivelse med lulesamisk.</p>
+<p type="listitem">Samfunnsfag 1.-4. årstrinn.</p>
+<p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
+</list><p><em type="bold">Læremidler på lulesamisk: </em></p>
+<list><p type="listitem">Samfunnsfag , Historie 5.-7. årstrinn. Nyproduksjon eller oversetting.</p>
+<p type="listitem">Samfunnsfag, Samfunnskunnskap 8.-10. årstrinn. Parallellutgivelse med sørsamisk.</p>
+<p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
+</list><p><em type="bold">Læremidler på nordsamisk: </em></p>
+<list><p type="listitem">Samisk som førstespråk Vg2.</p>
+<p type="listitem">Samisk som andrespråk, Videregående opplæring, Nivåer 7-9.</p>
+<p type="listitem">Naturfag 5.-7. årstrinn.</p>
+<p type="listitem">Design og duodji Vg2-Vg3. Temabaserte læremidler.</p>
+</list><p><em type="bold">Særskilt tilrettelagte læremidler på sør-, lule- og nordsamisk </em><em type="bold">f </em><em type="bold">or elever i mellom- og ungdomsskoletrinnet innen fagområdene: </em></p>
+<list><p type="listitem">Språk og kommunikasjon.</p>
+<p type="listitem">Lese- og skrivevansker.</p>
+<p type="listitem">Syn og/eller hørsel.</p>
+</list></body></document>

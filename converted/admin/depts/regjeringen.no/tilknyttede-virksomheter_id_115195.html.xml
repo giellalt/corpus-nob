@@ -1,56 +1,26 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Daidda gullevaš doaimmat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Fiskeri- og kystdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>221</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/fkd/dep/tilknyttede-virksomheter.html?id=115195</origFileName>
-    <parallel_text xml:lang="eng" location="institutions_id_115195.html"/>
-    <parallel_text xml:lang="nno" location="tilknytta-verksemder_id_115195.html"/>
-    <parallel_text xml:lang="sme" location="daidda-gulleva-doaimmat_id_115195.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tilknyttede virksomheter - regjeringen.no</p>
-    <p type="title">Mattilsynet</p>
-    <p>Mattilsynet, med hovedkontor i Oslo, er en felles etat under Landbruks- og matdepartementet, Fiskeri- og kystdepartementet og Helse- og omsorgsdepartementet. Mattilsynet har ansvar for å føre tilsyn med trygghet og kvalitet av sjømat. Nasjonalt senter for fisk og sjømat ligger i Bergen.</p>
-    <p>Nettsiden til Mattilsynet</p>
-    <p type="title">Garantikassen for fiskerne</p>
-    <p>Garantikassen for fiskerne i Trondheim administrerer fiskernes sosiale ordninger.</p>
-    <p>Nettsiden til Garantikassen for fiskerne</p>
-    <p type="title">Nofima</p>
-    <p>Nofima driver forskning og utvikling for akvakulturnæringen, fiskerinæringen og matindustrien.</p>
-    <p>Nettsiden til Nofima</p>
-    <p type="title">Eksportutvalget for fisk</p>
-    <p>Eksportutvalget for fisk (EFF) i Tromsø har ansvar for felles markedsføringstiltak for fisk og fiskeprodukter i utlandet og innenlands. Eksportutvalget har utsendinger i viktige markeder.</p>
-    <p>Nettsiden til Eksportutvalget for fisk</p>
-    <p type="title">Forskningsrådet</p>
-    <p>Norges forskningsråd i Oslo forvalter en betydelig del av fiskeriforskningsmidlene etter retningslinjer gitt av Fiskeri- og kystdepartementet.</p>
-    <p>Nettsiden til Forskningsrådet</p>
-    <p type="title">Innovasjon Norge</p>
-    <p>Innovasjon Norge er et sentralt redskap i arbeidet med marin innovasjon og verdiskaping. Her administreres økonomiske virkemidler overfor flåte, havbruk og fiskeindustri etter overordnede retningslinjer gitt av Fiskeri- og kystdepartementet.</p>
-    <p>Nettsiden til Innovasjon Norge</p>
-    <p type="title">Fiskeri- og havbruksnæringens forskningsfond</p>
-    <p>Fiskeri- og havbruksnæringens forskningsfond (FHF) er fellesorgan for næringens forskningsengasjement.</p>
-    <p>Nettsiden til Fiskeri- og havbruksnæringens forskningsfond</p>
-    <p type="title">Veterinærinstituttet</p>
-    <p>Veterinærinstituttet er for Landbruks- og matdepartementet og Fiskeri- og kystdepartementet et ledende institutt innen dyrehelse og mattrygghet knyttet til landbruksbasert matproduksjon og helse hos akvatiske organismer.</p>
-    <p>Nettsiden til Veterinærinstituttet</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Daidda gullevaš doaimmat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Fiskeri- og kystdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>221</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/fkd/dep/tilknyttede-virksomheter.html?id=115195</origFileName><parallel_text xml:lang="eng" location="institutions_id_115195.html"/><parallel_text xml:lang="nno" location="tilknytta-verksemder_id_115195.html"/><parallel_text xml:lang="sme" location="daidda-gulleva-doaimmat_id_115195.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tilknyttede virksomheter - regjeringen.no</p>
+<p type="title">Mattilsynet</p>
+<p>Mattilsynet, med hovedkontor i Oslo, er en felles etat under Landbruks- og matdepartementet, Fiskeri- og kystdepartementet og Helse- og omsorgsdepartementet. Mattilsynet har ansvar for å føre tilsyn med trygghet og kvalitet av sjømat. Nasjonalt senter for fisk og sjømat ligger i Bergen.</p>
+<p>Nettsiden til Mattilsynet</p>
+<p type="title">Garantikassen for fiskerne</p>
+<p>Garantikassen for fiskerne i Trondheim administrerer fiskernes sosiale ordninger.</p>
+<p>Nettsiden til Garantikassen for fiskerne</p>
+<p type="title">Nofima</p>
+<p>Nofima driver forskning og utvikling for akvakulturnæringen, fiskerinæringen og matindustrien.</p>
+<p>Nettsiden til Nofima</p>
+<p type="title">Eksportutvalget for fisk</p>
+<p>Eksportutvalget for fisk (EFF) i Tromsø har ansvar for felles markedsføringstiltak for fisk og fiskeprodukter i utlandet og innenlands. Eksportutvalget har utsendinger i viktige markeder.</p>
+<p>Nettsiden til Eksportutvalget for fisk</p>
+<p type="title">Forskningsrådet</p>
+<p>Norges forskningsråd i Oslo forvalter en betydelig del av fiskeriforskningsmidlene etter retningslinjer gitt av Fiskeri- og kystdepartementet.</p>
+<p>Nettsiden til Forskningsrådet</p>
+<p type="title">Innovasjon Norge</p>
+<p>Innovasjon Norge er et sentralt redskap i arbeidet med marin innovasjon og verdiskaping. Her administreres økonomiske virkemidler overfor flåte, havbruk og fiskeindustri etter overordnede retningslinjer gitt av Fiskeri- og kystdepartementet.</p>
+<p>Nettsiden til Innovasjon Norge</p>
+<p type="title">Fiskeri- og havbruksnæringens forskningsfond</p>
+<p>Fiskeri- og havbruksnæringens forskningsfond (FHF) er fellesorgan for næringens forskningsengasjement.</p>
+<p>Nettsiden til Fiskeri- og havbruksnæringens forskningsfond</p>
+<p type="title">Veterinærinstituttet</p>
+<p>Veterinærinstituttet er for Landbruks- og matdepartementet og Fiskeri- og kystdepartementet et ledende institutt innen dyrehelse og mattrygghet knyttet til landbruksbasert matproduksjon og helse hos akvatiske organismer.</p>
+<p>Nettsiden til Veterinærinstituttet</p>
+</body></document>

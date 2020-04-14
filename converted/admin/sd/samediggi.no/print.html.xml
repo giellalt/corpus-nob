@@ -1,117 +1,89 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>431</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.sametinget.no/layout/set/print</origFileName>
-    <parallel_text xml:lang="sma" location="print.html"/>
-    <parallel_text xml:lang="sme" location="print.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Forsiden - Sametinget</p>
-    <p>
-      <span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span>
-    </p>
-    <p>Om Sametinget</p>
-    <p>Valg og manntall</p>
-    <p>Stipend og tilskudd</p>
-    <p>Web-tv</p>
-    <p xml:lang="myv">`</p>
-    <list>
-      <p type="listitem">Sametinget komitémøter starter mandag 29. februar kl.09.00 og avsluttes tirsdag 1. mars innen kl.15.00.  Plenumsmøte starter onsdag 2. mars kl.09.00 og avsluttes fredag 4. mars innen kl.15.00.</p>
-      <p type="listitem">Les mer om komité- og plenumsmøte her</p>
-      <p type="listitem">Se vår sending på Web-tv</p>
-      <p type="listitem">Gjennom duodjiforhandlingene i 2015 mellom Sametinget, Duojáriid Ealáhussearvi og Sámiid Duodji, ble det enighet om å vurdere om duodjiorganisasjonene kan overta forvaltningen av driftstilskuddsordningen. Sametinget innhenet Consis Karasjok til de...</p>
-      <p type="listitem">Sametingspresident Aili Keskitalo er glad for at språkutvalgets delrapport er levert. –Vi ønsker at rapporten bidrar til en god debatt omfremtidig forvaltning av samisk språk, sier sametingspresident Aili Keskitalo.</p>
-      <p type="listitem">Vi gjør oppmerksom på følgende søknadsfrister:</p>
-      <p type="listitem">Tilskudd til kulturminnevern – 15.februar.</p>
-      <p type="listitem">Samiske barnehager og barnehager med samisk avdeling - 15.februar.</p>
-      <p type="listitem">Duodjistipend - 25.februar.</p>
-      <p type="listitem">Sametingsrådet har nå fremmet sak til Sametingets plenum med innstilling om å si nei til planene for gruvedrift i Nussir og Gumppenjunni.</p>
-      <p type="listitem">Sametinget og Oslo kommune signerer felles samarbeidserklæring lørdag 6. februar i Oslo.</p>
-      <p type="listitem">Les mer.</p>
-      <p type="listitem">Sametingsrådet skal besøke ulike lokal samfunnfor å få innspill til Sametingets politikk innen areal og miljø.  –Vi vil invitere samiske lag, foreninger, næringsutøvere og fagfolk i nærmiljøet til å delta i arbeidet med å forme vår politikk...</p>
-    </list>
-    <list/>
-    <p>Om Sametinget</p>
-    <p>Representanter</p>
-    <p xml:lang="isl">Plenum</p>
-    <p>Sametingsrådet</p>
-    <p>Dokumenter</p>
-    <p xml:lang="deu">Kalender</p>
-    <p xml:lang="nno">Kontakt oss</p>
-    <p xml:lang="nno">Gå til Om Sametinget</p>
-    <p type="title">Språk</p>
-    <p type="title" xml:lang="nno">Fakta om samiske språk</p>
-    <p type="title" xml:lang="swe">Forvaltningsområde</p>
-    <p type="title">Samiske stedsnavn</p>
-    <p xml:lang="nno">Gå til Språk</p>
-    <p type="title" xml:lang="est">Kulturliv</p>
-    <p type="title">Stipend og tilskudd</p>
-    <p type="title" xml:lang="deu">Medier</p>
-    <p type="title" xml:lang="nno">Idrett</p>
-    <p xml:lang="nno">Gå til Kulturliv</p>
-    <p type="title">Opplæring</p>
-    <p type="title" xml:lang="dan">Barnehager</p>
-    <p type="title">Grunnskole og VGS</p>
-    <p type="title">Forskning og høyere utdanning</p>
-    <p xml:lang="nno">Gå til Opplæring</p>
-    <p type="title" xml:lang="dan">Næringer</p>
-    <p type="title" xml:lang="nno">Reindrift</p>
-    <p type="title">Marine næringer</p>
-    <p type="title" xml:lang="nno">Jordbruk</p>
-    <p xml:lang="dan">Gå til Næringer</p>
-    <p type="title" xml:lang="nno">Helse og sosial</p>
-    <p type="title" xml:lang="dan">Barnevern</p>
-    <p type="title" xml:lang="dan">Helse</p>
-    <p type="title" xml:lang="est">Sosial</p>
-    <p xml:lang="nno">Gå til Helse og sosial</p>
-    <p type="title" xml:lang="nno">Miljø, areal og kulturvern</p>
-    <p type="title" xml:lang="kal">Kulturminner</p>
-    <p type="title" xml:lang="vep">Naturmangfold</p>
-    <p type="title" xml:lang="vep">Areal</p>
-    <p xml:lang="nno">Gå til Miljø, areal og kulturvern</p>
-    <p type="title">Land og ressursrettigheter</p>
-    <p type="title">Landrettigheter</p>
-    <p type="title">Fiskerettigheter</p>
-    <p type="title" xml:lang="nno">Kartlegging</p>
-    <p xml:lang="nno">Gå til Land og ressursrettigheter</p>
-    <p type="title">Internasjonalt arbeid</p>
-    <p type="title">Samisk samarbeid</p>
-    <p type="title">Grenseoverskridende regionalt samarbeid</p>
-    <p type="title">Internasjonalt urfolkssamarbeid</p>
-    <p xml:lang="nno">Gå til Internasjonalt arbeid</p>
-    <p type="title">Politisk organisasjon</p>
-    <p>Sametingsrådet</p>
-    <p>Rådet fungerer som Sametingets regjering, og står for den daglig politiske virksomheten. Sametingsrådets medlemmer er oppnevnt av presidenten, som leder rådet.</p>
-    <p>Plenumsforsamlingen</p>
-    <p>Sametinget i plenum er Sametingets øverste organ og myndighet. Plenumsmøter avholdes vanligvis fire ganger i året, samme uke som komitémøtene.</p>
-    <p type="title" xml:lang="nno">Hva skjer?</p>
-    <p xml:lang="koi">06.03.2016 - 11.03.2016</p>
-    <p xml:lang="nno">Deltar på AWG</p>
-    <p xml:lang="koi">08.03.2016 - 08.03.2016</p>
-    <p xml:lang="sma">Generalforsamling Åarjelhsaemien Teatere</p>
-    <p xml:lang="koi">10.03.2016 - 10.03.2016</p>
-    <p>Seminar - Joikens frie natur</p>
-    <p xml:lang="koi">14.03.2016 - 17.03.2016</p>
-    <p>AIEC2016 arrangeres i Kautokeino</p>
-    <p xml:lang="koi">14.03.2016 - 14.03.2016</p>
-    <p xml:lang="eng">Violence Against Indigenous Women</p>
-    <p xml:lang="koi">07.04.2016 - 08.04.2016</p>
-    <p>Invitasjon til kommuneseminar</p>
-    <p type="title">Biblioteket</p>
-    <p>Biblioteket</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>431</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.sametinget.no/layout/set/print</origFileName><parallel_text xml:lang="sma" location="print.html"/><parallel_text xml:lang="sme" location="print.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Forsiden - Sametinget</p>
+<p><span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span></p>
+<p>Om Sametinget</p>
+<p>Valg og manntall</p>
+<p>Stipend og tilskudd</p>
+<p>Web-tv</p>
+<p xml:lang="myv">`</p>
+<list><p type="listitem">Sametinget komitémøter starter mandag 29. februar kl.09.00 og avsluttes tirsdag 1. mars innen kl.15.00.  Plenumsmøte starter onsdag 2. mars kl.09.00 og avsluttes fredag 4. mars innen kl.15.00.</p>
+<p type="listitem">Les mer om komité- og plenumsmøte her</p>
+<p type="listitem">Se vår sending på Web-tv</p>
+<p type="listitem">Gjennom duodjiforhandlingene i 2015 mellom Sametinget, Duojáriid Ealáhussearvi og Sámiid Duodji, ble det enighet om å vurdere om duodjiorganisasjonene kan overta forvaltningen av driftstilskuddsordningen. Sametinget innhenet Consis Karasjok til de...</p>
+<p type="listitem">Sametingspresident Aili Keskitalo er glad for at språkutvalgets delrapport er levert. –Vi ønsker at rapporten bidrar til en god debatt omfremtidig forvaltning av samisk språk, sier sametingspresident Aili Keskitalo.</p>
+<p type="listitem">Vi gjør oppmerksom på følgende søknadsfrister:</p>
+<p type="listitem">Tilskudd til kulturminnevern – 15.februar.</p>
+<p type="listitem">Samiske barnehager og barnehager med samisk avdeling - 15.februar.</p>
+<p type="listitem">Duodjistipend - 25.februar.</p>
+<p type="listitem">Sametingsrådet har nå fremmet sak til Sametingets plenum med innstilling om å si nei til planene for gruvedrift i Nussir og Gumppenjunni.</p>
+<p type="listitem">Sametinget og Oslo kommune signerer felles samarbeidserklæring lørdag 6. februar i Oslo.</p>
+<p type="listitem">Les mer.</p>
+<p type="listitem">Sametingsrådet skal besøke ulike lokal samfunnfor å få innspill til Sametingets politikk innen areal og miljø.  –Vi vil invitere samiske lag, foreninger, næringsutøvere og fagfolk i nærmiljøet til å delta i arbeidet med å forme vår politikk...</p>
+</list><list/><p>Om Sametinget</p>
+<p>Representanter</p>
+<p xml:lang="isl">Plenum</p>
+<p>Sametingsrådet</p>
+<p>Dokumenter</p>
+<p xml:lang="deu">Kalender</p>
+<p xml:lang="nno">Kontakt oss</p>
+<p xml:lang="nno">Gå til Om Sametinget</p>
+<p type="title">Språk</p>
+<p type="title" xml:lang="nno">Fakta om samiske språk</p>
+<p type="title" xml:lang="dan">Forvaltningsområde</p>
+<p type="title">Samiske stedsnavn</p>
+<p xml:lang="nno">Gå til Språk</p>
+<p type="title" xml:lang="est">Kulturliv</p>
+<p type="title">Stipend og tilskudd</p>
+<p type="title" xml:lang="deu">Medier</p>
+<p type="title" xml:lang="nno">Idrett</p>
+<p xml:lang="nno">Gå til Kulturliv</p>
+<p type="title">Opplæring</p>
+<p type="title" xml:lang="dan">Barnehager</p>
+<p type="title">Grunnskole og VGS</p>
+<p type="title">Forskning og høyere utdanning</p>
+<p xml:lang="nno">Gå til Opplæring</p>
+<p type="title" xml:lang="dan">Næringer</p>
+<p type="title" xml:lang="nno">Reindrift</p>
+<p type="title">Marine næringer</p>
+<p type="title" xml:lang="nno">Jordbruk</p>
+<p xml:lang="dan">Gå til Næringer</p>
+<p type="title" xml:lang="nno">Helse og sosial</p>
+<p type="title" xml:lang="dan">Barnevern</p>
+<p type="title" xml:lang="dan">Helse</p>
+<p type="title" xml:lang="est">Sosial</p>
+<p xml:lang="nno">Gå til Helse og sosial</p>
+<p type="title" xml:lang="nno">Miljø, areal og kulturvern</p>
+<p type="title" xml:lang="kal">Kulturminner</p>
+<p type="title" xml:lang="vep">Naturmangfold</p>
+<p type="title" xml:lang="vep">Areal</p>
+<p xml:lang="nno">Gå til Miljø, areal og kulturvern</p>
+<p type="title">Land og ressursrettigheter</p>
+<p type="title" xml:lang="swe">Landrettigheter</p>
+<p type="title">Fiskerettigheter</p>
+<p type="title" xml:lang="nno">Kartlegging</p>
+<p xml:lang="nno">Gå til Land og ressursrettigheter</p>
+<p type="title">Internasjonalt arbeid</p>
+<p type="title">Samisk samarbeid</p>
+<p type="title">Grenseoverskridende regionalt samarbeid</p>
+<p type="title">Internasjonalt urfolkssamarbeid</p>
+<p xml:lang="nno">Gå til Internasjonalt arbeid</p>
+<p type="title">Politisk organisasjon</p>
+<p>Sametingsrådet</p>
+<p>Rådet fungerer som Sametingets regjering, og står for den daglig politiske virksomheten. Sametingsrådets medlemmer er oppnevnt av presidenten, som leder rådet.</p>
+<p>Plenumsforsamlingen</p>
+<p>Sametinget i plenum er Sametingets øverste organ og myndighet. Plenumsmøter avholdes vanligvis fire ganger i året, samme uke som komitémøtene.</p>
+<p type="title" xml:lang="nno">Hva skjer?</p>
+<p xml:lang="vep">06.03.2016 - 11.03.2016</p>
+<p xml:lang="nno">Deltar på AWG</p>
+<p xml:lang="vep">08.03.2016 - 08.03.2016</p>
+<p xml:lang="sma">Generalforsamling Åarjelhsaemien Teatere</p>
+<p xml:lang="vep">10.03.2016 - 10.03.2016</p>
+<p>Seminar - Joikens frie natur</p>
+<p xml:lang="vep">14.03.2016 - 17.03.2016</p>
+<p>AIEC2016 arrangeres i Kautokeino</p>
+<p xml:lang="vep">14.03.2016 - 14.03.2016</p>
+<p xml:lang="eng">Violence Against Indigenous Women</p>
+<p xml:lang="vep">07.04.2016 - 08.04.2016</p>
+<p xml:lang="fkv">Invitasjon til kommuneseminar</p>
+<p type="title">Biblioteket</p>
+<p>Biblioteket</p>
+</body></document>

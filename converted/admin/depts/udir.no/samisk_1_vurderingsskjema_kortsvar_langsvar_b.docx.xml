@@ -1,133 +1,55 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>104</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>Samisk_1_Vurderingsskjema_kortsvar_langsvar_B.docx</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Skole </em>
-    </p>
-    <p xml:lang="deu">Gruppe</p>
-    <p xml:lang="vep">Eksaminandnr.</p>
-    <p xml:lang="nno">Fagkode</p>
-    <p xml:lang="nno">1.språk</p>
-    <p>Oppg.nr.</p>
-    <p>
-      <em type="bold">HELHET </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">1 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">2 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">3–4 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">5–6 </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold">Kommentarer </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">Elevsvaret som helhet </em>
-    </p>
-    <p>Kommunikasjon</p>
-    <p>Svar på oppgaven</p>
-    <p>
-      <em type="bold">Språk, formelle ferdigheter </em>
-    </p>
-    <p xml:lang="dan">Tekstforståelse</p>
-    <p>Morfologi</p>
-    <p xml:lang="nno">Ordforråd</p>
-    <p xml:lang="nno">Ortografi, syntaks</p>
-    <p xml:lang="nno">Sitat og kildemarkering</p>
-    <p xml:lang="vep">
-      <em type="bold">KORT TEKST </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">1 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">2 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">3 </em>
-      <em type="bold">– </em>
-      <em type="bold">4 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">5 </em>
-      <em type="bold">– </em>
-      <em type="bold">6 </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold">Kommentarer </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">Gjøre rede for faglig tema </em>
-    </p>
-    <p>Virkemidler</p>
-    <p xml:lang="deu">Analyse, fagspråk,</p>
-    <p xml:lang="dan">egne vurderinger</p>
-    <p xml:lang="vep">
-      <em type="bold">LANG TEKST </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">1 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">2 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">3–4 </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="bold">5–6 </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold">Kommentarer </em>
-    </p>
-    <p xml:lang="est">
-      <em type="bold">Tekststruktur </em>
-    </p>
-    <p>Refleksjon og selvstendighet</p>
-    <p xml:lang="isl">Sjangerkunnskap</p>
-    <p xml:lang="sme">Kreativitet</p>
-    <p>Bruk av virkemidler</p>
-    <p xml:lang="nno">Disposisjon, fokus</p>
-    <p>Saklig argumentasjon</p>
-    <p xml:lang="dan">
-      <em type="bold">Tekstforståelse </em>
-    </p>
-    <p>Virkemidler</p>
-    <p xml:lang="deu">Analyse</p>
-    <p xml:lang="nno">Fagspråk</p>
-    <p xml:lang="dan">Egne vurderinger</p>
-    <p>
-      <em type="bold">Tradisjonell kunnskap og språket i bruk </em>
-    </p>
-    <p xml:lang="dan">Gjøre rede for, vurdere, sammenligne, drøfte språklige og kulturelle forhold</p>
-    <p>gjøre rede for faglige temaer</p>
-    <p xml:lang="nno">Markering av sitat og kildebruk</p>
-    <p>
-      <em type="italic">Karakterforslag: </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>104</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>Samisk_1_Vurderingsskjema_kortsvar_langsvar_B.docx</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Skole </em></p>
+<p xml:lang="deu">Gruppe</p>
+<p xml:lang="vep">Eksaminandnr.</p>
+<p xml:lang="rmy-rlo">Fagkode</p>
+<p xml:lang="nno">1.språk</p>
+<p>Oppg.nr.</p>
+<p><em type="bold">HELHET </em></p>
+<p xml:lang="vep"><em type="bold">1 </em></p>
+<p xml:lang="vep"><em type="bold">2 </em></p>
+<p xml:lang="vep"><em type="bold">3–4 </em></p>
+<p xml:lang="vep"><em type="bold">5–6 </em></p>
+<p xml:lang="nno"><em type="bold">Kommentarer </em></p>
+<p xml:lang="swe"><em type="bold">Elevsvaret som helhet </em></p>
+<p>Kommunikasjon</p>
+<p>Svar på oppgaven</p>
+<p><em type="bold">Språk, formelle ferdigheter </em></p>
+<p xml:lang="dan">Tekstforståelse</p>
+<p>Morfologi</p>
+<p xml:lang="nno">Ordforråd</p>
+<p xml:lang="nno">Ortografi, syntaks</p>
+<p xml:lang="nno">Sitat og kildemarkering</p>
+<p xml:lang="vep"><em type="bold">KORT TEKST </em></p>
+<p xml:lang="vep"><em type="bold">1 </em></p>
+<p xml:lang="vep"><em type="bold">2 </em></p>
+<p xml:lang="vep"><em type="bold">3 </em><em type="bold">– </em><em type="bold">4 </em></p>
+<p xml:lang="vep"><em type="bold">5 </em><em type="bold">– </em><em type="bold">6 </em></p>
+<p xml:lang="nno"><em type="bold">Kommentarer </em></p>
+<p xml:lang="dan"><em type="bold">Gjøre rede for faglig tema </em></p>
+<p>Virkemidler</p>
+<p xml:lang="nno">Analyse, fagspråk,</p>
+<p xml:lang="dan">egne vurderinger</p>
+<p xml:lang="vep"><em type="bold">LANG TEKST </em></p>
+<p xml:lang="vep"><em type="bold">1 </em></p>
+<p xml:lang="vep"><em type="bold">2 </em></p>
+<p xml:lang="vep"><em type="bold">3–4 </em></p>
+<p xml:lang="vep"><em type="bold">5–6 </em></p>
+<p xml:lang="nno"><em type="bold">Kommentarer </em></p>
+<p xml:lang="est"><em type="bold">Tekststruktur </em></p>
+<p>Refleksjon og selvstendighet</p>
+<p>Sjangerkunnskap</p>
+<p xml:lang="fin">Kreativitet</p>
+<p>Bruk av virkemidler</p>
+<p xml:lang="nno">Disposisjon, fokus</p>
+<p>Saklig argumentasjon</p>
+<p xml:lang="dan"><em type="bold">Tekstforståelse </em></p>
+<p>Virkemidler</p>
+<p xml:lang="deu">Analyse</p>
+<p xml:lang="nno">Fagspråk</p>
+<p xml:lang="dan">Egne vurderinger</p>
+<p><em type="bold">Tradisjonell kunnskap og språket i bruk </em></p>
+<p xml:lang="dan">Gjøre rede for, vurdere, sammenligne, drøfte språklige og kulturelle forhold</p>
+<p>gjøre rede for faglige temaer</p>
+<p xml:lang="nno">Markering av sitat og kildebruk</p>
+<p><em type="italic">Karakterforslag: </em></p>
+</body></document>

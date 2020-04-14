@@ -1,653 +1,455 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="nob" id="no_id"><header><title> 
 MØTEPROTOKOLL
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Kautokeino</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>4454</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>Kst_møteprotokoll_på_norsk_25.04.02.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">MØTEprotokoll  </em>
-    </p>
-    <p>
-      <em type="bold">Kommunestyret </em>
-    </p>
-    <p>Møtested: Les-bygg</p>
-    <p>Møtedato: 25.04.2002 Tid: 09:00 - 18.00</p>
-    <p><em type="bold">Til stede på møtet: </em>Kommunestyrets medlemmer: </p>
-    <p>
-      <em type="bold">SP: SL: JL: </em>
-    </p>
-    <p>Jan Ole Buljo Klemet Erland Hætta Per Andersen Bæhr</p>
-    <p>Johan Daniel Hætta Kristine Julie Eira Anders Samuelsen Buljo</p>
-    <p>Mikkel N. N. Eira</p>
-    <p><em type="bold">GDL: </em><em type="bold">AP: </em>Isak Mathis O. Eira </p>
-    <p>Isak Mathis O. Hætta Brita Carina Hætta </p>
-    <p>Hans Isak Olsen Lemet Ivar Hætta <em type="bold">ML: </em></p>
-    <p>Johan Isak I. Hætta Trygve Lund Guttormsen</p>
-    <p>
-      <em type="bold">V: </em>
-    </p>
-    <p><em type="bold">KS: </em>Anton Dahl <em type="bold">H: </em></p>
-    <p>Aslak Persen Bals Berit Anne Sara Triumf Kurt Are Hætta</p>
-    <p>Isak Ole Hætta</p>
-    <p>
-      <em type="bold">Forfall: Vara: </em>
-    </p>
-    <p>AP: Brita Carian Hætta Per Nils Saari</p>
-    <p>SL: Kristine Julie Eira Kaisa Rautio Helander</p>
-    <p>GDL: Hans Isak Olsen Isak Nils N. Hætta</p>
-    <p>KS: Aslak Persen Bals Johan Nils Peder Eira</p>
-    <p>H: Kurt Are Hætta Aslak Anders Tornensis</p>
-    <p>JL: Isak Mathis O. Eira</p>
-    <p>Anders Samuelsen Buljo</p>
-    <p>SP: Johan Daniel Hætta Nils Jørgensen Buljo</p>
-    <p>Andre:</p>
-    <p>
-      <em type="bold">Rådmann: </em>
-      <em type="bold">Odd Keskitalo </em>
-      <em type="bold">Tolk: </em>
-      <em type="bold">Gunhild Berit Sara Buljo (etter lunsj) </em>
-    </p>
-    <p>Sekretær: Alvar Dunfjell Tolk: Ravdna Turi Henriksen</p>
-    <p>P/O-sjef: Anne Marie Gaino</p>
-    <p>
-      <em type="bold">Behandlede saker: </em>
-    </p>
-    <p>Sak 01/02 - 15/02 ihht. saksliste datert 04.04.02</p>
-    <p>
-      <em type="bold">Underskrifter:  </em>
-    </p>
-    <p>________________________ ______________________ _____________________</p>
-    <p>Ordfører Jan Ole Buljo (SP) Berit Anne Sara Triumf (V) Klemet Erland Hætta (SL)</p>
-    <p>
-      <em type="bold">Kopi av møteprotokollen sendes til: </em>
-    </p>
-    <p>Kommunestyrets 1. varamedlemmer, rådmannen, etatene, p/o-kontorene, media, partiene, hovedtillitsvalgte, kontrollutvalgets medlemmer, revisjonen og eldrerådsleder.</p>
-    <p>
-      <em type="bold">MØTEBOK </em>
-    </p>
-    <p>
-      <em type="bold">Utvalg Møtedato </em>
-    </p>
-    <p>Kommunestyret 25.04.02</p>
-    <p>Kommunestyret holdt møte den 25.04.02 på Loankogiella jfr. innkalling datert 04.04.02. Innkalling var sendt skriftlig med kopi til 1. varamedlemmer.</p>
-    <p>Sak 15/02 ble utsatt til kommunestyrets møte i juni-02 for en nærmere utredning.</p>
-    <p>Innkallingen og sakslista ble enstemmig godkjent.</p>
-    <p>Valg av protokollunderskrivere:</p>
-    <p>Berit Anne Sara Triumf (V) og Klemet Erland Hætta (SL) ble sammen med ordfører Jan Ole Buljo (SP) valgt til å underskrive protokollen.</p>
-    <p>
-      <em type="bold">REFERATER </em>
-    </p>
-    <p>01/01550-012 18.02.2002 POA/ADM/ODK 033</p>
-    <p>001140/02 <em type="bold">Fylkesmannen i Finnmark </em></p>
-    <p>KRAV OM LEGALITETSKONTROLL AV KAUTOKEINOS KOMMUNESTYRETS VEDTAK I SAK 0011/01"FORSØK MED NY FORVALTNINGSORDNING FOR MOTORFERDSEL</p>
-    <p>01/00250-011 22.02.2002 POA/ADM/KAH 401</p>
-    <p>001218/02 <em type="bold">Kautokeino kommune </em></p>
-    <p>ARBEIDSMILJØUTVALGETS ÅRSRAPPORT 2001</p>
-    <p>
-      <em type="bold">Kontrollutvalget for Kautokeino kommune </em>
-    </p>
-    <p>SÆRUTSKRIFT FRA KONTROLLUTVALGETS MØTE DEN 13.03.02</p>
-    <p>SAK 2/02 KAUTOKEINO KOMMUNES SKATEREGNSKAP FOR 2001</p>
-    <p>
-      <em type="bold">Kontrollutvalget for Kautokeino kommune </em>
-    </p>
-    <p>SÆRUTSKRIFT FRA KONTROLLUTVALGETS MØTE DEN 13.03.02</p>
-    <p>SAK 5/02 KOMMUNENS ØKONOMISKE SITUASJON</p>
-    <p>
-      <em type="bold">Finnmark fylkeskommune </em>
-    </p>
-    <p>Rapport: Prosjekt Oppfølging indre Finnmark 21. januar 2002</p>
-    <p>
-      <em type="bold">Spørsmåls </em>
-      <em type="bold">s </em>
-      <em type="bold">tillinger: </em>
-    </p>
-    <p><em type="italic">Anton Dahl (V </em><em type="italic">) </em>rettet skriftlig spørsmål til ordføreren hvor han ba om orientering om det forliket som var inngått under arbeidsrettsaken mellom Kautokeino kommune og 4 av de personene som tidligere var ansatt ved Andarguolban Manaidgardi. Han ønsket å vite om ordførerens myndighet til å inngå forlik, om det juridiske i saken var i orden, og ba om at kontrollutvalget utredet saken. </p>
-    <p>Ordføreren besvarte spørsmålene ved å gjengi historikken til Andarguolban-saken i korte trekk. Han viste til tidligere lange praksis i kommunen når man var i situasjoner hvor det ikke var annen utvei enn å inngå forlik. Han hadde forholdt seg til de råd som kommunens advokat i saken hadde gitt, og ellers i samsvar med tidligere praksis. Det finnes riktig nok ikke egen fullmakt fra kommunestyret til å inngå forlik, men ordføreren ser det som umulig å innkalle kommunestyret under rettsforhandlinger. Ordføreren viste videre til den muntlige redegjørelsen han tidligere hadde gitt til formannskapet om saken. Han sa at det ikke var noe i veien for at kontrollutvalget så på saken, dersom kommunestyret bestemte det, men da måtte de også se på saker om inngåtte forlik over 10 år tilbake i tid. Til slutt viste han til at dersom kommunestyret ønsker spesielle tiltak eller forholdsregler for slike saker i framtiden, så er det opp til kommunestyret å fastsette det.</p>
-    <p><em type="italic">Trygve Lund Guttormsen (ML) </em>henviste til rapporter om inntektssystemet og om oppfølging indre - Finnmark som kommunen hadde vært med å få utarbeidet. Han spurte hva som måtte gjøres for å overbevise myndighetene i saken. Videre spurte han hva som gjøres for å utløse mulighetene i en større sammenheng. Han spurte også om det manglende vedlikeholdet på skolene i kommunen. </p>
-    <p>Ordføreren besvarte ved å berette i korthet om det som er gjort med rapportene så langt. Han pekte på feil (mangler) ved kriteriene i dagens inntektssystem. Han viste til at fylkesmannen har lovt å bistå kommunen for å utrede hva som konkret må gjøres for å komme videre med saken. Han orienterte kort om kommunens søknad om omstillingskommune - status og det arbeidet som kommer i gang som følge av det.</p>
-    <p>Til spørsmålet om vedlikeholdet ved kommunens anlegg ønsket han at det ble tatt opp under sak om årsmeldingen, men viste til at økonomien satt grenser også for vedlikeholdet.</p>
-    <p>
-      <em type="bold">SAKSLISTE </em>
-    </p>
-    <p>
-      <em type="bold">Saksnr. Arkivsaksnr. </em>
-    </p>
-    <p>
-      <em type="bold">Tittel </em>
-    </p>
-    <p>0001/02 02/00629</p>
-    <p>
-      <em type="bold">Kommuneregnskap 2001 </em>
-    </p>
-    <p>0002/02 02/00685</p>
-    <p>
-      <em type="bold">Skatteregnskapet for 2001 </em>
-    </p>
-    <p>0003/02 02/00672</p>
-    <p>
-      <em type="bold">Årsmelding 2001 </em>
-    </p>
-    <p>0004/02 01/02763</p>
-    <p>
-      <em type="bold">Kommunale avgifter - barnehagesatser </em>
-    </p>
-    <p>0005/02 02/00740</p>
-    <p>
-      <em type="bold">Opptak av tilleggslån til oppgradering av renseanlegget </em>
-    </p>
-    <p>0006/02 02/00710</p>
-    <p>
-      <em type="bold">Revidering av årsbudsjett 2002/økonomiplan 2002 - 2005 </em>
-    </p>
-    <p>0007/02 02/00040</p>
-    <p>
-      <em type="bold">Lønnspolitiske retningslinjer </em>
-    </p>
-    <p>0008/02 02/00490</p>
-    <p>
-      <em type="bold">Etiske retningslinjer </em>
-    </p>
-    <p>0009/02 00/01989</p>
-    <p>
-      <em type="bold">Evaluering - tiltak for å redusere sykefraværet </em>
-    </p>
-    <p>0010/02 02/00431</p>
-    <p>
-      <em type="bold">Omorganisering av naturforvaltningsavdelingen </em>
-    </p>
-    <p>0011/02 01/03066</p>
-    <p>
-      <em type="bold">Høringsuttalelse - håndgivelsesavtale for naturstein </em>
-    </p>
-    <p>0012/02 01/02754</p>
-    <p>
-      <em type="bold">Salg av kommunal eiendom - Soltun </em>
-    </p>
-    <p>0013/02 99/00320</p>
-    <p>
-      <em type="bold">Trafikksikkerhetsplan for Kautokeino kommune 2000 - 2003 - ny behandling </em>
-    </p>
-    <p>0014/02 99/01170</p>
-    <p>
-      <em type="bold">Suppleringsvalg til trafikksikkerhetsutvalget </em>
-    </p>
-    <p>
-      <em type="bold">HOVEDUTSKRIFT </em>
-    </p>
-    <p>Kommunestyret 25.04.2002 </p>
-    <p><em type="bold">Sak nr.: </em>0001/02 </p>
-    <p>
-      <em type="bold">KOMMUNEREGNSKAP 2001 </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <list>
-      <p type="listitem">Regnskapet for 2001 godkjennes.</p>
-      <p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
-      <p type="listitem">Kr 158 000,- avsettes i ubundet kapitalfond.</p>
-    </list>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
-    <p>Administrasjonens forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <list>
-      <p type="listitem">Regnskapet for 2001 godkjennes.</p>
-      <p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
-      <p type="listitem">Kr 158 000,- avsettes i ubundet kapitalfond.</p>
-    </list>
-    <p>Kommunestyret s behandling:</p>
-    <p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
-    <p>Formannskapets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <list>
-      <p type="listitem">Regnskapet for 2001 godkjennes.</p>
-      <p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
-    </list>
-    <p>3. Kr 158 000,- avsettes i ubundet kapitalfond.</p>
-    <p><em type="bold">Sak nr.: </em>0002/02 </p>
-    <p>
-      <em type="bold">SKATTEREGNSKAPET FOR 2001 </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Formannskapets behandling:</p>
-    <p>Kontrollutvalget innstiller overfor kommunestyret.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Kontrollutvalgets leder fremmet kontrollutvalgets innstilling:</p>
-    <p>Kautokeino kommunes skatteregnskap for 2001 godkjennes.</p>
-    <p>Ordfører fremmet kontrollutvalgets innstilling til vedtak.</p>
-    <p>Kontrollutvalgets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Kautokeino kommunes skatteregnskap for 2001 godkjennes.</p>
-    <p><em type="bold">Sak nr.: </em>0003/02 </p>
-    <p>
-      <em type="bold">ÅRSMELDING 2001 </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Årsmeldingen for 2001 tas til etterretning.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
-    <p>Administrasjonens forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Årsmeldingen for 2001 tas til etterretning.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
-    <p>Formannskapets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Årsmeldingen for 2001 tas til etterretning.</p>
-    <p><em type="bold">Sak nr.: </em>0004/02 </p>
-    <p>
-      <em type="bold">KOMMUNALE AVGIFTER - BARNEHAGESATSER </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
-    <p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
-    <p>Administrasjonens forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
-    <p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Ordfører fremmet formannskapets innstilling.</p>
-    <p>Formannskapets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
-    <p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
-    <p><em type="bold">Sak nr.: </em>0005/02 </p>
-    <p>
-      <em type="bold">OPPTAK AV TILLEGGSLÅN TIL OPPGRADERING AV RENSEANLEGGET </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
-    <p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innenfor nevnte ramme.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
-    <p>Administrasjonens forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
-    <p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innefor nevnte ramme.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Klemet Erland Hætta (SL) fremmet tilleggsforslag som ny siste setning:</p>
-    <p>Det bør vurderes å gjennomføre en ny anbudsrunde.</p>
-    <p>Ordfører fremmet tilleggsforslaget til vedtak.</p>
-    <p>Tilleggsforslaget ble enstemmig vedtatt.</p>
-    <p>Ordfører fremmet formannskapets innstilling med det vedtatte tillegg til vedtak.</p>
-    <p>Formannskapets innstilling med det vedtatte tillegg ble enstemmig vedtatt.</p>
-    <p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
-    <p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innefor nevnte ramme.</p>
-    <p>Det bør vurderes å gjennomføre en ny anbudsrunde.</p>
-    <p><em type="bold">Sak nr.: </em>0006/02 </p>
-    <p>
-      <em type="bold">REVIDERING AV ÅRSBUDSJETT 2002/ØKONOMIPLAN 2002 - 2005 </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
-    <p>2002</p>
-    <p>Bruk av flyplassfond 140 000</p>
-    <p>Bruk av fond til utsmykking 50 000</p>
-    <p>Bruk av fond biologisk mangf 30 000</p>
-    <p>Bruk av fond fotefar i nord 50 000</p>
-    <p>Bruk av fond kaféleder 23 800</p>
-    <p>Bruk av brøytefond 30 000</p>
-    <p>Kultur og oppvekst 140 000</p>
-    <p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
-    <p>Sum <em type="italic">2 638 000 </em></p>
-    <p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
-    <p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
-    <p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
-    <p>2002</p>
-    <p>Bruk av flyplassfond 140 000</p>
-    <p>Bruk av fond til utsmykking 50 000</p>
-    <p>Bruk av fond biologisk mangf 30 000</p>
-    <p>Bruk av fond fotefar i nord 50 000</p>
-    <p>Bruk av fond kaféleder 23 800</p>
-    <p>Bruk av brøytefond 30 000</p>
-    <p>Kultur og oppvekst 140 000</p>
-    <p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
-    <p>Sum <em type="italic">2 638 000 </em></p>
-    <p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
-    <p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
-    <p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
-    <p>
-      <em type="italic">Forslag fra </em>
-      <em type="italic">Jan Ole Buljo (SP) </em>
-      <em type="italic">- </em>
-      <em type="italic">tillegg som ny siste setning: </em>
-    </p>
-    <p>Sak 05/02 innlemmes i årsbudsjettet for 2002/økonomiplanen.</p>
-    <p>
-      <em type="italic">Forslag fra </em>
-      <em type="italic">Trygve Lund Guttormsen (ML) </em>
-      <em type="italic">- </em>
-      <em type="italic">tillegg: </em>
-    </p>
-    <p>På bakgrunn av kommunens økonomiske situasjon slik den kommer til uttrykk i budsjetter og langtidsplaner, og på bakgrunn av utredninger som er gjort, for eksempel gjennom HiO-notat 2001 nr 19 og prosjekt <span type="quote">”Oppfølging indre Finnmark”</span> 21.01.02, ber kommunestyret formannskapet arrangere et seminar for kommunens politikere og administrasjon om kommunens totale situasjon i dag og i årene fremover. Kommunestyret forutsetter at man til de temaer som skal behandles på seminaret bruker både egne og eksterne krefter til å klargjøre hva hovedproblemene er og hvordan de best kan løses.</p>
-    <p>
-      <em type="italic">Votering: </em>
-    </p>
-    <p>Forslag fra Jan Ole Buljo - tillegg Enstemmig vedtatt.</p>
-    <p>Forslag fra Trygve Lund Guttormsen - tillegg Enstemmig vedtatt.</p>
-    <p>Ordfører fremmet formannskapets innstilling med de vedtatt tillegg til vedtak.</p>
-    <p>Formannskapets innstilling med de vedtatte tillegg ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
-    <p>2002</p>
-    <p>Bruk av flyplassfond 140 000</p>
-    <p>Bruk av fond til utsmykking 50 000</p>
-    <p>Bruk av fond biologisk mangf 30 000</p>
-    <p>Bruk av fond fotefar i nord 50 000</p>
-    <p>Bruk av fond kaféleder 23 800</p>
-    <p>Bruk av brøytefond 30 000</p>
-    <p>Kultur og oppvekst 140 000</p>
-    <p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
-    <p>Sum <em type="italic">2 638 000 </em></p>
-    <p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
-    <p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
-    <p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
-    <p>Sak 05/02 innlemmes i årsbudsjettet for 2002/økonomiplanen.</p>
-    <p>På bakgrunn av kommunens økonomiske situasjon slik den kommer til uttrykk i budsjetter og langtidsplaner, og på bakgrunn av utredninger som er gjort, for eksempel gjennom HiO-notat 2001 nr 19 og prosjekt <span type="quote">”Oppfølging indre Finnmark”</span> 21.01.02, ber kommunestyret formannskapet arrangere et seminar for kommunens politikere og administrasjon om kommunens totale situasjon i dag og i årene fremover. Kommunestyret forutsetter at man til de temaer som skal behandles på seminaret bruker både egne og eksterne krefter til å klargjøre hva hovedproblemene er og hvordan de best kan løses.</p>
-    <p><em type="bold">Sak nr.: </em>0007/02 </p>
-    <p>
-      <em type="bold">LØNNSPOLITISKE RETNINGSLINJER </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kommunestyret vedtar forslag til lønnspolitiske retningslinjer for Kautokeino kommune datert 10.01.2002.</p>
-    <p>De lønnspolitiske retningslinjene skal danne grunnlag for en lønnspolitisk plan. Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
-    <p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
-    <p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
-    <p>Kommunestyret velger arbeidsgivers representant: …………………………………………</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag til vedtak med fratrekk av de 2 første setningene.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
-    <p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
-    <p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
-    <p>Kommunestyret velger arbeidsgivers representant: …………………………………………</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Jan Ole Buljo (SP) fremmet følgende fellesforslag på arbeidsgivers representant:</p>
-    <p>Julie Eira</p>
-    <p>Ordfører fremmet formannskapets innstilling sammen med fellesforslaget til vedtak.</p>
-    <p>Formannskapets innstilling sammen med fellesforslaget ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
-    <p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
-    <p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
-    <p>Kommunestyret velger arbeidsgivers representant: Julie Eira</p>
-    <p><em type="bold">Sak nr.: </em>0008/02 </p>
-    <p>
-      <em type="bold">ETISKE RETNINGSLINJER - REVIDERING </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kommunestyret anbefaler at forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002 vedtas.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet personalstyrets forslag til vedtak.</p>
-    <p>Personalstyrets forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kommunestyret vedtar forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>
-      <em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em>
-    </p>
-    <p>Øvre grense på gaver er kr 400,-.</p>
-    <p>Forslag fra Isak Mathis O. Hætta ble enstemmig vedtatt.</p>
-    <p>Ordfører fremmet formannskapets innstilling med den vedtatte endring til vedtak.</p>
-    <p>Formannskapets innstilling med den vedtatte endring ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Kommunestyret vedtar forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002. Øvre grense på gaver er kr 400,-.</p>
-    <p><em type="bold">Sak nr.: </em>0009/02 </p>
-    <p>
-      <em type="bold">EVALUERING - TILTAK FOR Å REDUSERE SYKEFRAVÆRET </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet for nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
-    <p>Administrasjonen bes om å vurdere om ordningen skal fortsette/gjøres fast.</p>
-    <p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet personalstyrets forslag til vedtak.</p>
-    <p>Personalstyrets forslag til vedtak ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
-    <p>Ordningen med utvidet rett til bruk av egenmelding gjøres fast fra og med 01.07.02.</p>
-    <p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
-    <p>Formannskapets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
-    <p>Ordningen med utvidet rett til bruk av egenmelding gjøres fast fom 01.07.02.</p>
-    <p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
-    <p><em type="bold">Sak nr.: </em>0010/02 </p>
-    <p>
-      <em type="bold">OMORGANISERING AV NATURFORVALTNINGSAVDELINGEN </em>
-    </p>
-    <p>Forslag til vedtak:</p>
-    <p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat.</p>
-    <p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger.</p>
-    <p>Budsjettrammen til ansvar 3150 overføres til rammeområde 6 - kommunaltekniske formål, og inngår i den totale rammen der. Teknisk styre får det budsjettmessige ansvaret, mens utmarksstyret har fagansvaret for naturforvaltningen.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Klemet Erland Hætta fremmet følgende forslag:</p>
-    <p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat f.o.m. 01.06.02 som egen seksjon/avdeling.</p>
-    <p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger. Ansvar for budsjettramme 3150 opprettholdes hos utmarkstyret.</p>
-    <p>Kommunestyret ser behov for å ansette en utmarkstekniker snarest.</p>
-    <p>Ordfører fremmet Klemet Erland Hætta's forslag til vedtak.</p>
-    <p>Forslag fra Klemet Erland Hætta ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat f.o.m. 01.06.02 som egen seksjon/avdeling.</p>
-    <p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger. Ansvar for budsjettramme 3150 opprettholdes hos utmarkstyret.</p>
-    <p>Kommunestyret ser behov for å ansette en utmarkstekniker snarest.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>
-      <em type="italic">Forslag fra Anton Dahl (V): </em>
-    </p>
-    <p>Ny siste setning i forslaget:</p>
-    <p>Det ansettes en utmarkskonsulent snarest.</p>
-    <p>
-      <em type="italic">Votering: </em>
-    </p>
-    <p>Forslag fra Anton Dahl: Enstemmig vedtatt.</p>
-    <p>Ordfører fremmet formannskapets innstilling med den vedtatte endring til vedtak.</p>
-    <p>Formannskapets innstilling med den vedtatte endring ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat fom 01.06.02 som egen seksjon/avd. Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger.</p>
-    <p>Ansvar for budsjettramme 3150 opprettholdes hos utmarksstyret.Det ansettes en utmarkskonsulent snarest.</p>
-    <p><em type="bold">Sak nr.: </em>0011/02 </p>
-    <p>
-      <em type="bold">HØRINGSUTTALELSE - HÅNDGIVELSESAVTALE FOR NATURSTEIN </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kautokeino kommune er i utgangspunktet negativ til at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
-    <p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
-    <p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
-    <p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordfører fremmet administrasjonens forslag og at ordene i 1. linje <span type="quote">”i utgangspunktet negativ til”</span> erstattes med <span type="quote">”i mot”</span>.</p>
-    <p>Administrasjonens forslag til vedtak med den vedtatte endring ble vedtatt.</p>
-    <p>Formannskapets innstilling, enst.:</p>
-    <p>Kautokeino kommune er i mot at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
-    <p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
-    <p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
-    <p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>
-      <em type="italic">Tilleggsf </em>
-      <em type="italic">orslag fra Aslak Anders Tornensis (H): </em>
-    </p>
-    <p>Tillegg til formannskapets forslag:</p>
-    <p>Dersom det mot formodning gis håndgivelsesavtale, ber vi om at undersøkelsene begrenses til boringer, og at det settes vilkår om geologiske kompetanse til de som skal foreta undersøkelsene. Dersom det likevel gis tillatelse til sprenging av grøfter må det settes vilkår om at sårene i terrenget skal repareres når undersøkelsene er avsluttet.</p>
-    <p>
-      <em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em>
-    </p>
-    <p>Kautokeino kommunestyre går inn for at det gis håndgivelsesavtale. Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
-    <p>Kommunen legger vekt på at det er meget stor arbeidsledighet i Kautokeino. I tillegg skal reintallet ned, som vil føre til at flere blir arbeidsledig, og derfor har kommunen ansvar for å tilrettelegge for alternative arbeidsplasser for befolkningen i Kautokeino.</p>
-    <p>
-      <em type="italic">Votering: </em>
-    </p>
-    <p>Forslag fra Isak Mathis O. Hætta (GDL): 6 stemmer</p>
-    <p>Tilleggsforslaget fra Aslak Anders Tornensis 3 stemmer</p>
-    <p>Formannskapets innstilling ble vedtatt med 14 stemmer for og 3 stemmer i mot.</p>
-    <p>Kommunestyrets vedtak, mot 3 st.:</p>
-    <p>Kautokeino kommune er i mot at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
-    <p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
-    <p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
-    <p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
-    <p><em type="bold">Sak nr.: </em>0012/02 </p>
-    <p>
-      <em type="bold">SALG AV KOMMUNAL EIENDOM - SOLTUN </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen.</p>
-    <p>Kjøpet gjennomføres med en antydet kjøpesum</p>
-    <p>Alternativ 1: etter takst</p>
-    <p>Alternativ 2: på kr. 450.000,-</p>
-    <p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Forslag fra Klemet Erland Hætta:</p>
-    <p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
-    <p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.00,-.</p>
-    <p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
-    <p>Ordfører fremmet Klemet Erland Hætta's forslag til vedtak.</p>
-    <p>Forslaget fra Klemet Erland Hætta ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling , enst.:</p>
-    <p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
-    <p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.000,-.</p>
-    <p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>
-      <em type="italic">Forslag fra Klemet Erland Hætta ( </em>
-      <em type="italic">SB </em>
-      <em type="italic">): </em>
-    </p>
-    <p>Salget av Soltun (ungdommenes hus) skal øremerkes ungdom, og brukes til ungdomsformål/tiltak. Salgsbeløpet avsettes på fond inntil aktuelle tiltak fastsettes nærmere.</p>
-    <p>
-      <em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em>
-    </p>
-    <p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, G.nr. 3, bnr. 125 til høystbydende.</p>
-    <p>
-      <em type="italic">Votering: </em>
-    </p>
-    <p>Forslag fra Klemet Erland Hætta (SB): Enstemmig</p>
-    <p>Forslag fra Isak Mathis O. Hætta: 5 stemmer</p>
-    <p>Formannskapets innstilling med det vedtatte tillegg ble vedtatt med 12 stemmer og 5 i mot.</p>
-    <p>Kommunestyrets vedtak, mot 5 st.:</p>
-    <p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
-    <p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.000,-.</p>
-    <p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
-    <p>Salget av Soltun (ungdommenes hus) skal øremerkes ungdom, og brukes til ungdomsformål/tiltak. Salgsbeløpet avsettes på fond inntil aktuelle tiltak fastsettes nærmere.</p>
-    <p><em type="bold">Sak nr.: </em>0013/02 </p>
-    <p>
-      <em type="bold">TRAFIKKSIKKERHETSPLAN FOR KAUTOKEINO KOMMUNE 2000-2003 </em>
-    </p>
-    <p>
-      <em type="bold">- NY BEHANDLING </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <list>
-      <p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
-    </list>
-    <p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
-    <p>Formannskapets behandling:</p>
-    <p>Ordføreren fremmet administrasjonens forslag til vedtak.</p>
-    <p>Administrasjonens forslag ble enstemmig vedtatt.</p>
-    <p>Formannskapets innstilling , enst.:</p>
-    <list>
-      <p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
-    </list>
-    <p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
-    <p>Kommunestyret s behandling:</p>
-    <p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
-    <p>Formannskapets innstilling ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <list>
-      <p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
-    </list>
-    <p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
-    <p><em type="bold">Sak nr.: </em>0014/02 </p>
-    <p>
-      <em type="bold">SUPPLERINGSVALG TIL TRAFIKKSIKKERHETSUTVALGET </em>
-    </p>
-    <p>Forslag til vedtak: </p>
-    <list>
-      <p type="listitem">Kommunestyret godkjenner suppleringsvalg av varamedlemmer til trafikksikkerhets-utvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
-    </list>
-    <list>
-      <p type="listitem">Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
-    </list>
-    <list>
-      <p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Per Nils Saari)</p>
-    </list>
-    <list>
-      <p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Åshild Hætta)</p>
-    </list>
-    <p>Formannskapets behandling:</p>
-    <p>Kommunestyret foretar selv valgene.</p>
-    <p>Formannskapets innstilling , enst.:</p>
-    <list>
-      <p type="listitem">Kommunestyret godkjenner suppleringsvalg av varamedlemmer til trafikksikkerhetsutvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
-    </list>
-    <list>
-      <p type="listitem">Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
-    </list>
-    <list>
-      <p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Per Nils Saari)</p>
-    </list>
-    <list>
-      <p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Åshild Hætta)</p>
-    </list>
-    <p>Kommunestyret s behandling:</p>
-    <p>
-      <em type="italic">Forslag fra Klemet Erland Hætta (SL): </em>
-    </p>
-    <p>Varamedlemmer etter Per Nils Saari:</p>
-    <list>
-      <p type="listitem">Kristine Julie Eira</p>
-      <p type="listitem">Johan N. P. Eira</p>
-    </list>
-    <p>
-      <em type="italic">Forslag fra Anton Dahl (V): </em>
-    </p>
-    <p>Varamedlemmer etter Åshild Hætta:</p>
-    <p>2. Gunn Pulk</p>
-    <p>3. Adam K. Hætta</p>
-    <p>
-      <em type="italic">Votering: </em>
-    </p>
-    <p>Forslagene fra Klemet Erland Hætta og Anton Dahl ble enstemmig vedtatt.</p>
-    <p>Ordfører fremmet formannskapets innstilling sammen med de vedtatte forslag til vedtak.</p>
-    <p>Formannskapets innstilling sammen med de valgte nye varamedlemmer ble enstemmig vedtatt.</p>
-    <p>Kommunestyrets vedtak, enst.:</p>
-    <p>1. Kommunestyret godkjenner suppleringsvalg av varamedlemmer til</p>
-    <p>trafikksikkerhetsutvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
-    <p>2. Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
-    <p>a) Kristine Julie Eira og Johan N. P. Eira som hhv. 2. og 3. varamedlem</p>
-    <p>(etter 1. varamedlem Per Nils Saari)</p>
-    <p>b) Gunn Pulk og Adam K. Hætta som hhv. 2. og 3. varamedlem</p>
-    <p>(etter 1. varamedlem Åshild Hætta)</p>
-    <p>Side 3 av 20</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><publChannel><publication><publisher>Kautokeino</publisher></publication></publChannel><wordcount>4454</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>Kst_møteprotokoll_på_norsk_25.04.02.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">MØTEprotokoll  </em></p>
+<p><em type="bold">Kommunestyret </em></p>
+<p>Møtested: Les-bygg</p>
+<p>Møtedato: 25.04.2002 Tid: 09:00 - 18.00</p>
+<p><em type="bold">Til stede på møtet: </em>Kommunestyrets medlemmer: </p>
+<p><em type="bold">SP: SL: JL: </em></p>
+<p>Jan Ole Buljo Klemet Erland Hætta Per Andersen Bæhr</p>
+<p>Johan Daniel Hætta Kristine Julie Eira Anders Samuelsen Buljo</p>
+<p>Mikkel N. N. Eira</p>
+<p><em type="bold">GDL: </em><em type="bold">AP: </em>Isak Mathis O. Eira </p>
+<p>Isak Mathis O. Hætta Brita Carina Hætta </p>
+<p>Hans Isak Olsen Lemet Ivar Hætta <em type="bold">ML: </em></p>
+<p>Johan Isak I. Hætta Trygve Lund Guttormsen</p>
+<p><em type="bold">V: </em></p>
+<p><em type="bold">KS: </em>Anton Dahl <em type="bold">H: </em></p>
+<p>Aslak Persen Bals Berit Anne Sara Triumf Kurt Are Hætta</p>
+<p>Isak Ole Hætta</p>
+<p><em type="bold">Forfall: Vara: </em></p>
+<p>AP: Brita Carian Hætta Per Nils Saari</p>
+<p>SL: Kristine Julie Eira Kaisa Rautio Helander</p>
+<p>GDL: Hans Isak Olsen Isak Nils N. Hætta</p>
+<p>KS: Aslak Persen Bals Johan Nils Peder Eira</p>
+<p>H: Kurt Are Hætta Aslak Anders Tornensis</p>
+<p>JL: Isak Mathis O. Eira</p>
+<p>Anders Samuelsen Buljo</p>
+<p>SP: Johan Daniel Hætta Nils Jørgensen Buljo</p>
+<p>Andre:</p>
+<p><em type="bold">Rådmann: </em><em type="bold">Odd Keskitalo </em><em type="bold">Tolk: </em><em type="bold">Gunhild Berit Sara Buljo (etter lunsj) </em></p>
+<p>Sekretær: Alvar Dunfjell Tolk: Ravdna Turi Henriksen</p>
+<p>P/O-sjef: Anne Marie Gaino</p>
+<p><em type="bold">Behandlede saker: </em></p>
+<p>Sak 01/02 - 15/02 ihht. saksliste datert 04.04.02</p>
+<p><em type="bold">Underskrifter:  </em></p>
+<p>________________________ ______________________ _____________________</p>
+<p>Ordfører Jan Ole Buljo (SP) Berit Anne Sara Triumf (V) Klemet Erland Hætta (SL)</p>
+<p><em type="bold">Kopi av møteprotokollen sendes til: </em></p>
+<p>Kommunestyrets 1. varamedlemmer, rådmannen, etatene, p/o-kontorene, media, partiene, hovedtillitsvalgte, kontrollutvalgets medlemmer, revisjonen og eldrerådsleder.</p>
+<p><em type="bold">MØTEBOK </em></p>
+<p><em type="bold">Utvalg Møtedato </em></p>
+<p>Kommunestyret 25.04.02</p>
+<p>Kommunestyret holdt møte den 25.04.02 på Loankogiella jfr. innkalling datert 04.04.02. Innkalling var sendt skriftlig med kopi til 1. varamedlemmer.</p>
+<p>Sak 15/02 ble utsatt til kommunestyrets møte i juni-02 for en nærmere utredning.</p>
+<p>Innkallingen og sakslista ble enstemmig godkjent.</p>
+<p>Valg av protokollunderskrivere:</p>
+<p>Berit Anne Sara Triumf (V) og Klemet Erland Hætta (SL) ble sammen med ordfører Jan Ole Buljo (SP) valgt til å underskrive protokollen.</p>
+<p><em type="bold">REFERATER </em></p>
+<p>01/01550-012 18.02.2002 POA/ADM/ODK 033</p>
+<p>001140/02 <em type="bold">Fylkesmannen i Finnmark </em></p>
+<p>KRAV OM LEGALITETSKONTROLL AV KAUTOKEINOS KOMMUNESTYRETS VEDTAK I SAK 0011/01"FORSØK MED NY FORVALTNINGSORDNING FOR MOTORFERDSEL</p>
+<p>01/00250-011 22.02.2002 POA/ADM/KAH 401</p>
+<p>001218/02 <em type="bold">Kautokeino kommune </em></p>
+<p>ARBEIDSMILJØUTVALGETS ÅRSRAPPORT 2001</p>
+<p><em type="bold">Kontrollutvalget for Kautokeino kommune </em></p>
+<p>SÆRUTSKRIFT FRA KONTROLLUTVALGETS MØTE DEN 13.03.02</p>
+<p>SAK 2/02 KAUTOKEINO KOMMUNES SKATEREGNSKAP FOR 2001</p>
+<p><em type="bold">Kontrollutvalget for Kautokeino kommune </em></p>
+<p>SÆRUTSKRIFT FRA KONTROLLUTVALGETS MØTE DEN 13.03.02</p>
+<p>SAK 5/02 KOMMUNENS ØKONOMISKE SITUASJON</p>
+<p><em type="bold">Finnmark fylkeskommune </em></p>
+<p>Rapport: Prosjekt Oppfølging indre Finnmark 21. januar 2002</p>
+<p><em type="bold">Spørsmåls </em><em type="bold">s </em><em type="bold">tillinger: </em></p>
+<p><em type="italic">Anton Dahl (V </em><em type="italic">) </em>rettet skriftlig spørsmål til ordføreren hvor han ba om orientering om det forliket som var inngått under arbeidsrettsaken mellom Kautokeino kommune og 4 av de personene som tidligere var ansatt ved Andarguolban Manaidgardi. Han ønsket å vite om ordførerens myndighet til å inngå forlik, om det juridiske i saken var i orden, og ba om at kontrollutvalget utredet saken. </p>
+<p>Ordføreren besvarte spørsmålene ved å gjengi historikken til Andarguolban-saken i korte trekk. Han viste til tidligere lange praksis i kommunen når man var i situasjoner hvor det ikke var annen utvei enn å inngå forlik. Han hadde forholdt seg til de råd som kommunens advokat i saken hadde gitt, og ellers i samsvar med tidligere praksis. Det finnes riktig nok ikke egen fullmakt fra kommunestyret til å inngå forlik, men ordføreren ser det som umulig å innkalle kommunestyret under rettsforhandlinger. Ordføreren viste videre til den muntlige redegjørelsen han tidligere hadde gitt til formannskapet om saken. Han sa at det ikke var noe i veien for at kontrollutvalget så på saken, dersom kommunestyret bestemte det, men da måtte de også se på saker om inngåtte forlik over 10 år tilbake i tid. Til slutt viste han til at dersom kommunestyret ønsker spesielle tiltak eller forholdsregler for slike saker i framtiden, så er det opp til kommunestyret å fastsette det.</p>
+<p><em type="italic">Trygve Lund Guttormsen (ML) </em>henviste til rapporter om inntektssystemet og om oppfølging indre - Finnmark som kommunen hadde vært med å få utarbeidet. Han spurte hva som måtte gjøres for å overbevise myndighetene i saken. Videre spurte han hva som gjøres for å utløse mulighetene i en større sammenheng. Han spurte også om det manglende vedlikeholdet på skolene i kommunen. </p>
+<p>Ordføreren besvarte ved å berette i korthet om det som er gjort med rapportene så langt. Han pekte på feil (mangler) ved kriteriene i dagens inntektssystem. Han viste til at fylkesmannen har lovt å bistå kommunen for å utrede hva som konkret må gjøres for å komme videre med saken. Han orienterte kort om kommunens søknad om omstillingskommune - status og det arbeidet som kommer i gang som følge av det.</p>
+<p>Til spørsmålet om vedlikeholdet ved kommunens anlegg ønsket han at det ble tatt opp under sak om årsmeldingen, men viste til at økonomien satt grenser også for vedlikeholdet.</p>
+<p><em type="bold">SAKSLISTE </em></p>
+<p><em type="bold">Saksnr. Arkivsaksnr. </em></p>
+<p><em type="bold">Tittel </em></p>
+<p>0001/02 02/00629</p>
+<p><em type="bold">Kommuneregnskap 2001 </em></p>
+<p>0002/02 02/00685</p>
+<p><em type="bold">Skatteregnskapet for 2001 </em></p>
+<p>0003/02 02/00672</p>
+<p><em type="bold">Årsmelding 2001 </em></p>
+<p>0004/02 01/02763</p>
+<p><em type="bold">Kommunale avgifter - barnehagesatser </em></p>
+<p>0005/02 02/00740</p>
+<p><em type="bold">Opptak av tilleggslån til oppgradering av renseanlegget </em></p>
+<p>0006/02 02/00710</p>
+<p><em type="bold">Revidering av årsbudsjett 2002/økonomiplan 2002 - 2005 </em></p>
+<p>0007/02 02/00040</p>
+<p><em type="bold">Lønnspolitiske retningslinjer </em></p>
+<p>0008/02 02/00490</p>
+<p><em type="bold">Etiske retningslinjer </em></p>
+<p>0009/02 00/01989</p>
+<p><em type="bold">Evaluering - tiltak for å redusere sykefraværet </em></p>
+<p>0010/02 02/00431</p>
+<p><em type="bold">Omorganisering av naturforvaltningsavdelingen </em></p>
+<p>0011/02 01/03066</p>
+<p><em type="bold">Høringsuttalelse - håndgivelsesavtale for naturstein </em></p>
+<p>0012/02 01/02754</p>
+<p><em type="bold">Salg av kommunal eiendom - Soltun </em></p>
+<p>0013/02 99/00320</p>
+<p><em type="bold">Trafikksikkerhetsplan for Kautokeino kommune 2000 - 2003 - ny behandling </em></p>
+<p>0014/02 99/01170</p>
+<p><em type="bold">Suppleringsvalg til trafikksikkerhetsutvalget </em></p>
+<p><em type="bold">HOVEDUTSKRIFT </em></p>
+<p>Kommunestyret 25.04.2002 </p>
+<p><em type="bold">Sak nr.: </em>0001/02 </p>
+<p><em type="bold">KOMMUNEREGNSKAP 2001 </em></p>
+<p>Forslag til vedtak: </p>
+<list><p type="listitem">Regnskapet for 2001 godkjennes.</p>
+<p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
+<p type="listitem">Kr 158 000,- avsettes i ubundet kapitalfond.</p>
+</list><p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
+<p>Administrasjonens forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<list><p type="listitem">Regnskapet for 2001 godkjennes.</p>
+<p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
+<p type="listitem">Kr 158 000,- avsettes i ubundet kapitalfond.</p>
+</list><p>Kommunestyret s behandling:</p>
+<p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
+<p>Formannskapets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<list><p type="listitem">Regnskapet for 2001 godkjennes.</p>
+<p type="listitem">Kr 749 000,- avsettes i kapitalfond og brukes til dekning av utgifter i forbindelse med utsmykning av helsesenteret. Resten brukes til nedbetaling av innlån.</p>
+</list><p>3. Kr 158 000,- avsettes i ubundet kapitalfond.</p>
+<p><em type="bold">Sak nr.: </em>0002/02 </p>
+<p><em type="bold">SKATTEREGNSKAPET FOR 2001 </em></p>
+<p>Forslag til vedtak: </p>
+<p>Formannskapets behandling:</p>
+<p>Kontrollutvalget innstiller overfor kommunestyret.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kommunestyret s behandling:</p>
+<p>Kontrollutvalgets leder fremmet kontrollutvalgets innstilling:</p>
+<p>Kautokeino kommunes skatteregnskap for 2001 godkjennes.</p>
+<p>Ordfører fremmet kontrollutvalgets innstilling til vedtak.</p>
+<p>Kontrollutvalgets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Kautokeino kommunes skatteregnskap for 2001 godkjennes.</p>
+<p><em type="bold">Sak nr.: </em>0003/02 </p>
+<p><em type="bold">ÅRSMELDING 2001 </em></p>
+<p>Forslag til vedtak: </p>
+<p>Årsmeldingen for 2001 tas til etterretning.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
+<p>Administrasjonens forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Årsmeldingen for 2001 tas til etterretning.</p>
+<p>Kommunestyret s behandling:</p>
+<p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
+<p>Formannskapets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Årsmeldingen for 2001 tas til etterretning.</p>
+<p><em type="bold">Sak nr.: </em>0004/02 </p>
+<p><em type="bold">KOMMUNALE AVGIFTER - BARNEHAGESATSER </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
+<p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
+<p>Administrasjonens forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
+<p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
+<p>Kommunestyret s behandling:</p>
+<p>Ordfører fremmet formannskapets innstilling.</p>
+<p>Formannskapets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Kommunestyret vedtar et fast betalingssystem. Satsene justeres i henhold til vanlig prisstigning for tjenester som antas å være ca. 3,5 %. Da det ikke har vært justert for prisstigning de siste tre årene, justeres satsene fra 1999 med 10 % fra 01 08 2002. Foreldrebetaling i kommunale barnehager foreslås fastsatt til kr 2.400,- pr mnd.fra 01 08 2002.</p>
+<p>I tillegg kommer kostpenger vedtatt i den enkelte barnehages samarbeidsutvalg. Det innrømmes 50 % søskenmoderasjon for barn nr 2, 3 og øvrige.</p>
+<p><em type="bold">Sak nr.: </em>0005/02 </p>
+<p><em type="bold">OPPTAK AV TILLEGGSLÅN TIL OPPGRADERING AV RENSEANLEGGET </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
+<p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innenfor nevnte ramme.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
+<p>Administrasjonens forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
+<p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innefor nevnte ramme.</p>
+<p>Kommunestyret s behandling:</p>
+<p>Klemet Erland Hætta (SL) fremmet tilleggsforslag som ny siste setning:</p>
+<p>Det bør vurderes å gjennomføre en ny anbudsrunde.</p>
+<p>Ordfører fremmet tilleggsforslaget til vedtak.</p>
+<p>Tilleggsforslaget ble enstemmig vedtatt.</p>
+<p>Ordfører fremmet formannskapets innstilling med det vedtatte tillegg til vedtak.</p>
+<p>Formannskapets innstilling med det vedtatte tillegg ble enstemmig vedtatt.</p>
+<p>Kommunestyret godkjenner opptak av tilleggslån på inntil kr. 2.500.000 til oppgradering av avløpsrenseanlegget i Kautokeino sentrum.</p>
+<p>Rådmannen delegeres myndighet til valg av låneinstitusjon, lånesum, avdragstid og øvrige lånevilkår innefor nevnte ramme.</p>
+<p>Det bør vurderes å gjennomføre en ny anbudsrunde.</p>
+<p><em type="bold">Sak nr.: </em>0006/02 </p>
+<p><em type="bold">REVIDERING AV ÅRSBUDSJETT 2002/ØKONOMIPLAN 2002 - 2005 </em></p>
+<p>Forslag til vedtak: </p>
+<p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
+<p>2002</p>
+<p>Bruk av flyplassfond 140 000</p>
+<p>Bruk av fond til utsmykking 50 000</p>
+<p>Bruk av fond biologisk mangf 30 000</p>
+<p>Bruk av fond fotefar i nord 50 000</p>
+<p>Bruk av fond kaféleder 23 800</p>
+<p>Bruk av brøytefond 30 000</p>
+<p>Kultur og oppvekst 140 000</p>
+<p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
+<p>Sum <em type="italic">2 638 000 </em></p>
+<p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
+<p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
+<p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
+<p>2002</p>
+<p>Bruk av flyplassfond 140 000</p>
+<p>Bruk av fond til utsmykking 50 000</p>
+<p>Bruk av fond biologisk mangf 30 000</p>
+<p>Bruk av fond fotefar i nord 50 000</p>
+<p>Bruk av fond kaféleder 23 800</p>
+<p>Bruk av brøytefond 30 000</p>
+<p>Kultur og oppvekst 140 000</p>
+<p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
+<p>Sum <em type="italic">2 638 000 </em></p>
+<p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
+<p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
+<p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
+<p><em type="italic">Forslag fra </em><em type="italic">Jan Ole Buljo (SP) </em><em type="italic">- </em><em type="italic">tillegg som ny siste setning: </em></p>
+<p>Sak 05/02 innlemmes i årsbudsjettet for 2002/økonomiplanen.</p>
+<p><em type="italic">Forslag fra </em><em type="italic">Trygve Lund Guttormsen (ML) </em><em type="italic">- </em><em type="italic">tillegg: </em></p>
+<p>På bakgrunn av kommunens økonomiske situasjon slik den kommer til uttrykk i budsjetter og langtidsplaner, og på bakgrunn av utredninger som er gjort, for eksempel gjennom HiO-notat 2001 nr 19 og prosjekt <span type="quote">”Oppfølging indre Finnmark”</span> 21.01.02, ber kommunestyret formannskapet arrangere et seminar for kommunens politikere og administrasjon om kommunens totale situasjon i dag og i årene fremover. Kommunestyret forutsetter at man til de temaer som skal behandles på seminaret bruker både egne og eksterne krefter til å klargjøre hva hovedproblemene er og hvordan de best kan løses.</p>
+<p><em type="italic">Votering: </em></p>
+<p>Forslag fra Jan Ole Buljo - tillegg Enstemmig vedtatt.</p>
+<p>Forslag fra Trygve Lund Guttormsen - tillegg Enstemmig vedtatt.</p>
+<p>Ordfører fremmet formannskapets innstilling med de vedtatt tillegg til vedtak.</p>
+<p>Formannskapets innstilling med de vedtatte tillegg ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>1. Kommunestyret vedtar formannskapets innstilling til revidert årsbudsjett 2002/økonomiplan 2002 - 2005, der underskuddet på kr. 2 638 000 dekkes inn på følgende måte:</p>
+<p>2002</p>
+<p>Bruk av flyplassfond 140 000</p>
+<p>Bruk av fond til utsmykking 50 000</p>
+<p>Bruk av fond biologisk mangf 30 000</p>
+<p>Bruk av fond fotefar i nord 50 000</p>
+<p>Bruk av fond kaféleder 23 800</p>
+<p>Bruk av brøytefond 30 000</p>
+<p>Kultur og oppvekst 140 000</p>
+<p>Forlenget avdragstid lån <em type="italic">2 174 200 </em></p>
+<p>Sum <em type="italic">2 638 000 </em></p>
+<p>2. De føringer som er lagt inn i økonomiplanen er bindende for de respektive rammeområder.</p>
+<p>Hovedutvalgene skal påse at tjenesteproduksjonen settes opp realistisk innenfor de fastsatte netto budsjettrammer og skal særlig nøye påse at lønnsbudsjettene dekker de lønnsutgifter som faktisk medgår.</p>
+<p>Investeringer skal ikke iverksettes uten at det først foreligger full finansiering av tiltaket og de driftsmessige konsekvenser er innarbeidet i økonomiplanen.</p>
+<p>Sak 05/02 innlemmes i årsbudsjettet for 2002/økonomiplanen.</p>
+<p>På bakgrunn av kommunens økonomiske situasjon slik den kommer til uttrykk i budsjetter og langtidsplaner, og på bakgrunn av utredninger som er gjort, for eksempel gjennom HiO-notat 2001 nr 19 og prosjekt <span type="quote">”Oppfølging indre Finnmark”</span> 21.01.02, ber kommunestyret formannskapet arrangere et seminar for kommunens politikere og administrasjon om kommunens totale situasjon i dag og i årene fremover. Kommunestyret forutsetter at man til de temaer som skal behandles på seminaret bruker både egne og eksterne krefter til å klargjøre hva hovedproblemene er og hvordan de best kan løses.</p>
+<p><em type="bold">Sak nr.: </em>0007/02 </p>
+<p><em type="bold">LØNNSPOLITISKE RETNINGSLINJER </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kommunestyret vedtar forslag til lønnspolitiske retningslinjer for Kautokeino kommune datert 10.01.2002.</p>
+<p>De lønnspolitiske retningslinjene skal danne grunnlag for en lønnspolitisk plan. Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
+<p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
+<p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
+<p>Kommunestyret velger arbeidsgivers representant: …………………………………………</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag til vedtak med fratrekk av de 2 første setningene.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
+<p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
+<p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
+<p>Kommunestyret velger arbeidsgivers representant: …………………………………………</p>
+<p>Kommunestyret s behandling:</p>
+<p>Jan Ole Buljo (SP) fremmet følgende fellesforslag på arbeidsgivers representant:</p>
+<p>Julie Eira</p>
+<p>Ordfører fremmet formannskapets innstilling sammen med fellesforslaget til vedtak.</p>
+<p>Formannskapets innstilling sammen med fellesforslaget ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Det nedsettes en arbeidsgruppe, med personalkonsulenten som sekretær, som skal utarbeide forslag til lønnspolitisk plan for Kautokeino kommune.</p>
+<p>Gruppen skal bestå av 2 fra arbeidstakerorganisasjonene og 2 fra arbeidsgiversiden. Det foreslås at arbeidsgiversiden består av 1 politiker og 1 fra administrasjonen.</p>
+<p>Arbeidstakerorganisasjonene velger selv sine representanter til gruppa. Rådmannen peker ut en fra administrasjonen.</p>
+<p>Kommunestyret velger arbeidsgivers representant: Julie Eira</p>
+<p><em type="bold">Sak nr.: </em>0008/02 </p>
+<p><em type="bold">ETISKE RETNINGSLINJER - REVIDERING </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kommunestyret anbefaler at forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002 vedtas.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet personalstyrets forslag til vedtak.</p>
+<p>Personalstyrets forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kommunestyret vedtar forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002.</p>
+<p>Kommunestyret s behandling:</p>
+<p><em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em></p>
+<p>Øvre grense på gaver er kr 400,-.</p>
+<p>Forslag fra Isak Mathis O. Hætta ble enstemmig vedtatt.</p>
+<p>Ordfører fremmet formannskapets innstilling med den vedtatte endring til vedtak.</p>
+<p>Formannskapets innstilling med den vedtatte endring ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Kommunestyret vedtar forslag til etiske retningslinjer for ansatte og folkevalgte i Kautokeino kommune datert 27.02.2002. Øvre grense på gaver er kr 400,-.</p>
+<p><em type="bold">Sak nr.: </em>0009/02 </p>
+<p><em type="bold">EVALUERING - TILTAK FOR Å REDUSERE SYKEFRAVÆRET </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet for nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
+<p>Administrasjonen bes om å vurdere om ordningen skal fortsette/gjøres fast.</p>
+<p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet personalstyrets forslag til vedtak.</p>
+<p>Personalstyrets forslag til vedtak ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
+<p>Ordningen med utvidet rett til bruk av egenmelding gjøres fast fra og med 01.07.02.</p>
+<p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
+<p>Kommunestyret s behandling:</p>
+<p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
+<p>Formannskapets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Kommunestyret ser at det på grunn av økonomien ikke har vært mulig å gjennomføre alle tiltakene som planlagt. Ut fra det som er registrert er sykefraværet nedadgående. Den utvidede rett til bruk av egenmelding kan være en medvirkende årsak.</p>
+<p>Ordningen med utvidet rett til bruk av egenmelding gjøres fast fom 01.07.02.</p>
+<p>Personalstyret gis fullmakt til å fastsette de nærmere retningslinjer/bestemmelser om dette.</p>
+<p><em type="bold">Sak nr.: </em>0010/02 </p>
+<p><em type="bold">OMORGANISERING AV NATURFORVALTNINGSAVDELINGEN </em></p>
+<p>Forslag til vedtak:</p>
+<p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat.</p>
+<p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger.</p>
+<p>Budsjettrammen til ansvar 3150 overføres til rammeområde 6 - kommunaltekniske formål, og inngår i den totale rammen der. Teknisk styre får det budsjettmessige ansvaret, mens utmarksstyret har fagansvaret for naturforvaltningen.</p>
+<p>Formannskapets behandling:</p>
+<p>Klemet Erland Hætta fremmet følgende forslag:</p>
+<p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat f.o.m. 01.06.02 som egen seksjon/avdeling.</p>
+<p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger. Ansvar for budsjettramme 3150 opprettholdes hos utmarkstyret.</p>
+<p>Kommunestyret ser behov for å ansette en utmarkstekniker snarest.</p>
+<p>Ordfører fremmet Klemet Erland Hætta's forslag til vedtak.</p>
+<p>Forslag fra Klemet Erland Hætta ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat f.o.m. 01.06.02 som egen seksjon/avdeling.</p>
+<p>Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger. Ansvar for budsjettramme 3150 opprettholdes hos utmarkstyret.</p>
+<p>Kommunestyret ser behov for å ansette en utmarkstekniker snarest.</p>
+<p>Kommunestyret s behandling:</p>
+<p><em type="italic">Forslag fra Anton Dahl (V): </em></p>
+<p>Ny siste setning i forslaget:</p>
+<p>Det ansettes en utmarkskonsulent snarest.</p>
+<p><em type="italic">Votering: </em></p>
+<p>Forslag fra Anton Dahl: Enstemmig vedtatt.</p>
+<p>Ordfører fremmet formannskapets innstilling med den vedtatte endring til vedtak.</p>
+<p>Formannskapets innstilling med den vedtatte endring ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>Naturforvaltningsavdelingen overføres fra plan- og organisasjonsavdelingen til teknisk etat fom 01.06.02 som egen seksjon/avd. Rådmannen delegeres myndighet til å fastsette den interne organisering i samarbeid med de ansatte/fagforeninger.</p>
+<p>Ansvar for budsjettramme 3150 opprettholdes hos utmarksstyret.Det ansettes en utmarkskonsulent snarest.</p>
+<p><em type="bold">Sak nr.: </em>0011/02 </p>
+<p><em type="bold">HØRINGSUTTALELSE - HÅNDGIVELSESAVTALE FOR NATURSTEIN </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kautokeino kommune er i utgangspunktet negativ til at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
+<p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
+<p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
+<p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordfører fremmet administrasjonens forslag og at ordene i 1. linje <span type="quote">”i utgangspunktet negativ til”</span> erstattes med <span type="quote">”i mot”</span>.</p>
+<p>Administrasjonens forslag til vedtak med den vedtatte endring ble vedtatt.</p>
+<p>Formannskapets innstilling, enst.:</p>
+<p>Kautokeino kommune er i mot at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
+<p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
+<p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
+<p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
+<p>Kommunestyret s behandling:</p>
+<p><em type="italic">Tilleggsf </em><em type="italic">orslag fra Aslak Anders Tornensis (H): </em></p>
+<p>Tillegg til formannskapets forslag:</p>
+<p>Dersom det mot formodning gis håndgivelsesavtale, ber vi om at undersøkelsene begrenses til boringer, og at det settes vilkår om geologiske kompetanse til de som skal foreta undersøkelsene. Dersom det likevel gis tillatelse til sprenging av grøfter må det settes vilkår om at sårene i terrenget skal repareres når undersøkelsene er avsluttet.</p>
+<p><em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em></p>
+<p>Kautokeino kommunestyre går inn for at det gis håndgivelsesavtale. Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
+<p>Kommunen legger vekt på at det er meget stor arbeidsledighet i Kautokeino. I tillegg skal reintallet ned, som vil føre til at flere blir arbeidsledig, og derfor har kommunen ansvar for å tilrettelegge for alternative arbeidsplasser for befolkningen i Kautokeino.</p>
+<p><em type="italic">Votering: </em></p>
+<p>Forslag fra Isak Mathis O. Hætta (GDL): 6 stemmer</p>
+<p>Tilleggsforslaget fra Aslak Anders Tornensis 3 stemmer</p>
+<p>Formannskapets innstilling ble vedtatt med 14 stemmer for og 3 stemmer i mot.</p>
+<p>Kommunestyrets vedtak, mot 3 st.:</p>
+<p>Kautokeino kommune er i mot at det tillates større naturinngrep før spørsmål vedrørende samenes rett til forvaltning av naturressurser er avklart. Her vises det til Samerettsutvalgets innstilling og arbeidet med ny minerallov.</p>
+<p>Kommunestyret ber om jordsalgsstyret vektlegger reindriftsmyndighetenes uttalelse i denne saken og går imot at det gis håndgivelsestillatelse for naturstein ved Áddjit.</p>
+<p>Dersom det likevel gis en håndgivelsestillatelse, må jordslagsstyret sørge for at det blir igangsatt et utredningsarbeid for å avdekke konsekvensene for miljø og reindrift ved en eventuell bergverksdrift ved Áddjit.</p>
+<p>Kommunen vil allerede nå signalisere at det vil bli lagt fram krav om utarbeidelse av reguleringsplan for området ved en eventuell søknad om permanent natursteinsdrift i området.</p>
+<p><em type="bold">Sak nr.: </em>0012/02 </p>
+<p><em type="bold">SALG AV KOMMUNAL EIENDOM - SOLTUN </em></p>
+<p>Forslag til vedtak: </p>
+<p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen.</p>
+<p>Kjøpet gjennomføres med en antydet kjøpesum</p>
+<p>Alternativ 1: etter takst</p>
+<p>Alternativ 2: på kr. 450.000,-</p>
+<p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
+<p>Formannskapets behandling:</p>
+<p>Forslag fra Klemet Erland Hætta:</p>
+<p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
+<p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.00,-.</p>
+<p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
+<p>Ordfører fremmet Klemet Erland Hætta's forslag til vedtak.</p>
+<p>Forslaget fra Klemet Erland Hætta ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling , enst.:</p>
+<p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
+<p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.000,-.</p>
+<p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
+<p>Kommunestyret s behandling:</p>
+<p><em type="italic">Forslag fra Klemet Erland Hætta ( </em><em type="italic">SB </em><em type="italic">): </em></p>
+<p>Salget av Soltun (ungdommenes hus) skal øremerkes ungdom, og brukes til ungdomsformål/tiltak. Salgsbeløpet avsettes på fond inntil aktuelle tiltak fastsettes nærmere.</p>
+<p><em type="italic">Forslag fra Isak Mathis O. Hætta (GDL): </em></p>
+<p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, G.nr. 3, bnr. 125 til høystbydende.</p>
+<p><em type="italic">Votering: </em></p>
+<p>Forslag fra Klemet Erland Hætta (SB): Enstemmig</p>
+<p>Forslag fra Isak Mathis O. Hætta: 5 stemmer</p>
+<p>Formannskapets innstilling med det vedtatte tillegg ble vedtatt med 12 stemmer og 5 i mot.</p>
+<p>Kommunestyrets vedtak, mot 5 st.:</p>
+<p>Kautokeino kommune selger <span type="quote">”Soltun”</span> Boaronjarga 9, Gnr. 3 Bnr. 125 til Hilde Skancke Pedersen. Salget gjennomføres til en pris på kr 500.000,-.</p>
+<p>Dersom eiendommen ikke selges til denne pris, selges det til høystbydende over kr 500.000,-.</p>
+<p>Ordføreren gis fullmakt til å foreta den praktiske gjennomføringen av salget.</p>
+<p>Salget av Soltun (ungdommenes hus) skal øremerkes ungdom, og brukes til ungdomsformål/tiltak. Salgsbeløpet avsettes på fond inntil aktuelle tiltak fastsettes nærmere.</p>
+<p><em type="bold">Sak nr.: </em>0013/02 </p>
+<p><em type="bold">TRAFIKKSIKKERHETSPLAN FOR KAUTOKEINO KOMMUNE 2000-2003 </em></p>
+<p><em type="bold">- NY BEHANDLING </em></p>
+<p>Forslag til vedtak: </p>
+<list><p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
+</list><p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
+<p>Formannskapets behandling:</p>
+<p>Ordføreren fremmet administrasjonens forslag til vedtak.</p>
+<p>Administrasjonens forslag ble enstemmig vedtatt.</p>
+<p>Formannskapets innstilling , enst.:</p>
+<list><p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
+</list><p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
+<p>Kommunestyret s behandling:</p>
+<p>Ordfører fremmet formannskapets innstilling til vedtak.</p>
+<p>Formannskapets innstilling ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<list><p type="listitem">Trafikksikkerhetsplan for Kautokeino kommune 2000-2003 godkjennes. Tiltakene innarbeides årlig i årsbudsjett, samt i handlingsprogrammet og økonomiplanen.</p>
+</list><p>Det opprettes et trafikksikkerhetsutvalg med mandat og økonomi som skissert i saksframlegget i sak 2/00.</p>
+<p><em type="bold">Sak nr.: </em>0014/02 </p>
+<p><em type="bold">SUPPLERINGSVALG TIL TRAFIKKSIKKERHETSUTVALGET </em></p>
+<p>Forslag til vedtak: </p>
+<list><p type="listitem">Kommunestyret godkjenner suppleringsvalg av varamedlemmer til trafikksikkerhets-utvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
+</list><list><p type="listitem">Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
+</list><list><p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Per Nils Saari)</p>
+</list><list><p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Åshild Hætta)</p>
+</list><p>Formannskapets behandling:</p>
+<p>Kommunestyret foretar selv valgene.</p>
+<p>Formannskapets innstilling , enst.:</p>
+<list><p type="listitem">Kommunestyret godkjenner suppleringsvalg av varamedlemmer til trafikksikkerhetsutvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
+</list><list><p type="listitem">Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
+</list><list><p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Per Nils Saari)</p>
+</list><list><p type="listitem">____________________________ og _____________________________ som hhv. 2. og 3. varamedlem (etter 1. varamedlem Åshild Hætta)</p>
+</list><p>Kommunestyret s behandling:</p>
+<p><em type="italic">Forslag fra Klemet Erland Hætta (SL): </em></p>
+<p>Varamedlemmer etter Per Nils Saari:</p>
+<list><p type="listitem">Kristine Julie Eira</p>
+<p type="listitem">Johan N. P. Eira</p>
+</list><p><em type="italic">Forslag fra Anton Dahl (V): </em></p>
+<p>Varamedlemmer etter Åshild Hætta:</p>
+<p>2. Gunn Pulk</p>
+<p>3. Adam K. Hætta</p>
+<p><em type="italic">Votering: </em></p>
+<p>Forslagene fra Klemet Erland Hætta og Anton Dahl ble enstemmig vedtatt.</p>
+<p>Ordfører fremmet formannskapets innstilling sammen med de vedtatte forslag til vedtak.</p>
+<p>Formannskapets innstilling sammen med de valgte nye varamedlemmer ble enstemmig vedtatt.</p>
+<p>Kommunestyrets vedtak, enst.:</p>
+<p>1. Kommunestyret godkjenner suppleringsvalg av varamedlemmer til</p>
+<p>trafikksikkerhetsutvalget i hht. vedtak i kultur- og oppvekststyrets sak 4/02, helse- og sosialstyrets sak 2/02 og teknisk styres sak 29/01.</p>
+<p>2. Kommunestyret velger følgende varamedlemmer til trafikksikkerhetsutvalget:</p>
+<p>a) Kristine Julie Eira og Johan N. P. Eira som hhv. 2. og 3. varamedlem</p>
+<p>(etter 1. varamedlem Per Nils Saari)</p>
+<p>b) Gunn Pulk og Adam K. Hætta som hhv. 2. og 3. varamedlem</p>
+<p>(etter 1. varamedlem Åshild Hætta)</p>
+<p>Side 3 av 20</p>
+</body></document>

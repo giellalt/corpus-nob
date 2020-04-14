@@ -1,98 +1,57 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="nob" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/>
-    </translator>
-    <wordcount>298</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="fkv"/>
-    </multilingual>
-    <parallel_text xml:lang="fkv" location="tiet_ruijhaan_rosa_tekster.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="fkv">Tiet Ruijhaan</p>
-    <p>Rosa tekster</p>
-    <p xml:lang="fkv">Oversatt til kvensk: Kainun institutti-Kvensk institutt/ Pirjo Paavalniemi 19.05.2011</p>
-    <p>
-      <em type="bold">Rosa tekster </em>
-      <em type="bold">/ interaktivt element </em>
-      <em type="bold">( </em>
-      <em type="bold">i rammer </em>
-      <em type="bold">) </em>
-      <em type="bold">: </em>
-    </p>
-    <p xml:lang="fkv">Hva heter du? Mikä sinun nimi oon?</p>
-    <p xml:lang="fkv">Hvor kommer du fra? Mistä sie olet pois?</p>
-    <p xml:lang="fkv">Hvordan reiser du? Kunka sie matkustat?</p>
-    <p xml:lang="fkv">Hva vil du bli? Mikä sie haluat olla tulevaisuuessa?</p>
-    <p xml:lang="fkv">Snakker du norsk? Puhutko sie ruijaa?</p>
-    <p>Tror du på Gud? Uskotko sie Jumalhaan?</p>
-    <p xml:lang="fkv">Kan du synge? Ossaatko sie laulaa?</p>
-    <p xml:lang="fkv">Liker du å bade badstu? Tykkäätkö sie saunoa?</p>
-    <p xml:lang="fkv">Hvor er du på vei? Mihiin sie olet matkala?</p>
-    <p>
-      <em type="bold">Ord og setninger som er merket med rosa farge </em>
-      <em type="bold">( </em>
-      <em type="bold">i teksten </em>
-      <em type="bold">) </em>
-      <em type="bold">: </em>
-    </p>
-    <p>Norsk: Mange sultet i hjel</p>
-    <p xml:lang="fkv">Kvensk: Monet nälkiinythiin hengiltä</p>
-    <p>Norsk: de måtte reise</p>
-    <p xml:lang="fkv">Kvensk: ei ollu muuta maholisuutta ko lähteä</p>
-    <p>Norsk: De fleste som dro var fattige mennesker på landsbygda</p>
-    <p xml:lang="fkv">Kvensk: Enniin osa niistä, jokka lähethiin Ruijhaan, olthiin köyhiä ihmisiä kylistä</p>
-    <p>Norsk: til fots</p>
-    <p xml:lang="fkv">Kvensk: jalan</p>
-    <p>Norsk: ski</p>
-    <p xml:lang="fkv">Kvensk: hihtamalla</p>
-    <p>Norsk: overnatte under åpen himmel</p>
-    <p xml:lang="fkv">Kvensk: yövythiin taivasalla</p>
-    <p>Norsk: Skibotn</p>
-    <p xml:lang="fkv">Kvensk: Yykeänperä</p>
-    <p>Norsk: viktig møteplass</p>
-    <p xml:lang="fkv">Kvensk: tärkeä kohattelupaikka</p>
-    <p>Norsk: dyktige håndverkere</p>
-    <p xml:lang="fkv">Kvensk: sepät käsityöläiset</p>
-    <p>Norsk: første som dyrket poteter</p>
-    <p xml:lang="fkv">Kvensk: ensimäiset, jokka viljothiin pottuja</p>
-    <p>Norsk: Kvinnene hadde ansvaret for gården</p>
-    <p xml:lang="fkv">Kvensk: Vaimot piethiin huolen talosta</p>
-    <p>Norsk: premier til de barna som lærte seg raskest å snakke norsk</p>
-    <p xml:lang="fkv">Kvensk: net lapset, jokka opithiin hopusti ruijaa, saathiin palkinon</p>
-    <p>Norsk: Lars Levi Læstadius</p>
-    <p>Kvensk: Lars Levi Læstadius</p>
-    <p>Norsk: musikk</p>
-    <p xml:lang="fkv">Kvensk: musikki</p>
-    <p>Norsk: om ulykkelig kjærlighet</p>
-    <p xml:lang="fkv">Kvensk: onnettomasta rakhauesta</p>
-    <p>Norsk: møtested</p>
-    <p xml:lang="fkv">Kvensk: kohtaamispaikka</p>
-    <p>Norsk: Vadsø ble kvenenes egen hovedstad</p>
-    <p xml:lang="fkv">Kvensk: Vesisaaresta tuli kväänitten oma <span type="quote" xml:lang="fkv">"pääkaupunki"</span></p>
-    <p>Norsk: Folk som ikke klarte seg selv ble sendt tilbake dit de kom fra</p>
-    <p xml:lang="fkv">Kvensk: Heät, jokka ei pärjänheet itte, lähätethiin takasin sinne mistä het olthiin tulheetki</p>
-    <p>Norsk: røtter</p>
-    <p xml:lang="fkv">Kvensk: juuret</p>
-    <p>Norsk: kvenene er en egen norsk minoritet</p>
-    <p xml:lang="fkv">Kvensk: kväänit oon oma vähemistö Ruijassa</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><translator><person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/></translator><wordcount>298</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><multilingual><language xml:lang="nob"/><language xml:lang="fkv"/></multilingual><parallel_text xml:lang="fkv" location="tiet_ruijhaan_rosa_tekster.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="fkv">Tiet Ruijhaan</p>
+<p>Rosa tekster</p>
+<p xml:lang="fkv">Oversatt til kvensk: Kainun institutti-Kvensk institutt/ Pirjo Paavalniemi 19.05.2011</p>
+<p><em type="bold">Rosa tekster </em><em type="bold">/ interaktivt element </em><em type="bold">( </em><em type="bold">i rammer </em><em type="bold">) </em><em type="bold">: </em></p>
+<p xml:lang="fkv">Hva heter du? Mikä sinun nimi oon?</p>
+<p xml:lang="fkv">Hvor kommer du fra? Mistä sie olet pois?</p>
+<p xml:lang="fkv">Hvordan reiser du? Kunka sie matkustat?</p>
+<p xml:lang="fkv">Hva vil du bli? Mikä sie haluat olla tulevaisuuessa?</p>
+<p xml:lang="fkv">Snakker du norsk? Puhutko sie ruijaa?</p>
+<p xml:lang="fkv">Tror du på Gud? Uskotko sie Jumalhaan?</p>
+<p xml:lang="fkv">Kan du synge? Ossaatko sie laulaa?</p>
+<p xml:lang="fkv">Liker du å bade badstu? Tykkäätkö sie saunoa?</p>
+<p xml:lang="fkv">Hvor er du på vei? Mihiin sie olet matkala?</p>
+<p><em type="bold">Ord og setninger som er merket med rosa farge </em><em type="bold">( </em><em type="bold">i teksten </em><em type="bold">) </em><em type="bold">: </em></p>
+<p>Norsk: Mange sultet i hjel</p>
+<p xml:lang="fkv">Kvensk: Monet nälkiinythiin hengiltä</p>
+<p>Norsk: de måtte reise</p>
+<p xml:lang="fkv">Kvensk: ei ollu muuta maholisuutta ko lähteä</p>
+<p>Norsk: De fleste som dro var fattige mennesker på landsbygda</p>
+<p xml:lang="fkv">Kvensk: Enniin osa niistä, jokka lähethiin Ruijhaan, olthiin köyhiä ihmisiä kylistä</p>
+<p>Norsk: til fots</p>
+<p xml:lang="fkv">Kvensk: jalan</p>
+<p>Norsk: ski</p>
+<p xml:lang="fkv">Kvensk: hihtamalla</p>
+<p>Norsk: overnatte under åpen himmel</p>
+<p xml:lang="fkv">Kvensk: yövythiin taivasalla</p>
+<p>Norsk: Skibotn</p>
+<p xml:lang="fkv">Kvensk: Yykeänperä</p>
+<p>Norsk: viktig møteplass</p>
+<p xml:lang="fkv">Kvensk: tärkeä kohattelupaikka</p>
+<p>Norsk: dyktige håndverkere</p>
+<p xml:lang="fkv">Kvensk: sepät käsityöläiset</p>
+<p>Norsk: første som dyrket poteter</p>
+<p xml:lang="fkv">Kvensk: ensimäiset, jokka viljothiin pottuja</p>
+<p>Norsk: Kvinnene hadde ansvaret for gården</p>
+<p xml:lang="fkv">Kvensk: Vaimot piethiin huolen talosta</p>
+<p>Norsk: premier til de barna som lærte seg raskest å snakke norsk</p>
+<p xml:lang="fkv">Kvensk: net lapset, jokka opithiin hopusti ruijaa, saathiin palkinon</p>
+<p>Norsk: Lars Levi Læstadius</p>
+<p>Kvensk: Lars Levi Læstadius</p>
+<p>Norsk: musikk</p>
+<p xml:lang="fkv">Kvensk: musikki</p>
+<p>Norsk: om ulykkelig kjærlighet</p>
+<p xml:lang="fkv">Kvensk: onnettomasta rakhauesta</p>
+<p>Norsk: møtested</p>
+<p xml:lang="fkv">Kvensk: kohtaamispaikka</p>
+<p>Norsk: Vadsø ble kvenenes egen hovedstad</p>
+<p xml:lang="fkv">Kvensk: Vesisaaresta tuli kväänitten oma <span type="quote" xml:lang="fkv">"pääkaupunki"</span></p>
+<p>Norsk: Folk som ikke klarte seg selv ble sendt tilbake dit de kom fra</p>
+<p xml:lang="fkv">Kvensk: Heät, jokka ei pärjänheet itte, lähätethiin takasin sinne mistä het olthiin tulheetki</p>
+<p>Norsk: røtter</p>
+<p xml:lang="fkv">Kvensk: juuret</p>
+<p>Norsk: kvenene er en egen norsk minoritet</p>
+<p xml:lang="fkv">Kvensk: kväänit oon oma vähemistö Ruijassa</p>
+</body></document>

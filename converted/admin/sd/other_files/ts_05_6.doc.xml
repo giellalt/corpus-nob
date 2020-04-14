@@ -1,547 +1,497 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Møteprotokoll</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Hans Arild" lastname="Holmestrand" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Sámediggi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>5197</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>ts_6_05.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingets tilskuddsstyre</p>
-    <p>Møtebok 6/05</p>
-    <p>Tid: 1. - 2. september 2005</p>
-    <p>Sted: Tromsø</p>
-    <p>Saksliste:</p>
-    <p>Saksnr.</p>
-    <p>Sakstittel</p>
-    <p>155/05</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>156/05</p>
-    <p>Referatsaker</p>
-    <p>157/05</p>
-    <p>Delegasjonssaker</p>
-    <p>158/05</p>
-    <p>Roy Iver og Trond Isaksen, Kvænangen kommune - Søknad om støtte til fraktbåt/kombinert passasjerbåt i turistøyemed</p>
-    <p>159/05</p>
-    <p>Ole N. P. og Inga N. P. Eira, Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>160/05</p>
-    <p>Áiti - Mikkel Magnus Utsi, Kautokeino kommune - Søknad om tilskudd til kjøp av tolkeanlegg</p>
-    <p>161/05</p>
-    <p>Music production, Kautokeino kommune - Søknad om tilskudd til ombygging av bil til mobiltstudio</p>
-    <p>162/05</p>
-    <p>Oskal Inger-Marie A., Kautokeino kommune - Søknad om stipend, klage i sak HE 135/05</p>
-    <p>163/05</p>
-    <p>Álttá Siida A/S, Alta kommune - Søknad om støtte til kjøp av inventar og utstyr</p>
-    <p>164/05</p>
-    <p>Nordkapp Havn KF, Honningsvåg, Alta Havn, Alta og Hammerfest Havn, Hammerfest, Nordkapp kommune - Søknad om tilskudd til gjennomføring av prosjektet Northcape cruise - Arctic Europe</p>
-    <p>165/05</p>
-    <p>Olsen Edgar, Nesseby kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 172/05</p>
-    <p>166/05</p>
-    <p>Kvernmo Dag, Gratangen kommune - Søknad om tilskudd til bygging av produksjonshall for ved</p>
-    <p>167/05</p>
-    <p>Northland Cruise AS (sus), Storfjord kommune - Søknad om tilskudd til kjøp av turistbåt</p>
-    <p>168/05</p>
-    <p>Návet Doallu DA, Tana kommune - Søknad om tilskudd til bygging av driftsbygning</p>
-    <p>169/05</p>
-    <p>Northcape Rein BA SUS, Karasjok kommune - Søknad om tilskudd til oppstart av slakteribedrift</p>
-    <p>170/05</p>
-    <p>Wasara Duodji, Storfjord kommune - Søknad om tilskudd til etablering av duodjibedrift, klage på vedtak i sak HE 161/05</p>
-    <p>171/05</p>
-    <p>Skarsvåg Fiskeri og Turistservice a.s, Nordkapp kommune - Søknad om tilskudd til etablering av turistsenter</p>
-    <p>172/05</p>
-    <p>Alteidet Camping DA, Kautokeino kommune - Søknad om tilskudd til oppussing og investering</p>
-    <p>173/05</p>
-    <p>Larsen Eirik, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
-    <p>174/05</p>
-    <p>Gáisá Samisk virksomhetsforum og nettverk, Karasjok kommune - Nettverket Virkus sámi gilit/Vitale samiske bygder</p>
-    <p>175/05</p>
-    <p>Waltenberg Jan Arne, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
-    <p>176/05</p>
-    <p>Tapio Rebeke, Tana kommune - Søknad om tilskudd til videreutvikling/overtakelse av Impulz mosjonssenter</p>
-    <p>177/05</p>
-    <p>S. Gaups Næringstjenester, Karasjok kommune - Søknad om tilskudd til kjøp og ominnredning av kontorlokaler, inventar og møbler</p>
-    <p>178/05</p>
-    <p>Bygge Bistand AS, Tana kommune - Søknad om tilskudd til forprosjekt utvikling av kjedekonsept innen arkitekt og tekniske rådgivere</p>
-    <p>179/05</p>
-    <p>Sentrum Kiosk og Kro A/S, Porsanger kommune - Søknad om tilskudd til utsmykking av inne- og utearealer</p>
-    <p>180/05</p>
-    <p>Sámiid Vuorká-Dávvirat / De Samiske Samlinger, Karasjok kommune - Søknad om prosjektmidler til konsolidering av museene i nordvestsamisk museumssiida</p>
-    <p>181/05</p>
-    <p>Beazedievvá barnehage, Kautokeino kommune - Søknad om tilskudd til prosjektet "Synliggjøring av tradisjonelle aktiviteter”, klage på vedtak i sak 124/05</p>
-    <p>182/05</p>
-    <p>Delegering av fullmakt til administrasjonen - tildeling av stipend til høyere utdanning innenfor fagområdene barnehage og opplæring</p>
-    <p>
-      <em type="bold">Tilleggssaker: </em>
-    </p>
-    <p>183/05</p>
-    <p>Gunneng Grethe, Kragerø kommune - Søknad om midler til utstillingsprosjektet Medmenneskelighet</p>
-    <p>184/05</p>
-    <p>Sámiid Vuorká-Dávvirat, Karasjok kommune - Søknad om midler til utstillingsprosjekt</p>
-    <p>185/05</p>
-    <p>Maze Idrettslag, Maze - Søknad om støtte til innkjøps av utstyr, klage på vedtak i HK 114/05</p>
-    <p>186/05</p>
-    <p>Masterelv Handel A/S, Kvalsund kommune - Søknad om tilskudd til kjøp av eiendommen Masterelv Handel</p>
-    <p>187/05</p>
-    <p>Drag utvikling, Tysfjord kommune: Søknad om midler til prosjektet <span type="quote">”Samisk helsesenter i lulesamisk område”</span></p>
-    <p>188/05</p>
-    <p>Fors, Kristian, Hvalstad og Strømstad, Alf, Oslo kommune - Søknad om støtte til utgivelse av boka <span type="quote">”Slekter i Indre Finnmark”</span>, klage på vedtak i sak 116/05</p>
-    <p>189/05</p>
-    <p>Fliflet Andreas, Hammerfest kommune - Søkand om støtte til utgivelse av CD, klage på vedtak i sak 121/05</p>
-    <p>190/05</p>
-    <p>InKa as, Karasjok kommune - Søknad om støtte til duodjiutsalg</p>
-    <p>Tilstede:</p>
-    <p>Jarle Jonasse, leder</p>
-    <p>Marie Therese A. Gaup, nestleder</p>
-    <p>Ove Harry Johnsen</p>
-    <p>Ann Kristine Sara Bongo</p>
-    <p>Terje Tretnes</p>
-    <p>Willy Ørnebakk</p>
-    <p>Forfall:</p>
-    <p>Olaf Eliassen meldte forfall. Vararepresentant Kristine Mathisen var innkalt, men kunne ikke møte.</p>
-    <p>Fra administrasjonen:</p>
-    <p>Jon Meløy, underdirektør</p>
-    <p>Per Anders Bær, seniorrådgiver</p>
-    <p>Arne Johan Turi, rådgiver</p>
-    <p>Linda van der Spa, rådgiver (første møtedag)</p>
-    <p>Jon Petter Gintal, rådgiver (andre møtedag)</p>
-    <p>Tolk: Mikkel Magnus Utsi</p>
-    <p>155/05: Godkjenning av innkalling og saksliste</p>
-    <p>Forslag til vedtak:</p>
-    <list>
-      <p type="listitem">Godkjenning av innkallingen</p>
-    </list>
-    <p>Innkallingen ble enstemmig godkjent.</p>
-    <list>
-      <p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
-    </list>
-    <p>Tilleggssaker: 183 - 190/05</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>156/05: Referatsaker</p>
-    <p>Forslag til vedtak:</p>
-    <p>Referatsakene tas til etterretning slik de foreligger.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>157/05: Delegasjonssaker</p>
-    <p>Forslag til vedtak:</p>
-    <p>Administrative vedtak tas til orientering. slik de foreligger.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>158/05: Roy Iver og Trond Isaksen, Kvænangen kommune - Søknad om støtte til fraktbåt/kombinert passasjerbåt i turistøyemed</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Roy Iver og Trond Isaksen, Kvænangen kommune, til kjøp av fraktbåt m/tilbehør og ominnredning:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>159/05: Ole N. P. og Inga N. P. Eira, Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ole N. P. Og Inga N. P. Eira, Kautokeino kommune, til etablererstipend:</p>
-    <p>I Etablererstipend inntil kr 150 000.</p>
-    <p>II 50 % av tilsagnet blir utbetalt når prosjektet er igangsatt og de resterende 50% blir utbetalt når prosjektet er gjennomført, forretningsplan foreligger og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Tilsagnsbeløpet er redusert i forhold til omsøkt da Sametinget har godkjent levekostnad/lønn for tre måneder pr søker, på bakgrunn av estimert arbeidsmengde i søknaden.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>160/05: Áiti - Mikkel Magnus Utsi, Kautokeino kommune - Søknad om tilskudd til kjøp av tolkeanlegg</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Áiti - Mikkel Magnus Utsi, Kautokeino kommune, til kjøp av tolkeanlegg:</p>
-    <p>I Tilskudd inntil kr 18 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>161/05: Music production, Kautokeino kommune - Søknad om tilskudd til ombygging av bil til mobiltstudio</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Music production v/Johan Sara Jr. , Kautokeino kommune, til ombygging av bil til mobiltstudio:</p>
-    <p>I Tilskudd inntil kr 137 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I henhold til støttepraksis gis maks 30 % støtte til investeringer. Som følge av dette og av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Saken utsettes da søker anmodes om å med komme ytterligere opplysninger om ombygging av bil til mobiltstudio.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassens forslag.</p>
-    <p>Enstemmig vedtatt</p>
-    <p>162/05: Oskal Inger-Marie A., Kautokeino kommune - Søknad om utdanningsstipend, klage på vedtak i sak HE 135/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HE 135/05 og søkers brev av 23.06.05 med klage på vedtaket i saken.</p>
-    <p>I klagen vises det til at det er et stort behov for kvalifiserte samiske tolker og at det ikke har vært mulig før nå å få en slik utdannelse. I tillegg har det ikke vært utarbeidet egne tester for kvalifisering av samiske tolker. Sametinget ser at det er et stort behov for å få formell kvalifisering av samiske tolker. Sametinget har i dag allikevel ingen ordninger der man prioriterer tilskudd til grunnutdanning innen noen fag på høyskolenivå. En åpning for denne støttepraksisen uten en grundigere konsekvensutreding vil kunne ha store økonomiske følger for Sametinget.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 135/05.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 135/05.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>163/05: Álttá Siida A/S, Alta kommune - Søknad om tilskudd til kjøp av inventar og utstyr</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Álttá Siida A/S, Alta kommune, til kjøp av inventar og utstyr:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I henhold til støttepraksis gis det maks støtte på inntil 30% maks kr 200 000 til investeringer, og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>164/05: Nordkapp Havn KF, Honningsvåg, Alta Havn, Alta og Hammerfest Havn, Hammerfest, Nordkapp kommune - Søknad om tilskudd til gjennomføring av prosjektet Northcape cruise - Arctic Europe</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Nordkapp Havn KF, Hammerfest Havn KF, Alta Havn KF, Nordkapp kommune, til gjennomføring av prosjektet Northcape Cruise - Arctic Europe første år:</p>
-    <p>I Tilskudd inntil kr 180 000.</p>
-    <p>II 50% av tilsagnet blir utbetalt når restfinansieringen er løst, og prosjektet er satt i gang. 50% av tilsagnet vil bli utbetalt etter avsluttet første år, statusrapport innlevert og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til prosjektets første år eller til eventuelle kostnadsoverskridelser. Ny søknad for år to må fremmes ved utgangen av det første.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I henhold til støttepraksis gis det opp til 20% støtte i samfinansiering med andre offentlige organ. Av denne grunn og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>VI Tilskuddsstyret forutsetter at den samiske profilen tydeliggjøres i prosjektet på en bedre måte en det som kommer fram i nåværende prosjektbeskrivelse.</p>
-    <p>Jarle Jonassen fremmet følgende forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre prioriterer ikke støtte til oppbygging og utvikling av kompetanse innenfor cruicetrafikken knyttet til havneanleggene i Alta, Hammerfest og Nordkapp.</p>
-    <p>Sametingets tilskuddsstyre viser for øvrig til at utviklingen av cruisetrafikk i prosjektet er knyttet til Alta, Hammerfest og Honningsvåg som ligger utenfor fondets geografiske virkeområde, og begrenset fondsramme gjør at en må strengt prioritere søknader innenfor fondets geografiske virkeområde for søkerne.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassen's forslag.</p>
-    <p>Enstemmig vedtatt</p>
-    <p>165/05: Olsen Edgar, Nesseby kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 172/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HE 172/05 og søkers brev av 08.07.05 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre viser til at båten du ønsker å kjøpe er bygd i 1978 og er dermed ikke støtteberettiget i henhold etablert støttepraksis. Tilskuddsstyre har valgt å opprettholde aldersgrense når en behandler fiskebåt søknader. Formålet med dette har vært og er at en ikke ønsker at gamle fiskebåter skal samles i fondets geografiske virkeområde.</p>
-    <p>Tilskuddsstyre har forståelse for at ungdom ikke har kapital til å kjøpe nyere fartøy og kvoter, men tilskuddsstyre ønsker i denne saken ikke å fravike fra etablert støttepraksis.</p>
-    <p>Sametingets plenumsvedtak i sak 36/04 er en politisk melding om fiske som næring og kultur i kyst- og fjordområdene. Meldingen kan brukes som styringsverktøy og kan peke ut retningen for utviklingen av fiskerinæringen i samiske områder, men meldingens formuleringer legges ikke til grunn for den konkrete søknadsbehandlingen.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 172/05.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 172/05.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre tar klagen delvis til følge og innvilger følgende støtte til Edgar Olsen, Nesseby kommune til kjøp av fiskefartøy:</p>
-    <p>I Tilskudd inntil kr 70 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Støtte innvilges selv om båten er over 15 år, men tilskuddsstyret legger vekt på at båten er opprustet i 1992/93, samt den samfunnsmessige betydningen det har for lokalsamfunnet at kvotene beholdes i fjorden.</p>
-    <p>VI Tilskuddsstyret ber om at det utarbeides et revidert forslag til støttepraksis/retningslinjer for fiskeriene.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassens forslag.</p>
-    <p>Enstemmig vedtatt</p>
-    <p>166/05: Kvernmo Dag, Gratangen kommune - Søknad om tilskudd til bygging av produksjonshall for ved</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Dag Kvernmo, Gratangen kommune, til bygging av produksjonshall for ved:</p>
-    <p>I Tilskudd inntil kr 45 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Tilskuddsstyret har redusert tilsagnet i forhold til omsøkt da tilskuddsstyret prioriterer kun støtte til den delen av hallen som går på produksjon av ved, som har en utnyttelsesgrad på 30 %. Tilskuddsstyret har en restriktiv støttepraksis i forhold til å yte støtte til bygging av redskaps- og lagerlokaler generelt. Støtte til denne type investeringer har lav prioritet.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>167/05: Northland Cruise AS (sus), Storfjord kommune - Søknad om tilskudd til kjøp av turistbåt</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Northland Cruise, sus, Storfjord kommune kommune, til kjøp av turistbåt:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>168/05: Návet Doallu DA, Tana kommune - Søknad om tilskudd til bygging av driftsbygning</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Návet Doallu DA, Tana kommune, til bygging av samdrift.</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>169/05: Northcape Rein BA SUS, Karasjok kommune - Søknad om tilskudd til oppstart av slakteribedrift</p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre har avgrenset sin støtte i reindriftsnæringen til kombinasjonsvirksomheter. Tilskuddsstyre kan finansiere tiltak der annen næringsvirksomhet inngår i kombinasjon med reindrift så som duodji, reiseliv, fjordfiske etc. Reindriftens utviklingsfond har tradisjonelt finansiert slakterier og feltslakterier.</p>
-    <p>Tilskuddsstyret har vurdert om SUF's støttepraksis skal endres i forhold til reinslakterier, men finner ikke grunnlag for å gjøre det i og med at det finnes andre finansieringsinstitusjoner som kan finansiere slike tiltak. Tilskuddsstyret er opptatt av å ha klare linjer for hva Samisk utviklingsfond kan støtte i forhold til andre finansieringsinstitusjoner. En endring av denne støttepraksisen vil medføre økonomiske konsekvenser for bruken av fondsmidlene.</p>
-    <p>Terje Tretnes fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Northcape Rein BA, sus, Karasjok kommune, til oppstart av slakteribedrift:</p>
-    <p>I Tilskudd inntil kr 75 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Beløpet skal være med på at reindriftseierne kan bedre utnytte produkt vedrørende slakt, slikt som skinn, horn etc. Videre ser tilskuddsstyret på at dette er et samarbeidsprosjekt mellom flere distrikter (jf. redskapsringer i jordbruk). Tilskuddsstyret ser på dette som et pilotprosjekt og vil være med å støtte som et forsøksprosjekt. På bakgrunn av dette dispenserer tilskuddsstyret fra ordinær støttepraksis og yter støtte til dette prosjektet.</p>
-    <p>Vedtak:</p>
-    <p>Tretnes' forslag ble vedtatt med 4 mot 2 stemmer.</p>
-    <p>170/05: Wasara Duodji, Storfjord kommune - Søknad om tilskudd til etablering av duodjibedrift, klage på vedtak i sak HE 161/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HE 161/05 og søkers brev av 08.07.05 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre viser til Samisk utviklingsfonds støttepraksis om å prioritere støtte til duodjivirksomheter der dette utgjør en betydelig del av inntektene. Dette er ikke tilfellet i denne saken. Samisk utviklingsfonds støttepraksis tilsier at det ikke kan prioriteres støtte til søkere som mottar pensjon fra folketrygden. På grunn av Samisk utviklingsfonds pressede økonomiske situasjon finner Sametingets tilskuddsstyre ikke å kunne prioritere støtte til formålet.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 161/05.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 161/05.</p>
-    <p>Willy Ørnebakk fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre finner å kunne ta klage til følge og innvilger følgende støtte til Wasara duodji, Storfjord kommune, til etablering av duodjibedrift:</p>
-    <p>I Tilskudd inntil kr 51 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Tilsagnet er ikke innvilget som omsøkt, da en viser til ordinær støttepraksis hvor en innvilger inntil 20 % av investeringskostnadene.</p>
-    <p>Vedtak:</p>
-    <p>Som Ørnebakk's forslag</p>
-    <p>Enstemmig vedtatt</p>
-    <p>171/05: Skarsvåg Fiskeri og Turistservice a.s, Nordkapp kommune - Søknad om tilskudd til etablering av turistsenter</p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Støttepraksisen i Samisk utviklingsfond åpner ikke for bruk av fondets midler til utendørsarbeid. I tillegg er fondets midler begrensede og søknadene må derfor prioriteres strengt. Tilskuddsstyret ser ikke at det foreligger tilstrekkelig tungtveiende grunner til å fravike støttepraksisen i dette tilfellet og avslår derfor søknaden.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>172/05: Alteidet Camping DA, Kautokeino kommune - Søknad om tilskudd til oppussing og investering</p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Støttepraksis i Samisk utviklingsfond åpner ikke for å gi tilskudd til vedlikehold og utendørsarbeid. Av søknadens totalsum, er det bare innkjøp av lávvu som kan innvilges tilskudd. Samisk utviklingsfond finansierer inntil 30% av investeringskostnadene, men med en nedre grense på kr 10 000. Dette betyr at søknaden faller utenfor kriteriene for støtte fra Samisk utviklingsfond og derfor må avslås.</p>
-    <p>Ann-Kristine Sara Bongo fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir følgende støtte til Alteidet camping, Kautokeino kommune, til oppussing og investeringer:</p>
-    <p>I Tilskudd inntil kr 80 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Sametingets tilskuddsstyre viser til at Kautokeino kommune er en omstillings- og nyskapningskommune i Finnmark som særlig skal ytes støtte til nærings- og sysselsettingstiltak i denne sammenheng</p>
-    <p>Vedtak:</p>
-    <p>Som Bongo's forslag</p>
-    <p>Enstemmig vedtatt</p>
-    <p>173/05: Larsen Eirik, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Eirik Larsen, Lyngen kommune, til ombygging av driftsbygning:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>174/05: Gáisá Samisk virksomhetsforum og nettverk, Karasjok kommune - Nettverket Virkus sámi gilit/Vitale samiske bygder</p>
-    <p>Saken trekkes.</p>
-    <p>175/05: Waltenberg Jan Arne, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Jan Arne Waltenberg, Lyngen kommune, til ombygging av driftsbygning:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>176/05: Tapio Rebeke, Tana kommune - Søknad om tilskudd til videreutvikling/overtakelse av Impulz mosjonssenter</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Rebeke Tapio, Deanu gielda/Tana kommune, til kjøp av treningsutstyr</p>
-    <p>I Tilskudd inntil kr 30 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>177/05: S. Gaups Næringstjenester, Karasjok kommune - Søknad om tilskudd til kjøp og ominnredning av kontorlokaler, inventar og møbler</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Samuel Gaup, Karasjok kommune, til kjøp av kontorutstyr:</p>
-    <p>I Tilskudd inntil kr 52 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I henhold til støttepraksis gis det ikke støtte til merverdiavgift, og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>178/05: Bygge Bistand AS, Tana kommune - Søknad om tilskudd til forprosjekt utvikling av kjedekonsept innen arkitekt og tekniske rådgivere</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til ByggeBistand AS, Tana kommune, til forprosjekt:</p>
-    <p>I Tilskudd inntil kr 80 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir følgende støtte til Bygge bistand AS, Tana kommune, til forprosjekt:</p>
-    <p>I Tilskudd inntil kr 150 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassen's forslag.</p>
-    <p>Enstemmig vedtatt</p>
-    <p>179/05: Sentrum Kiosk og Kro A/S, Porsanger kommune - Søknad om tilskudd til utsmykking av inne- og utearealer</p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Søknadens innhold ligger utenfor det som det kan gis støtte til i Samisk utviklingsfond. Selv om det er klart at et tiltalende ytre er med på å trekke til seg folk, anser ikke tilskuddsstyret dette ikke som en god nok grunn til å fravike støttepraksisen.</p>
-    <p>I tillegg vil et tilskudd til en særskilt bedrift virke konkurransevridene i forhold til allerede etablerte bedrifter innenfor samme virksomhetstype. Selv om det å gi en bedrift tilskudd til forskjønning av lokaler/utearealer i seg selv ikke er et direkte bidrag til etablering/drift, så vil det likevel ha en konkurransevridene effekt i og med at man gir et konkurransefortrinn.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>180/05: Sámiid Vuorká-Dávvirat / De Samiske Samlinger, Karasjok kommune - Søknad om prosjektmidler til konsolidering av museene i nordvestsamisk museumssiida</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sámiid Vuorká-Davvirat, Karasjok kommune, til konsolidering av museene i nordvestsamisk museumssiida:</p>
-    <p>I Tilskudd inntil kr 65 000.</p>
-    <p>II Inntil 50 % av tilskuddet blir utbetalt etter anmodning fra tilskuddsmottaker etter igangsatt prosjekt. De resterende 50 % blir utbetalt når prosjektet er gjennomført, utgiftene dokumentert og sluttrapport tilsendt Sametinget. Restfinansieringen må løses før prosjektet igangsettes.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Det ytes ordinært ikke midler fra utviklingsfondet til denne type prosjekter. Gjennomføring av museumsreformen og fremdrift i prosessen er imidlertid av så stor viktighet at Sametinget finner det forsvarlig å fravike den generelle tilskuddspraksis i dette tilfellet.</p>
-    <p>Terje Tretnes fremmet følgende punkt i tillegg til administrasjonens forslag:</p>
-    <p>Den faglige kompetansen og kvalitetssikring vedrørende museer og konsolideringen skal være hovedpunkt. Konsolideringen og prosessen må gjennomføres snarest og museene skal da ha faglig kompetanse i det nye styret/styrene som eventuelt opprettes i denne prosessen.</p>
-    <p>Vedtak:</p>
-    <p>Administrasjonens innstilling med Tretnes' tilleggspunkt ble enstemmig vedtatt.</p>
-    <p>181/05: Beazedievvá barnehage, Kautokeino kommune - Søknad om støtte til prosjektet <span type="quote">”Synliggjøring av tradisjonelle aktiviteter”</span>, klage på vedtak i sak 124/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 124/05 og søkers brev av 18.07.05 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 124/05.</p>
-    <p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 124/05.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>182/05: Delegering av fullmakt til administrasjonen - Tildeling av stipend til høyere utdanning innenfor fagområdene barnehage og opplæring</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir administrasjonen fullmakt til å treffe avgjørelser i tildeling av stipend til</p>
-    <p>studier i høyere utdanning innenfor fagområdene barnehage og opplæring.</p>
-    <p>I Administrasjonen delegeres myndighet til å tildele stipend på inntil kr 50 000,- i saker som er klart innenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
-    <p>II Administrasjonen gis fullmakt til å avslå søknader som er klart utenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
-    <p>III Klage på administrative vedtak forelegges Sametingets tilskuddsstyre til behandling.</p>
-    <p>IV Fullmakten gjelder i Sametingets valgperiode.</p>
-    <p>V Oppgaver og oversikt over de avgjørelser som fattes av administrasjonen legges frem for Sametingets tilskuddsstyret til orientering.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>183/05: Gunneng Grethe, Kragerø kommune - Søknad om midler til utstillingsprosjektet Medmenneskelighet</p>
-    <p>Saken trekkes.</p>
-    <p>184/05: Sámiid Vuorká-Dávvirat, Karasjok kommune - Søknad om midler til utstillingsprosjekt</p>
-    <p>Saken trekkes</p>
-    <p>185/05: Maze Idrettslag, Kautokeino kommune - Søknad om støtte til innkjøp av utstyr, klage på vedtak i sak HK 114/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HK 114/05 og søkers brev av 09.07.2005 med klage på vedtaket i saken. Tilskuddstyret synes begrunnelse i sak HK 114/05 kunne være mer presis, men anser at <em type="italic">støtte til deltakelse i idrettsarrangement </em>dekker støtte til kjøp av utstyr. </p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 114/05.</p>
-    <p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 114/05.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>186/05: Masterelv Handel A/S, Kvalsund kommune - Søknad om tilskudd til kjøp av eiendommen Masterelv Handel</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Arnt S. Sporsheim og Kari Aslaksen, Kvalsund kommune, til kjøp av eiendommen Masterelv Handel:</p>
-    <p>I Tilskudd inntil kr 100 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Tilskuddsstyret gir vanligvis ikke støtte til kjøp av eiendommer, men i dette tilfelle er det viktig å opprettholde et godt servicetilbud i Kokelv. Butikken har stor samfunnsmessig betydning for bygda.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>187/05: Drag utvikling, Tysfjord kommune: Søknad om midler til prosjektet <span type="quote">”Samisk helsesenter i lulesamisk område”</span></p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Prosjektet <span type="quote">”samisk helse og sosialsenter i lulesamisk område”</span> har som hovedmål utvikling av helse og sosialtjenester til den samiske befolkning. Det er derfor å anse som et helseprosjekt. Sametinget disponerer prosjektmidler til oppfølging av Mangfold og likeverd - regjeringens handlingsplan for helse og sosialtjenester til den samiske befolkning i Norge. Søknadsfristen for 2005 var 15 januar, og prosjektmidler for 2005 er fordelt. Sametinget disponerer ikke andre midler til helse- og sosialprosjekter.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>188/05: Fors, Kristian, Hvalstad og Strømstad, Alf, Oslo - Søknad om støtte til utgivelse av boka Slekter i Indre Finnmark, klage på vedtak i sak 116/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 116/05 og søkers brev av 27.06.2005 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 116/05.</p>
-    <p>Tilskuddstyret vil for øvrig bemerke at Sametinget står overfor store utfordringer i å løse den økonomiske situasjonen for samisk litteratur. Det vises til at i år var det kommet inn søknader for ca. 15 millioner kroner, tilskuddstyret hadde til disposisjon 1,9 millioner kroner, og at mange gode prosjekter har fått avslag.</p>
-    <p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 116/05.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>189/05: Fliflet Andreas, Hammerfest kommune - Søknad om støtte til utgivelse av CD, klage på vedtak i sak 121/05</p>
-    <p>Forslag til vedtak</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 121/05 og søkers brev av 05.08.05 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 121/05.</p>
-    <p>Tilskuddsstyret vil imidlertid bemerke at ny søknadsfrist ikke har hatt betydning for vedtak fattet i saken, men vil beklage at søker ikke ble informert om ny søknadsfrist, og at saken ville bli behandlet på tilskuddsstyrets møte i juni 2005.</p>
-    <p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 121/05.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>190/05: InKa as, Karasjok kommune - Søknad om støtte til duodjiutsalg</p>
-    <p>Forslag til vedtak</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til at kjøp av varelager vurderes som bedriftsinterne kostnader i og med at dette er omsetningsvarer som inngår i bedriftens egen virksomhet og således ikke er støtteberettigede kostnader som kan finansieres gjennom Samisk utviklingsfond. </p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>
-      <em type="bold">Sametingets tilskuddsstyre - møtebok 6/05, side </em>
-      <em type="bold">38 </em>
-      <em type="bold">av </em>
-      <em type="bold">39 </em>
-    </p>
-    <p>38</p>
-    <p>
-      <em type="bold">*råd/styre* - Utskrift av møtebok */*side </em>
-      <em type="bold">4 </em>
-      <em type="bold">av </em>
-      <em type="bold">39 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em>
-      <em type="bold">39 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Møteprotokoll</title><genre code="admin"/><author><person firstname="Hans Arild" lastname="Holmestrand" sex="m" born="" nationality="nor"/></author><year>2005</year><publChannel><publication><publisher>Sámediggi</publisher></publication></publChannel><wordcount>5197</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>ts_6_05.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingets tilskuddsstyre</p>
+<p>Møtebok 6/05</p>
+<p>Tid: 1. - 2. september 2005</p>
+<p>Sted: Tromsø</p>
+<p>Saksliste:</p>
+<p>Saksnr.</p>
+<p>Sakstittel</p>
+<p>155/05</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>156/05</p>
+<p>Referatsaker</p>
+<p>157/05</p>
+<p>Delegasjonssaker</p>
+<p>158/05</p>
+<p>Roy Iver og Trond Isaksen, Kvænangen kommune - Søknad om støtte til fraktbåt/kombinert passasjerbåt i turistøyemed</p>
+<p>159/05</p>
+<p>Ole N. P. og Inga N. P. Eira, Kautokeino kommune - Søknad om etablererstipend</p>
+<p>160/05</p>
+<p>Áiti - Mikkel Magnus Utsi, Kautokeino kommune - Søknad om tilskudd til kjøp av tolkeanlegg</p>
+<p>161/05</p>
+<p>Music production, Kautokeino kommune - Søknad om tilskudd til ombygging av bil til mobiltstudio</p>
+<p>162/05</p>
+<p>Oskal Inger-Marie A., Kautokeino kommune - Søknad om stipend, klage i sak HE 135/05</p>
+<p>163/05</p>
+<p>Álttá Siida A/S, Alta kommune - Søknad om støtte til kjøp av inventar og utstyr</p>
+<p>164/05</p>
+<p>Nordkapp Havn KF, Honningsvåg, Alta Havn, Alta og Hammerfest Havn, Hammerfest, Nordkapp kommune - Søknad om tilskudd til gjennomføring av prosjektet Northcape cruise - Arctic Europe</p>
+<p>165/05</p>
+<p>Olsen Edgar, Nesseby kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 172/05</p>
+<p>166/05</p>
+<p>Kvernmo Dag, Gratangen kommune - Søknad om tilskudd til bygging av produksjonshall for ved</p>
+<p>167/05</p>
+<p>Northland Cruise AS (sus), Storfjord kommune - Søknad om tilskudd til kjøp av turistbåt</p>
+<p>168/05</p>
+<p>Návet Doallu DA, Tana kommune - Søknad om tilskudd til bygging av driftsbygning</p>
+<p>169/05</p>
+<p>Northcape Rein BA SUS, Karasjok kommune - Søknad om tilskudd til oppstart av slakteribedrift</p>
+<p>170/05</p>
+<p>Wasara Duodji, Storfjord kommune - Søknad om tilskudd til etablering av duodjibedrift, klage på vedtak i sak HE 161/05</p>
+<p>171/05</p>
+<p>Skarsvåg Fiskeri og Turistservice a.s, Nordkapp kommune - Søknad om tilskudd til etablering av turistsenter</p>
+<p>172/05</p>
+<p>Alteidet Camping DA, Kautokeino kommune - Søknad om tilskudd til oppussing og investering</p>
+<p>173/05</p>
+<p>Larsen Eirik, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
+<p>174/05</p>
+<p>Gáisá Samisk virksomhetsforum og nettverk, Karasjok kommune - Nettverket Virkus sámi gilit/Vitale samiske bygder</p>
+<p>175/05</p>
+<p>Waltenberg Jan Arne, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
+<p>176/05</p>
+<p>Tapio Rebeke, Tana kommune - Søknad om tilskudd til videreutvikling/overtakelse av Impulz mosjonssenter</p>
+<p>177/05</p>
+<p>S. Gaups Næringstjenester, Karasjok kommune - Søknad om tilskudd til kjøp og ominnredning av kontorlokaler, inventar og møbler</p>
+<p>178/05</p>
+<p>Bygge Bistand AS, Tana kommune - Søknad om tilskudd til forprosjekt utvikling av kjedekonsept innen arkitekt og tekniske rådgivere</p>
+<p>179/05</p>
+<p>Sentrum Kiosk og Kro A/S, Porsanger kommune - Søknad om tilskudd til utsmykking av inne- og utearealer</p>
+<p>180/05</p>
+<p>Sámiid Vuorká-Dávvirat / De Samiske Samlinger, Karasjok kommune - Søknad om prosjektmidler til konsolidering av museene i nordvestsamisk museumssiida</p>
+<p>181/05</p>
+<p>Beazedievvá barnehage, Kautokeino kommune - Søknad om tilskudd til prosjektet "Synliggjøring av tradisjonelle aktiviteter”, klage på vedtak i sak 124/05</p>
+<p>182/05</p>
+<p>Delegering av fullmakt til administrasjonen - tildeling av stipend til høyere utdanning innenfor fagområdene barnehage og opplæring</p>
+<p><em type="bold">Tilleggssaker: </em></p>
+<p>183/05</p>
+<p>Gunneng Grethe, Kragerø kommune - Søknad om midler til utstillingsprosjektet Medmenneskelighet</p>
+<p>184/05</p>
+<p>Sámiid Vuorká-Dávvirat, Karasjok kommune - Søknad om midler til utstillingsprosjekt</p>
+<p>185/05</p>
+<p>Maze Idrettslag, Maze - Søknad om støtte til innkjøps av utstyr, klage på vedtak i HK 114/05</p>
+<p>186/05</p>
+<p>Masterelv Handel A/S, Kvalsund kommune - Søknad om tilskudd til kjøp av eiendommen Masterelv Handel</p>
+<p>187/05</p>
+<p>Drag utvikling, Tysfjord kommune: Søknad om midler til prosjektet <span type="quote">”Samisk helsesenter i lulesamisk område”</span></p>
+<p>188/05</p>
+<p>Fors, Kristian, Hvalstad og Strømstad, Alf, Oslo kommune - Søknad om støtte til utgivelse av boka <span type="quote">”Slekter i Indre Finnmark”</span>, klage på vedtak i sak 116/05</p>
+<p>189/05</p>
+<p>Fliflet Andreas, Hammerfest kommune - Søkand om støtte til utgivelse av CD, klage på vedtak i sak 121/05</p>
+<p>190/05</p>
+<p>InKa as, Karasjok kommune - Søknad om støtte til duodjiutsalg</p>
+<p>Tilstede:</p>
+<p>Jarle Jonasse, leder</p>
+<p>Marie Therese A. Gaup, nestleder</p>
+<p>Ove Harry Johnsen</p>
+<p>Ann Kristine Sara Bongo</p>
+<p>Terje Tretnes</p>
+<p>Willy Ørnebakk</p>
+<p>Forfall:</p>
+<p>Olaf Eliassen meldte forfall. Vararepresentant Kristine Mathisen var innkalt, men kunne ikke møte.</p>
+<p>Fra administrasjonen:</p>
+<p>Jon Meløy, underdirektør</p>
+<p>Per Anders Bær, seniorrådgiver</p>
+<p>Arne Johan Turi, rådgiver</p>
+<p>Linda van der Spa, rådgiver (første møtedag)</p>
+<p>Jon Petter Gintal, rådgiver (andre møtedag)</p>
+<p>Tolk: Mikkel Magnus Utsi</p>
+<p>155/05: Godkjenning av innkalling og saksliste</p>
+<p>Forslag til vedtak:</p>
+<list><p type="listitem">Godkjenning av innkallingen</p>
+</list><p>Innkallingen ble enstemmig godkjent.</p>
+<list><p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
+</list><p>Tilleggssaker: 183 - 190/05</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>156/05: Referatsaker</p>
+<p>Forslag til vedtak:</p>
+<p>Referatsakene tas til etterretning slik de foreligger.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>157/05: Delegasjonssaker</p>
+<p>Forslag til vedtak:</p>
+<p>Administrative vedtak tas til orientering. slik de foreligger.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>158/05: Roy Iver og Trond Isaksen, Kvænangen kommune - Søknad om støtte til fraktbåt/kombinert passasjerbåt i turistøyemed</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Roy Iver og Trond Isaksen, Kvænangen kommune, til kjøp av fraktbåt m/tilbehør og ominnredning:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>159/05: Ole N. P. og Inga N. P. Eira, Kautokeino kommune - Søknad om etablererstipend</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ole N. P. Og Inga N. P. Eira, Kautokeino kommune, til etablererstipend:</p>
+<p>I Etablererstipend inntil kr 150 000.</p>
+<p>II 50 % av tilsagnet blir utbetalt når prosjektet er igangsatt og de resterende 50% blir utbetalt når prosjektet er gjennomført, forretningsplan foreligger og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Tilsagnsbeløpet er redusert i forhold til omsøkt da Sametinget har godkjent levekostnad/lønn for tre måneder pr søker, på bakgrunn av estimert arbeidsmengde i søknaden.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>160/05: Áiti - Mikkel Magnus Utsi, Kautokeino kommune - Søknad om tilskudd til kjøp av tolkeanlegg</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Áiti - Mikkel Magnus Utsi, Kautokeino kommune, til kjøp av tolkeanlegg:</p>
+<p>I Tilskudd inntil kr 18 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>161/05: Music production, Kautokeino kommune - Søknad om tilskudd til ombygging av bil til mobiltstudio</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Music production v/Johan Sara Jr. , Kautokeino kommune, til ombygging av bil til mobiltstudio:</p>
+<p>I Tilskudd inntil kr 137 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I henhold til støttepraksis gis maks 30 % støtte til investeringer. Som følge av dette og av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Saken utsettes da søker anmodes om å med komme ytterligere opplysninger om ombygging av bil til mobiltstudio.</p>
+<p>Vedtak:</p>
+<p>Som Jonassens forslag.</p>
+<p>Enstemmig vedtatt</p>
+<p>162/05: Oskal Inger-Marie A., Kautokeino kommune - Søknad om utdanningsstipend, klage på vedtak i sak HE 135/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HE 135/05 og søkers brev av 23.06.05 med klage på vedtaket i saken.</p>
+<p>I klagen vises det til at det er et stort behov for kvalifiserte samiske tolker og at det ikke har vært mulig før nå å få en slik utdannelse. I tillegg har det ikke vært utarbeidet egne tester for kvalifisering av samiske tolker. Sametinget ser at det er et stort behov for å få formell kvalifisering av samiske tolker. Sametinget har i dag allikevel ingen ordninger der man prioriterer tilskudd til grunnutdanning innen noen fag på høyskolenivå. En åpning for denne støttepraksisen uten en grundigere konsekvensutreding vil kunne ha store økonomiske følger for Sametinget.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 135/05.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 135/05.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>163/05: Álttá Siida A/S, Alta kommune - Søknad om tilskudd til kjøp av inventar og utstyr</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Álttá Siida A/S, Alta kommune, til kjøp av inventar og utstyr:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I henhold til støttepraksis gis det maks støtte på inntil 30% maks kr 200 000 til investeringer, og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>164/05: Nordkapp Havn KF, Honningsvåg, Alta Havn, Alta og Hammerfest Havn, Hammerfest, Nordkapp kommune - Søknad om tilskudd til gjennomføring av prosjektet Northcape cruise - Arctic Europe</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Nordkapp Havn KF, Hammerfest Havn KF, Alta Havn KF, Nordkapp kommune, til gjennomføring av prosjektet Northcape Cruise - Arctic Europe første år:</p>
+<p>I Tilskudd inntil kr 180 000.</p>
+<p>II 50% av tilsagnet blir utbetalt når restfinansieringen er løst, og prosjektet er satt i gang. 50% av tilsagnet vil bli utbetalt etter avsluttet første år, statusrapport innlevert og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til prosjektets første år eller til eventuelle kostnadsoverskridelser. Ny søknad for år to må fremmes ved utgangen av det første.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I henhold til støttepraksis gis det opp til 20% støtte i samfinansiering med andre offentlige organ. Av denne grunn og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>VI Tilskuddsstyret forutsetter at den samiske profilen tydeliggjøres i prosjektet på en bedre måte en det som kommer fram i nåværende prosjektbeskrivelse.</p>
+<p>Jarle Jonassen fremmet følgende forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre prioriterer ikke støtte til oppbygging og utvikling av kompetanse innenfor cruicetrafikken knyttet til havneanleggene i Alta, Hammerfest og Nordkapp.</p>
+<p>Sametingets tilskuddsstyre viser for øvrig til at utviklingen av cruisetrafikk i prosjektet er knyttet til Alta, Hammerfest og Honningsvåg som ligger utenfor fondets geografiske virkeområde, og begrenset fondsramme gjør at en må strengt prioritere søknader innenfor fondets geografiske virkeområde for søkerne.</p>
+<p>Vedtak:</p>
+<p>Som Jonassen's forslag.</p>
+<p>Enstemmig vedtatt</p>
+<p>165/05: Olsen Edgar, Nesseby kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 172/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HE 172/05 og søkers brev av 08.07.05 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre viser til at båten du ønsker å kjøpe er bygd i 1978 og er dermed ikke støtteberettiget i henhold etablert støttepraksis. Tilskuddsstyre har valgt å opprettholde aldersgrense når en behandler fiskebåt søknader. Formålet med dette har vært og er at en ikke ønsker at gamle fiskebåter skal samles i fondets geografiske virkeområde.</p>
+<p>Tilskuddsstyre har forståelse for at ungdom ikke har kapital til å kjøpe nyere fartøy og kvoter, men tilskuddsstyre ønsker i denne saken ikke å fravike fra etablert støttepraksis.</p>
+<p>Sametingets plenumsvedtak i sak 36/04 er en politisk melding om fiske som næring og kultur i kyst- og fjordområdene. Meldingen kan brukes som styringsverktøy og kan peke ut retningen for utviklingen av fiskerinæringen i samiske områder, men meldingens formuleringer legges ikke til grunn for den konkrete søknadsbehandlingen.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 172/05.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 172/05.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre tar klagen delvis til følge og innvilger følgende støtte til Edgar Olsen, Nesseby kommune til kjøp av fiskefartøy:</p>
+<p>I Tilskudd inntil kr 70 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Støtte innvilges selv om båten er over 15 år, men tilskuddsstyret legger vekt på at båten er opprustet i 1992/93, samt den samfunnsmessige betydningen det har for lokalsamfunnet at kvotene beholdes i fjorden.</p>
+<p>VI Tilskuddsstyret ber om at det utarbeides et revidert forslag til støttepraksis/retningslinjer for fiskeriene.</p>
+<p>Vedtak:</p>
+<p>Som Jonassens forslag.</p>
+<p>Enstemmig vedtatt</p>
+<p>166/05: Kvernmo Dag, Gratangen kommune - Søknad om tilskudd til bygging av produksjonshall for ved</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Dag Kvernmo, Gratangen kommune, til bygging av produksjonshall for ved:</p>
+<p>I Tilskudd inntil kr 45 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Tilskuddsstyret har redusert tilsagnet i forhold til omsøkt da tilskuddsstyret prioriterer kun støtte til den delen av hallen som går på produksjon av ved, som har en utnyttelsesgrad på 30 %. Tilskuddsstyret har en restriktiv støttepraksis i forhold til å yte støtte til bygging av redskaps- og lagerlokaler generelt. Støtte til denne type investeringer har lav prioritet.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>167/05: Northland Cruise AS (sus), Storfjord kommune - Søknad om tilskudd til kjøp av turistbåt</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Northland Cruise, sus, Storfjord kommune kommune, til kjøp av turistbåt:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>168/05: Návet Doallu DA, Tana kommune - Søknad om tilskudd til bygging av driftsbygning</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Návet Doallu DA, Tana kommune, til bygging av samdrift.</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>169/05: Northcape Rein BA SUS, Karasjok kommune - Søknad om tilskudd til oppstart av slakteribedrift</p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre har avgrenset sin støtte i reindriftsnæringen til kombinasjonsvirksomheter. Tilskuddsstyre kan finansiere tiltak der annen næringsvirksomhet inngår i kombinasjon med reindrift så som duodji, reiseliv, fjordfiske etc. Reindriftens utviklingsfond har tradisjonelt finansiert slakterier og feltslakterier.</p>
+<p>Tilskuddsstyret har vurdert om SUF's støttepraksis skal endres i forhold til reinslakterier, men finner ikke grunnlag for å gjøre det i og med at det finnes andre finansieringsinstitusjoner som kan finansiere slike tiltak. Tilskuddsstyret er opptatt av å ha klare linjer for hva Samisk utviklingsfond kan støtte i forhold til andre finansieringsinstitusjoner. En endring av denne støttepraksisen vil medføre økonomiske konsekvenser for bruken av fondsmidlene.</p>
+<p>Terje Tretnes fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Northcape Rein BA, sus, Karasjok kommune, til oppstart av slakteribedrift:</p>
+<p>I Tilskudd inntil kr 75 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Beløpet skal være med på at reindriftseierne kan bedre utnytte produkt vedrørende slakt, slikt som skinn, horn etc. Videre ser tilskuddsstyret på at dette er et samarbeidsprosjekt mellom flere distrikter (jf. redskapsringer i jordbruk). Tilskuddsstyret ser på dette som et pilotprosjekt og vil være med å støtte som et forsøksprosjekt. På bakgrunn av dette dispenserer tilskuddsstyret fra ordinær støttepraksis og yter støtte til dette prosjektet.</p>
+<p>Vedtak:</p>
+<p>Tretnes' forslag ble vedtatt med 4 mot 2 stemmer.</p>
+<p>170/05: Wasara Duodji, Storfjord kommune - Søknad om tilskudd til etablering av duodjibedrift, klage på vedtak i sak HE 161/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HE 161/05 og søkers brev av 08.07.05 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre viser til Samisk utviklingsfonds støttepraksis om å prioritere støtte til duodjivirksomheter der dette utgjør en betydelig del av inntektene. Dette er ikke tilfellet i denne saken. Samisk utviklingsfonds støttepraksis tilsier at det ikke kan prioriteres støtte til søkere som mottar pensjon fra folketrygden. På grunn av Samisk utviklingsfonds pressede økonomiske situasjon finner Sametingets tilskuddsstyre ikke å kunne prioritere støtte til formålet.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 161/05.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 161/05.</p>
+<p>Willy Ørnebakk fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre finner å kunne ta klage til følge og innvilger følgende støtte til Wasara duodji, Storfjord kommune, til etablering av duodjibedrift:</p>
+<p>I Tilskudd inntil kr 51 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Tilsagnet er ikke innvilget som omsøkt, da en viser til ordinær støttepraksis hvor en innvilger inntil 20 % av investeringskostnadene.</p>
+<p>Vedtak:</p>
+<p>Som Ørnebakk's forslag</p>
+<p>Enstemmig vedtatt</p>
+<p>171/05: Skarsvåg Fiskeri og Turistservice a.s, Nordkapp kommune - Søknad om tilskudd til etablering av turistsenter</p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Støttepraksisen i Samisk utviklingsfond åpner ikke for bruk av fondets midler til utendørsarbeid. I tillegg er fondets midler begrensede og søknadene må derfor prioriteres strengt. Tilskuddsstyret ser ikke at det foreligger tilstrekkelig tungtveiende grunner til å fravike støttepraksisen i dette tilfellet og avslår derfor søknaden.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>172/05: Alteidet Camping DA, Kautokeino kommune - Søknad om tilskudd til oppussing og investering</p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Støttepraksis i Samisk utviklingsfond åpner ikke for å gi tilskudd til vedlikehold og utendørsarbeid. Av søknadens totalsum, er det bare innkjøp av lávvu som kan innvilges tilskudd. Samisk utviklingsfond finansierer inntil 30% av investeringskostnadene, men med en nedre grense på kr 10 000. Dette betyr at søknaden faller utenfor kriteriene for støtte fra Samisk utviklingsfond og derfor må avslås.</p>
+<p>Ann-Kristine Sara Bongo fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir følgende støtte til Alteidet camping, Kautokeino kommune, til oppussing og investeringer:</p>
+<p>I Tilskudd inntil kr 80 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Sametingets tilskuddsstyre viser til at Kautokeino kommune er en omstillings- og nyskapningskommune i Finnmark som særlig skal ytes støtte til nærings- og sysselsettingstiltak i denne sammenheng</p>
+<p>Vedtak:</p>
+<p>Som Bongo's forslag</p>
+<p>Enstemmig vedtatt</p>
+<p>173/05: Larsen Eirik, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Eirik Larsen, Lyngen kommune, til ombygging av driftsbygning:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>174/05: Gáisá Samisk virksomhetsforum og nettverk, Karasjok kommune - Nettverket Virkus sámi gilit/Vitale samiske bygder</p>
+<p>Saken trekkes.</p>
+<p>175/05: Waltenberg Jan Arne, Lyngen kommune - Søknad om tilskudd til ombygging av driftsbygning</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Jan Arne Waltenberg, Lyngen kommune, til ombygging av driftsbygning:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>176/05: Tapio Rebeke, Tana kommune - Søknad om tilskudd til videreutvikling/overtakelse av Impulz mosjonssenter</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Rebeke Tapio, Deanu gielda/Tana kommune, til kjøp av treningsutstyr</p>
+<p>I Tilskudd inntil kr 30 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>177/05: S. Gaups Næringstjenester, Karasjok kommune - Søknad om tilskudd til kjøp og ominnredning av kontorlokaler, inventar og møbler</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Samuel Gaup, Karasjok kommune, til kjøp av kontorutstyr:</p>
+<p>I Tilskudd inntil kr 52 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I henhold til støttepraksis gis det ikke støtte til merverdiavgift, og som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>178/05: Bygge Bistand AS, Tana kommune - Søknad om tilskudd til forprosjekt utvikling av kjedekonsept innen arkitekt og tekniske rådgivere</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til ByggeBistand AS, Tana kommune, til forprosjekt:</p>
+<p>I Tilskudd inntil kr 80 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir følgende støtte til Bygge bistand AS, Tana kommune, til forprosjekt:</p>
+<p>I Tilskudd inntil kr 150 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som Jonassen's forslag.</p>
+<p>Enstemmig vedtatt</p>
+<p>179/05: Sentrum Kiosk og Kro A/S, Porsanger kommune - Søknad om tilskudd til utsmykking av inne- og utearealer</p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Søknadens innhold ligger utenfor det som det kan gis støtte til i Samisk utviklingsfond. Selv om det er klart at et tiltalende ytre er med på å trekke til seg folk, anser ikke tilskuddsstyret dette ikke som en god nok grunn til å fravike støttepraksisen.</p>
+<p>I tillegg vil et tilskudd til en særskilt bedrift virke konkurransevridene i forhold til allerede etablerte bedrifter innenfor samme virksomhetstype. Selv om det å gi en bedrift tilskudd til forskjønning av lokaler/utearealer i seg selv ikke er et direkte bidrag til etablering/drift, så vil det likevel ha en konkurransevridene effekt i og med at man gir et konkurransefortrinn.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>180/05: Sámiid Vuorká-Dávvirat / De Samiske Samlinger, Karasjok kommune - Søknad om prosjektmidler til konsolidering av museene i nordvestsamisk museumssiida</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sámiid Vuorká-Davvirat, Karasjok kommune, til konsolidering av museene i nordvestsamisk museumssiida:</p>
+<p>I Tilskudd inntil kr 65 000.</p>
+<p>II Inntil 50 % av tilskuddet blir utbetalt etter anmodning fra tilskuddsmottaker etter igangsatt prosjekt. De resterende 50 % blir utbetalt når prosjektet er gjennomført, utgiftene dokumentert og sluttrapport tilsendt Sametinget. Restfinansieringen må løses før prosjektet igangsettes.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Det ytes ordinært ikke midler fra utviklingsfondet til denne type prosjekter. Gjennomføring av museumsreformen og fremdrift i prosessen er imidlertid av så stor viktighet at Sametinget finner det forsvarlig å fravike den generelle tilskuddspraksis i dette tilfellet.</p>
+<p>Terje Tretnes fremmet følgende punkt i tillegg til administrasjonens forslag:</p>
+<p>Den faglige kompetansen og kvalitetssikring vedrørende museer og konsolideringen skal være hovedpunkt. Konsolideringen og prosessen må gjennomføres snarest og museene skal da ha faglig kompetanse i det nye styret/styrene som eventuelt opprettes i denne prosessen.</p>
+<p>Vedtak:</p>
+<p>Administrasjonens innstilling med Tretnes' tilleggspunkt ble enstemmig vedtatt.</p>
+<p>181/05: Beazedievvá barnehage, Kautokeino kommune - Søknad om støtte til prosjektet <span type="quote">”Synliggjøring av tradisjonelle aktiviteter”</span>, klage på vedtak i sak 124/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 124/05 og søkers brev av 18.07.05 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 124/05.</p>
+<p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 124/05.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>182/05: Delegering av fullmakt til administrasjonen - Tildeling av stipend til høyere utdanning innenfor fagområdene barnehage og opplæring</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir administrasjonen fullmakt til å treffe avgjørelser i tildeling av stipend til</p>
+<p>studier i høyere utdanning innenfor fagområdene barnehage og opplæring.</p>
+<p>I Administrasjonen delegeres myndighet til å tildele stipend på inntil kr 50 000,- i saker som er klart innenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
+<p>II Administrasjonen gis fullmakt til å avslå søknader som er klart utenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
+<p>III Klage på administrative vedtak forelegges Sametingets tilskuddsstyre til behandling.</p>
+<p>IV Fullmakten gjelder i Sametingets valgperiode.</p>
+<p>V Oppgaver og oversikt over de avgjørelser som fattes av administrasjonen legges frem for Sametingets tilskuddsstyret til orientering.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>183/05: Gunneng Grethe, Kragerø kommune - Søknad om midler til utstillingsprosjektet Medmenneskelighet</p>
+<p>Saken trekkes.</p>
+<p>184/05: Sámiid Vuorká-Dávvirat, Karasjok kommune - Søknad om midler til utstillingsprosjekt</p>
+<p>Saken trekkes</p>
+<p>185/05: Maze Idrettslag, Kautokeino kommune - Søknad om støtte til innkjøp av utstyr, klage på vedtak i sak HK 114/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HK 114/05 og søkers brev av 09.07.2005 med klage på vedtaket i saken. Tilskuddstyret synes begrunnelse i sak HK 114/05 kunne være mer presis, men anser at <em type="italic">støtte til deltakelse i idrettsarrangement </em>dekker støtte til kjøp av utstyr. </p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 114/05.</p>
+<p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 114/05.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>186/05: Masterelv Handel A/S, Kvalsund kommune - Søknad om tilskudd til kjøp av eiendommen Masterelv Handel</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Arnt S. Sporsheim og Kari Aslaksen, Kvalsund kommune, til kjøp av eiendommen Masterelv Handel:</p>
+<p>I Tilskudd inntil kr 100 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Tilskuddsstyret gir vanligvis ikke støtte til kjøp av eiendommer, men i dette tilfelle er det viktig å opprettholde et godt servicetilbud i Kokelv. Butikken har stor samfunnsmessig betydning for bygda.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>187/05: Drag utvikling, Tysfjord kommune: Søknad om midler til prosjektet <span type="quote">”Samisk helsesenter i lulesamisk område”</span></p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Prosjektet <span type="quote">”samisk helse og sosialsenter i lulesamisk område”</span> har som hovedmål utvikling av helse og sosialtjenester til den samiske befolkning. Det er derfor å anse som et helseprosjekt. Sametinget disponerer prosjektmidler til oppfølging av Mangfold og likeverd - regjeringens handlingsplan for helse og sosialtjenester til den samiske befolkning i Norge. Søknadsfristen for 2005 var 15 januar, og prosjektmidler for 2005 er fordelt. Sametinget disponerer ikke andre midler til helse- og sosialprosjekter.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>188/05: Fors, Kristian, Hvalstad og Strømstad, Alf, Oslo - Søknad om støtte til utgivelse av boka Slekter i Indre Finnmark, klage på vedtak i sak 116/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 116/05 og søkers brev av 27.06.2005 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 116/05.</p>
+<p>Tilskuddstyret vil for øvrig bemerke at Sametinget står overfor store utfordringer i å løse den økonomiske situasjonen for samisk litteratur. Det vises til at i år var det kommet inn søknader for ca. 15 millioner kroner, tilskuddstyret hadde til disposisjon 1,9 millioner kroner, og at mange gode prosjekter har fått avslag.</p>
+<p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 116/05.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>189/05: Fliflet Andreas, Hammerfest kommune - Søknad om støtte til utgivelse av CD, klage på vedtak i sak 121/05</p>
+<p>Forslag til vedtak</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 121/05 og søkers brev av 05.08.05 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 121/05.</p>
+<p>Tilskuddsstyret vil imidlertid bemerke at ny søknadsfrist ikke har hatt betydning for vedtak fattet i saken, men vil beklage at søker ikke ble informert om ny søknadsfrist, og at saken ville bli behandlet på tilskuddsstyrets møte i juni 2005.</p>
+<p>Sametingets tilskuddsstyre kan på bakgrunn av dette ikke ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 121/05.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>190/05: InKa as, Karasjok kommune - Søknad om støtte til duodjiutsalg</p>
+<p>Forslag til vedtak</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til at kjøp av varelager vurderes som bedriftsinterne kostnader i og med at dette er omsetningsvarer som inngår i bedriftens egen virksomhet og således ikke er støtteberettigede kostnader som kan finansieres gjennom Samisk utviklingsfond. </p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p><em type="bold">Sametingets tilskuddsstyre - møtebok 6/05, side </em><em type="bold">38 </em><em type="bold">av </em><em type="bold">39 </em></p>
+<p>38</p>
+<p><em type="bold">*råd/styre* - Utskrift av møtebok */*side </em><em type="bold">4 </em><em type="bold">av </em><em type="bold">39 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em><em type="bold">39 </em><em type="bold">sider </em></p>
+<p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+</body></document>

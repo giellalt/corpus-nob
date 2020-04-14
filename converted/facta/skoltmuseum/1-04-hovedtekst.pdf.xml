@@ -1,34 +1,3 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Säʹmmla</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Honna" lastname="Havas" sex="unknown" born="" nationality=""/>
-    </author>
-    <wordcount>97</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sms"/>
-      <language xml:lang="eng"/>
-      <language xml:lang="rus"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>1-04-Hovedtekst</origFileName>
-    <parallel_text xml:lang="eng" location="1-04-hovedtekst.pdf"/>
-    <parallel_text xml:lang="fin" location="1-04-hovedtekst.pdf"/>
-    <parallel_text xml:lang="rus" location="1-04-hovedtekst.pdf"/>
-    <parallel_text xml:lang="sms" location="1-04-hovedtekst.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skoltesamene er en urfolksgruppe med en unik kultur og historie. Tidligere fyttet skoltesamene mellom fere boplasser gjennom året.Siden 1826 har fere riksgrenser blitt etablert på tvers av skoltesamenes leveområde. Dette splittet slekter og gjorde årstidsfyttingen vanskelig å opprettholde. I dag er minst tusen personer av skoltesamisk slekt. De feste er fnske, russiske eller norske statsborgere.</p>
-    <p>Säʹmmlaž er hva skoltesamene kaller seg på sitt eget språk. Folk utenfra har gitt dem andre navn. Noen av disse navnene er blitt akseptert som selvbetegnelser. I Norge er skoltesame, østsame og skolt i bruk. Vi bruker skoltesame siden dette er vanligst.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Säʹmmla</title><genre code="facta"/><author><person firstname="Honna" lastname="Havas" sex="unknown" born="" nationality=""/></author><wordcount>97</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/><language xml:lang="sms"/><language xml:lang="eng"/><language xml:lang="rus"/><language xml:lang="fin"/></multilingual><origFileName>1-04-Hovedtekst</origFileName><parallel_text xml:lang="eng" location="1-04-hovedtekst.pdf"/><parallel_text xml:lang="fin" location="1-04-hovedtekst.pdf"/><parallel_text xml:lang="rus" location="1-04-hovedtekst.pdf"/><parallel_text xml:lang="sms" location="1-04-hovedtekst.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skoltesamene er en urfolksgruppe med en unik kultur og historie. Tidligere fyttet skoltesamene mellom fere boplasser gjennom året.Siden 1826 har fere riksgrenser blitt etablert på tvers av skoltesamenes leveområde. Dette splittet slekter og gjorde årstidsfyttingen vanskelig å opprettholde. I dag er minst tusen personer av skoltesamisk slekt. De feste er fnske, russiske eller norske statsborgere.</p>
+<p>Säʹmmlaž er hva skoltesamene kaller seg på sitt eget språk. Folk utenfra har gitt dem andre navn. Noen av disse navnene er blitt akseptert som selvbetegnelser. I Norge er skoltesame, østsame og skolt i bruk. Vi bruker skoltesame siden dette er vanligst.</p>
+</body></document>

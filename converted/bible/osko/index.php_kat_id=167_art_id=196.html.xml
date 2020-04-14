@@ -1,37 +1,8 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>118</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=167&amp;art_id=196</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=167_art_id=196.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=167_art_id=196.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=167_art_id=196.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Vann</p>
-    <p type="title">Konfirmasjon</p>
-    <p>Ved dåpen blir vi innlemmet i den kristne kirke. Det er foreldre og faddere som handler på vegne av barnet. Ved konfirmasjonen tar ungdom selv ansvaret. Derfor er det helt naturlig for alle døpte å bli kirkelig konfirmert. Konfirmasjon betyr bekreftelse. I konfirmasjonen bekrefter Gud at løftene han gav i dåpen fortsatt gjelder.</p>
-    <p>Konfirmasjonstiden gir deg muligheten til å finne ut om egen tro, lære mer om Bibelen, snakke om kristen tro, bli kjent med kirka, få nye tanker om livet, og engasjere deg i kirka i lokalsamfunnet og verden.</p>
-    <p>Hva er den viktigste grunnen til at du vil konfirmere deg? Hva ønsker du for konfirmasjonstiden din?</p>
-    <p>Les mer om konfirmasjonen her.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>118</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=167&amp;art_id=196</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=167_art_id=196.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=167_art_id=196.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=167_art_id=196.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Vann</p>
+<p type="title">Konfirmasjon</p>
+<p>Ved dåpen blir vi innlemmet i den kristne kirke. Det er foreldre og faddere som handler på vegne av barnet. Ved konfirmasjonen tar ungdom selv ansvaret. Derfor er det helt naturlig for alle døpte å bli kirkelig konfirmert. Konfirmasjon betyr bekreftelse. I konfirmasjonen bekrefter Gud at løftene han gav i dåpen fortsatt gjelder.</p>
+<p>Konfirmasjonstiden gir deg muligheten til å finne ut om egen tro, lære mer om Bibelen, snakke om kristen tro, bli kjent med kirka, få nye tanker om livet, og engasjere deg i kirka i lokalsamfunnet og verden.</p>
+<p>Hva er den viktigste grunnen til at du vil konfirmere deg? Hva ønsker du for konfirmasjonstiden din?</p>
+<p>Les mer om konfirmasjonen her.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

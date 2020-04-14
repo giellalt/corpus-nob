@@ -1,56 +1,17 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>382</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Idrett/Sametingets-kultur-og-idrettsstipend</origFileName>
-    <parallel_text xml:lang="sma" location="saemiedigkien-kultuvre-jih-gaarsjelimmiestipende.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-kultur-ja-valastallanstipeanddat.html"/>
-    <parallel_text xml:lang="smj" location="samedikke-kultuvrra-ja-valastallamstipaennda.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingets kultur- og idrettsstipend / Idrett / Kulturliv / Forsiden - Sametinget</p>
-    <p type="title">Sametingets kultur- og idrettsstipend</p>
-    <p>10. desember 2014</p>
-    <p>Sametingets kultur- og idrettsstipend for ungdom tildeles Ole Mathis Sara Nedrejord, Aslak Ole Eira, Ina-Theres Andrea Sparrok, Sarakka Gaup og Anne Maia Raanes Sørensen</p>
-    <p>Sametingets kultur- og idrettsstipend skal motivere samisk ungdom til å engasjere seg innenfor musikk, kunst, kultur og idrett. Det tildeles fem stipender à kr 25 000, og stipendene er delt ut på bakgrunn av søknader.</p>
-    <p>
-      <em type="bold">Sametingsråd Henrik Olsen sier han er imponert over bredden blant søkerne. </em>
-    </p>
-    <p>
-      <em type="bold">-Jeg vil si at både mengden søknader og kvaliteten på søkerne bærer ord om en god framtid for samisk kultur- og idrettsliv. Det var svært vanskelig å velge fem vinnere blant dem, sier sametingsråd Henrik Olsen. </em>
-    </p>
-    <p>
-      <em type="bold">Idrettsstipend: </em>
-    </p>
-    <p><em type="bold">Ole Mathis Sara Nedrejord </em>er skihopper og har oppnådd gode plasseringer både nasjonalt og internasjonalt. I fjord årets sesong var han landets nest beste juniorhopper. </p>
-    <p><em type="bold">Aslak Ole Eira </em>er skiløper. Han satser for fullt på langrenn, og går for tiden på skigymnas i Nordreisa. Eira har gode resultater fra Artic Winter Games og flere andre mesterskap. </p>
-    <p xml:lang="eng">
-      <em type="bold">Kulturstipend: </em>
-    </p>
-    <p><em type="bold">Ina-Theres Andrea Sparrok </em>er fotograf. Hun har dokumentert sør-samisk reindrift på en god og levende måte. Ved bruk av bilder og tekst sprer hun også kunnskap om samisk språk og kultur, og er en motivator for samisk ungdom med interesse for fotokunst. </p>
-    <p><em type="bold">Sarakka Gaup </em>er skuespiller. Gjennom teaterkunst har hun allerede opparbeidet seg lang og allsidig erfaring. Gaup viser gjennom sin scenekunst at samisk kulturformidling berører. Det krever mot og dedikasjon for å lykkes i kunstfeltet, og hun fremstår som en stemme for unge samer som leter etter tilhørighet og egne røtter. </p>
-    <p><em type="bold">Anne Maia Raanes Sørensen </em>er ballettdanser. I en alder av åtte år startet hun sin karriere som ballettdanser. Gjennom dans kan også samisk kultur bli belyst og fremhevet. Hun har stor lidenskap for dans, og vil være med på å vise andre samiske ungdom at dans også kan ha en plass i samisk kulturformidling. Hun studerer ballett i Canada. Raanes Sørensen skal i januar begynne som lærling i et profesjonelt ballett kompani, Coastal City Ballet. </p>
-    <p>Sametingsråd Henrik Olsen sier at stipendvinnerne er alle sammen gode forbilder og ambassadører for samisk ungdom som ønsker å satse på idrett og kultur.</p>
-    <p>
-      <em type="bold">Mer info: Sametingsråd Henrik Olsen, 907 75 219 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>382</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Idrett/Sametingets-kultur-og-idrettsstipend</origFileName><parallel_text xml:lang="sma" location="saemiedigkien-kultuvre-jih-gaarsjelimmiestipende.html"/><parallel_text xml:lang="sme" location="samedikki-kultur-ja-valastallanstipeanddat.html"/><parallel_text xml:lang="smj" location="samedikke-kultuvrra-ja-valastallamstipaennda.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingets kultur- og idrettsstipend / Idrett / Kulturliv / Forsiden - Sametinget</p>
+<p type="title">Sametingets kultur- og idrettsstipend</p>
+<p>10. desember 2014</p>
+<p>Sametingets kultur- og idrettsstipend for ungdom tildeles Ole Mathis Sara Nedrejord, Aslak Ole Eira, Ina-Theres Andrea Sparrok, Sarakka Gaup og Anne Maia Raanes Sørensen</p>
+<p>Sametingets kultur- og idrettsstipend skal motivere samisk ungdom til å engasjere seg innenfor musikk, kunst, kultur og idrett. Det tildeles fem stipender à kr 25 000, og stipendene er delt ut på bakgrunn av søknader.</p>
+<p><em type="bold">Sametingsråd Henrik Olsen sier han er imponert over bredden blant søkerne. </em></p>
+<p><em type="bold">-Jeg vil si at både mengden søknader og kvaliteten på søkerne bærer ord om en god framtid for samisk kultur- og idrettsliv. Det var svært vanskelig å velge fem vinnere blant dem, sier sametingsråd Henrik Olsen. </em></p>
+<p><em type="bold">Idrettsstipend: </em></p>
+<p><em type="bold">Ole Mathis Sara Nedrejord </em>er skihopper og har oppnådd gode plasseringer både nasjonalt og internasjonalt. I fjord årets sesong var han landets nest beste juniorhopper. </p>
+<p><em type="bold">Aslak Ole Eira </em>er skiløper. Han satser for fullt på langrenn, og går for tiden på skigymnas i Nordreisa. Eira har gode resultater fra Artic Winter Games og flere andre mesterskap. </p>
+<p xml:lang="eng"><em type="bold">Kulturstipend: </em></p>
+<p><em type="bold">Ina-Theres Andrea Sparrok </em>er fotograf. Hun har dokumentert sør-samisk reindrift på en god og levende måte. Ved bruk av bilder og tekst sprer hun også kunnskap om samisk språk og kultur, og er en motivator for samisk ungdom med interesse for fotokunst. </p>
+<p><em type="bold">Sarakka Gaup </em>er skuespiller. Gjennom teaterkunst har hun allerede opparbeidet seg lang og allsidig erfaring. Gaup viser gjennom sin scenekunst at samisk kulturformidling berører. Det krever mot og dedikasjon for å lykkes i kunstfeltet, og hun fremstår som en stemme for unge samer som leter etter tilhørighet og egne røtter. </p>
+<p><em type="bold">Anne Maia Raanes Sørensen </em>er ballettdanser. I en alder av åtte år startet hun sin karriere som ballettdanser. Gjennom dans kan også samisk kultur bli belyst og fremhevet. Hun har stor lidenskap for dans, og vil være med på å vise andre samiske ungdom at dans også kan ha en plass i samisk kulturformidling. Hun studerer ballett i Canada. Raanes Sørensen skal i januar begynne som lærling i et profesjonelt ballett kompani, Coastal City Ballet. </p>
+<p>Sametingsråd Henrik Olsen sier at stipendvinnerne er alle sammen gode forbilder og ambassadører for samisk ungdom som ønsker å satse på idrett og kultur.</p>
+<p><em type="bold">Mer info: Sametingsråd Henrik Olsen, 907 75 219 </em></p>
+</body></document>

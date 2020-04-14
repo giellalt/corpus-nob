@@ -1,59 +1,16 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>355</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Store-forventninger-til-Butenschoen-utvalget</origFileName>
-    <parallel_text xml:lang="sma" location="butenschoen-moenehtsasse-stoerre-vuartoeh.html"/>
-    <parallel_text xml:lang="sme" location="vuordamusat-burenschoen-lavdegotti-arvalusaide.html"/>
-    <parallel_text xml:lang="smj" location="stuorra-vuorddemusa-butenschoena-nammadussaj.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Store forventninger til Butenschøn-utvalget / Artikler / Valgperiode 2009 - 2013 / Arkiv / Forsiden - Sametinget</p>
-    <p type="title">Store forventninger til Butenschøn-utvalget</p>
-    <p>19. juni 2012</p>
-    <p>
-      <em type="bold">Butenschønutvalget ved leder Nils Butenschøn overleverer i dag, den 20.juni, sin rapport til statsråd Kristin Halvorsen. Utvalget har utredet utviklingstrekk, behov og målsettinger for samisk forskning og høyere utdanning og fremmet mange konkrete tiltak. </em>
-    </p>
-    <p>
-      <em type="bold">- Dette er en merkedag for det samiske folk og for meg som er ansvarlig for feltet høyere utdanning og forskning i Sametingsrådet, sier visepresident Laila Susanne Vars. </em>
-    </p>
-    <p>Utvalget har gjennom faglige begrunnede forslag til tiltak gitt myndighetene en unik mulighet til å realisere samepolitiske målsettinger som kan styrke samfunnsutviklingen i nord.</p>
-    <p>
-      <em type="bold">- Jeg er svært fornøyd med at utvalget har hatt et folkerettslig utgangspunkt og har lagt til grunn et bredt regionalt, nasjonalt og internasjonalt perspektiv på samisk forskning og høyere utdanning, uttaler visepresident Laila Susanne Vars. </em>
-    </p>
-    <p>Utvalget foreslår blant annet en særlig godkjenningsordning for Samisk høgskole knyttet til planene om å søke status som vitenskapelig høgskole, og videre mot et urfolksuniversitet. Det foreslås videre at det utvikles et program for samisk språkrøkt og revitalisering av samiske språk som bør organiseres i tillegg til Forskningsrådets program for samisk forskning. Også flere tiltak for å rekruttere til samisk høyere utdanning og forskning er konkretisert.</p>
-    <p>
-      <em type="bold">- Jeg ser frem til å gå grundig igjennom tiltakene foreslått i rapporten og imøteser en konstruktiv dialog og samarbeid med regjeringen i oppfølgingen og iverksetting av de ulike tiltakene. Som regjeringen har uttrykt er kunnskap navet i Nordområdepolitikken. Nå har myndighetene muligheter til å omgjøre dette til praktisk politikk, avslutter visepresident Laila Susanne Vars. </em>
-    </p>
-    <p>
-      <em type="bold">Andre tiltak skissert i Butenschønrapporten: </em>
-    </p>
-    <list>
-      <p type="listitem">Utvalget foreslår at det etableres prosedyrer som kan styrke Sametingets deltakelse i planleggingen og utviklingen av nye programplaner i Forskningsrådet.</p>
-      <p type="listitem">Utvalget foreslår at Sametinget starter arbeidet med å utarbeide en samisk forskningsmelding som et videre skritt i retning av å utarbeide en helhetlig samisk forskningspolitikk.</p>
-      <p type="listitem">De foreslår videre oppretting av et nettverk for samisk forskning og et samordningsforum for høyere utdanningsinstitusjoner som får samme rolle som Universitet og høgskolerådet (UHR) i nasjonal sammenheng.</p>
-    </list>
-    <p>
-      <em type="bold">Kontaktperson: </em>
-    </p>
-    <p xml:lang="sme">Visepresident Laila Susanne Vars , tlf. 977 54 102</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>355</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Store-forventninger-til-Butenschoen-utvalget</origFileName><parallel_text xml:lang="sma" location="butenschoen-moenehtsasse-stoerre-vuartoeh.html"/><parallel_text xml:lang="sme" location="vuordamusat-burenschoen-lavdegotti-arvalusaide.html"/><parallel_text xml:lang="smj" location="stuorra-vuorddemusa-butenschoena-nammadussaj.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Store forventninger til Butenschøn-utvalget / Artikler / Valgperiode 2009 - 2013 / Arkiv / Forsiden - Sametinget</p>
+<p type="title">Store forventninger til Butenschøn-utvalget</p>
+<p>19. juni 2012</p>
+<p><em type="bold">Butenschønutvalget ved leder Nils Butenschøn overleverer i dag, den 20.juni, sin rapport til statsråd Kristin Halvorsen. Utvalget har utredet utviklingstrekk, behov og målsettinger for samisk forskning og høyere utdanning og fremmet mange konkrete tiltak. </em></p>
+<p><em type="bold">- Dette er en merkedag for det samiske folk og for meg som er ansvarlig for feltet høyere utdanning og forskning i Sametingsrådet, sier visepresident Laila Susanne Vars. </em></p>
+<p>Utvalget har gjennom faglige begrunnede forslag til tiltak gitt myndighetene en unik mulighet til å realisere samepolitiske målsettinger som kan styrke samfunnsutviklingen i nord.</p>
+<p><em type="bold">- Jeg er svært fornøyd med at utvalget har hatt et folkerettslig utgangspunkt og har lagt til grunn et bredt regionalt, nasjonalt og internasjonalt perspektiv på samisk forskning og høyere utdanning, uttaler visepresident Laila Susanne Vars. </em></p>
+<p>Utvalget foreslår blant annet en særlig godkjenningsordning for Samisk høgskole knyttet til planene om å søke status som vitenskapelig høgskole, og videre mot et urfolksuniversitet. Det foreslås videre at det utvikles et program for samisk språkrøkt og revitalisering av samiske språk som bør organiseres i tillegg til Forskningsrådets program for samisk forskning. Også flere tiltak for å rekruttere til samisk høyere utdanning og forskning er konkretisert.</p>
+<p><em type="bold">- Jeg ser frem til å gå grundig igjennom tiltakene foreslått i rapporten og imøteser en konstruktiv dialog og samarbeid med regjeringen i oppfølgingen og iverksetting av de ulike tiltakene. Som regjeringen har uttrykt er kunnskap navet i Nordområdepolitikken. Nå har myndighetene muligheter til å omgjøre dette til praktisk politikk, avslutter visepresident Laila Susanne Vars. </em></p>
+<p><em type="bold">Andre tiltak skissert i Butenschønrapporten: </em></p>
+<list><p type="listitem">Utvalget foreslår at det etableres prosedyrer som kan styrke Sametingets deltakelse i planleggingen og utviklingen av nye programplaner i Forskningsrådet.</p>
+<p type="listitem">Utvalget foreslår at Sametinget starter arbeidet med å utarbeide en samisk forskningsmelding som et videre skritt i retning av å utarbeide en helhetlig samisk forskningspolitikk.</p>
+<p type="listitem">De foreslår videre oppretting av et nettverk for samisk forskning og et samordningsforum for høyere utdanningsinstitusjoner som får samme rolle som Universitet og høgskolerådet (UHR) i nasjonal sammenheng.</p>
+</list><p><em type="bold">Kontaktperson: </em></p>
+<p xml:lang="sme">Visepresident Laila Susanne Vars , tlf. 977 54 102</p>
+</body></document>

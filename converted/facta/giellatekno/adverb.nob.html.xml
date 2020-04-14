@@ -1,266 +1,220 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Om adverber</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>1802</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/adverb.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="adverb.eng.html"/>
-    <parallel_text xml:lang="sme" location="adverb.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="swe">Om adverber</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Stedsadverb</p>
-      <p type="listitem" xml:lang="vep">Tidsadverb</p>
-      <p type="listitem" xml:lang="sma">Måteadverb</p>
-      <p type="listitem">Andre adverb</p>
-    </list>
-    <p>Tilbake til grammatikk hovedside .</p>
-    <p>Adverb er ord som forteller hvor, når og hvordan en handling inntreffer. De fleste adverb er ubøyelige, men noen adverb har små bøyingsparadigmer.</p>
-    <p type="title" xml:lang="vep">Stedsadverb</p>
-    <p>Stedsadverb forteller hvor en handling inntreffer. Disse kan ha små bøyningsparadigmer, slik at man blant annet kan skille mellom illativ og lokativ. Ord som <em type="italic">doppe dáppe dieppe </em>har en lokativ betydning, mens ord som <em type="italic">dohko deike diehko </em>har en illativ betydning. Ord som <em type="italic">dákko, duokko, diekko </em>har også lokativ betydning. De brukes om strekning eller et avgrenset område. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'dáppe' </em>. (Elle er her.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle boahtá 'deike' </em>. (Elle kommer hit.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Leat go 'dieppe' riššat </em>? (Er det fyrstikker der?) </p>
-      <p type="listitem"><em type="italic">Mun buvttán 'diehko' riššaid </em>. (Jeg bringer fyrstikkene dit.) </p>
-      <p type="listitem"><em type="italic">'Doppe' gávdnojit gearbmašat </em>. (Det fins slanger der.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">De gal in háliit dohko vuolgit </em>. (Da vil jeg ikke dra dit.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Olbmot galget 'dákko' vázzit </em>. </p>
-      <p type="listitem">(Fotgjengere skal gå her (langs denne veien).)</p>
-    </list>
-    <p>Av himmelretninger og andre orienteringsord kan man også få stedsadverb, f.eks <em type="italic">davvin davás lullin lulás </em>. Legg merke til at det er ordene med 's'-endelse som har illativ betydning. Eksempler: </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte orru 'davvin' </em>. (Ánte bor nordpå.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte fárre 'davás' </em>. (Ánte flytter nordover.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sárá lea 'olgun' </em>. (Sárá er ute.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sárá manná 'olggos' </em>. (Sárá går ut.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ivvár lea 'vuollin' </em>. (Ivvár er nede.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ivvár manná 'vulos' </em>. (Ivvár går ned.) </p>
-      <p type="listitem"><em type="italic">Mánát stohket 'badjin' </em>. (Barna leker oppe.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mánát vihke 'bajás' </em>. (Barna sprang opp.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sii leat guhká ássan 'lullin'. </em>(De har bodd lenge sørpå.) </p>
-      <p type="listitem"><em type="italic">In fárre 'lulás' </em>. (Jeg flytter ikke sørover.) </p>
-      <p type="listitem"><em type="italic">Eallu vulggii 'luksa' </em>. (Reinflokken satte kursen sørover.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Máddin' šaddet juohke lágan šattut </em>. </p>
-      <p type="listitem">(Sørpå vokser det all slags frukt.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Guoros bursa 'máttás' doalvu </em>. </p>
-      <p type="listitem" xml:lang="nno">(En tom lommebok fører deg sørover.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Oarjin' bohtet čeahpes olbmot </em>. </p>
-      <p type="listitem" xml:lang="nno">(Fra vest kommer det flinke folk.)</p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mii fertet 'oarjjás' johttát </em>. (Vi må flytte mot vest.) </p>
-      <p type="listitem"><em type="italic">In gille 'siste' čohkkát </em>. (Jeg gidder ikke å sitte inne.) </p>
-      <p type="listitem"><em type="italic">Allet mana vuos 'sisa' </em>. (Ikke gå inn enda.) </p>
-      <p type="listitem"><em type="italic">'Nuortan' bohte viisásat </em>. (Fra øst kom det vise menn.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Eat berre 'nuorttas' ribahit ealu </em>. </p>
-      <p type="listitem">(Vi bør ikke miste flokken østover.)</p>
-      <p type="listitem"><em type="italic">Don it njuiken 'guhkás' </em>. (Du hoppet ikke langt.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don leat nu 'guhkkin', muhto liikká nu 'lahka' </em>. </p>
-      <p type="listitem" xml:lang="nno">(Du er så langt borte, men likevel så nær.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Gullet, mánát! Allet viegat 'duohkot deike' </em>! </p>
-      <p type="listitem" xml:lang="nno">(Hør her, barn! Ikke spring hit og dit!)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Nu moai vuojašeimme 'ruoktot ovdan' </em>. </p>
-      <p type="listitem">(Slik kjørte vi fram og tilbake.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ihttin mii vuoddját 'ruoktot' </em>. </p>
-      <p type="listitem">(I morgen kjører vi hjem.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Ruovttus' lei dievas moivi </em>. </p>
-      <p type="listitem">(Hjemme var det fullstendig kaos.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii vuoddjáimet 'ruovttus' golmma áigge </em>. </p>
-      <p type="listitem">(Vi kjørte hjemmefra i tre-tiden.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Nuppe beaivvi juo máhcaiga 'ruovttoluotta' </em>. </p>
-      <p type="listitem">(Allerede dagen etter kom de tilbake.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Álggos son lávkii 'ovddos' ja dasto guokte lávkki 'maŋos' </em>. </p>
-      <p type="listitem">(Først tok han et skritt framover, og deretter to skritt bakover.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mánát vázze 'gitta' Guovdageidnui </em>. </p>
-      <p type="listitem">(Barna gikk helt til Guovdageaidnu.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ovllá vujii máŋgii 'ovddos maŋos' biillain ovdal go deaivvai njuolga sázuid gaskii </em>. </p>
-      <p type="listitem">(Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert mellom strekene.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dal fertet 'ovddosguvlui' jurddašit </em>. </p>
-      <p type="listitem" xml:lang="nno">(Nå må vi tenke framover.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Genaid bokte sáhttá guorrat olmmošsoga 'maŋosguvlui' </em>. </p>
-      <p type="listitem">(Ved hjelp av genene kan man følge menneskeslekta bakover i tid.)</p>
-      <p type="listitem"><em type="italic">Don čuoččut mu 'ovddas' </em>. (Du står i veien for meg.) </p>
-    </list>
-    <p>Nordsamisk har spørreadverbene <em type="italic">gosa gos gokko </em>. Alle kan oversettes med 'hvor'. <em type="italic">gosa </em>har illativ betydning, mens <em type="italic">gos </em>og <em type="italic">gokko </em>har lokativ betydning. <em type="italic">gokko </em>brukes om et avgrenset område. </p>
-    <list>
-      <p type="listitem"><em type="italic">'Gosa' dii áigubehtet fárret </em>? (Hvor skal dere flytte?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gos' don leat čuohpaduvvon </em>. </p>
-      <p type="listitem">(Hvor (i hvilket sykehus) er du blitt operert?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don leat čuohpaduvvon </em>? </p>
-      <p type="listitem">(Hvor (på kroppen) er du blitt operert?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gos' don boađát? Mun boađán vuovddis </em>. </p>
-      <p type="listitem">(Hvor kommer du fra? Jeg kommer fra skogen.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don bohtet? Mun bohten bajit luotta </em>. </p>
-      <p type="listitem">(Hvor kom du? Jeg kom langs øverveien.)</p>
-    </list>
-    <p type="title" xml:lang="vep">Tidsadverb</p>
-    <p>Tidssadverb forteller når en handling inntreffer. Eksempler er ordene <em type="italic">dál dalle eske ikte dolin </em>. </p>
-    <p>Tidsadverb kan også være avledet, f.eks. av årstidene, <em type="italic">dálvet geasset giđđat čakčat </em>. Spørreadverb er <em type="italic">goas goassážii </em>, som kan oversettes med 'når' og 'når til'. Når spørsmålet inneholder <em type="italic">goassážii </em>, da skal svaret inneholde et tidsuttrykk i illativ. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goas' mii galgat geargat? Na 'ihttin' </em>. </p>
-      <p type="listitem">(Når skal vi bli ferdige? I morgen.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goassážii' mii galgat geargat? Na 'ihttážii' </em>. </p>
-      <p type="listitem">(Når skal vi være ferdig? Til i morgen.)</p>
-    </list>
-    <p>Flere eksempelsetninger:</p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mii geargat 'odne' </em>. (Vi blir ferdige idag.) </p>
-      <p type="listitem"><em type="italic">'Ihttin' álgá juovlaluopmu </em>. (I morgen begynner juleferien.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun oidnen Sárá 'ikte' </em>. (Jeg så Sárá i går.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mii fitnat 'dávjá' Romssas </em>. (Vi er ofte i Tromsø.) </p>
-      <p type="listitem"><em type="italic">Áhkku lea 'hárve' buohcci </em>. (Bestemor er sjelden syk.) </p>
-      <p type="listitem"><em type="italic">Moai náitaleimme 'diibmá' </em>. (Vi to giftet oss i fjor.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don leat 'álo' heajos mielas </em>. (Du er alltid i dårlig humør.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Muhtomin' in ipmir maid son dadjá </em>. </p>
-      <p type="listitem">(Noen ganger forstår jeg ikke hva han sier.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dálvet' sáhttá čuoigat, muhto 'geasset' gal ii sáhte </em>. </p>
-      <p type="listitem">(Om vinteren kan man gå på ski, men ikke om sommeren.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Giđđat' sáhttet leat dulvvit </em>. </p>
-      <p type="listitem">(Om våren kan det være flom.)</p>
-      <p type="listitem"><em type="italic">'Čakčat' álgá skuvla </em>. (Om høsten begynner skolen.) </p>
-      <p type="listitem"><em type="italic">Moai letne 'áigá' geargan </em>. (Vi to er ferdige for lenge siden.) </p>
-      <p type="listitem"><em type="italic">Mun oidnen su 'eske' </em>. (Jeg så henne isted.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dolin' ledje mádjigat dáppe </em>. </p>
-      <p type="listitem">(Før i tida fantes det bevere her.)</p>
-      <p type="listitem"><em type="italic">Moai letne 'easka' boahtán </em>. (Vi to har nettopp kommet.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun vuolggán 'dál' </em>. (Jeg drar nå.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dalle' go áddjá elii, láviimet juoŋastit </em>. </p>
-      <p type="listitem">(Da bestefar levde, pleide vi å fiske med garn under isen.)</p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mii leat 'guhká' vuordán </em>. (Vi har ventet lenge.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sámmol liiko 'ihkku' johtit </em>. </p>
-      <p type="listitem">(Sámmol liker å reise om natten.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Iđđes' lei guoldu, muhto 'beaivet' de firtii </em>. </p>
-      <p type="listitem">(Om morgenen var det snøfokk, men ut på dagen ble det fint vær.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goas' dus lea riegádanbeaivi </em>? (Når har du bursdag?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Eahkes' lei ipmilbálvalus girkus </em>. </p>
-      <p type="listitem">(Om kvelden var det gudstjeneste i kirka.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Manne it leat 'ovdal' boahtán </em>? </p>
-      <p type="listitem" xml:lang="dan">(Hvorfor har du ikke kommet før?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Oasseváldit bohtet 'maŋŋelaš' </em>. </p>
-      <p type="listitem">(Deltakerne kommer senere.)</p>
-      <p type="listitem"><em type="italic">Doavttir bođii 'árrat' bargui </em>. (Legen kom tidlig på jobb.) </p>
-      <p type="listitem"><em type="italic">Mánát leat 'maŋŋit' nohkkan </em>. (Barna har lagt seg sent.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Reaŋga lea 'čađat' dájuhan du </em>. </p>
-      <p type="listitem">(Drengen har lurt deg hele tiden.)</p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Boađe sisa 'dakkaviđe' </em>! (Kom inn med en gang!) </p>
-      <p type="listitem"><em type="italic">Mii álgit 'ovttatmano' </em>. (Vi setter i gang straks.) </p>
-      <p type="listitem" xml:lang="dan"><em type="italic">Manne don 'ovtto' biegut </em>? (Hvorfor klager du hele tiden?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Lean 'duollet dálle' bargan teáhteris </em>. </p>
-      <p type="listitem">(Jeg har jobbet på teateret av og til.)</p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Leat go 'ain' suhtus </em>? (Er du fortsatt sint?) </p>
-      <p type="listitem"><em type="italic">Mun lean 'juo' geargan </em>. (Jeg er allerede ferdig.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Leat go don 'goassege' leamaš Ruoššas </em>? </p>
-      <p type="listitem">(Har du noensinne vært i Russland?)</p>
-      <p type="listitem"><em type="italic">Goas don 'fas' boađát </em>?(Når kommer du igjen?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dasto' ferten eará čovdosa gávdnat </em>. </p>
-      <p type="listitem">(I så fall må jeg finne en annen løsning.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Leat go du buvssat 'vuot' duolvan </em>? </p>
-      <p type="listitem" xml:lang="nno">(Er buksene dine blitt skitne igjen?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Soai olliiga mollii 'oktanaga' </em>. </p>
-      <p type="listitem">(De kom i mål samtidig.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Álggos' mun in ipmirdan maidege </em>. </p>
-      <p type="listitem">(I begynnelsen forstod jeg ingenting.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Loahpas' mii vuolláneimmet </em>. </p>
-      <p type="listitem" xml:lang="nno">(Til slutt ga vi opp.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Maŋážassii' son ollii muhtun stobu lusa </em>. </p>
-      <p type="listitem">(Omsider kom han fram til en stue.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dađistaga' mii hárjáneimmet buollašii </em>. </p>
-      <p type="listitem">(Etterhvert ble vi vant til kulda.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean barggus 'gitta' bearjadahkii </em>. </p>
-      <p type="listitem" xml:lang="nno">(Jeg er på jobb helt til fredag.)</p>
-    </list>
-    <p>Merk: på nordsamisk uttrykker man 'aldri' med nektelsesverb + goassege:</p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">In leat goassege meara oaidnán </em>. (Jeg har aldri sett havet.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Son ii leat goassege duhtavaš </em>. (Han er aldri fornøyd.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai ean vuollán goassege </em>. (Vi to gir aldri opp.) </p>
-    </list>
-    <p type="title" xml:lang="sma">Måteadverb</p>
-    <p>Måteadverb forteller hvordan en handling utføres eller hvordan noe skjer. Nordsamisk har et spørreadverb, 'movt', som kan oversettes med 'hvordan'. Svaret kan inneholde for eksempel ordene <em type="italic">ná nuo nie nu </em>, som alle kan oversettes med 'slik'. Flere eksempler: </p>
-    <list>
-      <p type="listitem"><em type="italic">Mun čálán 'ná' </em>. (Jeg skriver slik.) </p>
-      <p type="listitem"><em type="italic">'Movt' duinna manná </em>? (Hvordan går det med deg?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Movt' don mátkkoštat Romsii </em>? </p>
-      <p type="listitem">(Hvordan reiser du til Tromsø?)</p>
-      <p type="listitem"><em type="italic">Sárá buohccái 'fáhkka' </em>. (Sara ble brått syk.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Fáhkkestaga' iđistii golleloddi </em>. </p>
-      <p type="listitem" xml:lang="nno">(Plutselig kom det til syne en gullfugl.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Fabrihkkabargit ledje 'suoli' doallan čoahkkima </em>. </p>
-      <p type="listitem">(Fabrikkarbeiderne hadde holdt et møte i all hemmelighet.)</p>
-      <p type="listitem" xml:lang="dan"><em type="italic">Ale čále nu 'summal' </em>. (Ikke skriv så slurvete.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji lei 'summal' válljen vehkiid </em>. </p>
-      <p type="listitem">(Læreren hadde valgt ut assistenter på slump.)</p>
-      <p type="listitem" xml:lang="dan"><em type="italic">Mun boađán 'okto' </em>. (Jeg kommer alene.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Uksa lea 'gitta' </em>. (Døra er igjen.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Oarra lea reagas 'gitta' </em>. (Tauet er fast i sleden.) </p>
-    </list>
-    <p xml:lang="nno">Man kan også lage måteadverb av adjektiv. Av adjektivet <em type="italic">buorre </em>får vi adverbet <em type="italic">bures </em>. For andre adjektiv finnes det regler for hvordan man lager adverb. Likestavelses- og kontrakte adjektiv får endelsen '-t' eller '-et' lagt til akkusativ-/genitivformen. Legg merke til at '-et' fører til diftongforenkling. Ulikestavelsesadjektiv får endelsen '-it' lagt til akkusativ-/genitivformen. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Bohtosat leat 'buorit'. Don leat bargan 'bures' </em>. </p>
-      <p type="listitem">(Resultatet er bra. Du har jobbet godt.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čáppa' čála. Don čálát 'čábbát' </em>. </p>
-      <p type="listitem">(Du har pen skrift. Du skriver pent.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'njoahci'. Ánte bargá 'njoazit/njozet' </em>. </p>
-      <p type="listitem">(Ánte er treg. Ánte jobber sakte.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođán'. Ánte bargá 'jođánit' </em>. </p>
-      <p type="listitem">(Ánte er snar. Ánte jobber fort.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'vuogas' čilgehus. Don čilget 'vuohkkasit' </em>. </p>
-      <p type="listitem" xml:lang="nno">(Du har en grei forklaring. Du forklarer på en grei måte.)</p>
-    </list>
-    <p xml:lang="nno">Av komparative og superlative adjektiv kan man også lage adverb på samme måte:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čábbát' čála go mus. Don čálát 'čábbábut' go mun </em>. </p>
-      <p type="listitem" xml:lang="nno">(Du har penere skrift enn meg. Du skrivere penere enn meg.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođáneamos'. Ánte bargá jođánepmosit </em>. </p>
-      <p type="listitem">(Ánte er raskest. Ánte jobber fortest.)</p>
-    </list>
-    <p type="title">Andre adverb</p>
-    <p>Adverb kan også uttrykke årsak og grad. Årsaksadverber er for eksempel <em type="italic">manne danne </em>. Gradsadverb står til et adjektiv eller adverb. Dette er ord som for eksempel <em type="italic">hui oalle oba menddo </em>. </p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'hui' váibbas </em>. (Mor er veldig trøtt.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'oalle' váibbas </em>. (Mor er ganske trøtt.) </p>
-      <p type="listitem"><em type="italic">Eadni lea 'oba' váibbas </em>. (Mor er temmelig trøtt.) </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'menddo' váibbas </em>. (Mor er altfor trøtt.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Manne' leat deike boahtán </em>? </p>
-      <p type="listitem">(Hvorfor er du kommet hit?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Danne' mii leat maŋŋonan </em>. </p>
-      <p type="listitem" xml:lang="dan">(Derfor er vi forsinket.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Leat go 'áibbas' gáigi </em>? (Er du helt dum?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dan gal lean 'oalát' vajálduhttán </em>. </p>
-      <p type="listitem" xml:lang="dan">(Det har jeg helt glemt)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Diesa mun gal 'ille' jáhkán </em>. </p>
-      <p type="listitem">(Det der tror jeg nesten ikke på.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Odne gal in 'báljo' astta </em>. </p>
-      <p type="listitem" xml:lang="nno">(I dag har jeg nesten ikke tid.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'veahá' beahtahallan </em>. </p>
-      <p type="listitem">(Jeg er litt skuffet.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai 'measta' vulge dohko </em>. </p>
-      <p type="listitem" xml:lang="nno">(Vi to er på nippet til å dra dit.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai 'goasii' báziime busses </em>. </p>
-      <p type="listitem">(Vi mistet nesten bussen.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">In gille 'šat' diggot </em>. </p>
-      <p type="listitem">(Jeg gidder ikke å krangle mer.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mánát eai jeagadan su 'obanasiige' </em>. </p>
-      <p type="listitem">(Barna hørte ikke på ham i det hele tatt.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don dulkot buot 'aivve' bahá guvlui </em>. </p>
-      <p type="listitem">(Du tolker alt bare i negativ retning.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mus leat 'dušše' guokte máná </em>. </p>
-      <p type="listitem" xml:lang="nno">(Jeg har bare to barn.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Muital 'juste' movt dat lei </em>! </p>
-      <p type="listitem">(Fortell akkurat hvordan det var!)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Om adverber</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>1802</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adverb.nob.html</origFileName><parallel_text xml:lang="eng" location="adverb.eng.html"/><parallel_text xml:lang="sme" location="adverb.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="swe">Om adverber</p>
+<list><p type="listitem" xml:lang="vep">Stedsadverb</p>
+<p type="listitem" xml:lang="vep">Tidsadverb</p>
+<p type="listitem" xml:lang="sma">Måteadverb</p>
+<p type="listitem">Andre adverb</p>
+</list><p>Tilbake til grammatikk hovedside .</p>
+<p>Adverb er ord som forteller hvor, når og hvordan en handling inntreffer. De fleste adverb er ubøyelige, men noen adverb har små bøyingsparadigmer.</p>
+<p type="title" xml:lang="vep">Stedsadverb</p>
+<p>Stedsadverb forteller hvor en handling inntreffer. Disse kan ha små bøyningsparadigmer, slik at man blant annet kan skille mellom illativ og lokativ. Ord som <em type="italic">doppe dáppe dieppe </em>har en lokativ betydning, mens ord som <em type="italic">dohko deike diehko </em>har en illativ betydning. Ord som <em type="italic">dákko, duokko, diekko </em>har også lokativ betydning. De brukes om strekning eller et avgrenset område. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'dáppe' </em>. (Elle er her.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle boahtá 'deike' </em>. (Elle kommer hit.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Leat go 'dieppe' riššat </em>? (Er det fyrstikker der?) </p>
+<p type="listitem"><em type="italic">Mun buvttán 'diehko' riššaid </em>. (Jeg bringer fyrstikkene dit.) </p>
+<p type="listitem"><em type="italic">'Doppe' gávdnojit gearbmašat </em>. (Det fins slanger der.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">De gal in háliit dohko vuolgit </em>. (Da vil jeg ikke dra dit.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Olbmot galget 'dákko' vázzit </em>. </p>
+<p type="listitem">(Fotgjengere skal gå her (langs denne veien).)</p>
+</list><p>Av himmelretninger og andre orienteringsord kan man også få stedsadverb, f.eks <em type="italic">davvin davás lullin lulás </em>. Legg merke til at det er ordene med 's'-endelse som har illativ betydning. Eksempler: </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Ánte orru 'davvin' </em>. (Ánte bor nordpå.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte fárre 'davás' </em>. (Ánte flytter nordover.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sárá lea 'olgun' </em>. (Sárá er ute.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sárá manná 'olggos' </em>. (Sárá går ut.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ivvár lea 'vuollin' </em>. (Ivvár er nede.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ivvár manná 'vulos' </em>. (Ivvár går ned.) </p>
+<p type="listitem"><em type="italic">Mánát stohket 'badjin' </em>. (Barna leker oppe.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Mánát vihke 'bajás' </em>. (Barna sprang opp.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sii leat guhká ássan 'lullin'. </em>(De har bodd lenge sørpå.) </p>
+<p type="listitem"><em type="italic">In fárre 'lulás' </em>. (Jeg flytter ikke sørover.) </p>
+<p type="listitem"><em type="italic">Eallu vulggii 'luksa' </em>. (Reinflokken satte kursen sørover.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Máddin' šaddet juohke lágan šattut </em>. </p>
+<p type="listitem">(Sørpå vokser det all slags frukt.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Guoros bursa 'máttás' doalvu </em>. </p>
+<p type="listitem" xml:lang="nno">(En tom lommebok fører deg sørover.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Oarjin' bohtet čeahpes olbmot </em>. </p>
+<p type="listitem" xml:lang="nno">(Fra vest kommer det flinke folk.)</p>
+<p type="listitem" xml:lang="nno"><em type="italic">Mii fertet 'oarjjás' johttát </em>. (Vi må flytte mot vest.) </p>
+<p type="listitem"><em type="italic">In gille 'siste' čohkkát </em>. (Jeg gidder ikke å sitte inne.) </p>
+<p type="listitem"><em type="italic">Allet mana vuos 'sisa' </em>. (Ikke gå inn enda.) </p>
+<p type="listitem"><em type="italic">'Nuortan' bohte viisásat </em>. (Fra øst kom det vise menn.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Eat berre 'nuorttas' ribahit ealu </em>. </p>
+<p type="listitem">(Vi bør ikke miste flokken østover.)</p>
+<p type="listitem"><em type="italic">Don it njuiken 'guhkás' </em>. (Du hoppet ikke langt.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don leat nu 'guhkkin', muhto liikká nu 'lahka' </em>. </p>
+<p type="listitem">(Du er så langt borte, men likevel så nær.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Gullet, mánát! Allet viegat 'duohkot deike' </em>! </p>
+<p type="listitem" xml:lang="nno">(Hør her, barn! Ikke spring hit og dit!)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Nu moai vuojašeimme 'ruoktot ovdan' </em>. </p>
+<p type="listitem">(Slik kjørte vi fram og tilbake.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ihttin mii vuoddját 'ruoktot' </em>. </p>
+<p type="listitem">(I morgen kjører vi hjem.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Ruovttus' lei dievas moivi </em>. </p>
+<p type="listitem">(Hjemme var det fullstendig kaos.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii vuoddjáimet 'ruovttus' golmma áigge </em>. </p>
+<p type="listitem">(Vi kjørte hjemmefra i tre-tiden.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Nuppe beaivvi juo máhcaiga 'ruovttoluotta' </em>. </p>
+<p type="listitem">(Allerede dagen etter kom de tilbake.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Álggos son lávkii 'ovddos' ja dasto guokte lávkki 'maŋos' </em>. </p>
+<p type="listitem">(Først tok han et skritt framover, og deretter to skritt bakover.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mánát vázze 'gitta' Guovdageidnui </em>. </p>
+<p type="listitem">(Barna gikk helt til Guovdageaidnu.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ovllá vujii máŋgii 'ovddos maŋos' biillain ovdal go deaivvai njuolga sázuid gaskii </em>. </p>
+<p type="listitem">(Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert mellom strekene.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dal fertet 'ovddosguvlui' jurddašit </em>. </p>
+<p type="listitem" xml:lang="nno">(Nå må vi tenke framover.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Genaid bokte sáhttá guorrat olmmošsoga 'maŋosguvlui' </em>. </p>
+<p type="listitem">(Ved hjelp av genene kan man følge menneskeslekta bakover i tid.)</p>
+<p type="listitem"><em type="italic">Don čuoččut mu 'ovddas' </em>. (Du står i veien for meg.) </p>
+</list><p>Nordsamisk har spørreadverbene <em type="italic">gosa gos gokko </em>. Alle kan oversettes med 'hvor'. <em type="italic">gosa </em>har illativ betydning, mens <em type="italic">gos </em>og <em type="italic">gokko </em>har lokativ betydning. <em type="italic">gokko </em>brukes om et avgrenset område. </p>
+<list><p type="listitem"><em type="italic">'Gosa' dii áigubehtet fárret </em>? (Hvor skal dere flytte?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gos' don leat čuohpaduvvon </em>. </p>
+<p type="listitem">(Hvor (i hvilket sykehus) er du blitt operert?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don leat čuohpaduvvon </em>? </p>
+<p type="listitem">(Hvor (på kroppen) er du blitt operert?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gos' don boađát? Mun boađán vuovddis </em>. </p>
+<p type="listitem">(Hvor kommer du fra? Jeg kommer fra skogen.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don bohtet? Mun bohten bajit luotta </em>. </p>
+<p type="listitem">(Hvor kom du? Jeg kom langs øverveien.)</p>
+</list><p type="title" xml:lang="vep">Tidsadverb</p>
+<p>Tidssadverb forteller når en handling inntreffer. Eksempler er ordene <em type="italic">dál dalle eske ikte dolin </em>. </p>
+<p>Tidsadverb kan også være avledet, f.eks. av årstidene, <em type="italic">dálvet geasset giđđat čakčat </em>. Spørreadverb er <em type="italic">goas goassážii </em>, som kan oversettes med 'når' og 'når til'. Når spørsmålet inneholder <em type="italic">goassážii </em>, da skal svaret inneholde et tidsuttrykk i illativ. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Goas' mii galgat geargat? Na 'ihttin' </em>. </p>
+<p type="listitem">(Når skal vi bli ferdige? I morgen.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Goassážii' mii galgat geargat? Na 'ihttážii' </em>. </p>
+<p type="listitem">(Når skal vi være ferdig? Til i morgen.)</p>
+</list><p>Flere eksempelsetninger:</p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">Mii geargat 'odne' </em>. (Vi blir ferdige idag.) </p>
+<p type="listitem"><em type="italic">'Ihttin' álgá juovlaluopmu </em>. (I morgen begynner juleferien.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun oidnen Sárá 'ikte' </em>. (Jeg så Sárá i går.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Mii fitnat 'dávjá' Romssas </em>. (Vi er ofte i Tromsø.) </p>
+<p type="listitem"><em type="italic">Áhkku lea 'hárve' buohcci </em>. (Bestemor er sjelden syk.) </p>
+<p type="listitem"><em type="italic">Moai náitaleimme 'diibmá' </em>. (Vi to giftet oss i fjor.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don leat 'álo' heajos mielas </em>. (Du er alltid i dårlig humør.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Muhtomin' in ipmir maid son dadjá </em>. </p>
+<p type="listitem">(Noen ganger forstår jeg ikke hva han sier.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dálvet' sáhttá čuoigat, muhto 'geasset' gal ii sáhte </em>. </p>
+<p type="listitem">(Om vinteren kan man gå på ski, men ikke om sommeren.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Giđđat' sáhttet leat dulvvit </em>. </p>
+<p type="listitem">(Om våren kan det være flom.)</p>
+<p type="listitem"><em type="italic">'Čakčat' álgá skuvla </em>. (Om høsten begynner skolen.) </p>
+<p type="listitem"><em type="italic">Moai letne 'áigá' geargan </em>. (Vi to er ferdige for lenge siden.) </p>
+<p type="listitem"><em type="italic">Mun oidnen su 'eske' </em>. (Jeg så henne isted.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dolin' ledje mádjigat dáppe </em>. </p>
+<p type="listitem">(Før i tida fantes det bevere her.)</p>
+<p type="listitem"><em type="italic">Moai letne 'easka' boahtán </em>. (Vi to har nettopp kommet.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun vuolggán 'dál' </em>. (Jeg drar nå.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dalle' go áddjá elii, láviimet juoŋastit </em>. </p>
+<p type="listitem">(Da bestefar levde, pleide vi å fiske med garn under isen.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'guhká' vuordán </em>. (Vi har ventet lenge.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sámmol liiko 'ihkku' johtit </em>. </p>
+<p type="listitem">(Sámmol liker å reise om natten.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Iđđes' lei guoldu, muhto 'beaivet' de firtii </em>. </p>
+<p type="listitem">(Om morgenen var det snøfokk, men ut på dagen ble det fint vær.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Goas' dus lea riegádanbeaivi </em>? (Når har du bursdag?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Eahkes' lei ipmilbálvalus girkus </em>. </p>
+<p type="listitem">(Om kvelden var det gudstjeneste i kirka.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Manne it leat 'ovdal' boahtán </em>? </p>
+<p type="listitem" xml:lang="dan">(Hvorfor har du ikke kommet før?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Oasseváldit bohtet 'maŋŋelaš' </em>. </p>
+<p type="listitem">(Deltakerne kommer senere.)</p>
+<p type="listitem"><em type="italic">Doavttir bođii 'árrat' bargui </em>. (Legen kom tidlig på jobb.) </p>
+<p type="listitem"><em type="italic">Mánát leat 'maŋŋit' nohkkan </em>. (Barna har lagt seg sent.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Reaŋga lea 'čađat' dájuhan du </em>. </p>
+<p type="listitem">(Drengen har lurt deg hele tiden.)</p>
+<p type="listitem" xml:lang="nno"><em type="italic">Boađe sisa 'dakkaviđe' </em>! (Kom inn med en gang!) </p>
+<p type="listitem"><em type="italic">Mii álgit 'ovttatmano' </em>. (Vi setter i gang straks.) </p>
+<p type="listitem" xml:lang="dan"><em type="italic">Manne don 'ovtto' biegut </em>? (Hvorfor klager du hele tiden?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Lean 'duollet dálle' bargan teáhteris </em>. </p>
+<p type="listitem">(Jeg har jobbet på teateret av og til.)</p>
+<p type="listitem" xml:lang="nno"><em type="italic">Leat go 'ain' suhtus </em>? (Er du fortsatt sint?) </p>
+<p type="listitem"><em type="italic">Mun lean 'juo' geargan </em>. (Jeg er allerede ferdig.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Leat go don 'goassege' leamaš Ruoššas </em>? </p>
+<p type="listitem">(Har du noensinne vært i Russland?)</p>
+<p type="listitem"><em type="italic">Goas don 'fas' boađát </em>?(Når kommer du igjen?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dasto' ferten eará čovdosa gávdnat </em>. </p>
+<p type="listitem">(I så fall må jeg finne en annen løsning.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Leat go du buvssat 'vuot' duolvan </em>? </p>
+<p type="listitem" xml:lang="nno">(Er buksene dine blitt skitne igjen?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Soai olliiga mollii 'oktanaga' </em>. </p>
+<p type="listitem">(De kom i mål samtidig.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Álggos' mun in ipmirdan maidege </em>. </p>
+<p type="listitem">(I begynnelsen forstod jeg ingenting.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Loahpas' mii vuolláneimmet </em>. </p>
+<p type="listitem" xml:lang="nno">(Til slutt ga vi opp.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Maŋážassii' son ollii muhtun stobu lusa </em>. </p>
+<p type="listitem">(Omsider kom han fram til en stue.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dađistaga' mii hárjáneimmet buollašii </em>. </p>
+<p type="listitem">(Etterhvert ble vi vant til kulda.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean barggus 'gitta' bearjadahkii </em>. </p>
+<p type="listitem" xml:lang="nno">(Jeg er på jobb helt til fredag.)</p>
+</list><p>Merk: på nordsamisk uttrykker man 'aldri' med nektelsesverb + goassege:</p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">In leat goassege meara oaidnán </em>. (Jeg har aldri sett havet.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Son ii leat goassege duhtavaš </em>. (Han er aldri fornøyd.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai ean vuollán goassege </em>. (Vi to gir aldri opp.) </p>
+</list><p type="title" xml:lang="sma">Måteadverb</p>
+<p>Måteadverb forteller hvordan en handling utføres eller hvordan noe skjer. Nordsamisk har et spørreadverb, 'movt', som kan oversettes med 'hvordan'. Svaret kan inneholde for eksempel ordene <em type="italic">ná nuo nie nu </em>, som alle kan oversettes med 'slik'. Flere eksempler: </p>
+<list><p type="listitem"><em type="italic">Mun čálán 'ná' </em>. (Jeg skriver slik.) </p>
+<p type="listitem"><em type="italic">'Movt' duinna manná </em>? (Hvordan går det med deg?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Movt' don mátkkoštat Romsii </em>? </p>
+<p type="listitem">(Hvordan reiser du til Tromsø?)</p>
+<p type="listitem"><em type="italic">Sárá buohccái 'fáhkka' </em>. (Sara ble brått syk.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Fáhkkestaga' iđistii golleloddi </em>. </p>
+<p type="listitem" xml:lang="nno">(Plutselig kom det til syne en gullfugl.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Fabrihkkabargit ledje 'suoli' doallan čoahkkima </em>. </p>
+<p type="listitem">(Fabrikkarbeiderne hadde holdt et møte i all hemmelighet.)</p>
+<p type="listitem" xml:lang="dan"><em type="italic">Ale čále nu 'summal' </em>. (Ikke skriv så slurvete.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji lei 'summal' válljen vehkiid </em>. </p>
+<p type="listitem">(Læreren hadde valgt ut assistenter på slump.)</p>
+<p type="listitem" xml:lang="dan"><em type="italic">Mun boađán 'okto' </em>. (Jeg kommer alene.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Uksa lea 'gitta' </em>. (Døra er igjen.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Oarra lea reagas 'gitta' </em>. (Tauet er fast i sleden.) </p>
+</list><p xml:lang="nno">Man kan også lage måteadverb av adjektiv. Av adjektivet <em type="italic">buorre </em>får vi adverbet <em type="italic">bures </em>. For andre adjektiv finnes det regler for hvordan man lager adverb. Likestavelses- og kontrakte adjektiv får endelsen '-t' eller '-et' lagt til akkusativ-/genitivformen. Legg merke til at '-et' fører til diftongforenkling. Ulikestavelsesadjektiv får endelsen '-it' lagt til akkusativ-/genitivformen. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Bohtosat leat 'buorit'. Don leat bargan 'bures' </em>. </p>
+<p type="listitem">(Resultatet er bra. Du har jobbet godt.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čáppa' čála. Don čálát 'čábbát' </em>. </p>
+<p type="listitem">(Du har pen skrift. Du skriver pent.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'njoahci'. Ánte bargá 'njoazit/njozet' </em>. </p>
+<p type="listitem">(Ánte er treg. Ánte jobber sakte.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođán'. Ánte bargá 'jođánit' </em>. </p>
+<p type="listitem">(Ánte er snar. Ánte jobber fort.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'vuogas' čilgehus. Don čilget 'vuohkkasit' </em>. </p>
+<p type="listitem" xml:lang="nno">(Du har en grei forklaring. Du forklarer på en grei måte.)</p>
+</list><p xml:lang="nno">Av komparative og superlative adjektiv kan man også lage adverb på samme måte:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čábbát' čála go mus. Don čálát 'čábbábut' go mun </em>. </p>
+<p type="listitem" xml:lang="nno">(Du har penere skrift enn meg. Du skrivere penere enn meg.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođáneamos'. Ánte bargá jođánepmosit </em>. </p>
+<p type="listitem">(Ánte er raskest. Ánte jobber fortest.)</p>
+</list><p type="title">Andre adverb</p>
+<p>Adverb kan også uttrykke årsak og grad. Årsaksadverber er for eksempel <em type="italic">manne danne </em>. Gradsadverb står til et adjektiv eller adverb. Dette er ord som for eksempel <em type="italic">hui oalle oba menddo </em>. </p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'hui' váibbas </em>. (Mor er veldig trøtt.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'oalle' váibbas </em>. (Mor er ganske trøtt.) </p>
+<p type="listitem"><em type="italic">Eadni lea 'oba' váibbas </em>. (Mor er temmelig trøtt.) </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Eadni lea 'menddo' váibbas </em>. (Mor er altfor trøtt.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Manne' leat deike boahtán </em>? </p>
+<p type="listitem">(Hvorfor er du kommet hit?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Danne' mii leat maŋŋonan </em>. </p>
+<p type="listitem" xml:lang="dan">(Derfor er vi forsinket.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Leat go 'áibbas' gáigi </em>? (Er du helt dum?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dan gal lean 'oalát' vajálduhttán </em>. </p>
+<p type="listitem" xml:lang="dan">(Det har jeg helt glemt)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Diesa mun gal 'ille' jáhkán </em>. </p>
+<p type="listitem">(Det der tror jeg nesten ikke på.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Odne gal in 'báljo' astta </em>. </p>
+<p type="listitem" xml:lang="nno">(I dag har jeg nesten ikke tid.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'veahá' beahtahallan </em>. </p>
+<p type="listitem">(Jeg er litt skuffet.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai 'measta' vulge dohko </em>. </p>
+<p type="listitem" xml:lang="nno">(Vi to er på nippet til å dra dit.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai 'goasii' báziime busses </em>. </p>
+<p type="listitem">(Vi mistet nesten bussen.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">In gille 'šat' diggot </em>. </p>
+<p type="listitem">(Jeg gidder ikke å krangle mer.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mánát eai jeagadan su 'obanasiige' </em>. </p>
+<p type="listitem">(Barna hørte ikke på ham i det hele tatt.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don dulkot buot 'aivve' bahá guvlui </em>. </p>
+<p type="listitem">(Du tolker alt bare i negativ retning.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mus leat 'dušše' guokte máná </em>. </p>
+<p type="listitem" xml:lang="nno">(Jeg har bare to barn.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Muital 'juste' movt dat lei </em>! </p>
+<p type="listitem">(Fortell akkurat hvordan det var!)</p>
+</list></body></document>

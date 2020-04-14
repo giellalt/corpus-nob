@@ -1,70 +1,37 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>640</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Opplaering</origFileName>
-    <parallel_text xml:lang="sma" location="lierehtimmie.html"/>
-    <parallel_text xml:lang="sme" location="oahpahus.html"/>
-    <parallel_text xml:lang="smj" location="aahpadus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Opplæring / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Opplæring</p>
-    <p>Den samiske befolkningen skal ha kunnskap, kompetanse og ferdigheter som kreves for å utvikle samiske samfunn. Dette betyr at den samiske befolkningen har reel rett til opplæring i og på samisk. Dette vil gi samiske barn og unge en sterk samisk identitet og tilknytning til samisk språk og kultur. All høyere utdanning og forskning skal også ivareta det samiske perspektivet.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Nordre</p>
-    <list>
-      <p type="listitem">Barnehager</p>
-      <p type="listitem">Grunnskole og VGS</p>
-      <p type="listitem">Forskning og høyere utdanning</p>
-      <p type="listitem">Voksenopplæring</p>
-      <p type="listitem">Læremidler</p>
-      <p type="listitem">Arbeidet mot mobbing</p>
-    </list>
-    <p type="title">Sametinget arbeider for</p>
-    <list>
-      <p type="listitem">Å sikre gode rammevilkår for samisk barnehage, grunnopplæring, høyere utdanning og forskning gjennom dialog med sentrale, regionale og lokale myndigheter og andre aktuelle aktører</p>
-      <p type="listitem">At samiske barn og unge har en sterk identitet og tilknytning til samisk språk, kultur og samfunnsliv</p>
-      <p type="listitem">At den samiske befolkningen har en reel l rett til kvalitativ god opplæring i og på samisk</p>
-      <p type="listitem">All høyere utdanning og forskning ivaretar det samiske perspektivet</p>
-    </list>
-    <p type="title">Bakgrunn</p>
-    <p>Sametinget arbeider på ulike måter for å nå disse målsettingene. Vi samarbeider med sentrale myndigheter og gir informasjon og veiledning om samiskopplæring. Vi gir tilskudd og stipend, forvalter læremiddelproduksjonen, utarbeider læreplaner og sikrer rammebetingelser for grunnopplæringen, høyere utdanning og forskning.</p>
-    <p type="title">Rettigheter</p>
-    <p>Opplæringsloven kapittel 6 inneholder bestemmelser om opplæring i samisk i grunnskole (§ 6-2) og videregående skole (§ 6-3). Med samisk menes nord,- sør og lulesamisk. En elev har derfor en lovfestet, individuell rett til opplæring i faget samisk både på barnetrinnet, ungdomstrinnet og videregående skole, uansett hvor de bor i landet. Elevene velger selv hvilket av de tre samiske språkene de ønsker opplæring i.</p>
-    <p>Etter opplæringslovens § 6-2 har elever i grunnskolealder som bor i et samisk distrikt rett til opplæring i og på samisk. Med dette menes at elevene har rett til opplæring på samisk også i andre fag, altså at undervisningen foregår på samisk.</p>
-    <p>Utenfor forvaltningsområdet har samer rett til opplæring på samisk dersom minst 10 elever ønsker det, og så lenge disse utgjør en gruppe på 6 elever. Kommunen kan vedta å legge opplæringen på samisk til en eller flere skoler i kommunen. Det er kommunene som bestemmer hvilken skole et slikt tilbud skal kunne gis på. Skoleeier har det overordnede ansvar for at elevenes rettigheter til samisk opplæring blir oppfylt.</p>
-    <p>Opplæringslovens § 6-3 omhandler elever i videregående opplæring. Samiske elever har en individuell rett til opplæring i samisk språk i den videregående skolen. For videregående opplæring kan departementet gi forskrifter om at visse skoler skal tilby opplæring i eller på samisk eller i særskilte samiske fag. Etter forskrift til opplæringsloven § 7-1, så har elevene rett til alternativ opplæringsform så lenge opplæringen ikke kan gis av egne lærere. I praksis betyr slik alternativ opplæringsform fjernundervisning, intensivundervisning eller leirskoleopphold.</p>
-    <p>Grunnskolen og videregående skoler over hele Norge er etter opplæringslovens § 6-4 pålagt å gi opplæring om det samiske folk, om samisk språk, kultur og samfunnsliv.</p>
-    <p>Elever ved friskoler har ingen rett til opplæring i samisk språk. Samiske elever på friskoler må søke særskilt om opplæring i samisk. Det er opp til skolen om de tilbyr samiskundervisning til sine elever.</p>
-    <p>Les mer i Opplæringsloven (Lovdata)</p>
-    <p type="title">Fakta om Opplæring</p>
-    <p>Sametinget vedtar, innenfor rammer satt av Kirke- og undervisningsdepartementet, læreplaner i samisk språk for grunnskolen og videregående samt for duodji, reindriftsfag og andre særskilte samiske fag for videregående opplæring.</p>
-    <p>Forskrifter om læreplaner etter §2-3 og §3-4 skal gi pålegg om opplæring om samer, deres språk og samfunnsliv i tilknytning de ulike fagområder. Innenfor rammer fastsatt Kirke- og undervisningsdepartementet har Sametinget myndighet til å gi forskrifter om innholdet i slik opplæring.</p>
-    <p>Sametinget skal konsulteres i alle utdanningssaker som berører samiske interesser.</p>
-    <p type="listitem">Ovttas.no - Samiske læringsressurser på nett</p>
-    <p>Vi har samlet bilder, bøker, filmer, lyd, læringsmateriell og digitale ressurser for å gjøre det lettere for deg å være lærer på samiske skoler. I tillegg finner du artikler om samiske tema og pedagogiske tips.</p>
-    <p xml:lang="sme">Ovttas.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>640</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Opplaering</origFileName><parallel_text xml:lang="sma" location="lierehtimmie.html"/><parallel_text xml:lang="sme" location="oahpahus.html"/><parallel_text xml:lang="smj" location="aahpadus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Opplæring / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Opplæring</p>
+<p>Den samiske befolkningen skal ha kunnskap, kompetanse og ferdigheter som kreves for å utvikle samiske samfunn. Dette betyr at den samiske befolkningen har reel rett til opplæring i og på samisk. Dette vil gi samiske barn og unge en sterk samisk identitet og tilknytning til samisk språk og kultur. All høyere utdanning og forskning skal også ivareta det samiske perspektivet.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Nordre</p>
+<list><p type="listitem">Barnehager</p>
+<p type="listitem">Grunnskole og VGS</p>
+<p type="listitem">Forskning og høyere utdanning</p>
+<p type="listitem">Voksenopplæring</p>
+<p type="listitem">Læremidler</p>
+<p type="listitem">Arbeidet mot mobbing</p>
+</list><p type="title">Sametinget arbeider for</p>
+<list><p type="listitem">Å sikre gode rammevilkår for samisk barnehage, grunnopplæring, høyere utdanning og forskning gjennom dialog med sentrale, regionale og lokale myndigheter og andre aktuelle aktører</p>
+<p type="listitem">At samiske barn og unge har en sterk identitet og tilknytning til samisk språk, kultur og samfunnsliv</p>
+<p type="listitem">At den samiske befolkningen har en reel l rett til kvalitativ god opplæring i og på samisk</p>
+<p type="listitem">All høyere utdanning og forskning ivaretar det samiske perspektivet</p>
+</list><p type="title">Bakgrunn</p>
+<p>Sametinget arbeider på ulike måter for å nå disse målsettingene. Vi samarbeider med sentrale myndigheter og gir informasjon og veiledning om samiskopplæring. Vi gir tilskudd og stipend, forvalter læremiddelproduksjonen, utarbeider læreplaner og sikrer rammebetingelser for grunnopplæringen, høyere utdanning og forskning.</p>
+<p type="title">Rettigheter</p>
+<p>Opplæringsloven kapittel 6 inneholder bestemmelser om opplæring i samisk i grunnskole (§ 6-2) og videregående skole (§ 6-3). Med samisk menes nord,- sør og lulesamisk. En elev har derfor en lovfestet, individuell rett til opplæring i faget samisk både på barnetrinnet, ungdomstrinnet og videregående skole, uansett hvor de bor i landet. Elevene velger selv hvilket av de tre samiske språkene de ønsker opplæring i.</p>
+<p>Etter opplæringslovens § 6-2 har elever i grunnskolealder som bor i et samisk distrikt rett til opplæring i og på samisk. Med dette menes at elevene har rett til opplæring på samisk også i andre fag, altså at undervisningen foregår på samisk.</p>
+<p>Utenfor forvaltningsområdet har samer rett til opplæring på samisk dersom minst 10 elever ønsker det, og så lenge disse utgjør en gruppe på 6 elever. Kommunen kan vedta å legge opplæringen på samisk til en eller flere skoler i kommunen. Det er kommunene som bestemmer hvilken skole et slikt tilbud skal kunne gis på. Skoleeier har det overordnede ansvar for at elevenes rettigheter til samisk opplæring blir oppfylt.</p>
+<p>Opplæringslovens § 6-3 omhandler elever i videregående opplæring. Samiske elever har en individuell rett til opplæring i samisk språk i den videregående skolen. For videregående opplæring kan departementet gi forskrifter om at visse skoler skal tilby opplæring i eller på samisk eller i særskilte samiske fag. Etter forskrift til opplæringsloven § 7-1, så har elevene rett til alternativ opplæringsform så lenge opplæringen ikke kan gis av egne lærere. I praksis betyr slik alternativ opplæringsform fjernundervisning, intensivundervisning eller leirskoleopphold.</p>
+<p>Grunnskolen og videregående skoler over hele Norge er etter opplæringslovens § 6-4 pålagt å gi opplæring om det samiske folk, om samisk språk, kultur og samfunnsliv.</p>
+<p>Elever ved friskoler har ingen rett til opplæring i samisk språk. Samiske elever på friskoler må søke særskilt om opplæring i samisk. Det er opp til skolen om de tilbyr samiskundervisning til sine elever.</p>
+<p>Les mer i Opplæringsloven (Lovdata)</p>
+<p type="title">Fakta om Opplæring</p>
+<p>Sametinget vedtar, innenfor rammer satt av Kirke- og undervisningsdepartementet, læreplaner i samisk språk for grunnskolen og videregående samt for duodji, reindriftsfag og andre særskilte samiske fag for videregående opplæring.</p>
+<p>Forskrifter om læreplaner etter §2-3 og §3-4 skal gi pålegg om opplæring om samer, deres språk og samfunnsliv i tilknytning de ulike fagområder. Innenfor rammer fastsatt Kirke- og undervisningsdepartementet har Sametinget myndighet til å gi forskrifter om innholdet i slik opplæring.</p>
+<p>Sametinget skal konsulteres i alle utdanningssaker som berører samiske interesser.</p>
+<p type="listitem">Ovttas.no - Samiske læringsressurser på nett</p>
+<p>Vi har samlet bilder, bøker, filmer, lyd, læringsmateriell og digitale ressurser for å gjøre det lettere for deg å være lærer på samiske skoler. I tillegg finner du artikler om samiske tema og pedagogiske tips.</p>
+<p xml:lang="sme">Ovttas.no</p>
+</body></document>

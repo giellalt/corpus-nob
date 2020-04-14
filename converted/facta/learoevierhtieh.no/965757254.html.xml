@@ -1,95 +1,61 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Småskoletrinnet 1.-4. klasse</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>646</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sma"/>
-    </multilingual>
-    <origFileName>http://www.learoevierhtieh.no/wips/965757254</origFileName>
-    <parallel_text xml:lang="sma" location="334536323.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Småskoletrinnet 1.-4. klasse</p>
-    <p xml:lang="sma">Logg inn i Learoevierhtieh</p>
-    <p xml:lang="sma">Gorredh gïelem</p>
-    <p type="title">Mål og hovedmomenter</p>
-    <p type="title">Mål for småskoletrinnet, 1. – 4. klasse</p>
-    <p type="title">Møte med språket</p>
-    <p>Elevene skal opparbeide noe kunnskap om språk og egen språkutvikling og et godt og variert ordforråd som grunnlag for språklig selvtillit. De skal kunne bruke språket muntlig og skriftlig. Elevene skal kunne samtale om og formidle samisk litteratur og fortellinger.</p>
-    <p type="title">Hovedmomenter for 1. – 4. klasse</p>
-    <p type="title">1. klasse/førskolen</p>
-    <p type="title">Møte med språket</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Utforske og eksperimentere med ord, lyder, rim og regler.</p>
-      <p type="listitem">Framføre enkle dikt, rim og fortellinger.</p>
-      <p type="listitem">Motta beskjeder og svare på henvendelser om kjente temaer, for eksempel eleven selv eller familien.</p>
-      <p type="listitem">Eksperimentere med bokstaver, eksempelvis ved å finne bokstavene i ord, og uttale bokstavlydene. De skal møte symboler, bokstaver, tall og skrift i klasserommet og andre steder.</p>
-      <p type="listitem">Lytte til høytlesning av fortellinger fra lokalmiljøet og samiske eventyr.</p>
-      <p type="listitem">Bli kjent med ulike benevnelser for hilsning og presentasjoner.</p>
-      <p type="listitem">Joike, synge, delta i sangleker og spill</p>
-      <p type="listitem">Nedtegne egne ord og uttrykk skriftlig</p>
-    </list>
-    <p type="title">2. klasse</p>
-    <p type="title">Møte med språket</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Lytte til høytlesning av samiske fortellinger og eventyr.</p>
-      <p type="listitem">Arbeide med uttale og intonasjon i framføring av enkle dikt og regler.</p>
-      <p type="listitem">Øve seg i å forstå og formidle enkle beskjeder, spørsmål, informasjon og instruksjoner.</p>
-      <p type="listitem">Utforske og eksperimentere med språklyder og bokstaver. Arbeide med skriveforberedende aktiviteter som for eksempel bokstavforming, gjenkjenning.</p>
-      <p type="listitem">Bruke språket i samtaler og oppmuntres til å spørre om det de ikke forstår eller undrer seg over, og få øvelse i å gi og ta imot instruksjoner og annen informasjon.</p>
-      <p type="listitem">Venne seg til å bruke biblioteket, få hjelp til å finne fram bøker</p>
-      <p type="listitem">Framføre rim, regler, sanger og andre tekster, for eksempel talekor og dramatisering av historier.</p>
-      <p type="listitem">Få hjelp til å nedtegne egne ord og setninger skriftlig og selv få øvelse i å skrive enkle ord og uttrykk</p>
-    </list>
-    <p type="title">3. klasse</p>
-    <p type="title">Møte med språket</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Lytte til høytlesning av eventyr, barnelitteratur, dikt, joik- og sangtekster og selv framføre for eksempel dikt, rim, regler, joiker og sanger.</p>
-      <p type="listitem">Arbeide med uttale og intonasjon og lytte til samtaler, enkle historier og fortellinger.</p>
-      <p type="listitem">Bruke og utforske språket gjennom samtale om ulike temaer.</p>
-      <p type="listitem">Framføre og dramatisere tekster og fortellinger.</p>
-      <p type="listitem">Oppmuntres til å skrive ved å ta i bruk den kunnskapen de har fra morsmålsopplæringen, for eksempel skrive korte beskjeder og små historier.</p>
-      <p type="listitem">Leke med språk og tekst i forhold til bilder og i varierte og aktiviserende aktiviteter knyttet til ulike sjangrer og språksituasjoner.</p>
-      <p type="listitem">Arbeide med alfabetet.</p>
-      <p type="listitem">Øve seg på skriftlig framstilling av ulike typer tekster.</p>
-      <p type="listitem">Finne fram og velge ut bøker på biblioteket.</p>
-      <p type="listitem">Utforske dataprogrammer og søke ulik type informasjon ved hjelp av IT.</p>
-    </list>
-    <p type="title">4. klasse</p>
-    <p type="title">Møte med språket</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Lytte til fortellinger, dikt og eventyr og samtaler i for eksempel radio- og tv-programmer.</p>
-      <p type="listitem">Arbeide med uttale og intonasjon i ulike framføringer.</p>
-      <p type="listitem">Arbeide med temaet folketradisjoner, for eksempel ved å oppsøke eldre i lokalmiljøet og høre om fortellertradisjoner, musikktradisjoner og mattradisjoner.</p>
-      <p type="listitem">Øve seg på å gi uttrykk for egne meninger for eksempel i diskusjon eller ved å stille og besvare enkle spørsmål.</p>
-      <p type="listitem">Framføre dramatiseringer og tilrettelegge for spill og praktiske aktiviteter for yngre elever.</p>
-      <p type="listitem">Arbeide med ordbilder for eksempel i dikt og lokale fortellinger.</p>
-      <p type="listitem">Arbeide med skriftlig framstilling av for eksempel bilde-/tekstbøker og tegneserier og få erfaring ved å gi respons på skriftlig materiale.</p>
-      <p type="listitem">Lese og arbeide med å utvikle gode lesestrategier og få mulighet til å lese for ulike formål (oppleve, lære, forstå).</p>
-      <p type="listitem">Arbeide med begreper, slik at ordforrådet stadig utvikles.</p>
-      <p type="listitem">Bruke litteratur som inspirasjon for egen skriving av for eksempel dikt, tegneserier og korte fortellinger</p>
-      <p type="listitem">Bruke biblioteket til å få en viss oversikt over forfattere de kjenner, og lese et tekstutvalg som kan levendegjøre en eller flere av dem.</p>
-      <p type="listitem">Arbeide med ulike virkemidler i medier som for eksempel fjernsyn og aviser.</p>
-      <p type="listitem">Få øvelse i å bruke datamaskinen til tekstskaping.</p>
-    </list>
-    <p>Fylkesmannen i Nordland © 2005 - Design og løsning © Seria</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Småskoletrinnet 1.-4. klasse</title><genre code="facta"/><author><unknown/></author><wordcount>646</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sma"/></multilingual><origFileName>http://www.learoevierhtieh.no/wips/965757254</origFileName><parallel_text xml:lang="sma" location="334536323.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Småskoletrinnet 1.-4. klasse</p>
+<p xml:lang="sma">Logg inn i Learoevierhtieh</p>
+<p xml:lang="sma">Gorredh gïelem</p>
+<p type="title">Mål og hovedmomenter</p>
+<p type="title">Mål for småskoletrinnet, 1. – 4. klasse</p>
+<p type="title">Møte med språket</p>
+<p>Elevene skal opparbeide noe kunnskap om språk og egen språkutvikling og et godt og variert ordforråd som grunnlag for språklig selvtillit. De skal kunne bruke språket muntlig og skriftlig. Elevene skal kunne samtale om og formidle samisk litteratur og fortellinger.</p>
+<p type="title">Hovedmomenter for 1. – 4. klasse</p>
+<p type="title">1. klasse/førskolen</p>
+<p type="title">Møte med språket</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Utforske og eksperimentere med ord, lyder, rim og regler.</p>
+<p type="listitem">Framføre enkle dikt, rim og fortellinger.</p>
+<p type="listitem">Motta beskjeder og svare på henvendelser om kjente temaer, for eksempel eleven selv eller familien.</p>
+<p type="listitem">Eksperimentere med bokstaver, eksempelvis ved å finne bokstavene i ord, og uttale bokstavlydene. De skal møte symboler, bokstaver, tall og skrift i klasserommet og andre steder.</p>
+<p type="listitem">Lytte til høytlesning av fortellinger fra lokalmiljøet og samiske eventyr.</p>
+<p type="listitem">Bli kjent med ulike benevnelser for hilsning og presentasjoner.</p>
+<p type="listitem">Joike, synge, delta i sangleker og spill</p>
+<p type="listitem">Nedtegne egne ord og uttrykk skriftlig</p>
+</list><p type="title">2. klasse</p>
+<p type="title">Møte med språket</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Lytte til høytlesning av samiske fortellinger og eventyr.</p>
+<p type="listitem">Arbeide med uttale og intonasjon i framføring av enkle dikt og regler.</p>
+<p type="listitem">Øve seg i å forstå og formidle enkle beskjeder, spørsmål, informasjon og instruksjoner.</p>
+<p type="listitem">Utforske og eksperimentere med språklyder og bokstaver. Arbeide med skriveforberedende aktiviteter som for eksempel bokstavforming, gjenkjenning.</p>
+<p type="listitem">Bruke språket i samtaler og oppmuntres til å spørre om det de ikke forstår eller undrer seg over, og få øvelse i å gi og ta imot instruksjoner og annen informasjon.</p>
+<p type="listitem">Venne seg til å bruke biblioteket, få hjelp til å finne fram bøker</p>
+<p type="listitem">Framføre rim, regler, sanger og andre tekster, for eksempel talekor og dramatisering av historier.</p>
+<p type="listitem">Få hjelp til å nedtegne egne ord og setninger skriftlig og selv få øvelse i å skrive enkle ord og uttrykk</p>
+</list><p type="title">3. klasse</p>
+<p type="title">Møte med språket</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Lytte til høytlesning av eventyr, barnelitteratur, dikt, joik- og sangtekster og selv framføre for eksempel dikt, rim, regler, joiker og sanger.</p>
+<p type="listitem">Arbeide med uttale og intonasjon og lytte til samtaler, enkle historier og fortellinger.</p>
+<p type="listitem">Bruke og utforske språket gjennom samtale om ulike temaer.</p>
+<p type="listitem">Framføre og dramatisere tekster og fortellinger.</p>
+<p type="listitem">Oppmuntres til å skrive ved å ta i bruk den kunnskapen de har fra morsmålsopplæringen, for eksempel skrive korte beskjeder og små historier.</p>
+<p type="listitem">Leke med språk og tekst i forhold til bilder og i varierte og aktiviserende aktiviteter knyttet til ulike sjangrer og språksituasjoner.</p>
+<p type="listitem">Arbeide med alfabetet.</p>
+<p type="listitem">Øve seg på skriftlig framstilling av ulike typer tekster.</p>
+<p type="listitem">Finne fram og velge ut bøker på biblioteket.</p>
+<p type="listitem">Utforske dataprogrammer og søke ulik type informasjon ved hjelp av IT.</p>
+</list><p type="title">4. klasse</p>
+<p type="title">Møte med språket</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Lytte til fortellinger, dikt og eventyr og samtaler i for eksempel radio- og tv-programmer.</p>
+<p type="listitem">Arbeide med uttale og intonasjon i ulike framføringer.</p>
+<p type="listitem">Arbeide med temaet folketradisjoner, for eksempel ved å oppsøke eldre i lokalmiljøet og høre om fortellertradisjoner, musikktradisjoner og mattradisjoner.</p>
+<p type="listitem">Øve seg på å gi uttrykk for egne meninger for eksempel i diskusjon eller ved å stille og besvare enkle spørsmål.</p>
+<p type="listitem">Framføre dramatiseringer og tilrettelegge for spill og praktiske aktiviteter for yngre elever.</p>
+<p type="listitem">Arbeide med ordbilder for eksempel i dikt og lokale fortellinger.</p>
+<p type="listitem">Arbeide med skriftlig framstilling av for eksempel bilde-/tekstbøker og tegneserier og få erfaring ved å gi respons på skriftlig materiale.</p>
+<p type="listitem">Lese og arbeide med å utvikle gode lesestrategier og få mulighet til å lese for ulike formål (oppleve, lære, forstå).</p>
+<p type="listitem">Arbeide med begreper, slik at ordforrådet stadig utvikles.</p>
+<p type="listitem">Bruke litteratur som inspirasjon for egen skriving av for eksempel dikt, tegneserier og korte fortellinger</p>
+<p type="listitem">Bruke biblioteket til å få en viss oversikt over forfattere de kjenner, og lese et tekstutvalg som kan levendegjøre en eller flere av dem.</p>
+<p type="listitem">Arbeide med ulike virkemidler i medier som for eksempel fjernsyn og aviser.</p>
+<p type="listitem">Få øvelse i å bruke datamaskinen til tekstskaping.</p>
+</list><p>Fylkesmannen i Nordland © 2005 - Design og løsning © Seria</p>
+</body></document>

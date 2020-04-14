@@ -1,61 +1,20 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>349</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Kulturnaeringer-oeker-i-de-samiske-omraadene</origFileName>
-    <parallel_text xml:lang="sma" location="kultuvrejielemh-saemien-dajvine-laessanieh.html"/>
-    <parallel_text xml:lang="sme" location="kulturealahusat-lassanit-eanemusat-sami-guovlluin.html"/>
-    <parallel_text xml:lang="smj" location="kulturaeladusa-lassani-same-guovlojn.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulturnæringer øker i de samiske områdene / Artikler / Valgperiode 2009 - 2013 / Arkiv / Forsiden - Sametinget</p>
-    <p type="title">Kulturnæringer øker i de samiske områdene</p>
-    <p>23. oktober 2012</p>
-    <p>
-      <em type="bold">Sysselsettingen øker i kulturnæringene i de samiske områdene. Det viser en rapport som Telemarkforsking har laget for Sametinget. </em>
-    </p>
-    <p>Rapporten viser at veksten har vært størst i opplevelses og aktivitetsbedrifter og interesseorganisasjoner. Sysselsettingen er nesten fordoblet og det er en større vekst enn i landsdelen og Norge forøvrig, viser rapporten til Telemarksforsking.</p>
-    <p>I de samiske områdene jobber 594 personer innenfor ulike kulturyrker. 204 av disse jobber innen media, 110 jobber med kunstnerisk arbeid av ulik art, 228 personer jobber med kulturformidling, f.eks. museums og bibliotekansatte, og 52 personer jobber med kunstopplæring i kulturskolen eller lignende.</p>
-    <p>
-      <em type="bold">Norsk kulturindeks </em>
-    </p>
-    <p>Norsk kulturindeks er en årlig oversikt over kulturtilbud og kulturaktivitet i norske kommuner, regioner og fylker. Indeksen er basert på data fra en rekke offentlige etater, interesseorganisasjoner og foreninger. I denne rapporten presenterer Telemarksforsking resultater og detaljer for de samiske kommunene.</p>
-    <p>
-      <em type="bold">Kunstnerkommune </em>
-    </p>
-    <p>Totalt er 96 kunstnere bosatt i de samiske områdene, viser rapporten til Telemarksforsking. Dette tilsvarer to kunstnere pr. tusen innbyggere, en kunstnertetthet som er om lag halvparten av landsgjennomsnittet. Antallet kunstnere i samisk område har steget med 6 % det siste året. På landsbasis har det ikke vært noen økning i kunstnertettheten.</p>
-    <p>Av kommunene i de samiske områdene, er Kautokeino den store kunstnerkommunen. Her finner man totalt 30 kunstnere hvilket betyr at 10,2 pr tusen innbyggere, altså én prosent av befolkningen, er medlem i en eller flere kunstnerorganisasjoner. Kautokeino alene har 17 musikere og komponister, syv skuespillere og seks visuelle kunstnere. Kautokeino rangerer som kunstnerkommune nummer tre i Norge.</p>
-    <p xml:lang="eng">
-      <em type="bold">Kulturmelding </em>
-    </p>
-    <p>
-      <em type="bold">-Rapporten blir et viktig kunnskapsgrunnlag i arbeidet med Sametingets kulturmelding, sier rådsmedlem Marianne Balto. Hun sier at en av grunnene til økningen i kulturnæringene er Sametingets tilskuddsordninger, sier Balto. </em>
-    </p>
-    <p>
-      <em type="bold">For mer informasjon: </em>
-    </p>
-    <p>Prosjektleder for Norsk kulturindeks er forsker Bård Kleppe. Henvendelser kan rettes til ham på telefon 911 97 543 eller epost kleppe@tmforsk.no .</p>
-    <p>Rådsmedlem Marianne Balto + 47 480 63 358</p>
-    <p>Her rapporten:</p>
-    <p>Norsk kulturindeks 2012 Resultater fra samisk område.pdf</p>
-    <p>1,27 MB</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>349</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Kulturnaeringer-oeker-i-de-samiske-omraadene</origFileName><parallel_text xml:lang="sma" location="kultuvrejielemh-saemien-dajvine-laessanieh.html"/><parallel_text xml:lang="sme" location="kulturealahusat-lassanit-eanemusat-sami-guovlluin.html"/><parallel_text xml:lang="smj" location="kulturaeladusa-lassani-same-guovlojn.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulturnæringer øker i de samiske områdene / Artikler / Valgperiode 2009 - 2013 / Arkiv / Forsiden - Sametinget</p>
+<p type="title">Kulturnæringer øker i de samiske områdene</p>
+<p>23. oktober 2012</p>
+<p><em type="bold">Sysselsettingen øker i kulturnæringene i de samiske områdene. Det viser en rapport som Telemarkforsking har laget for Sametinget. </em></p>
+<p>Rapporten viser at veksten har vært størst i opplevelses og aktivitetsbedrifter og interesseorganisasjoner. Sysselsettingen er nesten fordoblet og det er en større vekst enn i landsdelen og Norge forøvrig, viser rapporten til Telemarksforsking.</p>
+<p>I de samiske områdene jobber 594 personer innenfor ulike kulturyrker. 204 av disse jobber innen media, 110 jobber med kunstnerisk arbeid av ulik art, 228 personer jobber med kulturformidling, f.eks. museums og bibliotekansatte, og 52 personer jobber med kunstopplæring i kulturskolen eller lignende.</p>
+<p><em type="bold">Norsk kulturindeks </em></p>
+<p>Norsk kulturindeks er en årlig oversikt over kulturtilbud og kulturaktivitet i norske kommuner, regioner og fylker. Indeksen er basert på data fra en rekke offentlige etater, interesseorganisasjoner og foreninger. I denne rapporten presenterer Telemarksforsking resultater og detaljer for de samiske kommunene.</p>
+<p><em type="bold">Kunstnerkommune </em></p>
+<p>Totalt er 96 kunstnere bosatt i de samiske områdene, viser rapporten til Telemarksforsking. Dette tilsvarer to kunstnere pr. tusen innbyggere, en kunstnertetthet som er om lag halvparten av landsgjennomsnittet. Antallet kunstnere i samisk område har steget med 6 % det siste året. På landsbasis har det ikke vært noen økning i kunstnertettheten.</p>
+<p>Av kommunene i de samiske områdene, er Kautokeino den store kunstnerkommunen. Her finner man totalt 30 kunstnere hvilket betyr at 10,2 pr tusen innbyggere, altså én prosent av befolkningen, er medlem i en eller flere kunstnerorganisasjoner. Kautokeino alene har 17 musikere og komponister, syv skuespillere og seks visuelle kunstnere. Kautokeino rangerer som kunstnerkommune nummer tre i Norge.</p>
+<p xml:lang="eng"><em type="bold">Kulturmelding </em></p>
+<p><em type="bold">-Rapporten blir et viktig kunnskapsgrunnlag i arbeidet med Sametingets kulturmelding, sier rådsmedlem Marianne Balto. Hun sier at en av grunnene til økningen i kulturnæringene er Sametingets tilskuddsordninger, sier Balto. </em></p>
+<p><em type="bold">For mer informasjon: </em></p>
+<p>Prosjektleder for Norsk kulturindeks er forsker Bård Kleppe. Henvendelser kan rettes til ham på telefon 911 97 543 eller epost kleppe@tmforsk.no .</p>
+<p>Rådsmedlem Marianne Balto + 47 480 63 358</p>
+<p>Her rapporten:</p>
+<p>Norsk kulturindeks 2012 Resultater fra samisk område.pdf</p>
+<p>1,27 MB</p>
+</body></document>

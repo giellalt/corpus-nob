@@ -1,46 +1,18 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>139</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Spraak/Spraakteknologi</origFileName>
-    <parallel_text xml:lang="sma" location="gieleteknologije.html"/>
-    <parallel_text xml:lang="sme" location="spraakteknologi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språkteknologi / Språk / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Språkteknologi</p>
-    <p>Sametingsrådet arbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. Det samiske språket trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
-    <p>Ansvarlig politiker</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>Aktuelt</p>
-    <p>Lansering av elektronisk lesehjelp for nordsamisk</p>
-    <p>Sametinget har sammen med Acapela Group AB,  Divvun og Giellatekno ved Unive...</p>
-    <p>Les mer</p>
-    <p>Samisk tastatur for smarttelefoner er klart</p>
-    <p>Kommunal- og moderniseringsminister Jan Tore Sanner og sametingspresident Ai...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>Divvun-prosjektet og Sámi giellagáldu er begge viktige språkprosjekter som i sin tid ble etablert i Sametingets regi, men som nå er overført til Universitetet i Tromsø og det erfarne språkforskningsmiljøet. Sametinget samarbeider allikevel om allerede eksisterende og nye prosjekter for å øke antallet og kvaliteten av teknologiske språkverktøy.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>139</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Spraak/Spraakteknologi</origFileName><parallel_text xml:lang="sma" location="gieleteknologije.html"/><parallel_text xml:lang="sme" location="spraakteknologi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Språkteknologi / Språk / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Språkteknologi</p>
+<p>Sametingsrådet arbeider med ulike forsknings- og utviklingsaktører for å styrke det språkteknologiske tilbudet innen alle de samiske språkene. Det samiske språket trenger språkbrukere, og aktive språkbrukere behøver moderne hjelpemidler for data, nett og mobile enheter.</p>
+<p>Ansvarlig politiker</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p>Aktuelt</p>
+<p>Lansering av elektronisk lesehjelp for nordsamisk</p>
+<p>Sametinget har sammen med Acapela Group AB,  Divvun og Giellatekno ved Unive...</p>
+<p>Les mer</p>
+<p>Samisk tastatur for smarttelefoner er klart</p>
+<p>Kommunal- og moderniseringsminister Jan Tore Sanner og sametingspresident Ai...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p>Divvun-prosjektet og Sámi giellagáldu er begge viktige språkprosjekter som i sin tid ble etablert i Sametingets regi, men som nå er overført til Universitetet i Tromsø og det erfarne språkforskningsmiljøet. Sametinget samarbeider allikevel om allerede eksisterende og nye prosjekter for å øke antallet og kvaliteten av teknologiske språkverktøy.</p>
+</body></document>

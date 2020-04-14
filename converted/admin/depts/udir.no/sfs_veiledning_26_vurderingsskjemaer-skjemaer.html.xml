@@ -1,44 +1,17 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>38</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Vurderingsskjemaer-skjemaer/index-2.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer-.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer-kopierings.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Vurderingsskjema for presentasjon</p>
-    <p type="title">Vurderingsskjema for presentasjon</p>
-    <p>Hovedinnhold</p>
-    <p>Navn:</p>
-    <p>På vei</p>
-    <p>Godt i gang</p>
-    <p>I mål</p>
-    <p>1. Innhold</p>
-    <p>2. Stemmebruk</p>
-    <p>3. Frigjør seg fra manus</p>
-    <p>4. Henvender seg til publikum</p>
-    <p>5.</p>
-    <p>6.</p>
-    <p>7.</p>
-    <p>8. Presentasjonen samlet</p>
-    <p>Råd:</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>38</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Vurderingsskjemaer-skjemaer/index-2.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer-.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer-kopierings.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_26_vurderingsskjemaer-skjemaer.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Vurderingsskjema for presentasjon</p>
+<p type="title">Vurderingsskjema for presentasjon</p>
+<p>Hovedinnhold</p>
+<p>Navn:</p>
+<p>På vei</p>
+<p>Godt i gang</p>
+<p>I mål</p>
+<p>1. Innhold</p>
+<p>2. Stemmebruk</p>
+<p>3. Frigjør seg fra manus</p>
+<p>4. Henvender seg til publikum</p>
+<p>5.</p>
+<p>6.</p>
+<p>7.</p>
+<p>8. Presentasjonen samlet</p>
+<p>Råd:</p>
+</body></document>

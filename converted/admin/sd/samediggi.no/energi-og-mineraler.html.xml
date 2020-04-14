@@ -1,70 +1,30 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>280</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Energi-og-mineraler</origFileName>
-    <parallel_text xml:lang="sma" location="energije-jih-mineraalh.html"/>
-    <parallel_text xml:lang="sme" location="energiija-ja-mineralat.html"/>
-    <parallel_text xml:lang="smj" location="energija-ja-minerala.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Energi og mineraler / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
-    <p type="title">Energi og mineraler</p>
-    <p>Sametinget har ingen forvaltningsmyndighet for konsesjonsavgjørelser for energiutbygginger og mineralvirksomhet. Lovene som regulerer slik virksomhet er vassdragsreguleringsloven, energiloven, vannressursloven og mineralloven. Forvaltningsmyndighetene for disse lovene er Norges Vassdrag og Energidirektorat og Direktoratet for mineralforvaltning. Disse lovene er viktige fordi de regulerer virksomhet som har potensielt stor virkning for naturgrunnlaget for samisk kultur</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Nordre</p>
-    <p>Aktuelt</p>
-    <p>Kritisk for sørsamisk reindrift på Fosenhalvøya</p>
-    <p>Sametingsråd Thomas Åhren sier at den storstilte vindkraftutbyggingen på Fos...</p>
-    <p>Les mer</p>
-    <p>Sametingsrådet sier nei til Nussir</p>
-    <p>Sametingsrådet har nå fremmet sak til Sametingets plenum med innstilling om...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Sametinget arbeider nå med: </em>
-    </p>
-    <list>
-      <p type="listitem">Sametingets energistrategier</p>
-      <p type="listitem">Deltakelse i fylkedelplanarbeid for vindkraft i Finnmark fylke</p>
-      <p type="listitem">Høringer og konsultasjoner om småkraftverk og vinkraftutbygginger</p>
-      <p type="listitem">Høringer og konsultasjoner om utbygging av kraftnettet</p>
-      <p type="listitem">Forhandlinger om søknad om driftskonsesjon for gruvedrift i Kvalsund kommune</p>
-      <p type="listitem">Oppfølging av avtale om undersøkelsesarbeider for gruvedrift i Kautokeino kommune</p>
-      <p type="listitem">Avtalte om undersøkelser av gull og kobberforekomster i Karasjok kommune</p>
-      <p type="listitem">Deltakelse i Finnmark mineralforum</p>
-    </list>
-    <p>
-      <em type="bold">Sametinget ansvar: </em>
-    </p>
-    <p>Sametinget er ikke forvaltningsmyndighet etter vassdragsreguleringsloven, energiloven, vannressursloven og mineralloven. Beslutninger etter disse lovene kan likevel ikke fattes før det er gjennomført konsultasjoner med Sametinget. I mineralsaker har Sametinget egne prosesser direkte med mineralaktørene og forventer at det gjennomføres forhandlinger før det eventuelt kan søkes driftskonsesjoner.</p>
-    <p>
-      <em type="bold">Din påvirkning: </em>
-    </p>
-    <p>Samiske rettighetshavere og lokalsamfunn sine interesser og rettigheter er viktig å ivareta i beslutningsprosessen. Sametinget arbeider derfor for at det gjennomføres reelle konsultasjoner med dem, og at disse involveres i eventuelle forhandlinger med utbyggingsselskaper.</p>
-    <list/>
-    <p>
-      <span type="quote">Sametinget arbeider for at det gjennomføres reelle konsultasjoner med samiske rettighetshavere og lokalsamfunn, og at disse involveres i eventuelle forhandlinger med utbyggingsselskaper.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>280</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Energi-og-mineraler</origFileName><parallel_text xml:lang="sma" location="energije-jih-mineraalh.html"/><parallel_text xml:lang="sme" location="energiija-ja-mineralat.html"/><parallel_text xml:lang="smj" location="energija-ja-minerala.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Energi og mineraler / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
+<p type="title">Energi og mineraler</p>
+<p>Sametinget har ingen forvaltningsmyndighet for konsesjonsavgjørelser for energiutbygginger og mineralvirksomhet. Lovene som regulerer slik virksomhet er vassdragsreguleringsloven, energiloven, vannressursloven og mineralloven. Forvaltningsmyndighetene for disse lovene er Norges Vassdrag og Energidirektorat og Direktoratet for mineralforvaltning. Disse lovene er viktige fordi de regulerer virksomhet som har potensielt stor virkning for naturgrunnlaget for samisk kultur</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Nordre</p>
+<p>Aktuelt</p>
+<p>Kritisk for sørsamisk reindrift på Fosenhalvøya</p>
+<p>Sametingsråd Thomas Åhren sier at den storstilte vindkraftutbyggingen på Fos...</p>
+<p>Les mer</p>
+<p>Sametingsrådet sier nei til Nussir</p>
+<p>Sametingsrådet har nå fremmet sak til Sametingets plenum med innstilling om...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Sametinget arbeider nå med: </em></p>
+<list><p type="listitem">Sametingets energistrategier</p>
+<p type="listitem">Deltakelse i fylkedelplanarbeid for vindkraft i Finnmark fylke</p>
+<p type="listitem">Høringer og konsultasjoner om småkraftverk og vinkraftutbygginger</p>
+<p type="listitem">Høringer og konsultasjoner om utbygging av kraftnettet</p>
+<p type="listitem">Forhandlinger om søknad om driftskonsesjon for gruvedrift i Kvalsund kommune</p>
+<p type="listitem">Oppfølging av avtale om undersøkelsesarbeider for gruvedrift i Kautokeino kommune</p>
+<p type="listitem">Avtalte om undersøkelser av gull og kobberforekomster i Karasjok kommune</p>
+<p type="listitem">Deltakelse i Finnmark mineralforum</p>
+</list><p><em type="bold">Sametinget ansvar: </em></p>
+<p>Sametinget er ikke forvaltningsmyndighet etter vassdragsreguleringsloven, energiloven, vannressursloven og mineralloven. Beslutninger etter disse lovene kan likevel ikke fattes før det er gjennomført konsultasjoner med Sametinget. I mineralsaker har Sametinget egne prosesser direkte med mineralaktørene og forventer at det gjennomføres forhandlinger før det eventuelt kan søkes driftskonsesjoner.</p>
+<p><em type="bold">Din påvirkning: </em></p>
+<p>Samiske rettighetshavere og lokalsamfunn sine interesser og rettigheter er viktig å ivareta i beslutningsprosessen. Sametinget arbeider derfor for at det gjennomføres reelle konsultasjoner med dem, og at disse involveres i eventuelle forhandlinger med utbyggingsselskaper.</p>
+<list/><p><span type="quote">Sametinget arbeider for at det gjennomføres reelle konsultasjoner med samiske rettighetshavere og lokalsamfunn, og at disse involveres i eventuelle forhandlinger med utbyggingsselskaper.</span></p>
+</body></document>

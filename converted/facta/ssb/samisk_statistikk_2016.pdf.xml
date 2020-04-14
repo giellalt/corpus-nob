@@ -1,145 +1,91 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Samisk statistikk 2016</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>2335</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.ssb.no/befolkning/artikler-og-publikasjoner/_attachment/254599?_ts=152a1b77d58</origFileName>
-    <parallel_text xml:lang="sme" location="sami_statistihkka_2016.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Forord </em>
-    </p>
-    <p><em type="italic">Samisk statistikk 2016</em> inneholder statistikk med relevans for samiske samfunnsforhold i Norge.  </p>
-    <p>Publikasjonen er en videreutvikling av tilsvarende publikasjoner fra 2006, 2008, 2010, 2012 og 2014. Publikasjonens språk er norsk og nordsamisk.</p>
-    <p>Publikasjonen er finansiert av Sametinget og Kommunal- og moderniseringsdepartementet. En oppdatert versjon av <em type="italic">Samisk statistikk</em> utgis annet hvert år. I tillegg kan Statistisk sentralbyrå fortløpende publisere nyutviklet samisk statistikk via http://www.ssb.no/befolkning/statistikker/samisk. På dette nettstedet finnes også <em type="italic">Samisk statistikk 2016</em> som pdf-fil.  </p>
-    <p>Arbeidet med publikasjonen har vært ledet av rådgiver Tove Slaastad. Ansvarlig seksjonsleder er Paul Inge Severeide, Seksjon for befolkningsstatistikk. Publikasjonens innledning er en oppdatert versjon av innledningen som tidligere prosjektleder Torunn Pettersen ved Sámi allaskuvla/Samisk høgskole skrev til utgivelsen i 2012.</p>
-    <p>Statistisk sentralbyrå, 13. januar 2016</p>
-    <p>Christine Meyer</p>
-    <p>
-      <em type="bold">Sammendrag </em>
-    </p>
-    <p>Publikasjonen gir en samlet og oppdatert framstilling av offisiell samisk statistikk. Den dekker de fleste relevante områder.</p>
-    <p>Statistikken har i hovedsak en geografisk tilnærming, med vekt på samiske bosettingsområder nord for Saltfjellet. Grunnen til dette er at det ikke finnes noe datagrunnlag for å lage individbasert statstikk om personer med samisk-etnisk tilhørighet, fordi det ikke registreres informasjon om etnisk tilhørighet for personer bosatt i Norge. I tillegg inngår noe landsomfattende samisk statistikk.</p>
-    <p>Publikasjonen bygger dels på allerede innsamlet og offentliggjort statistikk i Statistisk sentralbyrå, og dels på materiale som er stilt til disposisjon fra ulike samiske institusjoner.</p>
-    <p>Publikasjonen inneholder statistikk om sametingsvalget, befolkningens størrelse og sammensetning, utdanningsforhold, bruk av samisk språk i barnehage og skole, inntekt og personlig økonomi, arbeidsliv, reindrift, jordbruk og fiske og fangst.</p>
-    <p>
-      <em type="bold">1.  Innledning </em>
-    </p>
-    <p>
-      <em type="bold">1.1.  Bakgrunn og datagrunnlag </em>
-    </p>
-    <p>Publikasjonen <em type="italic">Samisk statistikk 2016 </em>inneholder statistikk med relevans for samiske samfunnsforhold i Norge i dag. Publisering av Samisk statistikk er et resultat av prosjektet <em type="italic">Samiskrelatert statistikk i Norge – innhold, organisering og drift. </em>Dette prosjektet pågikk i årene 2003-2008 og var et samarbeid mellom Statistisk sentralbyrå og daværende Sámi Instituhtta/Nordisk Samisk Institutt i Kautokeino (nå samordnet med Sámi allaskuvla/Samisk høgskole). Prosjektets oppdragsgiver var Sametinget.  </p>
-    <p>Hensikten med en slik publikasjon er å gi en samlet og løpende framstilling av eksisterende offisiell statistikk med samisk relevans.</p>
-    <p>Statistikkene i publikasjonen er i hovedsak <em type="italic">geografisk </em>basert. Grunnen til dette er at det ikke registreres informasjon om etnisk tilhørighet for personer bosatt i Norge. Dermed finnes det ikke noe datagrunnlag for å lage <em type="italic">individbasert </em>statistikk om personer med samisk-etnisk tilhørighet, det vil si statistikk om samene som gruppe eller om grupper av samer. </p>
-    <p>Det geografiske statistikkgrunnlaget består av et utvalg kommuner og delkommuneområder som etter visse kriterier er definert som samiske bosettingsområder i Norge nord for Saltfjellet. Tematisk dekker den geografisk baserte statistikken ulike aspekter ved befolkningens størrelse og sammensetning, utdanningsforhold samt nærings- og arbeidsliv.</p>
-    <p>Publikasjonen inneholder også noe statistikk hvor den geografiske rammen er hele landet. Tematisk gjelder dette sametingsvalg, bruk av samisk språk i barnehage og skole, inntektsforhold, reindrift, samt sjø- og elvefiske.</p>
-    <p>
-      <em type="bold">1.2.  Valg av geografisk statistikkgrunnlag </em>
-    </p>
-    <p>På samisk kalles samenes tradisjonelle bosettingsområde for <em type="italic">Sápmi</em>. Dette er et sammenhengende geografisk område som strekker seg gjennom deler av Norge, Sverige, Finland og Russland. </p>
-    <p>
-      <em type="italic">Kilde: Sámi Instituhtta. </em>
-    </p>
-    <p>Selv om det ikke foreligger offisielle data om samenes bosettingsmønster, er det alminnelig kjent at mange samer i dag er bosatt utenfor Sápmi-området, samtidig som mange ikke-samer er bosatt innenfor. Det er derfor ikke selvsagt hva som kan utgjøre et geografisk statistikkgrunnlag for samiskrelatert statistikk.</p>
-    <p>For denne publikasjonens formål er det bestemt at geografisk basert samisk statistikk skal omfatte det geografiske virkeområdet for <em type="italic">Sametingets tilskudds</em></p>
-    <p><em type="italic">ordninger til næringsutvikling </em>(STN), tidligere kjent som <em type="italic">Samisk utviklingsfond </em>(SUF).  </p>
-    <p>Hovedargumentet for å velge akkurat dette virkeområdet er at det omfatter lokalsamfunn som vurderes som betydningsfulle for å bevare og videreutvikle samisk kultur og næringsliv, samtidig som Sametinget disponerer særskilte virkemidler for dette. Og for å kunne planlegge bruken og evaluere effekten av disse virkemidlene, har Sametinget selv behov for data som kan belyse så vel dagens tilstand som endringer over tid innenfor virkeområdet.</p>
-    <p>Et viktig poeng er at den geografisk baserte statistikken kun omfatter den delen av STNs virkeområde hvor <em type="italic">hele befolkningen </em>er målgruppe for virkemidlene. I noen områder (på Senja, i resten av Lenvik kommune og i sørsameområdet) er virkemidlene reservert for den samiske befolkningen. Grunnen til at disse områdene ikke er med i statistikkgrunnlaget, er at den samiske bosettingen der antas å være så vidt spredt at områdene som helhet ikke oppfattes som samiske lokalsamfunn. </p>
-    <p>Det å avgrense det geografiske grunnlaget for samisk statistikk på denne måten har noen åpenbare svakheter. Én svakhet er at det geografiske virkeområdet for STN kun dekker områder nord for Saltfjellet. Dermed faller hele det sørsamiske bosettingsområdet utenfor. Det er foreløpig heller ikke utviklet alternative metoder for å konkretisere sørsamiske lokalsamfunn på en slik måte at det kan lages særskilt samisk statistikk om dem. En annen svakhet med den valgte geografiske avgrensningen er at samisk bosetting i byer og større tettsteder ikke fanges inn verken nord eller sør for Saltfjellet.</p>
-    <p>
-      <em type="bold">1.3.  Beskrivelse av det geografiske statistikkgrunnlaget </em>
-    </p>
-    <p><em type="italic">Sametingets tilskuddsordninger til næringsutvikling </em>(STN) har sin forløper i <em type="italic">Utviklingsfondet for de sentrale samiske bosettingsområder. </em>Dette fondet ble opprettet av Stortinget i 1975. Det omfattet da fem kommuner i indre Finnmark og var underlagt Landbruksdepartementet. Senere har fondets geografiske virkeområde blitt utvidet flere ganger, senest i 2012, jamfør avsnitt 2.2. Fondet har også skiftet navn og det har blitt forvaltet av ulike institusjoner. Fra 1989 er det Sametinget som har hatt ansvar for de aktuelle tilskuddene. Fra og med 2009 blir det geografiske virkeområdet for STN fastsatt i Sametingets årlige budsjettvedtak. Disse vedtakene er tilgjengelig <em type="italic">på www.samediggi.no.</em> </p>
-    <p>Historien viser altså at virkeområdets geografiske grenser ikke er fastsatt en gang for alle. I publikasjonen benyttes gjennomgående områdeavgrensningen fra 2012. Tabeller med tidsserier vil dermed kunne ha med tall som gjelder tidspunkter <em type="italic">før </em>gitte kommuner og kommunedelområder ble inkludert i virkeområdet for STN. </p>
-    <p>Den delen av det geografiske området som utgjør statistikkgrunnlaget omtales i publikasjonen som <em type="italic">STN-området</em>. Per dato omfatter STN-området 21 hele kommuner og 10 kommunedelområder. Av disse 31 kommunene ligger 13 i Finnmark, 14 i Troms og 4 i den nordlige delen av Nordland.  </p>
-    <p>I oversikten nedenfor er de delvis inkluderte kommunene merket med *. I avsnitt 2.1 beskrives disse delområdene mer spesifikt ved at det listes opp hvilke <em type="italic">grunnkretser</em> de omfatter. </p>
-    <p>
-      <em type="bold">1.4.  Bruk av samiske og norske navn  </em>
-    </p>
-    <p>De fleste geografiske enhetene som inngår i statistikken, har i dagligtale både et samisk og et norsk navn. Flertallet av disse navnene har også en normert samisk skrivemåte. For noen kommuner og fylkeskommuner er det gjort formelle vedtak om offisielle to- eller trespråklige navneformer, i blant som en sammenstilling av begge språkformene. Når det gjelder navn på Sametingets valgkretser, framgår både den samiske og den norske varianten i <span type="quote">"Lov om Sametinget og andre samiske rettsforhold"</span> (sameloven).</p>
-    <p>I denne publikasjonen benyttes den navneformen som samsvarer med språket i løpeteksten; norske navn brukes når teksten er på norsk, mens nordsamiske navn benyttes når teksten er på nordsamisk. Dette gjelder også for de enhetene som har sammensatte to- eller trespråklige navn. For kommuner som ikke har et alminnelig brukt eller kjent samisk navn og/eller ikke har en normert skrivemåte på samisk, er kilden for navn og skrivemåte de formene som framgår i den samiske oversettelsen av sameloven.</p>
-    <p>
-      <em type="bold">1.5.  Presentasjon av statistikken </em>
-    </p>
-    <p>Statistikk for STN-området presenteres på forskjellige geografiske nivå. Valg av nivå bestemmes av hva som synes mest hensiktsmessig i forhold til informasjon og lesbarhet. Mest brukt er a) STN-området samlet, b) de ulike kommunene og kommunedelområdene innenfor STN-området, samt c) regionaliserte STN-områder per fylke. De regionaliserte områdene er konstruert for å være et alternativ når tallene på kommunenivå er for små til å publiseres. Den regionaliserte inndelingen per fylke er gjengitt i avsnitt 2.3.</p>
-    <p>Et alternativt geografisk nivå er valgkretsene som benyttes ved sametingsvalg. Beskrivelse av disse valgkretsene finnes i avsnitt 2.4.</p>
-    <p>I tabellene benyttes forkortelsen <em type="italic">STN </em>om områder som ligger innenfor STN<em type="italic">Øvrige områder</em>.  området. Områder som ligger utenfor dette området, benevnes som </p>
-    <p>For å kunne foreta sammenligninger over tid må en tabell inneholde en tidsserie, det vil si inneholde data for flere tidspunkt. Geografiske tidsserier på grunnkretsnivå begrenser seg bakover til 1990 da det ble vanlig å produsere statistikk på dette nivået.</p>
-    <p>
-      <em type="bold">1.6.  Kartmateriale </em>
-    </p>
-    <p>Det er utarbeidet ulike typer kart over STN-området. I publikasjonen gjengis et oversiktskart over hele STN-området, samt et kart for STN-området i hvert av de tre berørte fylkene.</p>
-    <p>I denne publikasjonen er det ellers tatt med kart over Sametingets valgkretser, samt over kommunevis fordeling av antall personer innmeldt i Sametingets valgmanntall. I tillegg gjengis et kart over tettsteder i Norge nord for Saltfjellet.</p>
-    <p>
-      <em type="bold">1.7.  Mer informasjon  </em>
-    </p>
-    <p>Mer informasjon finnes på Statistisk sentralbyrås nettside http://www.ssb.no/befolkning/statistikker/samisk. Der finnes også navn på kontaktpersoner for spørsmål og tilbakemeldinger vedrørende samisk statistikk generelt og om denne publikasjonen spesielt. Fra nettsiden er det også tilrettelagt for viderebehandling av tabellene i Statistikkbanken.</p>
-    <p>Informasjon om og fra det avsluttede prosjektet <em type="italic">Samiskrelatert statistikk i Norge </em>finnes p<em type="italic">å www.sami-statistics.info.</em> </p>
-    <p>
-      <em type="bold">2.  Geografiske inndelinger </em>
-    </p>
-    <p>
-      <em type="bold">2.1.  Det geografiske virkeområdet for Sametingets tilskuddsordninger til næringsutvikling per  1. januar 2012 </em>
-    </p>
-    <p>For kommuner som bare delvis inngår i det geografiske virkeområdet, avgrenses det inkluderte området ved bruk av såkalte <em type="italic">grunnkretser</em>. En grunnkrets er den minste geografiske enheten som Statistisk sentralbyrå kan lage statistikk for. Grunnkretser består av et geografisk sammenhengende område som er mest mulig ensartet når det gjelder natur og næringsgrunnlag, kommunikasjonsforhold og bygningsmessig struktur.<em type="bold"> </em>Bruk av grunnkretser for å beskrive det geografiske virkeområdet for STN er et direkte resultat av arbeidet med å utvikle offisiell samisk statistikk i Norge. Merk at denne metoden gjør at bare områder og bygder som kan skilles ut som en eller flere egne grunnkretser, kan inngå i statistikk<em type="italic">ikke</em> inkludert i statistikkgrunnlaget). grunnlaget (av den grunn er bygda Sarnes i Nordkapp kommune </p>
-    <p>Per 2012 omfatter det geografiske virkeområdet følgende kommuner og delkommuneområder/grunnkretser:</p>
-    <p>2011  Kautokeino, hele kommunen</p>
-    <p>2012  Alta, følgende grunnkretser:  0101  Stjernøy  0102  Seiland  0103  Lille Lerresfjord  0104  Store Lerresfjord  0105  Komagfjord  0106  Korsfjord  0107  Nyvoll  0108  Storekorsnes  0110  Kongshus  0201  Isnestoften  0202  Tappeluft/Riverbukt  0203  Langfjordbotn  0204  Talvik  0205  Vasbotnelv</p>
-    <p>2014  Loppa, hele kommunen</p>
-    <p>2017  Kvalsund, hele kommunen</p>
-    <p>2018  Måsøy, følgende grunnkretser:  0119  Snefjorden  0120  Litlefjord  0121  Slåtten  0122  Gunnarnes  0123  Tufjord  0124  Ingøy</p>
-    <p>2019  Nordkapp, følgende grunnkretser:  0113  Vestersida-Botnområdet  0114  Nordvågnesområdet  0115  Kjelvik-Helnesområdet  0117  Skuotanjargga  0118  Mannskarvik-Repvåg  0119  Sværholthalvøya  0201  Gjesvær  0202  Knivskjellodden  0203  Tufjorden  0204  Magerøystua  0205  Finnvik  0206  Vannfjordnæringen</p>
-    <p>2020  Porsanger, hele kommunen</p>
-    <p>2021  Karasjok, hele kommunen</p>
-    <p>2022  Lebesby, følgende grunnkretser:  0103  Dyfjord  0104  Kifjord/Normanset/Mårøyfjord  0105  Torskefjord/Bekkarfjord  0106  Lebesby  0107  Ifjord  0108  Friarfjord/Adamsfjord  0109  Laksefjordbotn/Kunes  0110  Veidnesklubben/Godviknes  0111  Vadasbaksæibos  0112  Gappatvarri</p>
-    <p>0113  Eretoaivit  0114  Vuonjalrassa</p>
-    <p>2023  Gamvik, hele kommunen</p>
-    <p>2025  Tana, hele kommunen</p>
-    <p>2027  Nesseby, hele kommunen</p>
-    <p>2030  Sør-Varanger, følgende grunnkretser:  0101  Bugøynes  0102  Bugøyfjord  0103  Spurvnes/Skogerøya  0104  Neiden  0402  Jakobsnes  0403  Ropelv  0404  Jarfjord  0405  Grense Jakobselv  0503  Svanvik  0504  Melkefoss/Skrotnes  0505  Øvre Pasvik</p>
-    <p>1902  Tromsø, følgende grunnkretser:  3301  Jøvik  3302  Olderbakken  3303  Lakselvbukt  3304  Lakselvdalen  3305  Sjøvassbotn  3306  Stordal  3307  Sjursnes  3308  Reiervik  3309  Breivika  3310  Ullsfjordmoane</p>
-    <p>1913  Skånland, hele kommunen</p>
-    <p>1919  Gratangen, hele kommunen</p>
-    <p>1920  Lavangen, hele kommunen</p>
-    <p>1923  Salangen, hele kommunen</p>
-    <p>1925  Sørreisa, følgende grunnkretser:  0101  Gumpedal  0102  Øvre Bakkejord  0103  Skøelvdal  0104  Smørsgård  0201  Storlia/Rabbås  0207  Reinelv  0208  Andsvatn</p>
-    <p>1933  Balsfjord, hele kommunen</p>
-    <p>1936  Karlsøy, hele kommunen</p>
-    <p>1938  Lyngen, hele kommunen</p>
-    <p>1939  Storfjord, hele kommunen I tillegg inngår den samiske befolkningen på Senja og i resten av Lenvik kommune, den samiske befolkningen i sørsameområdet og bygda Sarnes i Nordkapp i det geografiske virkeområdet for Sametingets tilskuddsordninger til næringsutvikling. Disse områdene er imidlertid ikke med i statistikkgrunnlaget. Se punkt 1.2 og begynnelsen av dette avsnittet.</p>
-    <p>
-      <em type="bold">2.2.  Endringene i det geografiske virkeområdet 1976-2012 </em>
-    </p>
-    <p>Siden etableringen i 1976 er det geografiske virkeområdet blitt utvidet sju ganger. Dette er gjort ved å inkludere enten a) hele kommuner, b) delområder av kommuner, c) utvidede områder i allerede inkluderte kommuner, eller d) de resterende delene av allerede inkluderte kommuner.</p>
-    <p>Tabellen på neste side viser i hvilke år det er blitt gjort hvilke endringer. Kommunenavn uten merknad betyr at kommunen ble inkludert i sin helhet. Forklaringer til merknadene framgår under tabellen.</p>
-    <p>
-      <em type="bold">2.3.  Regionalisert inndeling per fylke </em>
-    </p>
-    <p>En del tall i samisk statistikk er for små til å publiseres på kommunenivå. Som et alternativt publiseringsnivå mellom kommune- og fylkesnivå er det derfor konstruert en regionalisert inndeling av STN-områder og Øvrige områder per fylke. Inndelingen framgår av oversikten under. Kommuner som bare <em type="italic">delvis</em> inngår i STN-området, er merket med STN i oversiktene over STN-områder, og med * i oversiktene over Øvrige områder. </p>
-    <p>
-      <em type="bold">2.4.  Valgkretsene som benyttes ved valg til Sametinget i Norge </em>
-    </p>
-    <p>Ved de fem første valgene til Sametinget i Norge var landet delt inn i 13 valgkretser. Før valget i 2009 ble antall valgkretser redusert til syv.</p>
-    <p>Nedenfor gjengis en oversikt over hvilke kommuner og/eller fylker som hver av de syv valgkretsene omfatter. I oppsettet er alle kommuner som helt eller delvis inngår i STN-området, markert med kursiv. De kommunene som bare delvis er med i området, er i tillegg merket med *. For de fem kretsene som omfatter STNkommuner, er det også tatt med i parentes hvor mange av valgkretsens kommuner dette gjelder.</p>
-    <p><em type="bold">1. Østre valgkrets  </em><em type="italic">Sør-Varanger*</em>, <em type="italic">Nesseby</em>, Vadsø, Vardø, Båtsfjord, <em type="italic">Tana</em>, Berlevåg, <em type="italic">Lebesby*</em> og <em type="italic">Gamvik</em> i Finnmark fylke (5 av 9) </p>
-    <p><em type="bold">2. Ávjovári valgkrets  </em><em type="italic">Karasjok, Kautokeino og Porsanger </em>i Finnmark fylke  (3 av 3)<em type="italic"> </em></p>
-    <p><em type="bold">3. Nordre valgkrets </em><em type="italic">Nordkapp*, Måsøy*, Kvalsund</em>, Hammerfest, <em type="italic">Alta*</em>, Hasvik og <em type="italic">Loppa</em> i <em type="italic">Finnmark fylke</em> og Skjervøy, <em type="italic">Kvænangen</em> og Nordreisa i <em type="italic">Troms fylke </em>(6 av 10) </p>
-    <p><em type="bold">4. Gáisi valgkrets </em><em type="italic">Kåfjord, Storfjord, Lyngen</em>, Karlsøy, <em type="italic">Tromsø*</em>, Balsfjord, Målselv, Bardu, Lenvik, Berg, Torsken, Tranøy og <em type="italic">Sørreisa*</em> i<em type="italic"> </em>Troms fylke (5 av 13) </p>
-    <p><em type="bold">5. Vesthavet valgkrets </em>Dyrøy, Salangen, <em type="italic">Lavangen, Gratangen, Skånland</em>, Ibestad, Harstad, Bjarkøy, Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylke<em type="italic"> </em>[inkluderer <em type="italic">Evenes*, Tysfjord, Hamarøy*, Narvik*</em>] (7 av 38) </p>
-    <p><em type="bold">6. Sørsamisk valgkrets  </em>Kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, fylkene Nord-Trøndelag og Sør-Trøndelag, kommunene Surnadal, Rindal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Hedmark fylke </p>
-    <p><em type="bold">7. Sør-Norge valgkrets </em> De kommunene i Møre og Romsdal og Hedmark fylker som ikke tilhører valgkrets 6, samt fylkene Sogn og Fjordane, Hordaland, Rogaland, Vest-Agder, Aust-Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold, Oppland og Oslo. </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Samisk statistikk 2016</title><genre code="facta"/><author><unknown/></author><year>2016</year><wordcount>2335</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.ssb.no/befolkning/artikler-og-publikasjoner/_attachment/254599?_ts=152a1b77d58</origFileName><parallel_text xml:lang="sme" location="sami_statistihkka_2016.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Forord </em></p>
+<p><em type="italic">Samisk statistikk 2016</em> inneholder statistikk med relevans for samiske samfunnsforhold i Norge.  </p>
+<p>Publikasjonen er en videreutvikling av tilsvarende publikasjoner fra 2006, 2008, 2010, 2012 og 2014. Publikasjonens språk er norsk og nordsamisk.</p>
+<p>Publikasjonen er finansiert av Sametinget og Kommunal- og moderniseringsdepartementet. En oppdatert versjon av <em type="italic">Samisk statistikk</em> utgis annet hvert år. I tillegg kan Statistisk sentralbyrå fortløpende publisere nyutviklet samisk statistikk via http://www.ssb.no/befolkning/statistikker/samisk. På dette nettstedet finnes også <em type="italic">Samisk statistikk 2016</em> som pdf-fil.  </p>
+<p>Arbeidet med publikasjonen har vært ledet av rådgiver Tove Slaastad. Ansvarlig seksjonsleder er Paul Inge Severeide, Seksjon for befolkningsstatistikk. Publikasjonens innledning er en oppdatert versjon av innledningen som tidligere prosjektleder Torunn Pettersen ved Sámi allaskuvla/Samisk høgskole skrev til utgivelsen i 2012.</p>
+<p>Statistisk sentralbyrå, 13. januar 2016</p>
+<p>Christine Meyer</p>
+<p><em type="bold">Sammendrag </em></p>
+<p>Publikasjonen gir en samlet og oppdatert framstilling av offisiell samisk statistikk. Den dekker de fleste relevante områder.</p>
+<p>Statistikken har i hovedsak en geografisk tilnærming, med vekt på samiske bosettingsområder nord for Saltfjellet. Grunnen til dette er at det ikke finnes noe datagrunnlag for å lage individbasert statstikk om personer med samisk-etnisk tilhørighet, fordi det ikke registreres informasjon om etnisk tilhørighet for personer bosatt i Norge. I tillegg inngår noe landsomfattende samisk statistikk.</p>
+<p>Publikasjonen bygger dels på allerede innsamlet og offentliggjort statistikk i Statistisk sentralbyrå, og dels på materiale som er stilt til disposisjon fra ulike samiske institusjoner.</p>
+<p>Publikasjonen inneholder statistikk om sametingsvalget, befolkningens størrelse og sammensetning, utdanningsforhold, bruk av samisk språk i barnehage og skole, inntekt og personlig økonomi, arbeidsliv, reindrift, jordbruk og fiske og fangst.</p>
+<p><em type="bold">1.  Innledning </em></p>
+<p><em type="bold">1.1.  Bakgrunn og datagrunnlag </em></p>
+<p>Publikasjonen <em type="italic">Samisk statistikk 2016 </em>inneholder statistikk med relevans for samiske samfunnsforhold i Norge i dag. Publisering av Samisk statistikk er et resultat av prosjektet <em type="italic">Samiskrelatert statistikk i Norge – innhold, organisering og drift. </em>Dette prosjektet pågikk i årene 2003-2008 og var et samarbeid mellom Statistisk sentralbyrå og daværende Sámi Instituhtta/Nordisk Samisk Institutt i Kautokeino (nå samordnet med Sámi allaskuvla/Samisk høgskole). Prosjektets oppdragsgiver var Sametinget.  </p>
+<p>Hensikten med en slik publikasjon er å gi en samlet og løpende framstilling av eksisterende offisiell statistikk med samisk relevans.</p>
+<p>Statistikkene i publikasjonen er i hovedsak <em type="italic">geografisk </em>basert. Grunnen til dette er at det ikke registreres informasjon om etnisk tilhørighet for personer bosatt i Norge. Dermed finnes det ikke noe datagrunnlag for å lage <em type="italic">individbasert </em>statistikk om personer med samisk-etnisk tilhørighet, det vil si statistikk om samene som gruppe eller om grupper av samer. </p>
+<p>Det geografiske statistikkgrunnlaget består av et utvalg kommuner og delkommuneområder som etter visse kriterier er definert som samiske bosettingsområder i Norge nord for Saltfjellet. Tematisk dekker den geografisk baserte statistikken ulike aspekter ved befolkningens størrelse og sammensetning, utdanningsforhold samt nærings- og arbeidsliv.</p>
+<p>Publikasjonen inneholder også noe statistikk hvor den geografiske rammen er hele landet. Tematisk gjelder dette sametingsvalg, bruk av samisk språk i barnehage og skole, inntektsforhold, reindrift, samt sjø- og elvefiske.</p>
+<p><em type="bold">1.2.  Valg av geografisk statistikkgrunnlag </em></p>
+<p>På samisk kalles samenes tradisjonelle bosettingsområde for <em type="italic">Sápmi</em>. Dette er et sammenhengende geografisk område som strekker seg gjennom deler av Norge, Sverige, Finland og Russland. </p>
+<p><em type="italic">Kilde: Sámi Instituhtta. </em></p>
+<p>Selv om det ikke foreligger offisielle data om samenes bosettingsmønster, er det alminnelig kjent at mange samer i dag er bosatt utenfor Sápmi-området, samtidig som mange ikke-samer er bosatt innenfor. Det er derfor ikke selvsagt hva som kan utgjøre et geografisk statistikkgrunnlag for samiskrelatert statistikk.</p>
+<p>For denne publikasjonens formål er det bestemt at geografisk basert samisk statistikk skal omfatte det geografiske virkeområdet for <em type="italic">Sametingets tilskudds</em></p>
+<p><em type="italic">ordninger til næringsutvikling </em>(STN), tidligere kjent som <em type="italic">Samisk utviklingsfond </em>(SUF).  </p>
+<p>Hovedargumentet for å velge akkurat dette virkeområdet er at det omfatter lokalsamfunn som vurderes som betydningsfulle for å bevare og videreutvikle samisk kultur og næringsliv, samtidig som Sametinget disponerer særskilte virkemidler for dette. Og for å kunne planlegge bruken og evaluere effekten av disse virkemidlene, har Sametinget selv behov for data som kan belyse så vel dagens tilstand som endringer over tid innenfor virkeområdet.</p>
+<p>Et viktig poeng er at den geografisk baserte statistikken kun omfatter den delen av STNs virkeområde hvor <em type="italic">hele befolkningen </em>er målgruppe for virkemidlene. I noen områder (på Senja, i resten av Lenvik kommune og i sørsameområdet) er virkemidlene reservert for den samiske befolkningen. Grunnen til at disse områdene ikke er med i statistikkgrunnlaget, er at den samiske bosettingen der antas å være så vidt spredt at områdene som helhet ikke oppfattes som samiske lokalsamfunn. </p>
+<p>Det å avgrense det geografiske grunnlaget for samisk statistikk på denne måten har noen åpenbare svakheter. Én svakhet er at det geografiske virkeområdet for STN kun dekker områder nord for Saltfjellet. Dermed faller hele det sørsamiske bosettingsområdet utenfor. Det er foreløpig heller ikke utviklet alternative metoder for å konkretisere sørsamiske lokalsamfunn på en slik måte at det kan lages særskilt samisk statistikk om dem. En annen svakhet med den valgte geografiske avgrensningen er at samisk bosetting i byer og større tettsteder ikke fanges inn verken nord eller sør for Saltfjellet.</p>
+<p><em type="bold">1.3.  Beskrivelse av det geografiske statistikkgrunnlaget </em></p>
+<p><em type="italic">Sametingets tilskuddsordninger til næringsutvikling </em>(STN) har sin forløper i <em type="italic">Utviklingsfondet for de sentrale samiske bosettingsområder. </em>Dette fondet ble opprettet av Stortinget i 1975. Det omfattet da fem kommuner i indre Finnmark og var underlagt Landbruksdepartementet. Senere har fondets geografiske virkeområde blitt utvidet flere ganger, senest i 2012, jamfør avsnitt 2.2. Fondet har også skiftet navn og det har blitt forvaltet av ulike institusjoner. Fra 1989 er det Sametinget som har hatt ansvar for de aktuelle tilskuddene. Fra og med 2009 blir det geografiske virkeområdet for STN fastsatt i Sametingets årlige budsjettvedtak. Disse vedtakene er tilgjengelig <em type="italic">på www.samediggi.no.</em> </p>
+<p>Historien viser altså at virkeområdets geografiske grenser ikke er fastsatt en gang for alle. I publikasjonen benyttes gjennomgående områdeavgrensningen fra 2012. Tabeller med tidsserier vil dermed kunne ha med tall som gjelder tidspunkter <em type="italic">før </em>gitte kommuner og kommunedelområder ble inkludert i virkeområdet for STN. </p>
+<p>Den delen av det geografiske området som utgjør statistikkgrunnlaget omtales i publikasjonen som <em type="italic">STN-området</em>. Per dato omfatter STN-området 21 hele kommuner og 10 kommunedelområder. Av disse 31 kommunene ligger 13 i Finnmark, 14 i Troms og 4 i den nordlige delen av Nordland.  </p>
+<p>I oversikten nedenfor er de delvis inkluderte kommunene merket med *. I avsnitt 2.1 beskrives disse delområdene mer spesifikt ved at det listes opp hvilke <em type="italic">grunnkretser</em> de omfatter. </p>
+<p><em type="bold">1.4.  Bruk av samiske og norske navn  </em></p>
+<p>De fleste geografiske enhetene som inngår i statistikken, har i dagligtale både et samisk og et norsk navn. Flertallet av disse navnene har også en normert samisk skrivemåte. For noen kommuner og fylkeskommuner er det gjort formelle vedtak om offisielle to- eller trespråklige navneformer, i blant som en sammenstilling av begge språkformene. Når det gjelder navn på Sametingets valgkretser, framgår både den samiske og den norske varianten i <span type="quote">"Lov om Sametinget og andre samiske rettsforhold"</span> (sameloven).</p>
+<p>I denne publikasjonen benyttes den navneformen som samsvarer med språket i løpeteksten; norske navn brukes når teksten er på norsk, mens nordsamiske navn benyttes når teksten er på nordsamisk. Dette gjelder også for de enhetene som har sammensatte to- eller trespråklige navn. For kommuner som ikke har et alminnelig brukt eller kjent samisk navn og/eller ikke har en normert skrivemåte på samisk, er kilden for navn og skrivemåte de formene som framgår i den samiske oversettelsen av sameloven.</p>
+<p><em type="bold">1.5.  Presentasjon av statistikken </em></p>
+<p>Statistikk for STN-området presenteres på forskjellige geografiske nivå. Valg av nivå bestemmes av hva som synes mest hensiktsmessig i forhold til informasjon og lesbarhet. Mest brukt er a) STN-området samlet, b) de ulike kommunene og kommunedelområdene innenfor STN-området, samt c) regionaliserte STN-områder per fylke. De regionaliserte områdene er konstruert for å være et alternativ når tallene på kommunenivå er for små til å publiseres. Den regionaliserte inndelingen per fylke er gjengitt i avsnitt 2.3.</p>
+<p>Et alternativt geografisk nivå er valgkretsene som benyttes ved sametingsvalg. Beskrivelse av disse valgkretsene finnes i avsnitt 2.4.</p>
+<p>I tabellene benyttes forkortelsen <em type="italic">STN </em>om områder som ligger innenfor STN<em type="italic">Øvrige områder</em>.  området. Områder som ligger utenfor dette området, benevnes som </p>
+<p>For å kunne foreta sammenligninger over tid må en tabell inneholde en tidsserie, det vil si inneholde data for flere tidspunkt. Geografiske tidsserier på grunnkretsnivå begrenser seg bakover til 1990 da det ble vanlig å produsere statistikk på dette nivået.</p>
+<p><em type="bold">1.6.  Kartmateriale </em></p>
+<p>Det er utarbeidet ulike typer kart over STN-området. I publikasjonen gjengis et oversiktskart over hele STN-området, samt et kart for STN-området i hvert av de tre berørte fylkene.</p>
+<p>I denne publikasjonen er det ellers tatt med kart over Sametingets valgkretser, samt over kommunevis fordeling av antall personer innmeldt i Sametingets valgmanntall. I tillegg gjengis et kart over tettsteder i Norge nord for Saltfjellet.</p>
+<p><em type="bold">1.7.  Mer informasjon  </em></p>
+<p>Mer informasjon finnes på Statistisk sentralbyrås nettside http://www.ssb.no/befolkning/statistikker/samisk. Der finnes også navn på kontaktpersoner for spørsmål og tilbakemeldinger vedrørende samisk statistikk generelt og om denne publikasjonen spesielt. Fra nettsiden er det også tilrettelagt for viderebehandling av tabellene i Statistikkbanken.</p>
+<p>Informasjon om og fra det avsluttede prosjektet <em type="italic">Samiskrelatert statistikk i Norge </em>finnes p<em type="italic">å www.sami-statistics.info.</em> </p>
+<p><em type="bold">2.  Geografiske inndelinger </em></p>
+<p><em type="bold">2.1.  Det geografiske virkeområdet for Sametingets tilskuddsordninger til næringsutvikling per  1. januar 2012 </em></p>
+<p>For kommuner som bare delvis inngår i det geografiske virkeområdet, avgrenses det inkluderte området ved bruk av såkalte <em type="italic">grunnkretser</em>. En grunnkrets er den minste geografiske enheten som Statistisk sentralbyrå kan lage statistikk for. Grunnkretser består av et geografisk sammenhengende område som er mest mulig ensartet når det gjelder natur og næringsgrunnlag, kommunikasjonsforhold og bygningsmessig struktur.<em type="bold"> </em>Bruk av grunnkretser for å beskrive det geografiske virkeområdet for STN er et direkte resultat av arbeidet med å utvikle offisiell samisk statistikk i Norge. Merk at denne metoden gjør at bare områder og bygder som kan skilles ut som en eller flere egne grunnkretser, kan inngå i statistikk<em type="italic">ikke</em> inkludert i statistikkgrunnlaget). grunnlaget (av den grunn er bygda Sarnes i Nordkapp kommune </p>
+<p>Per 2012 omfatter det geografiske virkeområdet følgende kommuner og delkommuneområder/grunnkretser:</p>
+<p>2011  Kautokeino, hele kommunen</p>
+<p>2012  Alta, følgende grunnkretser:  0101  Stjernøy  0102  Seiland  0103  Lille Lerresfjord  0104  Store Lerresfjord  0105  Komagfjord  0106  Korsfjord  0107  Nyvoll  0108  Storekorsnes  0110  Kongshus  0201  Isnestoften  0202  Tappeluft/Riverbukt  0203  Langfjordbotn  0204  Talvik  0205  Vasbotnelv</p>
+<p>2014  Loppa, hele kommunen</p>
+<p>2017  Kvalsund, hele kommunen</p>
+<p>2018  Måsøy, følgende grunnkretser:  0119  Snefjorden  0120  Litlefjord  0121  Slåtten  0122  Gunnarnes  0123  Tufjord  0124  Ingøy</p>
+<p>2019  Nordkapp, følgende grunnkretser:  0113  Vestersida-Botnområdet  0114  Nordvågnesområdet  0115  Kjelvik-Helnesområdet  0117  Skuotanjargga  0118  Mannskarvik-Repvåg  0119  Sværholthalvøya  0201  Gjesvær  0202  Knivskjellodden  0203  Tufjorden  0204  Magerøystua  0205  Finnvik  0206  Vannfjordnæringen</p>
+<p>2020  Porsanger, hele kommunen</p>
+<p>2021  Karasjok, hele kommunen</p>
+<p>2022  Lebesby, følgende grunnkretser:  0103  Dyfjord  0104  Kifjord/Normanset/Mårøyfjord  0105  Torskefjord/Bekkarfjord  0106  Lebesby  0107  Ifjord  0108  Friarfjord/Adamsfjord  0109  Laksefjordbotn/Kunes  0110  Veidnesklubben/Godviknes  0111  Vadasbaksæibos  0112  Gappatvarri</p>
+<p>0113  Eretoaivit  0114  Vuonjalrassa</p>
+<p>2023  Gamvik, hele kommunen</p>
+<p>2025  Tana, hele kommunen</p>
+<p>2027  Nesseby, hele kommunen</p>
+<p>2030  Sør-Varanger, følgende grunnkretser:  0101  Bugøynes  0102  Bugøyfjord  0103  Spurvnes/Skogerøya  0104  Neiden  0402  Jakobsnes  0403  Ropelv  0404  Jarfjord  0405  Grense Jakobselv  0503  Svanvik  0504  Melkefoss/Skrotnes  0505  Øvre Pasvik</p>
+<p>1902  Tromsø, følgende grunnkretser:  3301  Jøvik  3302  Olderbakken  3303  Lakselvbukt  3304  Lakselvdalen  3305  Sjøvassbotn  3306  Stordal  3307  Sjursnes  3308  Reiervik  3309  Breivika  3310  Ullsfjordmoane</p>
+<p>1913  Skånland, hele kommunen</p>
+<p>1919  Gratangen, hele kommunen</p>
+<p>1920  Lavangen, hele kommunen</p>
+<p>1923  Salangen, hele kommunen</p>
+<p>1925  Sørreisa, følgende grunnkretser:  0101  Gumpedal  0102  Øvre Bakkejord  0103  Skøelvdal  0104  Smørsgård  0201  Storlia/Rabbås  0207  Reinelv  0208  Andsvatn</p>
+<p>1933  Balsfjord, hele kommunen</p>
+<p>1936  Karlsøy, hele kommunen</p>
+<p>1938  Lyngen, hele kommunen</p>
+<p>1939  Storfjord, hele kommunen I tillegg inngår den samiske befolkningen på Senja og i resten av Lenvik kommune, den samiske befolkningen i sørsameområdet og bygda Sarnes i Nordkapp i det geografiske virkeområdet for Sametingets tilskuddsordninger til næringsutvikling. Disse områdene er imidlertid ikke med i statistikkgrunnlaget. Se punkt 1.2 og begynnelsen av dette avsnittet.</p>
+<p><em type="bold">2.2.  Endringene i det geografiske virkeområdet 1976-2012 </em></p>
+<p>Siden etableringen i 1976 er det geografiske virkeområdet blitt utvidet sju ganger. Dette er gjort ved å inkludere enten a) hele kommuner, b) delområder av kommuner, c) utvidede områder i allerede inkluderte kommuner, eller d) de resterende delene av allerede inkluderte kommuner.</p>
+<p>Tabellen på neste side viser i hvilke år det er blitt gjort hvilke endringer. Kommunenavn uten merknad betyr at kommunen ble inkludert i sin helhet. Forklaringer til merknadene framgår under tabellen.</p>
+<p><em type="bold">2.3.  Regionalisert inndeling per fylke </em></p>
+<p>En del tall i samisk statistikk er for små til å publiseres på kommunenivå. Som et alternativt publiseringsnivå mellom kommune- og fylkesnivå er det derfor konstruert en regionalisert inndeling av STN-områder og Øvrige områder per fylke. Inndelingen framgår av oversikten under. Kommuner som bare <em type="italic">delvis</em> inngår i STN-området, er merket med STN i oversiktene over STN-områder, og med * i oversiktene over Øvrige områder. </p>
+<p><em type="bold">2.4.  Valgkretsene som benyttes ved valg til Sametinget i Norge </em></p>
+<p>Ved de fem første valgene til Sametinget i Norge var landet delt inn i 13 valgkretser. Før valget i 2009 ble antall valgkretser redusert til syv.</p>
+<p>Nedenfor gjengis en oversikt over hvilke kommuner og/eller fylker som hver av de syv valgkretsene omfatter. I oppsettet er alle kommuner som helt eller delvis inngår i STN-området, markert med kursiv. De kommunene som bare delvis er med i området, er i tillegg merket med *. For de fem kretsene som omfatter STNkommuner, er det også tatt med i parentes hvor mange av valgkretsens kommuner dette gjelder.</p>
+<p><em type="bold">1. Østre valgkrets  </em><em type="italic">Sør-Varanger*</em>, <em type="italic">Nesseby</em>, Vadsø, Vardø, Båtsfjord, <em type="italic">Tana</em>, Berlevåg, <em type="italic">Lebesby*</em> og <em type="italic">Gamvik</em> i Finnmark fylke (5 av 9) </p>
+<p><em type="bold">2. Ávjovári valgkrets  </em><em type="italic">Karasjok, Kautokeino og Porsanger </em>i Finnmark fylke  (3 av 3)<em type="italic"> </em></p>
+<p><em type="bold">3. Nordre valgkrets </em><em type="italic">Nordkapp*, Måsøy*, Kvalsund</em>, Hammerfest, <em type="italic">Alta*</em>, Hasvik og <em type="italic">Loppa</em> i <em type="italic">Finnmark fylke</em> og Skjervøy, <em type="italic">Kvænangen</em> og Nordreisa i <em type="italic">Troms fylke </em>(6 av 10) </p>
+<p><em type="bold">4. Gáisi valgkrets </em><em type="italic">Kåfjord, Storfjord, Lyngen</em>, Karlsøy, <em type="italic">Tromsø*</em>, Balsfjord, Målselv, Bardu, Lenvik, Berg, Torsken, Tranøy og <em type="italic">Sørreisa*</em> i<em type="italic"> </em>Troms fylke (5 av 13) </p>
+<p><em type="bold">5. Vesthavet valgkrets </em>Dyrøy, Salangen, <em type="italic">Lavangen, Gratangen, Skånland</em>, Ibestad, Harstad, Bjarkøy, Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylke<em type="italic"> </em>[inkluderer <em type="italic">Evenes*, Tysfjord, Hamarøy*, Narvik*</em>] (7 av 38) </p>
+<p><em type="bold">6. Sørsamisk valgkrets  </em>Kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, fylkene Nord-Trøndelag og Sør-Trøndelag, kommunene Surnadal, Rindal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Hedmark fylke </p>
+<p><em type="bold">7. Sør-Norge valgkrets </em> De kommunene i Møre og Romsdal og Hedmark fylker som ikke tilhører valgkrets 6, samt fylkene Sogn og Fjordane, Hordaland, Rogaland, Vest-Agder, Aust-Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold, Oppland og Oslo. </p>
+</body></document>

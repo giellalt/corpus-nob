@@ -1,89 +1,52 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>947</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Artiklerressurser/Om-boksta/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_37_om-bokstav.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_37_om-bokstavopplaringe.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_37_bokstavva.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Om bokstavopplæringen - underveisvurdering</p>
-    <p type="title">Om bokstavopplæringen - underveisvurdering</p>
-    <p>Hovedinnhold</p>
-    <p>Denne artikkelen handler om noen sider ved begynneropplæringen i samisk som førstespråk, bokstavlæringen og lese- og skriveutviklingen.</p>
-    <p>Formålet med begynneropplæringen er at elevene skal bli så flinke lesere at de kan lese ulike tekster med flyt, forstå innholdet og dra nytte av informasjonen de får under lesingen. Elevene skal også lære å skrive forståelige tekster og kommunisere gjennom tekst. De skal i tillegg lære de vanligste rettskrivingsreglene. Parallelt med bokstavinnlæringen arbeider elevene med andre språkutviklingsaktiviteter.</p>
-    <p type="title">Generelt</p>
-    <p>Det er viktig at læreren følger nøye med i leseutviklingen til en begynnerleser. Elevene har behov for god og mangesidig støtte og trening. De skal både muntlig og skriftlig være i stand til å se og høre sammenhengen mellom språklyd og skrifttegn. Etter hvert skal de også kunne binde sammen mange språklyder og skrifttegn til ord og setninger.</p>
-    <p>Læreren bør kjenne til lydsystemet i hver enkelt elevs dialekt og vite hvordan denne dialekten skiller seg fra samisk skriftspråk. Det er viktig å gjøre elevene bevisst på at skriftspråket er en konvensjon og at skriftspråket ikke alltid følger dialekten. Spesielt er det viktig at læreren forklarer forskjeller mellom dialekt og skriftspråk og viser hvordan dette blir løst i skriftspråket.</p>
-    <p>Det er viktig at elevene lærer seg å skrive bokstavene riktig. Uvaner kan være vanskelige å avvenne. Læreren underviser i dette bevisst og systematisk og setter av tid til øving. Det er en fordel om elevene kan se hvordan bokstavene skal skrives mens de skriver, enten på et bokstavhus eller på en plakat hvor bokstavenes høyde, form og ikke minst skriveretning kommer tydelig fram.</p>
-    <p>Elevene bør lese noe hver dag. I begynnelsen er det nok at de har lest en eller to bokstaver. Etter hvert økes antallet bokstaver slik at det blir stavelser, ord, setninger og tekster. Lesingen tilpasses den enkelte elevens ferdigheter.</p>
-    <p>Elevene bør skrive noe hver dag. Dersom eleven har liten erfaring med å skrive, skriver han eller hun først sitt eget navn og kanskje forbokstaven i navnene til familiemedlemmer og senere hele navnet. Skap situasjoner der det er naturlig å skrive. Elevene skriver for eksempel titler på tegninger, beskjeder og huskelister, og de skriver om egne opplevelser. Elevene skriver alt fra fantasiskrift til bokstaver, ord og setninger og til hele tekster.</p>
-    <p>Eleven må få anledning til å uttrykke seg muntlig hver dag. De forteller, svarer på spørsmål, forklarer og ytrer meninger. De snakker med medelever og med læreren. For at elevene skal utvikle både språk og muntlig fremstillingsevne, er det viktig å legge vekt på at de skal formulere hele setninger. Hvis elevene bare svarer med enkeltord, kan læreren gjenta budskapet med en hel setning og oppmuntre elevene til å gjøre det samme.</p>
-    <p type="title">Eksempler på hva læreren vurderer</p>
-    <p>Her følger noen momenter som er viktige for elevens lese- og skriveutvikling. Hver elev blir vurdert individuelt og jevnlig slik at det er mulig å sette inn ekstra hjelp tidlig hvis eleven strever. Hver bokstav blir vurdert for seg.</p>
-    <p>Eleven skal kunne</p>
-    <list>
-      <p type="listitem">høre/gjenkjenne fonemet når det er alene / når det uttales adskilt fra andre fonem</p>
-      <p type="listitem">lytte ut fonemet i begynnelsen av et ord, høre hvilke ord som begynner med et gitt fonem, og lytte ut fonemet når det er inne i ordet og når/hvis det er i slutten av ordet</p>
-      <p type="listitem">si fonemet alene</p>
-      <p type="listitem">skrive bokstaven/grafemet som hører til fonemet</p>
-      <p type="listitem">kjenne både stor bokstav og liten bokstav</p>
-      <p type="listitem">skrive bokstaven i riktig skriveretning, både stor og liten bokstav</p>
-      <p type="listitem">gjenkjenne bokstaven og kunne si fonemet som tilhører bokstaven</p>
-      <p type="listitem">peke ut hvilken bokstav som hører til et bestemt fonem når bokstaven er blant andre bokstaver, for eksempel sammen med andre løse bokstaver eller i en tekst</p>
-      <p type="listitem">skrive bokstaven når man hører fonemet uttalt</p>
-      <p type="listitem">skrive bokstavkombinasjonen som hører til fonemet</p>
-      <p type="listitem">skrive grafemet som høret til fonemet når man hører fonemet uttalt sammen med andre fonem i stavelser, ord og setninger a. når det er i begynnelsen av ordet b. når det er midt i ordet c. når/hvis det er i slutten av ordet</p>
-      <p type="listitem">finne ord som begynner med fonemet</p>
-    </list>
-    <p type="title">Vurdering</p>
-    <p>Her følger et eksempel på et skjema læreren kan benytte til vurdering når elevene arbeider med en gitt bokstav og lyd, for eksempel a.</p>
-    <p>Elevene kan benytte et liknende skjema når de vurderer seg selv. Men skjemaet bør da inneholde færre punkter. Ordlyden forenkles, og skjemaet lages i to utgaver, en med store og en med små bokstaver. Bruk tegninger i tillegg til tekst. Et øre kan symbolisere at eleven skal lytte, et øye viser at eleven skal se og en blyant forteller at eleven skal skrive.</p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg ikke godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg veldig godt </em>
-    </p>
-    <p>si lyden</p>
-    <p>gjenkjenne lyden når læreren sier flere lyder etter hverandre</p>
-    <p>høre om et ord inneholder lyden</p>
-    <p>høre om lyden er i begynnelsen, i midten eller på slutten av ordet</p>
-    <p>telle hvor mange ganger lyden forekommer i et ord</p>
-    <p>finne ord som begynner med lyden</p>
-    <p>telle hvor mange ganger bokstaven forekommer i et ord og i en setning</p>
-    <p>skrive bokstaven med riktig skriveretning for hånd, både stor og liten bokstav</p>
-    <p>skrive et ord som begynner på bokstaven</p>
-    <p>skriv ord som har bokstaven i seg eller slutter på den</p>
-    <p>skrive bokstaven og ord med bokstaven i på datamaskin</p>
-    <p>gjenkjenne bokstaven i ulike skrifttyper, former og størrelser</p>
-    <p type="title">Litteratur på nordsamisk om begynneropplæring:</p>
-    <p>BAAL, LISA - WIRKOLA, KIRSTEN 2007: Ávkin ja hávskin – Rávvagat mo álglohkanoahpahusain bargat. [Kárášjohka:] Sámediggi 2007</p>
-    <p>EIRA, INGA RAVNA 1994: Lohkanoahppu Hállama Vuođul. [Guovdageaidnu]: Sámi oahpahusráđđi. 2. preanttus.</p>
-    <p>EIRA, KAREN INGA - GAUP, INGER ELLEN 2009: Ánin Dánin. Oahpaheaddji neavagirji. Kárášjohka: Davvi Girji os.</p>
-    <p>WIRKOLA, KIRSTEN - BAAL, LISA 2003: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Kárášjohka:] Sámediggi 2003.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>947</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Artiklerressurser/Om-boksta/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_37_om-bokstav.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_37_om-bokstavopplaringe.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_37_bokstavva.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Om bokstavopplæringen - underveisvurdering</p>
+<p type="title">Om bokstavopplæringen - underveisvurdering</p>
+<p>Hovedinnhold</p>
+<p>Denne artikkelen handler om noen sider ved begynneropplæringen i samisk som førstespråk, bokstavlæringen og lese- og skriveutviklingen.</p>
+<p>Formålet med begynneropplæringen er at elevene skal bli så flinke lesere at de kan lese ulike tekster med flyt, forstå innholdet og dra nytte av informasjonen de får under lesingen. Elevene skal også lære å skrive forståelige tekster og kommunisere gjennom tekst. De skal i tillegg lære de vanligste rettskrivingsreglene. Parallelt med bokstavinnlæringen arbeider elevene med andre språkutviklingsaktiviteter.</p>
+<p type="title">Generelt</p>
+<p>Det er viktig at læreren følger nøye med i leseutviklingen til en begynnerleser. Elevene har behov for god og mangesidig støtte og trening. De skal både muntlig og skriftlig være i stand til å se og høre sammenhengen mellom språklyd og skrifttegn. Etter hvert skal de også kunne binde sammen mange språklyder og skrifttegn til ord og setninger.</p>
+<p>Læreren bør kjenne til lydsystemet i hver enkelt elevs dialekt og vite hvordan denne dialekten skiller seg fra samisk skriftspråk. Det er viktig å gjøre elevene bevisst på at skriftspråket er en konvensjon og at skriftspråket ikke alltid følger dialekten. Spesielt er det viktig at læreren forklarer forskjeller mellom dialekt og skriftspråk og viser hvordan dette blir løst i skriftspråket.</p>
+<p>Det er viktig at elevene lærer seg å skrive bokstavene riktig. Uvaner kan være vanskelige å avvenne. Læreren underviser i dette bevisst og systematisk og setter av tid til øving. Det er en fordel om elevene kan se hvordan bokstavene skal skrives mens de skriver, enten på et bokstavhus eller på en plakat hvor bokstavenes høyde, form og ikke minst skriveretning kommer tydelig fram.</p>
+<p>Elevene bør lese noe hver dag. I begynnelsen er det nok at de har lest en eller to bokstaver. Etter hvert økes antallet bokstaver slik at det blir stavelser, ord, setninger og tekster. Lesingen tilpasses den enkelte elevens ferdigheter.</p>
+<p>Elevene bør skrive noe hver dag. Dersom eleven har liten erfaring med å skrive, skriver han eller hun først sitt eget navn og kanskje forbokstaven i navnene til familiemedlemmer og senere hele navnet. Skap situasjoner der det er naturlig å skrive. Elevene skriver for eksempel titler på tegninger, beskjeder og huskelister, og de skriver om egne opplevelser. Elevene skriver alt fra fantasiskrift til bokstaver, ord og setninger og til hele tekster.</p>
+<p>Eleven må få anledning til å uttrykke seg muntlig hver dag. De forteller, svarer på spørsmål, forklarer og ytrer meninger. De snakker med medelever og med læreren. For at elevene skal utvikle både språk og muntlig fremstillingsevne, er det viktig å legge vekt på at de skal formulere hele setninger. Hvis elevene bare svarer med enkeltord, kan læreren gjenta budskapet med en hel setning og oppmuntre elevene til å gjøre det samme.</p>
+<p type="title">Eksempler på hva læreren vurderer</p>
+<p>Her følger noen momenter som er viktige for elevens lese- og skriveutvikling. Hver elev blir vurdert individuelt og jevnlig slik at det er mulig å sette inn ekstra hjelp tidlig hvis eleven strever. Hver bokstav blir vurdert for seg.</p>
+<p>Eleven skal kunne</p>
+<list><p type="listitem">høre/gjenkjenne fonemet når det er alene / når det uttales adskilt fra andre fonem</p>
+<p type="listitem">lytte ut fonemet i begynnelsen av et ord, høre hvilke ord som begynner med et gitt fonem, og lytte ut fonemet når det er inne i ordet og når/hvis det er i slutten av ordet</p>
+<p type="listitem">si fonemet alene</p>
+<p type="listitem">skrive bokstaven/grafemet som hører til fonemet</p>
+<p type="listitem">kjenne både stor bokstav og liten bokstav</p>
+<p type="listitem">skrive bokstaven i riktig skriveretning, både stor og liten bokstav</p>
+<p type="listitem">gjenkjenne bokstaven og kunne si fonemet som tilhører bokstaven</p>
+<p type="listitem">peke ut hvilken bokstav som hører til et bestemt fonem når bokstaven er blant andre bokstaver, for eksempel sammen med andre løse bokstaver eller i en tekst</p>
+<p type="listitem">skrive bokstaven når man hører fonemet uttalt</p>
+<p type="listitem">skrive bokstavkombinasjonen som hører til fonemet</p>
+<p type="listitem">skrive grafemet som høret til fonemet når man hører fonemet uttalt sammen med andre fonem i stavelser, ord og setninger a. når det er i begynnelsen av ordet b. når det er midt i ordet c. når/hvis det er i slutten av ordet</p>
+<p type="listitem">finne ord som begynner med fonemet</p>
+</list><p type="title">Vurdering</p>
+<p>Her følger et eksempel på et skjema læreren kan benytte til vurdering når elevene arbeider med en gitt bokstav og lyd, for eksempel a.</p>
+<p>Elevene kan benytte et liknende skjema når de vurderer seg selv. Men skjemaet bør da inneholde færre punkter. Ordlyden forenkles, og skjemaet lages i to utgaver, en med store og en med små bokstaver. Bruk tegninger i tillegg til tekst. Et øre kan symbolisere at eleven skal lytte, et øye viser at eleven skal se og en blyant forteller at eleven skal skrive.</p>
+<p><em type="bold">Læringsmål </em></p>
+<p><em type="bold">Dette kan jeg ikke godt nok </em></p>
+<p><em type="bold">Dette kan jeg </em></p>
+<p><em type="bold">Dette kan jeg veldig godt </em></p>
+<p>si lyden</p>
+<p>gjenkjenne lyden når læreren sier flere lyder etter hverandre</p>
+<p>høre om et ord inneholder lyden</p>
+<p>høre om lyden er i begynnelsen, i midten eller på slutten av ordet</p>
+<p>telle hvor mange ganger lyden forekommer i et ord</p>
+<p>finne ord som begynner med lyden</p>
+<p>telle hvor mange ganger bokstaven forekommer i et ord og i en setning</p>
+<p>skrive bokstaven med riktig skriveretning for hånd, både stor og liten bokstav</p>
+<p>skrive et ord som begynner på bokstaven</p>
+<p>skriv ord som har bokstaven i seg eller slutter på den</p>
+<p>skrive bokstaven og ord med bokstaven i på datamaskin</p>
+<p>gjenkjenne bokstaven i ulike skrifttyper, former og størrelser</p>
+<p type="title">Litteratur på nordsamisk om begynneropplæring:</p>
+<p>BAAL, LISA - WIRKOLA, KIRSTEN 2007: Ávkin ja hávskin – Rávvagat mo álglohkanoahpahusain bargat. [Kárášjohka:] Sámediggi 2007</p>
+<p>EIRA, INGA RAVNA 1994: Lohkanoahppu Hállama Vuođul. [Guovdageaidnu]: Sámi oahpahusráđđi. 2. preanttus.</p>
+<p>EIRA, KAREN INGA - GAUP, INGER ELLEN 2009: Ánin Dánin. Oahpaheaddji neavagirji. Kárášjohka: Davvi Girji os.</p>
+<p>WIRKOLA, KIRSTEN - BAAL, LISA 2003: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Kárášjohka:] Sámediggi 2003.</p>
+</body></document>

@@ -1,52 +1,25 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Kongelig i Nord-Norge  - kongehuset.no</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>433</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.kongehuset.no/nyhet.html?tid=116592</origFileName>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=116592_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hopp til hovedinnhold</p>
-    <p>kongehuset.no</p>
-    <p type="title">Kongelig i Nord-Norge</p>
-    <p>Sveriges kongepar, Deres Majesteter Kong Carl Gustaf og Dronning Silvia, er på offisielt besøk i Norge. Deres Majesteter Kong Harald og Dronning Sonja er vertskap for besøket, som i sin helhet finner sted i Nord-Norge.</p>
-    <p xml:lang="koi">18.06.2013</p>
-    <p>Besøket går over to dager. Dagen i dag tilbringes i Harstad, mens Tromsø er arenaen i morgen. De kongelige benytter Kongeskipet Norge under reisen, og i dag morges gikk de to kongeparene i land i Harstad.</p>
-    <p type="title">Statoils hovedkvarter i nord</p>
-    <p>Først på programmet i Harstad var et besøk til Statoils hovedkvarter i Nord-Norge. Statoils områdedirektør Hans Jakob Hegge presenterte selskapets aktivitet i nord og perspektiver på mulighetene i landsdelen framover. Seniorgeolog Geir Birger Larsen fra det svenske petroleumsselskapet Lundin Norway fortalte om svensk-norsk samarbeid på sokkelen og muligheter for svenske næringslivsaktører.</p>
-    <p>I Visjonariet fikk det kongelige følget oppleve en tredimensjonal <span type="quote">«reise i undergrunnen»</span>: Et dypdykk i geologien og hvordan det arbeides i jakten på ressursene under havbunnen. Kongeparene fikk også ta del i en videodialog med Norne-skipet. Her fikk de snakke med ledelse og mannskap om liv og arbeid offshore.</p>
-    <p type="title">På Newtonrommet</p>
-    <p>På Stangnes skole besøkte Det kongelige følget Newtonrommet. Rommet er et viktig ledd i rekrutteringen til realfagene, ved å øke de unges kunnskap og interesse for disse emnene. Målet er å inspirere ungdom til å satse på en utdanning som kan benyttes på framtidens lokale arbeidsplasser.</p>
-    <p>Elevene viste fram flere prosjekter de jobber på. På hver stasjon fikk Kongeparene høre litt om arbeidet og hvordan akkurat dette er relevant for næringslivet.</p>
-    <p type="title">Kvinnelige kunstpionerer</p>
-    <p>Etter lunsj med tradisjonsmat på Røkenes Gård sto besøk til festspillutstillingen <span type="quote" xml:lang="deu">"Pioneer Voices"</span> for tur. Festspillene i Nord-Norge markerer 100-årsjubileet for allmenn stemmerett med å løfte fram foregangskvinner innen kunsten. Her vises både billedkunst, skulptur og installasjon. Harstads egen avantgardekunstner Ragnhild Kaarbø (1888 – 1949) har en sentral plass i utstillingen, sammen med den toneangivende samiske kunstneren Aslaug Juliussen og den anerkjente svenske kunstneren Astrid Svangren.</p>
-    <p type="title">På vandring</p>
-    <p>Byvandring avsluttet besøket i Harstad, da følget spaserte fra Galleri Nord-Norge til Harstad havn. På veien kunne Kongeparene oppleve en rekke kulturinnslag, med sang fra et forsterket Vox Arctica, swingjazz i beste Django Reinhardt-stil og 150 dansere. </p>
-    <p>I kveld holder Kongeparet mottakelse om bord på K/S Norge før besøket fortsetter i Tromsø i morgen.</p>
-    <p type="title" xml:lang="nno">Del denne artikkelen på Facebook eller Twitter</p>
-    <p>Kong Carl Gustaf og Dronning Silvia av Sverige besøker Norge. Første del av besøket fant sted i Harstad (Foto: Christian Lagaard, Det kongelige hoff)</p>
-    <p>Relaterte lenker</p>
-    <list>
-      <p type="listitem">Kongeparene i Tromsø (Nyhet)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Det svenske kongehusets nettsider</p>
-      <p type="listitem">Fotoalbum med flere bilder fra besøket</p>
-      <p type="listitem" xml:lang="nno">Filmklipp fra besøket</p>
-      <p type="listitem">Festspillene i Nord-Norge</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Kongelig i Nord-Norge  - kongehuset.no</title><genre code="admin"/><author><unknown/></author><wordcount>432</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.kongehuset.no/nyhet.html?tid=116592</origFileName><parallel_text xml:lang="sme" location="nyhet.html_tid=116592_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hopp til hovedinnhold</p>
+<p type="title">Kongelig i Nord-Norge</p>
+<p>Sveriges kongepar, Deres Majesteter Kong Carl Gustaf og Dronning Silvia, er på offisielt besøk i Norge. Deres Majesteter Kong Harald og Dronning Sonja er vertskap for besøket, som i sin helhet finner sted i Nord-Norge.</p>
+<p xml:lang="vep">18.06.2013</p>
+<p>Besøket går over to dager. Dagen i dag tilbringes i Harstad, mens Tromsø er arenaen i morgen. De kongelige benytter Kongeskipet Norge under reisen, og i dag morges gikk de to kongeparene i land i Harstad.</p>
+<p type="title">Statoils hovedkvarter i nord</p>
+<p>Først på programmet i Harstad var et besøk til Statoils hovedkvarter i Nord-Norge. Statoils områdedirektør Hans Jakob Hegge presenterte selskapets aktivitet i nord og perspektiver på mulighetene i landsdelen framover. Seniorgeolog Geir Birger Larsen fra det svenske petroleumsselskapet Lundin Norway fortalte om svensk-norsk samarbeid på sokkelen og muligheter for svenske næringslivsaktører.</p>
+<p>I Visjonariet fikk det kongelige følget oppleve en tredimensjonal <span type="quote">«reise i undergrunnen»</span>: Et dypdykk i geologien og hvordan det arbeides i jakten på ressursene under havbunnen. Kongeparene fikk også ta del i en videodialog med Norne-skipet. Her fikk de snakke med ledelse og mannskap om liv og arbeid offshore.</p>
+<p type="title">På Newtonrommet</p>
+<p>På Stangnes skole besøkte Det kongelige følget Newtonrommet. Rommet er et viktig ledd i rekrutteringen til realfagene, ved å øke de unges kunnskap og interesse for disse emnene. Målet er å inspirere ungdom til å satse på en utdanning som kan benyttes på framtidens lokale arbeidsplasser.</p>
+<p>Elevene viste fram flere prosjekter de jobber på. På hver stasjon fikk Kongeparene høre litt om arbeidet og hvordan akkurat dette er relevant for næringslivet.</p>
+<p type="title">Kvinnelige kunstpionerer</p>
+<p>Etter lunsj med tradisjonsmat på Røkenes Gård sto besøk til festspillutstillingen <span type="quote" xml:lang="deu">"Pioneer Voices"</span> for tur. Festspillene i Nord-Norge markerer 100-årsjubileet for allmenn stemmerett med å løfte fram foregangskvinner innen kunsten. Her vises både billedkunst, skulptur og installasjon. Harstads egen avantgardekunstner Ragnhild Kaarbø (1888 – 1949) har en sentral plass i utstillingen, sammen med den toneangivende samiske kunstneren Aslaug Juliussen og den anerkjente svenske kunstneren Astrid Svangren.</p>
+<p type="title">På vandring</p>
+<p>Byvandring avsluttet besøket i Harstad, da følget spaserte fra Galleri Nord-Norge til Harstad havn. På veien kunne Kongeparene oppleve en rekke kulturinnslag, med sang fra et forsterket Vox Arctica, swingjazz i beste Django Reinhardt-stil og 150 dansere. </p>
+<p>I kveld holder Kongeparet mottakelse om bord på K/S Norge før besøket fortsetter i Tromsø i morgen.</p>
+<p type="title" xml:lang="nno">Del denne artikkelen på Facebook eller Twitter</p>
+<p>Kong Carl Gustaf og Dronning Silvia av Sverige besøker Norge. Første del av besøket fant sted i Harstad (Foto: Christian Lagaard, Det kongelige hoff)</p>
+<p>Relaterte lenker</p>
+<list><p type="listitem">Kongeparene i Tromsø (Nyhet)</p>
+</list><list><p type="listitem" xml:lang="nno">Det svenske kongehusets nettsider</p>
+<p type="listitem">Fotoalbum med flere bilder fra besøket</p>
+<p type="listitem" xml:lang="nno">Filmklipp fra besøket</p>
+<p type="listitem">Festspillene i Nord-Norge</p>
+</list></body></document>

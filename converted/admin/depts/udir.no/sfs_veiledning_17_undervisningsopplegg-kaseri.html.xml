@@ -1,145 +1,100 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1048</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstesprak/Samisk-som-forstesprak-Nordsamisk/Jo1--Vg1/Undervisningsopplegg-Kaseri/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Kåseri</p>
-    <p type="title">Undervisningsopplegg: Kåseri</p>
-    <p>Hovedinnhold</p>
-    <p><em type="italic">Trinn </em>: Vg1 - studieforberedende utdanningsprogram og Vg2 - yrkesfaglige utdanningsprogram </p>
-    <p><em type="italic">Tema </em>: sjangre </p>
-    <p><em type="italic">Tid </em>: fire til seks timer </p>
-    <p>Vis alle</p>
-    <p type="title">Introduksjon</p>
-    <p>Læreren finner eksempler på hvordan han eller hun kan tilrettelegge undervisningen slik at elevene når kompetansemålene for Vg1, studieforberedende utdanningsprogram, og Vg2, yrkesfaglige utdanningsprogram.</p>
-    <p>Her vises det hvordan kompetansemålene kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Elevene skal også vurdere sitt eget og hverandres arbeid.</p>
-    <p>Vær oppmerksom på at dette undervisningsopplegget ikke dekker hele det første kompetansemålet. Sjangeren som vektlegges her, er kåseri.</p>
-    <p type="title">Kompetansemål i LK06-S</p>
-    <p>
-      <em type="italic">Kompetansemål etter Vg1 – studieforberedende utdanningsprogram og Vg2 – yrkesfaglige utdanningsprogram </em>
-    </p>
-    <p>Skriftlig kommunikasjon</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">skrive kreative tekster i ulike sjangere</p>
-      <p type="listitem">lese tekster og samtale med andre om hva man har lest</p>
-      <p type="listitem">bruke et bredt spekter av språklige virkemidler i egen skriving, både i skjønnlitteratur og sakprosa*</p>
-    </list>
-    <p>* Dette kompetansemålet gjelder ikke for elever på yrkesfaglige utdanningsprogram.</p>
-    <p type="title">Læringsmål</p>
-    <p>Læringsmålene er steg på veien mot å nå kompetansemålene.</p>
-    <p>Eleven skal kunne</p>
-    <list>
-      <p type="listitem">samtale med andre om hva et kåseri er og innholdet i et kåseri</p>
-      <p type="listitem">beskrive kjennetegn ved sjangeren kåseri</p>
-      <p type="listitem">skrive et kåseri</p>
-      <p type="listitem">vurdere egen tekst og forbedre den</p>
-    </list>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne lese </em>: Elevene bruker hensiktsmessige lesestrategier. </p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>: Elevene deltar i diskusjoner, lytter til andres meninger og uttrykker egne meninger. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Elevene uttrykker oppdagelser, tanker og meninger gjennom skriving. </p>
-    <p><em type="italic">Å kunne bruke digitale verktøy </em>: Elevene bruker forskjellige elektroniske kilder kritisk. </p>
-    <p type="title">Forberedelser</p>
-    <p>Læreren har på forhånd valgt ut et kåseri som egner seg til felles arbeid i klassen. Elevene får utdelt dette kåseriet enten elektronisk eller på papir. Elevene leser det stille selv eller høyt sammen i klassen. Læreren kan lese kåseriet høyt for elevene, eller elevene kan lytte til et lydopptak.</p>
-    <p>Læreren forklarer, og elevene samtaler om hva som kjennetegner et kåseri. Legg spesielt vekt på ironi. Skriv gjerne kjennetegnene som en liste på tavla. Elevene kan også selv notere trekkene.</p>
-    <p>Læreren eller elevene velger et tema for kåseriet som elevene skal skrive.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p>Elevene leser stille, for eksempel <em type="italic">Koseriija- ja dan fuolkehámit: Sátneduddjon ja sátnestoahkan </em>, (I boka Sátneduojit s. 9-13). </p>
-    <p>Før elevene begynner å lese, skriver læreren noen ord/begreper fra teksten som elevene skal lese, på tavla.</p>
-    <p>Når elevene har lest kåseriet og tenkt gjennom hva de har lest, svarer de på disse spørsmålene:</p>
-    <p>Hvem skriver/snakker?</p>
-    <p>avsender</p>
-    <p>Hva skriver/snakker avsenderen om?</p>
-    <p>innhold</p>
-    <p>Hvem skrives/snakkes det til?</p>
-    <p>mottaker</p>
-    <p>Hvor skriver/snakker avsenderen?</p>
-    <p>medium</p>
-    <p>Når skriver/snakker avsenderen?</p>
-    <p>tid</p>
-    <p>Hvordan skriver/snakker avsenderen?</p>
-    <p>virkemidler</p>
-    <p>Hvorfor skriver/snakker avsenderen?</p>
-    <p>formål</p>
-    <p>Elevene har en felles samtale om kåseriet med svarene som utgangspunkt. Snakk om ironi.</p>
-    <p>Elevene skriver et kort sammendrag av kåseriet og snakker sammen om hva de har valgt ut.</p>
-    <p>Elevene skriver selv et kåseri. Noen elever kan velge felles tema og skrive et felles kåseri som gruppearbeid.</p>
-    <p>Alle setter inn kåseriene i et felles elektronisk arkiv når de er ferdige. Elevene kan lese hverandres kåserier, eller de kan lese høyt for hverandre.</p>
-    <p>Læreren leser kåseriene som elevene har skrevet, og gir elevene læringsfremmende tilbakemeldinger.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Elever som ikke selv mestrer å lese et kåseri, kan lytte til en opplesning i stedet.</p>
-    <p>Å skrive stikkord er et alternativ til å skrive sammendrag.</p>
-    <p>Kåseriene elevene skriver, kan variere i lengde og kompleksitet.</p>
-    <p>Noen kan lese kåseriene sine høyt for andre som bare lytter. Noen kan lese mange av medelevenes kåserier og benytte dem som inspirasjon til egen skriving.</p>
-    <p>Når elevene arbeider i grupper, kan de gi hverandre ideer og inspirere hverandre. For noen er det lettere å komme i gang når de er sammen med andre, og tekstskaping i fellesskap kan gi skriveglede. Forslag som dukker opp, kan være både interessante og morsomme. Når mange med ulike styrker og talenter bidrar, kan resultatet av det felles arbeidet bli godt. Elevene kan lære mye av hverandre.</p>
-    <p type="title">Fjernundervisning</p>
-    <p>Dette undervisningsopplegget passer godt til fjernundervisning fordi det er mulig å gjennomføre aktivitetene omtrent som i vanlig undervisning.</p>
-    <p type="title">Vurdering</p>
-    <p>
-      <em type="italic">Underveisvurdering </em>
-    </p>
-    <p>I dette undervisningsopplegget kan læreren bruke en sjangerliste som utgangspunkt for vurderingen og vise til den i tilbakemeldingene til elevene. Det samme gjelder læringsmålene som elevene skal kjenne. I tillegg til lærerens underveisvurdering kan elevene vurdere seg selv og hverandre.</p>
-    <p>Elevene kan få muntlig vurdering underveis i skriveprosessen og en skriftlig tilbakemelding på det ferdige kåseriet. Det er viktig å gi respons som hjelper elevene til å utvikle seg faglig. De må få positiv tilbakemelding på det de mestrer. Legg spesielt vekt på de sjangerspesifikke trekkene. Elevene må få opplysninger om hva de skal arbeide med, og på hvilken måte de skal gjøre det.</p>
-    <p>Her er noen forslag til problemstillinger - Klarer eleven å fenge leseren?</p>
-    <p>- Er språket muntlig?</p>
-    <p>- Er kåseriet underholdende?</p>
-    <p>- Bruker eleven ironi?</p>
-    <p>- Lokker han eller hun leseren eller tilhøreren med bakvendte påstander?</p>
-    <p>- Hva er grunnen til at svaret på ett eller flere av disse spørsmålene eventuelt blir ja? Hva bidrar til dette i teksten?</p>
-    <p>- Hva er grunnen til at svaret på ett eller flere av disse spørsmålene eventuelt blir nei?</p>
-    <p>- Hva kan elevene endre på for å bedre kåseriet?</p>
-    <p>Under følger et skjema som læreren kan bruke. Det egner seg også når elevene skal vurdere seg selv og hverandre.</p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg ikke godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg meget godt </em>
-    </p>
-    <p>samtale om hva et kåseri er og innholdet i et kåseri</p>
-    <p>beskrive kjennetegn ved sjangeren kåseri</p>
-    <p>skrive et kåseri</p>
-    <p>vurdere egen tekst og forbedre den</p>
-    <p><em type="italic">Andre skjema som egner seg </em>: </p>
-    <p>Vurderingsskjema 1 - skriftlig arbeid</p>
-    <p type="title">Ressurser</p>
-    <p type="title">Bøker</p>
-    <p>LUKKARI, RAUNI MAGGA 2009: Lex Sápmi. Oslo: Cappelen forlag</p>
-    <p>SOLBAKK, JOHN TRYGVE 2006: Sátneduojit. Kárášjohka: NRK Sámi Radio/ ČálliidLágádus</p>
-    <p>GUTTORM, TRYGVE 2009: Áššis áššái. Áššeprosa teakstačoakkáldat. Kárášjohka: Davvi Girji o.s.</p>
-    <p>JERNSLETTEN, PER 1998: Hála ja čále ná. Njálmmálaš ja čálalaš giellageavaheapmi Kárášjohka: Davvi Girji OS</p>
-    <p>GASKI, HARALD 2006: Iešguđet ge čálushámit - esseija, koseriija, petit paper ja artihkal. Artikkel i tidsskriftet: Sámis - Sámi čálakultuvrralaš áigečála nr 3/2006.</p>
-    <p>Dette og andre numre kan man finne gratis her: » http://www.samifaga.org/web/index.php?sladja=40&amp;giella1=sam</p>
-    <p type="title">Hjelpebok:</p>
-    <p>JANSSON, BENTHE KOLBERG ET AL. 2007: Tema VG1 Norsk språk og litteratur. Lærebok og tekstsamling. Oslo: Samlaget.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1048</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstesprak/Samisk-som-forstesprak-Nordsamisk/Jo1--Vg1/Undervisningsopplegg-Kaseri/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_17_undervisningsopplegg-kaseri.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Kåseri</p>
+<p type="title">Undervisningsopplegg: Kåseri</p>
+<p>Hovedinnhold</p>
+<p><em type="italic">Trinn </em>: Vg1 - studieforberedende utdanningsprogram og Vg2 - yrkesfaglige utdanningsprogram </p>
+<p><em type="italic">Tema </em>: sjangre </p>
+<p><em type="italic">Tid </em>: fire til seks timer </p>
+<p>Vis alle</p>
+<p type="title">Introduksjon</p>
+<p>Læreren finner eksempler på hvordan han eller hun kan tilrettelegge undervisningen slik at elevene når kompetansemålene for Vg1, studieforberedende utdanningsprogram, og Vg2, yrkesfaglige utdanningsprogram.</p>
+<p>Her vises det hvordan kompetansemålene kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Elevene skal også vurdere sitt eget og hverandres arbeid.</p>
+<p>Vær oppmerksom på at dette undervisningsopplegget ikke dekker hele det første kompetansemålet. Sjangeren som vektlegges her, er kåseri.</p>
+<p type="title">Kompetansemål i LK06-S</p>
+<p><em type="italic">Kompetansemål etter Vg1 – studieforberedende utdanningsprogram og Vg2 – yrkesfaglige utdanningsprogram </em></p>
+<p>Skriftlig kommunikasjon</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">skrive kreative tekster i ulike sjangere</p>
+<p type="listitem">lese tekster og samtale med andre om hva man har lest</p>
+<p type="listitem">bruke et bredt spekter av språklige virkemidler i egen skriving, både i skjønnlitteratur og sakprosa*</p>
+</list><p>* Dette kompetansemålet gjelder ikke for elever på yrkesfaglige utdanningsprogram.</p>
+<p type="title">Læringsmål</p>
+<p>Læringsmålene er steg på veien mot å nå kompetansemålene.</p>
+<p>Eleven skal kunne</p>
+<list><p type="listitem">samtale med andre om hva et kåseri er og innholdet i et kåseri</p>
+<p type="listitem">beskrive kjennetegn ved sjangeren kåseri</p>
+<p type="listitem">skrive et kåseri</p>
+<p type="listitem">vurdere egen tekst og forbedre den</p>
+</list><p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne lese </em>: Elevene bruker hensiktsmessige lesestrategier. </p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>: Elevene deltar i diskusjoner, lytter til andres meninger og uttrykker egne meninger. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Elevene uttrykker oppdagelser, tanker og meninger gjennom skriving. </p>
+<p><em type="italic">Å kunne bruke digitale verktøy </em>: Elevene bruker forskjellige elektroniske kilder kritisk. </p>
+<p type="title">Forberedelser</p>
+<p>Læreren har på forhånd valgt ut et kåseri som egner seg til felles arbeid i klassen. Elevene får utdelt dette kåseriet enten elektronisk eller på papir. Elevene leser det stille selv eller høyt sammen i klassen. Læreren kan lese kåseriet høyt for elevene, eller elevene kan lytte til et lydopptak.</p>
+<p>Læreren forklarer, og elevene samtaler om hva som kjennetegner et kåseri. Legg spesielt vekt på ironi. Skriv gjerne kjennetegnene som en liste på tavla. Elevene kan også selv notere trekkene.</p>
+<p>Læreren eller elevene velger et tema for kåseriet som elevene skal skrive.</p>
+<p type="title">Læringsaktiviteter</p>
+<p>Elevene leser stille, for eksempel <em type="italic">Koseriija- ja dan fuolkehámit: Sátneduddjon ja sátnestoahkan </em>, (I boka Sátneduojit s. 9-13). </p>
+<p>Før elevene begynner å lese, skriver læreren noen ord/begreper fra teksten som elevene skal lese, på tavla.</p>
+<p>Når elevene har lest kåseriet og tenkt gjennom hva de har lest, svarer de på disse spørsmålene:</p>
+<p>Hvem skriver/snakker?</p>
+<p>avsender</p>
+<p>Hva skriver/snakker avsenderen om?</p>
+<p>innhold</p>
+<p>Hvem skrives/snakkes det til?</p>
+<p>mottaker</p>
+<p>Hvor skriver/snakker avsenderen?</p>
+<p>medium</p>
+<p>Når skriver/snakker avsenderen?</p>
+<p>tid</p>
+<p>Hvordan skriver/snakker avsenderen?</p>
+<p>virkemidler</p>
+<p>Hvorfor skriver/snakker avsenderen?</p>
+<p>formål</p>
+<p>Elevene har en felles samtale om kåseriet med svarene som utgangspunkt. Snakk om ironi.</p>
+<p>Elevene skriver et kort sammendrag av kåseriet og snakker sammen om hva de har valgt ut.</p>
+<p>Elevene skriver selv et kåseri. Noen elever kan velge felles tema og skrive et felles kåseri som gruppearbeid.</p>
+<p>Alle setter inn kåseriene i et felles elektronisk arkiv når de er ferdige. Elevene kan lese hverandres kåserier, eller de kan lese høyt for hverandre.</p>
+<p>Læreren leser kåseriene som elevene har skrevet, og gir elevene læringsfremmende tilbakemeldinger.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Elever som ikke selv mestrer å lese et kåseri, kan lytte til en opplesning i stedet.</p>
+<p>Å skrive stikkord er et alternativ til å skrive sammendrag.</p>
+<p>Kåseriene elevene skriver, kan variere i lengde og kompleksitet.</p>
+<p>Noen kan lese kåseriene sine høyt for andre som bare lytter. Noen kan lese mange av medelevenes kåserier og benytte dem som inspirasjon til egen skriving.</p>
+<p>Når elevene arbeider i grupper, kan de gi hverandre ideer og inspirere hverandre. For noen er det lettere å komme i gang når de er sammen med andre, og tekstskaping i fellesskap kan gi skriveglede. Forslag som dukker opp, kan være både interessante og morsomme. Når mange med ulike styrker og talenter bidrar, kan resultatet av det felles arbeidet bli godt. Elevene kan lære mye av hverandre.</p>
+<p type="title">Fjernundervisning</p>
+<p>Dette undervisningsopplegget passer godt til fjernundervisning fordi det er mulig å gjennomføre aktivitetene omtrent som i vanlig undervisning.</p>
+<p type="title">Vurdering</p>
+<p><em type="italic">Underveisvurdering </em></p>
+<p>I dette undervisningsopplegget kan læreren bruke en sjangerliste som utgangspunkt for vurderingen og vise til den i tilbakemeldingene til elevene. Det samme gjelder læringsmålene som elevene skal kjenne. I tillegg til lærerens underveisvurdering kan elevene vurdere seg selv og hverandre.</p>
+<p>Elevene kan få muntlig vurdering underveis i skriveprosessen og en skriftlig tilbakemelding på det ferdige kåseriet. Det er viktig å gi respons som hjelper elevene til å utvikle seg faglig. De må få positiv tilbakemelding på det de mestrer. Legg spesielt vekt på de sjangerspesifikke trekkene. Elevene må få opplysninger om hva de skal arbeide med, og på hvilken måte de skal gjøre det.</p>
+<p>Her er noen forslag til problemstillinger - Klarer eleven å fenge leseren?</p>
+<p>- Er språket muntlig?</p>
+<p>- Er kåseriet underholdende?</p>
+<p>- Bruker eleven ironi?</p>
+<p>- Lokker han eller hun leseren eller tilhøreren med bakvendte påstander?</p>
+<p>- Hva er grunnen til at svaret på ett eller flere av disse spørsmålene eventuelt blir ja? Hva bidrar til dette i teksten?</p>
+<p>- Hva er grunnen til at svaret på ett eller flere av disse spørsmålene eventuelt blir nei?</p>
+<p>- Hva kan elevene endre på for å bedre kåseriet?</p>
+<p>Under følger et skjema som læreren kan bruke. Det egner seg også når elevene skal vurdere seg selv og hverandre.</p>
+<p><em type="bold">Læringsmål </em></p>
+<p><em type="bold">Dette kan jeg ikke godt nok </em></p>
+<p><em type="bold">Dette kan jeg </em></p>
+<p><em type="bold">Dette kan jeg meget godt </em></p>
+<p>samtale om hva et kåseri er og innholdet i et kåseri</p>
+<p>beskrive kjennetegn ved sjangeren kåseri</p>
+<p>skrive et kåseri</p>
+<p>vurdere egen tekst og forbedre den</p>
+<p><em type="italic">Andre skjema som egner seg </em>: </p>
+<p>Vurderingsskjema 1 - skriftlig arbeid</p>
+<p type="title">Ressurser</p>
+<p type="title">Bøker</p>
+<p>LUKKARI, RAUNI MAGGA 2009: Lex Sápmi. Oslo: Cappelen forlag</p>
+<p>SOLBAKK, JOHN TRYGVE 2006: Sátneduojit. Kárášjohka: NRK Sámi Radio/ ČálliidLágádus</p>
+<p>GUTTORM, TRYGVE 2009: Áššis áššái. Áššeprosa teakstačoakkáldat. Kárášjohka: Davvi Girji o.s.</p>
+<p>JERNSLETTEN, PER 1998: Hála ja čále ná. Njálmmálaš ja čálalaš giellageavaheapmi Kárášjohka: Davvi Girji OS</p>
+<p>GASKI, HARALD 2006: Iešguđet ge čálushámit - esseija, koseriija, petit paper ja artihkal. Artikkel i tidsskriftet: Sámis - Sámi čálakultuvrralaš áigečála nr 3/2006.</p>
+<p>Dette og andre numre kan man finne gratis her: » http://www.samifaga.org/web/index.php?sladja=40&amp;giella1=sam</p>
+<p type="title">Hjelpebok:</p>
+<p>JANSSON, BENTHE KOLBERG ET AL. 2007: Tema VG1 Norsk språk og litteratur. Lærebok og tekstsamling. Oslo: Samlaget.</p>
+</body></document>

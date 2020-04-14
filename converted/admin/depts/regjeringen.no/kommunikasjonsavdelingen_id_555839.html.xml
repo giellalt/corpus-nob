@@ -1,83 +1,53 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Dieđihanovttadat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Samferdselsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>114</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/sd/dep/organisasjon/avdelinger/kommunikasjonsavdelingen.html?id=555839</origFileName>
-    <parallel_text xml:lang="eng" location="communications-department_id_555839.html"/>
-    <parallel_text xml:lang="nno" location="kommunikasjonsavdelinga_id_555839.html"/>
-    <parallel_text xml:lang="sme" location="dieihanovttadat_id_555839.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kommunikasjonsavdelingen - regjeringen.no</p>
-    <p type="title">Ekspedisjonssjef Anne Marie Storli</p>
-    <p type="title">Pressekontakt</p>
-    <p>Kommunikasjonsavdelingen</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 83 22</p>
-    <p>Mobil:</p>
-    <p>917 33 650</p>
-    <p>Faks:</p>
-    <p>22 24 95 71</p>
-    <p type="title">Informasjonssjef Ivar Torvik</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 81 08</p>
-    <p>Mobil:</p>
-    <p>905 10 886</p>
-    <p>Faks:</p>
-    <p>22 24 95 71</p>
-    <p type="title">Seniorrådgiver Dag H. Nestegard</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 81 52</p>
-    <p>Mobil:</p>
-    <p>481 70 209</p>
-    <p>Faks:</p>
-    <p>22 24 95 71</p>
-    <p type="title">Seniorrådgiver Tor Midtbø</p>
-    <p type="title">Nettredaktør - Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 81 23</p>
-    <p>Mobil:</p>
-    <p>90 60 69 19</p>
-    <p>Faks:</p>
-    <p>22 24 95 71</p>
-    <p type="title">Seniorrådgiver Edvard Andersen</p>
-    <p type="title">Pressekontakt</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 83 79</p>
-    <p>Mobil:</p>
-    <p>905 11 667</p>
-    <p>Faks:</p>
-    <p>22 24 95 71</p>
-    <p type="title">Seniorrådgiver Ruth Lillegraven</p>
-    <p type="title">Taleskriver</p>
-    <p>E-post:</p>
-    <p>Telefon:</p>
-    <p>22 24 81 04</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Dieđihanovttadat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Samferdselsdepartementet" sex="unknown" born="" nationality=""/></author><year>2009</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>114</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/sd/dep/organisasjon/avdelinger/kommunikasjonsavdelingen.html?id=555839</origFileName><parallel_text xml:lang="eng" location="communications-department_id_555839.html"/><parallel_text xml:lang="nno" location="kommunikasjonsavdelinga_id_555839.html"/><parallel_text xml:lang="sme" location="dieihanovttadat_id_555839.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kommunikasjonsavdelingen - regjeringen.no</p>
+<p type="title">Ekspedisjonssjef Anne Marie Storli</p>
+<p type="title">Pressekontakt</p>
+<p>Kommunikasjonsavdelingen</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 83 22</p>
+<p>Mobil:</p>
+<p>917 33 650</p>
+<p>Faks:</p>
+<p>22 24 95 71</p>
+<p type="title">Informasjonssjef Ivar Torvik</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 81 08</p>
+<p>Mobil:</p>
+<p>905 10 886</p>
+<p>Faks:</p>
+<p>22 24 95 71</p>
+<p type="title">Seniorrådgiver Dag H. Nestegard</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 81 52</p>
+<p>Mobil:</p>
+<p>481 70 209</p>
+<p>Faks:</p>
+<p>22 24 95 71</p>
+<p type="title">Seniorrådgiver Tor Midtbø</p>
+<p type="title">Nettredaktør - Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 81 23</p>
+<p>Mobil:</p>
+<p>90 60 69 19</p>
+<p>Faks:</p>
+<p>22 24 95 71</p>
+<p type="title">Seniorrådgiver Edvard Andersen</p>
+<p type="title">Pressekontakt</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 83 79</p>
+<p>Mobil:</p>
+<p>905 11 667</p>
+<p>Faks:</p>
+<p>22 24 95 71</p>
+<p type="title">Seniorrådgiver Ruth Lillegraven</p>
+<p type="title">Taleskriver</p>
+<p>E-post:</p>
+<p>Telefon:</p>
+<p>22 24 81 04</p>
+</body></document>

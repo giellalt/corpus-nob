@@ -1,46 +1,17 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>94</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=151&amp;art_id=164</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=151_art_id=164.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=151_art_id=164.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=151_art_id=164.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Lavvo</p>
-    <p type="title">Fader vår</p>
-    <p>Fader vår, du som er i himmelen!</p>
-    <p>La ditt navn holdes hellig.</p>
-    <p>La ditt rike komme.</p>
-    <p>La din vilje skje på jorden som i himmelen.</p>
-    <p>Gi oss i dag vårt daglige brød.</p>
-    <p>Forlat oss vår skyld,</p>
-    <p>som vi òg forlater våre skyldnere.</p>
-    <p>Led oss ikke inn i fristelse,</p>
-    <p>men frels oss fra det onde.</p>
-    <p>For riket er ditt,</p>
-    <p>og makten og æren i evighet.</p>
-    <p>Amen.</p>
-    <p>Jesus lærte oss å be Fader vår, Det har sju bønner, og disse sju bønnene dekker alt vi behøver å be for.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>94</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=151&amp;art_id=164</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=151_art_id=164.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=151_art_id=164.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=151_art_id=164.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Lavvo</p>
+<p type="title">Fader vår</p>
+<p>Fader vår, du som er i himmelen!</p>
+<p>La ditt navn holdes hellig.</p>
+<p>La ditt rike komme.</p>
+<p>La din vilje skje på jorden som i himmelen.</p>
+<p>Gi oss i dag vårt daglige brød.</p>
+<p>Forlat oss vår skyld,</p>
+<p>som vi òg forlater våre skyldnere.</p>
+<p>Led oss ikke inn i fristelse,</p>
+<p>men frels oss fra det onde.</p>
+<p>For riket er ditt,</p>
+<p>og makten og æren i evighet.</p>
+<p>Amen.</p>
+<p>Jesus lærte oss å be Fader vår, Det har sju bønner, og disse sju bønnene dekker alt vi behøver å be for.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

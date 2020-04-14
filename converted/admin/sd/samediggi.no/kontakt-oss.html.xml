@@ -1,46 +1,14 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>194</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Samisk-bygningsvern/Kontakt-oss</origFileName>
-    <parallel_text xml:lang="sma" location="gaskesadth-mijjine.html"/>
-    <parallel_text xml:lang="sme" location="valdde-oktavuoda.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kontakt oss / Samisk bygningsvern / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
-    <p type="title">Kontakt oss</p>
-    <p>14. februar 2014</p>
-    <p>Eiere av freda bygninger har rett til råd om tiltak og vedlikehold og om utforming av søknader og saksbehandlingsrutiner. Sametinget vil også vurdere om planlagte tiltak vil kreve dispensasjon.</p>
-    <p>Søknad om endringer som ikke omfattes av plan- og bygningsloven, sendes direkte til Sametinget for behandling. Sametinget oversender sin innstilling til Riksantikvaren som fatter endelig vedtak om det gis dispensasjon til inngrep i freda byggverk eller ikke. Sametinget vil i vurdering og innstilling til Riksantikvaren gjøre en avveining mellom moderne samfunnsmessige krav på den ene siden, og kulturminneverdier på den andre siden. Et vedtak om dispensasjon kan inneholde krav om utførelsen og omfanget av endringene. Forvaltningen behandler hver enkelt dispensasjonssøknad for seg.</p>
-    <p>
-      <em type="bold">Kontaktinformasjon </em>
-    </p>
-    <p xml:lang="sme"><em type="bold">Postadresse </em>Sámediggi – Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka </p>
-    <p xml:lang="sme">Telefon/epost Telefon: +47 78 47 40 00 Telefaks: +47 78 47 40 90 samedigg@samediggi.no</p>
-    <p>
-      <em type="bold">Ansatte </em>
-    </p>
-    <p><em type="bold">Seniorrådgiver Randi Sjølie </em>, fagansvarlig for bygningsvern Telefon: 78 47 40 18 randi.sjolie@samediggi.no </p>
-    <p>Fagansvarlig for registrering av samiske bygninger:</p>
-    <p><em type="bold">Mia De Coninck </em>,prosjektleder, Telefon: 78 47 40 23 mia.de.coninck@samediggi.no </p>
-    <p xml:lang="sme"><em type="bold">Elin Kristina Jåma </em>, prosjektmedarbeider Telefon: 78 47 40 34 elin.kristina.jama@samediggi.no </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>194</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Samisk-bygningsvern/Kontakt-oss</origFileName><parallel_text xml:lang="sma" location="gaskesadth-mijjine.html"/><parallel_text xml:lang="sme" location="valdde-oktavuoda.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kontakt oss / Samisk bygningsvern / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
+<p type="title">Kontakt oss</p>
+<p>14. februar 2014</p>
+<p>Eiere av freda bygninger har rett til råd om tiltak og vedlikehold og om utforming av søknader og saksbehandlingsrutiner. Sametinget vil også vurdere om planlagte tiltak vil kreve dispensasjon.</p>
+<p>Søknad om endringer som ikke omfattes av plan- og bygningsloven, sendes direkte til Sametinget for behandling. Sametinget oversender sin innstilling til Riksantikvaren som fatter endelig vedtak om det gis dispensasjon til inngrep i freda byggverk eller ikke. Sametinget vil i vurdering og innstilling til Riksantikvaren gjøre en avveining mellom moderne samfunnsmessige krav på den ene siden, og kulturminneverdier på den andre siden. Et vedtak om dispensasjon kan inneholde krav om utførelsen og omfanget av endringene. Forvaltningen behandler hver enkelt dispensasjonssøknad for seg.</p>
+<p><em type="bold">Kontaktinformasjon </em></p>
+<p xml:lang="sme"><em type="bold">Postadresse </em>Sámediggi – Sametinget Ávjovárgeaidnu 50 9730 Karasjok/Kárášjohka </p>
+<p xml:lang="sme">Telefon/epost Telefon: +47 78 47 40 00 Telefaks: +47 78 47 40 90 samedigg@samediggi.no</p>
+<p><em type="bold">Ansatte </em></p>
+<p><em type="bold">Seniorrådgiver Randi Sjølie </em>, fagansvarlig for bygningsvern Telefon: 78 47 40 18 randi.sjolie@samediggi.no </p>
+<p>Fagansvarlig for registrering av samiske bygninger:</p>
+<p><em type="bold">Mia De Coninck </em>,prosjektleder, Telefon: 78 47 40 23 mia.de.coninck@samediggi.no </p>
+<p xml:lang="sme"><em type="bold">Elin Kristina Jåma </em>, prosjektmedarbeider Telefon: 78 47 40 34 elin.kristina.jama@samediggi.no </p>
+</body></document>

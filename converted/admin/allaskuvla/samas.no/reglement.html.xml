@@ -1,33 +1,9 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Reglement | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>35</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/studenter/reglement</origFileName>
-    <parallel_text xml:lang="sme" location="njuolggadusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="eng">Reglement</p>
-    <list>
-      <p type="listitem">Lov om universiteter og høyskoler</p>
-      <p type="listitem">Forskrift om opptak til høyere utdanning</p>
-      <p type="listitem" xml:lang="eng">IT-reglement</p>
-      <p type="listitem">Forskrift om eksamen og sluttvurdering ved Samisk høgskole</p>
-      <p type="listitem">Valgreglement for Samisk høgskole</p>
-      <p type="listitem">Opptaksreglement ved Samisk høgskole</p>
-      <p type="listitem">Regler for eksamensavvikling ved Samisk høgskole</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Reglement | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>35</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/studenter/reglement</origFileName><parallel_text xml:lang="sme" location="njuolggadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="eng">Reglement</p>
+<list><p type="listitem">Lov om universiteter og høyskoler</p>
+<p type="listitem">Forskrift om opptak til høyere utdanning</p>
+<p type="listitem" xml:lang="eng">IT-reglement</p>
+<p type="listitem">Forskrift om eksamen og sluttvurdering ved Samisk høgskole</p>
+<p type="listitem">Valgreglement for Samisk høgskole</p>
+<p type="listitem">Opptaksreglement ved Samisk høgskole</p>
+<p type="listitem">Regler for eksamensavvikling ved Samisk høgskole</p>
+</list></body></document>

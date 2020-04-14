@@ -1,53 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>195</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres</origFileName>
-    <parallel_text xml:lang="sma" location="orre-digitaale-baakoegaerja-olkese-baaata.html"/>
-    <parallel_text xml:lang="sme" location="odda-digitala-satnegirji-almmuhuvvo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ny digital ordbok lanseres / Fakta om samiske språk / Språk / Forsiden - Sametinget</p>
-    <p type="title">Ny digital ordbok lanseres</p>
-    <p>06. februar 2014</p>
-    <p>Sametinget sammen med Divvun og Sámi Giellatekno ved Universitetet i Tromsø lanserer ny digital ordbok Sátni – báhko – baakoe. Ordboken er arvtageren til risten.no.</p>
-    <p>Ordboken inneholder både allmenne ord og fagterminologi. I forhold til risten.no inneholder den nye ordboken flere ord. Søket er også blitt enklere. Brukere kan søke på alle de samiske språkene samt på norsk.</p>
-    <p>
-      <em type="bold">-Med denne digitale ordboken, som er til fri bruk for alle, håper jeg at flere vil bruke samisk både skriftlig og muntlig, sier sametingspresident Aili Keskitalo. Det vil kontinuerlig bli lagt til flere ord og terminologi i den digitale ordboken, sier Keskitalo. </em>
-    </p>
-    <p>
-      <em type="bold">Nettadressen er: </em>
-    </p>
-    <p xml:lang="sme">sátni.org</p>
-    <p xml:lang="sme">satni.org</p>
-    <p xml:lang="sme">báhko.org</p>
-    <p xml:lang="sme">bahko.org</p>
-    <p xml:lang="sme">baakoe.org</p>
-    <p>Prosjektleder i Divvun Sjur Nørstebø Moshagen sier at de ønsker tilbakemeldinger fra publikum, slik at de kan forbedre og utvikle ordboken.</p>
-    <p>Tilbakemeldinger kan sendes til feedback@divvun.no , og bidrag til ny terminologi kan man gi på nettstedet http://gtsvn.uit.no/termwiki/</p>
-    <p>For andre spørsmål kontakt Divvun på feedback@divvun.no , eller ring prosjektleder Sjur Nørstebø Moshagen på tlf. +358-505 634 319.</p>
-    <p>
-      <em type="bold">Les mer om Sámi giellatekno og Divvun: </em>
-    </p>
-    <p xml:lang="sme">http://giellatekno.uit.no/</p>
-    <p xml:lang="sme">http://divvun.no/</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>195</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Spraak/Fakta-om-samiske-spraak/Ny-digital-ordbok-lanseres</origFileName><parallel_text xml:lang="sma" location="orre-digitaale-baakoegaerja-olkese-baaata.html"/><parallel_text xml:lang="sme" location="odda-digitala-satnegirji-almmuhuvvo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ny digital ordbok lanseres / Fakta om samiske språk / Språk / Forsiden - Sametinget</p>
+<p type="title">Ny digital ordbok lanseres</p>
+<p>06. februar 2014</p>
+<p>Sametinget sammen med Divvun og Sámi Giellatekno ved Universitetet i Tromsø lanserer ny digital ordbok Sátni – báhko – baakoe. Ordboken er arvtageren til risten.no.</p>
+<p>Ordboken inneholder både allmenne ord og fagterminologi. I forhold til risten.no inneholder den nye ordboken flere ord. Søket er også blitt enklere. Brukere kan søke på alle de samiske språkene samt på norsk.</p>
+<p><em type="bold">-Med denne digitale ordboken, som er til fri bruk for alle, håper jeg at flere vil bruke samisk både skriftlig og muntlig, sier sametingspresident Aili Keskitalo. Det vil kontinuerlig bli lagt til flere ord og terminologi i den digitale ordboken, sier Keskitalo. </em></p>
+<p><em type="bold">Nettadressen er: </em></p>
+<p xml:lang="sme">sátni.org</p>
+<p xml:lang="sme">satni.org</p>
+<p xml:lang="sme">báhko.org</p>
+<p xml:lang="sme">bahko.org</p>
+<p xml:lang="sme">baakoe.org</p>
+<p>Prosjektleder i Divvun Sjur Nørstebø Moshagen sier at de ønsker tilbakemeldinger fra publikum, slik at de kan forbedre og utvikle ordboken.</p>
+<p>Tilbakemeldinger kan sendes til feedback@divvun.no , og bidrag til ny terminologi kan man gi på nettstedet http://gtsvn.uit.no/termwiki/</p>
+<p>For andre spørsmål kontakt Divvun på feedback@divvun.no , eller ring prosjektleder Sjur Nørstebø Moshagen på tlf. +358-505 634 319.</p>
+<p><em type="bold">Les mer om Sámi giellatekno og Divvun: </em></p>
+<p xml:lang="sme">http://giellatekno.uit.no/</p>
+<p xml:lang="sme">http://divvun.no/</p>
+</body></document>

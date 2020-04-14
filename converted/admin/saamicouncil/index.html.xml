@@ -1,149 +1,92 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> Samerådet - Stadgar</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1473</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.saamicouncil.net/no/dokument/stadgar/</origFileName>
-    <parallel_text xml:lang="eng" location="index_6.html"/>
-    <parallel_text xml:lang="sme" location="index_15.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="kal">Finnish</p><p type="listitem" xml:lang="eng">Norwegian</p><p type="listitem" xml:lang="eng">Russian</p></list></p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="isl">Hem</p>
-      <p type="listitem" xml:lang="deu">Dokument</p>
-      <p type="listitem" xml:lang="isl">Stadgar</p>
-    </list>
-    <p xml:lang="swe">Deklarationer</p>
-    <p xml:lang="eng">Resolutioner</p>
-    <p xml:lang="isl">Stadgar</p>
-    <p xml:lang="swe">Samerådets protokoll och beslut</p>
-    <p xml:lang="swe">Andra dokument</p>
-    <p type="title" xml:lang="swe">Samerådets stadgar</p>
-    <p xml:lang="swe">Stadgarna har godkänts på den 19:e Samekonferensen i Rovaniemi, 29-31.10.2008.</p>
-    <p xml:lang="deu">
-      <em type="bold">1 § </em>
-      <em type="bold">SAMERÅDET </em>
-    </p>
-    <p>Samerådet er en frivillig og uavhengig kulturpolitisk og politisk samarbeidsorganisasjon for samiske hovedorganisasjoner i Finland, Norge, Russland og Sverige. Samerådet er en regjeringsuavhengig privatorganisasjon (non-governmental organization).</p>
-    <p xml:lang="vep">
-      <em type="bold">2 § </em>
-      <em type="bold">MÅLSETTING </em>
-    </p>
-    <p>Samerådets overordnede målsetning er å ivareta samenes interesser som ett folk, styrke samenes samhørighet over landegrensene som ett folk og urfolk, og arbeide for at samene også i framtiden erkjennes som ett folk og urfolk, hvis kulturelle, politiske, økonomiske, sivile, sosiale og åndelige rettigheter skal sikres gjennom hvert enkelt lands lovgivning, avtaler mellom de berørte stater og samenes representative organ, og folkerettslige avtaler for øvrig. Samerådet arbeider også internasjonalt med å fremme og sikre samenes og andre urfolks interesser og rettigheter.</p>
-    <p xml:lang="deu">
-      <em type="bold">3 § </em>
-      <em type="bold">SAMERÅDETS SAMMENSETNING </em>
-    </p>
-    <p>Samerådet sammensettes av femten (15) medlemmer hvorav fem (5) er fra norsk side, fire (4) fra svensk side, fire (4) fra finsk side og to (2) fra russisk side.</p>
-    <p>Rådsmedlemmene med personlige varamedlemmer utnevnes av Samekonferansen på grunnlag av forslag fra medlemsorganisasjonenes delegasjoner til konferansen.</p>
-    <p>Dersom et rådsmedlem under pågående mandattid opphører å være medlem, eller ikke lenger kan ivareta sine verv som følge av dødsfall, langvarig sykdom eller andre personlige forhold, velger rådet et nytt medlem etter forslag fra den aktuelle organisasjonen.</p>
-    <p>Et rådsmedlem opphører å være medlem av Samerådet dersom:</p>
-    <p>a) dets organisasjon opphører å være medlem av rådet som følge av at organisasjonen oppløses eller taper medlemskapet i rådet i henhold til § 9,</p>
-    <p>b) rådsmedlemmet selv sier opp sitt medlemskap i rådet,</p>
-    <p>c) rådsmedlemmet selv sier opp sitt medlemskap i egen organisasjon,</p>
-    <p>d) rådsmedlemmet blir ekskludert fra egen organisasjon,</p>
-    <p>e) rådsmedlemmet på annen måte fratrer eller må fratre som medlem av egen organisasjon.</p>
-    <p xml:lang="vep">
-      <em type="bold">4 § SAMERÅDETS LEDER </em>
-    </p>
-    <p>Samerådet velger selv sin leder blant arbeidsutvalgets medlemmer. Leder velges for en periode på to (2) år. Sitteperiode for leder kan forlenges med opp til to år, saken må avgjöres ved avstemming. De øvrige medlemmene i arbeidsutvalget er rådets varaledere.</p>
-    <p>Dersom leder opphører å være medlem i Samerådet, eller ikke lenger kan ivareta sine forpliktelser på grunn av dødsfall, langvarig sykdom eller andre personlige forhold, velger Samerådet selv ny leder for den resterende mandatperioden blant rådets varaledere. Samerådet velger en varaleder blant rådsmedlemmene fra det landet som etter dette verken har leder eller varaleder i rådet.</p>
-    <p>På samme måte som øvrige rådsmedlemmer, opphører Samerådets leder å være medlem av Samerådet dersom:</p>
-    <p>a) hans/hennes organisasjon opphører å være medlem av rådet som følge av at organisasjonen oppløses eller taper medlemskapet i rådet i henhold til § 9,</p>
-    <p>b) han/hun selv sier opp sitt medlemskap i rådet,</p>
-    <p>c) han/hun selv sier opp sitt medlemskap i egen organisasjon,</p>
-    <p>d) han/hun blir ekskludert fra egen organisasjon,</p>
-    <p>e) han/hun på annen måte fratrer eller må fratre som medlem av egen organisasjon.</p>
-    <p xml:lang="sme">
-      <em type="bold">5 § SAMERÅDETS MANDATPERIODE OG VEDTAK </em>
-    </p>
-    <p>Mandatperioden for Samerådets medlemmer begynner og slutter i samsvar med Samekonferansens beslutning. Samerådet konstituerer seg selv snarest mulig etter at det er utnevnt av Samekonferansen.</p>
-    <p>Rådet bør søke å oppnå konsensus i saker som det behandler. Dersom enighet ikke oppnås skal beslutning tas ved stemmegivning. Hvert rådsmedlem har en stemme. Rådet er beslutningsdyktig når mer enn halvparten av medlemmene er tilstedeværende.</p>
-    <p>Vedtak i rådet fattes med enkelt flertall. Hvis utfallet ved en avstemning blir stemmelikhet, avgjøres saken av lederen gjennom dobbelstemme. Stemmelikhet ved personvalg avgjøres med loddtrekking.</p>
-    <p>Samerådet vedtar egen arbeidsordning, samt retningslinjer for egne økonomiske forpliktelser.</p>
-    <p xml:lang="deu">
-      <em type="bold">6 § SAMERÅDETS ORGAN </em>
-    </p>
-    <p>Samerådets faste organ er arbeidsutvalget og kulturutvalget.</p>
-    <p>Utover disse faste organ kan Samerådet oppnevne arbeidsgrupper, utvalg og ad hoc komiteer etter behov. Samerådet kan også ha landsseksjoner dersom dette er formålstjenelig; finsk, norsk, russisk og svensk seksjon.</p>
-    <p xml:lang="deu">
-      <em type="bold">7 § SAMERÅDETS ARBEIDSUTVALG </em>
-    </p>
-    <p>Samerådet skal ha et arbeidsutvalg. Rådets leder og varaledere danner Samerådets arbeidsutvalg.</p>
-    <p>Arbeidsutvalget skal gjennomføre oppgaver som det er tillagt av Samerådet. Arbeidsutvalget skal ivareta Samerådets oppgaver og fellesærender mellom rådsmøtene.</p>
-    <p>Arbeidsutvalget skal søke å oppnå konsensus i saker som det behandler. Dersom enighet ikke oppnås skal saken oversendes rådet for endelig beslutning.</p>
-    <p xml:lang="nno">
-      <em type="bold">8 § INNVILGELSE AV MEDLEMSKAP I SAMERÅDET </em>
-    </p>
-    <p>Samerådet avgjør hvorvidt nye organisasjoner som har søkt om medlemskap i Samerådet, skal foreslås inntatt som medlemmer i rådet. Samekonferansen fatter endelig beslutning om medlemskap for nye organisasjoner på grunnlag av Samerådets saksbehandling.</p>
-    <p xml:lang="nno">
-      <em type="bold">9 § OPPHØR OG TAP AV MEDLEMSKAP I SAMERÅDET </em>
-    </p>
-    <p>Medlemskap i Samerådet opphører dersom medlemsorganisasjonen selv fratrer som medlemsorganisasjon i Samerådet, eller medlemsorganisasjonen oppløses.</p>
-    <p>Medlemskap i Samerådet tapes umiddelbart etter Samerådets vedtak dersom:</p>
-    <p>1) medlemsorganisasjonen beslutter at den ikke lenger kan godta Samerådets vedtekter, samepolitiske målsetninger, politiske programmer og virksomhet;</p>
-    <p>2) medlemsorganisasjonen i dens praktiske politikk eller politiske virksomhet handler og uttaler seg i mot Samerådets politiske målsettinger eller programmer;</p>
-    <p>3) medlemsorganisasjonens struktur eller målsetning endres slik at disse ikke lenger er i samsvar og harmoni med Samerådets vedtekter, målsettinger og politiske målsetninger. Samerådets vedtak om inndragelse av medlemskap kan ankes til Samekonferansen for endelig beslutning. Samerådets vedtak om inndragelse av medlemskap gjelder inntil Samekonferansen har fattet endelig beslutning i saken.</p>
-    <p xml:lang="deu">
-      <em type="bold">10 § RÅDSMØTER </em>
-    </p>
-    <p>Samerådet trer sammen minst en gang per år ved tid og sted som rådet selv bestemmer. Dersom rådet selv ikke har bestemt tid og sted for sitt møte, tas denne avgjørelse av arbeidsutvalget.</p>
-    <p>Samerådets leder innkaller til møte i Samerådet minst en måned før fastsatt møtetid. Rådet kan innkalles på kortere varsel for behandling av hastesaker.</p>
-    <p>Med innkallelsen skal medfølge saksliste opprettet av Samerådets arbeidsutvalg.. Endelig saksliste fastsettes av Samerådet ved møtets begynnelse. Rådsmøtene ledes av Samerådets leder. Dersom rådets leder er forhindret fra å møte skal rådsmøtet ledes av den varaleder som velges av Samerådet som møteleder. Ved rådsmøter skal det føres protokoll som sendes til rådsleder, varaledere, øvrige rådsmedlemmer, eventuelle utvalg, medlemsorganisasjonene og de samiske folkevalgte organ. Rådets møteprotokoller skal før utsending justeres og godkjennes av de personer som rådsmøtet har pålagt dette ansvaret.</p>
-    <p xml:lang="sme">
-      <em type="bold">11 § SEKRETARIAT OG GENERALSEKRETÆR </em>
-    </p>
-    <p>Samerådet skal ha et sekretariat som ledes av en generalsekretær. Rådet tilsetter generalsekretæren.</p>
-    <p xml:lang="deu">
-      <em type="bold">12 § SAMEKONFERANSEN </em>
-    </p>
-    <p>Samekonferansen avholdes hvert fjerde år. Samerådet er ansvarlig for forberedelse og gjennomføring av konferansen. Innkalling skal sendes ut senest to (2) måneder før avholdelsen av konferansen. Utover dette kan Samerådet sammenkalle til ekstraordinær Samekonferanse. Innkalling til ekstraordinær Samekonferanse skal sendes ut minst en (1) måned før avholdelsen av konferansen. Innkallelsen skal inneholde informasjon om begrunnelsen for avholdelsen av ekstraordinær samekonferanse og saksliste.</p>
-    <p>De beslutningsføre delegasjonene ved Samekonferansen utgjøres av representanter fra Samerådets medlemsorganisasjoner i Finland, Norge, Russland og Sverige. Delegasjonene sammensettes med 18 delegater fra hvert land.</p>
-    <p>Delegatene til Samekonferansen har rett til å behandle alle ærender og stemme over alle spørsmål som framføres ved Samekonferansen. Hver delegat har en stemme.</p>
-    <p xml:lang="swe">Samekonferansen er beslutningsdyktig når en majoritet på minst tre (3) delegasjoner er tilstedeværende.</p>
-    <p>Ordinære Samekonferanser skal:</p>
-    <p>a) velge konferanseordfører og sekretær;</p>
-    <p xml:lang="dan">b) beslutte hvordan konferanseprotokollen skal justeres;</p>
-    <p>c) behandle Samerådets og dets organers virksomhetsberetninger og rådets revisjonsberetning;</p>
-    <p>d) utse medlemmer til Samerådet</p>
-    <p>e) behandle de ærender som er meddelt delegasjonene en måned før konferansen og ærender som majoriteten i hver delegasjon godtar til behandling.</p>
-    <p>Samekonferansen kan dessuten etter egen beslutning behandle andre ærender, til hvilke man ikke tar endelig beslutning.</p>
-    <p>Ekstraordinær Samekonferanse behandler kun saker som er uttrykkelig nevnt i innkallingen.</p>
-    <p xml:lang="vep">
-      <em type="bold">13 § SAMERÅDETS KULTURUTVALG </em>
-    </p>
-    <p>Samerådets kulturutvalg har ansvaret for støtteordninger til samisk kulturliv som kanaliseres gjennom Samerådet i samsvar med særskilt beslutnings- og arbeidsordning vedtatt av Samerådet. Kulturutvalget kan også av Samerådet eller arbeidsutvalget pålegges oppgaver med å forberede og/eller arrangere kulturrelaterte arrangementer.</p>
-    <p>Samerådets kulturutvalg utnevnes av Samerådet. Utvalget skal ha 5 medlemmer. Ett medlem fra hvert land og det femte medlem skal være fra Samerådet. Mandatperioden for medlemmer og varamedlemmer er to (2) år med skifte ved kalenderårets skifte. Kulturutvalgets leder utnevnes av Samerådet.</p>
-    <p>Samiske kunstner- og kulturorganisasjonene foreslår selv sine representanter. Plassene fra kunstner- og kulturorganisasjonene bør alternere mellom organisasjonene for på sikt å oppnå en bredest mulig representasjon innen de ulike kunst- og kulturaktiviteter. Avgår et medlem eller et varamedlem i mandatperioden, foreslår deres organisasjon en ny person for resten av perioden.</p>
-    <p xml:lang="nno">
-      <em type="bold">14 § ENDRING AV VEDTEKTENE </em>
-    </p>
-    <p>Ved endring av disse vedtekter gjelder følgende:</p>
-    <p>a) Etter beslutning av den ordinære Samekonferansen med støtte fra flertallet i hvert lands delegasjon og minst to tredjedeler (2/3) av samtlige nærværende konferansedelegater, eller</p>
-    <p>b) Etter beslutning av to på hverandre følgende ordinære samekonferanser understøttet av flertallet i alle delegasjonene under begge konferansene.</p>
-    <p xml:lang="nno">
-      <em type="bold">15 § OPPLØSNING AV SAMERÅDET </em>
-    </p>
-    <p>Samerådet kan oppløses etter vedtak om oppløsning i to på hverandre følgende ordinære samekonferanser med to tredjedels (2/3) stemmeflertall på begge konferansene og hvor et flertall i hver delegasjon har gitt sin støtte til oppløsning.</p>
-    <p xml:lang="vep">
-      <em type="bold">16 § VEDTEKTENES IKRAFTTREDELSE </em>
-    </p>
-    <p>Vedtektene er utformet og vedtatt på finsk, norsk, russisk, samisk og svensk. Alle språkversjoner er likelydende og har samme gyldighet.</p>
-    <p>Vedtektene trer i kraft når disse er godkjent av Samekonferansen.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title> Samerådet - Stadgar</title><genre code="admin"/><author><unknown/></author><wordcount>1473</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.saamicouncil.net/no/dokument/stadgar/</origFileName><parallel_text xml:lang="eng" location="index_6.html"/><parallel_text xml:lang="sme" location="index_15.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p>
+<p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="kal">Finnish</p>
+<p type="listitem" xml:lang="eng">Norwegian</p>
+<p type="listitem" xml:lang="eng">Russian</p>
+</list></p>
+</list><list><p type="listitem" xml:lang="isl">Hem</p>
+<p type="listitem" xml:lang="deu">Dokument</p>
+<p type="listitem" xml:lang="isl">Stadgar</p>
+</list><p xml:lang="swe">Deklarationer</p>
+<p xml:lang="eng">Resolutioner</p>
+<p xml:lang="isl">Stadgar</p>
+<p xml:lang="swe">Samerådets protokoll och beslut</p>
+<p xml:lang="swe">Andra dokument</p>
+<p type="title" xml:lang="swe">Samerådets stadgar</p>
+<p xml:lang="swe">Stadgarna har godkänts på den 19:e Samekonferensen i Rovaniemi, 29-31.10.2008.</p>
+<p xml:lang="deu"><em type="bold">1 § </em><em type="bold">SAMERÅDET </em></p>
+<p>Samerådet er en frivillig og uavhengig kulturpolitisk og politisk samarbeidsorganisasjon for samiske hovedorganisasjoner i Finland, Norge, Russland og Sverige. Samerådet er en regjeringsuavhengig privatorganisasjon (non-governmental organization).</p>
+<p xml:lang="vep"><em type="bold">2 § </em><em type="bold">MÅLSETTING </em></p>
+<p>Samerådets overordnede målsetning er å ivareta samenes interesser som ett folk, styrke samenes samhørighet over landegrensene som ett folk og urfolk, og arbeide for at samene også i framtiden erkjennes som ett folk og urfolk, hvis kulturelle, politiske, økonomiske, sivile, sosiale og åndelige rettigheter skal sikres gjennom hvert enkelt lands lovgivning, avtaler mellom de berørte stater og samenes representative organ, og folkerettslige avtaler for øvrig. Samerådet arbeider også internasjonalt med å fremme og sikre samenes og andre urfolks interesser og rettigheter.</p>
+<p xml:lang="deu"><em type="bold">3 § </em><em type="bold">SAMERÅDETS SAMMENSETNING </em></p>
+<p>Samerådet sammensettes av femten (15) medlemmer hvorav fem (5) er fra norsk side, fire (4) fra svensk side, fire (4) fra finsk side og to (2) fra russisk side.</p>
+<p>Rådsmedlemmene med personlige varamedlemmer utnevnes av Samekonferansen på grunnlag av forslag fra medlemsorganisasjonenes delegasjoner til konferansen.</p>
+<p>Dersom et rådsmedlem under pågående mandattid opphører å være medlem, eller ikke lenger kan ivareta sine verv som følge av dødsfall, langvarig sykdom eller andre personlige forhold, velger rådet et nytt medlem etter forslag fra den aktuelle organisasjonen.</p>
+<p>Et rådsmedlem opphører å være medlem av Samerådet dersom:</p>
+<p>a) dets organisasjon opphører å være medlem av rådet som følge av at organisasjonen oppløses eller taper medlemskapet i rådet i henhold til § 9,</p>
+<p>b) rådsmedlemmet selv sier opp sitt medlemskap i rådet,</p>
+<p>c) rådsmedlemmet selv sier opp sitt medlemskap i egen organisasjon,</p>
+<p>d) rådsmedlemmet blir ekskludert fra egen organisasjon,</p>
+<p>e) rådsmedlemmet på annen måte fratrer eller må fratre som medlem av egen organisasjon.</p>
+<p xml:lang="vep"><em type="bold">4 § SAMERÅDETS LEDER </em></p>
+<p>Samerådet velger selv sin leder blant arbeidsutvalgets medlemmer. Leder velges for en periode på to (2) år. Sitteperiode for leder kan forlenges med opp til to år, saken må avgjöres ved avstemming. De øvrige medlemmene i arbeidsutvalget er rådets varaledere.</p>
+<p>Dersom leder opphører å være medlem i Samerådet, eller ikke lenger kan ivareta sine forpliktelser på grunn av dødsfall, langvarig sykdom eller andre personlige forhold, velger Samerådet selv ny leder for den resterende mandatperioden blant rådets varaledere. Samerådet velger en varaleder blant rådsmedlemmene fra det landet som etter dette verken har leder eller varaleder i rådet.</p>
+<p>På samme måte som øvrige rådsmedlemmer, opphører Samerådets leder å være medlem av Samerådet dersom:</p>
+<p>a) hans/hennes organisasjon opphører å være medlem av rådet som følge av at organisasjonen oppløses eller taper medlemskapet i rådet i henhold til § 9,</p>
+<p>b) han/hun selv sier opp sitt medlemskap i rådet,</p>
+<p>c) han/hun selv sier opp sitt medlemskap i egen organisasjon,</p>
+<p>d) han/hun blir ekskludert fra egen organisasjon,</p>
+<p>e) han/hun på annen måte fratrer eller må fratre som medlem av egen organisasjon.</p>
+<p xml:lang="sme"><em type="bold">5 § SAMERÅDETS MANDATPERIODE OG VEDTAK </em></p>
+<p>Mandatperioden for Samerådets medlemmer begynner og slutter i samsvar med Samekonferansens beslutning. Samerådet konstituerer seg selv snarest mulig etter at det er utnevnt av Samekonferansen.</p>
+<p>Rådet bør søke å oppnå konsensus i saker som det behandler. Dersom enighet ikke oppnås skal beslutning tas ved stemmegivning. Hvert rådsmedlem har en stemme. Rådet er beslutningsdyktig når mer enn halvparten av medlemmene er tilstedeværende.</p>
+<p>Vedtak i rådet fattes med enkelt flertall. Hvis utfallet ved en avstemning blir stemmelikhet, avgjøres saken av lederen gjennom dobbelstemme. Stemmelikhet ved personvalg avgjøres med loddtrekking.</p>
+<p>Samerådet vedtar egen arbeidsordning, samt retningslinjer for egne økonomiske forpliktelser.</p>
+<p xml:lang="vep"><em type="bold">6 § SAMERÅDETS ORGAN </em></p>
+<p>Samerådets faste organ er arbeidsutvalget og kulturutvalget.</p>
+<p>Utover disse faste organ kan Samerådet oppnevne arbeidsgrupper, utvalg og ad hoc komiteer etter behov. Samerådet kan også ha landsseksjoner dersom dette er formålstjenelig; finsk, norsk, russisk og svensk seksjon.</p>
+<p xml:lang="deu"><em type="bold">7 § SAMERÅDETS ARBEIDSUTVALG </em></p>
+<p>Samerådet skal ha et arbeidsutvalg. Rådets leder og varaledere danner Samerådets arbeidsutvalg.</p>
+<p>Arbeidsutvalget skal gjennomføre oppgaver som det er tillagt av Samerådet. Arbeidsutvalget skal ivareta Samerådets oppgaver og fellesærender mellom rådsmøtene.</p>
+<p>Arbeidsutvalget skal søke å oppnå konsensus i saker som det behandler. Dersom enighet ikke oppnås skal saken oversendes rådet for endelig beslutning.</p>
+<p xml:lang="nno"><em type="bold">8 § INNVILGELSE AV MEDLEMSKAP I SAMERÅDET </em></p>
+<p>Samerådet avgjør hvorvidt nye organisasjoner som har søkt om medlemskap i Samerådet, skal foreslås inntatt som medlemmer i rådet. Samekonferansen fatter endelig beslutning om medlemskap for nye organisasjoner på grunnlag av Samerådets saksbehandling.</p>
+<p xml:lang="nno"><em type="bold">9 § OPPHØR OG TAP AV MEDLEMSKAP I SAMERÅDET </em></p>
+<p>Medlemskap i Samerådet opphører dersom medlemsorganisasjonen selv fratrer som medlemsorganisasjon i Samerådet, eller medlemsorganisasjonen oppløses.</p>
+<p>Medlemskap i Samerådet tapes umiddelbart etter Samerådets vedtak dersom:</p>
+<p>1) medlemsorganisasjonen beslutter at den ikke lenger kan godta Samerådets vedtekter, samepolitiske målsetninger, politiske programmer og virksomhet;</p>
+<p>2) medlemsorganisasjonen i dens praktiske politikk eller politiske virksomhet handler og uttaler seg i mot Samerådets politiske målsettinger eller programmer;</p>
+<p>3) medlemsorganisasjonens struktur eller målsetning endres slik at disse ikke lenger er i samsvar og harmoni med Samerådets vedtekter, målsettinger og politiske målsetninger. Samerådets vedtak om inndragelse av medlemskap kan ankes til Samekonferansen for endelig beslutning. Samerådets vedtak om inndragelse av medlemskap gjelder inntil Samekonferansen har fattet endelig beslutning i saken.</p>
+<p xml:lang="deu"><em type="bold">10 § RÅDSMØTER </em></p>
+<p>Samerådet trer sammen minst en gang per år ved tid og sted som rådet selv bestemmer. Dersom rådet selv ikke har bestemt tid og sted for sitt møte, tas denne avgjørelse av arbeidsutvalget.</p>
+<p>Samerådets leder innkaller til møte i Samerådet minst en måned før fastsatt møtetid. Rådet kan innkalles på kortere varsel for behandling av hastesaker.</p>
+<p>Med innkallelsen skal medfølge saksliste opprettet av Samerådets arbeidsutvalg.. Endelig saksliste fastsettes av Samerådet ved møtets begynnelse. Rådsmøtene ledes av Samerådets leder. Dersom rådets leder er forhindret fra å møte skal rådsmøtet ledes av den varaleder som velges av Samerådet som møteleder. Ved rådsmøter skal det føres protokoll som sendes til rådsleder, varaledere, øvrige rådsmedlemmer, eventuelle utvalg, medlemsorganisasjonene og de samiske folkevalgte organ. Rådets møteprotokoller skal før utsending justeres og godkjennes av de personer som rådsmøtet har pålagt dette ansvaret.</p>
+<p xml:lang="sme"><em type="bold">11 § SEKRETARIAT OG GENERALSEKRETÆR </em></p>
+<p>Samerådet skal ha et sekretariat som ledes av en generalsekretær. Rådet tilsetter generalsekretæren.</p>
+<p xml:lang="deu"><em type="bold">12 § SAMEKONFERANSEN </em></p>
+<p>Samekonferansen avholdes hvert fjerde år. Samerådet er ansvarlig for forberedelse og gjennomføring av konferansen. Innkalling skal sendes ut senest to (2) måneder før avholdelsen av konferansen. Utover dette kan Samerådet sammenkalle til ekstraordinær Samekonferanse. Innkalling til ekstraordinær Samekonferanse skal sendes ut minst en (1) måned før avholdelsen av konferansen. Innkallelsen skal inneholde informasjon om begrunnelsen for avholdelsen av ekstraordinær samekonferanse og saksliste.</p>
+<p>De beslutningsføre delegasjonene ved Samekonferansen utgjøres av representanter fra Samerådets medlemsorganisasjoner i Finland, Norge, Russland og Sverige. Delegasjonene sammensettes med 18 delegater fra hvert land.</p>
+<p>Delegatene til Samekonferansen har rett til å behandle alle ærender og stemme over alle spørsmål som framføres ved Samekonferansen. Hver delegat har en stemme.</p>
+<p xml:lang="swe">Samekonferansen er beslutningsdyktig når en majoritet på minst tre (3) delegasjoner er tilstedeværende.</p>
+<p xml:lang="nno">Ordinære Samekonferanser skal:</p>
+<p>a) velge konferanseordfører og sekretær;</p>
+<p xml:lang="dan">b) beslutte hvordan konferanseprotokollen skal justeres;</p>
+<p>c) behandle Samerådets og dets organers virksomhetsberetninger og rådets revisjonsberetning;</p>
+<p>d) utse medlemmer til Samerådet</p>
+<p>e) behandle de ærender som er meddelt delegasjonene en måned før konferansen og ærender som majoriteten i hver delegasjon godtar til behandling.</p>
+<p>Samekonferansen kan dessuten etter egen beslutning behandle andre ærender, til hvilke man ikke tar endelig beslutning.</p>
+<p>Ekstraordinær Samekonferanse behandler kun saker som er uttrykkelig nevnt i innkallingen.</p>
+<p xml:lang="vep"><em type="bold">13 § SAMERÅDETS KULTURUTVALG </em></p>
+<p>Samerådets kulturutvalg har ansvaret for støtteordninger til samisk kulturliv som kanaliseres gjennom Samerådet i samsvar med særskilt beslutnings- og arbeidsordning vedtatt av Samerådet. Kulturutvalget kan også av Samerådet eller arbeidsutvalget pålegges oppgaver med å forberede og/eller arrangere kulturrelaterte arrangementer.</p>
+<p>Samerådets kulturutvalg utnevnes av Samerådet. Utvalget skal ha 5 medlemmer. Ett medlem fra hvert land og det femte medlem skal være fra Samerådet. Mandatperioden for medlemmer og varamedlemmer er to (2) år med skifte ved kalenderårets skifte. Kulturutvalgets leder utnevnes av Samerådet.</p>
+<p>Samiske kunstner- og kulturorganisasjonene foreslår selv sine representanter. Plassene fra kunstner- og kulturorganisasjonene bør alternere mellom organisasjonene for på sikt å oppnå en bredest mulig representasjon innen de ulike kunst- og kulturaktiviteter. Avgår et medlem eller et varamedlem i mandatperioden, foreslår deres organisasjon en ny person for resten av perioden.</p>
+<p xml:lang="nno"><em type="bold">14 § ENDRING AV VEDTEKTENE </em></p>
+<p>Ved endring av disse vedtekter gjelder følgende:</p>
+<p>a) Etter beslutning av den ordinære Samekonferansen med støtte fra flertallet i hvert lands delegasjon og minst to tredjedeler (2/3) av samtlige nærværende konferansedelegater, eller</p>
+<p>b) Etter beslutning av to på hverandre følgende ordinære samekonferanser understøttet av flertallet i alle delegasjonene under begge konferansene.</p>
+<p xml:lang="nno"><em type="bold">15 § OPPLØSNING AV SAMERÅDET </em></p>
+<p>Samerådet kan oppløses etter vedtak om oppløsning i to på hverandre følgende ordinære samekonferanser med to tredjedels (2/3) stemmeflertall på begge konferansene og hvor et flertall i hver delegasjon har gitt sin støtte til oppløsning.</p>
+<p xml:lang="vep"><em type="bold">16 § VEDTEKTENES IKRAFTTREDELSE </em></p>
+<p>Vedtektene er utformet og vedtatt på finsk, norsk, russisk, samisk og svensk. Alle språkversjoner er likelydende og har samme gyldighet.</p>
+<p>Vedtektene trer i kraft når disse er godkjent av Samekonferansen.</p>
+</body></document>

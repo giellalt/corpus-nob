@@ -1,86 +1,59 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>269</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Helse-omsorg-og-sosialtjenester/Folkehelse/</origFileName>
-    <parallel_text xml:lang="eng" location="index_24.html"/>
-    <parallel_text xml:lang="sma" location="index_24.html"/>
-    <parallel_text xml:lang="sme" location="index_24.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Folkehelse - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="dan">Miljø og klima</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <p xml:lang="dan">Folkehelse</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Fattigdomsbekjempelse</p>
-      <p type="listitem" xml:lang="dan">Folkehelse</p>
-      <p type="listitem" xml:lang="nno">Førerkort</p>
-      <p type="listitem" xml:lang="nno">Helse offshore</p>
-      <p type="listitem">Helsetjenester</p>
-      <p type="listitem" xml:lang="eng">Individuell plan</p>
-      <p type="listitem" xml:lang="deu">Krisesenter</p>
-      <p type="listitem">Kvalifiseringsprogrammet</p>
-      <p type="listitem">Omsorgstjenester</p>
-      <p type="listitem" xml:lang="nno">Psykisk helse og rus</p>
-      <p type="listitem">Samhandlingsreformen</p>
-      <p type="listitem" xml:lang="est">Turnustjeneste</p>
-      <p type="listitem">Tvang</p>
-      <p type="listitem">Universell utforming</p>
-      <p type="listitem">Vergemål  <list><p type="listitem">Klagerett</p><p type="listitem">Informasjon til deg som er verge</p><p type="listitem">Representant for enslig mindreårig asylsøker</p><p type="listitem">Trenger du verge?</p></list></p>
-      <p type="listitem" xml:lang="dan">Økonomisk sosialhjelp</p>
-    </list>
-    <p type="title" xml:lang="dan">Folkehelse</p>
-    <p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
-    <p>Folkehelsearbeidet er samfunnets felles innsats for å opprettholde, bedre og fremme folks helse, og dessuten redusere faktorer som kan medføre helserisiko. Folkehelse er også et uttrykk for helsetilstanden i befolkningen og hvordan helse fordeler seg mellom ulike sosiale lag i befolkningen. Folkehelsearbeidet skal også bidra til utjevning av sosiale helseforskjeller.</p>
-    <p type="title" xml:lang="nno">Folkehelse er viktig i samhandlingsreformen</p>
-    <p>Forebyggende og helsefremmende arbeid er viktig både i og utenfor helsesektoren. Med folkehelseloven har fylkeskommunene og kommunene fått hovedansvaret for det brede samfunnsrettede folkehelsearbeidet.</p>
-    <p type="title">Fylkesmannen skal sikre at folkehelsen ivaretas i planer</p>
-    <p>Fylkesmannen skal medvirke til å gjennomføre statlige satsinger på folkehelseområdet. Det brede folkehelsearbeidet skal sikre en bærekraftig samfunnsutvikling, og planlegging blir derfor et sentralt virkemiddel. Gjennom råd og veiledning til kommuner og andre aktører skal Fylkesmannen være med å sikre at folkehelse inngår i kommunale, regionale og statlige planer. Fylkesmannen skal bidra til forpliktende samhandling mellom aktørene.</p>
-    <p>Fylkesmannen kan føre tilsyn med at kommunene og fylkeskommunene oppfyller sine plikter på folkehelseområdet.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Folkehelseloven</p>
-      <p type="listitem" xml:lang="nno">Folkehelseinstituttet</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>269</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Helse-omsorg-og-sosialtjenester/Folkehelse/</origFileName><parallel_text xml:lang="eng" location="index_24.html"/><parallel_text xml:lang="sma" location="index_24.html"/><parallel_text xml:lang="sme" location="index_24.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Folkehelse - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="dan">Miljø og klima</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<p xml:lang="dan">Folkehelse</p>
+<list><p type="listitem" xml:lang="dan">Fattigdomsbekjempelse</p>
+<p type="listitem" xml:lang="dan">Folkehelse</p>
+<p type="listitem" xml:lang="nno">Førerkort</p>
+<p type="listitem" xml:lang="nno">Helse offshore</p>
+<p type="listitem">Helsetjenester</p>
+<p type="listitem" xml:lang="eng">Individuell plan</p>
+<p type="listitem" xml:lang="deu">Krisesenter</p>
+<p type="listitem">Kvalifiseringsprogrammet</p>
+<p type="listitem">Omsorgstjenester</p>
+<p type="listitem" xml:lang="nno">Psykisk helse og rus</p>
+<p type="listitem">Samhandlingsreformen</p>
+<p type="listitem" xml:lang="est">Turnustjeneste</p>
+<p type="listitem">Tvang</p>
+<p type="listitem">Universell utforming</p>
+<p type="listitem">Vergemål  <list><p type="listitem">Klagerett</p>
+<p type="listitem">Informasjon til deg som er verge</p>
+<p type="listitem">Representant for enslig mindreårig asylsøker</p>
+<p type="listitem">Trenger du verge?</p>
+</list></p>
+<p type="listitem" xml:lang="dan">Økonomisk sosialhjelp</p>
+</list><p type="title" xml:lang="dan">Folkehelse</p>
+<p xml:lang="nno">Publisert 22.09.2012 Oppdatert 05.04.2017</p>
+<p>Folkehelsearbeidet er samfunnets felles innsats for å opprettholde, bedre og fremme folks helse, og dessuten redusere faktorer som kan medføre helserisiko. Folkehelse er også et uttrykk for helsetilstanden i befolkningen og hvordan helse fordeler seg mellom ulike sosiale lag i befolkningen. Folkehelsearbeidet skal også bidra til utjevning av sosiale helseforskjeller.</p>
+<p type="title" xml:lang="nno">Folkehelse er viktig i samhandlingsreformen</p>
+<p>Forebyggende og helsefremmende arbeid er viktig både i og utenfor helsesektoren. Med folkehelseloven har fylkeskommunene og kommunene fått hovedansvaret for det brede samfunnsrettede folkehelsearbeidet.</p>
+<p type="title">Fylkesmannen skal sikre at folkehelsen ivaretas i planer</p>
+<p>Fylkesmannen skal medvirke til å gjennomføre statlige satsinger på folkehelseområdet. Det brede folkehelsearbeidet skal sikre en bærekraftig samfunnsutvikling, og planlegging blir derfor et sentralt virkemiddel. Gjennom råd og veiledning til kommuner og andre aktører skal Fylkesmannen være med å sikre at folkehelse inngår i kommunale, regionale og statlige planer. Fylkesmannen skal bidra til forpliktende samhandling mellom aktørene.</p>
+<p>Fylkesmannen kan føre tilsyn med at kommunene og fylkeskommunene oppfyller sine plikter på folkehelseområdet.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem" xml:lang="rmn">Folkehelseloven</p>
+<p type="listitem" xml:lang="nno">Folkehelseinstituttet</p>
+</list></body></document>

@@ -1,97 +1,66 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>NAV - Kontantstøtte - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>460</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Kontantstøtte</origFileName>
-    <parallel_text xml:lang="eng" location="805369180.html"/>
-    <parallel_text xml:lang="nno" location="1073749154.html"/>
-    <parallel_text xml:lang="sme" location="kontantstotte.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Kontantstøtte til småbarnsforeldre</p>
-    <p>Kan gis for barn mellom ett og tre år og for adoptivbarn som ikke har begynt på skolen. Støtten gis maksimalt i 23 måneder og barnet må ikke ha heltidsplass i barnehage med offentlig driftstilskudd.</p>
-    <p type="title">Hvem kan få kontantstøtte</p>
-    <p>Har du barn mellom ett og tre år som ikke bruker barnehage med offentlig driftstilskudd, kan du få full kontantstøtte. Har barnet deltidsplass i barnehage, kan du få delvis kontantstøtte.</p>
-    <p>For adopterte barn kan du få kontantstøtte i inntil 23 måneder etter at stønadsperioden for fulle adopsjonspenger er utløpt, selv om barnet har fylt eller fyller tre år i løpet av denne perioden, <em type="italic">forutsatt </em>at barnet ikke har begynt på skolen. </p>
-    <p>Det gis ikke kontantstøtte:</p>
-    <list>
-      <p type="listitem">for barn i fosterhjem eller institusjon etter lov om barneverntjenester.</p>
-      <p type="listitem">samtidig med fulle adopsjonspenger. I slike tilfeller gis støtten tidligst fra måneden etter at perioden for fulle adopsjonspenger utløper. Samme tidsbegrensning gjelder også hvis du i stedet for adopsjonspenger har fått engangsstønad ved adopsjon.</p>
-    </list>
-    <p>Barnet må som hovedregel være bosatt i Norge. Barnet regnes som hovedregel som bosatt dersom det skal oppholde seg i Norge i mer enn 12 måneder.</p>
-    <p>Kontantstøtte kan i enkelte tilfeller gis ved et midlertidig utenlandsopphold på opptil tre måneder.</p>
-    <p>Det kan også i enkelte tilfeller gis kontantstøtte for barn som er bosatt i et annet EØS-land dersom forsørgeren arbeider i Norge, på norsk skip eller på norsk kontinentalsokkel, eller mottar pensjon fra Norge på grunnlag av yrkesaktivitet eller er utsendt arbeidstaker fra Norge.</p>
-    <p type="title">Riktig søknad gir raskere svar</p>
-    <p>Bor foreldrene sammen, søker en av dere.</p>
-    <p>Bor foreldrene hver for seg, er det den barnet bor fast sammen med, som kan søke om kontantstøtte.</p>
-    <p>Foreldre som har inngått skriftlig avtale om delt bosted for barnet, kan velge å dele kontantstøtten. Ingen av foreldrene kan i slike tilfeller benytte barnehageplass med offentlig støtte, og begge må sette fram søknad.</p>
-    <p>Søknaden sendes til NAV-kontoret der du bor.</p>
-    <p type="title">Hva kan du få utbetalt</p>
-    <p>Det er den tildelte tiden i barnehagen som avgjør hvor mye du får i kontantstøtte. Det har ingen betydning om barnet er mindre i barnehagen enn den tildelte tiden.</p>
-    <p>Det er viktig at du melder fra dersom barnet begynner i barnehage. Feilutbetalt kontantstøtte må betales tilbake.</p>
-    <p type="title">Når blir pengene utbetalt</p>
-    <p>Kontantstøtten er skattefri og utbetales en gang per måned.</p>
-    <p>Kontantstøtte kan ikke etterbetales for mer enn tre måneder før den kalendermåneden du søker.</p>
-    <p type="title">Satser</p>
-    <p type="title">Kontantstøtte</p>
-    <p>Avtalt oppholdstid i barnehagen (timer pr uke)</p>
-    <p>Beløp pr måned</p>
-    <p>0</p>
-    <p>3 303 kr.</p>
-    <p>1-8</p>
-    <p>2 642 kr.</p>
-    <p>9-16</p>
-    <p>1 982 kr.</p>
-    <p>17-24</p>
-    <p>1 321 kr.</p>
-    <p>25-32</p>
-    <p>661 kr.</p>
-    <p>33 og mer</p>
-    <p>0 kr.</p>
-    <p type="title">Utbetalingsdatoer</p>
-    <p type="title">Kontantstøtte</p>
-    <p>Datoene gjelder for 2010.</p>
-    <p>Jan</p>
-    <p>Feb</p>
-    <p>Mar</p>
-    <p>Apr</p>
-    <p>Mai</p>
-    <p>Jun</p>
-    <p>Jul</p>
-    <p>Aug</p>
-    <p>Sept</p>
-    <p>Okt</p>
-    <p>Nov</p>
-    <p>Des</p>
-    <p>27.</p>
-    <p>24.</p>
-    <p>29.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>27.</p>
-    <p>28.</p>
-    <p>27.</p>
-    <p>26.</p>
-    <p>15.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>NAV - Kontantstøtte - </title><genre code="facta"/><author><unknown/></author><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>460</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Kontantstøtte</origFileName><parallel_text xml:lang="eng" location="805369180.html"/><parallel_text xml:lang="nno" location="1073749154.html"/><parallel_text xml:lang="sme" location="kontantstotte.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Kontantstøtte til småbarnsforeldre</p>
+<p>Kan gis for barn mellom ett og tre år og for adoptivbarn som ikke har begynt på skolen. Støtten gis maksimalt i 23 måneder og barnet må ikke ha heltidsplass i barnehage med offentlig driftstilskudd.</p>
+<p type="title">Hvem kan få kontantstøtte</p>
+<p>Har du barn mellom ett og tre år som ikke bruker barnehage med offentlig driftstilskudd, kan du få full kontantstøtte. Har barnet deltidsplass i barnehage, kan du få delvis kontantstøtte.</p>
+<p>For adopterte barn kan du få kontantstøtte i inntil 23 måneder etter at stønadsperioden for fulle adopsjonspenger er utløpt, selv om barnet har fylt eller fyller tre år i løpet av denne perioden, <em type="italic">forutsatt </em>at barnet ikke har begynt på skolen. </p>
+<p>Det gis ikke kontantstøtte:</p>
+<list><p type="listitem">for barn i fosterhjem eller institusjon etter lov om barneverntjenester.</p>
+<p type="listitem">samtidig med fulle adopsjonspenger. I slike tilfeller gis støtten tidligst fra måneden etter at perioden for fulle adopsjonspenger utløper. Samme tidsbegrensning gjelder også hvis du i stedet for adopsjonspenger har fått engangsstønad ved adopsjon.</p>
+</list><p>Barnet må som hovedregel være bosatt i Norge. Barnet regnes som hovedregel som bosatt dersom det skal oppholde seg i Norge i mer enn 12 måneder.</p>
+<p>Kontantstøtte kan i enkelte tilfeller gis ved et midlertidig utenlandsopphold på opptil tre måneder.</p>
+<p>Det kan også i enkelte tilfeller gis kontantstøtte for barn som er bosatt i et annet EØS-land dersom forsørgeren arbeider i Norge, på norsk skip eller på norsk kontinentalsokkel, eller mottar pensjon fra Norge på grunnlag av yrkesaktivitet eller er utsendt arbeidstaker fra Norge.</p>
+<p type="title">Riktig søknad gir raskere svar</p>
+<p>Bor foreldrene sammen, søker en av dere.</p>
+<p>Bor foreldrene hver for seg, er det den barnet bor fast sammen med, som kan søke om kontantstøtte.</p>
+<p>Foreldre som har inngått skriftlig avtale om delt bosted for barnet, kan velge å dele kontantstøtten. Ingen av foreldrene kan i slike tilfeller benytte barnehageplass med offentlig støtte, og begge må sette fram søknad.</p>
+<p>Søknaden sendes til NAV-kontoret der du bor.</p>
+<p type="title">Hva kan du få utbetalt</p>
+<p>Det er den tildelte tiden i barnehagen som avgjør hvor mye du får i kontantstøtte. Det har ingen betydning om barnet er mindre i barnehagen enn den tildelte tiden.</p>
+<p>Det er viktig at du melder fra dersom barnet begynner i barnehage. Feilutbetalt kontantstøtte må betales tilbake.</p>
+<p type="title">Når blir pengene utbetalt</p>
+<p>Kontantstøtten er skattefri og utbetales en gang per måned.</p>
+<p>Kontantstøtte kan ikke etterbetales for mer enn tre måneder før den kalendermåneden du søker.</p>
+<p type="title">Satser</p>
+<p type="title">Kontantstøtte</p>
+<p>Avtalt oppholdstid i barnehagen (timer pr uke)</p>
+<p>Beløp pr måned</p>
+<p>0</p>
+<p>3 303 kr.</p>
+<p>1-8</p>
+<p>2 642 kr.</p>
+<p>9-16</p>
+<p>1 982 kr.</p>
+<p>17-24</p>
+<p>1 321 kr.</p>
+<p>25-32</p>
+<p>661 kr.</p>
+<p>33 og mer</p>
+<p>0 kr.</p>
+<p type="title">Utbetalingsdatoer</p>
+<p type="title">Kontantstøtte</p>
+<p>Datoene gjelder for 2010.</p>
+<p>Jan</p>
+<p>Feb</p>
+<p>Mar</p>
+<p>Apr</p>
+<p>Mai</p>
+<p>Jun</p>
+<p>Jul</p>
+<p>Aug</p>
+<p>Sept</p>
+<p>Okt</p>
+<p>Nov</p>
+<p>Des</p>
+<p>27.</p>
+<p>24.</p>
+<p>29.</p>
+<p>28.</p>
+<p>28.</p>
+<p>28.</p>
+<p>28.</p>
+<p>27.</p>
+<p>28.</p>
+<p>27.</p>
+<p>26.</p>
+<p>15.</p>
+</body></document>

@@ -1,37 +1,8 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Ossodagat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>23</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/lmd/dep/org/avdelinger.html?id=654</origFileName>
-    <parallel_text xml:lang="nno" location="avdelingar_id_654.html"/>
-    <parallel_text xml:lang="sme" location="ossodagat_id_654.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Avdelinger - regjeringen.no</p>
-    <p type="title">Kommunikasjonsenheten</p>
-    <p type="title">Administrasjons- og økonomiavdelingen</p>
-    <p type="title">Avdeling for skog- og ressurspolitikk</p>
-    <p type="title">Avdeling for matpolitikk</p>
-    <p type="title">Landbrukspolitisk avdeling</p>
-    <p type="title">Avdeling for forskning, innovasjon og regionalpolitikk</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Ossodagat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Landbruks- og matdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>23</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/lmd/dep/org/avdelinger.html?id=654</origFileName><parallel_text xml:lang="nno" location="avdelingar_id_654.html"/><parallel_text xml:lang="sme" location="ossodagat_id_654.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Avdelinger - regjeringen.no</p>
+<p type="title">Kommunikasjonsenheten</p>
+<p type="title">Administrasjons- og økonomiavdelingen</p>
+<p type="title">Avdeling for skog- og ressurspolitikk</p>
+<p type="title">Avdeling for matpolitikk</p>
+<p type="title">Landbrukspolitisk avdeling</p>
+<p type="title">Avdeling for forskning, innovasjon og regionalpolitikk</p>
+</body></document>

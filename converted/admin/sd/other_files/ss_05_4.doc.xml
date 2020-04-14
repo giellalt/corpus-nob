@@ -1,597 +1,488 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Språkstyret</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Berit Karen" lastname="Paulsen" sex="f" born="" nationality="nor"/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Sámediggi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>3313</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/>
-    <origFileName>ss_4_05.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språkstyret</p>
-    <p>Møtebok 4/05</p>
-    <p>Tid: 26.9.05 - 28.9.05</p>
-    <p>Sted: Ája sámiguovddáš, Kåfjord</p>
-    <p>Saksliste:</p>
-    <p>Saksnr.</p>
-    <p>Sakstittel</p>
-    <p>034/05</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>035/05</p>
-    <p>Referatsaker</p>
-    <p>036/05</p>
-    <p>Rapport og regnskap for år 2004, samt handlingsplan for 2005-2007 - Árran Lulesamisk senter, Tysfjord kommune</p>
-    <p>037/05</p>
-    <p>Beskyttelse av opprinnelsesbetegnelser - samiskbenevnelser</p>
-    <p>038/05</p>
-    <p>Godkjenning av apotekordliste</p>
-    <p>039/05</p>
-    <p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
-    <p>040/05</p>
-    <p>Godkjenning av NCS`s fargeordliste</p>
-    <p>041/05</p>
-    <p>Godkjenning avJulevsámi ordbok (Anders Kintel)</p>
-    <p>042/05</p>
-    <p>Godkjenning av termer brukt i læreplan</p>
-    <p>043/05</p>
-    <p>Godkjenning av ord brukt i fjæra</p>
-    <p>044/05</p>
-    <p>Deltakelse på seminar: Intergenerasjonell overføring av samiske språk</p>
-    <p>045/05</p>
-    <p>Eventuelt</p>
-    <p>Tilstede:</p>
-    <p>Rolf Olsen, leder</p>
-    <p>Nora Marie Bransfjell, nestleder</p>
-    <p>Tor Magne Berg</p>
-    <p>Karen Monika Paulsen</p>
-    <p>Magne Einejord (varamedlem)</p>
-    <p>Fra administrasjonen</p>
-    <p>Maren Palismaa og Berit Karen Paulsen</p>
-    <p>
-      <em type="bold">Originalspråk: * </em>
-    </p>
-    <p>Sak 34/05</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>Arkivsaksnr.</p>
-    <p>05/2890</p>
-    <p>Forslag til vedtak:</p>
-    <list>
-      <p type="listitem">Godkjenning av innkallingen</p>
-    </list>
-    <p>Innkallingen av xx.xx.xx ble enstemmig godkjent</p>
-    <list>
-      <p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
-    </list>
-    <p>Tilleggssaker:</p>
-    <p>Vedtak</p>
-    <list>
-      <p type="listitem">Godkjenning av innkallingen</p>
-    </list>
-    <p>Innkallingen av 25.08.05 ble enstemmig godkjent</p>
-    <list>
-      <p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
-    </list>
-    <p>Tilleggssaker:</p>
-    <p>a) Digitalisering av læremidler, videobånd, kassetter etc.</p>
-    <p>b) Ordlister</p>
-    <p>c) Godkjenne forkortelser</p>
-    <p>d) Evaluering av fireårsperioden for Språkstyre</p>
-    <p>
-      <em type="bold">Originalspråk: * </em>
-    </p>
-    <p>Sak 35/05</p>
-    <p>Referatsaker</p>
-    <p>Unntatt offentlighet</p>
-    <p>Saksgang:</p>
-    <p>Utvalg, råd, komité, fond</p>
-    <p>Møtedato</p>
-    <p>Saksnr.</p>
-    <p>Språkstyret</p>
-    <p>27.09.2005</p>
-    <p>035/05</p>
-    <p>Nr</p>
-    <p>Dok.ID</p>
-    <p>Beaivi/Dok.dato</p>
-    <p>Geas/Geasa - Avs/Mott</p>
-    <p>Áššenamma/Tittel</p>
-    <p>05/15406</p>
-    <p>28.06.2005</p>
-    <p>Sáččá ja biras Sámiid Searvi</p>
-    <p>Rapport for språktiltaket - Samisk språk og kulur tilbake</p>
-    <p>05/15940</p>
-    <p>07.07.2005</p>
-    <p>***</p>
-    <p>Rapport</p>
-    <p>05/16571</p>
-    <p>12.07.2005</p>
-    <p>Kunnskapssenteret i Gildeskål</p>
-    <p>Utbetaling av prosjektmidlar til språktiltak - rapport</p>
-    <p>05/12389</p>
-    <p>23.05.2005</p>
-    <p>Bálak Sámisearvi</p>
-    <p>Rapport samisk språkkurs i Ballangen 2004</p>
-    <p>05/14990</p>
-    <p>17.06.2005</p>
-    <p>Moskavuona Sámi giellaguovddáš</p>
-    <p>Gaskaboddosaš raporta ja rehketdoallu 2005</p>
-    <p>05/18894</p>
-    <p>05.09.2005</p>
-    <p>Porsanger kommune</p>
-    <p>Sámi giella- ja kuturguovddáš</p>
-    <p>05/18897</p>
-    <p>07.09.2005</p>
-    <p>SGL</p>
-    <p>Julevsámegiela oamastangehčosiid standardiseren</p>
-    <p>05/15243</p>
-    <p>30.06.2005</p>
-    <p>Sámi giellalávdegoddi/Samisk språknemnd</p>
-    <p>Davvisámegiela sánit normeremii</p>
-    <p>05/19440</p>
-    <p>12.09.2005</p>
-    <p>Sámi giellalávdegoddi</p>
-    <p>Heivehit sátnevuorkká risten.no dávviriikalaš gielaide</p>
-    <p>Forslag til vedtak:</p>
-    <p>Referatsakene tas til etterretning slik de foreligger.</p>
-    <p>Vedtak</p>
-    <p>Referatsakene tas til etterretning slik de foreligger.</p>
-    <p>
-      <em type="bold">Originalspråk: samisk </em>
-    </p>
-    <p>Sak 37/05</p>
-    <p>Rapport og regnskap for år 2004, samt handlingsplan for 2005-2007 - Árran Lulesamisk senter, Tysfjord kommune</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-153.4</p>
-    <p>Arkivsaksnr.</p>
-    <p>05/360</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>14.06.2005</p>
-    <p>Árran Lulesamisk senter</p>
-    <p>Rapport sametingets støtte 2005 - Språksentre</p>
-    <p>17.06.2005</p>
-    <p>Árran Lulesamisk senter</p>
-    <p>Regnskap for språk- og utdanningsseksjonen</p>
-    <p>30.05.2005</p>
-    <p>Árran Lulesamisk senter</p>
-    <p>Årsmelding for 2004</p>
-    <p>Árran Lulesamisk senter</p>
-    <p>Handlingsplan 2005-07</p>
-    <p>28.01.2004</p>
-    <p>Sametinget</p>
-    <p>Sametingets støtte år 2004 - Árran Lulesamisk senter, Tysfjord kommune - tildeling</p>
-    <p>Saksfremstilling</p>
-    <p>Sametinget har i år 2004 bevilget kr 450 000,- i grunntilskudd til Árran Lulesamisk senter. Árran Lulesamisk senter har sendt rapport, årsmelding og regnskap for år 2004, og handlingsplan for 2005-2007. Árran er en offentlig stiftelse som Tysfjord kommune, Nordland fylkeskommune og staten v/Kommunal- og regionaldepartementet har opprettet. Den har tre seksjoner; seksjon for språk- og utdanning, seksjon for forskning og museal virksomhet og stabsseksjonen. I årsmeldingen og handlingsplanen ser en tydelig hvilke deler hører til språk- og utdanningsseksjonen.</p>
-    <p>Vurdering</p>
-    <p>Árran Lulesamisk senter har i år 2004 jobbet mye med opplæring, slik som også i 2003. De har i planene sine vektlagt opplæringstiltak. Árran har arrangert fjernundervisning for elever i grunn- og videregående skoler i fire fylker. En stor del av språksenterets ressurser blir brukt til slike tiltak. Árran har skrevet og vedlagt en egen rapport fra fjernundervisningen, hvor de evaluerer fjernundervisningen fra det siste skoleåret.</p>
-    <p>Tallet på ansatte har økt ved Árran i forhold til fjorårets rapportering. De har gjennomført opplæring i samisk for ansatte, og også jobbet med andre prosjekter. Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt og har vilje til å fremme samisk språk. Tiltakene viser også at Árran tilbyr samiskopplæring til barn, unge og voksne, og det er veldig bra.</p>
-    <p>I rapporten kommer det ikke tydeling fram hvordan Árran selv vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har gjennomført det som var i planen. Her etterlyser Sametingets språkstyre en redegjørelse.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre tar til orientering rapport, årsmelding og regnskap for 2004 og virksomhetsplan 2005-2007 fra Árran Lulesamisk senter, og språkstyret synes at senteret har gjort et godt arbeid.</p>
-    <p>Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt og har vilje til å fremme samisk språk. Tiltakene viser også at Árran tilbyr samiskopplæring både til barn, unge og voksne, og det er veldig bra.</p>
-    <p>I rapporten kommer det ikke tydeling fram hvordan Árran selv vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har gjennomført det som var i planen. Her etterlyser Sametingets språkstyre en redegjørelse.</p>
-    <p>Vedtak</p>
-    <p>Sametingets språkstyre tar til orientering rapport, årsmelding og regnskap for 2004 og virksomhetsplan 2005-2007 fra Árran Lulesamisk senter, og Språkstyret mener at senteret gjør et godt arbeid.</p>
-    <p>Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt med å fremme samisk språk. Tiltakene viser at Árran tilbyr samiskopplæring både til barn, unge og voksne.</p>
-    <p>Hvordan Árran vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har klart å gjennomføre det som var i planen mener Sametingets språkstyr ikke kommer klart nok fram i rapporten og det bør det kunne redegjøres for.</p>
-    <p>
-      <em type="bold">Originalspråk: samisk </em>
-    </p>
-    <p>Sak 38/05</p>
-    <p>Beskyttelse av opprinnelsesbetegnelser - samiskbenevnelser</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-541.1</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>14.09.05</p>
-    <p>Sametinget/Mattilsynet</p>
-    <p>Sametingets uttalelse om forskrift om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg</p>
-    <p>14.06.05</p>
-    <p>Sametinget/Mattilsynet</p>
-    <p>Høringsbrev</p>
-    <p>Saksfremstilling</p>
-    <p>Sametinget har fått endring av forskrift nr. 698 til høring. Formålet med denne forskriften er å beskytte blant annet produkters opprinnelige navn, geografiske benevnelser og benevnelser som har nasjonale særpreg på matproduktene. Hele høringen finnes på denne adressa: <em type="italic">http://www.mattilsynet.no/regelverk/horinger </em></p>
-    <p>I høringens pkt. 3.2 står følgende:</p>
-    <p>Etter forskriften § 4 er betegnelsene <span type="quote">”beskyttet opprinnelsesbetegnelse”</span>,” beskyttet geografisk betegnelse” og <span type="quote">”beskyttet tradisjonelt særpreg”</span> bare tillatt brukt på bokmål.</p>
-    <p>På bakgrunn av at enkelte ønsker å merke produktet med nynorsk tekst og betegnelser, har vi kontaktet Norsk språkråd om dette spørsmålet. Norsk språkråds forslag til nynorskbenevnelser står til høyre:</p>
-    <p>
-      <span type="quote">”beskyttet opprinnelsesbetegnelse - beskytta opphavsnemning”</span>
-    </p>
-    <p>
-      <span type="quote">”beskyttet geografisk betegnelse - beskytta geografisk nemning”</span>
-    </p>
-    <p><span type="quote">”beskyttet tradisjonelt særpreg - beskytta tradisjonelt særpreg”</span>.</p>
-    <p>Siden vi har to offisielle norske målformer, åpnes det i forskriften for at betegnelsene også tillates brukt på nynorsk.</p>
-    <p>I denne forskriften (§4) er det foreslått at både bokmål og nynorsk skal brukes likestilt når beskyttede produkter merkes.</p>
-    <p>Vurdering</p>
-    <p>Sametinget har i sitt brev d. 14.09.05, blant annet uttalt at det også burde være mulig å merke beskyttede produkter på samisk. Sametinget har også uttalt at Sametinget vil være med som høringsinstans for søknader som hører til samiske områder og for produkter som er såkalte tradisjonelle samiske matprodukter.</p>
-    <p>I fremtiden vil det bli slik at det kommer søknader fra samiske områder hvor man søker om å få beskyttet samiske matprodukter. Som for eksempel <em type="italic">Biđus </em>som brukes i som navn for et produkt som er i hermetikkbokser, men navnet er ikke regsitrert i Matmerk-registeret. Dette kan også skje med produkter som <em type="italic">suovasbiergu </em>(røykakjøtt), <em type="italic">bohccob </em><em type="italic">iergu </em>(reinkjøtt), <em type="italic">goikebiergu </em>(tørkakjøtt), <em type="italic">sámi biebmu </em>(samisk mat) osv. </p>
-    <p>Når bedrifter tar i bruk slike navn, så får ikke andre bruke de samme navnene. Det er både gode og dårlige sider ved det. Det styrker bedriftenes produkter, men samtidig hindrer det andre i å ta i bruk de samme navnene.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre mener at det er viktig at samisk blir synliggjort og at det kommer til syne også i beskyttede matprodukters merking.</p>
-    <p>Sametingets språkstyre foreslår at det i tillegg til nynorsk også skal være mulig å merke produkter på samisk.</p>
-    <p>Språkstyret foreslår at man skriver slik på samisk:</p>
-    <p>bokmål nynorsk <em type="bold">samisk </em></p>
-    <p>”beskyttet opprinnelsesbetegnelse - beskytta opphavsnemning - ”</p>
-    <p>”beskyttet geografisk betegnelse - beskytta geografisk nemning- ”</p>
-    <p>”beskyttet tradisjonelt særpreg - beskytta tradisjonelt særpreg- ”.</p>
-    <p>Vedtak</p>
-    <p>Saken utsettes og behandles på telefonmøte. Tearminologiteam fremmer forsalg både på lule-, sør- og nordsamisk.</p>
-    <p>
-      <em type="bold">Originalspråk: Samisk </em>
-    </p>
-    <p>Sak 39/05</p>
-    <p>Godkjenning av apotekordliste</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-153.4, ENAVN-</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/951</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>04.02.2005</p>
-    <p>Språkavdelingen/Egil Utsi</p>
-    <p>Apotehkasátnelistu</p>
-    <p>24.06.2005</p>
-    <p>Språkavdelingen /Egil Utsi</p>
-    <p>Apotehkasátnelistu</p>
-    <p>29.08.2005</p>
-    <p>Egil Utsi/ Språkavdelingen</p>
-    <p>Apotehkasátnelistu</p>
-    <p>Saksfremstilling</p>
-    <p>Sametinget har støttet Egil Utsis apotekordliste med språkprosjektmidlene. Den har han laget sammen med medarbeidere og sendt den til språlstyret for endelig godkjenning. Denne saken skulle til behandlig i språkstyret i juni, men språkstyret vedtok å utsette sak 30/05 til neste møte.</p>
-    <p>Vurdering</p>
-    <p>Egil Utsi sammen med medarbeidere skal publisere lista som en bok etter at lista er godkjent av språkstyret. Sametingets språkavdeling har i brev d. 04.02.05 skrevet at i godkjenningsprosessen kan noen ord som de har foreslått bli endret, og at de altså velger om de vil ta hensyn til endringene når de publiserer boka.</p>
-    <p>Den nordsamiske terminologigruppa har i møte 27.05.05 gransket Apotekordlista. Terminologigruppa bestemte at den sender lista tilbake til Egil Utsi slik at han sammen med sine medarbeidere kan gå igjennom lista og komme med kommentarer til endringene.</p>
-    <p>Egil Utsi har nå sendt oss sine kommentarer, og lista legges nå frem for språkstyret for endelig godkjenning.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre godkjenner apotekordlista.</p>
-    <p>Vedtak</p>
-    <p>Sametingets språkstyre godkjenner apotekordlista med merknader.</p>
-    <p>
-      <em type="bold">Originalspråk: samisk </em>
-    </p>
-    <p>Sak 40/05</p>
-    <p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-541.1</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>15.09.05</p>
-    <p>Bent Vangli/Opplærings- språk og kulturavdeling</p>
-    <p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
-    <p>15.09.05</p>
-    <p>Bent Vangli/Opplærings- språk og kulturavdeling</p>
-    <p>Skjema: ledetekster</p>
-    <p>Saksfremstilling</p>
-    <p>Riksarkivets IT-sjef Bent Vangli har i telefonsamtale 15.09.2005 bedt om hjelp til å finne samiske oversettelser til norske ord i kirkebøker, og ber Sametingets språkstyre (skriver språkråd) om å foreslå samiske ord for noen norske ord. Riksarkivet vil publisere disse sidene 10.-15. oktober.</p>
-    <p>Sametingets opplærings- språk- og kulturavdeling har lovet å hjelpe Riksarkivet med å fylle ut skjemaet, som Bent Vangli har sendt med e-post 15.09.05. (se 1. vedlegg).</p>
-    <p>Vurdering</p>
-    <p>Sametingets opplærings- språk- og kulturavdeling fyller inn de fleste ordene i skjemaet, men ber Språkstyret om hjelp til å oversette eller foreslå gode ord. De ordene som vi trenger hjelp med er merket med gult (se 2. vedlegg).</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre har sett på lista og foreslår disse samiske ordene:</p>
-    <p>
-      <em type="bold">Norsk </em>
-      <em type="bold">samisk </em>
-    </p>
-    <p>døde dissentere</p>
-    <p>dissenterprotokoll</p>
-    <p>fødte barn av dissentere</p>
-    <p>introduserte kvinner</p>
-    <p>jevnførelsesregister</p>
-    <p>kommunikanter</p>
-    <p>kommunikantprotokoll</p>
-    <p>ministerialbok (prestens)</p>
-    <p>visitaser</p>
-    <p>publice absolverede</p>
-    <p>residerende kapellans bok</p>
-    <p>trolovede</p>
-    <p>viede dissentere</p>
-    <p>Vedtak</p>
-    <p>Sametingets språkstyre foreslår disse samiske ordene til lista:</p>
-    <p>
-      <em type="bold">Norsk </em>
-      <em type="bold">Samisk </em>
-    </p>
-    <p>døde dissentere jápmán sierrasearvvehasat</p>
-    <p>dissenterprotokoll sierrasearvvehasaid logahallan</p>
-    <p>fødte barn av dissentere sierrasearvvehasaid oaččálaš mánát</p>
-    <p>introduserte kvinner riegádahttán nissonolbmo girkuiláidesteapmi</p>
-    <p>jevnførelsesregister buohtastahttinregisttar</p>
-    <p>kommunikanter áltárguossit</p>
-    <p>kommunikantprotokoll áltárgussiid logahallan</p>
-    <p>ministerialbok (prestens) girkomeanuidgirji</p>
-    <p>visitaser geahččogalledeapmi</p>
-    <p>publice absolverede suttuid almmolaš dovddastus</p>
-    <p>residerende kapellans bok bissovaš veahkkebáhpa girji/</p>
-    <p>trolovede čálihuvvomat</p>
-    <p>viede dissentere náitojuvvon sierrasearvvehasat</p>
-    <p>Disse termene bør også tilpasses sør- og lulesamisk.</p>
-    <p>
-      <em type="bold">Originalspråk: Samisk </em>
-    </p>
-    <p>Sak 41/05</p>
-    <p>Godkjenning av NCS`s fargeordliste</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-153.4, ENAVN-</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/1519</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>Saksfremstilling</p>
-    <p>Sametingets nordsamiske terminologigruppe har i møte 30.08.05 gransket NCS`s fargeordliste som Sámi dáiddačehpiid searvi har laget. På møtet deltok også Bjørg Monsen Vars fra Sámi dáiddačehpiid searvi som hjelp for terminologigruppa. Terminologigruppa legger nå frem lista for Språkstyret for godkjenning</p>
-    <p>Vurdering</p>
-    <p>Den nordsamisk termgruppa har gått igjennom NCS`s fargeordliste på en grundig måte. Derfor foreslås det at ordlista godkjennes som den er.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre godkjenner NCS`s fargeordliste.</p>
-    <p>Vedtak</p>
-    <p>Sametingets språkstyre godkjenner NCS`s fargeordliste. Disse termene bør også tilpasses sør- og lulesamisk</p>
-    <p>
-      <em type="bold">Originalspråk: norsk </em>
-    </p>
-    <p>Sak 041/05</p>
-    <p>Godkjenning avJulevsámi ordbok (Anders Kintel)</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-541.1</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>Saksfremstilling</p>
-    <p>Julevsámi ordboka er primært beregnet for bruk i skolene, og kommer ut i to deler, en lulesamisk - norsk og en norsk - lulesamisk del. Utfra det at dette er ei skoleordbok, så kan man ikke forvente seg at alle sider av samfunnet og livet dekkes fullt ut. Man kan dog se for seg at denne ordboka kan bli stammen til ei lulesamisk storordbok i framtiden.</p>
-    <p>Vurdering</p>
-    <p>Arbeidet med ordboka har pågått i lang tid, og det har vært både faglige og redaksjonelle korrigeringer underveis.</p>
-    <p>Imidlerid har ikke forfatteren hatt en referansegruppe å støtte seg til under arbeidet, og dette er kanskje en av årsakene at det har tatt lang tid med arbeidet.</p>
-    <p>Ortografien er den som ble vedtatt av Samekonferansen i 1982, med senere justeringer foretatt av SGL. Videre har normeringen av lånord og fremmedord har fulgt de samme prinsippene som i <span type="quote">”Sámasta”</span>-serien.</p>
-    <p>Synspunkter</p>
-    <list>
-      <p type="listitem">Grunnordet for avledete ord bør om mulig være med i ordboka.</p>
-    </list>
-    <list>
-      <p type="listitem">Forfatteren må være oppmerksom på likestillingsperspektivet, slik at det blir en mest mulig lik fordeling av begreper for mennesker på de forskjellige alderstrinnene, som for eksempel betegnelser for små gutter og jenter.</p>
-    </list>
-    <list>
-      <p type="listitem">Det anatomiske ordforrådet må kanskje sees over, det gjelder slike ord som er sentrale for barn og ungdommer.</p>
-    </list>
-    <list>
-      <p type="listitem">Når det gjelder sidestilte former, så må strukturen være slik at det går klart fram at formene er sidestilte.</p>
-    </list>
-    <list>
-      <p type="listitem">De to delene, lulesamisk-norsk og norsk-lulesamisk, må være fullstendig synkrone, det vil si at ord i den samiske delen må gjenfinnes i den norske og omvendt.</p>
-    </list>
-    <list>
-      <p type="listitem">Når det gjelder korrigeringer av stavefeil og andre feilaktigheter, så gis de direkte til forfatteren.</p>
-    </list>
-    <p>Forslag til vedtak</p>
-    <p>Ordboka godkjennes slik den foreligger under forutsetning av at det tas hensyn til synspunktene som er nevnt ovenfor.</p>
-    <p>Vedtak</p>
-    <p>Ordboka godkjennes.</p>
-    <p>
-      <em type="bold">Originalspråk: samisk </em>
-    </p>
-    <p>Sak 42/05</p>
-    <p>Godkjenning av termer brukt i læreplan</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-541.1</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>10.08.2005</p>
-    <p>Oahpahusossodat/giellaossodat</p>
-    <p>Oktasaš sátnelistu - oahppoplánat</p>
-    <p>23.08.2005</p>
-    <p>Inga Laila Hætta/Anne Britt K. Hætta</p>
-    <p>Notat: Oahppoplánatearpmat</p>
-    <p>23.08.2005</p>
-    <p>Oahpahusossodat/giellaossodat</p>
-    <p>Oahppoplánatearpmat - oktan kommeanttaiguin</p>
-    <p>Saksfremstilling</p>
-    <p>Alle læreplaner for grunnskolen i Norge skal fornyes dette året. Læreplanene er oversatt til samisk, og for enkelte fag er det utarbeidet egne samiske læreplaner. De samiske læreplanene skal i høst sendes ut på høring. I forbindelse med dette arbeidet framkommer det mange nye termer som språkstyret må godkjenne.</p>
-    <p>Termene er samlet i en egen liste som følger med som vedlegg til saken. I listen er det termer som flere oversettere har oversatt på forskjellige måter, og som tidligere ikke har blitt godkjent. Termene som finnes i læreplanene skal også brukes i undervisningen.</p>
-    <p>Språkstyret har i møte 21.6.2005 godkjent liste med termer og språkstyrets merknader og listen er deretter sendt opplæringsavdelingen. Arbeidsgruppa for læreplan har gjennomgått lista fra Språkstyret og foreslår endringer for enkelte termer. Arbeidsgruppa foreslår, at endel av de tidligere brukte termene også endres i samisk slik at elever og foreldre føler at reformen også berører de samiske skoler, og slik at termene har samme innhold som i norsk og passer til formålet for reformen (se også notat, vedlegg 2).</p>
-    <p>Selv om lista allerede har vært behandlet i Språkstyret, ber arbeidsgruppa om fornyet behandling av termlista. Lista inneholder også kommentarer fra arbeidsgruppa.</p>
-    <p>Vurdering</p>
-    <p>Listene, inneholder termer med kommentarer som opplæringsavdelingens arbeidsgruppa for læreplaner har foreslått. Administrasjonen ber Sametingets språkstyre om nok en gang gjennomgå og godkjenne termlista.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingests språkstyre godkjenner termlista med merknader.</p>
-    <p>Vedtak</p>
-    <p>Sametingests språkstyre godkjenner termlista med merknader. Læreplanstermer bør tilpasses til sør- og lulesamisk.</p>
-    <p>
-      <em type="bold">Originalspråk: samisk </em>
-    </p>
-    <p>Sak 043/05</p>
-    <p>Godkjenning av ord brukt i fjæra</p>
-    <p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
-    <p>Arkiv</p>
-    <p>SF-541.1</p>
-    <p>Arkivsaksnr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>19.04.2004</p>
-    <p>Mearrasámi diehtoguovddáš</p>
-    <p>Prosjektets sluttrapport : Mearra- jamearragáttenamahusaid čohkken</p>
-    <p>19.04.2004</p>
-    <p>Mearrasámi diehtoguovddáš</p>
-    <p>Mearra- ja mearragáttenamahusat</p>
-    <p>Saksfremstilling</p>
-    <p>Sjøsamisk kompetansesenter (Mearrasámi diehtoguovddáš) har gjennomført prosjektet -innsamling av sjø- og fjærebenevnelser i 2004 og har oversendt resultatet av prosjektet til Sametingets språkavdeling: Mearra- ja mearragáttenamahusat, son nå oversendes Språkstyret til godkjenning.</p>
-    <p>Vurdering</p>
-    <p>Nordsamisk termgruppe har i møte gjennomgått lista med sjø- og fjærebenevnelser og kommet med kommentarer, endret endel ord og korrigert skrivefeil. Termgruppa spør Språkstyre om endel av ordene og disse er avmerket med spørsmål på skjemaets høyre side.</p>
-    <p>--&gt; [Author:bkp]</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre godkjenner ordliste med benevnelser for sjø- og fjæra med merknader.</p>
-    <p>Vedtak</p>
-    <p>Sametingets språkstyre godkjenner ordliste med benevnelser for sjø og fjæra med merknader.</p>
-    <p>
-      <em type="bold">Vuođđogiella:sámegiella </em>
-    </p>
-    <p>Sak 044/05</p>
-    <p>Deltakelse på seminar: Intergenerasjonell overføring av samiske språk</p>
-    <p>Arkiva</p>
-    <p>SF-541.1</p>
-    <p>Arkiiváššenr.</p>
-    <p>04/430</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Beavi</p>
-    <p>Geas/Geasa</p>
-    <p>Tihttal</p>
-    <p>Sámi allaskuvla</p>
-    <p>Intergenerasjonell overføring av samiske språk - seminaraprogram</p>
-    <p>Sámi allaskuvla</p>
-    <p>Intergenerasjonell overføring av samiske språk -angående seminar</p>
-    <p>Saksfremstilling</p>
-    <p>(ikke oversatt til norsk)</p>
-    <p>Sámi allaskuvla lágida seminára “S <em type="italic">ámegielaid buolvvaidgaskasaš sirdášeapmi. Ohcamin vuogi bearrágeah </em><em type="italic">ččat sámegielaid dili </em>,” Guovdageainnus golggotmánu 12. ja 13. beivviid 2005. </p>
-    <p>Seminára mihttomearri lea čalmmáistuhttit sámegielaid ealáskahttin- ja seailluhanviggamušaid, erenoamážit viggamušaid mat sisttisdollet buolvvaidgaskasaš giellasirdášeami. Seminára vuosttaš oasis oassálastet olbmot geat ieža leat oassálastán gielladoaimmaide gos buolvvaidgaskasaš giellasirdášeapmi lea oassin. Seminára nuppi oasis logaldallet sámegiela giellasosiologiijadutkit. Goalmmát oassi lea várrejuvvon dutkiide geat leat dutkan eará vehádatálbmogiid ja álgoálbmogiid gielaid giellasosiologalaš áššiid. Dasto seminára loahpahuvvo paneladigaštallamiin man fáddá lea <em type="bold">Sámegielaid boahtte áigi. Makkár doaibmabijut dárbbašuvvojit. </em>Semináraprográmma lea mielddusin dán áššis. Eambbo dieđuid seminára birra gávnnat <em type="italic">www.samiskhs.no </em>-áigeguovdil. </p>
-    <p>Vurdering</p>
-    <p>(ikke oversatt til norsk)</p>
-    <p>Sámi allaskuvlla seminárii čoahkkanit sámegiela dutkit miehtá Davviriikkaid sihke logaldallat, suokkardit ja ságastallat sámegielaid ealáskahttin- ja seailluhanviggamušaid. Dán seminára váldoulbmil lea guorahallat sámegiela buolvvaidgaskasaš giellasirddášeami logaldallamiid, ságastallamiid ja suokkardallamiid bokte.</p>
-    <p>Lea hui dehálaš ahte Sámedikki giellastivra searvá dán áigeguovdilis seminárii earret eará gullan dihte sámegielaid gielladili birra. Hálddahus iská Giellastivrra ekonomalaš dili farggamusat.</p>
-    <p>Forslag til vedtak</p>
-    <p>Sametingets språkstyre velger ____________________________________________________________________________________________________________________________________________________________________</p>
-    <p>til å delta på seminaret: <span type="quote">“Intergenerasjonell overføring av samiske språk: Mot en metode for å overvåke språksituasjonen,”</span> i Kautokeino 12. og 13. oktober 2005.</p>
-    <p>Vedtak</p>
-    <p>Inger-marie Oskal, Karen Monika Paulsen og Nora Bransfjell representerer språkstyret på Samisk høgskoles seminar - Intergenerasjonell overføring av samiske språk.</p>
-    <p>
-      <em type="bold">Originalspråk: * </em>
-    </p>
-    <p>Sak XX/XX</p>
-    <p>Eventuelt</p>
-    <p>Arkiv</p>
-    <p>SF-012.69</p>
-    <p>Arkivsaksnr.</p>
-    <p>05/3472</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>Saksfremstilling</p>
-    <p>Vurdering</p>
-    <p>Forslag til vedtak</p>
-    <p>Vedtak</p>
-    <p>a) Digitalisering av læremiddel, kassettbånd, video etc.</p>
-    <p>Teknologiske nyvinninger som CD-er og DVD etc. fører bl.a. til at eksisterende samiskspråklige filmer på videobånd ikke kommer til å kunne brukes.</p>
-    <p>Språkstyret ber Sametinget medvirke til at eksisterende videobånd og kassetter overføres til DVD-er og CD-plater og internett.</p>
-    <p>b) Ordlister</p>
-    <p>De nordsamiske ordene som er oversatt og godkjent fra norske emneordlister, kan med fordel brukes som eksempler i lule- og sørsamisk terminologiarbeid. Det er viktig at det utvikles termer for ulike emner til bruk både i undervisning og i andre sammenhenger. Disse listene kan senere inngå i en større ordbok.</p>
-    <p>Språkstyret mener at alle ordlister, som er utarbeidet av Sametingets termgrupper, distribueres blant de samiske språkene, slik at alle kan dra nytte av dem.</p>
-    <p>c) Normert liste over samiske forkortelser</p>
-    <p>Det bør utarbeides lister for normerte forkortelser for de samiske språkene.</p>
-    <p>Språkstyret ber administrasjonen om å få utarbeidet normerte lister over de vanligste forkortelser.</p>
-    <p>d) Evaluering av språkstyrets 4-årige virksomhet</p>
-    <p>Sametingets språkstyre behandler evaluering av språkstyrets virksomhet i telefonmøte.</p>
-    <p>
-      <em type="bold">Språkstyre - møtebok 4/05 side </em>
-      <em type="bold">29 </em>
-      <em type="bold">av </em>
-      <em type="bold">7 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: Berit Karen Paulsen Møteboken består totalt av </em>
-      <em type="bold">7 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>12</p>
-    <p>14</p>
-    <p>16</p>
-    <p>18</p>
-    <p>20</p>
-    <p>22</p>
-    <p>24</p>
-    <p>27</p>
-    <p>29</p>
-    <p>
-      <em type="bold">*råd/styre* - Utskrift av møtebok */*side </em>
-      <em type="bold">4 </em>
-      <em type="bold">av </em>
-      <em type="bold">7 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em>
-      <em type="bold">7 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>Bredbuktnesvn. 50, N-9520 Guovdageaidnu</p>
-    <p>Telefon +47 78 48 42 00</p>
-    <p>Telefaks +47 78 48 42 42</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Språkstyret</title><genre code="admin"/><author><person firstname="Berit Karen" lastname="Paulsen" sex="f" born="" nationality="nor"/></author><translator><unknown/></translator><translated_from xml:lang="sme"/><year>2005</year><publChannel><publication><publisher>Sámediggi</publisher></publication></publChannel><wordcount>3313</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/><origFileName>ss_4_05.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Språkstyret</p>
+<p>Møtebok 4/05</p>
+<p>Tid: 26.9.05 - 28.9.05</p>
+<p>Sted: Ája sámiguovddáš, Kåfjord</p>
+<p>Saksliste:</p>
+<p>Saksnr.</p>
+<p>Sakstittel</p>
+<p>034/05</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>035/05</p>
+<p>Referatsaker</p>
+<p>036/05</p>
+<p>Rapport og regnskap for år 2004, samt handlingsplan for 2005-2007 - Árran Lulesamisk senter, Tysfjord kommune</p>
+<p>037/05</p>
+<p>Beskyttelse av opprinnelsesbetegnelser - samiskbenevnelser</p>
+<p>038/05</p>
+<p>Godkjenning av apotekordliste</p>
+<p>039/05</p>
+<p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
+<p>040/05</p>
+<p>Godkjenning av NCS`s fargeordliste</p>
+<p>041/05</p>
+<p>Godkjenning avJulevsámi ordbok (Anders Kintel)</p>
+<p>042/05</p>
+<p>Godkjenning av termer brukt i læreplan</p>
+<p>043/05</p>
+<p>Godkjenning av ord brukt i fjæra</p>
+<p>044/05</p>
+<p>Deltakelse på seminar: Intergenerasjonell overføring av samiske språk</p>
+<p>045/05</p>
+<p>Eventuelt</p>
+<p>Tilstede:</p>
+<p>Rolf Olsen, leder</p>
+<p>Nora Marie Bransfjell, nestleder</p>
+<p>Tor Magne Berg</p>
+<p>Karen Monika Paulsen</p>
+<p>Magne Einejord (varamedlem)</p>
+<p>Fra administrasjonen</p>
+<p>Maren Palismaa og Berit Karen Paulsen</p>
+<p><em type="bold">Originalspråk: * </em></p>
+<p>Sak 34/05</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>Arkivsaksnr.</p>
+<p>05/2890</p>
+<p>Forslag til vedtak:</p>
+<list><p type="listitem">Godkjenning av innkallingen</p>
+</list><p>Innkallingen av xx.xx.xx ble enstemmig godkjent</p>
+<list><p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
+</list><p>Tilleggssaker:</p>
+<p>Vedtak</p>
+<list><p type="listitem">Godkjenning av innkallingen</p>
+</list><p>Innkallingen av 25.08.05 ble enstemmig godkjent</p>
+<list><p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
+</list><p>Tilleggssaker:</p>
+<p>a) Digitalisering av læremidler, videobånd, kassetter etc.</p>
+<p>b) Ordlister</p>
+<p>c) Godkjenne forkortelser</p>
+<p>d) Evaluering av fireårsperioden for Språkstyre</p>
+<p><em type="bold">Originalspråk: * </em></p>
+<p>Sak 35/05</p>
+<p>Referatsaker</p>
+<p>Unntatt offentlighet</p>
+<p>Saksgang:</p>
+<p>Utvalg, råd, komité, fond</p>
+<p>Møtedato</p>
+<p>Saksnr.</p>
+<p>Språkstyret</p>
+<p>27.09.2005</p>
+<p>035/05</p>
+<p>Nr</p>
+<p>Dok.ID</p>
+<p>Beaivi/Dok.dato</p>
+<p>Geas/Geasa - Avs/Mott</p>
+<p>Áššenamma/Tittel</p>
+<p>05/15406</p>
+<p>28.06.2005</p>
+<p>Sáččá ja biras Sámiid Searvi</p>
+<p>Rapport for språktiltaket - Samisk språk og kulur tilbake</p>
+<p>05/15940</p>
+<p>07.07.2005</p>
+<p>***</p>
+<p>Rapport</p>
+<p>05/16571</p>
+<p>12.07.2005</p>
+<p>Kunnskapssenteret i Gildeskål</p>
+<p>Utbetaling av prosjektmidlar til språktiltak - rapport</p>
+<p>05/12389</p>
+<p>23.05.2005</p>
+<p>Bálak Sámisearvi</p>
+<p>Rapport samisk språkkurs i Ballangen 2004</p>
+<p>05/14990</p>
+<p>17.06.2005</p>
+<p>Moskavuona Sámi giellaguovddáš</p>
+<p>Gaskaboddosaš raporta ja rehketdoallu 2005</p>
+<p>05/18894</p>
+<p>05.09.2005</p>
+<p>Porsanger kommune</p>
+<p>Sámi giella- ja kuturguovddáš</p>
+<p>05/18897</p>
+<p>07.09.2005</p>
+<p>SGL</p>
+<p>Julevsámegiela oamastangehčosiid standardiseren</p>
+<p>05/15243</p>
+<p>30.06.2005</p>
+<p>Sámi giellalávdegoddi/Samisk språknemnd</p>
+<p>Davvisámegiela sánit normeremii</p>
+<p>05/19440</p>
+<p>12.09.2005</p>
+<p>Sámi giellalávdegoddi</p>
+<p>Heivehit sátnevuorkká risten.no dávviriikalaš gielaide</p>
+<p>Forslag til vedtak:</p>
+<p>Referatsakene tas til etterretning slik de foreligger.</p>
+<p>Vedtak</p>
+<p>Referatsakene tas til etterretning slik de foreligger.</p>
+<p><em type="bold">Originalspråk: samisk </em></p>
+<p>Sak 37/05</p>
+<p>Rapport og regnskap for år 2004, samt handlingsplan for 2005-2007 - Árran Lulesamisk senter, Tysfjord kommune</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-153.4</p>
+<p>Arkivsaksnr.</p>
+<p>05/360</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>14.06.2005</p>
+<p>Árran Lulesamisk senter</p>
+<p>Rapport sametingets støtte 2005 - Språksentre</p>
+<p>17.06.2005</p>
+<p>Árran Lulesamisk senter</p>
+<p>Regnskap for språk- og utdanningsseksjonen</p>
+<p>30.05.2005</p>
+<p>Árran Lulesamisk senter</p>
+<p>Årsmelding for 2004</p>
+<p>Árran Lulesamisk senter</p>
+<p>Handlingsplan 2005-07</p>
+<p>28.01.2004</p>
+<p>Sametinget</p>
+<p>Sametingets støtte år 2004 - Árran Lulesamisk senter, Tysfjord kommune - tildeling</p>
+<p>Saksfremstilling</p>
+<p>Sametinget har i år 2004 bevilget kr 450 000,- i grunntilskudd til Árran Lulesamisk senter. Árran Lulesamisk senter har sendt rapport, årsmelding og regnskap for år 2004, og handlingsplan for 2005-2007. Árran er en offentlig stiftelse som Tysfjord kommune, Nordland fylkeskommune og staten v/Kommunal- og regionaldepartementet har opprettet. Den har tre seksjoner; seksjon for språk- og utdanning, seksjon for forskning og museal virksomhet og stabsseksjonen. I årsmeldingen og handlingsplanen ser en tydelig hvilke deler hører til språk- og utdanningsseksjonen.</p>
+<p>Vurdering</p>
+<p>Árran Lulesamisk senter har i år 2004 jobbet mye med opplæring, slik som også i 2003. De har i planene sine vektlagt opplæringstiltak. Árran har arrangert fjernundervisning for elever i grunn- og videregående skoler i fire fylker. En stor del av språksenterets ressurser blir brukt til slike tiltak. Árran har skrevet og vedlagt en egen rapport fra fjernundervisningen, hvor de evaluerer fjernundervisningen fra det siste skoleåret.</p>
+<p>Tallet på ansatte har økt ved Árran i forhold til fjorårets rapportering. De har gjennomført opplæring i samisk for ansatte, og også jobbet med andre prosjekter. Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt og har vilje til å fremme samisk språk. Tiltakene viser også at Árran tilbyr samiskopplæring til barn, unge og voksne, og det er veldig bra.</p>
+<p>I rapporten kommer det ikke tydeling fram hvordan Árran selv vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har gjennomført det som var i planen. Her etterlyser Sametingets språkstyre en redegjørelse.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre tar til orientering rapport, årsmelding og regnskap for 2004 og virksomhetsplan 2005-2007 fra Árran Lulesamisk senter, og språkstyret synes at senteret har gjort et godt arbeid.</p>
+<p>Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt og har vilje til å fremme samisk språk. Tiltakene viser også at Árran tilbyr samiskopplæring både til barn, unge og voksne, og det er veldig bra.</p>
+<p>I rapporten kommer det ikke tydeling fram hvordan Árran selv vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har gjennomført det som var i planen. Her etterlyser Sametingets språkstyre en redegjørelse.</p>
+<p>Vedtak</p>
+<p>Sametingets språkstyre tar til orientering rapport, årsmelding og regnskap for 2004 og virksomhetsplan 2005-2007 fra Árran Lulesamisk senter, og Språkstyret mener at senteret gjør et godt arbeid.</p>
+<p>Det er veldig bra at skoleelever har anledning til å lære samisk, selv om det ser ut til at Árran, ved å vektlegge opplæring for elever, ikke har så mye ressurser igjen til å jobbe med andre prosjekter. De har likevel jobbet med Sámásta-prosjektet og samarbeidsprosjektet <span type="quote">”Julevsáme giellasujtto”</span>, og det viser at Árran jobber aktivt med å fremme samisk språk. Tiltakene viser at Árran tilbyr samiskopplæring både til barn, unge og voksne.</p>
+<p>Hvordan Árran vurderer sine tiltak i forhold til plan for forrige året; i hvilken grad de har klart å gjennomføre det som var i planen mener Sametingets språkstyr ikke kommer klart nok fram i rapporten og det bør det kunne redegjøres for.</p>
+<p><em type="bold">Originalspråk: samisk </em></p>
+<p>Sak 38/05</p>
+<p>Beskyttelse av opprinnelsesbetegnelser - samiskbenevnelser</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-541.1</p>
+<p>Arkivsaksnr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>14.09.05</p>
+<p>Sametinget/Mattilsynet</p>
+<p>Sametingets uttalelse om forskrift om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg</p>
+<p>14.06.05</p>
+<p>Sametinget/Mattilsynet</p>
+<p>Høringsbrev</p>
+<p>Saksfremstilling</p>
+<p>Sametinget har fått endring av forskrift nr. 698 til høring. Formålet med denne forskriften er å beskytte blant annet produkters opprinnelige navn, geografiske benevnelser og benevnelser som har nasjonale særpreg på matproduktene. Hele høringen finnes på denne adressa: <em type="italic">http://www.mattilsynet.no/regelverk/horinger </em></p>
+<p>I høringens pkt. 3.2 står følgende:</p>
+<p>Etter forskriften § 4 er betegnelsene <span type="quote">”beskyttet opprinnelsesbetegnelse”</span>,” beskyttet geografisk betegnelse” og <span type="quote">”beskyttet tradisjonelt særpreg”</span> bare tillatt brukt på bokmål.</p>
+<p>På bakgrunn av at enkelte ønsker å merke produktet med nynorsk tekst og betegnelser, har vi kontaktet Norsk språkråd om dette spørsmålet. Norsk språkråds forslag til nynorskbenevnelser står til høyre:</p>
+<p><span type="quote">”beskyttet opprinnelsesbetegnelse - beskytta opphavsnemning”</span></p>
+<p><span type="quote">”beskyttet geografisk betegnelse - beskytta geografisk nemning”</span></p>
+<p><span type="quote">”beskyttet tradisjonelt særpreg - beskytta tradisjonelt særpreg”</span>.</p>
+<p>Siden vi har to offisielle norske målformer, åpnes det i forskriften for at betegnelsene også tillates brukt på nynorsk.</p>
+<p>I denne forskriften (§4) er det foreslått at både bokmål og nynorsk skal brukes likestilt når beskyttede produkter merkes.</p>
+<p>Vurdering</p>
+<p>Sametinget har i sitt brev d. 14.09.05, blant annet uttalt at det også burde være mulig å merke beskyttede produkter på samisk. Sametinget har også uttalt at Sametinget vil være med som høringsinstans for søknader som hører til samiske områder og for produkter som er såkalte tradisjonelle samiske matprodukter.</p>
+<p>I fremtiden vil det bli slik at det kommer søknader fra samiske områder hvor man søker om å få beskyttet samiske matprodukter. Som for eksempel <em type="italic">Biđus </em>som brukes i som navn for et produkt som er i hermetikkbokser, men navnet er ikke regsitrert i Matmerk-registeret. Dette kan også skje med produkter som <em type="italic">suovasbiergu </em>(røykakjøtt), <em type="italic">bohccob </em><em type="italic">iergu </em>(reinkjøtt), <em type="italic">goikebiergu </em>(tørkakjøtt), <em type="italic">sámi biebmu </em>(samisk mat) osv. </p>
+<p>Når bedrifter tar i bruk slike navn, så får ikke andre bruke de samme navnene. Det er både gode og dårlige sider ved det. Det styrker bedriftenes produkter, men samtidig hindrer det andre i å ta i bruk de samme navnene.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre mener at det er viktig at samisk blir synliggjort og at det kommer til syne også i beskyttede matprodukters merking.</p>
+<p>Sametingets språkstyre foreslår at det i tillegg til nynorsk også skal være mulig å merke produkter på samisk.</p>
+<p>Språkstyret foreslår at man skriver slik på samisk:</p>
+<p>bokmål nynorsk <em type="bold">samisk </em></p>
+<p>”beskyttet opprinnelsesbetegnelse - beskytta opphavsnemning - ”</p>
+<p>”beskyttet geografisk betegnelse - beskytta geografisk nemning- ”</p>
+<p>”beskyttet tradisjonelt særpreg - beskytta tradisjonelt særpreg- ”.</p>
+<p>Vedtak</p>
+<p>Saken utsettes og behandles på telefonmøte. Tearminologiteam fremmer forsalg både på lule-, sør- og nordsamisk.</p>
+<p><em type="bold">Originalspråk: Samisk </em></p>
+<p>Sak 39/05</p>
+<p>Godkjenning av apotekordliste</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-153.4, ENAVN-</p>
+<p>Arkivsaksnr.</p>
+<p>04/951</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>04.02.2005</p>
+<p>Språkavdelingen/Egil Utsi</p>
+<p>Apotehkasátnelistu</p>
+<p>24.06.2005</p>
+<p>Språkavdelingen /Egil Utsi</p>
+<p>Apotehkasátnelistu</p>
+<p>29.08.2005</p>
+<p>Egil Utsi/ Språkavdelingen</p>
+<p>Apotehkasátnelistu</p>
+<p>Saksfremstilling</p>
+<p>Sametinget har støttet Egil Utsis apotekordliste med språkprosjektmidlene. Den har han laget sammen med medarbeidere og sendt den til språlstyret for endelig godkjenning. Denne saken skulle til behandlig i språkstyret i juni, men språkstyret vedtok å utsette sak 30/05 til neste møte.</p>
+<p>Vurdering</p>
+<p>Egil Utsi sammen med medarbeidere skal publisere lista som en bok etter at lista er godkjent av språkstyret. Sametingets språkavdeling har i brev d. 04.02.05 skrevet at i godkjenningsprosessen kan noen ord som de har foreslått bli endret, og at de altså velger om de vil ta hensyn til endringene når de publiserer boka.</p>
+<p>Den nordsamiske terminologigruppa har i møte 27.05.05 gransket Apotekordlista. Terminologigruppa bestemte at den sender lista tilbake til Egil Utsi slik at han sammen med sine medarbeidere kan gå igjennom lista og komme med kommentarer til endringene.</p>
+<p>Egil Utsi har nå sendt oss sine kommentarer, og lista legges nå frem for språkstyret for endelig godkjenning.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre godkjenner apotekordlista.</p>
+<p>Vedtak</p>
+<p>Sametingets språkstyre godkjenner apotekordlista med merknader.</p>
+<p><em type="bold">Originalspråk: samisk </em></p>
+<p>Sak 40/05</p>
+<p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-541.1</p>
+<p>Arkivsaksnr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>15.09.05</p>
+<p>Bent Vangli/Opplærings- språk og kulturavdeling</p>
+<p>Samisk oversettelse i.f.m. skannede kirkebøker</p>
+<p>15.09.05</p>
+<p>Bent Vangli/Opplærings- språk og kulturavdeling</p>
+<p>Skjema: ledetekster</p>
+<p>Saksfremstilling</p>
+<p>Riksarkivets IT-sjef Bent Vangli har i telefonsamtale 15.09.2005 bedt om hjelp til å finne samiske oversettelser til norske ord i kirkebøker, og ber Sametingets språkstyre (skriver språkråd) om å foreslå samiske ord for noen norske ord. Riksarkivet vil publisere disse sidene 10.-15. oktober.</p>
+<p>Sametingets opplærings- språk- og kulturavdeling har lovet å hjelpe Riksarkivet med å fylle ut skjemaet, som Bent Vangli har sendt med e-post 15.09.05. (se 1. vedlegg).</p>
+<p>Vurdering</p>
+<p>Sametingets opplærings- språk- og kulturavdeling fyller inn de fleste ordene i skjemaet, men ber Språkstyret om hjelp til å oversette eller foreslå gode ord. De ordene som vi trenger hjelp med er merket med gult (se 2. vedlegg).</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre har sett på lista og foreslår disse samiske ordene:</p>
+<p><em type="bold">Norsk </em><em type="bold">samisk </em></p>
+<p>døde dissentere</p>
+<p>dissenterprotokoll</p>
+<p>fødte barn av dissentere</p>
+<p>introduserte kvinner</p>
+<p>jevnførelsesregister</p>
+<p>kommunikanter</p>
+<p>kommunikantprotokoll</p>
+<p>ministerialbok (prestens)</p>
+<p>visitaser</p>
+<p>publice absolverede</p>
+<p>residerende kapellans bok</p>
+<p>trolovede</p>
+<p>viede dissentere</p>
+<p>Vedtak</p>
+<p>Sametingets språkstyre foreslår disse samiske ordene til lista:</p>
+<p><em type="bold">Norsk </em><em type="bold">Samisk </em></p>
+<p>døde dissentere jápmán sierrasearvvehasat</p>
+<p>dissenterprotokoll sierrasearvvehasaid logahallan</p>
+<p>fødte barn av dissentere sierrasearvvehasaid oaččálaš mánát</p>
+<p>introduserte kvinner riegádahttán nissonolbmo girkuiláidesteapmi</p>
+<p>jevnførelsesregister buohtastahttinregisttar</p>
+<p>kommunikanter áltárguossit</p>
+<p>kommunikantprotokoll áltárgussiid logahallan</p>
+<p>ministerialbok (prestens) girkomeanuidgirji</p>
+<p>visitaser geahččogalledeapmi</p>
+<p>publice absolverede suttuid almmolaš dovddastus</p>
+<p>residerende kapellans bok bissovaš veahkkebáhpa girji/</p>
+<p>trolovede čálihuvvomat</p>
+<p>viede dissentere náitojuvvon sierrasearvvehasat</p>
+<p>Disse termene bør også tilpasses sør- og lulesamisk.</p>
+<p><em type="bold">Originalspråk: Samisk </em></p>
+<p>Sak 41/05</p>
+<p>Godkjenning av NCS`s fargeordliste</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-153.4, ENAVN-</p>
+<p>Arkivsaksnr.</p>
+<p>04/1519</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>Saksfremstilling</p>
+<p>Sametingets nordsamiske terminologigruppe har i møte 30.08.05 gransket NCS`s fargeordliste som Sámi dáiddačehpiid searvi har laget. På møtet deltok også Bjørg Monsen Vars fra Sámi dáiddačehpiid searvi som hjelp for terminologigruppa. Terminologigruppa legger nå frem lista for Språkstyret for godkjenning</p>
+<p>Vurdering</p>
+<p>Den nordsamisk termgruppa har gått igjennom NCS`s fargeordliste på en grundig måte. Derfor foreslås det at ordlista godkjennes som den er.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre godkjenner NCS`s fargeordliste.</p>
+<p>Vedtak</p>
+<p>Sametingets språkstyre godkjenner NCS`s fargeordliste. Disse termene bør også tilpasses sør- og lulesamisk</p>
+<p><em type="bold">Originalspråk: norsk </em></p>
+<p>Sak 041/05</p>
+<p>Godkjenning avJulevsámi ordbok (Anders Kintel)</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-541.1</p>
+<p>Arkivsaksnr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>Saksfremstilling</p>
+<p>Julevsámi ordboka er primært beregnet for bruk i skolene, og kommer ut i to deler, en lulesamisk - norsk og en norsk - lulesamisk del. Utfra det at dette er ei skoleordbok, så kan man ikke forvente seg at alle sider av samfunnet og livet dekkes fullt ut. Man kan dog se for seg at denne ordboka kan bli stammen til ei lulesamisk storordbok i framtiden.</p>
+<p>Vurdering</p>
+<p>Arbeidet med ordboka har pågått i lang tid, og det har vært både faglige og redaksjonelle korrigeringer underveis.</p>
+<p>Imidlerid har ikke forfatteren hatt en referansegruppe å støtte seg til under arbeidet, og dette er kanskje en av årsakene at det har tatt lang tid med arbeidet.</p>
+<p>Ortografien er den som ble vedtatt av Samekonferansen i 1982, med senere justeringer foretatt av SGL. Videre har normeringen av lånord og fremmedord har fulgt de samme prinsippene som i <span type="quote">”Sámasta”</span>-serien.</p>
+<p>Synspunkter</p>
+<list><p type="listitem">Grunnordet for avledete ord bør om mulig være med i ordboka.</p>
+</list><list><p type="listitem">Forfatteren må være oppmerksom på likestillingsperspektivet, slik at det blir en mest mulig lik fordeling av begreper for mennesker på de forskjellige alderstrinnene, som for eksempel betegnelser for små gutter og jenter.</p>
+</list><list><p type="listitem">Det anatomiske ordforrådet må kanskje sees over, det gjelder slike ord som er sentrale for barn og ungdommer.</p>
+</list><list><p type="listitem">Når det gjelder sidestilte former, så må strukturen være slik at det går klart fram at formene er sidestilte.</p>
+</list><list><p type="listitem">De to delene, lulesamisk-norsk og norsk-lulesamisk, må være fullstendig synkrone, det vil si at ord i den samiske delen må gjenfinnes i den norske og omvendt.</p>
+</list><list><p type="listitem">Når det gjelder korrigeringer av stavefeil og andre feilaktigheter, så gis de direkte til forfatteren.</p>
+</list><p>Forslag til vedtak</p>
+<p>Ordboka godkjennes slik den foreligger under forutsetning av at det tas hensyn til synspunktene som er nevnt ovenfor.</p>
+<p>Vedtak</p>
+<p>Ordboka godkjennes.</p>
+<p><em type="bold">Originalspråk: samisk </em></p>
+<p>Sak 42/05</p>
+<p>Godkjenning av termer brukt i læreplan</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-541.1</p>
+<p>Arkivsaksnr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>10.08.2005</p>
+<p>Oahpahusossodat/giellaossodat</p>
+<p>Oktasaš sátnelistu - oahppoplánat</p>
+<p>23.08.2005</p>
+<p>Inga Laila Hætta/Anne Britt K. Hætta</p>
+<p>Notat: Oahppoplánatearpmat</p>
+<p>23.08.2005</p>
+<p>Oahpahusossodat/giellaossodat</p>
+<p>Oahppoplánatearpmat - oktan kommeanttaiguin</p>
+<p>Saksfremstilling</p>
+<p>Alle læreplaner for grunnskolen i Norge skal fornyes dette året. Læreplanene er oversatt til samisk, og for enkelte fag er det utarbeidet egne samiske læreplaner. De samiske læreplanene skal i høst sendes ut på høring. I forbindelse med dette arbeidet framkommer det mange nye termer som språkstyret må godkjenne.</p>
+<p>Termene er samlet i en egen liste som følger med som vedlegg til saken. I listen er det termer som flere oversettere har oversatt på forskjellige måter, og som tidligere ikke har blitt godkjent. Termene som finnes i læreplanene skal også brukes i undervisningen.</p>
+<p>Språkstyret har i møte 21.6.2005 godkjent liste med termer og språkstyrets merknader og listen er deretter sendt opplæringsavdelingen. Arbeidsgruppa for læreplan har gjennomgått lista fra Språkstyret og foreslår endringer for enkelte termer. Arbeidsgruppa foreslår, at endel av de tidligere brukte termene også endres i samisk slik at elever og foreldre føler at reformen også berører de samiske skoler, og slik at termene har samme innhold som i norsk og passer til formålet for reformen (se også notat, vedlegg 2).</p>
+<p>Selv om lista allerede har vært behandlet i Språkstyret, ber arbeidsgruppa om fornyet behandling av termlista. Lista inneholder også kommentarer fra arbeidsgruppa.</p>
+<p>Vurdering</p>
+<p>Listene, inneholder termer med kommentarer som opplæringsavdelingens arbeidsgruppa for læreplaner har foreslått. Administrasjonen ber Sametingets språkstyre om nok en gang gjennomgå og godkjenne termlista.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingests språkstyre godkjenner termlista med merknader.</p>
+<p>Vedtak</p>
+<p>Sametingests språkstyre godkjenner termlista med merknader. Læreplanstermer bør tilpasses til sør- og lulesamisk.</p>
+<p><em type="bold">Originalspråk: samisk </em></p>
+<p>Sak 043/05</p>
+<p>Godkjenning av ord brukt i fjæra</p>
+<p>Unntatt offentlighet Off.loven § 5a, Fvl. § 13</p>
+<p>Arkiv</p>
+<p>SF-541.1</p>
+<p>Arkivsaksnr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>19.04.2004</p>
+<p>Mearrasámi diehtoguovddáš</p>
+<p>Prosjektets sluttrapport : Mearra- jamearragáttenamahusaid čohkken</p>
+<p>19.04.2004</p>
+<p>Mearrasámi diehtoguovddáš</p>
+<p>Mearra- ja mearragáttenamahusat</p>
+<p>Saksfremstilling</p>
+<p>Sjøsamisk kompetansesenter (Mearrasámi diehtoguovddáš) har gjennomført prosjektet -innsamling av sjø- og fjærebenevnelser i 2004 og har oversendt resultatet av prosjektet til Sametingets språkavdeling: Mearra- ja mearragáttenamahusat, son nå oversendes Språkstyret til godkjenning.</p>
+<p>Vurdering</p>
+<p>Nordsamisk termgruppe har i møte gjennomgått lista med sjø- og fjærebenevnelser og kommet med kommentarer, endret endel ord og korrigert skrivefeil. Termgruppa spør Språkstyre om endel av ordene og disse er avmerket med spørsmål på skjemaets høyre side.</p>
+<p>--&gt; [Author:bkp]</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre godkjenner ordliste med benevnelser for sjø- og fjæra med merknader.</p>
+<p>Vedtak</p>
+<p>Sametingets språkstyre godkjenner ordliste med benevnelser for sjø og fjæra med merknader.</p>
+<p><em type="bold">Vuođđogiella:sámegiella </em></p>
+<p>Sak 044/05</p>
+<p>Deltakelse på seminar: Intergenerasjonell overføring av samiske språk</p>
+<p>Arkiva</p>
+<p>SF-541.1</p>
+<p>Arkiiváššenr.</p>
+<p>04/430</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Beavi</p>
+<p>Geas/Geasa</p>
+<p>Tihttal</p>
+<p>Sámi allaskuvla</p>
+<p>Intergenerasjonell overføring av samiske språk - seminaraprogram</p>
+<p>Sámi allaskuvla</p>
+<p>Intergenerasjonell overføring av samiske språk -angående seminar</p>
+<p>Saksfremstilling</p>
+<p>(ikke oversatt til norsk)</p>
+<p>Sámi allaskuvla lágida seminára “S <em type="italic">ámegielaid buolvvaidgaskasaš sirdášeapmi. Ohcamin vuogi bearrágeah </em><em type="italic">ččat sámegielaid dili </em>,” Guovdageainnus golggotmánu 12. ja 13. beivviid 2005. </p>
+<p>Seminára mihttomearri lea čalmmáistuhttit sámegielaid ealáskahttin- ja seailluhanviggamušaid, erenoamážit viggamušaid mat sisttisdollet buolvvaidgaskasaš giellasirdášeami. Seminára vuosttaš oasis oassálastet olbmot geat ieža leat oassálastán gielladoaimmaide gos buolvvaidgaskasaš giellasirdášeapmi lea oassin. Seminára nuppi oasis logaldallet sámegiela giellasosiologiijadutkit. Goalmmát oassi lea várrejuvvon dutkiide geat leat dutkan eará vehádatálbmogiid ja álgoálbmogiid gielaid giellasosiologalaš áššiid. Dasto seminára loahpahuvvo paneladigaštallamiin man fáddá lea <em type="bold">Sámegielaid boahtte áigi. Makkár doaibmabijut dárbbašuvvojit. </em>Semináraprográmma lea mielddusin dán áššis. Eambbo dieđuid seminára birra gávnnat <em type="italic">www.samiskhs.no </em>-áigeguovdil. </p>
+<p>Vurdering</p>
+<p>(ikke oversatt til norsk)</p>
+<p>Sámi allaskuvlla seminárii čoahkkanit sámegiela dutkit miehtá Davviriikkaid sihke logaldallat, suokkardit ja ságastallat sámegielaid ealáskahttin- ja seailluhanviggamušaid. Dán seminára váldoulbmil lea guorahallat sámegiela buolvvaidgaskasaš giellasirddášeami logaldallamiid, ságastallamiid ja suokkardallamiid bokte.</p>
+<p>Lea hui dehálaš ahte Sámedikki giellastivra searvá dán áigeguovdilis seminárii earret eará gullan dihte sámegielaid gielladili birra. Hálddahus iská Giellastivrra ekonomalaš dili farggamusat.</p>
+<p>Forslag til vedtak</p>
+<p>Sametingets språkstyre velger ____________________________________________________________________________________________________________________________________________________________________</p>
+<p>til å delta på seminaret: <span type="quote">“Intergenerasjonell overføring av samiske språk: Mot en metode for å overvåke språksituasjonen,”</span> i Kautokeino 12. og 13. oktober 2005.</p>
+<p>Vedtak</p>
+<p>Inger-marie Oskal, Karen Monika Paulsen og Nora Bransfjell representerer språkstyret på Samisk høgskoles seminar - Intergenerasjonell overføring av samiske språk.</p>
+<p><em type="bold">Originalspråk: * </em></p>
+<p>Sak XX/XX</p>
+<p>Eventuelt</p>
+<p>Arkiv</p>
+<p>SF-012.69</p>
+<p>Arkivsaksnr.</p>
+<p>05/3472</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>Saksfremstilling</p>
+<p>Vurdering</p>
+<p>Forslag til vedtak</p>
+<p>Vedtak</p>
+<p>a) Digitalisering av læremiddel, kassettbånd, video etc.</p>
+<p>Teknologiske nyvinninger som CD-er og DVD etc. fører bl.a. til at eksisterende samiskspråklige filmer på videobånd ikke kommer til å kunne brukes.</p>
+<p>Språkstyret ber Sametinget medvirke til at eksisterende videobånd og kassetter overføres til DVD-er og CD-plater og internett.</p>
+<p>b) Ordlister</p>
+<p>De nordsamiske ordene som er oversatt og godkjent fra norske emneordlister, kan med fordel brukes som eksempler i lule- og sørsamisk terminologiarbeid. Det er viktig at det utvikles termer for ulike emner til bruk både i undervisning og i andre sammenhenger. Disse listene kan senere inngå i en større ordbok.</p>
+<p>Språkstyret mener at alle ordlister, som er utarbeidet av Sametingets termgrupper, distribueres blant de samiske språkene, slik at alle kan dra nytte av dem.</p>
+<p>c) Normert liste over samiske forkortelser</p>
+<p>Det bør utarbeides lister for normerte forkortelser for de samiske språkene.</p>
+<p>Språkstyret ber administrasjonen om å få utarbeidet normerte lister over de vanligste forkortelser.</p>
+<p>d) Evaluering av språkstyrets 4-årige virksomhet</p>
+<p>Sametingets språkstyre behandler evaluering av språkstyrets virksomhet i telefonmøte.</p>
+<p><em type="bold">Språkstyre - møtebok 4/05 side </em><em type="bold">29 </em><em type="bold">av </em><em type="bold">7 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: Berit Karen Paulsen Møteboken består totalt av </em><em type="bold">7 </em><em type="bold">sider </em></p>
+<p>12</p>
+<p>14</p>
+<p>16</p>
+<p>18</p>
+<p>20</p>
+<p>22</p>
+<p>24</p>
+<p>27</p>
+<p>29</p>
+<p><em type="bold">*råd/styre* - Utskrift av møtebok */*side </em><em type="bold">4 </em><em type="bold">av </em><em type="bold">7 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em><em type="bold">7 </em><em type="bold">sider </em></p>
+<p>Bredbuktnesvn. 50, N-9520 Guovdageaidnu</p>
+<p>Telefon +47 78 48 42 00</p>
+<p>Telefaks +47 78 48 42 42</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Ávjuvárgeaidnu 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+</body></document>

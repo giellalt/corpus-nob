@@ -1,41 +1,16 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Numra</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>139</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/numra.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="numra.eng.html"/>
-    <parallel_text xml:lang="fin" location="numra.fin.html"/>
-    <parallel_text xml:lang="sme" location="numra.html"/>
-    <parallel_text xml:lang="swe" location="numra.swe.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="kal">Numra</p>
-    <list>
-      <p type="listitem">Valgmuligheter</p>
-    </list>
-    <p>Numra er et program for å øve seg på tallord, klokkeslett og datoer. Man kan trene fra tall til ord, eller fra ord til tall. Numra passar for alle; skal man lære et språk må man kunne telle.</p>
-    <p type="title">Valgmuligheter</p>
-    <list>
-      <p type="listitem">Tallområde: <list><p type="listitem">0-10, 0-20, 0-100 eller 0-1000</p></list></p>
-      <p type="listitem">Grunntall: <list><p type="listitem"><em type="italic">3 </em>er <em type="italic">golbma </em>, eller <em type="italic">golbma </em>er <em type="italic">3 </em></p></list></p>
-      <p type="listitem">Ordenstall: <list><p type="listitem"><em type="italic">goalmmát </em>er <em type="italic">3. </em>, eller <em type="italic">3. </em>er <em type="italic">goalmmát </em></p></list></p>
-      <p type="listitem">Klokkeslett: <list><p type="listitem"><em type="italic">beal guokte </em>er <em type="italic">1:30 </em>eller <em type="italic">13:30 </em>, eller <em type="italic">1:30 </em>er <em type="italic">beal guokte </em></p></list></p>
-      <p type="listitem" xml:lang="nno">Datoer: <list><p type="listitem"><em type="italic">guovvamánu 10. b. </em>er <em type="italic">10.2 </em>, eller <em type="italic">10.2 </em>er <em type="italic">guovvamánu 10. b. </em></p></list></p>
-    </list>
-    <p>Link til Numra</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Numra</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>139</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/numra.nob.html</origFileName><parallel_text xml:lang="eng" location="numra.eng.html"/><parallel_text xml:lang="fin" location="numra.fin.html"/><parallel_text xml:lang="sme" location="numra.html"/><parallel_text xml:lang="swe" location="numra.swe.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="kal">Numra</p>
+<list><p type="listitem" xml:lang="swe">Valgmuligheter</p>
+</list><p>Numra er et program for å øve seg på tallord, klokkeslett og datoer. Man kan trene fra tall til ord, eller fra ord til tall. Numra passar for alle; skal man lære et språk må man kunne telle.</p>
+<p type="title" xml:lang="swe">Valgmuligheter</p>
+<list><p type="listitem">Tallområde: <list><p type="listitem">0-10, 0-20, 0-100 eller 0-1000</p>
+</list></p>
+<p type="listitem">Grunntall: <list><p type="listitem"><em type="italic">3 </em>er <em type="italic">golbma </em>, eller <em type="italic">golbma </em>er <em type="italic">3 </em></p>
+</list></p>
+<p type="listitem">Ordenstall: <list><p type="listitem"><em type="italic">goalmmát </em>er <em type="italic">3. </em>, eller <em type="italic">3. </em>er <em type="italic">goalmmát </em></p>
+</list></p>
+<p type="listitem">Klokkeslett: <list><p type="listitem"><em type="italic">beal guokte </em>er <em type="italic">1:30 </em>eller <em type="italic">13:30 </em>, eller <em type="italic">1:30 </em>er <em type="italic">beal guokte </em></p>
+</list></p>
+<p type="listitem" xml:lang="nno">Datoer: <list><p type="listitem"><em type="italic">guovvamánu 10. b. </em>er <em type="italic">10.2 </em>, eller <em type="italic">10.2 </em>er <em type="italic">guovvamánu 10. b. </em></p>
+</list></p>
+</list><p>Link til Numra</p>
+</body></document>

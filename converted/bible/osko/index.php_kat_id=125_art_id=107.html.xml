@@ -1,33 +1,5 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>116</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=125&amp;art_id=107</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=125_art_id=107.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=125_art_id=107.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskransen</p>
-    <p type="title">Hvilestedet</p>
-    <p>Hold på den andre kjærlighetsperlen. Den skal minne deg om det å dele kjærlighet med andre. Når du er stille sammen med denne perlen kan du tenke på hvor godt det er når en kan dele en glede med noen. Du kan tenke på situasjoner du har opplevd av vennskap og varme og kjærlighet. La denne perlen romme noen av dine gode erfaringer av å dele med andre mennesker. Når du tenker på dem kan du bli inspirert til å la kjærligheten til andre bli en viktig kraft i ditt liv. Jesus var et kjærlighetsfullt menneske som delte med menneskene rundt seg. Det var derfor vennene hans var så glad i han.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>116</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=125&amp;art_id=107</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=125_art_id=107.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=125_art_id=107.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskransen</p>
+<p type="title">Hvilestedet</p>
+<p>Hold på den andre kjærlighetsperlen. Den skal minne deg om det å dele kjærlighet med andre. Når du er stille sammen med denne perlen kan du tenke på hvor godt det er når en kan dele en glede med noen. Du kan tenke på situasjoner du har opplevd av vennskap og varme og kjærlighet. La denne perlen romme noen av dine gode erfaringer av å dele med andre mennesker. Når du tenker på dem kan du bli inspirert til å la kjærligheten til andre bli en viktig kraft i ditt liv. Jesus var et kjærlighetsfullt menneske som delte med menneskene rundt seg. Det var derfor vennene hans var så glad i han.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

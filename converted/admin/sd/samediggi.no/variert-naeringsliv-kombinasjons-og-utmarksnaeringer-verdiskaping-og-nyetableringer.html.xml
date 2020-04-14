@@ -1,81 +1,40 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Attraktive lokalsamfunn / Stipend og tilskudd / Næringer / Forsiden - Sametinget</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>461</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Stipend-og-tilskudd/Attraktive-lokalsamfunn</origFileName>
-    <parallel_text xml:lang="sme" location="manggalagan-ealahusat-lotnolas-ja-meahcceealahusat-arvohahkan-ja-oddaasaheamit.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Attraktive lokalsamfunn</p>
-    <p>
-      <em type="bold">Åpen søknadsfrist. </em>
-    </p>
-    <p>Sametinget satser på tiltak som kan bidra til attraktive lokalsamfunn. I 2015 kan du søke om tilskudd til ulike tiltak som vil bidra til næringsutvikling innenfor flere sektorer.</p>
-    <p>
-      <em type="bold">Næringsliv og bedriftsutvikling </em>
-    </p>
-    <list>
-      <p type="listitem">Sametinget kan gi tilskudd til utviklingstiltak og investeringer som bidrar til en betydelig grad av bedriftsutvikling</p>
-      <p type="listitem">Sametinget kan gi tilskudd til samarbeidsprosjekter og tilretteleggende tiltak som bidrar til bedrifts- og næringsutvikling</p>
-    </list>
-    <p>Hvem kan søke?</p>
-    <p>Enkelmannsforetak og bedrifter, institusjoner og organisasjoner som er registrert i enhetsregistret.</p>
-    <p>Hvor mye støtte kan du søke om?</p>
-    <p>Sametinget kan bidra med støtte inntil 35 % av godkjente kostnader, maksimalt tilskudd er kr 500 000.</p>
-    <p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen.</p>
-    <p>Kontaktperson: Per Oskar Andersen, tlf.: +47 78 47 40 15</p>
-    <p>
-      <em type="bold">Utmarksnæring, videreforedling, Samisk reiseliv og Samisk kulturnæring </em>
-    </p>
-    <list>
-      <p type="listitem">Sametinget kan gi tilskudd til investeringer som gir lokal videreforedling og økt omsetning av råvarer fra samiske områder.</p>
-      <p type="listitem">Sametinget kan gi tilskudd til samiske reiselivsbedrifter og opplevelsesbaserte reiselivsaktiviteter, der ekthet og troverdighet er i fokus.</p>
-      <p type="listitem">Sametinget kan gi tilskudd til bedrifter som satser innenfor kulturnæring, der samisk kulturuttrykk er kjerne i virksomheten</p>
-    </list>
-    <p>Hvem kan søke?</p>
-    <p>Enkelmannsforetak og bedrifter, institusjoner og organisasjoner som er registrert i enhetsregistret</p>
-    <p>Hvor mye støtte kan du søke om?</p>
-    <p>Sametinget kan gi inntil 50 % tilskudd av godkjente kostnader, maksimalt er kr 500 000.</p>
-    <p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen</p>
-    <p>Kontaktperson:</p>
-    <p>Utmarksnæring, videreforedling, Samisk reiseliv: Seniorrådgiver Jørn Gunnar Olsen, tlf: +47 99 30 78 06</p>
-    <p>Kulturnæring og Samisk reiseliv: Rådgiver Ragnhild Dalheim Eriksen, tlf.: +47 78 47 40 88</p>
-    <p>
-      <em type="bold">Etablererstipend </em>
-    </p>
-    <p>Sametinget kan gi tilskudd til etablerere som vil satse innenfor utmarksnæring og videreforedling, Samisk reiseliv eller Samisk kulturnæring</p>
-    <p>Hvem kan søke?</p>
-    <p>Enkeltpersoner og bedrifter i startfasen som vil utvikle utmarksnæring og videreforedling, Samisk reiseliv eller Samisk kulturnæring</p>
-    <p>Hvor mye støtte kan du søke om?</p>
-    <list>
-      <p type="listitem">Du kan søke om inntil 75 % stipend av godkjente kostnader, inntil kr 200 000.</p>
-      <p type="listitem">Egen lønn kan utgjøre inntil kr 12 000 pr. måned.</p>
-      <p type="listitem">Til planlegging i forkant av en bedriftsetablering (utviklingsfasen) kan det gis tilskudd til egen lønn i maksimalt 6 måneder,</p>
-      <p type="listitem">I forbindelse med selve etableringen (etableringsfasen) i maksimalt 12 måneder.</p>
-      <p type="listitem">Egen lønn kan avkortes dersom stipendmottaker har annen inntekt i stipendperioden.</p>
-    </list>
-    <p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen</p>
-    <p>Kontaktperson: Seniorrådgiver Jørn Gunnar Olsen, tlf.: +47 99 30 78 06</p>
-    <p>Søknader vil bli vurdert ut i fra økonomiske, markedsmessige, tekniske, samfunnsmessig nytte, kunstneriske, faglige og andre relevante hensyn. For eksempel kan søker bli bedt om vise til at investeringen vil bidra til økt omsetning, økt sysselsetting, eller økt lønnsomhet etc.</p>
-    <p>Ta gjerne kontakt med saksbehandler før du sender inn søknaden for mer informasjon.</p>
-    <p>Sametinget har samlet satt av 10 mill kr til tiltak som vil bidra til Attraktive lokalsamfunn.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Attraktive lokalsamfunn / Stipend og tilskudd / Næringer / Forsiden - Sametinget</title><genre code="admin"/><author><unknown/></author><wordcount>461</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Stipend-og-tilskudd/Attraktive-lokalsamfunn</origFileName><parallel_text xml:lang="sme" location="manggalagan-ealahusat-lotnolas-ja-meahcceealahusat-arvohahkan-ja-oddaasaheamit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Attraktive lokalsamfunn</p>
+<p><em type="bold">Åpen søknadsfrist. </em></p>
+<p>Sametinget satser på tiltak som kan bidra til attraktive lokalsamfunn. I 2015 kan du søke om tilskudd til ulike tiltak som vil bidra til næringsutvikling innenfor flere sektorer.</p>
+<p><em type="bold">Næringsliv og bedriftsutvikling </em></p>
+<list><p type="listitem">Sametinget kan gi tilskudd til utviklingstiltak og investeringer som bidrar til en betydelig grad av bedriftsutvikling</p>
+<p type="listitem">Sametinget kan gi tilskudd til samarbeidsprosjekter og tilretteleggende tiltak som bidrar til bedrifts- og næringsutvikling</p>
+</list><p>Hvem kan søke?</p>
+<p>Enkelmannsforetak og bedrifter, institusjoner og organisasjoner som er registrert i enhetsregistret.</p>
+<p>Hvor mye støtte kan du søke om?</p>
+<p>Sametinget kan bidra med støtte inntil 35 % av godkjente kostnader, maksimalt tilskudd er kr 500 000.</p>
+<p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen.</p>
+<p>Kontaktperson: Per Oskar Andersen, tlf.: +47 78 47 40 15</p>
+<p><em type="bold">Utmarksnæring, videreforedling, Samisk reiseliv og Samisk kulturnæring </em></p>
+<list><p type="listitem">Sametinget kan gi tilskudd til investeringer som gir lokal videreforedling og økt omsetning av råvarer fra samiske områder.</p>
+<p type="listitem">Sametinget kan gi tilskudd til samiske reiselivsbedrifter og opplevelsesbaserte reiselivsaktiviteter, der ekthet og troverdighet er i fokus.</p>
+<p type="listitem">Sametinget kan gi tilskudd til bedrifter som satser innenfor kulturnæring, der samisk kulturuttrykk er kjerne i virksomheten</p>
+</list><p>Hvem kan søke?</p>
+<p>Enkelmannsforetak og bedrifter, institusjoner og organisasjoner som er registrert i enhetsregistret</p>
+<p>Hvor mye støtte kan du søke om?</p>
+<p>Sametinget kan gi inntil 50 % tilskudd av godkjente kostnader, maksimalt er kr 500 000.</p>
+<p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen</p>
+<p>Kontaktperson:</p>
+<p>Utmarksnæring, videreforedling, Samisk reiseliv: Seniorrådgiver Jørn Gunnar Olsen, tlf: +47 99 30 78 06</p>
+<p>Kulturnæring og Samisk reiseliv: Rådgiver Ragnhild Dalheim Eriksen, tlf.: +47 78 47 40 88</p>
+<p><em type="bold">Etablererstipend </em></p>
+<p>Sametinget kan gi tilskudd til etablerere som vil satse innenfor utmarksnæring og videreforedling, Samisk reiseliv eller Samisk kulturnæring</p>
+<p>Hvem kan søke?</p>
+<p>Enkeltpersoner og bedrifter i startfasen som vil utvikle utmarksnæring og videreforedling, Samisk reiseliv eller Samisk kulturnæring</p>
+<p>Hvor mye støtte kan du søke om?</p>
+<list><p type="listitem">Du kan søke om inntil 75 % stipend av godkjente kostnader, inntil kr 200 000.</p>
+<p type="listitem">Egen lønn kan utgjøre inntil kr 12 000 pr. måned.</p>
+<p type="listitem">Til planlegging i forkant av en bedriftsetablering (utviklingsfasen) kan det gis tilskudd til egen lønn i maksimalt 6 måneder,</p>
+<p type="listitem">I forbindelse med selve etableringen (etableringsfasen) i maksimalt 12 måneder.</p>
+<p type="listitem">Egen lønn kan avkortes dersom stipendmottaker har annen inntekt i stipendperioden.</p>
+</list><p>For mer informasjon – se søknadsskjema og Sametingets regelverk for ordningen</p>
+<p>Kontaktperson: Seniorrådgiver Jørn Gunnar Olsen, tlf.: +47 99 30 78 06</p>
+<p>Søknader vil bli vurdert ut i fra økonomiske, markedsmessige, tekniske, samfunnsmessig nytte, kunstneriske, faglige og andre relevante hensyn. For eksempel kan søker bli bedt om vise til at investeringen vil bidra til økt omsetning, økt sysselsetting, eller økt lønnsomhet etc.</p>
+<p>Ta gjerne kontakt med saksbehandler før du sender inn søknaden for mer informasjon.</p>
+<p>Sametinget har samlet satt av 10 mill kr til tiltak som vil bidra til Attraktive lokalsamfunn.</p>
+</body></document>

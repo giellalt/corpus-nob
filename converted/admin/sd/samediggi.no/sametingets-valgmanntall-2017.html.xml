@@ -1,58 +1,35 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Sametingets valgmanntall 2017</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>76</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Valg/Valgmanntall/Sametingets-valgmanntall-2017</origFileName>
-    <parallel_text xml:lang="sme" location="samedikki-jienastuslohku-2017.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sametingets valgmanntall 2017</p>
-    <p>Sametingets valgmanntall pr. 30.06.17.</p>
-    <p>1 Østre valgkrets</p>
-    <p xml:lang="koi">2 303</p>
-    <p xml:lang="sme">2 Ávjovári valgkrets</p>
-    <p xml:lang="koi">3 738</p>
-    <p>3 Nordre valgkrets</p>
-    <p xml:lang="koi">2 540</p>
-    <p>4 Gáisi valgkrets</p>
-    <p xml:lang="koi">2 547</p>
-    <p>5 Vesthavet valgkrets</p>
-    <p xml:lang="koi">1 788</p>
-    <p>6 Sørsamisk valgkrets</p>
-    <p xml:lang="koi">1 148</p>
-    <p>7 Sør-Norge valgkrets</p>
-    <p xml:lang="koi">2 894</p>
-    <p xml:lang="est">Totalt</p>
-    <p xml:lang="koi">16 958</p>
-    <p xml:lang="nno">18-19 år</p>
-    <p xml:lang="nno">20-24 år</p>
-    <p xml:lang="nno">25-29 år</p>
-    <p xml:lang="nno">30-39 år</p>
-    <p xml:lang="nno">40-49 år</p>
-    <p xml:lang="nno">50-59 år</p>
-    <p xml:lang="nno">60-66 år</p>
-    <p xml:lang="nno">67 år og over</p>
-    <p xml:lang="koi">218</p>
-    <p xml:lang="koi">782</p>
-    <p xml:lang="koi">1012</p>
-    <p xml:lang="koi">2 768</p>
-    <p xml:lang="koi">3 401</p>
-    <p xml:lang="koi">3 559</p>
-    <p xml:lang="koi">2 166</p>
-    <p xml:lang="koi">3 052</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Sametingets valgmanntall 2017</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>76</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Valg/Valgmanntall/Sametingets-valgmanntall-2017</origFileName><parallel_text xml:lang="sme" location="samedikki-jienastuslohku-2017.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sametingets valgmanntall 2017</p>
+<p>Sametingets valgmanntall pr. 30.06.17.</p>
+<p>1 Østre valgkrets</p>
+<p xml:lang="vep">2 303</p>
+<p xml:lang="sme">2 Ávjovári valgkrets</p>
+<p xml:lang="vep">3 738</p>
+<p>3 Nordre valgkrets</p>
+<p xml:lang="vep">2 540</p>
+<p>4 Gáisi valgkrets</p>
+<p xml:lang="vep">2 547</p>
+<p>5 Vesthavet valgkrets</p>
+<p xml:lang="vep">1 788</p>
+<p>6 Sørsamisk valgkrets</p>
+<p xml:lang="vep">1 148</p>
+<p>7 Sør-Norge valgkrets</p>
+<p xml:lang="vep">2 894</p>
+<p xml:lang="est">Totalt</p>
+<p xml:lang="vep">16 958</p>
+<p xml:lang="nno">18-19 år</p>
+<p xml:lang="nno">20-24 år</p>
+<p xml:lang="nno">25-29 år</p>
+<p xml:lang="nno">30-39 år</p>
+<p xml:lang="nno">40-49 år</p>
+<p xml:lang="nno">50-59 år</p>
+<p xml:lang="nno">60-66 år</p>
+<p xml:lang="nno">67 år og over</p>
+<p xml:lang="vep">218</p>
+<p xml:lang="vep">782</p>
+<p xml:lang="vep">1012</p>
+<p xml:lang="vep">2 768</p>
+<p xml:lang="vep">3 401</p>
+<p xml:lang="vep">3 559</p>
+<p xml:lang="vep">2 166</p>
+<p xml:lang="vep">3 052</p>
+</body></document>

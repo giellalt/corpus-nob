@@ -1,136 +1,110 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>206</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Info/Sametingsvalget-2013-innkomne-listeforslag</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingsvalget 2013 - innkomne listeforslag / Info / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
-    <p type="title">Sametingsvalget 2013 - innkomne listeforslag</p>
-    <p xml:lang="sme">14. mai 2013</p>
-    <p>Sametinget har mottatt 49 listeforslag til sametingsvalget 2013.</p>
-    <p type="title">Valgkrets 1</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>32,54 kB</p>
-    <p xml:lang="sme">Arja.pdf</p>
-    <p>268,40 kB</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>641,19 kB</p>
-    <p>Høyre.pdf</p>
-    <p>33,83 kB</p>
-    <p xml:lang="sme">NSR_Sab.pdf</p>
-    <p>36,36 kB</p>
-    <p>Kristelig folkeparti 1.pdf</p>
-    <p>89,53 kB</p>
-    <p>Senterpartiet.pdf</p>
-    <p>27,65 kB</p>
-    <p type="title">Valgkrets 2</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>3,20 MB</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>574,82 kB</p>
-    <p>Høyre.pdf</p>
-    <p>88,54 kB</p>
-    <p>Samefolkets parti.pdf</p>
-    <p>5,64 kB</p>
-    <p>Senterpartiet.pdf</p>
-    <p>709,30 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>575,08 kB</p>
-    <p>Næring og natur.pdf</p>
-    <p>664,74 kB</p>
-    <p>Venstre.pdf</p>
-    <p>651,29 kB</p>
-    <p>Avjovari Fastboendes liste.pdf</p>
-    <p>159,90 kB</p>
-    <p xml:lang="sme">Johttisápmelaččaid listu.pdf</p>
-    <p>107,54 kB</p>
-    <p xml:lang="sme">Arja.pdf</p>
-    <p>122,77 kB</p>
-    <p>Kristelig folkeparti.pdf</p>
-    <p>61,29 kB</p>
-    <p type="title">Valgkrets 3</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>63,98 kB</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>53,51 kB</p>
-    <p>Høyre.pdf</p>
-    <p>32,63 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>33,55 kB</p>
-    <p xml:lang="sme">Nordkalottfolket.pdf</p>
-    <p>34,22 kB</p>
-    <p>Senterpartiet.pdf</p>
-    <p>27,43 kB</p>
-    <p xml:lang="sme">Arja.pdf</p>
-    <p>104,70 kB</p>
-    <p type="title">Valgkrets 4</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>3,02 MB</p>
-    <p>Høyre.pdf</p>
-    <p>30,87 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>618,08 kB</p>
-    <p xml:lang="sme">SP.pdf</p>
-    <p>22,62 kB</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>141,23 kB</p>
-    <p xml:lang="sme">Arja.pdf</p>
-    <p>192,08 kB</p>
-    <p type="title">Valgkrets 5</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>2,97 MB</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>24,16 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>523,26 kB</p>
-    <p>Høyre.pdf</p>
-    <p>31,37 kB</p>
-    <p>Senterpartiet.pdf</p>
-    <p>27,31 kB</p>
-    <p type="title">Valgkrets 6</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>51,74 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>570,09 kB</p>
-    <p xml:lang="sme">Åarjel-Saemiej Gielh.pdf</p>
-    <p>411,35 kB</p>
-    <p>Senterpartiet.pdf</p>
-    <p>252,32 kB</p>
-    <p type="title">Valgkrets 7</p>
-    <p>Arbeiderpartiet.pdf</p>
-    <p>33,88 kB</p>
-    <p>Fremskrittspartiet.pdf</p>
-    <p>792,51 kB</p>
-    <p>Høyre.pdf</p>
-    <p>33,81 kB</p>
-    <p>Samer sørpå.pdf</p>
-    <p>42,86 kB</p>
-    <p>Samefolkets parti.pdf</p>
-    <p>288,84 kB</p>
-    <p xml:lang="sme">NSR.pdf</p>
-    <p>39,45 kB</p>
-    <p xml:lang="sme">Arja.pdf</p>
-    <p>602,10 kB</p>
-    <p xml:lang="sme">Nordkalottfolket.pdf</p>
-    <p>396,35 kB</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>206</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Info/Sametingsvalget-2013-innkomne-listeforslag</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingsvalget 2013 - innkomne listeforslag / Info / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
+<p type="title">Sametingsvalget 2013 - innkomne listeforslag</p>
+<p xml:lang="sme">14. mai 2013</p>
+<p>Sametinget har mottatt 49 listeforslag til sametingsvalget 2013.</p>
+<p type="title">Valgkrets 1</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>32,54 kB</p>
+<p xml:lang="sme">Arja.pdf</p>
+<p>268,40 kB</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>641,19 kB</p>
+<p>Høyre.pdf</p>
+<p>33,83 kB</p>
+<p xml:lang="sme">NSR_Sab.pdf</p>
+<p>36,36 kB</p>
+<p>Kristelig folkeparti 1.pdf</p>
+<p>89,53 kB</p>
+<p>Senterpartiet.pdf</p>
+<p>27,65 kB</p>
+<p type="title">Valgkrets 2</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>3,20 MB</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>574,82 kB</p>
+<p>Høyre.pdf</p>
+<p>88,54 kB</p>
+<p>Samefolkets parti.pdf</p>
+<p>5,64 kB</p>
+<p>Senterpartiet.pdf</p>
+<p>709,30 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>575,08 kB</p>
+<p>Næring og natur.pdf</p>
+<p>664,74 kB</p>
+<p>Venstre.pdf</p>
+<p>651,29 kB</p>
+<p>Avjovari Fastboendes liste.pdf</p>
+<p>159,90 kB</p>
+<p xml:lang="sme">Johttisápmelaččaid listu.pdf</p>
+<p>107,54 kB</p>
+<p xml:lang="sme">Arja.pdf</p>
+<p>122,77 kB</p>
+<p>Kristelig folkeparti.pdf</p>
+<p>61,29 kB</p>
+<p type="title">Valgkrets 3</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>63,98 kB</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>53,51 kB</p>
+<p>Høyre.pdf</p>
+<p>32,63 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>33,55 kB</p>
+<p xml:lang="sme">Nordkalottfolket.pdf</p>
+<p>34,22 kB</p>
+<p>Senterpartiet.pdf</p>
+<p>27,43 kB</p>
+<p xml:lang="sme">Arja.pdf</p>
+<p>104,70 kB</p>
+<p type="title">Valgkrets 4</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>3,02 MB</p>
+<p>Høyre.pdf</p>
+<p>30,87 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>618,08 kB</p>
+<p xml:lang="sme">SP.pdf</p>
+<p>22,62 kB</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>141,23 kB</p>
+<p xml:lang="sme">Arja.pdf</p>
+<p>192,08 kB</p>
+<p type="title">Valgkrets 5</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>2,97 MB</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>24,16 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>523,26 kB</p>
+<p>Høyre.pdf</p>
+<p>31,37 kB</p>
+<p>Senterpartiet.pdf</p>
+<p>27,31 kB</p>
+<p type="title">Valgkrets 6</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>51,74 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>570,09 kB</p>
+<p xml:lang="sme">Åarjel-Saemiej Gielh.pdf</p>
+<p>411,35 kB</p>
+<p>Senterpartiet.pdf</p>
+<p>252,32 kB</p>
+<p type="title">Valgkrets 7</p>
+<p>Arbeiderpartiet.pdf</p>
+<p>33,88 kB</p>
+<p>Fremskrittspartiet.pdf</p>
+<p>792,51 kB</p>
+<p>Høyre.pdf</p>
+<p>33,81 kB</p>
+<p>Samer sørpå.pdf</p>
+<p>42,86 kB</p>
+<p>Samefolkets parti.pdf</p>
+<p>288,84 kB</p>
+<p xml:lang="sme">NSR.pdf</p>
+<p>39,45 kB</p>
+<p xml:lang="sme">Arja.pdf</p>
+<p>602,10 kB</p>
+<p xml:lang="sme">Nordkalottfolket.pdf</p>
+<p>396,35 kB</p>
+</body></document>

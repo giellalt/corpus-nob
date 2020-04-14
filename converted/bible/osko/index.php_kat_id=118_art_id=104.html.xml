@@ -1,34 +1,6 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>109</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=118&amp;art_id=104</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=118_art_id=104.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=118_art_id=104.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskransen</p>
-    <p type="title">I Getsemane</p>
-    <p>Så kom Jesus sammen med disiplene til et sted som heter Getsemane, og han sa til dem: <span type="quote">«Sett dere her, mens jeg går dit bort og ber.»</span> Han tok med seg Peter og de to Sebedeus-sønnene, og han ble grepet av sorg og gru. Da sa han til dem: <span type="quote">« Min sjel er tynget til døden av sorg. Bli her og våk med meg!»</span> Han gikk fram et lite stykke, kastet seg ned med ansiktet mot jorden og ba: <span type="quote">«Min Far! Er det mulig, så la dette begeret gå meg forbi. Men ikke som jeg vil, bare som du vil.»</span></p>
-    <p>Matt. Kap. 26:36 -46</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>109</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=118&amp;art_id=104</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=118_art_id=104.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=118_art_id=104.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskransen</p>
+<p type="title">I Getsemane</p>
+<p>Så kom Jesus sammen med disiplene til et sted som heter Getsemane, og han sa til dem: <span type="quote">«Sett dere her, mens jeg går dit bort og ber.»</span> Han tok med seg Peter og de to Sebedeus-sønnene, og han ble grepet av sorg og gru. Da sa han til dem: <span type="quote">« Min sjel er tynget til døden av sorg. Bli her og våk med meg!»</span> Han gikk fram et lite stykke, kastet seg ned med ansiktet mot jorden og ba: <span type="quote">«Min Far! Er det mulig, så la dette begeret gå meg forbi. Men ikke som jeg vil, bare som du vil.»</span></p>
+<p>Matt. Kap. 26:36 -46</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

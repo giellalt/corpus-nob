@@ -1,69 +1,44 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Sametingets medlemmer 1993-1997</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>203</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Politikk/Tidligere-sametingsrepresentanter/Sametingets-medlemmer-1993-1997</origFileName>
-    <parallel_text xml:lang="sme" location="samedikki-airasat-1993-1997.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sametingets medlemmer 1993-1997</p>
-    <p>Liste over sametingsrepresentanter i det 2. Sametinget, i perioden 1993-1997.</p>
-    <p>Andersen, Olav NSR</p>
-    <p xml:lang="sme">Bongo, Tore NSR</p>
-    <p>Dikkanen, Olav NSR</p>
-    <p xml:lang="nno">Eira, Ingar Sp</p>
-    <p xml:lang="sme">Eira, John Henrik NSR</p>
-    <p xml:lang="vep">Eriksen, Amund MNSP</p>
-    <p>Fossli, Inger-Ann NSR</p>
-    <p>Gaup, Inger Anne NSR</p>
-    <p xml:lang="sme">Guhttor, Máret NSR, sametingsrådsmedlem</p>
-    <p>Hansen, Hartvik SD</p>
-    <p xml:lang="nno">Haugen, Terje K. Ap</p>
-    <p>Henriksen, Marian NSR</p>
-    <p xml:lang="sme">Huuva, Magne A. NSR</p>
-    <p>Johnskareng, Berit NSR</p>
-    <p xml:lang="sma">Jonassen, Jarle NSR, sametingsrådsmedlem</p>
-    <p>Kappfjell, Odd MS</p>
-    <p xml:lang="nno">Kristiansen, Margrete Ap</p>
-    <p>Larsen, Eilif O. Ap</p>
-    <p>Magga, Ole Henrik NSR, president</p>
-    <p xml:lang="nno">Mathisen, Magnhild Ap</p>
-    <p>Mathisen, Peder Sp</p>
-    <p>Nilsen, Nils O. NSR</p>
-    <p>Nilssen, Berit NSR</p>
-    <p>Nystad, Alf E. NSR, sametingsrådsmedlem</p>
-    <p xml:lang="sme">Nystad, Ragnhild NSR</p>
-    <p xml:lang="sme">Nystø, Sven-Roald NSR</p>
-    <p>Olli, Egil Ap, møtelederskap</p>
-    <p xml:lang="nno">Olsen, Jens P. Ap</p>
-    <p>Oskal, Anders SF</p>
-    <p>Pavall, Ing-Lill NSR, visepresident</p>
-    <p>Pedersen, Aage NSR</p>
-    <p>Pedersen, Geir NSR</p>
-    <p>Pedersen, Roger OSF</p>
-    <p xml:lang="nno">Pedersen, Steinar Ap</p>
-    <p xml:lang="nno">Sara, Johan Mikkel Ap</p>
-    <p xml:lang="sme">Skum, Heaika DL, møtelederskap</p>
-    <p xml:lang="nno">Solli, Per Magne Ap</p>
-    <p>Trollvik, Mary NSR, møtelederskap</p>
-    <p xml:lang="sma">Vangberg, Åsta NSR</p>
-    <p>
-      <em type="italic">Tegnforklaring på gruppene i Sametinget: </em>
-    </p>
-    <p>Ap (9 repr.) - Norgga Bargiidbellodat/Det Norske Arbeiderpartiet, NSR (22 repr.) - Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund, Sp (2 repr.) - Senterpartiet, MNSP - Midtre-Nordland Samepolitiske Parti, SD - Sámedemokráhtaid listu/Samedemokratene, MS - Maadtoej Sijte, SF - Samefolkets Fellesliste, OSF - Ofoten samiske forening, DL - Dáloniid listu/Fastboendes liste</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Sametingets medlemmer 1993-1997</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>203</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Politikk/Tidligere-sametingsrepresentanter/Sametingets-medlemmer-1993-1997</origFileName><parallel_text xml:lang="sme" location="samedikki-airasat-1993-1997.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sametingets medlemmer 1993-1997</p>
+<p>Liste over sametingsrepresentanter i det 2. Sametinget, i perioden 1993-1997.</p>
+<p>Andersen, Olav NSR</p>
+<p xml:lang="sme">Bongo, Tore NSR</p>
+<p>Dikkanen, Olav NSR</p>
+<p xml:lang="nno">Eira, Ingar Sp</p>
+<p xml:lang="sme">Eira, John Henrik NSR</p>
+<p>Eriksen, Amund MNSP</p>
+<p>Fossli, Inger-Ann NSR</p>
+<p>Gaup, Inger Anne NSR</p>
+<p xml:lang="sme">Guhttor, Máret NSR, sametingsrådsmedlem</p>
+<p>Hansen, Hartvik SD</p>
+<p xml:lang="nno">Haugen, Terje K. Ap</p>
+<p>Henriksen, Marian NSR</p>
+<p xml:lang="sme">Huuva, Magne A. NSR</p>
+<p>Johnskareng, Berit NSR</p>
+<p xml:lang="sma">Jonassen, Jarle NSR, sametingsrådsmedlem</p>
+<p>Kappfjell, Odd MS</p>
+<p xml:lang="nno">Kristiansen, Margrete Ap</p>
+<p xml:lang="nno">Larsen, Eilif O. Ap</p>
+<p>Magga, Ole Henrik NSR, president</p>
+<p xml:lang="nno">Mathisen, Magnhild Ap</p>
+<p>Mathisen, Peder Sp</p>
+<p>Nilsen, Nils O. NSR</p>
+<p>Nilssen, Berit NSR</p>
+<p>Nystad, Alf E. NSR, sametingsrådsmedlem</p>
+<p xml:lang="sme">Nystad, Ragnhild NSR</p>
+<p xml:lang="sme">Nystø, Sven-Roald NSR</p>
+<p>Olli, Egil Ap, møtelederskap</p>
+<p xml:lang="nno">Olsen, Jens P. Ap</p>
+<p>Oskal, Anders SF</p>
+<p>Pavall, Ing-Lill NSR, visepresident</p>
+<p>Pedersen, Aage NSR</p>
+<p>Pedersen, Geir NSR</p>
+<p>Pedersen, Roger OSF</p>
+<p xml:lang="nno">Pedersen, Steinar Ap</p>
+<p xml:lang="nno">Sara, Johan Mikkel Ap</p>
+<p xml:lang="sme">Skum, Heaika DL, møtelederskap</p>
+<p xml:lang="nno">Solli, Per Magne Ap</p>
+<p>Trollvik, Mary NSR, møtelederskap</p>
+<p xml:lang="sma">Vangberg, Åsta NSR</p>
+<p><em type="italic">Tegnforklaring på gruppene i Sametinget: </em></p>
+<p>Ap (9 repr.) - Norgga Bargiidbellodat/Det Norske Arbeiderpartiet, NSR (22 repr.) - Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund, Sp (2 repr.) - Senterpartiet, MNSP - Midtre-Nordland Samepolitiske Parti, SD - Sámedemokráhtaid listu/Samedemokratene, MS - Maadtoej Sijte, SF - Samefolkets Fellesliste, OSF - Ofoten samiske forening, DL - Dáloniid listu/Fastboendes liste</p>
+</body></document>

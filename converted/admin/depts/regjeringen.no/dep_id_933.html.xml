@@ -1,63 +1,33 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Departemeanttat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>427</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep.html?id=933</origFileName>
-    <parallel_text xml:lang="eng" location="dep_id_933.html"/>
-    <parallel_text xml:lang="nno" location="dep_id_933.html"/>
-    <parallel_text xml:lang="sme" location="dep_id_933.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Departementene - regjeringen.no</p>
-    <p type="title">Statsministerens kontor</p>
-    <p>Statsministeren er den fremste blant regjeringsmedlemmene og har ansvar for å samordne og lede arbeidet i Regjeringen. Statsministerens kontor bistår statsministeren i å lede og samordne arbeidet i Regjeringen.</p>
-    <p type="title">Arbeids- og sosialdepartementet</p>
-    <p>Arbeids- og sosialdepartementet har ansvar for politikken knyttet til arbeidsmarked, arbeidsmiljø, pensjoner og velferd.</p>
-    <p type="title">Barne-, likestillings- og inkluderingsdepartementet</p>
-    <p>BLD har ansvar for barn og unges oppvekst- og levekår, familie- og samliv, forbrukerinteresser, kjønnslikestilling, antidiskriminering og integrering av innvandrere.</p>
-    <p type="title">Finansdepartementet</p>
-    <p>Finansdepartementet har ansvaret for å planlegge og iverksette den økonomiske politikken, overvåke finansmarkedene og samordne arbeidet med statsbudsjettet.</p>
-    <p type="title">Forsvarsdepartementet</p>
-    <p>Forsvarsdepartementet er et regjeringskontor med ansvar for utforming og iverksetting av norsk sikkerhets- og forsvarspolitikk.</p>
-    <p type="title">Helse- og omsorgsdepartementet</p>
-    <p>Helse- og omsorgsdepartementet har det overordnede ansvaret for at befolkningen får gode og likeverdige helse- og omsorgstjenester, uavhengig av blant annet bosted og økonomi. Departementet styrer helse- og omsorgstjenesten gjennom et omfattende lovverk, årlige bevilgninger og ved hjelp av statlige etater, virksomheter og foretak.</p>
-    <p type="title">Justis- og beredskapsdepartementet</p>
-    <p>Justis- og beredskapsdepartementet har ansvar for samfunnssikkerhet og beredskap, kriminalitetsbekjempelse og kriminalomsorg, innvandring, domstoler og lovarbeid.</p>
-    <p type="title">Klima- og miljødepartementet</p>
-    <p>Klima- og miljødepartementet har hovedansvaret for å ivareta helheten i regjeringens miljøpolitikk. For å nå målet om en bærekraftig utvikling må miljøhensyn integreres i alle deler av samfunnet. Ved siden av å initiere, utvikle og gjennomføre egne tiltak gjennom egne virkemidler, er KLD en pådriver og koordinator ovenfor andre sektormyndigheter og skal sørge for resultatoppfølging av miljøpolitikken i alle deler av samfunnet. Miljøforvaltningen har også ansvaret for å sikre at det internasjonale miljøsamarbeidet bygges ut og styrkes.</p>
-    <p type="title">Kommunal- og moderniseringsdepartementet</p>
-    <p>Kommunal- og moderniseringsdepartementet har ansvar for spørsmål som gjelder bolig‑ og bygningspolitikk, kommuneøkonomi, samordning av fornyingsarbeidet i offentlig sektor, IKT-politikk, regional‑ og distriktspolitikk, forvaltningspolitikk, lokalforvaltning, gjennomføring av valg, statlig arbeidsgiverpolitikk, samer og nasjonale minoriteter, forvaltningsoppgaver etter plan- og bygningslovens bestemmelser om planlegging og konsekvensutredninger, samt den nasjonale kart- og geodatapolitikken.</p>
-    <p type="title">Kulturdepartementet</p>
-    <p>Kulturdepartementet har ansvar for kultur, kirke, medier, idrett, frivillig virksomhet, tros- og livssynssamfunn og pengespill og lotteri</p>
-    <p type="title">Kunnskapsdepartementet</p>
-    <p>Kunnskapsdepartementet (KD) har ansvaret for barnehager, grunnskole, kulturskole, videregående opplæring, høyere utdanning og forskning.</p>
-    <p type="title">Landbruks- og matdepartementet</p>
-    <p>Landbruks- og matdepartementet har hovedansvar for mat- og landbrukspolitikken.</p>
-    <p type="title">Nærings- og fiskeridepartementet</p>
-    <p type="title">Olje- og energidepartementet</p>
-    <p>Olje- og energidepartementets hovedoppgave er å tilrettelegge en samordnet og helhetlig energipolitikk.</p>
-    <p type="title">Samferdselsdepartementet</p>
-    <p>Samferdselsdepartementets ansvarsområder er transport av personer og gods, telekommunikasjon og posttjenester.</p>
-    <p type="title">Utenriksdepartementet</p>
-    <p>Utenriksdepartementets oppgave er å arbeide for Norges interesser internasjonalt. Norges interesser bestemmes blant annet av vår geografiske plassering i et strategisk område, vår åpne økonomi, vår posisjon som kyststat og forvalter av store marine ressurser og omfattende eksport av olje og gass.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Departemeanttat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>427</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep.html?id=933</origFileName><parallel_text xml:lang="eng" location="dep_id_933.html"/><parallel_text xml:lang="nno" location="dep_id_933.html"/><parallel_text xml:lang="sme" location="dep_id_933.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Departementene - regjeringen.no</p>
+<p type="title">Statsministerens kontor</p>
+<p>Statsministeren er den fremste blant regjeringsmedlemmene og har ansvar for å samordne og lede arbeidet i Regjeringen. Statsministerens kontor bistår statsministeren i å lede og samordne arbeidet i Regjeringen.</p>
+<p type="title">Arbeids- og sosialdepartementet</p>
+<p>Arbeids- og sosialdepartementet har ansvar for politikken knyttet til arbeidsmarked, arbeidsmiljø, pensjoner og velferd.</p>
+<p type="title">Barne-, likestillings- og inkluderingsdepartementet</p>
+<p>BLD har ansvar for barn og unges oppvekst- og levekår, familie- og samliv, forbrukerinteresser, kjønnslikestilling, antidiskriminering og integrering av innvandrere.</p>
+<p type="title">Finansdepartementet</p>
+<p>Finansdepartementet har ansvaret for å planlegge og iverksette den økonomiske politikken, overvåke finansmarkedene og samordne arbeidet med statsbudsjettet.</p>
+<p type="title">Forsvarsdepartementet</p>
+<p>Forsvarsdepartementet er et regjeringskontor med ansvar for utforming og iverksetting av norsk sikkerhets- og forsvarspolitikk.</p>
+<p type="title">Helse- og omsorgsdepartementet</p>
+<p>Helse- og omsorgsdepartementet har det overordnede ansvaret for at befolkningen får gode og likeverdige helse- og omsorgstjenester, uavhengig av blant annet bosted og økonomi. Departementet styrer helse- og omsorgstjenesten gjennom et omfattende lovverk, årlige bevilgninger og ved hjelp av statlige etater, virksomheter og foretak.</p>
+<p type="title">Justis- og beredskapsdepartementet</p>
+<p>Justis- og beredskapsdepartementet har ansvar for samfunnssikkerhet og beredskap, kriminalitetsbekjempelse og kriminalomsorg, innvandring, domstoler og lovarbeid.</p>
+<p type="title">Klima- og miljødepartementet</p>
+<p>Klima- og miljødepartementet har hovedansvaret for å ivareta helheten i regjeringens miljøpolitikk. For å nå målet om en bærekraftig utvikling må miljøhensyn integreres i alle deler av samfunnet. Ved siden av å initiere, utvikle og gjennomføre egne tiltak gjennom egne virkemidler, er KLD en pådriver og koordinator ovenfor andre sektormyndigheter og skal sørge for resultatoppfølging av miljøpolitikken i alle deler av samfunnet. Miljøforvaltningen har også ansvaret for å sikre at det internasjonale miljøsamarbeidet bygges ut og styrkes.</p>
+<p type="title">Kommunal- og moderniseringsdepartementet</p>
+<p>Kommunal- og moderniseringsdepartementet har ansvar for spørsmål som gjelder bolig‑ og bygningspolitikk, kommuneøkonomi, samordning av fornyingsarbeidet i offentlig sektor, IKT-politikk, regional‑ og distriktspolitikk, forvaltningspolitikk, lokalforvaltning, gjennomføring av valg, statlig arbeidsgiverpolitikk, samer og nasjonale minoriteter, forvaltningsoppgaver etter plan- og bygningslovens bestemmelser om planlegging og konsekvensutredninger, samt den nasjonale kart- og geodatapolitikken.</p>
+<p type="title">Kulturdepartementet</p>
+<p>Kulturdepartementet har ansvar for kultur, kirke, medier, idrett, frivillig virksomhet, tros- og livssynssamfunn og pengespill og lotteri</p>
+<p type="title">Kunnskapsdepartementet</p>
+<p>Kunnskapsdepartementet (KD) har ansvaret for barnehager, grunnskole, kulturskole, videregående opplæring, høyere utdanning og forskning.</p>
+<p type="title">Landbruks- og matdepartementet</p>
+<p>Landbruks- og matdepartementet har hovedansvar for mat- og landbrukspolitikken.</p>
+<p type="title">Nærings- og fiskeridepartementet</p>
+<p type="title">Olje- og energidepartementet</p>
+<p>Olje- og energidepartementets hovedoppgave er å tilrettelegge en samordnet og helhetlig energipolitikk.</p>
+<p type="title">Samferdselsdepartementet</p>
+<p>Samferdselsdepartementets ansvarsområder er transport av personer og gods, telekommunikasjon og posttjenester.</p>
+<p type="title">Utenriksdepartementet</p>
+<p>Utenriksdepartementets oppgave er å arbeide for Norges interesser internasjonalt. Norges interesser bestemmes blant annet av vår geografiske plassering i et strategisk område, vår åpne økonomi, vår posisjon som kyststat og forvalter av store marine ressurser og omfattende eksport av olje og gass.</p>
+</body></document>

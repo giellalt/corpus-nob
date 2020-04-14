@@ -1,47 +1,25 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2016</year>
-    <wordcount>363</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://galdu.custompublish.com/urfolkskvinner-er-saerlig-utsatte-for-vold-og-andre-brudd-paa-menneskerettighetene.5841485-353621.html</origFileName>
-    <parallel_text xml:lang="eng" location="indigenous-women-in-particular-experience-violence-and-other-human-rights-abuses.5852426-353621.html"/>
-    <parallel_text xml:lang="sme" location="algoalbmotnissoniin-eambbo-riska-gillat-veahkavalddi-ja-eara-olmmovuoigatvuoarihkkumiid-go-earain.5852444-353621.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Urfolkskvinner er særlig utsatte for vold og andre brudd på menneskerettighetene - Gáldu</p>
-    <p>Hopp til hovedinnholdet på siden</p>
-    <p type="title" xml:lang="est">Tema</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Menneske <list><p type="listitem">Barn</p><p type="listitem" xml:lang="nno">Eldre</p><p type="listitem" xml:lang="deu">Familie</p><p type="listitem">Funksjonshemmede</p><p type="listitem">Kvinner</p><p type="listitem" xml:lang="nno">Ungdom</p></list></p>
-      <p type="listitem" xml:lang="isl">Natur</p>
-      <p type="listitem">Samfunn</p>
-    </list>
-    <p xml:lang="kal">Victoria Tauli Corpuz GUSTAVO AMADOR</p>
-    <p type="title">Urfolkskvinner er særlig utsatte for vold og andre brudd på menneskerettighetene</p>
-    <p>I morgen tirsdag 8. mars markeres den internasjonale kvinnedagen. Det er en viktig dag å markere når vi vet at urfolkskvinner og jenter er spesielt utsatte for vold og andre brudd på menneskerettighetene. Dette kommer fram i en rapport av FNs spesialrapportør for urfolksrettigheter Victoria Tauli Corpuz i 2015.</p>
-    <p>I mandatet til FNs spesialrapportør for urfolksrettigheter inngår det å legge spesielt vekt på urfolkskvinner og barns situasjon. Den tidligere spesialrapportøren James Anaya har trukket fram vold mot kvinner og jenter, utført av både urfolksmenn og utenforstående, som to viktige saker når det gjelder menneskerettighetssaker som påvirker urfolk. Spesialrapportør Victoria Tauli Corpuz har gjort en global studie av situasjonen for urfolkskvinner og jenter, og la høsten 2015 fram en egen rapport om dette. Konklusjonen er at urfolkskvinner er spesielt utsatt for vold og en rekke andre brudd på menneskerettighetene.</p>
-    <p>I februar 2016 har vi sett to eksempler på at brudd på menneskerettigheter overfor urfolkskvinner blir tatt på alvor. I Guatemala fikk urfolkskvinner medhold i at de har vært utsatt for grove menneskerettighetsbrudd i militærleiren Sepur Zarco i perioden 1982 til 1988. En tidligere offiser og en militærkommissær ble dømt for systematisk seksuell vold, tortur, slaveri forsvinninger og drap. Og i februar 2016 kunngjorde Canadas regjering at de har begynt en prosess for å gjennomføre en granskning av at omkring 1200 urfolkskvinner og jenter har forsvunnet eller blitt drept i løpet av de siste tretti årene.</p>
-    <p>
-      <em type="italic">FNs kvinnekommisjon </em>
-    </p>
-    <p>14. – 24. mars 2016 arrangeres et nytt årlig møte i FNs kvinnekommisjon i New York. Dette er en viktig internasjonal møteplass for å diskutere kvinners rettigheter og likestilling. Alle former for vold mot kvinner og jenter er et sentralt tema på møtet, og FNs kvinnekommisjon har også tatt opp urfolkskvinnenes situasjon når det gjelder vold mot kvinner og jenter.</p>
-    <p>Norge har sist rapportert til FNs kvinnekommisjon i 2010. Ny rapport avgis i 2016.</p>
-    <p>Av</p>
-    <p xml:lang="nno">Janne Hansen</p>
-    <p xml:lang="nno">Publisert 04.03.16</p>
-    <p xml:lang="nno">| Oppdatert 10.03.16</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/></author><year>2016</year><wordcount>363</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://galdu.custompublish.com/urfolkskvinner-er-saerlig-utsatte-for-vold-og-andre-brudd-paa-menneskerettighetene.5841485-353621.html</origFileName><parallel_text xml:lang="eng" location="indigenous-women-in-particular-experience-violence-and-other-human-rights-abuses.5852426-353621.html"/><parallel_text xml:lang="sme" location="algoalbmotnissoniin-eambbo-riska-gillat-veahkavalddi-ja-eara-olmmovuoigatvuoarihkkumiid-go-earain.5852444-353621.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Urfolkskvinner er særlig utsatte for vold og andre brudd på menneskerettighetene - Gáldu</p>
+<p>Hopp til hovedinnholdet på siden</p>
+<p type="title" xml:lang="est">Tema</p>
+<list><p type="listitem" xml:lang="nno">Menneske <list><p type="listitem">Barn</p>
+<p type="listitem" xml:lang="nno">Eldre</p>
+<p type="listitem" xml:lang="deu">Familie</p>
+<p type="listitem">Funksjonshemmede</p>
+<p type="listitem">Kvinner</p>
+<p type="listitem" xml:lang="nno">Ungdom</p>
+</list></p>
+<p type="listitem" xml:lang="isl">Natur</p>
+<p type="listitem">Samfunn</p>
+</list><p xml:lang="kal">Victoria Tauli Corpuz GUSTAVO AMADOR</p>
+<p type="title">Urfolkskvinner er særlig utsatte for vold og andre brudd på menneskerettighetene</p>
+<p>I morgen tirsdag 8. mars markeres den internasjonale kvinnedagen. Det er en viktig dag å markere når vi vet at urfolkskvinner og jenter er spesielt utsatte for vold og andre brudd på menneskerettighetene. Dette kommer fram i en rapport av FNs spesialrapportør for urfolksrettigheter Victoria Tauli Corpuz i 2015.</p>
+<p>I mandatet til FNs spesialrapportør for urfolksrettigheter inngår det å legge spesielt vekt på urfolkskvinner og barns situasjon. Den tidligere spesialrapportøren James Anaya har trukket fram vold mot kvinner og jenter, utført av både urfolksmenn og utenforstående, som to viktige saker når det gjelder menneskerettighetssaker som påvirker urfolk. Spesialrapportør Victoria Tauli Corpuz har gjort en global studie av situasjonen for urfolkskvinner og jenter, og la høsten 2015 fram en egen rapport om dette. Konklusjonen er at urfolkskvinner er spesielt utsatt for vold og en rekke andre brudd på menneskerettighetene.</p>
+<p>I februar 2016 har vi sett to eksempler på at brudd på menneskerettigheter overfor urfolkskvinner blir tatt på alvor. I Guatemala fikk urfolkskvinner medhold i at de har vært utsatt for grove menneskerettighetsbrudd i militærleiren Sepur Zarco i perioden 1982 til 1988. En tidligere offiser og en militærkommissær ble dømt for systematisk seksuell vold, tortur, slaveri forsvinninger og drap. Og i februar 2016 kunngjorde Canadas regjering at de har begynt en prosess for å gjennomføre en granskning av at omkring 1200 urfolkskvinner og jenter har forsvunnet eller blitt drept i løpet av de siste tretti årene.</p>
+<p><em type="italic">FNs kvinnekommisjon </em></p>
+<p>14. – 24. mars 2016 arrangeres et nytt årlig møte i FNs kvinnekommisjon i New York. Dette er en viktig internasjonal møteplass for å diskutere kvinners rettigheter og likestilling. Alle former for vold mot kvinner og jenter er et sentralt tema på møtet, og FNs kvinnekommisjon har også tatt opp urfolkskvinnenes situasjon når det gjelder vold mot kvinner og jenter.</p>
+<p>Norge har sist rapportert til FNs kvinnekommisjon i 2010. Ny rapport avgis i 2016.</p>
+<p>Av</p>
+<p xml:lang="nno">Janne Hansen</p>
+<p xml:lang="nno">Publisert 04.03.16</p>
+<p xml:lang="nno">| Oppdatert 10.03.16</p>
+</body></document>

@@ -1,125 +1,68 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>713</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/2-arstrinn/Undervisningsopplegg-Slekt/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_6_undervisningsopplegg-slekts.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_6_undervisningsopplegg-slektsbenevninge.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_6_ahpadimgarvvidusbuojkulv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Slektsbenevninger</p>
-    <p type="title">Undervisningsopplegg: Slektsbenevninger</p>
-    <p>Hovedinnhold</p>
-    <p><em type="italic">Trinn </em>: 2. årstrinn </p>
-    <p><em type="italic">Tema </em>: slektninger </p>
-    <p><em type="italic">Tid </em>: fra tre til fem timer </p>
-    <p>Vis alle</p>
-    <p type="title">Introduksjon</p>
-    <p>Dette undervisningsopplegget er et eksempel på arbeidet med kompetansemål på 1. og 2. årstrinn. Det handler om arbeid med slektsbenevninger. Kompetansemål kan konkretiseres i læringsmål, som er steg på veien mot å oppnå kompetansemålene.</p>
-    <p>Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Her er det også eksempel på hvordan elevene vurderer seg selv og hverandre.</p>
-    <p type="title">Kompetansemål i LK06-S</p>
-    <p>
-      <em type="italic">Kompetansemål etter 2. årstrinn </em>
-    </p>
-    <p>Tradisjonell kunnskap</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">bruke slektskapsbenevninger for nær slekt og fortelle hva gáibmi/gájmme betyr</p>
-    </list>
-    <p>
-      <em type="italic">Andre relevante kompetansemål etter 4. årstrinn </em>
-    </p>
-    <p>Muntlig kommunikasjon</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">bruke ulike muntlige uttrykk alt etter situasjoner</p>
-    </list>
-    <p type="title">Læringsmål</p>
-    <p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å oppnå kompetansemålet. Eleven skal kunne</p>
-    <list>
-      <p type="listitem">bruke begrepene familie, mor, far, bror, søster, bestemor, bestefar, søskenbarn, tante og onkel</p>
-      <p type="listitem">forklare betydningen av begrepet gáibmi/gájmme /nebne som betyr navnesøster eller navnebror</p>
-    </list>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne lese </em>er her å kunne lese slektsbenevningene. </p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>vil her si å kunne forstå og si slektsbenevningene. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig </em>er her å kunne skrive noen slektsbenevninger. </p>
-    <p><em type="italic">Å kunne bruke digitale verktøy </em>er her å skrive slektsbenevninger på data og benytte digitale verktøy i arbeidet med dem. </p>
-    <p type="title">Forberedelser</p>
-    <p>Læreren begynner med å undersøke hvilke slektsbenevninger elevene kan, og om alle kjenner til og kan bruke riktige slektsbenevninger. Det er viktig at læreren på forhånd tenker gjennom hvilke slektsbenevninger som kan brukes med tanke på elevene. Noen ganger bør temaet behandles generelt av hensyn til enkeltelever.</p>
-    <p>Gjennomgå sentrale begreper som mor, far, bror, søster, bestemor, bestefar, tante og onkel og snakk med elevene om dem.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p><em type="italic">1. Fortelle om seg selv </em>La elevene muntlig fortelle om seg selv, familien sin og nære slektninger. Det er viktig å få med alle elevene i en samtale. </p>
-    <p>Deretter kan de lære å skrive slektsbenevningene. For å styrke ordbildene kan elevene tegne bilder eller lime inn fotografier som illustrerer ordene.</p>
-    <p><em type="italic">2. Å lage et enkelt slektstre </em>(Hentet fra samisk 2) Her er et bilde av et tre med en firkant (ramme) som har plass til tegning eller foto av eleven og navnet til eleven øverst. På nivået under er det plass til tegninger eller foto og navn på foreldre/foresatte. På det nederste nivået er det plass til tegninger eller foto og navn på besteforeldre. Et alternativ er å klippe ut bilder fra aviser og magasiner og lage en tenkt familie / fantasifamilie. </p>
-    <p>Ordene betyr jeg, mor, far, bestemor og bestefar.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Alle elevene arbeider i utgangspunktet med samme oppgave, men differensieringen ligger i de valgene elevene og læreren gjør. Noen arbeider for eksempel med noen få begreper i den aller nærmeste familien, mens andre tar for seg mange begreper og slektsbegreper generelt.</p>
-    <p>Læringsaktiviteten må tilpasses elevenes ferdigheter. For eksempel kan noen elever bare bruke benevningene muntlig, mens andre kan bruke dem både muntlig og skriftlig.</p>
-    <p>Les mer om tilpasset opplæring her .</p>
-    <p type="title">Vurdering</p>
-    <p><em type="italic">Underveisvurdering </em>Elevene kan få muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi tilbakemeldinger som forteller elevene hva de mestrer, hva de må arbeide mer med og hvordan de best kan gjøre det. </p>
-    <p><em type="italic">Elevene vurderer seg selv og hverandre </em>I tillegg til underveisvurdering fra læreren kan elevene vurdere seg selv og hverandre. </p>
-    <p>Her er et eksempel som elevene kan bruke når de vurderer seg selv, og når de skal gi tilbakemeldinger til hverandre.</p>
-    <p>Navn: Dato: Trinn:</p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg ikke godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg veldig godt </em>
-    </p>
-    <p>si navnet på familiemedlemmer</p>
-    <p>forklare betydningen av begrepet gáibmi/gájmme/nebne</p>
-    <p>Fyll inn aktuelle slektsbenevninger før elevene bruker skjemaet.</p>
-    <p>
-      <em type="bold">Å skrive ord om familien min </em>
-    </p>
-    <p>
-      <em type="bold">Dette får jeg ikke til </em>
-    </p>
-    <p>
-      <em type="bold">Dette klarer jeg ganske bra </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg godt </em>
-    </p>
-    <p>Mor</p>
-    <p/>
-    <p>Far</p>
-    <p>Søster</p>
-    <p>Bror</p>
-    <p>Bestemor</p>
-    <p>Bestefar</p>
-    <p type="title">Ressurser</p>
-    <p>Sametingets plakater: Laahkoe <em type="italic">Sørsamisk: </em>BULL, ELLA HOLM 1980: Åarjelsaemien 2. Side 40-101, + arbeidsbok. Spill til Åarjelsaemien 2. BULL, ELLA HOLM 1998: Laavlomh maanide. Indre Billefjord: Iđut. </p>
-    <p>For eksempel sangen: Manne aahkan aahkove Kappfjell, Tom: Laahkoeh, Th. Blaasværs Forlag, 1991</p>
-    <p><em type="italic">Nordsamisk: </em>HERMANSEN, JAN OLE: Fuolkelávlla <span type="quote">“Bearašspeallu.”</span> Spill fra Ája språksenter, Kåfjord kommune. http://www.kafjord.kommune.no/beara-speallu.329557-21590.html </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>713</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/2-arstrinn/Undervisningsopplegg-Slekt/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_6_undervisningsopplegg-slekts.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_6_undervisningsopplegg-slektsbenevninge.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_6_ahpadimgarvvidusbuojkulv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Slektsbenevninger</p>
+<p type="title">Undervisningsopplegg: Slektsbenevninger</p>
+<p>Hovedinnhold</p>
+<p><em type="italic">Trinn </em>: 2. årstrinn </p>
+<p><em type="italic">Tema </em>: slektninger </p>
+<p><em type="italic">Tid </em>: fra tre til fem timer </p>
+<p>Vis alle</p>
+<p type="title">Introduksjon</p>
+<p>Dette undervisningsopplegget er et eksempel på arbeidet med kompetansemål på 1. og 2. årstrinn. Det handler om arbeid med slektsbenevninger. Kompetansemål kan konkretiseres i læringsmål, som er steg på veien mot å oppnå kompetansemålene.</p>
+<p>Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Her er det også eksempel på hvordan elevene vurderer seg selv og hverandre.</p>
+<p type="title">Kompetansemål i LK06-S</p>
+<p><em type="italic">Kompetansemål etter 2. årstrinn </em></p>
+<p>Tradisjonell kunnskap</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">bruke slektskapsbenevninger for nær slekt og fortelle hva gáibmi/gájmme betyr</p>
+</list><p><em type="italic">Andre relevante kompetansemål etter 4. årstrinn </em></p>
+<p>Muntlig kommunikasjon</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">bruke ulike muntlige uttrykk alt etter situasjoner</p>
+</list><p type="title">Læringsmål</p>
+<p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å oppnå kompetansemålet. Eleven skal kunne</p>
+<list><p type="listitem">bruke begrepene familie, mor, far, bror, søster, bestemor, bestefar, søskenbarn, tante og onkel</p>
+<p type="listitem">forklare betydningen av begrepet gáibmi/gájmme /nebne som betyr navnesøster eller navnebror</p>
+</list><p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne lese </em>er her å kunne lese slektsbenevningene. </p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>vil her si å kunne forstå og si slektsbenevningene. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig </em>er her å kunne skrive noen slektsbenevninger. </p>
+<p><em type="italic">Å kunne bruke digitale verktøy </em>er her å skrive slektsbenevninger på data og benytte digitale verktøy i arbeidet med dem. </p>
+<p type="title">Forberedelser</p>
+<p>Læreren begynner med å undersøke hvilke slektsbenevninger elevene kan, og om alle kjenner til og kan bruke riktige slektsbenevninger. Det er viktig at læreren på forhånd tenker gjennom hvilke slektsbenevninger som kan brukes med tanke på elevene. Noen ganger bør temaet behandles generelt av hensyn til enkeltelever.</p>
+<p>Gjennomgå sentrale begreper som mor, far, bror, søster, bestemor, bestefar, tante og onkel og snakk med elevene om dem.</p>
+<p type="title">Læringsaktiviteter</p>
+<p><em type="italic">1. Fortelle om seg selv </em>La elevene muntlig fortelle om seg selv, familien sin og nære slektninger. Det er viktig å få med alle elevene i en samtale. </p>
+<p>Deretter kan de lære å skrive slektsbenevningene. For å styrke ordbildene kan elevene tegne bilder eller lime inn fotografier som illustrerer ordene.</p>
+<p><em type="italic">2. Å lage et enkelt slektstre </em>(Hentet fra samisk 2) Her er et bilde av et tre med en firkant (ramme) som har plass til tegning eller foto av eleven og navnet til eleven øverst. På nivået under er det plass til tegninger eller foto og navn på foreldre/foresatte. På det nederste nivået er det plass til tegninger eller foto og navn på besteforeldre. Et alternativ er å klippe ut bilder fra aviser og magasiner og lage en tenkt familie / fantasifamilie. </p>
+<p>Ordene betyr jeg, mor, far, bestemor og bestefar.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Alle elevene arbeider i utgangspunktet med samme oppgave, men differensieringen ligger i de valgene elevene og læreren gjør. Noen arbeider for eksempel med noen få begreper i den aller nærmeste familien, mens andre tar for seg mange begreper og slektsbegreper generelt.</p>
+<p>Læringsaktiviteten må tilpasses elevenes ferdigheter. For eksempel kan noen elever bare bruke benevningene muntlig, mens andre kan bruke dem både muntlig og skriftlig.</p>
+<p>Les mer om tilpasset opplæring her .</p>
+<p type="title">Vurdering</p>
+<p><em type="italic">Underveisvurdering </em>Elevene kan få muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi tilbakemeldinger som forteller elevene hva de mestrer, hva de må arbeide mer med og hvordan de best kan gjøre det. </p>
+<p><em type="italic">Elevene vurderer seg selv og hverandre </em>I tillegg til underveisvurdering fra læreren kan elevene vurdere seg selv og hverandre. </p>
+<p>Her er et eksempel som elevene kan bruke når de vurderer seg selv, og når de skal gi tilbakemeldinger til hverandre.</p>
+<p>Navn: Dato: Trinn:</p>
+<p><em type="bold">Læringsmål </em></p>
+<p><em type="bold">Dette kan jeg ikke godt nok </em></p>
+<p><em type="bold">Dette kan jeg </em></p>
+<p><em type="bold">Dette kan jeg veldig godt </em></p>
+<p>si navnet på familiemedlemmer</p>
+<p>forklare betydningen av begrepet gáibmi/gájmme/nebne</p>
+<p>Fyll inn aktuelle slektsbenevninger før elevene bruker skjemaet.</p>
+<p><em type="bold">Å skrive ord om familien min </em></p>
+<p><em type="bold">Dette får jeg ikke til </em></p>
+<p><em type="bold">Dette klarer jeg ganske bra </em></p>
+<p><em type="bold">Dette kan jeg godt </em></p>
+<p>Mor</p>
+<p/>
+<p>Far</p>
+<p>Søster</p>
+<p>Bror</p>
+<p>Bestemor</p>
+<p>Bestefar</p>
+<p type="title">Ressurser</p>
+<p>Sametingets plakater: Laahkoe <em type="italic">Sørsamisk: </em>BULL, ELLA HOLM 1980: Åarjelsaemien 2. Side 40-101, + arbeidsbok. Spill til Åarjelsaemien 2. BULL, ELLA HOLM 1998: Laavlomh maanide. Indre Billefjord: Iđut. </p>
+<p>For eksempel sangen: Manne aahkan aahkove Kappfjell, Tom: Laahkoeh, Th. Blaasværs Forlag, 1991</p>
+<p><em type="italic">Nordsamisk: </em>HERMANSEN, JAN OLE: Fuolkelávlla <span type="quote">“Bearašspeallu.”</span> Spill fra Ája språksenter, Kåfjord kommune. http://www.kafjord.kommune.no/beara-speallu.329557-21590.html </p>
+</body></document>

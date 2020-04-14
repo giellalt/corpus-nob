@@ -1,44 +1,18 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Avviksskjema | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>277</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/a/avviksskjema</origFileName>
-    <parallel_text xml:lang="sme" location="spiehkastanskovvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="est">Avviksskjema</p>
-    <p type="title" xml:lang="nno">Her kan du gi ros og ris til høgskolen.</p>
-    <p>Samisk høgskole ønsker å ha god kvalitet i alt vi gjør og vi ønsker at du skal oppleve god service hos oss. Derfor setter vi stor pris på tilbakemeldinger fra studenter, ansatte, studiesøkende og andre. Vi vil gjerne vite hvordan dere opplever oss, hva dere syns vi fortjener ros for og hva vi bør forbedre oss på. Dette skjemaet kan benyttes til nettopp dette. Gi gjerne tilbakemeldinger på forhold som dere mener vi fortjener skryt for, forhold som dere ikke er fullt så fornøyd med og kom gjerne med gode ideer til eventuelle forbedringer.</p>
-    <p>Tilbakemeldingene kan for eksempel gjelde:</p>
-    <list>
-      <p type="listitem">Service og administrative forhold</p>
-      <p type="listitem">Fysiske forhold, lokaliteter</p>
-      <p type="listitem">Elektroniske fasiliteter</p>
-    </list>
-    <p>Denne funksjonen skal ikke erstatte den løpende dialogen mellom student og ansatt. Tilbakemeldinger fra studentene som direkte gjelder undervisningen skal gå via etablerte linjer for dette: faglærer, utdanningsleder, fagutvalg etc.</p>
-    <p>Avvik er manglende oppnåelse av kvalitetsmål og kan også være forhold og hendelser som hindrer Samisk høgskole i å opprettholde og forbedre kvaliteten. Generelt kan man si at avvik betyr at noe ikke er slik vi i utgangspunktet forutsatte at det skulle være sett i forhold til definerte kvalitetskrav. Konkret kan dette innbefatte:</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Skade, ulykke og nestenulykke</p>
-      <p type="listitem">Feil og mangler</p>
-      <p type="listitem">Brudd på lover og forskrifter</p>
-      <p type="listitem" xml:lang="dan">Brudd på interne rutiner og retningslinjer</p>
-      <p type="listitem" xml:lang="dan">Feilvurderinger</p>
-      <p type="listitem">Svikt i forhold til sosialt eller fysisk læringsmiljø, kvaliteten i undervisninga og læringsaktivitetene, administreringa av studiene osv.</p>
-    </list>
-    <p>Hensikten med rapporteringen er å sikre at avvik blir registrert og videremeldt til rette vedkommende, slik at nødvendige tiltak kan bli iverksatt for å forebygge, avdekke og rette opp feil og mangler.</p>
-    <p type="title" xml:lang="nno">Trykk på linken for å komme til avviksskjemaet.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Avviksskjema | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>277</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/a/avviksskjema</origFileName><parallel_text xml:lang="sme" location="spiehkastanskovvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="est">Avviksskjema</p>
+<p type="title" xml:lang="nno">Her kan du gi ros og ris til høgskolen.</p>
+<p>Samisk høgskole ønsker å ha god kvalitet i alt vi gjør og vi ønsker at du skal oppleve god service hos oss. Derfor setter vi stor pris på tilbakemeldinger fra studenter, ansatte, studiesøkende og andre. Vi vil gjerne vite hvordan dere opplever oss, hva dere syns vi fortjener ros for og hva vi bør forbedre oss på. Dette skjemaet kan benyttes til nettopp dette. Gi gjerne tilbakemeldinger på forhold som dere mener vi fortjener skryt for, forhold som dere ikke er fullt så fornøyd med og kom gjerne med gode ideer til eventuelle forbedringer.</p>
+<p>Tilbakemeldingene kan for eksempel gjelde:</p>
+<list><p type="listitem">Service og administrative forhold</p>
+<p type="listitem">Fysiske forhold, lokaliteter</p>
+<p type="listitem">Elektroniske fasiliteter</p>
+</list><p>Denne funksjonen skal ikke erstatte den løpende dialogen mellom student og ansatt. Tilbakemeldinger fra studentene som direkte gjelder undervisningen skal gå via etablerte linjer for dette: faglærer, utdanningsleder, fagutvalg etc.</p>
+<p>Avvik er manglende oppnåelse av kvalitetsmål og kan også være forhold og hendelser som hindrer Samisk høgskole i å opprettholde og forbedre kvaliteten. Generelt kan man si at avvik betyr at noe ikke er slik vi i utgangspunktet forutsatte at det skulle være sett i forhold til definerte kvalitetskrav. Konkret kan dette innbefatte:</p>
+<list><p type="listitem" xml:lang="dan">Skade, ulykke og nestenulykke</p>
+<p type="listitem">Feil og mangler</p>
+<p type="listitem">Brudd på lover og forskrifter</p>
+<p type="listitem" xml:lang="dan">Brudd på interne rutiner og retningslinjer</p>
+<p type="listitem" xml:lang="dan">Feilvurderinger</p>
+<p type="listitem">Svikt i forhold til sosialt eller fysisk læringsmiljø, kvaliteten i undervisninga og læringsaktivitetene, administreringa av studiene osv.</p>
+</list><p>Hensikten med rapporteringen er å sikre at avvik blir registrert og videremeldt til rette vedkommende, slik at nødvendige tiltak kan bli iverksatt for å forebygge, avdekke og rette opp feil og mangler.</p>
+<p type="title" xml:lang="nno">Trykk på linken for å komme til avviksskjemaet.</p>
+</body></document>

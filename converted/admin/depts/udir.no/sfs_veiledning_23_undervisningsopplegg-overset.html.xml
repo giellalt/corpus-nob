@@ -1,89 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1102</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Jo3--Vg3/Undervisningsopplegg-Overset/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_23_undervisningsopplegg-oversett.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_23_undervisningsopplegg-oversette-fra-nors.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_23_undervisningsopplegg-oversette-fr.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Oversette fra norsk til samisk</p>
-    <p type="title">Undervisningsopplegg: Oversette fra norsk til samisk</p>
-    <p>Hovedinnhold</p>
-    <p><em type="italic">Trinn </em>: Vg3 - studieforberedende utdanningsprogram og påbygging til generell studiekompetanse for yrkesfaglige utdanningsprogram <em type="italic">Tema </em>: oversette tekster fra norsk til samisk <em type="italic">Tid </em>: åtte undervisningstimer </p>
-    <p>Vis alle</p>
-    <p type="title">Introduksjon</p>
-    <p>Dette undervisningsopplegget er et eksempel på hvordan elevene kan arbeide for å nå kompetansemålet nevnt under neste overskrift. Her vises det hvordan dette kompetansemålet kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålet.</p>
-    <p>Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis.</p>
-    <p>Undervisningsopplegget er et eksempel på hvordan elevene kan arbeide for å tilegne seg og øve opp kompetanse i å oversette og tilpasse andres tekster fra norsk til samisk.</p>
-    <p type="title">Kompetansemål i LK06-S</p>
-    <p>
-      <em type="italic">Kompetansemål etter Vg3 – studieforberedende utdanningsprogram og etter påbygging til generell studiekompetanse – yrkesfaglige utdanningsprogram </em>
-    </p>
-    <p>Skriftlig kommunikasjon <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
-    <list>
-      <p type="listitem">oversette og tilpasse andres tekster fra norsk til samisk</p>
-    </list>
-    <p type="title">Læringsmål</p>
-    <p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å nå kompetansemålet.</p>
-    <p>Eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese og sette seg grundig inn i innholdet i teksten for å oppnå god innsikt før oversettingen starter</p>
-      <p type="listitem">forklare hvorfor man ikke skal eller kan oversette ord for ord direkte</p>
-      <p type="listitem">beherske ordavledninger godt</p>
-      <p type="listitem">lage ord på samisk</p>
-      <p type="listitem">mestre oversetting av fagtekster og skjønnlitterære tekster</p>
-    </list>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne lese </em>: Elevene bruker ulike lesestrategier når de leser fagtekster og skjønnlitterære tekster for å få god innsikt i hva de handler om. De leser ordlister på papir og på nett. Elevene leser tekster de har oversatt, både egne og andres. </p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>: Elevene samtaler om tekstene de oversetter, og drøfter ulike løsninger. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Elevene oversetter fra norsk til samisk og skriver den samiske utgaven. </p>
-    <p type="title">Læringsaktiviteter</p>
-    <p>Læreren introduserer temaet og forteller om oversetting og tilpassing av tekster. Elevene samtaler om dette og bidrar med egne erfaringer og meninger.</p>
-    <p>Skilt på skolen kan være oversatt fra norsk til samisk. I så fall undersøker elevene skiltene og snakker om hvilke ord som er brukt. Er elevene enige i oversettingene? Har de andre forslag? Elevene begrunner forslagene sine. Dersom ingen skilt er oversatt til samisk, kan elevene diskutere hvorfor det er slik.</p>
-    <p>Elevene sammenlikner tekster på norsk og samisk og snakker om språket i for eksempel avisoverskrifter, annonser, reklame, invitasjoner, lovtekster og på plakater.</p>
-    <p>Læreren finner fram en kort, enkel, norsk tekst. Temaet kan gjerne være kjent for elevene fra før.</p>
-    <p>Elevene leser teksten grundig og arbeider noen minutter med å oversette den til samisk på egen hånd. Deretter oversetter elevene den sammen. Skriv alt på tavla. Elevene kan skrive det samme i bøkene sine. La elevene diskutere ulike forslag og løsninger underveis.</p>
-    <p>Elevene samtaler om hvorfor det å oversette fra norsk til samisk kan være et utfordrende arbeid.</p>
-    <p>Læreren snakker med elevene om at det er viktig å kjenne innholdet i teksten de skal oversette. De må også vite hva som er formålet med teksten. Målet er at oversettingen skal få/ha samme innhold/budskap som originalteksten.</p>
-    <p>Læreren og/eller elevene finner fram noen norskspråklige tekster som egner seg for oversetting. Elevene kan velge tekster fra et utvalg som kan være både fagtekster og skjønnlitterære tekster.</p>
-    <p>Elevene lager seg en ordliste som de bruker når de oversetter. Det gjør det enklere å huske ordene, og det sikrer at elevene benytter samme ord hver gang de oversetter et gitt ord.</p>
-    <p>Elevene oversetter et kåseri fra norsk til samisk. Benytt for eksempel boka <em type="italic">LEX Sápmi </em>. Alle tekstene er både på nordsamisk og norsk. Etterpå kan alle sammenligne sin oversetting med bokteksten. Elevene snakker sammen om avvik, vurderer dem og begrunner synspunktene sine. </p>
-    <p>Læreren finner fram noen norske dikt som er overstt og tilpasset samisk. Elevene leser diktene og sammenlikner innholdet i norsk og samisk utgave. De snakker sammen om ordene og tilpasningene som er valgt. Deretter oversetter elevene selv et norsk dikt til samisk. Elevene leser diktene sine for hverandre og samtaler om tilpasninger som er foretatt.</p>
-    <p>Elevene kan selv skrive et dikt på norsk og oversette og tilpasse det til samisk. To og to kan oversette hverandres dikt og snakke sammen i par om resutatet etterpå.</p>
-    <p>Som avslutning på arbeidet, kan elevene oppsummere hvilke utfordringer de har møtt, og hva de har lært.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Tekstene som skal oversettes, kan ha svært ulik vanskegrad slik at alle elevene kan arbeide med tekster som de har mulighet til å mestre, og som samtidig gir dem mulighet for å strekke seg noe.</p>
-    <p>Elevene kan arbeide med ordavledning i grupper. Da kan elevene hjelpe hverandre og lære av hverandre.</p>
-    <p>Noen elever kan få ekstra utfordringer. En del spesielle uttrykksmåter og ordtak kan det være utfordrende å oversette, for eksempel ordtaket <em type="italic">Buoret jođi go oru </em>. Direkte oversatt er det: <em type="italic">Bedre vandrende enn stilleværende </em>. På norsk sier man: <em type="italic">Borte bra, men hjemme best </em>. </p>
-    <p type="title">Fjernundervisning</p>
-    <p>Det er viktig at elevene får så mye muntlig trening som mulig i timene. Alt som er beskrevet i opplegget, kan utføres muntlig. Det skriftlige arbeidet kan elevene gjøre som hjemmearbeid, og de kan legge fram arbeidet muntlig for læreren.</p>
-    <p>Dersom flere enn en elev deltar i fjernundervisningen, kan de lytte til hverandre og diskutere med hverandre i tillegg til med læreren. Ordavledninger og begreper er sentralt i dette arbeidet.</p>
-    <p type="title">Vurdering</p>
-    <p>Læreren gir elevene muntlig eller skriftlig vurdering underveis når de arbeider med læringsmålene.</p>
-    <p>Læreren observerer og samtaler med elevene når de leser teksten for å bli kjent med innholdet før de begynner å oversette. Bruker de hensiktsmessige lesestrategier? Forstår de hva teksten handler om? Læreren veileder.</p>
-    <p>Læreren gir elevene tilbakemelding for å sikre at de forstår hensikten med oppgaven og hvordan de bør gå fram. Han eller hun må finne ut om elevene konsentrerer seg om ord for ord og oversetter dem direkte, eller om de er i stand til å tenke på helheten og tilpasse oversettingen slik at innholdet/budskapet formidles godt.</p>
-    <p>Læreren vurderer om elevene behersker ordavledninger og om de kan lage ord på samisk. Elevene får tilbakemelding om hva de mestrer, hva de må øve mer på og på hvilken måte dette kan/bør gjøres.</p>
-    <p>Språket i den ferdig oversatte teksten kan også vurderes. Det kan dreie seg om rettskriving, setningsoppbygging, setningslengde og flyt i språket.</p>
-    <p>Husk også at læreren skal vurdere i hvilken grad elevene har nådd kompetansemålet. Elevene må være bevisst på hvilken kompetanse de arbeider for å øve opp. I hvilken grad mestrer elevene å oversette og tilpasse andres tekster fra norsk til samisk? Hva kjennetegner de ulike mestringsnivåene?</p>
-    <p type="title">Ressurser</p>
-    <p>LUKKARI, RAUNI MAGGA 2009: LEX Sápmi. Oslo: Cappelen forlag. Ávvir</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1102</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Jo3--Vg3/Undervisningsopplegg-Overset/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_23_undervisningsopplegg-oversett.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_23_undervisningsopplegg-oversette-fra-nors.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_23_undervisningsopplegg-oversette-fr.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Oversette fra norsk til samisk</p>
+<p type="title">Undervisningsopplegg: Oversette fra norsk til samisk</p>
+<p>Hovedinnhold</p>
+<p><em type="italic">Trinn </em>: Vg3 - studieforberedende utdanningsprogram og påbygging til generell studiekompetanse for yrkesfaglige utdanningsprogram <em type="italic">Tema </em>: oversette tekster fra norsk til samisk <em type="italic">Tid </em>: åtte undervisningstimer </p>
+<p>Vis alle</p>
+<p type="title">Introduksjon</p>
+<p>Dette undervisningsopplegget er et eksempel på hvordan elevene kan arbeide for å nå kompetansemålet nevnt under neste overskrift. Her vises det hvordan dette kompetansemålet kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålet.</p>
+<p>Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis.</p>
+<p>Undervisningsopplegget er et eksempel på hvordan elevene kan arbeide for å tilegne seg og øve opp kompetanse i å oversette og tilpasse andres tekster fra norsk til samisk.</p>
+<p type="title">Kompetansemål i LK06-S</p>
+<p><em type="italic">Kompetansemål etter Vg3 – studieforberedende utdanningsprogram og etter påbygging til generell studiekompetanse – yrkesfaglige utdanningsprogram </em></p>
+<p>Skriftlig kommunikasjon <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">oversette og tilpasse andres tekster fra norsk til samisk</p>
+</list><p type="title">Læringsmål</p>
+<p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å nå kompetansemålet.</p>
+<p>Eleven skal kunne</p>
+<list><p type="listitem">lese og sette seg grundig inn i innholdet i teksten for å oppnå god innsikt før oversettingen starter</p>
+<p type="listitem">forklare hvorfor man ikke skal eller kan oversette ord for ord direkte</p>
+<p type="listitem">beherske ordavledninger godt</p>
+<p type="listitem">lage ord på samisk</p>
+<p type="listitem">mestre oversetting av fagtekster og skjønnlitterære tekster</p>
+</list><p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne lese </em>: Elevene bruker ulike lesestrategier når de leser fagtekster og skjønnlitterære tekster for å få god innsikt i hva de handler om. De leser ordlister på papir og på nett. Elevene leser tekster de har oversatt, både egne og andres. </p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>: Elevene samtaler om tekstene de oversetter, og drøfter ulike løsninger. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Elevene oversetter fra norsk til samisk og skriver den samiske utgaven. </p>
+<p type="title">Læringsaktiviteter</p>
+<p>Læreren introduserer temaet og forteller om oversetting og tilpassing av tekster. Elevene samtaler om dette og bidrar med egne erfaringer og meninger.</p>
+<p>Skilt på skolen kan være oversatt fra norsk til samisk. I så fall undersøker elevene skiltene og snakker om hvilke ord som er brukt. Er elevene enige i oversettingene? Har de andre forslag? Elevene begrunner forslagene sine. Dersom ingen skilt er oversatt til samisk, kan elevene diskutere hvorfor det er slik.</p>
+<p>Elevene sammenlikner tekster på norsk og samisk og snakker om språket i for eksempel avisoverskrifter, annonser, reklame, invitasjoner, lovtekster og på plakater.</p>
+<p>Læreren finner fram en kort, enkel, norsk tekst. Temaet kan gjerne være kjent for elevene fra før.</p>
+<p>Elevene leser teksten grundig og arbeider noen minutter med å oversette den til samisk på egen hånd. Deretter oversetter elevene den sammen. Skriv alt på tavla. Elevene kan skrive det samme i bøkene sine. La elevene diskutere ulike forslag og løsninger underveis.</p>
+<p>Elevene samtaler om hvorfor det å oversette fra norsk til samisk kan være et utfordrende arbeid.</p>
+<p>Læreren snakker med elevene om at det er viktig å kjenne innholdet i teksten de skal oversette. De må også vite hva som er formålet med teksten. Målet er at oversettingen skal få/ha samme innhold/budskap som originalteksten.</p>
+<p>Læreren og/eller elevene finner fram noen norskspråklige tekster som egner seg for oversetting. Elevene kan velge tekster fra et utvalg som kan være både fagtekster og skjønnlitterære tekster.</p>
+<p>Elevene lager seg en ordliste som de bruker når de oversetter. Det gjør det enklere å huske ordene, og det sikrer at elevene benytter samme ord hver gang de oversetter et gitt ord.</p>
+<p>Elevene oversetter et kåseri fra norsk til samisk. Benytt for eksempel boka <em type="italic">LEX Sápmi </em>. Alle tekstene er både på nordsamisk og norsk. Etterpå kan alle sammenligne sin oversetting med bokteksten. Elevene snakker sammen om avvik, vurderer dem og begrunner synspunktene sine. </p>
+<p>Læreren finner fram noen norske dikt som er overstt og tilpasset samisk. Elevene leser diktene og sammenlikner innholdet i norsk og samisk utgave. De snakker sammen om ordene og tilpasningene som er valgt. Deretter oversetter elevene selv et norsk dikt til samisk. Elevene leser diktene sine for hverandre og samtaler om tilpasninger som er foretatt.</p>
+<p>Elevene kan selv skrive et dikt på norsk og oversette og tilpasse det til samisk. To og to kan oversette hverandres dikt og snakke sammen i par om resutatet etterpå.</p>
+<p>Som avslutning på arbeidet, kan elevene oppsummere hvilke utfordringer de har møtt, og hva de har lært.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Tekstene som skal oversettes, kan ha svært ulik vanskegrad slik at alle elevene kan arbeide med tekster som de har mulighet til å mestre, og som samtidig gir dem mulighet for å strekke seg noe.</p>
+<p>Elevene kan arbeide med ordavledning i grupper. Da kan elevene hjelpe hverandre og lære av hverandre.</p>
+<p>Noen elever kan få ekstra utfordringer. En del spesielle uttrykksmåter og ordtak kan det være utfordrende å oversette, for eksempel ordtaket <em type="italic">Buoret jođi go oru </em>. Direkte oversatt er det: <em type="italic">Bedre vandrende enn stilleværende </em>. På norsk sier man: <em type="italic">Borte bra, men hjemme best </em>. </p>
+<p type="title">Fjernundervisning</p>
+<p>Det er viktig at elevene får så mye muntlig trening som mulig i timene. Alt som er beskrevet i opplegget, kan utføres muntlig. Det skriftlige arbeidet kan elevene gjøre som hjemmearbeid, og de kan legge fram arbeidet muntlig for læreren.</p>
+<p>Dersom flere enn en elev deltar i fjernundervisningen, kan de lytte til hverandre og diskutere med hverandre i tillegg til med læreren. Ordavledninger og begreper er sentralt i dette arbeidet.</p>
+<p type="title">Vurdering</p>
+<p>Læreren gir elevene muntlig eller skriftlig vurdering underveis når de arbeider med læringsmålene.</p>
+<p>Læreren observerer og samtaler med elevene når de leser teksten for å bli kjent med innholdet før de begynner å oversette. Bruker de hensiktsmessige lesestrategier? Forstår de hva teksten handler om? Læreren veileder.</p>
+<p>Læreren gir elevene tilbakemelding for å sikre at de forstår hensikten med oppgaven og hvordan de bør gå fram. Han eller hun må finne ut om elevene konsentrerer seg om ord for ord og oversetter dem direkte, eller om de er i stand til å tenke på helheten og tilpasse oversettingen slik at innholdet/budskapet formidles godt.</p>
+<p>Læreren vurderer om elevene behersker ordavledninger og om de kan lage ord på samisk. Elevene får tilbakemelding om hva de mestrer, hva de må øve mer på og på hvilken måte dette kan/bør gjøres.</p>
+<p>Språket i den ferdig oversatte teksten kan også vurderes. Det kan dreie seg om rettskriving, setningsoppbygging, setningslengde og flyt i språket.</p>
+<p>Husk også at læreren skal vurdere i hvilken grad elevene har nådd kompetansemålet. Elevene må være bevisst på hvilken kompetanse de arbeider for å øve opp. I hvilken grad mestrer elevene å oversette og tilpasse andres tekster fra norsk til samisk? Hva kjennetegner de ulike mestringsnivåene?</p>
+<p type="title">Ressurser</p>
+<p>LUKKARI, RAUNI MAGGA 2009: LEX Sápmi. Oslo: Cappelen forlag. Ávvir</p>
+</body></document>

@@ -1,45 +1,22 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Sámikopiija</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>179</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samikopiija.org/web/index.php?sladja=4</origFileName>
-    <parallel_text xml:lang="eng" location="index.php_sladja=4.html"/>
-    <parallel_text xml:lang="sme" location="index.php_sladja=4.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="sme">Mii lea Sámikopiija</p>
-    <p xml:lang="sme">Oktavuohta</p>
-    <p xml:lang="sme">Luohttamušolbmot</p>
-    <p xml:lang="sme">Árbevirolaš máhttu ja dahkkivuoigatvuohta</p>
-    <p xml:lang="sme">Jahkedieđáhusat</p>
-    <p xml:lang="sme">Njuolggadusat</p>
-    <p xml:lang="est">Kopibuhtadus</p>
-    <p xml:lang="sme">Beavdegirjjit</p>
-    <p xml:lang="sme">Miellahttusearvvit</p>
-    <p xml:lang="sme">Sámikopiija soahpamuš Kopinorain</p>
-    <p xml:lang="sme">Vuorká</p>
-    <p xml:lang="sme">Doaimmahus</p>
-    <p>Norsk</p>
-    <p xml:lang="eng">English</p>
-    <p xml:lang="sme">Cavgil!</p>
-    <p xml:lang="sme">Čálit!</p>
-    <p xml:lang="sme">Mii lea Sámikopiija</p>
-    <p xml:lang="sme"><em type="italic">Sámikopiija </em>lea dahkkivuoigatvuođasearvi mii ovddasta sámi dahkkivuoigatvuođalaččaid Norggas, Ruoŧas, Suomas ja Ruoššas. Searvi vuođđuduvvui 1992 sámi dahkkivuoigatvuođaservviide oktasaš beroštussearvin. </p>
-    <p xml:lang="sme">Searvi galgá čohkket dieđuid ja evttohit doaimmaid mat ovddidit vuoigatvuođaoamasteaddjiid beroštumiid, ovttastahttit miellahttuorganisašuvnnaid gáibádusaid, šiehtadallat ja dahkat soahpamušaid daid ovddas. Searvi galgá soahpat eará hálddašanservviiguin šiehtadallamiid, dahkat soahpamušaid ja gáibidit mávssuid Sámikopiija ovddas go nu lea dárbbašlaš. Galgá hálddašit ja juogadit dahkkivuoigatvuođalaš suodjaluvvon vuoigđŋadujiid kopierema ja earalágan sekundára geavaheami mávssuid ja buhtadusaid., ja dasto lonohallat mávssuid ja buhtadusaid orgánaiguin mat eai leat sámi vuoigatvuođaoamasteaddji orgánat.</p>
-    <p xml:lang="sme">Sámikopiija jođiheaddji orgánat leat dasto mearridan bargat maiddái áššiiguin mat gullet álgoálbmogiid árbevirolaš máhttui ja dan gullevašvuhtii dahkkivuoigtavuođaide, ja dahkan dan sierra prošeaktan searvvi doaimmain. Maiddái dán fáddás atnit čalmmis davviriikkalaš perspektiivva go sámi giella- ja kulturguovlu geográfalaččat lea Norggas, Ruoŧas, Suomas ja Ruoššas.</p>
-    <p xml:lang="sme"><em type="italic">Miellahttosearvvit: </em>Sámi Dáiddačehpiid Searvi Sámi Girječálliid Searvi Sámi lágádus- ja aviisasearvi Sámi Teahter Searvi Sámi fágagirjjálaš čálliid- ja jorgaleaddjiidsearvi Sámi Komponisttaid Searvi Sámi Journalisttaid Searvi </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Sámikopiija</title><genre code="facta"/><author><unknown/></author><wordcount>179</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samikopiija.org/web/index.php?sladja=4</origFileName><parallel_text xml:lang="eng" location="index.php_sladja=4.html"/><parallel_text xml:lang="sme" location="index.php_sladja=4.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="sme">Mii lea Sámikopiija</p>
+<p xml:lang="sme">Oktavuohta</p>
+<p xml:lang="sme">Luohttamušolbmot</p>
+<p xml:lang="sme">Árbevirolaš máhttu ja dahkkivuoigatvuohta</p>
+<p xml:lang="sme">Jahkedieđáhusat</p>
+<p xml:lang="sme">Njuolggadusat</p>
+<p xml:lang="est">Kopibuhtadus</p>
+<p xml:lang="sme">Beavdegirjjit</p>
+<p xml:lang="sme">Miellahttusearvvit</p>
+<p xml:lang="sme">Sámikopiija soahpamuš Kopinorain</p>
+<p xml:lang="sme">Vuorká</p>
+<p xml:lang="sme">Doaimmahus</p>
+<p>Norsk</p>
+<p xml:lang="eng">English</p>
+<p xml:lang="sme">Cavgil!</p>
+<p xml:lang="sme">Čálit!</p>
+<p xml:lang="sme">Mii lea Sámikopiija</p>
+<p xml:lang="sme"><em type="italic">Sámikopiija </em>lea dahkkivuoigatvuođasearvi mii ovddasta sámi dahkkivuoigatvuođalaččaid Norggas, Ruoŧas, Suomas ja Ruoššas. Searvi vuođđuduvvui 1992 sámi dahkkivuoigatvuođaservviide oktasaš beroštussearvin. </p>
+<p xml:lang="sme">Searvi galgá čohkket dieđuid ja evttohit doaimmaid mat ovddidit vuoigatvuođaoamasteaddjiid beroštumiid, ovttastahttit miellahttuorganisašuvnnaid gáibádusaid, šiehtadallat ja dahkat soahpamušaid daid ovddas. Searvi galgá soahpat eará hálddašanservviiguin šiehtadallamiid, dahkat soahpamušaid ja gáibidit mávssuid Sámikopiija ovddas go nu lea dárbbašlaš. Galgá hálddašit ja juogadit dahkkivuoigatvuođalaš suodjaluvvon vuoigđŋadujiid kopierema ja earalágan sekundára geavaheami mávssuid ja buhtadusaid., ja dasto lonohallat mávssuid ja buhtadusaid orgánaiguin mat eai leat sámi vuoigatvuođaoamasteaddji orgánat.</p>
+<p xml:lang="sme">Sámikopiija jođiheaddji orgánat leat dasto mearridan bargat maiddái áššiiguin mat gullet álgoálbmogiid árbevirolaš máhttui ja dan gullevašvuhtii dahkkivuoigtavuođaide, ja dahkan dan sierra prošeaktan searvvi doaimmain. Maiddái dán fáddás atnit čalmmis davviriikkalaš perspektiivva go sámi giella- ja kulturguovlu geográfalaččat lea Norggas, Ruoŧas, Suomas ja Ruoššas.</p>
+<p xml:lang="sme"><em type="italic">Miellahttosearvvit: </em>Sámi Dáiddačehpiid Searvi Sámi Girječálliid Searvi Sámi lágádus- ja aviisasearvi Sámi Teahter Searvi Sámi fágagirjjálaš čálliid- ja jorgaleaddjiidsearvi Sámi Komponisttaid Searvi Sámi Journalisttaid Searvi </p>
+</body></document>

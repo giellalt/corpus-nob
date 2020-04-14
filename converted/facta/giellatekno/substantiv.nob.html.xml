@@ -1,466 +1,236 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Substantiver</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>2014</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/substantiv.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="substantiv.eng.html"/>
-    <parallel_text xml:lang="sme" location="substantiv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nno">Substantiver</p>
-    <list>
-      <p type="listitem">Ulike stammer</p>
-      <p type="listitem" xml:lang="dan">Diftongforenkling</p>
-      <p type="listitem" xml:lang="est">Stadieveksling</p>
-      <p type="listitem">Andre konsonantvekslinger</p>
-      <p type="listitem" xml:lang="est">Kasus</p>
-      <p type="listitem" xml:lang="vep">Nominativ</p>
-      <p type="listitem" xml:lang="kal">Akkusativ</p>
-      <p type="listitem" xml:lang="vep">Genitiv</p>
-      <p type="listitem" xml:lang="smj">Illativ</p>
-      <p type="listitem" xml:lang="fin">Lokativ</p>
-      <p type="listitem" xml:lang="vep">Komitativ</p>
-      <p type="listitem" xml:lang="swe">Essiv</p>
-    </list>
-    <p>Tilbake til grammatikk hovedside .</p>
-    <p><em type="italic">Substantiver </em>er navneord - det kan være folk, dyr, ting, prosesser eller abstrakte forhold, f.eks.: <em type="italic">nieida </em>(jente), <em type="italic">Káre, beavdi </em>(bord), <em type="italic">ráhkisvuohta </em>(kjærlighet), <em type="italic">dávda </em>(sykdom), <em type="italic">Norga </em>. </p>
-    <p type="title">Ulike stammer</p>
-    <p>I samisk får substantivene ulike bøyingsendelser, alt etter hvor mange stavelser det er i den siste <em type="italic">takta </em>i ordet. Ei takt er ei gruppe av stavelser der den første stavelsen har trykk. Her er stavelsene skilt med -, og takta merka med (). Trykk er merket med ' foran stavelsen. </p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">gussa </em>('gus-sa) har to stavelser og ei takt. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">sámegiella </em>('sá-me)('giel-la) har fire stavelser og to takter. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">fatnasa </em>('fa-tna-sa) har tre stavelser og ei takt. </p>
-      <p type="listitem"><em type="italic">vilbealle </em>('vil)('beal-le) har tre stavelser og to takter. </p>
-    </list>
-    <p><em type="italic">Likestavelsessubstantiv </em>er substantiv som har to stavelser i siste takt i nominativ flertall. </p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">gussa - gusat </em>('gu-sat) har to stavelser og ei takt. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">vilbealle - vilbealit </em>('vil)('bea-lit) har tre stavelser og to takter. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">sámegiella - sámegielat </em>('sá-me)('gie-lat) har fire stavelser og to takter. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">gonagas - gonagasat </em>('go-na)('ga-sat) har fire stavelser og to takter. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">gonagasbárdni - gonagasbártnit </em>('go-na-gas)('bárt-nit) har fem stavelser og to takter. </p>
-    </list>
-    <p>Disse substantivene har sterkt stadium i nominativ entall, og svakt stadium i flertall.</p>
-    <p><em type="italic">Ulikestavelsessubstantiv </em>har tre stavelser i siste takt i flertall. </p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">rieban - riebanat </em>('rie-ba-nat) har tre stavelser og ei takt. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">nisu - nissonat </em>('nis-so-nat) har tre stavelser og ei takt. </p>
-      <p type="listitem"><em type="italic">ruksesrieban - ruksesriebanat </em>('ruk-ses)('rie-ba-nat) har fem stavelser og to takter. </p>
-    </list>
-    <p>Nominativ entall og essiv har svakt stadium, de andre formene har sterkt stadium, men ikke alle ulikestavelses substantiver har stadieveksling.</p>
-    <p><em type="italic">Kontrakte substantiv </em>har to stavelser i siste takt i både entall og flertall. Substantivet har svakt stadium i nominativ entall og sterkt eller ekstra sterkt stadium i flertall. </p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">bálggis - bálgát </em>('bál-gát) har to stavelser og ei takt. </p>
-      <p type="listitem"><em type="italic">vuovdebálggis - vuovdebálgát </em>('vuov-de)('bál-gát) har fire stavelser og to takter. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">olmmái - olbmát </em>('olb-mát) har to stavelser og ei takt. </p>
-    </list>
-    <p>Kontrakte substantiver som slutter på '-u', har diftongforenkling i alle kasus, bortsett fra nominativ entall og essiv:</p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">boazu - bohccot </em>('bohc-cot) har to stavelser og ei takt. </p>
-      <p type="listitem"><em type="italic">suolu - sullot </em>('sul-lot) har to stavelser og ei takt. </p>
-    </list>
-    <p type="title" xml:lang="dan">Diftongforenkling</p>
-    <p>Diftongen i første stavelse av en takt kan påvirkes av vokalen i andre stavelse. Diftong går over til monoftong (en enkelt vokal), når vokalen i andre stavelse er:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">-ii- , f.eks. <em type="italic">gihtii (giehta) </em></p>
-      <p type="listitem">-ui- , men bare i illativ entall, f.eks. <em type="italic">vissui (viessu) </em></p>
-      <p type="listitem" xml:lang="sme">-o- , f.eks. <em type="italic">bohccot (boazu) </em></p>
-    </list>
-    <p xml:lang="nno">I kontrakte substantiv som slutter på -u, får vi diftongforenkling i alle kasus, bortsett fra nominativ entall og essiv.</p>
-    <p type="title" xml:lang="est">Stadieveksling</p>
-    <p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i siste takta, f.eks. <em type="italic">sámegiella - sámegiela </em>. Denne vekslinga kalles <em type="italic">stadieveksling </em>. Det er f.eks. <em type="italic">sterkt stadium </em>i nominativ entall i likestavelsessubstantiv, og i nominativ flertall i ulikestavelsessubstantiv. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nominativ flertall i likestavelsessubstantiv, eller i nominativ ental i ulikestavelsessubstantiv. </p>
-    <p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre. Vær obs på at når bokstaven -i- står etter en vokal står den for en konsonant (-j-), og tilhører derfor konsonantgruppa:</p>
-    <list>
-      <p type="listitem" xml:lang="smj">má <em type="italic">nn </em>á - má <em type="italic">n </em>át, lá <em type="italic">vv </em>u - lá <em type="italic">v </em>ut, vie <em type="italic">ss </em>u - vie <em type="italic">s </em>ut, guo <em type="italic">ll </em>i - guo <em type="italic">l </em>it </p>
-      <p type="listitem" xml:lang="sme">lá <em type="italic">ib </em>i - lá <em type="italic">ibb </em>it, bá <em type="italic">id </em>i - bá <em type="italic">idd </em>it, lá <em type="italic">vl </em>agat - lá <em type="italic">vll </em>a </p>
-      <p type="listitem" xml:lang="nno">oa <em type="italic">bb </em>á - oa <em type="italic">pp </em>át, stá <em type="italic">gg </em>u - stá <em type="italic">kk </em>ut, </p>
-      <p type="listitem" xml:lang="sme">bea <em type="italic">tn </em>agat - bea <em type="italic">n </em>a, vuo <em type="italic">pm </em>i - vuo <em type="italic">m </em>it </p>
-      <p type="listitem" xml:lang="nno">u <em type="italic">ks </em>a - u <em type="italic">vss </em>at, gá <em type="italic">kt </em>i - gá <em type="italic">vtt </em>it </p>
-      <p type="listitem" xml:lang="isl">gá <em type="italic">hkk </em>u - gá <em type="italic">hk </em>u, á <em type="italic">hčč </em>i - á <em type="italic">hči </em>t </p>
-    </list>
-    <p>Likestavelsessubstantiv kan også slutte på en konsonant i nominativ entall, for eksempel ord som <em type="italic">gonagas, lávvardat </em>. I bøyningen av disse ordene vil det legges til en ekstra stavelse, og ordet får to takter: ('go-na)('ga-sa). Da vil det være stadieveksling i ordets siste takt. Sterk grad vil forekomme i illativ entall og essiv. Eksempler med nominativ entall og flertall og illativ entall: </p>
-    <list>
-      <p type="listitem" xml:lang="sme">gonaga <em type="italic">s </em>- gonaga <em type="italic">s </em>at - gonaga <em type="italic">ss </em>ii </p>
-      <p type="listitem" xml:lang="nno">lávvarda <em type="italic">t </em>- lávvarda <em type="italic">g </em>at - lávvarda <em type="italic">hk </em>ii </p>
-      <p type="listitem" xml:lang="smn">ofela <em type="italic">š </em>- ofela <em type="italic">čč </em>at - ofela <em type="italic">žž </em>ii </p>
-      <p type="listitem" xml:lang="sme">borramu <em type="italic">š </em>- borramu <em type="italic">š </em>at - borramu <em type="italic">šš </em>ii </p>
-    </list>
-    <p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
-    <p type="title">Andre konsonantvekslinger</p>
-    <p>Noen substantiv slutter på konsonant i nominativ entall. I nordsamisk er det begrensninger på hvilke konsonanter som kan forekomme i slutten av ord, og da kan vi få spesielle konsonantvekslinger mellom nominativ entall og de andre kasusene. Konsonanter som kan forekomme i slutten av ord er t, s, š, l, r og n. Eksempler på vekslinger i ulikestavelsessubstantiv og 'olmmoš':</p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">t &gt; h </em>, f.eks. <em type="italic">rievssat - rievssaha </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">t &gt; d </em>, f.eks. <em type="italic">eamit - eamida </em></p>
-      <p type="listitem"><em type="italic">t &gt; g </em>, f.eks. <em type="italic">rusttet - rusttega </em></p>
-      <p type="listitem"><em type="italic">t &gt; b </em>, f.eks. <em type="italic">ustit - ustiba </em></p>
-      <p type="listitem"><em type="italic">n &gt; m </em>, f.eks. <em type="italic">goaskin - goaskima </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, f.eks. <em type="italic">cizáš - cizáža, olmmoš - olmmožin </em></p>
-    </list>
-    <p xml:lang="nno">Legg merke til at š og n ikke alltid veksler: <em type="italic">bearaš - bearraša, gearpmaš - gearbmaša, čálán - čálána, suohpan - suohpana </em>. </p>
-    <p>Likestavelsessubstantiv som slutter på konsonant, har lignende vekslinger:</p>
-    <list>
-      <p type="listitem"><em type="italic">t &gt; g </em>, f.eks. <em type="italic">sihkaldat - sihkaldaga </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, f.eks. <em type="italic">sápmelaš - sápmelačča </em></p>
-    </list>
-    <p>Likestavelsessubstantiv får også stadieveksling i disse konsonantene, les mer om det her .</p>
-    <p>Noen ulikestavelsessubstantiv som slutter på en vokal i nominativ entall, får likevel en ekstra konsonant i de andre formene:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, f.eks. <em type="italic">beana - beatnaga, gáma - gápmaga </em></p>
-      <p type="listitem"><em type="italic">_ &gt; m </em>, f.eks. <em type="italic">ađa - ađđama, gietkka - gietkama </em></p>
-    </list>
-    <p xml:lang="nno">Kontrakte substantiv som slutter på -i, får en veksling i&gt;j mellom nominativ entall og essiv i skriftspråket.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, f.eks. <em type="italic">olmmái - olmmájin, almmái - almmájin </em></p>
-    </list>
-    <p type="title" xml:lang="est">Kasus</p>
-    <p>er bøyningsformer som markerer hvilken funksjon <em type="italic">nomen </em>har i setningen. Nomen er enten substantiv, adjektiv, tallord eller pronomen. I nordsamisk er det sju kasus. </p>
-    <p type="title" xml:lang="vep">Nominativ</p>
-    <p>er kasus som angir grunnformen (presentasjonsformen) av nomen, det er kasus for subjekt og for predikativ. Nominativ flertall har endingen '-t'.</p>
-    <p>Likestavelsessubstantiv har sterkt stadium i entall og svakt stadium i flertall: <em type="italic">Min 'gussa' lea návehis. Min 'gusat' leat návehis. </em></p>
-    <p>Ulikestavelsessubstantiv har svakt stadium i entall og sterkt stadium i flertall, f.eks. <em type="italic">Čoahkkimis lea dušše okta 'nisu'. Čoahkkimis leat ollu 'nissonat'. </em></p>
-    <p>Kontrakte substantiv har svakt stadium i entall og får sterkt eller ekstra sterkt stadium i flertall. I flertall blir det også diftongforenkling, f.eks. <em type="italic">Šiljus lea 'boazu'. Duoddaris leat ollu 'bohccot'. </em></p>
-    <p xml:lang="vep">
-      <em type="italic">NOMINATIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guolit </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagat </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccot </em>
-    </p>
-    <p type="title" xml:lang="kal">Akkusativ</p>
-    <p xml:lang="nno">er kasus som brukes for objekt, f.eks. <em type="italic">Mun oasttán 'gusa'. </em>Flertall har endinga '-id'. </p>
-    <p>Likestavelsessubstantiv har svakt stadium i både entall og flertall. I substantiv som ender på -i, får vi diftongforenkling i flertall: <em type="italic">Mun oasttán 'gusa'/'gusaid'. (gussa) </em>. <em type="italic">Mun čorgen 'goađi'/'gođiid'. (goahti) </em></p>
-    <p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og i entall endinga '-a': <em type="italic">Mun dovddan 'nissona'/'nissoniid'. (nisu). </em></p>
-    <p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium, og diftongforenkling: <em type="italic">Gal mun oainnán 'bohcco'/'bohccuid'. (boazu) </em></p>
-    <p xml:lang="nno">I nordsamisk er substantivenes akkusativ- og genitivformer like.</p>
-    <p xml:lang="vep">
-      <em type="italic">AKKUSATIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guoli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliid </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállaga </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiid </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohcco </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuid </em>
-    </p>
-    <p type="title" xml:lang="vep">Genitiv</p>
-    <p>er kasus som angir eieform: <em type="italic">'nissona' lávka (kvinnens veske), 'skuvlla' njuolggadusat (skolens regler) </em>. Genitiv brukes også i andre sammenhenger, f.eks. i post- og preposisjonsuttrykk: <em type="italic">'sullo' lahka (nært øya) </em>. Genitiv brukes også i tallordsuttrykk, når tallet er større enn 1: <em type="italic">guokte 'nieidda' ja golbma 'bártni' (to jenter og tre gutter) </em>. Flertallsendingen er '-id'. </p>
-    <p>Likestavelsessubstantiv har svakt stadium i både entall og flertall. I substantiv som ender på -i, får vi diftongforenkling i flertall: <em type="italic">Dat lea 'gusa'/'gusaid' biebmu. (gussa) </em>. <em type="italic">Dat leat 'goađi'/'gođiid' duohken. (goahti) </em>. </p>
-    <p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og i entall endinga '-a': <em type="italic">Dat lea 'nissona'/'nissoniid' lávka. (nisu). </em></p>
-    <p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">Mun bivden guoli 'sullo'/'sulluid' davábealde. (suolu) </em></p>
-    <p xml:lang="nno">I nordsamisk er substantivenes akkusativ- og genitivformer like.</p>
-    <p xml:lang="vep">
-      <em type="italic">GENITIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guoli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliid </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállaga </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiid </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohcco </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuid </em>
-    </p>
-    <p type="title" xml:lang="smj">Illativ</p>
-    <p>er kasus som betegner bevegelse til eller inn i noe. Illativ kan også betegne mottaker: <em type="italic">Mun manan 'skuvlii'. </em>(til skolen) - <em type="italic">Sii mannet 'skuvllaide' </em>(til skolene). <em type="italic">Son attii 'mánnái' girjji. Mánná bijai girjji 'hildui'. </em>(Hun ga barnet en bok. Barnet la boka i hylla.) Det fins også illativ-verb. Dette er verb som krever illativ i etterfølgende substantiv. Eksempler på vanlige illativ-verb er <em type="italic">liikot, álgit </em>: <em type="italic">Son álgá 'skuvlii'. Mun liikon 'eadnái'. </em>(Han begynner på skolen. Jeg liker mamma.) Les mer om illativ-verb . </p>
-    <p>Likestavelsessubstantiv har sterkt stadium, vokalen i andre stavelse endrer seg og så man får endingen '-i': <em type="italic">láibái (láibi), gussii (gussa), reŋkui (reŋko), báŋkui (báŋku) </em>. </p>
-    <p>I substantiv som slutter på -u og -a får man diftongforenkling i entall: <em type="italic">merrii (mearra), vissui (viessu) </em>. </p>
-    <p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og '-ii': <em type="italic">nissonii (nisu) </em>. </p>
-    <p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium og endingen '-i'. Her er det også diftongforenkling: <em type="italic">bohccui (boazu), sullui (suolu) </em>. </p>
-    <p xml:lang="nno">Flertall har endinga '-ide': <em type="italic">láibbiide bohccuide </em>og ulikestavelsessubstantiv får '-iidda': <em type="italic">nissoniidda. </em></p>
-    <p>Kontrakte substantiv og likestavelsessubstantiv som slutter på -i får diftongforenkling: <em type="italic">gođiide (goahti), sulluide (suolu) </em>. </p>
-    <p xml:lang="vep">
-      <em type="italic">ILLATIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guollái </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliide </em>
-    </p>
-    <p xml:lang="est">
-      <em type="italic">nieida </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">niidii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nieiddaide </em>
-    </p>
-    <p xml:lang="nno"/>
-    <p xml:lang="fkv">
-      <em type="italic">reŋko </em>
-    </p>
-    <p xml:lang="ron">
-      <em type="italic">reŋkui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">reŋkkuide </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiidda </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuide </em>
-    </p>
-    <p type="title" xml:lang="fin">Lokativ</p>
-    <p>er kasus som betegner på/i stedet eller fra stedet. Lokativ kan også betegne giver, eller hvem noe kommer fra: <em type="italic">Mánát leat 'skuvllas'. Mánát bohtet 'skuvllas'. </em>(på/fra skolen). <em type="italic">Mun ožžon 'áhčis' niibbi. Mii gulaimet 'rádios' ođđasiid. </em>(Jeg fikk en kniv av far. Vi hørte nyheter på radioen). Lokativ kan også fortelle hvem som har noe: <em type="italic">'Nieiddas' leat ollu girjjit. </em>Det fins også lokativ-verb. Dette er verb som krever at etterfølgende substantiv står i lokativ. Vanlige lokativ-verb er <em type="italic">beroštit, ballat, heaitit </em>: <em type="italic">Mun beroštan 'dus'. Bárdni heittii 'skuvllas'. Mánát balle 'beatnagis'. </em>(Jeg bryr meg om deg. Gutten sluttet på skolen. Barna var redde for hunden.) Les mer om lokativ-verb . </p>
-    <p>Endingen er -s i entall. Likestavelsessubstantiv får svakt stadium: <em type="italic">gusas (gussa) </em>, og ulikestavelsessubstantiv får sterkt stadium: <em type="italic">nissonis (nisu) </em>. Kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">bohccos (boazu) </em>. </p>
-    <p>Flertall har endinga '-in'. Kontrakte substantiv og likestavelsessubstantiv som slutter på -i har diftongforenkling: <em type="italic">gusain gođiin nissoniin bohccuin </em>. </p>
-    <p xml:lang="vep">
-      <em type="italic">LOKATIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guolis </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliin </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagis </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiin </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccos </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuin </em>
-    </p>
-    <p type="title" xml:lang="vep">Komitativ</p>
-    <p>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun čuohpan láibbi 'niibbiin' </em>. <em type="italic">Mun hupmen 'vieljain' ikte. </em>Det fins også komitativ-verb som krever at substantivet er i komitativ. </p>
-    <p>Endingen er -in. Likestavelsessubstantiv får svakt stadium, og ord som slutter på -i får diftongforenkling <em type="italic">gusain (gussa), gođiin (goahti) </em>, ulikestavelsessubstantiv får sterkt stadium, <em type="italic">nissoniin (nisu) </em>, og kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">bohccuin (boazu), sulluin (suolu) </em>. </p>
-    <p xml:lang="nno">Flertall har endinga '-iguin'. Likestavelsessubstantiv som ender på -i og kontrakte substantiv har diftongforenkling: <em type="italic">niibbiiguin etniiguin nissoniiguin bohccuiguin </em>. </p>
-    <p xml:lang="vep">
-      <em type="italic">KOMITATIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall </em>
-    </p>
-    <p>
-      <em type="italic">flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">guliiguin </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čállagiiguin </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">bohccuiguin </em>
-    </p>
-    <p type="title" xml:lang="swe">Essiv</p>
-    <p>er tilstandskasus som ofte gir betydningen <span type="quote" xml:lang="swe">"som"</span>. Essiv kan også fortelle om når eller under hvilke naturforhold noe hender, eller om hva noe kalles for.</p>
-    <p><em type="italic">Viessu geavahuvvo 'skuvlan'. </em>Huset brukes som skole. </p>
-    <p xml:lang="nno"><em type="italic">'Arvin' in gille mannat oaggut. </em>I regn gidder jeg ikke å gå og fiske. </p>
-    <p><em type="italic">'Nuorran' mun lohken ollu divttaid. </em>Som ung pleide jeg å lese mye dikt. </p>
-    <p><em type="italic">Mii gohčodit beatnaga 'Čáhppen'. </em>Vi kaller hunden for Čáhppe. </p>
-    <p><em type="italic">'Ovdamearkan' sáhttá atnit Guovdageainnu ja Kárášjoga. </em>Som eksempel kan man bruke Kautokeino og Karasjok. </p>
-    <p><em type="italic">Mun lean šaddan 'siessán'. </em>Jeg er blitt tante. </p>
-    <p>Man legger endinga '-n' til nominativ entallsformen. Det er ikke forskjell på entall og flertall. I ulikestavelses- og kontrakte substantiv som slutter på en konsonant i nominativ entall, legger man til -in etter konsonanten: <em type="italic">mális - málisin, olmmái - olmmájin </em>. I likestavelsessubstantiv som slutter på en konsonant, legger man til -an etter konsonanten. Konsonantene skal stå i sterk grad i essiv: <em type="italic">gonagas - gonagassan, sihkaldat - sihkaldahkan </em>. </p>
-    <p xml:lang="deu">
-      <em type="italic">ESSIV </em>
-    </p>
-    <p xml:lang="fin">
-      <em type="italic">stammetype </em>
-    </p>
-    <p>
-      <em type="italic">entall og flertall </em>
-    </p>
-    <p xml:lang="est">Likestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">guolli </em>
-    </p>
-    <p xml:lang="smj">
-      <em type="italic">guollin </em>
-    </p>
-    <p xml:lang="est">Ulikestavelsessubstantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">čála </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">čálan </em>
-    </p>
-    <p xml:lang="nno">Kontrakt substantiv</p>
-    <p xml:lang="sme">
-      <em type="italic">boazu </em>
-    </p>
-    <p xml:lang="deu">
-      <em type="italic">boazun </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Substantiver</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2014</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/substantiv.nob.html</origFileName><parallel_text xml:lang="eng" location="substantiv.eng.html"/><parallel_text xml:lang="sme" location="substantiv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nno">Substantiver</p>
+<list><p type="listitem">Ulike stammer</p>
+<p type="listitem" xml:lang="dan">Diftongforenkling</p>
+<p type="listitem" xml:lang="est">Stadieveksling</p>
+<p type="listitem">Andre konsonantvekslinger</p>
+<p type="listitem" xml:lang="est">Kasus</p>
+<p type="listitem" xml:lang="vep">Nominativ</p>
+<p type="listitem" xml:lang="kal">Akkusativ</p>
+<p type="listitem" xml:lang="vep">Genitiv</p>
+<p type="listitem" xml:lang="smj">Illativ</p>
+<p type="listitem" xml:lang="fin">Lokativ</p>
+<p type="listitem" xml:lang="vep">Komitativ</p>
+<p type="listitem" xml:lang="swe">Essiv</p>
+</list><p>Tilbake til grammatikk hovedside .</p>
+<p><em type="italic">Substantiver </em>er navneord - det kan være folk, dyr, ting, prosesser eller abstrakte forhold, f.eks.: <em type="italic">nieida </em>(jente), <em type="italic">Káre, beavdi </em>(bord), <em type="italic">ráhkisvuohta </em>(kjærlighet), <em type="italic">dávda </em>(sykdom), <em type="italic">Norga </em>. </p>
+<p type="title">Ulike stammer</p>
+<p>I samisk får substantivene ulike bøyingsendelser, alt etter hvor mange stavelser det er i den siste <em type="italic">takta </em>i ordet. Ei takt er ei gruppe av stavelser der den første stavelsen har trykk. Her er stavelsene skilt med -, og takta merka med (). Trykk er merket med ' foran stavelsen. </p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">gussa </em>('gus-sa) har to stavelser og ei takt. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">sámegiella </em>('sá-me)('giel-la) har fire stavelser og to takter. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">fatnasa </em>('fa-tna-sa) har tre stavelser og ei takt. </p>
+<p type="listitem"><em type="italic">vilbealle </em>('vil)('beal-le) har tre stavelser og to takter. </p>
+</list><p><em type="italic">Likestavelsessubstantiv </em>er substantiv som har to stavelser i siste takt i nominativ flertall. </p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">gussa - gusat </em>('gu-sat) har to stavelser og ei takt. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">vilbealle - vilbealit </em>('vil)('bea-lit) har tre stavelser og to takter. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">sámegiella - sámegielat </em>('sá-me)('gie-lat) har fire stavelser og to takter. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">gonagas - gonagasat </em>('go-na)('ga-sat) har fire stavelser og to takter. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">gonagasbárdni - gonagasbártnit </em>('go-na-gas)('bárt-nit) har fem stavelser og to takter. </p>
+</list><p>Disse substantivene har sterkt stadium i nominativ entall, og svakt stadium i flertall.</p>
+<p><em type="italic">Ulikestavelsessubstantiv </em>har tre stavelser i siste takt i flertall. </p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">rieban - riebanat </em>('rie-ba-nat) har tre stavelser og ei takt. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">nisu - nissonat </em>('nis-so-nat) har tre stavelser og ei takt. </p>
+<p type="listitem"><em type="italic">ruksesrieban - ruksesriebanat </em>('ruk-ses)('rie-ba-nat) har fem stavelser og to takter. </p>
+</list><p>Nominativ entall og essiv har svakt stadium, de andre formene har sterkt stadium, men ikke alle ulikestavelses substantiver har stadieveksling.</p>
+<p><em type="italic">Kontrakte substantiv </em>har to stavelser i siste takt i både entall og flertall. Substantivet har svakt stadium i nominativ entall og sterkt eller ekstra sterkt stadium i flertall. </p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">bálggis - bálgát </em>('bál-gát) har to stavelser og ei takt. </p>
+<p type="listitem"><em type="italic">vuovdebálggis - vuovdebálgát </em>('vuov-de)('bál-gát) har fire stavelser og to takter. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">olmmái - olbmát </em>('olb-mát) har to stavelser og ei takt. </p>
+</list><p>Kontrakte substantiver som slutter på '-u', har diftongforenkling i alle kasus, bortsett fra nominativ entall og essiv:</p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">boazu - bohccot </em>('bohc-cot) har to stavelser og ei takt. </p>
+<p type="listitem"><em type="italic">suolu - sullot </em>('sul-lot) har to stavelser og ei takt. </p>
+</list><p type="title" xml:lang="dan">Diftongforenkling</p>
+<p>Diftongen i første stavelse av en takt kan påvirkes av vokalen i andre stavelse. Diftong går over til monoftong (en enkelt vokal), når vokalen i andre stavelse er:</p>
+<list><p type="listitem" xml:lang="sme">-ii- , f.eks. <em type="italic">gihtii (giehta) </em></p>
+<p type="listitem">-ui- , men bare i illativ entall, f.eks. <em type="italic">vissui (viessu) </em></p>
+<p type="listitem" xml:lang="sme">-o- , f.eks. <em type="italic">bohccot (boazu) </em></p>
+</list><p xml:lang="nno">I kontrakte substantiv som slutter på -u, får vi diftongforenkling i alle kasus, bortsett fra nominativ entall og essiv.</p>
+<p type="title" xml:lang="est">Stadieveksling</p>
+<p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i siste takta, f.eks. <em type="italic">sámegiella - sámegiela </em>. Denne vekslinga kalles <em type="italic">stadieveksling </em>. Det er f.eks. <em type="italic">sterkt stadium </em>i nominativ entall i likestavelsessubstantiv, og i nominativ flertall i ulikestavelsessubstantiv. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nominativ flertall i likestavelsessubstantiv, eller i nominativ ental i ulikestavelsessubstantiv. </p>
+<p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre. Vær obs på at når bokstaven -i- står etter en vokal står den for en konsonant (-j-), og tilhører derfor konsonantgruppa:</p>
+<list><p type="listitem" xml:lang="smj">má <em type="italic">nn </em>á - má <em type="italic">n </em>át, lá <em type="italic">vv </em>u - lá <em type="italic">v </em>ut, vie <em type="italic">ss </em>u - vie <em type="italic">s </em>ut, guo <em type="italic">ll </em>i - guo <em type="italic">l </em>it </p>
+<p type="listitem" xml:lang="sme">lá <em type="italic">ib </em>i - lá <em type="italic">ibb </em>it, bá <em type="italic">id </em>i - bá <em type="italic">idd </em>it, lá <em type="italic">vl </em>agat - lá <em type="italic">vll </em>a </p>
+<p type="listitem" xml:lang="nno">oa <em type="italic">bb </em>á - oa <em type="italic">pp </em>át, stá <em type="italic">gg </em>u - stá <em type="italic">kk </em>ut, </p>
+<p type="listitem" xml:lang="sme">bea <em type="italic">tn </em>agat - bea <em type="italic">n </em>a, vuo <em type="italic">pm </em>i - vuo <em type="italic">m </em>it </p>
+<p type="listitem" xml:lang="nno">u <em type="italic">ks </em>a - u <em type="italic">vss </em>at, gá <em type="italic">kt </em>i - gá <em type="italic">vtt </em>it </p>
+<p type="listitem" xml:lang="isl">gá <em type="italic">hkk </em>u - gá <em type="italic">hk </em>u, á <em type="italic">hčč </em>i - á <em type="italic">hči </em>t </p>
+</list><p>Likestavelsessubstantiv kan også slutte på en konsonant i nominativ entall, for eksempel ord som <em type="italic">gonagas, lávvardat </em>. I bøyningen av disse ordene vil det legges til en ekstra stavelse, og ordet får to takter: ('go-na)('ga-sa). Da vil det være stadieveksling i ordets siste takt. Sterk grad vil forekomme i illativ entall og essiv. Eksempler med nominativ entall og flertall og illativ entall: </p>
+<list><p type="listitem" xml:lang="sme">gonaga <em type="italic">s </em>- gonaga <em type="italic">s </em>at - gonaga <em type="italic">ss </em>ii </p>
+<p type="listitem" xml:lang="nno">lávvarda <em type="italic">t </em>- lávvarda <em type="italic">g </em>at - lávvarda <em type="italic">hk </em>ii </p>
+<p type="listitem" xml:lang="smn">ofela <em type="italic">š </em>- ofela <em type="italic">čč </em>at - ofela <em type="italic">žž </em>ii </p>
+<p type="listitem" xml:lang="sme">borramu <em type="italic">š </em>- borramu <em type="italic">š </em>at - borramu <em type="italic">šš </em>ii </p>
+</list><p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
+<p type="title">Andre konsonantvekslinger</p>
+<p>Noen substantiv slutter på konsonant i nominativ entall. I nordsamisk er det begrensninger på hvilke konsonanter som kan forekomme i slutten av ord, og da kan vi få spesielle konsonantvekslinger mellom nominativ entall og de andre kasusene. Konsonanter som kan forekomme i slutten av ord er t, s, š, l, r og n. Eksempler på vekslinger i ulikestavelsessubstantiv og 'olmmoš':</p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">t &gt; h </em>, f.eks. <em type="italic">rievssat - rievssaha </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">t &gt; d </em>, f.eks. <em type="italic">eamit - eamida </em></p>
+<p type="listitem"><em type="italic">t &gt; g </em>, f.eks. <em type="italic">rusttet - rusttega </em></p>
+<p type="listitem"><em type="italic">t &gt; b </em>, f.eks. <em type="italic">ustit - ustiba </em></p>
+<p type="listitem"><em type="italic">n &gt; m </em>, f.eks. <em type="italic">goaskin - goaskima </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, f.eks. <em type="italic">cizáš - cizáža, olmmoš - olmmožin </em></p>
+</list><p xml:lang="nno">Legg merke til at š og n ikke alltid veksler: <em type="italic">bearaš - bearraša, gearpmaš - gearbmaša, čálán - čálána, suohpan - suohpana </em>. </p>
+<p>Likestavelsessubstantiv som slutter på konsonant, har lignende vekslinger:</p>
+<list><p type="listitem"><em type="italic">t &gt; g </em>, f.eks. <em type="italic">sihkaldat - sihkaldaga </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, f.eks. <em type="italic">sápmelaš - sápmelačča </em></p>
+</list><p>Likestavelsessubstantiv får også stadieveksling i disse konsonantene, les mer om det her .</p>
+<p>Noen ulikestavelsessubstantiv som slutter på en vokal i nominativ entall, får likevel en ekstra konsonant i de andre formene:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, f.eks. <em type="italic">beana - beatnaga, gáma - gápmaga </em></p>
+<p type="listitem"><em type="italic">_ &gt; m </em>, f.eks. <em type="italic">ađa - ađđama, gietkka - gietkama </em></p>
+</list><p xml:lang="nno">Kontrakte substantiv som slutter på -i, får en veksling i&gt;j mellom nominativ entall og essiv i skriftspråket.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, f.eks. <em type="italic">olmmái - olmmájin, almmái - almmájin </em></p>
+</list><p type="title" xml:lang="est">Kasus</p>
+<p>er bøyningsformer som markerer hvilken funksjon <em type="italic">nomen </em>har i setningen. Nomen er enten substantiv, adjektiv, tallord eller pronomen. I nordsamisk er det sju kasus. </p>
+<p type="title" xml:lang="vep">Nominativ</p>
+<p>er kasus som angir grunnformen (presentasjonsformen) av nomen, det er kasus for subjekt og for predikativ. Nominativ flertall har endingen '-t'.</p>
+<p>Likestavelsessubstantiv har sterkt stadium i entall og svakt stadium i flertall: <em type="italic">Min 'gussa' lea návehis. Min 'gusat' leat návehis. </em></p>
+<p>Ulikestavelsessubstantiv har svakt stadium i entall og sterkt stadium i flertall, f.eks. <em type="italic">Čoahkkimis lea dušše okta 'nisu'. Čoahkkimis leat ollu 'nissonat'. </em></p>
+<p>Kontrakte substantiv har svakt stadium i entall og får sterkt eller ekstra sterkt stadium i flertall. I flertall blir det også diftongforenkling, f.eks. <em type="italic">Šiljus lea 'boazu'. Duoddaris leat ollu 'bohccot'. </em></p>
+<p xml:lang="vep"><em type="italic">NOMINATIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guolit </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagat </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccot </em></p>
+<p type="title" xml:lang="kal">Akkusativ</p>
+<p xml:lang="nno">er kasus som brukes for objekt, f.eks. <em type="italic">Mun oasttán 'gusa'. </em>Flertall har endinga '-id'. </p>
+<p>Likestavelsessubstantiv har svakt stadium i både entall og flertall. I substantiv som ender på -i, får vi diftongforenkling i flertall: <em type="italic">Mun oasttán 'gusa'/'gusaid'. (gussa) </em>. <em type="italic">Mun čorgen 'goađi'/'gođiid'. (goahti) </em></p>
+<p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og i entall endinga '-a': <em type="italic">Mun dovddan 'nissona'/'nissoniid'. (nisu). </em></p>
+<p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium, og diftongforenkling: <em type="italic">Gal mun oainnán 'bohcco'/'bohccuid'. (boazu) </em></p>
+<p xml:lang="nno">I nordsamisk er substantivenes akkusativ- og genitivformer like.</p>
+<p xml:lang="vep"><em type="italic">AKKUSATIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guoli </em></p>
+<p xml:lang="sme"><em type="italic">guliid </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállaga </em></p>
+<p xml:lang="sme"><em type="italic">čállagiid </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohcco </em></p>
+<p xml:lang="sme"><em type="italic">bohccuid </em></p>
+<p type="title" xml:lang="vep">Genitiv</p>
+<p>er kasus som angir eieform: <em type="italic">'nissona' lávka (kvinnens veske), 'skuvlla' njuolggadusat (skolens regler) </em>. Genitiv brukes også i andre sammenhenger, f.eks. i post- og preposisjonsuttrykk: <em type="italic">'sullo' lahka (nært øya) </em>. Genitiv brukes også i tallordsuttrykk, når tallet er større enn 1: <em type="italic">guokte 'nieidda' ja golbma 'bártni' (to jenter og tre gutter) </em>. Flertallsendingen er '-id'. </p>
+<p>Likestavelsessubstantiv har svakt stadium i både entall og flertall. I substantiv som ender på -i, får vi diftongforenkling i flertall: <em type="italic">Dat lea 'gusa'/'gusaid' biebmu. (gussa) </em>. <em type="italic">Dat leat 'goađi'/'gođiid' duohken. (goahti) </em>. </p>
+<p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og i entall endinga '-a': <em type="italic">Dat lea 'nissona'/'nissoniid' lávka. (nisu). </em></p>
+<p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">Mun bivden guoli 'sullo'/'sulluid' davábealde. (suolu) </em></p>
+<p xml:lang="nno">I nordsamisk er substantivenes akkusativ- og genitivformer like.</p>
+<p xml:lang="vep"><em type="italic">GENITIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guoli </em></p>
+<p xml:lang="sme"><em type="italic">guliid </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállaga </em></p>
+<p xml:lang="sme"><em type="italic">čállagiid </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohcco </em></p>
+<p xml:lang="sme"><em type="italic">bohccuid </em></p>
+<p type="title" xml:lang="smj">Illativ</p>
+<p>er kasus som betegner bevegelse til eller inn i noe. Illativ kan også betegne mottaker: <em type="italic">Mun manan 'skuvlii'. </em>(til skolen) - <em type="italic">Sii mannet 'skuvllaide' </em>(til skolene). <em type="italic">Son attii 'mánnái' girjji. Mánná bijai girjji 'hildui'. </em>(Hun ga barnet en bok. Barnet la boka i hylla.) Det fins også illativ-verb. Dette er verb som krever illativ i etterfølgende substantiv. Eksempler på vanlige illativ-verb er <em type="italic">liikot, álgit </em>: <em type="italic">Son álgá 'skuvlii'. Mun liikon 'eadnái'. </em>(Han begynner på skolen. Jeg liker mamma.) Les mer om illativ-verb . </p>
+<p>Likestavelsessubstantiv har sterkt stadium, vokalen i andre stavelse endrer seg og så man får endingen '-i': <em type="italic">láibái (láibi), gussii (gussa), reŋkui (reŋko), báŋkui (báŋku) </em>. </p>
+<p>I substantiv som slutter på -u og -a får man diftongforenkling i entall: <em type="italic">merrii (mearra), vissui (viessu) </em>. </p>
+<p xml:lang="nno">Ulikestavelsessubstantiv får sterkt stadium og '-ii': <em type="italic">nissonii (nisu) </em>. </p>
+<p xml:lang="nno">Kontrakte substantiv får sterkt eller ekstra sterkt stadium og endingen '-i'. Her er det også diftongforenkling: <em type="italic">bohccui (boazu), sullui (suolu) </em>. </p>
+<p xml:lang="nno">Flertall har endinga '-ide': <em type="italic">láibbiide bohccuide </em>og ulikestavelsessubstantiv får '-iidda': <em type="italic">nissoniidda. </em></p>
+<p>Kontrakte substantiv og likestavelsessubstantiv som slutter på -i får diftongforenkling: <em type="italic">gođiide (goahti), sulluide (suolu) </em>. </p>
+<p xml:lang="vep"><em type="italic">ILLATIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guollái </em></p>
+<p xml:lang="sme"><em type="italic">guliide </em></p>
+<p xml:lang="est"><em type="italic">nieida </em></p>
+<p xml:lang="sme"><em type="italic">niidii </em></p>
+<p xml:lang="sme"><em type="italic">nieiddaide </em></p>
+<p xml:lang="swe"/>
+<p xml:lang="rmf"><em type="italic">reŋko </em></p>
+<p xml:lang="ron"><em type="italic">reŋkui </em></p>
+<p xml:lang="sme"><em type="italic">reŋkkuide </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagii </em></p>
+<p xml:lang="sme"><em type="italic">čállagiidda </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccui </em></p>
+<p xml:lang="sme"><em type="italic">bohccuide </em></p>
+<p type="title" xml:lang="fin">Lokativ</p>
+<p>er kasus som betegner på/i stedet eller fra stedet. Lokativ kan også betegne giver, eller hvem noe kommer fra: <em type="italic">Mánát leat 'skuvllas'. Mánát bohtet 'skuvllas'. </em>(på/fra skolen). <em type="italic">Mun ožžon 'áhčis' niibbi. Mii gulaimet 'rádios' ođđasiid. </em>(Jeg fikk en kniv av far. Vi hørte nyheter på radioen). Lokativ kan også fortelle hvem som har noe: <em type="italic">'Nieiddas' leat ollu girjjit. </em>Det fins også lokativ-verb. Dette er verb som krever at etterfølgende substantiv står i lokativ. Vanlige lokativ-verb er <em type="italic">beroštit, ballat, heaitit </em>: <em type="italic">Mun beroštan 'dus'. Bárdni heittii 'skuvllas'. Mánát balle 'beatnagis'. </em>(Jeg bryr meg om deg. Gutten sluttet på skolen. Barna var redde for hunden.) Les mer om lokativ-verb . </p>
+<p>Endingen er -s i entall. Likestavelsessubstantiv får svakt stadium: <em type="italic">gusas (gussa) </em>, og ulikestavelsessubstantiv får sterkt stadium: <em type="italic">nissonis (nisu) </em>. Kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">bohccos (boazu) </em>. </p>
+<p xml:lang="nno">Flertall har endinga '-in'. Kontrakte substantiv og likestavelsessubstantiv som slutter på -i har diftongforenkling: <em type="italic">gusain gođiin nissoniin bohccuin </em>. </p>
+<p xml:lang="vep"><em type="italic">LOKATIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guolis </em></p>
+<p xml:lang="sme"><em type="italic">guliin </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagis </em></p>
+<p xml:lang="sme"><em type="italic">čállagiin </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccos </em></p>
+<p xml:lang="sme"><em type="italic">bohccuin </em></p>
+<p type="title" xml:lang="vep">Komitativ</p>
+<p>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun čuohpan láibbi 'niibbiin' </em>. <em type="italic">Mun hupmen 'vieljain' ikte. </em>Det fins også komitativ-verb som krever at substantivet er i komitativ. </p>
+<p>Endingen er -in. Likestavelsessubstantiv får svakt stadium, og ord som slutter på -i får diftongforenkling <em type="italic">gusain (gussa), gođiin (goahti) </em>, ulikestavelsessubstantiv får sterkt stadium, <em type="italic">nissoniin (nisu) </em>, og kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">bohccuin (boazu), sulluin (suolu) </em>. </p>
+<p xml:lang="nno">Flertall har endinga '-iguin'. Likestavelsessubstantiv som ender på -i og kontrakte substantiv har diftongforenkling: <em type="italic">niibbiiguin etniiguin nissoniiguin bohccuiguin </em>. </p>
+<p xml:lang="vep"><em type="italic">KOMITATIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall </em></p>
+<p><em type="italic">flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guliin </em></p>
+<p xml:lang="sme"><em type="italic">guliiguin </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagiin </em></p>
+<p xml:lang="sme"><em type="italic">čállagiiguin </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccuin </em></p>
+<p xml:lang="sme"><em type="italic">bohccuiguin </em></p>
+<p type="title" xml:lang="swe">Essiv</p>
+<p>er tilstandskasus som ofte gir betydningen <span type="quote" xml:lang="swe">"som"</span>. Essiv kan også fortelle om når eller under hvilke naturforhold noe hender, eller om hva noe kalles for.</p>
+<p><em type="italic">Viessu geavahuvvo 'skuvlan'. </em>Huset brukes som skole. </p>
+<p xml:lang="nno"><em type="italic">'Arvin' in gille mannat oaggut. </em>I regn gidder jeg ikke å gå og fiske. </p>
+<p><em type="italic">'Nuorran' mun lohken ollu divttaid. </em>Som ung pleide jeg å lese mye dikt. </p>
+<p><em type="italic">Mii gohčodit beatnaga 'Čáhppen'. </em>Vi kaller hunden for Čáhppe. </p>
+<p><em type="italic">'Ovdamearkan' sáhttá atnit Guovdageainnu ja Kárášjoga. </em>Som eksempel kan man bruke Kautokeino og Karasjok. </p>
+<p><em type="italic">Mun lean šaddan 'siessán'. </em>Jeg er blitt tante. </p>
+<p>Man legger endinga '-n' til nominativ entallsformen. Det er ikke forskjell på entall og flertall. I ulikestavelses- og kontrakte substantiv som slutter på en konsonant i nominativ entall, legger man til -in etter konsonanten: <em type="italic">mális - málisin, olmmái - olmmájin </em>. I likestavelsessubstantiv som slutter på en konsonant, legger man til -an etter konsonanten. Konsonantene skal stå i sterk grad i essiv: <em type="italic">gonagas - gonagassan, sihkaldat - sihkaldahkan </em>. </p>
+<p xml:lang="deu"><em type="italic">ESSIV </em></p>
+<p xml:lang="fin"><em type="italic">stammetype </em></p>
+<p><em type="italic">entall og flertall </em></p>
+<p xml:lang="rmy-rka">Likestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="smj"><em type="italic">guollin </em></p>
+<p xml:lang="rmy-rka">Ulikestavelsessubstantiv</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čálan </em></p>
+<p xml:lang="nno">Kontrakt substantiv</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="deu"><em type="italic">boazun </em></p>
+</body></document>

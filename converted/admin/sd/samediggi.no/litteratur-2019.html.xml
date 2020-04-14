@@ -1,72 +1,30 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Litteratur 2019</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>273</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Litteratur-2019</origFileName>
-    <parallel_text xml:lang="sma" location="lidteratuvre.html"/>
-    <parallel_text xml:lang="sme" location="girjjalasvuohta-2019.html"/>
-    <parallel_text xml:lang="smj" location="girjalasjvuohta-2018.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Litteratur 2019</p>
-    <p>Samisk litteraturs søkerbaserte ordning støtter samisk litteratur, både skjønn- og faglitteratur prosjekter som blir fremmet av foretak.</p>
-    <p>Søknadsfrist: 01.10.2019 23:59</p>
-    <p><em type="italic">Søknadsfrist: </em>01.03.19 og 01.10.19 </p>
-    <p>
-      <em type="italic">Mål for tilskuddsordningen: </em>
-    </p>
-    <list>
-      <p type="listitem">Kvalitativ litteratur er tilgjengelig på samisk</p>
-    </list>
-    <p>Samisk litteraturs søkerbaserte ordning støtter samisk litteratur, både skjønn- og faglitteratur prosjekter som blir fremmet av foretak. Søknadene vurderes ut fra mange relevante hensyn.</p>
-    <p xml:lang="dan">
-      <em type="italic">Tilskuddsmottakere for ordningen: </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="nno">Foretak</p>
-      <p type="listitem">Foretak, institusjoner og organisasjoner som mottar tilskudd må være registrert i Enhetsregisteret i Norge.</p>
-    </list>
-    <p>Forlag/foretak som mottar direkte tilskudd til forlagsstøtte over Sametingets budsjett er ikke støtteberettiget over denne søkerbaserte ordningen.</p>
-    <p>Det gis ikke tilskudd til Norskregistrerte utenlandske foretak (NUF).</p>
-    <p>
-      <em type="italic">Det kan søkes om tilskudd til følgende tiltak: </em>
-    </p>
-    <list>
-      <p type="listitem">Skjønnlitteratur med originalmanus på samisk</p>
-      <p type="listitem">Faglitteratur med originalmanus på samisk</p>
-      <p type="listitem">Oversettelser av litteratur for barn og ungdom til samisk</p>
-      <p type="listitem">Digitale utgivelser på samisk innenfor skjønnlitteratur</p>
-    </list>
-    <p>
-      <em type="italic">Krav til søknadens innhold og form: </em>
-    </p>
-    <list>
-      <p type="listitem">Sametingets digitale søknadsskjema skal benyttes.</p>
-      <p type="listitem">Søknader som ikke oppfyller kriteriene for å kunne søke vil bli avvist.</p>
-      <p type="listitem">Tilskuddsmottaker skal ha et likestillings- og mangfoldsperspektiv i sitt virke og i sine tjenester og produkter.</p>
-      <p type="listitem">Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan.</p>
-      <p type="listitem">Den som underskriver søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.</p>
-      <p type="listitem">Dersom søker mottar støtte skal det opplyses at Sametinget har støttet tiltaket/prosjektet.</p>
-    </list>
-    <p>For mer informasjon om beregningsregler – se søknadsskjema og regelverk for ordningen.</p>
-    <p xml:lang="est">
-      <em type="italic">Saksbehandlingstid: </em>
-    </p>
-    <p>Søker kan forvente svar på søknad 3 måneder etter at søknad er mottatt, Jf forvaltningsloven § 11. Foreløpig melding i forvaltningssak sendes ut innen en måned etter mottatt søknad.</p>
-    <p xml:lang="sme"><em type="italic">Kontaktpersoner: </em>Emma Margret Skåden , 78 47 41 01, Silja Somby , 78 48 42 30, Johan Matteus Triumf , 78 48 42 81 </p>
-    <p xml:lang="dan">Elektronisk søknadsskjema</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Litteratur 2019</title><genre code="admin"/><author><unknown/></author><wordcount>273</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Tilskudd-og-stipend/Litteratur-2019</origFileName><parallel_text xml:lang="sma" location="lidteratuvre.html"/><parallel_text xml:lang="sme" location="girjjalasvuohta-2019.html"/><parallel_text xml:lang="smj" location="girjalasjvuohta-2018.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Litteratur 2019</p>
+<p>Samisk litteraturs søkerbaserte ordning støtter samisk litteratur, både skjønn- og faglitteratur prosjekter som blir fremmet av foretak.</p>
+<p>Søknadsfrist: 01.10.2019 23:59</p>
+<p><em type="italic">Søknadsfrist: </em>01.03.19 og 01.10.19 </p>
+<p><em type="italic">Mål for tilskuddsordningen: </em></p>
+<list><p type="listitem">Kvalitativ litteratur er tilgjengelig på samisk</p>
+</list><p>Samisk litteraturs søkerbaserte ordning støtter samisk litteratur, både skjønn- og faglitteratur prosjekter som blir fremmet av foretak. Søknadene vurderes ut fra mange relevante hensyn.</p>
+<p xml:lang="dan"><em type="italic">Tilskuddsmottakere for ordningen: </em></p>
+<list><p type="listitem" xml:lang="nno">Foretak</p>
+<p type="listitem">Foretak, institusjoner og organisasjoner som mottar tilskudd må være registrert i Enhetsregisteret i Norge.</p>
+</list><p>Forlag/foretak som mottar direkte tilskudd til forlagsstøtte over Sametingets budsjett er ikke støtteberettiget over denne søkerbaserte ordningen.</p>
+<p>Det gis ikke tilskudd til Norskregistrerte utenlandske foretak (NUF).</p>
+<p><em type="italic">Det kan søkes om tilskudd til følgende tiltak: </em></p>
+<list><p type="listitem">Skjønnlitteratur med originalmanus på samisk</p>
+<p type="listitem">Faglitteratur med originalmanus på samisk</p>
+<p type="listitem">Oversettelser av litteratur for barn og ungdom til samisk</p>
+<p type="listitem">Digitale utgivelser på samisk innenfor skjønnlitteratur</p>
+</list><p><em type="italic">Krav til søknadens innhold og form: </em></p>
+<list><p type="listitem">Sametingets digitale søknadsskjema skal benyttes.</p>
+<p type="listitem">Søknader som ikke oppfyller kriteriene for å kunne søke vil bli avvist.</p>
+<p type="listitem">Tilskuddsmottaker skal ha et likestillings- og mangfoldsperspektiv i sitt virke og i sine tjenester og produkter.</p>
+<p type="listitem">Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan.</p>
+<p type="listitem">Den som underskriver søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.</p>
+<p type="listitem">Dersom søker mottar støtte skal det opplyses at Sametinget har støttet tiltaket/prosjektet.</p>
+</list><p>For mer informasjon om beregningsregler – se søknadsskjema og regelverk for ordningen.</p>
+<p xml:lang="est"><em type="italic">Saksbehandlingstid: </em></p>
+<p>Søker kan forvente svar på søknad 3 måneder etter at søknad er mottatt, Jf forvaltningsloven § 11. Foreløpig melding i forvaltningssak sendes ut innen en måned etter mottatt søknad.</p>
+<p xml:lang="sme"><em type="italic">Kontaktpersoner: </em>Emma Margret Skåden , 78 47 41 01, Silja Somby , 78 48 42 30, Johan Matteus Triumf , 78 48 42 81 </p>
+<p xml:lang="dan">Elektronisk søknadsskjema</p>
+</body></document>

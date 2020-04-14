@@ -1,60 +1,27 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>391</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv</origFileName>
-    <parallel_text xml:lang="sma" location="kultuvrejieleme.html"/>
-    <parallel_text xml:lang="sme" location="kultureallin.html"/>
-    <parallel_text xml:lang="smj" location="kultuvrraiellem.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulturliv / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Kulturliv</p>
-    <p>Et allsidig kulturliv styrker samisk samhørighet og identitet, og bidrar til levende lokalsamfunn der folk vil bo. Kulturaktiviteter spiller derfor en viktig rolle i det samiske samfunnet, også for bosettingen. Samisk kulturutøvelse er med på å skape tilhørighet, trivsel og livskvalitet, i tillegg til kulturbaserte arbeidsplasser.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <list>
-      <p type="listitem">Medier</p>
-      <p type="listitem">Idrett</p>
-      <p type="listitem">Arenaer for samisk kulturutøvelse</p>
-      <p type="listitem">Kunst- og kulturutøvelse</p>
-    </list>
-    <p type="title">Sametinget arbeider for</p>
-    <list>
-      <p type="listitem">Å være den fremste premissgiveren for utviklingen av samisk kunst og kultur</p>
-      <p type="listitem">At alle skal få ta del i samisk kultur der de bor</p>
-      <p type="listitem">Å legge til rette for at vi har et levende og mangfoldig samisk kulturliv av god kvalitet</p>
-      <p type="listitem">Å utvikle, og bevare samisk kunst- og kulturliv ved å bidra til faglig dyktige og aktive samiske møteplasser, kulturinstitusjoner og museer</p>
-      <p type="listitem">Økt sysselsetting som følge av samisk kunst- og kulturbasert næring</p>
-    </list>
-    <p type="title">Bakgrunn</p>
-    <p>Sametingets hovedoppgave i kulturpolitikken er å legge til rette for samisk kunst- og kulturaktivitet og utviklingen av denne. Det samiske samfunn er ennå inne i samfunnsbyggende fase, der basisområder innenfor kultur og språk har vært prioritert og fortsatt må prioriteres. Dette fordrer en kraftig innsats av det samiske samfunnet selv, de samiske institusjonene, Sametinget og statlige myndigheter. Sametinget ser det som sitt ansvar å ta vare på og utvikle det initiativet og den aktiviteten som den samiske befolkningen står for og vil være den viktigste premissleverandøren i denne prosessen. Statlige myndigheter innehar likevel det overordnede ansvar for å legge forholdene til rette slik at det samiske samfunn selv får mulighet til å videreutvikle sin samfunnsbygging. Regionale og lokale myndigheter har også et ansvar til å bidra til felles utviking av samisk kunst, kulturliv og samiske institusjoner.</p>
-    <p>Sametinget arbeider for at alle skal ha mulighet til å oppleve samisk kunst og kultur. Vi er stolt over vår historie, vår kulturarv og vår kunst og kultur. Vi vil legge til rette for et levende og mangfoldig kunst- og kulturliv av god kvalitet som skapes, utøves, formidles og oppleves og som er tilgjengelig for alle. Samiske kunstnere og kulturutøvere skal kunne leve av sin virksomhet. De samiske institusjonene er våre viktigste arenaer for å formidle samisk kunst og kultur. De gir kulturarbeidsplasser i samiske samfunn og er viktige aktører i utviklingen av samisk kunst og kultur.</p>
-    <p type="title">Møte</p>
-    <p>08.03.2016</p>
-    <p>Generalforsamling Åarjelhsaemien Teatere</p>
-    <p>Generalforsamling Åarjelhsaemien Teatere. Sted: Mo i Ran...</p>
-    <p>Senere hendelser</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>391</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Kulturliv</origFileName><parallel_text xml:lang="sma" location="kultuvrejieleme.html"/><parallel_text xml:lang="sme" location="kultureallin.html"/><parallel_text xml:lang="smj" location="kultuvrraiellem.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulturliv / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Kulturliv</p>
+<p>Et allsidig kulturliv styrker samisk samhørighet og identitet, og bidrar til levende lokalsamfunn der folk vil bo. Kulturaktiviteter spiller derfor en viktig rolle i det samiske samfunnet, også for bosettingen. Samisk kulturutøvelse er med på å skape tilhørighet, trivsel og livskvalitet, i tillegg til kulturbaserte arbeidsplasser.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<list><p type="listitem">Medier</p>
+<p type="listitem">Idrett</p>
+<p type="listitem">Arenaer for samisk kulturutøvelse</p>
+<p type="listitem">Kunst- og kulturutøvelse</p>
+</list><p type="title">Sametinget arbeider for</p>
+<list><p type="listitem">Å være den fremste premissgiveren for utviklingen av samisk kunst og kultur</p>
+<p type="listitem">At alle skal få ta del i samisk kultur der de bor</p>
+<p type="listitem">Å legge til rette for at vi har et levende og mangfoldig samisk kulturliv av god kvalitet</p>
+<p type="listitem">Å utvikle, og bevare samisk kunst- og kulturliv ved å bidra til faglig dyktige og aktive samiske møteplasser, kulturinstitusjoner og museer</p>
+<p type="listitem">Økt sysselsetting som følge av samisk kunst- og kulturbasert næring</p>
+</list><p type="title">Bakgrunn</p>
+<p>Sametingets hovedoppgave i kulturpolitikken er å legge til rette for samisk kunst- og kulturaktivitet og utviklingen av denne. Det samiske samfunn er ennå inne i samfunnsbyggende fase, der basisområder innenfor kultur og språk har vært prioritert og fortsatt må prioriteres. Dette fordrer en kraftig innsats av det samiske samfunnet selv, de samiske institusjonene, Sametinget og statlige myndigheter. Sametinget ser det som sitt ansvar å ta vare på og utvikle det initiativet og den aktiviteten som den samiske befolkningen står for og vil være den viktigste premissleverandøren i denne prosessen. Statlige myndigheter innehar likevel det overordnede ansvar for å legge forholdene til rette slik at det samiske samfunn selv får mulighet til å videreutvikle sin samfunnsbygging. Regionale og lokale myndigheter har også et ansvar til å bidra til felles utviking av samisk kunst, kulturliv og samiske institusjoner.</p>
+<p>Sametinget arbeider for at alle skal ha mulighet til å oppleve samisk kunst og kultur. Vi er stolt over vår historie, vår kulturarv og vår kunst og kultur. Vi vil legge til rette for et levende og mangfoldig kunst- og kulturliv av god kvalitet som skapes, utøves, formidles og oppleves og som er tilgjengelig for alle. Samiske kunstnere og kulturutøvere skal kunne leve av sin virksomhet. De samiske institusjonene er våre viktigste arenaer for å formidle samisk kunst og kultur. De gir kulturarbeidsplasser i samiske samfunn og er viktige aktører i utviklingen av samisk kunst og kultur.</p>
+<p type="title">Møte</p>
+<p>08.03.2016</p>
+<p>Generalforsamling Åarjelhsaemien Teatere</p>
+<p>Generalforsamling Åarjelhsaemien Teatere. Sted: Mo i Ran...</p>
+<p>Senere hendelser</p>
+</body></document>

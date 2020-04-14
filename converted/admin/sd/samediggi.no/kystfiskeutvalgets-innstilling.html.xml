@@ -1,122 +1,55 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1729</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Land-og-ressursrettigheter/Fiskerettigheter/Kystfiskeutvalget/Kystfiskeutvalgets-innstilling</origFileName>
-    <parallel_text xml:lang="sma" location="kystfiskeutvalgets-innstilling.html"/>
-    <parallel_text xml:lang="smj" location="merragaddeguollimnammadusa-maerradusarvvalussaj.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kystfiskeutvalgets innstilling / Kystfiskeutvalget / Fiskerettigheter / Land og ressursrettigheter / Forsiden - Sametinget</p>
-    <p type="title">Kystfiskeutvalget</p>
-    <p>
-      <em type="italic">Politisk sak: </em>
-    </p>
-    <p type="title">Se alle hendelser i saken</p>
-    <p><em type="italic">Siste hendelse: </em>23.april 2012  <em type="italic">Slår ring om kyst- og fjordbefolkningens historiske rettigheter </em></p>
-    <p>30.okt 2011</p>
-    <p>
-      <em type="bold">Kystfiskeutvalgets innstilling </em>
-    </p>
-    <p>30.okt 2011</p>
-    <p xml:lang="sme">
-      <em type="italic">Riddoguolástanlávdegotti </em>
-    </p>
-    <p>30.okt 2011</p>
-    <p>
-      <em type="italic">Kystfiskeutvalgets innstilling </em>
-    </p>
-    <p>30.okt 2011</p>
-    <p xml:lang="sme">
-      <em type="bold">Riddoguolástanlávdegotti </em>
-    </p>
-    <p>16.mars 2012</p>
-    <p>
-      <em type="italic">Aldri mer 1990 </em>
-    </p>
-    <p>30.okt 2011</p>
-    <p>(2 av 6)</p>
-    <p type="title">Kystfiskeutvalgets innstilling</p>
-    <p>I arbeidet med finnmarksloven var konkrete fiskeribestemmelser et viktig tema under konsultasjonene med justiskomiteen.</p>
-    <p>Resultatet av behandlingen av finnmarksloven var at Stortinget fattet vedtak om at:</p>
-    <p>
-      <em type="italic">”Stortinget ber Regjeringen snarest mulig foreta en utredning av samer og andres rett til fiske i havet utenfor Finnmark, herunder minimumskvote for båter under ti meter, og fremme en oppfølgende sak om dette for Stortinget.” </em>
-    </p>
-    <p>I Innst.O. nr.80 (2004-2005) bemerket flertallet at ” <em type="italic">spørsmålet om retten til og forvaltning av saltvannsfisket i samiske bosettingsområder har vært gjenstand for atskillig utredning, særlig i perioden 1990-2001”. </em>Flertallet viste videre til at det ” <em type="italic">etter flertallets mening ikke [kan] utelukkes at det foreligger føringer både i folkeretten og i norsk rett for å ta særlig hensyn til fisket i sjøsamiske områder i utformingen og praktiseringen av fiskeriforvaltningen. I forhold til dagens aktuelle situasjon er det imidlertid ikke utredet konkret hvordan disse hensyn mest effektivt og hensiktsmessig kan ivaretas i den løpende fiskeriforvaltningen”. </em></p>
-    <p>Regjeringen ga Fiskeri- og kystdepartementet i oppdrag å sørge for at Stortingets anmodningsvedtak ble fulgt opp. Etter konsultasjoner med Sametinget nedsatte Fiskeri- og kystdepartementet et ekspertutvalg – Kystfiskeutvalgets – til å på prinsipielt grunnlag å utrede samer og andres rett til fiske i havet utenfor Finnmark. Kystfiskeutvlaget la fram sin utredning, NOU 2008: 5 Retten til fiske i havet utenfor Finnmark.</p>
-    <p>Sametingets plenum har i sak 23/08 avgitt høringsuttalelse til Kystfiskeutvalgets innstilling, samt de delene av Samerettsutvalget 2 sin innstilling som omhandler marin sektor. Sametinget støttet Kystfiskeutvalget fullt ut og viser til at denne løsningen også må gjelde i de sjøsamiske områdene sør for Finnmark.</p>
-    <p>I 2009 og 2010 ble det gjennomført konsultasjoner mellom Fiskeri- og kystdepartementet og Sametinget om oppfølgingen av Kystfiskeutvalgets forslag. Gjennom konsultasjonene ble det konstatert uenighet i vurderingene av folkerettens utstrekning og den historiske bruksrettens omfang. En valgte likevel å se på løsninger det var mulig å enes om til tross for uenighet i tolkingene av rettsgrunnlaget. Sametinget har gitt sin tilslutning til en løsning som innebærer nye bestemmelser tas gjeldende lovverk. Dette kan sammenfattes i 7 punkter:</p>
-    <p>
-      <em type="bold">1. Det fastsettes for det første en ny lovbestemmelse om lovfesting av retten til å fiske i deltakerloven § 21: </em>
-      <em type="italic">Uten hinder av bestemmelser fastsatt i medhold av første ledd, har personer som er bosatt i Finnmark, Nord Troms og andre kommuner i resten av Troms og Nordland med innslag av tradisjonelle sjøsamiske områder rett til å fiske </em>
-      <em type="italic">torsk, sei og hyse mv. med konvensjonelle redskap dersom vedkommende eier et merkeregistrert fartøy under 11 meter og fyller vilkårene for å stå i fiskermanntallet. Departementet kan gi nærmere bestemmelser om virkeområde for denne bestemmelsen og hvilke fiskerier den omfatter. </em>
-    </p>
-    <p>Dette lovforslaget innebærer en lovmessig beskyttelse av retten til fisket og innebærer samtidig at de som har denne retten skal prioriteres foran alle andre ved ressursknapphet. Bestemmelsen må for øvrig leses i sammenheng med vektleggingsbestemmelsen i havressurslovens §11. Departementet er etter bestemmelsen avskåret fra å gjennomføre en vesentlig reduksjon av fisket etter torsk, hyse og sei i de områdene som er nevnt i bestemmelsen, slik departementet faktisk kunne med hjemmel i dagens lovverk.</p>
-    <p>Bestemmelsen om retten til fiske er ikke avgrenset til Finnmark slik Kystfiskeutvalget foreslo, men gjelder for hele det tradisjonelle sjøsamiske området, slik Sametinget ønsket i sin høringsuttalelse. Departementet er i bestemmelsen gitt kompetanse til å fastsette det geografiske virkeområdet og hvilke fiskerier som er omfattet av bestemmelsen. Partene har i konsultasjonsprosessen gjort en gjennomgang av utviklingen i fiskerisektoren i kommunene som er omfattet av det geografiske virkeområdet for Sametingets søkerbaserte tilskudd til næringstiltak (SUF) og øvrige kommuner i de nordligste fylkene, og denne viser at kommuner som er helt eller delvis omfattet av SUF har hatt en større nedgang i antall fiskere, deltakeradganger, fartøy mv. enn andre kommuner. Dette gjør at det er naturlig å inkludere SUF-kommunene i tillegg til kommuner i Finnmark og Nord-Troms, for at også sårbare fiskerisamfunn sør for Finnmark og Nord-Troms blir ivaretatt gjennom lovfestingen.</p>
-    <p>
-      <em type="bold">2. Det fastsettes en egen vektleggingsbestemmelse i havressursloven§ 11: </em>
-      <em type="italic">I områder som er omfattet av deltakerloven § 21 siste ledd, skal det ved tildeling av kvotar av viltlevande marine ressursar, og ved andre former for regulering av desse ressursane, leggjast vesentleg vekt på samisk bruk og denne brukens tyding for samiske lokalsamfunn. </em>
-    </p>
-    <p>Rettighetsbestemmelsen i deltakerloven § 21 må tolkes i lys av denne vektleggingsbestemmelsen som skal sikre at statens ansvar for sjøsamenes materielle kulturgrunnlag ivaretas i forvaltningen av ressursene.</p>
-    <p>
-      <em type="bold">3. Det fastsettes i forskrift et forbud mot større båter inne i fjordene: </em>
-      <em type="italic">Bare fartøy under 15 meter med konvensjonelle redskaper kan fiske innenfor en fastsatt fjordlinje. Det kan gjøres unntak for denne bestemmelsen om ressursgrunnlaget tilsier dette. </em>
-    </p>
-    <p>Denne forskriftsbestemmelsen, sammen med rettighets- og vektleggingsbestemmelsen utfyller hverandre slik at det både gis en prinsipiell anerkjennelse av retten til fiske på alle fiskerressurser og at det ved offentlige reguleringer av fiske, pga av bestandssituasjon mv., legges vesentlig vekt på hensynet til sjøsamisk kultur. Bestemmelsen om fiske i fjordene gir også i praksis en form for fjordrett da større båter ikke vil gå over lengre avstander. Retten til fiske er knyttet til fartøystørrelse, noe som etter Sametinget vurdering ikke er en optimal løsning. Men sett i sammenheng med vektleggingsbestemmelsen som ikke knytter seg til fartøystørrelse, samt begrensningen i fjordfiske for fartøy over 15 meter kan det vurderes som at <em type="italic">hovedhensynet som er å anerkjenne og sikre fjord- og kystfiske </em>vil bli ivaretatt. Sammenhengen mellom disse bestemmelsene må framkomme i merknadene til loven. Det innebærer at det også ligger an til at det av merknaden til vektleggingsbestemmelsen framkommer noe i retning av at det ved reguleringer av havressursene så skal det legge vesentlig vekt på hensynet til sjøsamisk kultur også der det samiske fiske er redusert eller opphørt som følge av at fangskvoter ikke er gitt eller på grunn av andre reguleringer av ressursene eller annen ressursutnyttelse i disse områdene. </p>
-    <p>
-      <em type="bold">4. Det fastsettes en egen bestemmelse om kartlegging og anerkjennelse av lokale historiske rettigheter i finnmarksloven § 29 nytt annet ledd: </em>
-      <em type="italic">Kommisjonen kan også utrede krav om kollektive eller individuelle rettigheter til fiskeplasser i sjø- og fjordområder i Finnmark som kan være opparbeidet på grunnlag av gjeldene nasjonal rett. </em>
-    </p>
-    <p>Denne bestemmelsen er en oppfølging av Kystfiskeutvalgets forslag til finnmarksfiskelov § 13 og Samerettsutvalget 2 sitt forslag.</p>
-    <p>Bestemmelsen i finnmarkloven § 29 nytt 2. ledd, slår fast at krav om tinglige retter til fiskeplasser i sjøen kan framsettes for Finnmarkskommisjonen. På samme måte som for krav om bruks- og eierrettigheter på land, skal krav om rettigheter til fisket utredes på grunnlag av gjeldende rett. Dette innebærer at det skal tas hensyn også til samiske sedvaner og rettsoppfatninger. Siden ILO konvensjon 169 går foran finnmarkslovens bestemmelser jf § 3 og FNs konvensjon om sivile og politiske rettigheter (SP) er gitt forrang fremfor norsk rett i menneskerettsloven skal også folkeretten inngå i kommisjonens vurderinger som et helt sentralt rettsgrunnlag.</p>
-    <p>
-      <em type="bold">5. Det fastsettes en bestemmelse om samisk deltakelse i ressursforvaltningen i havressursloven § 8b: </em>
-      <em type="italic">Departementet kan opprette ei fjordfiskenemd for Finnmark, Troms og Nordland, eller ei nemnd for kvart fylke. Sametinget og dei tre fylkeskommunane skal ha rett til å oppnevne medlemmer i nemnda. Departementet kan gje nærare reglar om samansetjinga av fjordfiskenenmda og kva for oppgåver ho skal ha. </em>
-    </p>
-    <p>Når det gjelder etableringen av en fjordfiskenemnd er Fiskeri- og kystdepartementet og Sametinget enige om at det skal være <em type="italic">en </em>nemnd som samlet sett skal ha like mange medlemmer oppnevnt fra Sametinget som fra fylkeskommunene, for eksempel 3+3. Det er videre enighet om at nemnda skal være et tungt faglig og et tungt politisk organ som vil være en sentral premissleverandør for fiskeriforvaltningen og at denne skal ha reelle og viktige arbeidsoppgaver. </p>
-    <p>Når det så gjelder hvorvidt nemnda skal ha beslutningsmyndighet eller ikke har Sametinget vist til at en løsning som ikke medfører beslutningsmyndighet vil være under de folkerettslige minstestandarder, da med tanke på retten til deltakelse i den offentligrettslige ressursforvaltningen samene har etter ILO art 15. Sametinget har i konsultasjonene understreket at det må være klart at den konsultasjonspraksis man har i Norge etter konsultasjonsavtalen er en gjennomføring av ILO art 6 som ikke går like langt som art 15. Både rent generelt og i forhold til nemndas myndighet forutsetter derfor Sametinget at det må finne sted en utvikling over tid som fører til at man får en løsning på plass som er innenfor udiskutable folkerettslige rammer.</p>
-    <p>Sametinget anser derfor ikke dette resultatet som et endelig punktum for oppfølgingen av Kystfiskeutvalgets forslag. Man har derfor i konsultasjonene blitt enige om en oppfølgende konsultasjonsprosess om nemndas arbeidsoppgaver.</p>
-    <p>
-      <em type="bold">6. Det fastsettes en ny bestemmelse i deltakerloven: </em>
-      <em type="italic">Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter </em>
-    </p>
-    <p>Bestemmelsen innebærer en stadfesting av at deltakerloven skal praktiseres i samsvar med Norges folkerettslige forpliktelser, og at loven gjelder innenfor rammene av folkerettens regler om urfolk og minoriteter. Bestemmelsens viktigste funksjon er at den synliggjør eksisterende folkerettslige forpliktelser.</p>
-    <p>
-      <em type="bold">7. Det skal iverksettes tiltak for å gi retten til fiske og vektleggingen av sjøsamisk kultur et mer konkret innhold. </em>
-    </p>
-    <p>Det avsettes en grunnkvote torsk for fiske i åpen gruppe, som ligger fast før fordelingen mellom grupper foretas i de årlige reguleringene. Størrelsen på en slik grunnkvote er i første omgang satt til 3000 tonn, men Sametinget har forutsatt at dette vil være gjenstand for jevnlige forhandlinger der det skal legges til grunn at:</p>
-    <list>
-      <p type="listitem">Målsettingen er å virke til styrking av grunnlaget for sjøsamisk kultur med bosetting, næringsutøvelse og samfunnsliv.</p>
-      <p type="listitem">Det skal være mulig å leve av et fiske i åpen gruppe alene eller i kombinasjon med annen virksomhet</p>
-      <p type="listitem">Det skal bidra til økning i antall fartøy og fiskere</p>
-      <p type="listitem">Det skal gjøre det relativt mindre eksklusivt å ha kvote på fartøy i lukket gruppe, fordi økt lønnsomhet i åpen gruppe medfører økte økonomiske muligheter og lavere inngangspris til fartøy med kvote i lukket gruppe</p>
-      <p type="listitem">Det skal frambringes statistisk materiale om antall fartøy, fiskere, alderssammensetning og fangstverdier fordelt på fartøy i virkeområde som grunnlag for beregning</p>
-    </list>
-    <p>Fiskeri- og kystdepartementet vil fremme lovproposisjon basert på denne enigheten og tilslutningen fra Sametinget høsten 2011.</p>
-    <p>
-      <em type="bold">NOU 2008:5 Retten til fiske i havet utenfor Finnmark </em>
-    </p>
-    <p>Ansvarlig politiker</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1729</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Land-og-ressursrettigheter/Fiskerettigheter/Kystfiskeutvalget/Kystfiskeutvalgets-innstilling</origFileName><parallel_text xml:lang="sma" location="kystfiskeutvalgets-innstilling.html"/><parallel_text xml:lang="smj" location="merragaddeguollimnammadusa-maerradusarvvalussaj.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kystfiskeutvalgets innstilling / Kystfiskeutvalget / Fiskerettigheter / Land og ressursrettigheter / Forsiden - Sametinget</p>
+<p type="title">Kystfiskeutvalget</p>
+<p><em type="italic">Politisk sak: </em></p>
+<p type="title">Se alle hendelser i saken</p>
+<p><em type="italic">Siste hendelse: </em>23.april 2012  <em type="italic">Slår ring om kyst- og fjordbefolkningens historiske rettigheter </em></p>
+<p>30.okt 2011</p>
+<p><em type="bold">Kystfiskeutvalgets innstilling </em></p>
+<p>30.okt 2011</p>
+<p xml:lang="sme"><em type="italic">Riddoguolástanlávdegotti </em></p>
+<p>30.okt 2011</p>
+<p><em type="italic">Kystfiskeutvalgets innstilling </em></p>
+<p>30.okt 2011</p>
+<p xml:lang="sme"><em type="bold">Riddoguolástanlávdegotti </em></p>
+<p>16.mars 2012</p>
+<p><em type="italic">Aldri mer 1990 </em></p>
+<p>30.okt 2011</p>
+<p>(2 av 6)</p>
+<p type="title">Kystfiskeutvalgets innstilling</p>
+<p>I arbeidet med finnmarksloven var konkrete fiskeribestemmelser et viktig tema under konsultasjonene med justiskomiteen.</p>
+<p>Resultatet av behandlingen av finnmarksloven var at Stortinget fattet vedtak om at:</p>
+<p><em type="italic">”Stortinget ber Regjeringen snarest mulig foreta en utredning av samer og andres rett til fiske i havet utenfor Finnmark, herunder minimumskvote for båter under ti meter, og fremme en oppfølgende sak om dette for Stortinget.” </em></p>
+<p>I Innst.O. nr.80 (2004-2005) bemerket flertallet at ” <em type="italic">spørsmålet om retten til og forvaltning av saltvannsfisket i samiske bosettingsområder har vært gjenstand for atskillig utredning, særlig i perioden 1990-2001”. </em>Flertallet viste videre til at det ” <em type="italic">etter flertallets mening ikke [kan] utelukkes at det foreligger føringer både i folkeretten og i norsk rett for å ta særlig hensyn til fisket i sjøsamiske områder i utformingen og praktiseringen av fiskeriforvaltningen. I forhold til dagens aktuelle situasjon er det imidlertid ikke utredet konkret hvordan disse hensyn mest effektivt og hensiktsmessig kan ivaretas i den løpende fiskeriforvaltningen”. </em></p>
+<p>Regjeringen ga Fiskeri- og kystdepartementet i oppdrag å sørge for at Stortingets anmodningsvedtak ble fulgt opp. Etter konsultasjoner med Sametinget nedsatte Fiskeri- og kystdepartementet et ekspertutvalg – Kystfiskeutvalgets – til å på prinsipielt grunnlag å utrede samer og andres rett til fiske i havet utenfor Finnmark. Kystfiskeutvlaget la fram sin utredning, NOU 2008: 5 Retten til fiske i havet utenfor Finnmark.</p>
+<p>Sametingets plenum har i sak 23/08 avgitt høringsuttalelse til Kystfiskeutvalgets innstilling, samt de delene av Samerettsutvalget 2 sin innstilling som omhandler marin sektor. Sametinget støttet Kystfiskeutvalget fullt ut og viser til at denne løsningen også må gjelde i de sjøsamiske områdene sør for Finnmark.</p>
+<p>I 2009 og 2010 ble det gjennomført konsultasjoner mellom Fiskeri- og kystdepartementet og Sametinget om oppfølgingen av Kystfiskeutvalgets forslag. Gjennom konsultasjonene ble det konstatert uenighet i vurderingene av folkerettens utstrekning og den historiske bruksrettens omfang. En valgte likevel å se på løsninger det var mulig å enes om til tross for uenighet i tolkingene av rettsgrunnlaget. Sametinget har gitt sin tilslutning til en løsning som innebærer nye bestemmelser tas gjeldende lovverk. Dette kan sammenfattes i 7 punkter:</p>
+<p><em type="bold">1. Det fastsettes for det første en ny lovbestemmelse om lovfesting av retten til å fiske i deltakerloven § 21: </em><em type="italic">Uten hinder av bestemmelser fastsatt i medhold av første ledd, har personer som er bosatt i Finnmark, Nord Troms og andre kommuner i resten av Troms og Nordland med innslag av tradisjonelle sjøsamiske områder rett til å fiske </em><em type="italic">torsk, sei og hyse mv. med konvensjonelle redskap dersom vedkommende eier et merkeregistrert fartøy under 11 meter og fyller vilkårene for å stå i fiskermanntallet. Departementet kan gi nærmere bestemmelser om virkeområde for denne bestemmelsen og hvilke fiskerier den omfatter. </em></p>
+<p>Dette lovforslaget innebærer en lovmessig beskyttelse av retten til fisket og innebærer samtidig at de som har denne retten skal prioriteres foran alle andre ved ressursknapphet. Bestemmelsen må for øvrig leses i sammenheng med vektleggingsbestemmelsen i havressurslovens §11. Departementet er etter bestemmelsen avskåret fra å gjennomføre en vesentlig reduksjon av fisket etter torsk, hyse og sei i de områdene som er nevnt i bestemmelsen, slik departementet faktisk kunne med hjemmel i dagens lovverk.</p>
+<p>Bestemmelsen om retten til fiske er ikke avgrenset til Finnmark slik Kystfiskeutvalget foreslo, men gjelder for hele det tradisjonelle sjøsamiske området, slik Sametinget ønsket i sin høringsuttalelse. Departementet er i bestemmelsen gitt kompetanse til å fastsette det geografiske virkeområdet og hvilke fiskerier som er omfattet av bestemmelsen. Partene har i konsultasjonsprosessen gjort en gjennomgang av utviklingen i fiskerisektoren i kommunene som er omfattet av det geografiske virkeområdet for Sametingets søkerbaserte tilskudd til næringstiltak (SUF) og øvrige kommuner i de nordligste fylkene, og denne viser at kommuner som er helt eller delvis omfattet av SUF har hatt en større nedgang i antall fiskere, deltakeradganger, fartøy mv. enn andre kommuner. Dette gjør at det er naturlig å inkludere SUF-kommunene i tillegg til kommuner i Finnmark og Nord-Troms, for at også sårbare fiskerisamfunn sør for Finnmark og Nord-Troms blir ivaretatt gjennom lovfestingen.</p>
+<p><em type="bold">2. Det fastsettes en egen vektleggingsbestemmelse i havressursloven§ 11: </em><em type="italic">I områder som er omfattet av deltakerloven § 21 siste ledd, skal det ved tildeling av kvotar av viltlevande marine ressursar, og ved andre former for regulering av desse ressursane, leggjast vesentleg vekt på samisk bruk og denne brukens tyding for samiske lokalsamfunn. </em></p>
+<p>Rettighetsbestemmelsen i deltakerloven § 21 må tolkes i lys av denne vektleggingsbestemmelsen som skal sikre at statens ansvar for sjøsamenes materielle kulturgrunnlag ivaretas i forvaltningen av ressursene.</p>
+<p><em type="bold">3. Det fastsettes i forskrift et forbud mot større båter inne i fjordene: </em><em type="italic">Bare fartøy under 15 meter med konvensjonelle redskaper kan fiske innenfor en fastsatt fjordlinje. Det kan gjøres unntak for denne bestemmelsen om ressursgrunnlaget tilsier dette. </em></p>
+<p>Denne forskriftsbestemmelsen, sammen med rettighets- og vektleggingsbestemmelsen utfyller hverandre slik at det både gis en prinsipiell anerkjennelse av retten til fiske på alle fiskerressurser og at det ved offentlige reguleringer av fiske, pga av bestandssituasjon mv., legges vesentlig vekt på hensynet til sjøsamisk kultur. Bestemmelsen om fiske i fjordene gir også i praksis en form for fjordrett da større båter ikke vil gå over lengre avstander. Retten til fiske er knyttet til fartøystørrelse, noe som etter Sametinget vurdering ikke er en optimal løsning. Men sett i sammenheng med vektleggingsbestemmelsen som ikke knytter seg til fartøystørrelse, samt begrensningen i fjordfiske for fartøy over 15 meter kan det vurderes som at <em type="italic">hovedhensynet som er å anerkjenne og sikre fjord- og kystfiske </em>vil bli ivaretatt. Sammenhengen mellom disse bestemmelsene må framkomme i merknadene til loven. Det innebærer at det også ligger an til at det av merknaden til vektleggingsbestemmelsen framkommer noe i retning av at det ved reguleringer av havressursene så skal det legge vesentlig vekt på hensynet til sjøsamisk kultur også der det samiske fiske er redusert eller opphørt som følge av at fangskvoter ikke er gitt eller på grunn av andre reguleringer av ressursene eller annen ressursutnyttelse i disse områdene. </p>
+<p><em type="bold">4. Det fastsettes en egen bestemmelse om kartlegging og anerkjennelse av lokale historiske rettigheter i finnmarksloven § 29 nytt annet ledd: </em><em type="italic">Kommisjonen kan også utrede krav om kollektive eller individuelle rettigheter til fiskeplasser i sjø- og fjordområder i Finnmark som kan være opparbeidet på grunnlag av gjeldene nasjonal rett. </em></p>
+<p>Denne bestemmelsen er en oppfølging av Kystfiskeutvalgets forslag til finnmarksfiskelov § 13 og Samerettsutvalget 2 sitt forslag.</p>
+<p>Bestemmelsen i finnmarkloven § 29 nytt 2. ledd, slår fast at krav om tinglige retter til fiskeplasser i sjøen kan framsettes for Finnmarkskommisjonen. På samme måte som for krav om bruks- og eierrettigheter på land, skal krav om rettigheter til fisket utredes på grunnlag av gjeldende rett. Dette innebærer at det skal tas hensyn også til samiske sedvaner og rettsoppfatninger. Siden ILO konvensjon 169 går foran finnmarkslovens bestemmelser jf § 3 og FNs konvensjon om sivile og politiske rettigheter (SP) er gitt forrang fremfor norsk rett i menneskerettsloven skal også folkeretten inngå i kommisjonens vurderinger som et helt sentralt rettsgrunnlag.</p>
+<p><em type="bold">5. Det fastsettes en bestemmelse om samisk deltakelse i ressursforvaltningen i havressursloven § 8b: </em><em type="italic">Departementet kan opprette ei fjordfiskenemd for Finnmark, Troms og Nordland, eller ei nemnd for kvart fylke. Sametinget og dei tre fylkeskommunane skal ha rett til å oppnevne medlemmer i nemnda. Departementet kan gje nærare reglar om samansetjinga av fjordfiskenenmda og kva for oppgåver ho skal ha. </em></p>
+<p>Når det gjelder etableringen av en fjordfiskenemnd er Fiskeri- og kystdepartementet og Sametinget enige om at det skal være <em type="italic">en </em>nemnd som samlet sett skal ha like mange medlemmer oppnevnt fra Sametinget som fra fylkeskommunene, for eksempel 3+3. Det er videre enighet om at nemnda skal være et tungt faglig og et tungt politisk organ som vil være en sentral premissleverandør for fiskeriforvaltningen og at denne skal ha reelle og viktige arbeidsoppgaver. </p>
+<p>Når det så gjelder hvorvidt nemnda skal ha beslutningsmyndighet eller ikke har Sametinget vist til at en løsning som ikke medfører beslutningsmyndighet vil være under de folkerettslige minstestandarder, da med tanke på retten til deltakelse i den offentligrettslige ressursforvaltningen samene har etter ILO art 15. Sametinget har i konsultasjonene understreket at det må være klart at den konsultasjonspraksis man har i Norge etter konsultasjonsavtalen er en gjennomføring av ILO art 6 som ikke går like langt som art 15. Både rent generelt og i forhold til nemndas myndighet forutsetter derfor Sametinget at det må finne sted en utvikling over tid som fører til at man får en løsning på plass som er innenfor udiskutable folkerettslige rammer.</p>
+<p>Sametinget anser derfor ikke dette resultatet som et endelig punktum for oppfølgingen av Kystfiskeutvalgets forslag. Man har derfor i konsultasjonene blitt enige om en oppfølgende konsultasjonsprosess om nemndas arbeidsoppgaver.</p>
+<p><em type="bold">6. Det fastsettes en ny bestemmelse i deltakerloven: </em><em type="italic">Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter </em></p>
+<p>Bestemmelsen innebærer en stadfesting av at deltakerloven skal praktiseres i samsvar med Norges folkerettslige forpliktelser, og at loven gjelder innenfor rammene av folkerettens regler om urfolk og minoriteter. Bestemmelsens viktigste funksjon er at den synliggjør eksisterende folkerettslige forpliktelser.</p>
+<p><em type="bold">7. Det skal iverksettes tiltak for å gi retten til fiske og vektleggingen av sjøsamisk kultur et mer konkret innhold. </em></p>
+<p>Det avsettes en grunnkvote torsk for fiske i åpen gruppe, som ligger fast før fordelingen mellom grupper foretas i de årlige reguleringene. Størrelsen på en slik grunnkvote er i første omgang satt til 3000 tonn, men Sametinget har forutsatt at dette vil være gjenstand for jevnlige forhandlinger der det skal legges til grunn at:</p>
+<list><p type="listitem">Målsettingen er å virke til styrking av grunnlaget for sjøsamisk kultur med bosetting, næringsutøvelse og samfunnsliv.</p>
+<p type="listitem">Det skal være mulig å leve av et fiske i åpen gruppe alene eller i kombinasjon med annen virksomhet</p>
+<p type="listitem">Det skal bidra til økning i antall fartøy og fiskere</p>
+<p type="listitem">Det skal gjøre det relativt mindre eksklusivt å ha kvote på fartøy i lukket gruppe, fordi økt lønnsomhet i åpen gruppe medfører økte økonomiske muligheter og lavere inngangspris til fartøy med kvote i lukket gruppe</p>
+<p type="listitem">Det skal frambringes statistisk materiale om antall fartøy, fiskere, alderssammensetning og fangstverdier fordelt på fartøy i virkeområde som grunnlag for beregning</p>
+</list><p>Fiskeri- og kystdepartementet vil fremme lovproposisjon basert på denne enigheten og tilslutningen fra Sametinget høsten 2011.</p>
+<p><em type="bold">NOU 2008:5 Retten til fiske i havet utenfor Finnmark </em></p>
+<p>Ansvarlig politiker</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+</body></document>

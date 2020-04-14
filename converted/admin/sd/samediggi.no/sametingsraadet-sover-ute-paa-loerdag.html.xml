@@ -1,42 +1,15 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>408</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Sametingsraadet/Taler-og-artikler/Sametingsraadet-sover-ute-paa-loerdag</origFileName>
-    <parallel_text xml:lang="sma" location="saemiedigkieraerie-aalkone-jijjede-laavadahken.html"/>
-    <parallel_text xml:lang="sme" location="samediggeraddi-oadda-olgun-lavvardaga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingsrådet sover ute på lørdag / Taler og artikler / Sametingsrådet / Organisasjonsstruktur / Om Sametinget / Forsiden - Sametinget</p>
-    <p type="title">Sametingsrådet sover ute på lørdag</p>
-    <p>
-      <em type="bold">Sametingspresident Aili Keskitalo tar med seg resten av sametingsrådet og overnatter utendørs natt til søndag. De gjør dermed som svært mange andre landet rundt, og deltar i kampanjen #nattinaturen organisert av Norsk Friluftsliv. </em>
-    </p>
-    <p>- Vi sover selvfølgelig i lávvu, som i uminnelige tider har vært det samiske folkets foretrukne måte å overnatte på når vi ferdes i naturen, forteller Sametingspresident Aili Keskitalo.</p>
-    <p>I den samiske kulturen er opplevelsen av friluftsliv en kilde til stor rikdom i livet. Dette ble understreket av nylige forskningsresultater som viste at samiske ungdommer scorer høyest når det gjelder aktiviteter i naturen.</p>
-    <p>Men livet i naturen bærer også med seg noe større for det samiske; nemlig grunnlaget for den samiske kulturen. Sametingspresidenten har derfor flere motiver for å delta i #nattinaturen-kampanjen.</p>
-    <p>- For det første synes jeg det er viktig å oppfordre folk til aktivitet i naturen for psykisk og fysisk velvære. Men for meg er det et minst like viktig å slå et slag for den bærekraftige bruken av naturen. Jeg vil at også mine barnebarn, og deres barnebarn igjen, skal få en mulighet til å leve med og høste av naturens rikdom, forsetter Keskitalo.</p>
-    <p>Bærekraftig bruk av naturen er kjennetegnet på de tradisjonelle samiske næringene. Eksempler er reindrift, fiske, jakt, bærplukking og annen høsting. Men sametingspresidenten peker også på at nye samiske næringer, som reiseliv, har bærekraftig friluftsliv som grunnlag.</p>
-    <p>Hun trekker frem reiselivsaktøren Gallas, som hjelper rådet med det praktiske rundt lørdagens overnatting.</p>
-    <p>- Om Gallas ønsker det har de et enormt potensial til å kunne skape arbeidsplasser med grunnlag i både samisk kultur og friluftsliv. Mange reisende er interesserte i autentiske og bærekraftige naturopplevelser, og jeg har stor tro på at et moderne reiseliv som bygger på tradisjoner kan ha stor betydning for det samiske samfunnet i fremtiden, avslutter sametingspresident Aili Keskitalo.</p>
-    <p>
-      <em type="bold">Ytterligere informasjon: </em>
-    </p>
-    <p>Sametingsrådet overnatter i Vika utenfor Røros 5-6 september. I tillegg til president Aili Keskitalo er det sametingsrådsmedlemmene Thomas Åhren, Ann-Mari Thomassen, Henrik Olsen og Silje Karine Muotka som deltar.</p>
-    <p>Det er Norsk Friluftsliv, en fellesorganisasjonen for 15 frivillige friluftslivsorganisasjoner i Norge, som står bak kampanjen #nattinaturen. Så mange som 700 politikere fra hele landet har meldt sin deltakelse i kampanjen. Mer informasjon kan finnes her: http://www.norskfriluftsliv.no/nattinaturen/</p>
-    <p>Ved spørsmål om sametingsrådets overnatting kan politisk rådgiver Runar Myrnes Balto kontaktes på tlf. 97773778.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>408</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Sametingsraadet/Taler-og-artikler/Sametingsraadet-sover-ute-paa-loerdag</origFileName><parallel_text xml:lang="sma" location="saemiedigkieraerie-aalkone-jijjede-laavadahken.html"/><parallel_text xml:lang="sme" location="samediggeraddi-oadda-olgun-lavvardaga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingsrådet sover ute på lørdag / Taler og artikler / Sametingsrådet / Organisasjonsstruktur / Om Sametinget / Forsiden - Sametinget</p>
+<p type="title">Sametingsrådet sover ute på lørdag</p>
+<p><em type="bold">Sametingspresident Aili Keskitalo tar med seg resten av sametingsrådet og overnatter utendørs natt til søndag. De gjør dermed som svært mange andre landet rundt, og deltar i kampanjen #nattinaturen organisert av Norsk Friluftsliv. </em></p>
+<p>- Vi sover selvfølgelig i lávvu, som i uminnelige tider har vært det samiske folkets foretrukne måte å overnatte på når vi ferdes i naturen, forteller Sametingspresident Aili Keskitalo.</p>
+<p>I den samiske kulturen er opplevelsen av friluftsliv en kilde til stor rikdom i livet. Dette ble understreket av nylige forskningsresultater som viste at samiske ungdommer scorer høyest når det gjelder aktiviteter i naturen.</p>
+<p>Men livet i naturen bærer også med seg noe større for det samiske; nemlig grunnlaget for den samiske kulturen. Sametingspresidenten har derfor flere motiver for å delta i #nattinaturen-kampanjen.</p>
+<p>- For det første synes jeg det er viktig å oppfordre folk til aktivitet i naturen for psykisk og fysisk velvære. Men for meg er det et minst like viktig å slå et slag for den bærekraftige bruken av naturen. Jeg vil at også mine barnebarn, og deres barnebarn igjen, skal få en mulighet til å leve med og høste av naturens rikdom, forsetter Keskitalo.</p>
+<p>Bærekraftig bruk av naturen er kjennetegnet på de tradisjonelle samiske næringene. Eksempler er reindrift, fiske, jakt, bærplukking og annen høsting. Men sametingspresidenten peker også på at nye samiske næringer, som reiseliv, har bærekraftig friluftsliv som grunnlag.</p>
+<p>Hun trekker frem reiselivsaktøren Gallas, som hjelper rådet med det praktiske rundt lørdagens overnatting.</p>
+<p>- Om Gallas ønsker det har de et enormt potensial til å kunne skape arbeidsplasser med grunnlag i både samisk kultur og friluftsliv. Mange reisende er interesserte i autentiske og bærekraftige naturopplevelser, og jeg har stor tro på at et moderne reiseliv som bygger på tradisjoner kan ha stor betydning for det samiske samfunnet i fremtiden, avslutter sametingspresident Aili Keskitalo.</p>
+<p><em type="bold">Ytterligere informasjon: </em></p>
+<p>Sametingsrådet overnatter i Vika utenfor Røros 5-6 september. I tillegg til president Aili Keskitalo er det sametingsrådsmedlemmene Thomas Åhren, Ann-Mari Thomassen, Henrik Olsen og Silje Karine Muotka som deltar.</p>
+<p>Det er Norsk Friluftsliv, en fellesorganisasjonen for 15 frivillige friluftslivsorganisasjoner i Norge, som står bak kampanjen #nattinaturen. Så mange som 700 politikere fra hele landet har meldt sin deltakelse i kampanjen. Mer informasjon kan finnes her: http://www.norskfriluftsliv.no/nattinaturen/</p>
+<p>Ved spørsmål om sametingsrådets overnatting kan politisk rådgiver Runar Myrnes Balto kontaktes på tlf. 97773778.</p>
+</body></document>

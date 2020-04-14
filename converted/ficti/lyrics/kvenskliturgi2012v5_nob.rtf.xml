@@ -1,179 +1,85 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="ficti"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Terje" lastname="Aaronsen" sex="m" born="" nationality="NO"/>
-    </translator>
-    <wordcount>622</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="fkv"/>
-    </multilingual>
-    <parallel_text xml:lang="fkv" location="kvenskliturgi2012v5.rtf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="fkv">
-      <em type="italic">Jumalanpalvelus </em>
-    </p>
-    <p xml:lang="fkv">Kainunkielinen liturgia</p>
-    <p>
-      <em type="italic">Gudstjeneste </em>
-    </p>
-    <p xml:lang="fkv">Kvensk liturgi</p>
-    <p xml:lang="fkv">
-      <em type="italic">Alkurukkous â Lukkarinrukkous </em>
-    </p>
-    <p xml:lang="fkv">Herra!</p>
-    <p xml:lang="fkv">Mie olen tullu tÃ¤nne sinun pyhhÃ¤Ã¤n talhoon kuulemhaan mitÃ¤ sie, Herra Jumala, minun Luoja, sie, Herra Jeesus, minun Vapattaaja,</p>
-    <p xml:lang="fkv">sie, PyhÃ¤ Henki, minun lohÃ°uttaaja elÃ¤mÃ¤ssÃ¤ ja kuolemassa, aiot saarnata minule.</p>
-    <p xml:lang="fkv">Herra! Aukase nyt minun syÃ°Ã¤men sinun PyhÃ¤n Hengen kautta, niin ette mie sinun sanan kautta opin suremhaan minun synttii, ja elÃ¤mÃ¤ssÃ¤ ja kuolemassa uskomhaan Jeesuksheen, ja joka pÃ¤ivÃ¤ tekemhÃ¤Ã¤n parannuksen pyhÃ¤ssÃ¤ elÃ¤mÃ¤ssÃ¤. Sen kuulisit ja tekisit sie Jeesuksen Kristuksen kautta. Aamen.</p>
-    <p xml:lang="fkv">
-      <em type="italic">Alkuvirsi Alkusanat </em>
-    </p>
-    <p xml:lang="fkv">Rakas seurakunta. Armo olkhoon teile Ja rauha Jumalalta, meiÃ°Ã¤n IsÃ¤ltÃ¤, Ja Herralta Jesukselta Kristukselta.</p>
-    <p xml:lang="fkv">KYRIE</p>
-    <p>
-      <em type="italic">Alle: </em>
-    </p>
-    <p><em type="italic">Kyrie eleison! Gud Fader miskunne deg! Kyrie eleison! Herre Krist, miskunne deg! Kyrie eleison! Herre Hellig Ãnd, miskunne deg! </em>GLORIA </p>
-    <p xml:lang="fkv">
-      <em type="italic">Presten: </em>
-    </p>
-    <p>
-      <em type="italic">Ãre vÃ¦re Gud i det hÃ¸yeste! </em>
-      <em type="italic">Menigheten: </em>
-    </p>
-    <p>
-      <em type="italic">Og fred pÃ¥ jorden blant mennesker som har Guds velbehag! Vi lover deg, vi priser deg, vi tilber deg, vi opphÃ¸yer deg. Amen. </em>
-      <em type="italic">Liturgi: </em>
-    </p>
-    <p xml:lang="fkv">Kuuntelema Herran sannaa!</p>
-    <p xml:lang="fkv">
-      <em type="italic">Seurakunta: </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="italic">Liturg: </em>
-    </p>
-    <p>La oss hÃ¸re Herrens ord!</p>
-    <p>
-      <em type="italic">Gud vxre lovet! Halleluja .. </em>
-    </p>
-    <p xml:lang="fkv"><em type="italic">2. tekstinlukeminen </em>Oon kirjotettu ... </p>
-    <p xml:lang="fkv">NÃ¤in oon Herran sanat. <em type="italic">Virsi </em></p>
-    <p xml:lang="fkv">
-      <em type="italic">Saarna </em>
-    </p>
-    <p xml:lang="fkv">TÃ¤mÃ¤ pyhÃ¤ evankeeliumi oon kirjotettu ..</p>
-    <p>CREDO</p>
-    <p xml:lang="fkv">
-      <em type="italic">Uskontunnustus </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="italic">Liturgi: </em>
-    </p>
-    <p xml:lang="fkv">Tunnustama meiÃ°Ã¤n pyhÃ¤n uskon. <em type="italic">(Seurakunta noussee seisomhaan.) </em></p>
-    <p xml:lang="fkv">
-      <em type="italic">Kaikin: </em>
-    </p>
-    <p xml:lang="fkv">Mie uskon Jumalhaan, kaikkivalttihaasheen,</p>
-    <p xml:lang="fkv">Taivhaan ja mailman luojhaan.</p>
-    <p xml:lang="fkv">Mie uskon Jeesuksheen Kristuksheen,</p>
-    <p xml:lang="fkv">Jumalan ainutsyntyisheen</p>
-    <p xml:lang="fkv">Poikhaan,</p>
-    <p xml:lang="fkv">meiÃ°Ã¤n Herrhaan,</p>
-    <p xml:lang="fkv">sikkiintyny PyhÃ¤n Hengen kautta, jonka Neittyt Maaria synnytti, piinattu Pontius Pilatuksen alla, risthiinnaulittu, kuollu ja hauÃ°attu, meni kuolemanvaltakunthaan, nousi ylÃ¶s kolmantena pÃ¤ivÃ¤nÃ¤, meni taivhaasheen,</p>
-    <p xml:lang="fkv">istuu Jumalan kaikkivalttihaan IsÃ¤n oikkeela puolela ja tullee takasin tuomittemhaan ellÃ¤Ã¤vii ja kuolheita.</p>
-    <p xml:lang="fkv">Mie uskon PyhhÃ¤Ã¤n Henkheen, pyhhÃ¤Ã¤n tavalisheen kirkhoon, pyhhiin valtakunthaan,</p>
-    <p xml:lang="fkv">synttiin antheeksi antamisheen, ruumhiin ylÃ¶snousemisheen, ja ikuisheen elÃ¤mhÃ¤Ã¤n.</p>
-    <p xml:lang="fkv">
-      <em type="italic">Seurakunta laulaa: </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="italic">Kuulutukset Esirukkous </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="italic">Apuliturgi: </em>
-    </p>
-    <p xml:lang="fkv">Ole, Jumala, luppaukses jÃ¤lkkheen leskiin suoja ja orpolasten isÃ¤. Anna kaikile sairhaile ja surulisile lievitystÃ¤ ja lohÃ°utusta,</p>
-    <p xml:lang="fkv">Tule armolisesti avuksi kiusatuile, ja heile jokka oon kuoleman hÃ¤Ã°Ã¤ssÃ¤.</p>
-    <p xml:lang="fkv">Ole heiÃ°Ã¤n voima, jokka kÃ¤rsithÃ¤Ã¤n ahÃ°istusta Jesuksen nimen tÃ¤hÃ°en. Anna rauhalisen ja onnelisen yhteiselÃ¤mÃ¤n, hyvÃ¤n ja otolisen sÃ¤Ã¤n,</p>
-    <p xml:lang="fkv">Oikkeemielisen ja kristilisen neuvon meiÃ°Ã¤n tyÃ¶hÃ¶Ã¶n!</p>
-    <p xml:lang="fkv">
-      <em type="italic">Seurakunta: </em>
-    </p>
-    <p>
-      <em type="italic">KunngjÃ¸ringer </em>
-    </p>
-    <p>
-      <em type="italic">ForbÃ¸nn </em>
-    </p>
-    <p>
-      <em type="italic">Medliturg: </em>
-    </p>
-    <p>VÃ¦r, o Gud, etter ditt lÃ¸fte enkers forsvar og faderlÃ¸ses far.</p>
-    <p>Gi alle syke og sorgfulle lindring og trÃ¸st, kom nÃ¥dig</p>
-    <p>de anfektede til hjelp, og dem som er i dÃ¸dens nÃ¸d. VÃ¦r deres styrke som lider trengsel for Jesu navns skyld.</p>
-    <p>Gi et fredsommelig og lykkelig samliv, godt og tjenlig vÃ¦r, rettsindige og kristelige rÃ¥d til all vÃ¥r gjerning!</p>
-    <p>
-      <em type="italic">Herre, hÃ¸r vÃ¥r bÃ¸nn! </em>
-    </p>
-    <p>
-      <em type="italic">IsÃ¤ meiÃ°Ã¤n </em>
-    </p>
-    <p xml:lang="fkv">IsÃ¤ meiÃ°Ã¤n, joka olet taivhaassa! Pyhitetty olkhoon sinun nimi LikenytkhÃ¶Ã¶n sinun valtakunta Tapattukhoon sinun tahto</p>
-    <p xml:lang="fkv">Niin maassa, niinko taivhaassaki Anna meile tÃ¤nÃ¤ pÃ¤ivÃ¤nÃ¤ meiÃ°Ã¤n jokapÃ¤ivÃ¤isen leivÃ¤n</p>
-    <p xml:lang="fkv">Ja anna meile meiÃ°Ã¤n synnit antheeksi</p>
-    <p xml:lang="fkv">Niinko metki annama antheeksi meiÃ°Ã¤n velvolisile</p>
-    <p xml:lang="fkv">Ja Ã¤lÃ¤ johÃ°ata meitÃ¤ kiussauksheen Mutta pÃ¤Ã¤stÃ¤ meiÃ°Ã¤t pahasta SillÃ¤ sinun oon valtakunta,</p>
-    <p xml:lang="fkv">voima, ja kunnia</p>
-    <p xml:lang="fkv">ijÃ¤nkaikkisesti.</p>
-    <p>
-      <em type="italic">KiitosuhrausTakkoffer </em>
-      <em type="italic">VirsiSalme </em>
-      <em type="italic">Benedicamus </em>
-    </p>
-    <p xml:lang="fkv"><em type="italic">Liturgi;Liturg; </em>Herra siunatkhoon sinnuu ja varjelkhoon sinnuu! </p>
-    <p xml:lang="fkv">Herra antakhoon kasvot loistaat sinun yli ja olkhoon sinule armolinen!</p>
-    <p>Herra kÃ¤Ã¤ntÃ¤khÃ¶Ã¶n kasvot sinun pÃ¤Ã¤le ja antakhoon sinule rauhan!Herren velsigne deg og bevare deg!</p>
-    <p xml:lang="fkv">
-      <em type="italic">Loppurukkous </em>
-      <em type="italic">Lukkari: </em>
-    </p>
-    <p xml:lang="fkv">Herra! Mie kiitÃ¤n sinnuu</p>
-    <p xml:lang="fkv">sillÃ¤ ko sie olet opettanu minule mitÃ¤ sie halluut ette mie piÃ°Ã¤n tehÃ°Ã¤.</p>
-    <p xml:lang="fkv">Auta nyt minnuu, minun Jumala, sinun PyhÃ¤n Hengen kautta ja Jeesuksen Kristuksen tÃ¤hÃ°en niin ette mie sÃ¤ilytÃ¤n sinun sanan puhthaassa syÃ°Ã¤messÃ¤,</p>
-    <p xml:lang="fkv">lujennun uskossa,</p>
-    <p xml:lang="fkv">parannun pyhÃ¤ssÃ¤ elÃ¤mÃ¤ssÃ¤ ja saan lohÃ°utuksen elÃ¤mÃ¤ssÃ¤ ja kuolemassa!</p>
-    <p xml:lang="fkv">Aamen Jeesuksen nimheen.</p>
-    <p>
-      <em type="italic">3 x 3 kellonlyÃ¶nttii Postluuti </em>
-    </p>
-    <p>
-      <em type="italic">UtgangsbÃ¸nn </em>
-      <em type="italic">Klokker: </em>
-    </p>
-    <p>Herre! Jeg takker deg fordi du har lÃ¦rt meg hva du vil at jeg skal gjÃ¸re.</p>
-    <p>Hjelp meg nu, min Gud, ved din Hellige Ãnd for Jesu Kristi skyld, at jeg mÃ¥ bevare ditt ord i et rent hjerte, styrkes ved det i troen, forbedres i et hellig levnet og ha trÃ¸st av det i liv og dÃ¸d!</p>
-    <p>Amen i Jesu navn.</p>
-    <p>
-      <em type="italic">3 x 3 klokkeslag </em>
-    </p>
-    <p>
-      <em type="italic">Postludium </em>
-    </p>
-    <p>Oversatt til kvensk av Alf Nilsen-BÃ¸rsskog og Terje Aronsen Melodier komponert av Halvdan Nedrejord@2012</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="ficti"/><author><unknown/></author><translator><person firstname="Terje" lastname="Aaronsen" sex="m" born="" nationality="NO"/></translator><wordcount>622</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><multilingual><language xml:lang="nob"/><language xml:lang="fkv"/></multilingual><parallel_text xml:lang="fkv" location="kvenskliturgi2012v5.rtf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="fkv"><em type="italic">Jumalanpalvelus </em></p>
+<p xml:lang="fkv">Kainunkielinen liturgia</p>
+<p><em type="italic">Gudstjeneste </em></p>
+<p xml:lang="fkv">Kvensk liturgi</p>
+<p xml:lang="fkv"><em type="italic">Alkurukkous – Lukkarinrukkous </em></p>
+<p xml:lang="fkv">Herra!</p>
+<p xml:lang="fkv">Mie olen tullu tänne sinun pyhhään talhoon kuulemhaan mitä sie, Herra Jumala, minun Luoja, sie, Herra Jeesus, minun Vapattaaja,</p>
+<p xml:lang="fkv">sie, Pyhä Henki, minun lohðuttaaja elämässä ja kuolemassa, aiot saarnata minule.</p>
+<p xml:lang="fkv">Herra! Aukase nyt minun syðämen sinun Pyhän Hengen kautta, niin ette mie sinun sanan kautta opin suremhaan minun synttii, ja elämässä ja kuolemassa uskomhaan Jeesuksheen, ja joka päivä tekemhään parannuksen pyhässä elämässä. Sen kuulisit ja tekisit sie Jeesuksen Kristuksen kautta. Aamen.</p>
+<p xml:lang="fkv"><em type="italic">Alkuvirsi Alkusanat </em></p>
+<p xml:lang="fkv">Rakas seurakunta. Armo olkhoon teile Ja rauha Jumalalta, meiðän Isältä, Ja Herralta Jesukselta Kristukselta.</p>
+<p xml:lang="fkv">KYRIE</p>
+<p><em type="italic">Alle: </em></p>
+<p><em type="italic">Kyrie eleison! Gud Fader miskunne deg! Kyrie eleison! Herre Krist, miskunne deg! Kyrie eleison! Herre Hellig Ånd, miskunne deg! </em>GLORIA </p>
+<p xml:lang="fkv"><em type="italic">Presten: </em></p>
+<p><em type="italic">Ære være Gud i det høyeste! </em><em type="italic">Menigheten: </em></p>
+<p><em type="italic">Og fred på jorden blant mennesker som har Guds velbehag! Vi lover deg, vi priser deg, vi tilber deg, vi opphøyer deg. Amen. </em><em type="italic">Liturgi: </em></p>
+<p xml:lang="fkv">Kuuntelema Herran sannaa!</p>
+<p xml:lang="fkv"><em type="italic">Seurakunta: </em></p>
+<p xml:lang="fkv"><em type="italic">Liturg: </em></p>
+<p>La oss høre Herrens ord!</p>
+<p><em type="italic">Gud vxre lovet! Halleluja .. </em></p>
+<p xml:lang="fkv"><em type="italic">2. tekstinlukeminen </em>Oon kirjotettu ... </p>
+<p xml:lang="fkv">Näin oon Herran sanat. <em type="italic">Virsi </em></p>
+<p xml:lang="fkv"><em type="italic">Saarna </em></p>
+<p xml:lang="fkv">Tämä pyhä evankeeliumi oon kirjotettu ..</p>
+<p>CREDO</p>
+<p xml:lang="fkv"><em type="italic">Uskontunnustus </em></p>
+<p xml:lang="fkv"><em type="italic">Liturgi: </em></p>
+<p xml:lang="fkv">Tunnustama meiðän pyhän uskon. <em type="italic">(Seurakunta noussee seisomhaan.) </em></p>
+<p xml:lang="fkv"><em type="italic">Kaikin: </em></p>
+<p xml:lang="fkv">Mie uskon Jumalhaan, kaikkivalttihaasheen,</p>
+<p xml:lang="fkv">Taivhaan ja mailman luojhaan.</p>
+<p xml:lang="fkv">Mie uskon Jeesuksheen Kristuksheen,</p>
+<p xml:lang="fkv">Jumalan ainutsyntyisheen</p>
+<p xml:lang="fkv">Poikhaan,</p>
+<p xml:lang="fkv">meiðän Herrhaan,</p>
+<p xml:lang="fkv">sikkiintyny Pyhän Hengen kautta, jonka Neittyt Maaria synnytti, piinattu Pontius Pilatuksen alla, risthiinnaulittu, kuollu ja hauðattu, meni kuolemanvaltakunthaan, nousi ylös kolmantena päivänä, meni taivhaasheen,</p>
+<p xml:lang="fkv">istuu Jumalan kaikkivalttihaan Isän oikkeela puolela ja tullee takasin tuomittemhaan elläävii ja kuolheita.</p>
+<p xml:lang="fkv">Mie uskon Pyhhään Henkheen, pyhhään tavalisheen kirkhoon, pyhhiin valtakunthaan,</p>
+<p xml:lang="fkv">synttiin antheeksi antamisheen, ruumhiin ylösnousemisheen, ja ikuisheen elämhään.</p>
+<p xml:lang="fkv"><em type="italic">Seurakunta laulaa: </em></p>
+<p xml:lang="fkv"><em type="italic">Kuulutukset Esirukkous </em></p>
+<p xml:lang="fkv"><em type="italic">Apuliturgi: </em></p>
+<p xml:lang="fkv">Ole, Jumala, luppaukses jälkkheen leskiin suoja ja orpolasten isä. Anna kaikile sairhaile ja surulisile lievitystä ja lohðutusta,</p>
+<p xml:lang="fkv">Tule armolisesti avuksi kiusatuile, ja heile jokka oon kuoleman häðässä.</p>
+<p xml:lang="fkv">Ole heiðän voima, jokka kärsithään ahðistusta Jesuksen nimen tähðen. Anna rauhalisen ja onnelisen yhteiselämän, hyvän ja otolisen sään,</p>
+<p xml:lang="fkv">Oikkeemielisen ja kristilisen neuvon meiðän työhöön!</p>
+<p xml:lang="fkv"><em type="italic">Seurakunta: </em></p>
+<p><em type="italic">Kunngjøringer </em></p>
+<p><em type="italic">Forbønn </em></p>
+<p><em type="italic">Medliturg: </em></p>
+<p>Vær, o Gud, etter ditt løfte enkers forsvar og faderløses far.</p>
+<p>Gi alle syke og sorgfulle lindring og trøst, kom nådig</p>
+<p>de anfektede til hjelp, og dem som er i dødens nød. Vær deres styrke som lider trengsel for Jesu navns skyld.</p>
+<p>Gi et fredsommelig og lykkelig samliv, godt og tjenlig vær, rettsindige og kristelige råd til all vår gjerning!</p>
+<p><em type="italic">Herre, hør vår bønn! </em></p>
+<p xml:lang="fkv"><em type="italic">Isä meiðän </em></p>
+<p xml:lang="fkv">Isä meiðän, joka olet taivhaassa! Pyhitetty olkhoon sinun nimi Likenytkhöön sinun valtakunta Tapattukhoon sinun tahto</p>
+<p xml:lang="fkv">Niin maassa, niinko taivhaassaki Anna meile tänä päivänä meiðän jokapäiväisen leivän</p>
+<p xml:lang="fkv">Ja anna meile meiðän synnit antheeksi</p>
+<p xml:lang="fkv">Niinko metki annama antheeksi meiðän velvolisile</p>
+<p xml:lang="fkv">Ja älä johðata meitä kiussauksheen Mutta päästä meiðät pahasta Sillä sinun oon valtakunta,</p>
+<p xml:lang="fkv">voima, ja kunnia</p>
+<p xml:lang="fkv">ijänkaikkisesti.</p>
+<p><em type="italic">KiitosuhrausTakkoffer </em><em type="italic">VirsiSalme </em><em type="italic">Benedicamus </em></p>
+<p xml:lang="fkv"><em type="italic">Liturgi;Liturg; </em>Herra siunatkhoon sinnuu ja varjelkhoon sinnuu! </p>
+<p xml:lang="fkv">Herra antakhoon kasvot loistaat sinun yli ja olkhoon sinule armolinen!</p>
+<p xml:lang="fkv">Herra kääntäkhöön kasvot sinun pääle ja antakhoon sinule rauhan!Herren velsigne deg og bevare deg!</p>
+<p xml:lang="fkv"><em type="italic">Loppurukkous </em><em type="italic">Lukkari: </em></p>
+<p xml:lang="fkv">Herra! Mie kiitän sinnuu</p>
+<p xml:lang="fkv">sillä ko sie olet opettanu minule mitä sie halluut ette mie piðän tehðä.</p>
+<p xml:lang="fkv">Auta nyt minnuu, minun Jumala, sinun Pyhän Hengen kautta ja Jeesuksen Kristuksen tähðen niin ette mie säilytän sinun sanan puhthaassa syðämessä,</p>
+<p xml:lang="fkv">lujennun uskossa,</p>
+<p xml:lang="fkv">parannun pyhässä elämässä ja saan lohðutuksen elämässä ja kuolemassa!</p>
+<p xml:lang="fkv">Aamen Jeesuksen nimheen.</p>
+<p xml:lang="fkv"><em type="italic">3 x 3 kellonlyönttii Postluuti </em></p>
+<p><em type="italic">Utgangsbønn </em><em type="italic">Klokker: </em></p>
+<p>Herre! Jeg takker deg fordi du har lært meg hva du vil at jeg skal gjøre.</p>
+<p>Hjelp meg nu, min Gud, ved din Hellige Ånd for Jesu Kristi skyld, at jeg må bevare ditt ord i et rent hjerte, styrkes ved det i troen, forbedres i et hellig levnet og ha trøst av det i liv og død!</p>
+<p>Amen i Jesu navn.</p>
+<p><em type="italic">3 x 3 klokkeslag </em></p>
+<p><em type="italic">Postludium </em></p>
+<p>Oversatt til kvensk av Alf Nilsen-Børsskog og Terje Aronsen Melodier komponert av Halvdan Nedrejord@2012</p>
+</body></document>

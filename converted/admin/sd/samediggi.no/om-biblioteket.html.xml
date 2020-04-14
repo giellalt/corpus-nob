@@ -1,65 +1,28 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>298</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Om-biblioteket</origFileName>
-    <parallel_text xml:lang="sma" location="gaerjagaaetien-bijre.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om biblioteket / Bibliotek / Forsiden - Sametinget</p>
-    <p>
-      <span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span>
-    </p>
-    <p>Om Sametinget</p>
-    <p>Valg og manntall</p>
-    <p>Stipend og tilskudd</p>
-    <p>Web-tv</p>
-    <p type="title">Om biblioteket</p>
-    <p type="title">Historikk</p>
-    <p>Oppbyggingen av Samisk spesialbibliotek startet opp i 1950-årene. I 1962 fikk Karasjok folkebibliotek ett spesielt ansvar for å bygge opp en samisksamling for å gi en samisk bibliotektjeneste til hele den samiske befolkningen og til andre. Samlingen var til å begynne med en avdeling under Karasjok folkebibliotek. Fra 1983 ble avdelingen et eget statsfinansiert bibliotek - Sámi sierrabibliotehka /Samisk spesialbibliotek. Samisk spesialbibliotek ble i år 2000 overført til Sametinget og fikk navnet Sametingets bibliotek. Biblioteket har i dag en fremtredende plass på sametingsbygget i Karasjok.</p>
-    <p>Sametingets bibliotek skal være et bibliotek som skal styrke og utvikle bibliotektilbudet til det samiske folket. Biblioteket skal være et kompetansesenter for samisk litteratur og samisk bibliotektjeneste, og et forvaltningsbibliotek for Sametingets politikere og ansatte.</p>
-    <p>Sametingets bibliotek skal ha den mest komplette samlingen av samisk litteratur og annet materiale på samiske språk og om samiske forhold uansett språk. Samlinga skal være tilgjengelig og kjent for både andre bibliotek og enkelt lånere. Biblioteket kjøper inn flere eksemplarer av bøker slik at andre bibliotek kan låne en samling av bøker til utlån for sine brukere.</p>
-    <p>Biblioteket mottar pliktavlevering fra Nasjonalbiblioteket. Avleveringen omfatter alt av bøker og dokumenter som er utgitt i Norge der hele eller deler av teksten er på samisk, jfr. Lov om pliktavlevering. Pliktavleverte bøker skal oppbevares for alltid.</p>
-    <p type="title">Ansatte</p>
-    <p>Liv Inger Lindi</p>
-    <p>
-      <em type="italic">Fagleder </em>
-    </p>
-    <p>Inger Johanne Rosland</p>
-    <p>
-      <em type="italic">Spesialbibliotekar </em>
-    </p>
-    <p>Kåre Balto</p>
-    <p xml:lang="eng">
-      <em type="italic">Konsulent </em>
-    </p>
-    <p>Jo Espen Thomassen</p>
-    <p>
-      <em type="italic">Sekretær </em>
-    </p>
-    <p type="title">Kontakt</p>
-    <p>Sámedikki girjerádju/Sametingets bibliotek</p>
-    <p xml:lang="sme">Ávjovárgeaidnu 50</p>
-    <p xml:lang="sme">9730 Kárášjohka</p>
-    <p xml:lang="sme">sambib@samediggi.no</p>
-    <p xml:lang="eng">Tlf. 78 47 40 00</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>298</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Om-biblioteket</origFileName><parallel_text xml:lang="sma" location="gaerjagaaetien-bijre.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om biblioteket / Bibliotek / Forsiden - Sametinget</p>
+<p><span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span></p>
+<p>Om Sametinget</p>
+<p>Valg og manntall</p>
+<p>Stipend og tilskudd</p>
+<p>Web-tv</p>
+<p type="title">Om biblioteket</p>
+<p type="title">Historikk</p>
+<p>Oppbyggingen av Samisk spesialbibliotek startet opp i 1950-årene. I 1962 fikk Karasjok folkebibliotek ett spesielt ansvar for å bygge opp en samisksamling for å gi en samisk bibliotektjeneste til hele den samiske befolkningen og til andre. Samlingen var til å begynne med en avdeling under Karasjok folkebibliotek. Fra 1983 ble avdelingen et eget statsfinansiert bibliotek - Sámi sierrabibliotehka /Samisk spesialbibliotek. Samisk spesialbibliotek ble i år 2000 overført til Sametinget og fikk navnet Sametingets bibliotek. Biblioteket har i dag en fremtredende plass på sametingsbygget i Karasjok.</p>
+<p>Sametingets bibliotek skal være et bibliotek som skal styrke og utvikle bibliotektilbudet til det samiske folket. Biblioteket skal være et kompetansesenter for samisk litteratur og samisk bibliotektjeneste, og et forvaltningsbibliotek for Sametingets politikere og ansatte.</p>
+<p>Sametingets bibliotek skal ha den mest komplette samlingen av samisk litteratur og annet materiale på samiske språk og om samiske forhold uansett språk. Samlinga skal være tilgjengelig og kjent for både andre bibliotek og enkelt lånere. Biblioteket kjøper inn flere eksemplarer av bøker slik at andre bibliotek kan låne en samling av bøker til utlån for sine brukere.</p>
+<p>Biblioteket mottar pliktavlevering fra Nasjonalbiblioteket. Avleveringen omfatter alt av bøker og dokumenter som er utgitt i Norge der hele eller deler av teksten er på samisk, jfr. Lov om pliktavlevering. Pliktavleverte bøker skal oppbevares for alltid.</p>
+<p type="title">Ansatte</p>
+<p>Liv Inger Lindi</p>
+<p><em type="italic">Fagleder </em></p>
+<p>Inger Johanne Rosland</p>
+<p><em type="italic">Spesialbibliotekar </em></p>
+<p>Kåre Balto</p>
+<p xml:lang="eng"><em type="italic">Konsulent </em></p>
+<p>Jo Espen Thomassen</p>
+<p><em type="italic">Sekretær </em></p>
+<p type="title">Kontakt</p>
+<p>Sámedikki girjerádju/Sametingets bibliotek</p>
+<p xml:lang="sme">Ávjovárgeaidnu 50</p>
+<p xml:lang="sme">9730 Kárášjohka</p>
+<p xml:lang="sme">sambib@samediggi.no</p>
+<p xml:lang="eng">Tlf. 78 47 40 00</p>
+</body></document>

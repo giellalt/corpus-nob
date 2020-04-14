@@ -1,36 +1,7 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>75</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=3&amp;art_id=148</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=3_art_id=148.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=3_art_id=148.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=3_art_id=148.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Reportasjer</p>
-    <p type="title">Lag en reportasje! Vinn en gave!</p>
-    <p>Vi vil at du skal være med på å lage reportasjer til nettstedet.Reportasjer om leir, konfirmasjonsopplegg, om kjente personer, bok-, musikk og filmreportasje eller dine refleksjoner om livets små og store mysterier.</p>
-    <p>Send oss tekst og bilder, og vi vil hjelpe deg med teksten. Du kan velge hvilke språk du vil skrive på.</p>
-    <p>De som sender oss en reportasje er med i trekning av en overraskelse.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>75</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=3&amp;art_id=148</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=3_art_id=148.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=3_art_id=148.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=3_art_id=148.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Reportasjer</p>
+<p type="title">Lag en reportasje! Vinn en gave!</p>
+<p>Vi vil at du skal være med på å lage reportasjer til nettstedet.Reportasjer om leir, konfirmasjonsopplegg, om kjente personer, bok-, musikk og filmreportasje eller dine refleksjoner om livets små og store mysterier.</p>
+<p>Send oss tekst og bilder, og vi vil hjelpe deg med teksten. Du kan velge hvilke språk du vil skrive på.</p>
+<p>De som sender oss en reportasje er med i trekning av en overraskelse.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

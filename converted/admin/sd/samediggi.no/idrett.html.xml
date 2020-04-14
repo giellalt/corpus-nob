@@ -1,63 +1,26 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>280</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Idrett</origFileName>
-    <parallel_text xml:lang="sma" location="gaarsjelimmie.html"/>
-    <parallel_text xml:lang="sme" location="falastallan.html"/>
-    <parallel_text xml:lang="smj" location="valastallam.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Idrett / Kulturliv / Forsiden - Sametinget</p>
-    <p type="title">Idrett</p>
-    <p>Sport og idrett har en sentral plass i det samiske samfunnet. Historisk sett har fysisk aktivitet naturlig vært en del av den samiske kulturen. Etter hvert som behovene har endret seg har mange av disse aktivitetene endret form og innhold, og fremstår i dag som basis for idrett og aktivitet både på høyt sportslig nivå og på mosjonsnivå.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Gáisi</p>
-    <p>Aktuelt</p>
-    <p>Styrker felleskapet</p>
-    <p>Sametingspresident Aili Keskitalo deltar på Arctic Winter Games i Grønlands...</p>
-    <p>Les mer</p>
-    <p>Historisk redegjørelse om samisk idrett</p>
-    <p>Sametingsrådet har utarbeidet en redegjørelse om samisk idrett, der aktuelle...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Sametinget jobber for: </em>
-    </p>
-    <list>
-      <p type="listitem">At samiske idrettsorganisasjoner skal være i stand til å organisere og legge til rette for idrettslig og fysisk aktivitet for alle, og derigjennom skape arenaer som er identitetsskapende spesielt for barn og unge.</p>
-      <p type="listitem">At samisk ungdom skal kunne delta i idrettslige aktiviteter sammen med ungdom fra andre land og områder, og på den måten styrke samhørigheten med andre urfolksgrupper og arktiske befolkningsgrupper.</p>
-      <p type="listitem">At samisk idrett skal tilgodeses med en større andel av statlige spillemidler</p>
-    </list>
-    <p>
-      <em type="bold">Økonomiske virkemidler </em>
-    </p>
-    <p>Målet for Sametingets virkemidler til idrett er et mangfold av idrettsaktiviteter. Delmålet er et bredt og godt idrettstilbud for den samiske befolkningen.</p>
-    <p>Sametinget gir direktetilskudd til følgende to organisasjoner som organiserer samiske idrettsaktiviteter: Sámiid Valáštallanlihttu-Norga/Samenes idrettsforbund-Norge (SVL- N) og Sámi Heargevuodjin-lihttu/Saami Reindeer-Race Federation (SHL).</p>
-    <p>I tillegg gir Sametinget tilskudd til samisk ungdoms deltakelse i både idretts- og kulturdelen av Arctic Winter Games (AWG).</p>
-    <p>Direktetilskuddene til idrett skal bidra til at de samiske idrettsorganisasjonene kan utvikle et idrettstilbud både på bredde- og toppnivå.</p>
-    <p>
-      <span type="quote">Historisk sett har fysisk aktivitet naturlig vært en del av den samiske kulturen. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>280</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Kulturliv/Idrett</origFileName><parallel_text xml:lang="sma" location="gaarsjelimmie.html"/><parallel_text xml:lang="sme" location="falastallan.html"/><parallel_text xml:lang="smj" location="valastallam.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Idrett / Kulturliv / Forsiden - Sametinget</p>
+<p type="title">Idrett</p>
+<p>Sport og idrett har en sentral plass i det samiske samfunnet. Historisk sett har fysisk aktivitet naturlig vært en del av den samiske kulturen. Etter hvert som behovene har endret seg har mange av disse aktivitetene endret form og innhold, og fremstår i dag som basis for idrett og aktivitet både på høyt sportslig nivå og på mosjonsnivå.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Gáisi</p>
+<p>Aktuelt</p>
+<p>Styrker felleskapet</p>
+<p>Sametingspresident Aili Keskitalo deltar på Arctic Winter Games i Grønlands...</p>
+<p>Les mer</p>
+<p>Historisk redegjørelse om samisk idrett</p>
+<p>Sametingsrådet har utarbeidet en redegjørelse om samisk idrett, der aktuelle...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Sametinget jobber for: </em></p>
+<list><p type="listitem">At samiske idrettsorganisasjoner skal være i stand til å organisere og legge til rette for idrettslig og fysisk aktivitet for alle, og derigjennom skape arenaer som er identitetsskapende spesielt for barn og unge.</p>
+<p type="listitem">At samisk ungdom skal kunne delta i idrettslige aktiviteter sammen med ungdom fra andre land og områder, og på den måten styrke samhørigheten med andre urfolksgrupper og arktiske befolkningsgrupper.</p>
+<p type="listitem">At samisk idrett skal tilgodeses med en større andel av statlige spillemidler</p>
+</list><p><em type="bold">Økonomiske virkemidler </em></p>
+<p>Målet for Sametingets virkemidler til idrett er et mangfold av idrettsaktiviteter. Delmålet er et bredt og godt idrettstilbud for den samiske befolkningen.</p>
+<p>Sametinget gir direktetilskudd til følgende to organisasjoner som organiserer samiske idrettsaktiviteter: Sámiid Valáštallanlihttu-Norga/Samenes idrettsforbund-Norge (SVL- N) og Sámi Heargevuodjin-lihttu/Saami Reindeer-Race Federation (SHL).</p>
+<p>I tillegg gir Sametinget tilskudd til samisk ungdoms deltakelse i både idretts- og kulturdelen av Arctic Winter Games (AWG).</p>
+<p>Direktetilskuddene til idrett skal bidra til at de samiske idrettsorganisasjonene kan utvikle et idrettstilbud både på bredde- og toppnivå.</p>
+<p><span type="quote">Historisk sett har fysisk aktivitet naturlig vært en del av den samiske kulturen. </span></p>
+</body></document>

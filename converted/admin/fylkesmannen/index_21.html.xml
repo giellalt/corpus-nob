@@ -1,89 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>435</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Barn-og-foreldre/Barnevern/</origFileName>
-    <parallel_text xml:lang="eng" location="index_21.html"/>
-    <parallel_text xml:lang="sma" location="index_21.html"/>
-    <parallel_text xml:lang="sme" location="index_21.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Barnevern – Fylkesmannen - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title">Barn og foreldre</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-      <p type="listitem" xml:lang="dan">Miljø og klima</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p>Barn og foreldre</p>
-    <p xml:lang="dan">Barnevern</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Barneloven</p>
-      <p type="listitem" xml:lang="dan">Barnevern</p>
-      <p type="listitem">Biologiske foreldre til adoptivbarn</p>
-      <p type="listitem">Familievern</p>
-    </list>
-    <p type="title" xml:lang="dan">Barnevern</p>
-    <p xml:lang="nno">Publisert 21.09.2012 Oppdatert 05.04.2017</p>
-    <p>Barnevernets hovedoppgave er å sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp og omsorg til rett tid. Barnevernet skal dessuten bidra til trygge oppvekstkår for alle barn og unge. Både kommunene og staten har oppgaver og ansvar på barnevernområdet.</p>
-    <p type="title">Kommunens oppgaver</p>
-    <p>Alle kommuner skal ha en barneverntjeneste som utfører det daglige arbeidet etter barnevernloven. Barneverntjenesten skal sette i verk hjelpetiltak for barnet og familien. Hjelpen kan gis i form av råd og veiledning, eventuelt i kombinasjon med andre hjelpetiltak. Vanlige hjelpetiltak er for eksempel barnehageplass, støttekontakt, råd og veiledning og avlastningstiltak i hjemmet. </p>
-    <p>Barneverntjenesten har også ansvar for å gripe inn dersom tiltakene i hjemmet ikke er tilstrekkelige for å ivareta barnets behov. Barneverntjenesten kan da for en periode i samråd med foreldrene formidle plass i fosterhjem eller på institusjon, eller på et senter for foreldre og barn. Dersom et barn skal plasseres utenfor hjemmet uten foreldrenes samtykke, må det treffes vedtak om dette i Fylkesnemnda for barnevern og sosiale saker etter forslag fra kommunen.</p>
-    <p type="title" xml:lang="nno">Fylkesnemnda for barnevern og sosiale saker</p>
-    <p>Fylkesnemnda for barnevern og sosiale saker har myndighet til å ta avgjørelser blant annet i saker om omsorgsovertakelse og i saker som gjelder tvangsinngrep overfor ungdom med alvorlige adferdsvansker. Avgjørelser som er fattet av fylkesnemnda, kan bringes inn for domstolene. </p>
-    <p type="title" xml:lang="nno">Fylkesmannen fører tilsyn og er klageinstans</p>
-    <p>Fylkesmannen fører tilsyn med barnevernvirksomheten i kommunen. Dette innebærer blant annet at Fylkesmannen behandler klager på barneverntjenestens saksbehandling og tar stilling til om barneverntjenesten har utført sitt arbeid etter barnevernloven og forvaltningsloven. </p>
-    <p>Fylkesmannen er også klageinstans for enkeltvedtak som barneverntjenesten fatter etter barnevernloven. Dette vil i de fleste tilfeller være saker der barn eller foreldre klager over at de ikke får det hjelpetiltaket de ønsker.</p>
-    <p>Fylkesmannen fører også tilsyn med at barn på barneverninstitusjoner får forsvarlig omsorg og god behandling. Videre skal tilsynet se til at barna blir behandlet hensynsfullt og med respekt for den enkeltes integritet. Dette innebærer blant annet at barn som blir utsatt for tvang på en barneverninstitusjon, kan klage til Fylkesmannen.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Barnevernloven</p>
-      <p type="listitem" xml:lang="nno">Barne- og likestillingsdepartementet</p>
-      <p type="listitem">Om barnevern (Barne-, ungdoms- og familiedirektoratet)</p>
-      <p type="listitem" xml:lang="nno">Helsetilsynet</p>
-      <p type="listitem" xml:lang="dan">Barneombudet</p>
-      <p type="listitem" xml:lang="nno">Ung.no</p>
-      <p type="listitem" xml:lang="nno">Misfornøyd med barnevernet?</p>
-      <p type="listitem" xml:lang="dan">Landsforeningen for barnevernsbarn</p>
-      <p type="listitem" xml:lang="dan">Forandringsfabrikken</p>
-    </list>
-    <p type="title" xml:lang="nno">Skjemaer</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Tvangsprotokoller og klagesaker barnevern</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>435</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Barn-og-foreldre/Barnevern/</origFileName><parallel_text xml:lang="eng" location="index_21.html"/><parallel_text xml:lang="sma" location="index_21.html"/><parallel_text xml:lang="sme" location="index_21.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Barnevern – Fylkesmannen - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title">Barn og foreldre</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<p type="listitem" xml:lang="dan">Miljø og klima</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p>Barn og foreldre</p>
+<p xml:lang="dan">Barnevern</p>
+<list><p type="listitem" xml:lang="vep">Barneloven</p>
+<p type="listitem" xml:lang="dan">Barnevern</p>
+<p type="listitem">Biologiske foreldre til adoptivbarn</p>
+<p type="listitem">Familievern</p>
+</list><p type="title" xml:lang="dan">Barnevern</p>
+<p xml:lang="nno">Publisert 21.09.2012 Oppdatert 05.04.2017</p>
+<p>Barnevernets hovedoppgave er å sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp og omsorg til rett tid. Barnevernet skal dessuten bidra til trygge oppvekstkår for alle barn og unge. Både kommunene og staten har oppgaver og ansvar på barnevernområdet.</p>
+<p type="title">Kommunens oppgaver</p>
+<p>Alle kommuner skal ha en barneverntjeneste som utfører det daglige arbeidet etter barnevernloven. Barneverntjenesten skal sette i verk hjelpetiltak for barnet og familien. Hjelpen kan gis i form av råd og veiledning, eventuelt i kombinasjon med andre hjelpetiltak. Vanlige hjelpetiltak er for eksempel barnehageplass, støttekontakt, råd og veiledning og avlastningstiltak i hjemmet. </p>
+<p>Barneverntjenesten har også ansvar for å gripe inn dersom tiltakene i hjemmet ikke er tilstrekkelige for å ivareta barnets behov. Barneverntjenesten kan da for en periode i samråd med foreldrene formidle plass i fosterhjem eller på institusjon, eller på et senter for foreldre og barn. Dersom et barn skal plasseres utenfor hjemmet uten foreldrenes samtykke, må det treffes vedtak om dette i Fylkesnemnda for barnevern og sosiale saker etter forslag fra kommunen.</p>
+<p type="title" xml:lang="nno">Fylkesnemnda for barnevern og sosiale saker</p>
+<p>Fylkesnemnda for barnevern og sosiale saker har myndighet til å ta avgjørelser blant annet i saker om omsorgsovertakelse og i saker som gjelder tvangsinngrep overfor ungdom med alvorlige adferdsvansker. Avgjørelser som er fattet av fylkesnemnda, kan bringes inn for domstolene. </p>
+<p type="title" xml:lang="nno">Fylkesmannen fører tilsyn og er klageinstans</p>
+<p>Fylkesmannen fører tilsyn med barnevernvirksomheten i kommunen. Dette innebærer blant annet at Fylkesmannen behandler klager på barneverntjenestens saksbehandling og tar stilling til om barneverntjenesten har utført sitt arbeid etter barnevernloven og forvaltningsloven. </p>
+<p>Fylkesmannen er også klageinstans for enkeltvedtak som barneverntjenesten fatter etter barnevernloven. Dette vil i de fleste tilfeller være saker der barn eller foreldre klager over at de ikke får det hjelpetiltaket de ønsker.</p>
+<p>Fylkesmannen fører også tilsyn med at barn på barneverninstitusjoner får forsvarlig omsorg og god behandling. Videre skal tilsynet se til at barna blir behandlet hensynsfullt og med respekt for den enkeltes integritet. Dette innebærer blant annet at barn som blir utsatt for tvang på en barneverninstitusjon, kan klage til Fylkesmannen.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem" xml:lang="sma">Barnevernloven</p>
+<p type="listitem" xml:lang="nno">Barne- og likestillingsdepartementet</p>
+<p type="listitem">Om barnevern (Barne-, ungdoms- og familiedirektoratet)</p>
+<p type="listitem" xml:lang="nno">Helsetilsynet</p>
+<p type="listitem" xml:lang="dan">Barneombudet</p>
+<p type="listitem" xml:lang="nno">Ung.no</p>
+<p type="listitem" xml:lang="nno">Misfornøyd med barnevernet?</p>
+<p type="listitem" xml:lang="dan">Landsforeningen for barnevernsbarn</p>
+<p type="listitem" xml:lang="dan">Forandringsfabrikken</p>
+</list><p type="title" xml:lang="nno">Skjemaer</p>
+<list><p type="listitem" xml:lang="nno">Tvangsprotokoller og klagesaker barnevern</p>
+</list></body></document>

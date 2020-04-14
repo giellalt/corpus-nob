@@ -1,41 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>311</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>varanger_museum_21.02.2018.docx</origFileName>
-    <parallel_text xml:lang="fkv" location="varanger_museum_21.02.2018.docx"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Varanger museum / Vadsø museum – Ruija kvenmuseum</p>
-    <p xml:lang="fkv">Oversatt til kvensk av Kainun institutti – Kvensk institutt 21.02.2018</p>
-    <p xml:lang="fin">Kväänikansan päivän markkeeraus</p>
-    <p xml:lang="fkv">Kväänikansan päivää markkeerathaan tuorestaina 15. marsikuuta Store studiossa, Vesisaaren museumissa (Vadsø museum - Ruija kvenmuseum). Ivar Johnsen Ruijan Kveeniliitosta toivottaa ensisti tervettulheeksi. Sen jälkhiin oon esitys <span type="quote">"Brev fra Elmine"</span> jossa oon myötä Katharine Jakola, Egil Hellesø ja Trygg Jakola. Esitys muistelee Elmine Harilasta, syntyny Enbuske, kuka 1800-luvula matkusti Tornionlakson Pellosta Ruijhaan ja asettui Annijokheen.</p>
-    <p xml:lang="fkv">Kväänipäivän järjestethään yhessä Varenkin kvääniseuran kans.</p>
-    <p xml:lang="fkv">Näyttelyt <em type="italic">Varenk </em><em type="italic">intalo </em>ja <em type="italic">Inker </em><em type="italic">inmaa </em>oon kans auki. Myyhään kaffia ja kakkoa. </p>
-    <p xml:lang="fkv">Tervettulemaa!</p>
-    <p xml:lang="fkv">Inkerinmaa-näyttelyn aukaisthaan</p>
-    <p xml:lang="fkv">Tuorestaina 8. marsikuuta kuttuu Vadsø museum – Ruija kvenmuseum näyttelyn <span type="quote">«På dette viset dør et folk og slekter forsvinner»</span> aukaisemisheen. Näyttelyn perustanna oon kansantutkija Samuli Paulaharjun (1875-1944) kuvat ja ylöskirjotukset ko hän kulki läpitte Inkerinmaa. Näyttelyn oon produseeranheet Aune Kämäräinen, Helena Miettinen ja Marja Karhula kekkä oon matkustanheet Paulaharjun jalanjäljilä.</p>
-    <p xml:lang="fkv">Johattelun pittää Kaisa Maliniemi, osastonjohtaja Vadsø museum – Ruija kvenmuseum.</p>
-    <p xml:lang="koi">-----------------------------------------------------------------------------------------------</p>
-    <p>Markering av Kvenfolkets dag</p>
-    <p>Kvenfolkets dag markeres torsdag 15. mars i Store studio ved Vadsø museum - Ruija kvenmuseum. Ivar Johnsen fra Norske kveners forbund/Kveeniliito ønsker velkommen før fremføring av forestillingen <span type="quote">"Brev fra Elmine"</span> med Katharine Jakola, Egil Hellesø og Trygg Jakola. Forestillingen handler om Elmine Harila, født Enbuske som på 1800-tallet reiste fra Pello i Tornedalen til Ruija og bosatte seg i Vestre Jakobselv.</p>
-    <p>Utstilling om Varangerhus og Ingermanland er også åpne. Salg av kaffe og kaker. Velkommen!</p>
-    <p xml:lang="swe">Utstillingsåpning av Ingermanland</p>
-    <p>Torsdag 8. mars inviterer Vadsø museum – Ruija kvenmuseum til åpning av utstillingen <span type="quote">«På dette viset dør et folk og slekter forsvinner»</span>. Utstillingen tar utgangspunkt i fotografier og nedtegnelser av folkelivsgransker Samuli Paulaharju (1875-1944) sin reise gjennom Ingermanland. Utstillingen er produsert av Aune Kämäräinen, Helena Miettinen og Marja Karhula som har reist i Paulaharjus fotspor.</p>
-    <p>Introduksjon ved Kaisa Maliniemi, avdelingsleder Vadsø museum – Ruija kvenmuseum.</p>
-    <p xml:lang="fin">Kveenipäivä järjestetään yhteistyönä Nord-Varanger kvenforeningin kanssa</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>311</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>varanger_museum_21.02.2018.docx</origFileName><parallel_text xml:lang="fkv" location="varanger_museum_21.02.2018.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Varanger museum / Vadsø museum – Ruija kvenmuseum</p>
+<p xml:lang="fkv">Oversatt til kvensk av Kainun institutti – Kvensk institutt 21.02.2018</p>
+<p xml:lang="fin">Kväänikansan päivän markkeeraus</p>
+<p xml:lang="fkv">Kväänikansan päivää markkeerathaan tuorestaina 15. marsikuuta Store studiossa, Vesisaaren museumissa (Vadsø museum - Ruija kvenmuseum). Ivar Johnsen Ruijan Kveeniliitosta toivottaa ensisti tervettulheeksi. Sen jälkhiin oon esitys <span type="quote">"Brev fra Elmine"</span> jossa oon myötä Katharine Jakola, Egil Hellesø ja Trygg Jakola. Esitys muistelee Elmine Harilasta, syntyny Enbuske, kuka 1800-luvula matkusti Tornionlakson Pellosta Ruijhaan ja asettui Annijokheen.</p>
+<p xml:lang="fkv">Kväänipäivän järjestethään yhessä Varenkin kvääniseuran kans.</p>
+<p xml:lang="fkv">Näyttelyt <em type="italic">Varenk </em><em type="italic">intalo </em>ja <em type="italic">Inker </em><em type="italic">inmaa </em>oon kans auki. Myyhään kaffia ja kakkoa. </p>
+<p xml:lang="fkv">Tervettulemaa!</p>
+<p xml:lang="fkv">Inkerinmaa-näyttelyn aukaisthaan</p>
+<p xml:lang="fkv">Tuorestaina 8. marsikuuta kuttuu Vadsø museum – Ruija kvenmuseum näyttelyn <span type="quote">«På dette viset dør et folk og slekter forsvinner»</span> aukaisemisheen. Näyttelyn perustanna oon kansantutkija Samuli Paulaharjun (1875-1944) kuvat ja ylöskirjotukset ko hän kulki läpitte Inkerinmaa. Näyttelyn oon produseeranheet Aune Kämäräinen, Helena Miettinen ja Marja Karhula kekkä oon matkustanheet Paulaharjun jalanjäljilä.</p>
+<p xml:lang="fkv">Johattelun pittää Kaisa Maliniemi, osastonjohtaja Vadsø museum – Ruija kvenmuseum.</p>
+<p xml:lang="vep">-----------------------------------------------------------------------------------------------</p>
+<p>Markering av Kvenfolkets dag</p>
+<p>Kvenfolkets dag markeres torsdag 15. mars i Store studio ved Vadsø museum - Ruija kvenmuseum. Ivar Johnsen fra Norske kveners forbund/Kveeniliito ønsker velkommen før fremføring av forestillingen <span type="quote">"Brev fra Elmine"</span> med Katharine Jakola, Egil Hellesø og Trygg Jakola. Forestillingen handler om Elmine Harila, født Enbuske som på 1800-tallet reiste fra Pello i Tornedalen til Ruija og bosatte seg i Vestre Jakobselv.</p>
+<p>Utstilling om Varangerhus og Ingermanland er også åpne. Salg av kaffe og kaker. Velkommen!</p>
+<p>Utstillingsåpning av Ingermanland</p>
+<p>Torsdag 8. mars inviterer Vadsø museum – Ruija kvenmuseum til åpning av utstillingen <span type="quote">«På dette viset dør et folk og slekter forsvinner»</span>. Utstillingen tar utgangspunkt i fotografier og nedtegnelser av folkelivsgransker Samuli Paulaharju (1875-1944) sin reise gjennom Ingermanland. Utstillingen er produsert av Aune Kämäräinen, Helena Miettinen og Marja Karhula som har reist i Paulaharjus fotspor.</p>
+<p>Introduksjon ved Kaisa Maliniemi, avdelingsleder Vadsø museum – Ruija kvenmuseum.</p>
+<p xml:lang="fin">Kveenipäivä järjestetään yhteistyönä Nord-Varanger kvenforeningin kanssa</p>
+</body></document>

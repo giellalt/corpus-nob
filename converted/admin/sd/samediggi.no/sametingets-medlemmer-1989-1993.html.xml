@@ -1,76 +1,47 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Sametingets medlemmer 1989-1993</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>206</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.sametinget.no/Politikk/Tidligere-sametingsrepresentanter/Sametingets-medlemmer-1989-1993</origFileName>
-    <parallel_text xml:lang="sme" location="samedikki-airasat-1989-1993.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sametingets medlemmer 1989-1993</p>
-    <p>Liste over Sametingets medlemmer i det 1. Sametinget, i perioden 1989-1993.</p>
-    <p>Andersen, Olav NSR/S</p>
-    <p>Aslaksen, John V. A</p>
-    <p xml:lang="sma">Bull, Ella Holm NSR/S, sametingsrådsmedlem</p>
-    <p xml:lang="nno">Bæivi, Mimmi Ap</p>
-    <p>Bårdsen, Svein NSR/S</p>
-    <p>Dikkanen, Olav NSR/S</p>
-    <p xml:lang="sme">Eira, John Henrik NSR/S</p>
-    <p>Eriksen, Ante M. F</p>
-    <p>Fjellheim, Ester NSR/S</p>
-    <p>Fossli, Inger-Ann NSR/S</p>
-    <p xml:lang="sme">Gaup, Mikkel A. F</p>
-    <p xml:lang="sme">Guhttor, Máret NSR/S</p>
-    <p xml:lang="sme">Guttorm, Hans NSR/S</p>
-    <p>Jernsletten, Johan NSR/S</p>
-    <p>Jernsletten, Nils NSR/S</p>
-    <p xml:lang="nno">Johansen, Inger-Anne Ap</p>
-    <p xml:lang="sma">Jonassen, Jarle NSR/S</p>
-    <p xml:lang="smj">Josefsen, Ruth Rye NSR/S</p>
-    <p>Juuso, Inger Katrine NSR/S</p>
-    <p>Larsen, Eilif O. Ap</p>
-    <p>Magga, Ole Henrik NSR/S, president</p>
-    <p xml:lang="nno">Mathisen, Magnhild Ap</p>
-    <p>Mathisen, Peder NSR/S</p>
-    <p>Mikkelsen, Lennart NSR/S, sametingsrådsmedlem</p>
-    <p>Nilsen, Lars N. NSR/S</p>
-    <p>Nordfjell, John F</p>
-    <p>Nystad, Alf E. NSR/S, sametingsrådsmedlem</p>
-    <p>Olli, Egil Ap</p>
-    <p>Pavall, Ing-Lill NSR/S</p>
-    <p>Pedersen, Aage NSR/S</p>
-    <p xml:lang="nno">*Pedersen, Steinar Ap</p>
-    <p xml:lang="nno">**Rolstad, Ingrid Ap</p>
-    <p xml:lang="sme">Sara, Johan Mikkel F</p>
-    <p xml:lang="sme">Sara, Mathis M. F</p>
-    <p>Simonsen, Ivar F</p>
-    <p xml:lang="sme">Storelv, Oddvin NSR/S</p>
-    <p xml:lang="sme">Thomassen, Haldis F</p>
-    <p>Trollvik, Mary NSR/S, visepresident</p>
-    <p xml:lang="nno">Vedhugnes, Josef Ap</p>
-    <p xml:lang="sme">Wernberg, Ingrid NSR/S</p>
-    <p>
-      <em type="italic">* Fra 12. november 1990 politisk rådgiver i Kommunaldepartementet </em>
-    </p>
-    <p>
-      <em type="italic">** Møter for Steinar Pedersen fra 12. november 1990. </em>
-    </p>
-    <p>
-      <em type="italic">Tegnforklaring for gruppene i Sametinget: </em>
-    </p>
-    <p>A – Andre, Ap – Norgga Bargiidbellodat/Det norske Arbeiderparti, F – Den frie gruppen, NSR – Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund, S – Samarbeidsgruppen NSR/S – Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund/Samarbeidsgruppen</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Sametingets medlemmer 1989-1993</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>206</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.sametinget.no/Politikk/Tidligere-sametingsrepresentanter/Sametingets-medlemmer-1989-1993</origFileName><parallel_text xml:lang="sme" location="samedikki-airasat-1989-1993.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sametingets medlemmer 1989-1993</p>
+<p>Liste over Sametingets medlemmer i det 1. Sametinget, i perioden 1989-1993.</p>
+<p>Andersen, Olav NSR/S</p>
+<p xml:lang="fin">Aslaksen, John V. A</p>
+<p xml:lang="sma">Bull, Ella Holm NSR/S, sametingsrådsmedlem</p>
+<p xml:lang="nno">Bæivi, Mimmi Ap</p>
+<p>Bårdsen, Svein NSR/S</p>
+<p>Dikkanen, Olav NSR/S</p>
+<p xml:lang="sme">Eira, John Henrik NSR/S</p>
+<p>Eriksen, Ante M. F</p>
+<p>Fjellheim, Ester NSR/S</p>
+<p>Fossli, Inger-Ann NSR/S</p>
+<p>Gaup, Mikkel A. F</p>
+<p xml:lang="sme">Guhttor, Máret NSR/S</p>
+<p xml:lang="sme">Guttorm, Hans NSR/S</p>
+<p>Jernsletten, Johan NSR/S</p>
+<p>Jernsletten, Nils NSR/S</p>
+<p xml:lang="nno">Johansen, Inger-Anne Ap</p>
+<p xml:lang="sme">Jonassen, Jarle NSR/S</p>
+<p xml:lang="smj">Josefsen, Ruth Rye NSR/S</p>
+<p>Juuso, Inger Katrine NSR/S</p>
+<p xml:lang="nno">Larsen, Eilif O. Ap</p>
+<p>Magga, Ole Henrik NSR/S, president</p>
+<p xml:lang="nno">Mathisen, Magnhild Ap</p>
+<p>Mathisen, Peder NSR/S</p>
+<p>Mikkelsen, Lennart NSR/S, sametingsrådsmedlem</p>
+<p>Nilsen, Lars N. NSR/S</p>
+<p>Nordfjell, John F</p>
+<p>Nystad, Alf E. NSR/S, sametingsrådsmedlem</p>
+<p>Olli, Egil Ap</p>
+<p>Pavall, Ing-Lill NSR/S</p>
+<p>Pedersen, Aage NSR/S</p>
+<p xml:lang="nno">*Pedersen, Steinar Ap</p>
+<p xml:lang="nno">**Rolstad, Ingrid Ap</p>
+<p xml:lang="sme">Sara, Johan Mikkel F</p>
+<p xml:lang="sme">Sara, Mathis M. F</p>
+<p>Simonsen, Ivar F</p>
+<p xml:lang="sme">Storelv, Oddvin NSR/S</p>
+<p xml:lang="sme">Thomassen, Haldis F</p>
+<p>Trollvik, Mary NSR/S, visepresident</p>
+<p xml:lang="nno">Vedhugnes, Josef Ap</p>
+<p xml:lang="sme">Wernberg, Ingrid NSR/S</p>
+<p><em type="italic">* Fra 12. november 1990 politisk rådgiver i Kommunaldepartementet </em></p>
+<p><em type="italic">** Møter for Steinar Pedersen fra 12. november 1990. </em></p>
+<p><em type="italic">Tegnforklaring for gruppene i Sametinget: </em></p>
+<p>A – Andre, Ap – Norgga Bargiidbellodat/Det norske Arbeiderparti, F – Den frie gruppen, NSR – Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund, S – Samarbeidsgruppen NSR/S – Norgga Sámiid Riikkasearvi/Norske Samers Riksforbund/Samarbeidsgruppen</p>
+</body></document>

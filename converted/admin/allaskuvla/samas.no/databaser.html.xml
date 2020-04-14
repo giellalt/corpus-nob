@@ -1,44 +1,22 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Databaser | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>140</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/biblioteket/databaser</origFileName>
-    <parallel_text xml:lang="sme" location="diehtovuorkkat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Databaser</p>
-    <p type="title" xml:lang="deu">Academic Search Elite (EBSCOhost)</p>
-    <p>Tverrfaglig tidsskriftdatabase med mer enn 2100 tidsskrifter i fulltekst. Tilgang fra høgskolens nettverk.</p>
-    <p type="title" xml:lang="eng">eBook Academic Collection (EBSCOhost)</p>
-    <p>Database med tilgang til e-bøker innen flere fagfelt. Tilgang fra høgskolen nettverk.</p>
-    <p xml:lang="eng">Web of Science</p>
-    <p>Artikkelbase med tilgang til referanselister samt mulighet til å se om artikkel er sitert av andre.</p>
-    <p type="title" xml:lang="nno">Brage</p>
-    <p>Brage er et åpent institusjonelt arkiv for faglig og forskningsrelatert materiale.</p>
-    <p type="title" xml:lang="isl">Idunn</p>
-    <p xml:lang="nno">Norske og nordiske fagtidsskrifter i fulltekst.</p>
-    <p type="title">Atekst Retriever</p>
-    <p>Søk etter tekst i norske aviser (også Avvir). Passord til siden fås ved henvendelse til biblioteket.</p>
-    <p type="title" xml:lang="kal">Norart</p>
-    <p>Referanser til artikler fra ca. 450 norske og nordiske tidsskrifter og årbøker.</p>
-    <p type="title" xml:lang="vep">Melinda</p>
-    <p>Sentral base for søk i finske bibliotek.</p>
-    <p type="title">Libris (Sverige)</p>
-    <p>Søketjeneste i svenske universitets-, høgskole- og forskningsbibliotek med et tillegg av tjuetalls folkebibliotek.</p>
-    <p type="title" xml:lang="eng">Directory of Open Access Journals (DOAJ)</p>
-    <p>Tverrfaglig database med gratis, vitenskapelige tidsskrifter i fulltekst.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Databaser | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>140</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/biblioteket/databaser</origFileName><parallel_text xml:lang="sme" location="diehtovuorkkat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Databaser</p>
+<p type="title" xml:lang="deu">Academic Search Elite (EBSCOhost)</p>
+<p>Tverrfaglig tidsskriftdatabase med mer enn 2100 tidsskrifter i fulltekst. Tilgang fra høgskolens nettverk.</p>
+<p type="title" xml:lang="eng">eBook Academic Collection (EBSCOhost)</p>
+<p>Database med tilgang til e-bøker innen flere fagfelt. Tilgang fra høgskolen nettverk.</p>
+<p xml:lang="eng">Web of Science</p>
+<p>Artikkelbase med tilgang til referanselister samt mulighet til å se om artikkel er sitert av andre.</p>
+<p type="title" xml:lang="nno">Brage</p>
+<p>Brage er et åpent institusjonelt arkiv for faglig og forskningsrelatert materiale.</p>
+<p type="title" xml:lang="isl">Idunn</p>
+<p xml:lang="nno">Norske og nordiske fagtidsskrifter i fulltekst.</p>
+<p type="title">Atekst Retriever</p>
+<p>Søk etter tekst i norske aviser (også Avvir). Passord til siden fås ved henvendelse til biblioteket.</p>
+<p type="title" xml:lang="kal">Norart</p>
+<p>Referanser til artikler fra ca. 450 norske og nordiske tidsskrifter og årbøker.</p>
+<p type="title" xml:lang="vep">Melinda</p>
+<p>Sentral base for søk i finske bibliotek.</p>
+<p type="title">Libris (Sverige)</p>
+<p>Søketjeneste i svenske universitets-, høgskole- og forskningsbibliotek med et tillegg av tjuetalls folkebibliotek.</p>
+<p type="title" xml:lang="eng">Directory of Open Access Journals (DOAJ)</p>
+<p>Tverrfaglig database med gratis, vitenskapelige tidsskrifter i fulltekst.</p>
+</body></document>

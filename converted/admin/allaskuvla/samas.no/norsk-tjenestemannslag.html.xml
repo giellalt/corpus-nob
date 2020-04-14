@@ -1,63 +1,26 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Norsk Tjenestemannslag | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>354</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/a/om-sa/fagforeninger/norsk-tjenestemannslag</origFileName>
-    <parallel_text xml:lang="eng" location="norwegian-civil-service-union.html"/>
-    <parallel_text xml:lang="sme" location="norsk-tjenestemannslag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="vep">NTL</p>
-    <p type="title" xml:lang="nno">TRYGGHET OG UTVIKLING PÅ JOBBEN ER VIKTIG FOR ALLE</p>
-    <p xml:lang="nno">Det er vår jobb å passe på at du opplever at du arbeider på en trygg arbeidsplass og i et godt arbeidsmiljø. Vi mener at du skal ha en lønn å leve av og en arbeidstid å leve med.</p>
-    <p xml:lang="eng">
-      <em type="italic">VI HAR ET STERKT SAMFUNNSENGASJEMENT </em>
-    </p>
-    <p>Vi er opptatt av at vi skal ha et godt og rettferdig samfunn for alle. Derfor deltar vi aktivt ved utvikling og fornyelse av velferdsstaten og har et internasjonalt samfunnsengasjement.</p>
-    <p type="title" xml:lang="nno">SAMMEN MED 900 000 ANDRE LO-MEDLEMMER STÅR DU STERKERE!</p>
-    <p xml:lang="isl">
-      <em type="italic">HVA ER NTL? </em>
-    </p>
-    <p>NTL er et fagforbund med ca 50.000 medlemmer. Mange av våre medlemmer jobber i staten. Vi har også medlemmer i en rekke andre virksomheter. Alle på arbeidsplassen kan være med, uavhengig av utdanning og stilling. NTL tilbyr også et eget medlemskap for student - er på høgskoler og universiteter.</p>
-    <p xml:lang="vep">
-      <em type="italic">HVA VIL NTL? </em>
-    </p>
-    <p>NTL jobber for en god virksomhets- og forvaltningsutvikling hvor kvalitet står i sentrum. Vi jobber også for en god personalpolitikk med mulighet for økt kompetanseutvikling. NTLs mål er en solidarisk lønns - politikk som også ivaretar de langtidsutdannede.</p>
-    <p xml:lang="nno">
-      <em type="italic">DU SLIPPER Å STÅ ALENE! </em>
-    </p>
-    <p>På arbeidsplassene rundt om i Norge finnes 3 000 NTL-tillitsvalgte. Disse er godt skolerte og kan bistå deg hvis det oppstår situasjoner på arbeidsplassen som du trenger hjelp til å håndtere.</p>
-    <p xml:lang="deu">
-      <em type="italic">EN MENGDE FORDELER SOM NTL-MEDLEM </em>
-    </p>
-    <list>
-      <p type="listitem">Sikkerhet rundt lønns- og arbeidsforhold</p>
-      <p type="listitem">Medbestemmelse og innflytelse på arbeidsplassen og arbeidsmiljøet ditt</p>
-      <p type="listitem" xml:lang="nno">Gratis kurs i regi av NTL, LO Stat og AOF</p>
-      <p type="listitem" xml:lang="dan">Gratis juridisk bistand om du får problemer i arbeidsforholdet</p>
-      <p type="listitem">Muligheter for å søke utdanningsstipend</p>
-      <p type="listitem" xml:lang="nno">Norges beste innboforsikring og gunstig reiseforsikring</p>
-      <p type="listitem">Tilbud om flere gunstige forsikringer og andre medlemsfordeler, se <em type="italic">www.lofavor.no </em></p>
-    </list>
-    <p xml:lang="nno">
-      <em type="italic">DET NYTTER Å VÆRE ORGANISERT! </em>
-    </p>
-    <p>Som NTL-medlem kan du være med i kampen for et bedre arbeidsliv sammen med 50 000 engasjerte kolleger. Meld deg inn i dag! www.ntl.no/innmelding</p>
-    <p type="title">VELKOMMEN TIL OSS!</p>
-    <p><em type="italic">NTL avd. Samisk høgskole har fra 2017 følgende styre: </em>Inger Marie Gaup - Leder Inga Berit Sara - Nestleder og kasserer Sara Anne Gaup - Sekretær </p>
-    <p><em type="italic">NTL 116-4 Avd. Samisk høgskole Kautokeino </em><em type="italic">Org. Nr. 996 835 618 </em>+47 78 44 84 00 </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Norsk Tjenestemannslag | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>354</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/a/om-sa/fagforeninger/norsk-tjenestemannslag</origFileName><parallel_text xml:lang="eng" location="norwegian-civil-service-union.html"/><parallel_text xml:lang="sme" location="norsk-tjenestemannslag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="vep">NTL</p>
+<p type="title" xml:lang="nno">TRYGGHET OG UTVIKLING PÅ JOBBEN ER VIKTIG FOR ALLE</p>
+<p xml:lang="nno">Det er vår jobb å passe på at du opplever at du arbeider på en trygg arbeidsplass og i et godt arbeidsmiljø. Vi mener at du skal ha en lønn å leve av og en arbeidstid å leve med.</p>
+<p xml:lang="eng"><em type="italic">VI HAR ET STERKT SAMFUNNSENGASJEMENT </em></p>
+<p>Vi er opptatt av at vi skal ha et godt og rettferdig samfunn for alle. Derfor deltar vi aktivt ved utvikling og fornyelse av velferdsstaten og har et internasjonalt samfunnsengasjement.</p>
+<p type="title" xml:lang="nno">SAMMEN MED 900 000 ANDRE LO-MEDLEMMER STÅR DU STERKERE!</p>
+<p xml:lang="isl"><em type="italic">HVA ER NTL? </em></p>
+<p>NTL er et fagforbund med ca 50.000 medlemmer. Mange av våre medlemmer jobber i staten. Vi har også medlemmer i en rekke andre virksomheter. Alle på arbeidsplassen kan være med, uavhengig av utdanning og stilling. NTL tilbyr også et eget medlemskap for student - er på høgskoler og universiteter.</p>
+<p xml:lang="vep"><em type="italic">HVA VIL NTL? </em></p>
+<p>NTL jobber for en god virksomhets- og forvaltningsutvikling hvor kvalitet står i sentrum. Vi jobber også for en god personalpolitikk med mulighet for økt kompetanseutvikling. NTLs mål er en solidarisk lønns - politikk som også ivaretar de langtidsutdannede.</p>
+<p xml:lang="nno"><em type="italic">DU SLIPPER Å STÅ ALENE! </em></p>
+<p>På arbeidsplassene rundt om i Norge finnes 3 000 NTL-tillitsvalgte. Disse er godt skolerte og kan bistå deg hvis det oppstår situasjoner på arbeidsplassen som du trenger hjelp til å håndtere.</p>
+<p xml:lang="deu"><em type="italic">EN MENGDE FORDELER SOM NTL-MEDLEM </em></p>
+<list><p type="listitem">Sikkerhet rundt lønns- og arbeidsforhold</p>
+<p type="listitem">Medbestemmelse og innflytelse på arbeidsplassen og arbeidsmiljøet ditt</p>
+<p type="listitem" xml:lang="nno">Gratis kurs i regi av NTL, LO Stat og AOF</p>
+<p type="listitem" xml:lang="dan">Gratis juridisk bistand om du får problemer i arbeidsforholdet</p>
+<p type="listitem">Muligheter for å søke utdanningsstipend</p>
+<p type="listitem" xml:lang="nno">Norges beste innboforsikring og gunstig reiseforsikring</p>
+<p type="listitem">Tilbud om flere gunstige forsikringer og andre medlemsfordeler, se <em type="italic">www.lofavor.no </em></p>
+</list><p xml:lang="nno"><em type="italic">DET NYTTER Å VÆRE ORGANISERT! </em></p>
+<p>Som NTL-medlem kan du være med i kampen for et bedre arbeidsliv sammen med 50 000 engasjerte kolleger. Meld deg inn i dag! www.ntl.no/innmelding</p>
+<p type="title">VELKOMMEN TIL OSS!</p>
+<p><em type="italic">NTL avd. Samisk høgskole har fra 2017 følgende styre: </em>Inger Marie Gaup - Leder Inga Berit Sara - Nestleder og kasserer Sara Anne Gaup - Sekretær </p>
+<p><em type="italic">NTL 116-4 Avd. Samisk høgskole Kautokeino </em><em type="italic">Org. Nr. 996 835 618 </em>+47 78 44 84 00 </p>
+</body></document>

@@ -1,66 +1,39 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2011</year>
-    <wordcount>935</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://skuvla.info/skolehist/ssh5-n.htm</origFileName>
-    <parallel_text xml:lang="sme" location="ssh5-s.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk skolehistorie 5</p>
-    <p>Sámegillii</p>
-    <p type="title">Samisk skolehistorie 5</p>
-    <p type="title">Sámi skuvlahistorjá 5</p>
-    <p type="title">Samien skuvle-vaajese 5</p>
-    <p type="title">Sámij skåvllåhiståvrrå 5</p>
-    <p>Omtaler og bokanmeldelser</p>
-    <p>
-      <em type="bold">Forsideillustrasjon: Bjørg Monsen Vars </em>
-    </p>
-    <p>Boka kan kjøpes i bokhandel eller bestilles fra forlaget Davvi Girji .</p>
-    <p type="title">Forord</p>
-    <p>I det femte bindet i bokverket Samisk skolehistorie starter vi med læreplanene som har ligget til grunn for opplæringa for samiske elever. Vi fortsetter med skolen under krigen og gjenreisinga, og deretter fortellinger og minner fra videregående skole og grunnskole.</p>
-    <p>Innholdet i boka blir også publisert på internett, på adressa http://skuvla.info . Internettutgava inneholder denne gangen mange artikler og dokumenter som ikke vi fikk plass til i papirutgava.</p>
-    <p>Boka er et resultat av samarbeid mellom mange personer og institusjoner. Vi vil takke alle som har bidratt; forfattere, fortellere, oversettere, korrekturlesere, fotografer, kunstnere, historiekonsulenter, ansatte i forlaget og personale ved bibliotek, arkiv, museum og skoler. Ikke minst vil vi takke de institusjonene som har bidratt til å finansiere utgivelsen. De er oppgitt sist i boka.</p>
-    <p>Etter planen skulle serien avsluttes med dette femte bindet. Men vi har fått og funnet så mye interessant stoff at vi utvider den med et bind til. Derfor vil vi fortsatt gjerne ha inn flere fortellinger og dokumenter. Om ikke vi får plass til alt i den siste boka, vil vi legge det ut i internettutgava, som vi vil fortsette å utvide etter at sjølve bokserien er avslutta.</p>
-    <p>Vi vil også gjerne ha korrigeringer og utfyllende opplysninger til dette bindet. Får vi det, vil vi gjøre endringer i internettutgava og i et eventuelt nytt opplag av boka.</p>
-    <p>Artikler, tips, kritikk og korrigeringer kan du sende til forlaget: Davvi Girji Postboks 13 N–9735 Kárášjohka davvi@davvi.no eller til leder for redaksjonskomiteen: sveilund@online.no</p>
-    <p>Med hilsen redaksjonskomiteen: Elfrid Boine, Siri Broch Johansen, Svein Lund, Siv Rasmussen</p>
-    <p type="title">Innhold</p>
-    <p>Innledning: Krig, gjenreising og læreplanstrid</p>
-    <p><em type="bold">LÆREPLANER </em>Johan Daniel Hætta og Svein Lund: Samene og det norske læreplanverket Nils M. P. Siri, Marit Sara Eira og Johan Mathis Eira: Hva reindriftsungdommen må kunne Ole Henrik Magga: Fortelling om problemene med <span type="quote">«Det samiske læreplanverket for den 10-årige grunnskolen»</span> Hanna Marit Jahr: Samiske læreplaner sett fra departementet Kjell Ballari: Læreplanstriden i Tana Ole Magnus Rapp: Små ord skaper stor strid i Tana Siri Broch Johansen: Den hete høsten – læreplanmotstanden i 1997 </p>
-    <p><em type="bold">KRIG OG GJENREISING </em><span type="quote">« – Bearbeide et gjenstridig folk»</span> – Skolen i Finnmark under krigen <span type="quote">«Ad skoleforhold for lappiske barn»</span> – Ei undersøking frå 1943 <span type="quote">«Tie og ta til takke»</span> – skoleforhold under evakuering og gjenreising </p>
-    <p><em type="bold">VIDEREGÅENDE OPPLÆRING </em>Ole Einar Olsen: Rektor ved videregående skole og fylkesskolesjef Klemet Isaksen Hætta: 25 år som potet Synnøve Solbakken-Härkönen: - Korleis endre skolen? Anny Balto Somby: Helsefagutdanninga ved samisk videregående skole Sverre Østerbøl: Stadig flere velger samisk i Kirkenes May-Synnøve Trosten: Med på å påvirke det samiske språkets framtid? Siri Broch Johansen: Samisk ved Nordreisa videregående skole Stig Riemmbe Gælok: Rettsforfølgd etter ønske om samiskopplæring </p>
-    <p><em type="bold">GAMVIK </em>Nervei: 12 års kamp for egen skole </p>
-    <p><em type="bold">PORSANGER </em>Knud Martin Ihle: Lappiske og kvænske Lærebøger Fra Kretsprotokollen i Brenna–Kjæs Skolepapirer på samisk i Porsanger Ellen Marie Amundsen: <span type="quote">«Bare skitten lappe unger»</span> Ivar Utsi: Den første i mi slekt som gikk på skole Hartvig Birkely: Skoleminner fra Lakselv og Indre Billefjord Anders Ole Hauglid: Om å møte Porsanger Halvard Nilsen: Fra Smørfjord skole Robert Greiner: Født etter krigen – oppvokst under Keegan </p>
-    <p><em type="bold">KAUTOKEINO </em>Ellen Marita H. Sara: Bestemors skoleopplevelser Nils Aslak og Margrete Skum: – Barna skulle få den utdanninga som vi ikke fikk Marie N. Logje Eira: Tolk mellom andre elever og husmora Inger Marie Sokki Hætta: Læring gjennom arbeid </p>
-    <p><em type="bold">SØR-TROMS / OFOTEN </em>Arthur Brox: Finneskolen i Astafjord Norvald Dyrvik: Trøssemark skolekrins Anna Johnsen Pedersen: Fra kommager til sko Ole Olsen: Rypesnarer for lærebøker Einar Nylund: Bjerkvik – et glemt samisk distrikt Lars Magne Andreassen: Skjult same i Narvik Einar Bergland: Skolefravær i gamle dager <span type="quote">«Nogle ord fra samefolkets forkjemper»</span> Ingolf Kvandahl: Min barneskole i Kalvås i Ballangen </p>
-    <p><em type="bold">SØRSAMISK </em>Betty Kappfjell: Frå <span type="quote">«finnunge»</span> på Trofors til internathusmor i Hattfjelldal Ellen Bull Jonassen: Første elevar på sameskolen i Snåsa </p>
-    <p type="title">Tilleggsmateriale</p>
-    <p>I arbeidet med Samisk skolehistorie 5 har vi kommet over noen tidligere trykte tekster og også fått inn nyskrevet materiale, som vi gjerne ville hatt med i boka. Men dessverre blei det ikke plass til alt, og noen artikler måtte vi enten presentere bare utdrag av i boka eller kutte helt ut. Vi har likevel lagt dette ut her, slik at leserne får tilgang på det i tilknytning til boka. Tilleggsmaterialet blir først lagt ut på originalspråket, noe kan bli oversatt etterhvert.</p>
-    <p><em type="bold">LÆREPLANER </em>Læseplan for Kautokeino folkeskole Christen Brygfjeld: ... noe gammelt opkok fra Stockfleths tid Christen Brygfjeld og Johan Støren: Leseplan for Kautokeino - Norsk eller kristendom? Mønsterplanen styrker fornorskings-linjen </p>
-    <p><em type="bold">KRIG OG GJENREISING </em>Avskrift av parole fra hjemmefronten 1944, <span type="quote">"Lovboka"</span> Lydolf Lind Meløy: Folkeskolen i Finnmark før, under og etter den siste verdskrigen Orvar Sæther: Landslederen uttaler seg Attest for nasjonal holdning </p>
-    <p><em type="bold">VIDEREGÅENDE OPPLÆRING </em>Ole Einar Olsen og Bernt M. Bongo: Kautokeino - den samiske yrkes- og husflidsskolen Emma Margret Skåden: Vi sama har rett til samisk opplæring Rolf Ante Hætta: Sámi joatkkaskuvlla muittut </p>
-    <p><em type="bold">GAMVIK </em>Helle Fermann Jensen: - Mange av de gamle frøknene hørte ikke hjemme på internatene </p>
-    <p><em type="bold">PORSANGER </em>Innberetning for Lakselv skoleinternat for året 1941/42 </p>
-    <p><em type="bold">KAUTOKEINO </em>Ottar Bondevik: Skriftemål fra Kautokeino folkeskole </p>
-    <p><em type="bold">SØR-TROMS / OFOTEN </em>Aslaug Olsen: Skole i Snubba Henrik Kvandahl: Om skoletilstanden i de blandete sprogdistrikter Henrik Kvandahl: Søknad om støtte fra Finnefondet </p>
-    <p><em type="bold">SØRSAMISK </em>Paul Kvitfjell: Alt på kommando Sameskolen til Snåsa Åke Jünge: Sameskole og samemisjon i Indre Namdalen for 250 år sidan Ove Pettersen: Sameskolen i Vefsn </p>
-    <p>Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie - felles startside</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>935</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://skuvla.info/skolehist/ssh5-n.htm</origFileName><parallel_text xml:lang="sme" location="ssh5-s.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk skolehistorie 5</p>
+<p>Sámegillii</p>
+<p type="title">Samisk skolehistorie 5</p>
+<p type="title">Sámi skuvlahistorjá 5</p>
+<p type="title">Samien skuvle-vaajese 5</p>
+<p type="title">Sámij skåvllåhiståvrrå 5</p>
+<p>Omtaler og bokanmeldelser</p>
+<p><em type="bold">Forsideillustrasjon: Bjørg Monsen Vars </em></p>
+<p>Boka kan kjøpes i bokhandel eller bestilles fra forlaget Davvi Girji .</p>
+<p type="title">Forord</p>
+<p>I det femte bindet i bokverket Samisk skolehistorie starter vi med læreplanene som har ligget til grunn for opplæringa for samiske elever. Vi fortsetter med skolen under krigen og gjenreisinga, og deretter fortellinger og minner fra videregående skole og grunnskole.</p>
+<p>Innholdet i boka blir også publisert på internett, på adressa http://skuvla.info . Internettutgava inneholder denne gangen mange artikler og dokumenter som ikke vi fikk plass til i papirutgava.</p>
+<p>Boka er et resultat av samarbeid mellom mange personer og institusjoner. Vi vil takke alle som har bidratt; forfattere, fortellere, oversettere, korrekturlesere, fotografer, kunstnere, historiekonsulenter, ansatte i forlaget og personale ved bibliotek, arkiv, museum og skoler. Ikke minst vil vi takke de institusjonene som har bidratt til å finansiere utgivelsen. De er oppgitt sist i boka.</p>
+<p>Etter planen skulle serien avsluttes med dette femte bindet. Men vi har fått og funnet så mye interessant stoff at vi utvider den med et bind til. Derfor vil vi fortsatt gjerne ha inn flere fortellinger og dokumenter. Om ikke vi får plass til alt i den siste boka, vil vi legge det ut i internettutgava, som vi vil fortsette å utvide etter at sjølve bokserien er avslutta.</p>
+<p>Vi vil også gjerne ha korrigeringer og utfyllende opplysninger til dette bindet. Får vi det, vil vi gjøre endringer i internettutgava og i et eventuelt nytt opplag av boka.</p>
+<p>Artikler, tips, kritikk og korrigeringer kan du sende til forlaget: Davvi Girji Postboks 13 N–9735 Kárášjohka davvi@davvi.no eller til leder for redaksjonskomiteen: sveilund@online.no</p>
+<p>Med hilsen redaksjonskomiteen: Elfrid Boine, Siri Broch Johansen, Svein Lund, Siv Rasmussen</p>
+<p type="title">Innhold</p>
+<p>Innledning: Krig, gjenreising og læreplanstrid</p>
+<p><em type="bold">LÆREPLANER </em>Johan Daniel Hætta og Svein Lund: Samene og det norske læreplanverket Nils M. P. Siri, Marit Sara Eira og Johan Mathis Eira: Hva reindriftsungdommen må kunne Ole Henrik Magga: Fortelling om problemene med <span type="quote">«Det samiske læreplanverket for den 10-årige grunnskolen»</span> Hanna Marit Jahr: Samiske læreplaner sett fra departementet Kjell Ballari: Læreplanstriden i Tana Ole Magnus Rapp: Små ord skaper stor strid i Tana Siri Broch Johansen: Den hete høsten – læreplanmotstanden i 1997 </p>
+<p><em type="bold">KRIG OG GJENREISING </em><span type="quote">« – Bearbeide et gjenstridig folk»</span> – Skolen i Finnmark under krigen <span type="quote">«Ad skoleforhold for lappiske barn»</span> – Ei undersøking frå 1943 <span type="quote">«Tie og ta til takke»</span> – skoleforhold under evakuering og gjenreising </p>
+<p><em type="bold">VIDEREGÅENDE OPPLÆRING </em>Ole Einar Olsen: Rektor ved videregående skole og fylkesskolesjef Klemet Isaksen Hætta: 25 år som potet Synnøve Solbakken-Härkönen: - Korleis endre skolen? Anny Balto Somby: Helsefagutdanninga ved samisk videregående skole Sverre Østerbøl: Stadig flere velger samisk i Kirkenes May-Synnøve Trosten: Med på å påvirke det samiske språkets framtid? Siri Broch Johansen: Samisk ved Nordreisa videregående skole Stig Riemmbe Gælok: Rettsforfølgd etter ønske om samiskopplæring </p>
+<p><em type="bold">GAMVIK </em>Nervei: 12 års kamp for egen skole </p>
+<p><em type="bold">PORSANGER </em>Knud Martin Ihle: Lappiske og kvænske Lærebøger Fra Kretsprotokollen i Brenna–Kjæs Skolepapirer på samisk i Porsanger Ellen Marie Amundsen: <span type="quote">«Bare skitten lappe unger»</span> Ivar Utsi: Den første i mi slekt som gikk på skole Hartvig Birkely: Skoleminner fra Lakselv og Indre Billefjord Anders Ole Hauglid: Om å møte Porsanger Halvard Nilsen: Fra Smørfjord skole Robert Greiner: Født etter krigen – oppvokst under Keegan </p>
+<p><em type="bold">KAUTOKEINO </em>Ellen Marita H. Sara: Bestemors skoleopplevelser Nils Aslak og Margrete Skum: – Barna skulle få den utdanninga som vi ikke fikk Marie N. Logje Eira: Tolk mellom andre elever og husmora Inger Marie Sokki Hætta: Læring gjennom arbeid </p>
+<p><em type="bold">SØR-TROMS / OFOTEN </em>Arthur Brox: Finneskolen i Astafjord Norvald Dyrvik: Trøssemark skolekrins Anna Johnsen Pedersen: Fra kommager til sko Ole Olsen: Rypesnarer for lærebøker Einar Nylund: Bjerkvik – et glemt samisk distrikt Lars Magne Andreassen: Skjult same i Narvik Einar Bergland: Skolefravær i gamle dager <span type="quote">«Nogle ord fra samefolkets forkjemper»</span> Ingolf Kvandahl: Min barneskole i Kalvås i Ballangen </p>
+<p><em type="bold">SØRSAMISK </em>Betty Kappfjell: Frå <span type="quote">«finnunge»</span> på Trofors til internathusmor i Hattfjelldal Ellen Bull Jonassen: Første elevar på sameskolen i Snåsa </p>
+<p type="title">Tilleggsmateriale</p>
+<p>I arbeidet med Samisk skolehistorie 5 har vi kommet over noen tidligere trykte tekster og også fått inn nyskrevet materiale, som vi gjerne ville hatt med i boka. Men dessverre blei det ikke plass til alt, og noen artikler måtte vi enten presentere bare utdrag av i boka eller kutte helt ut. Vi har likevel lagt dette ut her, slik at leserne får tilgang på det i tilknytning til boka. Tilleggsmaterialet blir først lagt ut på originalspråket, noe kan bli oversatt etterhvert.</p>
+<p><em type="bold">LÆREPLANER </em>Læseplan for Kautokeino folkeskole Christen Brygfjeld: ... noe gammelt opkok fra Stockfleths tid Christen Brygfjeld og Johan Støren: Leseplan for Kautokeino - Norsk eller kristendom? Mønsterplanen styrker fornorskings-linjen </p>
+<p><em type="bold">KRIG OG GJENREISING </em>Avskrift av parole fra hjemmefronten 1944, <span type="quote">"Lovboka"</span> Lydolf Lind Meløy: Folkeskolen i Finnmark før, under og etter den siste verdskrigen Orvar Sæther: Landslederen uttaler seg Attest for nasjonal holdning </p>
+<p><em type="bold">VIDEREGÅENDE OPPLÆRING </em>Ole Einar Olsen og Bernt M. Bongo: Kautokeino - den samiske yrkes- og husflidsskolen Emma Margret Skåden: Vi sama har rett til samisk opplæring Rolf Ante Hætta: Sámi joatkkaskuvlla muittut </p>
+<p><em type="bold">GAMVIK </em>Helle Fermann Jensen: - Mange av de gamle frøknene hørte ikke hjemme på internatene </p>
+<p><em type="bold">PORSANGER </em>Innberetning for Lakselv skoleinternat for året 1941/42 </p>
+<p><em type="bold">KAUTOKEINO </em>Ottar Bondevik: Skriftemål fra Kautokeino folkeskole </p>
+<p><em type="bold">SØR-TROMS / OFOTEN </em>Aslaug Olsen: Skole i Snubba Henrik Kvandahl: Om skoletilstanden i de blandete sprogdistrikter Henrik Kvandahl: Søknad om støtte fra Finnefondet </p>
+<p><em type="bold">SØRSAMISK </em>Paul Kvitfjell: Alt på kommando Sameskolen til Snåsa Åke Jünge: Sameskole og samemisjon i Indre Namdalen for 250 år sidan Ove Pettersen: Sameskolen i Vefsn </p>
+<p>Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie - felles startside</p>
+</body></document>

@@ -1,262 +1,190 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Møteprotokoll</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Carl Erik" lastname="Moksness" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Sámediggi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1096</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/>
-    <origFileName>pfk_2_04.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Plan- og finanskomiteen</p>
-    <p>Utskrift av møtebok 2/04</p>
-    <p>Tid: 20.09.2004 - 21.09.2004</p>
-    <p>Sted: Karasjok</p>
-    <p>Saksliste:</p>
-    <p>Saksnr.</p>
-    <p>Sakstittel</p>
-    <p>004/04</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>005/04</p>
-    <p>Valg av saks- og skyggeordfører</p>
-    <p>006/04</p>
-    <p>Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner</p>
-    <p>007/04</p>
-    <p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
-    <p>Tilstede:</p>
-    <p>1. Leder Birger Nymo, Norske Samers Riksforbunds sametingsgruppe</p>
-    <p>2. Nestleder Magnhild Mathisen, Arbeiderpartiets sametingsgruppe</p>
-    <p>3. Medlem Olav Dikkanen, Norske Samers Riksforbunds sametingsgruppe</p>
-    <p>4. Medlem Isak Mathis O. Hætta, Fastboendes liste</p>
-    <p>5. Medlem Per Bjørn Lakselvnes, Norske Samers Riksforbunds sametingsgruppe</p>
-    <p>6. Medlem Ragnhild Nystad, Norske Samers Riksforbunds sametingsgruppe, tiltrådte møtet 20.09.04 kl. 15.20</p>
-    <p>7. Varamedlem Berit Alette Utsi Eira, Arbeiderpartiets sametingsgruppe</p>
-    <p>8. Varamedlem Per Edvin Varsi, Arbeiderpartiets sametingsgruppe</p>
-    <p>9. Medlem Geir Tommy Pedersen, Norske Samers Riksforbunds sametingsgruppe</p>
-    <p>10. Medlem Roger Pedersen, Samenes Valgforbund, tiltrådte møtet 20.09.04 kl. 15.20</p>
-    <p>11. Medlem Randi A. Skum, Norske Samers Riksforbunds sametingsgruppe, tiltrådte møtet 20.09.04 kl. 14.30</p>
-    <p>12. Medlem Terje Tretnes, Samefolkets parti, tiltrådte møtet 20.09.04 kl. 15.20</p>
-    <p>13. Varamedlem Olaug Eliassen, Arbeiderpartiets sametingsgruppe</p>
-    <p>Rådsmedlem Johan Mikkel Sara orienterte komiteen 20.09.04 kl 14.30-14.55</p>
-    <p>President Sven Roald Nystø orienterte komiteen 21.09.04 kl. 13.55-14.10</p>
-    <p>Forfall:</p>
-    <p>Medlem Egil Olli, Arbeiderpartiets sametingsgruppe</p>
-    <p>Medlem Willy Ørnebakk, Arbeiderpartiets sametingsgruppe</p>
-    <p>Medlem Willy Olsen, Arbeiderpartiets sametingsgruppe</p>
-    <p>Fra administrasjonen</p>
-    <p>Tove Anti</p>
-    <p>Carl Erik Moksness</p>
-    <p>
-      <em type="bold">Originalspråk: Norsk </em>
-    </p>
-    <p>Sak 04/04</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>Arkiv</p>
-    <p>SF-</p>
-    <p>Arkivsaksnr.</p>
-    <p>2004004168</p>
-    <p>Forslag til vedtak:</p>
-    <list>
-      <p type="listitem">Godkjenning av innkallingen</p>
-    </list>
-    <p>Innkallingen av 27.08.04 ble enstemmig godkjent</p>
-    <list>
-      <p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
-    </list>
-    <p>Tilleggssaker:</p>
-    <p>Vedtak:</p>
-    <list>
-      <p type="listitem">Godkjenning av innkallingen</p>
-    </list>
-    <p>Innkallingen av 27.08.04 ble enstemmig godkjent</p>
-    <list>
-      <p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
-    </list>
-    <p>Tilleggssaker:</p>
-    <p>Valg av saksordførere og skyggeordførere</p>
-    <p>Vedtak</p>
-    <p>Referat fra telefonmøte 15.09.04:</p>
-    <p>Sak 39/04 Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner:</p>
-    <list>
-      <p type="listitem">Olav Dikkanen er ordfører for sak 39/04</p>
-      <p type="listitem">Roger Pedersen er skyggesaksordfører for sak 39/04</p>
-    </list>
-    <p>Sak 40/04 Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
-    <list>
-      <p type="listitem">Isak Mathis O. Hætta er orfører for sak 40/04</p>
-      <p type="listitem">Per Bjørn Lakselvnes er skyggesaksordfører for sak 40/04</p>
-    </list>
-    <p>
-      <em type="bold">Originalspråk: norsk </em>
-    </p>
-    <p>Sak 39/04</p>
-    <p>Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner</p>
-    <p>Arkiv</p>
-    <p>SF-421</p>
-    <p>Arkivsaksnr.</p>
-    <p>2004000434</p>
-    <p>Vedlegg</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>Sametingsrådets sak R058/04</p>
-    <p>Jaruma rapport: Er det grunnlag for en næringsavtale for duodji?</p>
-    <p>Jaruma rápoarta: Lea go govttolaš duodjái ásahit ealáhusšiehtadusa?</p>
-    <p>15.03.04</p>
-    <p>Boazosápmelaččaid Riikkasearvi - Norske reindriftsamers Landsforbund</p>
-    <p>Høringsuttalelse</p>
-    <p>22.03.04</p>
-    <p>Duojáriid ealáhussearvi - Næringsorganisasjon for duodjeprodusenter</p>
-    <p>Høringsuttalelse</p>
-    <p>18.03.04</p>
-    <p>Tromssa Sámiid duodji</p>
-    <p>Høringsuttalelse</p>
-    <p>23.03.04</p>
-    <p>Manndalen Husflidslag - Olmmáivákki duodjesearvi</p>
-    <p>Høringsuttalelse</p>
-    <p>25.03.04</p>
-    <p>Sámi Allaskuvla - Samisk Høgskole</p>
-    <p>Høringsuttalelse</p>
-    <p>23.03.04</p>
-    <p>Duodjeinstituhtta</p>
-    <p>Høringsuttalelse</p>
-    <p>10</p>
-    <p>17.06.04</p>
-    <p>Sámiid Duodji - Riikasearvi sámi duojis - Landsorganisasjonen for samisk husflid</p>
-    <p>Høringsuttalelse</p>
-    <p>Behandlinger</p>
-    <p>Politisk nivå</p>
-    <p>Møtedato</p>
-    <p>Saksnr.</p>
-    <p>Sametingsrådet</p>
-    <p>19.08.2004</p>
-    <p>R 058/04</p>
-    <p>Nærings- og kulturkomiteen</p>
-    <p>21.09.2004</p>
-    <p>Sametingets plenum</p>
-    <p>24.09.2004</p>
-    <p>39/04</p>
-    <p>Sametingsrådets forslag til vedtak overfor komiteen:</p>
-    <p>Sametinget vil ha en grundigere vurdering av grunnlaget for å etablere en næringsavtale for duodji. I påvente av dette arbeidet forlenges ordningen med driftstilskudd til næringskombinasjoner ut 2005 med de samme kriteriene som gjelder for 2004.</p>
-    <p>Forslag fra komiteen</p>
-    <p><em type="bold">Komiteens flertall, medlemmene Birger Nymo, Olav Dikkanen, Ragnhild Nystad, Per Bjørn Lakselvnes, Geir Tommy Pedersen og Randi A. Skum fra Norske Samers Riksforbunds sametingsgruppe, medlemmene Magnhild Mathisen, Berit Alette Utsi Eira, Per Edvin Varsi og Olaug Eliassen fra Arbeiderpartiets sametingsgruppe, medlem Terje Tretnes fra Samefolkets liste og medlem Roger Pedersen fra Samenes Valgforbund </em>fremmet følgende forslag: </p>
-    <p>Forslag 1:</p>
-    <p>Komiteen går inn for å forlenge ordningen med driftstilskudd til næringskombinasjoner ut 2005 med de samme kriteriene som gjelder for 2004. En næringsavtale bør tas sikte på å være fremforhandlet i løpet av første halvdel av 2005.</p>
-    <p>Komiteen ser veldig positivt på at Sametingsrådet har igangsatt arbeidet med å etablere en næringsavtale for duodjiutøvere, og ber om at Sametingsrådet snarest tar kontakt med bl.a. Duojáriid Ealáhussearvi og Landsorganisasjonen Sámiid Duodji, samt institusjoner og organisasjoner som berøres av en næringsavtale, med tanke på en fremdriftsplan for det videre arbeidet.</p>
-    <p>Denne saken er meget omfattende og en grundig gjennomgang av prinsippene vedrørende næringsavtale er nødvendig. Det vises til høringsuttalelsene til Jaruma rapporten hvor de fleste er positive til en næringsavtale.</p>
-    <p>Komiteen ser saken som svært viktig og ber Sametingsrådet arbeide videre med forslaget, og avklare de prinsipielle sidene før saken kan fremmes for plenum. Komiteen forutsetter at saken fremmes for plenum senest i februar 2005.</p>
-    <p>
-      <em type="bold">Komiteens mindretall, medlem Isak Mathis O. Hætta, Fastboendes liste </em>
-      <em type="bold">fremmet følgende forslag: </em>
-    </p>
-    <p>Forslag 2:</p>
-    <p>Komiteen mener at sametinget burde kommet frem til en bedre ordning for de som driver med samisk håndverk, det er meget beklagelig at saken ikke er prioritert fra rådets side.</p>
-    <p>Den overgangsordningen som sametinget vedtok, skulle bare virke et år. Etter et år skulle næringsavtalen være på plass. Videre mener Komiteen at situasjonen uholdbar for samiske håndverkere/Duodji utøvere, og duodji utøvere er blitt skadelidende p.g.a. sametingets håndtering av saken.</p>
-    <p>Samisk duodji er en så viktig del av samisk kultur/levesett og identitet, og derfor mener komiteen at man er nødt til å gi tilskudd etter retningslinjer fra forrige periode spesielt siden man ikke har komme fram til næringsavtale.</p>
-    <p>Derfor foreslår komiteen at:</p>
-    <p>Man bruker de retningslinjene som var i forrige periode som tilskudds grunnlag i år (dvs 50 %) inntil næringsavtalen er på plass.</p>
-    <p>
-      <em type="bold">Originalspråk: norsk </em>
-    </p>
-    <p>Sak 40/04</p>
-    <p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
-    <p>Arkiv</p>
-    <p>SF-99, ENAVN-</p>
-    <p>Arkivsaksnr.</p>
-    <p>2004001914</p>
-    <p>Vedlegg:</p>
-    <p>Nr</p>
-    <p>Dok. dato</p>
-    <p>Avsender/Mottaker</p>
-    <p>Tittel</p>
-    <p>Sametingsrådets sak R 062/4</p>
-    <p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
-    <p>Sak 18/04 Sametingsrådets kulturpolitiske redegjørelse</p>
-    <p>Underskrevet avtaletekst</p>
-    <p>Behandlinger</p>
-    <p>Politisk nivå</p>
-    <p>Møtedato</p>
-    <p>Saksnr.</p>
-    <p>Sametingsrådet</p>
-    <p>19.08.2004</p>
-    <p>R 62/04</p>
-    <p>Nærings- og kulturkomiteen</p>
-    <p>21.09.2004</p>
-    <p>Sametingets plenum</p>
-    <p>24.09.2004</p>
-    <p>40/04</p>
-    <p>Sametingsrådets forslag til innstilling overfor komiteen:</p>
-    <p>Sametinget gir tilslutning til fremlagt avtaletekst til Hovedavtale og til Kunstneravtale mellom Sametinget og samiske kulturorganisasjoner ved Samisk kunstnerråd, undertegnet 19. august 2004.</p>
-    <p>Merknader fra komiteen</p>
-    <p><em type="bold">Komiteen </em>er tilfreds med at det nå er inngått en samarbeidsavtale mellom kunstnerorganisasjonene og Sametinget. </p>
-    <p>Komiteen ber Sametingsrådet arbeide for at Sametinget i et framtidig perspektiv legger til grunn en målsetting om at det framtidige kultursamarbeidet utvikles i et grenseoverskridende perspektiv, hvor en av målsetningene bør være å utvikle en felles allsamisk kulturplan.</p>
-    <p>
-      <em type="bold">Sametingets plenum - Utskrift av møtebok */*side </em>
-      <em type="bold">10 </em>
-      <em type="bold">av </em>
-      <em type="bold">10 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em>
-      <em type="bold">4 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>10</p>
-    <p>
-      <em type="bold">*råd/styre* - Utskrift av møtebok */*side </em>
-      <em type="bold">1 </em>
-      <em type="bold">av </em>
-      <em type="bold">10 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em>
-      <em type="bold">10 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Møteprotokoll</title><genre code="admin"/><author><person firstname="Carl Erik" lastname="Moksness" sex="m" born="" nationality="nor"/></author><year>2005</year><publChannel><publication><publisher>Sámediggi</publisher></publication></publChannel><wordcount>1096</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/><origFileName>pfk_2_04.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Plan- og finanskomiteen</p>
+<p>Utskrift av møtebok 2/04</p>
+<p>Tid: 20.09.2004 - 21.09.2004</p>
+<p>Sted: Karasjok</p>
+<p>Saksliste:</p>
+<p>Saksnr.</p>
+<p>Sakstittel</p>
+<p>004/04</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>005/04</p>
+<p>Valg av saks- og skyggeordfører</p>
+<p>006/04</p>
+<p>Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner</p>
+<p>007/04</p>
+<p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
+<p>Tilstede:</p>
+<p>1. Leder Birger Nymo, Norske Samers Riksforbunds sametingsgruppe</p>
+<p>2. Nestleder Magnhild Mathisen, Arbeiderpartiets sametingsgruppe</p>
+<p>3. Medlem Olav Dikkanen, Norske Samers Riksforbunds sametingsgruppe</p>
+<p>4. Medlem Isak Mathis O. Hætta, Fastboendes liste</p>
+<p>5. Medlem Per Bjørn Lakselvnes, Norske Samers Riksforbunds sametingsgruppe</p>
+<p>6. Medlem Ragnhild Nystad, Norske Samers Riksforbunds sametingsgruppe, tiltrådte møtet 20.09.04 kl. 15.20</p>
+<p>7. Varamedlem Berit Alette Utsi Eira, Arbeiderpartiets sametingsgruppe</p>
+<p>8. Varamedlem Per Edvin Varsi, Arbeiderpartiets sametingsgruppe</p>
+<p>9. Medlem Geir Tommy Pedersen, Norske Samers Riksforbunds sametingsgruppe</p>
+<p>10. Medlem Roger Pedersen, Samenes Valgforbund, tiltrådte møtet 20.09.04 kl. 15.20</p>
+<p>11. Medlem Randi A. Skum, Norske Samers Riksforbunds sametingsgruppe, tiltrådte møtet 20.09.04 kl. 14.30</p>
+<p>12. Medlem Terje Tretnes, Samefolkets parti, tiltrådte møtet 20.09.04 kl. 15.20</p>
+<p>13. Varamedlem Olaug Eliassen, Arbeiderpartiets sametingsgruppe</p>
+<p>Rådsmedlem Johan Mikkel Sara orienterte komiteen 20.09.04 kl 14.30-14.55</p>
+<p>President Sven Roald Nystø orienterte komiteen 21.09.04 kl. 13.55-14.10</p>
+<p>Forfall:</p>
+<p>Medlem Egil Olli, Arbeiderpartiets sametingsgruppe</p>
+<p>Medlem Willy Ørnebakk, Arbeiderpartiets sametingsgruppe</p>
+<p>Medlem Willy Olsen, Arbeiderpartiets sametingsgruppe</p>
+<p>Fra administrasjonen</p>
+<p>Tove Anti</p>
+<p>Carl Erik Moksness</p>
+<p><em type="bold">Originalspråk: Norsk </em></p>
+<p>Sak 04/04</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>Arkiv</p>
+<p>SF-</p>
+<p>Arkivsaksnr.</p>
+<p>2004004168</p>
+<p>Forslag til vedtak:</p>
+<list><p type="listitem">Godkjenning av innkallingen</p>
+</list><p>Innkallingen av 27.08.04 ble enstemmig godkjent</p>
+<list><p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
+</list><p>Tilleggssaker:</p>
+<p>Vedtak:</p>
+<list><p type="listitem">Godkjenning av innkallingen</p>
+</list><p>Innkallingen av 27.08.04 ble enstemmig godkjent</p>
+<list><p type="listitem">Sakslisten som fulgte innkallingen ble enstemmig godkjent, med følgende endringer:</p>
+</list><p>Tilleggssaker:</p>
+<p>Valg av saksordførere og skyggeordførere</p>
+<p>Vedtak</p>
+<p>Referat fra telefonmøte 15.09.04:</p>
+<p>Sak 39/04 Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner:</p>
+<list><p type="listitem">Olav Dikkanen er ordfører for sak 39/04</p>
+<p type="listitem">Roger Pedersen er skyggesaksordfører for sak 39/04</p>
+</list><p>Sak 40/04 Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
+<list><p type="listitem">Isak Mathis O. Hætta er orfører for sak 40/04</p>
+<p type="listitem">Per Bjørn Lakselvnes er skyggesaksordfører for sak 40/04</p>
+</list><p><em type="bold">Originalspråk: norsk </em></p>
+<p>Sak 39/04</p>
+<p>Næringsavtale for duodji - forlengelse av driftsstøtteordninger for næringskombinasjoner</p>
+<p>Arkiv</p>
+<p>SF-421</p>
+<p>Arkivsaksnr.</p>
+<p>2004000434</p>
+<p>Vedlegg</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>Sametingsrådets sak R058/04</p>
+<p>Jaruma rapport: Er det grunnlag for en næringsavtale for duodji?</p>
+<p>Jaruma rápoarta: Lea go govttolaš duodjái ásahit ealáhusšiehtadusa?</p>
+<p>15.03.04</p>
+<p>Boazosápmelaččaid Riikkasearvi - Norske reindriftsamers Landsforbund</p>
+<p>Høringsuttalelse</p>
+<p>22.03.04</p>
+<p>Duojáriid ealáhussearvi - Næringsorganisasjon for duodjeprodusenter</p>
+<p>Høringsuttalelse</p>
+<p>18.03.04</p>
+<p>Tromssa Sámiid duodji</p>
+<p>Høringsuttalelse</p>
+<p>23.03.04</p>
+<p>Manndalen Husflidslag - Olmmáivákki duodjesearvi</p>
+<p>Høringsuttalelse</p>
+<p>25.03.04</p>
+<p>Sámi Allaskuvla - Samisk Høgskole</p>
+<p>Høringsuttalelse</p>
+<p>23.03.04</p>
+<p>Duodjeinstituhtta</p>
+<p>Høringsuttalelse</p>
+<p>10</p>
+<p>17.06.04</p>
+<p>Sámiid Duodji - Riikasearvi sámi duojis - Landsorganisasjonen for samisk husflid</p>
+<p>Høringsuttalelse</p>
+<p>Behandlinger</p>
+<p>Politisk nivå</p>
+<p>Møtedato</p>
+<p>Saksnr.</p>
+<p>Sametingsrådet</p>
+<p>19.08.2004</p>
+<p>R 058/04</p>
+<p>Nærings- og kulturkomiteen</p>
+<p>21.09.2004</p>
+<p>Sametingets plenum</p>
+<p>24.09.2004</p>
+<p>39/04</p>
+<p>Sametingsrådets forslag til vedtak overfor komiteen:</p>
+<p>Sametinget vil ha en grundigere vurdering av grunnlaget for å etablere en næringsavtale for duodji. I påvente av dette arbeidet forlenges ordningen med driftstilskudd til næringskombinasjoner ut 2005 med de samme kriteriene som gjelder for 2004.</p>
+<p>Forslag fra komiteen</p>
+<p><em type="bold">Komiteens flertall, medlemmene Birger Nymo, Olav Dikkanen, Ragnhild Nystad, Per Bjørn Lakselvnes, Geir Tommy Pedersen og Randi A. Skum fra Norske Samers Riksforbunds sametingsgruppe, medlemmene Magnhild Mathisen, Berit Alette Utsi Eira, Per Edvin Varsi og Olaug Eliassen fra Arbeiderpartiets sametingsgruppe, medlem Terje Tretnes fra Samefolkets liste og medlem Roger Pedersen fra Samenes Valgforbund </em>fremmet følgende forslag: </p>
+<p>Forslag 1:</p>
+<p>Komiteen går inn for å forlenge ordningen med driftstilskudd til næringskombinasjoner ut 2005 med de samme kriteriene som gjelder for 2004. En næringsavtale bør tas sikte på å være fremforhandlet i løpet av første halvdel av 2005.</p>
+<p>Komiteen ser veldig positivt på at Sametingsrådet har igangsatt arbeidet med å etablere en næringsavtale for duodjiutøvere, og ber om at Sametingsrådet snarest tar kontakt med bl.a. Duojáriid Ealáhussearvi og Landsorganisasjonen Sámiid Duodji, samt institusjoner og organisasjoner som berøres av en næringsavtale, med tanke på en fremdriftsplan for det videre arbeidet.</p>
+<p>Denne saken er meget omfattende og en grundig gjennomgang av prinsippene vedrørende næringsavtale er nødvendig. Det vises til høringsuttalelsene til Jaruma rapporten hvor de fleste er positive til en næringsavtale.</p>
+<p>Komiteen ser saken som svært viktig og ber Sametingsrådet arbeide videre med forslaget, og avklare de prinsipielle sidene før saken kan fremmes for plenum. Komiteen forutsetter at saken fremmes for plenum senest i februar 2005.</p>
+<p><em type="bold">Komiteens mindretall, medlem Isak Mathis O. Hætta, Fastboendes liste </em><em type="bold">fremmet følgende forslag: </em></p>
+<p>Forslag 2:</p>
+<p>Komiteen mener at sametinget burde kommet frem til en bedre ordning for de som driver med samisk håndverk, det er meget beklagelig at saken ikke er prioritert fra rådets side.</p>
+<p>Den overgangsordningen som sametinget vedtok, skulle bare virke et år. Etter et år skulle næringsavtalen være på plass. Videre mener Komiteen at situasjonen uholdbar for samiske håndverkere/Duodji utøvere, og duodji utøvere er blitt skadelidende p.g.a. sametingets håndtering av saken.</p>
+<p>Samisk duodji er en så viktig del av samisk kultur/levesett og identitet, og derfor mener komiteen at man er nødt til å gi tilskudd etter retningslinjer fra forrige periode spesielt siden man ikke har komme fram til næringsavtale.</p>
+<p>Derfor foreslår komiteen at:</p>
+<p>Man bruker de retningslinjene som var i forrige periode som tilskudds grunnlag i år (dvs 50 %) inntil næringsavtalen er på plass.</p>
+<p><em type="bold">Originalspråk: norsk </em></p>
+<p>Sak 40/04</p>
+<p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
+<p>Arkiv</p>
+<p>SF-99, ENAVN-</p>
+<p>Arkivsaksnr.</p>
+<p>2004001914</p>
+<p>Vedlegg:</p>
+<p>Nr</p>
+<p>Dok. dato</p>
+<p>Avsender/Mottaker</p>
+<p>Tittel</p>
+<p>Sametingsrådets sak R 062/4</p>
+<p>Samarbeidsavtale mellom Sametinget og samiske kunstnerorganisasjoner</p>
+<p>Sak 18/04 Sametingsrådets kulturpolitiske redegjørelse</p>
+<p>Underskrevet avtaletekst</p>
+<p>Behandlinger</p>
+<p>Politisk nivå</p>
+<p>Møtedato</p>
+<p>Saksnr.</p>
+<p>Sametingsrådet</p>
+<p>19.08.2004</p>
+<p>R 62/04</p>
+<p>Nærings- og kulturkomiteen</p>
+<p>21.09.2004</p>
+<p>Sametingets plenum</p>
+<p>24.09.2004</p>
+<p>40/04</p>
+<p>Sametingsrådets forslag til innstilling overfor komiteen:</p>
+<p>Sametinget gir tilslutning til fremlagt avtaletekst til Hovedavtale og til Kunstneravtale mellom Sametinget og samiske kulturorganisasjoner ved Samisk kunstnerråd, undertegnet 19. august 2004.</p>
+<p>Merknader fra komiteen</p>
+<p><em type="bold">Komiteen </em>er tilfreds med at det nå er inngått en samarbeidsavtale mellom kunstnerorganisasjonene og Sametinget. </p>
+<p>Komiteen ber Sametingsrådet arbeide for at Sametinget i et framtidig perspektiv legger til grunn en målsetting om at det framtidige kultursamarbeidet utvikles i et grenseoverskridende perspektiv, hvor en av målsetningene bør være å utvikle en felles allsamisk kulturplan.</p>
+<p><em type="bold">Sametingets plenum - Utskrift av møtebok */*side </em><em type="bold">10 </em><em type="bold">av </em><em type="bold">10 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em><em type="bold">4 </em><em type="bold">sider </em></p>
+<p>10</p>
+<p><em type="bold">*råd/styre* - Utskrift av møtebok */*side </em><em type="bold">1 </em><em type="bold">av </em><em type="bold">10 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em><em type="bold">10 </em><em type="bold">sider </em></p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+</body></document>

@@ -1,99 +1,59 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Barnevernet - til barnets beste</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2001</year>
-    <wordcount>1960</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.kvalsund.kommune.no/getfile.php/331971.747.puvurcfswp/Barnevernet.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="informasjon_om_barnevernet_pa_samisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Barnevernet - til barnets beste </em>
-    </p>
-    <p>I Norge er omsorg og oppdragelse av barn i første rekke foreldrenes ansvar. Men noen ganger kan foreldre trenge hjelp til å ta vare på barnet sitt. Foreldre kan ha behov for hjelp i korte eller lengre perioder fordi de selv er i en vanskelig livssituasjon. De klarer kanskje ikke alene å gi barnet den omsorg og trygghet det har behov for. Da har barnevernet et ansvar for å hjelpe til.</p>
-    <p><em type="italic"><span type="quote">"Vi snakket om at vi kanskje burde kontakte barnevernet, men vi følte oss rådville og hjelpeløse"</span>.</em> </p>
-    <p>Slike uttalelser hører vi i blant. Som mor eller far er du kanskje redd for å kontakte barnevernet. Som slektning, nabo, lærer eller lignende er du kanskje usikker og redd for å blande deg inn, og engstelig for det personlige ubehaget en melding til barnevernet kan føre til. Resultatet er at mange barn og foreldre ikke får den hjelp og støtte de trenger, og som de har krav på etter loven.</p>
-    <p>Er du i tvil bør du derfor kontakte barnevernet. Barnevernet skal i første rekke gi hjelp i hjemmet slik at barn og foreldre skal kunne fortsette å leve sammen. Mange omsorgsovertakelser kunne ha vært unngått hvis foreldrene selv eller andre hadde kontaktet barnevernet tidligere.</p>
-    <p>Videre vil vi gi kortfattet innblikk i hva barnevernet er, og hva det kan gjøre til barnets beste.</p>
-    <p>
-      <em type="bold">Hva er barnevernet?  </em>
-    </p>
-    <p>Barnevernet skal være en garanti for at alle barn og unge sikres omsorg, trygghet og utviklingsmuligheter. Barnevernets ansvar og arbeidsoppgaver finner vi i barnevernloven (Lov av 17. juli 1992 nr. 100). Det er barneverntjenesten i kommunen som har ansvaret for barnevernet.</p>
-    <p>Barnevernet har som sin spesielle oppgave å ta vare på de mest utsatte barna. Det skal beskytte barn mot omsorgssvikt og motvirke at barn lider fysisk og psykisk overlast. Blir barnevernet kjent med slike forhold, har det en lovbestemt plikt til straks å undersøke hvordan barnet har det, og om nødvendig sette i verk tiltak. Etter loven har barneverntjenesten plikt til å gjennomgå en melding snarest, og hvis nødvendig, gjennomføre en nærmere undersøkelse senest innen 3 mnd. Dersom det er nødvendig å sette i verk tiltak, skal dette gjøres senest 6 uker etter at undersøkelsen er avsluttet. Fordi lovgiverne ser det som så viktig at barna får hjelp i tide, kan kommunen ilegges mulkt dersom fristene ikke overholdes.</p>
-    <p>Barnevernets arbeid er en blanding av støtte og kontroll. Det skal gi hjelp og støtte for at hjemmet skal kunne makte sitt oppdrageransvar, men det har også plikt til å gripe inn hvis dette ikke nytter.</p>
-    <p>Barnevernet har hovedansvaret for barn som lider overlast. Det betyr ikke at barnevernet skal være alene om oppgaven. Andre offentlige etater og fagpersoner har også et ansvar for at barn og familier som trenger det, kan få hjelp. Også privatpersoner har et ansvar. Dette er ikke et juridisk ansvar, men det moralske ansvaret vi alle har for våre medmennesker, og særlig barna.</p>
-    <p>
-      <em type="bold">Melde saker til barnevernet </em>
-    </p>
-    <p>Mange barnevernsaker starter med at foreldrene selv tar kontakt. Men barneverntjenesten får også mange henvendelser fra offentlige ansatte, naboer, familier og andre som er bekymret for barnet. Alle meldinger blir vurdert, og hvis det er grunn til det, blir de undersøkt nærmere. Familien det gjelder blir varslet om at barneverntjenesten arbeider med saken, og om mulig prøver man å få i stand et samarbeid.</p>
-    <p>Privatpersoner kan melde saker anonymt til barnevernet. Det vil si at de varsler barnevernet om at de er bekymret for et barn, men ønsker at deres egen identitet holdes hemmelig for den familien det gjelder. Sett fra barnevernets side er det ønskelig at folk står fram. Men selv om folk vil være anonyme, har barnevernet plikt til å undersøke saken på vanlig måte. Barnevernet kan gi anonymitet, men det kan ikke frita folk for vitneplikt når saken skal behandles i fylkesnemnda eller i domstolene. Da må det oppgis hvem som har meldt saken.</p>
-    <p>Offentlig myndigheter og ansatte i for eksempel skolen, barnehagen og PP-tjenesten har en selvstendig plikt til å prøve å rette på forholdene hvis et barn har det vanskelig. Hvis offentlige myndigheter har mistanke om at et barn blir utsatt for en alvorlig omsorgssvikt eller mishandling, har de plikt til å melde saken videre til barnevernet. Offentlige ansatte kan ikke kreve anonymitet.</p>
-    <p>Etter loven har også personer og institusjoner med yrkesmessig taushetsplikt plikt til å melde fra til barnevernet i slike tilfelle. Dette gjelder for eksempel leger, psykologer, helsesøstre, jordmødre o.s.v.</p>
-    <p>Problemene er som oftest store når en sak meldes til barnevernet. Oppgavene blir gjerne å forhindre at skadene på barnet skal bli enda større. I de fleste saker hadde det derfor vært en fordel om barnevernet var blitt kontaktet tidligere.</p>
-    <p>
-      <em type="bold">Hvordan arbeider barnevernet? </em>
-    </p>
-    <p>Når barnevernet får en melding om at det er begrunnet mistanke om omsorgssvikt, plikter det å undersøke forholdet best mulig. Man tar i første omgang kontakt med den som har meldt ifra, for å få nærmere kjennskap til hva som ligger til grunn for henvendelsen. Er det for eksempel noe melderen selv har opplevd, eller er det noe han har hørt av andre? Foreligger det konkrete observasjoner, eller bygger meldingen på vurdering?</p>
-    <p>Barnevernet ber gjerne om tillatelse til å vise til henvendelsen. Hvis melderen trekker meldingen tilbake, vurderer barnevernet om saken likevel skal følges opp. Dersom barnevernet velger å gå inn i saken, innkalles gjerne foreldrene til samtale på kontoret, eller man sender varsel om hjemmebesøk. Er det små barn, snakker man med foreldre alene. Hvis det gjelder større barn og ungdom, er de som oftest med på samtalen.</p>
-    <p>Foreldrene blir orientert om meldingen og får eventuelt lese den. Deretter snakker man om innholdet. Barnevernet opplyser at det vil ta kontakt med andre instanser som kjenner barnet, som for eksempel helsestasjon, barnehage, skole, PP-tjeneste og lignende. Foreldrene får også vite om sine rettigheter, for eksempel at de har innsynsrett i rapporten.</p>
-    <p>
-      <em type="bold">Når skal barnevernet gripe inn ? </em>
-    </p>
-    <p>I Norge er omsorg for og oppdragelse av barn foreldrenes rett og plikt. Med barn mener vi personer under 18 år. Skal en offentlig instans gripe inn i dette forholdet, må den ha hjemmel i lov. Barnevernloven og forvaltningsloven inneholder de viktigste bestemmelsene om dette. Alle slike bestemmelser er imidlertid forbundet med utstrakt bruk av skjønn.</p>
-    <p>Barnevernet har plikt til å gripe inn når:</p>
-    <p type="listitem">•  Barnet på grunn av forholdene i hjemmet eller av andre grunner har et særlig behov for et hjelpetiltak.</p>
-    <p type="listitem">•  Det er alvorlige mangler ved den daglige omsorgen som barnet får, eller alvorlige mangler ved den personlige kontakt og trygghet som det trenger etter sin alder og utvikling.</p>
-    <p type="listitem">•  Foreldrene ikke sørger for at et sykt, eller<em type="italic"> </em>funksjonshemmet eller spesielt hjelpetrengende barn får dekket sitt særlig behov for behandling og opplæring.  </p>
-    <p type="listitem">•  Barnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmet.</p>
-    <p type="listitem">•  Det er overveiende sannsynlighet for at barnets helse eller utvikling kan bli alvorlig skadd fordi foreldrene er ute av stand til å ta tilstrekkelig ansvar for barnet.</p>
-    <p type="listitem">•  Barnet har alvorlige atferdsvansker:</p>
-    <p><em type="italic">- ved vedvarende eller gjentatt kriminalitet - ved vedvarende misbruk av rusmidler eller på annen måte.</em> </p>
-    <p>Blir barnevernet kjent med slike forhold, har det plikt til straks å foreta nærmere undersøkelser.</p>
-    <p>
-      <em type="bold">Til barnets beste </em>
-    </p>
-    <p>Et overordnet prinsipp for barnevernets arbeide er at tiltak som settes i verk skal være til barnets beste. Hvis barn og foreldre har motstridene interesser, er det derfor hensynet til barnet som er avgjørende. Dette er nedfelt i barnevernloven. Barnevernet skal likevel alltid prøve å få foreldrene til å samarbeide om de tiltak som planlegges.</p>
-    <p>
-      <em type="bold">Forebyggende tiltak </em>
-    </p>
-    <p>Som regel er det best for barnet å vokse opp i sitt eget hjem. Barnevernet skal derfor alltid først vurdere om det er mulig å hjelpe familien til å fungere bedre ved forebyggende tiltak. Forebyggende tiltak kan være:</p>
-    <p type="listitem">•  Råd og veiledning til familien, for eksempel ved å oppnevne tilsynsfører</p>
-    <p type="listitem">•  Økonomisk støtte til barnet slik at barnet kan delta i fritidsaktiviteter o.l</p>
-    <p type="listitem">•  Avlastning ved å gi hjemmehjelp eller plass i barnehage, skolefritidsordning og lignende</p>
-    <p type="listitem">•  Støttekontakt</p>
-    <p type="listitem">•  Besøkshjem</p>
-    <p>Andre tiltak/metoder tar utgangspunkt i at hjelpen til barnet eller den unge i større grad skal skje med støtte og aktiv deltakelse fra foreldrene. Dette kan være deltakelse i mødregrupper eller selvhjelpsgrupper, bruk av Marte-Meo metoden i familien, tilbud om Home-Start Familiekontakten, Familierådslag, eller Intensiv familieveiledning.</p>
-    <p>Det kan i særskilte tilfeller være nødvendig å gjennomføre tiltak mot foreldrenes samtykke.</p>
-    <p>
-      <em type="bold">Plassering utenfor hjemmet </em>
-    </p>
-    <p>Å overta omsorgen for et barn skjer bare i helt spesielle tilfeller. Omsorgsovertakelse er et svært alvorlig skritt å ta både overfor barnet og foreldrene. Det må derfor foreligge vektige grunner før man fatter slike vedtak.</p>
-    <p>Det er først hvis forebyggende tiltak i hjemmet ikke fører fram at det kan være aktuelt å plassere barnet utenfor hjemmet. Dette kan skje med eller uten foreldrenes samtykke. Er det mistanke om grov omsorgssvikt eller mishandling, kan man imidlertid fjerne barnet med det samme. Men dette er et unntak, hovedregelen er at man først skal prøve med tiltak i samarbeid med foreldrene.</p>
-    <p>Hvis barneverntjenesten og foreldrene er enig om at barnet for en tid skal plasseres utenfor hjemmet, kan det skje uten at barneverntjenesten formelt sett overtar omsorgen for barnet.</p>
-    <p>Sak om omsorgsovertakelse skal forberedes av barneverntjenesten i kommunen og avgjøres av den statlig uavhengige fylkesnemnda. Fylkesnemnda har 5 medlemmer med en jurist som leder. Foreldrene har da rett til å være til stede under behandlingen, men ikke under selve rådslagningen og stemmegivningen.</p>
-    <p>Ved omsorgsovertakelse blir det også vurdert om barnet skal plasseres i fosterhjem eller i barne- eller ungdomshjem. Ved kortere opphold der en regner med at barnet snart skal tilbake til sin egen familie, velger man gjerne institusjon.</p>
-    <p>Er det snakk om langvarige opphold, velges som regel fosterhjem, fordi dette ligner mest på en vanlig familie. Når fosterhjemsplassering skjer etter vedtak om omsorgsovertakelse følger det av barnevernloven at fosterhjemmet skal velges ut fra hensyn til barnets egenart og behov for omsorg og opplæring i et stabilt miljø. Dette innebærer at barnet bør plasseres i et miljø der barnet kan bevare og videreutvikle sin egen identitet for eksempel når det gjelder spørsmål om etnisitet og religion.</p>
-    <p>Dersom kontakten med foreldrene kan skade barnet, kan fylkesnemnda også bestemme at barnets adresse skal holdes hemmelig for foreldrene.</p>
-    <p>Når et barn har vist alvorlige atferdsvansker kan fylkesnemnda vedta at barnet skal plasseres i institusjon for behandling. Slik plassering kan foretas med eller uten barnets eller foreldrenes samtykke.</p>
-    <p>Hvis det er til barnets beste, er det åpnet for at det i enkelte tilfeller også kan vedtas at foreldrene kan fratas foreldreansvaret for barnet.</p>
-    <p>
-      <em type="bold">Partsrettigheter - klagerett  </em>
-    </p>
-    <p>Alle vedtak som fattes av barneverntjenesten i kommunen kan klages til fylkesmannen. Dette gjelder først og fremst vedtak om hjelpetiltak (forebyggende tiltak). Etter forvaltningsloven er klagefristen på barneverntjenestens vedtak 3 uker. Vedtak som fattes av fylkesnemnda (for eksempel omsorgsovertakelse) kan bringes inn for herreds- eller byretten til rettslig overprøving. Fristen for å bringe inn saken for retten er 2 måneder.</p>
-    <p>De som er parter i saken har klagerett og søksmålsrett. Dette gjelder først og fremst barnets foreldre når de har del i foreldreansvaret for barnet. Barnet selv er også part i saken når det er over 15 år og forstår hva saken gjelder. Også når barnet er under 15 år kan han/hun i særlige tilfelle gis partsrettigheter av fylkesnemnda. Hvis saken gjelder tiltak for barn med atferdsvansker regnes barnet som part uansett alder.</p>
-    <p>Selv om barnet ikke er part i saken skal barnet informeres og tas med på råd når barnets utvikling, modning og sakens art tilsier det. Når barnet har fylt 12 år skal det alltid få si sin mening før det blir gjort vedtak om plassering i fosterhjem, institusjon eller senere flytting.</p>
-    <p>En advokat kan representere de som er parter i saken. Det offentlige dekker advokatutgiftene for sakene som behandles i fylkesnemnda og ved eventuell senere behandling ved domstolene.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Barnevernet - til barnets beste</title><genre code="facta"/><author><unknown/></author><year>2001</year><wordcount>1960</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.kvalsund.kommune.no/getfile.php/331971.747.puvurcfswp/Barnevernet.pdf</origFileName><parallel_text xml:lang="sme" location="informasjon_om_barnevernet_pa_samisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Barnevernet - til barnets beste </em></p>
+<p>I Norge er omsorg og oppdragelse av barn i første rekke foreldrenes ansvar. Men noen ganger kan foreldre trenge hjelp til å ta vare på barnet sitt. Foreldre kan ha behov for hjelp i korte eller lengre perioder fordi de selv er i en vanskelig livssituasjon. De klarer kanskje ikke alene å gi barnet den omsorg og trygghet det har behov for. Da har barnevernet et ansvar for å hjelpe til.</p>
+<p><em type="italic"><span type="quote">"Vi snakket om at vi kanskje burde kontakte barnevernet, men vi følte oss rådville og hjelpeløse"</span>.</em> </p>
+<p>Slike uttalelser hører vi i blant. Som mor eller far er du kanskje redd for å kontakte barnevernet. Som slektning, nabo, lærer eller lignende er du kanskje usikker og redd for å blande deg inn, og engstelig for det personlige ubehaget en melding til barnevernet kan føre til. Resultatet er at mange barn og foreldre ikke får den hjelp og støtte de trenger, og som de har krav på etter loven.</p>
+<p>Er du i tvil bør du derfor kontakte barnevernet. Barnevernet skal i første rekke gi hjelp i hjemmet slik at barn og foreldre skal kunne fortsette å leve sammen. Mange omsorgsovertakelser kunne ha vært unngått hvis foreldrene selv eller andre hadde kontaktet barnevernet tidligere.</p>
+<p>Videre vil vi gi kortfattet innblikk i hva barnevernet er, og hva det kan gjøre til barnets beste.</p>
+<p><em type="bold">Hva er barnevernet?  </em></p>
+<p>Barnevernet skal være en garanti for at alle barn og unge sikres omsorg, trygghet og utviklingsmuligheter. Barnevernets ansvar og arbeidsoppgaver finner vi i barnevernloven (Lov av 17. juli 1992 nr. 100). Det er barneverntjenesten i kommunen som har ansvaret for barnevernet.</p>
+<p>Barnevernet har som sin spesielle oppgave å ta vare på de mest utsatte barna. Det skal beskytte barn mot omsorgssvikt og motvirke at barn lider fysisk og psykisk overlast. Blir barnevernet kjent med slike forhold, har det en lovbestemt plikt til straks å undersøke hvordan barnet har det, og om nødvendig sette i verk tiltak. Etter loven har barneverntjenesten plikt til å gjennomgå en melding snarest, og hvis nødvendig, gjennomføre en nærmere undersøkelse senest innen 3 mnd. Dersom det er nødvendig å sette i verk tiltak, skal dette gjøres senest 6 uker etter at undersøkelsen er avsluttet. Fordi lovgiverne ser det som så viktig at barna får hjelp i tide, kan kommunen ilegges mulkt dersom fristene ikke overholdes.</p>
+<p>Barnevernets arbeid er en blanding av støtte og kontroll. Det skal gi hjelp og støtte for at hjemmet skal kunne makte sitt oppdrageransvar, men det har også plikt til å gripe inn hvis dette ikke nytter.</p>
+<p>Barnevernet har hovedansvaret for barn som lider overlast. Det betyr ikke at barnevernet skal være alene om oppgaven. Andre offentlige etater og fagpersoner har også et ansvar for at barn og familier som trenger det, kan få hjelp. Også privatpersoner har et ansvar. Dette er ikke et juridisk ansvar, men det moralske ansvaret vi alle har for våre medmennesker, og særlig barna.</p>
+<p><em type="bold">Melde saker til barnevernet </em></p>
+<p>Mange barnevernsaker starter med at foreldrene selv tar kontakt. Men barneverntjenesten får også mange henvendelser fra offentlige ansatte, naboer, familier og andre som er bekymret for barnet. Alle meldinger blir vurdert, og hvis det er grunn til det, blir de undersøkt nærmere. Familien det gjelder blir varslet om at barneverntjenesten arbeider med saken, og om mulig prøver man å få i stand et samarbeid.</p>
+<p>Privatpersoner kan melde saker anonymt til barnevernet. Det vil si at de varsler barnevernet om at de er bekymret for et barn, men ønsker at deres egen identitet holdes hemmelig for den familien det gjelder. Sett fra barnevernets side er det ønskelig at folk står fram. Men selv om folk vil være anonyme, har barnevernet plikt til å undersøke saken på vanlig måte. Barnevernet kan gi anonymitet, men det kan ikke frita folk for vitneplikt når saken skal behandles i fylkesnemnda eller i domstolene. Da må det oppgis hvem som har meldt saken.</p>
+<p>Offentlig myndigheter og ansatte i for eksempel skolen, barnehagen og PP-tjenesten har en selvstendig plikt til å prøve å rette på forholdene hvis et barn har det vanskelig. Hvis offentlige myndigheter har mistanke om at et barn blir utsatt for en alvorlig omsorgssvikt eller mishandling, har de plikt til å melde saken videre til barnevernet. Offentlige ansatte kan ikke kreve anonymitet.</p>
+<p>Etter loven har også personer og institusjoner med yrkesmessig taushetsplikt plikt til å melde fra til barnevernet i slike tilfelle. Dette gjelder for eksempel leger, psykologer, helsesøstre, jordmødre o.s.v.</p>
+<p>Problemene er som oftest store når en sak meldes til barnevernet. Oppgavene blir gjerne å forhindre at skadene på barnet skal bli enda større. I de fleste saker hadde det derfor vært en fordel om barnevernet var blitt kontaktet tidligere.</p>
+<p><em type="bold">Hvordan arbeider barnevernet? </em></p>
+<p>Når barnevernet får en melding om at det er begrunnet mistanke om omsorgssvikt, plikter det å undersøke forholdet best mulig. Man tar i første omgang kontakt med den som har meldt ifra, for å få nærmere kjennskap til hva som ligger til grunn for henvendelsen. Er det for eksempel noe melderen selv har opplevd, eller er det noe han har hørt av andre? Foreligger det konkrete observasjoner, eller bygger meldingen på vurdering?</p>
+<p>Barnevernet ber gjerne om tillatelse til å vise til henvendelsen. Hvis melderen trekker meldingen tilbake, vurderer barnevernet om saken likevel skal følges opp. Dersom barnevernet velger å gå inn i saken, innkalles gjerne foreldrene til samtale på kontoret, eller man sender varsel om hjemmebesøk. Er det små barn, snakker man med foreldre alene. Hvis det gjelder større barn og ungdom, er de som oftest med på samtalen.</p>
+<p>Foreldrene blir orientert om meldingen og får eventuelt lese den. Deretter snakker man om innholdet. Barnevernet opplyser at det vil ta kontakt med andre instanser som kjenner barnet, som for eksempel helsestasjon, barnehage, skole, PP-tjeneste og lignende. Foreldrene får også vite om sine rettigheter, for eksempel at de har innsynsrett i rapporten.</p>
+<p><em type="bold">Når skal barnevernet gripe inn ? </em></p>
+<p>I Norge er omsorg for og oppdragelse av barn foreldrenes rett og plikt. Med barn mener vi personer under 18 år. Skal en offentlig instans gripe inn i dette forholdet, må den ha hjemmel i lov. Barnevernloven og forvaltningsloven inneholder de viktigste bestemmelsene om dette. Alle slike bestemmelser er imidlertid forbundet med utstrakt bruk av skjønn.</p>
+<p>Barnevernet har plikt til å gripe inn når:</p>
+<p type="listitem">•  Barnet på grunn av forholdene i hjemmet eller av andre grunner har et særlig behov for et hjelpetiltak.</p>
+<p type="listitem">•  Det er alvorlige mangler ved den daglige omsorgen som barnet får, eller alvorlige mangler ved den personlige kontakt og trygghet som det trenger etter sin alder og utvikling.</p>
+<p type="listitem">•  Foreldrene ikke sørger for at et sykt, eller<em type="italic"> </em>funksjonshemmet eller spesielt hjelpetrengende barn får dekket sitt særlig behov for behandling og opplæring.  </p>
+<p type="listitem">•  Barnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmet.</p>
+<p type="listitem">•  Det er overveiende sannsynlighet for at barnets helse eller utvikling kan bli alvorlig skadd fordi foreldrene er ute av stand til å ta tilstrekkelig ansvar for barnet.</p>
+<p type="listitem">•  Barnet har alvorlige atferdsvansker:</p>
+<p><em type="italic">- ved vedvarende eller gjentatt kriminalitet - ved vedvarende misbruk av rusmidler eller på annen måte.</em> </p>
+<p>Blir barnevernet kjent med slike forhold, har det plikt til straks å foreta nærmere undersøkelser.</p>
+<p><em type="bold">Til barnets beste </em></p>
+<p>Et overordnet prinsipp for barnevernets arbeide er at tiltak som settes i verk skal være til barnets beste. Hvis barn og foreldre har motstridene interesser, er det derfor hensynet til barnet som er avgjørende. Dette er nedfelt i barnevernloven. Barnevernet skal likevel alltid prøve å få foreldrene til å samarbeide om de tiltak som planlegges.</p>
+<p><em type="bold">Forebyggende tiltak </em></p>
+<p>Som regel er det best for barnet å vokse opp i sitt eget hjem. Barnevernet skal derfor alltid først vurdere om det er mulig å hjelpe familien til å fungere bedre ved forebyggende tiltak. Forebyggende tiltak kan være:</p>
+<p type="listitem">•  Råd og veiledning til familien, for eksempel ved å oppnevne tilsynsfører</p>
+<p type="listitem">•  Økonomisk støtte til barnet slik at barnet kan delta i fritidsaktiviteter o.l</p>
+<p type="listitem">•  Avlastning ved å gi hjemmehjelp eller plass i barnehage, skolefritidsordning og lignende</p>
+<p type="listitem">•  Støttekontakt</p>
+<p type="listitem">•  Besøkshjem</p>
+<p>Andre tiltak/metoder tar utgangspunkt i at hjelpen til barnet eller den unge i større grad skal skje med støtte og aktiv deltakelse fra foreldrene. Dette kan være deltakelse i mødregrupper eller selvhjelpsgrupper, bruk av Marte-Meo metoden i familien, tilbud om Home-Start Familiekontakten, Familierådslag, eller Intensiv familieveiledning.</p>
+<p>Det kan i særskilte tilfeller være nødvendig å gjennomføre tiltak mot foreldrenes samtykke.</p>
+<p><em type="bold">Plassering utenfor hjemmet </em></p>
+<p>Å overta omsorgen for et barn skjer bare i helt spesielle tilfeller. Omsorgsovertakelse er et svært alvorlig skritt å ta både overfor barnet og foreldrene. Det må derfor foreligge vektige grunner før man fatter slike vedtak.</p>
+<p>Det er først hvis forebyggende tiltak i hjemmet ikke fører fram at det kan være aktuelt å plassere barnet utenfor hjemmet. Dette kan skje med eller uten foreldrenes samtykke. Er det mistanke om grov omsorgssvikt eller mishandling, kan man imidlertid fjerne barnet med det samme. Men dette er et unntak, hovedregelen er at man først skal prøve med tiltak i samarbeid med foreldrene.</p>
+<p>Hvis barneverntjenesten og foreldrene er enig om at barnet for en tid skal plasseres utenfor hjemmet, kan det skje uten at barneverntjenesten formelt sett overtar omsorgen for barnet.</p>
+<p>Sak om omsorgsovertakelse skal forberedes av barneverntjenesten i kommunen og avgjøres av den statlig uavhengige fylkesnemnda. Fylkesnemnda har 5 medlemmer med en jurist som leder. Foreldrene har da rett til å være til stede under behandlingen, men ikke under selve rådslagningen og stemmegivningen.</p>
+<p>Ved omsorgsovertakelse blir det også vurdert om barnet skal plasseres i fosterhjem eller i barne- eller ungdomshjem. Ved kortere opphold der en regner med at barnet snart skal tilbake til sin egen familie, velger man gjerne institusjon.</p>
+<p>Er det snakk om langvarige opphold, velges som regel fosterhjem, fordi dette ligner mest på en vanlig familie. Når fosterhjemsplassering skjer etter vedtak om omsorgsovertakelse følger det av barnevernloven at fosterhjemmet skal velges ut fra hensyn til barnets egenart og behov for omsorg og opplæring i et stabilt miljø. Dette innebærer at barnet bør plasseres i et miljø der barnet kan bevare og videreutvikle sin egen identitet for eksempel når det gjelder spørsmål om etnisitet og religion.</p>
+<p>Dersom kontakten med foreldrene kan skade barnet, kan fylkesnemnda også bestemme at barnets adresse skal holdes hemmelig for foreldrene.</p>
+<p>Når et barn har vist alvorlige atferdsvansker kan fylkesnemnda vedta at barnet skal plasseres i institusjon for behandling. Slik plassering kan foretas med eller uten barnets eller foreldrenes samtykke.</p>
+<p>Hvis det er til barnets beste, er det åpnet for at det i enkelte tilfeller også kan vedtas at foreldrene kan fratas foreldreansvaret for barnet.</p>
+<p><em type="bold">Partsrettigheter - klagerett  </em></p>
+<p>Alle vedtak som fattes av barneverntjenesten i kommunen kan klages til fylkesmannen. Dette gjelder først og fremst vedtak om hjelpetiltak (forebyggende tiltak). Etter forvaltningsloven er klagefristen på barneverntjenestens vedtak 3 uker. Vedtak som fattes av fylkesnemnda (for eksempel omsorgsovertakelse) kan bringes inn for herreds- eller byretten til rettslig overprøving. Fristen for å bringe inn saken for retten er 2 måneder.</p>
+<p>De som er parter i saken har klagerett og søksmålsrett. Dette gjelder først og fremst barnets foreldre når de har del i foreldreansvaret for barnet. Barnet selv er også part i saken når det er over 15 år og forstår hva saken gjelder. Også når barnet er under 15 år kan han/hun i særlige tilfelle gis partsrettigheter av fylkesnemnda. Hvis saken gjelder tiltak for barn med atferdsvansker regnes barnet som part uansett alder.</p>
+<p>Selv om barnet ikke er part i saken skal barnet informeres og tas med på råd når barnets utvikling, modning og sakens art tilsier det. Når barnet har fylt 12 år skal det alltid få si sin mening før det blir gjort vedtak om plassering i fosterhjem, institusjon eller senere flytting.</p>
+<p>En advokat kan representere de som er parter i saken. Det offentlige dekker advokatutgiftene for sakene som behandles i fylkesnemnda og ved eventuell senere behandling ved domstolene.</p>
+</body></document>

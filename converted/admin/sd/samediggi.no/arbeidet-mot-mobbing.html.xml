@@ -1,60 +1,28 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>304</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Opplaering/Arbeidet-mot-mobbing</origFileName>
-    <parallel_text xml:lang="sma" location="manifeeste-irhkemen-voeoeste.html"/>
-    <parallel_text xml:lang="sme" location="julggastus-givssideami-vuosta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arbeidet mot mobbing / Opplæring / Forsiden - Sametinget</p>
-    <p type="title">Arbeidet mot mobbing</p>
-    <p>Sametingsrådet ønsker å redusere mobbing. Vi mener alle barn og unge har en rett til oppvekst- og læringsmiljøer fri for mobbing og trakassering. Derfor arbeider vi for økt innsats mot mobbing i skoler, barnehager, fritidsarenaer og nabolag. Det er både de unges og de voksnes ansvar.</p>
-    <p>Nedenfor finner du mer informasjon om hvordan du kan delta i arbeidet.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Nordre</p>
-    <p>Aktuelt</p>
-    <p>Mobbing - vi må starte med oss selv</p>
-    <p>Mobbing er et stort samfunnsproblem, også i samiske samfunn. Personlig tror...</p>
-    <p>Les mer</p>
-    <p>Alle har rett til en mobbefri hverdag</p>
-    <p>Leserinnlegg av Silje Karine Muotka.Vi vet alle sammen hvordan det kan utart...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>Hva gjør du når du ser mobbing? Det enkleste er å snu seg vekk, late som om man ikke legger merke til det. Tenke: noen burde si ifra. Du er denne <span type="quote">"noen"</span>. Si ifra til lærer, trener eller en annen voksen. Eller kanskje du kan si fra direkte til den som mobber?</p>
-    <p type="title">Mobbing må stanses</p>
-    <p>Anti-mobbearbeid er verdiløst hvis det ikke også reduserer antall barn, unge og voksne som utsettes for mobbing og trakassering. Vi vet at det skjer på skolen, på skolevei, i garderober og på fritidsaktiviteter. Der hvor mennesker ferdes.</p>
-    <p>Kanskje du er pappa, lærer eller trener i idrettslaget. Da burde du kanskje <em type="bold">prøve <span type="quote">"Lærer Bjørndals metode"</span> </em>. </p>
-    <p type="title">Hjelp og veiledning</p>
-    <p>Her finner du hjelp og inspirasjon i arbeidet mot mobbing og trakassering:</p>
-    <list>
-      <p type="listitem">Utdanningsdirektoratet nettside</p>
-      <p type="listitem">Video: hvordan voksne kan bekjempe mobbing blant barn og ung</p>
-      <p type="listitem">Veiledning for voksne</p>
-    </list>
-    <p>Alle barn og unge skal ha et godt og inkluderende oppvekst- og læringsmiljø med nulltoleranse for mobbing. Derfor deltar Sametinget som partner i Manifest mot mobbing.</p>
-    <p>
-      <span type="quote">Alle barn og unge skal ha et godt og inkluderende oppvekst- og læringsmiljø med nulltoleranse for mobbing.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>304</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Opplaering/Arbeidet-mot-mobbing</origFileName><parallel_text xml:lang="sma" location="manifeeste-irhkemen-voeoeste.html"/><parallel_text xml:lang="sme" location="julggastus-givssideami-vuosta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arbeidet mot mobbing / Opplæring / Forsiden - Sametinget</p>
+<p type="title">Arbeidet mot mobbing</p>
+<p>Sametingsrådet ønsker å redusere mobbing. Vi mener alle barn og unge har en rett til oppvekst- og læringsmiljøer fri for mobbing og trakassering. Derfor arbeider vi for økt innsats mot mobbing i skoler, barnehager, fritidsarenaer og nabolag. Det er både de unges og de voksnes ansvar.</p>
+<p>Nedenfor finner du mer informasjon om hvordan du kan delta i arbeidet.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Nordre</p>
+<p>Aktuelt</p>
+<p>Mobbing - vi må starte med oss selv</p>
+<p>Mobbing er et stort samfunnsproblem, også i samiske samfunn. Personlig tror...</p>
+<p>Les mer</p>
+<p>Alle har rett til en mobbefri hverdag</p>
+<p>Leserinnlegg av Silje Karine Muotka.Vi vet alle sammen hvordan det kan utart...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p>Hva gjør du når du ser mobbing? Det enkleste er å snu seg vekk, late som om man ikke legger merke til det. Tenke: noen burde si ifra. Du er denne <span type="quote">"noen"</span>. Si ifra til lærer, trener eller en annen voksen. Eller kanskje du kan si fra direkte til den som mobber?</p>
+<p type="title">Mobbing må stanses</p>
+<p>Anti-mobbearbeid er verdiløst hvis det ikke også reduserer antall barn, unge og voksne som utsettes for mobbing og trakassering. Vi vet at det skjer på skolen, på skolevei, i garderober og på fritidsaktiviteter. Der hvor mennesker ferdes.</p>
+<p>Kanskje du er pappa, lærer eller trener i idrettslaget. Da burde du kanskje <em type="bold">prøve <span type="quote">"Lærer Bjørndals metode"</span> </em>. </p>
+<p type="title">Hjelp og veiledning</p>
+<p>Her finner du hjelp og inspirasjon i arbeidet mot mobbing og trakassering:</p>
+<list><p type="listitem">Utdanningsdirektoratet nettside</p>
+<p type="listitem">Video: hvordan voksne kan bekjempe mobbing blant barn og ung</p>
+<p type="listitem">Veiledning for voksne</p>
+</list><p>Alle barn og unge skal ha et godt og inkluderende oppvekst- og læringsmiljø med nulltoleranse for mobbing. Derfor deltar Sametinget som partner i Manifest mot mobbing.</p>
+<p><span type="quote">Alle barn og unge skal ha et godt og inkluderende oppvekst- og læringsmiljø med nulltoleranse for mobbing.</span></p>
+</body></document>

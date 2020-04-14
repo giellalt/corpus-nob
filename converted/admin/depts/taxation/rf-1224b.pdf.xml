@@ -1,144 +1,120 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>719</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1224B.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="rf-1224e.pdf"/>
-    <parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Se i rettledningen om fortegnsbruken i skjemaet</p>
-    <p>NavnFødselsnummer</p>
-    <p>Virksomhets-/kontoradresse (Næringsdrivende som har næringsinntekt i flere kommuner, skal oppgi disse)Postnr.Poststed</p>
-    <p>Type næring (Se rettledningen)Nærings ID</p>
-    <p xml:lang="dan"><em type="bold">Basisberegning</em> </p>
-    <p>1.1 Beløp overført fra Næringsoppgave 1 (post 0402E), fra Næringsoppgave 2 (post 0402E),      fra Næringsoppgave for billedkunstnere (post 2.90) eller fra Driftsresultat i selvangivelsen RF-1030.</p>
-    <p>1.2 Renter på den foretaksgjeld til finansinstitusjoner som er ført i post 2.10 (se rettledningen til post 2.10), og renter på      drifts-/kassekreditt og foretakslån som er tatt opp og nedbetalt i året.</p>
-    <p>1.3 Kapitalinntekter (avkastning og gevinster, ikke renter) knyttet til finansobjekter, eller til realobjekter som ikke har virket i      virksomheten. (Inntekten må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1).      Om rentestøtte fra Innovasjon Norge, se rettledningen.</p>
-    <p>1.5 Kapitalkostnader (ikke renter) og tap knyttet til finansobjekter, eller til realobjekter som ikke har virket i virksomheten.      (Kostnaden må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1)</p>
-    <p xml:lang="isl">1.7 Sum</p>
-    <p>1.8 Skjermingsfradrag (Positivt beløp fra post 2.11 eller 2.12 multiplisert med skjermingsrenten)</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">+</p>
-    <p>1.4 Reduksjonsbeløp for leid eiendom mot innskudd</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="nno">Skjermingsrente</p>
-    <p xml:lang="ron">a)</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="kal">X</p>
-    <p xml:lang="koi">%</p>
-    <p>1.9 Årets beregnede personinntekt før samordning/fremføring.      Dersom fordeling mellom ektefeller, nyttes beløpene i post 1.10 for den videre beregning=</p>
-    <p><em type="bold">Ektefellefordeling</em>(Fordeling av post 1.9 mellom ektefeller)<em type="bold">Ektefelle</em> </p>
-    <p xml:lang="nno">% andela)1.10 Ved ektefellefordeling multipliseres summen</p>
-    <p xml:lang="swe">% andelb)</p>
-    <p>i post 1.9 med vedkommende ektefelles prosentandel        og beløpet benyttes i videre beregning</p>
-    <p><em type="bold">Samordning/fremføring av negativ</em> <em type="bold">beregnet personinntekt</em> </p>
-    <p xml:lang="nno">1.17 Årets beregnede personinntekt før samordning/fremføring</p>
-    <p>1.19 Fradrag for negativ beregnet personinntekt som er overført fra annen         virksomhet, som det kan foretas samordning med – se rettledningen</p>
-    <p xml:lang="koi">1.23</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">+</p>
-    <p>1.20 Tillegg for negativ beregnet personinntekt som er overført til annen         virksomhet, som det kan foretas samordning med – se rettledningen+</p>
-    <p xml:lang="dan">1.21 Tillegg for negativ beregnet personinntekt som kan samordnes         med uttatt arbeidsgodtgjørelse fra ANS/DA/KS i år – se rettledningen</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="koi">+</p>
-    <p>1.6 Gevinst ved realisajon av tomt i jord-/skogbruk som ikke skal inngå i beregnet personinntekt.      (Beløp overført fra RF-1177 post 453)</p>
-    <p xml:lang="dan">1.18 Negativ beregnet personinntekt fra tidligere år (negativ beregnet         personinntekt fra ANS/DA/KS kan ikke fremføres) - se rettledningen-</p>
-    <p>1.22 Tillegg for negativ beregnet personinntekt som kan samordnes         med lott fra fiske i år – se RF-1213 post 118 ++</p>
-    <p xml:lang="nno"><em type="bold">Årets beregnede personinntekt</em> </p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="dan">Er resultatet under null, viser dette den beregnede negative personinntekten som kan fremføres til fradrag for senere år. (Negativ beregnet personinntekt skal ikke føres i selvangivelsen)</p>
-    <p>1.24 Opplysningspost (for de som velger å ikke nytte post 1.18 til å redusere        positiv beregnet personinntekt med fremført negativ beregnet personinntekt        fra tidligere år) – se rettledningen</p>
-    <p><em type="bold">Spesifisering av positiv beregnet</em> <em type="bold">personinntekt fra post 1.23 </em></p>
-    <p xml:lang="nno"><em type="bold">Ektefelle</em> </p>
-    <p>Fiske/ Familiebarnehage i eget hjem</p>
-    <p>Overføres selvangivelsen (RF-1030) post 1.6.1 eller 1.6.2, se rettledningen</p>
-    <p>Annen næring</p>
-    <p>Fiske/ Familiebarnehage i eget hjem   Annen næring</p>
-    <p>Personinntekt1.341.33</p>
-    <p>1.361.35 metodeInngående verdi</p>
-    <p>Saldogruppe A: Kontormaskiner mv.</p>
-    <p xml:lang="koi">2.1</p>
-    <p>Saldogruppe B: Ervervet forretningsverdi</p>
-    <p>Saldogruppe C: Vogntog, lastebiler mv.</p>
-    <p>Saldogruppe D: Personbiler, traktorer mv.</p>
-    <p>Saldogruppe E: Skip, fartøyer mv.</p>
-    <p>Saldogruppe F:  Fly og helikopter</p>
-    <p xml:lang="nno">Saldogruppe H: Bygg og anlegg mv.</p>
-    <p>Saldogruppe I: Forretningsbygg</p>
-    <p>Saldogruppe G:  Anlegg for overføring og distribusjon av elektrisk kraft mv.++</p>
-    <p>Saldogruppe J: Fast teknisk installasjon i bygninger++</p>
-    <p xml:lang="nno">Driftsmiddel som avskrives lineært++</p>
-    <p xml:lang="dan">2.2  Ikke avskrivbare driftsmidler</p>
-    <p>2.3  Andre ervervede immaterielle rettigheter</p>
-    <p xml:lang="dan">2.4  Aktiverte forsknings- og utviklingskostnader</p>
-    <p xml:lang="nno">2.5  Varer (inkl. buskap)/varer under tilvirkning</p>
-    <p xml:lang="dan">2.6  Kundefordringer</p>
-    <p>2.7  Leverandørgjeld/forskudd fra kunder</p>
-    <p xml:lang="isl">2.8  Sum</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="isl">÷</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="isl">÷</p>
-    <p>2.9 Sum skjermingsgrunnlag før gjeldsfradrag (inngående + utgående verdier i post 2.8) / 2)</p>
-    <p xml:lang="koi">=</p>
-    <p>2.10 Foretaksgjeld til finansinstitusjoner og foretaksgjeld</p>
-    <p>knyttet til mengdegjeldsbrev, se rettledningen Inngående verdi (Inng. + utg. verdi) / 2</p>
-    <p>Beløpet overføres til post 1.8 a. Er virksomheten drevet bare en del av året, overføres beløpet til post 2.12.= Utgående verdi</p>
-    <p>Utgående verdi</p>
-    <p xml:lang="isl">÷</p>
-    <p xml:lang="isl">2.11 Sum</p>
-    <p xml:lang="koi">2.12</p>
-    <p>Er virksomheten drevet en del av inntektsåret, beregnes forholdsmessig andel av skjermingsfradraget. Kun hele måneder regnes med. Beløpet overføres til post 1.8a</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="kal">X</p>
-    <p>Overført fra post 2.11 X antall hele mnd.</p>
-    <p xml:lang="deu"><em type="bold">Underskrift</em> </p>
-    <p xml:lang="dan">DatoUnderskrift</p>
-    <p>Regnskapsførerens navn</p>
-    <p>PoststedForretningsadresse (gate)</p>
-    <p xml:lang="est">Postnr</p>
-    <p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 28. november 1994, jf ligningsloven § 4-4 nr. 7. Det vises til egen rettledning (RF-1225) som er utarbeidet til hjelp ved utfyllingen av Skjema for beregning av personinntekt (RF-1224).</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>719</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1224B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1224e.pdf"/><parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Se i rettledningen om fortegnsbruken i skjemaet</p>
+<p>NavnFødselsnummer</p>
+<p>Virksomhets-/kontoradresse (Næringsdrivende som har næringsinntekt i flere kommuner, skal oppgi disse)Postnr.Poststed</p>
+<p>Type næring (Se rettledningen)Nærings ID</p>
+<p xml:lang="dan"><em type="bold">Basisberegning</em> </p>
+<p>1.1 Beløp overført fra Næringsoppgave 1 (post 0402E), fra Næringsoppgave 2 (post 0402E),      fra Næringsoppgave for billedkunstnere (post 2.90) eller fra Driftsresultat i selvangivelsen RF-1030.</p>
+<p>1.2 Renter på den foretaksgjeld til finansinstitusjoner som er ført i post 2.10 (se rettledningen til post 2.10), og renter på      drifts-/kassekreditt og foretakslån som er tatt opp og nedbetalt i året.</p>
+<p>1.3 Kapitalinntekter (avkastning og gevinster, ikke renter) knyttet til finansobjekter, eller til realobjekter som ikke har virket i      virksomheten. (Inntekten må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1).      Om rentestøtte fra Innovasjon Norge, se rettledningen.</p>
+<p>1.5 Kapitalkostnader (ikke renter) og tap knyttet til finansobjekter, eller til realobjekter som ikke har virket i virksomheten.      (Kostnaden må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1)</p>
+<p xml:lang="isl">1.7 Sum</p>
+<p>1.8 Skjermingsfradrag (Positivt beløp fra post 2.11 eller 2.12 multiplisert med skjermingsrenten)</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">+</p>
+<p>1.4 Reduksjonsbeløp for leid eiendom mot innskudd</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="nno">Skjermingsrente</p>
+<p xml:lang="ron">a)</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="kal">X</p>
+<p xml:lang="vep">%</p>
+<p>1.9 Årets beregnede personinntekt før samordning/fremføring.      Dersom fordeling mellom ektefeller, nyttes beløpene i post 1.10 for den videre beregning=</p>
+<p><em type="bold">Ektefellefordeling</em>(Fordeling av post 1.9 mellom ektefeller)<em type="bold">Ektefelle</em> </p>
+<p xml:lang="nno">% andela)1.10 Ved ektefellefordeling multipliseres summen</p>
+<p xml:lang="swe">% andelb)</p>
+<p>i post 1.9 med vedkommende ektefelles prosentandel        og beløpet benyttes i videre beregning</p>
+<p><em type="bold">Samordning/fremføring av negativ</em> <em type="bold">beregnet personinntekt</em> </p>
+<p xml:lang="nno">1.17 Årets beregnede personinntekt før samordning/fremføring</p>
+<p>1.19 Fradrag for negativ beregnet personinntekt som er overført fra annen         virksomhet, som det kan foretas samordning med – se rettledningen</p>
+<p xml:lang="vep">1.23</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">+</p>
+<p>1.20 Tillegg for negativ beregnet personinntekt som er overført til annen         virksomhet, som det kan foretas samordning med – se rettledningen+</p>
+<p>1.21 Tillegg for negativ beregnet personinntekt som kan samordnes         med uttatt arbeidsgodtgjørelse fra ANS/DA/KS i år – se rettledningen</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="vep">+</p>
+<p>1.6 Gevinst ved realisajon av tomt i jord-/skogbruk som ikke skal inngå i beregnet personinntekt.      (Beløp overført fra RF-1177 post 453)</p>
+<p xml:lang="dan">1.18 Negativ beregnet personinntekt fra tidligere år (negativ beregnet         personinntekt fra ANS/DA/KS kan ikke fremføres) - se rettledningen-</p>
+<p>1.22 Tillegg for negativ beregnet personinntekt som kan samordnes         med lott fra fiske i år – se RF-1213 post 118 ++</p>
+<p xml:lang="nno"><em type="bold">Årets beregnede personinntekt</em> </p>
+<p xml:lang="vep">=</p>
+<p xml:lang="dan">Er resultatet under null, viser dette den beregnede negative personinntekten som kan fremføres til fradrag for senere år. (Negativ beregnet personinntekt skal ikke føres i selvangivelsen)</p>
+<p>1.24 Opplysningspost (for de som velger å ikke nytte post 1.18 til å redusere        positiv beregnet personinntekt med fremført negativ beregnet personinntekt        fra tidligere år) – se rettledningen</p>
+<p><em type="bold">Spesifisering av positiv beregnet</em> <em type="bold">personinntekt fra post 1.23 </em></p>
+<p xml:lang="nno"><em type="bold">Ektefelle</em> </p>
+<p>Fiske/ Familiebarnehage i eget hjem</p>
+<p>Overføres selvangivelsen (RF-1030) post 1.6.1 eller 1.6.2, se rettledningen</p>
+<p>Annen næring</p>
+<p>Fiske/ Familiebarnehage i eget hjem   Annen næring</p>
+<p>Personinntekt1.341.33</p>
+<p>1.361.35 metodeInngående verdi</p>
+<p>Saldogruppe A: Kontormaskiner mv.</p>
+<p xml:lang="vep">2.1</p>
+<p>Saldogruppe B: Ervervet forretningsverdi</p>
+<p>Saldogruppe C: Vogntog, lastebiler mv.</p>
+<p>Saldogruppe D: Personbiler, traktorer mv.</p>
+<p>Saldogruppe E: Skip, fartøyer mv.</p>
+<p>Saldogruppe F:  Fly og helikopter</p>
+<p xml:lang="nno">Saldogruppe H: Bygg og anlegg mv.</p>
+<p>Saldogruppe I: Forretningsbygg</p>
+<p>Saldogruppe G:  Anlegg for overføring og distribusjon av elektrisk kraft mv.++</p>
+<p>Saldogruppe J: Fast teknisk installasjon i bygninger++</p>
+<p xml:lang="nno">Driftsmiddel som avskrives lineært++</p>
+<p xml:lang="dan">2.2  Ikke avskrivbare driftsmidler</p>
+<p>2.3  Andre ervervede immaterielle rettigheter</p>
+<p xml:lang="dan">2.4  Aktiverte forsknings- og utviklingskostnader</p>
+<p>2.5  Varer (inkl. buskap)/varer under tilvirkning</p>
+<p xml:lang="dan">2.6  Kundefordringer</p>
+<p>2.7  Leverandørgjeld/forskudd fra kunder</p>
+<p xml:lang="isl">2.8  Sum</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="isl">÷</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="isl">÷</p>
+<p>2.9 Sum skjermingsgrunnlag før gjeldsfradrag (inngående + utgående verdier i post 2.8) / 2)</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="nno">2.10 Foretaksgjeld til finansinstitusjoner og foretaksgjeld</p>
+<p>knyttet til mengdegjeldsbrev, se rettledningen Inngående verdi (Inng. + utg. verdi) / 2</p>
+<p>Beløpet overføres til post 1.8 a. Er virksomheten drevet bare en del av året, overføres beløpet til post 2.12.= Utgående verdi</p>
+<p>Utgående verdi</p>
+<p xml:lang="isl">÷</p>
+<p xml:lang="isl">2.11 Sum</p>
+<p xml:lang="vep">2.12</p>
+<p>Er virksomheten drevet en del av inntektsåret, beregnes forholdsmessig andel av skjermingsfradraget. Kun hele måneder regnes med. Beløpet overføres til post 1.8a</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="kal">X</p>
+<p>Overført fra post 2.11 X antall hele mnd.</p>
+<p xml:lang="dan"><em type="bold">Underskrift</em> </p>
+<p xml:lang="dan">DatoUnderskrift</p>
+<p>Regnskapsførerens navn</p>
+<p>PoststedForretningsadresse (gate)</p>
+<p xml:lang="est">Postnr</p>
+<p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 28. november 1994, jf ligningsloven § 4-4 nr. 7. Det vises til egen rettledning (RF-1225) som er utarbeidet til hjelp ved utfyllingen av Skjema for beregning av personinntekt (RF-1224).</p>
+</body></document>

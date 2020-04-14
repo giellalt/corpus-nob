@@ -1,35 +1,6 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>93</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=57&amp;art_id=129</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=57_art_id=129.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=57_art_id=129.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=57_art_id=129.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskransen</p>
-    <p type="title">Jesusfortellingen</p>
-    <p>Jesus opplevde ørkenen. Han var der i 40 dager alene. Han opplevde å blir fristet av djevelen; fristet til makt og storhet. Han valgte en annen vei. Ydmykhetens vei. Kjærlighetens vei. Også andre ganger opplevde han <span type="quote">"ørken"</span>. Når livet var vanskelig, når ingen forsto det han sa, og når han ble fortvilet over menneskenes svik og smålighet. Han opplevde vanskeligheter, men ga ikke opp, han var trofast mot det han visste var riktig.</p>
-    <p>Du kan lese om hvordan Jesus ble fristet i ørkenen fra Lukasevangeliet kapittel 4, vers 1-13</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>93</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=57&amp;art_id=129</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=57_art_id=129.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=57_art_id=129.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=57_art_id=129.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskransen</p>
+<p type="title">Jesusfortellingen</p>
+<p>Jesus opplevde ørkenen. Han var der i 40 dager alene. Han opplevde å blir fristet av djevelen; fristet til makt og storhet. Han valgte en annen vei. Ydmykhetens vei. Kjærlighetens vei. Også andre ganger opplevde han <span type="quote">"ørken"</span>. Når livet var vanskelig, når ingen forsto det han sa, og når han ble fortvilet over menneskenes svik og smålighet. Han opplevde vanskeligheter, men ga ikke opp, han var trofast mot det han visste var riktig.</p>
+<p>Du kan lese om hvordan Jesus ble fristet i ørkenen fra Lukasevangeliet kapittel 4, vers 1-13</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

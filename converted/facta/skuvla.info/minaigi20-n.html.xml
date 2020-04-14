@@ -1,94 +1,51 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Samiske lærere i gammel tid</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2010</year>
-    <wordcount>1972</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi20-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="minaigi20-e.html"/>
-    <parallel_text xml:lang="sme" location="minaigi20.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"/>
-    <p xml:lang="sme">In English Sámegillii</p>
-    <p>Artikkelserie i Min Áigi/Ávvir om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
-    <p xml:lang="nno">
-      <em type="bold">20. del - trykt i Ávvir 02.12.2010 </em>
-    </p>
-    <p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
-    <p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
-    <p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
-    <p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
-    <p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
-    <p type="title">Samiske lærere i gammel tid</p>
-    <p>I artikkel 2 og 3 i denne serien har vi fortalt om erfaringene til sørnorske lærere. Men det har også hele tida vært samiske lærere i Norge og her kommer fortellingene til noen av dem.</p>
-    <p>På 1700- og 1800-tallet var det i en viss grad en egen utdanning for samiske lærere, først i Trondheim i skolene Seminarium scolasticum, Seminarium domesticum og Seminarium lapponicum, seinere var samisk fag ved Trondenes og Tromsø seminar. Samiske lærere fikk også i stor grad undervise på samisk, og andre lærere skulle lære samisk dersom de skulle arbeide i samiske områder.</p>
-    <p>Men på slutten av 1800-tallet kom harde instrukser om at undervisninga skulle være på norsk. Samisk kunne brukes til hjelpespråk, men så lite som mulig. Hva gjorde de samiske lærerne da? Noen samiske lærere var enige i fornorskingspolitikken og forsøkte så godt de kunne å fornorske samiske og kvenske barn. Andre var ikke enige, men fulgte lojalt fornorskingsinstruksen. Og noen underviste mer eller mindre på samisk i strid med instruksen. Vi vet ikke så mye om dette, men her er noen fortellinger vi har samla om samiske lærere, slik de sjøl, deres elever eller skolemyndighetene har fortalt dem.</p>
-    <p type="title">Samiskspråklig lærer i Loppa</p>
-    <p>
-      <em type="bold">Denne fortellinga er fra bygdeboka <span type="quote">"Loppas historie"</span>, som Harald Samuelsberg og Leonhard Gamst har skrevet.. </em>
-    </p>
-    <p>
-      <em type="italic">Lærer Nuth hørte til det siste kullet av Alta lærerskoles elever. ... Peder Morten Johannessen Nuth var same fra Loppa, men hans modersmål er lappisk og norsk. Han hadde friplass (Finnefondstipend) under skolegangen i Alta, slik de øvrige elever også hadde. Hans far – Johan Peder Pedersen, Hommelvik, – hadde vært sameskolelærer i Bergsfjord. ... </em>
-    </p>
-    <p><em type="italic">Han var den første og eneste same fra Loppa som hadde lærereksamen, han ble også den siste samisktalende lærer her. De lærere som var Nuths samtidige, hadde alle hatt friplasser ved Tromsø lærerskole og hadde der lært samisk. Men for det første har vel kunnskapene i dette språk vært meget beskjedne, og for det annet var det i 1880 blitt gitt en ny instruks for lærerne i overgangsdistriktene, der det heter at <span type="quote" xml:lang="dan">«samtlige finske og kvænske Børn skal oplæres i at læse, tale og skriftlig anvende det Norske Sprog. Undervisningssproget skal være norsk, finsk eller kvænsk bruges kun som Hjælpemiddel til at forklare, hvad der er uforstaaelig for Børnene, og ikke i vidre Udstrækning, end Forholdene gjør uomgjengelig fornødent.»</span> Det lærerne hadde lært av samisk, fikk de svært lite bruk for. </em>( Samene og skolen i Loppa, SSH-2 ) </p>
-    <p type="title">Unødvendig å undervise lærere i samisk og kvensk</p>
-    <p>Christen Brygfjeld var skoledirektør i Finnmark 1922-33. Sjøl om han hadde sørsamisk bakgrunn og kunne nordsamisk, så var han en hard fornorsker både som lærer og som skoladirektør.</p>
-    <p>Da det rundt 1930 kom klager mot fornorskingaa og blant annet krav om at man igjen skulle starte med samisk- og kvenskopplæring ved Tromsø seminar, skreiv skoledirektøren brev til departementet der har forklarer språksituasjonen i hver kommune i Finnmark. Hans konklusjon er at slik opplæring er fullstendig unødvendig. Når man ser hva han skriver om de samiske og kvenske lærerne, kan man forstå at disse ikke hadde det lett i skolen i den tida. Her er utvalgte deler av brevet hans:</p>
-    <p><em type="bold">10. Kistrand. </em>Leirpoll og Børselv, blandet norsk, lappisk og kvensk. Læreren er født av lappiske foreldre. Hans norsmål er lappisk, men han kan også litt kvensk. Han vil dog nødig, uten i yderst vanskelige tilfeller, bruke disse som hjelpespråk. </p>
-    <p>I Lakselv krets er statsinternat, 6-delt skole, med to paralellklasser i 1. Befolkningen er blandet norsk, lappisk og kvensk. De fleste taler godt norsk. Lærerne kan hverken lappisk eller kvensk, men barna av lappisk og kvensk avstamning står allikevel fullt på høide med de norske.</p>
-    <p><em type="bold">11. Karasjok. </em>Læreren taler flytende lappisk og bruker det næsten i altfor stor utstrekning som hjelpespråk, derfor står Karasjok-lapperne adskillig tilbake for Kautokeino-lapperne med hensyn til kunnskaper i norsk. </p>
-    <p><em type="bold">12. Lebesby. </em>I Lebesby skolekrets er statsinternat. Ingen av lærerne har noe særlig kjennskap til lappisk. Jeg har selv arbeidet ved denne skole i 5 år. I den tid hadde barna såpass bra kjennskap til norsk før de kom på skolen, at jeg fant det unødvendig å anvende hjelpespråk, skjønt jeg kan lappisk. </p>
-    <p>
-      <em type="bold">Lebesby internat </em>
-    </p>
-    <p>(Foto: Bernt Thomassen / Ulf Jacobsens bildesamling)</p>
-    <p><em type="bold">14. Tana. </em>Norskholmen er en blandet språkkrets. Læreren i denne krets, Per Fokstad, er en ivrig forkjemper for bruk av lappisk som hovedspråk i skole og kirke, men på Norskholmen har han ikke noe høvelig arbeidsfelt og har der ikke funnet noen stor tilslutning for sine ideer. </p>
-    <p>
-      <em type="bold">Norskholmen skole, 1918 </em>
-    </p>
-    <p>(Foto: Bernt Thomassen / Ulf Jacobsens bildesamling)</p>
-    <p><em type="bold">17. Nord-Varanger. </em>Skallelv krets har en lærer som bruker kvensk til talespråk i sitt hjem, Det faller ham lettere å undervise på kvensk enn på norsk, og resultatet av oplæringen i norsk på skolen blir deretter. </p>
-    <p>Vestre-Jakobselv må regnes for en helt kvensk krets. Der er to kvenske lærere som visstnok benytter sig av det kvenske språk i skolen mere enn høist nødvendig, derfor har framgangen for norsken vært ganske liten.</p>
-    <p>19. Polmak. I denne kommune er den lappiske befolkning i kompakt majoritet. Der opnådde de, takket være skoleloven, å få ansatt to lappiske lærare, som visstnok bruker lappisk. Ikke bare som hjelpespråk, men etter sigende i stor utstrekning også som undervisningsspråk. Barnas kjennskap til norsk er i denne kommune høist mangelfull. ( Chr. Brygfjeld, SSH-4 )</p>
-    <p type="title" xml:lang="nno">Læreren snakka samisk bare med bestemor</p>
-    <p>Pavel Andersen var fra Tana og var lenge lærer i Sørøysund. Emma Johannessen forteller fra si tid som elev på Kårhamn skole:</p>
-    <p>
-      <em type="italic">- Jeg begynte på skolen i 1934. På skolen fikk vi ikke snakke samisk, vi ungene fikk ikke snakke samisk med hverandre engang. Det sa de både lærere og husmor. Her skulle vi bare snakke norsk. </em>
-    </p>
-    <p><em type="italic">Lærerne, det var først og fremst Pavel Anderssen. Pavel var der hele tida. Og søster hans, Pavel-Anna. De var fra Tana og samer, men brukte aldri samisk på skolen. Jeg husker at Pavel en gang kom roende til oss i Jøfjorden, da snakka han samisk med bestemor mi. Fra Anna hørte jeg aldri samisk, men jeg tror da at hun også må ha hatt samisk som morsmål. Anna var veldig streng. Ho slo pekestokken over fingrene på ungene så hardt at pekestokken knakk. De andre lærerne var norske, </em>(SSH-4) </p>
-    <p>Andre som var elever ved samme skolen, har fortalt at Pavel Andersen blei sint når han hørte elevene snakke samsik og skreik ut: "Snakk norsk! Vi er ikke nokka fjellfinna her!" ( Emma Johannessens fortelling, SSH4 )</p>
-    <p>I den nevnte rapporten som skoledirektøren skreiv i 1931, skreiv han om Sørøysund kommune bl. a.: <em type="italic">Den mest utpregede språkblandede krets er Kårhamn, hvor der er et statsintemat, 4-delt skole. Både læreren og lærerinnen som underviser ved denne skole er født av lappiske foreldre og taler sitt morsmål flytende. De vil dog nødig bruke lappisk som hjelpespråk uten i yderst vanskelige tilfeller. </em>( Chr. Brygfjeld, SSH-4 ) </p>
-    <p>
-      <em type="bold">Per Fokstad og familien hans 1960 </em>
-    </p>
-    <p xml:lang="sme">(Foto: Ragnhild Ravna)</p>
-    <p type="title">Måtte undervise mot sine egne prinsipper</p>
-    <p>Per Fokstad var lærer i Tana i over 40 år. Hele tida ivra han for samisk i skolen og han skreiv et eget samisk skoleprogram. Derfor kom han i konflikt med skoledirektøren og andre skolemyndigheter. Han var i mange år leder for Samisk råd for Finnmark. Men som lærer måtte han følge instruksene og undervise på norsk. Ragnhild Ravna, som i 1959 begynte som lærer ved Tana skole, der Fokstad da var rektor, forteller:</p>
-    <p>Det var først i 1945 at Per Fokstad hadde blitt overført til Tana skole i Bonakas, en skolekrets med stor del av samisk befolkning. Før krigen var han på Norskholmen skole med stort innslag av finsk/kvensk befolkning. Hans tidligere elever forteller at han var svært lojal mot myndighetene, dvs. han brukte ikke samisk på skolen i etterkrigstida selv om mange av elevene var samisktalende. Men han forbød dem ikke å snakke samisk seg imellom. Imidlertid brukte han lokalt samisk stoff i sine mange spennende sagn og fortellinger, joiken <span type="quote" xml:lang="sme">«Voi dán Biettár Káre»</span>, og påvirket sterkt tilhørigheten til lokalsamfunnet. <span type="quote">«Ikke glem ditt eget språk og hjemsted!»</span> brukte han å innprente elevene. Da Margarethe Wiigs samiske ABC kom ut i 1951, fikk elevene kjøpt boka av Per Fokstad. Da ga han tilbud til noen av elevene om å få lære samisk.</p>
-    <p>Elevene hans omtaler han med ros for den gode norskopplæringen han ga dem. Det gjaldt så vel grammatikk som litteratur og skriftlig norsk. Norsk og matematikk var det viktigste i hans skole. Når de kom seg videre på skoler, ble det lagt merke til hvor dyktige Fokstads elever var i norsk.</p>
-    <p>Han vokste opp under den norske nasjonalreisningen, var sjøl 14 år i 1905, og ble en ivrig formidler av Ivar Aasens tanker og diktning. ...</p>
-    <p>Fokstad var ikke selv noen utøvende kunstner, men han så skjønnheten og uttrykkene i bilder, tekstiler, joik og annen musikk. Han tok med Saviobilder på skolen som elevene skulle prøve å reprodusere. Han var ivrig med å få elevene til å øve inn skuespill, julespill og holde basarer. Skolekringkastinga ble flittig brukt, særlig programmer fra andre kulturer. Han anså det som viktig å godta andre kulturer og folkeslag. Det skulle igjen føre til stolthet av seg sjøl og egen identitet.</p>
-    <p><em type="italic">Men han hadde det slett ikke lett med mange av elevene. Mange foreldre mislikte Per Fokstads samiske holdninger og kamp for det samiske. Dette gjorde sitt til at en del elever opponerte, for de visste at de hadde støtte hjemme og dermed ikke noe å frykte om de lagde bråk på skolen. </em>( Ragnhild Ravnas fortelling, SSH-2 ) </p>
-    <p>Her finner du alle artiklene i serien:</p>
-    <p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
-    <p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Samiske lærere i gammel tid</title><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></translator><translated_from xml:lang="sme"/><year>2010</year><wordcount>1972</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi20-n.htm</origFileName><parallel_text xml:lang="eng" location="minaigi20-e.html"/><parallel_text xml:lang="sme" location="minaigi20.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"/>
+<p xml:lang="sme">In English Sámegillii</p>
+<p>Artikkelserie i Min Áigi/Ávvir om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
+<p xml:lang="nno"><em type="bold">20. del - trykt i Ávvir 02.12.2010 </em></p>
+<p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
+<p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
+<p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
+<p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
+<p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
+<p type="title">Samiske lærere i gammel tid</p>
+<p>I artikkel 2 og 3 i denne serien har vi fortalt om erfaringene til sørnorske lærere. Men det har også hele tida vært samiske lærere i Norge og her kommer fortellingene til noen av dem.</p>
+<p>På 1700- og 1800-tallet var det i en viss grad en egen utdanning for samiske lærere, først i Trondheim i skolene Seminarium scolasticum, Seminarium domesticum og Seminarium lapponicum, seinere var samisk fag ved Trondenes og Tromsø seminar. Samiske lærere fikk også i stor grad undervise på samisk, og andre lærere skulle lære samisk dersom de skulle arbeide i samiske områder.</p>
+<p>Men på slutten av 1800-tallet kom harde instrukser om at undervisninga skulle være på norsk. Samisk kunne brukes til hjelpespråk, men så lite som mulig. Hva gjorde de samiske lærerne da? Noen samiske lærere var enige i fornorskingspolitikken og forsøkte så godt de kunne å fornorske samiske og kvenske barn. Andre var ikke enige, men fulgte lojalt fornorskingsinstruksen. Og noen underviste mer eller mindre på samisk i strid med instruksen. Vi vet ikke så mye om dette, men her er noen fortellinger vi har samla om samiske lærere, slik de sjøl, deres elever eller skolemyndighetene har fortalt dem.</p>
+<p type="title">Samiskspråklig lærer i Loppa</p>
+<p><em type="bold">Denne fortellinga er fra bygdeboka <span type="quote">"Loppas historie"</span>, som Harald Samuelsberg og Leonhard Gamst har skrevet.. </em></p>
+<p><em type="italic">Lærer Nuth hørte til det siste kullet av Alta lærerskoles elever. ... Peder Morten Johannessen Nuth var same fra Loppa, men hans modersmål er lappisk og norsk. Han hadde friplass (Finnefondstipend) under skolegangen i Alta, slik de øvrige elever også hadde. Hans far – Johan Peder Pedersen, Hommelvik, – hadde vært sameskolelærer i Bergsfjord. ... </em></p>
+<p><em type="italic">Han var den første og eneste same fra Loppa som hadde lærereksamen, han ble også den siste samisktalende lærer her. De lærere som var Nuths samtidige, hadde alle hatt friplasser ved Tromsø lærerskole og hadde der lært samisk. Men for det første har vel kunnskapene i dette språk vært meget beskjedne, og for det annet var det i 1880 blitt gitt en ny instruks for lærerne i overgangsdistriktene, der det heter at <span type="quote" xml:lang="dan">«samtlige finske og kvænske Børn skal oplæres i at læse, tale og skriftlig anvende det Norske Sprog. Undervisningssproget skal være norsk, finsk eller kvænsk bruges kun som Hjælpemiddel til at forklare, hvad der er uforstaaelig for Børnene, og ikke i vidre Udstrækning, end Forholdene gjør uomgjengelig fornødent.»</span> Det lærerne hadde lært av samisk, fikk de svært lite bruk for. </em>( Samene og skolen i Loppa, SSH-2 ) </p>
+<p type="title">Unødvendig å undervise lærere i samisk og kvensk</p>
+<p>Christen Brygfjeld var skoledirektør i Finnmark 1922-33. Sjøl om han hadde sørsamisk bakgrunn og kunne nordsamisk, så var han en hard fornorsker både som lærer og som skoladirektør.</p>
+<p>Da det rundt 1930 kom klager mot fornorskingaa og blant annet krav om at man igjen skulle starte med samisk- og kvenskopplæring ved Tromsø seminar, skreiv skoledirektøren brev til departementet der har forklarer språksituasjonen i hver kommune i Finnmark. Hans konklusjon er at slik opplæring er fullstendig unødvendig. Når man ser hva han skriver om de samiske og kvenske lærerne, kan man forstå at disse ikke hadde det lett i skolen i den tida. Her er utvalgte deler av brevet hans:</p>
+<p><em type="bold">10. Kistrand. </em>Leirpoll og Børselv, blandet norsk, lappisk og kvensk. Læreren er født av lappiske foreldre. Hans norsmål er lappisk, men han kan også litt kvensk. Han vil dog nødig, uten i yderst vanskelige tilfeller, bruke disse som hjelpespråk. </p>
+<p>I Lakselv krets er statsinternat, 6-delt skole, med to paralellklasser i 1. Befolkningen er blandet norsk, lappisk og kvensk. De fleste taler godt norsk. Lærerne kan hverken lappisk eller kvensk, men barna av lappisk og kvensk avstamning står allikevel fullt på høide med de norske.</p>
+<p><em type="bold">11. Karasjok. </em>Læreren taler flytende lappisk og bruker det næsten i altfor stor utstrekning som hjelpespråk, derfor står Karasjok-lapperne adskillig tilbake for Kautokeino-lapperne med hensyn til kunnskaper i norsk. </p>
+<p><em type="bold">12. Lebesby. </em>I Lebesby skolekrets er statsinternat. Ingen av lærerne har noe særlig kjennskap til lappisk. Jeg har selv arbeidet ved denne skole i 5 år. I den tid hadde barna såpass bra kjennskap til norsk før de kom på skolen, at jeg fant det unødvendig å anvende hjelpespråk, skjønt jeg kan lappisk. </p>
+<p xml:lang="swe"><em type="bold">Lebesby internat </em></p>
+<p>(Foto: Bernt Thomassen / Ulf Jacobsens bildesamling)</p>
+<p><em type="bold">14. Tana. </em>Norskholmen er en blandet språkkrets. Læreren i denne krets, Per Fokstad, er en ivrig forkjemper for bruk av lappisk som hovedspråk i skole og kirke, men på Norskholmen har han ikke noe høvelig arbeidsfelt og har der ikke funnet noen stor tilslutning for sine ideer. </p>
+<p><em type="bold">Norskholmen skole, 1918 </em></p>
+<p>(Foto: Bernt Thomassen / Ulf Jacobsens bildesamling)</p>
+<p><em type="bold">17. Nord-Varanger. </em>Skallelv krets har en lærer som bruker kvensk til talespråk i sitt hjem, Det faller ham lettere å undervise på kvensk enn på norsk, og resultatet av oplæringen i norsk på skolen blir deretter. </p>
+<p>Vestre-Jakobselv må regnes for en helt kvensk krets. Der er to kvenske lærere som visstnok benytter sig av det kvenske språk i skolen mere enn høist nødvendig, derfor har framgangen for norsken vært ganske liten.</p>
+<p>19. Polmak. I denne kommune er den lappiske befolkning i kompakt majoritet. Der opnådde de, takket være skoleloven, å få ansatt to lappiske lærare, som visstnok bruker lappisk. Ikke bare som hjelpespråk, men etter sigende i stor utstrekning også som undervisningsspråk. Barnas kjennskap til norsk er i denne kommune høist mangelfull. ( Chr. Brygfjeld, SSH-4 )</p>
+<p type="title" xml:lang="nno">Læreren snakka samisk bare med bestemor</p>
+<p>Pavel Andersen var fra Tana og var lenge lærer i Sørøysund. Emma Johannessen forteller fra si tid som elev på Kårhamn skole:</p>
+<p><em type="italic">- Jeg begynte på skolen i 1934. På skolen fikk vi ikke snakke samisk, vi ungene fikk ikke snakke samisk med hverandre engang. Det sa de både lærere og husmor. Her skulle vi bare snakke norsk. </em></p>
+<p><em type="italic">Lærerne, det var først og fremst Pavel Anderssen. Pavel var der hele tida. Og søster hans, Pavel-Anna. De var fra Tana og samer, men brukte aldri samisk på skolen. Jeg husker at Pavel en gang kom roende til oss i Jøfjorden, da snakka han samisk med bestemor mi. Fra Anna hørte jeg aldri samisk, men jeg tror da at hun også må ha hatt samisk som morsmål. Anna var veldig streng. Ho slo pekestokken over fingrene på ungene så hardt at pekestokken knakk. De andre lærerne var norske, </em>(SSH-4) </p>
+<p>Andre som var elever ved samme skolen, har fortalt at Pavel Andersen blei sint når han hørte elevene snakke samsik og skreik ut: "Snakk norsk! Vi er ikke nokka fjellfinna her!" ( Emma Johannessens fortelling, SSH4 )</p>
+<p>I den nevnte rapporten som skoledirektøren skreiv i 1931, skreiv han om Sørøysund kommune bl. a.: <em type="italic">Den mest utpregede språkblandede krets er Kårhamn, hvor der er et statsintemat, 4-delt skole. Både læreren og lærerinnen som underviser ved denne skole er født av lappiske foreldre og taler sitt morsmål flytende. De vil dog nødig bruke lappisk som hjelpespråk uten i yderst vanskelige tilfeller. </em>( Chr. Brygfjeld, SSH-4 ) </p>
+<p><em type="bold">Per Fokstad og familien hans 1960 </em></p>
+<p xml:lang="sme">(Foto: Ragnhild Ravna)</p>
+<p type="title">Måtte undervise mot sine egne prinsipper</p>
+<p>Per Fokstad var lærer i Tana i over 40 år. Hele tida ivra han for samisk i skolen og han skreiv et eget samisk skoleprogram. Derfor kom han i konflikt med skoledirektøren og andre skolemyndigheter. Han var i mange år leder for Samisk råd for Finnmark. Men som lærer måtte han følge instruksene og undervise på norsk. Ragnhild Ravna, som i 1959 begynte som lærer ved Tana skole, der Fokstad da var rektor, forteller:</p>
+<p>Det var først i 1945 at Per Fokstad hadde blitt overført til Tana skole i Bonakas, en skolekrets med stor del av samisk befolkning. Før krigen var han på Norskholmen skole med stort innslag av finsk/kvensk befolkning. Hans tidligere elever forteller at han var svært lojal mot myndighetene, dvs. han brukte ikke samisk på skolen i etterkrigstida selv om mange av elevene var samisktalende. Men han forbød dem ikke å snakke samisk seg imellom. Imidlertid brukte han lokalt samisk stoff i sine mange spennende sagn og fortellinger, joiken <span type="quote" xml:lang="sme">«Voi dán Biettár Káre»</span>, og påvirket sterkt tilhørigheten til lokalsamfunnet. <span type="quote">«Ikke glem ditt eget språk og hjemsted!»</span> brukte han å innprente elevene. Da Margarethe Wiigs samiske ABC kom ut i 1951, fikk elevene kjøpt boka av Per Fokstad. Da ga han tilbud til noen av elevene om å få lære samisk.</p>
+<p>Elevene hans omtaler han med ros for den gode norskopplæringen han ga dem. Det gjaldt så vel grammatikk som litteratur og skriftlig norsk. Norsk og matematikk var det viktigste i hans skole. Når de kom seg videre på skoler, ble det lagt merke til hvor dyktige Fokstads elever var i norsk.</p>
+<p>Han vokste opp under den norske nasjonalreisningen, var sjøl 14 år i 1905, og ble en ivrig formidler av Ivar Aasens tanker og diktning. ...</p>
+<p>Fokstad var ikke selv noen utøvende kunstner, men han så skjønnheten og uttrykkene i bilder, tekstiler, joik og annen musikk. Han tok med Saviobilder på skolen som elevene skulle prøve å reprodusere. Han var ivrig med å få elevene til å øve inn skuespill, julespill og holde basarer. Skolekringkastinga ble flittig brukt, særlig programmer fra andre kulturer. Han anså det som viktig å godta andre kulturer og folkeslag. Det skulle igjen føre til stolthet av seg sjøl og egen identitet.</p>
+<p><em type="italic">Men han hadde det slett ikke lett med mange av elevene. Mange foreldre mislikte Per Fokstads samiske holdninger og kamp for det samiske. Dette gjorde sitt til at en del elever opponerte, for de visste at de hadde støtte hjemme og dermed ikke noe å frykte om de lagde bråk på skolen. </em>( Ragnhild Ravnas fortelling, SSH-2 ) </p>
+<p>Her finner du alle artiklene i serien:</p>
+<p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
+<p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
+</body></document>

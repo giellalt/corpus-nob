@@ -1,51 +1,10 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>72</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=221&amp;art_id=268</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=221_art_id=268.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=221_art_id=268.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=221_art_id=268.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Vann</p>
-    <p>
-      <em type="bold">Misjonsbefalingen </em>
-    </p>
-    <p>Da trådte Jesus fram og talte til dem:</p>
-    <p>
-      <em type="italic">Meg er gitt all makt i himmel og på jord. </em>
-    </p>
-    <p>
-      <em type="italic">Gå derfor ut og gjør alle folkeslag til disipler, </em>
-    </p>
-    <p>
-      <em type="italic">idet dere døper dem til Faderens og Sønnens og Den Hellige Ånds nan </em>
-    </p>
-    <p>
-      <em type="italic">og lærer dem å holde alt det jeg har befalt dere. </em>
-    </p>
-    <p>
-      <em type="italic">Og se, jeg er med dere alle dager inntil erdens ende. ( Matt 28, 18-20) </em>
-    </p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>72</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=221&amp;art_id=268</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=221_art_id=268.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=221_art_id=268.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=221_art_id=268.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Vann</p>
+<p><em type="bold">Misjonsbefalingen </em></p>
+<p>Da trådte Jesus fram og talte til dem:</p>
+<p><em type="italic">Meg er gitt all makt i himmel og på jord. </em></p>
+<p><em type="italic">Gå derfor ut og gjør alle folkeslag til disipler, </em></p>
+<p><em type="italic">idet dere døper dem til Faderens og Sønnens og Den Hellige Ånds nan </em></p>
+<p><em type="italic">og lærer dem å holde alt det jeg har befalt dere. </em></p>
+<p><em type="italic">Og se, jeg er med dere alle dager inntil erdens ende. ( Matt 28, 18-20) </em></p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

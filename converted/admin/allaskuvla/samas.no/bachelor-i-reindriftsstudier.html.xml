@@ -1,46 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Bachelor i reindriftsstudier | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>407</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/studier/bachelor-i-reindriftsstudier</origFileName>
-    <parallel_text xml:lang="eng" location="boa-bachelor-reindeer-husbandry-studies.html"/>
-    <parallel_text xml:lang="sme" location="boa-boazodoallooahpuid-bachelorprogramma.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">BA - Program</p>
-    <p type="title" xml:lang="nno">Bachelor i reindriftsstudier</p>
-    <list>
-      <p type="listitem">Undervisningsspråk: Nordsamisk</p>
-      <p type="listitem">Studiested: Samisk høgskole</p>
-      <p type="listitem">Bachelorgrad – fulltidsstudium 3 år</p>
-      <p type="listitem">180 studiepoeng</p>
-    </list>
-    <p><em type="italic">Et spennende studium hvor reindrifta er i fokus og som forbereder deg til å møte utfordringer! </em> </p>
-    <p xml:lang="nno">
-      <em type="italic">Innhold </em>
-    </p>
-    <p>Bachelor i reindriftsstudier er et treårig studium (180 studiepoeng) ved Samisk høgskole hvor du fordyper deg i temaer om reindrift og hvor du avslutter studiet med en bacheloroppgave med et selvvalgt tema.</p>
-    <p>I studiet blir du kjent med vitenskapelige arbeids- og formidlingsmåter, og hvordan tradisjonell samisk reindriftskunnskap har et annet kunnskapssystem og perspektiv. Studiet gir også mulighet til å fordype seg i forskjellige fagområder. Etter endt studium innehar du kunnskap på den ene side om arbeidsmetoder i den samiske reindrifta, om næringsveier og siidautøvelse, og på den andre siden om offentlig reindriftsforvalting, myndighetenes regulering og om annet arbeid.</p>
-    <p>I 1. semesteret blir du kjent med vitenskapelige skrivemetoder, urfolksfilosofi og om forskningsmetoder, i tre obligatoriske studieemner i bachelorgraden (á 10 studiepoeng).</p>
-    <p>I 2. semesteret er det to studieemner: <span type="quote">"Reinen og reinen som ressurs"</span> (20 studiepoeng) og første del av studiet <span type="quote" xml:lang="nno">"Beite, beitetilgang og gjetning"</span>; som heter “Beiteplanter og kunnskap om beiting" (10 studiepoeng)</p>
-    <p>I 3. semester fortsetter andre del av studiet <span type="quote" xml:lang="nno">"Beite, beitetilgang og gjetning"</span>; “Kunnskap om landområder og gjetning" (10 studiepoeng) og også <span type="quote">"Siidautøvelse og forvaltning av reindrift"</span> (20 studiepoeng)</p>
-    <p>I 4. semesteret er det to studier <span type="quote">"Reindriftsrettslig introduksjonskurs"</span> (10 studiepoeng) og <span type="quote">"Reindriftens lover og rettsforståelser"</span> (20 studiepoeng)</p>
-    <p>I 5. semesteret velger du selv hvilke studier du ønsker å knytte som del av din bachelorgrad (det er også mulig og søke om å få fag godkjent fra andre studier eller fra andre studieinstitusjoner)</p>
-    <p xml:lang="swe">I 6. semester skriver du bacheloroppgave.</p>
-    <p><em type="italic">Fordypningsmuligheter </em>Denne bachelorgraden kvalifiserer til videre studier på visse mastergrader, og også til mastergraden i reindriftsstudier som er under planlegging ved Samisk høgskole. </p>
-    <p><em type="italic">Arbeidsmuligheter </em>Studiet gir kompetanse til å jobbe innenfor forskjellige stillinger i offentlig og privat sektor. Etter fullført studium kan man for eksempel arbeide innenfor forskjellige administrative sektorer hvor det behøves kunnskap om reindrift, utmarksutøvelse, samfunnsforhold eller samisk og urfolksperspektiv. Du kan også arbeide som reindriftsveileder, innenfor utredning og som sakkyndig, kulturarbeider, som sekretær for reindriftsdistriktene/ reindriftsstyrene, og også som forsker eller innenfor andre typer arbeidsområder. Generelt er studiet nyttig hvis du vil arbeide i miljøer hvor reindriftssaker behandles og i samiske vitenskapelige og akademiske miljøer. Hvis man i Norge i tillegg fullfører praktisk pedagogisk utdanning (PPU), gir det kompetanse til å undervise i reindriftsfag på grunnskolen eller på videregående skole. </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Bachelor i reindriftsstudier | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>407</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/studier/bachelor-i-reindriftsstudier</origFileName><parallel_text xml:lang="eng" location="boa-bachelor-reindeer-husbandry-studies.html"/><parallel_text xml:lang="sme" location="boa-boazodoallooahpuid-bachelorprogramma.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="isl">BA - Program</p>
+<p type="title" xml:lang="nno">Bachelor i reindriftsstudier</p>
+<list><p type="listitem">Undervisningsspråk: Nordsamisk</p>
+<p type="listitem">Studiested: Samisk høgskole</p>
+<p type="listitem">Bachelorgrad – fulltidsstudium 3 år</p>
+<p type="listitem">180 studiepoeng</p>
+</list><p><em type="italic">Et spennende studium hvor reindrifta er i fokus og som forbereder deg til å møte utfordringer! </em> </p>
+<p xml:lang="nno"><em type="italic">Innhold </em></p>
+<p>Bachelor i reindriftsstudier er et treårig studium (180 studiepoeng) ved Samisk høgskole hvor du fordyper deg i temaer om reindrift og hvor du avslutter studiet med en bacheloroppgave med et selvvalgt tema.</p>
+<p>I studiet blir du kjent med vitenskapelige arbeids- og formidlingsmåter, og hvordan tradisjonell samisk reindriftskunnskap har et annet kunnskapssystem og perspektiv. Studiet gir også mulighet til å fordype seg i forskjellige fagområder. Etter endt studium innehar du kunnskap på den ene side om arbeidsmetoder i den samiske reindrifta, om næringsveier og siidautøvelse, og på den andre siden om offentlig reindriftsforvalting, myndighetenes regulering og om annet arbeid.</p>
+<p>I 1. semesteret blir du kjent med vitenskapelige skrivemetoder, urfolksfilosofi og om forskningsmetoder, i tre obligatoriske studieemner i bachelorgraden (á 10 studiepoeng).</p>
+<p>I 2. semesteret er det to studieemner: <span type="quote">"Reinen og reinen som ressurs"</span> (20 studiepoeng) og første del av studiet <span type="quote" xml:lang="nno">"Beite, beitetilgang og gjetning"</span>; som heter “Beiteplanter og kunnskap om beiting" (10 studiepoeng)</p>
+<p>I 3. semester fortsetter andre del av studiet <span type="quote" xml:lang="nno">"Beite, beitetilgang og gjetning"</span>; “Kunnskap om landområder og gjetning" (10 studiepoeng) og også <span type="quote">"Siidautøvelse og forvaltning av reindrift"</span> (20 studiepoeng)</p>
+<p>I 4. semesteret er det to studier <span type="quote">"Reindriftsrettslig introduksjonskurs"</span> (10 studiepoeng) og <span type="quote">"Reindriftens lover og rettsforståelser"</span> (20 studiepoeng)</p>
+<p>I 5. semesteret velger du selv hvilke studier du ønsker å knytte som del av din bachelorgrad (det er også mulig og søke om å få fag godkjent fra andre studier eller fra andre studieinstitusjoner)</p>
+<p xml:lang="swe">I 6. semester skriver du bacheloroppgave.</p>
+<p><em type="italic">Fordypningsmuligheter </em>Denne bachelorgraden kvalifiserer til videre studier på visse mastergrader, og også til mastergraden i reindriftsstudier som er under planlegging ved Samisk høgskole. </p>
+<p><em type="italic">Arbeidsmuligheter </em>Studiet gir kompetanse til å jobbe innenfor forskjellige stillinger i offentlig og privat sektor. Etter fullført studium kan man for eksempel arbeide innenfor forskjellige administrative sektorer hvor det behøves kunnskap om reindrift, utmarksutøvelse, samfunnsforhold eller samisk og urfolksperspektiv. Du kan også arbeide som reindriftsveileder, innenfor utredning og som sakkyndig, kulturarbeider, som sekretær for reindriftsdistriktene/ reindriftsstyrene, og også som forsker eller innenfor andre typer arbeidsområder. Generelt er studiet nyttig hvis du vil arbeide i miljøer hvor reindriftssaker behandles og i samiske vitenskapelige og akademiske miljøer. Hvis man i Norge i tillegg fullfører praktisk pedagogisk utdanning (PPU), gir det kompetanse til å undervise i reindriftsfag på grunnskolen eller på videregående skole. </p>
+</body></document>

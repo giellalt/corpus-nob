@@ -1,34 +1,6 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>56</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Vi-anbefaler/Blogger</origFileName>
-    <parallel_text xml:lang="sma" location="blogga.html"/>
-    <parallel_text xml:lang="sme" location="blogga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Blogger / Vi anbefaler / Bibliotek / Forsiden - Sametinget</p>
-    <p type="title">Blogger</p>
-    <p>Dette nettstedet er opprettet av Troms fylkesbibliotek som en informasjonstjeneste som skal gjøre det lettere for bibliotek i Troms å orientere seg i og holde seg oppdatert på nye utgivelser om samer og samiske forhold, og samisk litteratur, musikk og film.</p>
-    <p>Les mer</p>
-    <p type="title">Samisk bibliotektjeneste</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>56</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Vi-anbefaler/Blogger</origFileName><parallel_text xml:lang="sma" location="blogga.html"/><parallel_text xml:lang="sme" location="blogga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Blogger / Vi anbefaler / Bibliotek / Forsiden - Sametinget</p>
+<p type="title">Blogger</p>
+<p>Dette nettstedet er opprettet av Troms fylkesbibliotek som en informasjonstjeneste som skal gjøre det lettere for bibliotek i Troms å orientere seg i og holde seg oppdatert på nye utgivelser om samer og samiske forhold, og samisk litteratur, musikk og film.</p>
+<p>Les mer</p>
+<p type="title">Samisk bibliotektjeneste</p>
+</body></document>

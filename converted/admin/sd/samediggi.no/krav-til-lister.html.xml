@@ -1,96 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>573</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere/Krav-til-lister</origFileName>
-    <parallel_text xml:lang="sma" location="krievenassh-laestojde.html"/>
-    <parallel_text xml:lang="sme" location="gaibadus-listtuide.html"/>
-    <parallel_text xml:lang="smj" location="ravkalvis-listajda.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Krav til lister / Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
-    <p type="title">Krav til lister</p>
-    <p xml:lang="sme">14. mai 2013</p>
-    <p>
-      <em type="bold">For å kunne stille til sametingsvalg kreves det enten registrering som samepolitisk organisasjon, eller at en stiller liste i en valgkrets der listeforslaget underskrives av personer registrert i Sametingets valgmanntall. </em>
-    </p>
-    <p xml:lang="vep">
-      <em type="bold">SAMEPOLITISK ORGANISASJON </em>
-    </p>
-    <p>Følgende samepolitiske organisasjoner er registrert hos Sametinget:</p>
-    <list>
-      <p type="listitem">Arbeiderpartiet</p>
-      <p type="listitem" xml:lang="sme">Árja</p>
-      <p type="listitem">Fremskrittspartiet</p>
-      <p type="listitem">Høyre</p>
-      <p type="listitem" xml:lang="nno">Norske Samers Riksforbund</p>
-      <p type="listitem">Samefolkets Parti</p>
-      <p type="listitem">Samenes Folkeforbund samepolitiske enhet</p>
-      <p type="listitem" xml:lang="nno">Senterpartiet</p>
-      <p type="listitem" xml:lang="nno">Sosialistisk Venstreparti</p>
-    </list>
-    <p>For å bli nyregistrert som en samepolitisk organisasjon kreves minst 200 underskrifter fra personer registrert i Sametingets valgmanntall (jf. § 20 d i forskrift om valg til sametinget). Disse skal ligge med søknaden om å bli registrert som en samepolitisk organisasjon.</p>
-    <p>Hvis organisasjonen allerede er registrert som en samepolitisk organisasjon i Sametingets register, skal organisasjonen sende inn oppdatert informasjon om hvem som sitter i organisasjonens utøvende organ innen 2. januar 2013.</p>
-    <p>Hvis organisasjonen fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg (jf. § 28 d).</p>
-    <p xml:lang="est">
-      <em type="bold">STILLE ENKELTLISTE I VALGKRETSEN </em>
-    </p>
-    <p>Hvis organisasjonen ikke er registrert som en samepolitisk organisasjon kan en likevel stille til sametingsvalg hvis en stiller med liste som er underskrevet av minst 30 personer som er registrert i Sametingets valgmanntall i valgkretsen.</p>
-    <p>
-      <em type="bold">Hvordan sette opp listeforslag i praksis? </em>
-    </p>
-    <p>I tillegg til det som er nevnt ovenfor må listeforslaget:</p>
-    <list>
-      <p type="listitem">angi gjeldende parti/organisasjon i overskriften</p>
-      <p type="listitem">angi at det gjelder sametingsvalget</p>
-      <p type="listitem">kandidatene kan kun stå på en liste til sametingsvalget</p>
-      <p type="listitem">kandidatene skal være oppført med fornavn, etternavn og fødselsår, evt. også stilling og bosted</p>
-      <p type="listitem">for felleslister kan også opplysninger om kandidatenes tilhørighet opplyses om</p>
-      <p type="listitem">inneholde minst 40 prosent representasjon av hvert kjønn</p>
-      <p type="listitem">inneholde navn på en tillitsvalgt og en vararepresentant blant de som har underskrevet listeforslaget</p>
-      <p type="listitem">Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</p>
-      <p type="listitem">være utfylt med navnet på minst ni valgbare kandidater i kretsen. Kretser som har mellom to og fire mandater, skal føre opp ni kandidater på listeforslaget. Dersom kretsen har 5 eller flere mandater kan det samlede antall kandidater være det dobbelte</p>
-    </list>
-    <p>
-      <em type="bold">Listeforslagene for valget 2013 - antall kandidater på listen </em>
-    </p>
-    <p>Valgkrets 1 Østre valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>Valgkrets 2 Ávjovári valgkrets: 9 - 16 kandidater (valgkretsen har 8 mandater)</p>
-    <p>Valgkrets 3 Nordre valgkrets <em type="bold">: </em>9 - 10 kandidater (valgkretsen har 5 mandater) </p>
-    <p>Valgkrets 4 Gáisi valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>Valgkrets 5 Vesthavet valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
-    <p>Valgkrets 6 Sørsamisk valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
-    <p>Valgkrets 7 Sør-Norge valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>
-      <em type="bold">Fristen for innlevering av listeforslag er 2.april i valgåret 2013. Dette er en i hende frist. Listeforslaget ansees som innlever når det er kommet inn til Sametinget. </em>
-    </p>
-    <p xml:lang="nno">Kontaktsperson for Sametingsvalget for 2013 : Rådgiver Roald Andreas Sandvik tlf: 78474183</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 1.doc</p>
-    <p xml:lang="fin">89,00 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 2.doc</p>
-    <p xml:lang="fin">96,00 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 3.doc</p>
-    <p xml:lang="fin">87,50 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 4.doc</p>
-    <p xml:lang="fin">89,00 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 5.doc</p>
-    <p xml:lang="fin">84,00 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 6.doc</p>
-    <p xml:lang="fin">84,00 kB</p>
-    <p xml:lang="nno">Mal for valgliste - valgkrets 7.doc</p>
-    <p xml:lang="fin">87,00 kB</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>573</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere/Krav-til-lister</origFileName><parallel_text xml:lang="sma" location="krievenassh-laestojde.html"/><parallel_text xml:lang="sme" location="gaibadus-listtuide.html"/><parallel_text xml:lang="smj" location="ravkalvis-listajda.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Krav til lister / Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
+<p type="title">Krav til lister</p>
+<p xml:lang="sme">14. mai 2013</p>
+<p><em type="bold">For å kunne stille til sametingsvalg kreves det enten registrering som samepolitisk organisasjon, eller at en stiller liste i en valgkrets der listeforslaget underskrives av personer registrert i Sametingets valgmanntall. </em></p>
+<p xml:lang="vep"><em type="bold">SAMEPOLITISK ORGANISASJON </em></p>
+<p>Følgende samepolitiske organisasjoner er registrert hos Sametinget:</p>
+<list><p type="listitem">Arbeiderpartiet</p>
+<p type="listitem" xml:lang="sme">Árja</p>
+<p type="listitem">Fremskrittspartiet</p>
+<p type="listitem">Høyre</p>
+<p type="listitem" xml:lang="nno">Norske Samers Riksforbund</p>
+<p type="listitem">Samefolkets Parti</p>
+<p type="listitem">Samenes Folkeforbund samepolitiske enhet</p>
+<p type="listitem" xml:lang="nno">Senterpartiet</p>
+<p type="listitem" xml:lang="nno">Sosialistisk Venstreparti</p>
+</list><p>For å bli nyregistrert som en samepolitisk organisasjon kreves minst 200 underskrifter fra personer registrert i Sametingets valgmanntall (jf. § 20 d i forskrift om valg til sametinget). Disse skal ligge med søknaden om å bli registrert som en samepolitisk organisasjon.</p>
+<p>Hvis organisasjonen allerede er registrert som en samepolitisk organisasjon i Sametingets register, skal organisasjonen sende inn oppdatert informasjon om hvem som sitter i organisasjonens utøvende organ innen 2. januar 2013.</p>
+<p>Hvis organisasjonen fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg (jf. § 28 d).</p>
+<p xml:lang="est"><em type="bold">STILLE ENKELTLISTE I VALGKRETSEN </em></p>
+<p>Hvis organisasjonen ikke er registrert som en samepolitisk organisasjon kan en likevel stille til sametingsvalg hvis en stiller med liste som er underskrevet av minst 30 personer som er registrert i Sametingets valgmanntall i valgkretsen.</p>
+<p><em type="bold">Hvordan sette opp listeforslag i praksis? </em></p>
+<p>I tillegg til det som er nevnt ovenfor må listeforslaget:</p>
+<list><p type="listitem">angi gjeldende parti/organisasjon i overskriften</p>
+<p type="listitem">angi at det gjelder sametingsvalget</p>
+<p type="listitem">kandidatene kan kun stå på en liste til sametingsvalget</p>
+<p type="listitem">kandidatene skal være oppført med fornavn, etternavn og fødselsår, evt. også stilling og bosted</p>
+<p type="listitem">for felleslister kan også opplysninger om kandidatenes tilhørighet opplyses om</p>
+<p type="listitem">inneholde minst 40 prosent representasjon av hvert kjønn</p>
+<p type="listitem">inneholde navn på en tillitsvalgt og en vararepresentant blant de som har underskrevet listeforslaget</p>
+<p type="listitem">Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</p>
+<p type="listitem">være utfylt med navnet på minst ni valgbare kandidater i kretsen. Kretser som har mellom to og fire mandater, skal føre opp ni kandidater på listeforslaget. Dersom kretsen har 5 eller flere mandater kan det samlede antall kandidater være det dobbelte</p>
+</list><p><em type="bold">Listeforslagene for valget 2013 - antall kandidater på listen </em></p>
+<p>Valgkrets 1 Østre valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p>Valgkrets 2 Ávjovári valgkrets: 9 - 16 kandidater (valgkretsen har 8 mandater)</p>
+<p>Valgkrets 3 Nordre valgkrets <em type="bold">: </em>9 - 10 kandidater (valgkretsen har 5 mandater) </p>
+<p>Valgkrets 4 Gáisi valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p>Valgkrets 5 Vesthavet valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
+<p>Valgkrets 6 Sørsamisk valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
+<p>Valgkrets 7 Sør-Norge valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p><em type="bold">Fristen for innlevering av listeforslag er 2.april i valgåret 2013. Dette er en i hende frist. Listeforslaget ansees som innlever når det er kommet inn til Sametinget. </em></p>
+<p xml:lang="nno">Kontaktsperson for Sametingsvalget for 2013 : Rådgiver Roald Andreas Sandvik tlf: 78474183</p>
+<p>Mal for valgliste - valgkrets 1.doc</p>
+<p xml:lang="fin">89,00 kB</p>
+<p>Mal for valgliste - valgkrets 2.doc</p>
+<p xml:lang="fin">96,00 kB</p>
+<p>Mal for valgliste - valgkrets 3.doc</p>
+<p xml:lang="fin">87,50 kB</p>
+<p>Mal for valgliste - valgkrets 4.doc</p>
+<p xml:lang="fin">89,00 kB</p>
+<p>Mal for valgliste - valgkrets 5.doc</p>
+<p xml:lang="fin">84,00 kB</p>
+<p>Mal for valgliste - valgkrets 6.doc</p>
+<p xml:lang="fin">84,00 kB</p>
+<p>Mal for valgliste - valgkrets 7.doc</p>
+<p xml:lang="fin">87,00 kB</p>
+</body></document>

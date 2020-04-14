@@ -1,87 +1,57 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>267</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Avfall-og-gjenvinning/</origFileName>
-    <parallel_text xml:lang="eng" location="index_40.html"/>
-    <parallel_text xml:lang="sma" location="index_40.html"/>
-    <parallel_text xml:lang="sme" location="index_40.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Avfall og gjenvinning - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="dan">Miljø og klima</p>
-    <p xml:lang="nno">Avfall og gjenvinning</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
-      <p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
-      <p type="listitem">Fiskeoppdrett</p>
-      <p type="listitem" xml:lang="dan">Forurensning</p>
-      <p type="listitem" xml:lang="nno">Friluftsliv</p>
-      <p type="listitem" xml:lang="kal">Klima</p>
-      <p type="listitem" xml:lang="est">Motorferdsel</p>
-      <p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p></list></p>
-      <p type="listitem" xml:lang="est">Rovvilt</p>
-      <p type="listitem" xml:lang="isl">Vann</p>
-      <p type="listitem" xml:lang="dan">Verneområder</p>
-    </list>
-    <p type="title" xml:lang="nno">Avfall og gjenvinning</p>
-    <p xml:lang="nno">Publisert 01.05.2016 Oppdatert 27.02.2017</p>
-    <p>Avfall og gjenvinning omfatter innsamling, mottak, lagring, behandling, gjenvinning og annen håndtering av avfall. Dette kan føre til utslipp av klimagasser, tungmetaller og andre miljøgifter.</p>
-    <p type="title" xml:lang="swe">Farlig avfall</p>
-    <p>Farlig avfall kan ikke håndteres sammen med vanlig avfall. Farlig avfall inneholder helse- og miljøfarlige kjemikalier som kan føre til alvorlig forurensning og skade mennesker og dyr. Virksomheter som produserer farlig avfall, har plikt til å levere dette til godkjent avfallsmottak. Før transport skal avfallet deklareres elektronisk på www.avfallsdeklarering.no .</p>
-    <p type="title">Fylkesmannen kan gi tillatelse</p>
-    <p>Fylkesmannen er forurensningsmyndighet for de fleste avfallsanlegg og kan gi tillatelse til virksomhet som medfører forurensning. Dette omfatter anlegg for mottak, sortering og behandling av avfall, bilvraksplasser, deponier, komposteringsanlegg og forbrenningsanlegg. Når Fylkesmannen gir slike tillatelser, må virksomheten i noen tilfeller sette i gang spesifikke tiltak for å minske ulempen for andre. Fylkesmannen skal også hente inn avfallsplaner fra havner og drive tilsyn med dem.</p>
-    <p>Fylkesmannen kontrollerer avfallsanleggene for å sikre at kravene i tillatelsene blir overholdt. Det er forurensningsloven, avfallsforskriftene, internkontrollforskriften og tillatelsene som er gitt, som ligger til grunn for kontrollene.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Forurensningsloven om avfall</p>
-      <p type="listitem">Avfallsforskriften</p>
-      <p type="listitem" xml:lang="swe">Miljøstatus: avfall</p>
-      <p type="listitem" xml:lang="kal">Norskeutslipp</p>
-      <p type="listitem" xml:lang="swe">Miljøkommune: avfall</p>
-      <p type="listitem" xml:lang="nno">Regelhjelp</p>
-      <p type="listitem" xml:lang="dan">Er det farlig?</p>
-      <p type="listitem">Avfallsdeklarering</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>267</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Avfall-og-gjenvinning/</origFileName><parallel_text xml:lang="eng" location="index_40.html"/><parallel_text xml:lang="sma" location="index_40.html"/><parallel_text xml:lang="sme" location="index_40.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Avfall og gjenvinning - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="dan">Miljø og klima</p>
+<p xml:lang="nno">Avfall og gjenvinning</p>
+<list><p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
+<p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
+<p type="listitem">Fiskeoppdrett</p>
+<p type="listitem" xml:lang="dan">Forurensning</p>
+<p type="listitem" xml:lang="nno">Friluftsliv</p>
+<p type="listitem" xml:lang="kal">Klima</p>
+<p type="listitem" xml:lang="est">Motorferdsel</p>
+<p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p>
+</list></p>
+<p type="listitem" xml:lang="est">Rovvilt</p>
+<p type="listitem" xml:lang="isl">Vann</p>
+<p type="listitem" xml:lang="dan">Verneområder</p>
+</list><p type="title" xml:lang="nno">Avfall og gjenvinning</p>
+<p xml:lang="nno">Publisert 01.05.2016 Oppdatert 27.02.2017</p>
+<p>Avfall og gjenvinning omfatter innsamling, mottak, lagring, behandling, gjenvinning og annen håndtering av avfall. Dette kan føre til utslipp av klimagasser, tungmetaller og andre miljøgifter.</p>
+<p type="title" xml:lang="swe">Farlig avfall</p>
+<p>Farlig avfall kan ikke håndteres sammen med vanlig avfall. Farlig avfall inneholder helse- og miljøfarlige kjemikalier som kan føre til alvorlig forurensning og skade mennesker og dyr. Virksomheter som produserer farlig avfall, har plikt til å levere dette til godkjent avfallsmottak. Før transport skal avfallet deklareres elektronisk på www.avfallsdeklarering.no .</p>
+<p type="title">Fylkesmannen kan gi tillatelse</p>
+<p>Fylkesmannen er forurensningsmyndighet for de fleste avfallsanlegg og kan gi tillatelse til virksomhet som medfører forurensning. Dette omfatter anlegg for mottak, sortering og behandling av avfall, bilvraksplasser, deponier, komposteringsanlegg og forbrenningsanlegg. Når Fylkesmannen gir slike tillatelser, må virksomheten i noen tilfeller sette i gang spesifikke tiltak for å minske ulempen for andre. Fylkesmannen skal også hente inn avfallsplaner fra havner og drive tilsyn med dem.</p>
+<p>Fylkesmannen kontrollerer avfallsanleggene for å sikre at kravene i tillatelsene blir overholdt. Det er forurensningsloven, avfallsforskriftene, internkontrollforskriften og tillatelsene som er gitt, som ligger til grunn for kontrollene.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem" xml:lang="swe">Forurensningsloven om avfall</p>
+<p type="listitem">Avfallsforskriften</p>
+<p type="listitem" xml:lang="swe">Miljøstatus: avfall</p>
+<p type="listitem" xml:lang="kal">Norskeutslipp</p>
+<p type="listitem" xml:lang="swe">Miljøkommune: avfall</p>
+<p type="listitem" xml:lang="nno">Regelhjelp</p>
+<p type="listitem" xml:lang="dan">Er det farlig?</p>
+<p type="listitem">Avfallsdeklarering</p>
+</list></body></document>

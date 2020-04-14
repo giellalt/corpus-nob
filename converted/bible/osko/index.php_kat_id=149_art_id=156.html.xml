@@ -1,64 +1,27 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>247</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=149&amp;art_id=156</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=149_art_id=156.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=149_art_id=156.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=149_art_id=156.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Lavvo</p>
-    <p type="title">Bønn</p>
-    <p>I Bibelen står det om bønn. Det står at Gud ønsker at vi skal be, og det står at han hører våre bønner. Det finnes ingen regler for hvordan vi skal be.</p>
-    <list>
-      <p type="listitem">Du kan be selv om du ikke har noe å si. Det som betyr noe er at Gud har lovet å komme nær oss når vi ber.</p>
-      <p type="listitem">Du kan be høyt eller stille</p>
-      <p type="listitem">Du kan rope og klage</p>
-      <p type="listitem">Du kan takke</p>
-      <p type="listitem">Du kan juble</p>
-      <p type="listitem">Du kan si det du ikke forstår</p>
-      <p type="listitem">Du kan be om hjelp</p>
-      <p type="listitem">Du kan be om helbredelse</p>
-      <p type="listitem">Du kan be om tilgivelse</p>
-      <p type="listitem">Du kan be om trøst</p>
-      <p type="listitem">Du kan bare fortelle</p>
-      <p type="listitem">Du kan be alene eller du kan be sammen med andre</p>
-      <p type="listitem">Du kan bruke bibelen når du ber – slik som Salmene i Det gamle testamentet</p>
-      <p type="listitem">Du kan be Fader Vår</p>
-      <p type="listitem">Du kan be Jesus-bønnen på inn og utpust: Herre, Jesus Kristus miskunne deg over meg, en synder</p>
-      <p type="listitem">Du kan be for andre mennesker</p>
-      <p type="listitem">Du kan be Gud vise deg hva du skal gjøre</p>
-      <p type="listitem">Du kan be for fred</p>
-    </list>
-    <p>
-      <em type="italic">Du kan droppe hele denne lista og bare si: "Gud!" og så leve og elske. Som et Guds barn. </em>
-    </p>
-    <p>
-      <em type="italic">Lytt og les sangteksten til Ann Mari Andersen </em>
-    </p>
-    <p/>
-    <p>
-      <em type="italic">Hva er forskjell mellom bønn og sang? Kan sang være en måte å be på? Hvordan kan kristne over hele verden holde håpet oppe og tro på en god Gud, når det skjer så mye ondt i verden? </em>
-    </p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>247</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=149&amp;art_id=156</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=149_art_id=156.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=149_art_id=156.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=149_art_id=156.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Lavvo</p>
+<p type="title">Bønn</p>
+<p>I Bibelen står det om bønn. Det står at Gud ønsker at vi skal be, og det står at han hører våre bønner. Det finnes ingen regler for hvordan vi skal be.</p>
+<list><p type="listitem">Du kan be selv om du ikke har noe å si. Det som betyr noe er at Gud har lovet å komme nær oss når vi ber.</p>
+<p type="listitem">Du kan be høyt eller stille</p>
+<p type="listitem">Du kan rope og klage</p>
+<p type="listitem">Du kan takke</p>
+<p type="listitem">Du kan juble</p>
+<p type="listitem">Du kan si det du ikke forstår</p>
+<p type="listitem">Du kan be om hjelp</p>
+<p type="listitem">Du kan be om helbredelse</p>
+<p type="listitem">Du kan be om tilgivelse</p>
+<p type="listitem">Du kan be om trøst</p>
+<p type="listitem">Du kan bare fortelle</p>
+<p type="listitem">Du kan be alene eller du kan be sammen med andre</p>
+<p type="listitem">Du kan bruke bibelen når du ber – slik som Salmene i Det gamle testamentet</p>
+<p type="listitem">Du kan be Fader Vår</p>
+<p type="listitem">Du kan be Jesus-bønnen på inn og utpust: Herre, Jesus Kristus miskunne deg over meg, en synder</p>
+<p type="listitem">Du kan be for andre mennesker</p>
+<p type="listitem">Du kan be Gud vise deg hva du skal gjøre</p>
+<p type="listitem">Du kan be for fred</p>
+</list><p><em type="italic">Du kan droppe hele denne lista og bare si: "Gud!" og så leve og elske. Som et Guds barn. </em></p>
+<p><em type="italic">Lytt og les sangteksten til Ann Mari Andersen </em></p>
+<p/>
+<p><em type="italic">Hva er forskjell mellom bønn og sang? Kan sang være en måte å be på? Hvordan kan kristne over hele verden holde håpet oppe og tro på en god Gud, når det skjer så mye ondt i verden? </em></p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

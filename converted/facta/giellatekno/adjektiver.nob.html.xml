@@ -1,882 +1,442 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Adjektiv</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>2583</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/adjektiver.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="adjektiver.eng.html"/>
-    <parallel_text xml:lang="sme" location="adjektiver.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nno">Adjektiv</p>
-    <list>
-      <p type="listitem">Ulike stammer</p>
-      <p type="listitem" xml:lang="est">Stadieveksling</p>
-      <p type="listitem">Andre konsonantvekslinger</p>
-      <p type="listitem">Attributiv og predikativ form</p>
-      <p type="listitem" xml:lang="swe">buorre' som attributt</p>
-      <p type="listitem" xml:lang="eng">Komparering</p>
-      <p type="listitem" xml:lang="est">Kasus</p>
-      <p type="listitem" xml:lang="vep">Nominativ</p>
-      <p type="listitem" xml:lang="kal">Akkusativ</p>
-      <p type="listitem" xml:lang="vep">Genitiv</p>
-      <p type="listitem" xml:lang="smj">Illativ</p>
-      <p type="listitem" xml:lang="fin">Lokativ</p>
-      <p type="listitem" xml:lang="vep">Komitativ</p>
-      <p type="listitem" xml:lang="swe">Essiv</p>
-    </list>
-    <p>Tilbake til grammatikk hovedside .</p>
-    <p><em type="italic">Adjektiv </em>forteller hvordan noe eller noen er, f.eks. hvordan det/den ser ut, f.eks. <em type="italic">Mus lea 'rukses' biila. Son lea 'lihkolaš'. </em></p>
-    <p type="title">Ulike stammer</p>
-    <p>Adjektivene bøyes forskjellig, alt etter hvor mange stavelser det er i den siste takta i ordet. <em type="italic">Takt </em>er en gruppe av stavelser der den første stavelsen har trykk: <em type="italic">nuorra </em>og <em type="italic">dábálaš </em>har begge en takt, selv om ordene har ulikt antall stavelser, mens <em type="italic">bealje-heapme </em>har to takter. </p>
-    <p><em type="italic">Likestavelsesadjektiv </em>har to stavelser i siste takt i flertall. Disse adjektivene har sterkt stadium i nominativ entall, og svakt stadium i flertall, f.eks. <em type="italic">nuorra - nuorat </em>. Ikke alle har stadieveksling, f.eks. <em type="italic">hávski - hávskit </em>. </p>
-    <p><em type="italic">Ulikestavelsesadjektiv </em>har tre stavelser i siste takt i flertall, f.eks. <em type="italic">suohtas - suohttasat, </em><em type="italic">bivnnut - bivnnuhat </em>. Nominativ entall har svakt stadium, de fleste andre formene har sterkt stadium, men ikke alle ulikestavelses substantiver har stadieveksling. </p>
-    <p><em type="italic">Kontrakt adjektiv </em>har to stavelser i siste takt i både entall og flertall. Adjektivet har svakt stadium i nominativ entall og sterkt eller ekstra sterkt stadium i flertall, f.eks. <em type="italic">njálggis - njálgát, stuoris - stuorrát </em>. </p>
-    <p type="title" xml:lang="est">Stadieveksling</p>
-    <p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i ei takt, f.eks. <em type="italic">nuorra - nuorat </em>. Det er <em type="italic">sterkt stadium </em>f.eks. i nominativ entall i likestavelsesadjektiv, og i nominativ flertall i ulikestavelsesadjektiv. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nominativ flertall i likestavelsesadjektiv, eller i nominativ ental i ulikestavelsesadjektiv. </p>
-    <p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre. Vær obs på at '-i-' regnes som konsonant (-j-) når den står etter en vokal, og er dermed en del av konsonantgruppa:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">nuo <em type="italic">rr </em>a - nuo <em type="italic">r </em>at, fa <em type="italic">ll </em>i - fa <em type="italic">l </em>it, o <em type="italic">đđ </em>asat - o <em type="italic">đ </em>as </p>
-      <p type="listitem" xml:lang="sme">á <em type="italic">rg </em>i - á <em type="italic">rgg </em>it, gá <em type="italic">rž </em>i - gá <em type="italic">ržž </em>it, lá <em type="italic">ik </em>i - lá <em type="italic">ikk </em>it </p>
-      <p type="listitem" xml:lang="est">hea <em type="italic">dj </em>u - hea <em type="italic">j </em>ut, bealjehea <em type="italic">pm </em>e - bealjehea <em type="italic">m </em>it </p>
-      <p type="listitem" xml:lang="sme">čea <em type="italic">hpp </em>i - čea <em type="italic">hp </em>it, njoa <em type="italic">hc </em>i - njoa <em type="italic">z </em>it, u <em type="italic">hcc </em>i - u <em type="italic">hc </em>it, hi <em type="italic">ht </em>ásat - hi <em type="italic">đ </em>is </p>
-    </list>
-    <p>Likestavelsesadjektiv kan også slutte på en konsonant i nominativ entall, som i ordene <em type="italic">lihkolaš, nuoramus </em>. I bøyningen av disse ordene vil det legges til en ekstra stavelse, og ordet får to takter: ('nuo-ra)('mu-sa). Da vil det være stadieveksling i ordets siste takt. Sterk grad vil forekomme i illativ entall og essiv. Eksempler med nominativ entall og flertall og illativ entall: </p>
-    <list>
-      <p type="listitem" xml:lang="kal">nuoramu <em type="italic">s </em>- nuoramu <em type="italic">s </em>at - nuoramu <em type="italic">ss </em>ii </p>
-      <p type="listitem" xml:lang="smn">lihkola <em type="italic">š </em>- lihkola <em type="italic">čč </em>at - lihkola <em type="italic">žž </em>ii </p>
-    </list>
-    <p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
-    <p type="title">Andre konsonantvekslinger</p>
-    <p>Noen adjektiv slutter på konsonant i nominativ entall. I nordsamisk er det begrensninger på hvilke konsonanter som kan forekomme i slutten av ord, og da kan vi få spesielle konsonantvekslinger mellom nominativ entall og de andre kasusene. Konsonanter som kan forekomme i slutten av ord er t, s, š, l, r og n. Eksempler på vekslinger i ulikestavelsesadjektiv og kontrakte adjektiv:</p>
-    <list>
-      <p type="listitem" xml:lang="nno"><em type="italic">t &gt; h </em>, f.eks. bivnnut - bivnnuha, čáppat - čáppahin </p>
-      <p type="listitem" xml:lang="est"><em type="italic">t &gt; d </em>, f.eks. jaskat - jaskada </p>
-      <p type="listitem"><em type="italic">t &gt; g </em>, f.eks. ártet - ártega </p>
-      <p type="listitem"><em type="italic">t &gt; b </em>, f.eks. buoret - buorebu </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, f.eks. dološ - doloža </p>
-    </list>
-    <p xml:lang="nno">Legg merke til at 'š' ikke alltid veksler: <em type="italic">imaš - ipmaša </em>. </p>
-    <p>Likestavelsesadjektiv som slutter på konsonant, har lignende vekslinger:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, omd. <em type="italic">lihkolaš - lihkolačča </em></p>
-    </list>
-    <p>Likestavelsesadjektiv får også stadieveksling i disse konsonantene, les mer om det her .</p>
-    <p>Noen ulikestavelsesadjektiv som slutter på en vokal i nominativ entall, får likevel en ekstra konsonant i de andre formene:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, omd. <em type="italic">guohca - guohccaga, bahča - bahččaga </em></p>
-    </list>
-    <p xml:lang="nno">Kontrakte adjektiv som slutter på -i, får en veksling i&gt;j mellom nominativ entall og essiv i skriftspråket.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, omd. <em type="italic">čeavlái - čeavlájin, muoŧŧái - muoŧŧájin </em></p>
-    </list>
-    <p type="title">Attributiv og predikativ form</p>
-    <p>Adjektiv har <em type="italic">attributtform </em>når det står foran substantivet: <em type="italic">'fiskes' viessu </em>. Attributtform er lik uansett hvilket tall eller kasus substantivet har, bortsett fra for adjektivet <em type="italic">buorre </em>. Attributtformen finner man oppgitt i ordbøker, gjerne markert med #, f.eks. <em type="italic">ruoksat, #rukses. </em></p>
-    <p>Når adjektivet står etter substantivet, så har det <em type="italic">predikativform </em>: <em type="italic">Viessu lea 'fiskat'. Viesut leat 'fiskadat'. Nieida lea 'nuorra'. Nieiddat leat 'nuorat'. Moai letne 'nuorat'. </em>Predikativformen står i entall når subjektet står i entall, og i flertall når subjektet står i totall eller flertall. I ordbøkene finner man oppgitt konsonanten mellom andre og tredje stavelse for ulikestavelsesadjektiver, f.eks. <em type="italic">ruoksat -d- </em>- som blir <em type="italic">ruoksadat </em>i flertall. Les mer om slike vekslinger her . </p>
-    <p type="title" xml:lang="swe">buorre' som attributt</p>
-    <p xml:lang="nno">Når <em type="italic">buorre </em>står som attributt til et substantiv, så bøyes det i samsvar med substantivet, både i tall og kasus. <em type="italic">buorre </em>skal ha samme form som substantivet i de fleste kasus. Unntakene er illativ og lokativ entall. Da skal <em type="italic">buorre </em>stå i akkusativ/genitiv form. </p>
-    <list>
-      <p type="listitem"><em type="italic">Mus lea 'buorre biila'. </em>Jeg har en god bil. </p>
-      <p type="listitem" xml:lang="nno"><em type="italic">Mun oasttán 'buori biilla'. </em>Jeg kjøper en bra bil. </p>
-      <p type="listitem"><em type="italic">Buori biillas' oažžu 'buori hatti'. </em>Man får god pris på en god bil. </p>
-      <p type="listitem"><em type="italic">Duđan dušše 'buori biilii'. </em>Jeg aksepterer bare en god bil. </p>
-      <p type="listitem"><em type="italic">Buriin biillain' olle guhkás. </em>Man kommer langt med en god bil. </p>
-      <p type="listitem"><em type="italic">Gádden dien 'buorren biilan'. </em>Jeg trodde det var en god bil. </p>
-    </list>
-    <p>Foran et substantiv i flertall, skal <em type="italic">buorre </em>stå i flertall. I illativ og komitativ flertall kan <em type="italic">buorre </em>stå i akkusativ/genitiv flertall. </p>
-    <list>
-      <p type="listitem" xml:lang="dan"><em type="italic">Buorit biillat' leat divrasat. </em>Gode biler er dyre. </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Buriid biillaid' lea álki vuovdit. </em>Det er lett å selge gode biler. </p>
-      <p type="listitem" xml:lang="dan"><em type="italic">Buriin biillain' leat 'buorit goazanat'. </em>Gode biler har gode bremser. </p>
-      <p type="listitem"><em type="italic">Liikon 'buriid/buriide biillaide'. </em>Jeg liker gode biler. </p>
-      <p type="listitem"><em type="italic">Buriiguin/buriid biillaiguin' olle guhkás. </em>Man kommer langt med gode biler. </p>
-    </list>
-    <p type="title" xml:lang="eng">Komparering</p>
-    <p>Man kan gradbøye adjektiver, i tre grader: <em type="italic">unni - unnit - unnimus </em>(liten - mindre - minst). </p>
-    <p xml:lang="nno"><em type="italic">Positiv </em>er grunnformen av adjektivet - <em type="italic">unni boaris stuoris </em>. </p>
-    <p><em type="italic">Komparativ </em>er sammenligningsgrad av adjektivet, og brukes når man sammenlikner to ting. Komparativendelsen for likestavelses- og kontrakte adjektiv er '-t': <em type="italic">unnit (unni), stuorit (stuoris) </em>. Ulikestavelsesadjektiv har flere mulige komparativendelser: '-et/-eabbo', '-at/-abbo': <em type="italic">boarráset, boarráseabbo, boarrásat, boarrásabbo (boaris) </em>. </p>
-    <p><em type="italic">Superlativ </em>er høyeste grad av adjektivet, og brukes når man sammenlikner mer enn to ting. Superlativendelsen for likestavelses- og kontrakte adjektiv er '-mus': <em type="italic">unnimus (unni). stuorimus (stuoris) </em>. Ulikestavelsesadjektiv har to mulige endelser: '-eamos' og '-amos': <em type="italic">boarráseamos boarrásamos (boaris) </em>. </p>
-    <p>Komparerte former brukes både som attributt og predikativ.</p>
-    <p>Når de brukes som <em type="italic">attributt </em>, så skal de ikke samsvarsbøyes med det substantivet de beskriver: <em type="italic">(unni: unnit mánná, unnimus mánát) </em><em type="italic">(stuoris: stuorit mánná, stuorimus mánát) </em>. </p>
-    <p>Legg merke til at i attributtform er det bare korte komparativendelser som er mulige i ulikestavelsesadjektiv: <em type="italic">boaris: boarráset/boarrásat mánná, boarráseamos/boarrásamos mánát </em>. </p>
-    <p>Når komparerte former brukes som <em type="italic">predikativ </em>, så skal de samsvarsbøyes i tall med det substantivet de beskriver. Da er det forskjell på entall og flertall. </p>
-    <list>
-      <p type="listitem" xml:lang="vep">
-        <em type="italic">Komparativ: </em>
-      </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'unnit' go mun. Soai leaba 'unnibut' go mun </em>. </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'stuorát' go mun. Soai leaba 'stuorábut' go mun </em>. </p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">Elle lea 'boarráseabbo/boarrásabbo' go mun. </em>
-      </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'boarráseappot/boarrásabbot' go mun </em>. </p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="kal">
-        <em type="italic">Superlativ: </em>
-      </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'unnimus'. Soai leaba 'unnimusat </em>. </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'stuorimus'. Soai leaba stuorimusat </em>. </p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">Elle lea 'boarráseamos/boarrásamos'. </em>
-      </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'boarrásepmosat/boarrásamosat </em>. </p>
-    </list>
-    <p type="title" xml:lang="est">Kasus</p>
-    <p>er bøyningsformer som markerer hvilken funksjon <em type="italic">nomen </em>har i setningen. Nomen er enten substantiv, adjektiv, tallord eller pronomen. I nordsamisk er det sju kasus. Adjektiv kan brukes som substantiv og bøyes da i alle kasus. Bøyningsmønsteret er det samme som for substantiver. Legg merke til at komparerte adjektiv bøyes etter den takten de har i komparert form. </p>
-    <p type="title" xml:lang="vep">Nominativ</p>
-    <p>er kasus som angir grunnformen av nomen, f.eks. <em type="italic">Nieida lea 'nuorra </em>. </p>
-    <p xml:lang="nno">Flertall har endingen '-t' og likestavelsesadjektiv får svakt stadium: <em type="italic">Nieiddat leat 'nuorat </em>. </p>
-    <p>Ulikestavelsesadjektiv har svakt stadium i entall og sterkt stadium i flertall, f.eks. <em type="italic">Náhkki lea 'linis'. Náhkit leat 'litnásat'. </em></p>
-    <p>Kontrakte adjektiv har svakt stadium i entall og får sterkt eller ekstra sterkt stadium i flertall, f.eks. <em type="italic">Gussa lea 'stuoris'. Gusat leat 'stuorrát'. </em></p>
-    <p>Komparerte adjektiv bøyes også i flertall. Komparativ form av likestavelsesadjektiv og kontrakte adjektiv får ulikestavelsesstamme, med tre stavelser i siste takt i flertall. Endelsen '-t' i entall veksler med '-bu' i flertall. <em type="italic">nuorat - nuorabut, stuorát - stuorábut, dábálaččat - dábálaččabut. </em></p>
-    <p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' bøyes som likestavelsessubstantiv hvis endelsen for komparativ er '-eabbo' eller '-abbo'. De korte endelsene '-at' og '-et' i entall veksler med '-abbo'/'-eabbo'-endelsene i flertall. Legg merke til at endelsen '-eabbo' har stadieveksling, med svak grad i flertall: <em type="italic">dábálat - dábálabbot, dábáleabbo - dábáleappot, dábálabbo - dábálabbot. </em></p>
-    <p>Komparativ form av ulikestavelsesadjektiv får likestavelsesstamme, med to stavelser i siste takt i flertall. De korte endelsene '-at' og '-et' i entall veksler med '-abbo/-eabbo'-endelsene i flertall. Legg merke til at endelsen -eabbo har stadieveksling, med svak grad i flertall. <em type="italic">boarráset - boarráseappot, boarrásabbo - boarrásabbot. </em></p>
-    <p>De superlative formene beholder sin opprinnelige takt, bortsett fra kontrakte adjektiv, som får likestavelsesstamme. I likestavelses- og kontrakte adjektiv er superlativendelsen '-mus', mens i ulikestavelsesadjektiv er superlativendelsen '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall: <em type="italic">nuoramus - nuoramusat, dábálaččamus - dábálaččamusat, stuorámus - stuorámusat, boarráseamos - boarrásepmosat. </em></p>
-    <p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' kan også bøyes som ulikestavelsessubstantiv hvis endelsen for superlativ er '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall. <em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat. </em></p>
-    <p xml:lang="vep">
-      <em type="bold">NOMINATIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorra </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorat </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorat </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabut </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusat </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaš </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččat </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálat, dábálet, dábáleabbo, dábálabbo, dábálaččat </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappot, dábálabbot, dábálaččabut </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="smj">
-      <em type="italic">dábáleamos, dábálamos, dábálaččamus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosat, dábálamosat, dábálaččamusat </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="est">
-      <em type="italic">linis </em>
-    </p>
-    <p xml:lang="smj">
-      <em type="italic">litnásat </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnásat, litnáset, litnásabbo, litnáseabbo </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappot, litnásabbot </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseamos, litnásamos </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosat, litnásamosat </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuoris </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorrát </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorit, stuorát </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribut, stuorábut </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusat, stuorámusat </em>
-    </p>
-    <p type="title" xml:lang="kal">Akkusativ</p>
-    <p>er kasus som brukes for objekt, f.eks. <em type="italic">Mun oasttán 'hálbbibu'. </em>Flertallsendelsen er '-id'. </p>
-    <p>Likestavelsesadjektiv har svakt stadium i både entall og flertall: <em type="italic">nuora - nuoraid (nuorra) </em>. </p>
-    <p>Ulikestavelsesadjektiv får sterkt stadium, hvis de har stadieveksling, og i entall endinga '-a': <em type="italic">litnása - litnásiid (linis), ruoksada - ruoksadiid (ruoksat) </em>. </p>
-    <p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">stuorrá - stuorráid (stuoris), njálgá - njálgáid (njálggis) </em>. </p>
-    <p>Komparativ form av likestavelsesadjektiv og kontrakte adjektiv: endelsen '-t' i entall veksler med '-bu'. <em type="italic">nuorabu - nuorabuid (nuorat), stuorábu - stuorábuid (stuorát), dábálaččabu - dábálaččabuid (dábálaččat). Mun oasttán 'hálbbibuid'. </em></p>
-    <p xml:lang="nno">Komparative former med '-abbo'/'-eabbo': Legg merke til at endelsen '-eabbo' har stadieveksling: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>. </p>
-    <p xml:lang="sme">
-      <em type="italic">Mun vieččan 'boarráseappo'. Mun vieččan 'boarráseappuid'. </em>
-    </p>
-    <p xml:lang="sme">De superlative formene: <em type="italic">Mun oasttán 'hálbbimusa'. Mun oasttán 'hálbbimusaid'. </em></p>
-    <p xml:lang="nno">Legg merke til at endelsen '-eamos' har stadieveksling: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos) </em><em type="italic">dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos). </em></p>
-    <p xml:lang="nno">I nordsamisk er adjektivenes akkusativ- og genitivformer like.</p>
-    <p xml:lang="vep">
-      <em type="bold">AKKUSATIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smj">
-      <em type="italic">nuora </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoraid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="smj">
-      <em type="italic">nuorabu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusaid </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálačča </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččaid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappo, dábálabbo, dábálaččabu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuid, dábálabbuid, dábálaččabuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosa, dábálamosa, dábálaččamusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiid, dábálamosiid, dábálaččamusaid </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smj">
-      <em type="italic">litnása </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásiid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappo, litnásabbo </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuid, litnásabbuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="smj">
-      <em type="italic">litnásepmosa, litnásamosa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosiid, litnásamosiid </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorrá </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="smj">
-      <em type="italic">stuoribu, stuorábu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuid, stuorábuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusa, stuorámusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusaid, stuorámusaid </em>
-    </p>
-    <p type="title" xml:lang="vep">Genitiv</p>
-    <p>er kasus som angir eieform: <em type="italic">riggá </em>(den rikes) - <em type="italic">riggáid </em>(de rikes). Genitiv brukes også i pre- og postposisjonsuttrykk, f.eks. <em type="italic">Jallaid' gaskkas lei jierbmái </em>. Flertallsendelsen er '-id'. </p>
-    <p>Likestavelsesadjektiv har svakt stadium i både entall og flertall: <em type="italic">nuora - nuoraid (nuorra) </em>. </p>
-    <p>Ulikestavelsesadjektiv får sterkt stadium, hvis de har stadieveksling, og i entall endinga '-a': <em type="italic">litnása - litnásiid (linis), ruoksada - ruoksadiid (ruoksat) </em>. </p>
-    <p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">stuorrá - stuorráid (stuoris), njálgá - njálgáid (njálggis) </em>. </p>
-    <p>Komparativ form av likestavelsesadjektiv og kontrakte adjektiv: endelsen '-t' i entall veksler med '-bu'. <em type="italic">nuorabu - nuorabuid (nuorat), stuorábu - stuorábuid (stuorát), dábálaččabu - dábálaččabuid (dábálaččat). </em></p>
-    <p xml:lang="nno">Komparative former med '-abbo'/'-eabbo': Legg merke til at endelsen '-eabbo' har stadieveksling: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo). </em>. </p>
-    <p xml:lang="sme">
-      <em type="italic">Dat lea 'boarráseappo' musihkka. Son lea 'boarráseappuid' gaskkas. </em>
-    </p>
-    <p xml:lang="nno">De superlative formene: <em type="italic">hálbbimusa - hálbbimusaid (hálbbimus) </em></p>
-    <p xml:lang="nno">Legg merke til at endelsen '-eamos' har stadieveksling: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos), dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos) </em></p>
-    <p xml:lang="nno">I nordsamisk er adjektivenes akkusativ- og genitivformer like.</p>
-    <p xml:lang="vep">
-      <em type="bold">GENITIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smj">
-      <em type="italic">nuora </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoraid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="smj">
-      <em type="italic">nuorabu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusaid </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálačča </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččaid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappo, dábálabbo, dábálaččabu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuid, dábálabbuid, dábálaččabuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosa, dábálamosa, dábálaččamusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiid, dábálamosiid, dábálaččamusaid </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smj">
-      <em type="italic">litnása </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásiid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappo, litnásabbo </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuid, litnásabbuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="smj">
-      <em type="italic">litnásepmosa, litnásamosa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosiid, litnásamosiid </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorrá </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráid </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="smj">
-      <em type="italic">stuoribu, stuorábu </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuid, stuorábuid </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusa, stuorámusa </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusaid, stuorámusaid </em>
-    </p>
-    <p type="title" xml:lang="smj">Illativ</p>
-    <p>er kasus som betegner bevegelse til eller inn i noe: <em type="italic">Mun adden eanet vahkkoruđa 'boarrásebbui'. Dát lea fálaldat 'riggáide'. Mun attán vuoittu 'jođánepmosiidda </em>. </p>
-    <p>Likestavelsesadjektiv har sterkt stadium, endevokalen endrer seg og man får endingen '-i': <em type="italic">árgái (árgi), jallii (jalla), hedjui (headju), dábálebbui (dábáleabbo), stuorámussii (stuorámus) </em>. </p>
-    <p xml:lang="nno">Ulikestavelsesadjektiv får sterkt stadium og '-ii': <em type="italic">apmasii (amas), viššalepmosii (viššaleamos) </em>. Kontrakte adjektiv får sterkt eller ekstra sterkt stadium og endingen '-i': <em type="italic">njálgái (njálggat) </em>. </p>
-    <p xml:lang="nno">Flertall har endinga '-ide': <em type="italic">heajuide njálgáide čeahpimusaide viššaleappuide </em>og ulikestavelsesadjektiv får '-iidda': <em type="italic">apmasiidda viššalepmosiidda nuorabuidda </em>. </p>
-    <p xml:lang="vep">
-      <em type="bold">ILLATIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smn">nurrii</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoraide </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="ron">
-      <em type="italic">nuorabui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuidda </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="kal">
-      <em type="italic">nuoramussii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusaide </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálažžii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččaide </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálebbui, dábálabbui, dábálaččabui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuide, dábálabbuide, dábálaččabuidda </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosii, dábálamosii, dábálaččamussii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiidda, dábálamosiidda, dábálaččamusaide </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smn">
-      <em type="italic">litnásii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásiidda </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnásebbui, litnásabbui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuide, litnásabbuide </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="smn">
-      <em type="italic">litnásepmosii, litnásamosii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosiidda, litnásamosiidda </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorrái </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráide </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribui, stuorábui </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuidda, stuorábuidda </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimussii, stuorámussii </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusaide, stuorámusaide </em>
-    </p>
-    <p type="title" xml:lang="fin">Lokativ</p>
-    <p>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe: <em type="italic">Jallas' ii leat ollu jierbmi. Sii soitet oažžut veahki 'riggáin'. 'Boarrásepmosiin' ii leat skuvla odne. </em></p>
-    <p>Endingen er '-s' i entall. Likestavelsesadjektiv får svakt stadium, ulikestavelsesadjektiv får sterkt stadium: <em type="italic">apmasis (amas), boarráseappos (boarráseabbo) </em>. Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">riggás (rikkis) </em>. </p>
-    <p xml:lang="nno">Flertall har endinga -in: <em type="italic">apmasiin riggáin nuoramusain </em>. </p>
-    <p xml:lang="vep">
-      <em type="bold">LOKATIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoras </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorain </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusas </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusain </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččas </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččain </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappos, dábálabbos, dábálaččabus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuin, dábálabbuin, dábálaččabuin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosis, dábálamosis, dábálaččamusas </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiin, dábálamosiin, dábálaččamusain </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smn">
-      <em type="italic">litnásis </em>
-    </p>
-    <p xml:lang="smn">
-      <em type="italic">litnásiin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappos, litnásabbos </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuin, litnásabbuin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosis, litnásamosis </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="italic">litnásepmosiin, litnásamosiin </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smj">
-      <em type="italic">stuorrás </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribus, stuorábus </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuin, stuorábuin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusas, stuorámusas </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusain, stuorámusain </em>
-    </p>
-    <p type="title" xml:lang="vep">Komitativ</p>
-    <p xml:lang="sme">er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun hupmen muhtun 'jallain'. </em><em type="italic">Mii vuolgit dohko 'riggáiguin'. </em><em type="italic">Áhčči vuolgá 'boarrásepmosiiguin', ja eadni báhcá ruoktot 'nuoramusaiguin </em>. Endinga i entall er '-in'. </p>
-    <p>Likestavelsesadjektiv får svakt stadium: <em type="italic">nuorain dábáleappuin </em>. </p>
-    <p xml:lang="nno">Ulikestavelsesadjektiv får sterkt stadium: <em type="italic">apmasiin (amas), viššalepmosiin (viššaleamos) </em>. </p>
-    <p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">riggáin (rikkis) </em>. </p>
-    <p xml:lang="nno">Flertall har endinga -iguin: <em type="italic">apmasiiguin jallaiguin nuoramusaiguin </em>. </p>
-    <p xml:lang="vep">
-      <em type="bold">KOMITATIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall </em>
-    </p>
-    <p>
-      <em type="bold">flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorain </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoraiguin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabuiguin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusain </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">nuoramusaiguin </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččain </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálaččaiguin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuin, dábálabbuin, dábálaččabuin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleappuiguin, dábálabbuiguin, dábálaččabuiguin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiin, dábálamosiin, dábálaččamusain </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">dábálepmosiiguin, dábálamosiiguin, dábálaččamusaiguin </em>
-    </p>
-    <p>Ulikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="smn">
-      <em type="italic">litnásiin </em>
-    </p>
-    <p xml:lang="smn">
-      <em type="italic">litnásiiguin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuin, litnásabbuin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseappuiguin, litnásabbuiguin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="fkv">
-      <em type="italic">litnásepmosiin, litnásamosiin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">litnásepmosiiguin, litnásamosiiguin </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorráiguin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuin, stuorábuin </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuoribuiguin, stuorábuiguin </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusain, stuorámusain </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">stuorimusaiguin, stuorámusaiguin </em>
-    </p>
-    <p type="title" xml:lang="swe">Essiv</p>
-    <p>er tilstandskasus som ofte gir betydningen <span type="quote" xml:lang="swe">"som"</span>:</p>
-    <p xml:lang="sme">
-      <em type="italic">Mun dovden iežan 'jallan'. </em>
-    </p>
-    <p xml:lang="sme">
-      <em type="italic">Son gáttii mu 'boarráseabbon'. </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Oahpaheaddji rámpui mu 'viššaleamosin </em>. </p>
-    <p>Det er ikke forskjell på entall og flertall.</p>
-    <p xml:lang="deu">
-      <em type="bold">ESSIV </em>
-    </p>
-    <p>Skravert: svakt stadium</p>
-    <p xml:lang="fin">
-      <em type="bold">stammetype </em>
-    </p>
-    <p xml:lang="swe">
-      <em type="bold">grad </em>
-    </p>
-    <p>
-      <em type="bold">entall / flertall </em>
-    </p>
-    <p>Likest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorran </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">nuorabun </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="fin">
-      <em type="italic">nuoramussan </em>
-    </p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">dábálažžan </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleabbon, dábálabbon, dábálaččabun </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">dábáleamosin, dábálamosin, dábálaččamussan </em>
-    </p>
-    <p>Uliikest.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="fin">
-      <em type="italic">linisin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseabbon, litnásabbon </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="sme">
-      <em type="italic">litnáseamosin, litnásamosin </em>
-    </p>
-    <p>Kontr.stamme</p>
-    <p xml:lang="deu">Positiv</p>
-    <p xml:lang="sme">
-      <em type="italic">stuorisin </em>
-    </p>
-    <p xml:lang="vep">Komparativ</p>
-    <p xml:lang="smj">
-      <em type="italic">stuoribun, stuorábun </em>
-    </p>
-    <p xml:lang="kal">Superlativ</p>
-    <p xml:lang="smj">
-      <em type="italic">stuorimussan, stuorámussan </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Adjektiv</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2583</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adjektiver.nob.html</origFileName><parallel_text xml:lang="eng" location="adjektiver.eng.html"/><parallel_text xml:lang="sme" location="adjektiver.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nno">Adjektiv</p>
+<list><p type="listitem">Ulike stammer</p>
+<p type="listitem" xml:lang="est">Stadieveksling</p>
+<p type="listitem">Andre konsonantvekslinger</p>
+<p type="listitem">Attributiv og predikativ form</p>
+<p type="listitem" xml:lang="swe">buorre' som attributt</p>
+<p type="listitem" xml:lang="eng">Komparering</p>
+<p type="listitem" xml:lang="est">Kasus</p>
+<p type="listitem" xml:lang="vep">Nominativ</p>
+<p type="listitem" xml:lang="kal">Akkusativ</p>
+<p type="listitem" xml:lang="vep">Genitiv</p>
+<p type="listitem" xml:lang="smj">Illativ</p>
+<p type="listitem" xml:lang="fin">Lokativ</p>
+<p type="listitem" xml:lang="vep">Komitativ</p>
+<p type="listitem" xml:lang="swe">Essiv</p>
+</list><p>Tilbake til grammatikk hovedside .</p>
+<p><em type="italic">Adjektiv </em>forteller hvordan noe eller noen er, f.eks. hvordan det/den ser ut, f.eks. <em type="italic">Mus lea 'rukses' biila. Son lea 'lihkolaš'. </em></p>
+<p type="title">Ulike stammer</p>
+<p>Adjektivene bøyes forskjellig, alt etter hvor mange stavelser det er i den siste takta i ordet. <em type="italic">Takt </em>er en gruppe av stavelser der den første stavelsen har trykk: <em type="italic">nuorra </em>og <em type="italic">dábálaš </em>har begge en takt, selv om ordene har ulikt antall stavelser, mens <em type="italic">bealje-heapme </em>har to takter. </p>
+<p><em type="italic">Likestavelsesadjektiv </em>har to stavelser i siste takt i flertall. Disse adjektivene har sterkt stadium i nominativ entall, og svakt stadium i flertall, f.eks. <em type="italic">nuorra - nuorat </em>. Ikke alle har stadieveksling, f.eks. <em type="italic">hávski - hávskit </em>. </p>
+<p><em type="italic">Ulikestavelsesadjektiv </em>har tre stavelser i siste takt i flertall, f.eks. <em type="italic">suohtas - suohttasat, </em><em type="italic">bivnnut - bivnnuhat </em>. Nominativ entall har svakt stadium, de fleste andre formene har sterkt stadium, men ikke alle ulikestavelses substantiver har stadieveksling. </p>
+<p><em type="italic">Kontrakt adjektiv </em>har to stavelser i siste takt i både entall og flertall. Adjektivet har svakt stadium i nominativ entall og sterkt eller ekstra sterkt stadium i flertall, f.eks. <em type="italic">njálggis - njálgát, stuoris - stuorrát </em>. </p>
+<p type="title" xml:lang="est">Stadieveksling</p>
+<p>Det er vanligvis veksling i konsonantgruppa mellom første og andre stavinga i ei takt, f.eks. <em type="italic">nuorra - nuorat </em>. Det er <em type="italic">sterkt stadium </em>f.eks. i nominativ entall i likestavelsesadjektiv, og i nominativ flertall i ulikestavelsesadjektiv. Mens <em type="italic">svakt stadium </em>er forma konsonantgruppa har f.eks. i nominativ flertall i likestavelsesadjektiv, eller i nominativ ental i ulikestavelsesadjektiv. </p>
+<p>Eksempler på stadieveksling - sterkt stadium til venstre, svakt stadium til høyre. Vær obs på at '-i-' regnes som konsonant (-j-) når den står etter en vokal, og er dermed en del av konsonantgruppa:</p>
+<list><p type="listitem" xml:lang="sme">nuo <em type="italic">rr </em>a - nuo <em type="italic">r </em>at, fa <em type="italic">ll </em>i - fa <em type="italic">l </em>it, o <em type="italic">đđ </em>asat - o <em type="italic">đ </em>as </p>
+<p type="listitem" xml:lang="sme">á <em type="italic">rg </em>i - á <em type="italic">rgg </em>it, gá <em type="italic">rž </em>i - gá <em type="italic">ržž </em>it, lá <em type="italic">ik </em>i - lá <em type="italic">ikk </em>it </p>
+<p type="listitem" xml:lang="nno">hea <em type="italic">dj </em>u - hea <em type="italic">j </em>ut, bealjehea <em type="italic">pm </em>e - bealjehea <em type="italic">m </em>it </p>
+<p type="listitem" xml:lang="sme">čea <em type="italic">hpp </em>i - čea <em type="italic">hp </em>it, njoa <em type="italic">hc </em>i - njoa <em type="italic">z </em>it, u <em type="italic">hcc </em>i - u <em type="italic">hc </em>it, hi <em type="italic">ht </em>ásat - hi <em type="italic">đ </em>is </p>
+</list><p>Likestavelsesadjektiv kan også slutte på en konsonant i nominativ entall, som i ordene <em type="italic">lihkolaš, nuoramus </em>. I bøyningen av disse ordene vil det legges til en ekstra stavelse, og ordet får to takter: ('nuo-ra)('mu-sa). Da vil det være stadieveksling i ordets siste takt. Sterk grad vil forekomme i illativ entall og essiv. Eksempler med nominativ entall og flertall og illativ entall: </p>
+<list><p type="listitem" xml:lang="kal">nuoramu <em type="italic">s </em>- nuoramu <em type="italic">s </em>at - nuoramu <em type="italic">ss </em>ii </p>
+<p type="listitem" xml:lang="smn">lihkola <em type="italic">š </em>- lihkola <em type="italic">čč </em>at - lihkola <em type="italic">žž </em>ii </p>
+</list><p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
+<p type="title">Andre konsonantvekslinger</p>
+<p>Noen adjektiv slutter på konsonant i nominativ entall. I nordsamisk er det begrensninger på hvilke konsonanter som kan forekomme i slutten av ord, og da kan vi få spesielle konsonantvekslinger mellom nominativ entall og de andre kasusene. Konsonanter som kan forekomme i slutten av ord er t, s, š, l, r og n. Eksempler på vekslinger i ulikestavelsesadjektiv og kontrakte adjektiv:</p>
+<list><p type="listitem" xml:lang="nno"><em type="italic">t &gt; h </em>, f.eks. bivnnut - bivnnuha, čáppat - čáppahin </p>
+<p type="listitem" xml:lang="est"><em type="italic">t &gt; d </em>, f.eks. jaskat - jaskada </p>
+<p type="listitem"><em type="italic">t &gt; g </em>, f.eks. ártet - ártega </p>
+<p type="listitem"><em type="italic">t &gt; b </em>, f.eks. buoret - buorebu </p>
+<p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, f.eks. dološ - doloža </p>
+</list><p xml:lang="nno">Legg merke til at 'š' ikke alltid veksler: <em type="italic">imaš - ipmaša </em>. </p>
+<p>Likestavelsesadjektiv som slutter på konsonant, har lignende vekslinger:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, omd. <em type="italic">lihkolaš - lihkolačča </em></p>
+</list><p>Likestavelsesadjektiv får også stadieveksling i disse konsonantene, les mer om det her .</p>
+<p>Noen ulikestavelsesadjektiv som slutter på en vokal i nominativ entall, får likevel en ekstra konsonant i de andre formene:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, omd. <em type="italic">guohca - guohccaga, bahča - bahččaga </em></p>
+</list><p xml:lang="nno">Kontrakte adjektiv som slutter på -i, får en veksling i&gt;j mellom nominativ entall og essiv i skriftspråket.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, omd. <em type="italic">čeavlái - čeavlájin, muoŧŧái - muoŧŧájin </em></p>
+</list><p type="title">Attributiv og predikativ form</p>
+<p>Adjektiv har <em type="italic">attributtform </em>når det står foran substantivet: <em type="italic">'fiskes' viessu </em>. Attributtform er lik uansett hvilket tall eller kasus substantivet har, bortsett fra for adjektivet <em type="italic">buorre </em>. Attributtformen finner man oppgitt i ordbøker, gjerne markert med #, f.eks. <em type="italic">ruoksat, #rukses. </em></p>
+<p>Når adjektivet står etter substantivet, så har det <em type="italic">predikativform </em>: <em type="italic">Viessu lea 'fiskat'. Viesut leat 'fiskadat'. Nieida lea 'nuorra'. Nieiddat leat 'nuorat'. Moai letne 'nuorat'. </em>Predikativformen står i entall når subjektet står i entall, og i flertall når subjektet står i totall eller flertall. I ordbøkene finner man oppgitt konsonanten mellom andre og tredje stavelse for ulikestavelsesadjektiver, f.eks. <em type="italic">ruoksat -d- </em>- som blir <em type="italic">ruoksadat </em>i flertall. Les mer om slike vekslinger her . </p>
+<p type="title" xml:lang="swe">buorre' som attributt</p>
+<p xml:lang="nno">Når <em type="italic">buorre </em>står som attributt til et substantiv, så bøyes det i samsvar med substantivet, både i tall og kasus. <em type="italic">buorre </em>skal ha samme form som substantivet i de fleste kasus. Unntakene er illativ og lokativ entall. Da skal <em type="italic">buorre </em>stå i akkusativ/genitiv form. </p>
+<list><p type="listitem"><em type="italic">Mus lea 'buorre biila'. </em>Jeg har en god bil. </p>
+<p type="listitem" xml:lang="nno"><em type="italic">Mun oasttán 'buori biilla'. </em>Jeg kjøper en bra bil. </p>
+<p type="listitem"><em type="italic">Buori biillas' oažžu 'buori hatti'. </em>Man får god pris på en god bil. </p>
+<p type="listitem"><em type="italic">Duđan dušše 'buori biilii'. </em>Jeg aksepterer bare en god bil. </p>
+<p type="listitem"><em type="italic">Buriin biillain' olle guhkás. </em>Man kommer langt med en god bil. </p>
+<p type="listitem"><em type="italic">Gádden dien 'buorren biilan'. </em>Jeg trodde det var en god bil. </p>
+</list><p>Foran et substantiv i flertall, skal <em type="italic">buorre </em>stå i flertall. I illativ og komitativ flertall kan <em type="italic">buorre </em>stå i akkusativ/genitiv flertall. </p>
+<list><p type="listitem" xml:lang="dan"><em type="italic">Buorit biillat' leat divrasat. </em>Gode biler er dyre. </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Buriid biillaid' lea álki vuovdit. </em>Det er lett å selge gode biler. </p>
+<p type="listitem" xml:lang="dan"><em type="italic">Buriin biillain' leat 'buorit goazanat'. </em>Gode biler har gode bremser. </p>
+<p type="listitem"><em type="italic">Liikon 'buriid/buriide biillaide'. </em>Jeg liker gode biler. </p>
+<p type="listitem"><em type="italic">Buriiguin/buriid biillaiguin' olle guhkás. </em>Man kommer langt med gode biler. </p>
+</list><p type="title" xml:lang="eng">Komparering</p>
+<p>Man kan gradbøye adjektiver, i tre grader: <em type="italic">unni - unnit - unnimus </em>(liten - mindre - minst). </p>
+<p xml:lang="sme"><em type="italic">Positiv </em>er grunnformen av adjektivet - <em type="italic">unni boaris stuoris </em>. </p>
+<p><em type="italic">Komparativ </em>er sammenligningsgrad av adjektivet, og brukes når man sammenlikner to ting. Komparativendelsen for likestavelses- og kontrakte adjektiv er '-t': <em type="italic">unnit (unni), stuorit (stuoris) </em>. Ulikestavelsesadjektiv har flere mulige komparativendelser: '-et/-eabbo', '-at/-abbo': <em type="italic">boarráset, boarráseabbo, boarrásat, boarrásabbo (boaris) </em>. </p>
+<p><em type="italic">Superlativ </em>er høyeste grad av adjektivet, og brukes når man sammenlikner mer enn to ting. Superlativendelsen for likestavelses- og kontrakte adjektiv er '-mus': <em type="italic">unnimus (unni). stuorimus (stuoris) </em>. Ulikestavelsesadjektiv har to mulige endelser: '-eamos' og '-amos': <em type="italic">boarráseamos boarrásamos (boaris) </em>. </p>
+<p>Komparerte former brukes både som attributt og predikativ.</p>
+<p>Når de brukes som <em type="italic">attributt </em>, så skal de ikke samsvarsbøyes med det substantivet de beskriver: <em type="italic">(unni: unnit mánná, unnimus mánát) </em><em type="italic">(stuoris: stuorit mánná, stuorimus mánát) </em>. </p>
+<p>Legg merke til at i attributtform er det bare korte komparativendelser som er mulige i ulikestavelsesadjektiv: <em type="italic">boaris: boarráset/boarrásat mánná, boarráseamos/boarrásamos mánát </em>. </p>
+<p>Når komparerte former brukes som <em type="italic">predikativ </em>, så skal de samsvarsbøyes i tall med det substantivet de beskriver. Da er det forskjell på entall og flertall. </p>
+<list><p type="listitem" xml:lang="vep"><em type="italic">Komparativ: </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'unnit' go mun. Soai leaba 'unnibut' go mun </em>. </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'stuorát' go mun. Soai leaba 'stuorábut' go mun </em>. </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'boarráseabbo/boarrásabbo' go mun. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'boarráseappot/boarrásabbot' go mun </em>. </p>
+</list><list><p type="listitem" xml:lang="kal"><em type="italic">Superlativ: </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'unnimus'. Soai leaba 'unnimusat </em>. </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'stuorimus'. Soai leaba stuorimusat </em>. </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'boarráseamos/boarrásamos'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'boarrásepmosat/boarrásamosat </em>. </p>
+</list><p type="title" xml:lang="est">Kasus</p>
+<p>er bøyningsformer som markerer hvilken funksjon <em type="italic">nomen </em>har i setningen. Nomen er enten substantiv, adjektiv, tallord eller pronomen. I nordsamisk er det sju kasus. Adjektiv kan brukes som substantiv og bøyes da i alle kasus. Bøyningsmønsteret er det samme som for substantiver. Legg merke til at komparerte adjektiv bøyes etter den takten de har i komparert form. </p>
+<p type="title" xml:lang="vep">Nominativ</p>
+<p>er kasus som angir grunnformen av nomen, f.eks. <em type="italic">Nieida lea 'nuorra </em>. </p>
+<p xml:lang="nno">Flertall har endingen '-t' og likestavelsesadjektiv får svakt stadium: <em type="italic">Nieiddat leat 'nuorat </em>. </p>
+<p>Ulikestavelsesadjektiv har svakt stadium i entall og sterkt stadium i flertall, f.eks. <em type="italic">Náhkki lea 'linis'. Náhkit leat 'litnásat'. </em></p>
+<p>Kontrakte adjektiv har svakt stadium i entall og får sterkt eller ekstra sterkt stadium i flertall, f.eks. <em type="italic">Gussa lea 'stuoris'. Gusat leat 'stuorrát'. </em></p>
+<p>Komparerte adjektiv bøyes også i flertall. Komparativ form av likestavelsesadjektiv og kontrakte adjektiv får ulikestavelsesstamme, med tre stavelser i siste takt i flertall. Endelsen '-t' i entall veksler med '-bu' i flertall. <em type="italic">nuorat - nuorabut, stuorát - stuorábut, dábálaččat - dábálaččabut. </em></p>
+<p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' bøyes som likestavelsessubstantiv hvis endelsen for komparativ er '-eabbo' eller '-abbo'. De korte endelsene '-at' og '-et' i entall veksler med '-abbo'/'-eabbo'-endelsene i flertall. Legg merke til at endelsen '-eabbo' har stadieveksling, med svak grad i flertall: <em type="italic">dábálat - dábálabbot, dábáleabbo - dábáleappot, dábálabbo - dábálabbot. </em></p>
+<p>Komparativ form av ulikestavelsesadjektiv får likestavelsesstamme, med to stavelser i siste takt i flertall. De korte endelsene '-at' og '-et' i entall veksler med '-abbo/-eabbo'-endelsene i flertall. Legg merke til at endelsen -eabbo har stadieveksling, med svak grad i flertall. <em type="italic">boarráset - boarráseappot, boarrásabbo - boarrásabbot. </em></p>
+<p>De superlative formene beholder sin opprinnelige takt, bortsett fra kontrakte adjektiv, som får likestavelsesstamme. I likestavelses- og kontrakte adjektiv er superlativendelsen '-mus', mens i ulikestavelsesadjektiv er superlativendelsen '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall: <em type="italic">nuoramus - nuoramusat, dábálaččamus - dábálaččamusat, stuorámus - stuorámusat, boarráseamos - boarrásepmosat. </em></p>
+<p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' kan også bøyes som ulikestavelsessubstantiv hvis endelsen for superlativ er '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall. <em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat. </em></p>
+<p xml:lang="vep"><em type="bold">NOMINATIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">nuorra </em></p>
+<p xml:lang="sme"><em type="italic">nuorat </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">nuorat </em></p>
+<p xml:lang="sme"><em type="italic">nuorabut </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">nuoramus </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusat </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálaš </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččat </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábálat, dábálet, dábáleabbo, dábálabbo, dábálaččat </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappot, dábálabbot, dábálaččabut </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="smj"><em type="italic">dábáleamos, dábálamos, dábálaččamus </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosat, dábálamosat, dábálaččamusat </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="est"><em type="italic">linis </em></p>
+<p xml:lang="smj"><em type="italic">litnásat </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnásat, litnáset, litnásabbo, litnáseabbo </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappot, litnásabbot </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">litnáseamos, litnásamos </em></p>
+<p xml:lang="sme"><em type="italic">litnásepmosat, litnásamosat </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuoris </em></p>
+<p xml:lang="sme"><em type="italic">stuorrát </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">stuorit, stuorát </em></p>
+<p xml:lang="sme"><em type="italic">stuoribut, stuorábut </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimus </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusat, stuorámusat </em></p>
+<p type="title" xml:lang="kal">Akkusativ</p>
+<p>er kasus som brukes for objekt, f.eks. <em type="italic">Mun oasttán 'hálbbibu'. </em>Flertallsendelsen er '-id'. </p>
+<p>Likestavelsesadjektiv har svakt stadium i både entall og flertall: <em type="italic">nuora - nuoraid (nuorra) </em>. </p>
+<p>Ulikestavelsesadjektiv får sterkt stadium, hvis de har stadieveksling, og i entall endinga '-a': <em type="italic">litnása - litnásiid (linis), ruoksada - ruoksadiid (ruoksat) </em>. </p>
+<p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">stuorrá - stuorráid (stuoris), njálgá - njálgáid (njálggis) </em>. </p>
+<p>Komparativ form av likestavelsesadjektiv og kontrakte adjektiv: endelsen '-t' i entall veksler med '-bu'. <em type="italic">nuorabu - nuorabuid (nuorat), stuorábu - stuorábuid (stuorát), dábálaččabu - dábálaččabuid (dábálaččat). Mun oasttán 'hálbbibuid'. </em></p>
+<p xml:lang="nno">Komparative former med '-abbo'/'-eabbo': Legg merke til at endelsen '-eabbo' har stadieveksling: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>. </p>
+<p xml:lang="sme"><em type="italic">Mun vieččan 'boarráseappo'. Mun vieččan 'boarráseappuid'. </em></p>
+<p xml:lang="sme">De superlative formene: <em type="italic">Mun oasttán 'hálbbimusa'. Mun oasttán 'hálbbimusaid'. </em></p>
+<p xml:lang="nno">Legg merke til at endelsen '-eamos' har stadieveksling: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos) </em><em type="italic">dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos). </em></p>
+<p xml:lang="nno">I nordsamisk er adjektivenes akkusativ- og genitivformer like.</p>
+<p xml:lang="vep"><em type="bold">AKKUSATIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smj"><em type="italic">nuora </em></p>
+<p xml:lang="sme"><em type="italic">nuoraid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="smj"><em type="italic">nuorabu </em></p>
+<p xml:lang="sme"><em type="italic">nuorabuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">nuoramusa </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusaid </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálačča </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččaid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábáleappo, dábálabbo, dábálaččabu </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappuid, dábálabbuid, dábálaččabuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábálepmosa, dábálamosa, dábálaččamusa </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosiid, dábálamosiid, dábálaččamusaid </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smj"><em type="italic">litnása </em></p>
+<p xml:lang="sme"><em type="italic">litnásiid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnáseappo, litnásabbo </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappuid, litnásabbuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">litnásepmosa, litnásamosa </em></p>
+<p xml:lang="sme"><em type="italic">litnásepmosiid, litnásamosiid </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuorrá </em></p>
+<p xml:lang="sme"><em type="italic">stuorráid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="smj"><em type="italic">stuoribu, stuorábu </em></p>
+<p xml:lang="sme"><em type="italic">stuoribuid, stuorábuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimusa, stuorámusa </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusaid, stuorámusaid </em></p>
+<p type="title" xml:lang="vep">Genitiv</p>
+<p>er kasus som angir eieform: <em type="italic">riggá </em>(den rikes) - <em type="italic">riggáid </em>(de rikes). Genitiv brukes også i pre- og postposisjonsuttrykk, f.eks. <em type="italic">Jallaid' gaskkas lei jierbmái </em>. Flertallsendelsen er '-id'. </p>
+<p>Likestavelsesadjektiv har svakt stadium i både entall og flertall: <em type="italic">nuora - nuoraid (nuorra) </em>. </p>
+<p>Ulikestavelsesadjektiv får sterkt stadium, hvis de har stadieveksling, og i entall endinga '-a': <em type="italic">litnása - litnásiid (linis), ruoksada - ruoksadiid (ruoksat) </em>. </p>
+<p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">stuorrá - stuorráid (stuoris), njálgá - njálgáid (njálggis) </em>. </p>
+<p>Komparativ form av likestavelsesadjektiv og kontrakte adjektiv: endelsen '-t' i entall veksler med '-bu'. <em type="italic">nuorabu - nuorabuid (nuorat), stuorábu - stuorábuid (stuorát), dábálaččabu - dábálaččabuid (dábálaččat). </em></p>
+<p xml:lang="nno">Komparative former med '-abbo'/'-eabbo': Legg merke til at endelsen '-eabbo' har stadieveksling: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo). </em>. </p>
+<p xml:lang="sme"><em type="italic">Dat lea 'boarráseappo' musihkka. Son lea 'boarráseappuid' gaskkas. </em></p>
+<p xml:lang="nno">De superlative formene: <em type="italic">hálbbimusa - hálbbimusaid (hálbbimus) </em></p>
+<p xml:lang="nno">Legg merke til at endelsen '-eamos' har stadieveksling: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos), dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos) </em></p>
+<p xml:lang="nno">I nordsamisk er adjektivenes akkusativ- og genitivformer like.</p>
+<p xml:lang="vep"><em type="bold">GENITIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smj"><em type="italic">nuora </em></p>
+<p xml:lang="sme"><em type="italic">nuoraid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="smj"><em type="italic">nuorabu </em></p>
+<p xml:lang="sme"><em type="italic">nuorabuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">nuoramusa </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusaid </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálačča </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččaid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábáleappo, dábálabbo, dábálaččabu </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappuid, dábálabbuid, dábálaččabuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábálepmosa, dábálamosa, dábálaččamusa </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosiid, dábálamosiid, dábálaččamusaid </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smj"><em type="italic">litnása </em></p>
+<p xml:lang="sme"><em type="italic">litnásiid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnáseappo, litnásabbo </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappuid, litnásabbuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">litnásepmosa, litnásamosa </em></p>
+<p xml:lang="sme"><em type="italic">litnásepmosiid, litnásamosiid </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuorrá </em></p>
+<p xml:lang="sme"><em type="italic">stuorráid </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="smj"><em type="italic">stuoribu, stuorábu </em></p>
+<p xml:lang="sme"><em type="italic">stuoribuid, stuorábuid </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimusa, stuorámusa </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusaid, stuorámusaid </em></p>
+<p type="title" xml:lang="smj">Illativ</p>
+<p>er kasus som betegner bevegelse til eller inn i noe: <em type="italic">Mun adden eanet vahkkoruđa 'boarrásebbui'. Dát lea fálaldat 'riggáide'. Mun attán vuoittu 'jođánepmosiidda </em>. </p>
+<p>Likestavelsesadjektiv har sterkt stadium, endevokalen endrer seg og man får endingen '-i': <em type="italic">árgái (árgi), jallii (jalla), hedjui (headju), dábálebbui (dábáleabbo), stuorámussii (stuorámus) </em>. </p>
+<p xml:lang="nno">Ulikestavelsesadjektiv får sterkt stadium og '-ii': <em type="italic">apmasii (amas), viššalepmosii (viššaleamos) </em>. Kontrakte adjektiv får sterkt eller ekstra sterkt stadium og endingen '-i': <em type="italic">njálgái (njálggat) </em>. </p>
+<p xml:lang="nno">Flertall har endinga '-ide': <em type="italic">heajuide njálgáide čeahpimusaide viššaleappuide </em>og ulikestavelsesadjektiv får '-iidda': <em type="italic">apmasiidda viššalepmosiidda nuorabuidda </em>. </p>
+<p xml:lang="vep"><em type="bold">ILLATIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smn">nurrii</p>
+<p xml:lang="sme"><em type="italic">nuoraide </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="ron"><em type="italic">nuorabui </em></p>
+<p xml:lang="sme"><em type="italic">nuorabuidda </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="kal"><em type="italic">nuoramussii </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusaide </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálažžii </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččaide </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábálebbui, dábálabbui, dábálaččabui </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappuide, dábálabbuide, dábálaččabuidda </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábálepmosii, dábálamosii, dábálaččamussii </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosiidda, dábálamosiidda, dábálaččamusaide </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smn"><em type="italic">litnásii </em></p>
+<p xml:lang="sme"><em type="italic">litnásiidda </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnásebbui, litnásabbui </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappuide, litnásabbuide </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="smn"><em type="italic">litnásepmosii, litnásamosii </em></p>
+<p xml:lang="sme"><em type="italic">litnásepmosiidda, litnásamosiidda </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuorrái </em></p>
+<p xml:lang="sme"><em type="italic">stuorráide </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">stuoribui, stuorábui </em></p>
+<p xml:lang="sme"><em type="italic">stuoribuidda, stuorábuidda </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimussii, stuorámussii </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusaide, stuorámusaide </em></p>
+<p type="title" xml:lang="fin">Lokativ</p>
+<p>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe: <em type="italic">Jallas' ii leat ollu jierbmi. Sii soitet oažžut veahki 'riggáin'. 'Boarrásepmosiin' ii leat skuvla odne. </em></p>
+<p>Endingen er '-s' i entall. Likestavelsesadjektiv får svakt stadium, ulikestavelsesadjektiv får sterkt stadium: <em type="italic">apmasis (amas), boarráseappos (boarráseabbo) </em>. Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">riggás (rikkis) </em>. </p>
+<p xml:lang="nno">Flertall har endinga -in: <em type="italic">apmasiin riggáin nuoramusain </em>. </p>
+<p xml:lang="vep"><em type="bold">LOKATIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">nuoras </em></p>
+<p xml:lang="sme"><em type="italic">nuorain </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">nuorabus </em></p>
+<p xml:lang="sme"><em type="italic">nuorabuin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">nuoramusas </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusain </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálaččas </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččain </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábáleappos, dábálabbos, dábálaččabus </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappuin, dábálabbuin, dábálaččabuin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábálepmosis, dábálamosis, dábálaččamusas </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosiin, dábálamosiin, dábálaččamusain </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smn"><em type="italic">litnásis </em></p>
+<p xml:lang="smn"><em type="italic">litnásiin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnáseappos, litnásabbos </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">litnásepmosis, litnásamosis </em></p>
+<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smj"><em type="italic">stuorrás </em></p>
+<p xml:lang="sme"><em type="italic">stuorráin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">stuoribus, stuorábus </em></p>
+<p xml:lang="sme"><em type="italic">stuoribuin, stuorábuin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimusas, stuorámusas </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusain, stuorámusain </em></p>
+<p type="title" xml:lang="vep">Komitativ</p>
+<p xml:lang="sme">er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun hupmen muhtun 'jallain'. </em><em type="italic">Mii vuolgit dohko 'riggáiguin'. </em><em type="italic">Áhčči vuolgá 'boarrásepmosiiguin', ja eadni báhcá ruoktot 'nuoramusaiguin </em>. Endinga i entall er '-in'. </p>
+<p>Likestavelsesadjektiv får svakt stadium: <em type="italic">nuorain dábáleappuin </em>. </p>
+<p xml:lang="nno">Ulikestavelsesadjektiv får sterkt stadium: <em type="italic">apmasiin (amas), viššalepmosiin (viššaleamos) </em>. </p>
+<p xml:lang="nno">Kontrakte adjektiv får sterkt eller ekstra sterkt stadium: <em type="italic">riggáin (rikkis) </em>. </p>
+<p xml:lang="nno">Flertall har endinga -iguin: <em type="italic">apmasiiguin jallaiguin nuoramusaiguin </em>. </p>
+<p xml:lang="vep"><em type="bold">KOMITATIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall </em></p>
+<p><em type="bold">flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">nuorain </em></p>
+<p xml:lang="sme"><em type="italic">nuoraiguin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">nuorabuin </em></p>
+<p xml:lang="sme"><em type="italic">nuorabuiguin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">nuoramusain </em></p>
+<p xml:lang="sme"><em type="italic">nuoramusaiguin </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálaččain </em></p>
+<p xml:lang="sme"><em type="italic">dábálaččaiguin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábáleappuin, dábálabbuin, dábálaččabuin </em></p>
+<p xml:lang="sme"><em type="italic">dábáleappuiguin, dábálabbuiguin, dábálaččabuiguin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábálepmosiin, dábálamosiin, dábálaččamusain </em></p>
+<p xml:lang="sme"><em type="italic">dábálepmosiiguin, dábálamosiiguin, dábálaččamusaiguin </em></p>
+<p>Ulikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="smn"><em type="italic">litnásiin </em></p>
+<p xml:lang="sme"><em type="italic">litnásiiguin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
+<p xml:lang="sme"><em type="italic">litnáseappuiguin, litnásabbuiguin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p xml:lang="sme"><em type="italic">litnásepmosiiguin, litnásamosiiguin </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuorráin </em></p>
+<p xml:lang="sme"><em type="italic">stuorráiguin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">stuoribuin, stuorábuin </em></p>
+<p xml:lang="sme"><em type="italic">stuoribuiguin, stuorábuiguin </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">stuorimusain, stuorámusain </em></p>
+<p xml:lang="sme"><em type="italic">stuorimusaiguin, stuorámusaiguin </em></p>
+<p type="title" xml:lang="swe">Essiv</p>
+<p>er tilstandskasus som ofte gir betydningen <span type="quote" xml:lang="swe">"som"</span>:</p>
+<p xml:lang="sme"><em type="italic">Mun dovden iežan 'jallan'. </em></p>
+<p xml:lang="sme"><em type="italic">Son gáttii mu 'boarráseabbon'. </em></p>
+<p xml:lang="sme"><em type="italic">Oahpaheaddji rámpui mu 'viššaleamosin </em>. </p>
+<p>Det er ikke forskjell på entall og flertall.</p>
+<p xml:lang="deu"><em type="bold">ESSIV </em></p>
+<p>Skravert: svakt stadium</p>
+<p xml:lang="fin"><em type="bold">stammetype </em></p>
+<p xml:lang="swe"><em type="bold">grad </em></p>
+<p><em type="bold">entall / flertall </em></p>
+<p>Likest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">nuorran </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">nuorabun </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="fin"><em type="italic">nuoramussan </em></p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">dábálažžan </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">dábáleabbon, dábálabbon, dábálaččabun </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">dábáleamosin, dábálamosin, dábálaččamussan </em></p>
+<p>Uliikest.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="fin"><em type="italic">linisin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="sme"><em type="italic">litnáseabbon, litnásabbon </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="sme"><em type="italic">litnáseamosin, litnásamosin </em></p>
+<p>Kontr.stamme</p>
+<p xml:lang="deu">Positiv</p>
+<p xml:lang="sme"><em type="italic">stuorisin </em></p>
+<p xml:lang="vep">Komparativ</p>
+<p xml:lang="smj"><em type="italic">stuoribun, stuorábun </em></p>
+<p xml:lang="kal">Superlativ</p>
+<p xml:lang="smj"><em type="italic">stuorimussan, stuorámussan </em></p>
+</body></document>

@@ -1,48 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>100</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=220&amp;art_id=267</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=220_art_id=267.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=220_art_id=267.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=220_art_id=267.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Sol</p>
-    <p>Jeg tror på Gud Fader,</p>
-    <p>den allmektige,</p>
-    <p>himmelens og jordens skaper.</p>
-    <p>Jeg tror på Jesus Kristus,</p>
-    <p>Guds enbårne sønn, vår Herre,</p>
-    <p>som ble unnfanget ved Den Hellige Ånd,</p>
-    <p>født av jomfru Maria,</p>
-    <p>pint under Pontius Pilatus, korsfestet, død og begravet,</p>
-    <p>fòr ned til dødsriket, stod opp fra de døde tredje dag,</p>
-    <p>fòr opp til himmelen, sitter ved Guds, den allmektige Faders høyre hånd,</p>
-    <p>skal derfra komme igjen for å dømme levende og døde.</p>
-    <p>Jeg tror på Den Hellige Ånd,</p>
-    <p>en hellig, allmenn kirke,</p>
-    <p>de helliges samfunn, syndenes forlatelse, legemets oppstandelse</p>
-    <p>og det evige liv.</p>
-    <p>AMEN</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>100</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=220&amp;art_id=267</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=220_art_id=267.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=220_art_id=267.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=220_art_id=267.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Sol</p>
+<p>Jeg tror på Gud Fader,</p>
+<p>den allmektige,</p>
+<p>himmelens og jordens skaper.</p>
+<p>Jeg tror på Jesus Kristus,</p>
+<p>Guds enbårne sønn, vår Herre,</p>
+<p>som ble unnfanget ved Den Hellige Ånd,</p>
+<p>født av jomfru Maria,</p>
+<p>pint under Pontius Pilatus, korsfestet, død og begravet,</p>
+<p>fòr ned til dødsriket, stod opp fra de døde tredje dag,</p>
+<p>fòr opp til himmelen, sitter ved Guds, den allmektige Faders høyre hånd,</p>
+<p>skal derfra komme igjen for å dømme levende og døde.</p>
+<p>Jeg tror på Den Hellige Ånd,</p>
+<p>en hellig, allmenn kirke,</p>
+<p>de helliges samfunn, syndenes forlatelse, legemets oppstandelse</p>
+<p>og det evige liv.</p>
+<p>AMEN</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

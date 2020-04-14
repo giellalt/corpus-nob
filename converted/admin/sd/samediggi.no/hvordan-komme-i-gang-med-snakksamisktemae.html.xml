@@ -1,60 +1,23 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>341</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Spraak/Snakk-samisk-te-mae/Artikler/Hvordan-komme-i-gang-med-snakksamisktemae</origFileName>
-    <parallel_text xml:lang="sma" location="guktie-aelkedh-saemesthmunnjien.html"/>
-    <parallel_text xml:lang="sme" location="movt-don-alggat-samasmuinna.html"/>
-    <parallel_text xml:lang="smj" location="gaaktu-algget-samastamunja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hvordan komme i gang med #snakksamisktemæ / Artikler / Snakk samisk te' mæ / Språk / Forsiden - Sametinget</p>
-    <p type="title">Hvordan komme i gang med #snakksamisktemæ</p>
-    <p type="title">Instagram</p>
-    <p>Det første du må gjøre er å laste ned appen <em type="italic">Instagram </em>. Dette er en bildedelingsapp som tillater deg å dele bilder. En forutsetning for at akkurat dine bilder blir med i kampanjen er at du har en åpen profil. Dette sjekker du på dine innstillinger. Ønsker du ikke å åpne din private profil er alternativet at du opprettet en tilleggskonto. Instagram er et gratis program, så det vil ikke koste deg noe. </p>
-    <p>
-      <em type="bold">Hvordan legge tekst på bilde? </em>
-    </p>
-    <p>Det finnes en rekke applikasjoner som kan lastes ned gratis både i Google Play og i Appstore. <em type="italic">PicLab </em>og <em type="italic">LineCamera </em>er noen alternativer. </p>
-    <p>
-      <em type="bold">Samisk tastatur på mobiltelefon </em>
-    </p>
-    <p>Det finnes dessverre ikke samisk tastatur for alle telefoner ennå. Men det finnes likevel flere metoder for å ta i bruk samiske bokstaver på mobilen.</p>
-    <p type="title">Android</p>
-    <p>Det finnes et nordsamisk tastatur for Android-telefoner. <em type="italic">Scandinavian keybord </em>lastes ned i Google Play. Hvis du ikke vil bruke <em type="italic">Scandinavian keyboard </em>er det også mulig å bruke <em type="italic">Hrvatski </em>, det kroatiske tastaturet, som allerede er installert på telefonen din. Dette gir bokstavene áčđšž (ved å trykke lenge på acdsz), de eneste bokstavene du da mangler er dermed ŋŧ. </p>
-    <p type="title">iPhone og Nokia</p>
-    <p>Det fins ikke noe nordsamisk tastatur for iPhone eller Nokia. Som på Android-telefoner kan du bruke <em type="italic">Hrvatski </em>, det kroatiske tastaturet, som allerede er installert på telefonen din. Dette gir bokstavene áčđšž (ved å trykke lenge på acdsz), de eneste bokstavene du da mangler er dermed ŋŧ. </p>
-    <p type="title">Ordbøker på telefon</p>
-    <p>Lulesamisk: http://ntec.no/samisk/</p>
-    <p xml:lang="sme">Nordsamisk: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
-    <p xml:lang="sme">Sørsamisk: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
-    <p type="title">Andre tips og triks</p>
-    <p>
-      <em type="bold">Hvordan få samisk tastatur på datamaskinen </em>
-    </p>
-    <p>En detaljert beskrivelse av hvordan man får samisk tastatur på datamaskinen sin finnes på Giellatekno sin hjemmeside. http://giellatekno.uit.no/doc/infra/docu-keyboard.nno.html</p>
-    <p>
-      <em type="bold">Samisk retteprogram </em>
-    </p>
-    <p>På Giellatekno kan sine hjemmesider du også laste ned Divvun, et rettskrivningsverktøy for både Windows, MacOS, OpenOffice &amp; LibraOffice, samt InDesign. http://divvun.no/no/index.htm</p>
-    <p>I tillegg finnes både digitale ordbøker, interaktive samiskkurs og maskinbasert oversettelsestjeneste fra nordsamisk til norsk.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>341</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Spraak/Snakk-samisk-te-mae/Artikler/Hvordan-komme-i-gang-med-snakksamisktemae</origFileName><parallel_text xml:lang="sma" location="guktie-aelkedh-saemesthmunnjien.html"/><parallel_text xml:lang="sme" location="movt-don-alggat-samasmuinna.html"/><parallel_text xml:lang="smj" location="gaaktu-algget-samastamunja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hvordan komme i gang med #snakksamisktemæ / Artikler / Snakk samisk te' mæ / Språk / Forsiden - Sametinget</p>
+<p type="title">Hvordan komme i gang med #snakksamisktemæ</p>
+<p type="title">Instagram</p>
+<p>Det første du må gjøre er å laste ned appen <em type="italic">Instagram </em>. Dette er en bildedelingsapp som tillater deg å dele bilder. En forutsetning for at akkurat dine bilder blir med i kampanjen er at du har en åpen profil. Dette sjekker du på dine innstillinger. Ønsker du ikke å åpne din private profil er alternativet at du opprettet en tilleggskonto. Instagram er et gratis program, så det vil ikke koste deg noe. </p>
+<p><em type="bold">Hvordan legge tekst på bilde? </em></p>
+<p>Det finnes en rekke applikasjoner som kan lastes ned gratis både i Google Play og i Appstore. <em type="italic">PicLab </em>og <em type="italic">LineCamera </em>er noen alternativer. </p>
+<p><em type="bold">Samisk tastatur på mobiltelefon </em></p>
+<p>Det finnes dessverre ikke samisk tastatur for alle telefoner ennå. Men det finnes likevel flere metoder for å ta i bruk samiske bokstaver på mobilen.</p>
+<p type="title">Android</p>
+<p>Det finnes et nordsamisk tastatur for Android-telefoner. <em type="italic">Scandinavian keybord </em>lastes ned i Google Play. Hvis du ikke vil bruke <em type="italic">Scandinavian keyboard </em>er det også mulig å bruke <em type="italic">Hrvatski </em>, det kroatiske tastaturet, som allerede er installert på telefonen din. Dette gir bokstavene áčđšž (ved å trykke lenge på acdsz), de eneste bokstavene du da mangler er dermed ŋŧ. </p>
+<p type="title">iPhone og Nokia</p>
+<p>Det fins ikke noe nordsamisk tastatur for iPhone eller Nokia. Som på Android-telefoner kan du bruke <em type="italic">Hrvatski </em>, det kroatiske tastaturet, som allerede er installert på telefonen din. Dette gir bokstavene áčđšž (ved å trykke lenge på acdsz), de eneste bokstavene du da mangler er dermed ŋŧ. </p>
+<p type="title">Ordbøker på telefon</p>
+<p>Lulesamisk: http://ntec.no/samisk/</p>
+<p xml:lang="sme">Nordsamisk: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
+<p xml:lang="sme">Sørsamisk: http://giellatekno.uit.no/words/dicts/index.nno.html</p>
+<p type="title">Andre tips og triks</p>
+<p><em type="bold">Hvordan få samisk tastatur på datamaskinen </em></p>
+<p>En detaljert beskrivelse av hvordan man får samisk tastatur på datamaskinen sin finnes på Giellatekno sin hjemmeside. http://giellatekno.uit.no/doc/infra/docu-keyboard.nno.html</p>
+<p><em type="bold">Samisk retteprogram </em></p>
+<p>På Giellatekno kan sine hjemmesider du også laste ned Divvun, et rettskrivningsverktøy for både Windows, MacOS, OpenOffice &amp; LibraOffice, samt InDesign. http://divvun.no/no/index.htm</p>
+<p>I tillegg finnes både digitale ordbøker, interaktive samiskkurs og maskinbasert oversettelsestjeneste fra nordsamisk til norsk.</p>
+</body></document>

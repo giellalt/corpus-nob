@@ -1,106 +1,73 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Historihkka - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kunnskapsdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>651</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/kd/dep/org/historikk.html?id=614</origFileName>
-    <parallel_text xml:lang="eng" location="history_id_614.html"/>
-    <parallel_text xml:lang="sme" location="historihkka_id_614.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Historikk - regjeringen.no</p>
-    <p>
-      <em type="italic">Etter at Norge var blitt en selvstendig stat i 1814, ble seks departement opprettet samme år. Kirke- og undervisningsdepartementet var det første og fikk betegnelsen 1. Departement. Deretter fulgte Justisdepartementet, Politidepartementet, Indredepartementet, Finans- og tolldepartementet og Departementet for krigsadministrasjonen. </em>
-    </p>
-    <p>I 1982 ble departementet delt og ansvaret for kultursaker, høyere utdanning og forskning ble overført til et nytt Kultur- og vitenskapsdepartement. Etter nye omorganiseringer sist på 1980-tallet og i begynnelsen av 1990-tallet, ble departementet fra 1. januar 1991 til <span type="quote">"Kirke-, utdannings- og forskningsdepartementet"</span> (KUF). Fra 1.januar 2002 ble departementet til <span type="quote">"Utdannings- og forskningsdepartementet"</span> da kirkesaker fra samme dato ble flyttet til det nyopprettede Kultur- og kirkedepartementet. 1. januar 2006 ble barnehagesaker flyttet til departementet og det byttet navn til Kunnskapsdepartementet.</p>
-    <p>Departementets historie er beskrevet i <span type="quote">"Håndbok for Riksarkivet"</span>, <em type="italic">Kirke- </em>og <em type="italic">undervisningsdepartementet 1819-". </em></p>
-    <p>
-      <em type="italic">Statsråder gjennom tidende: </em>
-    </p>
-    <p>1. <em type="bold">Niels Treschow </em>jan.1815 – sept.1816 sept.1817 – okt.1819 sept.1820 – des.1822 april1823 – juni1825 </p>
-    <p>2. <em type="bold">Christian Krohg </em>sept.1816 – sept.1817 </p>
-    <p>3. <em type="bold">Jonas Collett </em>okt.1819 – sept.1820 </p>
-    <p>4. <em type="bold">Poul Christian Holst </em>des.1822 – april1823 juni1825 – sept.1825 juni1837 – sept.1839 okt.1840 – sept.1843 sept.1844 – april1848 </p>
-    <p>5. <em type="bold">Christian Adolph Diriks </em>sept.1825 – nov.1836 </p>
-    <p>6. <em type="bold">Oluf Borch de Schouboe </em>nov.1836 – des.1836 sept.1839 – okt.1840 sept.1843 – sept.1844 </p>
-    <p>7. <em type="bold">Andreas Arntzen </em>des.1836 – juni1837 </p>
-    <p>8. <em type="bold">Hans Riddervold </em>april.1848 – sept.1849 aug.1850 – sept.1854 sept.1855 – juli1872 </p>
-    <p>9. <em type="bold">Jørgen Herman Vogt </em>sept.1849 – aug.1850 sept.1854 – okt.1854 </p>
-    <p>10. <em type="bold">Otto Vincent Lange </em>okt.1854 – sept.1855 </p>
-    <p>11. <em type="bold">Carl Peter Parelius Essendrop </em>juli.1872 – jan.1875 </p>
-    <p>12. <em type="bold">Rasmus Tønder Nissen </em>jan.1875 – okt.1876 okt.1877 – nov.1880 okt.1881 – jan.1882 </p>
-    <p>13. <em type="bold">Jens Holmboe </em>okt.1876 – okt.1877 nov.1880 – okt.1881 </p>
-    <p>14. <em type="bold">Nils Christian Egede Hertzberg </em>jan.1882 – mars1884 april1884 - juni1884 </p>
-    <p>15. <em type="bold">Henrik Laurentius Helliesen </em>mars1884 – april1884 </p>
-    <p>16. <em type="bold">Elias Blix </em>juni1884 – feb.1888 </p>
-    <p>17. <em type="bold">Jacob Liv Rosted Sverdrup </em>feb.1888 – juli1889 okt.1895 – feb.1898 </p>
-    <p>18. <em type="bold">Jacob Aall Bonnevie </em>juli1889 – mars1891 </p>
-    <p>19. <em type="bold">Vilhelm Andreas Wexelsen </em>mars1891 – juli1892 feb.1898 – okt.1903 </p>
-    <p>20. <em type="bold">Carl Christian Berner </em>juli1892 – april1893 </p>
-    <p>21. <em type="bold">Anton Christian Bang </em>april1893 – april1895 </p>
-    <p>22. <em type="bold">Emil Stang </em>april1895 – okt.1895 </p>
-    <p>23. <em type="bold">Hans Nilsen Hauge </em>okt.1903 – mars1905 </p>
-    <p>24. <em type="bold">Christoffer Knudsen </em>mars1905 – jan.1906 </p>
-    <p>25. <em type="bold">Otto Jensen </em>jan1906 – okt.1907 </p>
-    <p>26. <em type="bold">Abraham Berge </em>okt.1907 – mars1908 </p>
-    <p>27. <em type="bold">Karl Seip </em>mars1908 – sept.1909 </p>
-    <p>28. <em type="bold">Knut Johannes Hougen </em>sept1909 – feb.1910 </p>
-    <p>29. <em type="bold">Just Knud Qvigstad </em>feb.1910 – feb.1912 </p>
-    <p>30. <em type="bold">Edvard Apolloniussen Liljedahl </em>feb.1912 – jan.1913 </p>
-    <p>31. <em type="bold">Aasulv Olsen Bryggesaa </em>jan.1913 – juni1920 </p>
-    <p>32. <em type="bold">N. Riddervold Jensen </em>juni1920 – juni1921 </p>
-    <p>33. <em type="bold">M. Olsen Nalum </em>juni1921 – mars1923 </p>
-    <p>34. <em type="bold">I. B. Sælen </em>mars1923 – juli1924 </p>
-    <p>35. <em type="bold">I. P. Tveiten </em>juli1924 – mars1926 </p>
-    <p>36. <em type="bold">W. E. Magelssen </em>mars1926 – jan.1928 </p>
-    <p>37. <em type="bold">O. M. Steinnes </em>jan.1928 – feb.1928 </p>
-    <p>38. <em type="bold">S. M. Hasund </em>feb.1928 – mai1931 </p>
-    <p>39. <em type="bold">N. Trædal </em>mai.1931 – mars1933 </p>
-    <p>40. <em type="bold">K. Liestøl </em>mars1933 – mars1935 </p>
-    <p>41. <em type="bold">Nils Hjelmtveit </em>mars1935 – juni1945 </p>
-    <p>42. <em type="bold">C. Bonnevie-Svendsen </em>(kirkespørsmål)juni1945 – nov.1945 </p>
-    <p>43. <em type="bold">Kåre Fostervoll </em>juni1945 – juni1948 </p>
-    <p>44. <em type="bold">Lars Magnus Moen </em>juni1948 – des.1953 </p>
-    <p>45. <em type="bold">Birger Marin Bergersen </em>des.1953 – april1960 </p>
-    <p>46. <em type="bold">Helge Sivertsen </em>april1960 – aug.1963 sept.1963 – okt.1965 </p>
-    <p>47. <em type="bold">Olav Kortner </em>aug.1963 – sept.1963 </p>
-    <p>48. <em type="bold">Kjell Bondevik </em>okt.1965 – mars1971 </p>
-    <p>49. <em type="bold">Bjartmar Alv Gjerde </em>mars1971 – okt.1972 okt.1973 – jan.1976 </p>
-    <p>50. <em type="bold">Anton Skulberg </em>okt.1972 – okt.1973 </p>
-    <p>51. <em type="bold">Kjølv Egeland </em>jan.1976 – okt.1979 </p>
-    <p>52. <em type="bold">Einar Førde </em>okt.1979 – okt.1981 </p>
-    <p>53. <em type="bold">Lars Roar Langslet </em>okt.1981 – jan.1982 </p>
-    <p>54. <em type="bold">Tore Austad </em>okt.1981 – juni1983 </p>
-    <p>55. <em type="bold">Kjell Magne Bondevik </em>juni1983 – mai1986 </p>
-    <p>56. <em type="bold">Kirsti Kolle Grøndahl </em>mai1986 – juni1988 </p>
-    <p>57. <em type="bold">Mary Synnøve Kvidal </em>juni1988 – okt.1989 </p>
-    <p>58. <em type="bold">Einar Steensnæs </em>okt.1989 – nov.1990 </p>
-    <p>59. <em type="bold">Gudmund Hernes </em>3.nov.1990 – des.1995 </p>
-    <p>60. <em type="bold">Reidar Sandal </em>23.des.1995 – 17.okt. 1997 </p>
-    <p>61. <em type="bold">Jon Lilletun </em>17.okt.1997 –17.mars 2000 </p>
-    <p>62. <em type="bold">Trond Giske </em>17.mars 2000 – 19.okt.2001 </p>
-    <p>63. <em type="bold">Kristin Clemet </em>19.okt.2001 - 16. okt. 2005 </p>
-    <p>64. <em type="italic">Øystein Djupedal </em>17. okt. 2005 - 18. okt. 2007 </p>
-    <p>65. <em type="italic">Bård Vegar Solhjell </em>18. okt. 2007 - 20. okt. 2009 </p>
-    <p>66. <em type="italic">Tora Aasland </em>18. okt 2007 - </p>
-    <p>67. Kristin Halvorsen 20. okt. 2009 -</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Historihkka - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kunnskapsdepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>651</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/kd/dep/org/historikk.html?id=614</origFileName><parallel_text xml:lang="eng" location="history_id_614.html"/><parallel_text xml:lang="sme" location="historihkka_id_614.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Historikk - regjeringen.no</p>
+<p><em type="italic">Etter at Norge var blitt en selvstendig stat i 1814, ble seks departement opprettet samme år. Kirke- og undervisningsdepartementet var det første og fikk betegnelsen 1. Departement. Deretter fulgte Justisdepartementet, Politidepartementet, Indredepartementet, Finans- og tolldepartementet og Departementet for krigsadministrasjonen. </em></p>
+<p>I 1982 ble departementet delt og ansvaret for kultursaker, høyere utdanning og forskning ble overført til et nytt Kultur- og vitenskapsdepartement. Etter nye omorganiseringer sist på 1980-tallet og i begynnelsen av 1990-tallet, ble departementet fra 1. januar 1991 til <span type="quote">"Kirke-, utdannings- og forskningsdepartementet"</span> (KUF). Fra 1.januar 2002 ble departementet til <span type="quote">"Utdannings- og forskningsdepartementet"</span> da kirkesaker fra samme dato ble flyttet til det nyopprettede Kultur- og kirkedepartementet. 1. januar 2006 ble barnehagesaker flyttet til departementet og det byttet navn til Kunnskapsdepartementet.</p>
+<p>Departementets historie er beskrevet i <span type="quote">"Håndbok for Riksarkivet"</span>, <em type="italic">Kirke- </em>og <em type="italic">undervisningsdepartementet 1819-". </em></p>
+<p><em type="italic">Statsråder gjennom tidende: </em></p>
+<p>1. <em type="bold">Niels Treschow </em>jan.1815 – sept.1816 sept.1817 – okt.1819 sept.1820 – des.1822 april1823 – juni1825 </p>
+<p>2. <em type="bold">Christian Krohg </em>sept.1816 – sept.1817 </p>
+<p>3. <em type="bold">Jonas Collett </em>okt.1819 – sept.1820 </p>
+<p>4. <em type="bold">Poul Christian Holst </em>des.1822 – april1823 juni1825 – sept.1825 juni1837 – sept.1839 okt.1840 – sept.1843 sept.1844 – april1848 </p>
+<p>5. <em type="bold">Christian Adolph Diriks </em>sept.1825 – nov.1836 </p>
+<p>6. <em type="bold">Oluf Borch de Schouboe </em>nov.1836 – des.1836 sept.1839 – okt.1840 sept.1843 – sept.1844 </p>
+<p>7. <em type="bold">Andreas Arntzen </em>des.1836 – juni1837 </p>
+<p>8. <em type="bold">Hans Riddervold </em>april.1848 – sept.1849 aug.1850 – sept.1854 sept.1855 – juli1872 </p>
+<p>9. <em type="bold">Jørgen Herman Vogt </em>sept.1849 – aug.1850 sept.1854 – okt.1854 </p>
+<p>10. <em type="bold">Otto Vincent Lange </em>okt.1854 – sept.1855 </p>
+<p>11. <em type="bold">Carl Peter Parelius Essendrop </em>juli.1872 – jan.1875 </p>
+<p>12. <em type="bold">Rasmus Tønder Nissen </em>jan.1875 – okt.1876 okt.1877 – nov.1880 okt.1881 – jan.1882 </p>
+<p>13. <em type="bold">Jens Holmboe </em>okt.1876 – okt.1877 nov.1880 – okt.1881 </p>
+<p>14. <em type="bold">Nils Christian Egede Hertzberg </em>jan.1882 – mars1884 april1884 - juni1884 </p>
+<p>15. <em type="bold">Henrik Laurentius Helliesen </em>mars1884 – april1884 </p>
+<p>16. <em type="bold">Elias Blix </em>juni1884 – feb.1888 </p>
+<p>17. <em type="bold">Jacob Liv Rosted Sverdrup </em>feb.1888 – juli1889 okt.1895 – feb.1898 </p>
+<p>18. <em type="bold">Jacob Aall Bonnevie </em>juli1889 – mars1891 </p>
+<p>19. <em type="bold">Vilhelm Andreas Wexelsen </em>mars1891 – juli1892 feb.1898 – okt.1903 </p>
+<p>20. <em type="bold">Carl Christian Berner </em>juli1892 – april1893 </p>
+<p>21. <em type="bold">Anton Christian Bang </em>april1893 – april1895 </p>
+<p>22. <em type="bold">Emil Stang </em>april1895 – okt.1895 </p>
+<p>23. <em type="bold">Hans Nilsen Hauge </em>okt.1903 – mars1905 </p>
+<p>24. <em type="bold">Christoffer Knudsen </em>mars1905 – jan.1906 </p>
+<p>25. <em type="bold">Otto Jensen </em>jan1906 – okt.1907 </p>
+<p>26. <em type="bold">Abraham Berge </em>okt.1907 – mars1908 </p>
+<p>27. <em type="bold">Karl Seip </em>mars1908 – sept.1909 </p>
+<p>28. <em type="bold">Knut Johannes Hougen </em>sept1909 – feb.1910 </p>
+<p>29. <em type="bold">Just Knud Qvigstad </em>feb.1910 – feb.1912 </p>
+<p>30. <em type="bold">Edvard Apolloniussen Liljedahl </em>feb.1912 – jan.1913 </p>
+<p>31. <em type="bold">Aasulv Olsen Bryggesaa </em>jan.1913 – juni1920 </p>
+<p>32. <em type="bold">N. Riddervold Jensen </em>juni1920 – juni1921 </p>
+<p>33. <em type="bold">M. Olsen Nalum </em>juni1921 – mars1923 </p>
+<p>34. <em type="bold">I. B. Sælen </em>mars1923 – juli1924 </p>
+<p>35. <em type="bold">I. P. Tveiten </em>juli1924 – mars1926 </p>
+<p>36. <em type="bold">W. E. Magelssen </em>mars1926 – jan.1928 </p>
+<p>37. <em type="bold">O. M. Steinnes </em>jan.1928 – feb.1928 </p>
+<p>38. <em type="bold">S. M. Hasund </em>feb.1928 – mai1931 </p>
+<p>39. <em type="bold">N. Trædal </em>mai.1931 – mars1933 </p>
+<p>40. <em type="bold">K. Liestøl </em>mars1933 – mars1935 </p>
+<p>41. <em type="bold">Nils Hjelmtveit </em>mars1935 – juni1945 </p>
+<p>42. <em type="bold">C. Bonnevie-Svendsen </em>(kirkespørsmål)juni1945 – nov.1945 </p>
+<p>43. <em type="bold">Kåre Fostervoll </em>juni1945 – juni1948 </p>
+<p>44. <em type="bold">Lars Magnus Moen </em>juni1948 – des.1953 </p>
+<p>45. <em type="bold">Birger Marin Bergersen </em>des.1953 – april1960 </p>
+<p>46. <em type="bold">Helge Sivertsen </em>april1960 – aug.1963 sept.1963 – okt.1965 </p>
+<p>47. <em type="bold">Olav Kortner </em>aug.1963 – sept.1963 </p>
+<p>48. <em type="bold">Kjell Bondevik </em>okt.1965 – mars1971 </p>
+<p>49. <em type="bold">Bjartmar Alv Gjerde </em>mars1971 – okt.1972 okt.1973 – jan.1976 </p>
+<p>50. <em type="bold">Anton Skulberg </em>okt.1972 – okt.1973 </p>
+<p>51. <em type="bold">Kjølv Egeland </em>jan.1976 – okt.1979 </p>
+<p>52. <em type="bold">Einar Førde </em>okt.1979 – okt.1981 </p>
+<p>53. <em type="bold">Lars Roar Langslet </em>okt.1981 – jan.1982 </p>
+<p>54. <em type="bold">Tore Austad </em>okt.1981 – juni1983 </p>
+<p>55. <em type="bold">Kjell Magne Bondevik </em>juni1983 – mai1986 </p>
+<p>56. <em type="bold">Kirsti Kolle Grøndahl </em>mai1986 – juni1988 </p>
+<p>57. <em type="bold">Mary Synnøve Kvidal </em>juni1988 – okt.1989 </p>
+<p>58. <em type="bold">Einar Steensnæs </em>okt.1989 – nov.1990 </p>
+<p>59. <em type="bold">Gudmund Hernes </em>3.nov.1990 – des.1995 </p>
+<p>60. <em type="bold">Reidar Sandal </em>23.des.1995 – 17.okt. 1997 </p>
+<p>61. <em type="bold">Jon Lilletun </em>17.okt.1997 –17.mars 2000 </p>
+<p>62. <em type="bold">Trond Giske </em>17.mars 2000 – 19.okt.2001 </p>
+<p>63. <em type="bold">Kristin Clemet </em>19.okt.2001 - 16. okt. 2005 </p>
+<p>64. <em type="italic">Øystein Djupedal </em>17. okt. 2005 - 18. okt. 2007 </p>
+<p>65. <em type="italic">Bård Vegar Solhjell </em>18. okt. 2007 - 20. okt. 2009 </p>
+<p>66. <em type="italic">Tora Aasland </em>18. okt 2007 - </p>
+<p>67. Kristin Halvorsen 20. okt. 2009 -</p>
+</body></document>

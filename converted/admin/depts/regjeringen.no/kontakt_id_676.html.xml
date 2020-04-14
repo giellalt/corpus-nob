@@ -1,50 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Oktavuohta - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>186</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/md/dep/kontakt.html?id=676</origFileName>
-    <parallel_text xml:lang="eng" location="contact-information_id_676.html"/>
-    <parallel_text xml:lang="sme" location="oktavuohtadiehtojuohkin_id_676.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kontakt - regjeringen.no</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Skriv inn navn eller tlf.nr:</p>
-    <p>Vis ansatte i</p>
-    <p>Vis ansatte i</p>
-    <p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
-    <p><em type="italic">Besøksadresse: </em>Myntgata 2, Oslo (ved Akershus Festning) ( Vis kart ) ( Myntgatekvartalet - brosjyre ) </p>
-    <p><em type="italic">Postadresse: </em>Postboks 8013 Dep 0030 Oslo </p>
-    <p><em type="italic">Telefon/faks </em>Sentralbord 22 24 90 90, Faks 22 24 95 60 Telefonliste </p>
-    <p>
-      <em type="italic">E-post ( kontaktskjema </em>
-    </p>
-    <p><em type="italic">Videokonferanse </em>IP 193.213.30.130 </p>
-    <p><em type="italic">Kommunikasjonsenheten: </em>Pressehenvendelser: 947 82 505 (ikke send sms fordi nummeret viderekobles) E-post: Pressekontakter </p>
-    <p><em type="italic">Forkontorer: </em>Statsråden 22 24 57 01 Statssekretæren 22 24 57 03 Departementsråden 22 24 57 07 </p>
-    <p>Klima- og forurensningssaker 22 24 58 03 Internasjonalt samarbeid 22 24 59 81 Kulturminneforvaltning 22 24 58 20 Naturforvaltning 22 24 58 53 Organisasjon og økonomi 22 24 57 11 Regional planlegging 22 24 59 01</p>
-    <p><em type="italic">Sentralarkivet </em>(henvendelser om fagsaker): E-post: kontaktskjema Telefon: 22 24 60 01, faks: 22 24 95 60 </p>
-    <p><em type="italic">Bibliotek </em>(henvendelser om publikasjoner og regelverk): E-post: Telefon: 22 24 57 87, faks: 22 24 27 72 </p>
-    <p><em type="italic">Webredaktør: </em>E-post: Telefon: 22 24 52 67 </p>
-    <p><em type="italic">Miljøvernministeren: </em>E-post: </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Oktavuohta - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Miljøverndepartementet" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>186</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/md/dep/kontakt.html?id=676</origFileName><parallel_text xml:lang="eng" location="contact-information_id_676.html"/><parallel_text xml:lang="sme" location="oktavuohtadiehtojuohkin_id_676.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kontakt - regjeringen.no</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Skriv inn navn eller tlf.nr:</p>
+<p>Vis ansatte i</p>
+<p>Vis ansatte i</p>
+<p>Tips: For å liste ut alle ansatte i en enhet kan du la feltet for navn eller tlf.nr stå tomt.</p>
+<p><em type="italic">Besøksadresse: </em>Myntgata 2, Oslo (ved Akershus Festning) ( Vis kart ) ( Myntgatekvartalet - brosjyre ) </p>
+<p><em type="italic">Postadresse: </em>Postboks 8013 Dep 0030 Oslo </p>
+<p><em type="italic">Telefon/faks </em>Sentralbord 22 24 90 90, Faks 22 24 95 60 Telefonliste </p>
+<p><em type="italic">E-post ( kontaktskjema </em></p>
+<p><em type="italic">Videokonferanse </em>IP 193.213.30.130 </p>
+<p><em type="italic">Kommunikasjonsenheten: </em>Pressehenvendelser: 947 82 505 (ikke send sms fordi nummeret viderekobles) E-post: Pressekontakter </p>
+<p><em type="italic">Forkontorer: </em>Statsråden 22 24 57 01 Statssekretæren 22 24 57 03 Departementsråden 22 24 57 07 </p>
+<p>Klima- og forurensningssaker 22 24 58 03 Internasjonalt samarbeid 22 24 59 81 Kulturminneforvaltning 22 24 58 20 Naturforvaltning 22 24 58 53 Organisasjon og økonomi 22 24 57 11 Regional planlegging 22 24 59 01</p>
+<p><em type="italic">Sentralarkivet </em>(henvendelser om fagsaker): E-post: kontaktskjema Telefon: 22 24 60 01, faks: 22 24 95 60 </p>
+<p><em type="italic">Bibliotek </em>(henvendelser om publikasjoner og regelverk): E-post: Telefon: 22 24 57 87, faks: 22 24 27 72 </p>
+<p><em type="italic">Webredaktør: </em>E-post: Telefon: 22 24 52 67 </p>
+<p><em type="italic">Miljøvernministeren: </em>E-post: </p>
+</body></document>

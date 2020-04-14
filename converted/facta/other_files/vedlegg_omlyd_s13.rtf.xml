@@ -1,71 +1,44 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>108</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sma"/>
-    </multilingual>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vedlegg</p>
-    <p>
-      <em type="italic">BAAKOELÃSTOE </em>
-    </p>
-    <p xml:lang="sma">VaerbedÃ¥ehkie</p>
-    <p xml:lang="sma">maadtoe</p>
-    <p xml:lang="sma">nyÃ¸jhkeme</p>
-    <p xml:lang="sma">daelie</p>
-    <p xml:lang="sma">dellie</p>
-    <p>gerundium</p>
-    <p>p.p. - perf. part.</p>
-    <p>sg.- sing.- singularis</p>
-    <p>du.- dual.- dualis</p>
-    <p>pl.- plur.- pluralis</p>
-    <p>1.p., 2.p., 3.p.</p>
-    <p xml:lang="sma">manne</p>
-    <p xml:lang="sma">datne</p>
-    <p xml:lang="sma">dihte</p>
-    <p xml:lang="sma">monnoeh</p>
-    <p xml:lang="sma">dotnoeh</p>
-    <p xml:lang="sma">dah guaktah - dah g.</p>
-    <p xml:lang="sma">mijjieh</p>
-    <p xml:lang="sma">dijjieh</p>
-    <p xml:lang="sma">dah</p>
-    <p>
-      <em type="italic">FORKORTELSER / ORDLIsTE </em>
-    </p>
-    <p>= verbgruppe</p>
-    <p>= stammen</p>
-    <p>= nektelsen</p>
-    <p>= presens (nÃ¥)</p>
-    <p>= preteritum (da)</p>
-    <p>= gerundiumsformen</p>
-    <p>= perfektum partisipp</p>
-    <p>= entall</p>
-    <p>= totall</p>
-    <p>= flertall</p>
-    <p>= 1. person, 2. person, 3. person</p>
-    <p>= jeg (sing. 1.p.)</p>
-    <p>= du (sing. 2.p.)</p>
-    <p>= han/hun/det (sing. 3.p.)</p>
-    <p>= vi to (dual. 1.p.)</p>
-    <p>= de to (duaI2.p.)</p>
-    <p>= dere to (dual. 3.p.)</p>
-    <p>= vi (plur. 1.p.)</p>
-    <p>= dere (plur. 2.p.)</p>
-    <p>= de (plur. 3.p:)</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>108</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual><language xml:lang="nob"/><language xml:lang="sma"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vedlegg</p>
+<p><em type="italic">BAAKOELÆSTOE </em></p>
+<p xml:lang="sma">Vaerbedåehkie</p>
+<p xml:lang="sma">maadtoe</p>
+<p xml:lang="sma">nyøjhkeme</p>
+<p xml:lang="sma">daelie</p>
+<p xml:lang="sma">dellie</p>
+<p>gerundium</p>
+<p>p.p. - perf. part.</p>
+<p>sg.- sing.- singularis</p>
+<p>du.- dual.- dualis</p>
+<p>pl.- plur.- pluralis</p>
+<p>1.p., 2.p., 3.p.</p>
+<p xml:lang="sma">manne</p>
+<p xml:lang="sma">datne</p>
+<p xml:lang="sma">dihte</p>
+<p xml:lang="sma">monnoeh</p>
+<p xml:lang="sma">dotnoeh</p>
+<p xml:lang="sma">dah guaktah - dah g.</p>
+<p xml:lang="sma">mijjieh</p>
+<p xml:lang="sma">dijjieh</p>
+<p xml:lang="sma">dah</p>
+<p><em type="italic">FORKORTELSER / ORDLIsTE </em></p>
+<p>= verbgruppe</p>
+<p>= stammen</p>
+<p>= nektelsen</p>
+<p>= presens (nå)</p>
+<p>= preteritum (da)</p>
+<p>= gerundiumsformen</p>
+<p>= perfektum partisipp</p>
+<p>= entall</p>
+<p>= totall</p>
+<p>= flertall</p>
+<p>= 1. person, 2. person, 3. person</p>
+<p>= jeg (sing. 1.p.)</p>
+<p>= du (sing. 2.p.)</p>
+<p>= han/hun/det (sing. 3.p.)</p>
+<p>= vi to (dual. 1.p.)</p>
+<p>= de to (duaI2.p.)</p>
+<p>= dere to (dual. 3.p.)</p>
+<p>= vi (plur. 1.p.)</p>
+<p>= dere (plur. 2.p.)</p>
+<p>= de (plur. 3.p:)</p>
+</body></document>

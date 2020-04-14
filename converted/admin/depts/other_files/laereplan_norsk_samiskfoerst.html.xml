@@ -1,382 +1,284 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>3932</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/kl06/NOR3-03/Hele/Komplett_visning?lplang=nob&amp;read=1</origFileName>
-    <parallel_text xml:lang="sma" location="laereplan_norsk_samiskfoerst.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Læreplan i norsk for elever med samisk som førstespråk</p>
-    <p>Hovedinnhold</p>
-    <p type="title">Læreplan i norsk for elever med samisk som førstespråk</p>
-    <p xml:lang="nno">Fastsatt som forskrift av Kunnskapsdepartementet 21.08.13</p>
-    <p>Gjelder fra: 01.08.2013</p>
-    <p type="title">Formål</p>
-    <p>Norsk for elever med samisk som førstespråk er et fag for kulturforståelse, kommunikasjon, dannelse, identitetsutvikling og utvikling av respekt for egen og andres kultur. Barn og unge med samisk som førstespråk vokser opp i et samfunn der to- og flerspråklighet og kulturelt mangfold preger hverdagen. Aktiv samfunnsdeltakelse forutsetter mestring av språk og tekst. Opplæringen skal legge til rette for utviklingen av kompetanse i norsk språk og kultur, og ruste til likeverdig deltakelse i skole, samfunnsliv og arbeidsliv.</p>
-    <p>Norskfaget skal sammen med faget samisk legge grunnlaget for utviklingen av elevenes funksjonelle tospråklighet og gi innsikt i og forståelse for de samfunn de er en del av. På den måten kan norskfaget fremme en bevisst og kunnskapsbasert forståelse av likheter og forskjeller mellom norsk og samisk språk og kultur. Norskfaget skal gi innsikt i egen språklæring og bidra til å utvikle elevenes språkkompetanse ut fra de evner og forutsetninger den enkelte har. Muntlige ferdigheter, lese- og skrivekompetanse er både et mål i seg selv og et nødvendig grunnlag for forståelse og livslang læring.</p>
-    <p>Faget skal legge til rette for at elevene blir i stand til å bruke norsk aktivt, både muntlig og skriftlig, og kunne orientere seg i det mangfoldet av tekster som kjennetegner samfunnet i dag. I tillegg skal faget stimulere til utvikling av gode læringsstrategier og kritisk tenkning. Det skal også motivere til lese- og skrivelyst og gode lese- og skrivevaner. Faget bygger på et tekstbegrep som inkluderer muntlige, skriftlige og sammensatte tekster, der skrift, lyd og bilder spiller sammen. Norsk og samisk litteratur og litteratur fra andre kulturer, særlig andre urfolkskulturer, skal bidra til opplevelse, refleksjon og vurdering og utfordre elevene i deres kulturforståelse.</p>
-    <p>Fagene samisk og norsk har mange felles elementer, og det er derfor viktig med et nært samarbeid om disse to fagene. I norskopplæringen skal elevene stimuleres til å utforske språk og tekst i varierte samhandlingssituasjoner som åpner for refleksjon og analyse, kreativitet og estetisk utfoldelse. Gjennom opplæringen kan elevene møte seg selv og andre i nye roller, der de kan inspirere og utfordre hverandre og lære språket ved å bruke det. Opplæringen i norsk gjennom det 13-årige løpet skal sammen med samiskopplæringen være med på å gi elevene den språklige selvtillit som gir et godt grunnlag for aktiv deltakelse i samfunns- og yrkesliv.</p>
-    <p type="title">Hovedområder</p>
-    <p>Faget er strukturert i hovedområder som det er formulert kompetansemål innenfor. Hovedområdene utfyller hverandre og må ses i sammenheng.</p>
-    <p>Faget er et fellesfag for alle utdanningsprogrammene i videregående opplæring. Opplæringen skal derfor gjøres mest mulig relevant for elevene ved at den tilpasses de ulike utdanningsprogrammene.</p>
-    <p>Norsk har kompetansemål etter 2., 4., 7. og 10. årstrinn i grunnskolen og etter Vg1 Vg2 og Vg3 i studieforberedende utdanningsprogram i videregående opplæring. I yrkesfaglige utdanningsprogram er det kompetansemål etter Vg2 og etter påbygging til generell studiekompetanse.</p>
-    <p>
-      <em type="bold">Oversikt over hovedområder: </em>
-    </p>
-    <p xml:lang="isl">
-      <em type="bold">Årstrinn </em>
-    </p>
-    <p>
-      <em type="bold">Hovedområder </em>
-    </p>
-    <p xml:lang="deu">1.–10. Vg1-Vg3</p>
-    <p>Muntlig kommunikasjon</p>
-    <p>Skriftlig kommunikasjon</p>
-    <p>Språk, litteratur og kultur</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Hovedområdet Muntlig kommunikasjon handler om det å lytte og tale i forskjellige sammenhenger. Muntlig kommunikasjon er grunnleggende i innlæringen av nye språk. I videregående opplæring inngår også utviklingen av grunnleggende kompetanse i tolking fra samisk til norsk.</p>
-    <p>Lytting er en aktiv handling der eleven skal lære og forstå gjennom å oppfatte, tolke og vurdere andres utsagn. Gjennom forberedt muntlig framføring og spontan muntlig samhandling skal eleven utvikle evnen til å kommunisere med andre, og uttrykke kunnskap, tanker og ideer med variert ordforråd i ulike sjangere. Muntlig kommunikasjon omfatter også å tilpasse språk, uttrykksformer og formidlingsmåte til kommunikasjonssituasjonen.</p>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Hovedområdet Skriftlig kommunikasjon handler om det å lese og skrive norsk. Opplæringen omfatter den første lese- og skriveopplæringen og den videre utviklingen av lese- og skrivekompetansen i en sammenhengende progresjon gjennom hele opplæringsløpet. Opplæringen i lesing skal stimulere elevens lyst og evne til å lese og å skrive, og innebærer at eleven skal lese ulike tekster, både for å lære og å oppleve. De leste tekstene skal samtidig bidra til at eleven blir bevisst sin egen utvikling som leser og skriver, og til å utvikle et bevisst forhold til likheter og forskjeller mellom norsk og samisk skriftkultur.</p>
-    <p>Skriving innebærer å uttrykke, bearbeide og kommunisere tanker og meninger i ulike typer tekster og sjangere. Sammensatte tekster er en naturlig del av de tekstene elevene skal lese og utforme. God skriftlig kommunikasjon forutsetter et godt ordforråd, ferdigheter i tekstbygging, kjennskap til skriftspråklige konvensjoner og evne til å tilpasse tekst til formål og mottaker.</p>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Hovedområdet Språk, litteratur og kultur handler om norsk språk- og tekstkultur, og har samiske, nordiske og internasjonale perspektiver. Elevene skal utvikle en selvstendig forståelse av norsk språk og litteratur, og innsikt i hvordan språk og tekst har endret seg over tid, og fortsatt er i endring.</p>
-    <p>Hovedområdet skal bidra til kunnskap om språket som system og språket i bruk, og skal stimulere elevene til å utvikle et bevisst forhold til sin egen flerspråklighet. Elevene skal lese og reflektere over et stort og variert utvalg eldre og nyere tekster i ulike sjangere og fra ulike medier. I tillegg skal de forholde seg til tradisjoner i norsk teksthistorie i et sammenlignende perspektiv mellom nåtid og fortid og i lys av impulser fra andre teksttradisjoner.</p>
-    <p type="title" xml:lang="est">Timetall</p>
-    <p>Timetallet er oppgitt i 60-minutters enheter</p>
-    <p xml:lang="deu">BARNETRINNET</p>
-    <p>1.–7. årstrinn: 570 timer</p>
-    <p xml:lang="deu">UNGDOMSTRINNET</p>
-    <p>8.–10. årstrinn: Alternativ 1: 279 timer</p>
-    <p>Alternativ 2: 222 timer</p>
-    <p>Alternativ 1: uten fremmedspråk/språklig fordypning</p>
-    <p>Alternativ 2: med fremmedspråk/språklig fordypning</p>
-    <p xml:lang="deu">STUDIEFORBEREDENDE UTDANNINGSPROGRAM:</p>
-    <p>Vg1: 103 timer</p>
-    <p>Vg2: 103 timer</p>
-    <p>Vg3: 103 timer</p>
-    <p xml:lang="deu">YRKESFAGLIGE UTDANNINGSPROGRAM</p>
-    <p>Vg1: 45 timer</p>
-    <p>Vg2: 45 timer</p>
-    <p>PÅBYGGING TIL GENERELL STUDIEKOMPETANSE FOR YRKESFAGLIGE UTDANNINGSPROGRAM</p>
-    <p>Vg3: 219 timer</p>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p>Grunnleggende ferdigheter er integrert i kompetansemålene der de bidrar til utvikling av og er en del av fagkompetansen. I norsk forstås grunnleggende ferdigheter slik:</p>
-    <p><em type="italic">Muntlige ferdigheter </em>i norsk er å skape mening gjennom å lytte, samtale og tale, og å kunne tilpasse språket til formål og mottaker. Utviklingen av muntlige ferdigheter i norskfaget forutsetter systematisk arbeid med muntlige sjangere og strategier i stadig mer komplekse lytte- og talesituasjoner. Det innebærer å kunne planlegge og framføre muntlige presentasjoner av ulik art og bruke det muntlige språket stadig mer presist og nyansert i samtaler og i andre typer muntlige tekster, selv om kravene til muntlig språkkompetanse ikke er like høye som for elever med norsk som førstespråk. Det innebærer videre å lytte aktivt, og å forstå og samtale om norskfaglige emner, problemstillinger og tekster av økende omfang og kompleksitet. </p>
-    <p><em type="italic">Å kunne skrive </em>i norsk er å ytre seg på en hensiktsmessig måte og kommunisere med andre ved å bruke skriftspråket. Det er også en måte å utvikle og strukturere ideer og tanker på og en metode for å lære. Å skrive tekster i et bredt utvalg sjangere på skjerm og papir er et område samiskfaget og norskfaget i fellesskap har et spesielt ansvar for. Det innebærer å være i stand til å planlegge, utforme og bearbeide stadig mer komplekse tekster som er tilpasset formål og mottaker, selv om kravene til skriftlig språkkompetanse ikke er like høye som for elever med norsk som førstespråk. Utviklingen av skriftlige ferdigheter i norskfaget forutsetter systematisk arbeid med formelle skriveferdigheter, tekstkunnskap og ulike skrivestrategier. </p>
-    <p><em type="italic">Å kunne lese </em>i norsk er å skape mening fra tekster i et bredt utvalg sjangere fra nåtid og fortid. Det innebærer å engasjere seg i tekster og få innsikt i andre menneskers tanker, liv, opplevelser og skaperkraft, og å oppøve ferdighet i å sammenlikne tekster fra ulike tider og ulike kulturer. Det innebærer videre å kunne finne informasjon og forstå resonnementer og framstillinger i ulike typer tekster på skjerm og papir, og å kunne forholde seg kritisk og selvstendig til de leste tekstene. Utviklingen av leseferdigheter i norskfaget forutsetter at elevene leser ofte og mye, og at de arbeider systematisk med lesestrategier som er tilpasset formålet med lesingen og med ulike typer tekster i faget. Utviklingen går fra grunnleggende avkoding og forståelse av enkle tekster til å kunne forstå, tolke, reflektere over og vurdere stadig mer komplekse tekster i ulike sjangere. </p>
-    <p><em type="italic">Å kunne regne </em>i norsk er å tolke og forstå informasjon i tekster som inneholder tall, størrelser eller geometriske figurer. Det innebærer å kunne vurdere, reflektere over og kommunisere om sammensatte tekster som inneholder grafiske framstillinger, tabeller og statistikk. Utviklingen i regneferdigheter i norskfaget innebærer å skape helhetlig mening i stadig mer krevende tekster der ulike uttrykksformer må ses i sammenheng. </p>
-    <p><em type="italic">Digitale ferdigheter </em>i norsk er å bruke digitale verktøy, medier og ressurser for å innhente og behandle informasjon, skape og redigere ulike typer tekster og kommunisere med andre. I denne sammenhengen er det viktig å kunne vurdere og bruke kilder på en bevisst måte. Utviklingen av digitale ferdigheter er en del av lese- og skriveopplæringen i norskfaget, og innebærer å finne, bruke og etter hvert vurdere og referere til digitale kilder i skriftlige og muntlige tekster, og selv produsere stadig mer komplekse tekster. Videre innebærer det å utvikle kunnskap om opphavsrett og personvern, og å ha en kritisk og selvstendig holdning til ulike typer av digitale kilder. </p>
-    <p type="title">Kompetansemål etter 2. trinn</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lytte, leke og eksperimentere med norske språklyder, stavelser, ord, rim, rytme og intonasjon og sammenligne norske og samiske språklyder</p>
-      <p type="listitem" xml:lang="nno">lytte til, forstå og gi enkle beskjeder</p>
-      <p type="listitem">gjenkjenne enkle ord, navn, begrep og enkle setninger knyttet til dagligdagse situasjoner</p>
-      <p type="listitem" xml:lang="nno">hilse, takke, stille spørsmål og svare på enkle spørsmål</p>
-      <p type="listitem">sette sammen enkle ord til korte setninger</p>
-      <p type="listitem">telle og bruke tallene i kommunikasjon</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese store og små trykte bokstaver</p>
-      <p type="listitem">lese enkle tekster og samtale om handlingen i dem</p>
-      <p type="listitem">snakke om sammenhengen mellom språklyd og bokstav, mellom talespråk og skriftspråk og om forskjeller og likheter mellom norsk og samisk språk</p>
-      <p type="listitem">bruke store og små bokstaver og eksperimentere med ord, i egen håndskrift og på tastatur</p>
-      <p type="listitem">arbeide kreativt med tegning og skriving i forbindelse med lesing</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">samtale om norsk språk og i hvilke situasjoner man bruker norsk og samisk</p>
-      <p type="listitem">samtale om innholdet i sanger, regler, dikt, eventyr og fortellinger</p>
-    </list>
-    <p type="title">Kompetansemål etter 4. trinn</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lytte til andre, forstå og delta i enkle samtaler om egne opplevelser og erfaringer</p>
-      <p type="listitem">bruke et ordforråd som dekker dagligdagse situasjoner</p>
-      <p type="listitem" xml:lang="nno">framføre enkle tekster</p>
-      <p type="listitem">bruke tall til å angi priser, mengder og størrelser</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese skjønnlitteratur og fagtekster for barn og gi uttrykk for egne meninger om tekstene</p>
-      <p type="listitem">gjenkjenne og bruke enkle språklige virkemidler som gjentakelse og kontrast</p>
-      <p type="listitem">finne informasjon ved å kombinere ord og illustrasjoner i tekster på skjerm og papir</p>
-      <p type="listitem">skrive enkle beskrivende og fortellende tekster</p>
-      <p type="listitem">bruke bibliotek og Internett til å finne stoff til egen lesing og skriving</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">samtale om og sammenligne norsk og samisk språk og kultur ut fra egne erfaringer</p>
-      <p type="listitem">uttrykke tanker om språk, personer og handling i tekster fra dagliglivet og i skjønnlitterære tekster fra ulike tider og kulturer</p>
-    </list>
-    <p type="title">Kompetansemål etter 7. trinn</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem" xml:lang="dan">lytte til andre, uttrykke og begrunne egne meninger og vise respekt for andres</p>
-      <p type="listitem">gjengi på norsk med egne ord hovedinnholdet i fortellinger og muntlige framstillinger på norsk og samisk</p>
-      <p type="listitem">forstå noe svensk og dansk tale</p>
-      <p type="listitem">opptre i ulike roller gjennom drama-aktiviteter, opplesing og presentasjon</p>
-      <p type="listitem">bruke musikalske uttrykk og bilder i framføringer og presentasjoner</p>
-      <p type="listitem">bruke et egnet ordforråd til å fortelle om egne opplevelser og erfaringer, uttrykke følelser og egne meninger og samtale om enkle faglige emner</p>
-      <p type="listitem">uttrykke seg om valuta, mål og vekt</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese skjønnlitterære tekster og sakprosatekster, og samtale om innhold og egne leseopplevelser</p>
-      <p type="listitem">lese og samtale om enkle tekster på den norske målformen som elevene ikke har skriftlig opplæring i</p>
-      <p type="listitem">referere og oppsummere hovedmomenter i en tekst</p>
-      <p type="listitem">beherske ortografi i høyfrekvente ord og de vanligste reglene for tegnsetting</p>
-      <p type="listitem">skrive tekster med klart uttrykt tema og skape sammenheng mellom setninger og avsnitt</p>
-      <p type="listitem">uttrykke erfaringer og interesser i fortellende, beskrivende og reflekterende tekster</p>
-      <p type="listitem">bruke digitale kilder og verktøy til å lage sammensatte tekster med hyperkoplinger og varierte estetiske virkemidler</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">samtale om to- og flerspråklighet ut fra språkforhold i eget miljø</p>
-      <p type="listitem">samtale om ulike varianter av norsk</p>
-      <p type="listitem">forklare noen forskjeller mellom muntlig og skriftlig språk</p>
-      <p type="listitem">beskrive hvordan tekster er bygd opp ved hjelp av begreper fra grammatikk og tekstkunnskap, og samtale om forskjeller mellom norsk og samisk</p>
-      <p type="listitem">presentere egne synspunkter på personer, handling og tema i et utvalg barne- og ungdomslitteratur på norsk</p>
-      <p type="listitem" xml:lang="nno">bruke forskjellige former for digitale og papirbaserte ordbøker</p>
-    </list>
-    <p type="title">Kompetansemål etter 10. trinn</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lytte til, oppsummere hovedinnholdet og trekke ut relevant informasjon i muntlige tekster</p>
-      <p type="listitem">uttrykke seg med et funksjonelt ordforråd tilpasset mottaker og formål</p>
-      <p type="listitem">referere muntlig på norsk fra taler og foredrag på norsk og samisk</p>
-      <p type="listitem">delta i diskusjoner med begrunnede meninger og saklig argumentasjon</p>
-      <p type="listitem">beskrive grafiske framstillinger av tall og andre data</p>
-      <p type="listitem">presentere fagstoff med relevant terminologi og formålstjenlig bruk av digitale verktøy og medier</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese og analysere et bredt utvalg tekster i ulike sjangere og medier på bokmål og nynorsk og formidle mulige tolkninger</p>
-      <p type="listitem">lese enkle tekster på svensk og dansk og gjengi og kommentere innholdet</p>
-      <p type="listitem">uttrykke seg med et funksjonelt ordforråd og mestre sentrale regler i formverket</p>
-      <p type="listitem">gjenkjenne virkemidlene humor, ironi, kontraster, sammenligninger, symboler og språklige bilder</p>
-      <p type="listitem">skrive kreative, informative, reflekterende og argumenterende tekster etter mønster fra ulike eksempeltekster</p>
-      <p type="listitem">forstå og tolke opplysninger fra flere uttrykksformer i en sammensatt tekst</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjøre rede for bakgrunnen for at det er to offisielle språk i Norge, og diskutere hvordan norsk og samisk har påvirket hverandre</p>
-      <p type="listitem" xml:lang="nno">forklare bakgrunnen for at det er to likestilte norske målformer, og samtale om språkdebatt i Norge i dag</p>
-      <p type="listitem">samtale om form, innhold og formål i litteratur, teater og film</p>
-      <p type="listitem">reflektere over hvordan verdier, tenkemåter og forestillinger framstilles i norske og samiske tekster og oversatte tekster fra andre språk</p>
-    </list>
-    <p type="title">Kompetansemål etter Vg1 - studieforberedende utdanningsprogram og Vg2 - yrkesfaglige utdanningsprogram</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lytte til og vise åpenhet for andres argumentasjon, og bruke relevante og saklige argumenter i diskusjoner</p>
-      <p type="listitem">lytte til, forstå og gjengi informasjon fra svensk og dansk</p>
-      <p type="listitem">mestre ulike roller i samtaler, diskusjoner, dramatiseringer og presentasjoner</p>
-      <p type="listitem">bruke fagkunnskap og fagterminologi fra eget utdanningsprogram i samtaler, diskusjoner og presentasjoner om skole, samfunn og arbeidsliv</p>
-      <p type="listitem">bruke kunnskap om retoriske appellformer i presentasjoner</p>
-      <p type="listitem">kombinere auditive, skriftlige og visuelle uttrykksformer og bruke ulike digitale verktøy i presentasjoner</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese et utvalg samtidstekster, skjønnlitteratur og sakprosa på bokmål, nynorsk og i oversettelse fra samisk, og reflektere over innhold, form og formål</p>
-      <p type="listitem">gjøre rede for argumentasjonen i saksprosatekster</p>
-      <p type="listitem">skrive kreative, informative og argumenterende tekster tilpasset formål og mottaker</p>
-      <p type="listitem">drøfte hvordan ulike språklige virkemidler fungerer og bruke noen av disse i egne tekster</p>
-      <p type="listitem">tilpasse språk og uttrykksmåter til ulike skrivesituasjoner i skole, samfunn og arbeidsliv</p>
-      <p type="listitem">skrive tekster med tema og fagterminologi som er tilpasset eget utdanningsprogram etter mønster fra ulike eksempeltekster</p>
-      <p type="listitem">bruke ulike estetiske uttrykksformer i sammensatte tekster</p>
-      <p type="listitem">bruke digitale verktøy i publisering av egne tekster</p>
-      <p type="listitem">innhente, vurdere og bruke fagstoff fra digitale kilder i arbeidet med egne tekster, og følge regler for personvern og opphavsrett</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjøre rede for ulike språk og kulturer i Norge og Sápmi/Sábme/Saepmie i dag, og hvordan eget språk og egen kultur utvikles og endres i samspill med andre</p>
-      <p type="listitem">drøfte kulturmøter og kulturkonflikter med utgangspunkt i et utvalg samtidstekster</p>
-      <p type="listitem">tolke og vurdere samspillet mellom innhold, form og formål i sammensatte tekster</p>
-    </list>
-    <p type="title">Kompetansemål etter Vg2 - studieforberedende utdanningsprogram</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">referere på norsk muntlige samiske tekster om dagligdagse situasjoner og saker som angår skolen</p>
-      <p type="listitem">bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner</p>
-      <p type="listitem">bruke fagkunnskap fra egne programfag i framføringer og diskusjoner</p>
-      <p type="listitem">presentere norskfaglige emner og drøfte det framlagte stoffet</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese tekster på bokmål og nynorsk i ulike sjangere og analysere tekstene for å kunne ta stilling til spørsmål de tar opp, og verdier de representerer</p>
-      <p type="listitem">skrive tekster med klar hensikt, god struktur og sammenheng</p>
-      <p type="listitem">skrive kreative, informative og argumenterende tekster, utgreiinger, litterære tolkninger, drøftinger og andre resonnerende tekster</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk på 1800-tallet</p>
-      <p type="listitem">forklare argumentasjonen i sakprosatekster ved å bruke kunnskap om retorikk</p>
-      <p type="listitem">sammenligne fortellemåter og verdier i et utvalg samtidstekster med fortellemåter og verdier i myter og folkediktning</p>
-      <p type="listitem">sammenligne hvordan <span type="quote">”det samiske”</span> og <span type="quote">”det norske”</span> kommer til uttrykk i tekster fra samisk og norsk litteratur</p>
-      <p type="listitem">lese et utvalg sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken, sette dem inn i en kulturhistorisk sammenheng og kommentere form og innhold</p>
-      <p type="listitem">analysere innhold og vurdere bruken av virkemidler i tekster som er hentet fra ulike digitale medier</p>
-      <p type="listitem">referere til og vurdere kilder i aktuelle faglige sammenhenger</p>
-    </list>
-    <p type="title">Kompetansemål etter Vg3 - studieforberedende utdanningsprogram</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og form</p>
-      <p type="listitem">referere på norsk samiske muntlige tekster om saker knyttet til lokalsamfunnet</p>
-      <p type="listitem">uttrykke seg med et variert ordforråd og god språkføring tilpasset formål og mottaker</p>
-      <p type="listitem">drøfte faglige emner ved hjelp av fagterminologi og helhetlig argumentasjon</p>
-      <p type="listitem">sette sammen og framføre et avgrenset skjønnlitterært program</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese et utvalg samtidstekster og drøfte hvordan disse tekstene språklig og tematisk forholder seg til vår tid</p>
-      <p type="listitem">uttrykke seg med et variert ordforråd og god språkføring, og mestre sentrale språklige formkrav</p>
-      <p type="listitem">skrive litterære tolkninger og retoriske analyser, kreative tekster og resonnerende tekster med utgangspunkt i norskfaglige tekster</p>
-      <p type="listitem">skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon</p>
-      <p type="listitem">bruke kilder på en kritisk og etterprøvbar måte og beherske digital kildehenvisning</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjøre rede for særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål</p>
-      <p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag</p>
-      <p type="listitem">diskutere konsekvenser av fornorskingspolitikken i de samiske områdene</p>
-      <p type="listitem">presentere et utvalg nordiske tekster i oversettelse og i original</p>
-      <p type="listitem">analysere, tolke og sammenligne et utvalg sentrale norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng</p>
-      <p type="listitem">bruke begrepsapparat fra retorikken for å analysere og vurdere tekster i ulike sakprosasjangere</p>
-    </list>
-    <p type="title" xml:lang="nno">Kompetansemål etter påbygging til generell studiekompetanse – yrkesfaglige utdanningsprogram</p>
-    <p type="title">Muntlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">referere på norsk muntlige samiske tekster om dagligdagse situasjoner og saker som angår skolen</p>
-      <p type="listitem">bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner</p>
-      <p type="listitem">bruke fagkunnskap fra egne programfag i framføringer og diskusjoner</p>
-      <p type="listitem">presentere norskfaglige emner og drøfte det framlagte stoffet</p>
-      <p type="listitem">lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og form</p>
-      <p type="listitem">referere på norsk samiske muntlige tekster om saker knyttet til lokalsamfunnet</p>
-      <p type="listitem">uttrykke seg med et variert ordforråd og god språkføring tilpasset formål og mottaker</p>
-      <p type="listitem">drøfte faglige emner ved hjelp av fagterminologi og helhetlig argumentasjon</p>
-      <p type="listitem">sette sammen og framføre et avgrenset skjønnlitterært program</p>
-    </list>
-    <p type="title">Skriftlig kommunikasjon</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">lese tekster på bokmål og nynorsk i ulike sjangere og analysere tekstene for å kunne ta stilling til spørsmål de tar opp, og verdier de representerer</p>
-      <p type="listitem">skrive tekster med klar hensikt, god struktur og sammenheng</p>
-      <p type="listitem">skrive kreative, informative og argumenterende tekster, utgreiinger, litterære tolkninger, drøftinger og andre resonnerende tekster</p>
-      <p type="listitem">lese et utvalg samtidstekster og drøfte hvordan disse tekstene språklig og tematisk forholder seg til vår tid</p>
-      <p type="listitem">uttrykke seg med et variert ordforråd og god språkføring, og mestre sentrale språklige formkrav</p>
-      <p type="listitem">skrive litterære tolkninger og retoriske analyser, kreative tekster og resonnerende tekster med utgangspunkt i norskfaglige tekster</p>
-      <p type="listitem">skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon</p>
-      <p type="listitem">bruke kilder på en kritisk og etterprøvbar måte og beherske digital kildehenvisning</p>
-    </list>
-    <p type="title">Språk, litteratur og kultur</p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk på 1800-tallet</p>
-      <p type="listitem">forklare argumentasjonen i sakprosatekster ved å bruke kunnskap om retorikk</p>
-      <p type="listitem">sammenligne fortellemåter og verdier i et utvalg samtidstekster med fortellemåter og verdier i myter og folkediktning</p>
-      <p type="listitem">sammenligne hvordan <span type="quote">”det samiske”</span> og <span type="quote">”det norske”</span> kommer til uttrykk i tekster fra samisk og norsk litteratur</p>
-      <p type="listitem">lese et utvalg sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken, sette dem inn i en kulturhistorisk sammenheng og kommentere form og innhold</p>
-      <p type="listitem">analysere innhold og vurdere bruken av virkemidler i tekster som er hentet fra ulike digitale medier</p>
-      <p type="listitem">referere til og vurdere kilder i aktuelle faglige sammenhenger</p>
-      <p type="listitem">gjøre rede for særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål</p>
-      <p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag</p>
-      <p type="listitem">diskutere konsekvenser av fornorskingspolitikken i de samiske områdene</p>
-      <p type="listitem">presentere et utvalg nordiske tekster i oversettelse og i original</p>
-      <p type="listitem">analysere, tolke og sammenligne et utvalg sentrale norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng</p>
-      <p type="listitem">bruke begrepsapparat fra retorikken for å analysere og vurdere tekster i ulike sakprosasjangere</p>
-    </list>
-    <p type="title">Vurdering</p>
-    <p xml:lang="dan">Bestemmelser for sluttvurdering:</p>
-    <p>
-      <em type="bold">Standpunktvurdering </em>
-    </p>
-    <p xml:lang="isl">
-      <em type="bold">Å </em>
-      <em type="bold">rstrinn </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">Ordning </em>
-    </p>
-    <p>10. årstrinn</p>
-    <p>Elevene skal ha to standpunktkarakterer, en i norsk skriftlig og en i norsk muntlig.</p>
-    <p>Vg2 yrkesfaglige utdanningsprogram</p>
-    <p>Elevene skal ha én standpunktkarakter.</p>
-    <p>Vg3 studieforberedende utdanningsprogram</p>
-    <p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
-    <p>Elevene skal ha to standpunktkarakterer, en i norsk skriftlig og en i norsk muntlig.</p>
-    <p>Der faget går over flere år, skal det bare gis standpunktvurdering på det øverste nivået som eleven har i faget.</p>
-    <p>
-      <em type="bold">Eksamen for elever </em>
-    </p>
-    <p xml:lang="isl">
-      <em type="bold">Å </em>
-      <em type="bold">rstrinn </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">Ordning </em>
-    </p>
-    <p>10. årstrinn</p>
-    <p>Elevene kan trekkes ut til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>
-    <p>Vg2 yrkesfaglige utdanningsprogram</p>
-    <p>Elevene kan trekkes ut til skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert lokalt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (90 timer).</p>
-    <p>Vg3 studieforberedende utdanningsprogram</p>
-    <p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
-    <p>Elevene kan trekkes ut til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (309 timer).</p>
-    <p xml:lang="dan">
-      <em type="bold">Eksamen for privatister </em>
-    </p>
-    <p xml:lang="isl">
-      <em type="bold">Å </em>
-      <em type="bold">rstrinn </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">Ordning </em>
-    </p>
-    <p>10. årstrinn</p>
-    <p>Se gjeldende ordning for grunnskoleopplæring for voksne.</p>
-    <p>Vg2 yrkesfaglige utdanningsprogram</p>
-    <p>Privatistene skal opp til skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert lokalt. I tillegg skal privatistene opp til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (90 timer).</p>
-    <p>Vg3 studieforberedende utdanningsprogram</p>
-    <p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
-    <p>Privatistene skal opp til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatistene opp til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (309 timer).</p>
-    <p>De generelle bestemmelsene om vurdering er fastsatt i forskriften til opplæringsloven.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3932</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/NOR3-03/Hele/Komplett_visning?lplang=nob&amp;read=1</origFileName><parallel_text xml:lang="sma" location="laereplan_norsk_samiskfoerst.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Læreplan i norsk for elever med samisk som førstespråk</p>
+<p>Hovedinnhold</p>
+<p type="title">Læreplan i norsk for elever med samisk som førstespråk</p>
+<p xml:lang="nno">Fastsatt som forskrift av Kunnskapsdepartementet 21.08.13</p>
+<p>Gjelder fra: 01.08.2013</p>
+<p type="title">Formål</p>
+<p>Norsk for elever med samisk som førstespråk er et fag for kulturforståelse, kommunikasjon, dannelse, identitetsutvikling og utvikling av respekt for egen og andres kultur. Barn og unge med samisk som førstespråk vokser opp i et samfunn der to- og flerspråklighet og kulturelt mangfold preger hverdagen. Aktiv samfunnsdeltakelse forutsetter mestring av språk og tekst. Opplæringen skal legge til rette for utviklingen av kompetanse i norsk språk og kultur, og ruste til likeverdig deltakelse i skole, samfunnsliv og arbeidsliv.</p>
+<p>Norskfaget skal sammen med faget samisk legge grunnlaget for utviklingen av elevenes funksjonelle tospråklighet og gi innsikt i og forståelse for de samfunn de er en del av. På den måten kan norskfaget fremme en bevisst og kunnskapsbasert forståelse av likheter og forskjeller mellom norsk og samisk språk og kultur. Norskfaget skal gi innsikt i egen språklæring og bidra til å utvikle elevenes språkkompetanse ut fra de evner og forutsetninger den enkelte har. Muntlige ferdigheter, lese- og skrivekompetanse er både et mål i seg selv og et nødvendig grunnlag for forståelse og livslang læring.</p>
+<p>Faget skal legge til rette for at elevene blir i stand til å bruke norsk aktivt, både muntlig og skriftlig, og kunne orientere seg i det mangfoldet av tekster som kjennetegner samfunnet i dag. I tillegg skal faget stimulere til utvikling av gode læringsstrategier og kritisk tenkning. Det skal også motivere til lese- og skrivelyst og gode lese- og skrivevaner. Faget bygger på et tekstbegrep som inkluderer muntlige, skriftlige og sammensatte tekster, der skrift, lyd og bilder spiller sammen. Norsk og samisk litteratur og litteratur fra andre kulturer, særlig andre urfolkskulturer, skal bidra til opplevelse, refleksjon og vurdering og utfordre elevene i deres kulturforståelse.</p>
+<p>Fagene samisk og norsk har mange felles elementer, og det er derfor viktig med et nært samarbeid om disse to fagene. I norskopplæringen skal elevene stimuleres til å utforske språk og tekst i varierte samhandlingssituasjoner som åpner for refleksjon og analyse, kreativitet og estetisk utfoldelse. Gjennom opplæringen kan elevene møte seg selv og andre i nye roller, der de kan inspirere og utfordre hverandre og lære språket ved å bruke det. Opplæringen i norsk gjennom det 13-årige løpet skal sammen med samiskopplæringen være med på å gi elevene den språklige selvtillit som gir et godt grunnlag for aktiv deltakelse i samfunns- og yrkesliv.</p>
+<p type="title">Hovedområder</p>
+<p>Faget er strukturert i hovedområder som det er formulert kompetansemål innenfor. Hovedområdene utfyller hverandre og må ses i sammenheng.</p>
+<p>Faget er et fellesfag for alle utdanningsprogrammene i videregående opplæring. Opplæringen skal derfor gjøres mest mulig relevant for elevene ved at den tilpasses de ulike utdanningsprogrammene.</p>
+<p>Norsk har kompetansemål etter 2., 4., 7. og 10. årstrinn i grunnskolen og etter Vg1 Vg2 og Vg3 i studieforberedende utdanningsprogram i videregående opplæring. I yrkesfaglige utdanningsprogram er det kompetansemål etter Vg2 og etter påbygging til generell studiekompetanse.</p>
+<p><em type="bold">Oversikt over hovedområder: </em></p>
+<p xml:lang="isl"><em type="bold">Årstrinn </em></p>
+<p><em type="bold">Hovedområder </em></p>
+<p xml:lang="deu">1.–10. Vg1-Vg3</p>
+<p>Muntlig kommunikasjon</p>
+<p>Skriftlig kommunikasjon</p>
+<p>Språk, litteratur og kultur</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Hovedområdet Muntlig kommunikasjon handler om det å lytte og tale i forskjellige sammenhenger. Muntlig kommunikasjon er grunnleggende i innlæringen av nye språk. I videregående opplæring inngår også utviklingen av grunnleggende kompetanse i tolking fra samisk til norsk.</p>
+<p>Lytting er en aktiv handling der eleven skal lære og forstå gjennom å oppfatte, tolke og vurdere andres utsagn. Gjennom forberedt muntlig framføring og spontan muntlig samhandling skal eleven utvikle evnen til å kommunisere med andre, og uttrykke kunnskap, tanker og ideer med variert ordforråd i ulike sjangere. Muntlig kommunikasjon omfatter også å tilpasse språk, uttrykksformer og formidlingsmåte til kommunikasjonssituasjonen.</p>
+<p type="title">Skriftlig kommunikasjon</p>
+<p>Hovedområdet Skriftlig kommunikasjon handler om det å lese og skrive norsk. Opplæringen omfatter den første lese- og skriveopplæringen og den videre utviklingen av lese- og skrivekompetansen i en sammenhengende progresjon gjennom hele opplæringsløpet. Opplæringen i lesing skal stimulere elevens lyst og evne til å lese og å skrive, og innebærer at eleven skal lese ulike tekster, både for å lære og å oppleve. De leste tekstene skal samtidig bidra til at eleven blir bevisst sin egen utvikling som leser og skriver, og til å utvikle et bevisst forhold til likheter og forskjeller mellom norsk og samisk skriftkultur.</p>
+<p>Skriving innebærer å uttrykke, bearbeide og kommunisere tanker og meninger i ulike typer tekster og sjangere. Sammensatte tekster er en naturlig del av de tekstene elevene skal lese og utforme. God skriftlig kommunikasjon forutsetter et godt ordforråd, ferdigheter i tekstbygging, kjennskap til skriftspråklige konvensjoner og evne til å tilpasse tekst til formål og mottaker.</p>
+<p type="title">Språk, litteratur og kultur</p>
+<p>Hovedområdet Språk, litteratur og kultur handler om norsk språk- og tekstkultur, og har samiske, nordiske og internasjonale perspektiver. Elevene skal utvikle en selvstendig forståelse av norsk språk og litteratur, og innsikt i hvordan språk og tekst har endret seg over tid, og fortsatt er i endring.</p>
+<p>Hovedområdet skal bidra til kunnskap om språket som system og språket i bruk, og skal stimulere elevene til å utvikle et bevisst forhold til sin egen flerspråklighet. Elevene skal lese og reflektere over et stort og variert utvalg eldre og nyere tekster i ulike sjangere og fra ulike medier. I tillegg skal de forholde seg til tradisjoner i norsk teksthistorie i et sammenlignende perspektiv mellom nåtid og fortid og i lys av impulser fra andre teksttradisjoner.</p>
+<p type="title" xml:lang="est">Timetall</p>
+<p>Timetallet er oppgitt i 60-minutters enheter</p>
+<p xml:lang="deu">BARNETRINNET</p>
+<p>1.–7. årstrinn: 570 timer</p>
+<p xml:lang="deu">UNGDOMSTRINNET</p>
+<p>8.–10. årstrinn: Alternativ 1: 279 timer</p>
+<p>Alternativ 2: 222 timer</p>
+<p>Alternativ 1: uten fremmedspråk/språklig fordypning</p>
+<p>Alternativ 2: med fremmedspråk/språklig fordypning</p>
+<p xml:lang="deu">STUDIEFORBEREDENDE UTDANNINGSPROGRAM:</p>
+<p>Vg1: 103 timer</p>
+<p>Vg2: 103 timer</p>
+<p>Vg3: 103 timer</p>
+<p xml:lang="deu">YRKESFAGLIGE UTDANNINGSPROGRAM</p>
+<p>Vg1: 45 timer</p>
+<p>Vg2: 45 timer</p>
+<p>PÅBYGGING TIL GENERELL STUDIEKOMPETANSE FOR YRKESFAGLIGE UTDANNINGSPROGRAM</p>
+<p>Vg3: 219 timer</p>
+<p type="title">Grunnleggende ferdigheter</p>
+<p>Grunnleggende ferdigheter er integrert i kompetansemålene der de bidrar til utvikling av og er en del av fagkompetansen. I norsk forstås grunnleggende ferdigheter slik:</p>
+<p><em type="italic">Muntlige ferdigheter </em>i norsk er å skape mening gjennom å lytte, samtale og tale, og å kunne tilpasse språket til formål og mottaker. Utviklingen av muntlige ferdigheter i norskfaget forutsetter systematisk arbeid med muntlige sjangere og strategier i stadig mer komplekse lytte- og talesituasjoner. Det innebærer å kunne planlegge og framføre muntlige presentasjoner av ulik art og bruke det muntlige språket stadig mer presist og nyansert i samtaler og i andre typer muntlige tekster, selv om kravene til muntlig språkkompetanse ikke er like høye som for elever med norsk som førstespråk. Det innebærer videre å lytte aktivt, og å forstå og samtale om norskfaglige emner, problemstillinger og tekster av økende omfang og kompleksitet. </p>
+<p><em type="italic">Å kunne skrive </em>i norsk er å ytre seg på en hensiktsmessig måte og kommunisere med andre ved å bruke skriftspråket. Det er også en måte å utvikle og strukturere ideer og tanker på og en metode for å lære. Å skrive tekster i et bredt utvalg sjangere på skjerm og papir er et område samiskfaget og norskfaget i fellesskap har et spesielt ansvar for. Det innebærer å være i stand til å planlegge, utforme og bearbeide stadig mer komplekse tekster som er tilpasset formål og mottaker, selv om kravene til skriftlig språkkompetanse ikke er like høye som for elever med norsk som førstespråk. Utviklingen av skriftlige ferdigheter i norskfaget forutsetter systematisk arbeid med formelle skriveferdigheter, tekstkunnskap og ulike skrivestrategier. </p>
+<p><em type="italic">Å kunne lese </em>i norsk er å skape mening fra tekster i et bredt utvalg sjangere fra nåtid og fortid. Det innebærer å engasjere seg i tekster og få innsikt i andre menneskers tanker, liv, opplevelser og skaperkraft, og å oppøve ferdighet i å sammenlikne tekster fra ulike tider og ulike kulturer. Det innebærer videre å kunne finne informasjon og forstå resonnementer og framstillinger i ulike typer tekster på skjerm og papir, og å kunne forholde seg kritisk og selvstendig til de leste tekstene. Utviklingen av leseferdigheter i norskfaget forutsetter at elevene leser ofte og mye, og at de arbeider systematisk med lesestrategier som er tilpasset formålet med lesingen og med ulike typer tekster i faget. Utviklingen går fra grunnleggende avkoding og forståelse av enkle tekster til å kunne forstå, tolke, reflektere over og vurdere stadig mer komplekse tekster i ulike sjangere. </p>
+<p><em type="italic">Å kunne regne </em>i norsk er å tolke og forstå informasjon i tekster som inneholder tall, størrelser eller geometriske figurer. Det innebærer å kunne vurdere, reflektere over og kommunisere om sammensatte tekster som inneholder grafiske framstillinger, tabeller og statistikk. Utviklingen i regneferdigheter i norskfaget innebærer å skape helhetlig mening i stadig mer krevende tekster der ulike uttrykksformer må ses i sammenheng. </p>
+<p><em type="italic">Digitale ferdigheter </em>i norsk er å bruke digitale verktøy, medier og ressurser for å innhente og behandle informasjon, skape og redigere ulike typer tekster og kommunisere med andre. I denne sammenhengen er det viktig å kunne vurdere og bruke kilder på en bevisst måte. Utviklingen av digitale ferdigheter er en del av lese- og skriveopplæringen i norskfaget, og innebærer å finne, bruke og etter hvert vurdere og referere til digitale kilder i skriftlige og muntlige tekster, og selv produsere stadig mer komplekse tekster. Videre innebærer det å utvikle kunnskap om opphavsrett og personvern, og å ha en kritisk og selvstendig holdning til ulike typer av digitale kilder. </p>
+<p type="title">Kompetansemål etter 2. trinn</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lytte, leke og eksperimentere med norske språklyder, stavelser, ord, rim, rytme og intonasjon og sammenligne norske og samiske språklyder</p>
+<p type="listitem" xml:lang="nno">lytte til, forstå og gi enkle beskjeder</p>
+<p type="listitem">gjenkjenne enkle ord, navn, begrep og enkle setninger knyttet til dagligdagse situasjoner</p>
+<p type="listitem" xml:lang="nno">hilse, takke, stille spørsmål og svare på enkle spørsmål</p>
+<p type="listitem">sette sammen enkle ord til korte setninger</p>
+<p type="listitem">telle og bruke tallene i kommunikasjon</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese store og små trykte bokstaver</p>
+<p type="listitem">lese enkle tekster og samtale om handlingen i dem</p>
+<p type="listitem">snakke om sammenhengen mellom språklyd og bokstav, mellom talespråk og skriftspråk og om forskjeller og likheter mellom norsk og samisk språk</p>
+<p type="listitem">bruke store og små bokstaver og eksperimentere med ord, i egen håndskrift og på tastatur</p>
+<p type="listitem">arbeide kreativt med tegning og skriving i forbindelse med lesing</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">samtale om norsk språk og i hvilke situasjoner man bruker norsk og samisk</p>
+<p type="listitem">samtale om innholdet i sanger, regler, dikt, eventyr og fortellinger</p>
+</list><p type="title">Kompetansemål etter 4. trinn</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lytte til andre, forstå og delta i enkle samtaler om egne opplevelser og erfaringer</p>
+<p type="listitem">bruke et ordforråd som dekker dagligdagse situasjoner</p>
+<p type="listitem" xml:lang="nno">framføre enkle tekster</p>
+<p type="listitem">bruke tall til å angi priser, mengder og størrelser</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese skjønnlitteratur og fagtekster for barn og gi uttrykk for egne meninger om tekstene</p>
+<p type="listitem">gjenkjenne og bruke enkle språklige virkemidler som gjentakelse og kontrast</p>
+<p type="listitem">finne informasjon ved å kombinere ord og illustrasjoner i tekster på skjerm og papir</p>
+<p type="listitem">skrive enkle beskrivende og fortellende tekster</p>
+<p type="listitem">bruke bibliotek og Internett til å finne stoff til egen lesing og skriving</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">samtale om og sammenligne norsk og samisk språk og kultur ut fra egne erfaringer</p>
+<p type="listitem">uttrykke tanker om språk, personer og handling i tekster fra dagliglivet og i skjønnlitterære tekster fra ulike tider og kulturer</p>
+</list><p type="title">Kompetansemål etter 7. trinn</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem" xml:lang="dan">lytte til andre, uttrykke og begrunne egne meninger og vise respekt for andres</p>
+<p type="listitem">gjengi på norsk med egne ord hovedinnholdet i fortellinger og muntlige framstillinger på norsk og samisk</p>
+<p type="listitem">forstå noe svensk og dansk tale</p>
+<p type="listitem">opptre i ulike roller gjennom drama-aktiviteter, opplesing og presentasjon</p>
+<p type="listitem">bruke musikalske uttrykk og bilder i framføringer og presentasjoner</p>
+<p type="listitem">bruke et egnet ordforråd til å fortelle om egne opplevelser og erfaringer, uttrykke følelser og egne meninger og samtale om enkle faglige emner</p>
+<p type="listitem">uttrykke seg om valuta, mål og vekt</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese skjønnlitterære tekster og sakprosatekster, og samtale om innhold og egne leseopplevelser</p>
+<p type="listitem">lese og samtale om enkle tekster på den norske målformen som elevene ikke har skriftlig opplæring i</p>
+<p type="listitem">referere og oppsummere hovedmomenter i en tekst</p>
+<p type="listitem">beherske ortografi i høyfrekvente ord og de vanligste reglene for tegnsetting</p>
+<p type="listitem">skrive tekster med klart uttrykt tema og skape sammenheng mellom setninger og avsnitt</p>
+<p type="listitem">uttrykke erfaringer og interesser i fortellende, beskrivende og reflekterende tekster</p>
+<p type="listitem">bruke digitale kilder og verktøy til å lage sammensatte tekster med hyperkoplinger og varierte estetiske virkemidler</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">samtale om to- og flerspråklighet ut fra språkforhold i eget miljø</p>
+<p type="listitem">samtale om ulike varianter av norsk</p>
+<p type="listitem">forklare noen forskjeller mellom muntlig og skriftlig språk</p>
+<p type="listitem">beskrive hvordan tekster er bygd opp ved hjelp av begreper fra grammatikk og tekstkunnskap, og samtale om forskjeller mellom norsk og samisk</p>
+<p type="listitem">presentere egne synspunkter på personer, handling og tema i et utvalg barne- og ungdomslitteratur på norsk</p>
+<p type="listitem" xml:lang="nno">bruke forskjellige former for digitale og papirbaserte ordbøker</p>
+</list><p type="title">Kompetansemål etter 10. trinn</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lytte til, oppsummere hovedinnholdet og trekke ut relevant informasjon i muntlige tekster</p>
+<p type="listitem">uttrykke seg med et funksjonelt ordforråd tilpasset mottaker og formål</p>
+<p type="listitem">referere muntlig på norsk fra taler og foredrag på norsk og samisk</p>
+<p type="listitem">delta i diskusjoner med begrunnede meninger og saklig argumentasjon</p>
+<p type="listitem">beskrive grafiske framstillinger av tall og andre data</p>
+<p type="listitem">presentere fagstoff med relevant terminologi og formålstjenlig bruk av digitale verktøy og medier</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese og analysere et bredt utvalg tekster i ulike sjangere og medier på bokmål og nynorsk og formidle mulige tolkninger</p>
+<p type="listitem">lese enkle tekster på svensk og dansk og gjengi og kommentere innholdet</p>
+<p type="listitem">uttrykke seg med et funksjonelt ordforråd og mestre sentrale regler i formverket</p>
+<p type="listitem">gjenkjenne virkemidlene humor, ironi, kontraster, sammenligninger, symboler og språklige bilder</p>
+<p type="listitem">skrive kreative, informative, reflekterende og argumenterende tekster etter mønster fra ulike eksempeltekster</p>
+<p type="listitem">forstå og tolke opplysninger fra flere uttrykksformer i en sammensatt tekst</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">gjøre rede for bakgrunnen for at det er to offisielle språk i Norge, og diskutere hvordan norsk og samisk har påvirket hverandre</p>
+<p type="listitem" xml:lang="nno">forklare bakgrunnen for at det er to likestilte norske målformer, og samtale om språkdebatt i Norge i dag</p>
+<p type="listitem">samtale om form, innhold og formål i litteratur, teater og film</p>
+<p type="listitem">reflektere over hvordan verdier, tenkemåter og forestillinger framstilles i norske og samiske tekster og oversatte tekster fra andre språk</p>
+</list><p type="title">Kompetansemål etter Vg1 - studieforberedende utdanningsprogram og Vg2 - yrkesfaglige utdanningsprogram</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lytte til og vise åpenhet for andres argumentasjon, og bruke relevante og saklige argumenter i diskusjoner</p>
+<p type="listitem">lytte til, forstå og gjengi informasjon fra svensk og dansk</p>
+<p type="listitem">mestre ulike roller i samtaler, diskusjoner, dramatiseringer og presentasjoner</p>
+<p type="listitem">bruke fagkunnskap og fagterminologi fra eget utdanningsprogram i samtaler, diskusjoner og presentasjoner om skole, samfunn og arbeidsliv</p>
+<p type="listitem">bruke kunnskap om retoriske appellformer i presentasjoner</p>
+<p type="listitem">kombinere auditive, skriftlige og visuelle uttrykksformer og bruke ulike digitale verktøy i presentasjoner</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese et utvalg samtidstekster, skjønnlitteratur og sakprosa på bokmål, nynorsk og i oversettelse fra samisk, og reflektere over innhold, form og formål</p>
+<p type="listitem">gjøre rede for argumentasjonen i saksprosatekster</p>
+<p type="listitem">skrive kreative, informative og argumenterende tekster tilpasset formål og mottaker</p>
+<p type="listitem">drøfte hvordan ulike språklige virkemidler fungerer og bruke noen av disse i egne tekster</p>
+<p type="listitem">tilpasse språk og uttrykksmåter til ulike skrivesituasjoner i skole, samfunn og arbeidsliv</p>
+<p type="listitem">skrive tekster med tema og fagterminologi som er tilpasset eget utdanningsprogram etter mønster fra ulike eksempeltekster</p>
+<p type="listitem">bruke ulike estetiske uttrykksformer i sammensatte tekster</p>
+<p type="listitem">bruke digitale verktøy i publisering av egne tekster</p>
+<p type="listitem">innhente, vurdere og bruke fagstoff fra digitale kilder i arbeidet med egne tekster, og følge regler for personvern og opphavsrett</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">gjøre rede for ulike språk og kulturer i Norge og Sápmi/Sábme/Saepmie i dag, og hvordan eget språk og egen kultur utvikles og endres i samspill med andre</p>
+<p type="listitem">drøfte kulturmøter og kulturkonflikter med utgangspunkt i et utvalg samtidstekster</p>
+<p type="listitem">tolke og vurdere samspillet mellom innhold, form og formål i sammensatte tekster</p>
+</list><p type="title">Kompetansemål etter Vg2 - studieforberedende utdanningsprogram</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">referere på norsk muntlige samiske tekster om dagligdagse situasjoner og saker som angår skolen</p>
+<p type="listitem">bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner</p>
+<p type="listitem">bruke fagkunnskap fra egne programfag i framføringer og diskusjoner</p>
+<p type="listitem">presentere norskfaglige emner og drøfte det framlagte stoffet</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese tekster på bokmål og nynorsk i ulike sjangere og analysere tekstene for å kunne ta stilling til spørsmål de tar opp, og verdier de representerer</p>
+<p type="listitem">skrive tekster med klar hensikt, god struktur og sammenheng</p>
+<p type="listitem">skrive kreative, informative og argumenterende tekster, utgreiinger, litterære tolkninger, drøftinger og andre resonnerende tekster</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk på 1800-tallet</p>
+<p type="listitem">forklare argumentasjonen i sakprosatekster ved å bruke kunnskap om retorikk</p>
+<p type="listitem">sammenligne fortellemåter og verdier i et utvalg samtidstekster med fortellemåter og verdier i myter og folkediktning</p>
+<p type="listitem">sammenligne hvordan <span type="quote">”det samiske”</span> og <span type="quote">”det norske”</span> kommer til uttrykk i tekster fra samisk og norsk litteratur</p>
+<p type="listitem">lese et utvalg sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken, sette dem inn i en kulturhistorisk sammenheng og kommentere form og innhold</p>
+<p type="listitem">analysere innhold og vurdere bruken av virkemidler i tekster som er hentet fra ulike digitale medier</p>
+<p type="listitem">referere til og vurdere kilder i aktuelle faglige sammenhenger</p>
+</list><p type="title">Kompetansemål etter Vg3 - studieforberedende utdanningsprogram</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og form</p>
+<p type="listitem">referere på norsk samiske muntlige tekster om saker knyttet til lokalsamfunnet</p>
+<p type="listitem">uttrykke seg med et variert ordforråd og god språkføring tilpasset formål og mottaker</p>
+<p type="listitem">drøfte faglige emner ved hjelp av fagterminologi og helhetlig argumentasjon</p>
+<p type="listitem">sette sammen og framføre et avgrenset skjønnlitterært program</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese et utvalg samtidstekster og drøfte hvordan disse tekstene språklig og tematisk forholder seg til vår tid</p>
+<p type="listitem">uttrykke seg med et variert ordforråd og god språkføring, og mestre sentrale språklige formkrav</p>
+<p type="listitem">skrive litterære tolkninger og retoriske analyser, kreative tekster og resonnerende tekster med utgangspunkt i norskfaglige tekster</p>
+<p type="listitem">skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon</p>
+<p type="listitem">bruke kilder på en kritisk og etterprøvbar måte og beherske digital kildehenvisning</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">gjøre rede for særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål</p>
+<p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag</p>
+<p type="listitem">diskutere konsekvenser av fornorskingspolitikken i de samiske områdene</p>
+<p type="listitem">presentere et utvalg nordiske tekster i oversettelse og i original</p>
+<p type="listitem">analysere, tolke og sammenligne et utvalg sentrale norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng</p>
+<p type="listitem">bruke begrepsapparat fra retorikken for å analysere og vurdere tekster i ulike sakprosasjangere</p>
+</list><p type="title" xml:lang="nno">Kompetansemål etter påbygging til generell studiekompetanse – yrkesfaglige utdanningsprogram</p>
+<p type="title">Muntlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">referere på norsk muntlige samiske tekster om dagligdagse situasjoner og saker som angår skolen</p>
+<p type="listitem">bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner</p>
+<p type="listitem">bruke fagkunnskap fra egne programfag i framføringer og diskusjoner</p>
+<p type="listitem">presentere norskfaglige emner og drøfte det framlagte stoffet</p>
+<p type="listitem">lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og form</p>
+<p type="listitem">referere på norsk samiske muntlige tekster om saker knyttet til lokalsamfunnet</p>
+<p type="listitem">uttrykke seg med et variert ordforråd og god språkføring tilpasset formål og mottaker</p>
+<p type="listitem">drøfte faglige emner ved hjelp av fagterminologi og helhetlig argumentasjon</p>
+<p type="listitem">sette sammen og framføre et avgrenset skjønnlitterært program</p>
+</list><p type="title">Skriftlig kommunikasjon</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">lese tekster på bokmål og nynorsk i ulike sjangere og analysere tekstene for å kunne ta stilling til spørsmål de tar opp, og verdier de representerer</p>
+<p type="listitem">skrive tekster med klar hensikt, god struktur og sammenheng</p>
+<p type="listitem">skrive kreative, informative og argumenterende tekster, utgreiinger, litterære tolkninger, drøftinger og andre resonnerende tekster</p>
+<p type="listitem">lese et utvalg samtidstekster og drøfte hvordan disse tekstene språklig og tematisk forholder seg til vår tid</p>
+<p type="listitem">uttrykke seg med et variert ordforråd og god språkføring, og mestre sentrale språklige formkrav</p>
+<p type="listitem">skrive litterære tolkninger og retoriske analyser, kreative tekster og resonnerende tekster med utgangspunkt i norskfaglige tekster</p>
+<p type="listitem">skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon</p>
+<p type="listitem">bruke kilder på en kritisk og etterprøvbar måte og beherske digital kildehenvisning</p>
+</list><p type="title">Språk, litteratur og kultur</p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk på 1800-tallet</p>
+<p type="listitem">forklare argumentasjonen i sakprosatekster ved å bruke kunnskap om retorikk</p>
+<p type="listitem">sammenligne fortellemåter og verdier i et utvalg samtidstekster med fortellemåter og verdier i myter og folkediktning</p>
+<p type="listitem">sammenligne hvordan <span type="quote">”det samiske”</span> og <span type="quote">”det norske”</span> kommer til uttrykk i tekster fra samisk og norsk litteratur</p>
+<p type="listitem">lese et utvalg sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken, sette dem inn i en kulturhistorisk sammenheng og kommentere form og innhold</p>
+<p type="listitem">analysere innhold og vurdere bruken av virkemidler i tekster som er hentet fra ulike digitale medier</p>
+<p type="listitem">referere til og vurdere kilder i aktuelle faglige sammenhenger</p>
+<p type="listitem">gjøre rede for særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål</p>
+<p type="listitem">gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag</p>
+<p type="listitem">diskutere konsekvenser av fornorskingspolitikken i de samiske områdene</p>
+<p type="listitem">presentere et utvalg nordiske tekster i oversettelse og i original</p>
+<p type="listitem">analysere, tolke og sammenligne et utvalg sentrale norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng</p>
+<p type="listitem">bruke begrepsapparat fra retorikken for å analysere og vurdere tekster i ulike sakprosasjangere</p>
+</list><p type="title">Vurdering</p>
+<p xml:lang="dan">Bestemmelser for sluttvurdering:</p>
+<p><em type="bold">Standpunktvurdering </em></p>
+<p xml:lang="isl"><em type="bold">Å </em><em type="bold">rstrinn </em></p>
+<p xml:lang="dan"><em type="bold">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Elevene skal ha to standpunktkarakterer, en i norsk skriftlig og en i norsk muntlig.</p>
+<p>Vg2 yrkesfaglige utdanningsprogram</p>
+<p>Elevene skal ha én standpunktkarakter.</p>
+<p>Vg3 studieforberedende utdanningsprogram</p>
+<p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
+<p>Elevene skal ha to standpunktkarakterer, en i norsk skriftlig og en i norsk muntlig.</p>
+<p>Der faget går over flere år, skal det bare gis standpunktvurdering på det øverste nivået som eleven har i faget.</p>
+<p><em type="bold">Eksamen for elever </em></p>
+<p xml:lang="isl"><em type="bold">Å </em><em type="bold">rstrinn </em></p>
+<p xml:lang="dan"><em type="bold">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Elevene kan trekkes ut til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>
+<p>Vg2 yrkesfaglige utdanningsprogram</p>
+<p>Elevene kan trekkes ut til skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert lokalt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (90 timer).</p>
+<p>Vg3 studieforberedende utdanningsprogram</p>
+<p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
+<p>Elevene kan trekkes ut til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Elevene kan også trekkes ut til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (309 timer).</p>
+<p xml:lang="dan"><em type="bold">Eksamen for privatister </em></p>
+<p xml:lang="isl"><em type="bold">Å </em><em type="bold">rstrinn </em></p>
+<p xml:lang="dan"><em type="bold">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Se gjeldende ordning for grunnskoleopplæring for voksne.</p>
+<p>Vg2 yrkesfaglige utdanningsprogram</p>
+<p>Privatistene skal opp til skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert lokalt. I tillegg skal privatistene opp til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (90 timer).</p>
+<p>Vg3 studieforberedende utdanningsprogram</p>
+<p xml:lang="nno">Vg3 påbygging til generell studiekompetanse</p>
+<p>Privatistene skal opp til én skriftlig eksamen i norsk. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatistene opp til muntlig eksamen i norsk. Muntlig eksamen blir utarbeidet og sensurert lokalt. Eksamen omfatter hele faget (309 timer).</p>
+<p>De generelle bestemmelsene om vurdering er fastsatt i forskriften til opplæringsloven.</p>
+</body></document>

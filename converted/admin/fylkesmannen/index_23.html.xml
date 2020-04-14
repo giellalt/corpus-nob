@@ -1,92 +1,63 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Helse-omsorg-og-sosialtjenester/Krisesenter/</origFileName>
-    <parallel_text xml:lang="eng" location="index_23.html"/>
-    <parallel_text xml:lang="sma" location="index_23.html"/>
-    <parallel_text xml:lang="sme" location="index_23.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Krisesenter - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="dan">Miljø og klima</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <p xml:lang="deu">Krisesenter</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Fattigdomsbekjempelse</p>
-      <p type="listitem" xml:lang="dan">Folkehelse</p>
-      <p type="listitem" xml:lang="nno">Førerkort</p>
-      <p type="listitem" xml:lang="nno">Helse offshore</p>
-      <p type="listitem">Helsetjenester</p>
-      <p type="listitem" xml:lang="eng">Individuell plan</p>
-      <p type="listitem" xml:lang="deu">Krisesenter</p>
-      <p type="listitem">Kvalifiseringsprogrammet</p>
-      <p type="listitem">Omsorgstjenester</p>
-      <p type="listitem" xml:lang="nno">Psykisk helse og rus</p>
-      <p type="listitem">Samhandlingsreformen</p>
-      <p type="listitem" xml:lang="est">Turnustjeneste</p>
-      <p type="listitem">Tvang</p>
-      <p type="listitem">Universell utforming</p>
-      <p type="listitem">Vergemål  <list><p type="listitem">Klagerett</p><p type="listitem">Informasjon til deg som er verge</p><p type="listitem">Representant for enslig mindreårig asylsøker</p><p type="listitem">Trenger du verge?</p></list></p>
-      <p type="listitem" xml:lang="dan">Økonomisk sosialhjelp</p>
-    </list>
-    <p type="title" xml:lang="deu">Krisesenter</p>
-    <p xml:lang="nno">Publisert 01.10.2012 Oppdatert 27.01.2017</p>
-    <p>Et krisesenter er en institusjon som tar imot personer som er utsatt for vold i nære relasjoner.</p>
-    <p>Det er kommunen som skal sørge for at det finnes et tilbud om krisesenter for alle som trenger det. Kommunen skal også sørge for at krisesenteret oppfyller kravene i krisesenterloven. Formålet med denne loven er å sikre at det finnes et godt tilbud til kvinner, menn og barn som er utsatt for vold eller trusler om vold fra noen som står dem nær.</p>
-    <p>Fylkesmannen skal føre tilsyn med at kommunen oppfyller sine forpliktelser etter bestemmelsene i krisesenterloven. Fylkesmannens tilsyn retter seg mot kommunen, ikke det enkelte krisesenteret.</p>
-    <list>
-      <p type="listitem">Et krisesenter er et tilbud om et midlertidig sted å bo. Det skal være gratis, døgnåpent og tilgjengelig hele året.</p>
-      <p type="listitem">Tilbudet skal være tilrettelagt for hver enkelt bruker.</p>
-      <p type="listitem">Krisesenteret og andre offentlige tjenester skal være samordnet og gi brukeren helhetlig oppfølging.</p>
-      <p type="listitem">De som har bodd i krisesenter, skal få tilbud om oppfølging etter at de har flyttet ut.</p>
-    </list>
-    <p>Krisesenterloven pålegger kommunen å føre internkontroll med at krisesenteret og den virksomheten krisesentertilbudet omfatter, er i samsvar med gjeldende regelverk.</p>
-    <p type="title">Fylkesmannens ansvar</p>
-    <p>Fylkesmannen fører tilsyn med at kommunen følger opp oppgavene sine etter bestemmelsene i krisesenterloven. Fylkesmannens tilsyn retter seg mot kommunen, ikke det enkelte krisesenteret.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Bufetat om krisesenter</p>
-      <p type="listitem">Norsk krisesenterforbund</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>322</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Helse-omsorg-og-sosialtjenester/Krisesenter/</origFileName><parallel_text xml:lang="eng" location="index_23.html"/><parallel_text xml:lang="sma" location="index_23.html"/><parallel_text xml:lang="sme" location="index_23.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Krisesenter - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="dan">Miljø og klima</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<p xml:lang="deu">Krisesenter</p>
+<list><p type="listitem" xml:lang="dan">Fattigdomsbekjempelse</p>
+<p type="listitem" xml:lang="dan">Folkehelse</p>
+<p type="listitem" xml:lang="nno">Førerkort</p>
+<p type="listitem" xml:lang="nno">Helse offshore</p>
+<p type="listitem">Helsetjenester</p>
+<p type="listitem" xml:lang="eng">Individuell plan</p>
+<p type="listitem" xml:lang="deu">Krisesenter</p>
+<p type="listitem">Kvalifiseringsprogrammet</p>
+<p type="listitem">Omsorgstjenester</p>
+<p type="listitem" xml:lang="nno">Psykisk helse og rus</p>
+<p type="listitem">Samhandlingsreformen</p>
+<p type="listitem" xml:lang="est">Turnustjeneste</p>
+<p type="listitem">Tvang</p>
+<p type="listitem">Universell utforming</p>
+<p type="listitem">Vergemål  <list><p type="listitem">Klagerett</p>
+<p type="listitem">Informasjon til deg som er verge</p>
+<p type="listitem">Representant for enslig mindreårig asylsøker</p>
+<p type="listitem">Trenger du verge?</p>
+</list></p>
+<p type="listitem" xml:lang="dan">Økonomisk sosialhjelp</p>
+</list><p type="title" xml:lang="deu">Krisesenter</p>
+<p xml:lang="nno">Publisert 01.10.2012 Oppdatert 27.01.2017</p>
+<p>Et krisesenter er en institusjon som tar imot personer som er utsatt for vold i nære relasjoner.</p>
+<p>Det er kommunen som skal sørge for at det finnes et tilbud om krisesenter for alle som trenger det. Kommunen skal også sørge for at krisesenteret oppfyller kravene i krisesenterloven. Formålet med denne loven er å sikre at det finnes et godt tilbud til kvinner, menn og barn som er utsatt for vold eller trusler om vold fra noen som står dem nær.</p>
+<p>Fylkesmannen skal føre tilsyn med at kommunen oppfyller sine forpliktelser etter bestemmelsene i krisesenterloven. Fylkesmannens tilsyn retter seg mot kommunen, ikke det enkelte krisesenteret.</p>
+<list><p type="listitem">Et krisesenter er et tilbud om et midlertidig sted å bo. Det skal være gratis, døgnåpent og tilgjengelig hele året.</p>
+<p type="listitem">Tilbudet skal være tilrettelagt for hver enkelt bruker.</p>
+<p type="listitem">Krisesenteret og andre offentlige tjenester skal være samordnet og gi brukeren helhetlig oppfølging.</p>
+<p type="listitem">De som har bodd i krisesenter, skal få tilbud om oppfølging etter at de har flyttet ut.</p>
+</list><p>Krisesenterloven pålegger kommunen å føre internkontroll med at krisesenteret og den virksomheten krisesentertilbudet omfatter, er i samsvar med gjeldende regelverk.</p>
+<p type="title">Fylkesmannens ansvar</p>
+<p>Fylkesmannen fører tilsyn med at kommunen følger opp oppgavene sine etter bestemmelsene i krisesenterloven. Fylkesmannens tilsyn retter seg mot kommunen, ikke det enkelte krisesenteret.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem">Bufetat om krisesenter</p>
+<p type="listitem">Norsk krisesenterforbund</p>
+</list></body></document>

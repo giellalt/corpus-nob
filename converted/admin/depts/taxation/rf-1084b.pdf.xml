@@ -1,103 +1,80 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>371</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1084B.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="rf-1084s.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Det vises til rettledning RF-1270Skjema nr.</p>
-    <p>NavnOrganisasjonsnummer</p>
-    <p>Nærings- (kontor-) adresseFødselsnummer</p>
-    <p>Postnr./-sted</p>
-    <p><em type="bold">Saldoavskrivninger:</em> </p>
-    <p>Gjelder dette skjemaet skattyters andel av felles konto i sameie som ikke går inn under skatteloven                      §§ 10-40 til 10-45?</p>
-    <p xml:lang="nno">JaNei</p>
-    <p>Gruppe a: kontormaskiner o.l. (30%) Gruppe b: ervervet forretningsverdi (goodwill) (20%) Gruppe c: vogntog, lastebiler, varebiler o.l. (20%) Gruppe d: personbiler, traktorer, maskiner o.l. (20%) Gruppe e: skip mv. (14%) Gruppe f: fly, helikopter (12%) Gruppe g: anlegg for overføring og distribusjon av elektrisk kraft                og elektroteknisk utrustning i kraftforetak,                og slike driftsmidler benyttet i annen virksomhet (5%) Gruppe h: bygg og anlegg mv. (4%) Gruppe i: forretningsbygg (2%) Gruppe j: fast teknisk installasjon i bygninger (10%)</p>
-    <p xml:lang="nno">Type næring Kommune</p>
-    <p xml:lang="vep">Saldonr.</p>
-    <p xml:lang="vep">Saldonr.</p>
-    <p>Saldogruppe</p>
-    <p>Saldogruppe</p>
-    <p xml:lang="swe">Valgt avskrivningssats</p>
-    <p xml:lang="nno">Type næring</p>
-    <p xml:lang="dan">Overføres til</p>
-    <p xml:lang="swe">Valgt avskrivningssats</p>
-    <p xml:lang="dan">Overføres til</p>
-    <p>Ev. gårds- og bruksnr. ev. seksjonsnr.</p>
-    <p xml:lang="sma">Ev. gateadresse</p>
-    <p>Saldogrunnlag pr. 1.1 (overføres fra post</p>
-    <p xml:lang="nno">111 i fjorårets skjema)</p>
-    <p>Beregnet nedskrevet verdi av utskilte driftsmidler</p>
-    <p xml:lang="dan">104aNyanskaffelser - kostpris+</p>
-    <p xml:lang="dan">104bNyanskaffelser - påkostninger+</p>
-    <p xml:lang="dan">104cNedskrivning på nyanskaffelser med</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p>salgsgevinst etter sktl § 14-70</p>
-    <p>104dOffentlige tilskudd o.l.</p>
-    <p xml:lang="dan">i forbindelse med nyanskaffelser</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">-</p>
-    <p>104eJustering av inngående mva</p>
-    <p>Sum grunnlag før realisasjon/uttak=</p>
-    <p>Vederlag ved realisasjon/omsetningsverdi</p>
-    <p>ved uttak av driftsmidler</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="koi">-</p>
-    <p>Herav inntektsført i år</p>
-    <p>(jf sktl § 14-44)+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="nno">Grunnlag for årets saldoavskrivning, ev. negativ saldo</p>
-    <p xml:lang="nno">for gruppe a, b, c, d eller j og ev. gevinst/tap ved realisasjon/uttak for gruppe e, f, g, h eller i=</p>
-    <p xml:lang="dan">Overført til gevinst- og tapskonto. Gevinster</p>
-    <p>føres med + tegn, tap føres med - tegn.</p>
-    <p>110aÅrets saldoavskrivning(-)/ev. innteksføring(+)</p>
-    <p xml:lang="nno">av del av negativ saldo i gruppe a, c, d eller j.</p>
-    <p xml:lang="nno">110b10 % avskrivning for saldogruppe d for nyanskaffelser/</p>
-    <p>påkostninger (post 104a og post 104b)-</p>
-    <p xml:lang="nno">Saldogrunnlag pr. 31.12</p>
-    <p xml:lang="nno">Overføres til neste år, post 102=</p>
-    <p>Er det fortsatt fysiske driftsmidler som inngår i saldogrunnlaget pr 31.12NeiJa</p>
-    <p xml:lang="nno">NeiJa</p>
-    <p xml:lang="dan">Forretningsbygg</p>
-    <p>anskaffet før</p>
-    <p xml:lang="koi">1.1.1984</p>
-    <p>Historisk kostpris</p>
-    <p>Nedskrevet verdi pr. 1.1.1984</p>
-    <p>Nedre grense for avskrivning</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="koi">-</p>
-    <p>Ervervsdato hvis det er realisert driftsmidler som helt/ delvis er finansiert med tilskudd til investering i distriktene etter forskrift gitt av Kongen</p>
-    <p xml:lang="dan">For lineære avskrivninger se side 2</p>
-    <p xml:lang="est">Objekt</p>
-    <p>nr. Beskrivelse</p>
-    <p xml:lang="nno">av objektet Ervervs</p>
-    <p>år Kostpris (inkl.</p>
-    <p xml:lang="nno">påkostninger) Årets avskrivninger (evt. kostnadsfordeling) Nedskrevet verdi</p>
-    <p xml:lang="est">Levetid</p>
-    <p xml:lang="nno">Type næringOverføres</p>
-    <p>Nedskrevet verdi</p>
-    <p xml:lang="koi">31.12</p>
-    <p>(antall år)</p>
-    <p xml:lang="nno">til:</p>
-    <p xml:lang="nno">31.12 i fjor</p>
-    <p xml:lang="deu">Underskrift</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>371</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1084B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1084s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Det vises til rettledning RF-1270Skjema nr.</p>
+<p>NavnOrganisasjonsnummer</p>
+<p>Nærings- (kontor-) adresseFødselsnummer</p>
+<p>Postnr./-sted</p>
+<p xml:lang="dan"><em type="bold">Saldoavskrivninger:</em> </p>
+<p>Gjelder dette skjemaet skattyters andel av felles konto i sameie som ikke går inn under skatteloven                      §§ 10-40 til 10-45?</p>
+<p xml:lang="fit">JaNei</p>
+<p>Gruppe a: kontormaskiner o.l. (30%) Gruppe b: ervervet forretningsverdi (goodwill) (20%) Gruppe c: vogntog, lastebiler, varebiler o.l. (20%) Gruppe d: personbiler, traktorer, maskiner o.l. (20%) Gruppe e: skip mv. (14%) Gruppe f: fly, helikopter (12%) Gruppe g: anlegg for overføring og distribusjon av elektrisk kraft                og elektroteknisk utrustning i kraftforetak,                og slike driftsmidler benyttet i annen virksomhet (5%) Gruppe h: bygg og anlegg mv. (4%) Gruppe i: forretningsbygg (2%) Gruppe j: fast teknisk installasjon i bygninger (10%)</p>
+<p xml:lang="nno">Type næring Kommune</p>
+<p xml:lang="vep">Saldonr.</p>
+<p xml:lang="vep">Saldonr.</p>
+<p>Saldogruppe</p>
+<p>Saldogruppe</p>
+<p xml:lang="swe">Valgt avskrivningssats</p>
+<p xml:lang="nno">Type næring</p>
+<p xml:lang="dan">Overføres til</p>
+<p xml:lang="swe">Valgt avskrivningssats</p>
+<p xml:lang="dan">Overføres til</p>
+<p>Ev. gårds- og bruksnr. ev. seksjonsnr.</p>
+<p xml:lang="sma">Ev. gateadresse</p>
+<p>Saldogrunnlag pr. 1.1 (overføres fra post</p>
+<p xml:lang="nno">111 i fjorårets skjema)</p>
+<p>Beregnet nedskrevet verdi av utskilte driftsmidler</p>
+<p xml:lang="dan">104aNyanskaffelser - kostpris+</p>
+<p xml:lang="dan">104bNyanskaffelser - påkostninger+</p>
+<p xml:lang="dan">104cNedskrivning på nyanskaffelser med</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p>salgsgevinst etter sktl § 14-70</p>
+<p>104dOffentlige tilskudd o.l.</p>
+<p xml:lang="dan">i forbindelse med nyanskaffelser</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">-</p>
+<p>104eJustering av inngående mva</p>
+<p>Sum grunnlag før realisasjon/uttak=</p>
+<p>Vederlag ved realisasjon/omsetningsverdi</p>
+<p>ved uttak av driftsmidler</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="vep">-</p>
+<p>Herav inntektsført i år</p>
+<p>(jf sktl § 14-44)+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="nno">Grunnlag for årets saldoavskrivning, ev. negativ saldo</p>
+<p xml:lang="nno">for gruppe a, b, c, d eller j og ev. gevinst/tap ved realisasjon/uttak for gruppe e, f, g, h eller i=</p>
+<p xml:lang="dan">Overført til gevinst- og tapskonto. Gevinster</p>
+<p>føres med + tegn, tap føres med - tegn.</p>
+<p>110aÅrets saldoavskrivning(-)/ev. innteksføring(+)</p>
+<p xml:lang="nno">av del av negativ saldo i gruppe a, c, d eller j.</p>
+<p xml:lang="nno">110b10 % avskrivning for saldogruppe d for nyanskaffelser/</p>
+<p>påkostninger (post 104a og post 104b)-</p>
+<p xml:lang="nno">Saldogrunnlag pr. 31.12</p>
+<p xml:lang="nno">Overføres til neste år, post 102=</p>
+<p>Er det fortsatt fysiske driftsmidler som inngår i saldogrunnlaget pr 31.12NeiJa</p>
+<p xml:lang="nno">NeiJa</p>
+<p xml:lang="dan">Forretningsbygg</p>
+<p>anskaffet før</p>
+<p xml:lang="vep">1.1.1984</p>
+<p>Historisk kostpris</p>
+<p>Nedskrevet verdi pr. 1.1.1984</p>
+<p>Nedre grense for avskrivning</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="vep">-</p>
+<p>Ervervsdato hvis det er realisert driftsmidler som helt/ delvis er finansiert med tilskudd til investering i distriktene etter forskrift gitt av Kongen</p>
+<p xml:lang="dan">For lineære avskrivninger se side 2</p>
+<p xml:lang="rmn">Objekt</p>
+<p>nr. Beskrivelse</p>
+<p xml:lang="nno">av objektet Ervervs</p>
+<p>år Kostpris (inkl.</p>
+<p xml:lang="nno">påkostninger) Årets avskrivninger (evt. kostnadsfordeling) Nedskrevet verdi</p>
+<p xml:lang="est">Levetid</p>
+<p xml:lang="nno">Type næringOverføres</p>
+<p>Nedskrevet verdi</p>
+<p xml:lang="vep">31.12</p>
+<p>(antall år)</p>
+<p xml:lang="nno">til:</p>
+<p xml:lang="nno">31.12 i fjor</p>
+<p xml:lang="dan">Underskrift</p>
+</body></document>

@@ -1,202 +1,125 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1796</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/4-arstrinn/Undervisningsopplegg-Steds/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_9_undervisningsopplegg-stedsn.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_9_undervisningsopplegg-stedsnavn.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_9_ahpadimgarvvidusbuojkulv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Stedsnavn</p>
-    <p type="title">Undervisningsopplegg: Stedsnavn</p>
-    <p>Hovedinnhold</p>
-    <p><em type="italic">Trinn </em>: 3. eller 4. årstrinn <em type="italic">Tema </em>: lære lokale, samiske stedsnavn <em type="italic">Tid </em>: fem undervisningstimer </p>
-    <p>Vis alle</p>
-    <p type="title">Introduksjon</p>
-    <p>Dette undervisningsopplegget er et eksempel på arbeidet på 4. årstrinn. Vær oppmerksom på at et undervisningsopplegg ikke alltid dekker hele kompetansmålet. Kompetansemål kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Her er også forslag til hvordan elevene kan vurdere seg selv og hverandre. Eksemplet viser hvordan elevene kan arbeide for å lære samiske stedsnavn i nærmiljøet eller i Sápmi/Sábme/Saepmie. I dette arbeidet kan og bør læreren arbeide tverrfaglig ved å knytte undervisning i samisk og samfunnsfag sammen. Det er også mulig å knytte naturfag til temaet. Læreren kan både forkorte og forlenge arbeidstiden i forhold til den foreslåtte tidsbruken. Arbeider elevene tverrfaglig med temaet, vil det være behov for mer tid enn om de bare arbeider med samisk.</p>
-    <p type="title">Kompetansemål i LK06-S</p>
-    <p>
-      <em type="italic">Kompetansemål etter 4. årstrinn </em>
-    </p>
-    <p>Tradisjonell kunnskap <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
-    <list>
-      <p type="listitem">samtale om lokale samiske stedsnavn og deres betydning og sammenligne med norske og andre stedsnavn om slike finnes</p>
-      <p type="listitem">bruke tradisjonelle fortellinger i eget arbeid</p>
-    </list>
-    <p>Skriftlig kommunikasjon</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">finne stoff til egne skrive- og arbeidsoppgaver på biblioteket og Internett og skape, lagre og gjenhente tekster ved hjelp av digitale verktøy</p>
-    </list>
-    <p>Språket i bruk</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">samtale om hva flerspråklighet innebærer</p>
-    </list>
-    <p>Andre relevante kompetansemål Hvis læreren velger å integrere samfunnsfag i undervisningsopplegget, er disse kompetansemålene aktuelle:</p>
-    <p>
-      <em type="italic">Kompetansemål etter 4. årstrinn i samfunnsfag – Samisk læreplan </em>
-    </p>
-    <p>Geografi <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
-    <list>
-      <p type="listitem">beskrive landskapsformer, bruksområder og steder ved å utforske landskapet nær skolen og hjemmet og benytte samiske og norske benevnelser på disse</p>
-    </list>
-    <p>Historie</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">gjenkjenne historiske spor i eget lokalmiljø og undersøke lokale samlinger og minnesmerker</p>
-    </list>
-    <p type="title">Læringsmål</p>
-    <p>Kompetansemålene er konkretisert i læringsmål, som er steg på veien mot å nå kompetansemålene. Eleven skal kunne</p>
-    <list>
-      <p type="listitem">finne stedsnavn og forklare dem</p>
-      <p type="listitem">samtale om landskapsbenevninger, vassdragsbenevninger og stedsnavn</p>
-      <p type="listitem">sammenligne samiske og norske stedsnavn</p>
-      <p type="listitem">skrive en faktatekst hvor stedsnavn er med</p>
-      <p type="listitem">lete fram og gjøre bruk av informasjon fra internett</p>
-    </list>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne lese </em>vil her si at elevene leser stedsnavn på kart, i tekster og i registre. </p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>vil i dette undervisningsopplegget si at elevene deltar i samtaler om stedsnavn og landskaps- og vassdragsbenevninger. De stiller spørsmål til andre for å innhente informasjon, og de presenterer hva de har funnet ut om stedsnavn. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig </em>vil her si at elevene skriver faktatekster hvor stedsnavn er med. </p>
-    <p><em type="italic">Å kunne regne </em>innebærer her at elevene bruker koordinater når de leter etter stedsnavn på kart. Ved behov kan de også bli kjent med UTM-posisjoner. </p>
-    <p><em type="italic">Å kunne bruke digitale verktøy </em>vil her si at elevene bruker internett for å finne en aktuell nettside, henter informasjon fra digitale kart og bruker informasjonen i et skriveprogram. </p>
-    <p type="title">Forberedelser</p>
-    <p>Læreren og elevene bør i forkant av eller samtidig med arbeidet med stedsnavn også jobbe med samiske landskaps- og vassdagsbenevninger. Da får elevene et mer utdypende bilde av hvordan samiske stedsnavn er bygget opp. I områder der det finnes mange stedsnavn på samisk, er det naturlig at elevene først jobber med navn i nærmiljøet De kan da først bli kjent med navn i bygda der de bor. Dersom elevene bor i et område der det er vanskelig å finne samiske stedsnavn, kan de arbeide med benevninger på landskap og vassdrag, for eksempel fjell, tinder, dalfører, elver og fjorder. Stedene kan være nær deres eget boområd eller i et annet område de kjenner. Det kan være foreldrenes eller besteforeldrenes fødested eller et annet område eleven har tilhørighet til.</p>
-    <p>I områder der det er vanskelig å finne samiske stedsnavn, bør læreren være forberedt på å hjelpe elevene med å finne stedsnavn de skal lære.</p>
-    <p>Det er også mulig å tilpasse arbeidet ved å velge stedsnavn eller samiske bynavn fra større samiske områder, for eksempel Vadsø, Skånland, Bodø, Tysfjord, Drag, Hattfjelldal og Snåsa.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p>
-      <em type="italic">Gjennomføring </em>
-    </p>
-    <list>
-      <p type="listitem">Læreren forklarer elevene hva som er målene for arbeidet, og forteller dem hva de skal arbeide med.</p>
-      <p type="listitem">Sammen nevner elevene stedsnavn de kommer på, enten i eget nærmiljø, i et reindriftsdistrikt eller i et annet samisk område.</p>
-      <p type="listitem">Læreren avgrenser sammen med elevene hvilket område / hvilke områder de skal konsentrere seg om.</p>
-      <p type="listitem">Hver elev velger i samråd med læreren ett stedsnavn som han eller hun skal finne ut mer om.</p>
-    </list>
-    <p>- Hvilket navn velger eleven? - Hvordan blir navnet uttalt?</p>
-    <p>- Hvordan skrives navnet? - Hva betyr navnet? - Hva slags landskap eller vassdrag er dette? - Hva betyr landskaps- eller vassdragsbenevningen? - Hvorfor har stedet fått dette navnet?</p>
-    <list>
-      <p type="listitem">Dersom det er vanskelig å forklare hva et bestemt stedsnavn kommer av, kan elevene også undersøke om det finnes andre stedsnavn som har samme begynnelse eller slutt. Ofte har vann, elver eller fjell som ligger nær hverandre, samme førsteledd. Ut fra det vet man at stedene ligger nær hverandre.</p>
-    </list>
-    <p>Videre arbeid</p>
-    <list>
-      <p type="listitem">Elevene leter etter opplysninger om stedsnavnet i forskjellige kilder.</p>
-      <p type="listitem">Elevene leter etter og samler informasjon fra bøker.</p>
-      <p type="listitem">Elevene intervjuer noen som er godt kjent i området, om stedsnavnet. De kan enten ta lydopptak av eller filme intervjuet. De skriver forklaring ut fra opplysningene de får i intervjuet.</p>
-      <p type="listitem">Elevene finner stedsnavnet på et kart, på papir eller digitalt. På adressen www.statkart.no finnes det norgeskart hvor også samiske stedsnavn er oppført. Elevene kan også søke på andre sider med kart på internett. De digitale kartene kan elevene skrive ut på papir, og de merker av det aktuelle stedsnavnet på kartet.</p>
-      <p type="listitem">Elevene skriver en faktatekst om stedsnavnet.</p>
-      <p type="listitem">Eleven fotograferer stedet, finner et bilde derfra eller tegner det.</p>
-      <p type="listitem">Eleven skriver en kort tekst om stedsnavnet. Kart og bilde kan settes inn i teksten.</p>
-      <p type="listitem">Elevene kan lage et felles hefte av alle stedsnavnstekstene.</p>
-      <p type="listitem">Stedsnavnstekstene kan henges opp på veggen slik at alle kan lese dem.</p>
-      <p type="listitem">Elevene lager et kort lydopptak av det de forteller om stedsnavnet. Dette legger de inn i et presentasjonsprogram sammen med bilde og kart.</p>
-    </list>
-    <p>Læreren samtaler med elevene om hva de har funnet ut. Hver elev forteller da litt om sitt stedsnavn. Etterpå stiller elevene spørsmål til hverandre om det de har fortalt. Det er i tillegg mulig å utvide arbeidet ved å ta for seg samiske landskapsbenevninger. Da skal elevene også forklare hva for eksempel vann, elv, vassdrag, dalføre, fjell og skog er.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Eleven og læreren velger arbeidsmåter som passer den enkelte, se forslag under Gjennomføring. Noen vil rekke å arbeide med flere stedsnavn, både nære og fjerne, og på ulike måter.</p>
-    <p>Noen elever arbeider mest med de muntlige oppgavene, mens andre skriver alt fra stedsnavn til forklaringer og faktatekster.</p>
-    <p type="title">Vurdering</p>
-    <p><em type="italic">Underveisvurdering </em>Læreren gir elevene muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi tilbakemelding på en slik måte at det er nyttig for eleven som utgangspunkt for faglig utvikling. </p>
-    <p><em type="italic">Eksempler på beskrivelse av måloppnåelse </em>Eksemplenene viser de tre første læringsmålene. </p>
-    <p>
-      <em type="bold">Lærings-mål Eleven skal kunne </em>
-    </p>
-    <p>
-      <em type="bold">På begynner- stadiet </em>
-    </p>
-    <p>
-      <em type="bold">Under utvikling </em>
-    </p>
-    <p>
-      <em type="bold">Kompetent </em>
-    </p>
-    <p>
-      <em type="bold">Meget god </em>
-    </p>
-    <p>finne et aktuelt stedsnavn</p>
-    <p>Eleven får forslag om et stedsnavn fra læreren eller medelever.</p>
-    <p>Eleven velger et  stedsnavn</p>
-    <p>mellom flere alternativer.</p>
-    <p>Eleven velger et  aktuelt</p>
-    <p>stedsnavn  i samråd med læreren.</p>
-    <p>Eleven velger et aktuelt stedsnavn på egen hånd.</p>
-    <p>forklare et stedsnavn</p>
-    <p>Eleven gjenkjenner stedsnavnet.</p>
-    <p>Eleven forklarer hovedinnholdet i stedsnavnet. Eleven finner andre stedsnavn hvor samme benevning er brukt.</p>
-    <p>Eleven forteller hvilke ledd stedsnavnet har. Eleven forklarer hva stedsnavnet kommer av.</p>
-    <p>Eleven finner andre stedsnavn som naturlig hører sammen med dette stedsnavnet.</p>
-    <p>Eleven forklarer hvorfor stedet har dette navnet.</p>
-    <p>Eleven setter ord på hva det første leddet av stedsnavnet forteller om stedet.</p>
-    <p>Eleven forklarer hva benevningen forteller om dette stedet spesielt og generelt om slike steder.</p>
-    <p>samtale om landskaps- og vassdrags- benevningen</p>
-    <p>Eleven forteller om stedsnavnet er et landskap eller et vassdrag.</p>
-    <p>Eleven forteller om landskapet eller vassdraget på en slik måte at det tydelig går fram at eleven har et bilde av hvilken type det er.</p>
-    <p>Eleven forklarer benevningen ved hjelp av stedsnavn.</p>
-    <p>Eleven beskriver hvordan denne type landskap eller vassdrag er og forklarer hva som kjennetegner slike steder.</p>
-    <p>Eleven bruker stedsnavn som eksempler.</p>
-    <p>Eleven forklarer benevningen på et generelt grunnlag, for eksempel hva et vann er.</p>
-    <p>Eleven sammenligner med andre lignende benevninger, for eksempel tjern og dam.</p>
-    <p>Eleven beskriver hvordan et gitt sted ser ut ut fra hvilken landskapsbenevning det tilhører.</p>
-    <p>
-      <em type="italic">Elevene vurderer seg selv og hverandre </em>
-    </p>
-    <p>Her er et eksempel på hvordan elevene kan vurdere seg selv. Det samme skjemaet kan brukes når elevene skal vurdere hverandre. Da byttes <em type="italic">jeg </em>ut med <em type="italic">du </em>. </p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg ikke godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg veldig godt </em>
-    </p>
-    <p>Jeg kan forklare stedsnavnet jeg har valgt.</p>
-    <p>Jeg kan fortelle hvilke ledd eller deler stedsnavnet består av.</p>
-    <p>Jeg kan forklare hva forskjellige ledd i stedsnavnet forteller om stedet.</p>
-    <p>Jeg kan gi eksempler på andre stedsnavn som naturlig hører sammen med dette stedsnavnet.</p>
-    <p>Jeg kan forklare om et stedsnavn er et landskap eller et vassdrag.</p>
-    <p>Jeg kan se for meg hvordan landskapet eller vassdraget ser ut.</p>
-    <p>Jeg kan forklare hva landskapsbenevningen forteller.</p>
-    <p>Jeg kan fortelle hva som er felles for steder med samme landskapsbenevning.</p>
-    <p type="title">Ressurser</p>
-    <p>Her finner man kart fra hele Norge der også stedsnavn er skrevet på samisk: www.statkart.no</p>
-    <p>Her finnes mest norske stedsnavn, men noen samiske navn er også registrert. Siden er bare på norsk: http://www.kartiskolen.no/</p>
-    <p>Her finner man stedsnavn fra mange områder i hele Norge. Samiske stedsnav er fordelt fylkesvis og kommunevis: http://no.wikipedia.org/wiki/Kategori:Lister_over_samiske_navn ; http://wapedia.mobi/no/Kategori:Lister_over_samiske_navn http://www.infonuorra.no/samiske-stedsnavn/179-samiske-stedsnavn.html http://www.infonuorra.no/samisk-sprak/6-samiske-stedsnavn.html</p>
-    <p>Her kan man skrive inn stedsnavn og få ut de tilsvarende navnene på andre språk: http://giellatekno.uit.no/cgi/geo.sme.html</p>
-    <p>Andre navn: http://skuvla.info/ssh-baiki-n.htm .</p>
-    <p>Stedsnavn i Kåfjord: http://www.gaisi.no</p>
-    <p>Stedsnavn i Porsanger: http://www.mearrasapmi.no/index.php?option=com_sobi2&amp;catid=2&amp;lang=nb</p>
-    <p>Samiske stedsnavn i Ullsfjord, Tromsø kommune: http://www.tromso.kommune.no/samiske-stedsnavn-i-ullsfjord.158570.no.html</p>
-    <p>Samiske stedsnavn i Røyrvik: http://wapedia.mobi/no/Samiske_geografiske_navn_i_R%C3%B8yrvik</p>
-    <p>Samiske stedsnavn i Svahken Sijte: http://primusweb.no/things/kart-som-viser-samiske-stedsna/NF/NF.13366-001/image/121253</p>
-    <p>JOHANSEN, YNGVE 2007: Rákkonjárga - Sámi báikenamat; samiske stedsnavn i Berlevåg kommune. Indre Billefjord: Iđut (CD-ROM) MYRNES, MARTIN - OLSEN, ASLAUG - SÁMIGIEL BEROŠTEADDJIK 2010: Samiske stedsnavn i Evenes - Evenáši sámi báikenamak.[Evenskjer:] Skániid girjie HELANDER, KAISA RAUTIO 2008: Namat dan nammii. Sámi báikenamaid dáruiduhttin Várjjaga guovllus Norgga uniovdnaáiggi loahpas. Dieđut 1/2008. Guovdageaidnu: Sámi allaskuvla, Sámi dutkaninstituhtta ISRAELSSON, PER MARTIN - NEJNE, SAGKA 2008: Svensk-sydsamisk Sydsamisk-svensk ordbok och ortnamn. Daaroen-åarjelsaemien Åarjelsamien-daaroen baakoegärja jih sijjenommh. Kiruna: Saemiedigkie/ Sametinget. BERGSLAND, KNUT 1995, 1996, 1998: Bidrag til sydsamenes historie. BERGSLAND, KNUT - MAGGA, LAJLA MATTSSON 2007: Åarjel-saemien-daaroen baakoegærja. Sydsamisk-norsk ordbok. [Indre Billefjord:] Iđut, 2. opplag. MAGGA, LAJLA MATTSSON 2009: Norsk-sydsamisk ordbok. Daaroen-åarjelsaemien baakoe-gærja. [Indre Billefjord:] Iđut. SAMMALLAHTI, PEKKA 1993: Sámi-suoma-sámi sátnegirji. Saamelais-suomalais-saamelainen sanakirja. Ohcejohka: Girjegiisá oy. KÅVEN, BRITA – JERNSLETTEN, JOHAN – NORDAL, INGRID – EIRA, JOHN HENRIK – SOLBAKK, AAGE 1995: Sámi-dáru sátnegirji. Samisk-norsk ordbok. Kárášjohka: Davvi Girji o.s.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1796</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/4-arstrinn/Undervisningsopplegg-Steds/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_9_undervisningsopplegg-stedsn.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_9_undervisningsopplegg-stedsnavn.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_9_ahpadimgarvvidusbuojkulv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Stedsnavn</p>
+<p type="title">Undervisningsopplegg: Stedsnavn</p>
+<p>Hovedinnhold</p>
+<p><em type="italic">Trinn </em>: 3. eller 4. årstrinn <em type="italic">Tema </em>: lære lokale, samiske stedsnavn <em type="italic">Tid </em>: fem undervisningstimer </p>
+<p>Vis alle</p>
+<p type="title">Introduksjon</p>
+<p>Dette undervisningsopplegget er et eksempel på arbeidet på 4. årstrinn. Vær oppmerksom på at et undervisningsopplegg ikke alltid dekker hele kompetansmålet. Kompetansemål kan konkretiseres i læringsmål, som er steg på veien mot å nå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Her er også forslag til hvordan elevene kan vurdere seg selv og hverandre. Eksemplet viser hvordan elevene kan arbeide for å lære samiske stedsnavn i nærmiljøet eller i Sápmi/Sábme/Saepmie. I dette arbeidet kan og bør læreren arbeide tverrfaglig ved å knytte undervisning i samisk og samfunnsfag sammen. Det er også mulig å knytte naturfag til temaet. Læreren kan både forkorte og forlenge arbeidstiden i forhold til den foreslåtte tidsbruken. Arbeider elevene tverrfaglig med temaet, vil det være behov for mer tid enn om de bare arbeider med samisk.</p>
+<p type="title">Kompetansemål i LK06-S</p>
+<p><em type="italic">Kompetansemål etter 4. årstrinn </em></p>
+<p>Tradisjonell kunnskap <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">samtale om lokale samiske stedsnavn og deres betydning og sammenligne med norske og andre stedsnavn om slike finnes</p>
+<p type="listitem">bruke tradisjonelle fortellinger i eget arbeid</p>
+</list><p>Skriftlig kommunikasjon</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">finne stoff til egne skrive- og arbeidsoppgaver på biblioteket og Internett og skape, lagre og gjenhente tekster ved hjelp av digitale verktøy</p>
+</list><p>Språket i bruk</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">samtale om hva flerspråklighet innebærer</p>
+</list><p>Andre relevante kompetansemål Hvis læreren velger å integrere samfunnsfag i undervisningsopplegget, er disse kompetansemålene aktuelle:</p>
+<p><em type="italic">Kompetansemål etter 4. årstrinn i samfunnsfag – Samisk læreplan </em></p>
+<p>Geografi <em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">beskrive landskapsformer, bruksområder og steder ved å utforske landskapet nær skolen og hjemmet og benytte samiske og norske benevnelser på disse</p>
+</list><p>Historie</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">gjenkjenne historiske spor i eget lokalmiljø og undersøke lokale samlinger og minnesmerker</p>
+</list><p type="title">Læringsmål</p>
+<p>Kompetansemålene er konkretisert i læringsmål, som er steg på veien mot å nå kompetansemålene. Eleven skal kunne</p>
+<list><p type="listitem">finne stedsnavn og forklare dem</p>
+<p type="listitem">samtale om landskapsbenevninger, vassdragsbenevninger og stedsnavn</p>
+<p type="listitem">sammenligne samiske og norske stedsnavn</p>
+<p type="listitem">skrive en faktatekst hvor stedsnavn er med</p>
+<p type="listitem">lete fram og gjøre bruk av informasjon fra internett</p>
+</list><p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne lese </em>vil her si at elevene leser stedsnavn på kart, i tekster og i registre. </p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>vil i dette undervisningsopplegget si at elevene deltar i samtaler om stedsnavn og landskaps- og vassdragsbenevninger. De stiller spørsmål til andre for å innhente informasjon, og de presenterer hva de har funnet ut om stedsnavn. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig </em>vil her si at elevene skriver faktatekster hvor stedsnavn er med. </p>
+<p><em type="italic">Å kunne regne </em>innebærer her at elevene bruker koordinater når de leter etter stedsnavn på kart. Ved behov kan de også bli kjent med UTM-posisjoner. </p>
+<p><em type="italic">Å kunne bruke digitale verktøy </em>vil her si at elevene bruker internett for å finne en aktuell nettside, henter informasjon fra digitale kart og bruker informasjonen i et skriveprogram. </p>
+<p type="title">Forberedelser</p>
+<p>Læreren og elevene bør i forkant av eller samtidig med arbeidet med stedsnavn også jobbe med samiske landskaps- og vassdagsbenevninger. Da får elevene et mer utdypende bilde av hvordan samiske stedsnavn er bygget opp. I områder der det finnes mange stedsnavn på samisk, er det naturlig at elevene først jobber med navn i nærmiljøet De kan da først bli kjent med navn i bygda der de bor. Dersom elevene bor i et område der det er vanskelig å finne samiske stedsnavn, kan de arbeide med benevninger på landskap og vassdrag, for eksempel fjell, tinder, dalfører, elver og fjorder. Stedene kan være nær deres eget boområd eller i et annet område de kjenner. Det kan være foreldrenes eller besteforeldrenes fødested eller et annet område eleven har tilhørighet til.</p>
+<p>I områder der det er vanskelig å finne samiske stedsnavn, bør læreren være forberedt på å hjelpe elevene med å finne stedsnavn de skal lære.</p>
+<p>Det er også mulig å tilpasse arbeidet ved å velge stedsnavn eller samiske bynavn fra større samiske områder, for eksempel Vadsø, Skånland, Bodø, Tysfjord, Drag, Hattfjelldal og Snåsa.</p>
+<p type="title">Læringsaktiviteter</p>
+<p><em type="italic">Gjennomføring </em></p>
+<list><p type="listitem">Læreren forklarer elevene hva som er målene for arbeidet, og forteller dem hva de skal arbeide med.</p>
+<p type="listitem">Sammen nevner elevene stedsnavn de kommer på, enten i eget nærmiljø, i et reindriftsdistrikt eller i et annet samisk område.</p>
+<p type="listitem">Læreren avgrenser sammen med elevene hvilket område / hvilke områder de skal konsentrere seg om.</p>
+<p type="listitem">Hver elev velger i samråd med læreren ett stedsnavn som han eller hun skal finne ut mer om.</p>
+</list><p>- Hvilket navn velger eleven? - Hvordan blir navnet uttalt?</p>
+<p>- Hvordan skrives navnet? - Hva betyr navnet? - Hva slags landskap eller vassdrag er dette? - Hva betyr landskaps- eller vassdragsbenevningen? - Hvorfor har stedet fått dette navnet?</p>
+<list><p type="listitem">Dersom det er vanskelig å forklare hva et bestemt stedsnavn kommer av, kan elevene også undersøke om det finnes andre stedsnavn som har samme begynnelse eller slutt. Ofte har vann, elver eller fjell som ligger nær hverandre, samme førsteledd. Ut fra det vet man at stedene ligger nær hverandre.</p>
+</list><p>Videre arbeid</p>
+<list><p type="listitem">Elevene leter etter opplysninger om stedsnavnet i forskjellige kilder.</p>
+<p type="listitem">Elevene leter etter og samler informasjon fra bøker.</p>
+<p type="listitem">Elevene intervjuer noen som er godt kjent i området, om stedsnavnet. De kan enten ta lydopptak av eller filme intervjuet. De skriver forklaring ut fra opplysningene de får i intervjuet.</p>
+<p type="listitem">Elevene finner stedsnavnet på et kart, på papir eller digitalt. På adressen www.statkart.no finnes det norgeskart hvor også samiske stedsnavn er oppført. Elevene kan også søke på andre sider med kart på internett. De digitale kartene kan elevene skrive ut på papir, og de merker av det aktuelle stedsnavnet på kartet.</p>
+<p type="listitem">Elevene skriver en faktatekst om stedsnavnet.</p>
+<p type="listitem">Eleven fotograferer stedet, finner et bilde derfra eller tegner det.</p>
+<p type="listitem">Eleven skriver en kort tekst om stedsnavnet. Kart og bilde kan settes inn i teksten.</p>
+<p type="listitem">Elevene kan lage et felles hefte av alle stedsnavnstekstene.</p>
+<p type="listitem">Stedsnavnstekstene kan henges opp på veggen slik at alle kan lese dem.</p>
+<p type="listitem">Elevene lager et kort lydopptak av det de forteller om stedsnavnet. Dette legger de inn i et presentasjonsprogram sammen med bilde og kart.</p>
+</list><p>Læreren samtaler med elevene om hva de har funnet ut. Hver elev forteller da litt om sitt stedsnavn. Etterpå stiller elevene spørsmål til hverandre om det de har fortalt. Det er i tillegg mulig å utvide arbeidet ved å ta for seg samiske landskapsbenevninger. Da skal elevene også forklare hva for eksempel vann, elv, vassdrag, dalføre, fjell og skog er.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Eleven og læreren velger arbeidsmåter som passer den enkelte, se forslag under Gjennomføring. Noen vil rekke å arbeide med flere stedsnavn, både nære og fjerne, og på ulike måter.</p>
+<p>Noen elever arbeider mest med de muntlige oppgavene, mens andre skriver alt fra stedsnavn til forklaringer og faktatekster.</p>
+<p type="title">Vurdering</p>
+<p><em type="italic">Underveisvurdering </em>Læreren gir elevene muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi tilbakemelding på en slik måte at det er nyttig for eleven som utgangspunkt for faglig utvikling. </p>
+<p><em type="italic">Eksempler på beskrivelse av måloppnåelse </em>Eksemplenene viser de tre første læringsmålene. </p>
+<p><em type="bold">Lærings-mål Eleven skal kunne </em></p>
+<p><em type="bold">På begynner- stadiet </em></p>
+<p><em type="bold">Under utvikling </em></p>
+<p><em type="bold">Kompetent </em></p>
+<p><em type="bold">Meget god </em></p>
+<p>finne et aktuelt stedsnavn</p>
+<p>Eleven får forslag om et stedsnavn fra læreren eller medelever.</p>
+<p>Eleven velger et  stedsnavn</p>
+<p>mellom flere alternativer.</p>
+<p>Eleven velger et  aktuelt</p>
+<p>stedsnavn  i samråd med læreren.</p>
+<p>Eleven velger et aktuelt stedsnavn på egen hånd.</p>
+<p>forklare et stedsnavn</p>
+<p>Eleven gjenkjenner stedsnavnet.</p>
+<p>Eleven forklarer hovedinnholdet i stedsnavnet. Eleven finner andre stedsnavn hvor samme benevning er brukt.</p>
+<p>Eleven forteller hvilke ledd stedsnavnet har. Eleven forklarer hva stedsnavnet kommer av.</p>
+<p>Eleven finner andre stedsnavn som naturlig hører sammen med dette stedsnavnet.</p>
+<p>Eleven forklarer hvorfor stedet har dette navnet.</p>
+<p>Eleven setter ord på hva det første leddet av stedsnavnet forteller om stedet.</p>
+<p>Eleven forklarer hva benevningen forteller om dette stedet spesielt og generelt om slike steder.</p>
+<p>samtale om landskaps- og vassdrags- benevningen</p>
+<p>Eleven forteller om stedsnavnet er et landskap eller et vassdrag.</p>
+<p>Eleven forteller om landskapet eller vassdraget på en slik måte at det tydelig går fram at eleven har et bilde av hvilken type det er.</p>
+<p>Eleven forklarer benevningen ved hjelp av stedsnavn.</p>
+<p>Eleven beskriver hvordan denne type landskap eller vassdrag er og forklarer hva som kjennetegner slike steder.</p>
+<p>Eleven bruker stedsnavn som eksempler.</p>
+<p>Eleven forklarer benevningen på et generelt grunnlag, for eksempel hva et vann er.</p>
+<p>Eleven sammenligner med andre lignende benevninger, for eksempel tjern og dam.</p>
+<p>Eleven beskriver hvordan et gitt sted ser ut ut fra hvilken landskapsbenevning det tilhører.</p>
+<p><em type="italic">Elevene vurderer seg selv og hverandre </em></p>
+<p>Her er et eksempel på hvordan elevene kan vurdere seg selv. Det samme skjemaet kan brukes når elevene skal vurdere hverandre. Da byttes <em type="italic">jeg </em>ut med <em type="italic">du </em>. </p>
+<p><em type="bold">Læringsmål </em></p>
+<p><em type="bold">Dette kan jeg ikke godt nok </em></p>
+<p><em type="bold">Dette kan jeg </em></p>
+<p><em type="bold">Dette kan jeg veldig godt </em></p>
+<p>Jeg kan forklare stedsnavnet jeg har valgt.</p>
+<p>Jeg kan fortelle hvilke ledd eller deler stedsnavnet består av.</p>
+<p>Jeg kan forklare hva forskjellige ledd i stedsnavnet forteller om stedet.</p>
+<p>Jeg kan gi eksempler på andre stedsnavn som naturlig hører sammen med dette stedsnavnet.</p>
+<p>Jeg kan forklare om et stedsnavn er et landskap eller et vassdrag.</p>
+<p>Jeg kan se for meg hvordan landskapet eller vassdraget ser ut.</p>
+<p>Jeg kan forklare hva landskapsbenevningen forteller.</p>
+<p>Jeg kan fortelle hva som er felles for steder med samme landskapsbenevning.</p>
+<p type="title">Ressurser</p>
+<p>Her finner man kart fra hele Norge der også stedsnavn er skrevet på samisk: www.statkart.no</p>
+<p>Her finnes mest norske stedsnavn, men noen samiske navn er også registrert. Siden er bare på norsk: http://www.kartiskolen.no/</p>
+<p>Her finner man stedsnavn fra mange områder i hele Norge. Samiske stedsnav er fordelt fylkesvis og kommunevis: http://no.wikipedia.org/wiki/Kategori:Lister_over_samiske_navn ; http://wapedia.mobi/no/Kategori:Lister_over_samiske_navn http://www.infonuorra.no/samiske-stedsnavn/179-samiske-stedsnavn.html http://www.infonuorra.no/samisk-sprak/6-samiske-stedsnavn.html</p>
+<p>Her kan man skrive inn stedsnavn og få ut de tilsvarende navnene på andre språk: http://giellatekno.uit.no/cgi/geo.sme.html</p>
+<p>Andre navn: http://skuvla.info/ssh-baiki-n.htm .</p>
+<p>Stedsnavn i Kåfjord: http://www.gaisi.no</p>
+<p>Stedsnavn i Porsanger: http://www.mearrasapmi.no/index.php?option=com_sobi2&amp;catid=2&amp;lang=nb</p>
+<p>Samiske stedsnavn i Ullsfjord, Tromsø kommune: http://www.tromso.kommune.no/samiske-stedsnavn-i-ullsfjord.158570.no.html</p>
+<p>Samiske stedsnavn i Røyrvik: http://wapedia.mobi/no/Samiske_geografiske_navn_i_R%C3%B8yrvik</p>
+<p>Samiske stedsnavn i Svahken Sijte: http://primusweb.no/things/kart-som-viser-samiske-stedsna/NF/NF.13366-001/image/121253</p>
+<p>JOHANSEN, YNGVE 2007: Rákkonjárga - Sámi báikenamat; samiske stedsnavn i Berlevåg kommune. Indre Billefjord: Iđut (CD-ROM) MYRNES, MARTIN - OLSEN, ASLAUG - SÁMIGIEL BEROŠTEADDJIK 2010: Samiske stedsnavn i Evenes - Evenáši sámi báikenamak.[Evenskjer:] Skániid girjie HELANDER, KAISA RAUTIO 2008: Namat dan nammii. Sámi báikenamaid dáruiduhttin Várjjaga guovllus Norgga uniovdnaáiggi loahpas. Dieđut 1/2008. Guovdageaidnu: Sámi allaskuvla, Sámi dutkaninstituhtta ISRAELSSON, PER MARTIN - NEJNE, SAGKA 2008: Svensk-sydsamisk Sydsamisk-svensk ordbok och ortnamn. Daaroen-åarjelsaemien Åarjelsamien-daaroen baakoegärja jih sijjenommh. Kiruna: Saemiedigkie/ Sametinget. BERGSLAND, KNUT 1995, 1996, 1998: Bidrag til sydsamenes historie. BERGSLAND, KNUT - MAGGA, LAJLA MATTSSON 2007: Åarjel-saemien-daaroen baakoegærja. Sydsamisk-norsk ordbok. [Indre Billefjord:] Iđut, 2. opplag. MAGGA, LAJLA MATTSSON 2009: Norsk-sydsamisk ordbok. Daaroen-åarjelsaemien baakoe-gærja. [Indre Billefjord:] Iđut. SAMMALLAHTI, PEKKA 1993: Sámi-suoma-sámi sátnegirji. Saamelais-suomalais-saamelainen sanakirja. Ohcejohka: Girjegiisá oy. KÅVEN, BRITA – JERNSLETTEN, JOHAN – NORDAL, INGRID – EIRA, JOHN HENRIK – SOLBAKK, AAGE 1995: Sámi-dáru sátnegirji. Samisk-norsk ordbok. Kárášjohka: Davvi Girji o.s.</p>
+</body></document>

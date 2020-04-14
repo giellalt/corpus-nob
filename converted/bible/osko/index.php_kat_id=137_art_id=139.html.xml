@@ -1,34 +1,6 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>117</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=137&amp;art_id=139</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=137_art_id=139.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=137_art_id=139.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kristuskransen</p>
-    <p type="title">Hvilestedet</p>
-    <p>Den blå perlen skal minne om en skyfri, blå himmel, for at den skal få deg til å tenke på en dag uten bekymringer. En dag av glede. Gleden kan komme til oss plutselig, som nåde, noe vi ikke har fortjent. Du kjenner trygghet til at alt kan bli bra. Du behøver ikke vite hvordan akkurat nå. Det er ok å ikke tenke på bekymringene. Jesus sa det: Vær som fuglene og blomstene, de er frie, de bekymrer seg ikke. Vi kan ta alt av Guds hånd. Du kan tenke på det når du holder i den blå perlen.</p>
-    <p>Les hva Jesus sier om frihet og glede i Lukasevangeliet kapitel 12, 22-31 vers.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>117</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=137&amp;art_id=139</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=137_art_id=139.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=137_art_id=139.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kristuskransen</p>
+<p type="title">Hvilestedet</p>
+<p>Den blå perlen skal minne om en skyfri, blå himmel, for at den skal få deg til å tenke på en dag uten bekymringer. En dag av glede. Gleden kan komme til oss plutselig, som nåde, noe vi ikke har fortjent. Du kjenner trygghet til at alt kan bli bra. Du behøver ikke vite hvordan akkurat nå. Det er ok å ikke tenke på bekymringene. Jesus sa det: Vær som fuglene og blomstene, de er frie, de bekymrer seg ikke. Vi kan ta alt av Guds hånd. Du kan tenke på det når du holder i den blå perlen.</p>
+<p>Les hva Jesus sier om frihet og glede i Lukasevangeliet kapitel 12, 22-31 vers.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

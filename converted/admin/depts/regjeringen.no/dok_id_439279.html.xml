@@ -1,67 +1,37 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Dokumeanttat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>352</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dok.html?id=439279</origFileName>
-    <parallel_text xml:lang="eng" location="doc_id_439279.html"/>
-    <parallel_text xml:lang="nno" location="dok_id_439279.html"/>
-    <parallel_text xml:lang="sme" location="dok_id_439279.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Dokumenter - regjeringen.no</p>
-    <p>Statsministerens kontor og departementene utgir en rekke dokumenttyper:</p>
-    <p><em type="italic">Proposisjoner og meldinger </em>er dokumenter som blir lagt frem for Stortinget. </p>
-    <p><em type="italic">Lover og regler </em>omfatter lover, forskrifter, retningslinjer m.v. knyttet til departementets ansvarsområder. </p>
-    <p><em type="italic">Rundskriv </em>er orienteringer fra departementet til berørte parter om tolkninger av lover og forskrifter. </p>
-    <p><em type="italic">Høringer </em>er forslag fra departementet som sendes til berørte parter (offentlige og private institusjoner, organisasjoner og andre departementer). Hensikten er å vurdere økonomiske og administrative konsekvenser av offentlige tiltak. </p>
-    <p><em type="italic">NOU-er (Norsk offentlig utredning) </em>produseres av utvalg og arbeidsgrupper som er nedsatt av departementet. </p>
-    <p><em type="italic">Rapporter og planer </em>produseres som regel av eksterne forskere eller utvalg, og omfatter rapporter, analyser og kartlegginger levert til departementet. </p>
-    <p><em type="italic">Veiledninger og brosjyrer </em>orienterer om departementets politikk og praksis, og retter seg mot et bredere publikum. </p>
-    <p type="title">De siste dokumentene fra departementene</p>
-    <p type="title">Landbruks- og matministerens svar på skriftlig spørsmål nr. 1190 fra  stortingsrepresentant Trine Skei Grande (V)</p>
-    <p type="title">Soppkontroll</p>
-    <p>[Brev til Stortinget, Landbruks- og matdepartementet, 17.09.2014]</p>
-    <p type="title">Landbruks- og matministerens svar på skriftlig spørsmål nr. 1197 fra stortingsrepresentant Geir Pollestad (Sp)</p>
-    <p type="title">Antibiotikaresistens</p>
-    <p>[Brev til Stortinget, Landbruks- og matdepartementet, 17.09.2014]</p>
-    <p type="title">Høring - forslag til endringer i forskrift til lov om straffegjennomføring mv. om mindreårige innsatte og presisering av bestemmelsen om avbrudd ved gjennomføring av samfunnsstraff</p>
-    <p>[Høringsdokument, Justis- og beredskapsdepartementet, 17.09.2014]</p>
-    <p>Høringsfrist: 16. desember 2014</p>
-    <p type="title">Svar på spm. nr. 1202 fra stortingsrepresentant Hans Olav Syversen</p>
-    <p>[Brev til Stortinget, Finansdepartementet, 16.09.2014]</p>
-    <p type="title">Høring - endring av tiltaksforskriften som følge av ny gruppeunntaksforordning</p>
-    <p>[Høringsdokument, Arbeids- og sosialdepartementet, 15.09.2014]</p>
-    <p>Høringsfrist: 11. november 2014</p>
-    <p type="title">Kriteriedata til inntektssystemet for fylkeskommunene 2015</p>
-    <p>[Brev, Kommunal- og moderniseringsdepartementet, 15.09.2014]</p>
-    <p>Vedlagt følger fylkesvis oversikt over kriteriedata til beregning av rammetilskuddet til fylkeskommunene i 2015.</p>
-    <p type="title">Høring - forenkling av regelverket for dekning av pasienters reiseutgifter (pasienttransport)</p>
-    <p>[Høringsdokument, Helse- og omsorgsdepartementet, 15.09.2014]</p>
-    <p>Høringsfrist: 26. november 2014</p>
-    <p type="title">Høyringsnotat om fellesansvar for utfisking av rømt oppdrettsfisk</p>
-    <p>[Høringsdokument, Nærings- og fiskeridepartementet, 15.09.2014]</p>
-    <p>Høringsfrist: 30. november 2014</p>
-    <p type="title">Oslo kommune - Innsigelse fra Riksantikvaren til detaljregulering av Youngstorget 3</p>
-    <p>[Brev, Kommunal- og moderniseringsdepartementet, 13.09.2014]</p>
-    <p>Kommunal- og moderniseringsdepartementet godkjenner Oslo Bystyres vedtak den 7. mai 2014 av detaljregulering med konsekvensutredning og tilhørende reguleringsbestemmelser for Youngstorget 3. Innsigelsen fra Riksantikvaren tas dermed ikke til følge.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Dokumeanttat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>352</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dok.html?id=439279</origFileName><parallel_text xml:lang="eng" location="doc_id_439279.html"/><parallel_text xml:lang="nno" location="dok_id_439279.html"/><parallel_text xml:lang="sme" location="dok_id_439279.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Dokumenter - regjeringen.no</p>
+<p>Statsministerens kontor og departementene utgir en rekke dokumenttyper:</p>
+<p><em type="italic">Proposisjoner og meldinger </em>er dokumenter som blir lagt frem for Stortinget. </p>
+<p><em type="italic">Lover og regler </em>omfatter lover, forskrifter, retningslinjer m.v. knyttet til departementets ansvarsområder. </p>
+<p><em type="italic">Rundskriv </em>er orienteringer fra departementet til berørte parter om tolkninger av lover og forskrifter. </p>
+<p><em type="italic">Høringer </em>er forslag fra departementet som sendes til berørte parter (offentlige og private institusjoner, organisasjoner og andre departementer). Hensikten er å vurdere økonomiske og administrative konsekvenser av offentlige tiltak. </p>
+<p><em type="italic">NOU-er (Norsk offentlig utredning) </em>produseres av utvalg og arbeidsgrupper som er nedsatt av departementet. </p>
+<p><em type="italic">Rapporter og planer </em>produseres som regel av eksterne forskere eller utvalg, og omfatter rapporter, analyser og kartlegginger levert til departementet. </p>
+<p><em type="italic">Veiledninger og brosjyrer </em>orienterer om departementets politikk og praksis, og retter seg mot et bredere publikum. </p>
+<p type="title">De siste dokumentene fra departementene</p>
+<p type="title">Landbruks- og matministerens svar på skriftlig spørsmål nr. 1190 fra  stortingsrepresentant Trine Skei Grande (V)</p>
+<p type="title">Soppkontroll</p>
+<p>[Brev til Stortinget, Landbruks- og matdepartementet, 17.09.2014]</p>
+<p type="title">Landbruks- og matministerens svar på skriftlig spørsmål nr. 1197 fra stortingsrepresentant Geir Pollestad (Sp)</p>
+<p type="title">Antibiotikaresistens</p>
+<p>[Brev til Stortinget, Landbruks- og matdepartementet, 17.09.2014]</p>
+<p type="title">Høring - forslag til endringer i forskrift til lov om straffegjennomføring mv. om mindreårige innsatte og presisering av bestemmelsen om avbrudd ved gjennomføring av samfunnsstraff</p>
+<p>[Høringsdokument, Justis- og beredskapsdepartementet, 17.09.2014]</p>
+<p>Høringsfrist: 16. desember 2014</p>
+<p type="title">Svar på spm. nr. 1202 fra stortingsrepresentant Hans Olav Syversen</p>
+<p>[Brev til Stortinget, Finansdepartementet, 16.09.2014]</p>
+<p type="title">Høring - endring av tiltaksforskriften som følge av ny gruppeunntaksforordning</p>
+<p>[Høringsdokument, Arbeids- og sosialdepartementet, 15.09.2014]</p>
+<p>Høringsfrist: 11. november 2014</p>
+<p type="title">Kriteriedata til inntektssystemet for fylkeskommunene 2015</p>
+<p>[Brev, Kommunal- og moderniseringsdepartementet, 15.09.2014]</p>
+<p>Vedlagt følger fylkesvis oversikt over kriteriedata til beregning av rammetilskuddet til fylkeskommunene i 2015.</p>
+<p type="title">Høring - forenkling av regelverket for dekning av pasienters reiseutgifter (pasienttransport)</p>
+<p>[Høringsdokument, Helse- og omsorgsdepartementet, 15.09.2014]</p>
+<p>Høringsfrist: 26. november 2014</p>
+<p type="title">Høyringsnotat om fellesansvar for utfisking av rømt oppdrettsfisk</p>
+<p>[Høringsdokument, Nærings- og fiskeridepartementet, 15.09.2014]</p>
+<p>Høringsfrist: 30. november 2014</p>
+<p type="title">Oslo kommune - Innsigelse fra Riksantikvaren til detaljregulering av Youngstorget 3</p>
+<p>[Brev, Kommunal- og moderniseringsdepartementet, 13.09.2014]</p>
+<p>Kommunal- og moderniseringsdepartementet godkjenner Oslo Bystyres vedtak den 7. mai 2014 av detaljregulering med konsekvensutredning og tilhørende reguleringsbestemmelser for Youngstorget 3. Innsigelsen fra Riksantikvaren tas dermed ikke til følge.</p>
+</body></document>

@@ -1,56 +1,24 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Ná don jienastat válgabeaivvi - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>409</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/dep/krd/kampanjer/valg/stortingsvalg/stemme-pa-valgdagen.html?id=457112</origFileName>
-    <parallel_text xml:lang="eng" location="how-to-vote-on-election-day_id_457112.html"/>
-    <parallel_text xml:lang="nno" location="royste-pa-valdagen_id_457112.html"/>
-    <parallel_text xml:lang="sme" location="na-don-jienastat-valgabeaivvi_id_457112.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Slik stemmer du på valgdagen - regjeringen.no</p>
-    <p>
-      <em type="italic">Husk at du MÅ ha legitimasjon for å stemme! </em>
-    </p>
-    <p>Valgdagen er 14. september 2009. I 205 kommuner åpner valglokalene allerede søndag 13. september. Se oversikt over hvilke kommuner som har en- eller todagers valg.</p>
-    <p>På valgdagen 14. september (og 13. september i kommuner der det er todagers valg) må du stemme i den kommunen du er manntallsført. Du er manntallsført i den kommunen du var registrert som bosatt den 30. juni i valgåret.</p>
-    <p>Kommunen kunngjør hvor ditt valglokale er og hvor lenge det er åpent. Merk likevel at du kan stemme i et hvilket som helst valglokale i kommunen.</p>
-    <p><em type="italic">Du må ta med deg legitimasjon! </em>Det er ikke nødvendig med valgkort, men det forenkler valgfunksjonærenes arbeid dersom du tar det med og det går raskere for deg å stemme. </p>
-    <p type="title">Trenger du veiledning eller hjelp?</p>
-    <p>Trenger du veiledning eller hjelp i valglokalet, kan du henvende deg til en av valgfunksjonærene.</p>
-    <p>Kommunene er i utgangspunktet forpliktet til å legge stemmegivningen til lokaler hvor alle velgere kan komme seg inn på egen hånd. Skulle likevel et valglokale ikke være tilgjengelig for en bevegelseshemmet velger, kan vedkommende avgi stemme rett utenfor valglokalet. To valgfunksjonærer kommer i så fall ut, gir nødvendig hjelp og tar i mot stemmen.</p>
-    <p type="title">Har du flyttet etter 30. juni 2009?</p>
-    <p>Dersom du har flyttet etter 30. juni, står du innført i manntallet i den kommunen du har flyttet fra, selv om du har meldt flytting. Du er manntallført i den kommunen du er registert i folkeregisteret som bosatt den 30. juni 2009.</p>
-    <p>Du har stemmerett og avgir stemme i den kommunen der du er manntallsført. Hvis du ikke har anledning til å avgi stemme der på valgdagen, kan du forhåndsstemme i den kommunen du befinner deg i. Stemmen blir da sendt til din hjemkommune.</p>
-    <p type="title">Slik stemmer du på valgdagen</p>
-    <p>Det skal ikke brukes stemmeseddelkonvolutt på valgdagen. I stedet skal stemmeseddelen brettes og stemples før den legges i valgurnen.</p>
-    <p type="title">Slik gjør du når du stemmer til stortingsvalget:</p>
-    <p>1. Ta den stemmeseddelen du vil bruke.</p>
-    <p>2. Gjør eventuelle endringer på stemmeseddelen (se</p>
-    <p>veiledning</p>
-    <p>).</p>
-    <p>3. Brett sammen stemmeseddelen med partinavnet inn og feltet for stempling ut! Da kan ingen se hva du stemmer. Du skal ikke bruke konvolutt eller annet omslag fordi stemmeseddelen skal stemples.</p>
-    <p>4. Gå til en valgfunksjonær og få et stempel på utsiden av stemmeseddelen.</p>
-    <p>Stemmeseddelen må ha stempel for å bli godkjent.</p>
-    <p>5. Legg selv den stemplede stemmeseddelen i urnen.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Ná don jienastat válgabeaivvi - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kommunal- og regionaldepartementet" sex="unknown" born="" nationality=""/></author><year>2009</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>409</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/dep/krd/kampanjer/valg/stortingsvalg/stemme-pa-valgdagen.html?id=457112</origFileName><parallel_text xml:lang="eng" location="how-to-vote-on-election-day_id_457112.html"/><parallel_text xml:lang="nno" location="royste-pa-valdagen_id_457112.html"/><parallel_text xml:lang="sme" location="na-don-jienastat-valgabeaivvi_id_457112.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Slik stemmer du på valgdagen - regjeringen.no</p>
+<p><em type="italic">Husk at du MÅ ha legitimasjon for å stemme! </em></p>
+<p>Valgdagen er 14. september 2009. I 205 kommuner åpner valglokalene allerede søndag 13. september. Se oversikt over hvilke kommuner som har en- eller todagers valg.</p>
+<p>På valgdagen 14. september (og 13. september i kommuner der det er todagers valg) må du stemme i den kommunen du er manntallsført. Du er manntallsført i den kommunen du var registrert som bosatt den 30. juni i valgåret.</p>
+<p>Kommunen kunngjør hvor ditt valglokale er og hvor lenge det er åpent. Merk likevel at du kan stemme i et hvilket som helst valglokale i kommunen.</p>
+<p><em type="italic">Du må ta med deg legitimasjon! </em>Det er ikke nødvendig med valgkort, men det forenkler valgfunksjonærenes arbeid dersom du tar det med og det går raskere for deg å stemme. </p>
+<p type="title">Trenger du veiledning eller hjelp?</p>
+<p>Trenger du veiledning eller hjelp i valglokalet, kan du henvende deg til en av valgfunksjonærene.</p>
+<p>Kommunene er i utgangspunktet forpliktet til å legge stemmegivningen til lokaler hvor alle velgere kan komme seg inn på egen hånd. Skulle likevel et valglokale ikke være tilgjengelig for en bevegelseshemmet velger, kan vedkommende avgi stemme rett utenfor valglokalet. To valgfunksjonærer kommer i så fall ut, gir nødvendig hjelp og tar i mot stemmen.</p>
+<p type="title">Har du flyttet etter 30. juni 2009?</p>
+<p>Dersom du har flyttet etter 30. juni, står du innført i manntallet i den kommunen du har flyttet fra, selv om du har meldt flytting. Du er manntallført i den kommunen du er registert i folkeregisteret som bosatt den 30. juni 2009.</p>
+<p>Du har stemmerett og avgir stemme i den kommunen der du er manntallsført. Hvis du ikke har anledning til å avgi stemme der på valgdagen, kan du forhåndsstemme i den kommunen du befinner deg i. Stemmen blir da sendt til din hjemkommune.</p>
+<p type="title">Slik stemmer du på valgdagen</p>
+<p>Det skal ikke brukes stemmeseddelkonvolutt på valgdagen. I stedet skal stemmeseddelen brettes og stemples før den legges i valgurnen.</p>
+<p type="title">Slik gjør du når du stemmer til stortingsvalget:</p>
+<p>1. Ta den stemmeseddelen du vil bruke.</p>
+<p>2. Gjør eventuelle endringer på stemmeseddelen (se</p>
+<p>veiledning</p>
+<p>).</p>
+<p>3. Brett sammen stemmeseddelen med partinavnet inn og feltet for stempling ut! Da kan ingen se hva du stemmer. Du skal ikke bruke konvolutt eller annet omslag fordi stemmeseddelen skal stemples.</p>
+<p>4. Gå til en valgfunksjonær og få et stempel på utsiden av stemmeseddelen.</p>
+<p>Stemmeseddelen må ha stempel for å bli godkjent.</p>
+<p>5. Legg selv den stemplede stemmeseddelen i urnen.</p>
+</body></document>

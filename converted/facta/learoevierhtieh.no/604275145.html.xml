@@ -1,139 +1,95 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Mellomtrinnet 5.-7. klasse</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1012</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sma"/>
-    </multilingual>
-    <origFileName>http://www.learoevierhtieh.no/wips/604275145</origFileName>
-    <parallel_text xml:lang="sma" location="1671438114.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mellomtrinnet 5.-7. klasse</p>
-    <p xml:lang="sma">Logg inn i Learoevierhtieh</p>
-    <p xml:lang="sma">Gorredh gïelem</p>
-    <p type="title">Mål og hovedmomenter</p>
-    <p type="title">Mål for mellomtrinnet, 5. – 7. klasse</p>
-    <p type="title">Lytte og tale</p>
-    <p>Elevene skal utvikle sitt muntlige språk, slik at de kan bruke språket aktivt i ulike språksituasjoner og i ulike aktiviteter. Elevene skal ha kjennskap til samisk litteratur og samiske fortellertradisjoner.</p>
-    <p type="title">Lese og skrive</p>
-    <p>Elevene skal utvikle sin skriftlige framstillingsevne og utvide sine muligheter til å nyttiggjøre seg skriftlig materiale og kunne bruke et utvalg av tekster som inspirasjon og mønstre for egen skriving. Elevene skal kjenne til skriftspråkets oppbygning og kunne bruke språket i skrift og tale.</p>
-    <p type="title">Kunnskap om språk og kultur</p>
-    <p>Elevene skal ha noe kjennskap til eget språk og språkutvikling og få oppleve glede og språklig selvtillit ved bruk av språket.</p>
-    <p type="title">Hovedmomenter for 5. – 7. klasse</p>
-    <p type="title">5. klasse</p>
-    <p type="title">Lytte og tale</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Gi muntlig uttrykk for egne meninger og standpunkter.</p>
-      <p type="listitem">Framføre ulike tekster og få øvelse i å gjenfortelle historier.</p>
-      <p type="listitem">Lytte til høytlesning av eldre samisk litteratur.</p>
-      <p type="listitem">Øve seg i å lese høyt og trene på å variere stemmen, bruke pauser og framheve hovedord.</p>
-      <p type="listitem">Observere og diskutere hvordan talemålet og kroppsspråket blir brukt i ulike situasjoner som for eksempel diskusjoner, krangel, mobbing, erting og forsoning.</p>
-    </list>
-    <p type="title">Lese og skrive</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Arbeide med ordklassene.</p>
-      <p type="listitem">Øve seg i å lese og tolke enkle tekster.</p>
-      <p type="listitem">Arbeide med å utforme skriftlige meddelelser beregnet på ulike mottakere, for eksempel offentlige og private brev og leserinnlegg.</p>
-      <p type="listitem">Lese barne- og ungdomslitteratur av nyere forfattere og finne ut hvordan de skaper for eksempel spenning, humor og skildrer personer.</p>
-      <p type="listitem">Skrive dikt og arbeide med lyriske virkemidler.</p>
-      <p type="listitem">Beskrive og skildre og på den måten bli oppmerksom på hvordan språket kan variere gjennom ordvalg og syntaks.</p>
-      <p type="listitem">Øve seg i å bruke ordbøker og oppslagsverk og søke informasjon.</p>
-      <p type="listitem">Arbeide med å gi grunngitt respons på skriftlig materiale.</p>
-      <p type="listitem">Bruke tekstbehandling og relevante dataprogrammer i arbeid med ulike tekster.</p>
-    </list>
-    <p type="title">Kunnskap om språk og kultur</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Arbeide med diftongendringer og vokalforandring ved bøyning av verb.</p>
-      <p type="listitem">Vurdere innhold og form i radio- og tv-programmer.</p>
-      <p type="listitem">Utforske og sammenligne bruk av språket i ulike språksituasjoner.</p>
-      <p type="listitem">Undersøke noen trekk ved samisk setningsbygning og sammenligne skriftlige og muntlige uttrykksmåter.</p>
-      <p type="listitem">Snakke om opphavet til ulike sagn og fortellinger innenfor de samiske samfunn.</p>
-    </list>
-    <p type="title">6. klasse</p>
-    <p type="title">Lytte og tale</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Lytte til høytlesning av eventyr og fortellinger og bli kjent med ulike dialekter i egen landsdel.</p>
-      <p type="listitem">Øve seg i å bruke språket i ulike språksammenhenger.</p>
-      <p type="listitem">Øve seg på å ta ordet i diskusjoner om aktuelle saker og på å utforme og komme med egne synspunkter.</p>
-      <p type="listitem">Arbeide med å gi velbegrunnede uttrykk for egne meninger.</p>
-      <p type="listitem">Få erfaring med å framføre ulike tekster for en større gruppe.</p>
-      <p type="listitem">Oppsøke representanter fra lokalmiljøet og bli kjent med særegne samiske stedsnavn, landskapsbenevnelse og termer for vær og vind, snø og ulike naturfenomen.</p>
-    </list>
-    <p type="title">Lese og skrive</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Arbeide med å utforme korte fortellinger.</p>
-      <p type="listitem">Arbeide med å gi respons på skriftlig materiale.</p>
-      <p type="listitem">Skrive tekster i ulike sjangrer både i nen skjønnlitteratur og sakprosa, for eksempel fortellinger, referater og rapporter.</p>
-      <p type="listitem">Arbeide med innholdet i en tekst fra uklare ideer til ferdig produkt og øve seg på å gi positiv og kritisk tilbakemelding.</p>
-      <p type="listitem">Lese tekster av nyere norske forfattere i ulike sjangrer. De skal selv velge ut bøker og tekster de vil lese, og få mulighet til å fordype seg i bøker (leseprosjekt) i sin egen lesetakt.</p>
-      <p type="listitem">Skape tekster for ulike formål.</p>
-      <p type="listitem">Bruke ordbøker og andre oppslagsverk i arbeid med egne tekster.</p>
-      <p type="listitem">Bruke tekstbehandling og elektronisk ordbok i eget arbeid og få erfaring med å sende e-post.</p>
-      <p type="listitem">Bruke datamaskin og multimedia i arbeid med klasse- eller skoleavis.</p>
-    </list>
-    <p type="title">Kunnskap om språk og kultur</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Arbeide med ordklasser, diftongendringer og vokalforandring ved bøyning av verb og nomen.</p>
-      <p type="listitem">Utforske likheter og forskjeller i samisk og norsk språk.</p>
-      <p type="listitem">Samle og systematisere historier og fortellinger i lokalmiljøet.</p>
-      <p type="listitem">Diskutere ulike virkemidler i noen muntlige sjangrer som foredrag og intervju.</p>
-      <p type="listitem">Diskutere kriterier for gode tilbakemeldinger på uferdige tekster.</p>
-      <p type="listitem">Lære noe om hvordan språk varierer etter situasjon, tid og sted, og observere noen særtrekk ved samiske dialekter og sosiolekter.</p>
-      <p type="listitem">Arbeide med roller og replikker i en dramatisk tekst, vurdere verdien av stemmebruk og kroppsspråk og få noe erfaring med enkel bruk av rekvisitter.</p>
-      <p type="listitem">Samtale om hva som gjør en muntlig framføring god, og vurdere det språket de bruker når de argumenterer.</p>
-    </list>
-    <p type="title">7. klasse</p>
-    <p type="title">Lytte og tale</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Lytte til ulike språk innenfor Sápmi, for eksempel ved hjelp av radio- og tv-programmer.</p>
-      <p type="listitem">Arbeide med å gi tilbakemelding og respons på framføring av tekster.</p>
-      <p type="listitem">Bruke språk og kunnskaper om språk gjennom skapende virksomhet, som for eksempel ved å framføre teater og revy.</p>
-      <p type="listitem">Vinne erfaring ved å ta ordet i forsamlinger og delta i diskusjoner, lytte til andre, komme med egne synspunkter og begrunne dem.</p>
-    </list>
-    <p type="title">Lese og skrive</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Øve seg i å skrive korte fortellinger.</p>
-      <p type="listitem">Arbeide med å presentere sitt syn gjennom skriftlig arbeid.</p>
-      <p type="listitem">Lese et utvalg av tekster, for eksempel faktastoff, instruksjoner, aviser og kartverk.</p>
-      <p type="listitem">Bruke tekstbehandling, elektronisk ordbok og elektronisk post for å komme i kontakt med samiske elever i andre land.</p>
-      <p type="listitem">Arbeide med å skrive tekster for ulike former for framføringer, for eksempel foredrag og kåseri.</p>
-      <p type="listitem">Få hjelp til å utvikle skriveferdighet gjennom å få relevant tilbakemelding på tekst, gjerne gjennom loggføring. Elevene skal arbeide grundig med en tekst, både med rettskriving, tegnsetting og komposisjon, før den går til mottakeren .</p>
-      <p type="listitem">Gjøre seg kjent i tilgjengelige offentlige bibliotek og selv finne fram til fagbøker og skjønnlitterære bøker de vil lese. De skal skrive bokmelding</p>
-    </list>
-    <p type="title">Kunnskap om språk og kultur</p>
-    <p>I opplæringen skal elevene</p>
-    <list>
-      <p type="listitem">Arbeide med diftongendringer og vokalforandring ved bøyning av nomen.</p>
-      <p type="listitem">Arbeide med ordklasser og enkel setningslære.</p>
-      <p type="listitem">Utforske ulike samiske dialekter.</p>
-      <p type="listitem">Bli kjent med hvordan språket har utviklet seg over tid.</p>
-      <p type="listitem">Arbeide med virkemidler i ulike medier som for eksempel film, radio og tv.</p>
-      <p type="listitem">Lære mer om sammenhengen mellom språk og situasjon og om språkbruk i formelle og uformelle situasjoner.</p>
-      <p type="listitem">Finne fram til lokale forfattere og undersøke hva de har skrevet.</p>
-    </list>
-    <p>Fylkesmannen i Nordland © 2005 - Design og løsning © Seria</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Mellomtrinnet 5.-7. klasse</title><genre code="facta"/><author><unknown/></author><wordcount>1012</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sma"/></multilingual><origFileName>http://www.learoevierhtieh.no/wips/604275145</origFileName><parallel_text xml:lang="sma" location="1671438114.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mellomtrinnet 5.-7. klasse</p>
+<p xml:lang="sma">Logg inn i Learoevierhtieh</p>
+<p xml:lang="sma">Gorredh gïelem</p>
+<p type="title">Mål og hovedmomenter</p>
+<p type="title">Mål for mellomtrinnet, 5. – 7. klasse</p>
+<p type="title">Lytte og tale</p>
+<p>Elevene skal utvikle sitt muntlige språk, slik at de kan bruke språket aktivt i ulike språksituasjoner og i ulike aktiviteter. Elevene skal ha kjennskap til samisk litteratur og samiske fortellertradisjoner.</p>
+<p type="title">Lese og skrive</p>
+<p>Elevene skal utvikle sin skriftlige framstillingsevne og utvide sine muligheter til å nyttiggjøre seg skriftlig materiale og kunne bruke et utvalg av tekster som inspirasjon og mønstre for egen skriving. Elevene skal kjenne til skriftspråkets oppbygning og kunne bruke språket i skrift og tale.</p>
+<p type="title">Kunnskap om språk og kultur</p>
+<p>Elevene skal ha noe kjennskap til eget språk og språkutvikling og få oppleve glede og språklig selvtillit ved bruk av språket.</p>
+<p type="title">Hovedmomenter for 5. – 7. klasse</p>
+<p type="title">5. klasse</p>
+<p type="title">Lytte og tale</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Gi muntlig uttrykk for egne meninger og standpunkter.</p>
+<p type="listitem">Framføre ulike tekster og få øvelse i å gjenfortelle historier.</p>
+<p type="listitem">Lytte til høytlesning av eldre samisk litteratur.</p>
+<p type="listitem">Øve seg i å lese høyt og trene på å variere stemmen, bruke pauser og framheve hovedord.</p>
+<p type="listitem">Observere og diskutere hvordan talemålet og kroppsspråket blir brukt i ulike situasjoner som for eksempel diskusjoner, krangel, mobbing, erting og forsoning.</p>
+</list><p type="title">Lese og skrive</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Arbeide med ordklassene.</p>
+<p type="listitem">Øve seg i å lese og tolke enkle tekster.</p>
+<p type="listitem">Arbeide med å utforme skriftlige meddelelser beregnet på ulike mottakere, for eksempel offentlige og private brev og leserinnlegg.</p>
+<p type="listitem">Lese barne- og ungdomslitteratur av nyere forfattere og finne ut hvordan de skaper for eksempel spenning, humor og skildrer personer.</p>
+<p type="listitem">Skrive dikt og arbeide med lyriske virkemidler.</p>
+<p type="listitem">Beskrive og skildre og på den måten bli oppmerksom på hvordan språket kan variere gjennom ordvalg og syntaks.</p>
+<p type="listitem">Øve seg i å bruke ordbøker og oppslagsverk og søke informasjon.</p>
+<p type="listitem">Arbeide med å gi grunngitt respons på skriftlig materiale.</p>
+<p type="listitem">Bruke tekstbehandling og relevante dataprogrammer i arbeid med ulike tekster.</p>
+</list><p type="title">Kunnskap om språk og kultur</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Arbeide med diftongendringer og vokalforandring ved bøyning av verb.</p>
+<p type="listitem">Vurdere innhold og form i radio- og tv-programmer.</p>
+<p type="listitem">Utforske og sammenligne bruk av språket i ulike språksituasjoner.</p>
+<p type="listitem">Undersøke noen trekk ved samisk setningsbygning og sammenligne skriftlige og muntlige uttrykksmåter.</p>
+<p type="listitem">Snakke om opphavet til ulike sagn og fortellinger innenfor de samiske samfunn.</p>
+</list><p type="title">6. klasse</p>
+<p type="title">Lytte og tale</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Lytte til høytlesning av eventyr og fortellinger og bli kjent med ulike dialekter i egen landsdel.</p>
+<p type="listitem">Øve seg i å bruke språket i ulike språksammenhenger.</p>
+<p type="listitem">Øve seg på å ta ordet i diskusjoner om aktuelle saker og på å utforme og komme med egne synspunkter.</p>
+<p type="listitem">Arbeide med å gi velbegrunnede uttrykk for egne meninger.</p>
+<p type="listitem">Få erfaring med å framføre ulike tekster for en større gruppe.</p>
+<p type="listitem">Oppsøke representanter fra lokalmiljøet og bli kjent med særegne samiske stedsnavn, landskapsbenevnelse og termer for vær og vind, snø og ulike naturfenomen.</p>
+</list><p type="title">Lese og skrive</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Arbeide med å utforme korte fortellinger.</p>
+<p type="listitem">Arbeide med å gi respons på skriftlig materiale.</p>
+<p type="listitem">Skrive tekster i ulike sjangrer både i nen skjønnlitteratur og sakprosa, for eksempel fortellinger, referater og rapporter.</p>
+<p type="listitem">Arbeide med innholdet i en tekst fra uklare ideer til ferdig produkt og øve seg på å gi positiv og kritisk tilbakemelding.</p>
+<p type="listitem">Lese tekster av nyere norske forfattere i ulike sjangrer. De skal selv velge ut bøker og tekster de vil lese, og få mulighet til å fordype seg i bøker (leseprosjekt) i sin egen lesetakt.</p>
+<p type="listitem">Skape tekster for ulike formål.</p>
+<p type="listitem">Bruke ordbøker og andre oppslagsverk i arbeid med egne tekster.</p>
+<p type="listitem">Bruke tekstbehandling og elektronisk ordbok i eget arbeid og få erfaring med å sende e-post.</p>
+<p type="listitem">Bruke datamaskin og multimedia i arbeid med klasse- eller skoleavis.</p>
+</list><p type="title">Kunnskap om språk og kultur</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Arbeide med ordklasser, diftongendringer og vokalforandring ved bøyning av verb og nomen.</p>
+<p type="listitem">Utforske likheter og forskjeller i samisk og norsk språk.</p>
+<p type="listitem">Samle og systematisere historier og fortellinger i lokalmiljøet.</p>
+<p type="listitem">Diskutere ulike virkemidler i noen muntlige sjangrer som foredrag og intervju.</p>
+<p type="listitem">Diskutere kriterier for gode tilbakemeldinger på uferdige tekster.</p>
+<p type="listitem">Lære noe om hvordan språk varierer etter situasjon, tid og sted, og observere noen særtrekk ved samiske dialekter og sosiolekter.</p>
+<p type="listitem">Arbeide med roller og replikker i en dramatisk tekst, vurdere verdien av stemmebruk og kroppsspråk og få noe erfaring med enkel bruk av rekvisitter.</p>
+<p type="listitem">Samtale om hva som gjør en muntlig framføring god, og vurdere det språket de bruker når de argumenterer.</p>
+</list><p type="title">7. klasse</p>
+<p type="title">Lytte og tale</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Lytte til ulike språk innenfor Sápmi, for eksempel ved hjelp av radio- og tv-programmer.</p>
+<p type="listitem">Arbeide med å gi tilbakemelding og respons på framføring av tekster.</p>
+<p type="listitem">Bruke språk og kunnskaper om språk gjennom skapende virksomhet, som for eksempel ved å framføre teater og revy.</p>
+<p type="listitem">Vinne erfaring ved å ta ordet i forsamlinger og delta i diskusjoner, lytte til andre, komme med egne synspunkter og begrunne dem.</p>
+</list><p type="title">Lese og skrive</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Øve seg i å skrive korte fortellinger.</p>
+<p type="listitem">Arbeide med å presentere sitt syn gjennom skriftlig arbeid.</p>
+<p type="listitem">Lese et utvalg av tekster, for eksempel faktastoff, instruksjoner, aviser og kartverk.</p>
+<p type="listitem">Bruke tekstbehandling, elektronisk ordbok og elektronisk post for å komme i kontakt med samiske elever i andre land.</p>
+<p type="listitem">Arbeide med å skrive tekster for ulike former for framføringer, for eksempel foredrag og kåseri.</p>
+<p type="listitem">Få hjelp til å utvikle skriveferdighet gjennom å få relevant tilbakemelding på tekst, gjerne gjennom loggføring. Elevene skal arbeide grundig med en tekst, både med rettskriving, tegnsetting og komposisjon, før den går til mottakeren .</p>
+<p type="listitem">Gjøre seg kjent i tilgjengelige offentlige bibliotek og selv finne fram til fagbøker og skjønnlitterære bøker de vil lese. De skal skrive bokmelding</p>
+</list><p type="title">Kunnskap om språk og kultur</p>
+<p>I opplæringen skal elevene</p>
+<list><p type="listitem">Arbeide med diftongendringer og vokalforandring ved bøyning av nomen.</p>
+<p type="listitem">Arbeide med ordklasser og enkel setningslære.</p>
+<p type="listitem">Utforske ulike samiske dialekter.</p>
+<p type="listitem">Bli kjent med hvordan språket har utviklet seg over tid.</p>
+<p type="listitem">Arbeide med virkemidler i ulike medier som for eksempel film, radio og tv.</p>
+<p type="listitem">Lære mer om sammenhengen mellom språk og situasjon og om språkbruk i formelle og uformelle situasjoner.</p>
+<p type="listitem">Finne fram til lokale forfattere og undersøke hva de har skrevet.</p>
+</list><p>Fylkesmannen i Nordland © 2005 - Design og løsning © Seria</p>
+</body></document>

@@ -1,167 +1,85 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>856</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Kulturminner</origFileName>
-    <parallel_text xml:lang="sma" location="kultuvremojhtesh.html"/>
-    <parallel_text xml:lang="sme" location="kulturmuittut.html"/>
-    <parallel_text xml:lang="smj" location="kulturmujto.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulturminner / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Kulturminner</p>
-    <p>Sametinget har siden 2001 vært forvaltningsmyndighet for samiske kulturminner i hele Norge. Samiske kulturminner opptrer i dagens samiske bosettingsområder, fra Hedmark i sør til Finnmark i nord. I tidligere tid har grensene for samisk bosetting og bruk strukket seg lenger mot sør og vest. Vi finner samiske kulturminner også her.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Sørsamisk</p>
-    <p>Aktuelt</p>
-    <p>Bevilgninger til samisk kulturminnevern</p>
-    <p>Formidling av samisk krigshistorie, kartlegging av samiske kulturspor i furu...</p>
-    <p>Les mer</p>
-    <p>Åpningstale Sametingets kulturminnekonferanse</p>
-    <p>Sametingsråd Thomas Åhren åpnet Sametingets kulturminnekonferanse i Kautokei...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>
-      <em type="bold">Hva er samiske kulturminner? </em>
-    </p>
-    <p>Kulturminner defineres i kulturminneloven som <span type="quote">”alle spor etter menneskelig virksomhet i vårt fysiske miljø, herunder lokaliteter det knytter seg historiske hendelser, tro eller tradisjon til”</span>. Med kulturmiljøer menes områder hvor kulturminner inngår som del av en større helhet eller sammenheng. Det kan være en reindriftssamisk gamme- eller teltboplass og gjerdeplass, et fangstanlegg med fangstgroper, skyteskjul og kjøttgjemmer, et sjøsamisk bruk med bolighus, naust og sjøbu, eller et vann med gravholmer og offerplasser. Et kulturmiljø kan også bestå av områder det knytter seg historiske hendelser, tro eller tradisjon til, og er derfor ikke alltid et menneskepåvirket landskap.</p>
-    <p>Gjennom kulturminneloven skal kulturminner og kulturmiljøer ivaretas som kilder til kunnskap, opplevelse og identitet, og som framtidig bruksressurs.</p>
-    <p>
-      <em type="bold">Arbeidsområde: </em>
-    </p>
-    <list>
-      <p type="listitem">Vi er høringsinstans i arealsaker på lik linje med fylkeskommunene</p>
-      <p type="listitem">Vi veileder eiere av fredete og verneverdige samiske bygninger</p>
-      <p type="listitem">Vi registrerer, formidler og skjøtter samiske kulturminner og kulturmiljø</p>
-      <p type="listitem">Vi dokumenterer samisk kulturhistorie og tradisjonskunnskap</p>
-      <p type="listitem">Vi utarbeider forvaltningsplaner</p>
-    </list>
-    <p>
-      <em type="bold">Målsetting i arealpolitikken: </em>
-    </p>
-    <list>
-      <p type="listitem">Bærekraftig utnytting av arealer og ressurser i samiske områder, med grunnlag i samisk historie og samiske verdier.</p>
-    </list>
-    <p>
-      <em type="bold">Målsettinger i kulturminnepolitikken: </em>
-    </p>
-    <list>
-      <p type="listitem">Verne, bevare og synliggjøre samiske kulturminner og – miljø</p>
-      <p type="listitem">Styrke kunnskapen om samisk tradisjon og historie samt grunnlaget for bevaring og vern av samiske kulturminner</p>
-      <p type="listitem">Forvalte samiske kulturminner på bakgrunn av egen historie og egne verdier</p>
-    </list>
-    <p>
-      <em type="bold">Tiltak: </em>
-    </p>
-    <list>
-      <p type="listitem">Registrering av samiske kulturminner gjennom feltarbeid</p>
-      <p type="listitem">Dokumentasjon av samisk kulturhistorie og tradisjonskunnskap gjennom intervju</p>
-      <p type="listitem">Samarbeid med sentrale, regionale og lokale myndigheter og aktører</p>
-      <p type="listitem">Tilskuddsordninger</p>
-    </list>
-    <p>
-      <em type="bold">Hvordan vi jobber med dette </em>
-    </p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Arealforvaltning </em>
-      </p>
-    </list>
-    <p>Samiske kulturminner eldre enn 100 år er automatisk fredet. Dette gjelder også bygninger. Automatisk fredete kulturminner har et automatisk vern mot alle tiltak som innebærer skade eller ødeleggelse, flytting, forandring, tildekking eller utilbørlig skjemming, deriblant visuell skjemming.</p>
-    <p>Sametinget må motta søknad når slike inngrep kan skje. I praksis vil dette si alle former for utbyggingstiltak og inngrep i marka eller i et automatisk fredet hus. Hvis et planlagt tiltak er i konflikt med kulturminner, vil forvaltningen som regel gå til innsigelse. Tiltakshaver kan søke om dispensasjon fra vernebestemmelsene. Sametinget vil da gi en tilråding til Riksantikvaren, som er dispensasjonsmyndighet, om tiltaket likevel kan la seg gjennomføre under visse vilkår. Slike vilkår kan være at det må foretas utgraving, eller at en restaurering av et fredet hus må foregå etter antikvariske prinsipper. Dette innebærer at minst mulig og bare skadet virke skiftes ut, og at det som skiftes ut, erstattes av tilsvarende virke.</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Prosjektarbeid </em>
-      </p>
-    </list>
-    <p>Sametinget driver egne skjøtselsprosjekt gjennom tilskudd fra Riksantikvaren. Vi har også tilskuddsordninger for slike prosjekt, med bl.a. muséer og eiere og brukere av kulturminner som målgruppe. Kulturminneloven gir Sametinget adgang til å gjøre nødvendige tiltak for å <span type="quote">”pleie og anskueliggjøre”</span> automatisk fredete kulturminner. Slike tiltak kan omfatte vegetasjonspleie, fysisk tilrettelegging i form av skilting og kulturstier, samt restaurering, gjenoppbygging og flytting av fredete bygg. Hvis andre ønsker å gjennomføre skjøtsels- og formidlingstiltak, må dette skje i samråd med kulturminneforvaltningen.</p>
-    <p>I de seinere årene har Sametinget hatt flere registreringsprosjekt på oppdrag fra Fylkesmannen. Bakgrunnen er Fylkesmannens arbeid med å lage forvaltningsplaner for nasjonalparker og verneområder. Feltarbeidet har vært gjennomført i områder som har vært lite undersøkt på forhånd, slik som store fjellområder. Dette har resultert i en mengde nye registreringer og økt kunnskap om den tidligere samiske bruken av slike områder.</p>
-    <p>
-      <em type="bold">Lovverk </em>
-    </p>
-    <p>Sametingets forvaltningsmyndighet er hjemlet i kulturminneloven og plan- og bygningsloven:</p>
-    <p>Kulturminneloven</p>
-    <p>Plan- og bygningsloven</p>
-    <p>
-      <em type="bold">Sentrale samarbeidspartnere </em>
-    </p>
-    <list>
-      <p type="listitem">Fylkeskommunene</p>
-      <p type="listitem">Riksantikvaren</p>
-      <p type="listitem">Fylkesmannen</p>
-      <p type="listitem">Reindriftsforvaltningen</p>
-      <p type="listitem">Kommunene</p>
-      <p type="listitem">Tromsø Museum – Universitetsmuseet</p>
-      <p type="listitem">NTNU Vitenskapsmuseet</p>
-      <p type="listitem">UiO Kulturhistorisk museum</p>
-    </list>
-    <p>
-      <em type="bold">Kontakt oss </em>
-    </p>
-    <p>
-      <em type="bold">Sametingets kulturminneforvaltning er representert på alle av sametingets kontorer. Det finnes i tillegg en fagansvarlig for bygningsvern. I forvaltningen jobber det arkeologer og ansatte med særlig kompetanse innen samiske kulturminner og samisk historie og språk. </em>
-    </p>
-    <p>
-      <em type="bold">Kontor Finnmark, Varangerbotn: </em>
-    </p>
-    <p>Thor-Andreas Basso, tlf: +47 78 47 40 16</p>
-    <p>thor-andreas.basso@samediggi.no</p>
-    <p xml:lang="sme">Andreas Stångberg, tlf: +47 78 48 42 28</p>
-    <p xml:lang="sme">andreas.stangberg@samediggi.no</p>
-    <p>
-      <em type="bold">Kontor Troms, Manndalen: </em>
-    </p>
-    <p>Ingvild Larsen, tlf: +47 78 48 42 77</p>
-    <p xml:lang="sme">ingvild.larsen@samediggi.no</p>
-    <p>
-      <em type="bold">Tromsø: </em>
-    </p>
-    <p>Oddleif Mikkelsen, tlf: +47 78 48 42 78</p>
-    <p xml:lang="sme">oddleif.mikkelsen@samediggi.no</p>
-    <p>Stine B. Sveen, tlf: +47 78 48 40 89</p>
-    <p xml:lang="sme">stine.sveen@samediggi.no</p>
-    <p>
-      <em type="bold">Kontor Nordland, Drag: </em>
-    </p>
-    <p xml:lang="sme">Una Elstad, tlf: +47 78 47 41 68</p>
-    <p xml:lang="sme">una.elstad@samediggi.no</p>
-    <p>Arne Håkon Thomassen, tlf: +47 78 47 41 69</p>
-    <p xml:lang="sme">arne.hakon.thomassen@samediggi.no</p>
-    <p>
-      <em type="bold">Kontor for sørsameområdet, Snåsa: </em>
-    </p>
-    <p>Bjørn Berg, tlf: +47 78 47 40 27</p>
-    <p>bjorn.berg@samediggi.no</p>
-    <p>
-      <em type="bold">Fagansvarlig for bygningsvern: </em>
-    </p>
-    <p>Prosjektleder Mia De Coninck, tel. 78 47 40 23, mobil 90 79 98 19 e-post: mia.de.coninck@samediggi.no</p>
-    <p xml:lang="sme">Prosjektmedarbeider Elin Kristina Jåma, tel. 78 47 40 34, mobil 94 82 59 78, e-post: elin.kristina.jama@samediggi.no</p>
-    <p xml:lang="sme">Seniorrådgiver Randi Sjølie, tel. 78 47 40 18, e-post: randi.sjolie@samediggi.no</p>
-    <list/>
-    <p>
-      <span type="quote">Samiske kulturminner er fysiske vitnesbyrd om samisk tilstedeværelse og viktige i et identitets- og rettighetsperspektiv. </span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>856</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Kulturminner</origFileName><parallel_text xml:lang="sma" location="kultuvremojhtesh.html"/><parallel_text xml:lang="sme" location="kulturmuittut.html"/><parallel_text xml:lang="smj" location="kulturmujto.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulturminner / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Kulturminner</p>
+<p>Sametinget har siden 2001 vært forvaltningsmyndighet for samiske kulturminner i hele Norge. Samiske kulturminner opptrer i dagens samiske bosettingsområder, fra Hedmark i sør til Finnmark i nord. I tidligere tid har grensene for samisk bosetting og bruk strukket seg lenger mot sør og vest. Vi finner samiske kulturminner også her.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Sørsamisk</p>
+<p>Aktuelt</p>
+<p>Bevilgninger til samisk kulturminnevern</p>
+<p>Formidling av samisk krigshistorie, kartlegging av samiske kulturspor i furu...</p>
+<p>Les mer</p>
+<p>Åpningstale Sametingets kulturminnekonferanse</p>
+<p>Sametingsråd Thomas Åhren åpnet Sametingets kulturminnekonferanse i Kautokei...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p><em type="bold">Hva er samiske kulturminner? </em></p>
+<p>Kulturminner defineres i kulturminneloven som <span type="quote">”alle spor etter menneskelig virksomhet i vårt fysiske miljø, herunder lokaliteter det knytter seg historiske hendelser, tro eller tradisjon til”</span>. Med kulturmiljøer menes områder hvor kulturminner inngår som del av en større helhet eller sammenheng. Det kan være en reindriftssamisk gamme- eller teltboplass og gjerdeplass, et fangstanlegg med fangstgroper, skyteskjul og kjøttgjemmer, et sjøsamisk bruk med bolighus, naust og sjøbu, eller et vann med gravholmer og offerplasser. Et kulturmiljø kan også bestå av områder det knytter seg historiske hendelser, tro eller tradisjon til, og er derfor ikke alltid et menneskepåvirket landskap.</p>
+<p>Gjennom kulturminneloven skal kulturminner og kulturmiljøer ivaretas som kilder til kunnskap, opplevelse og identitet, og som framtidig bruksressurs.</p>
+<p><em type="bold">Arbeidsområde: </em></p>
+<list><p type="listitem">Vi er høringsinstans i arealsaker på lik linje med fylkeskommunene</p>
+<p type="listitem">Vi veileder eiere av fredete og verneverdige samiske bygninger</p>
+<p type="listitem">Vi registrerer, formidler og skjøtter samiske kulturminner og kulturmiljø</p>
+<p type="listitem">Vi dokumenterer samisk kulturhistorie og tradisjonskunnskap</p>
+<p type="listitem">Vi utarbeider forvaltningsplaner</p>
+</list><p><em type="bold">Målsetting i arealpolitikken: </em></p>
+<list><p type="listitem">Bærekraftig utnytting av arealer og ressurser i samiske områder, med grunnlag i samisk historie og samiske verdier.</p>
+</list><p><em type="bold">Målsettinger i kulturminnepolitikken: </em></p>
+<list><p type="listitem">Verne, bevare og synliggjøre samiske kulturminner og – miljø</p>
+<p type="listitem">Styrke kunnskapen om samisk tradisjon og historie samt grunnlaget for bevaring og vern av samiske kulturminner</p>
+<p type="listitem">Forvalte samiske kulturminner på bakgrunn av egen historie og egne verdier</p>
+</list><p><em type="bold">Tiltak: </em></p>
+<list><p type="listitem">Registrering av samiske kulturminner gjennom feltarbeid</p>
+<p type="listitem">Dokumentasjon av samisk kulturhistorie og tradisjonskunnskap gjennom intervju</p>
+<p type="listitem">Samarbeid med sentrale, regionale og lokale myndigheter og aktører</p>
+<p type="listitem">Tilskuddsordninger</p>
+</list><p><em type="bold">Hvordan vi jobber med dette </em></p>
+<list><p type="listitem"><em type="bold">Arealforvaltning </em></p>
+</list><p>Samiske kulturminner eldre enn 100 år er automatisk fredet. Dette gjelder også bygninger. Automatisk fredete kulturminner har et automatisk vern mot alle tiltak som innebærer skade eller ødeleggelse, flytting, forandring, tildekking eller utilbørlig skjemming, deriblant visuell skjemming.</p>
+<p>Sametinget må motta søknad når slike inngrep kan skje. I praksis vil dette si alle former for utbyggingstiltak og inngrep i marka eller i et automatisk fredet hus. Hvis et planlagt tiltak er i konflikt med kulturminner, vil forvaltningen som regel gå til innsigelse. Tiltakshaver kan søke om dispensasjon fra vernebestemmelsene. Sametinget vil da gi en tilråding til Riksantikvaren, som er dispensasjonsmyndighet, om tiltaket likevel kan la seg gjennomføre under visse vilkår. Slike vilkår kan være at det må foretas utgraving, eller at en restaurering av et fredet hus må foregå etter antikvariske prinsipper. Dette innebærer at minst mulig og bare skadet virke skiftes ut, og at det som skiftes ut, erstattes av tilsvarende virke.</p>
+<list><p type="listitem"><em type="bold">Prosjektarbeid </em></p>
+</list><p>Sametinget driver egne skjøtselsprosjekt gjennom tilskudd fra Riksantikvaren. Vi har også tilskuddsordninger for slike prosjekt, med bl.a. muséer og eiere og brukere av kulturminner som målgruppe. Kulturminneloven gir Sametinget adgang til å gjøre nødvendige tiltak for å <span type="quote">”pleie og anskueliggjøre”</span> automatisk fredete kulturminner. Slike tiltak kan omfatte vegetasjonspleie, fysisk tilrettelegging i form av skilting og kulturstier, samt restaurering, gjenoppbygging og flytting av fredete bygg. Hvis andre ønsker å gjennomføre skjøtsels- og formidlingstiltak, må dette skje i samråd med kulturminneforvaltningen.</p>
+<p>I de seinere årene har Sametinget hatt flere registreringsprosjekt på oppdrag fra Fylkesmannen. Bakgrunnen er Fylkesmannens arbeid med å lage forvaltningsplaner for nasjonalparker og verneområder. Feltarbeidet har vært gjennomført i områder som har vært lite undersøkt på forhånd, slik som store fjellområder. Dette har resultert i en mengde nye registreringer og økt kunnskap om den tidligere samiske bruken av slike områder.</p>
+<p><em type="bold">Lovverk </em></p>
+<p>Sametingets forvaltningsmyndighet er hjemlet i kulturminneloven og plan- og bygningsloven:</p>
+<p>Kulturminneloven</p>
+<p>Plan- og bygningsloven</p>
+<p><em type="bold">Sentrale samarbeidspartnere </em></p>
+<list><p type="listitem">Fylkeskommunene</p>
+<p type="listitem">Riksantikvaren</p>
+<p type="listitem">Fylkesmannen</p>
+<p type="listitem">Reindriftsforvaltningen</p>
+<p type="listitem">Kommunene</p>
+<p type="listitem">Tromsø Museum – Universitetsmuseet</p>
+<p type="listitem">NTNU Vitenskapsmuseet</p>
+<p type="listitem">UiO Kulturhistorisk museum</p>
+</list><p><em type="bold">Kontakt oss </em></p>
+<p><em type="bold">Sametingets kulturminneforvaltning er representert på alle av sametingets kontorer. Det finnes i tillegg en fagansvarlig for bygningsvern. I forvaltningen jobber det arkeologer og ansatte med særlig kompetanse innen samiske kulturminner og samisk historie og språk. </em></p>
+<p><em type="bold">Kontor Finnmark, Varangerbotn: </em></p>
+<p>Thor-Andreas Basso, tlf: +47 78 47 40 16</p>
+<p xml:lang="sme">thor-andreas.basso@samediggi.no</p>
+<p xml:lang="sme">Andreas Stångberg, tlf: +47 78 48 42 28</p>
+<p xml:lang="sme">andreas.stangberg@samediggi.no</p>
+<p><em type="bold">Kontor Troms, Manndalen: </em></p>
+<p>Ingvild Larsen, tlf: +47 78 48 42 77</p>
+<p xml:lang="sme">ingvild.larsen@samediggi.no</p>
+<p><em type="bold">Tromsø: </em></p>
+<p>Oddleif Mikkelsen, tlf: +47 78 48 42 78</p>
+<p xml:lang="sme">oddleif.mikkelsen@samediggi.no</p>
+<p>Stine B. Sveen, tlf: +47 78 48 40 89</p>
+<p xml:lang="sme">stine.sveen@samediggi.no</p>
+<p><em type="bold">Kontor Nordland, Drag: </em></p>
+<p xml:lang="sme">Una Elstad, tlf: +47 78 47 41 68</p>
+<p xml:lang="sme">una.elstad@samediggi.no</p>
+<p>Arne Håkon Thomassen, tlf: +47 78 47 41 69</p>
+<p xml:lang="sme">arne.hakon.thomassen@samediggi.no</p>
+<p><em type="bold">Kontor for sørsameområdet, Snåsa: </em></p>
+<p>Bjørn Berg, tlf: +47 78 47 40 27</p>
+<p>bjorn.berg@samediggi.no</p>
+<p><em type="bold">Fagansvarlig for bygningsvern: </em></p>
+<p>Prosjektleder Mia De Coninck, tel. 78 47 40 23, mobil 90 79 98 19 e-post: mia.de.coninck@samediggi.no</p>
+<p xml:lang="sme">Prosjektmedarbeider Elin Kristina Jåma, tel. 78 47 40 34, mobil 94 82 59 78, e-post: elin.kristina.jama@samediggi.no</p>
+<p xml:lang="sme">Seniorrådgiver Randi Sjølie, tel. 78 47 40 18, e-post: randi.sjolie@samediggi.no</p>
+<list/><p><span type="quote">Samiske kulturminner er fysiske vitnesbyrd om samisk tilstedeværelse og viktige i et identitets- og rettighetsperspektiv. </span></p>
+</body></document>

@@ -1,844 +1,798 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Møteprotokoll</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Hans Arild" lastname="Holmestrand" sex="m" born="" nationality="nor"/>
-    </author>
-    <year>2005</year>
-    <publChannel>
-      <publication>
-        <publisher>Sámediggi</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>9349</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/>
-    <origFileName>ts_4_04.doc</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingets tilskuddsstyre</p>
-    <p>Møtebok 4/04</p>
-    <p>Tid: 16. - 17. juni 2004</p>
-    <p>16.06.04: kl. 12.00 - 18.00</p>
-    <p>17.06.04: kl. 09.00 - 13.00</p>
-    <p>Sted: Comfort Hotel With, Tromsø</p>
-    <p>Saksliste:</p>
-    <p>Saksnr.</p>
-    <p>Sakstittel</p>
-    <p>176/04</p>
-    <p>Godkjenning av innkalling og saksliste</p>
-    <p>177/04</p>
-    <p>Referatsaker</p>
-    <p>178/04</p>
-    <p>Delegasjonssaker</p>
-    <p>179/04</p>
-    <p>Delegering av fullmakt til administrasjonen- stipend for samisktalende studenter i rehabiliteringsfag</p>
-    <p>180/04</p>
-    <p>Mareli Paulsen, Tysfjord kommune - Søknad om støtte til kjøp av fiskebåt, klagepå vedtak i sak HE 087/04</p>
-    <p>181/04</p>
-    <p>Engen, Ellen Anette og Koht, Inge, Storfjord kommune - Søknad om støtte til kjøp av fiskfartøy</p>
-    <p>182/04</p>
-    <p>Kåfjord kommune - Søknad om støtte til bygging av molo</p>
-    <p>183/04</p>
-    <p>Heiskel Asgeir, Storfjord kommune - Søknad om støtte til ombygging og utvidelse av fjøs</p>
-    <p>184/04</p>
-    <p>SÁME Produkter, Karasjok kommune - Søknad om tilskudd til å føre frem strøm til produksjonsplass</p>
-    <p>185/04</p>
-    <p>Nofi Bygg AS, Storfjord kommune - Investeringer og bedriftsutvikling, byggevarebedrift</p>
-    <p>186/04</p>
-    <p>AS Lyntec, S.U.S., Kautokeino kommune - Søknad om Investeringstilskudd</p>
-    <p>187/04</p>
-    <p>Arctic Net AS, Karasjok kommune- Søknad om støtte - Pocket Agent versjon 2</p>
-    <p>188/04</p>
-    <p>SUS Løkta AS, Kåfjord kommune - Søknad om støtte til etablering av forretningssenter</p>
-    <p>189/04</p>
-    <p>MT SLAKT, Kautokeino kommune- Søknad om støtte til bygningsmessige investering og maskiner/utstyr</p>
-    <p>190/04</p>
-    <p>Álttá Sámiid Searvi, Alta kommune - Søknad om støtte til prosjektering samisk barnehage</p>
-    <p>191/04</p>
-    <p>Berit Inger Gaup, Alta kommune - Søknad om støtte til produktutvikling av kjøkkenredskap</p>
-    <p>192/04</p>
-    <p>Goahtegearret, Karasjok kommune - Søknad om utviklings- og oppbyggingstilskudd</p>
-    <p>193/04</p>
-    <p>Norut NIBR Finnmark, Alta kommune - Søknad om tilskudd til Helse-/renhetssertifikat for innlansfisk Klage på vedtak i sak 018/04</p>
-    <p>194/04</p>
-    <p>Mienna, Berit, Karasjok kommune - Søknad om etablererstipend</p>
-    <p>195/04</p>
-    <p>Gamtofta v/Arvid Skjellhaug, Sørreisa kommune - Søknad om tilleggsstøtte til kulturbaddje m/utescene, klagepå vedtak i sak 021/04</p>
-    <p>196/04</p>
-    <p>Hætta, Brith Myrseth, Kautokeino kommune - Etablererstipend</p>
-    <p>197/04</p>
-    <p>Buljo, Johan Henrik, Kautokeino kommune - Søknad om støtte til etablering av Árbi Sámi Siida</p>
-    <p>198/04</p>
-    <p>Sámiid Duodji, Nesseby kommune - Arrangere jubileumsarrangement</p>
-    <p>199/04</p>
-    <p>Sámiid Valáštallanlihttu-Norga/Samenes Idrettsforbund-Norge, Tana kommune - Søknad om støtte til forprosjket innen organisasjonsutvikling</p>
-    <p>200/04</p>
-    <p>Guovdageainnu FS spábbáčiekčanjoavku / Kautokeino IL fotballgruppa, Kautokeino kommune - Søknad om støtte</p>
-    <p>201/04</p>
-    <p>Samisk Fotballforbund, Kautokeino kommune - Søknad om tilleggsstøtte til forbundets drift</p>
-    <p>202/04</p>
-    <p>Samisk Fotballforbund, Kautokeino kommune - Søknad om prosjketstøtte til utvikling av organisasjonen</p>
-    <p>203/04</p>
-    <p>Sámi Juristtaid Searvi, Kautokeino kommune - Søknad om driftsstøtte for 2004</p>
-    <p>204/04</p>
-    <p>Drag Aktivitet, Tysfjord kommune - Søknad om støtte til nærmiljøanlegg</p>
-    <p>205/04</p>
-    <p>Árran Julevsáme guovdásj, Tysfjord kommune - Søknad om støtte til innkjøp av unik samisk boksamling</p>
-    <p>206/04</p>
-    <p>Drag Aktivitetspark (SUS), Tysfjord kommune - Søknad om støtte til forprosjekt Aktivitetspark på Drag</p>
-    <p>207/04</p>
-    <p>Sámegiel-Berošteaddjik, Narvik kommune - Søknad om tilskudd til stedsnavnsprosjekt, klage på vedtak i sak 144/04</p>
-    <p>208/04</p>
-    <p>Kunnskapssenteret i Gildeskål, Gildeskål kommune - Søknad om tilskudd til språkprosjekt, klage på vedtak i sak 143/04</p>
-    <p>209/04</p>
-    <p>Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, søknad om støtte til terminologiarbeid, klagepå sak 064/04</p>
-    <p>210/04</p>
-    <p>Tana kommune - Søknad om midler til skilting av kommunale bygg, klagepå sak HG 12/04</p>
-    <p>211/04</p>
-    <p>Samisk videregående skole, Karasjok kommune - Søknad om midler til utarbeiding av matematikktermer</p>
-    <p>212/04</p>
-    <p>De Samiske Samlinger - Karasjok kommune. Søknad om tilskudd til prosjekt - Forbedring av bevaringsforholdene.</p>
-    <p>213/04</p>
-    <p>Pettersen Ann Sissel, Nesseby kommune - Investeringer til oppstart av bakeribedrift</p>
-    <p>214/04</p>
-    <p>Prosjekt Fjellrev, Inderøy kommune - Søknad om støtte til å oversette nettsidene til sør- og nordsamisk, klage på vedtak i sak HE 093/04</p>
-    <p>215/04</p>
-    <p>Svein Olav Thomassen, Kvænangen kommune - Søknad om tilskudd til driftsbygning</p>
-    <p>216/04</p>
-    <p>Siri Aslak Anders N., Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>217/04</p>
-    <p>Logje Per Aslak Aslaksen, Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>218/04</p>
-    <p>Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune - Bygg og utstillinger ved nasjonalparksenteret</p>
-    <p>219/04</p>
-    <p>nana, Tromsø kommune - Søknad om støtte til nana Urfolksdager i Tromsø 2004</p>
-    <p>220/04</p>
-    <p>Trevland a/s, Porsanger kommune - Søknad om støtte til dubbing av film, klage på vedtak i sak 173/04</p>
-    <p>221/04</p>
-    <p>Trevland as, Porsanger kommune - Søknad om støtte til utgivelseav lydbok, klage på vedtak i sak 172/04</p>
-    <p>222/04</p>
-    <p>Foreningen Samiske Nytteplanter, Kolvereid kommune - Søknad om støtte til kurs om samiske nytteplanter, klage på vedtak i sak HK 090/04</p>
-    <p>223/04</p>
-    <p>Moskavuona NSR, Balsfjord kommune - Rekonstruering av Ullsfjordkofte, klage på vedtak i sak HK 047/04</p>
-    <p>224/04</p>
-    <p>OL i Tromsø 2014, Tromsø kommune - Søknad om støtte til den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014</p>
-    <p>225/04</p>
-    <p>Saemien Sijte, Snåsa kommune - Søknad om støtte til utgivelse av bok om sørsamisk ornamentikk</p>
-    <p>226/04</p>
-    <p>Ole Nikodemussen, Kvalsund kommune - Søknad om støtte til utarbeidelse av slektsleksikon for Porsanger</p>
-    <p>227/04</p>
-    <p>Wulff Geir, Porsanger kommune - Søknad om støtte til arbeidet med registrering av samiske personnavn i Porsanger</p>
-    <p>228/04</p>
-    <p>Davvi Girji, Karasjok kommune - Søknad om støtte til samisk litteraturrådgiver</p>
-    <p>229/04</p>
-    <p>Adalia Film AS, Sandefjord kommune - Søknad om støtte til TV-serie om design, arkitektur og livsstil</p>
-    <p>230/04</p>
-    <p>Main Island Production AS, Oslo kommune - Søknad om støtte til produksjon av kortfilm Polmak i Tana</p>
-    <p>231/04</p>
-    <p>Johansen Helge, Nordreisa kommune:Søknad om støtte til kulturfestival i Nord-Troms 2004, klage på vedtak i sak 038/04</p>
-    <p>232/04</p>
-    <p>ČálliidLagadus, Porsanger kommune - Søkand om støtte til utgivelse av Mummi på samisk, klage på vedtak i sak DSK 170/04</p>
-    <p>233/04</p>
-    <p>Viktil Janne, Frosta kommune - Søknad om midler til prosjekt Samiske forhold i Midt-Norge, klage på vedtak i sak 036/04</p>
-    <p>234/04</p>
-    <p>Samitour.com, Kautokeino kommune - Søknad om støtte til videreføring av prosjektet Samisk reiseliv på nett</p>
-    <p>235/04</p>
-    <p>Gaup, Nils Peder I og Gaup, Inger Ellen Eira, Kautokeino kommune - Søknad om etablererstipend, klage på vedtak i sak HE 103/04</p>
-    <p>236/04</p>
-    <p>Min Áigi, Karasjok kommune - Søknad om støtte til etablering av lokalkontor i Tana</p>
-    <p>Tilstede:</p>
-    <p>Jarle Jonassen, leder</p>
-    <p>Marie Therese N. Gaup</p>
-    <p>Ove Johnsen</p>
-    <p>Olaf Eliassen</p>
-    <p>Kjell Jøran Jåma, vara for Ann Kristine Sara som hadde meldt forfall til møtet.</p>
-    <p>Willy Ørnebakk, permittert 17.06.04 fra kl. 09.45. Tilstede under behandling av sak 176 - 189/04, 224/04, 233 - 236/04</p>
-    <p>Terje Tretnes, tilstede kun 16.06.04. Tilstede under behandling av sak 177 - 189/04, 191 - 197/04, 213 - 218/04 og 233 - 236/04.</p>
-    <p>Fra administrasjonen</p>
-    <p>Per Anders Bær, underdirektør</p>
-    <p>Hans Arild Holmestrand, førstekonsulent</p>
-    <p>Inga Hætta Skarvik, førstekonsulent, tilstede 17.06.04</p>
-    <p>Jon Meløy, avdelingsdirektør, tilstede 17.06.04</p>
-    <p>176/04: Godkjenning av innkalling og saksliste</p>
-    <p>Forslag til vedtak::</p>
-    <p>Innkallingen og sakslista med tilleggssaker godkjennes.</p>
-    <p>Vedtak:</p>
-    <p>Innkallingen og sakslista med tilleggssaker godkjennes.</p>
-    <p>Enstemmig vedtatt</p>
-    <p>177/04: Referatsaker</p>
-    <p>Forslag til vedtak::</p>
-    <p>Referatsakene tas til etterretning slik de foreligger.</p>
-    <p>Vedtak:</p>
-    <p>På henvendelse fra Min Áigi om å se sakene 149/04 og 150/04 i investeringssammenheng og dermed godkjenne reduserte investeringer som grunnlag for utbetaling av hele tilskuddet i sak 150/04 ble ikke etterkommet.</p>
-    <p>Øvrige referatsaker ble tatt til etterretning.</p>
-    <p>178/04: Delegasjonssaker</p>
-    <p>Forslag til vedtak::</p>
-    <p>Administrative vedtak tas til orientering slik de foreligger.</p>
-    <p>Vedtak:</p>
-    <p>Delegasjonssakene ble tatt til etterretning.</p>
-    <p>179/04: Delegering av fullmakt til administrasjonen- stipend for samisktalende studenter i rehabiliteringsfag</p>
-    <p>Forslag til vedtak::</p>
-    <p>Sametingets tilskuddsstyre gir administrasjonen fullmakt til å treffe avgjørelser i tildeling av stipend til samisktalende fagfolk som tar utdanning innen rehabiliteringsfag:</p>
-    <p>I Administrasjonen delegeres myndighet til å gi stipend på inntil kr. 50 000 i saker som er klart innenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
-    <p>II Administrasjonen gis fullmakt til å avslå søknader som er klart utenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
-    <p>III Klage på administrative vedtak forelegges Sametingets tilskuddsstyre til behandling.</p>
-    <p>IV Oversikt over de avgjørelser som fattes av administrasjonen legges frem for tilskuddsstyret til orientering.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>180/04: Mareli Paulsen, Tysfjord kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 087/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre tar klagen til følge og gir med dette tilsagn om følgende støtte til Mareli Paulsen, Tysfjord kommune, til kjøp av fiskefartøy:</p>
-    <p>I Tilskudd inntil kr 83 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>181/04: Engen, Ellen Anette og Koht, Inge, Storfjord kommune - Søknad om støtte til kjøp av fiskfartøy</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ellen Annett Engen og Inge Koht, Storfjord kommune, til kjøp av fiskefartøy (nybygg):</p>
-    <p>I Tilskudd inntil kr 190 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Tilskuddsstyret gjør søker oppmerksom på at det kan ytes tilskudd maksimalt kr 250 000 til kjøp av nybygg. For øvrig viser tilskuddsstyret til at båten det ble gitt tilskudd til i sak R 052/00 skal selges, slik at tilskuddet reduseres med kr 60 000 jf. standardvilkår for Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>182/04: Kåfjord kommune - Søknad om støtte til bygging av molo</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Kåfjord kommune, til bygging av molo i Olderdalen:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>V Tilskuddet er redusert i forhold omsøkt da det i henhold til etablert støttepraksis kan gis maksimalt kr 200 000 i tilskudd til bygging av molo.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Willy Ørnebakk fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Kåfjord kommune, til bygging av molo i Olderdalen:</p>
-    <p>I Tilskudd inntil kr 300 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Administrasjonens forslag ble vedtatt med 5 mot 2 stemmer som ble avgitt for Ørnebakk's forslag</p>
-    <p>183/04: Heiskel Asgeir, Storfjord kommune - Søknad om støtte til ombygging og utvidelse av fjøs</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Asgeir Heiskel, Storfjord kommune, til ombygging og utvidelse av fjøs:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Det kan ikke påregnes ytterligere støtte til fjøs de neste 10-årene.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>184/04: SÁME Produkter, Karasjok kommune - Søknad om tilskudd til å føre frem strøm til produksjonsplass</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre har stor forståelse for at du ønsker å føre fram strøm til vedproduksjonsplassen i Sohparjohka. Tilskuddsstyre kan imidlertid ikke prioritere støtte til denne type tiltak</p>
-    <p>pga. begrensede budsjettrammmer i forhold til søknadsmassen. Tilskuddsstyre må prioritere strengt hvilke tiltak man skal prioritere, og vurdere hver sak nøye ut i fra gjeldende støttepraksis. En endring av denne støttepraksisen kan medføre store økonomiske konsekvenser for Samisk utviklingsfond.</p>
-    <p>På bakgrunn av ovennevnte finner Sametingets tilskuddsstyre ikke å kunne prioritere foreliggende søknad.</p>
-    <p>Terje Tretnes fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sáme produkter v/Karen M. Rasmus, Karasjok kommune, til fremføring av strøm til produksjonsplass i Sohparjohka:</p>
-    <p>I Tilskudd inntil kr 25 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Administrasjonens forslag ble vedtatt med 5 mot 1 stemme som ble avgitt for Tretnes' forslag</p>
-    <p>185/04: Nofi Bygg AS, Storfjord kommune - Investeringer og bedriftsutvikling, byggevarebedrift</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Nofi Bygg AS, Storfjord kommune, til investeringer og bedriftsutvikling:</p>
-    <p>I Investeringstilskudd inntil kr 75 000.</p>
-    <p>II Bedriftsutviklingstilskudd inntil kr 38 000.</p>
-    <p>III Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>IV Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>VI I henhold til støttepraksis gis det ikke støtte til lønnsutgifter eller til kjøp av truck, og av denne grunn finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>186/04: AS Lyntec, S.U.S., Kautokeino kommune - Søknad om Investeringstilskudd</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til AS Lyntec SUS, Kautokeino kommune, til investeringer:</p>
-    <p>I Tilskudd inntil kr 156 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>187/04: Arctic Net AS, Karasjok kommune - Søknad om støtte - Pocket Agent versjon 2</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Artic Net AS, Karasjok kommune, til utvikling av programmet Pocket Agent versjon 2:</p>
-    <p>I Tilskudd inntil kr 160 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>188/04: SUS Løkta AS, Kåfjord kommune - Søknad om støtte til etablering av forretningssenter</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til S.u.s. Løkta AS, Kåfjord kommune, til etablering av nytt forretningsbygg:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>189/04: MT SLAKT, Kautokeino kommune- Søknad om støtte til bygningsmessige investering og maskiner/utstyr</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til MT Slakt, Kautokeino kommune, til investeringer i bygg og maskiner/utstyr for etablering av mottaksanlegg for innlandsfisk:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Tilskuddet er redusert i forhold til søknaden pga. at det i denne type tiltak kan ytes maksimalt kr 200 000. For øvrig må Sametingets tilskuddsstyre prioritere strengt mellom prosjektene pga. begrensede budsjettrammer i forhold til søknadsmassen</p>
-    <p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>190/04: Álttá Sámiid Searvi, Alta kommune - Søknad om støtte til prosjektering samisk barnehage</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Álttá Sámiid Searvi, Alta kommune, til prosjektering av samisk barnehage/samisk hus i Alta:</p>
-    <p>I Tilskudd inntil kr 262 000.</p>
-    <p>II 50 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt. Resterende del utbetales når restfinansieringen er løst, prosjektet er gjennomført og når prosjektregnskap foreligger.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V Resttilsagnet på kr 62 000 gitt i sak DSE 241/03 inngår i støttebeløpet og trekkes herved tilbake.</p>
-    <p>VI Sametingets tilskuddsstyre finner å kunne støtte prosjektet da barnehage/samisk hus vil ha stor betydning i arbeidet med samisk språk og kultur i Alta kommune.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Alta sámiid searvi, Alta kommune, til prosjektering av samisk barnehage/samisk hus i Alta:</p>
-    <p>I Tilskudd inntil kr 101 000.</p>
-    <p>II 50 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt og restfinansiering er løst. Resterende del utbetales når prosjektet er gjennomført og når prosjektregnskap foreligger.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Sametingets tilskuddsstyre viser til at det vanligvis ikke ytes støtte til prosjekteringer av barnehager, men finner å kunne støtte prosjektet da barnehage/samisk hus vil ha stor betydning i arbeidet med samisk språk og kultur i Alta kommune.</p>
-    <p>V Sametingets tilskuddsstyre legger skisse- og forprosjektet til grunn for støtten. Kostnadene til hovedprosjektet og oppfølgingen er trukket ut av kostnadsgrunnlaget da disse kostnadene hører til byggeprosjektet.</p>
-    <p>VI Resttilsagnet på kr 62 000 gitt i sak DSE 241/03 inngår i støttebeløpet og trekkes herved tilbake.</p>
-    <p>VII Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassen's forslag</p>
-    <p>Enstemmig vedtatt</p>
-    <p>191/04: Berit Inger Gaup, Alta kommune - Søknad om støtte til produktutvikling av kjøkkenredskap</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til at søker er bosatt utenfor Samisk utviklingsfonds geografiske virkeområde, og finner ikke at prosjektet er av en slik karakter at en kan fravike ordinær støttepraksis . Skal en gå inn med støtte til produktutvikling må en kunne redegjøre for produksjons- og sysselsettingseffekt i de samiske bosettingsområdene. I dette tilfellet synes det at eventuell produksjon av dette nye produktet ikke vil oppfylle en slik målsetting.</p>
-    <p>På grunnalg av dette finner ikke Sametingets tilskuddsstyre å prioritere fondsstøtte til foreliggende søknad.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>192/04: Goahtegearret, Karasjok kommune - Søknad om utviklings- og oppbyggingstilskudd</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre viser til administrasjonens vedtak i sak HE 107/04, og gir med dette i tillegg tilsagn om følgende driftsstøtte til Goahtegearret/Samenes naturressursforbund, Karasjok kommune:</p>
-    <p>I Tilskudd inntil kr 125 000.</p>
-    <p>II Tilsagnet kan utbetales når vi har mottatt virksomhetsplan for 2005, halvårsregnskapet for 2004 og revidert regnskap for 2003.</p>
-    <p>III Det gis ikke ytterligere støtte til andre prosjekter i 2004 eller til eventuelle kostnadsoverskridelser. Kostnadsoverslaget kan ikke fravikes med mer enn +/-10 %.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>193/04: Norut NIBR Finnmark, Alta kommune - Søknad om tilskudd til Helse-/renhetssertifikat for innlandsfisk, klage på vedtak i sak 018/04</p>
-    <p>Forslag til vedtak::</p>
-    <p>Klagen tas ikke til følge:</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 018/04 og klage av 19.04.04.</p>
-    <p>Tilskuddsstyret er enig med klageren i at Innlandsfiskeprosjektet ikke skal vurdere de forhold som helse- og renhetsprosjektet skal undersøke. Tilskuddsstyret mener at de tiltak som Innlandsfiskeprosjektet skal gjennomføre har større betydning for å få en lønnsom innlandsfiskenæring enn det prosjektet som klageren skal gjennomføre har. I denne sammenheng viser tilskuddsstyret til vedtaket i sak 18/04.</p>
-    <p>Sametingets tilskuddsstyret har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved forrige gangs behandling, og som skulle tilsi en endring av tidligere vedtak i sak 018/04 . På bakgrunn av dette kan ikke Sametingets tilskuddsstyre ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde tidligere vedtak i sak 018/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>194/04: Mienna, Berit, Karasjok kommune - Søknad om etablererstipend</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette følgende støtte til Berit Mienna, Karasjok kommune:</p>
-    <p>I Etablererstipend inntil kr 200 000.</p>
-    <p>II 75 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt, resten av tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>195/04: Gamtofta v/Arvid Skjellhaug, Sørreisa kommune - Søknad om tilleggsstøtte til kulturbaddje m/utescene, klage på vedtak i sak 021/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 021/04 og søkers brev av 16.04.04 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre viser tilsagnet gitt i sak DSE 154/03, punkt III: <em type="italic">Det kan ikke påregnes ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser. </em>Selv med en økning av kostnadene vil den offentlige finansieringen utgjøre 60 % av kostnadsoverslaget. Dette anses for å være rimelig finansieringsandel fra det offentlige. </p>
-    <p>Sametingets tilskuddsstyre kan ikke påta seg ansvaret for at søker allerede har startet med byggearbeidet, før restfinansieringen er i orden. Det er søkers ansvar å sørge for at restfinansieringen er i orden før byggearbeidet igangsettes.</p>
-    <p>På grunn av begrensede budsjettmessige rammer, må det foretas strenge prioriteringer i forvaltningen av Samisk utviklingsfonds virkemidler. Sametingets tilskuddstyre viser til at i følge Samisk utviklingsfonds finansieringsandel i enkeltprosjekter for språk- og kulturtiltak og annen næringsvirksomhet, er finansieringsandelen på inntil 20 % av kostnadsoverslaget og maksimalt kr 200 000. Søker har allerede fått det maksimale beløpet som kan gis til denne type prosjekter.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 021/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 021/04.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Saken utsettes.</p>
-    <p>Sametingets tilskuddsstyre henstiller administrasjonen så raskt som mulig å ta kontakt med Troms fylkeskommune, Sørreisa kommune og søker med sikte på å avklare mulighetene for sluttfinansiering av prosjektet og samt vurdere et økonomisk grunnlag for den fremtidige driften av anlegget.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassen's forslag</p>
-    <p>Enstemmig vedtatt</p>
-    <p>196/04: Hætta, Brith Myrseth, Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Brith Myrseth Hætta, Kautokeino kommune:</p>
-    <p>I Etablererstipend inntil kr 200 000.</p>
-    <p>II 75 % av etablererstipendet blir utbetalt når prosjektet igangsettes. Resten blir utbetalt når prosjektet er gjennomført, når utgiftene er dokumentert og når sluttrapporten foreligger.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>197/04: Buljo, Johan Henrik, Kautokeino kommune - Søknad om støtte til etablering av Árbi Sámi Siida</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre er gjort kjent med at hovedfinansieringsorganet har stilt seg negativt til å inngå med omsøkt finansieringsstøtte i prosjektet. Finansieringsgrunnlaget for realisering av prosjektet synes derfor ikke å være tilstede.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>198/04: Sámiid Duodji, Nesseby kommune - Arrangere jubileumsarrangement</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>På grunn av Samisk utviklingsfonds pressede økonomiske situasjon, kan Sametingets tilskuddsstyre ikke prioritere støtte til kulturarrangement og utarbeidelse av informasjonshefte. Fondets hovedmålsetting er å styrke næringsgrunnlaget og øke sysselsettingen innenfor fondets virkeområde.</p>
-    <p>Jarle Jonassen fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sámiid duodji, Nesseby kommune, til jubileumsarrangement og jubileumshefte:</p>
-    <p>I Tilskudd inntil kr 65 000.</p>
-    <p>II Tilsagnet blir utbetalt når prosjektet er gjennomført, utgiftene er dokumentert og når jubileumsheftet foreligger.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Det gis ikke støtte som omsøkt da lønn prosjektleder, kontorutgifter, reiseutgifter og ressurspersoner er trekt ut av kostnadsoverslaget. Denne type kostnader bør søkeren selv dekke over egen budsjettramme. I tillegg viser tilskuddsstyret til at Sámiid duodji får årlige overføringer fra Sametinget.</p>
-    <p>V Beløpet belastes post 51.1 Samisk utviklingsfond med kr 45 000 og post 52.1 Samisk kulturfond med kr 20 000.</p>
-    <p>Vedtak:</p>
-    <p>Som Jonassen's forslag</p>
-    <p>Enstemmig vedtatt</p>
-    <p>199/04: Sámiid Valáštallanlihttu-Norga/Samenes Idrettsforbund-Norge, Tana kommune - Søknad om støtte til forprosjekt innen organisasjonsutvikling</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre disponerer ikke egne midler til samiske idrettstiltak og må innenfor avsetningen til andre tiltak i Samisk kulturfond foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har ikke funnet å kunne prioritere støtte til dette prosjektet.</p>
-    <p>Sametingets tilskuddsstyre ser det imidlertid som viktig at samisk idrett og SVL-N får utviklingsmuligheter. Tilskuddsstyret viser til den prosessen som Sametinget har hatt og har i forhold til Kulturdepartement med tanke på overføring av spillemidler til samiske idrettstiltak. Videre viser tilskuddsstyret til det prosjektet som er i gang, og som SVL-N også deltar i, som har til formål å få frem en grundig dokumentasjon av samisk idrettsaktivitet. Det er tilskuddsstyrets håp at denne dokumentasjonen når den oversendes departementet skal gi seg utslag i konkrete bevilgninger til samisk idrett.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>200/04: Guovdageainnu FS spábbáčiekčanjoavku / Kautokeino IL fotballgruppa, Kautokeino kommune - Søknad om støtte</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre er positiv til at Kautokeino IL vil profilere Sametinget i forbindelse med sine fotballkamper, men tilskuddsstyret disponerer begrensede midler i forhold til stor søkermasse og må av den grunn prioritere strengt ved tildeling av midler. Tilskuddsstyret finner ikke i år å kunne prioritere støtte til slike profileringstiltak det her søkes om støtte til.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>201/04: Samisk Fotballforbund, Kautokeino kommune - Søknad om tilleggsstøtte til forbundets drift</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til at Sametingets plenum har bevilget Samisk Fotballforbund kr. 100 000 i driftsstøtte for 2004. Denne bevilgningen er gjort i forbindelse med behandlingen av sak 43/03, Sametingets budsjett for 2004. Tilskuddsstyret legger plenumsvedtaket til grunn, og kan ikke gå inn med ytterligere driftsstøtte til Samisk Fotballforbund.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>202/04: Samisk Fotballforbund, Kautokeino kommune - Søknad om prosjektstøtte til utvikling av organisasjonen</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre disponerer ikke egne midler til samiske idrettstiltak og må innenfor avsetningen til andre tiltak i Samisk kulturfond foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har ikke funnet å kunne prioritere støtte til dette prosjektet.</p>
-    <p>Sametingets tilskuddsstyre ser det imidlertid som viktig at samisk fotball og SSL får utviklingsmuligheter. Tilskuddsstyret viser til den prosessen som Sametinget har hatt og har i forhold til Kulturdepartement med tanke på overføring av spillemidler til samiske idrettstiltak. Videre viser tilskuddsstyret til det prosjektet som er i gang, og som SSL også deltar i, som har til formål å få frem en grundig dokumentasjon av samisk idrettsaktivitet. Det er tilskuddsstyrets håp at denne dokumentasjonen når den oversendes departementet skal gi seg utslag i konkrete bevilgninger til samisk idrett.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>203/04: Sámi Juristtaid Searvi, Kautokeino kommune - Søknad om driftsstøtte for 2004</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre ser positivt på at organisasjoner engasjerer seg og aktivt tar del i det som skjer i de samiske samfunn. Det er behov for ulike samiske fagorganisasjoner som kan bidra til utvikling og styrking av det samiske på alle nivå i samfunnet, men Sametinget har foreløpig ikke egne støtteordninger for fagorganisasjoner..</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>204/04: Drag Aktivitet, Tysfjord kommune - Søknad om støtte til nærmiljøanlegg</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddstyre er positiv til at det arbeides med tiltak for ungdom og som skaper trivsel og aktivitet. Men tilskuddsstyret disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak.. Av den grunn har tilskuddsstyret lagt seg til en støttepraksis som tilsier at det vanligvis ikke gis støtte til opparbeidelse av ordinære idrettsanlegg. Sametingets tilskuddsstyre ser ikke noen grunn til å fravike denne praksisen.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>205/04: Árran Julevsáme guovdásj, Tysfjord kommune - Søknad om støtte til innkjøp av unik samisk boksamling</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre synes det er positivt at søker ønsker å ta vare på og sikre en slik unik boksamling. Samtidig disponerer Sametingets tilskuddsstyre begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn prioritere strengt blant ulike tiltak. Árran lulesamisk museum mottar årlig driftsstøtte over Sametingets budsjett. Sametingets tilskuddsstyre har i tillegg i sak 098/04 gitt tilskudd til delfinansiering av basisutstillingen ved museet. Sametingets tilskuddsstyre er av den formening av museet bør kunne prioritere innkjøp av boksamlingen innenfor rammen av disse midlene, og finner ikke å kunne prioritere foreliggende søknad.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>206/04: Drag Aktivitetspark (SUS), Tysfjord kommune - Søknad om støtte til forprosjekt Aktivitetspark på Drag</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre er positiv til at det arbeides med prosjekter som kan skape aktivitet og som kan gi tilbud til ulike interessegrupper. En slik park vil utvilsomt kunne bidra til stedsutvikling og vil trekke til seg folk, ikke bare fra stedet, men også fra andre områder. Men Sametingets tilskuddsstyre disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak.. Av den grunn har tilskuddsstyret lagt seg til en støttepraksis som tilsier at det vanligvis ikke gis støtte til prosjektering og oppføring av ordinære idrettsanlegg. På bakgrunn av det som her er nevnt finner Sametingets tilskuddstyre ikke å kunne prioritere søknaden.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>207/04: Sámegiel-Berošteaddjik, Narvik kommune - Søknad om tilskudd til stedsnavnsprosjekt, klage på vedtak i sak 144/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 144/04 og søkers brev av 29.04.04 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 144/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 144/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>208/04: Kunnskapssenteret i Gildeskål, Gildeskål kommune - Søknad om tilskudd til språkprosjekt, klage på vedtak i sak 143/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 143/04 og søkers brev av 11.05.04 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Prosjekt 1 ville nok kunne bli et bra prosjekt men pga. begrensede midler finner tilskuddsstyret ikke å kunne prioritere støtte til foreliggende prosjekt.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 143/04</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>209/04: Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, søknad om støtte til terminologiarbeid, klage på vedtak i sak 064/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 064/04 og søkers brev av 30.04.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 064/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 064/04.</p>
-    <p>Olaf Eliassen og Marie Therese Gaup fremmet følgende forslag:</p>
-    <p>Sametingets tilskuddstyre tar klagen til følge og gir følgende støtte til Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, til terminologiarbeid: </p>
-    <p>I Tilskudd inntil kr 115 000. Det gies støtte kun til språkarbeid, slik at tilsagnet er mindre enn omsøkt.</p>
-    <p>II 50 % av tilsagnet utbetales når støttemottaker skriftlig har bekreftet at prosjektet er igangsatt og opplyser hvilket finansieringsgrunnlag som foreligger. Tilskuddsmottaker skal sende midlertidig rapport til språkavdelingen innen 1. oktober, da blir resten av tilsagnet utbetalt. Tilsagnsbeløp som ikke blir benyttet, skal rapporteres til Sametingets språkavdeling innen 1. september. </p>
-    <p>III For prosjektmidler skal det innen 1. februar året etter fremlegges rapport, signert av to personer, om resultatet av prosjektet, samt regnskapsoppstilling.</p>
-    <p>IV Tilskuddsmidler kan ikke overføres det påfølgende budsjettår. Ubenyttede midler skal snarest returneres Sametinget. I ekstraordinære tilfeller kan det etter søknad til Sametinget gis tillatelse til at tilskuddsmidler overføres til påfølgende budsjettår. En slik overføring er betinget av at Sametingsrådet eller dem det bemyndiger godkjenner dette.</p>
-    <p>V Terminologiprosjekter, både ved utarbeidelse av termer og ved innsamling av ord, skal følge de retningslinjer som Sametingets språkavdeling har utarbeidet for terminologiarbeid. Termer og språkmateriale som utarbeides, tilhører det samiske samfunn og skal leveres uoppfordret til Sametingets språkavdeling i elektronisk form straks prosjektet er avsluttet. Sametinget gir støtte til terminologiprosjekter med det forbehold at Sametingets språkavdeling har rett til å gi materialet til </p>
-    <p>forskning samt kunngjøre resultatene, f.eks. i Gielladieđut eller skrive de inn i Sametingets samiske orddatabank.</p>
-    <p>VI Det kan ikke påregnes ytterligere støtte til kostnadsoverskridelser.</p>
-    <p>VII Beløpet belastes post 53.22 Språkprosjekter.</p>
-    <p>Vedtak:</p>
-    <p>Eliassens og Gaups forslag ble vedtatt med 5 mot 1 stemme som ble avgitt for administrasjonens forslag.</p>
-    <p>210/04: Tana kommune - Søknad om midler til skilting av kommunale bygg, klage på vedtak i sak HG 12/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HG 012/04 og søkers brev av 06.04.04 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HG 012/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HG 012/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>211/04: Samisk videregående skole, Karasjok kommune - Søknad om midler til utarbeiding av matematikktermer</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddstyre tildeler Samisk videregående skole, Karasjok kommune prosjektmidler til språktiltak for 2004: </p>
-    <p>I Tilskudd inntil kr 99 000. Det gies kun støtte til språkarbeid.</p>
-    <p>II 50 % av tilsagnet utbetales når støttemottaker skriftlig har bekreftet at prosjektet er igangsatt og opplyser hvilket finansieringsgrunnlag som foreligger. Tilskuddsmottaker skal sende midlertidig rapport til språkavdelingen innen 1. oktober, da blir resten av tilsagnet utbetalt. Tilsagnsbeløp som ikke blir benyttet, skal rapporteres til Sametingets språkavdeling innen 1. september. </p>
-    <p>III For prosjektmidler skal det innen 1. februar året etter fremlegges rapport, signert av to personer, om resultatet av prosjektet, samt regnskapsoppstilling.</p>
-    <p>IV Tilskuddsmidler kan ikke overføres det påfølgende budsjettår. Ubenyttede midler skal snarest returneres Sametinget. I ekstraordinære tilfeller kan det etter søknad til Sametinget gis tillatelse til at tilskuddsmidler overføres til påfølgende budsjettår. En slik overføring er betinget av at Sametingsrådet eller dem det bemyndiger godkjenner dette.</p>
-    <p>V Terminologiprosjekter, både ved utarbeidelse av termer og ved innsamling av ord, skal følge de retningslinjer som Sametingets språkavdeling har utarbeidet for terminologiarbeid. Termer og språkmateriale som utarbeides, tilhører det samiske samfunn og skal leveres uoppfordret til Sametingets språkavdeling i elektronisk form straks prosjektet er avsluttet. Sametinget gir støtte til terminologiprosjekter med det forbehold at Sametingets språkavdeling har rett til å gi materialet til forskning samt kunngjøre resultatene, f.eks. i Gielladieđut eller skrive de inn i Sametingets samiske orddatabank. </p>
-    <p>VI Det kan ikke påregnes ytterligere støtte til kostnadsoverskridelser.</p>
-    <p>VII Beløpet belastes post 53.22 Språkprosjekter.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>212/04: De Samiske Samlinger, Karasjok kommune - Søknad om tilskudd til prosjekt Forbedring av bevaringsforholdene.</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre avslår med dette søknaden om midler til prosjektet <span type="quote">”Forbedring av bevaringsforholdene ved De Samiske Samlinger”</span>. Bevaringskompetanse og -forhold er oppgaver som Sametinget ønsker en sterkere satsning på. Slike oppgaver trenger imidlertid en mer permanent løsning, og må ses i forhold til de andre samiske museene. Søknaden må derfor ses i sammenheng med den pågående omorganiseringa av de samiske museene der spørsmål rundt konserveringskompetanse for de samiske museene ønskes løst.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>213/04: Pettersen Ann Sissel, Nesseby kommune - Investeringer til oppstart av bakeribedrift</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ann Sissel Pettersen, Nesseby kommune, til etablering av bakeribedrift:</p>
-    <p>I Tilskudd inntil kr 116 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I henhold til støttepraksis gis det ikke støtte til kjøp av mobile kjøretøy. Investeringsavgiften er fjernet fra kostnadsoverslaget da dette er en avviklet ordning. Som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>214/04: Prosjekt Fjellrev, Inderøy kommune - Søknad om støtte til å oversette nettsidene til sør- og nordsamisk, klage på vedtak i sak HE 093/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HE 093/04 og søkers mail av 21.05.04 med klage på vedtaket i saken.</p>
-    <p>Det forholdet at det svenske sametinget har bekostet oversettelse av en hjemmeside om liknende forhold har ingen betydning for vurdering av søknaden. Det er positivt at de gjør det, men det forplikter ikke det norske sametinget på noen som helst måte.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 093/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 093/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>215/04: Svein Olav Thomassen, Kvænangen kommune - Søknad om tilskudd til driftsbygning</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Svein Olav Thomassen, Kvænangen kommune, til bygging av driftsbygning:</p>
-    <p>I Tilskudd inntil kr 200 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Det kan ikke påregnes ytterligere støtte til driftsbygning (fjøs) de neste 10 år.</p>
-    <p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>216/04: Siri Aslak Anders N., Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets prinsipielle holdning med hensyn til retten til land og vann i samiske områder er at områdets ressurser, både over og under jorden tilhører det samiske folk. Sametingets tilskuddsstyre mener derfor at</p>
-    <p>det ikke må settes i gang leting (skjerping), undersøkelses- eller driftsvirksomhet i samiske områder før samiske rettigheter er avklart. Når det samiske folk i tråd med folkerettslige forpliktelser er sikret en nødvendig innflytelse med hensyn til naturressursene i samiske områder og de samiske rettigheter er anerkjent, vil Sametinget på bredt grunnlag vurdere i hvilken form utforskningen av mineralene i samiske områder skal finne sted.</p>
-    <p>Selv om søker er same så har dette ikke betydning for Sametingets prinsipielle holdning. Først når Sametinget har reell innflytelse på vilkårene for utvinning av mineraler kan tilskuddsstyret eventuelt gi støtte til slike prosjekter.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>217/04: Logje Per Aslak Aslaksen, Kautokeino kommune - Søknad om etablererstipend</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets prinsipielle holdning med hensyn til retten til land og vann i samiske områder er at områdets ressurser, både over og under jorden tilhører det samiske folk. Sametingets tilskuddsstyre mener derfor at det ikke må settes i gang leting (skjerping), undersøkelses- eller driftsvirksomhet i samiske områder før samiske rettigheter er avklart. Når det samiske folk i tråd med folkerettslige forpliktelser er sikret en nødvendig innflytelse med hensyn til naturressursene i samiske områder og de samiske rettigheter er anerkjent, vil Sametinget på bredt grunnlag vurdere i hvilken form utforskningen av mineralene i samiske områder skal finne sted.</p>
-    <p>Selv om søker er same så har dette ikke betydning for Sametingets prinsipielle holdning. Først når Sametinget har reell innflytelse på vilkårene for utvinning av mineraler kan Sametinget eventuelt gi støtte til slike prosjekter.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>218/04: Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune - Bygg og utstillinger ved nasjonalparksenteret</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune, til bygging av utstillingslokaler:</p>
-    <p>I Tilskudd inntil kr 100 000.</p>
-    <p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    <p>V I følge gjeldene støttepraksis gis det vanligvis ikke tilskudd til bygg i forbindelse med etablering av nasjonalparksentre. Hvis man i framtiden skal støtte lignende prosjekter skal dette kun skje i samarbeid med gjeldende fylkeskommune.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>219/04: nana, Tromsø kommune - Søknad om støtte til nana Urfolksdager i Tromsø 2004</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette nana, Tromsø kommune, tilsagn om følgende støtte til arrangementet av nana urfolksdager i Tromsø i 2004:</p>
-    <p>I Tilskudd inntil kr 75 000.</p>
-    <p>II Bevilgningen forutsettes benyttet til honorarer til samiske kunstnere og artister, til arrangementet fortellertradisjoner, samt til andel av felleskostnadene.</p>
-    <p>III Forutsetning for tilskuddet er at prosjektet oppnår tilfredsstillende finansiering. Bevilgningen er gitt på grunnlag av søknaden av 28.05.04. og korrigert søknad mottatt 01.06.04. Endring i bruken av midlene må på forhånd være godkjent av Sametinget.</p>
-    <p>IV Sametingets tilskuddsstyre disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak. På bakgrunn av dette finner ikke Sametingets tilskuddsstyre å kunne gi støtte med omsøkt beløp.</p>
-    <p>V Beløpet belastes post 52.1 Samisk kulturfond.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>220/04: Trevland a/s, Porsanger kommune - Søknad om støtte til dubbing av film, klage på vedtak i sak 173/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 173/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 173/04. For øvrig viser Tilskuddstyret til vedtak i sak 173/04 hvor det heter at;….” <em type="italic">Dubbing av film er vanligvis forbundet med store kostnader, og det er tilskuddsstyrets oppfatning at Sametinget alene ikke kan påta seg finansiering av slike prosjekter. Tilskuddsstyret vil i den forbindelse vise til at Norsk filminstitutt tidligere har finansiert slike prosjekter”. </em></p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 173/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>221/04: Trevland as, Porsanger kommune - Søknad om støtte til utgivelseav lydbok, klage på vedtak i sak 172/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 172/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 172/04. For øvrig vises det til at søker er orientert om at <em type="italic"><span type="quote">”Tilskuddstyret vil kunne vurdere en eventuell ny søknad når prosjektets innhold er mer konkretisert, og kravet om fremlagt manus er oppfylt”</span>, jfr. vedtak i sak 172/04. </em></p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 172/04</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>222/04: Foreningen Samiske Nytteplanter, Nærøy kommune - Søknad om støtte til kurs om samiske nytteplanter, klage på vedtak i sak HK 090/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HK 090/04 og søkers brev av 25.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 090/04. For øvrig viser Tilskuddstyret til begrensede midler og at det må foretas prioritering ved tildeling av disse og at omsøkt prosjekt ikke ble prioritert.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 090/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>223/04: Moskavuona NSR, Balsfjord kommune - Rekonstruering av Ullsfjordkofte, klage på vedtak i sak HK 047/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HK 047/04 og søkers brev 15.04.04 av med klage på vedtaket i saken og tilleggsopplysninger i brev av 16.04.04.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 047/04. Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 047/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>224/04: OL i Tromsø 2014, Tromsø kommune - Søknad om støtte til den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til OL i Tromsø 2014, Tromsø kommune til medfinansiering av den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014:</p>
-    <p>I Tilskudd inntil kr 300 000</p>
-    <p>II Sametinget forventer at samiske interesser blir godt ivaretatt i alle deler av det arbeidet som foregår med å planlegge og eventuelt arrangere vinter-OL i Tromsø i 2014..</p>
-    <p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
-    <p>IV Beløpet belastes post 51.1 Samisk utviklingsfond med kr. 250 000 og post 52.1 Samisk kulturfond med kr. 50 000.</p>
-    <p>Olaf Eliassen fremmet følgende forslag:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametinget har begrensede midler til nærings- og kulturutvikling i det samiske samfunnet. En prioritering av penger til OL-satsningen vil medføre mindre støtte til utvikling av samisk kultur og næring. Dersom det blir det OL i Tromsø vil det være et nasjonalt ansvar å sørge for en synliggjøring av samisk kultur og samfunn.</p>
-    <p>Vedtak:</p>
-    <p>Administrasjonens forslag ble vedtatt med 4 mot 1 stemme som ble avgitt for Eliassens forslag.</p>
-    <p>225/04: Saemien Sijte, Snåsa kommune - Søknad om støtte til utgivelse av bok om sørsamisk ornamentikk</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre disponerer begrensede midler i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har på grunnlag av dette etablert en støttepraksis som tilsier at en vanligvis ikke prioriterer støtte til utgivelse av vitenskaplige avhandlinger innenfor rammen av Samisk kulturfonds avsetning til litteratur. Tilskuddstyret er positiv til at sørsamisk duodji blir mer synliggjort, men finner likevel ikke grunnlag for å fravike fra etablert støttepraksis. Sametingets tilskuddsstyre vil anbefale søker å forsøke å finne finansiering til dette prosjektet via andre instanser.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>226/04: Ole Nikodemussen, Kvalsund kommune - Søknad om støtte til utarbeidelse av slektsleksikon for Porsanger</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre er positiv til at det utarbeides og utgis bøker med dokumentasjon av samiske slektsforhold i de forskjellige kommunene. Tilskuddsstyret disponerer imidlertid begrensede midler i forhold til stor søkermasse, og må av den grunn prioritere strengt ved tildeling av midler. Sametingets tilskuddsstyre har ikke sett seg i stand til å prioritere støtte til dette prosjektet. Tilskuddsstyret kan imidlertid vurdere en eventuell søknad om støtte til selve utgivelsen av verket når det innsamlede materialet er klar for trykking. Samtidig vil tilskuddsstyret bemerke at det i tillegg til denne søknaden foreligger enda en søknad om støtte til utarbeiding av slektsbok for Porsanger. Sametingets tilskuddsstyre vil allerede på det nåværende tidspunkt uttale at en ser det som lite formålstjenlig å kunne prioritere støtte til utgivelse av to forskjellige slektsbokverk for Porsanger, og vil komme med en anmodning til begge de to partene å vurdere det videre arbeidet med prosjektene og at en også vurderer mulighetene for en eventuell samkjøring av prosjektene.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>227/04: Wulff Geir, Porsanger kommune - Søknad om støtte til arbeidet med registrering av samiske personnavn i Porsanger</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås. </p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre er positiv til at det utarbeides og utgis bøker med dokumentasjon av samiske slektsforhold i de forskjellige kommunene. Tilskuddsstyret disponerer imidlertid begrensede midler i forhold til stor søkermasse, og må av den grunn prioritere strengt ved tildeling av midler. Sametingets tilskuddsstyre har ikke sett seg i stand til å prioritere støtte til dette prosjektet. Tilskuddsstyret kan imidlertid vurdere en eventuell søknad om støtte til selve utgivelsen av verket når det innsamlede materialet er klar for trykking. Samtidig vil tilskuddsstyret bemerke at det i tillegg til denne søknaden foreligger enda en søknad om støtte til utarbeiding av slektsbok for Porsanger. Sametingets tilskuddsstyre vil allerede på det nåværende tidspunkt uttale at en ser det som lite formålstjenlig å kunne prioritere støtte til utgivelse av to forskjellige slektsbokverk for Porsanger, og vil komme med en anmodning til begge de to partene å vurdere det videre arbeidet med prosjektene og at en også vurderer mulighetene for en eventuell samkjøring av prosjektene.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>228/04: Davvi Girji, Karasjok kommune - Søknad om støtte til samisk litteraturrådgiver</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre stiller seg positiv til ønsket om å opprette en veilederstilling for samiske forfattere. Det ville utvilsomt være en hjelp for mange og ville kunne inspirere og oppmuntre flere til å begynne å skrive. Tilskuddsstyret har i sak 025/04 fordelt forlagsstøtten til samiske forlag og har ikke andre midler til rådighet for forlagsvirksomhet. Tilskuddsstyret disponerer over begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak. På bakgrunn av det som er nevnt ovenfor, finner Sametingets tilskuddstyre ikke å kunne prioritere søknaden.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>229/04: Adalia Film AS, Sandefjord kommune - Søknad om støtte til TV-serie om design, arkitektur og livsstil</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre ser det som positivt at det lages program med fokus på samisk design og arkitektur. Det er viktig og naturlig at samisk kultur er en del av slike programmer. Her vil styret påpeke at samisk kultur ikke er bare i Finnmark og Nord-Norge, men også i Sør-Norge. Tilskuddsstyret disponerer ikke øremerkede midler til filmtiltak, og disponerer for øvrig begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har av den grunn bare unntaksvis funnet å kunne yte støtte til TV, film og videotiltak. Sametingets tilskuddsstyre finner ikke å kunne prioritere støtte til dette prosjektet, og søknaden må derfor avslås.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>230/04: Main Island Production AS, Oslo kommune - Søknad om støtte til produksjon av kortfilm Polmak i Tana</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås. </p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre ser det som positivt og ønskelig at det lages filmer hvor samisk språk blir brukt. Tilskuddsstyret disponerer ikke øremerkede midler til filmtiltak, og disponerer for øvrig begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har av den grunn bare unntaksvis funnet å kunne yte støtte til TV, film og videotiltak. Sametingets tilskuddsstyre finner ikke å kunne prioritere støtte til dette prosjektet, og søknaden må derfor avslås.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>231/04: Johansen Helge, Nordreisa kommune - Søknad om støtte til kulturfestival i Nord-Troms 2004, klage på vedtak i sak 038/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 038/04 og søkers brev av 26.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 038/04. For øvrig vises det til at Sametinget disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn prioritere strengt blant ulike tiltak.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 038/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>232/04: ČálliidLagadus, Porsanger kommune - Søkand om støtte til utgivelse av Mummi på samisk, klage på vedtak i sak 170/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 170/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak DSK 170/04. For øvrig viser Tilskuddstyret til vedtak i sak 170/04 om at <em type="italic">Sametingets tiltak som er " å arbeide for at </em><em type="italic">barnebladet Leavedolgi, kvinnebladet Gába, det kristne bladet Nuorttanaste og ungdomsmagasinet Š skal ha et økonomisk fundament som sikrer en fast utgivelse av disse publikasjonene”. </em></p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 170/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>233/04: Viktil Janne, Frosta kommune - Søknad om midler til prosjekt Samiske forhold i Midt-Norge, klage på vedtak i sak 036/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak 036/04 og søkers brev av 25.05.2004 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 036/04. Tilskuddstyret vil bemerke at søker har blitt gjort kjent med at det er etablert en støttepraksis som tilsier at det vanligvis ikke gis støtte til fysiske investeringer over Samisk kulturfond til næringsvirksomhet.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 036/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>234/04: Samitour.com, Kautokeino kommune - Søknad om støtte til videreføring av prosjektet Samisk reiseliv på nett</p>
-    <p>Forslag til vedtak:</p>
-    <p>Søknaden avslås.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til at en gikk inn med fondsstøtte til etablering av nettportalen Samitour.com, og at en ikke yter fondsstøtte til videreoppfølging av prosjekter i form av driftsstøtte. Det søkes om prosjektstøtte for 3 år frem til 2006, og at dette skal dekke kostnader bundet til markedsføring og oppdatering av internettportalen i form av en særskilt stilling. I tillegg søkes det om støtte til inntak av nye bedrifter til organisasjonen. Dette er å betrakte som bedriftsinterne kostnader som må løses over</p>
-    <p>bedriftenes eget driftsbudsjett. Dessuten vil Sametingets tilskuddsstyre vise til stor søkermasse i forhold til begrenset fondsramme som gjør at en må prioritere fondsstøtte til materielle investeringer og ikke til driftsrealterte prosjektsøknader.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>235/04: Gaup, Nils Peder I og Gaup, Inger Ellen Eira, Kautokeino kommune - Søknad om etablererstipend, klage på vedtak i sak HE 103/04</p>
-    <p>Forslag til vedtak:</p>
-    <p>Klagen tas ikke til følge.</p>
-    <p>Begrunnelse:</p>
-    <p>Sametingets tilskuddsstyre viser til vedtak i sak HE 103/04 og søkers brev av 03.06.04 med klage på vedtaket i saken.</p>
-    <p>Sametingets tilskuddsstyre viser til gjeldende støttepraksis for etablererstipend hvor det ikke gis støtte til levekostnader der personen har inntekt fra annet hold i etablererstipendperioden. Oppspart ferie og avspaseringer regnes ikke som inntektsfrie perioder. Dersom søker hadde tatt permisjon uten lønn eller redusert sin nåværende stilling, ville det vært mulig å oppnå støtte til levekostnader.</p>
-    <p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 103/04.</p>
-    <p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 103/04.</p>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>************ TILLEGGSSAK ************</p>
-    <p>236/04: Min Áigi, Karasjok kommune - Søknad om støtte til etablering av lokalkontor i Tana</p>
-    <p>Forslag til vedtak:</p>
-    <p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Min Áigi, Karasjok kommune, til etablering av lokalkontor i Tana:</p>
-    <list>
-      <p type="listitem">Tilskudd inntil kr 21 000.</p>
-      <p type="listitem">Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
-      <p type="listitem">Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
-      <p type="listitem">Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
-    </list>
-    <p>Vedtak:</p>
-    <p>Som innstillingen</p>
-    <p>Enstemmig vedtatt</p>
-    <p>
-      <em type="bold">Sametingets tilskuddsstyre - Utskrift av møtebok 4/04side </em>
-      <em type="bold">41 </em>
-      <em type="bold">av </em>
-      <em type="bold">42 </em>
-    </p>
-    <p>
-      <em type="bold">*råd/styre* - Utskrift av møtebok */*side </em>
-      <em type="bold">42 </em>
-      <em type="bold">av </em>
-      <em type="bold">42 </em>
-    </p>
-    <p>
-      <em type="bold">Sign: </em>
-      <em type="bold">_________________ /_________________ </em>
-    </p>
-    <p>
-      <em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em>
-      <em type="bold">42 </em>
-      <em type="bold">sider </em>
-    </p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-    <p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
-    <p>Telefon +47 78 47 40 00</p>
-    <p>Telefaks +47 78 47 40 90</p>
-    <p>samediggi@samediggi.no</p>
-    <p>www.samediggi.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Møteprotokoll</title><genre code="admin"/><author><person firstname="Hans Arild" lastname="Holmestrand" sex="m" born="" nationality="nor"/></author><year>2005</year><publChannel><publication><publisher>Sámediggi</publisher></publication></publChannel><wordcount>9349</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="boerre.gaup@samediggi.no"/><origFileName>ts_4_04.doc</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.4 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingets tilskuddsstyre</p>
+<p>Møtebok 4/04</p>
+<p>Tid: 16. - 17. juni 2004</p>
+<p>16.06.04: kl. 12.00 - 18.00</p>
+<p>17.06.04: kl. 09.00 - 13.00</p>
+<p>Sted: Comfort Hotel With, Tromsø</p>
+<p>Saksliste:</p>
+<p>Saksnr.</p>
+<p>Sakstittel</p>
+<p>176/04</p>
+<p>Godkjenning av innkalling og saksliste</p>
+<p>177/04</p>
+<p>Referatsaker</p>
+<p>178/04</p>
+<p>Delegasjonssaker</p>
+<p>179/04</p>
+<p>Delegering av fullmakt til administrasjonen- stipend for samisktalende studenter i rehabiliteringsfag</p>
+<p>180/04</p>
+<p>Mareli Paulsen, Tysfjord kommune - Søknad om støtte til kjøp av fiskebåt, klagepå vedtak i sak HE 087/04</p>
+<p>181/04</p>
+<p>Engen, Ellen Anette og Koht, Inge, Storfjord kommune - Søknad om støtte til kjøp av fiskfartøy</p>
+<p>182/04</p>
+<p>Kåfjord kommune - Søknad om støtte til bygging av molo</p>
+<p>183/04</p>
+<p>Heiskel Asgeir, Storfjord kommune - Søknad om støtte til ombygging og utvidelse av fjøs</p>
+<p>184/04</p>
+<p>SÁME Produkter, Karasjok kommune - Søknad om tilskudd til å føre frem strøm til produksjonsplass</p>
+<p>185/04</p>
+<p>Nofi Bygg AS, Storfjord kommune - Investeringer og bedriftsutvikling, byggevarebedrift</p>
+<p>186/04</p>
+<p>AS Lyntec, S.U.S., Kautokeino kommune - Søknad om Investeringstilskudd</p>
+<p>187/04</p>
+<p>Arctic Net AS, Karasjok kommune- Søknad om støtte - Pocket Agent versjon 2</p>
+<p>188/04</p>
+<p>SUS Løkta AS, Kåfjord kommune - Søknad om støtte til etablering av forretningssenter</p>
+<p>189/04</p>
+<p>MT SLAKT, Kautokeino kommune- Søknad om støtte til bygningsmessige investering og maskiner/utstyr</p>
+<p>190/04</p>
+<p>Álttá Sámiid Searvi, Alta kommune - Søknad om støtte til prosjektering samisk barnehage</p>
+<p>191/04</p>
+<p>Berit Inger Gaup, Alta kommune - Søknad om støtte til produktutvikling av kjøkkenredskap</p>
+<p>192/04</p>
+<p>Goahtegearret, Karasjok kommune - Søknad om utviklings- og oppbyggingstilskudd</p>
+<p>193/04</p>
+<p>Norut NIBR Finnmark, Alta kommune - Søknad om tilskudd til Helse-/renhetssertifikat for innlansfisk Klage på vedtak i sak 018/04</p>
+<p>194/04</p>
+<p>Mienna, Berit, Karasjok kommune - Søknad om etablererstipend</p>
+<p>195/04</p>
+<p>Gamtofta v/Arvid Skjellhaug, Sørreisa kommune - Søknad om tilleggsstøtte til kulturbaddje m/utescene, klagepå vedtak i sak 021/04</p>
+<p>196/04</p>
+<p>Hætta, Brith Myrseth, Kautokeino kommune - Etablererstipend</p>
+<p>197/04</p>
+<p>Buljo, Johan Henrik, Kautokeino kommune - Søknad om støtte til etablering av Árbi Sámi Siida</p>
+<p>198/04</p>
+<p>Sámiid Duodji, Nesseby kommune - Arrangere jubileumsarrangement</p>
+<p>199/04</p>
+<p>Sámiid Valáštallanlihttu-Norga/Samenes Idrettsforbund-Norge, Tana kommune - Søknad om støtte til forprosjket innen organisasjonsutvikling</p>
+<p>200/04</p>
+<p>Guovdageainnu FS spábbáčiekčanjoavku / Kautokeino IL fotballgruppa, Kautokeino kommune - Søknad om støtte</p>
+<p>201/04</p>
+<p>Samisk Fotballforbund, Kautokeino kommune - Søknad om tilleggsstøtte til forbundets drift</p>
+<p>202/04</p>
+<p>Samisk Fotballforbund, Kautokeino kommune - Søknad om prosjketstøtte til utvikling av organisasjonen</p>
+<p>203/04</p>
+<p>Sámi Juristtaid Searvi, Kautokeino kommune - Søknad om driftsstøtte for 2004</p>
+<p>204/04</p>
+<p>Drag Aktivitet, Tysfjord kommune - Søknad om støtte til nærmiljøanlegg</p>
+<p>205/04</p>
+<p>Árran Julevsáme guovdásj, Tysfjord kommune - Søknad om støtte til innkjøp av unik samisk boksamling</p>
+<p>206/04</p>
+<p>Drag Aktivitetspark (SUS), Tysfjord kommune - Søknad om støtte til forprosjekt Aktivitetspark på Drag</p>
+<p>207/04</p>
+<p>Sámegiel-Berošteaddjik, Narvik kommune - Søknad om tilskudd til stedsnavnsprosjekt, klage på vedtak i sak 144/04</p>
+<p>208/04</p>
+<p>Kunnskapssenteret i Gildeskål, Gildeskål kommune - Søknad om tilskudd til språkprosjekt, klage på vedtak i sak 143/04</p>
+<p>209/04</p>
+<p>Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, søknad om støtte til terminologiarbeid, klagepå sak 064/04</p>
+<p>210/04</p>
+<p>Tana kommune - Søknad om midler til skilting av kommunale bygg, klagepå sak HG 12/04</p>
+<p>211/04</p>
+<p>Samisk videregående skole, Karasjok kommune - Søknad om midler til utarbeiding av matematikktermer</p>
+<p>212/04</p>
+<p>De Samiske Samlinger - Karasjok kommune. Søknad om tilskudd til prosjekt - Forbedring av bevaringsforholdene.</p>
+<p>213/04</p>
+<p>Pettersen Ann Sissel, Nesseby kommune - Investeringer til oppstart av bakeribedrift</p>
+<p>214/04</p>
+<p>Prosjekt Fjellrev, Inderøy kommune - Søknad om støtte til å oversette nettsidene til sør- og nordsamisk, klage på vedtak i sak HE 093/04</p>
+<p>215/04</p>
+<p>Svein Olav Thomassen, Kvænangen kommune - Søknad om tilskudd til driftsbygning</p>
+<p>216/04</p>
+<p>Siri Aslak Anders N., Kautokeino kommune - Søknad om etablererstipend</p>
+<p>217/04</p>
+<p>Logje Per Aslak Aslaksen, Kautokeino kommune - Søknad om etablererstipend</p>
+<p>218/04</p>
+<p>Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune - Bygg og utstillinger ved nasjonalparksenteret</p>
+<p>219/04</p>
+<p>nana, Tromsø kommune - Søknad om støtte til nana Urfolksdager i Tromsø 2004</p>
+<p>220/04</p>
+<p>Trevland a/s, Porsanger kommune - Søknad om støtte til dubbing av film, klage på vedtak i sak 173/04</p>
+<p>221/04</p>
+<p>Trevland as, Porsanger kommune - Søknad om støtte til utgivelseav lydbok, klage på vedtak i sak 172/04</p>
+<p>222/04</p>
+<p>Foreningen Samiske Nytteplanter, Kolvereid kommune - Søknad om støtte til kurs om samiske nytteplanter, klage på vedtak i sak HK 090/04</p>
+<p>223/04</p>
+<p>Moskavuona NSR, Balsfjord kommune - Rekonstruering av Ullsfjordkofte, klage på vedtak i sak HK 047/04</p>
+<p>224/04</p>
+<p>OL i Tromsø 2014, Tromsø kommune - Søknad om støtte til den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014</p>
+<p>225/04</p>
+<p>Saemien Sijte, Snåsa kommune - Søknad om støtte til utgivelse av bok om sørsamisk ornamentikk</p>
+<p>226/04</p>
+<p>Ole Nikodemussen, Kvalsund kommune - Søknad om støtte til utarbeidelse av slektsleksikon for Porsanger</p>
+<p>227/04</p>
+<p>Wulff Geir, Porsanger kommune - Søknad om støtte til arbeidet med registrering av samiske personnavn i Porsanger</p>
+<p>228/04</p>
+<p>Davvi Girji, Karasjok kommune - Søknad om støtte til samisk litteraturrådgiver</p>
+<p>229/04</p>
+<p>Adalia Film AS, Sandefjord kommune - Søknad om støtte til TV-serie om design, arkitektur og livsstil</p>
+<p>230/04</p>
+<p>Main Island Production AS, Oslo kommune - Søknad om støtte til produksjon av kortfilm Polmak i Tana</p>
+<p>231/04</p>
+<p>Johansen Helge, Nordreisa kommune:Søknad om støtte til kulturfestival i Nord-Troms 2004, klage på vedtak i sak 038/04</p>
+<p>232/04</p>
+<p>ČálliidLagadus, Porsanger kommune - Søkand om støtte til utgivelse av Mummi på samisk, klage på vedtak i sak DSK 170/04</p>
+<p>233/04</p>
+<p>Viktil Janne, Frosta kommune - Søknad om midler til prosjekt Samiske forhold i Midt-Norge, klage på vedtak i sak 036/04</p>
+<p>234/04</p>
+<p>Samitour.com, Kautokeino kommune - Søknad om støtte til videreføring av prosjektet Samisk reiseliv på nett</p>
+<p>235/04</p>
+<p>Gaup, Nils Peder I og Gaup, Inger Ellen Eira, Kautokeino kommune - Søknad om etablererstipend, klage på vedtak i sak HE 103/04</p>
+<p>236/04</p>
+<p>Min Áigi, Karasjok kommune - Søknad om støtte til etablering av lokalkontor i Tana</p>
+<p>Tilstede:</p>
+<p>Jarle Jonassen, leder</p>
+<p>Marie Therese N. Gaup</p>
+<p>Ove Johnsen</p>
+<p>Olaf Eliassen</p>
+<p>Kjell Jøran Jåma, vara for Ann Kristine Sara som hadde meldt forfall til møtet.</p>
+<p>Willy Ørnebakk, permittert 17.06.04 fra kl. 09.45. Tilstede under behandling av sak 176 - 189/04, 224/04, 233 - 236/04</p>
+<p>Terje Tretnes, tilstede kun 16.06.04. Tilstede under behandling av sak 177 - 189/04, 191 - 197/04, 213 - 218/04 og 233 - 236/04.</p>
+<p>Fra administrasjonen</p>
+<p>Per Anders Bær, underdirektør</p>
+<p>Hans Arild Holmestrand, førstekonsulent</p>
+<p>Inga Hætta Skarvik, førstekonsulent, tilstede 17.06.04</p>
+<p>Jon Meløy, avdelingsdirektør, tilstede 17.06.04</p>
+<p>176/04: Godkjenning av innkalling og saksliste</p>
+<p>Forslag til vedtak::</p>
+<p>Innkallingen og sakslista med tilleggssaker godkjennes.</p>
+<p>Vedtak:</p>
+<p>Innkallingen og sakslista med tilleggssaker godkjennes.</p>
+<p>Enstemmig vedtatt</p>
+<p>177/04: Referatsaker</p>
+<p>Forslag til vedtak::</p>
+<p>Referatsakene tas til etterretning slik de foreligger.</p>
+<p>Vedtak:</p>
+<p>På henvendelse fra Min Áigi om å se sakene 149/04 og 150/04 i investeringssammenheng og dermed godkjenne reduserte investeringer som grunnlag for utbetaling av hele tilskuddet i sak 150/04 ble ikke etterkommet.</p>
+<p>Øvrige referatsaker ble tatt til etterretning.</p>
+<p>178/04: Delegasjonssaker</p>
+<p>Forslag til vedtak::</p>
+<p>Administrative vedtak tas til orientering slik de foreligger.</p>
+<p>Vedtak:</p>
+<p>Delegasjonssakene ble tatt til etterretning.</p>
+<p>179/04: Delegering av fullmakt til administrasjonen- stipend for samisktalende studenter i rehabiliteringsfag</p>
+<p>Forslag til vedtak::</p>
+<p>Sametingets tilskuddsstyre gir administrasjonen fullmakt til å treffe avgjørelser i tildeling av stipend til samisktalende fagfolk som tar utdanning innen rehabiliteringsfag:</p>
+<p>I Administrasjonen delegeres myndighet til å gi stipend på inntil kr. 50 000 i saker som er klart innenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
+<p>II Administrasjonen gis fullmakt til å avslå søknader som er klart utenfor retningslinjene, som ikke volder særlig tvil og som ikke er av prinsipiell karakter.</p>
+<p>III Klage på administrative vedtak forelegges Sametingets tilskuddsstyre til behandling.</p>
+<p>IV Oversikt over de avgjørelser som fattes av administrasjonen legges frem for tilskuddsstyret til orientering.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>180/04: Mareli Paulsen, Tysfjord kommune - Søknad om støtte til kjøp av fiskebåt, klage på vedtak i sak HE 087/04</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre tar klagen til følge og gir med dette tilsagn om følgende støtte til Mareli Paulsen, Tysfjord kommune, til kjøp av fiskefartøy:</p>
+<p>I Tilskudd inntil kr 83 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>181/04: Engen, Ellen Anette og Koht, Inge, Storfjord kommune - Søknad om støtte til kjøp av fiskfartøy</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ellen Annett Engen og Inge Koht, Storfjord kommune, til kjøp av fiskefartøy (nybygg):</p>
+<p>I Tilskudd inntil kr 190 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Tilskuddsstyret gjør søker oppmerksom på at det kan ytes tilskudd maksimalt kr 250 000 til kjøp av nybygg. For øvrig viser tilskuddsstyret til at båten det ble gitt tilskudd til i sak R 052/00 skal selges, slik at tilskuddet reduseres med kr 60 000 jf. standardvilkår for Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>182/04: Kåfjord kommune - Søknad om støtte til bygging av molo</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Kåfjord kommune, til bygging av molo i Olderdalen:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>V Tilskuddet er redusert i forhold omsøkt da det i henhold til etablert støttepraksis kan gis maksimalt kr 200 000 i tilskudd til bygging av molo.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Willy Ørnebakk fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Kåfjord kommune, til bygging av molo i Olderdalen:</p>
+<p>I Tilskudd inntil kr 300 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Administrasjonens forslag ble vedtatt med 5 mot 2 stemmer som ble avgitt for Ørnebakk's forslag</p>
+<p>183/04: Heiskel Asgeir, Storfjord kommune - Søknad om støtte til ombygging og utvidelse av fjøs</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Asgeir Heiskel, Storfjord kommune, til ombygging og utvidelse av fjøs:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Det kan ikke påregnes ytterligere støtte til fjøs de neste 10-årene.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>184/04: SÁME Produkter, Karasjok kommune - Søknad om tilskudd til å føre frem strøm til produksjonsplass</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre har stor forståelse for at du ønsker å føre fram strøm til vedproduksjonsplassen i Sohparjohka. Tilskuddsstyre kan imidlertid ikke prioritere støtte til denne type tiltak</p>
+<p>pga. begrensede budsjettrammmer i forhold til søknadsmassen. Tilskuddsstyre må prioritere strengt hvilke tiltak man skal prioritere, og vurdere hver sak nøye ut i fra gjeldende støttepraksis. En endring av denne støttepraksisen kan medføre store økonomiske konsekvenser for Samisk utviklingsfond.</p>
+<p>På bakgrunn av ovennevnte finner Sametingets tilskuddsstyre ikke å kunne prioritere foreliggende søknad.</p>
+<p>Terje Tretnes fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sáme produkter v/Karen M. Rasmus, Karasjok kommune, til fremføring av strøm til produksjonsplass i Sohparjohka:</p>
+<p>I Tilskudd inntil kr 25 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Administrasjonens forslag ble vedtatt med 5 mot 1 stemme som ble avgitt for Tretnes' forslag</p>
+<p>185/04: Nofi Bygg AS, Storfjord kommune - Investeringer og bedriftsutvikling, byggevarebedrift</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Nofi Bygg AS, Storfjord kommune, til investeringer og bedriftsutvikling:</p>
+<p>I Investeringstilskudd inntil kr 75 000.</p>
+<p>II Bedriftsutviklingstilskudd inntil kr 38 000.</p>
+<p>III Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>IV Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>VI I henhold til støttepraksis gis det ikke støtte til lønnsutgifter eller til kjøp av truck, og av denne grunn finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>186/04: AS Lyntec, S.U.S., Kautokeino kommune - Søknad om Investeringstilskudd</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til AS Lyntec SUS, Kautokeino kommune, til investeringer:</p>
+<p>I Tilskudd inntil kr 156 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>187/04: Arctic Net AS, Karasjok kommune - Søknad om støtte - Pocket Agent versjon 2</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Artic Net AS, Karasjok kommune, til utvikling av programmet Pocket Agent versjon 2:</p>
+<p>I Tilskudd inntil kr 160 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>188/04: SUS Løkta AS, Kåfjord kommune - Søknad om støtte til etablering av forretningssenter</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til S.u.s. Løkta AS, Kåfjord kommune, til etablering av nytt forretningsbygg:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>189/04: MT SLAKT, Kautokeino kommune- Søknad om støtte til bygningsmessige investering og maskiner/utstyr</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til MT Slakt, Kautokeino kommune, til investeringer i bygg og maskiner/utstyr for etablering av mottaksanlegg for innlandsfisk:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Tilskuddet er redusert i forhold til søknaden pga. at det i denne type tiltak kan ytes maksimalt kr 200 000. For øvrig må Sametingets tilskuddsstyre prioritere strengt mellom prosjektene pga. begrensede budsjettrammer i forhold til søknadsmassen</p>
+<p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>190/04: Álttá Sámiid Searvi, Alta kommune - Søknad om støtte til prosjektering samisk barnehage</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Álttá Sámiid Searvi, Alta kommune, til prosjektering av samisk barnehage/samisk hus i Alta:</p>
+<p>I Tilskudd inntil kr 262 000.</p>
+<p>II 50 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt. Resterende del utbetales når restfinansieringen er løst, prosjektet er gjennomført og når prosjektregnskap foreligger.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V Resttilsagnet på kr 62 000 gitt i sak DSE 241/03 inngår i støttebeløpet og trekkes herved tilbake.</p>
+<p>VI Sametingets tilskuddsstyre finner å kunne støtte prosjektet da barnehage/samisk hus vil ha stor betydning i arbeidet med samisk språk og kultur i Alta kommune.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Alta sámiid searvi, Alta kommune, til prosjektering av samisk barnehage/samisk hus i Alta:</p>
+<p>I Tilskudd inntil kr 101 000.</p>
+<p>II 50 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt og restfinansiering er løst. Resterende del utbetales når prosjektet er gjennomført og når prosjektregnskap foreligger.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Sametingets tilskuddsstyre viser til at det vanligvis ikke ytes støtte til prosjekteringer av barnehager, men finner å kunne støtte prosjektet da barnehage/samisk hus vil ha stor betydning i arbeidet med samisk språk og kultur i Alta kommune.</p>
+<p>V Sametingets tilskuddsstyre legger skisse- og forprosjektet til grunn for støtten. Kostnadene til hovedprosjektet og oppfølgingen er trukket ut av kostnadsgrunnlaget da disse kostnadene hører til byggeprosjektet.</p>
+<p>VI Resttilsagnet på kr 62 000 gitt i sak DSE 241/03 inngår i støttebeløpet og trekkes herved tilbake.</p>
+<p>VII Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som Jonassen's forslag</p>
+<p>Enstemmig vedtatt</p>
+<p>191/04: Berit Inger Gaup, Alta kommune - Søknad om støtte til produktutvikling av kjøkkenredskap</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til at søker er bosatt utenfor Samisk utviklingsfonds geografiske virkeområde, og finner ikke at prosjektet er av en slik karakter at en kan fravike ordinær støttepraksis . Skal en gå inn med støtte til produktutvikling må en kunne redegjøre for produksjons- og sysselsettingseffekt i de samiske bosettingsområdene. I dette tilfellet synes det at eventuell produksjon av dette nye produktet ikke vil oppfylle en slik målsetting.</p>
+<p>På grunnalg av dette finner ikke Sametingets tilskuddsstyre å prioritere fondsstøtte til foreliggende søknad.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>192/04: Goahtegearret, Karasjok kommune - Søknad om utviklings- og oppbyggingstilskudd</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre viser til administrasjonens vedtak i sak HE 107/04, og gir med dette i tillegg tilsagn om følgende driftsstøtte til Goahtegearret/Samenes naturressursforbund, Karasjok kommune:</p>
+<p>I Tilskudd inntil kr 125 000.</p>
+<p>II Tilsagnet kan utbetales når vi har mottatt virksomhetsplan for 2005, halvårsregnskapet for 2004 og revidert regnskap for 2003.</p>
+<p>III Det gis ikke ytterligere støtte til andre prosjekter i 2004 eller til eventuelle kostnadsoverskridelser. Kostnadsoverslaget kan ikke fravikes med mer enn +/-10 %.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>193/04: Norut NIBR Finnmark, Alta kommune - Søknad om tilskudd til Helse-/renhetssertifikat for innlandsfisk, klage på vedtak i sak 018/04</p>
+<p>Forslag til vedtak::</p>
+<p>Klagen tas ikke til følge:</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 018/04 og klage av 19.04.04.</p>
+<p>Tilskuddsstyret er enig med klageren i at Innlandsfiskeprosjektet ikke skal vurdere de forhold som helse- og renhetsprosjektet skal undersøke. Tilskuddsstyret mener at de tiltak som Innlandsfiskeprosjektet skal gjennomføre har større betydning for å få en lønnsom innlandsfiskenæring enn det prosjektet som klageren skal gjennomføre har. I denne sammenheng viser tilskuddsstyret til vedtaket i sak 18/04.</p>
+<p>Sametingets tilskuddsstyret har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved forrige gangs behandling, og som skulle tilsi en endring av tidligere vedtak i sak 018/04 . På bakgrunn av dette kan ikke Sametingets tilskuddsstyre ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde tidligere vedtak i sak 018/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>194/04: Mienna, Berit, Karasjok kommune - Søknad om etablererstipend</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette følgende støtte til Berit Mienna, Karasjok kommune:</p>
+<p>I Etablererstipend inntil kr 200 000.</p>
+<p>II 75 % av tilsagnet blir utbetalt når prosjektet er dokumentert igangsatt, resten av tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>195/04: Gamtofta v/Arvid Skjellhaug, Sørreisa kommune - Søknad om tilleggsstøtte til kulturbaddje m/utescene, klage på vedtak i sak 021/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 021/04 og søkers brev av 16.04.04 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre viser tilsagnet gitt i sak DSE 154/03, punkt III: <em type="italic">Det kan ikke påregnes ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser. </em>Selv med en økning av kostnadene vil den offentlige finansieringen utgjøre 60 % av kostnadsoverslaget. Dette anses for å være rimelig finansieringsandel fra det offentlige. </p>
+<p>Sametingets tilskuddsstyre kan ikke påta seg ansvaret for at søker allerede har startet med byggearbeidet, før restfinansieringen er i orden. Det er søkers ansvar å sørge for at restfinansieringen er i orden før byggearbeidet igangsettes.</p>
+<p>På grunn av begrensede budsjettmessige rammer, må det foretas strenge prioriteringer i forvaltningen av Samisk utviklingsfonds virkemidler. Sametingets tilskuddstyre viser til at i følge Samisk utviklingsfonds finansieringsandel i enkeltprosjekter for språk- og kulturtiltak og annen næringsvirksomhet, er finansieringsandelen på inntil 20 % av kostnadsoverslaget og maksimalt kr 200 000. Søker har allerede fått det maksimale beløpet som kan gis til denne type prosjekter.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 021/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 021/04.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Saken utsettes.</p>
+<p>Sametingets tilskuddsstyre henstiller administrasjonen så raskt som mulig å ta kontakt med Troms fylkeskommune, Sørreisa kommune og søker med sikte på å avklare mulighetene for sluttfinansiering av prosjektet og samt vurdere et økonomisk grunnlag for den fremtidige driften av anlegget.</p>
+<p>Vedtak:</p>
+<p>Som Jonassen's forslag</p>
+<p>Enstemmig vedtatt</p>
+<p>196/04: Hætta, Brith Myrseth, Kautokeino kommune - Søknad om etablererstipend</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Brith Myrseth Hætta, Kautokeino kommune:</p>
+<p>I Etablererstipend inntil kr 200 000.</p>
+<p>II 75 % av etablererstipendet blir utbetalt når prosjektet igangsettes. Resten blir utbetalt når prosjektet er gjennomført, når utgiftene er dokumentert og når sluttrapporten foreligger.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>197/04: Buljo, Johan Henrik, Kautokeino kommune - Søknad om støtte til etablering av Árbi Sámi Siida</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre er gjort kjent med at hovedfinansieringsorganet har stilt seg negativt til å inngå med omsøkt finansieringsstøtte i prosjektet. Finansieringsgrunnlaget for realisering av prosjektet synes derfor ikke å være tilstede.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>198/04: Sámiid Duodji, Nesseby kommune - Arrangere jubileumsarrangement</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>På grunn av Samisk utviklingsfonds pressede økonomiske situasjon, kan Sametingets tilskuddsstyre ikke prioritere støtte til kulturarrangement og utarbeidelse av informasjonshefte. Fondets hovedmålsetting er å styrke næringsgrunnlaget og øke sysselsettingen innenfor fondets virkeområde.</p>
+<p>Jarle Jonassen fremmet følgende forslag:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Sámiid duodji, Nesseby kommune, til jubileumsarrangement og jubileumshefte:</p>
+<p>I Tilskudd inntil kr 65 000.</p>
+<p>II Tilsagnet blir utbetalt når prosjektet er gjennomført, utgiftene er dokumentert og når jubileumsheftet foreligger.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Det gis ikke støtte som omsøkt da lønn prosjektleder, kontorutgifter, reiseutgifter og ressurspersoner er trekt ut av kostnadsoverslaget. Denne type kostnader bør søkeren selv dekke over egen budsjettramme. I tillegg viser tilskuddsstyret til at Sámiid duodji får årlige overføringer fra Sametinget.</p>
+<p>V Beløpet belastes post 51.1 Samisk utviklingsfond med kr 45 000 og post 52.1 Samisk kulturfond med kr 20 000.</p>
+<p>Vedtak:</p>
+<p>Som Jonassen's forslag</p>
+<p>Enstemmig vedtatt</p>
+<p>199/04: Sámiid Valáštallanlihttu-Norga/Samenes Idrettsforbund-Norge, Tana kommune - Søknad om støtte til forprosjekt innen organisasjonsutvikling</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre disponerer ikke egne midler til samiske idrettstiltak og må innenfor avsetningen til andre tiltak i Samisk kulturfond foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har ikke funnet å kunne prioritere støtte til dette prosjektet.</p>
+<p>Sametingets tilskuddsstyre ser det imidlertid som viktig at samisk idrett og SVL-N får utviklingsmuligheter. Tilskuddsstyret viser til den prosessen som Sametinget har hatt og har i forhold til Kulturdepartement med tanke på overføring av spillemidler til samiske idrettstiltak. Videre viser tilskuddsstyret til det prosjektet som er i gang, og som SVL-N også deltar i, som har til formål å få frem en grundig dokumentasjon av samisk idrettsaktivitet. Det er tilskuddsstyrets håp at denne dokumentasjonen når den oversendes departementet skal gi seg utslag i konkrete bevilgninger til samisk idrett.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>200/04: Guovdageainnu FS spábbáčiekčanjoavku / Kautokeino IL fotballgruppa, Kautokeino kommune - Søknad om støtte</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre er positiv til at Kautokeino IL vil profilere Sametinget i forbindelse med sine fotballkamper, men tilskuddsstyret disponerer begrensede midler i forhold til stor søkermasse og må av den grunn prioritere strengt ved tildeling av midler. Tilskuddsstyret finner ikke i år å kunne prioritere støtte til slike profileringstiltak det her søkes om støtte til.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>201/04: Samisk Fotballforbund, Kautokeino kommune - Søknad om tilleggsstøtte til forbundets drift</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til at Sametingets plenum har bevilget Samisk Fotballforbund kr. 100 000 i driftsstøtte for 2004. Denne bevilgningen er gjort i forbindelse med behandlingen av sak 43/03, Sametingets budsjett for 2004. Tilskuddsstyret legger plenumsvedtaket til grunn, og kan ikke gå inn med ytterligere driftsstøtte til Samisk Fotballforbund.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>202/04: Samisk Fotballforbund, Kautokeino kommune - Søknad om prosjektstøtte til utvikling av organisasjonen</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre disponerer ikke egne midler til samiske idrettstiltak og må innenfor avsetningen til andre tiltak i Samisk kulturfond foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har ikke funnet å kunne prioritere støtte til dette prosjektet.</p>
+<p>Sametingets tilskuddsstyre ser det imidlertid som viktig at samisk fotball og SSL får utviklingsmuligheter. Tilskuddsstyret viser til den prosessen som Sametinget har hatt og har i forhold til Kulturdepartement med tanke på overføring av spillemidler til samiske idrettstiltak. Videre viser tilskuddsstyret til det prosjektet som er i gang, og som SSL også deltar i, som har til formål å få frem en grundig dokumentasjon av samisk idrettsaktivitet. Det er tilskuddsstyrets håp at denne dokumentasjonen når den oversendes departementet skal gi seg utslag i konkrete bevilgninger til samisk idrett.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>203/04: Sámi Juristtaid Searvi, Kautokeino kommune - Søknad om driftsstøtte for 2004</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre ser positivt på at organisasjoner engasjerer seg og aktivt tar del i det som skjer i de samiske samfunn. Det er behov for ulike samiske fagorganisasjoner som kan bidra til utvikling og styrking av det samiske på alle nivå i samfunnet, men Sametinget har foreløpig ikke egne støtteordninger for fagorganisasjoner..</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>204/04: Drag Aktivitet, Tysfjord kommune - Søknad om støtte til nærmiljøanlegg</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddstyre er positiv til at det arbeides med tiltak for ungdom og som skaper trivsel og aktivitet. Men tilskuddsstyret disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak.. Av den grunn har tilskuddsstyret lagt seg til en støttepraksis som tilsier at det vanligvis ikke gis støtte til opparbeidelse av ordinære idrettsanlegg. Sametingets tilskuddsstyre ser ikke noen grunn til å fravike denne praksisen.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>205/04: Árran Julevsáme guovdásj, Tysfjord kommune - Søknad om støtte til innkjøp av unik samisk boksamling</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre synes det er positivt at søker ønsker å ta vare på og sikre en slik unik boksamling. Samtidig disponerer Sametingets tilskuddsstyre begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn prioritere strengt blant ulike tiltak. Árran lulesamisk museum mottar årlig driftsstøtte over Sametingets budsjett. Sametingets tilskuddsstyre har i tillegg i sak 098/04 gitt tilskudd til delfinansiering av basisutstillingen ved museet. Sametingets tilskuddsstyre er av den formening av museet bør kunne prioritere innkjøp av boksamlingen innenfor rammen av disse midlene, og finner ikke å kunne prioritere foreliggende søknad.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>206/04: Drag Aktivitetspark (SUS), Tysfjord kommune - Søknad om støtte til forprosjekt Aktivitetspark på Drag</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre er positiv til at det arbeides med prosjekter som kan skape aktivitet og som kan gi tilbud til ulike interessegrupper. En slik park vil utvilsomt kunne bidra til stedsutvikling og vil trekke til seg folk, ikke bare fra stedet, men også fra andre områder. Men Sametingets tilskuddsstyre disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak.. Av den grunn har tilskuddsstyret lagt seg til en støttepraksis som tilsier at det vanligvis ikke gis støtte til prosjektering og oppføring av ordinære idrettsanlegg. På bakgrunn av det som her er nevnt finner Sametingets tilskuddstyre ikke å kunne prioritere søknaden.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>207/04: Sámegiel-Berošteaddjik, Narvik kommune - Søknad om tilskudd til stedsnavnsprosjekt, klage på vedtak i sak 144/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 144/04 og søkers brev av 29.04.04 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 144/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 144/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>208/04: Kunnskapssenteret i Gildeskål, Gildeskål kommune - Søknad om tilskudd til språkprosjekt, klage på vedtak i sak 143/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 143/04 og søkers brev av 11.05.04 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Prosjekt 1 ville nok kunne bli et bra prosjekt men pga. begrensede midler finner tilskuddsstyret ikke å kunne prioritere støtte til foreliggende prosjekt.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 143/04</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>209/04: Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, søknad om støtte til terminologiarbeid, klage på vedtak i sak 064/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 064/04 og søkers brev av 30.04.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 064/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 064/04.</p>
+<p>Olaf Eliassen og Marie Therese Gaup fremmet følgende forslag:</p>
+<p>Sametingets tilskuddstyre tar klagen til følge og gir følgende støtte til Finnmark på nett v/Alta utviklingsselskap AS, Alta kommune - prosjekt Tospråklig dokumenthotell, til terminologiarbeid: </p>
+<p>I Tilskudd inntil kr 115 000. Det gies støtte kun til språkarbeid, slik at tilsagnet er mindre enn omsøkt.</p>
+<p>II 50 % av tilsagnet utbetales når støttemottaker skriftlig har bekreftet at prosjektet er igangsatt og opplyser hvilket finansieringsgrunnlag som foreligger. Tilskuddsmottaker skal sende midlertidig rapport til språkavdelingen innen 1. oktober, da blir resten av tilsagnet utbetalt. Tilsagnsbeløp som ikke blir benyttet, skal rapporteres til Sametingets språkavdeling innen 1. september. </p>
+<p>III For prosjektmidler skal det innen 1. februar året etter fremlegges rapport, signert av to personer, om resultatet av prosjektet, samt regnskapsoppstilling.</p>
+<p>IV Tilskuddsmidler kan ikke overføres det påfølgende budsjettår. Ubenyttede midler skal snarest returneres Sametinget. I ekstraordinære tilfeller kan det etter søknad til Sametinget gis tillatelse til at tilskuddsmidler overføres til påfølgende budsjettår. En slik overføring er betinget av at Sametingsrådet eller dem det bemyndiger godkjenner dette.</p>
+<p>V Terminologiprosjekter, både ved utarbeidelse av termer og ved innsamling av ord, skal følge de retningslinjer som Sametingets språkavdeling har utarbeidet for terminologiarbeid. Termer og språkmateriale som utarbeides, tilhører det samiske samfunn og skal leveres uoppfordret til Sametingets språkavdeling i elektronisk form straks prosjektet er avsluttet. Sametinget gir støtte til terminologiprosjekter med det forbehold at Sametingets språkavdeling har rett til å gi materialet til </p>
+<p>forskning samt kunngjøre resultatene, f.eks. i Gielladieđut eller skrive de inn i Sametingets samiske orddatabank.</p>
+<p>VI Det kan ikke påregnes ytterligere støtte til kostnadsoverskridelser.</p>
+<p>VII Beløpet belastes post 53.22 Språkprosjekter.</p>
+<p>Vedtak:</p>
+<p>Eliassens og Gaups forslag ble vedtatt med 5 mot 1 stemme som ble avgitt for administrasjonens forslag.</p>
+<p>210/04: Tana kommune - Søknad om midler til skilting av kommunale bygg, klage på vedtak i sak HG 12/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HG 012/04 og søkers brev av 06.04.04 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HG 012/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HG 012/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>211/04: Samisk videregående skole, Karasjok kommune - Søknad om midler til utarbeiding av matematikktermer</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddstyre tildeler Samisk videregående skole, Karasjok kommune prosjektmidler til språktiltak for 2004: </p>
+<p>I Tilskudd inntil kr 99 000. Det gies kun støtte til språkarbeid.</p>
+<p>II 50 % av tilsagnet utbetales når støttemottaker skriftlig har bekreftet at prosjektet er igangsatt og opplyser hvilket finansieringsgrunnlag som foreligger. Tilskuddsmottaker skal sende midlertidig rapport til språkavdelingen innen 1. oktober, da blir resten av tilsagnet utbetalt. Tilsagnsbeløp som ikke blir benyttet, skal rapporteres til Sametingets språkavdeling innen 1. september. </p>
+<p>III For prosjektmidler skal det innen 1. februar året etter fremlegges rapport, signert av to personer, om resultatet av prosjektet, samt regnskapsoppstilling.</p>
+<p>IV Tilskuddsmidler kan ikke overføres det påfølgende budsjettår. Ubenyttede midler skal snarest returneres Sametinget. I ekstraordinære tilfeller kan det etter søknad til Sametinget gis tillatelse til at tilskuddsmidler overføres til påfølgende budsjettår. En slik overføring er betinget av at Sametingsrådet eller dem det bemyndiger godkjenner dette.</p>
+<p>V Terminologiprosjekter, både ved utarbeidelse av termer og ved innsamling av ord, skal følge de retningslinjer som Sametingets språkavdeling har utarbeidet for terminologiarbeid. Termer og språkmateriale som utarbeides, tilhører det samiske samfunn og skal leveres uoppfordret til Sametingets språkavdeling i elektronisk form straks prosjektet er avsluttet. Sametinget gir støtte til terminologiprosjekter med det forbehold at Sametingets språkavdeling har rett til å gi materialet til forskning samt kunngjøre resultatene, f.eks. i Gielladieđut eller skrive de inn i Sametingets samiske orddatabank. </p>
+<p>VI Det kan ikke påregnes ytterligere støtte til kostnadsoverskridelser.</p>
+<p>VII Beløpet belastes post 53.22 Språkprosjekter.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>212/04: De Samiske Samlinger, Karasjok kommune - Søknad om tilskudd til prosjekt Forbedring av bevaringsforholdene.</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre avslår med dette søknaden om midler til prosjektet <span type="quote">”Forbedring av bevaringsforholdene ved De Samiske Samlinger”</span>. Bevaringskompetanse og -forhold er oppgaver som Sametinget ønsker en sterkere satsning på. Slike oppgaver trenger imidlertid en mer permanent løsning, og må ses i forhold til de andre samiske museene. Søknaden må derfor ses i sammenheng med den pågående omorganiseringa av de samiske museene der spørsmål rundt konserveringskompetanse for de samiske museene ønskes løst.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>213/04: Pettersen Ann Sissel, Nesseby kommune - Investeringer til oppstart av bakeribedrift</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Ann Sissel Pettersen, Nesseby kommune, til etablering av bakeribedrift:</p>
+<p>I Tilskudd inntil kr 116 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I henhold til støttepraksis gis det ikke støtte til kjøp av mobile kjøretøy. Investeringsavgiften er fjernet fra kostnadsoverslaget da dette er en avviklet ordning. Som følge av Samisk utviklingsfonds begrensede midler finner en ikke å kunne innvilge tilsagnet som omsøkt.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>214/04: Prosjekt Fjellrev, Inderøy kommune - Søknad om støtte til å oversette nettsidene til sør- og nordsamisk, klage på vedtak i sak HE 093/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HE 093/04 og søkers mail av 21.05.04 med klage på vedtaket i saken.</p>
+<p>Det forholdet at det svenske sametinget har bekostet oversettelse av en hjemmeside om liknende forhold har ingen betydning for vurdering av søknaden. Det er positivt at de gjør det, men det forplikter ikke det norske sametinget på noen som helst måte.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 093/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 093/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>215/04: Svein Olav Thomassen, Kvænangen kommune - Søknad om tilskudd til driftsbygning</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Svein Olav Thomassen, Kvænangen kommune, til bygging av driftsbygning:</p>
+<p>I Tilskudd inntil kr 200 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Det kan ikke påregnes ytterligere støtte til driftsbygning (fjøs) de neste 10 år.</p>
+<p>V Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>216/04: Siri Aslak Anders N., Kautokeino kommune - Søknad om etablererstipend</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets prinsipielle holdning med hensyn til retten til land og vann i samiske områder er at områdets ressurser, både over og under jorden tilhører det samiske folk. Sametingets tilskuddsstyre mener derfor at</p>
+<p>det ikke må settes i gang leting (skjerping), undersøkelses- eller driftsvirksomhet i samiske områder før samiske rettigheter er avklart. Når det samiske folk i tråd med folkerettslige forpliktelser er sikret en nødvendig innflytelse med hensyn til naturressursene i samiske områder og de samiske rettigheter er anerkjent, vil Sametinget på bredt grunnlag vurdere i hvilken form utforskningen av mineralene i samiske områder skal finne sted.</p>
+<p>Selv om søker er same så har dette ikke betydning for Sametingets prinsipielle holdning. Først når Sametinget har reell innflytelse på vilkårene for utvinning av mineraler kan tilskuddsstyret eventuelt gi støtte til slike prosjekter.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>217/04: Logje Per Aslak Aslaksen, Kautokeino kommune - Søknad om etablererstipend</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets prinsipielle holdning med hensyn til retten til land og vann i samiske områder er at områdets ressurser, både over og under jorden tilhører det samiske folk. Sametingets tilskuddsstyre mener derfor at det ikke må settes i gang leting (skjerping), undersøkelses- eller driftsvirksomhet i samiske områder før samiske rettigheter er avklart. Når det samiske folk i tråd med folkerettslige forpliktelser er sikret en nødvendig innflytelse med hensyn til naturressursene i samiske områder og de samiske rettigheter er anerkjent, vil Sametinget på bredt grunnlag vurdere i hvilken form utforskningen av mineralene i samiske områder skal finne sted.</p>
+<p>Selv om søker er same så har dette ikke betydning for Sametingets prinsipielle holdning. Først når Sametinget har reell innflytelse på vilkårene for utvinning av mineraler kan Sametinget eventuelt gi støtte til slike prosjekter.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>218/04: Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune - Bygg og utstillinger ved nasjonalparksenteret</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Stiftelsen Femundsmarka Nasjonalparksenter, Engerdal kommune, til bygging av utstillingslokaler:</p>
+<p>I Tilskudd inntil kr 100 000.</p>
+<p>II Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+<p>V I følge gjeldene støttepraksis gis det vanligvis ikke tilskudd til bygg i forbindelse med etablering av nasjonalparksentre. Hvis man i framtiden skal støtte lignende prosjekter skal dette kun skje i samarbeid med gjeldende fylkeskommune.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>219/04: nana, Tromsø kommune - Søknad om støtte til nana Urfolksdager i Tromsø 2004</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette nana, Tromsø kommune, tilsagn om følgende støtte til arrangementet av nana urfolksdager i Tromsø i 2004:</p>
+<p>I Tilskudd inntil kr 75 000.</p>
+<p>II Bevilgningen forutsettes benyttet til honorarer til samiske kunstnere og artister, til arrangementet fortellertradisjoner, samt til andel av felleskostnadene.</p>
+<p>III Forutsetning for tilskuddet er at prosjektet oppnår tilfredsstillende finansiering. Bevilgningen er gitt på grunnlag av søknaden av 28.05.04. og korrigert søknad mottatt 01.06.04. Endring i bruken av midlene må på forhånd være godkjent av Sametinget.</p>
+<p>IV Sametingets tilskuddsstyre disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak. På bakgrunn av dette finner ikke Sametingets tilskuddsstyre å kunne gi støtte med omsøkt beløp.</p>
+<p>V Beløpet belastes post 52.1 Samisk kulturfond.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>220/04: Trevland a/s, Porsanger kommune - Søknad om støtte til dubbing av film, klage på vedtak i sak 173/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 173/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 173/04. For øvrig viser Tilskuddstyret til vedtak i sak 173/04 hvor det heter at;….” <em type="italic">Dubbing av film er vanligvis forbundet med store kostnader, og det er tilskuddsstyrets oppfatning at Sametinget alene ikke kan påta seg finansiering av slike prosjekter. Tilskuddsstyret vil i den forbindelse vise til at Norsk filminstitutt tidligere har finansiert slike prosjekter”. </em></p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 173/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>221/04: Trevland as, Porsanger kommune - Søknad om støtte til utgivelseav lydbok, klage på vedtak i sak 172/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 172/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 172/04. For øvrig vises det til at søker er orientert om at <em type="italic"><span type="quote">”Tilskuddstyret vil kunne vurdere en eventuell ny søknad når prosjektets innhold er mer konkretisert, og kravet om fremlagt manus er oppfylt”</span>, jfr. vedtak i sak 172/04. </em></p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 172/04</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>222/04: Foreningen Samiske Nytteplanter, Nærøy kommune - Søknad om støtte til kurs om samiske nytteplanter, klage på vedtak i sak HK 090/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HK 090/04 og søkers brev av 25.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 090/04. For øvrig viser Tilskuddstyret til begrensede midler og at det må foretas prioritering ved tildeling av disse og at omsøkt prosjekt ikke ble prioritert.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 090/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>223/04: Moskavuona NSR, Balsfjord kommune - Rekonstruering av Ullsfjordkofte, klage på vedtak i sak HK 047/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HK 047/04 og søkers brev 15.04.04 av med klage på vedtaket i saken og tilleggsopplysninger i brev av 16.04.04.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HK 047/04. Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HK 047/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>224/04: OL i Tromsø 2014, Tromsø kommune - Søknad om støtte til den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til OL i Tromsø 2014, Tromsø kommune til medfinansiering av den nasjonale søknadsfasen for et vinter-OL i Tromsø i 2014:</p>
+<p>I Tilskudd inntil kr 300 000</p>
+<p>II Sametinget forventer at samiske interesser blir godt ivaretatt i alle deler av det arbeidet som foregår med å planlegge og eventuelt arrangere vinter-OL i Tromsø i 2014..</p>
+<p>III Det gis ikke ytterligere støtte til foreliggende prosjekt eller til eventuelle kostnadsoverskridelser.</p>
+<p>IV Beløpet belastes post 51.1 Samisk utviklingsfond med kr. 250 000 og post 52.1 Samisk kulturfond med kr. 50 000.</p>
+<p>Olaf Eliassen fremmet følgende forslag:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametinget har begrensede midler til nærings- og kulturutvikling i det samiske samfunnet. En prioritering av penger til OL-satsningen vil medføre mindre støtte til utvikling av samisk kultur og næring. Dersom det blir det OL i Tromsø vil det være et nasjonalt ansvar å sørge for en synliggjøring av samisk kultur og samfunn.</p>
+<p>Vedtak:</p>
+<p>Administrasjonens forslag ble vedtatt med 4 mot 1 stemme som ble avgitt for Eliassens forslag.</p>
+<p>225/04: Saemien Sijte, Snåsa kommune - Søknad om støtte til utgivelse av bok om sørsamisk ornamentikk</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre disponerer begrensede midler i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har på grunnlag av dette etablert en støttepraksis som tilsier at en vanligvis ikke prioriterer støtte til utgivelse av vitenskaplige avhandlinger innenfor rammen av Samisk kulturfonds avsetning til litteratur. Tilskuddstyret er positiv til at sørsamisk duodji blir mer synliggjort, men finner likevel ikke grunnlag for å fravike fra etablert støttepraksis. Sametingets tilskuddsstyre vil anbefale søker å forsøke å finne finansiering til dette prosjektet via andre instanser.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>226/04: Ole Nikodemussen, Kvalsund kommune - Søknad om støtte til utarbeidelse av slektsleksikon for Porsanger</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre er positiv til at det utarbeides og utgis bøker med dokumentasjon av samiske slektsforhold i de forskjellige kommunene. Tilskuddsstyret disponerer imidlertid begrensede midler i forhold til stor søkermasse, og må av den grunn prioritere strengt ved tildeling av midler. Sametingets tilskuddsstyre har ikke sett seg i stand til å prioritere støtte til dette prosjektet. Tilskuddsstyret kan imidlertid vurdere en eventuell søknad om støtte til selve utgivelsen av verket når det innsamlede materialet er klar for trykking. Samtidig vil tilskuddsstyret bemerke at det i tillegg til denne søknaden foreligger enda en søknad om støtte til utarbeiding av slektsbok for Porsanger. Sametingets tilskuddsstyre vil allerede på det nåværende tidspunkt uttale at en ser det som lite formålstjenlig å kunne prioritere støtte til utgivelse av to forskjellige slektsbokverk for Porsanger, og vil komme med en anmodning til begge de to partene å vurdere det videre arbeidet med prosjektene og at en også vurderer mulighetene for en eventuell samkjøring av prosjektene.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>227/04: Wulff Geir, Porsanger kommune - Søknad om støtte til arbeidet med registrering av samiske personnavn i Porsanger</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås. </p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre er positiv til at det utarbeides og utgis bøker med dokumentasjon av samiske slektsforhold i de forskjellige kommunene. Tilskuddsstyret disponerer imidlertid begrensede midler i forhold til stor søkermasse, og må av den grunn prioritere strengt ved tildeling av midler. Sametingets tilskuddsstyre har ikke sett seg i stand til å prioritere støtte til dette prosjektet. Tilskuddsstyret kan imidlertid vurdere en eventuell søknad om støtte til selve utgivelsen av verket når det innsamlede materialet er klar for trykking. Samtidig vil tilskuddsstyret bemerke at det i tillegg til denne søknaden foreligger enda en søknad om støtte til utarbeiding av slektsbok for Porsanger. Sametingets tilskuddsstyre vil allerede på det nåværende tidspunkt uttale at en ser det som lite formålstjenlig å kunne prioritere støtte til utgivelse av to forskjellige slektsbokverk for Porsanger, og vil komme med en anmodning til begge de to partene å vurdere det videre arbeidet med prosjektene og at en også vurderer mulighetene for en eventuell samkjøring av prosjektene.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>228/04: Davvi Girji, Karasjok kommune - Søknad om støtte til samisk litteraturrådgiver</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre stiller seg positiv til ønsket om å opprette en veilederstilling for samiske forfattere. Det ville utvilsomt være en hjelp for mange og ville kunne inspirere og oppmuntre flere til å begynne å skrive. Tilskuddsstyret har i sak 025/04 fordelt forlagsstøtten til samiske forlag og har ikke andre midler til rådighet for forlagsvirksomhet. Tilskuddsstyret disponerer over begrensede midler over Samisk kulturfond i forhold til stor søkermasse og må av den grunn prioritere strengt blant ulike tiltak. På bakgrunn av det som er nevnt ovenfor, finner Sametingets tilskuddstyre ikke å kunne prioritere søknaden.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>229/04: Adalia Film AS, Sandefjord kommune - Søknad om støtte til TV-serie om design, arkitektur og livsstil</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre ser det som positivt at det lages program med fokus på samisk design og arkitektur. Det er viktig og naturlig at samisk kultur er en del av slike programmer. Her vil styret påpeke at samisk kultur ikke er bare i Finnmark og Nord-Norge, men også i Sør-Norge. Tilskuddsstyret disponerer ikke øremerkede midler til filmtiltak, og disponerer for øvrig begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har av den grunn bare unntaksvis funnet å kunne yte støtte til TV, film og videotiltak. Sametingets tilskuddsstyre finner ikke å kunne prioritere støtte til dette prosjektet, og søknaden må derfor avslås.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>230/04: Main Island Production AS, Oslo kommune - Søknad om støtte til produksjon av kortfilm Polmak i Tana</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås. </p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre ser det som positivt og ønskelig at det lages filmer hvor samisk språk blir brukt. Tilskuddsstyret disponerer ikke øremerkede midler til filmtiltak, og disponerer for øvrig begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn foreta en streng prioritering ved tildeling av midler. Tilskuddsstyret har av den grunn bare unntaksvis funnet å kunne yte støtte til TV, film og videotiltak. Sametingets tilskuddsstyre finner ikke å kunne prioritere støtte til dette prosjektet, og søknaden må derfor avslås.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>231/04: Johansen Helge, Nordreisa kommune - Søknad om støtte til kulturfestival i Nord-Troms 2004, klage på vedtak i sak 038/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 038/04 og søkers brev av 26.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 038/04. For øvrig vises det til at Sametinget disponerer begrensede midler over Samisk kulturfond i forhold til stor søkermasse, og må av den grunn prioritere strengt blant ulike tiltak.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 038/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>232/04: ČálliidLagadus, Porsanger kommune - Søkand om støtte til utgivelse av Mummi på samisk, klage på vedtak i sak 170/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 170/04 og søkers brev av 18.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak DSK 170/04. For øvrig viser Tilskuddstyret til vedtak i sak 170/04 om at <em type="italic">Sametingets tiltak som er " å arbeide for at </em><em type="italic">barnebladet Leavedolgi, kvinnebladet Gába, det kristne bladet Nuorttanaste og ungdomsmagasinet Š skal ha et økonomisk fundament som sikrer en fast utgivelse av disse publikasjonene”. </em></p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 170/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>233/04: Viktil Janne, Frosta kommune - Søknad om midler til prosjekt Samiske forhold i Midt-Norge, klage på vedtak i sak 036/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak 036/04 og søkers brev av 25.05.2004 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak 036/04. Tilskuddstyret vil bemerke at søker har blitt gjort kjent med at det er etablert en støttepraksis som tilsier at det vanligvis ikke gis støtte til fysiske investeringer over Samisk kulturfond til næringsvirksomhet.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak 036/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>234/04: Samitour.com, Kautokeino kommune - Søknad om støtte til videreføring av prosjektet Samisk reiseliv på nett</p>
+<p>Forslag til vedtak:</p>
+<p>Søknaden avslås.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til at en gikk inn med fondsstøtte til etablering av nettportalen Samitour.com, og at en ikke yter fondsstøtte til videreoppfølging av prosjekter i form av driftsstøtte. Det søkes om prosjektstøtte for 3 år frem til 2006, og at dette skal dekke kostnader bundet til markedsføring og oppdatering av internettportalen i form av en særskilt stilling. I tillegg søkes det om støtte til inntak av nye bedrifter til organisasjonen. Dette er å betrakte som bedriftsinterne kostnader som må løses over</p>
+<p>bedriftenes eget driftsbudsjett. Dessuten vil Sametingets tilskuddsstyre vise til stor søkermasse i forhold til begrenset fondsramme som gjør at en må prioritere fondsstøtte til materielle investeringer og ikke til driftsrealterte prosjektsøknader.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>235/04: Gaup, Nils Peder I og Gaup, Inger Ellen Eira, Kautokeino kommune - Søknad om etablererstipend, klage på vedtak i sak HE 103/04</p>
+<p>Forslag til vedtak:</p>
+<p>Klagen tas ikke til følge.</p>
+<p>Begrunnelse:</p>
+<p>Sametingets tilskuddsstyre viser til vedtak i sak HE 103/04 og søkers brev av 03.06.04 med klage på vedtaket i saken.</p>
+<p>Sametingets tilskuddsstyre viser til gjeldende støttepraksis for etablererstipend hvor det ikke gis støtte til levekostnader der personen har inntekt fra annet hold i etablererstipendperioden. Oppspart ferie og avspaseringer regnes ikke som inntektsfrie perioder. Dersom søker hadde tatt permisjon uten lønn eller redusert sin nåværende stilling, ville det vært mulig å oppnå støtte til levekostnader.</p>
+<p>Sametingets tilskuddsstyre har vurdert klagerens merknader. Det er ikke kommet inn nye opplysninger i saken som ikke var kjent ved førstegangs behandling og som skulle tilsi en endring av tidligere vedtak i sak HE 103/04.</p>
+<p>Sametingets tilskuddsstyre finner på denne bakgrunn ikke å kunne ta klagen til følge, og vil med hjemmel i forvaltningslovens § 33, andre ledd, opprettholde vedtak i sak HE 103/04.</p>
+<p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p>************ TILLEGGSSAK ************</p>
+<p>236/04: Min Áigi, Karasjok kommune - Søknad om støtte til etablering av lokalkontor i Tana</p>
+<p>Forslag til vedtak:</p>
+<p>Sametingets tilskuddsstyre gir med dette tilsagn om følgende støtte til Min Áigi, Karasjok kommune, til etablering av lokalkontor i Tana:</p>
+<list><p type="listitem">Tilskudd inntil kr 21 000.</p>
+<p type="listitem">Tilsagnet blir utbetalt når restfinansieringen er løst, investeringene er gjennomført og når utgiftene er dokumentert.</p>
+<p type="listitem">Det gis ikke ytterligere støtte til foreliggende investeringer eller til eventuelle kostnadsoverskridelser.</p>
+<p type="listitem">Beløpet belastes post 51.1 Samisk utviklingsfond.</p>
+</list><p>Vedtak:</p>
+<p>Som innstillingen</p>
+<p>Enstemmig vedtatt</p>
+<p><em type="bold">Sametingets tilskuddsstyre - Utskrift av møtebok 4/04side </em><em type="bold">41 </em><em type="bold">av </em><em type="bold">42 </em></p>
+<p><em type="bold">*råd/styre* - Utskrift av møtebok */*side </em><em type="bold">42 </em><em type="bold">av </em><em type="bold">42 </em></p>
+<p><em type="bold">Sign: </em><em type="bold">_________________ /_________________ </em></p>
+<p><em type="bold">Møtesekretær: *Skriv inn navn* Møteboken består totalt av </em><em type="bold">42 </em><em type="bold">sider </em></p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+<p>Kautokeinoveien 50, N-9730 Kárášjohka</p>
+<p>Telefon +47 78 47 40 00</p>
+<p>Telefaks +47 78 47 40 90</p>
+<p>samediggi@samediggi.no</p>
+<p>www.samediggi.no</p>
+</body></document>

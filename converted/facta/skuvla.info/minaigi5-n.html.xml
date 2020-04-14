@@ -1,84 +1,43 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2007</year>
-    <wordcount>1676</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi5-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="minaigi5-e.html"/>
-    <parallel_text xml:lang="sme" location="minaigi5.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Starten på reindriftsopplæringa</p>
-    <p xml:lang="nno"/>
-    <p xml:lang="sme">Sámegillii In English</p>
-    <p xml:lang="nno">Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie</p>
-    <p>Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund 5. del - trykt i Min Áigi 26.10.2007</p>
-    <p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
-    <p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
-    <p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
-    <p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
-    <p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
-    <p type="title" xml:lang="nno">Starten på reindriftsopplæringa</p>
-    <p>Hvor langt tilbake har det vært reindriftsutdanning? Noen hevder at den første reindriftsskolen var i Jiebmaluokta (Hjemmeluft) i Alta. Der er tavla deres bevart. De hadde ikke kritt og svamp, så de rissa inn i berget. Derfor er det så mange helleristninger av rein, reingjerde, fiske og fangst. Alt dette er fortsatt pensum på reindriftsskolen.</p>
-    <p>Sjøl om reindrifta har tradisjoner svært langt tilbake, er formell opplæring i reindrift et ganske nytt fenomen. Slik vi har vist i forrige artikkel, var det i den gamle folkeskolen ikke noenting om samisk kultur og næringer. Den første reindriftsopplæringa i skole synes å ha vært på Karasjok framhaldsskole på 1950-tallet. Deretter blei det reindriftslinje på Karasjok ungdomsskole, ti år før Statens reindriftsskole starta i Kvæfjord i 1968</p>
-    <p type="title"><span type="quote" xml:lang="fin">"Flyttsamekunnskap"</span> i framhaldsskolen</p>
-    <p>Dette stykket er et utdrag av heftet <span type="quote" xml:lang="fin">"Joatkaskuvla - Framhaldsskolen"</span>, som L. L. Meløy skreiv i 1956. Han var da leder for Indre Finnmark skoleråd og blei seinere skoledirektør. Heftet blei gitt ut både på samisk og norsk.</p>
-    <p>
-      <em type="italic">I flyttsameskolen vil vi så prøve å samle alt stoff fra naturfag, historie og geografi under faget flyttsamekunnskap. Flyttsamekunnskap vil likevel få et langt annet innhold enn de tre nevnte fagene tilsammen fordi flyttsameungdommen gjennom dette faget skal få kunnskaper som kommer deres yrke til gode, og kunnskaper som gir et visst kjennskap til flyttsamekulturen. Dette faget skal ta med stoff fra polarområdet eller de strøk av verden der reinen ferdes. Hovedvekten skal likevel legges på Finnmark. </em>
-    </p>
-    <p>Elevene skal få kjennskap til planter og dyr i polarområdet. Først og fremst gjelder det reinen, som behandles grundig. I denne sammenheng tas også med om reinsdyrs sjukdommer, reinbeiter og utnytting av reinen. Under reinbeitene tar en med om mose, lav og grasarter som er tjenlig til føde for reinen. Det høver her å ta noe med om jordsmonn og berggrunn, vær og klima.</p>
-    <p>Videre får elevene kjennskap til de lovene som gjelder for reindrift. I sammenheng med oversyn over reinbeitedistriktene høver det å gå igjennom om flytting og flytteveger. Merking av rein og kjennskap til øremerker for de flokkene hver enkelt elev kommer i kontakt med, er viktig. Videre tar en med om kastrering, og enkle regler for den slakting som framleis må foregå på fjellet. Når vi snakker om utnytting av reinen, må vi både ta med om den som slaktes for heimebruk – der både kjøtt, blod, skinn, sener og horn blir tatt vare på, og den moderne form for utnytting med leveranse til slakterier. Det må være grunn til å drøfte hva denne form for utnytting av reinen gir av nye muligheter. ...</p>
-    <p>I samsvar med det som her er nevnt, blir flyttsamekunnskap kjernefaget i flyttsameframhaldsskolen. De andre fagene skal alle i større eller mindre grad være med og gi flyttsameelevene kjennskap til sitt yrke og sitt folks historie.</p>
-    <p>Det er ellers god grunn til å ta med det historiske stoffet som er nevnt her, også i de andre framhaldsskoleklassene. ( Framhaldsskolen, SSH-2)</p>
-    <p>
-      <em type="bold">Reindriftslinjas fjellkurs 1959, ved Ytre Billefjord i Porsanger. Bjørn Aarseth og veterinær Sven Skjenneberg veier en slaktet kalv. Elevene på bildet er Per Eira og Johannes Sara. </em>
-    </p>
-    <p>(Foto: Virginia Davidson / Norsk folkemuseum)</p>
-    <p type="title">Reindriftslinja ved Karasjok ungdomsskole</p>
-    <p xml:lang="nno">Karasjok ungdomsskoles daværende styrer Bjørn Aarseth skreiv en artikkel i boka Sami Ællin / Sameliv 1961/63 om reindriftslinja der, og dette er et utdrag av denne artikkelen.</p>
-    <p>
-      <em type="italic">I 1958 gikk Karasjok kommune i gang med linjedelt ungdomsskole. Ved velvillig imøtekommenhet fra Forsøksrådet for skoleverket og Kirke- og Undervisningsdepartementet ble det gitt adgang til å opprette en egen reindriftslinje for 7. – 9. skoleår, – foreløpig er dette den eneste reindriftslinje i landet. </em>
-    </p>
-    <p>Allmenn praktisk reindriftslinje, populært kalt R-linjen, har samme fagkrets og leseplaner i allmennfagene som allmenn praktisk linje (Y-linjen), bortsett fra engelsk. Dette fag, som er frivillig på Y-linjen, har på R-linjen avgitt sine timer til norsk, samfunnskunnskap og det nye faget flyttsamekunnskap, som er en direkte oversettelse av svenskenes <span type="quote" xml:lang="vep">«nomadkunnskap»</span>.</p>
-    <p>Skoletiden på reindriftslinjen avviker en del fra det vanlige mønster. Elevene har 27 uker på skolebenken (november–juni). I tillegg kommer 4 uker fjellkurs (feltstudiekurs) i juli–august. Dessuten har elevene plikt til å delta minst 7 uker i praktisk reindrift hver høst (august–november). Denne utplasering kan skje i foreldrenes reindrift, og det er i praksis gjerne blitt slik at foreldrene eller nære slektninger er deres læremestere i de travle høstmåneder når der foregår så mye innen reindriften. Flertallet av elevene har arbeidet 10–12 uker i reindriften hvert år. Foran arbeidsperioden får de utlevert en lang liste over oppgaver som skal stimulere dem til å gjøre iakttagelser som de igjen skal avgi rapport om på skolen. Det er av særlig betydning at de samler materiale og får et noenlunde felles erfaringsgrunnlag til videre bearbeidelse i skoletimene. Det er også en forutsetning at elevene ved utplassering om høsten skal lære og få øving i arbeidsformer som ikke kan integreres i skolens virksomhet. Rapportskjema vil stadig minne dem om at dette er en viktig læretid og en del av deres utdannelse. ( Bjørn Aarseths fortelling, SSH-2)</p>
-    <p type="title" xml:lang="nno">Bygge opp fra starten</p>
-    <p>Da Statens reindriftsskole starta i 1968, måtte daværende leder i Norske Reindriftssamers Landsforbund, Paul Fjellheim, ta på seg å fungere som lærer det første året. 35 år seinere forteller han hvordan starten var:</p>
-    <p><em type="italic">Det var ingen lett sak å bygge opp ei reindriftsutdanning fra grunnen av. Jeg hadde en stor fordel med at jeg kjente omtrent hele reindrifts-Norge gjennom arbeidet som veterinær og med NRL. På den andre sida hadde jeg ingen pedagogisk utdanning eller lærererfaring. Vi hadde svært lite lærebøker. Med unntak av Sven Skjennebergs bok <span type="quote">«Rein og reindrift»</span> måtte alt annet lages for dagen. Fagplanene måtte vi lage samtidig som vi underviste. I fagplanutvalget var det utenom meg bare statskonsulent Loyd Villmo som hadde noen form for reindriftsfaglig bakgrunn. Ellers var det helst landbrukslærere. I fagplanarbeidet tok vi utgangspunkt i fagplanene for landbruksskolene, som vi så forsøkte å tilpasse til reindrift. Men det var jo virkelig et pionerarbeid, det var ingen som hadde gjort noe slikt før og vi hadde ingen å spørre. </em>( Paul Fjellheims fortelling, SSH-2) </p>
-    <p>
-      <em type="bold">Reindriftselever på feltkurs i beitegransking i Kvæfjord skoleåret 1973/74 </em>
-    </p>
-    <p xml:lang="nno">(Foto: Loyd Villmo)</p>
-    <p xml:lang="nno">
-      <em type="bold">Reindrifts- og gartnerskolen på Borkenes i Kvæfjord. </em>
-    </p>
-    <p xml:lang="nno">(Foto: Peer Gaup)</p>
-    <p type="title" xml:lang="nno">Kål og gulrøtter på reindriftsskolen</p>
-    <p>Da reindriftsskolen starta opp på Statens hagebruksskole i Kvæfjord i 1968 var det ikke så enkelt å få til en virkelig reindriftsskole. Om dette forteller Inge Andersen, som var elev det første skoleåret, og seinere sjøl blei lærer ved reindriftsskolen.</p>
-    <p xml:lang="nno">
-      <em type="italic">- Undervisninga var på mange måter prega av at reindriftsskolen var plassert på en hagebruksskole. Det blei ei krysning av relevante og mindre relevante saker vi lærte. Det var jo ikke ferdig utarbeida læreplaner for alle fag da vi starta, lærebøker var det heller ikke stort av. </em>
-    </p>
-    <p>I mange fag hadde vi hagebruksskolens faste lærere og undervisninga blei deretter. I plantelære lærte vi mest om kål og gulrøtter, korn og gjødsling. Derimot husker jeg at Loyd Villmo tok oss et kort kurs om reinens beiteplanter. I bygningslære gikk det på driftsbygninger i landbruket, det var heller ikke så aktuelt for reindrifta. I tekniske fag hadde vi en gammel landbruksfaglærer sørfra, men vi skrudde på en gammel skuter, og det var i alle fall aktuelt for oss. I økonomi var det også mest landbruksregnskap, som var ganske forskjellig fra det som var aktuelt i reindrifta. Også her måtte Loyd Villmo inn som gjestelærer, slik at vi fikk litt reindriftsøkonomi.</p>
-    <p>Det var ikke så mye samisk innhold i skolen det året, men vi hadde et komprimert kurs om samisk kultur og historie. Den som hadde det kurset var faktisk en tysker – Klaus Peter Nickel. Vi lærte jo da også noe om samisk språk, men noe direkte samisk språkopplæring hadde vi ikke. (SSH-2)</p>
-    <p>Her finner du alle artiklene i serien:</p>
-    <p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
-    <p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></translator><translated_from xml:lang="sme"/><year>2007</year><wordcount>1676</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi5-n.htm</origFileName><parallel_text xml:lang="eng" location="minaigi5-e.html"/><parallel_text xml:lang="sme" location="minaigi5.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Starten på reindriftsopplæringa</p>
+<p xml:lang="swe"/>
+<p xml:lang="sme">Sámegillii In English</p>
+<p xml:lang="nno">Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie</p>
+<p>Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund 5. del - trykt i Min Áigi 26.10.2007</p>
+<p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
+<p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
+<p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
+<p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
+<p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
+<p type="title" xml:lang="nno">Starten på reindriftsopplæringa</p>
+<p>Hvor langt tilbake har det vært reindriftsutdanning? Noen hevder at den første reindriftsskolen var i Jiebmaluokta (Hjemmeluft) i Alta. Der er tavla deres bevart. De hadde ikke kritt og svamp, så de rissa inn i berget. Derfor er det så mange helleristninger av rein, reingjerde, fiske og fangst. Alt dette er fortsatt pensum på reindriftsskolen.</p>
+<p>Sjøl om reindrifta har tradisjoner svært langt tilbake, er formell opplæring i reindrift et ganske nytt fenomen. Slik vi har vist i forrige artikkel, var det i den gamle folkeskolen ikke noenting om samisk kultur og næringer. Den første reindriftsopplæringa i skole synes å ha vært på Karasjok framhaldsskole på 1950-tallet. Deretter blei det reindriftslinje på Karasjok ungdomsskole, ti år før Statens reindriftsskole starta i Kvæfjord i 1968</p>
+<p type="title"><span type="quote" xml:lang="fin">"Flyttsamekunnskap"</span> i framhaldsskolen</p>
+<p>Dette stykket er et utdrag av heftet <span type="quote" xml:lang="fin">"Joatkaskuvla - Framhaldsskolen"</span>, som L. L. Meløy skreiv i 1956. Han var da leder for Indre Finnmark skoleråd og blei seinere skoledirektør. Heftet blei gitt ut både på samisk og norsk.</p>
+<p><em type="italic">I flyttsameskolen vil vi så prøve å samle alt stoff fra naturfag, historie og geografi under faget flyttsamekunnskap. Flyttsamekunnskap vil likevel få et langt annet innhold enn de tre nevnte fagene tilsammen fordi flyttsameungdommen gjennom dette faget skal få kunnskaper som kommer deres yrke til gode, og kunnskaper som gir et visst kjennskap til flyttsamekulturen. Dette faget skal ta med stoff fra polarområdet eller de strøk av verden der reinen ferdes. Hovedvekten skal likevel legges på Finnmark. </em></p>
+<p>Elevene skal få kjennskap til planter og dyr i polarområdet. Først og fremst gjelder det reinen, som behandles grundig. I denne sammenheng tas også med om reinsdyrs sjukdommer, reinbeiter og utnytting av reinen. Under reinbeitene tar en med om mose, lav og grasarter som er tjenlig til føde for reinen. Det høver her å ta noe med om jordsmonn og berggrunn, vær og klima.</p>
+<p>Videre får elevene kjennskap til de lovene som gjelder for reindrift. I sammenheng med oversyn over reinbeitedistriktene høver det å gå igjennom om flytting og flytteveger. Merking av rein og kjennskap til øremerker for de flokkene hver enkelt elev kommer i kontakt med, er viktig. Videre tar en med om kastrering, og enkle regler for den slakting som framleis må foregå på fjellet. Når vi snakker om utnytting av reinen, må vi både ta med om den som slaktes for heimebruk – der både kjøtt, blod, skinn, sener og horn blir tatt vare på, og den moderne form for utnytting med leveranse til slakterier. Det må være grunn til å drøfte hva denne form for utnytting av reinen gir av nye muligheter. ...</p>
+<p>I samsvar med det som her er nevnt, blir flyttsamekunnskap kjernefaget i flyttsameframhaldsskolen. De andre fagene skal alle i større eller mindre grad være med og gi flyttsameelevene kjennskap til sitt yrke og sitt folks historie.</p>
+<p>Det er ellers god grunn til å ta med det historiske stoffet som er nevnt her, også i de andre framhaldsskoleklassene. ( Framhaldsskolen, SSH-2)</p>
+<p><em type="bold">Reindriftslinjas fjellkurs 1959, ved Ytre Billefjord i Porsanger. Bjørn Aarseth og veterinær Sven Skjenneberg veier en slaktet kalv. Elevene på bildet er Per Eira og Johannes Sara. </em></p>
+<p>(Foto: Virginia Davidson / Norsk folkemuseum)</p>
+<p type="title">Reindriftslinja ved Karasjok ungdomsskole</p>
+<p xml:lang="nno">Karasjok ungdomsskoles daværende styrer Bjørn Aarseth skreiv en artikkel i boka Sami Ællin / Sameliv 1961/63 om reindriftslinja der, og dette er et utdrag av denne artikkelen.</p>
+<p><em type="italic">I 1958 gikk Karasjok kommune i gang med linjedelt ungdomsskole. Ved velvillig imøtekommenhet fra Forsøksrådet for skoleverket og Kirke- og Undervisningsdepartementet ble det gitt adgang til å opprette en egen reindriftslinje for 7. – 9. skoleår, – foreløpig er dette den eneste reindriftslinje i landet. </em></p>
+<p>Allmenn praktisk reindriftslinje, populært kalt R-linjen, har samme fagkrets og leseplaner i allmennfagene som allmenn praktisk linje (Y-linjen), bortsett fra engelsk. Dette fag, som er frivillig på Y-linjen, har på R-linjen avgitt sine timer til norsk, samfunnskunnskap og det nye faget flyttsamekunnskap, som er en direkte oversettelse av svenskenes <span type="quote" xml:lang="vep">«nomadkunnskap»</span>.</p>
+<p>Skoletiden på reindriftslinjen avviker en del fra det vanlige mønster. Elevene har 27 uker på skolebenken (november–juni). I tillegg kommer 4 uker fjellkurs (feltstudiekurs) i juli–august. Dessuten har elevene plikt til å delta minst 7 uker i praktisk reindrift hver høst (august–november). Denne utplasering kan skje i foreldrenes reindrift, og det er i praksis gjerne blitt slik at foreldrene eller nære slektninger er deres læremestere i de travle høstmåneder når der foregår så mye innen reindriften. Flertallet av elevene har arbeidet 10–12 uker i reindriften hvert år. Foran arbeidsperioden får de utlevert en lang liste over oppgaver som skal stimulere dem til å gjøre iakttagelser som de igjen skal avgi rapport om på skolen. Det er av særlig betydning at de samler materiale og får et noenlunde felles erfaringsgrunnlag til videre bearbeidelse i skoletimene. Det er også en forutsetning at elevene ved utplassering om høsten skal lære og få øving i arbeidsformer som ikke kan integreres i skolens virksomhet. Rapportskjema vil stadig minne dem om at dette er en viktig læretid og en del av deres utdannelse. ( Bjørn Aarseths fortelling, SSH-2)</p>
+<p type="title" xml:lang="nno">Bygge opp fra starten</p>
+<p>Da Statens reindriftsskole starta i 1968, måtte daværende leder i Norske Reindriftssamers Landsforbund, Paul Fjellheim, ta på seg å fungere som lærer det første året. 35 år seinere forteller han hvordan starten var:</p>
+<p><em type="italic">Det var ingen lett sak å bygge opp ei reindriftsutdanning fra grunnen av. Jeg hadde en stor fordel med at jeg kjente omtrent hele reindrifts-Norge gjennom arbeidet som veterinær og med NRL. På den andre sida hadde jeg ingen pedagogisk utdanning eller lærererfaring. Vi hadde svært lite lærebøker. Med unntak av Sven Skjennebergs bok <span type="quote">«Rein og reindrift»</span> måtte alt annet lages for dagen. Fagplanene måtte vi lage samtidig som vi underviste. I fagplanutvalget var det utenom meg bare statskonsulent Loyd Villmo som hadde noen form for reindriftsfaglig bakgrunn. Ellers var det helst landbrukslærere. I fagplanarbeidet tok vi utgangspunkt i fagplanene for landbruksskolene, som vi så forsøkte å tilpasse til reindrift. Men det var jo virkelig et pionerarbeid, det var ingen som hadde gjort noe slikt før og vi hadde ingen å spørre. </em>( Paul Fjellheims fortelling, SSH-2) </p>
+<p><em type="bold">Reindriftselever på feltkurs i beitegransking i Kvæfjord skoleåret 1973/74 </em></p>
+<p xml:lang="nno">(Foto: Loyd Villmo)</p>
+<p><em type="bold">Reindrifts- og gartnerskolen på Borkenes i Kvæfjord. </em></p>
+<p xml:lang="nno">(Foto: Peer Gaup)</p>
+<p type="title" xml:lang="nno">Kål og gulrøtter på reindriftsskolen</p>
+<p>Da reindriftsskolen starta opp på Statens hagebruksskole i Kvæfjord i 1968 var det ikke så enkelt å få til en virkelig reindriftsskole. Om dette forteller Inge Andersen, som var elev det første skoleåret, og seinere sjøl blei lærer ved reindriftsskolen.</p>
+<p xml:lang="nno"><em type="italic">- Undervisninga var på mange måter prega av at reindriftsskolen var plassert på en hagebruksskole. Det blei ei krysning av relevante og mindre relevante saker vi lærte. Det var jo ikke ferdig utarbeida læreplaner for alle fag da vi starta, lærebøker var det heller ikke stort av. </em></p>
+<p>I mange fag hadde vi hagebruksskolens faste lærere og undervisninga blei deretter. I plantelære lærte vi mest om kål og gulrøtter, korn og gjødsling. Derimot husker jeg at Loyd Villmo tok oss et kort kurs om reinens beiteplanter. I bygningslære gikk det på driftsbygninger i landbruket, det var heller ikke så aktuelt for reindrifta. I tekniske fag hadde vi en gammel landbruksfaglærer sørfra, men vi skrudde på en gammel skuter, og det var i alle fall aktuelt for oss. I økonomi var det også mest landbruksregnskap, som var ganske forskjellig fra det som var aktuelt i reindrifta. Også her måtte Loyd Villmo inn som gjestelærer, slik at vi fikk litt reindriftsøkonomi.</p>
+<p>Det var ikke så mye samisk innhold i skolen det året, men vi hadde et komprimert kurs om samisk kultur og historie. Den som hadde det kurset var faktisk en tysker – Klaus Peter Nickel. Vi lærte jo da også noe om samisk språk, men noe direkte samisk språkopplæring hadde vi ikke. (SSH-2)</p>
+<p>Her finner du alle artiklene i serien:</p>
+<p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
+<p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
+</body></document>

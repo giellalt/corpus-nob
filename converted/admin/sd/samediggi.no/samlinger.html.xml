@@ -1,49 +1,19 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Samlinger</origFileName>
-    <parallel_text xml:lang="sma" location="vaaarhkoeh.html"/>
-    <parallel_text xml:lang="sme" location="coahkkadusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samlinger / Bibliotek / Forsiden - Sametinget</p>
-    <p>
-      <span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span>
-    </p>
-    <p>Om Sametinget</p>
-    <p>Valg og manntall</p>
-    <p>Stipend og tilskudd</p>
-    <p>Web-tv</p>
-    <p type="title">Samlinger</p>
-    <p type="title">Spesialsamlinger</p>
-    <p><em type="bold">Stjernesamlingen </em>omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle. Den inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder samlingen enkelte titler fra de siste 100 årene av spesiell verdi. Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i Bibsys. De er dermed søkbare på lik linje med andre dokumenter. Utgivelsene fordeler seg pr. dags dato slik: omtrent 10 titler fra 1600-tallet, 80 titler fra 1700-tallet og 430 titler fra 1800-tallet. </p>
-    <p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
-    <p>Av de eldste bøkene kan nevnes <em type="italic">Manuale Lapponicum </em>av Olaus Stepani Graan (Stockholm 1669) og <em type="italic">Lapponia </em>av Johannes Schefferus, i flere utg. fra 1674 og framover. </p>
-    <p>Sametingets bibliotek opprettet i 2014 en egen <em type="bold">urfolksamling </em>. Den inneholder dokumenter om urbefolkninger i hele verden, og teller pr. dags dato omkring 200 titler. Dermed er bøker Sametinget har samlet og fått i gave blitt registrert og gjort tilgjengelig for utlån/fjernlån via Bibsys. Vi har allerede registrert etterspørsel. </p>
-    <p type="title">Aviser og tidsskrifter</p>
-    <p type="title">Databaser</p>
-    <p>For å benytte seg av databasene må man være tilknyttet Sametingets nettverk.</p>
-    <p>Idunn</p>
-    <p>Retriver</p>
-    <p xml:lang="sme">Lovdata</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Bibliotek/Samlinger</origFileName><parallel_text xml:lang="sma" location="vaaarhkoeh.html"/><parallel_text xml:lang="sme" location="coahkkadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samlinger / Bibliotek / Forsiden - Sametinget</p>
+<p><span type="quote">Sametinget skal styrke samenes politiske stilling og fremme samenes interesser i Norge, samt jobbe for å legge forholdene til rette for at samene kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.</span></p>
+<p>Om Sametinget</p>
+<p>Valg og manntall</p>
+<p>Stipend og tilskudd</p>
+<p>Web-tv</p>
+<p type="title">Samlinger</p>
+<p type="title">Spesialsamlinger</p>
+<p><em type="bold">Stjernesamlingen </em>omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle. Den inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder samlingen enkelte titler fra de siste 100 årene av spesiell verdi. Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i Bibsys. De er dermed søkbare på lik linje med andre dokumenter. Utgivelsene fordeler seg pr. dags dato slik: omtrent 10 titler fra 1600-tallet, 80 titler fra 1700-tallet og 430 titler fra 1800-tallet. </p>
+<p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
+<p>Av de eldste bøkene kan nevnes <em type="italic">Manuale Lapponicum </em>av Olaus Stepani Graan (Stockholm 1669) og <em type="italic">Lapponia </em>av Johannes Schefferus, i flere utg. fra 1674 og framover. </p>
+<p>Sametingets bibliotek opprettet i 2014 en egen <em type="bold">urfolksamling </em>. Den inneholder dokumenter om urbefolkninger i hele verden, og teller pr. dags dato omkring 200 titler. Dermed er bøker Sametinget har samlet og fått i gave blitt registrert og gjort tilgjengelig for utlån/fjernlån via Bibsys. Vi har allerede registrert etterspørsel. </p>
+<p type="title">Aviser og tidsskrifter</p>
+<p type="title">Databaser</p>
+<p>For å benytte seg av databasene må man være tilknyttet Sametingets nettverk.</p>
+<p>Idunn</p>
+<p>Retriver</p>
+<p xml:lang="sme">Lovdata</p>
+</body></document>

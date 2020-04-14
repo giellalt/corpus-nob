@@ -1,103 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1660</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Internasjonalt-arbeid/Grenseoverskridende-regionalt-samarbeid</origFileName>
-    <parallel_text xml:lang="sma" location="raastendaaaresth-regijovnaale-laavenjostoe.html"/>
-    <parallel_text xml:lang="sme" location="rajahis-guovlulas-ovttasbargu.html"/>
-    <parallel_text xml:lang="smj" location="rijkajgasskasasj-guovlolasj-aktisasjbarggo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Grenseoverskridende regionalt samarbeid / Internasjonalt arbeid / Forsiden - Sametinget</p>
-    <p type="title">Grenseoverskridende regionalt samarbeid</p>
-    <p>Ansvarlig politiker</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <p>
-      <em type="bold">Sametinget jobber for: </em>
-    </p>
-    <list>
-      <p type="listitem">Å delta aktivt gjennom SPR i EUs arbeid med urfolksspørsmål.</p>
-      <p type="listitem">En styrket deltakelse fra Sametinget i det arktiske samarbeidet.</p>
-      <p type="listitem">En fast urfolksrepresentasjon i Barentsrådet, og for at de ulike urfolksgruppene har faste medlemmer i Barents regionråd.</p>
-    </list>
-    <p>
-      <em type="bold">Arktisk råd </em>
-    </p>
-    <p>Det arktiske samarbeidet involverer åtte stater i det sirkumpolare området, og omfatter både et samarbeid mellom de respektive statenes regjeringer og parlamentariske forsamlinger. Arktisk råd, som er et regionalt samarbeidsorgan, er etablert for å fremme samarbeid, koordinering og samhandling mellom de arktiske stater i felles arktiske saker, spesielt bærekraftig utvikling og miljøvern. I dette samarbeidet har seks urfolksorganisasjoner status som permanente deltakere.</p>
-    <p>Arktisk råd består av Norge, Danmark/Grønland/Færøyene, Sverige, Finland, Island, USA, Canada og Russland. I tillegg deltar representanter for arktiske urfolk som permanente deltakere i rådet. Blant disse er Samerådet som representerer samene i Norge, Sverige, Finland og Russland. De seks urfolksorganisasjoner som sitter rundt bordet sammen de åtte medlemsstatene med status som permanente deltakere er:</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Arctic Athabaskan Council (AAC)</p>
-      <p type="listitem" xml:lang="eng">Aleut International Association (AIA)</p>
-      <p type="listitem" xml:lang="eng">Gwich'in Council International (GGI)</p>
-      <p type="listitem" xml:lang="eng">Inuit Circumpolar Council (ICC)</p>
-      <p type="listitem" xml:lang="eng">Russian Arctic Indigenous Peoples of the North (RAIPON)</p>
-      <p type="listitem" xml:lang="eng">Saami Council (SC)</p>
-    </list>
-    <p>Arktisk Råd er et konsensusorgan der de seks urfolksorganisasjonene som permanente deltakere har tale- og forslagsrett på linje med de åtte medlemsstatene, men de har ikke stemmerett. Urfolksorganisasjonene, de seks permanente deltakerne støttes av et eget sekretariat som er lokalisert i København: Indigenous Peoples Secretariat (IPS).</p>
-    <p>Frankrike, Tyskland, Nederland, Polen, Spania og Storbritannia har per november 2011 status som observatørstater. Arktisk råd ble opprettet i 1996 som en utvidelse av det arktiske miljøvernsamarbeidet (Arctic Environmental Protection Strategy, AEPS) fra 1991.</p>
-    <p>Formannskapet i rådet rullerer blant de åtte medlemslandene og varer normalt i to år. Norge hadde sist formannskapet i perioden 2007-2009, Danmark i perioden 2009-2011, og Sverige har formannskapet i perioden 2011-2013. Det er Ministermøtet som vedtar programmene og prosjektene som skal gjennomføres i regi av Arktisk råd. Ministermøtet avholdes annen hvert år. I perioden mellom ministermøtene avholdes det statssekretærmøter og møter mellom ledende embetsmenn (Senior Arctic officials, SAO). Selve arbeidet foregår i de seks permanente arbeidsgruppene som dekker følgende programområder:</p>
-    <list>
-      <p type="listitem">Handlingsprogram mot forurensing i Arktis (ACAP)</p>
-      <p type="listitem">Overvåkning av det arktiske miljø (AMAP)</p>
-      <p type="listitem">Bevaring av arktisk fauna og flora (CAFF)</p>
-      <p type="listitem">Beredskap mot akutt forurensning (EPPR)</p>
-      <p type="listitem">Beskyttelse av det marine miljø (PAME)</p>
-      <p type="listitem">Bærekraftig utvikling (SDWG)</p>
-    </list>
-    <p>Sametinget inngår i den norske delegasjonen til Arktisk råd og deltar på SAO-møter og på ministermøter. Det er etablert en praksis der Sametingspresidenten holder en del av det norske innlegget på ministermøter i Arktisk råd.</p>
-    <p>Forurensning har vært og er et viktig tema i arbeidet i Arktisk råd. I 1997 ble tilstandsrapporten om det arktiske miljøet presentert etter seks års samarbeid i AMAP. Det ble dokumentert uakseptable nivåer av miljøgifter og tungmetaller i Arktis på tross av avstanden fra industrialiserte områder. Rapporten påviste blant annet at noen av miljøgiftene ender i Arktisk via langtransport og akkumuleres i dyr som blir brukt i tradisjonelt kosthold til urfolk. På 2000-tallet tok Arktisk råd også fatt i klimaendringer, og de omfangsrike rapportene rådets ulike arbeidsgrupper har produsert, har vært av stor betydning for å fremheve effekten av klimaendringer og hvor fort de finner sted.</p>
-    <p>Klimastudien fra Arktisk Råd; <em type="italic">Arctic Climate Impact Assessment </em>(ACIA), ble lagt frem i november 2004. ACIA er en utredning der de åtte arktiske landene – Canada, Danmark, Finland, Island, Norge, Russland, Sverige og USA – har gjennomført en omfattende vurdering og analyse av hvilke konsekvenser klimaendringer vil kunne ha for miljø og samfunn i Arktis. Det er en omfattende vitenskapelig sammenstilling av tilgjengelig kunnskap om klimaendringer i Arktis og dens virkninger for regionen og verden for øvrig. Studien består av tre dokumenter – en omfattende vitenskapelig rapport, en sammendragsrapport og et policy dokument. </p>
-    <p>Hovedfunnene i ACIA-studien er at Arktis nå gjennomgår noen av de raskeste og kraftigste klimaendringer på jorden. Arktis er hjem for mange urfolk som har en kultur og levemåte tilpasset det arktiske miljøet. ACIA-utredningen har lagt vekt på å bruke urfolks kunnskaper, og kombinere disse med forskningsresultater.</p>
-    <p>I forhold til klimaendringer uttrykker urfolk bekymringer på internasjonale arenaer som Arktisk råd og under FNs klimakonvensjon. Det oppleves som et stort paradoks for urfolk at forbrenningen av olje, gass og kull fører til global oppvarming, som igjen fører til økt tilgjengelighet for petroleums- og gruvedriftsaktiviteter i urfolks land- og havområder. Samt til avbøtende tiltak mot klimaendringer som utstrakt utbygging i urfolksområder av fornybar energi som vannkraft og vindkraft som gir ulemper for tradisjonelle urfolks næringer som fiske, fangst og reindrift. I tillegg kommer ulike former klimatilpasninger som kan gi negative effekter for berørte urfolk.</p>
-    <p>Urfolkene får først ulemper med global oppvarming (isen forsvinner, nye arter kommer til, været blir mer ustabilt, havnivået stiger; boplasser vaskes ut, m.m). Så risikerer urfolkene i neste omgang at mange av negative konsekvenser (økt forurensning, ny økonomi, samfunnsendringer, osv) som følger i kjølvannet av bedre arbeidsklima/temperatur for multinasjonale selskaper som skal utvinne naturressursene i området. Det er derfor viktig å sikre urfolkene reell medbestemmelse og en rimelig andel av de fordeler som den økte tilgangen til ressursene medfører.</p>
-    <p>I den senere tid har Arktisk råd - i tillegg til å håndtere forurensning og klimaendringer - snudd oppmerksomheten mot hvordan samfunnet kan tilpasse seg endringene som finner sted. I mai 2011 undertegnet medlemslandene den første juridisk bindende avtalen fremforhandlet i regi av Arktisk råd. Avtalen etablerer et forpliktende rammeverk for samarbeid mellom medlemsstatene i Arktisk råd om søk og redning. Videre har det blitt besluttet å nedsette en arbeidsgruppe som skal utvikle et internasjonalt samarbeidsinstrument for beredskap mot oljeforurensning til havs i Arktis. Rådet har også foretatt omfattende vitenskapelige og miljømessige studier av skipsfart, olje- og gassvirksomheten og havforvaltning i Arktis.</p>
-    <p>På ministermøtet i Nuuk på Grønland i 2011 ble besluttet å opprette et permanent sekretariat for Arktisk råd i Tromsø. Sekretariatet skal være operativt fra 2013. Inntil da fungerer det midlertidige sekretariatet (2006-2013) som er samlokalisert med Norsk Polarinstitutt på Framsenteret i Tromsø.</p>
-    <p>Les mer om Arktisk Råd her.</p>
-    <p>
-      <em type="bold">Barentsrådet og Regionrådet </em>
-    </p>
-    <p>Barentsrådets 15. sesjon ble avholdt i Oulu 15.oktober 2015. Finland overlot formannskapet til Russland. Barentsrådet vedtok felles kommuniké der følgende saksområder vektlegges; økonomisk samarbeid, transport, miljø og klimaendringer. Felles kommuniké finnes her.</p>
-    <p>Russlands formannskap vil bl.a. prioritere bærekraftig utvikling ved å etablere moderne infrastruktur, styrke regionens konkurransekraft og investerings attraktivitet, samtidig som man vektlegger rasjonell bruk av ressurser som oppfyller miljøkrav og som tar fullt ut hensyn til urfolkenes behov og interesser. Det russiske formannskapet ønsker også velkommen ideen om å holde toppmøte for Barentssamarbeidets urfolk, under det russiske formannskapet, og at Russland vil være klar til å diskutere dette med arbeidsgruppen for urfolk og andre kolleger. Utenriksministerens tale kan lastes ned her.</p>
-    <p>Barentsrådet/Barents Euro-Arctic Council (BEAC) er et forum for mellomstatlig samarbeid i Barents Region. Samene, nenetsere og vepsere er urfolkene i Barentssamarbeidet. Arbeidsgruppen for urfolk (WGIP) deltar på møtene i Barentsrådet og møtene i embetsmannskomiteen. Samisk parlamentarisk råd oppnevner samiske medlemmer fra Finland, Norge og Sverige til WGIP. Neste sesjon avholdes i Russland i 2017.</p>
-    <p>Dagen før Barentsrådets møte, 14. oktober, avholdt Barents Regionråd (BRC) sitt møte. Kainuu regionen, Finland, tok over lederskapet i Regionrådet etter Arkhangelsk Oblast (Russia). Kainuu vil lede BRC til slutten av 2017. Barents Regionråd er et interregionalt samarbeidsforum for fylkeskommuner, len, oblast fra de nordlige delene i Finland, Norge and Sverige og nord-vest Russland samt for urfolkene i Barentssamarbeidet. Barentsprogrammet 2014-2018, vedtatt av BRC 2. juni 2013, legger føringer for arbeidet i BRC. Programmet finner du her.</p>
-    <p><em type="bold">Arbeidsgruppen for urfolk i BEAR (WGIP) </em>er oppnevnt av Regionrådet og ble etablert på permanent basis i 1995. WGIP har rådgivende status overfor Regionrådet og Barentsrådet (Barents Euro-Arctic Council – BEAC), og har dermed en særskilt politisk status innenfor den formelle strukturen i Barentssamarbeidet. Representantene fra finsk, svensk og norsk side oppnevnes av Samisk Parlamentarisk Råd for fire år. Representantene for samene, nenetserne og vepserne på russisk side velges for tre år etter forslag fra deres egne organisasjoner. Arbeidsgruppens handlingsplan 2013-2016. </p>
-    <p>Arbeidsgruppen for urfolk fra 2014:</p>
-    <list>
-      <p type="listitem">Christina Henriksen, for samene i Norge. Hun er også valgt som leder for Arbeidsgruppen.</p>
-      <p type="listitem">Tiina Sanila-Aikio, for samene i Finland</p>
-      <p type="listitem">Kristina Nordling, for samene i Sverige</p>
-      <p type="listitem">Valentina Sovkina, for samene i Russland</p>
-    </list>
-    <p>Urfolksrådgiver i Barentssekretariatet, Anja Salo, er sekretær for Arbeidsgruppen.</p>
-    <p>Samisk parlamentarisk råd har oppnevnt Christina Henriksen som observatør til Barents Regionråd. Hun representerer samene fra Finland, Norge og Sverige. Urfolk fra Russland velger urfolkenes faste felles representant til Regionrådet for neste periode, fra høsten 2013 til høsten 2015.</p>
-    <p>
-      <em type="bold">Barents Indigenous Peoples Office (BIPO) etablert i 2003 </em>
-    </p>
-    <p>Barents Urfolkskontor (Barents Indigenous Peoples’ Office – BIPO) ble opprettet i 2003. Kontoret finansieres av Sametinget i Norge og administreres av Barentssekretariatet. Kontoret skal være et bindeledd mellom urfolkene i Barentssamarbeidet og mellom urfolk og andre aktører i Barentssamarbeidet, og skal spesielt bistå urfolkene fra russisk side med hensyn til prosjektsøknader og informasjon. BIPO ble i 2007 flyttet fra Murmansk by til Lovozero. I 2012 ble kontoret flyttet til Murmansk. Kontoret ledes av Tatiana Egorova. Mer informasjon her.</p>
-    <p>
-      <em type="bold">Nordisk samisk samarbeid </em>
-    </p>
-    <p>Myndighetene i Sverige, Finland og Norge har hatt et samarbeid om samiske spørsmål siden Nordisk samarbeidsorgan for same- og reindriftsspørsmål ble opprettet ved Kgl. res. i 1964. Dette samarbeidsorganet har vært et kontaktorgan på embetsnivå mellom de tre landenes regjeringer for informasjon og diskusjon. Samarbeidsutvalget ble i 2001 erstattet av Nordisk embetsmannsorgan for samiske spørsmål som også har representasjon fra sametingene.</p>
-    <p>I 2000 ble det etablert et fast samarbeid mellom sametingspresidentene og ministrene som har ansvaret for samiske saker i Finland, Sverige og Norge. Ministrene og sametingspresidentene møtes regelmessig for å orientere om, drøfte og behandle samiske spørsmål av felles interesse. Målsettingen med det nye nordiske samarbeidet er å styrke og utvikle det samiske folkets språk, kultur, næringer og samfunnsliv. Samarbeidet har uformell, men nær tilknytning til Nordisk Ministerråd. Forberedelse og oppfølging av saker ivaretas av Nordisk embetsmannsorgan for samiske spørsmål. Ansvaret for sammenkalling og ledelse av møtene går på omgang mellom de tre landene</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1660</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Internasjonalt-arbeid/Grenseoverskridende-regionalt-samarbeid</origFileName><parallel_text xml:lang="sma" location="raastendaaaresth-regijovnaale-laavenjostoe.html"/><parallel_text xml:lang="sme" location="rajahis-guovlulas-ovttasbargu.html"/><parallel_text xml:lang="smj" location="rijkajgasskasasj-guovlolasj-aktisasjbarggo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Grenseoverskridende regionalt samarbeid / Internasjonalt arbeid / Forsiden - Sametinget</p>
+<p type="title">Grenseoverskridende regionalt samarbeid</p>
+<p>Ansvarlig politiker</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<p><em type="bold">Sametinget jobber for: </em></p>
+<list><p type="listitem">Å delta aktivt gjennom SPR i EUs arbeid med urfolksspørsmål.</p>
+<p type="listitem">En styrket deltakelse fra Sametinget i det arktiske samarbeidet.</p>
+<p type="listitem">En fast urfolksrepresentasjon i Barentsrådet, og for at de ulike urfolksgruppene har faste medlemmer i Barents regionråd.</p>
+</list><p><em type="bold">Arktisk råd </em></p>
+<p>Det arktiske samarbeidet involverer åtte stater i det sirkumpolare området, og omfatter både et samarbeid mellom de respektive statenes regjeringer og parlamentariske forsamlinger. Arktisk råd, som er et regionalt samarbeidsorgan, er etablert for å fremme samarbeid, koordinering og samhandling mellom de arktiske stater i felles arktiske saker, spesielt bærekraftig utvikling og miljøvern. I dette samarbeidet har seks urfolksorganisasjoner status som permanente deltakere.</p>
+<p>Arktisk råd består av Norge, Danmark/Grønland/Færøyene, Sverige, Finland, Island, USA, Canada og Russland. I tillegg deltar representanter for arktiske urfolk som permanente deltakere i rådet. Blant disse er Samerådet som representerer samene i Norge, Sverige, Finland og Russland. De seks urfolksorganisasjoner som sitter rundt bordet sammen de åtte medlemsstatene med status som permanente deltakere er:</p>
+<list><p type="listitem" xml:lang="eng">Arctic Athabaskan Council (AAC)</p>
+<p type="listitem" xml:lang="eng">Aleut International Association (AIA)</p>
+<p type="listitem" xml:lang="eng">Gwich'in Council International (GGI)</p>
+<p type="listitem" xml:lang="eng">Inuit Circumpolar Council (ICC)</p>
+<p type="listitem" xml:lang="eng">Russian Arctic Indigenous Peoples of the North (RAIPON)</p>
+<p type="listitem" xml:lang="eng">Saami Council (SC)</p>
+</list><p>Arktisk Råd er et konsensusorgan der de seks urfolksorganisasjonene som permanente deltakere har tale- og forslagsrett på linje med de åtte medlemsstatene, men de har ikke stemmerett. Urfolksorganisasjonene, de seks permanente deltakerne støttes av et eget sekretariat som er lokalisert i København: Indigenous Peoples Secretariat (IPS).</p>
+<p>Frankrike, Tyskland, Nederland, Polen, Spania og Storbritannia har per november 2011 status som observatørstater. Arktisk råd ble opprettet i 1996 som en utvidelse av det arktiske miljøvernsamarbeidet (Arctic Environmental Protection Strategy, AEPS) fra 1991.</p>
+<p>Formannskapet i rådet rullerer blant de åtte medlemslandene og varer normalt i to år. Norge hadde sist formannskapet i perioden 2007-2009, Danmark i perioden 2009-2011, og Sverige har formannskapet i perioden 2011-2013. Det er Ministermøtet som vedtar programmene og prosjektene som skal gjennomføres i regi av Arktisk råd. Ministermøtet avholdes annen hvert år. I perioden mellom ministermøtene avholdes det statssekretærmøter og møter mellom ledende embetsmenn (Senior Arctic officials, SAO). Selve arbeidet foregår i de seks permanente arbeidsgruppene som dekker følgende programområder:</p>
+<list><p type="listitem">Handlingsprogram mot forurensing i Arktis (ACAP)</p>
+<p type="listitem">Overvåkning av det arktiske miljø (AMAP)</p>
+<p type="listitem">Bevaring av arktisk fauna og flora (CAFF)</p>
+<p type="listitem">Beredskap mot akutt forurensning (EPPR)</p>
+<p type="listitem">Beskyttelse av det marine miljø (PAME)</p>
+<p type="listitem">Bærekraftig utvikling (SDWG)</p>
+</list><p>Sametinget inngår i den norske delegasjonen til Arktisk råd og deltar på SAO-møter og på ministermøter. Det er etablert en praksis der Sametingspresidenten holder en del av det norske innlegget på ministermøter i Arktisk råd.</p>
+<p>Forurensning har vært og er et viktig tema i arbeidet i Arktisk råd. I 1997 ble tilstandsrapporten om det arktiske miljøet presentert etter seks års samarbeid i AMAP. Det ble dokumentert uakseptable nivåer av miljøgifter og tungmetaller i Arktis på tross av avstanden fra industrialiserte områder. Rapporten påviste blant annet at noen av miljøgiftene ender i Arktisk via langtransport og akkumuleres i dyr som blir brukt i tradisjonelt kosthold til urfolk. På 2000-tallet tok Arktisk råd også fatt i klimaendringer, og de omfangsrike rapportene rådets ulike arbeidsgrupper har produsert, har vært av stor betydning for å fremheve effekten av klimaendringer og hvor fort de finner sted.</p>
+<p>Klimastudien fra Arktisk Råd; <em type="italic">Arctic Climate Impact Assessment </em>(ACIA), ble lagt frem i november 2004. ACIA er en utredning der de åtte arktiske landene – Canada, Danmark, Finland, Island, Norge, Russland, Sverige og USA – har gjennomført en omfattende vurdering og analyse av hvilke konsekvenser klimaendringer vil kunne ha for miljø og samfunn i Arktis. Det er en omfattende vitenskapelig sammenstilling av tilgjengelig kunnskap om klimaendringer i Arktis og dens virkninger for regionen og verden for øvrig. Studien består av tre dokumenter – en omfattende vitenskapelig rapport, en sammendragsrapport og et policy dokument. </p>
+<p>Hovedfunnene i ACIA-studien er at Arktis nå gjennomgår noen av de raskeste og kraftigste klimaendringer på jorden. Arktis er hjem for mange urfolk som har en kultur og levemåte tilpasset det arktiske miljøet. ACIA-utredningen har lagt vekt på å bruke urfolks kunnskaper, og kombinere disse med forskningsresultater.</p>
+<p>I forhold til klimaendringer uttrykker urfolk bekymringer på internasjonale arenaer som Arktisk råd og under FNs klimakonvensjon. Det oppleves som et stort paradoks for urfolk at forbrenningen av olje, gass og kull fører til global oppvarming, som igjen fører til økt tilgjengelighet for petroleums- og gruvedriftsaktiviteter i urfolks land- og havområder. Samt til avbøtende tiltak mot klimaendringer som utstrakt utbygging i urfolksområder av fornybar energi som vannkraft og vindkraft som gir ulemper for tradisjonelle urfolks næringer som fiske, fangst og reindrift. I tillegg kommer ulike former klimatilpasninger som kan gi negative effekter for berørte urfolk.</p>
+<p>Urfolkene får først ulemper med global oppvarming (isen forsvinner, nye arter kommer til, været blir mer ustabilt, havnivået stiger; boplasser vaskes ut, m.m). Så risikerer urfolkene i neste omgang at mange av negative konsekvenser (økt forurensning, ny økonomi, samfunnsendringer, osv) som følger i kjølvannet av bedre arbeidsklima/temperatur for multinasjonale selskaper som skal utvinne naturressursene i området. Det er derfor viktig å sikre urfolkene reell medbestemmelse og en rimelig andel av de fordeler som den økte tilgangen til ressursene medfører.</p>
+<p>I den senere tid har Arktisk råd - i tillegg til å håndtere forurensning og klimaendringer - snudd oppmerksomheten mot hvordan samfunnet kan tilpasse seg endringene som finner sted. I mai 2011 undertegnet medlemslandene den første juridisk bindende avtalen fremforhandlet i regi av Arktisk råd. Avtalen etablerer et forpliktende rammeverk for samarbeid mellom medlemsstatene i Arktisk råd om søk og redning. Videre har det blitt besluttet å nedsette en arbeidsgruppe som skal utvikle et internasjonalt samarbeidsinstrument for beredskap mot oljeforurensning til havs i Arktis. Rådet har også foretatt omfattende vitenskapelige og miljømessige studier av skipsfart, olje- og gassvirksomheten og havforvaltning i Arktis.</p>
+<p>På ministermøtet i Nuuk på Grønland i 2011 ble besluttet å opprette et permanent sekretariat for Arktisk råd i Tromsø. Sekretariatet skal være operativt fra 2013. Inntil da fungerer det midlertidige sekretariatet (2006-2013) som er samlokalisert med Norsk Polarinstitutt på Framsenteret i Tromsø.</p>
+<p>Les mer om Arktisk Råd her.</p>
+<p><em type="bold">Barentsrådet og Regionrådet </em></p>
+<p>Barentsrådets 15. sesjon ble avholdt i Oulu 15.oktober 2015. Finland overlot formannskapet til Russland. Barentsrådet vedtok felles kommuniké der følgende saksområder vektlegges; økonomisk samarbeid, transport, miljø og klimaendringer. Felles kommuniké finnes her.</p>
+<p>Russlands formannskap vil bl.a. prioritere bærekraftig utvikling ved å etablere moderne infrastruktur, styrke regionens konkurransekraft og investerings attraktivitet, samtidig som man vektlegger rasjonell bruk av ressurser som oppfyller miljøkrav og som tar fullt ut hensyn til urfolkenes behov og interesser. Det russiske formannskapet ønsker også velkommen ideen om å holde toppmøte for Barentssamarbeidets urfolk, under det russiske formannskapet, og at Russland vil være klar til å diskutere dette med arbeidsgruppen for urfolk og andre kolleger. Utenriksministerens tale kan lastes ned her.</p>
+<p>Barentsrådet/Barents Euro-Arctic Council (BEAC) er et forum for mellomstatlig samarbeid i Barents Region. Samene, nenetsere og vepsere er urfolkene i Barentssamarbeidet. Arbeidsgruppen for urfolk (WGIP) deltar på møtene i Barentsrådet og møtene i embetsmannskomiteen. Samisk parlamentarisk råd oppnevner samiske medlemmer fra Finland, Norge og Sverige til WGIP. Neste sesjon avholdes i Russland i 2017.</p>
+<p>Dagen før Barentsrådets møte, 14. oktober, avholdt Barents Regionråd (BRC) sitt møte. Kainuu regionen, Finland, tok over lederskapet i Regionrådet etter Arkhangelsk Oblast (Russia). Kainuu vil lede BRC til slutten av 2017. Barents Regionråd er et interregionalt samarbeidsforum for fylkeskommuner, len, oblast fra de nordlige delene i Finland, Norge and Sverige og nord-vest Russland samt for urfolkene i Barentssamarbeidet. Barentsprogrammet 2014-2018, vedtatt av BRC 2. juni 2013, legger føringer for arbeidet i BRC. Programmet finner du her.</p>
+<p><em type="bold">Arbeidsgruppen for urfolk i BEAR (WGIP) </em>er oppnevnt av Regionrådet og ble etablert på permanent basis i 1995. WGIP har rådgivende status overfor Regionrådet og Barentsrådet (Barents Euro-Arctic Council – BEAC), og har dermed en særskilt politisk status innenfor den formelle strukturen i Barentssamarbeidet. Representantene fra finsk, svensk og norsk side oppnevnes av Samisk Parlamentarisk Råd for fire år. Representantene for samene, nenetserne og vepserne på russisk side velges for tre år etter forslag fra deres egne organisasjoner. Arbeidsgruppens handlingsplan 2013-2016. </p>
+<p>Arbeidsgruppen for urfolk fra 2014:</p>
+<list><p type="listitem">Christina Henriksen, for samene i Norge. Hun er også valgt som leder for Arbeidsgruppen.</p>
+<p type="listitem">Tiina Sanila-Aikio, for samene i Finland</p>
+<p type="listitem">Kristina Nordling, for samene i Sverige</p>
+<p type="listitem">Valentina Sovkina, for samene i Russland</p>
+</list><p>Urfolksrådgiver i Barentssekretariatet, Anja Salo, er sekretær for Arbeidsgruppen.</p>
+<p>Samisk parlamentarisk råd har oppnevnt Christina Henriksen som observatør til Barents Regionråd. Hun representerer samene fra Finland, Norge og Sverige. Urfolk fra Russland velger urfolkenes faste felles representant til Regionrådet for neste periode, fra høsten 2013 til høsten 2015.</p>
+<p><em type="bold">Barents Indigenous Peoples Office (BIPO) etablert i 2003 </em></p>
+<p>Barents Urfolkskontor (Barents Indigenous Peoples’ Office – BIPO) ble opprettet i 2003. Kontoret finansieres av Sametinget i Norge og administreres av Barentssekretariatet. Kontoret skal være et bindeledd mellom urfolkene i Barentssamarbeidet og mellom urfolk og andre aktører i Barentssamarbeidet, og skal spesielt bistå urfolkene fra russisk side med hensyn til prosjektsøknader og informasjon. BIPO ble i 2007 flyttet fra Murmansk by til Lovozero. I 2012 ble kontoret flyttet til Murmansk. Kontoret ledes av Tatiana Egorova. Mer informasjon her.</p>
+<p><em type="bold">Nordisk samisk samarbeid </em></p>
+<p>Myndighetene i Sverige, Finland og Norge har hatt et samarbeid om samiske spørsmål siden Nordisk samarbeidsorgan for same- og reindriftsspørsmål ble opprettet ved Kgl. res. i 1964. Dette samarbeidsorganet har vært et kontaktorgan på embetsnivå mellom de tre landenes regjeringer for informasjon og diskusjon. Samarbeidsutvalget ble i 2001 erstattet av Nordisk embetsmannsorgan for samiske spørsmål som også har representasjon fra sametingene.</p>
+<p>I 2000 ble det etablert et fast samarbeid mellom sametingspresidentene og ministrene som har ansvaret for samiske saker i Finland, Sverige og Norge. Ministrene og sametingspresidentene møtes regelmessig for å orientere om, drøfte og behandle samiske spørsmål av felles interesse. Målsettingen med det nye nordiske samarbeidet er å styrke og utvikle det samiske folkets språk, kultur, næringer og samfunnsliv. Samarbeidet har uformell, men nær tilknytning til Nordisk Ministerråd. Forberedelse og oppfølging av saker ivaretas av Nordisk embetsmannsorgan for samiske spørsmål. Ansvaret for sammenkalling og ledelse av møtene går på omgang mellom de tre landene</p>
+</body></document>

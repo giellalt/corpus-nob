@@ -1,75 +1,45 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Gielddat ja guovllut - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>518</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/nb/tema/kommuner_og_distrikt.html?id=921</origFileName>
-    <parallel_text xml:lang="eng" location="municipalities-and-regions_id_921.html"/>
-    <parallel_text xml:lang="nno" location="kommunar-og-distrikt_id_921.html"/>
-    <parallel_text xml:lang="sme" location="gielddat-ja-guovllut_id_921.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kommuner og distrikter - regjeringen.no</p>
-    <p type="title">Kommuner og distrikter</p>
-    <p>Regjeringen tar utgangspunkt i at folkestyret innebærer et styresett med innflytelse for de mange og spredning av makt. Et levende og desentralisert demokrati med bred deltakelse er grunnleggende for å møte samfunnsutfordringene. Regjeringen fører en aktiv og målrettet distrikts- og regionalpolitikk. Målet er å legge til rette for likeverdige levekår i hele landet og opprettholde hovedtrekkene i bosettingsmønsteret. Regjeringen vil at folk skal ha en reel frihet til å bosette seg der de ønsker, vi skal ta hele landet i bruk for å styrke verdiskapingen og vi skal medvirke til at flere flytter til distriktene.</p>
-    <p><em type="italic">Kommunal- og regionaldepartementet </em>har det overordnede ansvaret for spørsmål som gjelder boligpolitikk, regional- og distriktspolitikk, lokalforvaltning og gjennomføring av valg. </p>
-    <p>På denne siden finner du informasjon og dokumenter som berører kommuner og distrikt på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre.</p>
-    <p>Abonner på e-postvarsling</p>
-    <p type="title">Ny stortingsmelding for distrikts- og regionalpolitikken</p>
-    <p>[30.09.2008]</p>
-    <p>Regjeringen la 17. april 2009 fram ei distrikts- og regionalmelding med tittelen <span type="quote">"Lokal vekstkraft og framtidstru"</span>.</p>
-    <p type="title">Kommunestruktur</p>
-    <p>[16.12.2008]</p>
-    <p>Vi har en finmasket kommunestruktur i Norge. Per 1.1.2009 er det 430 store eller små kommuner i landet.</p>
-    <p type="title">Nyheter fra departementene om kommuner og distrikt:</p>
-    <p type="title">5,7 milliardar kroner meir til kommunane</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår at kommunane får ei reell inntektsauke på 5,7 milliardar kroner neste år.</p>
-    <p type="title">Auka skatteinntekter i 2010</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Nye anslag viser at kommunane får auka skatteinntektene sine med om lag 800 millionar kroner i 2010.</p>
-    <p type="title">2,8 milliardar kroner til distrikts- og regionalpolitikken</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår å løyve om lag 2,8 milliardar kroner til distrikts- og regionalpolitikken i 2011. Det er ein auke på nesten 100 millionar kroner frå 2010.</p>
-    <p type="title">137,8 millionar kroner til regional utvikling i Finnmark</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Tilskotet til regional utvikling i Finnmark skal aukast frå 134,3 millionar kroner i 2010 til 137,8 millionar kroner i 2011.</p>
-    <p type="title">64,4 millionar kroner til regional utvikling i Telemark</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Tilskotet til regional utvikling i Telemark skal aukast frå 61,5 millionar kroner i 2010 til 64,4 millionar kroner i 2011.</p>
-    <p type="title">269 millionar meir til Nord-Trøndelag neste år</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår 269 millionar kroner i vekst i frie inntekter til kommunane i Nord-Trøndelag og Nord-Trøndelag fylkeskommune neste år.</p>
-    <p type="title">34,4 millionar kroner til regional utvikling i Buskerud</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Tilskotet til regional utvikling i Buskerud skal aukast frå 31,1 millionar kroner i 2010 til 34,4 millionar kroner i 2011.</p>
-    <p type="title">364 millionar meir til Oppland neste år</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår 364 millionar kroner i vekst i frie inntekter til kommunane i Oppland og Oppland fylkeskommune neste år.</p>
-    <p type="title">464 millionar meir til Vestfold neste år</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår 464 millionar kroner i vekst i frie inntekter til kommunane i Vestfold og Vestfold fylkeskommune neste år.</p>
-    <p type="title">1,4 milliardar meir til Oslo neste år</p>
-    <p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
-    <p>Regjeringa foreslår 1,4 milliardar kroner i vekst i frie inntekter til Oslo kommune og Oslo som fylkeskommune neste år.</p>
-    <p>Flere dokumenter om temaet</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Gielddat ja guovllut - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="regjeringen.no" sex="unknown" born="" nationality=""/></author><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>518</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/nb/tema/kommuner_og_distrikt.html?id=921</origFileName><parallel_text xml:lang="eng" location="municipalities-and-regions_id_921.html"/><parallel_text xml:lang="nno" location="kommunar-og-distrikt_id_921.html"/><parallel_text xml:lang="sme" location="gielddat-ja-guovllut_id_921.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kommuner og distrikter - regjeringen.no</p>
+<p type="title">Kommuner og distrikter</p>
+<p>Regjeringen tar utgangspunkt i at folkestyret innebærer et styresett med innflytelse for de mange og spredning av makt. Et levende og desentralisert demokrati med bred deltakelse er grunnleggende for å møte samfunnsutfordringene. Regjeringen fører en aktiv og målrettet distrikts- og regionalpolitikk. Målet er å legge til rette for likeverdige levekår i hele landet og opprettholde hovedtrekkene i bosettingsmønsteret. Regjeringen vil at folk skal ha en reel frihet til å bosette seg der de ønsker, vi skal ta hele landet i bruk for å styrke verdiskapingen og vi skal medvirke til at flere flytter til distriktene.</p>
+<p><em type="italic">Kommunal- og regionaldepartementet </em>har det overordnede ansvaret for spørsmål som gjelder boligpolitikk, regional- og distriktspolitikk, lokalforvaltning og gjennomføring av valg. </p>
+<p>På denne siden finner du informasjon og dokumenter som berører kommuner og distrikt på et overordnet nivå. Du kan utforske temaet nærmere i menyen til høyre.</p>
+<p>Abonner på e-postvarsling</p>
+<p type="title">Ny stortingsmelding for distrikts- og regionalpolitikken</p>
+<p>[30.09.2008]</p>
+<p>Regjeringen la 17. april 2009 fram ei distrikts- og regionalmelding med tittelen <span type="quote">"Lokal vekstkraft og framtidstru"</span>.</p>
+<p type="title">Kommunestruktur</p>
+<p>[16.12.2008]</p>
+<p>Vi har en finmasket kommunestruktur i Norge. Per 1.1.2009 er det 430 store eller små kommuner i landet.</p>
+<p type="title">Nyheter fra departementene om kommuner og distrikt:</p>
+<p type="title">5,7 milliardar kroner meir til kommunane</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår at kommunane får ei reell inntektsauke på 5,7 milliardar kroner neste år.</p>
+<p type="title">Auka skatteinntekter i 2010</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Nye anslag viser at kommunane får auka skatteinntektene sine med om lag 800 millionar kroner i 2010.</p>
+<p type="title">2,8 milliardar kroner til distrikts- og regionalpolitikken</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår å løyve om lag 2,8 milliardar kroner til distrikts- og regionalpolitikken i 2011. Det er ein auke på nesten 100 millionar kroner frå 2010.</p>
+<p type="title">137,8 millionar kroner til regional utvikling i Finnmark</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Tilskotet til regional utvikling i Finnmark skal aukast frå 134,3 millionar kroner i 2010 til 137,8 millionar kroner i 2011.</p>
+<p type="title">64,4 millionar kroner til regional utvikling i Telemark</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Tilskotet til regional utvikling i Telemark skal aukast frå 61,5 millionar kroner i 2010 til 64,4 millionar kroner i 2011.</p>
+<p type="title">269 millionar meir til Nord-Trøndelag neste år</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår 269 millionar kroner i vekst i frie inntekter til kommunane i Nord-Trøndelag og Nord-Trøndelag fylkeskommune neste år.</p>
+<p type="title">34,4 millionar kroner til regional utvikling i Buskerud</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Tilskotet til regional utvikling i Buskerud skal aukast frå 31,1 millionar kroner i 2010 til 34,4 millionar kroner i 2011.</p>
+<p type="title">364 millionar meir til Oppland neste år</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår 364 millionar kroner i vekst i frie inntekter til kommunane i Oppland og Oppland fylkeskommune neste år.</p>
+<p type="title">464 millionar meir til Vestfold neste år</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår 464 millionar kroner i vekst i frie inntekter til kommunane i Vestfold og Vestfold fylkeskommune neste år.</p>
+<p type="title">1,4 milliardar meir til Oslo neste år</p>
+<p>[Pressemelding, Kommunal- og regionaldepartementet, 05.10.2010]</p>
+<p>Regjeringa foreslår 1,4 milliardar kroner i vekst i frie inntekter til Oslo kommune og Oslo som fylkeskommune neste år.</p>
+<p>Flere dokumenter om temaet</p>
+</body></document>

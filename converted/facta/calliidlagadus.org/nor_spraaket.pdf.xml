@@ -1,71 +1,45 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-    </multilingual>
-    <origFileName>http://www.calliidlagadus.org/govat/doc/nor_spraaket.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="sam_samegiella.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språk</p>
-    <p>Det samiske språket tilhører den finskugriske gren av de uralske språkene. Det er beslektet med de østersjøfinske språkene finsk, estisk, samt ungarsk. Det samiske språk og bosettingsområdet strekker seg over de nordlige deler av Norge, Sverige, Finland og Kolahalvøya i Russland, i Skandinavia så langt sør som Femunden på norsk side og Dalarne i Sverige.</p>
-    <p>Nordsamisk er den største samiske språkgruppen og omfatter samer i både Norge, Sverige og Finland. I 1979 ble et felles skriftspråk for nordsamisk vedtatt. Ortografien ligger nært talespråket.</p>
-    <p>Samisk er rikt på ord og uttrykk som beskriver natur, dyreliv, formasjoner i naturen, snø og forhold som var viktige i jakt og fangstsamfunnet. Endringene i den samiske levemåten har gjort at disse ord og uttrykk holder på å gå tapt.</p>
-    <p>En undersøkelse gjort av Samisk nærings og utredningssenter i 2000 for Samisk språkråd anslår samiske språkbrukere i Norge til ca. 25.000. Omtrent halvparten av disse både taler, leser og skriver samisk. Det har vært en positiv utvikling de siste tjue år, særlig i det området som betegnes som forvaltningsområdet for samisk språk, og omfattes av samisk språklov i Norge, nemlig kommunene Nesseby, Tana, Karasjok, Porsanger og Kautokeino i Finnmark fylke, og Kåfjord i Troms fylke. Sørsamisken er i dag svakest stilt, da samisk språk ikke lenger er dagligspråket i så mange familier. Noe bedre er det for lulesamisk, der flere barn nå lærer samisk både hjemme og på skolen.</p>
-    <p xml:lang="sme">www.samediggi.no</p>
-    <p>www.galdu.org Samene – en håndbok, Karasjok 2003.</p>
-    <p>Vadsø</p>
-    <p>Sjøsamiske dialekter</p>
-    <p>MurmanskArsjohka</p>
-    <p>Neiden</p>
-    <p xml:lang="sme">Petsamo</p>
-    <p>Lakselv</p>
-    <p>Alta Inari</p>
-    <p xml:lang="sme">Jovkkoš</p>
-    <p>Goradet</p>
-    <p xml:lang="sme">Lovozero</p>
-    <p xml:lang="sme">Kárášjohka</p>
-    <p xml:lang="sme">Šoŋgui</p>
-    <p xml:lang="sme">Njuohttejávri</p>
-    <p xml:lang="sme">Guovdageaidnu</p>
-    <p xml:lang="sme">ČalmnvárriSosnoavki</p>
-    <p>Ponoj</p>
-    <p xml:lang="sme">Čuhkkesuolu</p>
-    <p xml:lang="sme">Áhkkil</p>
-    <p xml:lang="sme">Vuohčču Enontekiö</p>
-    <p xml:lang="sme">MuonioČohkkiras</p>
-    <p xml:lang="sme">Sarvvesjávri</p>
-    <p xml:lang="sme">Vazás</p>
-    <p xml:lang="sme">Sodankylä</p>
-    <p>Gällivarre</p>
-    <p xml:lang="sme">Guollejávri</p>
-    <p>Jokkmokk</p>
-    <p>Arjeplog</p>
-    <p>Arvidsjaur</p>
-    <p xml:lang="sme">Språkkart fra Aage Solbakk Sámi historjá 2.</p>
-    <p>1. Sørsamisk 2. Umesamisk 3. Pitesamisk 4. Lulesamisk 5. Nordsamisk 6. Enaresamisk 7. Skoltesamisk 8. Ahkkilsamisk 9. Kildinsamisk 10. Tersamisk</p>
-    <p xml:lang="sme">Suorsá</p>
-    <p xml:lang="sme">Liksu</p>
-    <p xml:lang="sme">Vilhelmina</p>
-    <p>Snåsa</p>
-    <p>Røros</p>
-    <p>Tännäs</p>
-    <p>Idre</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>307</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/></multilingual><origFileName>http://www.calliidlagadus.org/govat/doc/nor_spraaket.pdf</origFileName><parallel_text xml:lang="sme" location="sam_samegiella.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Språk</p>
+<p>Det samiske språket tilhører den finskugriske gren av de uralske språkene. Det er beslektet med de østersjøfinske språkene finsk, estisk, samt ungarsk. Det samiske språk og bosettingsområdet strekker seg over de nordlige deler av Norge, Sverige, Finland og Kolahalvøya i Russland, i Skandinavia så langt sør som Femunden på norsk side og Dalarne i Sverige.</p>
+<p>Nordsamisk er den største samiske språkgruppen og omfatter samer i både Norge, Sverige og Finland. I 1979 ble et felles skriftspråk for nordsamisk vedtatt. Ortografien ligger nært talespråket.</p>
+<p>Samisk er rikt på ord og uttrykk som beskriver natur, dyreliv, formasjoner i naturen, snø og forhold som var viktige i jakt og fangstsamfunnet. Endringene i den samiske levemåten har gjort at disse ord og uttrykk holder på å gå tapt.</p>
+<p>En undersøkelse gjort av Samisk nærings og utredningssenter i 2000 for Samisk språkråd anslår samiske språkbrukere i Norge til ca. 25.000. Omtrent halvparten av disse både taler, leser og skriver samisk. Det har vært en positiv utvikling de siste tjue år, særlig i det området som betegnes som forvaltningsområdet for samisk språk, og omfattes av samisk språklov i Norge, nemlig kommunene Nesseby, Tana, Karasjok, Porsanger og Kautokeino i Finnmark fylke, og Kåfjord i Troms fylke. Sørsamisken er i dag svakest stilt, da samisk språk ikke lenger er dagligspråket i så mange familier. Noe bedre er det for lulesamisk, der flere barn nå lærer samisk både hjemme og på skolen.</p>
+<p xml:lang="sme">www.samediggi.no</p>
+<p>www.galdu.org Samene – en håndbok, Karasjok 2003.</p>
+<p>Vadsø</p>
+<p>Sjøsamiske dialekter</p>
+<p>MurmanskArsjohka</p>
+<p>Neiden</p>
+<p xml:lang="sme">Petsamo</p>
+<p>Lakselv</p>
+<p>Alta Inari</p>
+<p xml:lang="sme">Jovkkoš</p>
+<p>Goradet</p>
+<p xml:lang="sme">Lovozero</p>
+<p xml:lang="sme">Kárášjohka</p>
+<p xml:lang="sme">Šoŋgui</p>
+<p xml:lang="sme">Njuohttejávri</p>
+<p xml:lang="sme">Guovdageaidnu</p>
+<p xml:lang="sme">ČalmnvárriSosnoavki</p>
+<p>Ponoj</p>
+<p xml:lang="sme">Čuhkkesuolu</p>
+<p xml:lang="sme">Áhkkil</p>
+<p xml:lang="sme">Vuohčču Enontekiö</p>
+<p xml:lang="sme">MuonioČohkkiras</p>
+<p xml:lang="sme">Sarvvesjávri</p>
+<p xml:lang="sme">Vazás</p>
+<p xml:lang="sme">Sodankylä</p>
+<p>Gällivarre</p>
+<p xml:lang="sme">Guollejávri</p>
+<p>Jokkmokk</p>
+<p>Arjeplog</p>
+<p>Arvidsjaur</p>
+<p xml:lang="sme">Språkkart fra Aage Solbakk Sámi historjá 2.</p>
+<p>1. Sørsamisk 2. Umesamisk 3. Pitesamisk 4. Lulesamisk 5. Nordsamisk 6. Enaresamisk 7. Skoltesamisk 8. Ahkkilsamisk 9. Kildinsamisk 10. Tersamisk</p>
+<p xml:lang="sme">Suorsá</p>
+<p xml:lang="sme">Liksu</p>
+<p xml:lang="sme">Vilhelmina</p>
+<p>Snåsa</p>
+<p>Røros</p>
+<p>Tännäs</p>
+<p>Idre</p>
+</body></document>

@@ -1,108 +1,64 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>331</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Komiteer</origFileName>
-    <parallel_text xml:lang="sma" location="moenehtsh.html"/>
-    <parallel_text xml:lang="sme" location="lavdegottit.html"/>
-    <parallel_text xml:lang="smj" location="komitea.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Komiteer / Organisasjonsstruktur / Om Sametinget / Forsiden - Sametinget</p>
-    <p type="title">Komiteer</p>
-    <p>Alle Sametingets representanter er medlem av en av de tre fagkomiteene som behandler saker og gir innstilling til Sametinget i plenum.</p>
-    <p>Fagkomiteene er som følger:</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Plan- og finanskomiteen </em>
-      </p>
-    </list>
-    <p>Kirsti Guvsám (Leder)</p>
-    <p>Ronny Wilhelmsen (Nestleder)</p>
-    <p>Toril Bakken Kåven</p>
-    <p>Aud Marthinsen</p>
-    <p>Láilá Susanne Vars</p>
-    <p>Marit Kirsten A. Gaup</p>
-    <p>Knut Inge Store</p>
-    <p>Ellen Kristina Saba</p>
-    <p>Jovna Zakarias Dunfjell</p>
-    <p>Anita P. Ravna</p>
-    <p>Laila Nystad</p>
-    <p>Piera Heaika Muotka</p>
-    <p>Viktor Inge Paulsen</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Oppvekst-, omsorg- og utdanningskomiteen </em>
-      </p>
-    </list>
-    <p>Ellinor Marita Jåma (Leder)</p>
-    <p>Beaska Niillas (Nestleder)</p>
-    <p>Kjellrun Wilhelmsen</p>
-    <p>Lars Oddmund Sandvik</p>
-    <p>Johan Vasara</p>
-    <p>John Kappfjell</p>
-    <p/>
-    <p>Lars Filip Paulsen</p>
-    <p>Sandra Márjá West</p>
-    <p>Nanna Thomassen</p>
-    <p>Inger Elin Kristina Utsi</p>
-    <p>Jørn Are Gaski</p>
-    <p>Hartvik Hansen</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Nærings- og kulturkomiteen </em>
-      </p>
-    </list>
-    <p>Mariann Wollmann Magga (Leder)</p>
-    <p>Mathis Nilsen Eira (Nestleder)</p>
-    <p>Christina Henriksen</p>
-    <p>Tor Gunnar Nystad</p>
-    <p>Nora Marie Bransfjell</p>
-    <p>Lisa-Katrine Mo</p>
-    <p>Per Mathis Oskal</p>
-    <p>Per A. Bæhr</p>
-    <p>Marie Therese N. Aslaksen</p>
-    <p>Arthur Tørfoss</p>
-    <p>Isak Mathis O. Hætta</p>
-    <p>Inger Eline Eriksen</p>
-    <p>Kjetil Romsdal</p>
-    <p>Komitémøtene blir holdt i forkant av plenumsmøtene. Det avsettes vanligvis fire uker til komité- og plenumsmøter. Komitémøtene avholdes mandag og tirsdag, plenum fra onsdag til fredag.</p>
-    <p>I tillegg til fagkomiteene finnes også Kontrollkomiteen og Valgkomiteen.</p>
-    <p><em type="bold">Kontrollutvalget </em>skal utøve parlamentarisk kontroll og styringskontroll over virksomheten som finansieres over Sametingets budsjett. I dette ligger også å kontrollere Sametingets årsregnskap og eventuelle merknader til regnskapet fra Riksrevisjonen. Komiteen kan foreta de undersøkelser i Sametingets administrasjon som den anser som nødvendig. </p>
-    <p>Kontrollutvalget avgir innstilling til Sametingets plenum i saker den tar opp til behandling, enten som en egen sak eller gjennom komiteens årsmelding.</p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Kontrollutvalget </em>
-      </p>
-    </list>
-    <p>John Kappfjell (Leder)</p>
-    <p>Marie Therese Nordsletta Aslaksen (Nestleder)</p>
-    <p>Tor Gunnar Nystad</p>
-    <p>Inger Elin Kristina Utsi</p>
-    <p>Arthur Tørfoss</p>
-    <p><em type="bold">Valgkomiteen </em>behandler saker der Sametingets plenum skal gjøre vedtak om valg til organer i eller utenfor Sametinget. Komiteens oppgave er å forberede saken og avgi innstilling til plenum i saken som komiteen har fått fra plenum. </p>
-    <list>
-      <p type="listitem">
-        <em type="bold">Valgkomiteen </em>
-      </p>
-    </list>
-    <p>Mathis Nilsen Eira (Leder)</p>
-    <p>Marit Kirsten A. Gaup (Nestleder)</p>
-    <p>Sandra Márjá West</p>
-    <p>Lars Filip Paulsen</p>
-    <p>Isak Mathis O. Hætta</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>331</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Komiteer</origFileName><parallel_text xml:lang="sma" location="moenehtsh.html"/><parallel_text xml:lang="sme" location="lavdegottit.html"/><parallel_text xml:lang="smj" location="komitea.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Komiteer / Organisasjonsstruktur / Om Sametinget / Forsiden - Sametinget</p>
+<p type="title">Komiteer</p>
+<p>Alle Sametingets representanter er medlem av en av de tre fagkomiteene som behandler saker og gir innstilling til Sametinget i plenum.</p>
+<p>Fagkomiteene er som følger:</p>
+<list><p type="listitem"><em type="bold">Plan- og finanskomiteen </em></p>
+</list><p>Kirsti Guvsám (Leder)</p>
+<p>Ronny Wilhelmsen (Nestleder)</p>
+<p>Toril Bakken Kåven</p>
+<p>Aud Marthinsen</p>
+<p>Láilá Susanne Vars</p>
+<p>Marit Kirsten A. Gaup</p>
+<p>Knut Inge Store</p>
+<p>Ellen Kristina Saba</p>
+<p>Jovna Zakarias Dunfjell</p>
+<p>Anita P. Ravna</p>
+<p>Laila Nystad</p>
+<p>Piera Heaika Muotka</p>
+<p>Viktor Inge Paulsen</p>
+<list><p type="listitem"><em type="bold">Oppvekst-, omsorg- og utdanningskomiteen </em></p>
+</list><p>Ellinor Marita Jåma (Leder)</p>
+<p>Beaska Niillas (Nestleder)</p>
+<p>Kjellrun Wilhelmsen</p>
+<p>Lars Oddmund Sandvik</p>
+<p>Johan Vasara</p>
+<p>John Kappfjell</p>
+<p/>
+<p>Lars Filip Paulsen</p>
+<p>Sandra Márjá West</p>
+<p>Nanna Thomassen</p>
+<p>Inger Elin Kristina Utsi</p>
+<p>Jørn Are Gaski</p>
+<p>Hartvik Hansen</p>
+<list><p type="listitem"><em type="bold">Nærings- og kulturkomiteen </em></p>
+</list><p>Mariann Wollmann Magga (Leder)</p>
+<p>Mathis Nilsen Eira (Nestleder)</p>
+<p>Christina Henriksen</p>
+<p>Tor Gunnar Nystad</p>
+<p>Nora Marie Bransfjell</p>
+<p>Lisa-Katrine Mo</p>
+<p>Per Mathis Oskal</p>
+<p>Per A. Bæhr</p>
+<p>Marie Therese N. Aslaksen</p>
+<p>Arthur Tørfoss</p>
+<p>Isak Mathis O. Hætta</p>
+<p>Inger Eline Eriksen</p>
+<p>Kjetil Romsdal</p>
+<p>Komitémøtene blir holdt i forkant av plenumsmøtene. Det avsettes vanligvis fire uker til komité- og plenumsmøter. Komitémøtene avholdes mandag og tirsdag, plenum fra onsdag til fredag.</p>
+<p>I tillegg til fagkomiteene finnes også Kontrollkomiteen og Valgkomiteen.</p>
+<p><em type="bold">Kontrollutvalget </em>skal utøve parlamentarisk kontroll og styringskontroll over virksomheten som finansieres over Sametingets budsjett. I dette ligger også å kontrollere Sametingets årsregnskap og eventuelle merknader til regnskapet fra Riksrevisjonen. Komiteen kan foreta de undersøkelser i Sametingets administrasjon som den anser som nødvendig. </p>
+<p>Kontrollutvalget avgir innstilling til Sametingets plenum i saker den tar opp til behandling, enten som en egen sak eller gjennom komiteens årsmelding.</p>
+<list><p type="listitem"><em type="bold">Kontrollutvalget </em></p>
+</list><p>John Kappfjell (Leder)</p>
+<p>Marie Therese Nordsletta Aslaksen (Nestleder)</p>
+<p>Tor Gunnar Nystad</p>
+<p>Inger Elin Kristina Utsi</p>
+<p>Arthur Tørfoss</p>
+<p><em type="bold">Valgkomiteen </em>behandler saker der Sametingets plenum skal gjøre vedtak om valg til organer i eller utenfor Sametinget. Komiteens oppgave er å forberede saken og avgi innstilling til plenum i saken som komiteen har fått fra plenum. </p>
+<list><p type="listitem"><em type="bold">Valgkomiteen </em></p>
+</list><p>Mathis Nilsen Eira (Leder)</p>
+<p>Marit Kirsten A. Gaup (Nestleder)</p>
+<p>Sandra Márjá West</p>
+<p>Lars Filip Paulsen</p>
+<p>Isak Mathis O. Hætta</p>
+</body></document>

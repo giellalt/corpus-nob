@@ -1,96 +1,67 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1075</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Kulturminner/Matija-hadde-beste-kulturminnefoto</origFileName>
-    <parallel_text xml:lang="sme" location="matija-govvii-buoremus-kulturmuitogova.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Matija hadde beste kulturminnefoto / Kulturminner / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
-    <p type="title">Matija hadde beste kulturminnefoto</p>
-    <p>13. oktober 2014</p>
-    <p>Matija Tatomirovic fra Mehamn i Gamvik kommune stakk av med førsteprisen på 7.500 kroner i sommerens fotokonkurranse med tema kulturminner i Finnmark.</p>
-    <p type="title">Om konkurransen</p>
-    <p>Sommerens fotokonkurranse om kulturminner i Finnmark ble avsluttet 1. september, og vinnerne er nå kåret. Sametinget og Finnmark fylkeskommune ønsket å vite hva et kulturminne er for folk som ferdes i Finnmark, og konkurransen resulterte i 84 innsendte bidrag, med varierte motiver fra hele fylket.</p>
-    <p type="title">Ikke enkel utvelgelse</p>
-    <p>Juryen har plukket ut 10 vinnere, med en 1., 2. og 3. plass, mens de resterende 7 vinnerne er i unummerert rekkefølge. Utvelgelsen var på langt nær enkel og foregikk i flere runder, juryen hadde mange gode motiver og spennende kulturminner å velge mellom.</p>
-    <p type="title">Vekt på variasjon</p>
-    <p>Felles for alle vinnerne er at de har gode motiver, enten med en personlig vri på tolkningen av et kulturminne, eller de avbilder kulturminner som ikke er så kjente, og som forteller en spennende historie. I tillegg til fototekniske kriterier og komposisjon har vi lagt vekt på en variasjon i motivtyper og kulturminner, og at det er en geografisk spredning med kulturminner både fra innland og kyst. Blant vinnerne er det representert både arkeologiske kulturminner og bygninger, kystkultur og reindrift, tro og næring, krigsminner og barnas kulturminner.</p>
-    <p type="title">Her er vinnerne av de ti øverste og premierte plassene:</p>
-    <p type="title">1. plass, 7500 kroner:</p>
-    <p><em type="bold">Matija </em><em type="bold">Tatomirovic </em>, bosatt i Mehamn, Gamvik. </p>
-    <p type="title">Motiv</p>
-    <p><span type="quote">«Sakte fart»</span> skilt, Mehamn, Gamvik kommune.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Vinnerbildet er av høy fotografisk kvalitet, og er både teknisk godt og svært godt komponert. Motivet har både dybde og bevegelse, og formidler en historie om det å være på reise, og det å komme til et sted. Skiltet i bildet er et kulturminne som vitner om kystkultur, noe som er svært viktig for Finnmarkshistorien. Havet og elvene har i størsteparten av vår forhistorie vært den viktigste veien for ferdsel og transport. Fiskeværene på Nordkyn fikk veiforbindelse først i 1989, og så sent som i 2007 ble Nordkynveien åpnet som helårsvei. Sjøveien har her dermed hatt stor betydning helt opp til vår tid, og er en del av en nær historie. Merking i form av skilt, sjømerker og kystlandemerker har fungert som navigeringspunkter for å gi trygg ferdsel til sjøs.</p>
-    <p type="title">2. plass, 2000 kroner:</p>
-    <p><em type="bold">Jon Egil Nilsen </em>, bosatt Russenes, Porsanger. </p>
-    <p type="title">Motiv</p>
-    <p>Skarvberget, Sieidi på samisk, som ligger på vestsiden av Porsangerfjorden, Porsanger kommune. På toppen sees offerplassen <span type="quote">”Hornet”</span>. Bildet er tatt en tidlig morgen i juli, akkurat idet sola kommer frem.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Bildet formidler en helt spesiell stemning, hvor fotografen har fanget et øyeblikk i det sola kommer fram. Til tross for at bildet ikke er teknisk perfekt med litt uskarphet, syns vi bildet er så spennende både i komposisjon, innhold og stemning, at det fortjener en 2. plass. Bildet er sammensatt av flere elementer av kulturminner, og vitner om flere elementer ved samisk kultur. Sieidi, den samiske offerplassen på toppen er en naturformasjon med tro og hendelser knyttet til seg, mens lavvoen og huset formidler en historie knyttet til bosetning.</p>
-    <p type="title">3. plass, 2000 kroner:</p>
-    <p><em type="bold">Ingjerd </em><em type="bold">Tjelle </em>, bosatt i Vadsø. </p>
-    <p type="title">Motiv</p>
-    <p>Offerring med gutt, ved Syltevikvannet i Varanger, Båtsfjord kommune.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Bildet er både teknisk godt og har en svært god komposisjon. Også her formidles en stemning, hvor fortid bindes sammen med nåtid i form av barnet i steinringen. Motivet har en menneskelig dimensjon og vakker ro, og gutten formidler en undring der han står og ser på steinsirkelen. Disse steinringene som vi finner i flere varianter i Finnmark, er et kulturminne som det knyttes mye undring til, og som er gjenstand for forskning og teorier innenfor arkeologien. De tolkes oftest som offerringer, men det er mange uklarheter omkring både hvordan de har vært brukt, og når de har vært i bruk.</p>
-    <p type="title">Syv premierte bidrag, gavekort 500 kroner</p>
-    <p>Presentert i tilfeldig rekkefølge</p>
-    <p><em type="bold">Lars Öberg </em>, bosatt i Umeå, Sverige </p>
-    <p type="title">Motiv</p>
-    <p><span type="quote">"Människor vid vatten 1"</span> Bildet er av en helleristning i Alta, og er fotografert ved midnatt.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Öberg har levert tre flotte bilder med tema <span type="quote">«Mennesker ved vann»</span>. Vi syns denne vinklingen på helleristningen, som er et velkjent arkeologisk kulturminne, var personlig og stemningsfull. Fotografens plassering, og både lys og vann spiller inn for å formidle motivet.</p>
-    <p><em type="bold">Asbjørn Nilsen </em>, bosatt i Vardø. </p>
-    <p type="title">Motiv</p>
-    <p>Fjøs eller uthus på Seglodden, Båtsfjord kommune. Bildet viser rester etter bosetning.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Her er et spennende og sjeldent kulturminne, som vitner om bosetning, livnæring og materialbruk i værharde strøk. Motivet er nesten malerisk i sin detaljrikdom og farger.</p>
-    <p><em type="bold">Inger Unstad </em>, bosatt i Vadsø. </p>
-    <p type="title">Motiv</p>
-    <p><span type="quote">«Grønn hverdag»</span>, fra Siccajávri, Kautokeino kommune.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Motivet er både sjarmerende og enhetlig, og flott i sin fargekomposisjon. Det viser tradisjonell byggeskikk med påbygg og bruk over tid, slik at selve bygget forteller en egen historie.</p>
-    <p xml:lang="sme"><em type="bold">Máret Sárá </em>, bosatt i Karasjok </p>
-    <p type="title">Motiv</p>
-    <p>Lekeinnhegning som noen unger i reindrifta har laget oppå en stein. Barna har laget innhegninger med steiner og noen steiner er også reinsdyr. Denne er ganske gammel, kanskje mer enn 50 år. Den ligger på Meahccejárgielas, Spierttanjárga, på Bissojovárre/Børselvfjellet.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Bildet er valgt ut først og fremst fordi det har en spesiell historie og representerer en sjelden type kulturminne, nemlig barnas kulturminner. Barn blir ofte usynlige i forhistorien, mens her formidles noe dagligdags og gir et slags øyeblikksbilde av barns lek i sammenheng med reindrifta.</p>
-    <p><em type="bold">Tor Even K. Mortensen </em>, bosatt Kirkenes </p>
-    <p type="title">Motiv</p>
-    <p>Grafitti på bunker fra 2. verdenskrig, Kirkenes, Sør-Varanger kommune.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Bildet kombinerer to ulike kulturminnetyper; krigsminner fra 2. verdenskrig og grafitti som spor av en nyere ungdomskultur. Krigsminner har ikke formelt vern i Norge, men er viktige vitnesbyrd i Finnmarkssammenheng. Bildet har en god komposisjon og fargepalett.</p>
-    <p><em type="bold">Samuel Bay </em>, bosatt i Vadsø </p>
-    <p type="title">Motiv</p>
-    <p>Under kaia på Ekkerøy, Vadsø kommune.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Komposisjonen er dynamisk med sine linjer og kontraster. Kulturminnet vises også fra en annerledes og personlig vinkel, som minner en om barndommens lek og oppdagelser i en sone som bare er tilgjengelig ved fjære sjø.</p>
-    <p>
-      <em type="bold">Bente Iversen </em>
-    </p>
-    <p type="title">Motiv</p>
-    <p>Fiskehjell på Nesseby kirkested, Nesseby kommune, et kulturminne som stadig er i bruk i en levende kystkultur.</p>
-    <p type="title">Juryens begrunnelse</p>
-    <p>Motivet skilte seg ut fra flere andre bilder av fiskehjeller, med en annerledes vinkel og friskhet. Gummihansken tilfører et ekstra element, og er sammen med fisken som er hengt opp et vitnesbyrd på en levende kystkultur, og en kombinasjon av nytt og gammelt.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1075</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Miljoe-areal-og-kulturvern/Kulturminner/Matija-hadde-beste-kulturminnefoto</origFileName><parallel_text xml:lang="sme" location="matija-govvii-buoremus-kulturmuitogova.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Matija hadde beste kulturminnefoto / Kulturminner / Miljø, areal og kulturvern / Forsiden - Sametinget</p>
+<p type="title">Matija hadde beste kulturminnefoto</p>
+<p>13. oktober 2014</p>
+<p>Matija Tatomirovic fra Mehamn i Gamvik kommune stakk av med førsteprisen på 7.500 kroner i sommerens fotokonkurranse med tema kulturminner i Finnmark.</p>
+<p type="title">Om konkurransen</p>
+<p>Sommerens fotokonkurranse om kulturminner i Finnmark ble avsluttet 1. september, og vinnerne er nå kåret. Sametinget og Finnmark fylkeskommune ønsket å vite hva et kulturminne er for folk som ferdes i Finnmark, og konkurransen resulterte i 84 innsendte bidrag, med varierte motiver fra hele fylket.</p>
+<p type="title">Ikke enkel utvelgelse</p>
+<p>Juryen har plukket ut 10 vinnere, med en 1., 2. og 3. plass, mens de resterende 7 vinnerne er i unummerert rekkefølge. Utvelgelsen var på langt nær enkel og foregikk i flere runder, juryen hadde mange gode motiver og spennende kulturminner å velge mellom.</p>
+<p type="title">Vekt på variasjon</p>
+<p>Felles for alle vinnerne er at de har gode motiver, enten med en personlig vri på tolkningen av et kulturminne, eller de avbilder kulturminner som ikke er så kjente, og som forteller en spennende historie. I tillegg til fototekniske kriterier og komposisjon har vi lagt vekt på en variasjon i motivtyper og kulturminner, og at det er en geografisk spredning med kulturminner både fra innland og kyst. Blant vinnerne er det representert både arkeologiske kulturminner og bygninger, kystkultur og reindrift, tro og næring, krigsminner og barnas kulturminner.</p>
+<p type="title">Her er vinnerne av de ti øverste og premierte plassene:</p>
+<p type="title">1. plass, 7500 kroner:</p>
+<p><em type="bold">Matija </em><em type="bold">Tatomirovic </em>, bosatt i Mehamn, Gamvik. </p>
+<p type="title">Motiv</p>
+<p><span type="quote">«Sakte fart»</span> skilt, Mehamn, Gamvik kommune.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Vinnerbildet er av høy fotografisk kvalitet, og er både teknisk godt og svært godt komponert. Motivet har både dybde og bevegelse, og formidler en historie om det å være på reise, og det å komme til et sted. Skiltet i bildet er et kulturminne som vitner om kystkultur, noe som er svært viktig for Finnmarkshistorien. Havet og elvene har i størsteparten av vår forhistorie vært den viktigste veien for ferdsel og transport. Fiskeværene på Nordkyn fikk veiforbindelse først i 1989, og så sent som i 2007 ble Nordkynveien åpnet som helårsvei. Sjøveien har her dermed hatt stor betydning helt opp til vår tid, og er en del av en nær historie. Merking i form av skilt, sjømerker og kystlandemerker har fungert som navigeringspunkter for å gi trygg ferdsel til sjøs.</p>
+<p type="title">2. plass, 2000 kroner:</p>
+<p><em type="bold">Jon Egil Nilsen </em>, bosatt Russenes, Porsanger. </p>
+<p type="title">Motiv</p>
+<p>Skarvberget, Sieidi på samisk, som ligger på vestsiden av Porsangerfjorden, Porsanger kommune. På toppen sees offerplassen <span type="quote">”Hornet”</span>. Bildet er tatt en tidlig morgen i juli, akkurat idet sola kommer frem.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Bildet formidler en helt spesiell stemning, hvor fotografen har fanget et øyeblikk i det sola kommer fram. Til tross for at bildet ikke er teknisk perfekt med litt uskarphet, syns vi bildet er så spennende både i komposisjon, innhold og stemning, at det fortjener en 2. plass. Bildet er sammensatt av flere elementer av kulturminner, og vitner om flere elementer ved samisk kultur. Sieidi, den samiske offerplassen på toppen er en naturformasjon med tro og hendelser knyttet til seg, mens lavvoen og huset formidler en historie knyttet til bosetning.</p>
+<p type="title">3. plass, 2000 kroner:</p>
+<p><em type="bold">Ingjerd </em><em type="bold">Tjelle </em>, bosatt i Vadsø. </p>
+<p type="title">Motiv</p>
+<p>Offerring med gutt, ved Syltevikvannet i Varanger, Båtsfjord kommune.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Bildet er både teknisk godt og har en svært god komposisjon. Også her formidles en stemning, hvor fortid bindes sammen med nåtid i form av barnet i steinringen. Motivet har en menneskelig dimensjon og vakker ro, og gutten formidler en undring der han står og ser på steinsirkelen. Disse steinringene som vi finner i flere varianter i Finnmark, er et kulturminne som det knyttes mye undring til, og som er gjenstand for forskning og teorier innenfor arkeologien. De tolkes oftest som offerringer, men det er mange uklarheter omkring både hvordan de har vært brukt, og når de har vært i bruk.</p>
+<p type="title">Syv premierte bidrag, gavekort 500 kroner</p>
+<p>Presentert i tilfeldig rekkefølge</p>
+<p><em type="bold">Lars Öberg </em>, bosatt i Umeå, Sverige </p>
+<p type="title">Motiv</p>
+<p><span type="quote">"Människor vid vatten 1"</span> Bildet er av en helleristning i Alta, og er fotografert ved midnatt.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Öberg har levert tre flotte bilder med tema <span type="quote">«Mennesker ved vann»</span>. Vi syns denne vinklingen på helleristningen, som er et velkjent arkeologisk kulturminne, var personlig og stemningsfull. Fotografens plassering, og både lys og vann spiller inn for å formidle motivet.</p>
+<p><em type="bold">Asbjørn Nilsen </em>, bosatt i Vardø. </p>
+<p type="title">Motiv</p>
+<p>Fjøs eller uthus på Seglodden, Båtsfjord kommune. Bildet viser rester etter bosetning.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Her er et spennende og sjeldent kulturminne, som vitner om bosetning, livnæring og materialbruk i værharde strøk. Motivet er nesten malerisk i sin detaljrikdom og farger.</p>
+<p><em type="bold">Inger Unstad </em>, bosatt i Vadsø. </p>
+<p type="title">Motiv</p>
+<p><span type="quote">«Grønn hverdag»</span>, fra Siccajávri, Kautokeino kommune.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Motivet er både sjarmerende og enhetlig, og flott i sin fargekomposisjon. Det viser tradisjonell byggeskikk med påbygg og bruk over tid, slik at selve bygget forteller en egen historie.</p>
+<p xml:lang="sme"><em type="bold">Máret Sárá </em>, bosatt i Karasjok </p>
+<p type="title">Motiv</p>
+<p>Lekeinnhegning som noen unger i reindrifta har laget oppå en stein. Barna har laget innhegninger med steiner og noen steiner er også reinsdyr. Denne er ganske gammel, kanskje mer enn 50 år. Den ligger på Meahccejárgielas, Spierttanjárga, på Bissojovárre/Børselvfjellet.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Bildet er valgt ut først og fremst fordi det har en spesiell historie og representerer en sjelden type kulturminne, nemlig barnas kulturminner. Barn blir ofte usynlige i forhistorien, mens her formidles noe dagligdags og gir et slags øyeblikksbilde av barns lek i sammenheng med reindrifta.</p>
+<p><em type="bold">Tor Even K. Mortensen </em>, bosatt Kirkenes </p>
+<p type="title">Motiv</p>
+<p>Grafitti på bunker fra 2. verdenskrig, Kirkenes, Sør-Varanger kommune.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Bildet kombinerer to ulike kulturminnetyper; krigsminner fra 2. verdenskrig og grafitti som spor av en nyere ungdomskultur. Krigsminner har ikke formelt vern i Norge, men er viktige vitnesbyrd i Finnmarkssammenheng. Bildet har en god komposisjon og fargepalett.</p>
+<p><em type="bold">Samuel Bay </em>, bosatt i Vadsø </p>
+<p type="title">Motiv</p>
+<p>Under kaia på Ekkerøy, Vadsø kommune.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Komposisjonen er dynamisk med sine linjer og kontraster. Kulturminnet vises også fra en annerledes og personlig vinkel, som minner en om barndommens lek og oppdagelser i en sone som bare er tilgjengelig ved fjære sjø.</p>
+<p><em type="bold">Bente Iversen </em></p>
+<p type="title">Motiv</p>
+<p>Fiskehjell på Nesseby kirkested, Nesseby kommune, et kulturminne som stadig er i bruk i en levende kystkultur.</p>
+<p type="title">Juryens begrunnelse</p>
+<p>Motivet skilte seg ut fra flere andre bilder av fiskehjeller, med en annerledes vinkel og friskhet. Gummihansken tilfører et ekstra element, og er sammen med fisken som er hengt opp et vitnesbyrd på en levende kystkultur, og en kombinasjon av nytt og gammelt.</p>
+</body></document>

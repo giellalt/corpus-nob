@@ -1,34 +1,9 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Kino premiere | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>75</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/a/kino-premiere</origFileName>
-    <parallel_text xml:lang="eng" location="cinema-premiere.html"/>
-    <parallel_text xml:lang="sme" location="cinu-rahppan-diehtosiidas.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>februar 19. beaivi 2017</p>
-    <p type="title">Kino premiere</p>
-    <p type="title">På søndag åpnes dørerne på Diehtosiida for kinopremiere.</p>
-    <p>Samisk høgskole, Studentsamskipnaden SSO og Kautokeino kommune arrangerer Bygdekino på Diehtosiida.</p>
-    <list>
-      <p type="listitem">Første film som vises er barnefilmen Vaiana klokken 18:00.</p>
-      <p type="listitem">Fifty Shades Darker vises kl. 20:15.</p>
-    </list>
-    <p>Kom i god tid slik at du rekker å kjøpe billett og snacks før filmen begynner og vi slukker lyset. Frem til påske viser vi film hver søndag på Diehtosiida, klokken 18:00 og 20:00</p>
-    <p type="title" xml:lang="dan">Velkommen!</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Kino premiere | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>75</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/a/kino-premiere</origFileName><parallel_text xml:lang="eng" location="cinema-premiere.html"/><parallel_text xml:lang="sme" location="cinu-rahppan-diehtosiidas.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>februar 19. beaivi 2017</p>
+<p type="title">Kino premiere</p>
+<p type="title">På søndag åpnes dørerne på Diehtosiida for kinopremiere.</p>
+<p>Samisk høgskole, Studentsamskipnaden SSO og Kautokeino kommune arrangerer Bygdekino på Diehtosiida.</p>
+<list><p type="listitem">Første film som vises er barnefilmen Vaiana klokken 18:00.</p>
+<p type="listitem">Fifty Shades Darker vises kl. 20:15.</p>
+</list><p>Kom i god tid slik at du rekker å kjøpe billett og snacks før filmen begynner og vi slukker lyset. Frem til påske viser vi film hver søndag på Diehtosiida, klokken 18:00 og 20:00</p>
+<p type="title" xml:lang="dan">Velkommen!</p>
+</body></document>

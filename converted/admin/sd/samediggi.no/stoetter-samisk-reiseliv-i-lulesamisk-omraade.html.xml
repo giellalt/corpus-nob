@@ -1,53 +1,18 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>216</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Kulturnaering/Stoetter-samisk-reiseliv-i-lulesamisk-omraade</origFileName>
-    <parallel_text xml:lang="sma" location="saemien-fealadassem-julevsaemien-dajvesne-daaarjohte.html"/>
-    <parallel_text xml:lang="sme" location="doarju-sami-matkeealahusaid-julevsami-guovllus.html"/>
-    <parallel_text xml:lang="smj" location="doarjju-same-mannoiellemav-julevsame-guovlon.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Støtter samisk reiseliv i lulesamisk område / Kulturnæring / Næringer / Forsiden - Sametinget</p>
-    <p type="title">Støtter samisk reiseliv i lulesamisk område</p>
-    <p>21. oktober 2014</p>
-    <p>Sametingsrådet bevilger 228 tusen kroner i støtte til prosjektet samisk reiseliv i lulesamisk området.</p>
-    <p>Árran julevsáme guovdásj /lulesamisk senter skal gjennomføre et 2 og et halvt årig reiselivsprosjekt i lulesamisk område i perioden 2014 til 2016.</p>
-    <p>Samisk reiseliv er lite utbredt i lulesamisk område. Målet med prosjektet er å etablere minst tre bedrifter innen 2016.</p>
-    <p>Árran vil rekruttere samiske etablerere som ønsker å satse på samisk reiseliv, etablere møteplasser og skape utvikling i lulesamisk område.</p>
-    <p>Sametingsråd Silje Karine Muotka og Ann-Mari Thomassen sier at prosjektet er spennende og derfor bevilger rådet 228 tusen kroner til prosjektet.</p>
-    <p>
-      <em type="bold">-Kulturnæringer er et av landets mest spennende og raskest voksende næringer, og vi håper på mange ny etableringer, sier sametingsråd Silje Karine Muotka. </em>
-    </p>
-    <p>
-      <em type="bold">-Sametinget arbeider for et sterkt og allsidig næringsliv. Kulturnæringer som tar utgangspunkt i samisk kultur, natur og miljø kan bli viktige næringer for mange samiske lokalsamfunn, sier sametingsråd Ann-Mari Thomassen. </em>
-    </p>
-    <p>Sametinget jobber nå med en strategi for å øke sysselsettingen i de samiske kulturnæringene og har blant annet etablert to bedriftsutviklingsprogrammer i Finnmark og Troms.</p>
-    <p>Les mer:</p>
-    <p>http://www.sametinget.no/Naeringer/Kulturnaering/Satser-paa-kulturnaering-i-Troms</p>
-    <p>http://www.sametinget.no/Naeringer/Kulturnaering/Dahttu-programmet-for-kulturnaering-i-gang</p>
-    <p>
-      <em type="bold">Mer Info: </em>
-    </p>
-    <p xml:lang="sme">Sametingsråd Silje Karine Muotka, 984 87 576</p>
-    <p>Sametingsråd Ann-Mari Thomassen, 900 57 123</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>216</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Kulturnaering/Stoetter-samisk-reiseliv-i-lulesamisk-omraade</origFileName><parallel_text xml:lang="sma" location="saemien-fealadassem-julevsaemien-dajvesne-daaarjohte.html"/><parallel_text xml:lang="sme" location="doarju-sami-matkeealahusaid-julevsami-guovllus.html"/><parallel_text xml:lang="smj" location="doarjju-same-mannoiellemav-julevsame-guovlon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Støtter samisk reiseliv i lulesamisk område / Kulturnæring / Næringer / Forsiden - Sametinget</p>
+<p type="title">Støtter samisk reiseliv i lulesamisk område</p>
+<p>21. oktober 2014</p>
+<p>Sametingsrådet bevilger 228 tusen kroner i støtte til prosjektet samisk reiseliv i lulesamisk området.</p>
+<p>Árran julevsáme guovdásj /lulesamisk senter skal gjennomføre et 2 og et halvt årig reiselivsprosjekt i lulesamisk område i perioden 2014 til 2016.</p>
+<p>Samisk reiseliv er lite utbredt i lulesamisk område. Målet med prosjektet er å etablere minst tre bedrifter innen 2016.</p>
+<p>Árran vil rekruttere samiske etablerere som ønsker å satse på samisk reiseliv, etablere møteplasser og skape utvikling i lulesamisk område.</p>
+<p>Sametingsråd Silje Karine Muotka og Ann-Mari Thomassen sier at prosjektet er spennende og derfor bevilger rådet 228 tusen kroner til prosjektet.</p>
+<p><em type="bold">-Kulturnæringer er et av landets mest spennende og raskest voksende næringer, og vi håper på mange ny etableringer, sier sametingsråd Silje Karine Muotka. </em></p>
+<p><em type="bold">-Sametinget arbeider for et sterkt og allsidig næringsliv. Kulturnæringer som tar utgangspunkt i samisk kultur, natur og miljø kan bli viktige næringer for mange samiske lokalsamfunn, sier sametingsråd Ann-Mari Thomassen. </em></p>
+<p>Sametinget jobber nå med en strategi for å øke sysselsettingen i de samiske kulturnæringene og har blant annet etablert to bedriftsutviklingsprogrammer i Finnmark og Troms.</p>
+<p>Les mer:</p>
+<p>http://www.sametinget.no/Naeringer/Kulturnaering/Satser-paa-kulturnaering-i-Troms</p>
+<p>http://www.sametinget.no/Naeringer/Kulturnaering/Dahttu-programmet-for-kulturnaering-i-gang</p>
+<p><em type="bold">Mer Info: </em></p>
+<p xml:lang="sme">Sametingsråd Silje Karine Muotka, 984 87 576</p>
+<p>Sametingsråd Ann-Mari Thomassen, 900 57 123</p>
+</body></document>

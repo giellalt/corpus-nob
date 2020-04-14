@@ -1,82 +1,43 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Samisk innhold i undervisninga</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2009</year>
-    <wordcount>1572</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi14-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="minaigi14-e.html"/>
-    <parallel_text xml:lang="sme" location="minaigi14.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"/>
-    <p xml:lang="sme">Sámegillii</p>
-    <p>In English Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
-    <p xml:lang="nno">14. del - trykt i Ávvir 13.06.2009</p>
-    <p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
-    <p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
-    <p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
-    <p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
-    <p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
-    <p type="title">Samisk innhold i undervisninga</p>
-    <p>Mange har opplevd at skolen ikke hadde noe samisk innhold. Men det finnes unntak. Her er noen eksempler på at skolen har undervist i samisk kultur, og da forteller tidligere elever ofte at denne undervisninga har vært svært viktig for dem.</p>
-    <p type="title">Det eneste som jeg lærte var duodji</p>
-    <p>Inger Marie Sokki Hætta hører til dem som lærte lite på skolen på grunn av fornorskinspolitikken og krigen. Hun gikk på skole i Guovdageaidnu fra 1947 og forteller at hun ikke lærte noe i teorifaga, som blei undervist på norsk.</p>
-    <p><em type="italic">Det eneste jeg lærte var når vi hadde duodji, eller <span type="quote" xml:lang="nno">«håndarbeid»</span> som det da blei kalt. For da underviste Edel på samisk. Vi lærte å veve skalleband, strikke ullsokker og votter og hekle <span type="quote" xml:lang="sme">"speallavearkka"</span> (kant på kvinnelua). Det har vært svært nyttig for meg, seinere har jeg vevd og strikka for salg. Koftesøm og skinnarbeid hadde jeg lært hjemme av mor, men veving og strikking lærte jeg på skolen. Det er da virkelig også det eneste som jeg lærte på den skolen. </em>(Ennå ikke publisert) </p>
-    <p xml:lang="sme">
-      <em type="bold">Inger Marie Sokki Hætta </em>
-    </p>
-    <p xml:lang="nno">(Foto: Svein Lund)</p>
-    <p type="title" xml:lang="nno">Handarbeid i framhaldsskolen</p>
-    <p>Dette stykket er en del av heftet <span type="quote" xml:lang="fin">"Joatkaskuvla - Framhaldsskolen"</span>, som Lydolf Lind Meløy skreiv i 1956. Han var da leder av Indre Finnmark skoleråd og blei seinere skoledirektør.</p>
-    <p>
-      <em type="italic">I handarbeid og sløyd har en bedre vilkår enn i noe annet fag for å få med det som er særmerkt for samene. Dette gjelder særlig flyttsameframhaldsskolen. </em>
-    </p>
-    <p>Jentene må naturligvis lære vanlig handarbeid. Det gjelder både sying og strikking av de vanlige ting, men i tillegg til dette kommer så det samiske handarbeidet. Fletting av band kan en ta allerede i folkeskolen, og i framhaldsskolen høver det å ta med luesying og frynsing av tørkle. Å gi seg av med å sy kofter vil trulig bli for svært og for vanskelig. Det samme kan en kanskje si om skallesying, men noe arbeid i skinn bør også læres, om ikke annet så lapping av skaller. Veving av belter og samisk mønstertegning må elevene også ha en del av.</p>
-    <p>I sløyd får elevene som ellers i landet arbeide i tre. For alle – og særlig for flyttsameelevene – blir det lagt vekt på å lære å bruke kniven. Flyttsamene vil også ha stor nytte og glede av arbeid utført i bjørk, f.eks. trekopper og fat. Vanskelige ting, som bogtrær, greier framhaldsskoleelever også å lage, og mange vil nok greie å lage sin egen pulk eller slede. Til dette kommer så arbeid i horn og bein, der eleven f.eks. må få høve til å lage knivskaft, papirkniver og beltespenner.</p>
-    <p>Når det gjelder all sløyd og alt handarbeid, vil det bli lagt stor vekt på å lage ting som elevene eller heimene har bruk for, eller som de vil ha hygge og glede av. Alle elever får derfor ikke akkurat det samme, men får velge mellom forskjellige ting. Det er likevel viktig at hver elev får utført alle slags sammensetninger som skal læres. ( Framhaldsskolen, SSH-2 )</p>
-    <p type="title">Hornarbeid på Kautokeino framhaldsskole</p>
-    <p>Olav Malin forteller fra Kautokeino framhaldsskole, der han var lærer 1950-66:</p>
-    <p><em type="italic">Vi laga mye av reinhorn. Vi kjøpte inn direkte fra reineiere. Horn var ikke så dyrt da som det har blitt seinere. Jeg var veldig interessert i dette, men kunne ikke så mye da jeg kom. Vi fikk låne modeller som vi forsøkte å etterligne og mange av elevene hadde allerede erfaring med hornarbeid. Jeg husker spesielt to av mine elever som laga svært fine ting allerede da og som seinere blei kjente som flinke handverkere – Johan Rist og Heaika Buljo. Av og til fikk jeg hjelp av Lauri Keskitalo, som da var statskonsulent i samisk husflid. </em>( Olav Malins fortelling, SSH-2 ) </p>
-    <p>
-      <em type="bold">Olav Malin med elevene Henrik Henriksen Buljo og Isak Isaksen Triumf på sløydsalen 1951 </em>
-    </p>
-    <p xml:lang="sme">(Kilde: Muitalusat ja dáhpáhusat Guovdageainnus 10)</p>
-    <p type="title">Lokal lærer - lokale tradisjoner</p>
-    <p>Anita Lervoll hadde sine grunnskoleår på 1980-tallet i Manndalen i Kåfjord.</p>
-    <p xml:lang="nno">
-      <em type="italic">De 6 første åran hadde vi en lærer som va i fra bygda. Når eg tenke tilbake på skoletia og læreren som vi hadde, så ser eg tydelig i dag at han hadde gjort et aktivt verdivalg i forhold til det samiske, og også kordan han brukte det i undervisninga. </em>
-    </p>
-    <p>I undervisninga brukte han flere lokale fortellinge som gjorde at vi blei kjent med og knytt til bygda på en nysgjerrig, positiv og trygg måte. Gjennom skrømt og for eksempel fortellinge om huldra blei vi kjent med en del av bygdas historie. Læreren visste å fortelle kæm som hadde sett huldra, så viste han til kæm i klassen som va i slekt med denne personen, videre visste han å fortelle eksakt sted huldra var blitt sett på. Han visste åsså å fortelle ka man skulle gjøre om man møtte huldra, slik at vi ikke trengte å være redd i et eventuelt møte.</p>
-    <p>Han oppfordra åsså oss til å fortelle historia. Vi hadde faste fortellerstunde kor en og en elev måtte fortelle en historie eller synge en sang foran resten av klassen. Enkelte av oss fortalte historia som de sjøl hadde hørt hjemme, og sånn fikk hele klassen ta del i bygdas lokale historie, samtidig som fortellertradisjon blei holdt i hevd. Takket være denne læreren, så vet eg mye om bygdas historie som eg i dag kan fortelle videre til mine barn og andre som vil høre.</p>
-    <p>Han lærte oss åsså enkelte ord og utrykk på samisk, blant anna fikk vi vite at Manndalen egentlig het Olmmáivággi. Det synes klassen va så stilig at vi skreiv et brev til kommunen om at vi burde bytte ut Manndalen mot Olmmáivággi. Om det va et enstemmig flertall for vedtaket i klassen huske eg ikke, men eg trur ikke vi fikk svar fra kommunen.</p>
-    <p xml:lang="nno">I et skolesystem som va basert på forankring og rammeplana fra en norsk verden va heldigvis våres lærer opptatt av å formidle våres kulturhistorie på en positiv måte, nåkka som gjorde oss knytt til bygda og åsså til kværandre.</p>
-    <p>
-      <em type="bold">Anita Lervoll får vurderingsbok av læreren, Manndalen skole. </em>
-    </p>
-    <p xml:lang="nno">(Foto utlånt av Anita Lervoll)</p>
-    <p xml:lang="nno">Så kan en stille seg spørsmålet, ka om vi hadde hatt en anna lærer, en som ikke va interessert i å formidle anna lokal kunnskap enn det som krevdes fra læreplanen? Det e <span type="quote" xml:lang="dan">"skremmandes"</span> å tenke på at en e avhengig av de <span type="quote">"rette"</span> personan for å få slik kunnskap!</p>
-    <p>Det vise åsså at når man leve i et spenningsfelt mellom ulike normative tilnærminge, så e man faktisk henvist til andres valg av ka slags tilknytning som ansees best for oss.</p>
-    <p>Det vil si, at min skole, enda på 80-tallet, lå i spennet mellom nære og fjerne verdivalg. Min lærer valgte de nære verdian, og dermed fikk eg ta del i dem. Han kunne valgt de fjerne, med det resultat at eg visste meir om Oslo enn min egen bygd. Gjennom læreren ble vi gitt et språk som bandt sammen de småe kværdagslige <span type="quote" xml:lang="nno">"verdihistorian"</span> med et språk som hadde potensiale til å skape identitet! En norsk språkflora, eller norske historia, ville ikke bært kimen til min samiske identitet på samme inkluderandes måte. ( Anita Lervolls fortelling, SSH-1 )</p>
-    <p>Her finner du alle artiklene i serien:</p>
-    <p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
-    <p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Samisk innhold i undervisninga</title><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></translator><translated_from xml:lang="sme"/><year>2009</year><wordcount>1572</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi14-n.htm</origFileName><parallel_text xml:lang="eng" location="minaigi14-e.html"/><parallel_text xml:lang="sme" location="minaigi14.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"/>
+<p xml:lang="sme">Sámegillii</p>
+<p>In English Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
+<p xml:lang="nno">14. del - trykt i Ávvir 13.06.2009</p>
+<p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
+<p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet Samisk skolehistorie har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen.</p>
+<p>Dette har vi etterhvert redigert og gitt ut som bøker. Fra 2005 til 2011 er det gitt ut fem bøker, og den sjette og siste skal komme i 2013. Fortellingene og artiklene kommer også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
+<p>I disse avisartiklene vil vi trekke fram noen brokker av det vi har funnet fra denne historia. Det gjør vi emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
+<p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
+<p type="title">Samisk innhold i undervisninga</p>
+<p>Mange har opplevd at skolen ikke hadde noe samisk innhold. Men det finnes unntak. Her er noen eksempler på at skolen har undervist i samisk kultur, og da forteller tidligere elever ofte at denne undervisninga har vært svært viktig for dem.</p>
+<p type="title">Det eneste som jeg lærte var duodji</p>
+<p>Inger Marie Sokki Hætta hører til dem som lærte lite på skolen på grunn av fornorskinspolitikken og krigen. Hun gikk på skole i Guovdageaidnu fra 1947 og forteller at hun ikke lærte noe i teorifaga, som blei undervist på norsk.</p>
+<p><em type="italic">Det eneste jeg lærte var når vi hadde duodji, eller <span type="quote" xml:lang="nno">«håndarbeid»</span> som det da blei kalt. For da underviste Edel på samisk. Vi lærte å veve skalleband, strikke ullsokker og votter og hekle <span type="quote" xml:lang="sme">"speallavearkka"</span> (kant på kvinnelua). Det har vært svært nyttig for meg, seinere har jeg vevd og strikka for salg. Koftesøm og skinnarbeid hadde jeg lært hjemme av mor, men veving og strikking lærte jeg på skolen. Det er da virkelig også det eneste som jeg lærte på den skolen. </em>(Ennå ikke publisert) </p>
+<p xml:lang="sme"><em type="bold">Inger Marie Sokki Hætta </em></p>
+<p xml:lang="nno">(Foto: Svein Lund)</p>
+<p type="title" xml:lang="nno">Handarbeid i framhaldsskolen</p>
+<p>Dette stykket er en del av heftet <span type="quote" xml:lang="fin">"Joatkaskuvla - Framhaldsskolen"</span>, som Lydolf Lind Meløy skreiv i 1956. Han var da leder av Indre Finnmark skoleråd og blei seinere skoledirektør.</p>
+<p><em type="italic">I handarbeid og sløyd har en bedre vilkår enn i noe annet fag for å få med det som er særmerkt for samene. Dette gjelder særlig flyttsameframhaldsskolen. </em></p>
+<p>Jentene må naturligvis lære vanlig handarbeid. Det gjelder både sying og strikking av de vanlige ting, men i tillegg til dette kommer så det samiske handarbeidet. Fletting av band kan en ta allerede i folkeskolen, og i framhaldsskolen høver det å ta med luesying og frynsing av tørkle. Å gi seg av med å sy kofter vil trulig bli for svært og for vanskelig. Det samme kan en kanskje si om skallesying, men noe arbeid i skinn bør også læres, om ikke annet så lapping av skaller. Veving av belter og samisk mønstertegning må elevene også ha en del av.</p>
+<p>I sløyd får elevene som ellers i landet arbeide i tre. For alle – og særlig for flyttsameelevene – blir det lagt vekt på å lære å bruke kniven. Flyttsamene vil også ha stor nytte og glede av arbeid utført i bjørk, f.eks. trekopper og fat. Vanskelige ting, som bogtrær, greier framhaldsskoleelever også å lage, og mange vil nok greie å lage sin egen pulk eller slede. Til dette kommer så arbeid i horn og bein, der eleven f.eks. må få høve til å lage knivskaft, papirkniver og beltespenner.</p>
+<p>Når det gjelder all sløyd og alt handarbeid, vil det bli lagt stor vekt på å lage ting som elevene eller heimene har bruk for, eller som de vil ha hygge og glede av. Alle elever får derfor ikke akkurat det samme, men får velge mellom forskjellige ting. Det er likevel viktig at hver elev får utført alle slags sammensetninger som skal læres. ( Framhaldsskolen, SSH-2 )</p>
+<p type="title">Hornarbeid på Kautokeino framhaldsskole</p>
+<p>Olav Malin forteller fra Kautokeino framhaldsskole, der han var lærer 1950-66:</p>
+<p><em type="italic">Vi laga mye av reinhorn. Vi kjøpte inn direkte fra reineiere. Horn var ikke så dyrt da som det har blitt seinere. Jeg var veldig interessert i dette, men kunne ikke så mye da jeg kom. Vi fikk låne modeller som vi forsøkte å etterligne og mange av elevene hadde allerede erfaring med hornarbeid. Jeg husker spesielt to av mine elever som laga svært fine ting allerede da og som seinere blei kjente som flinke handverkere – Johan Rist og Heaika Buljo. Av og til fikk jeg hjelp av Lauri Keskitalo, som da var statskonsulent i samisk husflid. </em>( Olav Malins fortelling, SSH-2 ) </p>
+<p><em type="bold">Olav Malin med elevene Henrik Henriksen Buljo og Isak Isaksen Triumf på sløydsalen 1951 </em></p>
+<p xml:lang="sme">(Kilde: Muitalusat ja dáhpáhusat Guovdageainnus 10)</p>
+<p type="title">Lokal lærer - lokale tradisjoner</p>
+<p>Anita Lervoll hadde sine grunnskoleår på 1980-tallet i Manndalen i Kåfjord.</p>
+<p xml:lang="nno"><em type="italic">De 6 første åran hadde vi en lærer som va i fra bygda. Når eg tenke tilbake på skoletia og læreren som vi hadde, så ser eg tydelig i dag at han hadde gjort et aktivt verdivalg i forhold til det samiske, og også kordan han brukte det i undervisninga. </em></p>
+<p>I undervisninga brukte han flere lokale fortellinge som gjorde at vi blei kjent med og knytt til bygda på en nysgjerrig, positiv og trygg måte. Gjennom skrømt og for eksempel fortellinge om huldra blei vi kjent med en del av bygdas historie. Læreren visste å fortelle kæm som hadde sett huldra, så viste han til kæm i klassen som va i slekt med denne personen, videre visste han å fortelle eksakt sted huldra var blitt sett på. Han visste åsså å fortelle ka man skulle gjøre om man møtte huldra, slik at vi ikke trengte å være redd i et eventuelt møte.</p>
+<p>Han oppfordra åsså oss til å fortelle historia. Vi hadde faste fortellerstunde kor en og en elev måtte fortelle en historie eller synge en sang foran resten av klassen. Enkelte av oss fortalte historia som de sjøl hadde hørt hjemme, og sånn fikk hele klassen ta del i bygdas lokale historie, samtidig som fortellertradisjon blei holdt i hevd. Takket være denne læreren, så vet eg mye om bygdas historie som eg i dag kan fortelle videre til mine barn og andre som vil høre.</p>
+<p xml:lang="nno">Han lærte oss åsså enkelte ord og utrykk på samisk, blant anna fikk vi vite at Manndalen egentlig het Olmmáivággi. Det synes klassen va så stilig at vi skreiv et brev til kommunen om at vi burde bytte ut Manndalen mot Olmmáivággi. Om det va et enstemmig flertall for vedtaket i klassen huske eg ikke, men eg trur ikke vi fikk svar fra kommunen.</p>
+<p xml:lang="nno">I et skolesystem som va basert på forankring og rammeplana fra en norsk verden va heldigvis våres lærer opptatt av å formidle våres kulturhistorie på en positiv måte, nåkka som gjorde oss knytt til bygda og åsså til kværandre.</p>
+<p><em type="bold">Anita Lervoll får vurderingsbok av læreren, Manndalen skole. </em></p>
+<p xml:lang="nno">(Foto utlånt av Anita Lervoll)</p>
+<p xml:lang="nno">Så kan en stille seg spørsmålet, ka om vi hadde hatt en anna lærer, en som ikke va interessert i å formidle anna lokal kunnskap enn det som krevdes fra læreplanen? Det e <span type="quote" xml:lang="rmu">"skremmandes"</span> å tenke på at en e avhengig av de <span type="quote">"rette"</span> personan for å få slik kunnskap!</p>
+<p>Det vise åsså at når man leve i et spenningsfelt mellom ulike normative tilnærminge, så e man faktisk henvist til andres valg av ka slags tilknytning som ansees best for oss.</p>
+<p>Det vil si, at min skole, enda på 80-tallet, lå i spennet mellom nære og fjerne verdivalg. Min lærer valgte de nære verdian, og dermed fikk eg ta del i dem. Han kunne valgt de fjerne, med det resultat at eg visste meir om Oslo enn min egen bygd. Gjennom læreren ble vi gitt et språk som bandt sammen de småe kværdagslige <span type="quote" xml:lang="nno">"verdihistorian"</span> med et språk som hadde potensiale til å skape identitet! En norsk språkflora, eller norske historia, ville ikke bært kimen til min samiske identitet på samme inkluderandes måte. ( Anita Lervolls fortelling, SSH-1 )</p>
+<p>Her finner du alle artiklene i serien:</p>
+<p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden</p>
+<p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie - hovedside</p>
+</body></document>

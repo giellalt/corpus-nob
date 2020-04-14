@@ -1,40 +1,14 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Leksa</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>331</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/leksa.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="leksa.eng.html"/>
-    <parallel_text xml:lang="fin" location="leksa.fin.html"/>
-    <parallel_text xml:lang="sme" location="leksa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="est">Leksa</p>
-    <list>
-      <p type="listitem">Valgmuligheter</p>
-    </list>
-    <p>Ord-quiz er artig, og nyttig når man øver på gloser. Leksa passer for dem som holder på å lære seg samisk, og kanskje også for dem som trenger å trene seg på å skrive. Programmet godtar synonymer, sånn at til <em type="italic">dolla </em>kan man skrive både <em type="italic">ild </em>og <em type="italic">bål </em>. Gi beskjed til oss om det er synonymer som mangler! </p>
-    <p>Vær obs på at i menyen i høyre marg på Leksa, kan man velge mellom ord og stedsnavn.</p>
-    <p type="title">Valgmuligheter</p>
-    <list>
-      <p type="listitem">Språkpar <list><p type="listitem">Fra samisk til norsk/finsk, eller fra norsk/finsk til samisk.</p></list></p>
-      <p type="listitem">Skriv bare ett ord <list><p type="listitem">Man skriver vanligvis bare ett samisk ord, men den norske eller finske oversettelsen kan inneholde flere ord, f.eks. <em type="italic">áhkku </em>kan oversettes med <em type="italic">gammel dame </em>. Hvis man velger "Flerordsuttrykk" i menyen, skal man skrive inn minst to samiske ord, f.eks. <em type="italic">báze dearvan </em></p></list></p>
-      <p type="listitem">Begrense ordforråd <list><p type="listitem">Man kan begrense ordforrådet ved å velge enten lærebok eller tema. F.eks. "Davvin 1" inneholder ikke så mange ord. For stedsnavn kan man begrense geografisk (f.eks. "Sápmi" eller "Verden") eller i forhold til frekvens ("vanlige" eller "sjeldne").</p></list></p>
-    </list>
-    <p>I Leksa ønsker vi at brukerne skal få trene seg på dagligdags språk, og basis er ord som blir brukt i nybegynneropplæringa; les mer om dette på Oahpa-ordforråd-sida. Vi kan legge inn lister med stedsnavn fra ditt område i Leksa, og vi kan også lage læremiddel for spesielle tema - f.eks. duodji. Ta kontakt med oss hvis du har ordlister som du vil ha med!</p>
-    <p>Link til Leksa</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Leksa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>331</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/leksa.nob.html</origFileName><parallel_text xml:lang="eng" location="leksa.eng.html"/><parallel_text xml:lang="fin" location="leksa.fin.html"/><parallel_text xml:lang="sme" location="leksa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="est">Leksa</p>
+<list><p type="listitem" xml:lang="swe">Valgmuligheter</p>
+</list><p>Ord-quiz er artig, og nyttig når man øver på gloser. Leksa passer for dem som holder på å lære seg samisk, og kanskje også for dem som trenger å trene seg på å skrive. Programmet godtar synonymer, sånn at til <em type="italic">dolla </em>kan man skrive både <em type="italic">ild </em>og <em type="italic">bål </em>. Gi beskjed til oss om det er synonymer som mangler! </p>
+<p>Vær obs på at i menyen i høyre marg på Leksa, kan man velge mellom ord og stedsnavn.</p>
+<p type="title" xml:lang="swe">Valgmuligheter</p>
+<list><p type="listitem">Språkpar <list><p type="listitem">Fra samisk til norsk/finsk, eller fra norsk/finsk til samisk.</p>
+</list></p>
+<p type="listitem">Skriv bare ett ord <list><p type="listitem">Man skriver vanligvis bare ett samisk ord, men den norske eller finske oversettelsen kan inneholde flere ord, f.eks. <em type="italic">áhkku </em>kan oversettes med <em type="italic">gammel dame </em>. Hvis man velger "Flerordsuttrykk" i menyen, skal man skrive inn minst to samiske ord, f.eks. <em type="italic">báze dearvan </em></p>
+</list></p>
+<p type="listitem">Begrense ordforråd <list><p type="listitem">Man kan begrense ordforrådet ved å velge enten lærebok eller tema. F.eks. "Davvin 1" inneholder ikke så mange ord. For stedsnavn kan man begrense geografisk (f.eks. "Sápmi" eller "Verden") eller i forhold til frekvens ("vanlige" eller "sjeldne").</p>
+</list></p>
+</list><p>I Leksa ønsker vi at brukerne skal få trene seg på dagligdags språk, og basis er ord som blir brukt i nybegynneropplæringa; les mer om dette på Oahpa-ordforråd-sida. Vi kan legge inn lister med stedsnavn fra ditt område i Leksa, og vi kan også lage læremiddel for spesielle tema - f.eks. duodji. Ta kontakt med oss hvis du har ordlister som du vil ha med!</p>
+<p>Link til Leksa</p>
+</body></document>

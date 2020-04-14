@@ -1,90 +1,58 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>239</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Forurensning/</origFileName>
-    <parallel_text xml:lang="eng" location="index_35.html"/>
-    <parallel_text xml:lang="sma" location="index_35.html"/>
-    <parallel_text xml:lang="sme" location="index_35.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Forurensning - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="dan">Miljø og klima</p>
-    <p xml:lang="dan">Forurensning</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
-      <p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
-      <p type="listitem">Fiskeoppdrett</p>
-      <p type="listitem" xml:lang="dan">Forurensning</p>
-      <p type="listitem" xml:lang="nno">Friluftsliv</p>
-      <p type="listitem" xml:lang="kal">Klima</p>
-      <p type="listitem" xml:lang="est">Motorferdsel</p>
-      <p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p></list></p>
-      <p type="listitem" xml:lang="est">Rovvilt</p>
-      <p type="listitem" xml:lang="isl">Vann</p>
-      <p type="listitem" xml:lang="dan">Verneområder</p>
-    </list>
-    <p type="title" xml:lang="dan">Forurensning</p>
-    <p xml:lang="nno">Publisert 22.09.2012 Oppdatert 24.04.2017</p>
-    <p>Fylkesmannen er forurensningsmyndighet for en lang rekke virksomheter og tiltak, og kan gi tillatelse til aktiviteter som kan medføre forurensning. Ansvarsområdene våre omfatter blant annet helse- og miljøfarlige kjemikalier, avfall og gjenvinning, luftforurensning og støy samt forurensning av vann og grunn.</p>
-    <p>Dette er noen av Fylkesmannens oppgaver etter forurensningsloven:</p>
-    <list>
-      <p type="listitem">behandle utslippssøknader og føre tilsyn med landbaserte industribedrifter. Mange bedrifter trenger ikke egen tillatelse fra Fylkesmannen, men skal følge gjeldende forskrifter. Dette gjelder blant annet for pukk- og asfaltverk, fyringsanlegg og skipsverft.</p>
-      <p type="listitem">behandle utslippssøknader og føre tilsyn med avfallsbehandlingsanlegg som avfallsdeponier, mottaks- og sorteringsanlegg, bilvrakplasser og behandling av avløpsslam.</p>
-      <p type="listitem">behandle utslippssøknader og føre tilsyn med avløpsanlegg i store tettsteder.</p>
-      <p type="listitem" xml:lang="nno">behandle søknader om mudring, dumping og utfylling i sjø og vassdrag.</p>
-      <p type="listitem">føre tilsyn med at virksomheter oppfyller leveringsplikten for farlig avfall og andre generelle plikter i forurensings- og avfallsforskriftene</p>
-      <p type="listitem">følge opp områder med forurenset grunn og nedlagte kommunale deponier.</p>
-      <p type="listitem">veilede og føre tilsyn med kommunene på områder der kommunen er forurensningsmyndighet.</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem">Forurensningsloven</p>
-      <p type="listitem">Forurensingsforskriften</p>
-      <p type="listitem" xml:lang="est">Miljøstatus</p>
-      <p type="listitem">Miljødirektoratet</p>
-      <p type="listitem">Norske utslipp</p>
-      <p type="listitem" xml:lang="nno">Regelhjelp</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>239</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Forurensning/</origFileName><parallel_text xml:lang="eng" location="index_35.html"/><parallel_text xml:lang="sma" location="index_35.html"/><parallel_text xml:lang="sme" location="index_35.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Forurensning - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="dan">Miljø og klima</p>
+<p xml:lang="dan">Forurensning</p>
+<list><p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
+<p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
+<p type="listitem">Fiskeoppdrett</p>
+<p type="listitem" xml:lang="dan">Forurensning</p>
+<p type="listitem" xml:lang="nno">Friluftsliv</p>
+<p type="listitem" xml:lang="kal">Klima</p>
+<p type="listitem" xml:lang="est">Motorferdsel</p>
+<p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p>
+</list></p>
+<p type="listitem" xml:lang="est">Rovvilt</p>
+<p type="listitem" xml:lang="isl">Vann</p>
+<p type="listitem" xml:lang="dan">Verneområder</p>
+</list><p type="title" xml:lang="dan">Forurensning</p>
+<p xml:lang="nno">Publisert 22.09.2012 Oppdatert 24.04.2017</p>
+<p>Fylkesmannen er forurensningsmyndighet for en lang rekke virksomheter og tiltak, og kan gi tillatelse til aktiviteter som kan medføre forurensning. Ansvarsområdene våre omfatter blant annet helse- og miljøfarlige kjemikalier, avfall og gjenvinning, luftforurensning og støy samt forurensning av vann og grunn.</p>
+<p>Dette er noen av Fylkesmannens oppgaver etter forurensningsloven:</p>
+<list><p type="listitem">behandle utslippssøknader og føre tilsyn med landbaserte industribedrifter. Mange bedrifter trenger ikke egen tillatelse fra Fylkesmannen, men skal følge gjeldende forskrifter. Dette gjelder blant annet for pukk- og asfaltverk, fyringsanlegg og skipsverft.</p>
+<p type="listitem">behandle utslippssøknader og føre tilsyn med avfallsbehandlingsanlegg som avfallsdeponier, mottaks- og sorteringsanlegg, bilvrakplasser og behandling av avløpsslam.</p>
+<p type="listitem">behandle utslippssøknader og føre tilsyn med avløpsanlegg i store tettsteder.</p>
+<p type="listitem" xml:lang="nno">behandle søknader om mudring, dumping og utfylling i sjø og vassdrag.</p>
+<p type="listitem">føre tilsyn med at virksomheter oppfyller leveringsplikten for farlig avfall og andre generelle plikter i forurensings- og avfallsforskriftene</p>
+<p type="listitem">følge opp områder med forurenset grunn og nedlagte kommunale deponier.</p>
+<p type="listitem">veilede og føre tilsyn med kommunene på områder der kommunen er forurensningsmyndighet.</p>
+</list><list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem">Forurensningsloven</p>
+<p type="listitem">Forurensingsforskriften</p>
+<p type="listitem" xml:lang="est">Miljøstatus</p>
+<p type="listitem">Miljødirektoratet</p>
+<p type="listitem">Norske utslipp</p>
+<p type="listitem" xml:lang="nno">Regelhjelp</p>
+</list></body></document>

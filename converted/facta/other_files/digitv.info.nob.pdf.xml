@@ -1,333 +1,298 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2622</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <parallel_text xml:lang="fkv" location="digitv.info.fkv.pdf"/>
-    <parallel_text xml:lang="sme" location="digitv.info.sme.pdf"/>
-    <parallel_text xml:lang="smj" location="digitv.info.smj.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.20 ; file-specific xsl  $Revision: 1.2 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tidspunkt for åpning av det digitale bakkenettet og</p>
-    <p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
-    <p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
-    <p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
-    <p xml:lang="nno">Telefon 815 52 900</p>
-    <p xml:lang="nno">Rogaland</p>
-    <p>Østfold</p>
-    <p>1.september 2007</p>
-    <p xml:lang="isl">4. mars 2008</p>
-    <p xml:lang="ron">29. april 2008</p>
-    <p>Oslo og Akershus</p>
-    <p xml:lang="nno">Hordaland</p>
-    <p xml:lang="nno">Møre og Romsdal</p>
-    <p>4. september 2007</p>
-    <p>6. september 2007</p>
-    <p xml:lang="sme">20. mai 2008</p>
-    <p>1. oktober 2007</p>
-    <p>8. oktober 2007</p>
-    <p>30. september 2008</p>
-    <p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
-    <p>28. oktober 2008</p>
-    <p>Buskerud, Vestfold og Telemark</p>
-    <p>Sør-Trøndelag</p>
-    <p>Hedmark og Oppland</p>
-    <p xml:lang="nno">Sogn og Fjordane</p>
-    <p xml:lang="deu">Aust-Agder, Vest-Agder</p>
-    <p xml:lang="nno">Nord-Trøndelag og Nordland</p>
-    <p>Troms og Finnmark</p>
-    <p>11. oktober 2007</p>
-    <p>2. september 2008</p>
-    <p xml:lang="nno">1. november 2007</p>
-    <p xml:lang="nno">8. november 2007</p>
-    <p xml:lang="deu">November 2009</p>
-    <p xml:lang="deu">Februar 2009</p>
-    <p xml:lang="deu">3. desember  2007</p>
-    <p>28. oktober 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="vep">Mai 2009</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">Oktober 2009</p>
-    <p xml:lang="deu">November 2009</p>
-    <p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
-    <p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
-    <p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
-    <p xml:lang="vep"><em type="bold">KABEL</em> </p>
-    <p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
-    <p xml:lang="deu">
-      <em type="bold">BREDBÅND </em>
-    </p>
-    <p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
-    <p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
-    <p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
-    <p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
-    <p>Dette berører deg som tar imot TV via antenne.</p>
-    <p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
-    <p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
-    <p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
-    <p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
-    <p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
-    <p xml:lang="nno">Dette bør du vite om digital-TV</p>
-    <p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
-    <p xml:lang="vep"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
-    <p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
-    <p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
-    <p>
-      <em type="bold">-  En ting er sikkert - noe må du gjøre. </em>
-    </p>
-    <p xml:lang="nno">Jeg ser TV via antenne</p>
-    <p>- hva bør jeg gjøre? Ord og uttrykk</p>
-    <p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
-    <p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
-    <p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
-    <p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
-    <p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
-    <p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
-    <p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
-    <p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
-    <p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
-    <p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
-    <p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
-    <p xml:lang="vep"><em type="bold">ANALOGE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
-    <p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
-    <p xml:lang="vep"><em type="bold">DIGITALE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
-    <p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
-    <p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
-    <p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
-    <p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
-    <p xml:lang="vep"><em type="bold">DIGITAL TEKST-TV</em> </p>
-    <p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
-    <p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
-    <p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
-    <p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
-    <p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
-    <p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
-    <p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
-    <p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
-    <p xml:lang="vep"><em type="bold">ANALOG</em> </p>
-    <p xml:lang="koi"><em type="bold">+</em> </p>
-    <p xml:lang="koi"><em type="bold">=</em> </p>
-    <p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
-    <p>Tidspunkt for åpning av det digitale bakkenettet og</p>
-    <p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
-    <p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
-    <p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
-    <p xml:lang="nno">Telefon 815 52 900</p>
-    <p xml:lang="nno">Rogaland</p>
-    <p>Østfold</p>
-    <p>1.september 2007</p>
-    <p xml:lang="isl">4. mars 2008</p>
-    <p xml:lang="ron">29. april 2008</p>
-    <p>Oslo og Akershus</p>
-    <p xml:lang="nno">Hordaland</p>
-    <p xml:lang="nno">Møre og Romsdal</p>
-    <p>4. september 2007</p>
-    <p>6. september 2007</p>
-    <p xml:lang="sme">20. mai 2008</p>
-    <p>1. oktober 2007</p>
-    <p>8. oktober 2007</p>
-    <p>30. september 2008</p>
-    <p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
-    <p>28. oktober 2008</p>
-    <p>Buskerud, Vestfold og Telemark</p>
-    <p>Sør-Trøndelag</p>
-    <p>Hedmark og Oppland</p>
-    <p xml:lang="nno">Sogn og Fjordane</p>
-    <p xml:lang="deu">Aust-Agder, Vest-Agder</p>
-    <p xml:lang="nno">Nord-Trøndelag og Nordland</p>
-    <p>Troms og Finnmark</p>
-    <p>11. oktober 2007</p>
-    <p>2. september 2008</p>
-    <p xml:lang="nno">1. november 2007</p>
-    <p xml:lang="nno">8. november 2007</p>
-    <p xml:lang="deu">November 2009</p>
-    <p xml:lang="deu">Februar 2009</p>
-    <p xml:lang="deu">3. desember  2007</p>
-    <p>28. oktober 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="vep">Mai 2009</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">Oktober 2009</p>
-    <p xml:lang="deu">November 2009</p>
-    <p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
-    <p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
-    <p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
-    <p xml:lang="vep"><em type="bold">KABEL</em> </p>
-    <p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
-    <p xml:lang="deu">
-      <em type="bold">BREDBÅND </em>
-    </p>
-    <p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
-    <p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
-    <p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
-    <p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
-    <p>Dette berører deg som tar imot TV via antenne.</p>
-    <p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
-    <p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
-    <p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
-    <p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
-    <p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
-    <p xml:lang="nno">Dette bør du vite om digital-TV</p>
-    <p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
-    <p xml:lang="vep"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
-    <p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
-    <p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
-    <p>
-      <em type="bold">-  En ting er sikkert - noe må du gjøre. </em>
-    </p>
-    <p xml:lang="nno">Jeg ser TV via antenne</p>
-    <p>- hva bør jeg gjøre? Ord og uttrykk</p>
-    <p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
-    <p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
-    <p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
-    <p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
-    <p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
-    <p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
-    <p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
-    <p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
-    <p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
-    <p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
-    <p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
-    <p xml:lang="vep"><em type="bold">ANALOGE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
-    <p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
-    <p xml:lang="vep"><em type="bold">DIGITALE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
-    <p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
-    <p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
-    <p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
-    <p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
-    <p xml:lang="vep"><em type="bold">DIGITAL TEKST-TV</em> </p>
-    <p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
-    <p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
-    <p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
-    <p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
-    <p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
-    <p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
-    <p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
-    <p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
-    <p xml:lang="vep"><em type="bold">ANALOG</em> </p>
-    <p xml:lang="koi"><em type="bold">+</em> </p>
-    <p xml:lang="koi"><em type="bold">=</em> </p>
-    <p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
-    <p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
-    <p>
-      <em type="bold">-  En ting er sikkert - noe må du gjøre. </em>
-    </p>
-    <p xml:lang="nno">Jeg ser TV via antenne</p>
-    <p>- hva bør jeg gjøre? Ord og uttrykk</p>
-    <p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
-    <p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
-    <p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
-    <p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
-    <p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
-    <p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
-    <p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
-    <p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
-    <p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
-    <p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
-    <p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
-    <p xml:lang="vep"><em type="bold">ANALOGE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
-    <p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
-    <p xml:lang="vep"><em type="bold">DIGITALE TV-SENDINGER</em> </p>
-    <p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
-    <p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
-    <p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
-    <p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
-    <p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
-    <p xml:lang="vep"><em type="bold">DIGITAL TEKST-TV</em> </p>
-    <p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
-    <p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
-    <p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
-    <p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
-    <p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
-    <p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
-    <p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
-    <p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
-    <p xml:lang="vep"><em type="bold">ANALOG</em> </p>
-    <p xml:lang="koi"><em type="bold">+</em> </p>
-    <p xml:lang="koi"><em type="bold">=</em> </p>
-    <p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
-    <p>Tidspunkt for åpning av det digitale bakkenettet og</p>
-    <p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
-    <p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
-    <p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
-    <p xml:lang="nno">Telefon 815 52 900</p>
-    <p xml:lang="nno">Rogaland</p>
-    <p>Østfold</p>
-    <p>1.september 2007</p>
-    <p xml:lang="isl">4. mars 2008</p>
-    <p xml:lang="ron">29. april 2008</p>
-    <p>Oslo og Akershus</p>
-    <p xml:lang="nno">Hordaland</p>
-    <p xml:lang="nno">Møre og Romsdal</p>
-    <p>4. september 2007</p>
-    <p>6. september 2007</p>
-    <p xml:lang="sme">20. mai 2008</p>
-    <p>1. oktober 2007</p>
-    <p>8. oktober 2007</p>
-    <p>30. september 2008</p>
-    <p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
-    <p>28. oktober 2008</p>
-    <p>Buskerud, Vestfold og Telemark</p>
-    <p>Sør-Trøndelag</p>
-    <p>Hedmark og Oppland</p>
-    <p xml:lang="nno">Sogn og Fjordane</p>
-    <p xml:lang="deu">Aust-Agder, Vest-Agder</p>
-    <p xml:lang="nno">Nord-Trøndelag og Nordland</p>
-    <p>Troms og Finnmark</p>
-    <p>11. oktober 2007</p>
-    <p>2. september 2008</p>
-    <p xml:lang="nno">1. november 2007</p>
-    <p xml:lang="nno">8. november 2007</p>
-    <p xml:lang="deu">November 2009</p>
-    <p xml:lang="deu">Februar 2009</p>
-    <p xml:lang="deu">3. desember  2007</p>
-    <p>28. oktober 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="vep">Mai 2009</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">November 2008</p>
-    <p xml:lang="deu">Oktober 2009</p>
-    <p xml:lang="deu">November 2009</p>
-    <p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
-    <p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
-    <p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
-    <p xml:lang="vep"><em type="bold">KABEL</em> </p>
-    <p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
-    <p xml:lang="deu">
-      <em type="bold">BREDBÅND </em>
-    </p>
-    <p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
-    <p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
-    <p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
-    <p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
-    <p>Dette berører deg som tar imot TV via antenne.</p>
-    <p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
-    <p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
-    <p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
-    <p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
-    <p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
-    <p xml:lang="nno">Dette bør du vite om digital-TV</p>
-    <p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
-    <p xml:lang="vep"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
-    <p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2622</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><parallel_text xml:lang="fkv" location="digitv.info.fkv.pdf"/><parallel_text xml:lang="sme" location="digitv.info.sme.pdf"/><parallel_text xml:lang="smj" location="digitv.info.smj.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate  1.20 ; file-specific xsl  $Revision: 1.2 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Tidspunkt for åpning av det digitale bakkenettet og</p>
+<p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
+<p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
+<p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
+<p xml:lang="nno">Telefon 815 52 900</p>
+<p xml:lang="nno">Rogaland</p>
+<p>Østfold</p>
+<p>1.september 2007</p>
+<p xml:lang="isl">4. mars 2008</p>
+<p xml:lang="ron">29. april 2008</p>
+<p>Oslo og Akershus</p>
+<p xml:lang="nno">Hordaland</p>
+<p xml:lang="nno">Møre og Romsdal</p>
+<p>4. september 2007</p>
+<p>6. september 2007</p>
+<p xml:lang="sme">20. mai 2008</p>
+<p>1. oktober 2007</p>
+<p>8. oktober 2007</p>
+<p>30. september 2008</p>
+<p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
+<p>28. oktober 2008</p>
+<p>Buskerud, Vestfold og Telemark</p>
+<p>Sør-Trøndelag</p>
+<p>Hedmark og Oppland</p>
+<p xml:lang="nno">Sogn og Fjordane</p>
+<p xml:lang="deu">Aust-Agder, Vest-Agder</p>
+<p xml:lang="nno">Nord-Trøndelag og Nordland</p>
+<p>Troms og Finnmark</p>
+<p>11. oktober 2007</p>
+<p>2. september 2008</p>
+<p xml:lang="nno">1. november 2007</p>
+<p xml:lang="nno">8. november 2007</p>
+<p xml:lang="deu">November 2009</p>
+<p xml:lang="deu">Februar 2009</p>
+<p xml:lang="deu">3. desember  2007</p>
+<p>28. oktober 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="vep">Mai 2009</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">Oktober 2009</p>
+<p xml:lang="deu">November 2009</p>
+<p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
+<p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
+<p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
+<p xml:lang="vep"><em type="bold">KABEL</em> </p>
+<p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
+<p xml:lang="deu"><em type="bold">BREDBÅND </em></p>
+<p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
+<p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
+<p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
+<p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
+<p>Dette berører deg som tar imot TV via antenne.</p>
+<p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
+<p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
+<p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
+<p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
+<p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
+<p xml:lang="nno">Dette bør du vite om digital-TV</p>
+<p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
+<p xml:lang="sma"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
+<p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
+<p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
+<p><em type="bold">-  En ting er sikkert - noe må du gjøre. </em></p>
+<p xml:lang="nno">Jeg ser TV via antenne</p>
+<p>- hva bør jeg gjøre? Ord og uttrykk</p>
+<p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
+<p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
+<p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
+<p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
+<p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
+<p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
+<p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
+<p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
+<p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
+<p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
+<p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
+<p><em type="bold">ANALOGE TV-SENDINGER</em> </p>
+<p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
+<p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
+<p><em type="bold">DIGITALE TV-SENDINGER</em> </p>
+<p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
+<p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
+<p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
+<p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
+<p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
+<p><em type="bold">DIGITAL TEKST-TV</em> </p>
+<p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
+<p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
+<p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
+<p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
+<p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
+<p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
+<p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
+<p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
+<p xml:lang="vep"><em type="bold">ANALOG</em> </p>
+<p xml:lang="vep"><em type="bold">+</em> </p>
+<p xml:lang="vep"><em type="bold">=</em> </p>
+<p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
+<p>Tidspunkt for åpning av det digitale bakkenettet og</p>
+<p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
+<p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
+<p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
+<p xml:lang="nno">Telefon 815 52 900</p>
+<p xml:lang="nno">Rogaland</p>
+<p>Østfold</p>
+<p>1.september 2007</p>
+<p xml:lang="isl">4. mars 2008</p>
+<p xml:lang="ron">29. april 2008</p>
+<p>Oslo og Akershus</p>
+<p xml:lang="nno">Hordaland</p>
+<p xml:lang="nno">Møre og Romsdal</p>
+<p>4. september 2007</p>
+<p>6. september 2007</p>
+<p xml:lang="sme">20. mai 2008</p>
+<p>1. oktober 2007</p>
+<p>8. oktober 2007</p>
+<p>30. september 2008</p>
+<p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
+<p>28. oktober 2008</p>
+<p>Buskerud, Vestfold og Telemark</p>
+<p>Sør-Trøndelag</p>
+<p>Hedmark og Oppland</p>
+<p xml:lang="nno">Sogn og Fjordane</p>
+<p xml:lang="deu">Aust-Agder, Vest-Agder</p>
+<p xml:lang="nno">Nord-Trøndelag og Nordland</p>
+<p>Troms og Finnmark</p>
+<p>11. oktober 2007</p>
+<p>2. september 2008</p>
+<p xml:lang="nno">1. november 2007</p>
+<p xml:lang="nno">8. november 2007</p>
+<p xml:lang="deu">November 2009</p>
+<p xml:lang="deu">Februar 2009</p>
+<p xml:lang="deu">3. desember  2007</p>
+<p>28. oktober 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="vep">Mai 2009</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">Oktober 2009</p>
+<p xml:lang="deu">November 2009</p>
+<p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
+<p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
+<p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
+<p xml:lang="vep"><em type="bold">KABEL</em> </p>
+<p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
+<p xml:lang="deu"><em type="bold">BREDBÅND </em></p>
+<p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
+<p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
+<p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
+<p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
+<p>Dette berører deg som tar imot TV via antenne.</p>
+<p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
+<p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
+<p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
+<p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
+<p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
+<p xml:lang="nno">Dette bør du vite om digital-TV</p>
+<p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
+<p xml:lang="sma"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
+<p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
+<p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
+<p><em type="bold">-  En ting er sikkert - noe må du gjøre. </em></p>
+<p xml:lang="nno">Jeg ser TV via antenne</p>
+<p>- hva bør jeg gjøre? Ord og uttrykk</p>
+<p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
+<p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
+<p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
+<p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
+<p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
+<p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
+<p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
+<p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
+<p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
+<p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
+<p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
+<p><em type="bold">ANALOGE TV-SENDINGER</em> </p>
+<p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
+<p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
+<p><em type="bold">DIGITALE TV-SENDINGER</em> </p>
+<p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
+<p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
+<p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
+<p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
+<p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
+<p><em type="bold">DIGITAL TEKST-TV</em> </p>
+<p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
+<p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
+<p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
+<p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
+<p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
+<p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
+<p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
+<p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
+<p xml:lang="vep"><em type="bold">ANALOG</em> </p>
+<p xml:lang="vep"><em type="bold">+</em> </p>
+<p xml:lang="vep"><em type="bold">=</em> </p>
+<p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
+<p xml:lang="deu"><em type="bold">JEG HAR ANTENNE- HVA BØR JEG GJØRE?</em> </p>
+<p><em type="bold">-  En ting er sikkert - noe må du gjøre. </em></p>
+<p xml:lang="nno">Jeg ser TV via antenne</p>
+<p>- hva bør jeg gjøre? Ord og uttrykk</p>
+<p><em type="bold">I det følgende finner du en sjekkliste som kan være til hjelp når du skal bestemme deg for hva du vil gjøre.</em> </p>
+<p xml:lang="nno"><em type="bold">1. HVORDAN ØNSKER DU Å SE TV?</em> </p>
+<p>Du bør i god tid før de analoge TV-sendingene blir stanset, bestemme deg for om du vil ta imot digital-TV via antenne, kabel, parabol eller bredbånd.</p>
+<p>Undersøk hva som passer deg best og hvilke muligheter du har der du bor. Husk at kostnader og kanaltilbud varierer hos de ulike leverandørene.</p>
+<p xml:lang="nno"><em type="bold">2. HVA SLAGS KANALTILBUD ØNSKER DU?</em> </p>
+<p>Ønsker du kun NRK1, NRK2 og NRK3 (NRK Super fra desember 2007) pluss en rekke radiokanaler fra NRK, kan du ta inn disse via antenne. Du trenger ikke å tegne abonnement hos noen leverandør for å motta disse kanalene.</p>
+<p>For å kunne se TV 2, Lokal-TV og Åpen kanal via antenne må du tegne et abonnement hos RiksTV, men du trenger ikke å betale noe for abonnementet ut 2009.</p>
+<p>Ønsker du et bredere kanaltilbud bør du undersøke betal-TV-tilbudene hos de ulike leverandørene som leverer TV-signaler via bakkenett, kabel-TV, parabol og bredbånd.</p>
+<p xml:lang="nno"><em type="bold">3. HAR DU TV I FLERE ROM, PÅ HYTTA, I BÅTEN</em> <em type="bold">ELLER I CAMPINGVOGNA?</em> </p>
+<p>Med overgangen til digital-TV trenger du i de fleste tilfeller en dekoder til hvert TV-apparat.</p>
+<p>Flere leverandører tilbyr flere dekodere til redusert pris, kortidsabonnement for fritidsboliger og lignende, hvis du abonnerer på deres tilbud. Undersøk tilbudene fra de ulike leverandørene og TV-forhandlerne.</p>
+<p><em type="bold">ANALOGE TV-SENDINGER</em> </p>
+<p type="listitem">– er den tradisjonelle måten TV-signaler har blitt overført på via antenne. Lyd og</p>
+<p>bilde blir overført som radiobølger fra sendere til mottakere. Det analoge bakkenettet skal stanses gradvis fram til og med 2009.</p>
+<p><em type="bold">DIGITALE TV-SENDINGER</em> </p>
+<p type="listitem">– er den nye måten å sende TV-signaler på. Lyd og bilde gjøres om til datasignaler</p>
+<p>før de sendes. Disse signalene kan gå via antenne, satellitt, kabel, bredbånd og lignende. Overgangen til digital-TV kan på mange måter sammenlignes med overgangen fra videokassetter (VHS) til DVD.</p>
+<p xml:lang="deu"><em type="bold">DIGITALT BAKKENETT</em> </p>
+<p type="listitem">– er en oppgradering av dagens TV-sendere som står på bakken. Ved å sette nytt</p>
+<p>digitalt utstyr på TV-sendere over hele landet digitaliseres bakkenettet.</p>
+<p><em type="bold">DIGITAL TEKST-TV</em> </p>
+<p type="listitem">– er en ny type tekst-TV med bedre grafikk, lyd og bilder. Det minner mer om</p>
+<p>Internettsider enn vanlig tekst-TV. Du trenger en dekoder med støtte for MHP (Mulitimedia Home Platform). Utvalget av slike dekodere vil i begynnelsen (høsten 2007) være begrenset.</p>
+<p xml:lang="eng"><em type="bold">DIGITAL DEKODER (MOTTAKERBOKS)</em> </p>
+<p type="listitem">– er en boks som kobles til TV-en og som oversetter de digitale TV-signalene</p>
+<p xml:lang="nno">til et språk som TV-en din forstår. Dekodere får du kjøpt hos en TV-forhandler eller signal-leverandør.</p>
+<p>For både bakkenett, kabel-TV, satellitt og bredbånds-TV må du velge en tilpasset dekoder som følger leverandørens spesifikasjoner. Ofte vil et nytt abonnement være koblet opp mot kjøp/leie av en dekoder.</p>
+<p>Det finnes mange ulike typer dekodere med ulike tilleggsfunksjoner som for eksempel innebygd mulighet til å ta opp TV-sendinger for senere avspilling (Personlig Video opptaker, PVR). Du bør vurdere de ulike mulighetene opp mot ditt behov og betalingsvilje.</p>
+<p>Ønsker du å ta imot digital-TV via antenne (bakkenettet) bør du se etter NTV-godkjente dekodere. Utvalget av dekodere for antenne vil øke etter hvert.</p>
+<p xml:lang="vep"><em type="bold">ANALOG</em> </p>
+<p xml:lang="vep"><em type="bold">+</em> </p>
+<p xml:lang="vep"><em type="bold">=</em> </p>
+<p xml:lang="eng"><em type="bold">DIGITAL</em> </p>
+<p>Tidspunkt for åpning av det digitale bakkenettet og</p>
+<p>slukking av de analoge tv-sendingene*Digitaltvinorge.no</p>
+<p xml:lang="dan"><em type="bold">ÅpningLukkingFylke</em> </p>
+<p>Offentlig informasjon om overgangen til digital-TV i Norge.</p>
+<p xml:lang="nno">Telefon 815 52 900</p>
+<p xml:lang="nno">Rogaland</p>
+<p>Østfold</p>
+<p>1.september 2007</p>
+<p xml:lang="isl">4. mars 2008</p>
+<p xml:lang="ron">29. april 2008</p>
+<p>Oslo og Akershus</p>
+<p xml:lang="nno">Hordaland</p>
+<p xml:lang="nno">Møre og Romsdal</p>
+<p>4. september 2007</p>
+<p>6. september 2007</p>
+<p xml:lang="sme">20. mai 2008</p>
+<p>1. oktober 2007</p>
+<p>8. oktober 2007</p>
+<p>30. september 2008</p>
+<p xml:lang="vep"><em type="bold">ANTENNE</em> </p>
+<p>28. oktober 2008</p>
+<p>Buskerud, Vestfold og Telemark</p>
+<p>Sør-Trøndelag</p>
+<p>Hedmark og Oppland</p>
+<p xml:lang="nno">Sogn og Fjordane</p>
+<p xml:lang="deu">Aust-Agder, Vest-Agder</p>
+<p xml:lang="nno">Nord-Trøndelag og Nordland</p>
+<p>Troms og Finnmark</p>
+<p>11. oktober 2007</p>
+<p>2. september 2008</p>
+<p xml:lang="nno">1. november 2007</p>
+<p xml:lang="nno">8. november 2007</p>
+<p xml:lang="deu">November 2009</p>
+<p xml:lang="deu">Februar 2009</p>
+<p xml:lang="deu">3. desember  2007</p>
+<p>28. oktober 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="vep">Mai 2009</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">November 2008</p>
+<p xml:lang="deu">Oktober 2009</p>
+<p xml:lang="deu">November 2009</p>
+<p>Digital-TV kan tas imot med antenne. Les mer om hvordan i denne folderen. For mer informasjon, ta kontakt med en radio- og TV-forhandler, NTV eller RiksTV.</p>
+<p xml:lang="vep"><em type="bold">PARABOLANTENNE</em> </p>
+<p>Alle TV-sendinger via parabol er i dag allerede digitale. For mer informasjon, ta kontakt med en radio- og TV-forhandler, Viasat eller Canal Digital.</p>
+<p xml:lang="vep"><em type="bold">KABEL</em> </p>
+<p>De fleste kabel-TV-leverandører tilbyr digital-TV*. For mer informasjon, ta kontakt med en kabel-TV-leverandør der du bor eller Canal Digital eller GET.</p>
+<p xml:lang="deu"><em type="bold">BREDBÅND </em></p>
+<p>Noen husstander kan ta imot digital-TV gjennom en bredbåndstilknytning. Dette betegnes ofte som IP-TV og det kreves en bredbåndsforbindelse med høy hastighet. For mer informasjon, ta kontakt med en bredbåndsleverandør.</p>
+<p xml:lang="vep"><em type="bold">AKTUELLE KONTAKTER</em> </p>
+<p><em type="bold">Radio- og TV-forhandlere</em> se din lokale telefonkatalog </p>
+<p>Fra høsten 2007 blir TV-sendingene i Norge digitale.</p>
+<p>Dette berører deg som tar imot TV via antenne.</p>
+<p xml:lang="nno"><em type="bold">Kabel-TV</em> Get: www.get.no / telefon: 02123 Canal Digital. www.canaldigital.no / telefon: 06090 For andre lokale leverandører, se lokal telefonkatalog </p>
+<p><em type="bold">Bredbånd</em> For oversikt over leverandører se www.telepriser.no </p>
+<p xml:lang="nno"><em type="bold">NRK</em> www.nrk.no / telefon: 815 65 900 </p>
+<p xml:lang="nno"><em type="bold">Bakkenett</em> Norges televisjon (NTV): www.ntv.no  telefon: 09595 RiksTV: www.rikstv.no / telefon: 09595 </p>
+<p xml:lang="nno"><em type="bold">Parabol- TV</em> Viasat www.viasat.no / telefon: 815 22022 Canal Digital. www.canaldigital.no telefon: 06090 </p>
+<p xml:lang="nno">Dette bør du vite om digital-TV</p>
+<p xml:lang="sme"><em type="bold">OFFENTLIG INFORMASJON OM OVERGANGEN TIL DIGITAL-TV</em> </p>
+<p xml:lang="sma"><em type="bold">WWW.DIGITALTVINORGE.NO</em> </p>
+<p xml:lang="nno">Medietilsynet - Nygata 4 - 1607 Fredrikstad - TELEFON 815 52 900<em type="bold">i</em> </p>
+</body></document>

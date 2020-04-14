@@ -1,88 +1,56 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>336</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Verneomrader/</origFileName>
-    <parallel_text xml:lang="eng" location="index_42.html"/>
-    <parallel_text xml:lang="sma" location="index_42.html"/>
-    <parallel_text xml:lang="sme" location="index_42.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Verneområder - Fylkesmannen.no</p>
-    <p>Hopp til innhold</p>
-    <p xml:lang="nno">Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Lydversjon</p>
-      <p type="listitem" xml:lang="nno">Høykontrast</p>
-      <p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Folk og samfunn</p>
-      <p type="listitem">Barnehage og opplæring</p>
-      <p type="listitem">Barn og foreldre</p>
-      <p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Landbruk og mat</p>
-      <p type="listitem" xml:lang="nno">Kommunal styring</p>
-      <p type="listitem">Plan og bygg</p>
-      <p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
-    </list>
-    <p xml:lang="nno">fylkesmannen.no</p>
-    <p xml:lang="dan">Miljø og klima</p>
-    <p xml:lang="dan">Verneområder</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
-      <p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
-      <p type="listitem">Fiskeoppdrett</p>
-      <p type="listitem" xml:lang="dan">Forurensning</p>
-      <p type="listitem" xml:lang="nno">Friluftsliv</p>
-      <p type="listitem" xml:lang="kal">Klima</p>
-      <p type="listitem" xml:lang="est">Motorferdsel</p>
-      <p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p></list></p>
-      <p type="listitem" xml:lang="est">Rovvilt</p>
-      <p type="listitem" xml:lang="isl">Vann</p>
-      <p type="listitem" xml:lang="dan">Verneområder</p>
-    </list>
-    <p type="title" xml:lang="dan">Verneområder</p>
-    <p xml:lang="nno">Publisert 22.09.2012 Oppdatert 24.01.2017</p>
-    <p>Den største trusselen mot naturmangfoldet i Norge er at leveområder for dyr og planter blir ødelagt og delt opp. Naturreservater, nasjonalparker og andre verneområder bidrar til å sikre naturverdier og bevare områder av internasjonal, nasjonal og regional verdi. Verneområder kan også opprettes for å ta vare på landskapets egenart og kulturminner.</p>
-    <p type="title">Forvaltning av verneområdene</p>
-    <p>Ansvaret for å forvalte verneområdene er delt mellom sentrale og lokale myndigheter. Fylkesmannen er forvaltningsmyndighet i de fleste naturreservatene. Fra 2010 har kommuner med areal i nasjonalparker og større landskapsvernområder fått tilbud om å overta forvaltningsansvaret. Det er opprettet flere interkommunale verneområdestyrer. En statlig ansatt verneområdeforvalter er sekretær for styrene.</p>
-    <p>Forvaltningsmyndighetene skal først og fremst håndheve vernereglene og utarbeide forvaltnings- og skjøtselsplaner. De har også ansvar for informasjon og merking i verneområdene. Dette gjøres i samarbeid med Statens naturoppsyn.</p>
-    <p type="title">Du kan ferdes i verneområdene</p>
-    <p>Allemannsretten gir deg mulighet til å ferdes fritt i verneområdene. All ferdsel må skje hensynsfullt, slik at dyr og planter ikke blir skadet eller forstyrret. I enkelte områder kan det være ferdselsforbud deler av året, som i hekke- og yngletida. Av hensyn til dyrelivet er det forbud mot å jakte i fuglefredningsområder og en del naturreservat, men i mange verneområder kan du jakte og fiske så sant du har gyldig jakt- og fiskekort. Du kan fritt plukke bær og sopp.</p>
-    <p>Det er et mål at motorisert ferdsel i verneområdene skal begrenses, både av hensyn til dyre- og plantelivet, faren for sporskader og for at man skal kunne oppleve naturen uten forstyrrende bråk.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Lenker</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Naturmangfoldloven</p>
-      <p type="listitem">Miljødirektoratet: verneområder</p>
-      <p type="listitem">Miljøstatus: vernet natur</p>
-      <p type="listitem" xml:lang="vep">Naturbasen</p>
-    </list>
-    <p type="title" xml:lang="nno">Skjemaer</p>
-    <list>
-      <p type="listitem">Søknad om motorferdsel i verneområde</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>336</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/Miljo-og-klima/Verneomrader/</origFileName><parallel_text xml:lang="eng" location="index_42.html"/><parallel_text xml:lang="sma" location="index_42.html"/><parallel_text xml:lang="sme" location="index_42.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Verneområder - Fylkesmannen.no</p>
+<p>Hopp til innhold</p>
+<p xml:lang="nno">Fylkesmannen.no</p>
+<list><p type="listitem">Lydversjon</p>
+<p type="listitem" xml:lang="nno">Høykontrast</p>
+<p type="listitem" xml:lang="nno">Language <list><p type="listitem" xml:lang="eng">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem" xml:lang="nno">Folk og samfunn</p>
+<p type="listitem">Barnehage og opplæring</p>
+<p type="listitem">Barn og foreldre</p>
+<p type="listitem" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+</list><list><p type="listitem" xml:lang="nno">Landbruk og mat</p>
+<p type="listitem" xml:lang="nno">Kommunal styring</p>
+<p type="listitem">Plan og bygg</p>
+<p type="listitem" xml:lang="nno">Samfunnssikkerhet og beredskap</p>
+</list><p xml:lang="nno">fylkesmannen.no</p>
+<p xml:lang="dan">Miljø og klima</p>
+<p xml:lang="dan">Verneområder</p>
+<list><p type="listitem" xml:lang="nno">Avfall og gjenvinning</p>
+<p type="listitem" xml:lang="dan">Fiskeforvaltning</p>
+<p type="listitem">Fiskeoppdrett</p>
+<p type="listitem" xml:lang="dan">Forurensning</p>
+<p type="listitem" xml:lang="nno">Friluftsliv</p>
+<p type="listitem" xml:lang="kal">Klima</p>
+<p type="listitem" xml:lang="est">Motorferdsel</p>
+<p type="listitem" xml:lang="dan">Naturmangfold  <list><p type="listitem" xml:lang="dan">Hagerømlinger</p>
+</list></p>
+<p type="listitem" xml:lang="est">Rovvilt</p>
+<p type="listitem" xml:lang="isl">Vann</p>
+<p type="listitem" xml:lang="dan">Verneområder</p>
+</list><p type="title" xml:lang="dan">Verneområder</p>
+<p xml:lang="nno">Publisert 22.09.2012 Oppdatert 24.01.2017</p>
+<p>Den største trusselen mot naturmangfoldet i Norge er at leveområder for dyr og planter blir ødelagt og delt opp. Naturreservater, nasjonalparker og andre verneområder bidrar til å sikre naturverdier og bevare områder av internasjonal, nasjonal og regional verdi. Verneområder kan også opprettes for å ta vare på landskapets egenart og kulturminner.</p>
+<p type="title">Forvaltning av verneområdene</p>
+<p>Ansvaret for å forvalte verneområdene er delt mellom sentrale og lokale myndigheter. Fylkesmannen er forvaltningsmyndighet i de fleste naturreservatene. Fra 2010 har kommuner med areal i nasjonalparker og større landskapsvernområder fått tilbud om å overta forvaltningsansvaret. Det er opprettet flere interkommunale verneområdestyrer. En statlig ansatt verneområdeforvalter er sekretær for styrene.</p>
+<p>Forvaltningsmyndighetene skal først og fremst håndheve vernereglene og utarbeide forvaltnings- og skjøtselsplaner. De har også ansvar for informasjon og merking i verneområdene. Dette gjøres i samarbeid med Statens naturoppsyn.</p>
+<p type="title">Du kan ferdes i verneområdene</p>
+<p>Allemannsretten gir deg mulighet til å ferdes fritt i verneområdene. All ferdsel må skje hensynsfullt, slik at dyr og planter ikke blir skadet eller forstyrret. I enkelte områder kan det være ferdselsforbud deler av året, som i hekke- og yngletida. Av hensyn til dyrelivet er det forbud mot å jakte i fuglefredningsområder og en del naturreservat, men i mange verneområder kan du jakte og fiske så sant du har gyldig jakt- og fiskekort. Du kan fritt plukke bær og sopp.</p>
+<p>Det er et mål at motorisert ferdsel i verneområdene skal begrenses, både av hensyn til dyre- og plantelivet, faren for sporskader og for at man skal kunne oppleve naturen uten forstyrrende bråk.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="rmy-rka">Lenker</p>
+<list><p type="listitem" xml:lang="vep">Naturmangfoldloven</p>
+<p type="listitem">Miljødirektoratet: verneområder</p>
+<p type="listitem">Miljøstatus: vernet natur</p>
+<p type="listitem" xml:lang="rmy-rka">Naturbasen</p>
+</list><p type="title" xml:lang="nno">Skjemaer</p>
+<list><p type="listitem">Søknad om motorferdsel i verneområde</p>
+</list></body></document>

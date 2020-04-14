@@ -1,90 +1,57 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Bibliotek</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>918</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>https://www.sametinget.no/Bibliotek</origFileName>
-    <parallel_text xml:lang="sma" location="gaerjagaaetie.html"/>
-    <parallel_text xml:lang="sme" location="girjeradju.html"/>
-    <parallel_text xml:lang="smj" location="girjjevuorkka.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingets bibliotek ligger i Karasjok og er en del av Sametingets administrasjon.</p>
-    <p>Biblioteket har Norges største samling av bøker og annet materiell på samiske språk og om samiske forhold. Disse kan fjernlånes hvor som helst i Norge.</p>
-    <p>
-      <em type="italic">Åpningstider: </em>
-    </p>
-    <p>Biblioteket er åpent for alle mandag til fredag, kl. 09.00-15.30.</p>
-    <p type="title">Bli låner</p>
-    <p>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket. For å bli det må du møte opp ved biblioteket i Karasjok. Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</p>
-    <p type="title">Lån fra andre bibliotek - fjernlån</p>
-    <p>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</p>
-    <p type="title">Reservere, bestille og forlenge lån</p>
-    <p>I ORIA kan du søke opp bøker. Der kan du også reservere, bestille eller forlenge lån.</p>
-    <p>Alle bibliotek kan låne bokpakker (depot) hos oss. Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene. I tillegg låner vi ut DVDer, CDer og lydbøker. Utvalget settes sammen etter lånerens/bibliotekets ønsker. Langtidslån er mulig.</p>
-    <p>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle.</p>
-    <p>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</p>
-    <p>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet. De er dermed søkbare på lik linje med andre dokumenter.</p>
-    <p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
-    <p>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</p>
-    <p>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket. For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge. De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</p>
-    <p type="title">Låne og bestille</p>
-    <p type="title">Bli låner</p>
-    <p>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket. For å bli det må du møte opp ved biblioteket i Karasjok. Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</p>
-    <p type="title">Lån fra andre bibliotek - fjernlån</p>
-    <p>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</p>
-    <p type="title">Reservere, bestille og forlenge lån</p>
-    <p>I ORIA kan du søke opp bøker. Der kan du også reservere, bestille eller forlenge lån.</p>
-    <p type="title">Slik bruker du Oria</p>
-    <p>For å bruke ORIA registrerer du deg først som lånekunde. Da får du et lånekort som også blir din lånetaker-ID. Deretter kan du få ditt eget passord til innlogging på ORIA.</p>
-    <p type="title">Slik logger du deg inn</p>
-    <p>Klikk først på <span type="quote">«Logg på»</span> øverst i høyre hjørne i Oria . Bruk din låntagerlD og BIBSYS-passord.</p>
-    <p>Sametingets bibliotek står ikke i nedtrekksmenyen på påloggingssiden. Du må velge BIBSYS som institusjon. Logg inn med din låntagerID og BIBSYS-passord.</p>
-    <p>Bestill passord for ORIA</p>
-    <p type="title">Bokpakker</p>
-    <p>Alle bibliotek kan låne bokpakker (depot) hos oss. Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene. I tillegg låner vi ut DVDer, CDer og lydbøker. Utvalget settes sammen etter lånerens/bibliotekets ønsker. Langtidslån er mulig.</p>
-    <p type="title">Kontakt oss om bokpakker</p>
-    <p>E-post: sambib@samediggi.no Telefon: +47 78 47 40 00</p>
-    <p type="title">Stjernesamlingen</p>
-    <p>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle.</p>
-    <p>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</p>
-    <p>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet. De er dermed søkbare på lik linje med andre dokumenter.</p>
-    <p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
-    <p type="title">Utgivelsene i stjernesamlingen fordeler seg pr. dags dato slik:</p>
-    <list>
-      <p type="listitem">Omtrent 10 titler fra 1600-tallet</p>
-      <p type="listitem">80 titler fra 1700-tallet</p>
-      <p type="listitem">430 titler fra 1800-tallet</p>
-    </list>
-    <p>Av de eldste bøkene i samlingen kan nevnes Manuale Lapponicum av Olaus Stepani Graan (Stockholm 1669) og Lapponia av Johannes Schefferus, i flere utg. fra 1674 og framover.</p>
-    <p type="title">Urfolkssamling</p>
-    <p>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</p>
-    <p>Urfolkssamlingen inneholder dokumenter om urfolk i hele verden, og teller pr. dags dato omkring 200 titler. Dermed er bøker Sametinget har samlet og fått i gave blitt registrert og gjort tilgjengelig for utlån/fjernlån.</p>
-    <p type="title">Samisk bibliografi</p>
-    <p>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket. For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge. De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</p>
-    <p>Søk i samisk bibliografi</p>
-    <p type="title">Kontakt biblioteket</p>
-    <p xml:lang="sme">Ávjovárgeaidnu 50, 9730 Karasjok</p>
-    <p>+47 78 47 40 00</p>
-    <p xml:lang="sme">sambib@samediggi.no</p>
-    <p>Følg biblioteket i sosiale medier</p>
-    <p xml:lang="sme">Facebook  Instagram</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Bibliotek</title><genre code="admin"/><author><unknown/></author><wordcount>918</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>https://www.sametinget.no/Bibliotek</origFileName><parallel_text xml:lang="sma" location="gaerjagaaetie.html"/><parallel_text xml:lang="sme" location="girjeradju.html"/><parallel_text xml:lang="smj" location="girjjevuorkka.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingets bibliotek ligger i Karasjok og er en del av Sametingets administrasjon.</p>
+<p>Biblioteket har Norges største samling av bøker og annet materiell på samiske språk og om samiske forhold. Disse kan fjernlånes hvor som helst i Norge.</p>
+<p><em type="italic">Åpningstider: </em></p>
+<p>Biblioteket er åpent for alle mandag til fredag, kl. 09.00-15.30.</p>
+<p type="title">Bli låner</p>
+<p>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket. For å bli det må du møte opp ved biblioteket i Karasjok. Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</p>
+<p type="title">Lån fra andre bibliotek - fjernlån</p>
+<p>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</p>
+<p type="title">Reservere, bestille og forlenge lån</p>
+<p>I ORIA kan du søke opp bøker. Der kan du også reservere, bestille eller forlenge lån.</p>
+<p>Alle bibliotek kan låne bokpakker (depot) hos oss. Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene. I tillegg låner vi ut DVDer, CDer og lydbøker. Utvalget settes sammen etter lånerens/bibliotekets ønsker. Langtidslån er mulig.</p>
+<p>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle.</p>
+<p>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</p>
+<p>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet. De er dermed søkbare på lik linje med andre dokumenter.</p>
+<p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
+<p>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</p>
+<p>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket. For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge. De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</p>
+<p type="title">Låne og bestille</p>
+<p type="title">Bli låner</p>
+<p>For å reservere eller låne fra Sametingets bibliotek må du være registrert som låner ved biblioteket. For å bli det må du møte opp ved biblioteket i Karasjok. Lånere andre steder i landet må fortrinnsvis bestille lån fra oss igjennom sitt nærmeste bibliotek.</p>
+<p type="title">Lån fra andre bibliotek - fjernlån</p>
+<p>Om materialet du ønsker ikke finnes på biblioteket kan vi bestille det inn til deg fra andre bibliotek (fjernlån).</p>
+<p type="title">Reservere, bestille og forlenge lån</p>
+<p>I ORIA kan du søke opp bøker. Der kan du også reservere, bestille eller forlenge lån.</p>
+<p type="title">Slik bruker du Oria</p>
+<p>For å bruke ORIA registrerer du deg først som lånekunde. Da får du et lånekort som også blir din lånetaker-ID. Deretter kan du få ditt eget passord til innlogging på ORIA.</p>
+<p type="title">Slik logger du deg inn</p>
+<p>Klikk først på <span type="quote">«Logg på»</span> øverst i høyre hjørne i Oria . Bruk din låntagerlD og BIBSYS-passord.</p>
+<p>Sametingets bibliotek står ikke i nedtrekksmenyen på påloggingssiden. Du må velge BIBSYS som institusjon. Logg inn med din låntagerID og BIBSYS-passord.</p>
+<p>Bestill passord for ORIA</p>
+<p type="title">Bokpakker</p>
+<p>Alle bibliotek kan låne bokpakker (depot) hos oss. Vi har en stor samling av både faglitteratur og skjønnlitteratur for barn og voksne, på de ulike samiske språkene. I tillegg låner vi ut DVDer, CDer og lydbøker. Utvalget settes sammen etter lånerens/bibliotekets ønsker. Langtidslån er mulig.</p>
+<p type="title">Kontakt oss om bokpakker</p>
+<p>E-post: sambib@samediggi.no Telefon: +47 78 47 40 00</p>
+<p type="title">Stjernesamlingen</p>
+<p>Stjernesamlingen omfatter ca 1200 titler, som omhandler samiske forhold eller er skrevet på et av de samiske språkene. Majoriteten av titlene er eldre enn 100 år gamle.</p>
+<p>Samlingen inneholder antikvariske, sjeldne, eldre og verdifulle bøker og tidsskrifter, samt noen kart helt tilbake til 1669. I tillegg inneholder den enkelte titler fra de siste 100 årene av spesiell verdi.</p>
+<p>Samlingen er nylig blitt gjennomgått og alle titlene er nå registrert i biblioteksystemet. De er dermed søkbare på lik linje med andre dokumenter.</p>
+<p>De fleste av dokumentene i stjernesamlingen har utlånsekspemplar plassert i magasinet, men ekspemplarene i stjernesamlingen er ikke til hjemlån. De kan i noen tilfeller hentes frem og leses i biblioteket.</p>
+<p type="title">Utgivelsene i stjernesamlingen fordeler seg pr. dags dato slik:</p>
+<list><p type="listitem">Omtrent 10 titler fra 1600-tallet</p>
+<p type="listitem">80 titler fra 1700-tallet</p>
+<p type="listitem">430 titler fra 1800-tallet</p>
+</list><p>Av de eldste bøkene i samlingen kan nevnes Manuale Lapponicum av Olaus Stepani Graan (Stockholm 1669) og Lapponia av Johannes Schefferus, i flere utg. fra 1674 og framover.</p>
+<p type="title">Urfolkssamling</p>
+<p>Sametingets bibliotek opprettet i 2014 en egen urfolkssamling.</p>
+<p>Urfolkssamlingen inneholder dokumenter om urfolk i hele verden, og teller pr. dags dato omkring 200 titler. Dermed er bøker Sametinget har samlet og fått i gave blitt registrert og gjort tilgjengelig for utlån/fjernlån.</p>
+<p type="title">Samisk bibliografi</p>
+<p>Samisk bibliografi i Norge ble startet opp ved Universitetsbiblioteket i Trondheim i 1980, før det i 1993 offisielt flyttet over til Nasjonalbiblioteket. For drøyt tjue år siden begynte man å snakke om muligheten for å lage en felles samisk bibliografi basert på de samiske bibliografiene som produseres i Russland, Finland, Sverige og Norge. De tre andre landene har bidratt med endelig å fullføre dette arbeidet i samarbeid med BIBSYS som også står for driften av tjenesten.</p>
+<p>Søk i samisk bibliografi</p>
+<p type="title">Kontakt biblioteket</p>
+<p xml:lang="sme">Ávjovárgeaidnu 50, 9730 Karasjok</p>
+<p>+47 78 47 40 00</p>
+<p xml:lang="sme">sambib@samediggi.no</p>
+<p>Følg biblioteket i sosiale medier</p>
+<p xml:lang="sme">Facebook  Instagram</p>
+</body></document>

@@ -1,168 +1,90 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1261</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Sametingsbygningen/Adgangen-til-Sametinget-reglement</origFileName>
-    <parallel_text xml:lang="sme" location="samediggai-beassama-birra-njuolggadusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Adgangen til Sametinget - reglement / Sametingsbygningen / Om Sametinget / Forsiden - Sametinget</p>
-    <p type="title">Adgangen til Sametinget - reglement</p>
-    <p>Reglementet er vedtatt av plenumsledelsen.</p>
-    <p>
-      <em type="bold">1. Formål og virkeområde </em>
-    </p>
-    <p>Reglementet skal sikre en forsvarlig og hensiktsmessig drift av <em type="bold">sametingsbygningen og fløy A - heretter omtalt som sametingsbygningen </em>, og samtidig gjenspeile at Sametinget er en nasjonal folkevalg forsamling for samene i Norge. </p>
-    <p>Med grunnlag i en forsvarlig og hensiktsmessig drift skal reglementet bidra til å øke den fysiske sikkerheten med hensyn til brann, tyveri, sabotasje og lignende i Sametinget, samtidig som ansattes krav til et forsvarlig og godt tilrettelagt arbeidsmiljø ivaretas.</p>
-    <p>Arbeidsgiver har plikt til å sørge for at arbeidsmiljøet og sikkerheten på Sametinget er tilfredsstillende og forsvarlig, mens arbeidstaker har rett og plikt til å medvirke til dette.</p>
-    <p>Reglementet skal også sikre Sametingets folkevalgte gode arbeidsforhold i forbindelse med den politiske virksomheten i sametingsbygningen.</p>
-    <p>
-      <em type="bold">Dette reglementet gjelder også for lokaler som Sametinget leier for sin virksomhet utenom Karasjok hva gjelder bruk av fasiliteter som møterom, kantine og spiserom, og utlån av utstyr og inventar. </em>
-    </p>
-    <p>
-      <em type="bold">2. Fravik i reglementet </em>
-    </p>
-    <p>Plenumslederen og direktøren gis unntaksvis myndighet til å fravike i dette reglement.</p>
-    <p xml:lang="nno">
-      <em type="bold">3. Adgangskort </em>
-    </p>
-    <p>Direktøren og den direktøren gir myndighet til kan utstede adgangskort som gir tilgang til sametingsbygningen. Kortet, med eller uten kode, skal aldri lånes ut eller overlates til personer som ikke har fått utstedt adgangskort til bygningen, og den som har fått utstedt en adgangskort er ansvarlig for at det oppbevares forsvarlig og ikke er tilgjengelig for uvedkommende.</p>
-    <p>Alle som har fått utstedt adgangskort skal bære dette godt synlig under sitt opphold i sametingsbygningen. Personer som unnlater å ta med seg sitt adgangskort må registrere seg som ordinære besøkende; jf pkt 4 nedenfor.</p>
-    <p xml:lang="dan">
-      <em type="bold">4. Besøkende </em>
-    </p>
-    <p>
-      <em type="bold">Alle besøkende til sametingsbygningen, med unntak av besøkende til publikumsarealer (jf pkt 7), skal alltid registreres i besøksregistreringssystemet i resepsjonen, og få utstedt et besøkskort (klistremerke) som skal bæres godt synlig under oppholdet. </em>
-    </p>
-    <p>Besøkende til personell med kontor i bygningen skal alltid hentes fra og bringes tilbake til resepsjonen av besøksmottakeren. Besøkskortet leveres til resepsjonen for utregistrering.</p>
-    <p>I forbindelse med organiserte turer er det tilstrekkelig å registrere reiselederen og antallet i reisefølget. Sametingets guide har plikt til å etterse at antallet besøkende som tas inn i lukket området samsvarer med antallet som forlater lukket område etter besøket.</p>
-    <p xml:lang="dan">
-      <em type="bold">5. Parkering </em>
-    </p>
-    <p>Av sikkerhetsmessige grunner er det ikke tillatt å parkere andre steder enn på anviste parkerings-plasser ved sametingsbygningen.</p>
-    <p>
-      <em type="bold">6. Fellesarealer </em>
-    </p>
-    <p>Med fellesarealer i sametingsbygningen menes:</p>
-    <p type="listitem">Resepsjonsområdet</p>
-    <p type="listitem">Biblioteket</p>
-    <p type="listitem" xml:lang="vep">Kantina</p>
-    <p type="listitem">Toalettene</p>
-    <p type="listitem">Trimrommet</p>
-    <p type="listitem">Møterommene</p>
-    <p type="listitem">Kopieringsrommene</p>
-    <p type="listitem" xml:lang="fin">Arkivet</p>
-    <p type="listitem">Posthyllene</p>
-    <p type="listitem">Gangene til ovennevnte arealer</p>
-    <p type="listitem" xml:lang="deu">Vandrehallen</p>
-    <p xml:lang="est">
-      <em type="bold">7. Publikumsarealer </em>
-    </p>
-    <p>Med publikumsarealer i sametingsbygningen menes:</p>
-    <p type="listitem">Resepsjonsområdet</p>
-    <p type="listitem">Biblioteket</p>
-    <p type="listitem">Toalettene i første etasje nærmest hovedinngangen.</p>
-    <p xml:lang="dan">
-      <em type="bold">8. Generell adgang </em>
-    </p>
-    <p>Følgende personer har generell adgang til sametingsbygningen:</p>
-    <p type="listitem">ansatte</p>
-    <p type="listitem">Sametingsrådet med politisk(e) rådgiver(e)</p>
-    <p type="listitem" xml:lang="deu">Plenumsleder</p>
-    <p type="listitem">Gruppesekretærer for sametingsgruppene som kan dokumentere et formelt arbeidsforhold og har sitt arbeidssted i sametingsbygningen</p>
-    <p type="listitem">Gruppeledere</p>
-    <p>Personer med generell adgang til sametingsbygningen har i utgangspunktet adgang til hele bygningens fellesarealer. Begrensninger og utvidelser i forhold til dette reguleres av den enkeltes nøkkelkort og nøkkel.</p>
-    <p>For øvrig gjelder følgende:</p>
-    <p>
-      <em type="bold">8.1 Besøk av familie og bekjente </em>
-    </p>
-    <p>Personer med generell adgang til sametingsbygningen kan motta besøk av familie og bekjente. Disse skal registreres som besøkende i resepsjonen, og skal hentes i resepsjonen av den som mottar besøket og ledsages ut etter endt besøk. Hvis de besøkende skal oppholde seg også utenfor besøksmottakers kontor, gjelder reglene for turister og andre besøkende. Besøksmottaker har for øvrig ansvar for sine besøkende, og barn har ikke adgang til noen av Sametingets lokaler uten tilsyn av voksne. Ingen barn kan oppholde seg i publikumsområdene uten tilsyn etter ordinær kontortid. Resepsjonspersonalet skal etterse at publikumsområdene er tomt for besøkende ved arbeidsdagens slutt.</p>
-    <p xml:lang="dan">
-      <em type="bold">8.2 Adgang til trimrom og badstue </em>
-    </p>
-    <p>Personer med generell adgang til sametingsbygningen har adgang til trimrom og badstue. Det er tillatt å ta med seg ektefelle/samboer og egne barn/samboers barn til trimrom og badstue når man selv oppholder seg der.</p>
-    <p>
-      <em type="bold">9. Bruk av Sametingets lokaler, utstyr og inventar. </em>
-    </p>
-    <p>
-      <em type="bold">9.1 Bruk av Sametingets møterom </em>
-    </p>
-    <p>Sametingets møterom skal kun benyttes til tingets ordinære virksomhet. Sametingets møterom kan ikke nyttes av politiske grupper/partier eller enkeltpersoner i forbindelse med sine årsmøter, konferanser, fritids- og sosiale aktiviteter med mer. Møterommene kan benyttes til møter Sametinget står som arrangør eller medarrangør for, jf. Retningslinjer for bruk av Sametingets lokaler, vedtatt i møtelederskapet 7. desember 2000.</p>
-    <p>
-      <em type="bold">9.2 Bruk av Sametingets kantine og spiserom </em>
-    </p>
-    <p>Sametingets kantine eller spiserom på tingets kontorsteder skal ikke lånes ut til tilsatte eller andre for privat bruk verken innenfor eller utenfor åpningstiden; jf pkt 9.1.</p>
-    <p>
-      <em type="bold">9.3 Lån og bruk av Sametingets utstyr og inventar </em>
-    </p>
-    <p>Sametingets utstyr og inventar er forbeholdt tingets egen virksomhet, og skal ikke lånes ut til tilsatte eller andre til privat bruk.</p>
-    <p>
-      <em type="bold">9. Adgang for møtende representanter og vararepresentanter </em>
-    </p>
-    <p>Under Sametingets komitémøter og plenumsmøter har møtende representanter og vararepresentanter adgang til alle åpne lokaler og lokaler man har fått utstedet adgangskort til i sametingsbygningen, så som plenumssalen, eget gruppekontor, eget grupperom, kantine, toaletter, bibliotek, kopieringsrom, telefaksrom og arkiv.</p>
-    <p>Møtende representanter og vararepresentanter har under Sametingets komitémøter og plenumsmøter også adgang til trimrom og badstue.</p>
-    <p xml:lang="dan">
-      <em type="bold">10. Adgang for pressen </em>
-    </p>
-    <p xml:lang="dan">
-      <em type="bold">10.1 Generelt om adgangen </em>
-    </p>
-    <p>Journalister og fotografer med pressekort eller annen dokumentasjon fra egen medieinstitusjon har i tillegg til adgangen til publikumsarealene også adgang til anviste presserom, til møterom og arealene til og utenfor rommene det foregår plenumsmøter og komitémøter på, til kantina og til toalettene nærmest presserommene ved siden av auditoriet.</p>
-    <p>Pressefolk med pressekort kan ta med seg pressemedarbeidere uten pressekort fra egen medieinstitusjon.Teknisk personell fra TV-selskapene har samme adgang som journalister og fotografer med pressekort.</p>
-    <p>Pressefolk uten egne pressekort skal tildeles besøkskort merket <span type="quote" xml:lang="eng">"presse"</span>.</p>
-    <p>Når hensynet til arbeidet i Sametinget, eller situasjonen for øvrig tilsier det, kan direktøren eller den direktøren gir myndighet til beslutte at enkelte områder av sametingsbygningen er stengt for pressen.</p>
-    <p xml:lang="nno">
-      <em type="bold">10.2 Fotografering/filming/lydopptak </em>
-    </p>
-    <p>Fotografering/filming/lydopptak skal fortrinnsvis foregå i publikumsarealene. Fotografering/filming/lydopptak kan foregå innenfor pressens adgangsområde med unntak av kantinen, jf. pkt. 12.1 andre ledd.</p>
-    <p>Det er ikke tillatt med fotografering eller filming gjennom vinduer inne i sametingsbygningen uten spesiell tillatelse fra direktøren eller den direktøren gir myndighet til.</p>
-    <p>Fotografering/filming/lydopptak av ansatte eller grupper av ansatte skal ikke skje uten tillatelse fra den ansatte, fra direktøren eller den direktøren gir myndighet til.</p>
-    <p>Journalister, fotografer og filmfolk skal for øvrig alltid rette seg etter instrukser fra direktøren eller den direktøren gir myndighet til uavhengig av dette reglement.</p>
-    <p>Fotografering/filming/lydopptak i plenumssalen skal skje på følgende måte:</p>
-    <p type="listitem">det skal ikke forstyrre avviklingen av møtet</p>
-    <p type="listitem">det er ikke tillatt å bevege seg innenfor området for representantenes og møteledernes plasser</p>
-    <p>
-      <em type="bold">11 Adgang for besøkende </em>
-    </p>
-    <p>
-      <em type="bold">11.1. Gjester og kunder </em>
-    </p>
-    <p>
-      <em type="bold">Gjester og kunder skal som hovedregel hentes i resepsjonen av den som mottar besøket. Ved besøkets slutt skal besøkende ledsages til resepsjonen og registreres ut. </em>
-    </p>
-    <p>Ved arrangementer med gjester utenfra, skal minst en representant for arrangøren være til stede og motta gjestene og følge dem ut etter arrangementets slutt.</p>
-    <p>
-      <em type="bold">11.2. Turister og andre besøkende </em>
-    </p>
-    <p>Turister og andre besøkende har adgang til publikumsarealene og til eventuelle andre områder i følge med guider eller andre med generell adgang til sametingsbygningen, jf. pkt. 12.1 første ledd.</p>
-    <p xml:lang="dan">
-      <em type="bold">12. Andre bestemmelser </em>
-    </p>
-    <p>
-      <em type="bold">12.1. Plenumsmøter og komitémøter </em>
-    </p>
-    <p>I forbindelse med Sametingets plenumsmøter har besøkende adgang til plenumssalen, vandrehallen og kantinen i tillegg til publikumsarealene, jf. pkt. 7.</p>
-    <p>I forbindelse med Sametingets komitémøter og plenumsmøter gjelder ikke forbudet mot fotografering/ filming/lydopptak i kantinen, jf. pkt. 10.2 andre ledd.</p>
-    <p xml:lang="dan">
-      <em type="bold">12.2. Bortvisning </em>
-    </p>
-    <p>Direktøren og den direktøren gir myndighet til kan vise personer som opptrer utilbørlig eller som med forsett bryter disse reglene, bort fra sametingsbygningen uten nærmere begrunnelse.</p>
-    <p>
-      <em type="bold">12.3. Endringer i reglementet </em>
-    </p>
-    <p>Plenumsledelsen kan gjøre endringer i dette reglementet.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1261</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.sametinget.no/layout/set/print/Om-Sametinget/Sametingsbygningen/Adgangen-til-Sametinget-reglement</origFileName><parallel_text xml:lang="sme" location="samediggai-beassama-birra-njuolggadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Adgangen til Sametinget - reglement / Sametingsbygningen / Om Sametinget / Forsiden - Sametinget</p>
+<p type="title">Adgangen til Sametinget - reglement</p>
+<p>Reglementet er vedtatt av plenumsledelsen.</p>
+<p><em type="bold">1. Formål og virkeområde </em></p>
+<p>Reglementet skal sikre en forsvarlig og hensiktsmessig drift av <em type="bold">sametingsbygningen og fløy A - heretter omtalt som sametingsbygningen </em>, og samtidig gjenspeile at Sametinget er en nasjonal folkevalg forsamling for samene i Norge. </p>
+<p>Med grunnlag i en forsvarlig og hensiktsmessig drift skal reglementet bidra til å øke den fysiske sikkerheten med hensyn til brann, tyveri, sabotasje og lignende i Sametinget, samtidig som ansattes krav til et forsvarlig og godt tilrettelagt arbeidsmiljø ivaretas.</p>
+<p>Arbeidsgiver har plikt til å sørge for at arbeidsmiljøet og sikkerheten på Sametinget er tilfredsstillende og forsvarlig, mens arbeidstaker har rett og plikt til å medvirke til dette.</p>
+<p>Reglementet skal også sikre Sametingets folkevalgte gode arbeidsforhold i forbindelse med den politiske virksomheten i sametingsbygningen.</p>
+<p><em type="bold">Dette reglementet gjelder også for lokaler som Sametinget leier for sin virksomhet utenom Karasjok hva gjelder bruk av fasiliteter som møterom, kantine og spiserom, og utlån av utstyr og inventar. </em></p>
+<p><em type="bold">2. Fravik i reglementet </em></p>
+<p>Plenumslederen og direktøren gis unntaksvis myndighet til å fravike i dette reglement.</p>
+<p xml:lang="nno"><em type="bold">3. Adgangskort </em></p>
+<p>Direktøren og den direktøren gir myndighet til kan utstede adgangskort som gir tilgang til sametingsbygningen. Kortet, med eller uten kode, skal aldri lånes ut eller overlates til personer som ikke har fått utstedt adgangskort til bygningen, og den som har fått utstedt en adgangskort er ansvarlig for at det oppbevares forsvarlig og ikke er tilgjengelig for uvedkommende.</p>
+<p>Alle som har fått utstedt adgangskort skal bære dette godt synlig under sitt opphold i sametingsbygningen. Personer som unnlater å ta med seg sitt adgangskort må registrere seg som ordinære besøkende; jf pkt 4 nedenfor.</p>
+<p xml:lang="dan"><em type="bold">4. Besøkende </em></p>
+<p><em type="bold">Alle besøkende til sametingsbygningen, med unntak av besøkende til publikumsarealer (jf pkt 7), skal alltid registreres i besøksregistreringssystemet i resepsjonen, og få utstedt et besøkskort (klistremerke) som skal bæres godt synlig under oppholdet. </em></p>
+<p>Besøkende til personell med kontor i bygningen skal alltid hentes fra og bringes tilbake til resepsjonen av besøksmottakeren. Besøkskortet leveres til resepsjonen for utregistrering.</p>
+<p>I forbindelse med organiserte turer er det tilstrekkelig å registrere reiselederen og antallet i reisefølget. Sametingets guide har plikt til å etterse at antallet besøkende som tas inn i lukket området samsvarer med antallet som forlater lukket område etter besøket.</p>
+<p xml:lang="dan"><em type="bold">5. Parkering </em></p>
+<p>Av sikkerhetsmessige grunner er det ikke tillatt å parkere andre steder enn på anviste parkerings-plasser ved sametingsbygningen.</p>
+<p><em type="bold">6. Fellesarealer </em></p>
+<p>Med fellesarealer i sametingsbygningen menes:</p>
+<p type="listitem">Resepsjonsområdet</p>
+<p type="listitem">Biblioteket</p>
+<p type="listitem" xml:lang="vep">Kantina</p>
+<p type="listitem">Toalettene</p>
+<p type="listitem">Trimrommet</p>
+<p type="listitem">Møterommene</p>
+<p type="listitem">Kopieringsrommene</p>
+<p type="listitem">Arkivet</p>
+<p type="listitem">Posthyllene</p>
+<p type="listitem">Gangene til ovennevnte arealer</p>
+<p type="listitem" xml:lang="deu">Vandrehallen</p>
+<p xml:lang="est"><em type="bold">7. Publikumsarealer </em></p>
+<p>Med publikumsarealer i sametingsbygningen menes:</p>
+<p type="listitem">Resepsjonsområdet</p>
+<p type="listitem">Biblioteket</p>
+<p type="listitem">Toalettene i første etasje nærmest hovedinngangen.</p>
+<p xml:lang="dan"><em type="bold">8. Generell adgang </em></p>
+<p>Følgende personer har generell adgang til sametingsbygningen:</p>
+<p type="listitem" xml:lang="fit">ansatte</p>
+<p type="listitem">Sametingsrådet med politisk(e) rådgiver(e)</p>
+<p type="listitem" xml:lang="deu">Plenumsleder</p>
+<p type="listitem">Gruppesekretærer for sametingsgruppene som kan dokumentere et formelt arbeidsforhold og har sitt arbeidssted i sametingsbygningen</p>
+<p type="listitem">Gruppeledere</p>
+<p>Personer med generell adgang til sametingsbygningen har i utgangspunktet adgang til hele bygningens fellesarealer. Begrensninger og utvidelser i forhold til dette reguleres av den enkeltes nøkkelkort og nøkkel.</p>
+<p>For øvrig gjelder følgende:</p>
+<p><em type="bold">8.1 Besøk av familie og bekjente </em></p>
+<p>Personer med generell adgang til sametingsbygningen kan motta besøk av familie og bekjente. Disse skal registreres som besøkende i resepsjonen, og skal hentes i resepsjonen av den som mottar besøket og ledsages ut etter endt besøk. Hvis de besøkende skal oppholde seg også utenfor besøksmottakers kontor, gjelder reglene for turister og andre besøkende. Besøksmottaker har for øvrig ansvar for sine besøkende, og barn har ikke adgang til noen av Sametingets lokaler uten tilsyn av voksne. Ingen barn kan oppholde seg i publikumsområdene uten tilsyn etter ordinær kontortid. Resepsjonspersonalet skal etterse at publikumsområdene er tomt for besøkende ved arbeidsdagens slutt.</p>
+<p xml:lang="dan"><em type="bold">8.2 Adgang til trimrom og badstue </em></p>
+<p>Personer med generell adgang til sametingsbygningen har adgang til trimrom og badstue. Det er tillatt å ta med seg ektefelle/samboer og egne barn/samboers barn til trimrom og badstue når man selv oppholder seg der.</p>
+<p><em type="bold">9. Bruk av Sametingets lokaler, utstyr og inventar. </em></p>
+<p><em type="bold">9.1 Bruk av Sametingets møterom </em></p>
+<p>Sametingets møterom skal kun benyttes til tingets ordinære virksomhet. Sametingets møterom kan ikke nyttes av politiske grupper/partier eller enkeltpersoner i forbindelse med sine årsmøter, konferanser, fritids- og sosiale aktiviteter med mer. Møterommene kan benyttes til møter Sametinget står som arrangør eller medarrangør for, jf. Retningslinjer for bruk av Sametingets lokaler, vedtatt i møtelederskapet 7. desember 2000.</p>
+<p><em type="bold">9.2 Bruk av Sametingets kantine og spiserom </em></p>
+<p>Sametingets kantine eller spiserom på tingets kontorsteder skal ikke lånes ut til tilsatte eller andre for privat bruk verken innenfor eller utenfor åpningstiden; jf pkt 9.1.</p>
+<p><em type="bold">9.3 Lån og bruk av Sametingets utstyr og inventar </em></p>
+<p>Sametingets utstyr og inventar er forbeholdt tingets egen virksomhet, og skal ikke lånes ut til tilsatte eller andre til privat bruk.</p>
+<p><em type="bold">9. Adgang for møtende representanter og vararepresentanter </em></p>
+<p>Under Sametingets komitémøter og plenumsmøter har møtende representanter og vararepresentanter adgang til alle åpne lokaler og lokaler man har fått utstedet adgangskort til i sametingsbygningen, så som plenumssalen, eget gruppekontor, eget grupperom, kantine, toaletter, bibliotek, kopieringsrom, telefaksrom og arkiv.</p>
+<p>Møtende representanter og vararepresentanter har under Sametingets komitémøter og plenumsmøter også adgang til trimrom og badstue.</p>
+<p xml:lang="dan"><em type="bold">10. Adgang for pressen </em></p>
+<p xml:lang="dan"><em type="bold">10.1 Generelt om adgangen </em></p>
+<p>Journalister og fotografer med pressekort eller annen dokumentasjon fra egen medieinstitusjon har i tillegg til adgangen til publikumsarealene også adgang til anviste presserom, til møterom og arealene til og utenfor rommene det foregår plenumsmøter og komitémøter på, til kantina og til toalettene nærmest presserommene ved siden av auditoriet.</p>
+<p>Pressefolk med pressekort kan ta med seg pressemedarbeidere uten pressekort fra egen medieinstitusjon.Teknisk personell fra TV-selskapene har samme adgang som journalister og fotografer med pressekort.</p>
+<p>Pressefolk uten egne pressekort skal tildeles besøkskort merket <span type="quote" xml:lang="eng">"presse"</span>.</p>
+<p>Når hensynet til arbeidet i Sametinget, eller situasjonen for øvrig tilsier det, kan direktøren eller den direktøren gir myndighet til beslutte at enkelte områder av sametingsbygningen er stengt for pressen.</p>
+<p xml:lang="nno"><em type="bold">10.2 Fotografering/filming/lydopptak </em></p>
+<p>Fotografering/filming/lydopptak skal fortrinnsvis foregå i publikumsarealene. Fotografering/filming/lydopptak kan foregå innenfor pressens adgangsområde med unntak av kantinen, jf. pkt. 12.1 andre ledd.</p>
+<p>Det er ikke tillatt med fotografering eller filming gjennom vinduer inne i sametingsbygningen uten spesiell tillatelse fra direktøren eller den direktøren gir myndighet til.</p>
+<p>Fotografering/filming/lydopptak av ansatte eller grupper av ansatte skal ikke skje uten tillatelse fra den ansatte, fra direktøren eller den direktøren gir myndighet til.</p>
+<p>Journalister, fotografer og filmfolk skal for øvrig alltid rette seg etter instrukser fra direktøren eller den direktøren gir myndighet til uavhengig av dette reglement.</p>
+<p>Fotografering/filming/lydopptak i plenumssalen skal skje på følgende måte:</p>
+<p type="listitem">det skal ikke forstyrre avviklingen av møtet</p>
+<p type="listitem">det er ikke tillatt å bevege seg innenfor området for representantenes og møteledernes plasser</p>
+<p><em type="bold">11 Adgang for besøkende </em></p>
+<p><em type="bold">11.1. Gjester og kunder </em></p>
+<p><em type="bold">Gjester og kunder skal som hovedregel hentes i resepsjonen av den som mottar besøket. Ved besøkets slutt skal besøkende ledsages til resepsjonen og registreres ut. </em></p>
+<p>Ved arrangementer med gjester utenfra, skal minst en representant for arrangøren være til stede og motta gjestene og følge dem ut etter arrangementets slutt.</p>
+<p><em type="bold">11.2. Turister og andre besøkende </em></p>
+<p>Turister og andre besøkende har adgang til publikumsarealene og til eventuelle andre områder i følge med guider eller andre med generell adgang til sametingsbygningen, jf. pkt. 12.1 første ledd.</p>
+<p xml:lang="dan"><em type="bold">12. Andre bestemmelser </em></p>
+<p><em type="bold">12.1. Plenumsmøter og komitémøter </em></p>
+<p>I forbindelse med Sametingets plenumsmøter har besøkende adgang til plenumssalen, vandrehallen og kantinen i tillegg til publikumsarealene, jf. pkt. 7.</p>
+<p>I forbindelse med Sametingets komitémøter og plenumsmøter gjelder ikke forbudet mot fotografering/ filming/lydopptak i kantinen, jf. pkt. 10.2 andre ledd.</p>
+<p xml:lang="dan"><em type="bold">12.2. Bortvisning </em></p>
+<p>Direktøren og den direktøren gir myndighet til kan vise personer som opptrer utilbørlig eller som med forsett bryter disse reglene, bort fra sametingsbygningen uten nærmere begrunnelse.</p>
+<p><em type="bold">12.3. Endringer i reglementet </em></p>
+<p>Plenumsledelsen kan gjøre endringer i dette reglementet.</p>
+</body></document>

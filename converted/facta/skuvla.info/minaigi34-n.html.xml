@@ -1,107 +1,58 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2013</year>
-    <wordcount>1950</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi34-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="minaigi34-e.html"/>
-    <parallel_text xml:lang="sme" location="minaigi34.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Duodjiutdanning – i og utafor skolen</p>
-    <p xml:lang="nno"/>
-    <p xml:lang="sme">Sámegillii In English</p>
-    <p>Artikkelserie om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
-    <p xml:lang="nno">
-      <em type="bold">34. del - trykt i Ávvir 28.09.2013 </em>
-    </p>
-    <p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
-    <p xml:lang="nno"/>
-    <p>Ávvir fortsetter her artikkelserien om samisk skolehistorie som starta i Min Áigi 2007-08 og fortsatte i Ávvir 2009, 2010 og 2012. Grunnlaget for artiklene er fortellinger og artikler som er samla i prosjektet <span type="quote" xml:lang="nno">"Samisk skolehistorie"</span>. Her er mange sitater fra bøker og bokmanus, og vi viser da til bøkene som det er tatt fra, slik at leserne kan lese hele fortellingene der.</p>
-    <p>Fortellingene og artiklene i bøkene finner du også på internett: http://skuvla.info .</p>
-    <p>Det er leder for redaksjonskomiteen, Svein Lund, som redigerer denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
-    <p type="title" xml:lang="nno">Duodjiutdanning – i og utafor skolen</p>
-    <p>
-      <em type="bold">Duodji, eller samisk husflid og handverk, har alltid vært en sentral del av samisk kultur. Liksom språket har dialekter, har sámi duodji også store regionale forskjeller, både i materialbruk og mønster. Tradisjonelt foregikk mesteparten av duodjiopplæringa i familien, men etter hvert som skolen har tatt mer av barnas tid, har skolen også blitt mer og mer nødvendig for å ivareta og videreutvikle duodjitradisjonen. </em>
-    </p>
-    <p>Duodji er i dag et fag både i grunnskole, videregående skole og høgskole, i tillegg til at det er avholdt ei rekke voksenopplæringskurs, både gjennom skoler og opplysningsorganisasjoner.</p>
-    <p>Vi gir her noen glimt fra elevers og læreres erfaringer fra duodjiopplæring i skolen, og til sist fra en annen form for duodjiopplæring.</p>
-    <p type="title">Duodji som <span type="quote" xml:lang="nno">"håndarbeid"</span></p>
-    <p>I gamle dager het det ikke <span type="quote" xml:lang="smj">"duodji"</span> i skolen, men <span type="quote" xml:lang="nno">"håndarbeid"</span> for jentene og <span type="quote" xml:lang="nno">"sløyd"</span> for guttene. Dette faget var gjerne godt likt av elevene, og for samiske elever i en ellers helnorsk skole, kunne disse timene være ei lita åpning for å arbeide med noe de kjente igjen og som de så nytte av.</p>
-    <p>En av dem som så <span type="quote" xml:lang="nno">"håndarbeid"</span> som det nyttigste faget i skolen, forteller:</p>
-    <p>
-      <em type="italic">Det eneste som jeg lærte av var timene i duodji, eller <span type="quote" xml:lang="nno">«håndarbeid»</span> som det da blei kalt. For da underviste Edel på samisk. Vi lærte å veve og flette skalleband, strikke ullsokker og hekle <span type="quote" xml:lang="sme">«speallavearkka»</span> (kant til kvinnelue). Det har vært svært nyttig for meg, jeg har seinere vevd og strikka mye for salg. Koftesøm og skinnarbeid hadde jeg lært hjemme av mor, men veving og strikking lærte jeg på skolen. Det var da også virkelig det eneste jeg lærte på den skolen. </em>
-    </p>
-    <p>(Inger Marie Sokki Hætta – elev i Kautokeino fra 1947, SSH5)</p>
-    <p xml:lang="nno">
-      <em type="bold">Olav Malin med to elever på sløydsalen, 1951.; f.v. Isak Isaksen Triumf, Áidejávri og Henrik Henriksen Buljo, Máze. </em>
-    </p>
-    <p xml:lang="sme">(Kilde: Muitalusat ja dáhpáhusat Guovdageainnus 10)</p>
-    <p type="title">Hornsløyd i framhaldsskolen</p>
-    <p>Da framhaldskolen blei starta i samiske kommuner rundt 1950, blei det ofte lagt vekt på duoji-undervisning. Den som i første rekke hadde ansvaret for framhaldsskolen i Kautokeino, forteller at lærere lærte seg samiske duodjitradisjoner for å kunne undervise i dem:</p>
-    <p>
-      <em type="italic">I Kautokeino la vi stor vekt på praktiske fag, det vil si husstell, søm og vev for jentene og sløyd i tre og horn for guttene. Jeg hadde teorifag og sløyd for guttene. Vi laga mye av reinhorn. Vi kjøpte inn direkte fra reineiere. Jeg var veldig interessert i dette, men kunne ikke så mye da jeg kom. Vi fikk låne modeller som vi forsøkte å etterligne og mange av elevene hadde allerede erfaring med hornarbeid. Jeg husker spesielt to av mine elever som laga svært fine ting allerede da og som seinere blei kjente som flinke handverkere – Johan Rist og Heaika Buljo. Av og til fikk jeg hjelp av Lauri Keskitalo, som da var statskonsulent i samisk husflid. </em>
-    </p>
-    <p xml:lang="nno">(Olav Malin, lærer i framhaldsskolen i Kautokeino fra 1950)</p>
-    <p type="title" xml:lang="deu">Kurs i koftesøm</p>
-    <p>Da Statens heimeyrkeskole for samer starta opp i 1952, var samisk husflid eller duodji helt sentralt i skolen. På et av kursa var hovedinnholdet søm av samekofter, og læreren på dette kurset forteller:</p>
-    <p>
-      <em type="italic">– Det var 3 måneders kurs og jeg hadde all undervisninga aleine på det kurset. Jeg måtte kjøpe inn stoff. ... Det skulle være litt sånn som det var i gamle dager. På den tida var det begynt å komme pyntebånd i handelen, men det skulle vi ikke bruke. Vi kjøpte kroklisser, breie og smale, og ellers var det å klippe ut tunger av klede. Nå er jo kautokeinokofta helt forskjellig fra det den var i den tida. Nå er det så mye ferdige pynteband å få kjøpt, og man setter det ene over det andre til det blir et eneste kaos. </em>
-    </p>
-    <p>Noen læreplaner hadde vi ikke å holde oss til, det måtte vi lage sjøl. Ikke hadde vi lærebøker heller. Det var jo bare mine egne erfaringer og det jeg hadde lært av eldre samer. ... Det var rein praksisundervisning, vi hadde ikke noe yrkesteori. Vi instruerte elevene på det språket de forsto best, det var ingen som f.eks. sa oss at vi måtte bruke norsk.</p>
-    <p>(Lempi Mikalsen, lærer ved Statens heimeyrkeskole for samer fra 1953 – SSH2)</p>
-    <p>
-      <em type="bold">Elle Marit Eira vever skalleband. </em>
-    </p>
-    <p>(Foto utlånt av Elle Marit Eira)</p>
-    <p type="title">Framgang og tilbakeslag</p>
-    <p>Det har vært mye opp og ned hvor mye plass duodji har hatt i skolen. I videregående skole kom det på 1960-tallet en periode da det samiske måtte vike for nasjonale læreplaner, først rundt 1980 fikk sámi duodji igjen større plass i skolen.</p>
-    <p>En av dem som i lengst tid har fulgt utviklinga av duodjifaget i videregående opplæring, forteller:</p>
-    <p>
-      <em type="italic">Skoleåret 1977/78 gikk jeg vevlinja på Samisk videregående skole i Kautokeino. Før hadde det vært felles linje, <span type="quote">«søm og vev»</span>, men da var det egen vevlinje, og ei annen linje var <span type="quote">«kjole- og draktsøm»</span>. I klassen min var det tolv elever, av dem var tre samer. </em>
-    </p>
-    <p>Vi hadde ingen form for samisk duodji, vi lærte det samme som ellers på norske husflidsskoler.</p>
-    <p>Våren 1980 tok Samisk videregående skole kontakt med meg og spurte om jeg kunne vikariere som lærer, og så begynte jeg. Jeg var da timelærer i veving ...</p>
-    <p>På 1980-tallet blei læreplanene endra, i stedet for vev- og sømlinjene blei det samisk duodji. ... Vi lærere laga læreplaner for treårig duodjiutdanning. Det var virkelig en utfordring, og vi var ganske fornøyde med planene. Men det tok lang tid å få godkjenning fra departmentet. Der var det ingen som visste noe om sámi duodji. Resultatet var at vi underviste i mange år etter midlertidig læreplan.</p>
-    <p>Vi hadde kommet godt i gang med den treårige utdanninga, da norske myndigheter fant på en reform for videregående utdanning, som blei kalt Reform 94. Etter denne blei det langt færre grunnkurs, og duodji skulle legges inn under <span type="quote" xml:lang="dan">«Formgiving»</span>. Samtidig skulle alle yrkesfag over på modellen med to år i skole og to år i lære. Vi forsøkte å motarbeide dette, og jeg skreiv brev til daværende utdanningsminister Gudmund Hernes. Og han kom faktisk på besøk til skolen vår, sammen med ei dame fra departementet. Vi hadde møte der vi forsøkte å forklare hva sámi duodji er og hvorfor man burde opprettholde den treårige utdanninga i skole. Men det hjalp ikke, og jeg husker ennå at før gjestene gikk så sa dama som var med Hernes, at det skulle vært mulig å velge duodji som valgfag da hun var ung og gikk på skole. Da blei vi helt oppgitt, for det viste at hun ikke hadde forstått hva vi forsøkte å fortelle henne.</p>
-    <p>Nå blei det slik at første året skulle elevene gjøre seg kjent med alle slags materialer, slik at de hadde vært borti alle emner som de kunne fortsette med andre året. Elevene laga ikke lenger nyttige ting, bare leika seg med materialer og farger. Det er stikk i strid med samisk tradisjon, som er å lære å lage nyttige saker fra barndommen av. Det ødela også elevenes motivasjon. Vi ser at de først og fremst er opptatt av produktet, ikke av arbeidsprosessen.</p>
-    <p>Innholdet i de allmenne faga er ikke lenger det som hører til faget som elevene har valgt, det skal være det samme innholdet for alle grunnkursa.</p>
-    <p>
-      <em type="italic">Jeg må si at elevene våre ikke når så langt som de etter mi mening skulle. Det er flere årsaker til det. En er læreplanene som krever at de skal lære litt her og der og som gir lite tid til å lære å lage bruksting. En annen er at de fleste elevene som begynner på duodji i videregående skole kan svært lite praktisk arbeid fra før. De har lært lite duodji hjemme og på grunnskolen, og derfor må vi begynne nesten fra bunnen. . </em>
-    </p>
-    <p>(Elle Marit N. Eira, lærer ved Samisk videregående skole fra 1980 – SSH6)</p>
-    <p>
-      <em type="bold">Fra mor til barn: Karen Marie Eira Buljos datter, Inga Karine, syr skaller. </em>
-    </p>
-    <p>(Foto: Karen Marie Eira Buljo)</p>
-    <p type="title">Formalisert hjemmeopplæring</p>
-    <p>Som Ellen Marit Eira her peker på, har det gått tilbake med duodji-opplæringa i hjemmet, uten at skolen har kunnet erstatte dette. Men i Kautokeino har reindriftskvinnenes nettverk forsøkt å styrke opplæringa i hjemma med et opplæringsprosjekt, der duodji-opplæring er sentralt, men som også omfatter annet arbeid i reindrift og utmarkshøsting. Om dette forteller ei av drivkreftene og lærerne i prosjektet:</p>
-    <p>Mange tradisjoner er allerede forsvunnet, da mødre og barn måtte bort fra samisk tradisjonelt næringsarbeid, og denne kunnskapen er ikke dokumentert gjennom skrift og film. ...</p>
-    <p>Vi ønska ikke at mer tradisjonell kunnskap skulle forsvinne, og derfor fant vi ut at vi måtte starte et prosjekt utenom skolen for å bevare denne kunnskapen for framtida.</p>
-    <p>Da det blei mulighet for å søke støtte til opplæring i tradisjonell reindriftskunnskap, så var vi to familier som fra først av søkte om prosjektstøtte. Vi starta da et treårig opplæringsprosjekt <span type="quote">«mor/barn»</span>.</p>
-    <p>Formålet var å lære barna hvordan reinen fra gammelt av har gitt samene livsgrunnlag, slik som mat, klær, transport og næringsinntekter. ... Et viktig mål var også å gjøre det samiske samfunnet oppmerksom på den rikdommen som den samiske tradisjonelle kunnskapen i virkeligheten er.</p>
-    <p>Det blei stor interesse for <span type="quote" xml:lang="nno">«Mor/barn-prosjektet»</span> og mange søkte pengestøtte til den tradisjonelle opplæringa og underviste barna sine i forskjellig slags samisk arbeid.</p>
-    <p xml:lang="nno">Vi har seks barn, og alle var med i opplæringa. Da vi starta prosjektet var den yngste 7 år, mens den eldste var 23. Slik at noen barn var på grunnskolen, andre i videregående skole og en var heltidselev i prosjektet. Hun fikk da et slags stipend i denne perioden, knytta til opplæringsprosjektet. For grunnskolebarna tok vi seks ukers næringspermisjon per år, ellers blei det bare opplæring i fritida for dem. Jeg bare skreiv at når skolen ikke har mulighet for å undervise i reindriftsarbeid og annen tradisjonell kunnskap, så må vi sjøl ta oss av den undervisninga.</p>
-    <p>Jeg hadde allerede tidligere til en viss grad lært barna duodji og annet arbeid som hører til reindriftsnæringa. Men da det blei et formelt prosjekt, der vi skulle dokumentere alt vi gjorde, så blei det en helt annen interesse hos barna.</p>
-    <p>Duodji har vært den største delen i prosjektet. Alle jentene har lært å sy skaller, til seg sjøl og for salg. Noen har også sydd pesk, noe som er et svært stort arbeid. Dersom duodji skal gi inntekt, nytter det ikke å bare sy en og samme slags ting. Det er også behov for å kunne utvikle nye former for duodjiprodukter og nye arbeidsmåter. Derfor har de lært å lage duodjiprodukter for salg. Og det er etter mi mening helt nødvendig å lære at man skal forsøke å lage salgsproduktene skikkelig, slik at man ikke ødelegger handelen. Noen har også funne på å lage forskjellige slags bilder der de har brukt skinnbiter uten og med hår som pynt. Også av tøy- og garn har de laga bilder.</p>
-    <p>Til sist fikk barna vitnemål, der det var skrevet alt de hadde lært, om reinen og reingjeterhunden, om matlaging og duodji.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></translator><translated_from xml:lang="sme"/><year>2013</year><wordcount>1950</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi34-n.htm</origFileName><parallel_text xml:lang="eng" location="minaigi34-e.html"/><parallel_text xml:lang="sme" location="minaigi34.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Duodjiutdanning – i og utafor skolen</p>
+<p xml:lang="swe"/>
+<p xml:lang="sme">Sámegillii In English</p>
+<p>Artikkelserie om samisk skolehistorie Opprinnelig skrevet på samisk - oversatt til norsk av Svein Lund</p>
+<p xml:lang="nno"><em type="bold">34. del - trykt i Ávvir 28.09.2013 </em></p>
+<p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
+<p xml:lang="swe"/>
+<p>Ávvir fortsetter her artikkelserien om samisk skolehistorie som starta i Min Áigi 2007-08 og fortsatte i Ávvir 2009, 2010 og 2012. Grunnlaget for artiklene er fortellinger og artikler som er samla i prosjektet <span type="quote" xml:lang="nno">"Samisk skolehistorie"</span>. Her er mange sitater fra bøker og bokmanus, og vi viser da til bøkene som det er tatt fra, slik at leserne kan lese hele fortellingene der.</p>
+<p>Fortellingene og artiklene i bøkene finner du også på internett: http://skuvla.info .</p>
+<p>Det er leder for redaksjonskomiteen, Svein Lund, som redigerer denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
+<p type="title" xml:lang="nno">Duodjiutdanning – i og utafor skolen</p>
+<p><em type="bold">Duodji, eller samisk husflid og handverk, har alltid vært en sentral del av samisk kultur. Liksom språket har dialekter, har sámi duodji også store regionale forskjeller, både i materialbruk og mønster. Tradisjonelt foregikk mesteparten av duodjiopplæringa i familien, men etter hvert som skolen har tatt mer av barnas tid, har skolen også blitt mer og mer nødvendig for å ivareta og videreutvikle duodjitradisjonen. </em></p>
+<p>Duodji er i dag et fag både i grunnskole, videregående skole og høgskole, i tillegg til at det er avholdt ei rekke voksenopplæringskurs, både gjennom skoler og opplysningsorganisasjoner.</p>
+<p>Vi gir her noen glimt fra elevers og læreres erfaringer fra duodjiopplæring i skolen, og til sist fra en annen form for duodjiopplæring.</p>
+<p type="title">Duodji som <span type="quote" xml:lang="nno">"håndarbeid"</span></p>
+<p>I gamle dager het det ikke <span type="quote" xml:lang="sme">"duodji"</span> i skolen, men <span type="quote" xml:lang="nno">"håndarbeid"</span> for jentene og <span type="quote" xml:lang="nno">"sløyd"</span> for guttene. Dette faget var gjerne godt likt av elevene, og for samiske elever i en ellers helnorsk skole, kunne disse timene være ei lita åpning for å arbeide med noe de kjente igjen og som de så nytte av.</p>
+<p>En av dem som så <span type="quote" xml:lang="nno">"håndarbeid"</span> som det nyttigste faget i skolen, forteller:</p>
+<p><em type="italic">Det eneste som jeg lærte av var timene i duodji, eller <span type="quote" xml:lang="nno">«håndarbeid»</span> som det da blei kalt. For da underviste Edel på samisk. Vi lærte å veve og flette skalleband, strikke ullsokker og hekle <span type="quote" xml:lang="sme">«speallavearkka»</span> (kant til kvinnelue). Det har vært svært nyttig for meg, jeg har seinere vevd og strikka mye for salg. Koftesøm og skinnarbeid hadde jeg lært hjemme av mor, men veving og strikking lærte jeg på skolen. Det var da også virkelig det eneste jeg lærte på den skolen. </em></p>
+<p>(Inger Marie Sokki Hætta – elev i Kautokeino fra 1947, SSH5)</p>
+<p xml:lang="nno"><em type="bold">Olav Malin med to elever på sløydsalen, 1951.; f.v. Isak Isaksen Triumf, Áidejávri og Henrik Henriksen Buljo, Máze. </em></p>
+<p xml:lang="sme">(Kilde: Muitalusat ja dáhpáhusat Guovdageainnus 10)</p>
+<p type="title">Hornsløyd i framhaldsskolen</p>
+<p>Da framhaldskolen blei starta i samiske kommuner rundt 1950, blei det ofte lagt vekt på duoji-undervisning. Den som i første rekke hadde ansvaret for framhaldsskolen i Kautokeino, forteller at lærere lærte seg samiske duodjitradisjoner for å kunne undervise i dem:</p>
+<p><em type="italic">I Kautokeino la vi stor vekt på praktiske fag, det vil si husstell, søm og vev for jentene og sløyd i tre og horn for guttene. Jeg hadde teorifag og sløyd for guttene. Vi laga mye av reinhorn. Vi kjøpte inn direkte fra reineiere. Jeg var veldig interessert i dette, men kunne ikke så mye da jeg kom. Vi fikk låne modeller som vi forsøkte å etterligne og mange av elevene hadde allerede erfaring med hornarbeid. Jeg husker spesielt to av mine elever som laga svært fine ting allerede da og som seinere blei kjente som flinke handverkere – Johan Rist og Heaika Buljo. Av og til fikk jeg hjelp av Lauri Keskitalo, som da var statskonsulent i samisk husflid. </em></p>
+<p xml:lang="nno">(Olav Malin, lærer i framhaldsskolen i Kautokeino fra 1950)</p>
+<p type="title" xml:lang="deu">Kurs i koftesøm</p>
+<p>Da Statens heimeyrkeskole for samer starta opp i 1952, var samisk husflid eller duodji helt sentralt i skolen. På et av kursa var hovedinnholdet søm av samekofter, og læreren på dette kurset forteller:</p>
+<p xml:lang="nno"><em type="italic">– Det var 3 måneders kurs og jeg hadde all undervisninga aleine på det kurset. Jeg måtte kjøpe inn stoff. ... Det skulle være litt sånn som det var i gamle dager. På den tida var det begynt å komme pyntebånd i handelen, men det skulle vi ikke bruke. Vi kjøpte kroklisser, breie og smale, og ellers var det å klippe ut tunger av klede. Nå er jo kautokeinokofta helt forskjellig fra det den var i den tida. Nå er det så mye ferdige pynteband å få kjøpt, og man setter det ene over det andre til det blir et eneste kaos. </em></p>
+<p>Noen læreplaner hadde vi ikke å holde oss til, det måtte vi lage sjøl. Ikke hadde vi lærebøker heller. Det var jo bare mine egne erfaringer og det jeg hadde lært av eldre samer. ... Det var rein praksisundervisning, vi hadde ikke noe yrkesteori. Vi instruerte elevene på det språket de forsto best, det var ingen som f.eks. sa oss at vi måtte bruke norsk.</p>
+<p>(Lempi Mikalsen, lærer ved Statens heimeyrkeskole for samer fra 1953 – SSH2)</p>
+<p><em type="bold">Elle Marit Eira vever skalleband. </em></p>
+<p>(Foto utlånt av Elle Marit Eira)</p>
+<p type="title">Framgang og tilbakeslag</p>
+<p>Det har vært mye opp og ned hvor mye plass duodji har hatt i skolen. I videregående skole kom det på 1960-tallet en periode da det samiske måtte vike for nasjonale læreplaner, først rundt 1980 fikk sámi duodji igjen større plass i skolen.</p>
+<p>En av dem som i lengst tid har fulgt utviklinga av duodjifaget i videregående opplæring, forteller:</p>
+<p><em type="italic">Skoleåret 1977/78 gikk jeg vevlinja på Samisk videregående skole i Kautokeino. Før hadde det vært felles linje, <span type="quote">«søm og vev»</span>, men da var det egen vevlinje, og ei annen linje var <span type="quote">«kjole- og draktsøm»</span>. I klassen min var det tolv elever, av dem var tre samer. </em></p>
+<p>Vi hadde ingen form for samisk duodji, vi lærte det samme som ellers på norske husflidsskoler.</p>
+<p>Våren 1980 tok Samisk videregående skole kontakt med meg og spurte om jeg kunne vikariere som lærer, og så begynte jeg. Jeg var da timelærer i veving ...</p>
+<p>På 1980-tallet blei læreplanene endra, i stedet for vev- og sømlinjene blei det samisk duodji. ... Vi lærere laga læreplaner for treårig duodjiutdanning. Det var virkelig en utfordring, og vi var ganske fornøyde med planene. Men det tok lang tid å få godkjenning fra departmentet. Der var det ingen som visste noe om sámi duodji. Resultatet var at vi underviste i mange år etter midlertidig læreplan.</p>
+<p>Vi hadde kommet godt i gang med den treårige utdanninga, da norske myndigheter fant på en reform for videregående utdanning, som blei kalt Reform 94. Etter denne blei det langt færre grunnkurs, og duodji skulle legges inn under <span type="quote" xml:lang="dan">«Formgiving»</span>. Samtidig skulle alle yrkesfag over på modellen med to år i skole og to år i lære. Vi forsøkte å motarbeide dette, og jeg skreiv brev til daværende utdanningsminister Gudmund Hernes. Og han kom faktisk på besøk til skolen vår, sammen med ei dame fra departementet. Vi hadde møte der vi forsøkte å forklare hva sámi duodji er og hvorfor man burde opprettholde den treårige utdanninga i skole. Men det hjalp ikke, og jeg husker ennå at før gjestene gikk så sa dama som var med Hernes, at det skulle vært mulig å velge duodji som valgfag da hun var ung og gikk på skole. Da blei vi helt oppgitt, for det viste at hun ikke hadde forstått hva vi forsøkte å fortelle henne.</p>
+<p>Nå blei det slik at første året skulle elevene gjøre seg kjent med alle slags materialer, slik at de hadde vært borti alle emner som de kunne fortsette med andre året. Elevene laga ikke lenger nyttige ting, bare leika seg med materialer og farger. Det er stikk i strid med samisk tradisjon, som er å lære å lage nyttige saker fra barndommen av. Det ødela også elevenes motivasjon. Vi ser at de først og fremst er opptatt av produktet, ikke av arbeidsprosessen.</p>
+<p>Innholdet i de allmenne faga er ikke lenger det som hører til faget som elevene har valgt, det skal være det samme innholdet for alle grunnkursa.</p>
+<p><em type="italic">Jeg må si at elevene våre ikke når så langt som de etter mi mening skulle. Det er flere årsaker til det. En er læreplanene som krever at de skal lære litt her og der og som gir lite tid til å lære å lage bruksting. En annen er at de fleste elevene som begynner på duodji i videregående skole kan svært lite praktisk arbeid fra før. De har lært lite duodji hjemme og på grunnskolen, og derfor må vi begynne nesten fra bunnen. . </em></p>
+<p>(Elle Marit N. Eira, lærer ved Samisk videregående skole fra 1980 – SSH6)</p>
+<p><em type="bold">Fra mor til barn: Karen Marie Eira Buljos datter, Inga Karine, syr skaller. </em></p>
+<p>(Foto: Karen Marie Eira Buljo)</p>
+<p type="title">Formalisert hjemmeopplæring</p>
+<p>Som Ellen Marit Eira her peker på, har det gått tilbake med duodji-opplæringa i hjemmet, uten at skolen har kunnet erstatte dette. Men i Kautokeino har reindriftskvinnenes nettverk forsøkt å styrke opplæringa i hjemma med et opplæringsprosjekt, der duodji-opplæring er sentralt, men som også omfatter annet arbeid i reindrift og utmarkshøsting. Om dette forteller ei av drivkreftene og lærerne i prosjektet:</p>
+<p>Mange tradisjoner er allerede forsvunnet, da mødre og barn måtte bort fra samisk tradisjonelt næringsarbeid, og denne kunnskapen er ikke dokumentert gjennom skrift og film. ...</p>
+<p>Vi ønska ikke at mer tradisjonell kunnskap skulle forsvinne, og derfor fant vi ut at vi måtte starte et prosjekt utenom skolen for å bevare denne kunnskapen for framtida.</p>
+<p>Da det blei mulighet for å søke støtte til opplæring i tradisjonell reindriftskunnskap, så var vi to familier som fra først av søkte om prosjektstøtte. Vi starta da et treårig opplæringsprosjekt <span type="quote">«mor/barn»</span>.</p>
+<p>Formålet var å lære barna hvordan reinen fra gammelt av har gitt samene livsgrunnlag, slik som mat, klær, transport og næringsinntekter. ... Et viktig mål var også å gjøre det samiske samfunnet oppmerksom på den rikdommen som den samiske tradisjonelle kunnskapen i virkeligheten er.</p>
+<p>Det blei stor interesse for <span type="quote" xml:lang="nno">«Mor/barn-prosjektet»</span> og mange søkte pengestøtte til den tradisjonelle opplæringa og underviste barna sine i forskjellig slags samisk arbeid.</p>
+<p>Vi har seks barn, og alle var med i opplæringa. Da vi starta prosjektet var den yngste 7 år, mens den eldste var 23. Slik at noen barn var på grunnskolen, andre i videregående skole og en var heltidselev i prosjektet. Hun fikk da et slags stipend i denne perioden, knytta til opplæringsprosjektet. For grunnskolebarna tok vi seks ukers næringspermisjon per år, ellers blei det bare opplæring i fritida for dem. Jeg bare skreiv at når skolen ikke har mulighet for å undervise i reindriftsarbeid og annen tradisjonell kunnskap, så må vi sjøl ta oss av den undervisninga.</p>
+<p>Jeg hadde allerede tidligere til en viss grad lært barna duodji og annet arbeid som hører til reindriftsnæringa. Men da det blei et formelt prosjekt, der vi skulle dokumentere alt vi gjorde, så blei det en helt annen interesse hos barna.</p>
+<p>Duodji har vært den største delen i prosjektet. Alle jentene har lært å sy skaller, til seg sjøl og for salg. Noen har også sydd pesk, noe som er et svært stort arbeid. Dersom duodji skal gi inntekt, nytter det ikke å bare sy en og samme slags ting. Det er også behov for å kunne utvikle nye former for duodjiprodukter og nye arbeidsmåter. Derfor har de lært å lage duodjiprodukter for salg. Og det er etter mi mening helt nødvendig å lære at man skal forsøke å lage salgsproduktene skikkelig, slik at man ikke ødelegger handelen. Noen har også funne på å lage forskjellige slags bilder der de har brukt skinnbiter uten og med hår som pynt. Også av tøy- og garn har de laga bilder.</p>
+<p>Til sist fikk barna vitnemål, der det var skrevet alt de hadde lært, om reinen og reingjeterhunden, om matlaging og duodji.</p>
+</body></document>

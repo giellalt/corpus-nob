@@ -1,186 +1,129 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1801</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere</origFileName>
-    <parallel_text xml:lang="sme" location="bellodagat-valgabargit.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
-    <p type="title">Partier/Valgmedarbeidere</p>
-    <p type="title">Krav til lister</p>
-    <p>
-      <em type="bold">For å kunne stille til sametingsvalg kreves det enten registrering som samepolitisk organisasjon, eller at en stiller liste i en valgkrets der listeforslaget underskrives av personer registrert i Sametingets valgmanntall. </em>
-    </p>
-    <p>
-      <em type="bold">SAMEPOLITISK ORGANISASJON </em>
-    </p>
-    <p>Følgende samepolitiske organisasjoner er registrert hos Sametinget:</p>
-    <list>
-      <p type="listitem">Arbeiderpartiet</p>
-      <p type="listitem" xml:lang="sme">Árja</p>
-      <p type="listitem">Fremskrittspartiet</p>
-      <p type="listitem">Høyre</p>
-      <p type="listitem">Norske Samers Riksforbund</p>
-      <p type="listitem">Samefolkets Parti</p>
-      <p type="listitem">Samenes Folkeforbund samepolitiske enhet</p>
-      <p type="listitem">Senterpartiet</p>
-      <p type="listitem">Sosialistisk Venstreparti</p>
-    </list>
-    <p>For å bli nyregistrert som en samepolitisk organisasjon kreves minst 200 underskrifter fra personer registrert i Sametingets valgmanntall (jf. § 20 d i forskrift om valg til sametinget). Disse skal ligge med søknaden om å bli registrert som en samepolitisk organisasjon.</p>
-    <p>Hvis organisasjonen allerede er registrert som en samepolitisk organisasjon i Sametingets register, skal organisasjonen sende inn oppdatert informasjon om hvem som sitter i organisasjonens utøvende organ innen 2. januar 2013.</p>
-    <p>Hvis organisasjonen fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg (jf. § 28 d).</p>
-    <p xml:lang="eng">
-      <em type="bold">STILLE ENKELTLISTE I VALGKRETSEN </em>
-    </p>
-    <p>Hvis organisasjonen ikke er registrert som en samepolitisk organisasjon kan en likevel stille til sametingsvalg hvis en stiller med liste som er underskrevet av minst 30 personer som er registrert i Sametingets valgmanntall i valgkretsen.</p>
-    <p>
-      <em type="bold">Hvordan sette opp listeforslag i praksis? </em>
-    </p>
-    <p>I tillegg til det som er nevnt ovenfor må listeforslaget:</p>
-    <list>
-      <p type="listitem">angi gjeldende parti/organisasjon i overskriften</p>
-      <p type="listitem">angi at det gjelder sametingsvalget</p>
-      <p type="listitem">kandidatene kan kun stå på en liste til sametingsvalget</p>
-      <p type="listitem">kandidatene skal være oppført med fornavn, etternavn og fødselsår, evt. også stilling og bosted</p>
-      <p type="listitem">for felleslister kan også opplysninger om kandidatenes tilhørighet opplyses om</p>
-      <p type="listitem">inneholde minst 40 prosent representasjon av hvert kjønn</p>
-      <p type="listitem">inneholde navn på en tillitsvalgt og en vararepresentant blant de som har underskrevet listeforslaget</p>
-      <p type="listitem">Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</p>
-      <p type="listitem">være utfylt med navnet på minst ni valgbare kandidater i kretsen. Kretser som har mellom to og fire mandater, skal føre opp ni kandidater på listeforslaget. Dersom kretsen har 5 eller flere mandater kan det samlede antall kandidater være det dobbelte</p>
-    </list>
-    <p>
-      <em type="bold">Listeforslagene for valget 2013 - antall kandidater på listen </em>
-    </p>
-    <p>Valgkrets 1 Østre valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>Valgkrets 2 Ávjovári valgkrets: 9 - 16 kandidater (valgkretsen har 8 mandater)</p>
-    <p>Valgkrets 3 Nordre valgkrets <em type="bold">: </em>9 - 10 kandidater (valgkretsen har 5 mandater) </p>
-    <p>Valgkrets 4 Gáisi valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>Valgkrets 5 Vesthavet valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
-    <p>Valgkrets 6 Sørsamisk valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
-    <p>Valgkrets 7 Sør-Norge valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
-    <p>
-      <em type="bold">Fristen for innlevering av listeforslag er 2.april i valgåret 2013. Dette er en i hende frist. Listeforslaget ansees som innlever når det er kommet inn til Sametinget. </em>
-    </p>
-    <p>Kontaktsperson for Sametingsvalget for 2013 : Rådgiver Roald Andreas Sandvik tlf: 78474183</p>
-    <p>Mal for valgliste - valgkrets 1.doc</p>
-    <p>89,00 kB</p>
-    <p>Mal for valgliste - valgkrets 2.doc</p>
-    <p>96,00 kB</p>
-    <p>Mal for valgliste - valgkrets 3.doc</p>
-    <p>87,50 kB</p>
-    <p>Mal for valgliste - valgkrets 4.doc</p>
-    <p>89,00 kB</p>
-    <p>Mal for valgliste - valgkrets 5.doc</p>
-    <p>84,00 kB</p>
-    <p>Mal for valgliste - valgkrets 6.doc</p>
-    <p>84,00 kB</p>
-    <p>Mal for valgliste - valgkrets 7.doc</p>
-    <p>87,00 kB</p>
-    <p type="title">Tilskudd til valgdeltakelse</p>
-    <p>
-      <em type="bold">Søknadsfrist: </em>
-    </p>
-    <list>
-      <p type="listitem">10.8.2013. Søknader sendt etter denne dato realitetsbehandles ikke.</p>
-    </list>
-    <p>
-      <em type="bold">Generelle vilkår: </em>
-    </p>
-    <list>
-      <p type="listitem">Partier og organisasjoner som stiller liste i to eller flere valgkretser, skal sende felles anmodning om utbetaling for alle sine lister.</p>
-      <p type="listitem">Foretak, institusjoner og organisasjoner som mottar tilskudd må være registrert i Enhetsregisteret i Norge.</p>
-      <p type="listitem">Søkerens virksomhet skal drives i samsvar med gjeldende lover og regler, herunder skatte-, avgifts- og regnskapslovgivningen.</p>
-      <p type="listitem">Etter at tilsagn om tilskudd foreligger, plikter tilskuddsmottakeren av eget tiltak å gi melding om eventuelle endringer i forutsetningene for tilskuddet. Endringene skal søkes godkjent av Sametinget.</p>
-    </list>
-    <p>Regelverket for tilskudd til lister ved sametingsvalget 2013 - Njuolggadusat doarjja sámediggeválgalisttaide 2013.doc</p>
-    <p>78,50 kB</p>
-    <p type="title">Hvor skal forhåndsstemmene sendes?</p>
-    <p>Vedlagt ligger en oversikt kommunene kan benytte når de skal oversende forhåndsstemmegivninger til den kommunen som skal foreta en foreløpig opptelling for sametingsvalget.</p>
-    <p>Det er 56 kommuner som skal foreta en foreløpig opptelling selv og rapportere denne på valgnatten. For de øvrige kommunene er det opptellingsvalgstyret i valgkretsen som foretar den foreløpige opptellingen og rapporteringen. Den endelige opptellingen er det opptellingskommunene i valgkretsene som foretar.</p>
-    <p type="title">Rutineportalen (ekstern lenke)</p>
-    <p>https://valgrutiner.valg.no</p>
-    <p type="title">Valgmedarbeider (ekstern lenke)</p>
-    <p>https://valgmedarbeider.valg.no</p>
-    <p type="title">Valgmateriell</p>
-    <p>Sametinget sender ut stemmesedler til alle kommunene i Norge. Kommunal- og regionaldepartementet står for utsendingen av stemmeseddelkonvolutter.</p>
-    <p>Kommunene får innen 1. juli 2013 en egen forsendelse med blanke blå stemmesedler til tidligstemmegivningen.</p>
-    <p>Følgende valgmateriell kommer sammen med materiellet til stortingsvalget:</p>
-    <list>
-      <p type="listitem">Blå stemmeseddelkonvolutter til sametingsvalget. Konvoluttene skal brukes både ved tidligstemmegivningen, forhåndsstemmegivningen og stemmegivning på valgdagen. Disse vil sendes kommunene sammen med den forsendelsen som kommer i forbindelse med stortingsvalget. Dette materiellet skal kommunene ha mottatt nå.</p>
-    </list>
-    <p>Kommunene vil innen 1. august få tilsendt stemmesedler med partinavn og kandidatnavn som skal brukes av velgere som stemmer i egen valgkrets ved sametingsvalget.</p>
-    <p>Antall stemmesedler beregnes ut i fra manntallsførte i kommunen. <em type="italic">Det er ikke nødvendig med en egen bestilling på stemmesedler til sametingsvalget. </em></p>
-    <p type="title">Utleggingsmanntall</p>
-    <p>Sametinget sender etter 12. juli ut utleggingsmanntall til kommuner som i 2011 hadde færre enn 30 i Sametingets valgmanntall.</p>
-    <p>Kommuner som i 2011 hadde 30 eller flere i Sametingets valgmanntall, henter ut utleggingsmanntallet som en rapport i EVA. Dette manntallet vil være klart etter 12. juli.</p>
-    <p type="title">Rundskriv om endring i forskrift om valg til Sametinget</p>
-    <p>Rundskriv om endring i forskrift om valg til Sametinget – Om underretning til velgere som bare kan avgi forhåndsstemme til sametingsvalget.</p>
-    <p>Fornyings-, administrasjons- og kirkedepartementet har fastsatt nytt annet ledd i § 39 a i forskrift 19. desember 2008 nr. 1480 om valg til Sametinget. Endringen ble kunngjort og trådte i kraft 19. desember 2012.</p>
-    <p>Norsk.docx</p>
-    <p>160,78 kB</p>
-    <p>Brev til velgerne i kommuner med 1-29 manntallsførte.doc</p>
-    <p>22,50 kB</p>
-    <p type="title">Etiketter til valgkampmateriell</p>
-    <p>De som stiller lister til sametingsvalget kan i perioden juli - september 2013 bestille adresseetiketter over stemmeberettigede personer til sametingsvalget. Etikettene er til bruk under valgkampen for utsendelse av valgmateriell etc.</p>
-    <p>Materiellet leveres fra Andvord Grafisk, men Sametinget må først godkjenne bestillingen.</p>
-    <p>Partiene/listene betaler selv for etikettene.</p>
-    <p>Etikettene inneholder navn og adresser på alle som har stemmerett til sametingsvalget.</p>
-    <p>Send bestilling til samediggi@samediggi.no</p>
-    <p type="title">Valgprotokoller (møtebøker)</p>
-    <p>Sametinget vil med hjemmel i forskrift om valg til Sametinget § 67, fastsette formularer ved protokollering av valgresultater ved samtingsvalget. Valgmyndighetene er forpliktet til å benytte fastsatte formularer.</p>
-    <p>NB! Møteboka for samevalgstyret vil også finnes som en rapport i EVA.</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Protokoll (møtebok) for <em type="bold">stemmestyret </em>Bokmål [ pdf ] [ word ] </p>
-      <p type="listitem">Protokoll (møtebok) for <em type="bold">samevalgstyret </em>Bokmål [ pdf ] [ word ] [ excel ] Vedlegg til møtebok for samevalgstyret </p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="eng">Protokoll (møtebok) for <em type="bold">opptellingsvalgstyret </em>Bokmål [ pdf ] [ word ] </p>
-    </list>
-    <p type="title">Endring i forskrift om valg til Sametinget</p>
-    <p>Fornyings-, administrasjons- og kirkedepartementet (FAD) har ved vedtak 16. august 2013 endret forskrift 19. desember 2008 nr. 1480 om valg til Sametinget. Endringsforskriften er utformet i samarbeid med Kommunal- og regionaldepartementet og Sametinget.</p>
-    <p>Bakgrunnen for endringene er at er gjort endringer i valgforskriften som gjelder for øvrige valg (forskrift 2. januar 2003 nr. 5), og at det er behov for tilsvarende justeringer før høstens valg til Sametinget. Endringene i den ordinære valgforskriften har vært av praktisk karakter og omfatter blant annet utformingen av valgseddelen, prosedyrer for tømming av valgurnene og detaljer rundt forhåndsstemmegivningen.</p>
-    <p>Endringene i forskrift om valg til Sametinget gjelder:</p>
-    <p>- I §§ 4 og 7 erstattes årstallet 2001 med en tidsramme på 10 år. Bakgrunnen er at Folkeregisteret ikke gir ut registerdata mer enn ti år tilbake i tid, og at det heller ikke er anledning for Sametinget til å lagre tidligere manntallsopplysninger.</p>
-    <p>- Det gis en mer presis bestemmelse om utformingen av stemmeseddelen i § 36. Oppbyggingen av paragrafen endres også noe ved at bestemmelsene i nåværende fjerde ledd bokstav d og femte ledd tas inn i nytt fjerde ledd.</p>
-    <p>- Henvisningene i § 43 første ledd er endret slik at de samsvarer med bestemmelser i valgloven og valgforskriften som gjelder tilsvarende ved valg til Stortinget.</p>
-    <p>- Det gjøres en teknisk endring i dagens §§ 46 og 53, hvor innholdet i § 53 flyttes til § 46, og ny § 53 får tilsvarende ordlyd som i den ordinære valgforskriften § 29.</p>
-    <p>Endringene trer i kraft straks.</p>
-    <p type="title">Møtebøkene til Sametinget er unntatt offentlighet</p>
-    <p>Flere kommuner lurer på hvordan de skal forholde seg til at det kan mottas et lite antall stemmer, og hvordan en da sikrer hemmelig valg</p>
-    <p>Møtebøkene til Sametinget er unntatt offentlighet.</p>
-    <p>Hjemmelen for å unnta offentlighet finnes i kapittel 15 § 81 i forskrift om valg til Sametinget, jf. § 27 i offentleglova.</p>
-    <p>§ 81.Tilgang til Sametingets valgmanntall og det øvrige materiellet - offentlighet</p>
-    <p>(1) Om ikke annet følger av bestemmelser i lov eller forskrift, kan adgang til eller avskrift av eksemplarer av Sametingets valgmanntall - herunder det som er brukt til avkryssing - bare gis eller utleveres</p>
-    <p xml:lang="eng">a)</p>
-    <p>til offentlig ansatte når det er nødvendig av hensyn til tjenesten eller</p>
-    <p xml:lang="sme">b)</p>
-    <p>til andre når det foreligger samtykke fra Sametinget.</p>
-    <p>(2) Tilgang til valgmanntallet og det øvrige valgmateriellet kan bare gis til forskere i vitenskaplig øyemed når det foreligger samtykke fra Sametinget.</p>
-    <p>Regelen til sametingsvalget er at alt materiellet angående valget er unndratt offentlighet. Dette beror på to forhold; at valget er basert på Sametingets valgmanntall som i seg selv er betraktet som et sensitivt register, og at i noen kommuner kommer det til å være få stemmegivninger som skal telles siden det er få med stemmerett i kommunen.</p>
-    <p>Det er slik at alle kommunene med over 30 i valgmanntallet fra 2011 skal telle selv. I noen av disse kommunene kan det komme få stemmegivninger, slik at prinsippet om hemmelig valg utfordres når samevalgstyret skal foreta en foreløpig opptelling. Den samme problemstillingen gjelder for opptellingsvalgstyret som skal foreta en foreløpig opptelling på vegne av kommuner med under 30 i valgmanntallet og protokollføre dette.</p>
-    <p>Protokollene går inn under <span type="quote">”øvrig valgmateriell”</span> og skal unntas offentlighet. Hvis noen ønsker innsyn må de søke Sametinget om tilgang til protokollene.</p>
-    <p>Selv om kommunen har mottatt færre enn 20 stemmegivninger (som er en veiledende grense for hvor mange stemmegivninger enn bør ha for å telle), skal kommunene telle forhåndsstemmene og valgtingsstemmene hver for seg og rapportere til SSB. Dette er mulig fordi det ikke rapporteres resultat på kommunenivå <em type="italic">fra </em>SSB, kun på valgkretsnivå. Sametinget gir en dispensasjon til disse kommunene til å telle og viser til § 82 i forskrift om valg til Sametinget, der taushetsplikten fremgår. </p>
-    <p>§ 82.Taushetsplikt</p>
-    <p>(1) Forvaltingslovens bestemmelser om taushetsplikt gjelder tilsvarende ved sametingsvalget.</p>
-    <p>(2) En person som assisterer en velger ved stemmegivningen og får kjennskap til hvordan vedkommende har stemt, har taushetsplikt om dette.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1801</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere</origFileName><parallel_text xml:lang="sme" location="bellodagat-valgabargit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
+<p type="title">Partier/Valgmedarbeidere</p>
+<p type="title">Krav til lister</p>
+<p><em type="bold">For å kunne stille til sametingsvalg kreves det enten registrering som samepolitisk organisasjon, eller at en stiller liste i en valgkrets der listeforslaget underskrives av personer registrert i Sametingets valgmanntall. </em></p>
+<p><em type="bold">SAMEPOLITISK ORGANISASJON </em></p>
+<p>Følgende samepolitiske organisasjoner er registrert hos Sametinget:</p>
+<list><p type="listitem">Arbeiderpartiet</p>
+<p type="listitem" xml:lang="sme">Árja</p>
+<p type="listitem">Fremskrittspartiet</p>
+<p type="listitem">Høyre</p>
+<p type="listitem">Norske Samers Riksforbund</p>
+<p type="listitem">Samefolkets Parti</p>
+<p type="listitem">Samenes Folkeforbund samepolitiske enhet</p>
+<p type="listitem">Senterpartiet</p>
+<p type="listitem">Sosialistisk Venstreparti</p>
+</list><p>For å bli nyregistrert som en samepolitisk organisasjon kreves minst 200 underskrifter fra personer registrert i Sametingets valgmanntall (jf. § 20 d i forskrift om valg til sametinget). Disse skal ligge med søknaden om å bli registrert som en samepolitisk organisasjon.</p>
+<p>Hvis organisasjonen allerede er registrert som en samepolitisk organisasjon i Sametingets register, skal organisasjonen sende inn oppdatert informasjon om hvem som sitter i organisasjonens utøvende organ innen 2. januar 2013.</p>
+<p>Hvis organisasjonen fikk en oppslutning på minst 60 stemmer i en valgkrets eller minst 200 stemmer i hele landet, er det tilstrekkelig at listeforslaget er underskrevet av minst to av styremedlemmene i organisasjonens lokalavdeling. Det samme gjelder for organisasjoner som er blitt registrert hos Sametinget etter forrige sametingsvalg (jf. § 28 d).</p>
+<p><em type="bold">STILLE ENKELTLISTE I VALGKRETSEN </em></p>
+<p>Hvis organisasjonen ikke er registrert som en samepolitisk organisasjon kan en likevel stille til sametingsvalg hvis en stiller med liste som er underskrevet av minst 30 personer som er registrert i Sametingets valgmanntall i valgkretsen.</p>
+<p><em type="bold">Hvordan sette opp listeforslag i praksis? </em></p>
+<p>I tillegg til det som er nevnt ovenfor må listeforslaget:</p>
+<list><p type="listitem">angi gjeldende parti/organisasjon i overskriften</p>
+<p type="listitem">angi at det gjelder sametingsvalget</p>
+<p type="listitem">kandidatene kan kun stå på en liste til sametingsvalget</p>
+<p type="listitem">kandidatene skal være oppført med fornavn, etternavn og fødselsår, evt. også stilling og bosted</p>
+<p type="listitem">for felleslister kan også opplysninger om kandidatenes tilhørighet opplyses om</p>
+<p type="listitem">inneholde minst 40 prosent representasjon av hvert kjønn</p>
+<p type="listitem">inneholde navn på en tillitsvalgt og en vararepresentant blant de som har underskrevet listeforslaget</p>
+<p type="listitem">Listeforslaget bør inneholde navn på et visst antall personer blant dem som har underskrevet på listeforslaget, som skal fungere som tillitsutvalg med myndighet til å trekke listeforslaget tilbake.</p>
+<p type="listitem">være utfylt med navnet på minst ni valgbare kandidater i kretsen. Kretser som har mellom to og fire mandater, skal føre opp ni kandidater på listeforslaget. Dersom kretsen har 5 eller flere mandater kan det samlede antall kandidater være det dobbelte</p>
+</list><p><em type="bold">Listeforslagene for valget 2013 - antall kandidater på listen </em></p>
+<p>Valgkrets 1 Østre valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p>Valgkrets 2 Ávjovári valgkrets: 9 - 16 kandidater (valgkretsen har 8 mandater)</p>
+<p>Valgkrets 3 Nordre valgkrets <em type="bold">: </em>9 - 10 kandidater (valgkretsen har 5 mandater) </p>
+<p>Valgkrets 4 Gáisi valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p>Valgkrets 5 Vesthavet valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
+<p>Valgkrets 6 Sørsamisk valgkrets: 9 kandidater (valgkretsen har 4 mandater)</p>
+<p>Valgkrets 7 Sør-Norge valgkrets: 9 - 12 kandidater (valgkretsen har 6 mandater)</p>
+<p><em type="bold">Fristen for innlevering av listeforslag er 2.april i valgåret 2013. Dette er en i hende frist. Listeforslaget ansees som innlever når det er kommet inn til Sametinget. </em></p>
+<p>Kontaktsperson for Sametingsvalget for 2013 : Rådgiver Roald Andreas Sandvik tlf: 78474183</p>
+<p>Mal for valgliste - valgkrets 1.doc</p>
+<p>89,00 kB</p>
+<p>Mal for valgliste - valgkrets 2.doc</p>
+<p>96,00 kB</p>
+<p>Mal for valgliste - valgkrets 3.doc</p>
+<p>87,50 kB</p>
+<p>Mal for valgliste - valgkrets 4.doc</p>
+<p>89,00 kB</p>
+<p>Mal for valgliste - valgkrets 5.doc</p>
+<p>84,00 kB</p>
+<p>Mal for valgliste - valgkrets 6.doc</p>
+<p>84,00 kB</p>
+<p>Mal for valgliste - valgkrets 7.doc</p>
+<p>87,00 kB</p>
+<p type="title">Tilskudd til valgdeltakelse</p>
+<p><em type="bold">Søknadsfrist: </em></p>
+<list><p type="listitem">10.8.2013. Søknader sendt etter denne dato realitetsbehandles ikke.</p>
+</list><p><em type="bold">Generelle vilkår: </em></p>
+<list><p type="listitem">Partier og organisasjoner som stiller liste i to eller flere valgkretser, skal sende felles anmodning om utbetaling for alle sine lister.</p>
+<p type="listitem">Foretak, institusjoner og organisasjoner som mottar tilskudd må være registrert i Enhetsregisteret i Norge.</p>
+<p type="listitem">Søkerens virksomhet skal drives i samsvar med gjeldende lover og regler, herunder skatte-, avgifts- og regnskapslovgivningen.</p>
+<p type="listitem">Etter at tilsagn om tilskudd foreligger, plikter tilskuddsmottakeren av eget tiltak å gi melding om eventuelle endringer i forutsetningene for tilskuddet. Endringene skal søkes godkjent av Sametinget.</p>
+</list><p>Regelverket for tilskudd til lister ved sametingsvalget 2013 - Njuolggadusat doarjja sámediggeválgalisttaide 2013.doc</p>
+<p>78,50 kB</p>
+<p type="title">Hvor skal forhåndsstemmene sendes?</p>
+<p>Vedlagt ligger en oversikt kommunene kan benytte når de skal oversende forhåndsstemmegivninger til den kommunen som skal foreta en foreløpig opptelling for sametingsvalget.</p>
+<p>Det er 56 kommuner som skal foreta en foreløpig opptelling selv og rapportere denne på valgnatten. For de øvrige kommunene er det opptellingsvalgstyret i valgkretsen som foretar den foreløpige opptellingen og rapporteringen. Den endelige opptellingen er det opptellingskommunene i valgkretsene som foretar.</p>
+<p type="title">Rutineportalen (ekstern lenke)</p>
+<p>https://valgrutiner.valg.no</p>
+<p type="title">Valgmedarbeider (ekstern lenke)</p>
+<p>https://valgmedarbeider.valg.no</p>
+<p type="title">Valgmateriell</p>
+<p>Sametinget sender ut stemmesedler til alle kommunene i Norge. Kommunal- og regionaldepartementet står for utsendingen av stemmeseddelkonvolutter.</p>
+<p>Kommunene får innen 1. juli 2013 en egen forsendelse med blanke blå stemmesedler til tidligstemmegivningen.</p>
+<p>Følgende valgmateriell kommer sammen med materiellet til stortingsvalget:</p>
+<list><p type="listitem">Blå stemmeseddelkonvolutter til sametingsvalget. Konvoluttene skal brukes både ved tidligstemmegivningen, forhåndsstemmegivningen og stemmegivning på valgdagen. Disse vil sendes kommunene sammen med den forsendelsen som kommer i forbindelse med stortingsvalget. Dette materiellet skal kommunene ha mottatt nå.</p>
+</list><p>Kommunene vil innen 1. august få tilsendt stemmesedler med partinavn og kandidatnavn som skal brukes av velgere som stemmer i egen valgkrets ved sametingsvalget.</p>
+<p>Antall stemmesedler beregnes ut i fra manntallsførte i kommunen. <em type="italic">Det er ikke nødvendig med en egen bestilling på stemmesedler til sametingsvalget. </em></p>
+<p type="title">Utleggingsmanntall</p>
+<p>Sametinget sender etter 12. juli ut utleggingsmanntall til kommuner som i 2011 hadde færre enn 30 i Sametingets valgmanntall.</p>
+<p>Kommuner som i 2011 hadde 30 eller flere i Sametingets valgmanntall, henter ut utleggingsmanntallet som en rapport i EVA. Dette manntallet vil være klart etter 12. juli.</p>
+<p type="title">Rundskriv om endring i forskrift om valg til Sametinget</p>
+<p>Rundskriv om endring i forskrift om valg til Sametinget – Om underretning til velgere som bare kan avgi forhåndsstemme til sametingsvalget.</p>
+<p>Fornyings-, administrasjons- og kirkedepartementet har fastsatt nytt annet ledd i § 39 a i forskrift 19. desember 2008 nr. 1480 om valg til Sametinget. Endringen ble kunngjort og trådte i kraft 19. desember 2012.</p>
+<p>Norsk.docx</p>
+<p>160,78 kB</p>
+<p>Brev til velgerne i kommuner med 1-29 manntallsførte.doc</p>
+<p>22,50 kB</p>
+<p type="title">Etiketter til valgkampmateriell</p>
+<p>De som stiller lister til sametingsvalget kan i perioden juli - september 2013 bestille adresseetiketter over stemmeberettigede personer til sametingsvalget. Etikettene er til bruk under valgkampen for utsendelse av valgmateriell etc.</p>
+<p>Materiellet leveres fra Andvord Grafisk, men Sametinget må først godkjenne bestillingen.</p>
+<p>Partiene/listene betaler selv for etikettene.</p>
+<p>Etikettene inneholder navn og adresser på alle som har stemmerett til sametingsvalget.</p>
+<p>Send bestilling til samediggi@samediggi.no</p>
+<p type="title">Valgprotokoller (møtebøker)</p>
+<p>Sametinget vil med hjemmel i forskrift om valg til Sametinget § 67, fastsette formularer ved protokollering av valgresultater ved samtingsvalget. Valgmyndighetene er forpliktet til å benytte fastsatte formularer.</p>
+<p>NB! Møteboka for samevalgstyret vil også finnes som en rapport i EVA.</p>
+<list><p type="listitem" xml:lang="eng">Protokoll (møtebok) for <em type="bold">stemmestyret </em>Bokmål [ pdf ] [ word ] </p>
+<p type="listitem">Protokoll (møtebok) for <em type="bold">samevalgstyret </em>Bokmål [ pdf ] [ word ] [ excel ] Vedlegg til møtebok for samevalgstyret </p>
+</list><list><p type="listitem" xml:lang="eng">Protokoll (møtebok) for <em type="bold">opptellingsvalgstyret </em>Bokmål [ pdf ] [ word ] </p>
+</list><p type="title">Endring i forskrift om valg til Sametinget</p>
+<p>Fornyings-, administrasjons- og kirkedepartementet (FAD) har ved vedtak 16. august 2013 endret forskrift 19. desember 2008 nr. 1480 om valg til Sametinget. Endringsforskriften er utformet i samarbeid med Kommunal- og regionaldepartementet og Sametinget.</p>
+<p>Bakgrunnen for endringene er at er gjort endringer i valgforskriften som gjelder for øvrige valg (forskrift 2. januar 2003 nr. 5), og at det er behov for tilsvarende justeringer før høstens valg til Sametinget. Endringene i den ordinære valgforskriften har vært av praktisk karakter og omfatter blant annet utformingen av valgseddelen, prosedyrer for tømming av valgurnene og detaljer rundt forhåndsstemmegivningen.</p>
+<p>Endringene i forskrift om valg til Sametinget gjelder:</p>
+<p>- I §§ 4 og 7 erstattes årstallet 2001 med en tidsramme på 10 år. Bakgrunnen er at Folkeregisteret ikke gir ut registerdata mer enn ti år tilbake i tid, og at det heller ikke er anledning for Sametinget til å lagre tidligere manntallsopplysninger.</p>
+<p>- Det gis en mer presis bestemmelse om utformingen av stemmeseddelen i § 36. Oppbyggingen av paragrafen endres også noe ved at bestemmelsene i nåværende fjerde ledd bokstav d og femte ledd tas inn i nytt fjerde ledd.</p>
+<p>- Henvisningene i § 43 første ledd er endret slik at de samsvarer med bestemmelser i valgloven og valgforskriften som gjelder tilsvarende ved valg til Stortinget.</p>
+<p>- Det gjøres en teknisk endring i dagens §§ 46 og 53, hvor innholdet i § 53 flyttes til § 46, og ny § 53 får tilsvarende ordlyd som i den ordinære valgforskriften § 29.</p>
+<p>Endringene trer i kraft straks.</p>
+<p type="title">Møtebøkene til Sametinget er unntatt offentlighet</p>
+<p>Flere kommuner lurer på hvordan de skal forholde seg til at det kan mottas et lite antall stemmer, og hvordan en da sikrer hemmelig valg</p>
+<p>Møtebøkene til Sametinget er unntatt offentlighet.</p>
+<p>Hjemmelen for å unnta offentlighet finnes i kapittel 15 § 81 i forskrift om valg til Sametinget, jf. § 27 i offentleglova.</p>
+<p>§ 81.Tilgang til Sametingets valgmanntall og det øvrige materiellet - offentlighet</p>
+<p>(1) Om ikke annet følger av bestemmelser i lov eller forskrift, kan adgang til eller avskrift av eksemplarer av Sametingets valgmanntall - herunder det som er brukt til avkryssing - bare gis eller utleveres</p>
+<p xml:lang="eng">a)</p>
+<p>til offentlig ansatte når det er nødvendig av hensyn til tjenesten eller</p>
+<p xml:lang="sme">b)</p>
+<p>til andre når det foreligger samtykke fra Sametinget.</p>
+<p>(2) Tilgang til valgmanntallet og det øvrige valgmateriellet kan bare gis til forskere i vitenskaplig øyemed når det foreligger samtykke fra Sametinget.</p>
+<p>Regelen til sametingsvalget er at alt materiellet angående valget er unndratt offentlighet. Dette beror på to forhold; at valget er basert på Sametingets valgmanntall som i seg selv er betraktet som et sensitivt register, og at i noen kommuner kommer det til å være få stemmegivninger som skal telles siden det er få med stemmerett i kommunen.</p>
+<p>Det er slik at alle kommunene med over 30 i valgmanntallet fra 2011 skal telle selv. I noen av disse kommunene kan det komme få stemmegivninger, slik at prinsippet om hemmelig valg utfordres når samevalgstyret skal foreta en foreløpig opptelling. Den samme problemstillingen gjelder for opptellingsvalgstyret som skal foreta en foreløpig opptelling på vegne av kommuner med under 30 i valgmanntallet og protokollføre dette.</p>
+<p>Protokollene går inn under <span type="quote">”øvrig valgmateriell”</span> og skal unntas offentlighet. Hvis noen ønsker innsyn må de søke Sametinget om tilgang til protokollene.</p>
+<p>Selv om kommunen har mottatt færre enn 20 stemmegivninger (som er en veiledende grense for hvor mange stemmegivninger enn bør ha for å telle), skal kommunene telle forhåndsstemmene og valgtingsstemmene hver for seg og rapportere til SSB. Dette er mulig fordi det ikke rapporteres resultat på kommunenivå <em type="italic">fra </em>SSB, kun på valgkretsnivå. Sametinget gir en dispensasjon til disse kommunene til å telle og viser til § 82 i forskrift om valg til Sametinget, der taushetsplikten fremgår. </p>
+<p>§ 82.Taushetsplikt</p>
+<p>(1) Forvaltingslovens bestemmelser om taushetsplikt gjelder tilsvarende ved sametingsvalget.</p>
+<p>(2) En person som assisterer en velger ved stemmegivningen og får kjennskap til hvordan vedkommende har stemt, har taushetsplikt om dette.</p>
+</body></document>

@@ -1,79 +1,45 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>327</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <parallel_text xml:lang="smj" location="samij_almmukbiejvve_2017.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Program Samefolkets dag 2017 - Tysfjord kommune</p>
-    <p>Hopp til hovedinnholdet på siden</p>
-    <p>A</p>
-    <p>A</p>
-    <p>A</p>
-    <p type="title">Forside</p>
-    <p type="title">Program Samefolkets dag 2017</p>
-    <p>27.01.2017</p>
-    <p>Det serveres kaffe og kaker til befolkningen</p>
-    <p>
-      <em type="italic">Mandag 6. februar 11:30 - 12:30 </em>
-    </p>
-    <p>På Rådhuset, Kjøpsvik, Árran, Drag og Storjord oppvekstsenter. Ordfører Tor Asgeir Johansen holder tale på Rådhuset 11:30.</p>
-    <p>2017 er et jubileumsår, det er 100 år siden det første samiske landsmøtet og det markeres stort i Tråante/Trondheim både på selve 6. februar og hele uken. Divtasvuona suohkan/Tysfjord kommune tilbyr innbyggerne å delta i den felles nasjonale markeringen gjennom live overføring av bilder fra åpningsseremonien med tale av blant annet Statsminister Erna Solberg fra Trondheim torg mandag 6. februar kl. 11:45 - 12:30.</p>
-    <p>I tillegg besøker representanter fra kommunen de tre kommunale institusjonene for eldreomsorg.</p>
-    <p>
-      <em type="italic">Vi ønsker alle hjertelig velkommen til å feire Samefolkets dag! </em>
-    </p>
-    <p>Andre hendelser i kommunen:</p>
-    <list>
-      <p type="listitem">Feiringen på Árran skjer i hovedsak torsdag 2. februar kl. 15:30 - 18:30 og er åpen for alle. Programmet finnes på Árrans hjemmeside: www.arran.no</p>
-      <p type="listitem">Også Tysfjord ASVO har hovedmarkeringen sin torsdag 2. februar kl. 10:00 - 14:00. I tillegg har de miniseminar og duodjekvelder. For program se ASVOs hjemmeside www.tysfjordasvo.no</p>
-      <p type="listitem">Pæsatun barnehage skal servere bidos eller skav til barna, og ha ei fortellerstund i lavvoen.</p>
-      <p type="listitem">Ved Kjøpsvik skole heiser de det samiske flagget og synger samefolkets sang.</p>
-      <p type="listitem">I Drag barnehage skal ungene kose seg med samisk mat, ha fortellerstund og synge på samisk.</p>
-      <p type="listitem">Ved Drag skole feires dagen på tradisjonell måte med felles måltid for alle.</p>
-      <p type="listitem">Ved Storjord oppvekstsenter skal de feire hele dagen, ute og i lavvoen. De lager tradisjonell samisk mat, heiser det samiske flagget og inviterer hele bygda på besøk.</p>
-      <p type="listitem">Det er gudstjeneste i Drag/Helland kirke kl. 18:00. Kirkekaffe på Arran, ved Drag/Helland menighetsråd.</p>
-    </list>
-    <p type="title">HOVEDMENY</p>
-    <list>
-      <p type="listitem">Barnehager</p>
-      <p type="listitem">Bibliotek</p>
-      <p type="listitem">Bostøtte</p>
-      <p type="listitem">Brann og redning</p>
-      <p type="listitem">Gebyrer og avgifter</p>
-    </list>
-    <list>
-      <p type="listitem">Havner og kaiområder</p>
-      <p type="listitem">Helse og omsorg</p>
-      <p type="listitem">Kommunereform</p>
-      <p type="listitem">Kultur, næring og utvikling</p>
-      <p type="listitem">Landbruk</p>
-    </list>
-    <list>
-      <p type="listitem">Organisasjon</p>
-      <p type="listitem">Prosjekter</p>
-      <p type="listitem">Renovasjon</p>
-      <p type="listitem">Samisk språk</p>
-      <p type="listitem">Skole og utdanning</p>
-    </list>
-    <list>
-      <p type="listitem">Startlån og boligtilskudd</p>
-      <p type="listitem">Stetindhallen</p>
-      <p type="listitem">Tekniske tjenester</p>
-      <p type="listitem">Utleie</p>
-      <p type="listitem">Søk tilskudd</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>327</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><parallel_text xml:lang="smj" location="samij_almmukbiejvve_2017.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Program Samefolkets dag 2017 - Tysfjord kommune</p>
+<p>Hopp til hovedinnholdet på siden</p>
+<p>A</p>
+<p>A</p>
+<p>A</p>
+<p type="title">Forside</p>
+<p type="title">Program Samefolkets dag 2017</p>
+<p>27.01.2017</p>
+<p>Det serveres kaffe og kaker til befolkningen</p>
+<p><em type="italic">Mandag 6. februar 11:30 - 12:30 </em></p>
+<p>På Rådhuset, Kjøpsvik, Árran, Drag og Storjord oppvekstsenter. Ordfører Tor Asgeir Johansen holder tale på Rådhuset 11:30.</p>
+<p>2017 er et jubileumsår, det er 100 år siden det første samiske landsmøtet og det markeres stort i Tråante/Trondheim både på selve 6. februar og hele uken. Divtasvuona suohkan/Tysfjord kommune tilbyr innbyggerne å delta i den felles nasjonale markeringen gjennom live overføring av bilder fra åpningsseremonien med tale av blant annet Statsminister Erna Solberg fra Trondheim torg mandag 6. februar kl. 11:45 - 12:30.</p>
+<p>I tillegg besøker representanter fra kommunen de tre kommunale institusjonene for eldreomsorg.</p>
+<p><em type="italic">Vi ønsker alle hjertelig velkommen til å feire Samefolkets dag! </em></p>
+<p>Andre hendelser i kommunen:</p>
+<list><p type="listitem">Feiringen på Árran skjer i hovedsak torsdag 2. februar kl. 15:30 - 18:30 og er åpen for alle. Programmet finnes på Árrans hjemmeside: www.arran.no</p>
+<p type="listitem">Også Tysfjord ASVO har hovedmarkeringen sin torsdag 2. februar kl. 10:00 - 14:00. I tillegg har de miniseminar og duodjekvelder. For program se ASVOs hjemmeside www.tysfjordasvo.no</p>
+<p type="listitem">Pæsatun barnehage skal servere bidos eller skav til barna, og ha ei fortellerstund i lavvoen.</p>
+<p type="listitem">Ved Kjøpsvik skole heiser de det samiske flagget og synger samefolkets sang.</p>
+<p type="listitem">I Drag barnehage skal ungene kose seg med samisk mat, ha fortellerstund og synge på samisk.</p>
+<p type="listitem">Ved Drag skole feires dagen på tradisjonell måte med felles måltid for alle.</p>
+<p type="listitem">Ved Storjord oppvekstsenter skal de feire hele dagen, ute og i lavvoen. De lager tradisjonell samisk mat, heiser det samiske flagget og inviterer hele bygda på besøk.</p>
+<p type="listitem">Det er gudstjeneste i Drag/Helland kirke kl. 18:00. Kirkekaffe på Arran, ved Drag/Helland menighetsråd.</p>
+</list><p type="title">HOVEDMENY</p>
+<list><p type="listitem">Barnehager</p>
+<p type="listitem">Bibliotek</p>
+<p type="listitem">Bostøtte</p>
+<p type="listitem">Brann og redning</p>
+<p type="listitem">Gebyrer og avgifter</p>
+</list><list><p type="listitem">Havner og kaiområder</p>
+<p type="listitem">Helse og omsorg</p>
+<p type="listitem">Kommunereform</p>
+<p type="listitem">Kultur, næring og utvikling</p>
+<p type="listitem">Landbruk</p>
+</list><list><p type="listitem">Organisasjon</p>
+<p type="listitem">Prosjekter</p>
+<p type="listitem">Renovasjon</p>
+<p type="listitem">Samisk språk</p>
+<p type="listitem">Skole og utdanning</p>
+</list><list><p type="listitem">Startlån og boligtilskudd</p>
+<p type="listitem">Stetindhallen</p>
+<p type="listitem">Tekniske tjenester</p>
+<p type="listitem">Utleie</p>
+<p type="listitem">Søk tilskudd</p>
+</list></body></document>

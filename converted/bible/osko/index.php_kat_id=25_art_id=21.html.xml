@@ -1,37 +1,8 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>OSKO</title>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <publChannel>
-      <publication>
-        <publisher>Samisk Kirkeråd</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>218</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <origFileName>http://www.osko.no/index.php?kat_id=25&amp;art_id=21</origFileName>
-    <parallel_text xml:lang="sma" location="index.php_kat_id=25_art_id=21.html"/>
-    <parallel_text xml:lang="sme" location="index.php_kat_id=25_art_id=21.html"/>
-    <parallel_text xml:lang="smj" location="index.php_kat_id=25_art_id=21.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lær om: Kirka</p>
-    <p type="title">Samisk kirkekunst</p>
-    <p>Kirkerommet har ofte rikelige med symboler på det guddommelige kristne symboler i alterbilder, messehagl og skulpturer og bilder. Utforming av kirkebygg er ofte påvirket av lokale skikker for eksempel i valg av farger, materialer og kunst.</p>
-    <p>Bildekunsten er som oftest fremstilling av bibelfortellingene. Mange menigheter i områder der det bor samer, har hatt ønske om altertavler uten b. Noen kirkebygg har et nakent kors på blå bakgrunn. Blåfargen er himmelens farge og slik skal altermotivet fortelle at bare korset tegner himmelen for oss.</p>
-    <p>Vet du om det finnes kirkebygg som har brukt symboler, ornamenter, kunst, farger, bruksgjenstander med bakgrunn i samiske tradisjoner? Symbolbruken og det visuelle i et kirkerom er ofte det som øyet ser og som gir en opplevelse av gjenkjennelse eller fremmedfølelse. Hva mener du vil gjøre kirken til en samisk kirke for folk i Sampi.</p>
-    <p>Duodji kan inndeles i hornsløyd, tresløyd, håndverk og kunst. Det finnes eksempler på hvordan dette er brukt i kirke utsmykkingen. I Jukkasjarvi kirke i Nord-Sverige har kunstneren Lars-Levi Sunna laget orgeltangenter av bjørk, horn og skinn. I Enontekio kirke i Nord-Finland viser altertavla koftekledte samer og rein. I Sirma kirke har kunstneren Eva-Britt Varsi dekorert prekestolen med samisk inspirerte farger og mønster. Utformingen av Karasjok nye kirke skal minne oss om en gamme.</p>
-    <p>Utskriftsvennlig versjon</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>OSKO</title><genre code="bible"/><author><unknown/></author><publChannel><publication><publisher>Samisk Kirkeråd</publisher></publication></publChannel><wordcount>218</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.osko.no/index.php?kat_id=25&amp;art_id=21</origFileName><parallel_text xml:lang="sma" location="index.php_kat_id=25_art_id=21.html"/><parallel_text xml:lang="sme" location="index.php_kat_id=25_art_id=21.html"/><parallel_text xml:lang="smj" location="index.php_kat_id=25_art_id=21.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lær om: Kirka</p>
+<p type="title">Samisk kirkekunst</p>
+<p>Kirkerommet har ofte rikelige med symboler på det guddommelige kristne symboler i alterbilder, messehagl og skulpturer og bilder. Utforming av kirkebygg er ofte påvirket av lokale skikker for eksempel i valg av farger, materialer og kunst.</p>
+<p>Bildekunsten er som oftest fremstilling av bibelfortellingene. Mange menigheter i områder der det bor samer, har hatt ønske om altertavler uten b. Noen kirkebygg har et nakent kors på blå bakgrunn. Blåfargen er himmelens farge og slik skal altermotivet fortelle at bare korset tegner himmelen for oss.</p>
+<p>Vet du om det finnes kirkebygg som har brukt symboler, ornamenter, kunst, farger, bruksgjenstander med bakgrunn i samiske tradisjoner? Symbolbruken og det visuelle i et kirkerom er ofte det som øyet ser og som gir en opplevelse av gjenkjennelse eller fremmedfølelse. Hva mener du vil gjøre kirken til en samisk kirke for folk i Sampi.</p>
+<p>Duodji kan inndeles i hornsløyd, tresløyd, håndverk og kunst. Det finnes eksempler på hvordan dette er brukt i kirke utsmykkingen. I Jukkasjarvi kirke i Nord-Sverige har kunstneren Lars-Levi Sunna laget orgeltangenter av bjørk, horn og skinn. I Enontekio kirke i Nord-Finland viser altertavla koftekledte samer og rein. I Sirma kirke har kunstneren Eva-Britt Varsi dekorert prekestolen med samisk inspirerte farger og mønster. Utformingen av Karasjok nye kirke skal minne oss om en gamme.</p>
+<p>Utskriftsvennlig versjon</p>
+</body></document>

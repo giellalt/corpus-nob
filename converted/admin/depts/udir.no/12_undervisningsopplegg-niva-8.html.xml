@@ -1,236 +1,167 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1893</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/template-tredje-trinn-i-enkel-tabell/Undervisningsopplegg-Niva-8/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="12_undervisningsopple.html"/>
-    <parallel_text xml:lang="sme" location="12_undervisningsopp.html"/>
-    <parallel_text xml:lang="smj" location="12_undervisningsopp.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Nivå 8</p>
-    <p type="title">Undervisningsopplegg: Nivå 8</p>
-    <p>Hovedinnhold</p>
-    <p>
-      <em type="bold">Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 8. </em>
-    </p>
-    <p>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven. Vurdering underveis og mulige språkdomener er en del av opplegget.</p>
-    <p type="title">Kompetansemål</p>
-    <p>
-      <em type="italic">Muntlig kommunikasjon </em>
-    </p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
-    </list>
-    <p>
-      <em type="italic">Bevissthet om språk og kultur </em>
-    </p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">samtale om arbeidsliv og yrker</p>
-      <p type="listitem">gjøre rede for hvordan nye termer oppstår eller blir laget</p>
-    </list>
-    <p>Undervisningsopplegget dekker ikke alltid hele kompetansemål. Kompetansemålene er konkretisert i læringsmål. Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</p>
-    <p>Vis alle</p>
-    <p type="title">Andre relevante kompetansemål</p>
-    <p>
-      <em type="italic">Læreplan i norsk for VG1 </em>
-    </p>
-    <p>
-      <em type="italic">Språk og kultur </em>
-    </p>
-    <p>Mål for opplæringen er at eleven skal kunne</p>
-    <list>
-      <p type="listitem">bruke fagkunnskap fra ulike fag til å drøfte spørsmål knyttet til skole, samfunn og arbeidsliv gjøre intervju og referere</p>
-    </list>
-    <p type="title">Læringsmål</p>
-    <p>Målet med arbeidet er at elevene skal lære seg nye ord og uttrykk. De skal lære seg yrkesbetegnelser og kunne samtale om ulike yrkers egenart.</p>
-    <p>Dette innebærer at elevene skal kunne:</p>
-    <list>
-      <p type="listitem">lage nye termer ut fra gjeldende regler</p>
-      <p type="listitem">presentere saken sin muntlig til andre</p>
-      <p type="listitem">føre en samtale om yrker og arbeidsliv</p>
-      <p type="listitem">forberede spørsmål til en presentasjon</p>
-    </list>
-    <p>Kriteriene bør lages i samarbeid med elevene.</p>
-    <p type="title">Kjennetegn på måloppnåelse av kompetansemål</p>
-    <p>Eksempel på vurdering</p>
-    <p>
-      <em type="bold">Kompetansemål </em>
-    </p>
-    <p>
-      <em type="bold">2 </em>
-    </p>
-    <p>
-      <em type="bold">3-4 </em>
-    </p>
-    <p>
-      <em type="bold">5-6 </em>
-    </p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">samtale om yrker og arbeidsliv</p>
-    </list>
-    <p>Eleven kan samtale om et par yrker innenfor eget utdanningsløp på en enkel måte.</p>
-    <p>Eleven kan samtale om noen yrker og arbeidsliv innenfor eget utdanningsløp blant annet ved å fortelle, forklare og svare på spørsmål.</p>
-    <p>Eleven kan samtale om mange yrker og arbeidsliv blant annet ved å redegjøre, forklare, drøfte og stille og svare på spørsmål.</p>
-    <list>
-      <p type="listitem">gjøre rede for hvordan nye termer oppstår eller blir laget</p>
-    </list>
-    <p>Eleven kan kjenne igjen og forklare hvordan noen termer har oppstått.</p>
-    <p>Eleven kan forklare hvordan flere ulike termer har oppstått.</p>
-    <p>Eleven kan redegjøre for hvordan mange ulike termer har oppstått, også oversatte termer.</p>
-    <p>Eleven kan anvende dette og lage nye termer.</p>
-    <list>
-      <p type="listitem">bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
-    </list>
-    <p>Eleven bruker språket noen ganger.</p>
-    <p>Eleven kjenner igjen ord i ordboka.</p>
-    <p>Eleven bruker noen ganger nye ord og uttrykk.</p>
-    <p>Eleven bruker språket i noen ulike situasjoner.</p>
-    <p>Eleven kan finne fram til ord i ordboka og anvende ord fra ordboka.</p>
-    <p>Eleven bruker ofte flere nye ord og uttrykk.</p>
-    <p>Eleven bruker språket aktivt i mange ulike situasjoner.</p>
-    <p>Eleven kan finne fram til relevante ord i ordboka og bruke dem aktivt.</p>
-    <p>Eleven bruker fortløpende veldig mange nye ord og uttrykk.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p type="title">Forarbeid</p>
-    <p>Før elevene starter med arbeidet, kan læreren presentere noen generelle yrker og noen tradisjonelle samiske yrker.</p>
-    <p type="title">Læringsaktivitet</p>
-    <p>La eleven velge et yrke som han eller hun kunne tenke seg, eller et yrke eleven kjenner til. Eleven bør notere ned ord og uttrykk han/hun allerede kan. Dette gir repetisjon og grunnlag for videre arbeid.</p>
-    <p>Elevene tenker gjennom hva det kan være nyttig å lære seg. De kan bruke ordbok. Hvem kan være behjelpelig med å finne aktuelle ord og uttrykk? Det kan også være nyttig å etablere et samarbeid med Sametingets språkkonsulenter hvis ord/begrep må lages/tilpasses.</p>
-    <p>Deretter bør læreren forklare reglene for hvordan det lages nye termer i samisk. Noe hjelp finnes her: giella.org .</p>
-    <p type="title">Ordbank</p>
-    <p>Eleven bør lage seg en ordbank. Ordbanken kan fungere på flere måter. Læreren kan velge å la elevene lage ordbank til spesielle temaer, for eksempel knyttet til et spesielt yrke eller en spesiell idrett. Ordbanken kan også knyttes til handlinger, hendelser, opplevelser osv.</p>
-    <p>Ordbanken bør inneholde ord som er viktige med hensyn til temaet elevene arbeider med.</p>
-    <p>Ordene bør være i alfabetisk rekkefølge. Fortsett med lista etter hvert som nye ord dukker opp. Læreren kan gjerne skrive hva disse ordene heter på norsk i parentes. På lista kan læreren etter grunnformene legge til spesielle bøyninger eller vise stadievekslinger, for eksempel: bargat (rg-rgg) – gjøre, arbeide máhttu (htt-ht) – kunnskap, ferdighet seastit (sesttii) – spare</p>
-    <p>Kort eksempel knyttet til temaet yrker:</p>
-    <p>Fidnu / Yrke</p>
-    <p>Advokáhta – advokat</p>
-    <p>Bohccebargi - rørlegger</p>
-    <p>Buhcciiddikšu - sykepleier</p>
-    <p>Doavttir - lege</p>
-    <p>Elektrihkkár - elektriker</p>
-    <p>Oahpaheaddji - lærer</p>
-    <p>Veahkkedivššár - hjelpepleier</p>
-    <p>Vuoddji – sjåfør</p>
-    <p>Oahppu / Utdanning</p>
-    <p>Alitoahppu – høyere utdanning</p>
-    <p>Joatkkaskuvla – videregående skole</p>
-    <p>Vuođđoskuvla – grunnskole</p>
-    <p>Bargosajit / Arbeidsplasser</p>
-    <p>Boarrásiidsiida - gamlehjem</p>
-    <p>Buohcceviessu - sykehus</p>
-    <p>Buvda, gávpi, rambuvra - butikk</p>
-    <p>Dearvvašvuođaguovddáš - helsesenter</p>
-    <p>Kantuvra - kontor</p>
-    <p>Skuvla – skole</p>
-    <p type="title">Ordkart</p>
-    <p>En annen mulighet er å velge et ord som utgangspunkt for å lage nye ord, såkalt ordkart. Hvor stor oversikt som lages, bør tilpasses behovet eleven har.</p>
-    <p>Bargat – å arbeide</p>
-    <p>Substantiv</p>
-    <p>Verb</p>
-    <p>Adjektiver</p>
-    <p>bargu – arbeid bargi – arbeider barggaheaddji – arbeidsgiver bargoaddi – arbeidsgiver bargobihttá – arbeidsoppgave barggahus, Barggolašvuohta – sysselsetting</p>
-    <p>bargguhisvuohta – arbeidsledighet bargoeallin – arbeidsliv bargodilli – arbeidforhold bargokantuvra – arbeidskontor bargomiella – arbeidslyst bargosadji – arbeidsplass bargiidbellodat – arbeiderpartiet</p>
-    <p>barggahit – sysselsette</p>
-    <p>barggastit – arbeide</p>
-    <p>litt</p>
-    <p>barggadit – arbeide så smått, holde på med å arbeide</p>
-    <p>barggastallat – arbeide av og til</p>
-    <p>bargaladdat – arbeide energisk av og til eller lenge</p>
-    <p>barggildit – være sysselsatt med</p>
-    <p>barggastuvvat – ha arbeidslyst</p>
-    <p>bargguheapme – arbeidsløs, arbeidssky</p>
-    <p>barggolaš – arbeidssom</p>
-    <p>bargalas – arbeidssom</p>
-    <p>barggán – arbeidssom</p>
-    <p>bargi – arbeidende</p>
-    <p>
-      <em type="italic">Metodisk bruk av ordbok </em>
-    </p>
-    <p>Læreren bør også vise elevene hvordan de metodisk bør arbeide med ordbok og ordlister.</p>
-    <p>Det finnes flere ordbøker i samisk, og noen ganger må man slå opp i ulike ordbøker for å finne ordet man er på jakt etter. Elevene må læres opp i å bruke ordbøker.</p>
-    <p>Når eleven slår opp på et ord på samisk, må han eller hun vite hvilken ordklasse ordet er, og kjenne igjen ordbokens forkortelse av ordklassen, for eksempel: s. = substantiv og v. = verb.</p>
-    <p>Det kan også være nyttig å sjekke opp forklaringen i en norsk-samisk ordbok for å kontrollere at det er samsvar mellom ord og innhold. Dette gjelder i høyeste grad også når eleven først slår opp et ord på norsk.</p>
-    <p>Her kan det forekomme feil om man ikke sjekker betydningen tilbake i en samisk-norsk ordbok. Blant annet kan det være flere ord, og disse er da listet opp alfabetisk. For ordet <span type="quote">"å gå"</span> i stor norsk-samisk ordbok kommer første forslag opp: deavirdit. det betyr å gå med slepende skritt. De mest vanlige ordene står med andre ord ikke først.</p>
-    <p>Elevene kan bruke spillet <span type="quote">"Sátnebiŋgo"</span> i arbeid med ordinnlæring:</p>
-    <p>Jan Arne Varsi</p>
-    <p>Elevene kan søke etter stoff om nyheter og aktuelle hendelser tilknyttet det valgte yrket. Deretter kan elevene snakke sammen om yrket. De kan arbeide i par og for eksempel innlede med å spørre om hva den andre arbeider som.</p>
-    <p>Elevene skal presentere yrkene sine muntlig. Elevene presenterer yrket for resten av elevene eller læreren, og dette danner utgangspunkt for videre samtale i klassen eller med faglæreren.</p>
-    <p type="title">Andre aktiviteter</p>
-    <p>Hvis det er mulig, kan elevene oppsøke en samisktalende i et utvalgt yrke og intervjue vedkommende. Intervjuet kan med fordel tas opp på mp3-spiller eller liknende.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>Elevene kan bygge ut ordforrådet sitt ved hjelp av et hovedstikkord. Hva trenger man for å kommunisere om dette temaet? Her kan elevene bruke et digitalt tankekart for å strukturere temaet.</p>
-    <p>Elever som trenger mer utfordrende arbeid, kan skrive ordforklaringene på samisk.</p>
-    <p>Elevene kan også bruke ulike bilder som utgangspunkt slik at de kan snakke om hva som er relevant for den aktuelle situasjonen.</p>
-    <p>Elevene kan benytte mobiltelefon, mp3-spiller med opptaker eller liknende og lese inn ord og uttrykk som de kan lytte til senere. Dette kan styrke ordinnlæringen.</p>
-    <p>Når elevene arbeider alene, kan læreren være samtalepartneren. Læreren bør da også lage en tilsvarende presentasjon om et yrke slik at elevene kan få trening å lage spørsmål til en presentasjon. Læreren tilpasser presentasjonen sin til elevens nivå.</p>
-    <p type="title">Vurdering</p>
-    <p>Underveisvurderingen bør ta utgangspunkt i kriterier som er knyttet til læringsmålene. Lag gjerne kriteriene i samarbeid med elevene. Diskuter med dem hvilke strategier som gir økt ordforråd. Her må elevene vurdere selv: Hva har gitt meg økt ordforråd?</p>
-    <p>Gi tilbakemelding på hvilke ord elevene har i ordbanken og eventuelt på ord de har laget i henhold til metodene for å lage nye termer. Tilbakemeldingen skal fortelle hva elevene mestrer og hvordan de bør arbeide videre.</p>
-    <p>Eksempler på tilbakemelding</p>
-    <p>Du skal kunne:</p>
-    <p>samtale om arbeidsliv og yrker</p>
-    <p>Hva som er bra: Du fortalte om mange relevante yrker i utdanningsløpet ditt.</p>
-    <p>Du formulerte interessante spørsmål om arbeidslivet.</p>
-    <p>Hva du kan forbedre: Du kan i større grad formulere fordeler og ulemper med de yrkene du snakker om.</p>
-    <p>bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
-    <p>Hva er bra: Du bruker ofte språket aktivt. Jeg legger merke til at du stadig tar i bruk nye ord og uttykk. Nå kan du mange yrkesbetegnelser.</p>
-    <p>Hva kan du forbedre: Du kan øve på flere av ordene i ordbanken og bruke dem aktivt.</p>
-    <p type="title">Egenvurdering:</p>
-    <p>Her er noen eksempler på hvordan elevene kan foreta egenvurdering.</p>
-    <p><em type="italic">1 </em>. Mitt valg av yrkesområde: </p>
-    <list>
-      <p type="listitem">Hva lyktes jeg med i beskrivelsen av yrket?</p>
-      <p type="listitem">Hva bør jeg endre?</p>
-      <p type="listitem">Hva mangler i beskrivelsen?</p>
-      <p type="listitem">Hva bør jeg legge til?</p>
-      <p type="listitem">Hvordan lykkes jeg med å begrunne yrkesvalget?</p>
-      <p type="listitem">Klarer jeg å uttrykke refleksjoner over om yrket er relevant for meg?</p>
-    </list>
-    <p><em type="italic">2 </em>. Eleven skriver inn aktuelle mål fortløpende i skjemaet og vurderer seg selv. </p>
-    <p>Mål:</p>
-    <p>Dette kan jeg litt:</p>
-    <p>Dette kan jeg ganske godt:</p>
-    <p>Dette kan jeg svært godt:</p>
-    <p><em type="italic">3 </em>. Ordbank </p>
-    <p>Elevenes ordbank kan gjerne være digital. Dette kan være som en mappe som elevene vurderer alene eller sammen med læreren. Hvilke ord har elevene lært? Hvilke ord er det vanskelig å lære? Hva kan eleven gjøre for å lære de vanskelige ordene? Hva bør eleven endre i mappen?</p>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>: Den muntlige ferdigheten er den dominerende aktiviteten i dette eksempelet. </p>
-    <p><em type="italic">Å kunne bruke digitale verktøy </em>: Elevene bruker digitale ordbøker, risten.no , og statistikk i forbindelse med yrker, ssb.no . Elevene anvender digitalt presentasjonsprogram (Open Office Impress, Powerpoint eller liknende presentasjonsprogram). De lager ordbank og ordkart i Open Office Writer, Word eller liknende tekstbehandlingsprogram, og de lager digitalt tankekart. </p>
-    <p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Utvidet ordforråd gir godt grunnlag for egen produksjon av tekst. Elevene skriver ordlister. </p>
-    <p><em type="italic">Å kunne lese </em>: Lesing og lytting er nøkkelen til nye opplevelser. </p>
-    <p type="title">Fjernundervisning</p>
-    <p>Dette eksemplet passer fint for fjernundervisning. Da må også læreren lage en presentasjon av et yrke slik at eleven får forberede spørsmål til det. Eleven kan presentere yrkesvalget sitt for læreren, og læreren presenterer et yrke. Det kan også utvides med flere yrker eller ulike situasjoner knyttet til et yrke.</p>
-    <p type="title">Språkdomener</p>
-    <p>Her kan biblioteket og/eller en bibliotekar benyttes som språkdomene. Hvis bibliotekaren er samiskspråklig, kan han eller hun være kontaktperson og være behjelpelig med å finne informasjon om yrker. Avtal at all kommunikasjon skal foregå på samisk.</p>
-    <p>Om studieveilederen eller rådgiveren er samiskspråklig, bør han eller hun trekkes inn i arbeidet. Det kan bli gitt generell informasjon om utdanning, yrker og arbeidsliv.</p>
-    <p>Om det er få samiskspråklige personer utenom læreren på skolen, kan det bygges opp et språkdomene rundt en plakat med yrkestitler. All kommunikasjon knyttet til arbeidet tar utgangspunkt i plakaten, og all kommunikasjon foregår på samisk.</p>
-    <p type="title">Lærestoff</p>
-    <p><em type="italic">Nettressurser </em>: vilbli.no http://www.samit.no/termer.htm http://www.samit.no/callinravvagat.pdf infonuorra.no Ordbøker Samisk grammatikk ssb.no giella.org </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1893</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/template-tredje-trinn-i-enkel-tabell/Undervisningsopplegg-Niva-8/index.html</origFileName><parallel_text xml:lang="sma" location="12_undervisningsopple.html"/><parallel_text xml:lang="sme" location="12_undervisningsopp.html"/><parallel_text xml:lang="smj" location="12_undervisningsopp.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Nivå 8</p>
+<p type="title">Undervisningsopplegg: Nivå 8</p>
+<p>Hovedinnhold</p>
+<p><em type="bold">Her finner læreren eksempler på hvordan han eller hun kan arbeide med kompetansemål på nivå 8. </em></p>
+<p>Her vises hvordan kompetansemål konkretiseres i læringsmål, innhold og arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan undervisningen kan tilpasses enkelteleven. Vurdering underveis og mulige språkdomener er en del av opplegget.</p>
+<p type="title">Kompetansemål</p>
+<p><em type="italic">Muntlig kommunikasjon </em></p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
+</list><p><em type="italic">Bevissthet om språk og kultur </em></p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">samtale om arbeidsliv og yrker</p>
+<p type="listitem">gjøre rede for hvordan nye termer oppstår eller blir laget</p>
+</list><p>Undervisningsopplegget dekker ikke alltid hele kompetansemål. Kompetansemålene er konkretisert i læringsmål. Læringsmålene er et steg mot oppnåelsen av kompetansemålene.</p>
+<p>Vis alle</p>
+<p type="title">Andre relevante kompetansemål</p>
+<p><em type="italic">Læreplan i norsk for VG1 </em></p>
+<p><em type="italic">Språk og kultur </em></p>
+<p>Mål for opplæringen er at eleven skal kunne</p>
+<list><p type="listitem">bruke fagkunnskap fra ulike fag til å drøfte spørsmål knyttet til skole, samfunn og arbeidsliv gjøre intervju og referere</p>
+</list><p type="title">Læringsmål</p>
+<p>Målet med arbeidet er at elevene skal lære seg nye ord og uttrykk. De skal lære seg yrkesbetegnelser og kunne samtale om ulike yrkers egenart.</p>
+<p>Dette innebærer at elevene skal kunne:</p>
+<list><p type="listitem">lage nye termer ut fra gjeldende regler</p>
+<p type="listitem">presentere saken sin muntlig til andre</p>
+<p type="listitem">føre en samtale om yrker og arbeidsliv</p>
+<p type="listitem">forberede spørsmål til en presentasjon</p>
+</list><p>Kriteriene bør lages i samarbeid med elevene.</p>
+<p type="title">Kjennetegn på måloppnåelse av kompetansemål</p>
+<p>Eksempel på vurdering</p>
+<p><em type="bold">Kompetansemål </em></p>
+<p><em type="bold">2 </em></p>
+<p><em type="bold">3-4 </em></p>
+<p><em type="bold">5-6 </em></p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">samtale om yrker og arbeidsliv</p>
+</list><p>Eleven kan samtale om et par yrker innenfor eget utdanningsløp på en enkel måte.</p>
+<p>Eleven kan samtale om noen yrker og arbeidsliv innenfor eget utdanningsløp blant annet ved å fortelle, forklare og svare på spørsmål.</p>
+<p>Eleven kan samtale om mange yrker og arbeidsliv blant annet ved å redegjøre, forklare, drøfte og stille og svare på spørsmål.</p>
+<list><p type="listitem">gjøre rede for hvordan nye termer oppstår eller blir laget</p>
+</list><p>Eleven kan kjenne igjen og forklare hvordan noen termer har oppstått.</p>
+<p>Eleven kan forklare hvordan flere ulike termer har oppstått.</p>
+<p>Eleven kan redegjøre for hvordan mange ulike termer har oppstått, også oversatte termer.</p>
+<p>Eleven kan anvende dette og lage nye termer.</p>
+<list><p type="listitem">bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
+</list><p>Eleven bruker språket noen ganger.</p>
+<p>Eleven kjenner igjen ord i ordboka.</p>
+<p>Eleven bruker noen ganger nye ord og uttrykk.</p>
+<p>Eleven bruker språket i noen ulike situasjoner.</p>
+<p>Eleven kan finne fram til ord i ordboka og anvende ord fra ordboka.</p>
+<p>Eleven bruker ofte flere nye ord og uttrykk.</p>
+<p>Eleven bruker språket aktivt i mange ulike situasjoner.</p>
+<p>Eleven kan finne fram til relevante ord i ordboka og bruke dem aktivt.</p>
+<p>Eleven bruker fortløpende veldig mange nye ord og uttrykk.</p>
+<p type="title">Læringsaktiviteter</p>
+<p type="title">Forarbeid</p>
+<p>Før elevene starter med arbeidet, kan læreren presentere noen generelle yrker og noen tradisjonelle samiske yrker.</p>
+<p type="title">Læringsaktivitet</p>
+<p>La eleven velge et yrke som han eller hun kunne tenke seg, eller et yrke eleven kjenner til. Eleven bør notere ned ord og uttrykk han/hun allerede kan. Dette gir repetisjon og grunnlag for videre arbeid.</p>
+<p>Elevene tenker gjennom hva det kan være nyttig å lære seg. De kan bruke ordbok. Hvem kan være behjelpelig med å finne aktuelle ord og uttrykk? Det kan også være nyttig å etablere et samarbeid med Sametingets språkkonsulenter hvis ord/begrep må lages/tilpasses.</p>
+<p>Deretter bør læreren forklare reglene for hvordan det lages nye termer i samisk. Noe hjelp finnes her: giella.org .</p>
+<p type="title">Ordbank</p>
+<p>Eleven bør lage seg en ordbank. Ordbanken kan fungere på flere måter. Læreren kan velge å la elevene lage ordbank til spesielle temaer, for eksempel knyttet til et spesielt yrke eller en spesiell idrett. Ordbanken kan også knyttes til handlinger, hendelser, opplevelser osv.</p>
+<p>Ordbanken bør inneholde ord som er viktige med hensyn til temaet elevene arbeider med.</p>
+<p>Ordene bør være i alfabetisk rekkefølge. Fortsett med lista etter hvert som nye ord dukker opp. Læreren kan gjerne skrive hva disse ordene heter på norsk i parentes. På lista kan læreren etter grunnformene legge til spesielle bøyninger eller vise stadievekslinger, for eksempel: bargat (rg-rgg) – gjøre, arbeide máhttu (htt-ht) – kunnskap, ferdighet seastit (sesttii) – spare</p>
+<p>Kort eksempel knyttet til temaet yrker:</p>
+<p>Fidnu / Yrke</p>
+<p>Advokáhta – advokat</p>
+<p>Bohccebargi - rørlegger</p>
+<p>Buhcciiddikšu - sykepleier</p>
+<p>Doavttir - lege</p>
+<p>Elektrihkkár - elektriker</p>
+<p>Oahpaheaddji - lærer</p>
+<p>Veahkkedivššár - hjelpepleier</p>
+<p>Vuoddji – sjåfør</p>
+<p>Oahppu / Utdanning</p>
+<p>Alitoahppu – høyere utdanning</p>
+<p>Joatkkaskuvla – videregående skole</p>
+<p>Vuođđoskuvla – grunnskole</p>
+<p>Bargosajit / Arbeidsplasser</p>
+<p>Boarrásiidsiida - gamlehjem</p>
+<p>Buohcceviessu - sykehus</p>
+<p>Buvda, gávpi, rambuvra - butikk</p>
+<p>Dearvvašvuođaguovddáš - helsesenter</p>
+<p>Kantuvra - kontor</p>
+<p>Skuvla – skole</p>
+<p type="title">Ordkart</p>
+<p>En annen mulighet er å velge et ord som utgangspunkt for å lage nye ord, såkalt ordkart. Hvor stor oversikt som lages, bør tilpasses behovet eleven har.</p>
+<p>Bargat – å arbeide</p>
+<p>Substantiv</p>
+<p>Verb</p>
+<p>Adjektiver</p>
+<p>bargu – arbeid bargi – arbeider barggaheaddji – arbeidsgiver bargoaddi – arbeidsgiver bargobihttá – arbeidsoppgave barggahus, Barggolašvuohta – sysselsetting</p>
+<p>bargguhisvuohta – arbeidsledighet bargoeallin – arbeidsliv bargodilli – arbeidforhold bargokantuvra – arbeidskontor bargomiella – arbeidslyst bargosadji – arbeidsplass bargiidbellodat – arbeiderpartiet</p>
+<p>barggahit – sysselsette</p>
+<p>barggastit – arbeide</p>
+<p>litt</p>
+<p>barggadit – arbeide så smått, holde på med å arbeide</p>
+<p>barggastallat – arbeide av og til</p>
+<p>bargaladdat – arbeide energisk av og til eller lenge</p>
+<p>barggildit – være sysselsatt med</p>
+<p>barggastuvvat – ha arbeidslyst</p>
+<p>bargguheapme – arbeidsløs, arbeidssky</p>
+<p>barggolaš – arbeidssom</p>
+<p>bargalas – arbeidssom</p>
+<p>barggán – arbeidssom</p>
+<p>bargi – arbeidende</p>
+<p><em type="italic">Metodisk bruk av ordbok </em></p>
+<p>Læreren bør også vise elevene hvordan de metodisk bør arbeide med ordbok og ordlister.</p>
+<p>Det finnes flere ordbøker i samisk, og noen ganger må man slå opp i ulike ordbøker for å finne ordet man er på jakt etter. Elevene må læres opp i å bruke ordbøker.</p>
+<p>Når eleven slår opp på et ord på samisk, må han eller hun vite hvilken ordklasse ordet er, og kjenne igjen ordbokens forkortelse av ordklassen, for eksempel: s. = substantiv og v. = verb.</p>
+<p>Det kan også være nyttig å sjekke opp forklaringen i en norsk-samisk ordbok for å kontrollere at det er samsvar mellom ord og innhold. Dette gjelder i høyeste grad også når eleven først slår opp et ord på norsk.</p>
+<p>Her kan det forekomme feil om man ikke sjekker betydningen tilbake i en samisk-norsk ordbok. Blant annet kan det være flere ord, og disse er da listet opp alfabetisk. For ordet <span type="quote">"å gå"</span> i stor norsk-samisk ordbok kommer første forslag opp: deavirdit. det betyr å gå med slepende skritt. De mest vanlige ordene står med andre ord ikke først.</p>
+<p>Elevene kan bruke spillet <span type="quote">"Sátnebiŋgo"</span> i arbeid med ordinnlæring:</p>
+<p>Jan Arne Varsi</p>
+<p>Elevene kan søke etter stoff om nyheter og aktuelle hendelser tilknyttet det valgte yrket. Deretter kan elevene snakke sammen om yrket. De kan arbeide i par og for eksempel innlede med å spørre om hva den andre arbeider som.</p>
+<p>Elevene skal presentere yrkene sine muntlig. Elevene presenterer yrket for resten av elevene eller læreren, og dette danner utgangspunkt for videre samtale i klassen eller med faglæreren.</p>
+<p type="title">Andre aktiviteter</p>
+<p>Hvis det er mulig, kan elevene oppsøke en samisktalende i et utvalgt yrke og intervjue vedkommende. Intervjuet kan med fordel tas opp på mp3-spiller eller liknende.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>Elevene kan bygge ut ordforrådet sitt ved hjelp av et hovedstikkord. Hva trenger man for å kommunisere om dette temaet? Her kan elevene bruke et digitalt tankekart for å strukturere temaet.</p>
+<p>Elever som trenger mer utfordrende arbeid, kan skrive ordforklaringene på samisk.</p>
+<p>Elevene kan også bruke ulike bilder som utgangspunkt slik at de kan snakke om hva som er relevant for den aktuelle situasjonen.</p>
+<p>Elevene kan benytte mobiltelefon, mp3-spiller med opptaker eller liknende og lese inn ord og uttrykk som de kan lytte til senere. Dette kan styrke ordinnlæringen.</p>
+<p>Når elevene arbeider alene, kan læreren være samtalepartneren. Læreren bør da også lage en tilsvarende presentasjon om et yrke slik at elevene kan få trening å lage spørsmål til en presentasjon. Læreren tilpasser presentasjonen sin til elevens nivå.</p>
+<p type="title">Vurdering</p>
+<p>Underveisvurderingen bør ta utgangspunkt i kriterier som er knyttet til læringsmålene. Lag gjerne kriteriene i samarbeid med elevene. Diskuter med dem hvilke strategier som gir økt ordforråd. Her må elevene vurdere selv: Hva har gitt meg økt ordforråd?</p>
+<p>Gi tilbakemelding på hvilke ord elevene har i ordbanken og eventuelt på ord de har laget i henhold til metodene for å lage nye termer. Tilbakemeldingen skal fortelle hva elevene mestrer og hvordan de bør arbeide videre.</p>
+<p>Eksempler på tilbakemelding</p>
+<p>Du skal kunne:</p>
+<p>samtale om arbeidsliv og yrker</p>
+<p>Hva som er bra: Du fortalte om mange relevante yrker i utdanningsløpet ditt.</p>
+<p>Du formulerte interessante spørsmål om arbeidslivet.</p>
+<p>Hva du kan forbedre: Du kan i større grad formulere fordeler og ulemper med de yrkene du snakker om.</p>
+<p>bruke språket i ulike situasjoner i stadig større grad og ta i bruk nye ord og utrykk</p>
+<p>Hva er bra: Du bruker ofte språket aktivt. Jeg legger merke til at du stadig tar i bruk nye ord og uttykk. Nå kan du mange yrkesbetegnelser.</p>
+<p>Hva kan du forbedre: Du kan øve på flere av ordene i ordbanken og bruke dem aktivt.</p>
+<p type="title">Egenvurdering:</p>
+<p>Her er noen eksempler på hvordan elevene kan foreta egenvurdering.</p>
+<p><em type="italic">1 </em>. Mitt valg av yrkesområde: </p>
+<list><p type="listitem">Hva lyktes jeg med i beskrivelsen av yrket?</p>
+<p type="listitem">Hva bør jeg endre?</p>
+<p type="listitem">Hva mangler i beskrivelsen?</p>
+<p type="listitem">Hva bør jeg legge til?</p>
+<p type="listitem">Hvordan lykkes jeg med å begrunne yrkesvalget?</p>
+<p type="listitem">Klarer jeg å uttrykke refleksjoner over om yrket er relevant for meg?</p>
+</list><p><em type="italic">2 </em>. Eleven skriver inn aktuelle mål fortløpende i skjemaet og vurderer seg selv. </p>
+<p>Mål:</p>
+<p>Dette kan jeg litt:</p>
+<p>Dette kan jeg ganske godt:</p>
+<p>Dette kan jeg svært godt:</p>
+<p><em type="italic">3 </em>. Ordbank </p>
+<p>Elevenes ordbank kan gjerne være digital. Dette kan være som en mappe som elevene vurderer alene eller sammen med læreren. Hvilke ord har elevene lært? Hvilke ord er det vanskelig å lære? Hva kan eleven gjøre for å lære de vanskelige ordene? Hva bør eleven endre i mappen?</p>
+<p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>: Den muntlige ferdigheten er den dominerende aktiviteten i dette eksempelet. </p>
+<p><em type="italic">Å kunne bruke digitale verktøy </em>: Elevene bruker digitale ordbøker, risten.no , og statistikk i forbindelse med yrker, ssb.no . Elevene anvender digitalt presentasjonsprogram (Open Office Impress, Powerpoint eller liknende presentasjonsprogram). De lager ordbank og ordkart i Open Office Writer, Word eller liknende tekstbehandlingsprogram, og de lager digitalt tankekart. </p>
+<p><em type="italic">Å kunne uttrykke seg skriftlig </em>: Utvidet ordforråd gir godt grunnlag for egen produksjon av tekst. Elevene skriver ordlister. </p>
+<p><em type="italic">Å kunne lese </em>: Lesing og lytting er nøkkelen til nye opplevelser. </p>
+<p type="title">Fjernundervisning</p>
+<p>Dette eksemplet passer fint for fjernundervisning. Da må også læreren lage en presentasjon av et yrke slik at eleven får forberede spørsmål til det. Eleven kan presentere yrkesvalget sitt for læreren, og læreren presenterer et yrke. Det kan også utvides med flere yrker eller ulike situasjoner knyttet til et yrke.</p>
+<p type="title">Språkdomener</p>
+<p>Her kan biblioteket og/eller en bibliotekar benyttes som språkdomene. Hvis bibliotekaren er samiskspråklig, kan han eller hun være kontaktperson og være behjelpelig med å finne informasjon om yrker. Avtal at all kommunikasjon skal foregå på samisk.</p>
+<p>Om studieveilederen eller rådgiveren er samiskspråklig, bør han eller hun trekkes inn i arbeidet. Det kan bli gitt generell informasjon om utdanning, yrker og arbeidsliv.</p>
+<p>Om det er få samiskspråklige personer utenom læreren på skolen, kan det bygges opp et språkdomene rundt en plakat med yrkestitler. All kommunikasjon knyttet til arbeidet tar utgangspunkt i plakaten, og all kommunikasjon foregår på samisk.</p>
+<p type="title">Lærestoff</p>
+<p><em type="italic">Nettressurser </em>: vilbli.no http://www.samit.no/termer.htm http://www.samit.no/callinravvagat.pdf infonuorra.no Ordbøker Samisk grammatikk ssb.no giella.org </p>
+</body></document>

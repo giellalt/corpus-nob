@@ -1,55 +1,17 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Om interjeksjoner</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>139</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/interjeksjoner.nob.html</origFileName>
-    <parallel_text xml:lang="eng" location="interjeksjoner.eng.html"/>
-    <parallel_text xml:lang="sme" location="interjeksjoner.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="swe">Om interjeksjoner</p>
-    <p>Tilbake til grammatikk hovedside .</p>
-    <p>Interjeksjoner, på norsk <em type="italic">utropsord </em>, er ord som står utenfor setningslæra, og står i steden for setninger. Eksempel på norske interjeksjoner er <em type="italic">au, uff, hurra </em>. </p>
-    <p>Samiske interjeksjonar er f.eks. <em type="italic">hei, geah, vuoi, hás, ce, hrus </em>. 'hei' og 'geah' er tilrop til mennesker eller bare uttrykk for forundring, mens 'ce' og 'hrus' er tilrop til hunder. 'vuoi' kan uttrykke mye, blant annet skuffelse og forundring. Andre interjeksjoner er lydmalende ord som <em type="italic">njáv, beavgga beavgga </em>. </p>
-    <list>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">'Hei', movt dat girddihii. </em>
-      </p>
-      <p type="listitem">(Du verden, hvilken fart den fikk.)</p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">'Geah'! Lean rabas julggiid olggos vázzilan. </em>
-      </p>
-      <p type="listitem" xml:lang="nno">(Nei se! Nå har jeg gått ut uten sko.)</p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">'Vuoi', go lea váivi. </em>
-      </p>
-      <p type="listitem" xml:lang="dan">(Uff, det er så trist.)</p>
-      <p type="listitem" xml:lang="deu">
-        <em type="italic">Benne, 'ce'! </em>
-      </p>
-      <p type="listitem" xml:lang="nno">(Benne, kom hit!)</p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">'Hrus' eret, soffá alde! </em>
-      </p>
-      <p type="listitem" xml:lang="nno">(Kom deg opp av sofaen (til hund)!)</p>
-      <p type="listitem" xml:lang="sme">
-        <em type="italic">Bussá njávgá 'njáv'. </em>
-      </p>
-      <p type="listitem" xml:lang="fkv">(Katta mjauer mjau.)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Om interjeksjoner</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>139</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/interjeksjoner.nob.html</origFileName><parallel_text xml:lang="eng" location="interjeksjoner.eng.html"/><parallel_text xml:lang="sme" location="interjeksjoner.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="swe">Om interjeksjoner</p>
+<p>Tilbake til grammatikk hovedside .</p>
+<p>Interjeksjoner, på norsk <em type="italic">utropsord </em>, er ord som står utenfor setningslæra, og står i steden for setninger. Eksempel på norske interjeksjoner er <em type="italic">au, uff, hurra </em>. </p>
+<p>Samiske interjeksjonar er f.eks. <em type="italic">hei, geah, vuoi, hás, ce, hrus </em>. 'hei' og 'geah' er tilrop til mennesker eller bare uttrykk for forundring, mens 'ce' og 'hrus' er tilrop til hunder. 'vuoi' kan uttrykke mye, blant annet skuffelse og forundring. Andre interjeksjoner er lydmalende ord som <em type="italic">njáv, beavgga beavgga </em>. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Hei', movt dat girddihii. </em></p>
+<p type="listitem">(Du verden, hvilken fart den fikk.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Geah'! Lean rabas julggiid olggos vázzilan. </em></p>
+<p type="listitem" xml:lang="nno">(Nei se! Nå har jeg gått ut uten sko.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Vuoi', go lea váivi. </em></p>
+<p type="listitem" xml:lang="dan">(Uff, det er så trist.)</p>
+<p type="listitem" xml:lang="vep"><em type="italic">Benne, 'ce'! </em></p>
+<p type="listitem" xml:lang="nno">(Benne, kom hit!)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Hrus' eret, soffá alde! </em></p>
+<p type="listitem" xml:lang="nno">(Kom deg opp av sofaen (til hund)!)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Bussá njávgá 'njáv'. </em></p>
+<p type="listitem" xml:lang="fkv">(Katta mjauer mjau.)</p>
+</list></body></document>

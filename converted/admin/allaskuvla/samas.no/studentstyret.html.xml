@@ -1,60 +1,27 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title>Studentstyret | Samisk Høgskole</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>422</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/nb/studenter/studentstyret</origFileName>
-    <parallel_text xml:lang="eng" location="student-board.html"/>
-    <parallel_text xml:lang="sme" location="studeantastivra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Studentstyret</p>
-    <p>
-      <em type="italic">Studentstyret for Samisk høgskole 2014-2015 </em>
-    </p>
-    <p>Studentstyret består av fem styremedlemmer og tre varamedlemmer. Studentyret er det øverste organet for studenter ved Samisk høgskole og har påvirkningsmuligheter for studentsaker.</p>
-    <p>
-      <em type="italic">Studentstyret består av: </em>
-    </p>
-    <p>
-      <em type="italic">Faste: </em>
-    </p>
-    <p xml:lang="sme">Mikkel Rasmus Logje (Leder)</p>
-    <p>Iselin Helen Hætta Lunde (Nestlder)</p>
-    <p xml:lang="nno">Karen Marit Siri (Regnskapsfører)</p>
-    <p>Lise Karita Hætta</p>
-    <p xml:lang="sme">Ellen Marit S. Hætta</p>
-    <p xml:lang="est">
-      <em type="italic">Vara: </em>
-    </p>
-    <p xml:lang="sme">Inga Maybritt Bongo</p>
-    <p>Anne Marie Therese Eira Kemi</p>
-    <p xml:lang="sme">Ole Sámmol Buljo</p>
-    <p>Studentstyrets e-post: studeantastivra@gmail.com Studentstyret jobber med studentsaker og lærings- og sosialmiljø for studenter. Studentstyret arrangerer forskjellige sosiale arrangementer og fritidstilbud. Sammen med SSO skal styret jobbe for et bra læringsmiljø og jobbe for at skolen skal være en bra plass for studenter å være.(Universitets og høgskoleloven,U/H, § 4-3). Studentstyret skal fremme studentenes synspunkter og interesser til styret for Samisk høgskole og andre komitèer. Styret er høringsorganet for alle studentsaker (U/H §4-1). Studentstyrets leder har månedlige møter med rektor. Studentstyret har også et samarbeid med tillitsvalgte. Komitèer og tillitsvalgte ved Samisk høgskole I henhold til Lov om universiteter og høgskoler skal studentene ha minst 20 prosent av medlemmene i alle kollegiale organ som tildeles beslutningsmyndighet.(U/A § 4-4)</p>
-    <p>Studenter sitter i følgende styrer, nemnder, komitèer og utvalg:</p>
-    <list>
-      <p type="listitem">Styret for Samisk høgskole</p>
-      <p type="listitem" xml:lang="dan">Skikkethetsvurderingsnemnd</p>
-      <p type="listitem" xml:lang="dan">Læringsmiljøutvalg</p>
-      <p type="listitem" xml:lang="dan">Forsknings- og studiestyre</p>
-      <p type="listitem" xml:lang="est">Opptakskomitè</p>
-      <p type="listitem" xml:lang="nno">SSO-styret</p>
-      <p type="listitem" xml:lang="deu">Klagenemnd</p>
-    </list>
-    <p><em type="italic">Styret for Samisk høgskole </em>Styret for Samisk høgskole skal ha to studentrepresentanter med varamedlemmer (U/A § 9-3). Studentrepresentanter velges for et år av gangen. Styret skal trekke opp strategien for institusjonens utdannings- og forskningsvirksomhet og annen faglig virksomhet og legge planer for den faglige utvikling i samsvar med de mål som er gitt av overordnet myndighet for sektoren og institusjonen. (U/H § 9-2). Styret skal fastsette mål og resultatkrav og har ansvaret for at institusjonens økonomiske ressurser og eiendom disponeres i overensstemmelse med bestemmelser om dette gitt av overordnet myndighet, og etter forutsetninger for tildelte bevilgninger eller andre bindende vedtak. </p>
-    <p><em type="italic">Skikkethetsvurderingsnemnd </em>To studentrepresentanter med varamedlemmer <em type="italic">. </em>Nemnda er saksbehandler ved eventuelle tvilsomhetsmeldinger om studenter. </p>
-    <p><em type="italic">Læringsmiljøutvalg </em>To studentrepresentanter med varamedlemmer. Arbeider for studentenes sikkerhet og velferd og skal kjenne til arbeidsmiljøsaker. <em type="italic">Opptakskomitè </em>En studentrepresentant med varamedlem. Behandler blant annet realkompetansesøkere og søknader til mastergradsstudier. <em type="italic">SSO-styret </em>Fire studentrepresentanter med varamedlemmer. Jobbe med studentenes velferdstilbud ved studiestedet: kantine, barnehage, leie av leilighet, treningsrom og sosiale- og kulturelle tilbud. <em type="italic">Klagenemnd </em>To studentrepresentanter med varamedlemmer. Saksbehandler klager, saker angående utestengelse av studenter, arrangering av praktiske eksamen og fusk ved eksamen.. <em type="italic">Tillitsvalgt </em>Hver klasse velger en tillitsvalgt i klassen. Den tillitsvalgte er klassens kontaktperson og skal fremme klassens saker til studieadministrasjonen eller styre. Ansvaret til den tillitsvalgte er å holde kontakt med studenstyret og holde klassemøter. </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title>Studentstyret | Samisk Høgskole</title><genre code="admin"/><author><unknown/></author><wordcount>422</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/nb/studenter/studentstyret</origFileName><parallel_text xml:lang="eng" location="student-board.html"/><parallel_text xml:lang="sme" location="studeantastivra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Studentstyret</p>
+<p><em type="italic">Studentstyret for Samisk høgskole 2014-2015 </em></p>
+<p>Studentstyret består av fem styremedlemmer og tre varamedlemmer. Studentyret er det øverste organet for studenter ved Samisk høgskole og har påvirkningsmuligheter for studentsaker.</p>
+<p><em type="italic">Studentstyret består av: </em></p>
+<p><em type="italic">Faste: </em></p>
+<p xml:lang="sme">Mikkel Rasmus Logje (Leder)</p>
+<p>Iselin Helen Hætta Lunde (Nestlder)</p>
+<p xml:lang="nno">Karen Marit Siri (Regnskapsfører)</p>
+<p xml:lang="nno">Lise Karita Hætta</p>
+<p xml:lang="sme">Ellen Marit S. Hætta</p>
+<p xml:lang="est"><em type="italic">Vara: </em></p>
+<p xml:lang="sme">Inga Maybritt Bongo</p>
+<p>Anne Marie Therese Eira Kemi</p>
+<p xml:lang="sme">Ole Sámmol Buljo</p>
+<p>Studentstyrets e-post: studeantastivra@gmail.com Studentstyret jobber med studentsaker og lærings- og sosialmiljø for studenter. Studentstyret arrangerer forskjellige sosiale arrangementer og fritidstilbud. Sammen med SSO skal styret jobbe for et bra læringsmiljø og jobbe for at skolen skal være en bra plass for studenter å være.(Universitets og høgskoleloven,U/H, § 4-3). Studentstyret skal fremme studentenes synspunkter og interesser til styret for Samisk høgskole og andre komitèer. Styret er høringsorganet for alle studentsaker (U/H §4-1). Studentstyrets leder har månedlige møter med rektor. Studentstyret har også et samarbeid med tillitsvalgte. Komitèer og tillitsvalgte ved Samisk høgskole I henhold til Lov om universiteter og høgskoler skal studentene ha minst 20 prosent av medlemmene i alle kollegiale organ som tildeles beslutningsmyndighet.(U/A § 4-4)</p>
+<p>Studenter sitter i følgende styrer, nemnder, komitèer og utvalg:</p>
+<list><p type="listitem">Styret for Samisk høgskole</p>
+<p type="listitem" xml:lang="dan">Skikkethetsvurderingsnemnd</p>
+<p type="listitem" xml:lang="dan">Læringsmiljøutvalg</p>
+<p type="listitem" xml:lang="dan">Forsknings- og studiestyre</p>
+<p type="listitem" xml:lang="rmn">Opptakskomitè</p>
+<p type="listitem" xml:lang="nno">SSO-styret</p>
+<p type="listitem" xml:lang="deu">Klagenemnd</p>
+</list><p><em type="italic">Styret for Samisk høgskole </em>Styret for Samisk høgskole skal ha to studentrepresentanter med varamedlemmer (U/A § 9-3). Studentrepresentanter velges for et år av gangen. Styret skal trekke opp strategien for institusjonens utdannings- og forskningsvirksomhet og annen faglig virksomhet og legge planer for den faglige utvikling i samsvar med de mål som er gitt av overordnet myndighet for sektoren og institusjonen. (U/H § 9-2). Styret skal fastsette mål og resultatkrav og har ansvaret for at institusjonens økonomiske ressurser og eiendom disponeres i overensstemmelse med bestemmelser om dette gitt av overordnet myndighet, og etter forutsetninger for tildelte bevilgninger eller andre bindende vedtak. </p>
+<p><em type="italic">Skikkethetsvurderingsnemnd </em>To studentrepresentanter med varamedlemmer <em type="italic">. </em>Nemnda er saksbehandler ved eventuelle tvilsomhetsmeldinger om studenter. </p>
+<p><em type="italic">Læringsmiljøutvalg </em>To studentrepresentanter med varamedlemmer. Arbeider for studentenes sikkerhet og velferd og skal kjenne til arbeidsmiljøsaker. <em type="italic">Opptakskomitè </em>En studentrepresentant med varamedlem. Behandler blant annet realkompetansesøkere og søknader til mastergradsstudier. <em type="italic">SSO-styret </em>Fire studentrepresentanter med varamedlemmer. Jobbe med studentenes velferdstilbud ved studiestedet: kantine, barnehage, leie av leilighet, treningsrom og sosiale- og kulturelle tilbud. <em type="italic">Klagenemnd </em>To studentrepresentanter med varamedlemmer. Saksbehandler klager, saker angående utestengelse av studenter, arrangering av praktiske eksamen og fusk ved eksamen.. <em type="italic">Tillitsvalgt </em>Hver klasse velger en tillitsvalgt i klassen. Den tillitsvalgte er klassens kontaktperson og skal fremme klassens saker til studieadministrasjonen eller styre. Ansvaret til den tillitsvalgte er å holde kontakt med studenstyret og holde klassemøter. </p>
+</body></document>

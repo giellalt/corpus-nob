@@ -1,50 +1,21 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>508</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/Hoyremeny-toppniva/Forklaring-til-veiledningen/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="1_forklaring-til-veiledningen.html"/>
-    <parallel_text xml:lang="sme" location="1_forklaring-til-veiledningen.html"/>
-    <parallel_text xml:lang="smj" location="1_forklaring-til-veiledningen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Forklaring til veiledningen</p>
-    <p type="title">Forklaring til veiledningen</p>
-    <p>Hovedinnhold</p>
-    <p>
-      <em type="bold">Råd og eksempler i arbeid med Læreplan i samisk som andrespråk </em>
-    </p>
-    <p>Læreplanens kompetansemål er delt inn i ti nivåer. Veiledningen konkretiserer noen kompetansemål og gir eksempler på hvordan man kan arbeide med læringsaktiviteter, tilpasset opplæring, grunnleggende ferdigheter, språkdomener og vurdering for alle de ti nivåene.</p>
-    <p>Lærere og skoler kan bruke veiledningen i lokalt læreplanarbeid og som konkrete undervisningsopplegg. Eksempelvis vil det for nivå 1-4 under <em type="italic">Tilpasset opplæring </em>bli gitt eksempler på hvordan undervisningsoppleggene kan tilpasses ulike aldersgrupper fordi elevene ofte kan ha varierende startgrunnlag i faget uansett trinn. </p>
-    <p>Det er et hovedmål i læreplanen at faget samisk som andrespråk sammen med faget norsk, legger grunnlaget for at elevene skal bli funksjonelt tospråklige. Det vil si at elevene skal bli motiverte til og trygge på å velge også samisk som kommunikasjonsspråk i dagliglivet.</p>
-    <p>Veiledningen viser eksempler med utgangspunkt i hovedområdene for <em type="italic">Muntlig kommunikasjon og Bevissthet om språk og kultur </em>. Veiledningen dekker altså ikke alle kompetansemålene i læreplanen. </p>
-    <p>Vis alle</p>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p>En grunnleggende ferdighet som <em type="italic">å kunne uttrykke seg muntlig </em>på samisk, er ingen selvfølge for elever i faget samisk som andrespråk. Veiledningen gir læreren råd, metodetips og eksempler som kan være til hjelp i arbeidet med å legge til rette for at elevene lærer å snakke samisk naturlig. </p>
-    <p type="title">Bevissthet om språk og kultur</p>
-    <p>Det er viktig å kartlegge språkets situasjon og status ved skolen, i kommunen generelt og i fylket. Språkopplæringens behov vil variere i de ulike områdene. Det er for eksempel mulig at flere lærere sammen gjør en undersøkelse, eller elevene gjennomfører den der det er mulig.</p>
-    <p>Kartleggingen kan gi oversikt over domener (språkarenaer) der samisk står sterkt og som kan være nyttige redskaper i språkopplæringen. Det er også mulig å opprette egne samiskspråklige domener, eksempler er områder, rom, personer, aktiviteter eller tidsrom. Se for øvrig egen artikkel om språkdomener .</p>
-    <p>Man kan også bruke Europeisk Språkperm (ESP) i arbeidet med kartleggingen. Gjennom kartleggingen kan elevene beskrive hvilket nivå de ligger på i samisk, og hvordan de kan utvikle seg i språket.</p>
-    <p>Skoler som har få elever på hvert klassetrinn, kan lage en rullerende plan for småskoletrinnet, mellomtrinnet og ungdomstrinnet hvor temaene i Samisk 2 og 3 inngår. Gjennom en rullering kan alle elevene i gruppen arbeide med samme tema. Læreren differensierer avhengig av elevenes alder og forkunnskaper. Slik kan elevene samarbeide og gjøre læringsaktiviteter sammen.</p>
-    <p>Erfaringsmessig får mange elever opplæring via fjernundervisning, og dette kan være utfordrende. På noen av nivåene er fjernundervisningen beskrevet nærmere.</p>
-    <p>Veiledningen har en egen del om progresjon . Dette illustrerer hvordan språkutviklingen er tenkt knyttet til kompetansemålene som veiledningen inneholder.</p>
-    <p>Veiledningen er laget med tanke på å kunne benyttes i alle samiske områder. I enkelte tilfeller må læreren tilpasse materiell og læremidler etter lokale forhold. Læremiddelsituasjonen i samisk er langt fra tilfredsstillende, men veiledningen har også med en liste over en del tilgjengelig lærestoff.</p>
-    <p>Veiledningen inneholder totalt sett mange konkrete eksempler på læringsaktiviteter. Mange av aktivitetene kan gjøres på alle nivåer. Slik kan veiledningen også fungere som konkrete tips til læringsaktiviteter.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>508</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samisk-andrespraak-bokmaal/Hoyremeny-toppniva/Forklaring-til-veiledningen/index.html</origFileName><parallel_text xml:lang="sma" location="1_forklaring-til-veiledningen.html"/><parallel_text xml:lang="sme" location="1_forklaring-til-veiledningen.html"/><parallel_text xml:lang="smj" location="1_forklaring-til-veiledningen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Forklaring til veiledningen</p>
+<p type="title">Forklaring til veiledningen</p>
+<p>Hovedinnhold</p>
+<p><em type="bold">Råd og eksempler i arbeid med Læreplan i samisk som andrespråk </em></p>
+<p>Læreplanens kompetansemål er delt inn i ti nivåer. Veiledningen konkretiserer noen kompetansemål og gir eksempler på hvordan man kan arbeide med læringsaktiviteter, tilpasset opplæring, grunnleggende ferdigheter, språkdomener og vurdering for alle de ti nivåene.</p>
+<p>Lærere og skoler kan bruke veiledningen i lokalt læreplanarbeid og som konkrete undervisningsopplegg. Eksempelvis vil det for nivå 1-4 under <em type="italic">Tilpasset opplæring </em>bli gitt eksempler på hvordan undervisningsoppleggene kan tilpasses ulike aldersgrupper fordi elevene ofte kan ha varierende startgrunnlag i faget uansett trinn. </p>
+<p>Det er et hovedmål i læreplanen at faget samisk som andrespråk sammen med faget norsk, legger grunnlaget for at elevene skal bli funksjonelt tospråklige. Det vil si at elevene skal bli motiverte til og trygge på å velge også samisk som kommunikasjonsspråk i dagliglivet.</p>
+<p>Veiledningen viser eksempler med utgangspunkt i hovedområdene for <em type="italic">Muntlig kommunikasjon og Bevissthet om språk og kultur </em>. Veiledningen dekker altså ikke alle kompetansemålene i læreplanen. </p>
+<p>Vis alle</p>
+<p type="title">Grunnleggende ferdigheter</p>
+<p>En grunnleggende ferdighet som <em type="italic">å kunne uttrykke seg muntlig </em>på samisk, er ingen selvfølge for elever i faget samisk som andrespråk. Veiledningen gir læreren råd, metodetips og eksempler som kan være til hjelp i arbeidet med å legge til rette for at elevene lærer å snakke samisk naturlig. </p>
+<p type="title">Bevissthet om språk og kultur</p>
+<p>Det er viktig å kartlegge språkets situasjon og status ved skolen, i kommunen generelt og i fylket. Språkopplæringens behov vil variere i de ulike områdene. Det er for eksempel mulig at flere lærere sammen gjør en undersøkelse, eller elevene gjennomfører den der det er mulig.</p>
+<p>Kartleggingen kan gi oversikt over domener (språkarenaer) der samisk står sterkt og som kan være nyttige redskaper i språkopplæringen. Det er også mulig å opprette egne samiskspråklige domener, eksempler er områder, rom, personer, aktiviteter eller tidsrom. Se for øvrig egen artikkel om språkdomener .</p>
+<p>Man kan også bruke Europeisk Språkperm (ESP) i arbeidet med kartleggingen. Gjennom kartleggingen kan elevene beskrive hvilket nivå de ligger på i samisk, og hvordan de kan utvikle seg i språket.</p>
+<p>Skoler som har få elever på hvert klassetrinn, kan lage en rullerende plan for småskoletrinnet, mellomtrinnet og ungdomstrinnet hvor temaene i Samisk 2 og 3 inngår. Gjennom en rullering kan alle elevene i gruppen arbeide med samme tema. Læreren differensierer avhengig av elevenes alder og forkunnskaper. Slik kan elevene samarbeide og gjøre læringsaktiviteter sammen.</p>
+<p>Erfaringsmessig får mange elever opplæring via fjernundervisning, og dette kan være utfordrende. På noen av nivåene er fjernundervisningen beskrevet nærmere.</p>
+<p>Veiledningen har en egen del om progresjon . Dette illustrerer hvordan språkutviklingen er tenkt knyttet til kompetansemålene som veiledningen inneholder.</p>
+<p>Veiledningen er laget med tanke på å kunne benyttes i alle samiske områder. I enkelte tilfeller må læreren tilpasse materiell og læremidler etter lokale forhold. Læremiddelsituasjonen i samisk er langt fra tilfredsstillende, men veiledningen har også med en liste over en del tilgjengelig lærestoff.</p>
+<p>Veiledningen inneholder totalt sett mange konkrete eksempler på læringsaktiviteter. Mange av aktivitetene kan gjøres på alle nivåer. Slik kan veiledningen også fungere som konkrete tips til læringsaktiviteter.</p>
+</body></document>

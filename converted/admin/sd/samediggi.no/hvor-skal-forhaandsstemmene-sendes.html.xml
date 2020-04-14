@@ -1,29 +1,6 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>88</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere/Hvor-skal-forhaandsstemmene-sendes</origFileName>
-    <parallel_text xml:lang="sma" location="gaaabph-edtja-dejtie-aavtelhbodti-steemmide-seedtedh.html"/>
-    <parallel_text xml:lang="sme" location="gosa-galget-ovddalgihtiijienastagat-saddejuvvot.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hvor skal forhåndsstemmene sendes? / Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
-    <p type="title">Hvor skal forhåndsstemmene sendes?</p>
-    <p/>
-    <p>Vedlagt ligger en oversikt kommunene kan benytte når de skal oversende forhåndsstemmegivninger til den kommunen som skal foreta en foreløpig opptelling for sametingsvalget.</p>
-    <p>Det er 56 kommuner som skal foreta en foreløpig opptelling selv og rapportere denne på valgnatten. For de øvrige kommunene er det opptellingsvalgstyret i valgkretsen som foretar den foreløpige opptellingen og rapporteringen. Den endelige opptellingen er det opptellingskommunene i valgkretsene som foretar.</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>88</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.sametinget.no/layout/set/print/Valg-og-manntall/Kampanjeside/Partier-Valgmedarbeidere/Hvor-skal-forhaandsstemmene-sendes</origFileName><parallel_text xml:lang="sma" location="gaaabph-edtja-dejtie-aavtelhbodti-steemmide-seedtedh.html"/><parallel_text xml:lang="sme" location="gosa-galget-ovddalgihtiijienastagat-saddejuvvot.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hvor skal forhåndsstemmene sendes? / Partier/Valgmedarbeidere / Kampanjeside / Valg og manntall / Forsiden - Sametinget</p>
+<p type="title">Hvor skal forhåndsstemmene sendes?</p>
+<p/>
+<p>Vedlagt ligger en oversikt kommunene kan benytte når de skal oversende forhåndsstemmegivninger til den kommunen som skal foreta en foreløpig opptelling for sametingsvalget.</p>
+<p>Det er 56 kommuner som skal foreta en foreløpig opptelling selv og rapportere denne på valgnatten. For de øvrige kommunene er det opptellingsvalgstyret i valgkretsen som foretar den foreløpige opptellingen og rapporteringen. Den endelige opptellingen er det opptellingskommunene i valgkretsene som foretar.</p>
+</body></document>

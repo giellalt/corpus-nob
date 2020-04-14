@@ -1,53 +1,18 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>487</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Spraak/Snakk-samisk-te-mae/Artikler/Om-spraakkampanjen</origFileName>
-    <parallel_text xml:lang="sma" location="gielekampanjen-bijre.html"/>
-    <parallel_text xml:lang="sme" location="giellakampanjja-birra.html"/>
-    <parallel_text xml:lang="smj" location="giellakampanja-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om språkkampanjen / Artikler / Snakk samisk te' mæ / Språk / Forsiden - Sametinget</p>
-    <p type="title">Om språkkampanjen</p>
-    <p>Samisk språk er vår gave fra våre forfedre. En gave som vi igjen skal gi til våre etterkommere. Språket sier noe om hvem vi er, og styrker vår tilhørighet til det samiske fellesskapet. Ikke alle samiske barn og unge har fått lære seg samisk, men språket er likevel veldig viktig også for dem. Selv om man ikke snakker språket, har samisk likevel en stor verdi. Dette fordi det handler om identitet og felleskap. Om å uttrykke seg, kommunisere og det å kjenne at man er en del av noe større.</p>
-    <p>Sametinget er opptatt av å styrke, utvikle og bevare samisk språk i alle områdene i Sapmi. Sametinget ønsker at alle barn og unge skal ha mulighet til å lære samisk der hvor de bor, og også ha mulighet til å bruke sitt språk i hverdagen. Sametinget jobber for at barn og unge i hele landet skal få mulighet til å få opplæring i samisk på skolen. Vi ønsker at flere skal lære samisk, for det er kun på den måten at vi sikrer at språket lever videre og kan læres av de kommende generasjoner. Vi vil også at flere skal bruke samisk så ofte som mulig, og helst i alle mulige sammenhenger. Sametinget ønsker at det skal være naturlig å bruke samisk språk både i butikken, på fotballtrening så vell som på skolen. Vi ønsker at samisk språk skal synes på sosiale media. Vi ønsker at samisk språk skal høres ute i gatene, på fjellet og i skolegården.</p>
-    <p>Sametinget har derfor satt i gang Språkkampanjen <span type="quote">”Snakk samisk te`mæ”</span>. Vi håper at denne kampanjen skal bidra til økt bevissthet om det å bruke samisk i flere sammenhenger, motivere til opplæring i samisk språk, øke bruken av samisk på flere og nye arenaer og at samisk språk brukes i offentlige sammenhenger.</p>
-    <p><span type="quote">”Snakk samisk te`mæ”</span> er en landsomfattende holdningskampanje som omfatter all samisk ungdom, både de som snakker samisk, kan litt samisk og de som ikke behersker samisk.</p>
-    <p>
-      <em type="bold">Målet med kampanjen er å bidra til; </em>
-    </p>
-    <list>
-      <p type="listitem">Økt bruk av samisk språk</p>
-      <p type="listitem">Flere brukere av samisk språk</p>
-      <p type="listitem">Bruk av samisk språk på flere arenaer</p>
-      <p type="listitem">Synliggjøring av samisk språk</p>
-      <p type="listitem">Økt forståelse i samfunnet for viktigheten av at vi får bruke vårt språk</p>
-    </list>
-    <p>Vår utfordring er å få den enkelte til å velge samisk språk. Fremtiden for samisk språk avhenger av at hver enkelt av oss bruker samisk som et naturlig kommunikasjonsspråk i flest mulig sammenhenger, og at man ønsker og aktivt går inn for å ta opplæring i samisk språk.</p>
-    <p>Vårt budskap er at samisk språk er viktig og nyttig. Lær samisk, bruk samisk, velg samisk! Vi er alle med på bevare språket ved at vi bruker det. Det er også viktig å vektlegge at det en stor fordel å være tospråklig, og det åpner for mange jobbmuligheter i fremtiden.</p>
-    <p type="title">Snakk samisk te'mæ!</p>
-    <p>
-      <em type="bold">Kontakt oss </em>
-    </p>
-    <p xml:lang="sme">snakksamisktema@sametinget.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>487</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Spraak/Snakk-samisk-te-mae/Artikler/Om-spraakkampanjen</origFileName><parallel_text xml:lang="sma" location="gielekampanjen-bijre.html"/><parallel_text xml:lang="sme" location="giellakampanjja-birra.html"/><parallel_text xml:lang="smj" location="giellakampanja-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om språkkampanjen / Artikler / Snakk samisk te' mæ / Språk / Forsiden - Sametinget</p>
+<p type="title">Om språkkampanjen</p>
+<p>Samisk språk er vår gave fra våre forfedre. En gave som vi igjen skal gi til våre etterkommere. Språket sier noe om hvem vi er, og styrker vår tilhørighet til det samiske fellesskapet. Ikke alle samiske barn og unge har fått lære seg samisk, men språket er likevel veldig viktig også for dem. Selv om man ikke snakker språket, har samisk likevel en stor verdi. Dette fordi det handler om identitet og felleskap. Om å uttrykke seg, kommunisere og det å kjenne at man er en del av noe større.</p>
+<p>Sametinget er opptatt av å styrke, utvikle og bevare samisk språk i alle områdene i Sapmi. Sametinget ønsker at alle barn og unge skal ha mulighet til å lære samisk der hvor de bor, og også ha mulighet til å bruke sitt språk i hverdagen. Sametinget jobber for at barn og unge i hele landet skal få mulighet til å få opplæring i samisk på skolen. Vi ønsker at flere skal lære samisk, for det er kun på den måten at vi sikrer at språket lever videre og kan læres av de kommende generasjoner. Vi vil også at flere skal bruke samisk så ofte som mulig, og helst i alle mulige sammenhenger. Sametinget ønsker at det skal være naturlig å bruke samisk språk både i butikken, på fotballtrening så vell som på skolen. Vi ønsker at samisk språk skal synes på sosiale media. Vi ønsker at samisk språk skal høres ute i gatene, på fjellet og i skolegården.</p>
+<p>Sametinget har derfor satt i gang Språkkampanjen <span type="quote">”Snakk samisk te`mæ”</span>. Vi håper at denne kampanjen skal bidra til økt bevissthet om det å bruke samisk i flere sammenhenger, motivere til opplæring i samisk språk, øke bruken av samisk på flere og nye arenaer og at samisk språk brukes i offentlige sammenhenger.</p>
+<p><span type="quote">”Snakk samisk te`mæ”</span> er en landsomfattende holdningskampanje som omfatter all samisk ungdom, både de som snakker samisk, kan litt samisk og de som ikke behersker samisk.</p>
+<p><em type="bold">Målet med kampanjen er å bidra til; </em></p>
+<list><p type="listitem">Økt bruk av samisk språk</p>
+<p type="listitem">Flere brukere av samisk språk</p>
+<p type="listitem">Bruk av samisk språk på flere arenaer</p>
+<p type="listitem">Synliggjøring av samisk språk</p>
+<p type="listitem">Økt forståelse i samfunnet for viktigheten av at vi får bruke vårt språk</p>
+</list><p>Vår utfordring er å få den enkelte til å velge samisk språk. Fremtiden for samisk språk avhenger av at hver enkelt av oss bruker samisk som et naturlig kommunikasjonsspråk i flest mulig sammenhenger, og at man ønsker og aktivt går inn for å ta opplæring i samisk språk.</p>
+<p>Vårt budskap er at samisk språk er viktig og nyttig. Lær samisk, bruk samisk, velg samisk! Vi er alle med på bevare språket ved at vi bruker det. Det er også viktig å vektlegge at det en stor fordel å være tospråklig, og det åpner for mange jobbmuligheter i fremtiden.</p>
+<p type="title">Snakk samisk te'mæ!</p>
+<p><em type="bold">Kontakt oss </em></p>
+<p xml:lang="sme">snakksamisktema@sametinget.no</p>
+</body></document>

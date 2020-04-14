@@ -1,133 +1,86 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1161</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/2-arstrinn/Undervisningsopplegg-Arbei/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_5_undervisningsopplegg-arbeid.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_5_undervisningsopplegg-arbeid-med-stave.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_5_ahpadimgarvvidusbuojkulv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Undervisningsopplegg: Arbeid med stavelser</p>
-    <p type="title">Undervisningsopplegg: Arbeid med stavelser</p>
-    <p>Hovedinnhold</p>
-    <p><em type="italic">Trinn </em>: 1. årstrinn </p>
-    <p><em type="italic">Tema </em>: stavelser </p>
-    <p><em type="italic">Tid </em>: fra en til to skoletimer </p>
-    <p>Vis alle</p>
-    <p type="title">Introduksjon</p>
-    <p>Dette undervisningsopplegget er et eksempel på arbeidet med kompetansemål på 1. og 2. årstrinn. Kompetansemål konkretiseres i læringsmål, som er steg på veien mot å oppnå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Elevenes vurdering av seg selv og hverandre inngår også.</p>
-    <p>Dette eksempelet handler om å arbeide med stavelser. Elevene skal finne ut hvor mange stavelser ulike ord inneholder. Velg ord fra flere ordklasser, ikke bare substantiv. Det er spesielt viktig å jobbe med verb. Dette er et arbeid som må foregå kontinuerlig for de yngste elevene.</p>
-    <p type="title">Kompetansemål i LK06-S</p>
-    <p>
-      <em type="italic">Kompetansemål etter 2. årstrinn </em>
-    </p>
-    <p>Skriftlig kommunikasjon</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <list>
-      <p type="listitem">dele ord i stavelser</p>
-    </list>
-    <p type="title">Læringsmål</p>
-    <p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å oppnå kompetansemålet.</p>
-    <p>Eleven skal kunne</p>
-    <list>
-      <p type="listitem">dele tostavelsesord og trestavelsesord i stavelser</p>
-      <p type="listitem">lytte ut lyder i stavelser</p>
-    </list>
-    <p type="title">Grunnleggende ferdigheter</p>
-    <p><em type="italic">Å kunne uttrykke seg muntlig </em>er her å lytte til ord og å gjengi dem. </p>
-    <p><em type="italic">Å kunne regne </em>i faget samisk er her å kunne telle stavelser. </p>
-    <p type="title">Forberedelser</p>
-    <p>Læreren lager på forhånd lapper med ord som elevene skal klippe opp i stavelser.</p>
-    <p type="title">Læringsaktiviteter</p>
-    <p type="title">1.  Klappe stavelsene i ord</p>
-    <p>Denne aktiviteten skal føre til at elevene forstår og kjenner at ord har flere stavelser.</p>
-    <p>Læreren viser først hvordan han eller hun deler et ord i stavelser ved å si et ord høyt og samtidig klappe stavelsene i ordet. Deretter kan elevene komme med forslag til ord som de klapper i stavelser. Pass på at det blir brukt ulike typer ord som substantiv, verb og adjektiv. Først kan elevene for eksempel begynne med navn, deretter hva de gjør, osv. Som variasjon kan elevene blant annet hoppe antall stavelser i ord.</p>
-    <p type="title">2. Klappe og telle stavelser</p>
-    <p>Når elevene kan klappe ord i stavelser, går de over til å klappe og telle stavelser samtidig. Bruk både to- og trestavelsesord, og etter hvert kan elevene eventuelt prøve seg på ord med flere stavelser. Det er viktig at elevene i tillegg får trening i å telle antall stavelser i enstavelsesord fordi disse ordene ikke er så vanlige.</p>
-    <p type="title">3. Klippe ord i stavelser</p>
-    <p>Skriv to- og trestavelsesord på lapper, og la elevene klippe ordene i stavelser.</p>
-    <p type="title">4. Klappe og telle antall vokaler</p>
-    <p>Dette forutsetter at elevene har lært å telle samtidig som de klapper, og at de gjenkjenner vokaler og diftonger. Elevene klapper stavelser i ord og forteller hvor mange stavelser ordet har. Deretter skriver læreren ordet på tavla. Så teller elevene antall vokaler. På samisk vil antall vokaler eller diftonger i et ord fortelle hvor mange stavelser ordet har. NB! Hver stavelse i et ord har vokaler eller diftonger. Derfor kan antall stavelser variere dersom en bøyer det.</p>
-    <p type="title">5. Lytte ut stavelsesgrensen i ordet</p>
-    <p>Når elevene klarer å telle antall stavelser i et ord, øver de på å lytte ut hver enkelt stavelse.</p>
-    <p>Deretter prøver elevene å lytte ut første og siste lyd i stavelsen. Til dette kan de bruke ørene, og de kan <span type="quote">“kjenne etter inne i munnen”</span> ved behov.</p>
-    <p>Læreren sier et ord høyt og sier deretter den første stavelsen i ordet. Alle lytter ut lyden denne stavelsen begynner med. Deretter lytter alle sammen ut den siste lyden i stavelsen. Det er en fordel å begynne med ord som har en stavelse som ender med en lyd som kan trekkes ut (kontinuant), for eksempel Mán-(nu). Når elevene klarer dette, kan de arbeide med den andre stavelsen. Det er lurt å presisere at elevene her bare skal konsentrere seg om den andre stavelsen, og gjøre det klart hva denne stavelsen er. Etter hvert lytter elevene også ut lydene inne i stavelsen.</p>
-    <p>Etter hvert som elevene blir fortrolige med denne teknikken, er det også lettere for dem å lytte ut stadievekslingene i forskjellige ord og eventuelt sammenligne med et minimalt par. Som eksempler på minimale par kan man bruke mánnu – mánu, guolli – guoli. En oversikt over noen minimale nordsamiske par finner man også i boka <span type="quote">“Hoahkat ja stoahkat”</span> av Kirsten Wirkola og Lisa Baal.</p>
-    <p>Etter hvert arbeider elevene videre med ord med andre stadievekslinger.</p>
-    <p>Dette arbeidet vil være til hjelp for rettskrivingen.</p>
-    <p type="title">6. Spill</p>
-    <p>Skriv ord på lapper, ett ord på hver lapp. Det skal være ord med både to og tre stavelser. Legg lappene på bordet med baksiden opp. En elev trekker to lapper. Poenget er at han eller hun skal finne par. Et par er to ord med samme antall stavelser. Hvis det ikke er funnet et par, legges lappene tilbake på bordet. Den eleven som har funnet flest par til slutt, har vunnet.</p>
-    <p type="title">Tilpasset opplæring</p>
-    <p>For mange elever kan det være en utfordring å skulle klappe og telle stavelser samtidig. Til å begynne med må de derfor få konsentrere seg om en ting av gangen. Det er også mulig rytmisk å rette opp en og en finger etter hvert som man sier ordet.</p>
-    <p>Elever som kan skrive, kan skrive ord i stavelser.</p>
-    <p>Dersom elevene bruker bøyde ord, bør de også si/skrive grunnformen.</p>
-    <p type="title">Vurdering</p>
-    <p>Måloppnåelse/mestringsnivå skal relateres til kompetansemålene - til ett eller til grupper av kompetansemål.</p>
-    <p>Det skal være kjent og tilgjengelig for eleven hva som blir vektlagt i vurderingen av hans eller hennes kompetanse.</p>
-    <p>Kompetansemål</p>
-    <p>
-      <em type="italic">Mål for opplæringen er at eleven skal kunne </em>
-    </p>
-    <p>Lav mål-oppnåelse</p>
-    <p>Middels mål-oppnåelse</p>
-    <p>Høy mål-oppnåelse</p>
-    <p>dele ord i stavelser</p>
-    <p>Eleven kan dele tostavelsesord i stavelser.</p>
-    <p>Eleven kan dele to- og trestavelsesord i stavelser.</p>
-    <p>Eleven kan dele ord med to, tre og flere stavelser i stavelser og gjenkjenne enstavelsesord.</p>
-    <p><em type="italic">Underveisvurdering </em>Elevene får muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi læringsfremmende tilbakemeldinger for å få elevene til å utvikle seg faglig. Det vil si at elevene må vite hva de mestrer, hva de skal arbeide mer med og hvordan de skal gjøre det. </p>
-    <p><em type="italic">Egenvurdering </em>I tillegg til underveisvurdering fra læreren kan elevene vurdere seg selv og hverandre. </p>
-    <p>Eksempel på egenvurderingsskjema:</p>
-    <p>Navn:</p>
-    <p>Dato:</p>
-    <p>
-      <em type="bold">Læringsmål </em>
-    </p>
-    <p>:</p>
-    <p>
-      <em type="bold">Dette kan jeg ikke godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Lærer </em>
-    </p>
-    <p>
-      <em type="bold">Dette kan jeg godt nok </em>
-    </p>
-    <p>
-      <em type="bold">Lærer </em>
-    </p>
-    <p>Jeg kan klappe stavelser.</p>
-    <p>Jeg kan telle stavelser.</p>
-    <p>Jeg kan klappe og telle stavelses samtidig.</p>
-    <p>Jeg kan klappe stavelser og fortelle hvor mange vokaler/diftonger det er i ordet.</p>
-    <p>Jeg kan lytte ut første lyd i en stavelse.</p>
-    <p>Jeg kan lytte ut siste lyd i en stavelse.</p>
-    <p>Jeg kan lytte ut alle lydene i en stavelse.</p>
-    <p type="title">Ressurser</p>
-    <p><em type="italic">Sørsamisk </em>: BULL, ELLA HOLM 1996: Jielije saemien. Voestes gærja. [Kautokeino:] Samisk Utdanningsråd. </p>
-    <p>BULL, ELLA HOLM 1998: Åarjel-saemien 1. Karasjok: Davvi Girji OS.</p>
-    <p>AAGÅRD, ANITA – LARSEN, TONE MARIE 2002: Baalka. Karasjok: Davvi Girji os.</p>
-    <p>BRANDSFJELL, HELEN BLIND - FJELLHEIM, MONA - NOODT, TRINE 2010: Gïeline goetsebe 1. Åarjelsaemien voestes jïh mubpiengïeline. Lohkemegærja. Oslo: Solum forlag</p>
-    <p><em type="italic">Nordsamisk </em>: WIRKOLA, KIRSTEN - BAAL, LISA 2000: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Guovdageaidnu]: Sámediggi </p>
-    <p>Boađe mu mielde: http://www.davvi.no/eGirji/580/580intro.php</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1161</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/2-arstrinn/Undervisningsopplegg-Arbei/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_5_undervisningsopplegg-arbeid.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_5_undervisningsopplegg-arbeid-med-stave.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_5_ahpadimgarvvidusbuojkulv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Undervisningsopplegg: Arbeid med stavelser</p>
+<p type="title">Undervisningsopplegg: Arbeid med stavelser</p>
+<p>Hovedinnhold</p>
+<p><em type="italic">Trinn </em>: 1. årstrinn </p>
+<p><em type="italic">Tema </em>: stavelser </p>
+<p><em type="italic">Tid </em>: fra en til to skoletimer </p>
+<p>Vis alle</p>
+<p type="title">Introduksjon</p>
+<p>Dette undervisningsopplegget er et eksempel på arbeidet med kompetansemål på 1. og 2. årstrinn. Kompetansemål konkretiseres i læringsmål, som er steg på veien mot å oppnå kompetansemålene. Undervisningsopplegget viser aktuelle arbeidsmåter, hvordan grunnleggende ferdigheter integreres og hvordan læreren tilpasser undervisningen til elevene og vurderer dem underveis. Elevenes vurdering av seg selv og hverandre inngår også.</p>
+<p>Dette eksempelet handler om å arbeide med stavelser. Elevene skal finne ut hvor mange stavelser ulike ord inneholder. Velg ord fra flere ordklasser, ikke bare substantiv. Det er spesielt viktig å jobbe med verb. Dette er et arbeid som må foregå kontinuerlig for de yngste elevene.</p>
+<p type="title">Kompetansemål i LK06-S</p>
+<p><em type="italic">Kompetansemål etter 2. årstrinn </em></p>
+<p>Skriftlig kommunikasjon</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<list><p type="listitem">dele ord i stavelser</p>
+</list><p type="title">Læringsmål</p>
+<p>Kompetansemålet er konkretisert i læringsmål, som er steg på veien mot å oppnå kompetansemålet.</p>
+<p>Eleven skal kunne</p>
+<list><p type="listitem">dele tostavelsesord og trestavelsesord i stavelser</p>
+<p type="listitem">lytte ut lyder i stavelser</p>
+</list><p type="title">Grunnleggende ferdigheter</p>
+<p><em type="italic">Å kunne uttrykke seg muntlig </em>er her å lytte til ord og å gjengi dem. </p>
+<p><em type="italic">Å kunne regne </em>i faget samisk er her å kunne telle stavelser. </p>
+<p type="title">Forberedelser</p>
+<p>Læreren lager på forhånd lapper med ord som elevene skal klippe opp i stavelser.</p>
+<p type="title">Læringsaktiviteter</p>
+<p type="title">1.  Klappe stavelsene i ord</p>
+<p>Denne aktiviteten skal føre til at elevene forstår og kjenner at ord har flere stavelser.</p>
+<p>Læreren viser først hvordan han eller hun deler et ord i stavelser ved å si et ord høyt og samtidig klappe stavelsene i ordet. Deretter kan elevene komme med forslag til ord som de klapper i stavelser. Pass på at det blir brukt ulike typer ord som substantiv, verb og adjektiv. Først kan elevene for eksempel begynne med navn, deretter hva de gjør, osv. Som variasjon kan elevene blant annet hoppe antall stavelser i ord.</p>
+<p type="title">2. Klappe og telle stavelser</p>
+<p>Når elevene kan klappe ord i stavelser, går de over til å klappe og telle stavelser samtidig. Bruk både to- og trestavelsesord, og etter hvert kan elevene eventuelt prøve seg på ord med flere stavelser. Det er viktig at elevene i tillegg får trening i å telle antall stavelser i enstavelsesord fordi disse ordene ikke er så vanlige.</p>
+<p type="title">3. Klippe ord i stavelser</p>
+<p>Skriv to- og trestavelsesord på lapper, og la elevene klippe ordene i stavelser.</p>
+<p type="title">4. Klappe og telle antall vokaler</p>
+<p>Dette forutsetter at elevene har lært å telle samtidig som de klapper, og at de gjenkjenner vokaler og diftonger. Elevene klapper stavelser i ord og forteller hvor mange stavelser ordet har. Deretter skriver læreren ordet på tavla. Så teller elevene antall vokaler. På samisk vil antall vokaler eller diftonger i et ord fortelle hvor mange stavelser ordet har. NB! Hver stavelse i et ord har vokaler eller diftonger. Derfor kan antall stavelser variere dersom en bøyer det.</p>
+<p type="title">5. Lytte ut stavelsesgrensen i ordet</p>
+<p>Når elevene klarer å telle antall stavelser i et ord, øver de på å lytte ut hver enkelt stavelse.</p>
+<p>Deretter prøver elevene å lytte ut første og siste lyd i stavelsen. Til dette kan de bruke ørene, og de kan <span type="quote">“kjenne etter inne i munnen”</span> ved behov.</p>
+<p>Læreren sier et ord høyt og sier deretter den første stavelsen i ordet. Alle lytter ut lyden denne stavelsen begynner med. Deretter lytter alle sammen ut den siste lyden i stavelsen. Det er en fordel å begynne med ord som har en stavelse som ender med en lyd som kan trekkes ut (kontinuant), for eksempel Mán-(nu). Når elevene klarer dette, kan de arbeide med den andre stavelsen. Det er lurt å presisere at elevene her bare skal konsentrere seg om den andre stavelsen, og gjøre det klart hva denne stavelsen er. Etter hvert lytter elevene også ut lydene inne i stavelsen.</p>
+<p>Etter hvert som elevene blir fortrolige med denne teknikken, er det også lettere for dem å lytte ut stadievekslingene i forskjellige ord og eventuelt sammenligne med et minimalt par. Som eksempler på minimale par kan man bruke mánnu – mánu, guolli – guoli. En oversikt over noen minimale nordsamiske par finner man også i boka <span type="quote">“Hoahkat ja stoahkat”</span> av Kirsten Wirkola og Lisa Baal.</p>
+<p>Etter hvert arbeider elevene videre med ord med andre stadievekslinger.</p>
+<p>Dette arbeidet vil være til hjelp for rettskrivingen.</p>
+<p type="title">6. Spill</p>
+<p>Skriv ord på lapper, ett ord på hver lapp. Det skal være ord med både to og tre stavelser. Legg lappene på bordet med baksiden opp. En elev trekker to lapper. Poenget er at han eller hun skal finne par. Et par er to ord med samme antall stavelser. Hvis det ikke er funnet et par, legges lappene tilbake på bordet. Den eleven som har funnet flest par til slutt, har vunnet.</p>
+<p type="title">Tilpasset opplæring</p>
+<p>For mange elever kan det være en utfordring å skulle klappe og telle stavelser samtidig. Til å begynne med må de derfor få konsentrere seg om en ting av gangen. Det er også mulig rytmisk å rette opp en og en finger etter hvert som man sier ordet.</p>
+<p>Elever som kan skrive, kan skrive ord i stavelser.</p>
+<p>Dersom elevene bruker bøyde ord, bør de også si/skrive grunnformen.</p>
+<p type="title">Vurdering</p>
+<p>Måloppnåelse/mestringsnivå skal relateres til kompetansemålene - til ett eller til grupper av kompetansemål.</p>
+<p>Det skal være kjent og tilgjengelig for eleven hva som blir vektlagt i vurderingen av hans eller hennes kompetanse.</p>
+<p>Kompetansemål</p>
+<p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
+<p>Lav mål-oppnåelse</p>
+<p>Middels mål-oppnåelse</p>
+<p>Høy mål-oppnåelse</p>
+<p>dele ord i stavelser</p>
+<p>Eleven kan dele tostavelsesord i stavelser.</p>
+<p>Eleven kan dele to- og trestavelsesord i stavelser.</p>
+<p>Eleven kan dele ord med to, tre og flere stavelser i stavelser og gjenkjenne enstavelsesord.</p>
+<p><em type="italic">Underveisvurdering </em>Elevene får muntlig og/eller skriftlig underveisvurdering. Ta utgangspunkt i læringsmålene. Det er viktig å gi læringsfremmende tilbakemeldinger for å få elevene til å utvikle seg faglig. Det vil si at elevene må vite hva de mestrer, hva de skal arbeide mer med og hvordan de skal gjøre det. </p>
+<p><em type="italic">Egenvurdering </em>I tillegg til underveisvurdering fra læreren kan elevene vurdere seg selv og hverandre. </p>
+<p>Eksempel på egenvurderingsskjema:</p>
+<p>Navn:</p>
+<p>Dato:</p>
+<p><em type="bold">Læringsmål </em></p>
+<p>:</p>
+<p><em type="bold">Dette kan jeg ikke godt nok </em></p>
+<p><em type="bold">Lærer </em></p>
+<p><em type="bold">Dette kan jeg godt nok </em></p>
+<p><em type="bold">Lærer </em></p>
+<p>Jeg kan klappe stavelser.</p>
+<p>Jeg kan telle stavelser.</p>
+<p>Jeg kan klappe og telle stavelses samtidig.</p>
+<p>Jeg kan klappe stavelser og fortelle hvor mange vokaler/diftonger det er i ordet.</p>
+<p>Jeg kan lytte ut første lyd i en stavelse.</p>
+<p>Jeg kan lytte ut siste lyd i en stavelse.</p>
+<p>Jeg kan lytte ut alle lydene i en stavelse.</p>
+<p type="title">Ressurser</p>
+<p><em type="italic">Sørsamisk </em>: BULL, ELLA HOLM 1996: Jielije saemien. Voestes gærja. [Kautokeino:] Samisk Utdanningsråd. </p>
+<p>BULL, ELLA HOLM 1998: Åarjel-saemien 1. Karasjok: Davvi Girji OS.</p>
+<p>AAGÅRD, ANITA – LARSEN, TONE MARIE 2002: Baalka. Karasjok: Davvi Girji os.</p>
+<p>BRANDSFJELL, HELEN BLIND - FJELLHEIM, MONA - NOODT, TRINE 2010: Gïeline goetsebe 1. Åarjelsaemien voestes jïh mubpiengïeline. Lohkemegærja. Oslo: Solum forlag</p>
+<p><em type="italic">Nordsamisk </em>: WIRKOLA, KIRSTEN - BAAL, LISA 2000: Hoahkat ja stoahkat. Rávvagat mo sámegielain bargat 1. luohkás. [Guovdageaidnu]: Sámediggi </p>
+<p>Boađe mu mielde: http://www.davvi.no/eGirji/580/580intro.php</p>
+</body></document>

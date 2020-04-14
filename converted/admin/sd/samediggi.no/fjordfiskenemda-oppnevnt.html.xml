@@ -1,77 +1,34 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>286</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Marine-naeringer/Fjordfiskenemda-oppnevnt</origFileName>
-    <parallel_text xml:lang="sma" location="fjovlegoeoelememoenehtse-nammoehtamme.html"/>
-    <parallel_text xml:lang="sme" location="vuotnaguolastuslavdegoddi-nammaduvvon.html"/>
-    <parallel_text xml:lang="smj" location="vuodnaguollimnammadus-nammaduvvam.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Fjordfiskenemda oppnevnt / Marine næringer / Næringer / Forsiden - Sametinget</p>
-    <p type="title">Fjordfiskenemda oppnevnt</p>
-    <p xml:lang="sme">30. januar 2014</p>
-    <p>Finnmark, Troms og Nordland fylkeskommune og Sametinget oppnevnte i dag sine medlemmer til Fjordfiskenemnda.</p>
-    <p>
-      <em type="bold">- Vi er veldig fornøyd med sammensetningen i Fjordfiskenemnda. En sammensetning vi har oppnådd gjennom mange innspill og et godt samråd med hverandre, sier fylkesordfører i Finnmark Runar Sjåstad, fylkesråd i Troms Line Miriam Sandberg, fylkesråd i Nordland Arve Knutsen og sametingsråd Silje Muotka i Sametinget. </em>
-    </p>
-    <p>Fjordfiskenemnda skal styrke forvaltningen av fjordfiskeriene med særlig vekt på samisk bruk. Den skal arbeide med saker som fiskereguleringer, tiltak for å styrke kyst- og fjordfiske, plassering av fjordlinjer, samt størrelse og fordeling på tilleggskvantum for torsk i åpen gruppe.</p>
-    <p>- Fjordfiskenemndas medlemmer representerer enkeltvis og samlet en god og viktig kompetanse om fiske, forvaltning og samfunn. Vi har derfor stor tro på at Fjordfiskenemnda vil gi et viktig bidrag for en positiv utvikling av kyst- og fjordfiske i nord, avslutter Sjåstad, Sandberg, Knutsen og Muotka.</p>
-    <p>Fjordfiskenemndas medlemmer oppnevnes for inntil to år av gangen og de velger selv leder. Fiskeridirektoratets regionkontor i Finnmark har sekretariatsfunksjonen.</p>
-    <p>
-      <em type="bold">Kontaktinformasjon </em>
-    </p>
-    <list>
-      <p type="listitem" xml:lang="sme">Sametingsråd Silje Karine Muotka, Sametinget, tlf. 984 87 576</p>
-      <p type="listitem">Fylkesordfører Runar Sjåstad, Finnmark fylkeskommune, tlf. 415 52 985</p>
-      <p type="listitem">Fylkesråd Line Miriam Sandberg, Troms fylkeskommune, tlf. 911 30 242</p>
-      <p type="listitem">Fylkesråd Arve Knutsen, Nordland fylkeskommune, tlf. 952 97 148</p>
-    </list>
-    <p>
-      <em type="bold">Medlemmer i fjordfiskenemda </em>
-    </p>
-    <p>
-      <em type="bold">Oppnevnt av: </em>
-    </p>
-    <p>
-      <em type="bold">Medlemmer </em>
-    </p>
-    <p>
-      <em type="bold">Varamedlemmer </em>
-    </p>
-    <p>Finnmark fylkeskommune</p>
-    <p>Tomas Sagen (47), Lebesby</p>
-    <p>Bernt Wilhelmsen (63), Porsanger</p>
-    <p>Troms fylkeskommune</p>
-    <p>Jorhill Andreassen (65), Lenvik</p>
-    <p>Knut Werner Hansen (62), Karlsøy</p>
-    <p>Nordland fylkeskommune</p>
-    <p>Mikal Steffensen (34), Øksnes</p>
-    <p>Mona Gilstad (54), Vega</p>
-    <p>Sametinget</p>
-    <p>Tone Joakime Nilsen (32), Gamvik</p>
-    <p>Trond-Einar Karlsen (52), Alta</p>
-    <p>Geir Tommy Pedersen (49), Kåfjord</p>
-    <p>Ragnhild Sandøy (60), Tromsø</p>
-    <p>Bente Aasjord (54), Steigen</p>
-    <p xml:lang="sme">Ragnhild Melleby Aslaksen (51), Vadsø</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>286</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Marine-naeringer/Fjordfiskenemda-oppnevnt</origFileName><parallel_text xml:lang="sma" location="fjovlegoeoelememoenehtse-nammoehtamme.html"/><parallel_text xml:lang="sme" location="vuotnaguolastuslavdegoddi-nammaduvvon.html"/><parallel_text xml:lang="smj" location="vuodnaguollimnammadus-nammaduvvam.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Fjordfiskenemda oppnevnt / Marine næringer / Næringer / Forsiden - Sametinget</p>
+<p type="title">Fjordfiskenemda oppnevnt</p>
+<p xml:lang="sme">30. januar 2014</p>
+<p>Finnmark, Troms og Nordland fylkeskommune og Sametinget oppnevnte i dag sine medlemmer til Fjordfiskenemnda.</p>
+<p><em type="bold">- Vi er veldig fornøyd med sammensetningen i Fjordfiskenemnda. En sammensetning vi har oppnådd gjennom mange innspill og et godt samråd med hverandre, sier fylkesordfører i Finnmark Runar Sjåstad, fylkesråd i Troms Line Miriam Sandberg, fylkesråd i Nordland Arve Knutsen og sametingsråd Silje Muotka i Sametinget. </em></p>
+<p>Fjordfiskenemnda skal styrke forvaltningen av fjordfiskeriene med særlig vekt på samisk bruk. Den skal arbeide med saker som fiskereguleringer, tiltak for å styrke kyst- og fjordfiske, plassering av fjordlinjer, samt størrelse og fordeling på tilleggskvantum for torsk i åpen gruppe.</p>
+<p>- Fjordfiskenemndas medlemmer representerer enkeltvis og samlet en god og viktig kompetanse om fiske, forvaltning og samfunn. Vi har derfor stor tro på at Fjordfiskenemnda vil gi et viktig bidrag for en positiv utvikling av kyst- og fjordfiske i nord, avslutter Sjåstad, Sandberg, Knutsen og Muotka.</p>
+<p>Fjordfiskenemndas medlemmer oppnevnes for inntil to år av gangen og de velger selv leder. Fiskeridirektoratets regionkontor i Finnmark har sekretariatsfunksjonen.</p>
+<p><em type="bold">Kontaktinformasjon </em></p>
+<list><p type="listitem" xml:lang="sme">Sametingsråd Silje Karine Muotka, Sametinget, tlf. 984 87 576</p>
+<p type="listitem">Fylkesordfører Runar Sjåstad, Finnmark fylkeskommune, tlf. 415 52 985</p>
+<p type="listitem">Fylkesråd Line Miriam Sandberg, Troms fylkeskommune, tlf. 911 30 242</p>
+<p type="listitem">Fylkesråd Arve Knutsen, Nordland fylkeskommune, tlf. 952 97 148</p>
+</list><p><em type="bold">Medlemmer i fjordfiskenemda </em></p>
+<p><em type="bold">Oppnevnt av: </em></p>
+<p><em type="bold">Medlemmer </em></p>
+<p><em type="bold">Varamedlemmer </em></p>
+<p>Finnmark fylkeskommune</p>
+<p>Tomas Sagen (47), Lebesby</p>
+<p>Bernt Wilhelmsen (63), Porsanger</p>
+<p>Troms fylkeskommune</p>
+<p>Jorhill Andreassen (65), Lenvik</p>
+<p>Knut Werner Hansen (62), Karlsøy</p>
+<p>Nordland fylkeskommune</p>
+<p>Mikal Steffensen (34), Øksnes</p>
+<p>Mona Gilstad (54), Vega</p>
+<p>Sametinget</p>
+<p>Tone Joakime Nilsen (32), Gamvik</p>
+<p>Trond-Einar Karlsen (52), Alta</p>
+<p>Geir Tommy Pedersen (49), Kåfjord</p>
+<p>Ragnhild Sandøy (60), Tromsø</p>
+<p>Bente Aasjord (54), Steigen</p>
+<p xml:lang="sme">Ragnhild Melleby Aslaksen (51), Vadsø</p>
+</body></document>

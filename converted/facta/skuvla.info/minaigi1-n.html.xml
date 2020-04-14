@@ -1,95 +1,52 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="sme"/>
-    <year>2007</year>
-    <wordcount>1571</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi1-n.htm</origFileName>
-    <parallel_text xml:lang="eng" location="minaigi1-e.html"/>
-    <parallel_text xml:lang="sme" location="minaigi1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hvorfor samisk skolehistorie?</p>
-    <p xml:lang="nno"/>
-    <p xml:lang="sme">Sámegillii In English Po polsku</p>
-    <p xml:lang="nno">Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie 1. del - trykt i Min Áigi 28.09.2007</p>
-    <p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
-    <p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet <em type="italic">Samisk skolehistorie </em>har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen. </p>
-    <p>Dette har vi etterhvert redigert og gitt ut som seks bøker fra 2005 til 2013. Fortellingene og artiklene er også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
-    <p>Etter hvert som bøkene har kommet ut har vi laget avisartikler med noen brokker av denne historia. Det har vi gjort emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
-    <p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
-    <p type="title">Hvorfor Samisk skolehistorie?</p>
-    <p>Samisk skolehistorie er en svært spesiell del av Norges og Nordens historie. Skolen har gjennom århundrer vært myndighetenes redskap til å gjøre samene kristne og norske. Skolen har ofte blitt gjennomført på en slik måte at man må kalle det en forbrytelse og mange har lidd på mange måter på grunn av norske skoler.</p>
-    <p>Sjøl om det er skrevet ganske mye om hvordan myndighetenes politikk er endra gjennom tidene, er det skrevet lite om hvordan den virkelige situasjonen har vært i skolene, hva elever, lærere, foreldre og internatansatte har opplevd. Lite er også skrevet om motstanden mot myndighetenes skolepolitikk og kampen som til slutt førte til at samisk språk og kultur fikk en plass i skolen.</p>
-    <p>Når jeg sjøl har møtt samiske skoler som elev, student og lærer, har jeg oppdaga hvor lite kunnskap det har vært om samisk skolehistorie, både blant elever og lærere. Og jeg har erfart hvor vanskelig det har vært å finne informasjon. Så har jeg begynt å spørre hvorfor og oppdaga en mulig årsak til dette; skolen har vært så tung for mange at de ikke har orka å fortelle om den.</p>
-    <p xml:lang="nno">
-      <em type="bold">Måltid på internatet til Sameskolen for Midt-Norge, 1953 </em>
-    </p>
-    <p xml:lang="nno">(Foto: Sigrid Bergli Sørnes)</p>
-    <p>
-      <em type="bold">Skolebarn i Sirma først på 1950-tallet. </em>
-    </p>
-    <p xml:lang="nno">(Foto: Ivar Skotte)</p>
-    <p>I første artikkelen i Samisk skolehistorie 1 forklarer Henry Minde slik hvorfor det har vært så lite fortellinger om fornorskinga: <em type="italic">"Vanligvis forteller folk mange historier fra deres skoletid. Men fra de samiske miljøene har slike fortellinger og opplysninger hittil vært en mangelvare eller så har de vært overfladiske og kortfattede. Det er all grunn til å tro at denne forskjellen skyldes en fortrengt skam over erfaringer og episoder som mange samer har fra sin egen skoletid. " </em>( Henry Mindes artikkel, SSH-1) </p>
-    <p>Med denne bokserien vil vi forsøke å gjøre noe med denne mangelen. Når vi har bedt folk å fortelle, har vi ofte møtt på liknende reaksjoner som de Henry Minde viser til. Noen har sagt at deres skoletid har vært så vanskelig at de ikke orker verken å minnes eller fortelle. Andre har sagt at de forteller bare dersom de kan gjøre det anonymt eller dersom de får drikke ei flaske vin først. Slike fortellinger er ikke med i denne bokserien. Vi har bare fortellinger med navn og bilde, og der fortelleren har vært edru. Det kan bety at vi ikke har fått de verste historiene, og at virkeligheten har vært ennå verre enn det bildet vi gir i disse bøkene. Likevel tror jeg at vi har klart å få det ganske klart fram at han hadde rett den unge lærerene som på 1950-tallet skreiv i brev til foreldrene sine: <em type="italic">"På skolen går det heller smått, men det går da. Stakkars unger som ikke har lærere som snakker deres eget språk. Det er en forbrytelse mot dem.." </em>( Marit Auberts fortelling, SSH-1) </p>
-    <p>Samenes vonde opplevelser på skolen kan også være en av årsakene til at de, som til nå har skrevet mest om samisk skolehistorie, er folk som har hatt annen bakgrunn, som ikke sjøl har lidd på grunn av den språklig og kulturelt fremmede skolen. Sjøl hører jeg også til den gruppa, og jeg hadde gjennomført 13 års opplæring på mitt eget morsmål før jeg kom til Sameland og så hvor mye dårligere forhold samer på min alder hadde hatt, som hadde gjennomført en skole der morsmålet var forbudt.</p>
-    <p>Da jeg begynte å lese pedagogikk fikk jeg lyst til å undersøke denne historia, hva hadde hendt og hvorfor, og hvordan skolen hadde påvirka elever, lærere og samfunnet. Jeg søkte etter andre med samme interesse og sammen med et par samiske tidligere lærere laga vi en redaksjonskomite og begynte å samle fortellinger som etterhvert blir utgitt i bokform.</p>
-    <p>Denne gangen vil vi bringe ei hel fortelling fra Porsanger. Det er nå avdøde Hans Hansen som forteller. Han har fortalt til Hanna Hansen, som har skrevet det ut i diktform.</p>
-    <p type="title">Hans Hansens skolefortelling</p>
-    <p>
-      <em type="bold">Hans Hansen som delegat på møte i Norske Samers Riksforbund, Kåfjord 1986. </em>
-    </p>
-    <p xml:lang="nno">(Foto: Svein Lund)</p>
-    <p>
-      <em type="italic">Lenge før jeg begynte på skolen visste jeg at vi ikke var så gode og kloke som dem i trøye, frakk og sko. </em>
-    </p>
-    <p>Faren min fulgte meg til skolen første dagen. Vi gikk etter landeveien de fem kilometerne. Jeg var koftekledd. De fleste var det den gangen. Vi fikk bibelhistorie og katekisme med oss hjem – på norsk.</p>
-    <p>Lensmannen og skatteoppkreveren hadde jeg hørt snakke norsk. Mer visste jeg ikke om det norske språk før jeg begynte på skolen.</p>
-    <p xml:lang="nno">Læreren vår kunne samisk og finsk. Han hadde lært på skolen i Lakselv. Da han gikk hadde de dobbeltspråklige lærebøker. Samisk og norsk. Han snakka samisk med oss både ute og inne, men måtte lære oss å lese på norsk.</p>
-    <p>
-      <em type="bold">Kolvik skole 1929. </em>
-    </p>
-    <p>(Kilde: Porsanger bygdebok 2 - s. 135)</p>
-    <p>Vi lærte niogtyve bokstaver fra det norske alfabetet. Å sette bokstavene sammen til ord var vanskelig. Vi lærte tall. Fire og fem, sa læreren. Vanskelig å skjønne hva det betydde. Læreren forklarte at det var njeallje og vihtta. Da skjønte vi.</p>
-    <p>Vi skrev med griffel på steintavler. Spøtta på tavla og viska vekk med koftearmen. Men visste ikke hva vi skrev.</p>
-    <p>Leste mange bøker – norske bøker i geografi og naturfag. Skjønte hva læreren spurte om, men kunne ikke svare. Kunne ikke snakke og forklare.</p>
-    <p>Noen barn skjønte ingenting. De fikk straff. Måtte stå hele timen.</p>
-    <p>Jeg var heldig. Læreren brukte samisk for å forklare meg. Kanskje han så at jeg hadde talenter for å lære, selv om jeg ikke kunne språket.</p>
-    <p>Toognitti uker har jeg gått på skolen. I seksogførti av de ukene forsto jeg ikke mye av hva læreren sa. Videre skolegang var for noen få. Noen kom på landbruksskolen, noen på folkehøgskole.</p>
-    <p>
-      <em type="bold">Fra Porsanger </em>
-    </p>
-    <p xml:lang="nno">(Foto: Hanna H. Hansen)</p>
-    <p>Vi andre fortsatte å leve som vi hadde gjort. Det vi hadde med oss fra skolen var mindreverdighetsfølelsen. Overalt i samfunnslivet ble det snakket norsk. For oss var det vanskelig. Vi klarte ikke å uttrykke oss. Samtidig skulle vi adlyde øvrigheta som snakka til oss på norsk.</p>
-    <p>Når vi ikke klarte mer begynte de å snakke om at vi måtte være saklig og behersket. Det var ikke så lett å skjønne hva de mente med det. Etter hvert skjønte jeg at de forlangte av oss det de sjøl mangla: saklighet og beherskelse. Da følte jeg meg ikke mindreverdig lenger.</p>
-    <p>De kan ha fine stillinger, vinkler eller stjerner. Det gjør ingen forskjell for meg. Jeg snakker til mennesker, ikke til stillinger eller stjerner.</p>
-    <p xml:lang="nno">
-      <em type="bold">Hans Hansen bøter garn. </em>
-    </p>
-    <p xml:lang="nno">(Foto: Arvid Petterson /Porsanger bygdebok)</p>
-    <p>Søringene er ikke de verste. De verste er blant våre egne. Mange kom hit fra andre steder. Her kunne de skjule at de var samer. Den utveien fantes for de som kunne litt norsk. På den måten kom de seg til bedre stillinger.</p>
-    <p xml:lang="nno">Jeg har aldri prøvd å skjule meg. Har ikke hatt forstand til det.</p>
-    <p>Den som skjærer av sine røtter vokser ikke mer.</p>
-    <p>Her finner du alle artiklene i serien:</p>
-    <p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden 11.05.2013 Samisk språk forbudt? 18.05.2013 Samisk språk forbudt? – 2 25.05.2013 Folkehøgskole for fornorsking .06.2013 Folkehøgskole mot fornorsking? .06.2013 Skoltesamisk skolehistorie – finnes den? .06.2013 Duodjiutdanning – i og utafor skolen .06.2013 Samisk i byene .07.2013 Samisk i lærerutdanninga</p>
-    <p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie 6 Samisk skolehistorie - hovedside</p>
-    <p xml:lang="nno">Skriv til vevmesteren</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></translator><translated_from xml:lang="sme"/><year>2007</year><wordcount>1571</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi1-n.htm</origFileName><parallel_text xml:lang="eng" location="minaigi1-e.html"/><parallel_text xml:lang="sme" location="minaigi1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hvorfor samisk skolehistorie?</p>
+<p xml:lang="swe"/>
+<p xml:lang="sme">Sámegillii In English Po polsku</p>
+<p xml:lang="nno">Artikkelserie i Min Áigi / Ávvir om samisk skolehistorie 1. del - trykt i Min Áigi 28.09.2007</p>
+<p type="title" xml:lang="nno">Kjenner du samisk skolehistorie?</p>
+<p>Gjennom 300 år har samiske elever gått gjennom det norske utdanningssystemet på godt og vondt. I prosjektet <em type="italic">Samisk skolehistorie </em>har vi samla fortellinger om hva elevene har opplevd i skole og internat og hvordan foreldrene og lærerne deres har opplevd denne skolen. Samtidig har vi leita etter gamle dokumenter i arkiv og bibliotek, som kan vise utviklinga av skoletilbudet og striden om innhold og språk i skolen. </p>
+<p>Dette har vi etterhvert redigert og gitt ut som seks bøker fra 2005 til 2013. Fortellingene og artiklene er også på internett: http://skuvla.info . Der er også mange artikler som ikke har fått plass i bøkene.</p>
+<p>Etter hvert som bøkene har kommet ut har vi laget avisartikler med noen brokker av denne historia. Det har vi gjort emnevis, f. eks. internatliv, reindriftsopplæring osv. Her er mange sitater fra bøker og bokmanus, og vi viser til de bøkene det er tatt fra (SSH-1, SSH-2 osv.), slik at dere som ønsker det kan lese hele fortellingene der.</p>
+<p>Hovedredaktør Svein Lund har redigert denne artikkelserien. Ellers er disse med i redaksjonen: Elfrid Boine, Siri Broch Johansen og Siv Rasmussen.</p>
+<p type="title">Hvorfor Samisk skolehistorie?</p>
+<p>Samisk skolehistorie er en svært spesiell del av Norges og Nordens historie. Skolen har gjennom århundrer vært myndighetenes redskap til å gjøre samene kristne og norske. Skolen har ofte blitt gjennomført på en slik måte at man må kalle det en forbrytelse og mange har lidd på mange måter på grunn av norske skoler.</p>
+<p>Sjøl om det er skrevet ganske mye om hvordan myndighetenes politikk er endra gjennom tidene, er det skrevet lite om hvordan den virkelige situasjonen har vært i skolene, hva elever, lærere, foreldre og internatansatte har opplevd. Lite er også skrevet om motstanden mot myndighetenes skolepolitikk og kampen som til slutt førte til at samisk språk og kultur fikk en plass i skolen.</p>
+<p>Når jeg sjøl har møtt samiske skoler som elev, student og lærer, har jeg oppdaga hvor lite kunnskap det har vært om samisk skolehistorie, både blant elever og lærere. Og jeg har erfart hvor vanskelig det har vært å finne informasjon. Så har jeg begynt å spørre hvorfor og oppdaga en mulig årsak til dette; skolen har vært så tung for mange at de ikke har orka å fortelle om den.</p>
+<p xml:lang="nno"><em type="bold">Måltid på internatet til Sameskolen for Midt-Norge, 1953 </em></p>
+<p xml:lang="nno">(Foto: Sigrid Bergli Sørnes)</p>
+<p><em type="bold">Skolebarn i Sirma først på 1950-tallet. </em></p>
+<p xml:lang="nno">(Foto: Ivar Skotte)</p>
+<p>I første artikkelen i Samisk skolehistorie 1 forklarer Henry Minde slik hvorfor det har vært så lite fortellinger om fornorskinga: <em type="italic">"Vanligvis forteller folk mange historier fra deres skoletid. Men fra de samiske miljøene har slike fortellinger og opplysninger hittil vært en mangelvare eller så har de vært overfladiske og kortfattede. Det er all grunn til å tro at denne forskjellen skyldes en fortrengt skam over erfaringer og episoder som mange samer har fra sin egen skoletid. " </em>( Henry Mindes artikkel, SSH-1) </p>
+<p>Med denne bokserien vil vi forsøke å gjøre noe med denne mangelen. Når vi har bedt folk å fortelle, har vi ofte møtt på liknende reaksjoner som de Henry Minde viser til. Noen har sagt at deres skoletid har vært så vanskelig at de ikke orker verken å minnes eller fortelle. Andre har sagt at de forteller bare dersom de kan gjøre det anonymt eller dersom de får drikke ei flaske vin først. Slike fortellinger er ikke med i denne bokserien. Vi har bare fortellinger med navn og bilde, og der fortelleren har vært edru. Det kan bety at vi ikke har fått de verste historiene, og at virkeligheten har vært ennå verre enn det bildet vi gir i disse bøkene. Likevel tror jeg at vi har klart å få det ganske klart fram at han hadde rett den unge lærerene som på 1950-tallet skreiv i brev til foreldrene sine: <em type="italic">"På skolen går det heller smått, men det går da. Stakkars unger som ikke har lærere som snakker deres eget språk. Det er en forbrytelse mot dem.." </em>( Marit Auberts fortelling, SSH-1) </p>
+<p>Samenes vonde opplevelser på skolen kan også være en av årsakene til at de, som til nå har skrevet mest om samisk skolehistorie, er folk som har hatt annen bakgrunn, som ikke sjøl har lidd på grunn av den språklig og kulturelt fremmede skolen. Sjøl hører jeg også til den gruppa, og jeg hadde gjennomført 13 års opplæring på mitt eget morsmål før jeg kom til Sameland og så hvor mye dårligere forhold samer på min alder hadde hatt, som hadde gjennomført en skole der morsmålet var forbudt.</p>
+<p>Da jeg begynte å lese pedagogikk fikk jeg lyst til å undersøke denne historia, hva hadde hendt og hvorfor, og hvordan skolen hadde påvirka elever, lærere og samfunnet. Jeg søkte etter andre med samme interesse og sammen med et par samiske tidligere lærere laga vi en redaksjonskomite og begynte å samle fortellinger som etterhvert blir utgitt i bokform.</p>
+<p>Denne gangen vil vi bringe ei hel fortelling fra Porsanger. Det er nå avdøde Hans Hansen som forteller. Han har fortalt til Hanna Hansen, som har skrevet det ut i diktform.</p>
+<p type="title">Hans Hansens skolefortelling</p>
+<p><em type="bold">Hans Hansen som delegat på møte i Norske Samers Riksforbund, Kåfjord 1986. </em></p>
+<p xml:lang="nno">(Foto: Svein Lund)</p>
+<p><em type="italic">Lenge før jeg begynte på skolen visste jeg at vi ikke var så gode og kloke som dem i trøye, frakk og sko. </em></p>
+<p>Faren min fulgte meg til skolen første dagen. Vi gikk etter landeveien de fem kilometerne. Jeg var koftekledd. De fleste var det den gangen. Vi fikk bibelhistorie og katekisme med oss hjem – på norsk.</p>
+<p>Lensmannen og skatteoppkreveren hadde jeg hørt snakke norsk. Mer visste jeg ikke om det norske språk før jeg begynte på skolen.</p>
+<p xml:lang="nno">Læreren vår kunne samisk og finsk. Han hadde lært på skolen i Lakselv. Da han gikk hadde de dobbeltspråklige lærebøker. Samisk og norsk. Han snakka samisk med oss både ute og inne, men måtte lære oss å lese på norsk.</p>
+<p><em type="bold">Kolvik skole 1929. </em></p>
+<p>(Kilde: Porsanger bygdebok 2 - s. 135)</p>
+<p>Vi lærte niogtyve bokstaver fra det norske alfabetet. Å sette bokstavene sammen til ord var vanskelig. Vi lærte tall. Fire og fem, sa læreren. Vanskelig å skjønne hva det betydde. Læreren forklarte at det var njeallje og vihtta. Da skjønte vi.</p>
+<p>Vi skrev med griffel på steintavler. Spøtta på tavla og viska vekk med koftearmen. Men visste ikke hva vi skrev.</p>
+<p>Leste mange bøker – norske bøker i geografi og naturfag. Skjønte hva læreren spurte om, men kunne ikke svare. Kunne ikke snakke og forklare.</p>
+<p>Noen barn skjønte ingenting. De fikk straff. Måtte stå hele timen.</p>
+<p>Jeg var heldig. Læreren brukte samisk for å forklare meg. Kanskje han så at jeg hadde talenter for å lære, selv om jeg ikke kunne språket.</p>
+<p>Toognitti uker har jeg gått på skolen. I seksogførti av de ukene forsto jeg ikke mye av hva læreren sa. Videre skolegang var for noen få. Noen kom på landbruksskolen, noen på folkehøgskole.</p>
+<p><em type="bold">Fra Porsanger </em></p>
+<p xml:lang="nno">(Foto: Hanna H. Hansen)</p>
+<p>Vi andre fortsatte å leve som vi hadde gjort. Det vi hadde med oss fra skolen var mindreverdighetsfølelsen. Overalt i samfunnslivet ble det snakket norsk. For oss var det vanskelig. Vi klarte ikke å uttrykke oss. Samtidig skulle vi adlyde øvrigheta som snakka til oss på norsk.</p>
+<p>Når vi ikke klarte mer begynte de å snakke om at vi måtte være saklig og behersket. Det var ikke så lett å skjønne hva de mente med det. Etter hvert skjønte jeg at de forlangte av oss det de sjøl mangla: saklighet og beherskelse. Da følte jeg meg ikke mindreverdig lenger.</p>
+<p>De kan ha fine stillinger, vinkler eller stjerner. Det gjør ingen forskjell for meg. Jeg snakker til mennesker, ikke til stillinger eller stjerner.</p>
+<p xml:lang="nno"><em type="bold">Hans Hansen bøter garn. </em></p>
+<p xml:lang="nno">(Foto: Arvid Petterson /Porsanger bygdebok)</p>
+<p>Søringene er ikke de verste. De verste er blant våre egne. Mange kom hit fra andre steder. Her kunne de skjule at de var samer. Den utveien fantes for de som kunne litt norsk. På den måten kom de seg til bedre stillinger.</p>
+<p xml:lang="nno">Jeg har aldri prøvd å skjule meg. Har ikke hatt forstand til det.</p>
+<p>Den som skjærer av sine røtter vokser ikke mer.</p>
+<p>Her finner du alle artiklene i serien:</p>
+<p>28.09.2007 Hvorfor samisk skolehistorie? 05.10.2007 Grenseløs uvitenhet 12.10.2007 Søringelærernes møte med samisk språk 19.10.2007 Starten på samisk begynneropplæring 26.10.2007 Starten på reindriftsopplæringa 02.11.2007 Fra samisk til norsk yrkesopplæring 16.11.2007 Kamp for samisk gymnas 28.11.2007 Norskspråklige samers skoleopplevelser 14.12.2007 Motstand mot samisk språk og kultur 25.01.2008 Fremmed verden 23.05.2009 Om samiske lærere 30.05.2009 Internatliv 06.06.2009 Samiske elever plaga 13.06.2009 Samisk innhold i undervisninga 20.06.2009 Elev som tolk 04.07.2009 Hvordan barna slutta å snakke samisk 10.09.2010 Gud forstår ikke samisk 08.10.2010 Fornorskernes synspunkter 13.10.2010 Kirkefolk forsvarer samisk språk 02.12.2010 Samiske lærere i gammel tid 09.12.2010 Internatliv i gamle dager 18.12.2010 Samiske elever på spesialskoler 14.01.2012 Foreldrenes kamp for samiskopplæring 21.01.2012 Motvilje og fravær 28.01.2012 Skolen under krigen 04.02.2012 Gjenreising og brakkeskoler 11.02.2012 Læreplaner - for fornorsking og for samisk skole 18.02.2012 Den store læreplanstriden 11.05.2013 Samisk språk forbudt? 18.05.2013 Samisk språk forbudt? – 2 25.05.2013 Folkehøgskole for fornorsking .06.2013 Folkehøgskole mot fornorsking? .06.2013 Skoltesamisk skolehistorie – finnes den? .06.2013 Duodjiutdanning – i og utafor skolen .06.2013 Samisk i byene .07.2013 Samisk i lærerutdanninga</p>
+<p xml:lang="nno">Samisk skolehistorie 1 Samisk skolehistorie 2 Samisk skolehistorie 3 Samisk skolehistorie 4 Samisk skolehistorie 5 Samisk skolehistorie 6 Samisk skolehistorie - hovedside</p>
+<p xml:lang="nno">Skriv til vevmesteren</p>
+</body></document>

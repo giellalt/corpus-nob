@@ -1,73 +1,31 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>358</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Marine-naeringer</origFileName>
-    <parallel_text xml:lang="sma" location="marijne-jielemh.html"/>
-    <parallel_text xml:lang="sme" location="mearraealahusat.html"/>
-    <parallel_text xml:lang="smj" location="marijna-aeladusa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Marine næringer / Næringer / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Marine næringer</p>
-    <p>Sametinget har sterkt prioritert arbeidet med å finne frem til løsninger som kan bidra til å sikre retten til fiske for befolkningen i de sjøsamiske områdene. Den sjøsamiske kulturen er bygd på fjord- og kystfiske, både som levevei alene, men også i kombinasjon med andre næringer.</p>
-    <p>Ansvarlig politiker</p>
-    <p>Rådsmedlem</p>
-    <p xml:lang="sme">NSR</p>
-    <p>Nordre</p>
-    <p>Aktuelt</p>
-    <p>Krever utvidet fisketid for sjølaksefiskere</p>
-    <p>Sametinget skal torsdag 14. januar gjennomføre politiske konsultasjoner med...</p>
-    <p>Les mer</p>
-    <p>150 000 kroner til Bivdi</p>
-    <p>Sametingsrådet bevilger 150 tusen kroner til Bivdi, sjøsamisk fangst- og fis...</p>
-    <p>Les mer</p>
-    <p>Vis alle saker</p>
-    <p>Gjeldene urfolksrett bygger på forutsetningen om anerkjennelse av samenes historiske rettigheter til blant annet kyst- og fjordfiske i sine bosettingsområder.</p>
-    <p>Sametinget har også hevdet prinsippet om at nærhet til naturressursene gir høstingsrett i et historisk og sedvaneperspektiv. Nærhets- og avhengighetsprinsippet er innført som et førende prinsipp innenfor Sametingets satsing på marine næringer.</p>
-    <p>
-      <em type="bold">Sametinget jobber for å: </em>
-    </p>
-    <list>
-      <p type="listitem">sikre retten til fiske for befolkningen i de sjøsamiske områdene</p>
-      <p type="listitem">utvikle og øke sysselsettingen innenfor marine næringer</p>
-    </list>
-    <p>Gjennom årlige budsjetter har Sametinget satt av virkemidler til marine næringer. Ved å gi støtte til investeringer i fartøyer, moderniseringer av lokale mottaksanlegg og bidra til produktutvikling innenfor marin næringsvirksomhet, kan en sterkere bidra til å opprettholde og styrke bærekraftige fiskerimiljøer i samiske kyst- og fjordsamfunn.</p>
-    <p>
-      <em type="bold">Rettigheter: </em>
-    </p>
-    <list>
-      <p type="listitem">Staten har en rettsplikt til å gi samene muligheter til å sikre og utvikle sin kultur.</p>
-    </list>
-    <p>Fisket i fjorder og kystfarvann, som et materielt kulturgrunnlag, er avgjørende for bo- og sysselsettingen i samiske lokalsamfunn langs kysten.</p>
-    <list>
-      <p type="listitem">Sametinget har gjennom alle år arbeidet for en sterkere lokal forankring i forvaltningen av fiskeressursene.</p>
-    </list>
-    <p>Dette for å gi fiskerne større makt og innflytelse når bruken av ressursene avgjøres. Regional forvaltning, med samisk deltakelse og medbestemmelse, vil være innenfor de folkerettslige minstestandarder og i samsvar med folkerettens regler om urfolk og minoriteter.</p>
-    <p>Utfordringen er, i tillegg til rettighetsperspektivet, gjennom målrettet virkemiddelbruk å skape bedre økonomiske rammebetingelser for flåtefornyelse, opprettholde mottakssiden for lokale råstoffleveranser og styrke nyrekruttering til fiskeryrket.</p>
-    <p>Her kan du lese mer om fiskerettigheter.</p>
-    <list/>
-    <p>
-      <span type="quote">Fisket i fjorder og kystfarvann er avgjørende for bo- og sysselsettingen i samiske lokalsamfunn langs kysten.</span>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>358</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Naeringer/Marine-naeringer</origFileName><parallel_text xml:lang="sma" location="marijne-jielemh.html"/><parallel_text xml:lang="sme" location="mearraealahusat.html"/><parallel_text xml:lang="smj" location="marijna-aeladusa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Marine næringer / Næringer / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Marine næringer</p>
+<p>Sametinget har sterkt prioritert arbeidet med å finne frem til løsninger som kan bidra til å sikre retten til fiske for befolkningen i de sjøsamiske områdene. Den sjøsamiske kulturen er bygd på fjord- og kystfiske, både som levevei alene, men også i kombinasjon med andre næringer.</p>
+<p>Ansvarlig politiker</p>
+<p>Rådsmedlem</p>
+<p xml:lang="sme">NSR</p>
+<p>Nordre</p>
+<p>Aktuelt</p>
+<p>Krever utvidet fisketid for sjølaksefiskere</p>
+<p>Sametinget skal torsdag 14. januar gjennomføre politiske konsultasjoner med...</p>
+<p>Les mer</p>
+<p>150 000 kroner til Bivdi</p>
+<p>Sametingsrådet bevilger 150 tusen kroner til Bivdi, sjøsamisk fangst- og fis...</p>
+<p>Les mer</p>
+<p>Vis alle saker</p>
+<p>Gjeldene urfolksrett bygger på forutsetningen om anerkjennelse av samenes historiske rettigheter til blant annet kyst- og fjordfiske i sine bosettingsområder.</p>
+<p>Sametinget har også hevdet prinsippet om at nærhet til naturressursene gir høstingsrett i et historisk og sedvaneperspektiv. Nærhets- og avhengighetsprinsippet er innført som et førende prinsipp innenfor Sametingets satsing på marine næringer.</p>
+<p><em type="bold">Sametinget jobber for å: </em></p>
+<list><p type="listitem">sikre retten til fiske for befolkningen i de sjøsamiske områdene</p>
+<p type="listitem">utvikle og øke sysselsettingen innenfor marine næringer</p>
+</list><p>Gjennom årlige budsjetter har Sametinget satt av virkemidler til marine næringer. Ved å gi støtte til investeringer i fartøyer, moderniseringer av lokale mottaksanlegg og bidra til produktutvikling innenfor marin næringsvirksomhet, kan en sterkere bidra til å opprettholde og styrke bærekraftige fiskerimiljøer i samiske kyst- og fjordsamfunn.</p>
+<p><em type="bold">Rettigheter: </em></p>
+<list><p type="listitem">Staten har en rettsplikt til å gi samene muligheter til å sikre og utvikle sin kultur.</p>
+</list><p>Fisket i fjorder og kystfarvann, som et materielt kulturgrunnlag, er avgjørende for bo- og sysselsettingen i samiske lokalsamfunn langs kysten.</p>
+<list><p type="listitem">Sametinget har gjennom alle år arbeidet for en sterkere lokal forankring i forvaltningen av fiskeressursene.</p>
+</list><p>Dette for å gi fiskerne større makt og innflytelse når bruken av ressursene avgjøres. Regional forvaltning, med samisk deltakelse og medbestemmelse, vil være innenfor de folkerettslige minstestandarder og i samsvar med folkerettens regler om urfolk og minoriteter.</p>
+<p>Utfordringen er, i tillegg til rettighetsperspektivet, gjennom målrettet virkemiddelbruk å skape bedre økonomiske rammebetingelser for flåtefornyelse, opprettholde mottakssiden for lokale råstoffleveranser og styrke nyrekruttering til fiskeryrket.</p>
+<p>Her kan du lese mer om fiskerettigheter.</p>
+<list/><p><span type="quote">Fisket i fjorder og kystfarvann er avgjørende for bo- og sysselsettingen i samiske lokalsamfunn langs kysten.</span></p>
+</body></document>

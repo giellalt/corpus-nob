@@ -1,36 +1,9 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>98</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Nettressurser-og-litteratur/index.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_39_nettressurser-og-litteratur.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_39_nettressur.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_39_nettressurser-og-litteratur.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Nettressurser og litteratur</p>
-    <p type="title">Nettressurser og litteratur</p>
-    <p>Hovedinnhold</p>
-    <p>Det finnes mange ressurser på nettet. Her er bare et lite utvalg tatt med. Læreren kan finne flere ressurser ved å gå inn på disse sidene, eller ved å bruke søkemotorer.</p>
-    <p>Det finnes også digitaliserte bøker på nettet. De kan man søke på gjennom søkemotorer eller bibliotekenes søketjenester. Nasjonalbiblioteket har en del digitalisert materiell slik som bøker, aviser, tidsskrift, osv. De kan leses gratis i Norge.</p>
-    <p>Se: » www.nb.no/</p>
-    <p>Sametinget har også en samisk læremiddelportal hvor en kan finne nyttig stoff. (Portalen åpner til skolestart 2011.)</p>
-    <p>Se: » www.ovttas.no</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>98</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Nettressurser-og-litteratur/index.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_39_nettressurser-og-litteratur.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_39_nettressur.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_39_nettressurser-og-litteratur.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Nettressurser og litteratur</p>
+<p type="title">Nettressurser og litteratur</p>
+<p>Hovedinnhold</p>
+<p>Det finnes mange ressurser på nettet. Her er bare et lite utvalg tatt med. Læreren kan finne flere ressurser ved å gå inn på disse sidene, eller ved å bruke søkemotorer.</p>
+<p>Det finnes også digitaliserte bøker på nettet. De kan man søke på gjennom søkemotorer eller bibliotekenes søketjenester. Nasjonalbiblioteket har en del digitalisert materiell slik som bøker, aviser, tidsskrift, osv. De kan leses gratis i Norge.</p>
+<p>Se: » www.nb.no/</p>
+<p>Sametinget har også en samisk læremiddelportal hvor en kan finne nyttig stoff. (Portalen åpner til skolestart 2011.)</p>
+<p>Se: » www.ovttas.no</p>
+</body></document>

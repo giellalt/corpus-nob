@@ -1,90 +1,64 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="nob" id="no_id"><header><title> 
                                                                                                                                  SKJEMA 2
-</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>270</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.6 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">
-      <em type="bold">SKJEMA 2 </em>
-    </p>
-    <p>
-      <em type="bold">Dette skjema skal fylles ut daglig av pasientens kontaktperson i forbindelse med rapportskriving dag og aften så lenge oppholdet varer. Skjemaet oppbevares i kardex. </em>
-    </p>
-    <p>Ved bruk av flere skjemaer for samme pasient, stiftes disse sammen i kronologisk rekkefølge</p>
-    <p>ID-nummer i prosjektet:_________ Post: A□ K□ År og dato for innleggelse:__________</p>
-    <p>
-      <em type="bold">Registrering av tiltak / behandling / aktiviteter under opphold </em>
-    </p>
-    <p xml:lang="deu">GRAD AV</p>
-    <p xml:lang="deu">FRIHET /TVANG</p>
-    <p xml:lang="vep">Ti</p>
-    <p xml:lang="nno">Overnattingspermisjon (1 kryss pr. natt)</p>
-    <p xml:lang="nno">Fri utgang etter avtale</p>
-    <p>Utgang i begrenset tid etter avtale</p>
-    <p xml:lang="dan">Utgang med følge</p>
-    <p xml:lang="nno">Tett oppfølging</p>
-    <p>Fotfølge</p>
-    <p>Ikke utgang</p>
-    <p>Henvist til eget rom, med vakt</p>
-    <p>Henvist til eget rom, uten vakt</p>
-    <p xml:lang="swe">Er på skjermet avsnitt</p>
-    <p>Måtte holdes pga fysisk utagering</p>
-    <p xml:lang="nno">Beltelegging (kryss = ja)</p>
-    <p xml:lang="nno">Tvangsmedisinering (kryss = ja)</p>
-    <p xml:lang="dan">Rømning, stille etterlysning / utkikk</p>
-    <p xml:lang="nno">Rømning, full etterlysning</p>
-    <p xml:lang="deu">ADL-FU</p>
-    <p>Mottatt hjelp til vask av eget rom / klær</p>
-    <p xml:lang="nno">Mottatt hjelp til å stå opp</p>
-    <p>Mottatt måltider alene</p>
-    <p xml:lang="nno">Mottatt hjelp til spising</p>
-    <p xml:lang="nno">Mottatt hjelp til påkledning</p>
-    <p>Mottatt hjelp til personlig hygiene</p>
-    <p xml:lang="vep">PLANLAGT</p>
-    <p xml:lang="deu">BEHANDLING/</p>
-    <p xml:lang="vep">AKTIVITET</p>
-    <p>Samtale med miljøpersonale</p>
-    <p xml:lang="nno">Samtale med lege</p>
-    <p>Samtale med psykolog</p>
-    <p xml:lang="nno">Samtale med sosionom</p>
-    <p>Samtale med prest</p>
-    <p xml:lang="dan">Samtale med behandler</p>
-    <p>Behandling hos fysioterapeut</p>
-    <p>Oppfølging hos ergoterapeut</p>
-    <p xml:lang="dan">ECT-behandling</p>
-    <p>Par / familiesamtale, med pasient</p>
-    <p>Par / familiesamtale, uten pasient</p>
-    <p xml:lang="dan">Kontakt med ekstern instans, med pasient</p>
-    <p>Møte med ekstern instans, uten pasient</p>
-    <p>Husmøte / fellesmøte</p>
-    <p xml:lang="swe">Gruppeterapi / samtalegruppe</p>
-    <p xml:lang="nno">Arbeidsstue / aktivitetssenter / gartneri</p>
-    <p>Felles tur med avdelingen</p>
-    <p>Spesifikk trening i ferdigheter / treningstur</p>
-    <p>Trimaktivitet i avdelingens regi</p>
-    <p>Undervisning / skole</p>
-    <p xml:lang="vep">TRIVSELS-</p>
-    <p xml:lang="vep">AKTIVITET</p>
-    <p>Besøk av familie / venner</p>
-    <p>Besøk til familie / venner</p>
-    <p>Tur hjem til egen bolig</p>
-    <p>Tur ut for innkjøp, bank og a. ærender</p>
-    <p xml:lang="nno">Tur ut på kafe, konsert, kino o.l.</p>
-    <p xml:lang="swe">Gåtur / trimaktivitet</p>
-  </body>
-</document>
+</title><genre code="facta"/><author><unknown/></author><wordcount>270</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.6 $; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep"><em type="bold">SKJEMA 2 </em></p>
+<p><em type="bold">Dette skjema skal fylles ut daglig av pasientens kontaktperson i forbindelse med rapportskriving dag og aften så lenge oppholdet varer. Skjemaet oppbevares i kardex. </em></p>
+<p>Ved bruk av flere skjemaer for samme pasient, stiftes disse sammen i kronologisk rekkefølge</p>
+<p>ID-nummer i prosjektet:_________ Post: A□ K□ År og dato for innleggelse:__________</p>
+<p><em type="bold">Registrering av tiltak / behandling / aktiviteter under opphold </em></p>
+<p xml:lang="deu">GRAD AV</p>
+<p xml:lang="deu">FRIHET /TVANG</p>
+<p xml:lang="vep">Ti</p>
+<p xml:lang="nno">Overnattingspermisjon (1 kryss pr. natt)</p>
+<p xml:lang="nno">Fri utgang etter avtale</p>
+<p>Utgang i begrenset tid etter avtale</p>
+<p xml:lang="dan">Utgang med følge</p>
+<p xml:lang="nno">Tett oppfølging</p>
+<p>Fotfølge</p>
+<p>Ikke utgang</p>
+<p>Henvist til eget rom, med vakt</p>
+<p>Henvist til eget rom, uten vakt</p>
+<p>Er på skjermet avsnitt</p>
+<p>Måtte holdes pga fysisk utagering</p>
+<p xml:lang="nno">Beltelegging (kryss = ja)</p>
+<p xml:lang="nno">Tvangsmedisinering (kryss = ja)</p>
+<p xml:lang="dan">Rømning, stille etterlysning / utkikk</p>
+<p xml:lang="nno">Rømning, full etterlysning</p>
+<p xml:lang="deu">ADL-FU</p>
+<p>Mottatt hjelp til vask av eget rom / klær</p>
+<p xml:lang="nno">Mottatt hjelp til å stå opp</p>
+<p>Mottatt måltider alene</p>
+<p xml:lang="nno">Mottatt hjelp til spising</p>
+<p xml:lang="nno">Mottatt hjelp til påkledning</p>
+<p>Mottatt hjelp til personlig hygiene</p>
+<p xml:lang="vep">PLANLAGT</p>
+<p xml:lang="deu">BEHANDLING/</p>
+<p xml:lang="vep">AKTIVITET</p>
+<p>Samtale med miljøpersonale</p>
+<p xml:lang="nno">Samtale med lege</p>
+<p>Samtale med psykolog</p>
+<p xml:lang="nno">Samtale med sosionom</p>
+<p>Samtale med prest</p>
+<p xml:lang="dan">Samtale med behandler</p>
+<p>Behandling hos fysioterapeut</p>
+<p>Oppfølging hos ergoterapeut</p>
+<p xml:lang="dan">ECT-behandling</p>
+<p>Par / familiesamtale, med pasient</p>
+<p>Par / familiesamtale, uten pasient</p>
+<p xml:lang="dan">Kontakt med ekstern instans, med pasient</p>
+<p>Møte med ekstern instans, uten pasient</p>
+<p>Husmøte / fellesmøte</p>
+<p xml:lang="swe">Gruppeterapi / samtalegruppe</p>
+<p xml:lang="nno">Arbeidsstue / aktivitetssenter / gartneri</p>
+<p>Felles tur med avdelingen</p>
+<p>Spesifikk trening i ferdigheter / treningstur</p>
+<p>Trimaktivitet i avdelingens regi</p>
+<p>Undervisning / skole</p>
+<p xml:lang="vep">TRIVSELS-</p>
+<p xml:lang="vep">AKTIVITET</p>
+<p>Besøk av familie / venner</p>
+<p>Besøk til familie / venner</p>
+<p>Tur hjem til egen bolig</p>
+<p>Tur ut for innkjøp, bank og a. ærender</p>
+<p xml:lang="nno">Tur ut på kafe, konsert, kino o.l.</p>
+<p xml:lang="fin">Gåtur / trimaktivitet</p>
+</body></document>

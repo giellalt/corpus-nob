@@ -1,72 +1,49 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>144</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/alltid/RF-1179B.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="rf-1179s.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Brukerens navnFødselsnummer</p>
-    <p>Inntektsår</p>
-    <p><em type="bold">Dyrebeholdning i jordbruk, pelsdyrnæring og reindrift</em> </p>
-    <p xml:lang="nno">Årets begynnelseEndring i åretÅrets slutt</p>
-    <p xml:lang="nno">AntallPrisVerdiAntallPrisVerdiFødtKjøptSolgtEget forbruk Krepert</p>
-    <p>Kyr fra 1.1</p>
-    <p xml:lang="nno">Kyr tilført i året</p>
-    <p xml:lang="dan">Kviger &gt; 12 md</p>
-    <p xml:lang="dan">Kviger &lt; 12 md</p>
-    <p>Okser &gt; 12 md</p>
-    <p>Okser &lt; 12 md</p>
-    <p><em type="bold">Sum storfe</em> </p>
-    <p>Avlsgriser fra 1.1</p>
-    <p xml:lang="nno">Avlsgriser tilført i året</p>
-    <p>Slakteferdige griser</p>
-    <p>Slaktegriser ca 4 md Slaktegriser ca 3 md Slaktegriser ca 2 md</p>
-    <p>Andre griser &lt; 2 md</p>
-    <p xml:lang="isl"><em type="bold">Sum griser</em> </p>
-    <p>Sauer fra 1.1</p>
-    <p xml:lang="nno">Sauer tilført i året (&gt; 12 md)</p>
-    <p xml:lang="deu">Sauer &lt; 12 md</p>
-    <p>Geiter fra 1.1</p>
-    <p xml:lang="nno">Geiter tilført i året (&gt; 9 md)</p>
-    <p xml:lang="deu">Geiter &lt; 9 md</p>
-    <p xml:lang="isl"><em type="bold">Sum småfe</em> </p>
-    <p xml:lang="deu">Verpehøner</p>
-    <p xml:lang="dan">Kyllinger</p>
-    <p>Annet fjørfe</p>
-    <p xml:lang="isl"><em type="bold">Sum fjørfe</em> </p>
-    <p>Sølvrev</p>
-    <p>Blårev og annen rev</p>
-    <p xml:lang="vep">Mink</p>
-    <p xml:lang="isl"><em type="bold">Sum pelsdyr</em> </p>
-    <p xml:lang="nno">Rein over 1 år</p>
-    <p xml:lang="deu">Rein under 1 år</p>
-    <p xml:lang="isl"><em type="bold">Sum rein</em> </p>
-    <p>Kaniner/Bifolk</p>
-    <p>Hester 4 år og eldre</p>
-    <p>Hester under 4 år</p>
-    <p xml:lang="vep"><em type="bold">SUM BUSKAP</em> </p>
-    <p xml:lang="dan">Fødselsnummer</p>
-    <p xml:lang="vep">Verdi</p>
-    <p xml:lang="vep">Verdi</p>
-    <p xml:lang="deu">VerdiPrisMengde</p>
-    <p xml:lang="vep">Verdi</p>
-    <p xml:lang="deu">VerdiPrisMengde</p>
-    <p>Antall</p>
-    <p xml:lang="deu">VerdiPrisMengde</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>144</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/alltid/RF-1179B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1179s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Brukerens navnFødselsnummer</p>
+<p>Inntektsår</p>
+<p><em type="bold">Dyrebeholdning i jordbruk, pelsdyrnæring og reindrift</em> </p>
+<p>Årets begynnelseEndring i åretÅrets slutt</p>
+<p xml:lang="nno">AntallPrisVerdiAntallPrisVerdiFødtKjøptSolgtEget forbruk Krepert</p>
+<p>Kyr fra 1.1</p>
+<p xml:lang="nno">Kyr tilført i året</p>
+<p xml:lang="dan">Kviger &gt; 12 md</p>
+<p xml:lang="dan">Kviger &lt; 12 md</p>
+<p>Okser &gt; 12 md</p>
+<p>Okser &lt; 12 md</p>
+<p><em type="bold">Sum storfe</em> </p>
+<p>Avlsgriser fra 1.1</p>
+<p xml:lang="nno">Avlsgriser tilført i året</p>
+<p>Slakteferdige griser</p>
+<p>Slaktegriser ca 4 md Slaktegriser ca 3 md Slaktegriser ca 2 md</p>
+<p>Andre griser &lt; 2 md</p>
+<p xml:lang="isl"><em type="bold">Sum griser</em> </p>
+<p>Sauer fra 1.1</p>
+<p xml:lang="nno">Sauer tilført i året (&gt; 12 md)</p>
+<p xml:lang="deu">Sauer &lt; 12 md</p>
+<p>Geiter fra 1.1</p>
+<p xml:lang="nno">Geiter tilført i året (&gt; 9 md)</p>
+<p xml:lang="deu">Geiter &lt; 9 md</p>
+<p xml:lang="isl"><em type="bold">Sum småfe</em> </p>
+<p xml:lang="deu">Verpehøner</p>
+<p xml:lang="dan">Kyllinger</p>
+<p>Annet fjørfe</p>
+<p xml:lang="isl"><em type="bold">Sum fjørfe</em> </p>
+<p>Sølvrev</p>
+<p>Blårev og annen rev</p>
+<p xml:lang="vep">Mink</p>
+<p xml:lang="isl"><em type="bold">Sum pelsdyr</em> </p>
+<p xml:lang="nno">Rein over 1 år</p>
+<p xml:lang="deu">Rein under 1 år</p>
+<p xml:lang="isl"><em type="bold">Sum rein</em> </p>
+<p>Kaniner/Bifolk</p>
+<p>Hester 4 år og eldre</p>
+<p>Hester under 4 år</p>
+<p xml:lang="vep"><em type="bold">SUM BUSKAP</em> </p>
+<p xml:lang="dan">Fødselsnummer</p>
+<p xml:lang="vep">Verdi</p>
+<p xml:lang="vep">Verdi</p>
+<p xml:lang="deu">VerdiPrisMengde</p>
+<p xml:lang="vep">Verdi</p>
+<p xml:lang="deu">VerdiPrisMengde</p>
+<p>Antall</p>
+<p xml:lang="deu">VerdiPrisMengde</p>
+</body></document>

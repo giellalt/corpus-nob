@@ -1,92 +1,45 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>423</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.sametinget.no/layout/set/print/Land-og-ressursrettigheter</origFileName>
-    <parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah.html"/>
-    <parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat.html"/>
-    <parallel_text xml:lang="smj" location="ednam-ja-resurssarievtesvuodaj.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Land og ressursrettigheter / Forsiden - Sametinget</p>
-    <p>Søk tilskudd</p>
-    <p type="title">Land og ressursrettigheter</p>
-    <p>Tradisjonell samisk bruk som jakt, fangst, utmarkshøsting, reindrift og fiske har av staten ikke blitt anerkjent som grunnlag for å opparbeide rettigheter. Den særlige kollektive bruken som samer har utøvd har heller ikke blitt anerkjent å gi slik rett. Internasjonal rettsutvikling, norske domstolsavgjørelser og lovprosesser i Norge har ført til at det de siste årene har skjedd en gradvis økt anerkjennelse av at tradisjonell samisk bruk av land, vann og ressurser også gir eiendoms- og bruksrettigheter.</p>
-    <p>Ansvarlig politiker</p>
-    <p xml:lang="eng">President</p>
-    <p xml:lang="sme">NSR</p>
-    <p xml:lang="sme">Ávjovárri</p>
-    <list>
-      <p type="listitem">Landrettigheter</p>
-      <p type="listitem">Fiskerettigheter</p>
-      <p type="listitem">Kartlegging</p>
-    </list>
-    <p type="title">Sametinget arbeider for</p>
-    <list>
-      <p type="listitem">En reell anerkjennelse av samenes land- og ressursrettigheter.</p>
-      <p type="listitem">En kartlegging av rettigheter som også sikrer kollektive samiske rettigheter.</p>
-      <p type="listitem">Et rettsbilde som er likeverdig over hele det tradisjonelle samiske området, og som sikrer reell likhet mellom majoritet og minoritet og mellom ulike samiske områder.</p>
-    </list>
-    <p type="title">Bakgrunn</p>
-    <p>Bruken av land og ressurser over lang tid nedfeller seg i eiendoms-, besittelses- og bruksrettigheter til landområder og ressurser.</p>
-    <p>En helt sentral bakgrunn for striden om utbyggingen av Altavassdraget var mangelen på anerkjennelse av samiske land- og ressursrettigheter. Ett utfall av denne striden var derfor at regjeringen i 1980 nedsatte et samerettsutvalg som skulle utrede <em type="italic"><span type="quote">”…spørsmålene omkring den samiske befolknings rettslige stilling når det gjelder retten til og disponeringen og bruken av land og vann”</span>. </em>Samerettsutvalget kom med sin første innstilling om dette i 1997 og den andre i 2007. Anerkjennelsen av land- og ressursrettighetene knytter seg i hovedsak til hva som kan omtales som private rettighetsforhold. Dette til forskjell fra offentligrettslige tiltak som regulerer bruken av land- og ressurser, og som også skal sikre det materielle grunnlaget for samisk kultur. </p>
-    <p>NOU 1997: 4 Naturgrunnlaget for samisk kultur http://www.regjeringen.no/nb/dep/jd/dok/nouer/1997/nou-1997-4.html?id=140720</p>
-    <p>NOU 2007: 13 Den nye sameretten Utredning fra Samerettsutvalget http://www.regjeringen.no/nb/dep/jd/dok/nouer/2007/nou-2007-13.html?id=491883</p>
-    <p>
-      <em type="bold">Sametinget arbeider som: </em>
-    </p>
-    <list>
-      <p type="listitem">Konsultasjonspart med regjeringen for å gjennom norsk lovgiving sikre samenes rettigheter til land og ressurser basert på menneskerettighetene og historisk bruk.</p>
-      <p type="listitem">Oppnevner av 3 av 6 medlemmer i Finnmarkseiendommen som forvalter grunn og ressurser i Finnmark etter finnmarksloven.</p>
-      <p type="listitem">Gir retningslinjer for hvordan virkninger for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv av endret bruk av utmark skal bedømmes.</p>
-      <p type="listitem">Behandling av saker om endret bruk av utmark i Finnmark som er forelagt Sametinget av Finnmarkseiendommen.</p>
-    </list>
-    <p>
-      <em type="bold">Fordeling av midler til Oppfølging av samiske rettigheter til arealer og ressurser 2015 </em>
-    </p>
-    <p>
-      <em type="bold">Søker </em>
-    </p>
-    <p>
-      <em type="bold">Innvilget tilskudd 2015 </em>
-    </p>
-    <p xml:lang="sme">Saemien Sijte</p>
-    <p>250 000</p>
-    <p>Bivdi - Sjøsamisk fangst- og fiskeriorganisasjon</p>
-    <p>100 000</p>
-    <p>Zorrostiftelsen</p>
-    <p>100 000</p>
-    <p>Samerådet</p>
-    <p>450 000</p>
-    <p>Stiftelsen Protect Sápmi</p>
-    <p>450 000</p>
-    <p>Samarbeidsgruppa mot Kalvvatnan vindkraftverk</p>
-    <p>100 000</p>
-    <p>Nesseby bygdelag</p>
-    <p>200 000</p>
-    <p>
-      <em type="bold">SUM </em>
-    </p>
-    <p>
-      <em type="bold">1 650 000 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>423</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="eng"/></multilingual><origFileName>http://www.sametinget.no/layout/set/print/Land-og-ressursrettigheter</origFileName><parallel_text xml:lang="sma" location="laante-jih-vierhtiereaktah.html"/><parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat.html"/><parallel_text xml:lang="smj" location="ednam-ja-resurssarievtesvuodaj.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Land og ressursrettigheter / Forsiden - Sametinget</p>
+<p>Søk tilskudd</p>
+<p type="title">Land og ressursrettigheter</p>
+<p>Tradisjonell samisk bruk som jakt, fangst, utmarkshøsting, reindrift og fiske har av staten ikke blitt anerkjent som grunnlag for å opparbeide rettigheter. Den særlige kollektive bruken som samer har utøvd har heller ikke blitt anerkjent å gi slik rett. Internasjonal rettsutvikling, norske domstolsavgjørelser og lovprosesser i Norge har ført til at det de siste årene har skjedd en gradvis økt anerkjennelse av at tradisjonell samisk bruk av land, vann og ressurser også gir eiendoms- og bruksrettigheter.</p>
+<p>Ansvarlig politiker</p>
+<p xml:lang="eng">President</p>
+<p xml:lang="sme">NSR</p>
+<p xml:lang="sme">Ávjovárri</p>
+<list><p type="listitem">Landrettigheter</p>
+<p type="listitem">Fiskerettigheter</p>
+<p type="listitem">Kartlegging</p>
+</list><p type="title">Sametinget arbeider for</p>
+<list><p type="listitem">En reell anerkjennelse av samenes land- og ressursrettigheter.</p>
+<p type="listitem">En kartlegging av rettigheter som også sikrer kollektive samiske rettigheter.</p>
+<p type="listitem">Et rettsbilde som er likeverdig over hele det tradisjonelle samiske området, og som sikrer reell likhet mellom majoritet og minoritet og mellom ulike samiske områder.</p>
+</list><p type="title">Bakgrunn</p>
+<p>Bruken av land og ressurser over lang tid nedfeller seg i eiendoms-, besittelses- og bruksrettigheter til landområder og ressurser.</p>
+<p>En helt sentral bakgrunn for striden om utbyggingen av Altavassdraget var mangelen på anerkjennelse av samiske land- og ressursrettigheter. Ett utfall av denne striden var derfor at regjeringen i 1980 nedsatte et samerettsutvalg som skulle utrede <em type="italic"><span type="quote">”…spørsmålene omkring den samiske befolknings rettslige stilling når det gjelder retten til og disponeringen og bruken av land og vann”</span>. </em>Samerettsutvalget kom med sin første innstilling om dette i 1997 og den andre i 2007. Anerkjennelsen av land- og ressursrettighetene knytter seg i hovedsak til hva som kan omtales som private rettighetsforhold. Dette til forskjell fra offentligrettslige tiltak som regulerer bruken av land- og ressurser, og som også skal sikre det materielle grunnlaget for samisk kultur. </p>
+<p>NOU 1997: 4 Naturgrunnlaget for samisk kultur http://www.regjeringen.no/nb/dep/jd/dok/nouer/1997/nou-1997-4.html?id=140720</p>
+<p>NOU 2007: 13 Den nye sameretten Utredning fra Samerettsutvalget http://www.regjeringen.no/nb/dep/jd/dok/nouer/2007/nou-2007-13.html?id=491883</p>
+<p><em type="bold">Sametinget arbeider som: </em></p>
+<list><p type="listitem">Konsultasjonspart med regjeringen for å gjennom norsk lovgiving sikre samenes rettigheter til land og ressurser basert på menneskerettighetene og historisk bruk.</p>
+<p type="listitem">Oppnevner av 3 av 6 medlemmer i Finnmarkseiendommen som forvalter grunn og ressurser i Finnmark etter finnmarksloven.</p>
+<p type="listitem">Gir retningslinjer for hvordan virkninger for samisk kultur, reindrift, utmarksbruk, næringsutøvelse og samfunnsliv av endret bruk av utmark skal bedømmes.</p>
+<p type="listitem">Behandling av saker om endret bruk av utmark i Finnmark som er forelagt Sametinget av Finnmarkseiendommen.</p>
+</list><p><em type="bold">Fordeling av midler til Oppfølging av samiske rettigheter til arealer og ressurser 2015 </em></p>
+<p><em type="bold">Søker </em></p>
+<p><em type="bold">Innvilget tilskudd 2015 </em></p>
+<p xml:lang="sme">Saemien Sijte</p>
+<p>250 000</p>
+<p>Bivdi - Sjøsamisk fangst- og fiskeriorganisasjon</p>
+<p>100 000</p>
+<p>Zorrostiftelsen</p>
+<p>100 000</p>
+<p>Samerådet</p>
+<p>450 000</p>
+<p>Stiftelsen Protect Sápmi</p>
+<p>450 000</p>
+<p>Samarbeidsgruppa mot Kalvvatnan vindkraftverk</p>
+<p>100 000</p>
+<p>Nesseby bygdelag</p>
+<p>200 000</p>
+<p><em type="bold">SUM </em></p>
+<p><em type="bold">1 650 000 </em></p>
+</body></document>

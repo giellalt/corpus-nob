@@ -1,63 +1,30 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>51</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-    </multilingual>
-    <origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Vurderingsskjemaer-skjemaer/index-3.html</origFileName>
-    <parallel_text xml:lang="sma" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer-.html"/>
-    <parallel_text xml:lang="sme" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer-kopierings.html"/>
-    <parallel_text xml:lang="smj" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - Vurderingsskjema for skriftlig arbeid</p>
-    <p type="title">Vurderingsskjema for skriftlig arbeid</p>
-    <p>Hovedinnhold</p>
-    <p>Oppgave:</p>
-    <p>Elevens navn:</p>
-    <p>Vurderingskriterier:</p>
-    <p>Måloppnåelse:</p>
-    <p>Kommentarer:</p>
-    <p>dette bør du arbeide med, og</p>
-    <p>du bør gjøre det slik</p>
-    <p>lav</p>
-    <p>middels</p>
-    <p>høy</p>
-    <p>Oppbygging:</p>
-    <list>
-      <p type="listitem">overskrift</p>
-      <p type="listitem">innledning</p>
-      <p type="listitem">hoveddel</p>
-      <p type="listitem">avslutning</p>
-    </list>
-    <p>Innhold:</p>
-    <list>
-      <p type="listitem">svar på oppgaven</p>
-      <p type="listitem">sjangertrekk</p>
-    </list>
-    <p>Språk:</p>
-    <list>
-      <p type="listitem">verbbøying</p>
-      <p type="listitem">rettskriving</p>
-      <p type="listitem">tegnsetting</p>
-      <p type="listitem">variert ordvalg</p>
-      <p type="listitem">god setningsoppbygging</p>
-      <p type="listitem">avsnitt</p>
-    </list>
-    <p>Annet:</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>51</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/></multilingual><origFileName>http://veiledninger.udir.no/Samisk%20som%20f%f8rstespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Veiledning-til-lareplan-i-Samisk-som-forstespra/Samisk-som-forstesprak-Nordsamisk/Hoyremeny/Vurderingsskjemaer-skjemaer/index-3.html</origFileName><parallel_text xml:lang="sma" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer-.html"/><parallel_text xml:lang="sme" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer-kopierings.html"/><parallel_text xml:lang="smj" location="sfs_veiledning_27_vurderingsskjemaer-skjemaer.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - Vurderingsskjema for skriftlig arbeid</p>
+<p type="title">Vurderingsskjema for skriftlig arbeid</p>
+<p>Hovedinnhold</p>
+<p>Oppgave:</p>
+<p>Elevens navn:</p>
+<p>Vurderingskriterier:</p>
+<p>Måloppnåelse:</p>
+<p>Kommentarer:</p>
+<p>dette bør du arbeide med, og</p>
+<p>du bør gjøre det slik</p>
+<p>lav</p>
+<p>middels</p>
+<p>høy</p>
+<p>Oppbygging:</p>
+<list><p type="listitem">overskrift</p>
+<p type="listitem">innledning</p>
+<p type="listitem">hoveddel</p>
+<p type="listitem">avslutning</p>
+</list><p>Innhold:</p>
+<list><p type="listitem">svar på oppgaven</p>
+<p type="listitem">sjangertrekk</p>
+</list><p>Språk:</p>
+<list><p type="listitem">verbbøying</p>
+<p type="listitem">rettskriving</p>
+<p type="listitem">tegnsetting</p>
+<p type="listitem">variert ordvalg</p>
+<p type="listitem">god setningsoppbygging</p>
+<p type="listitem">avsnitt</p>
+</list><p>Annet:</p>
+</body></document>

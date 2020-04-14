@@ -1,116 +1,93 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1722</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1189B.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="rf-1189_s_2014_utfyllbar.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Dersom det er behov for flere spesifikasjoner eller forklaringer enn skjemaet gir plass til, kan du bruke et eget ark for dette</p>
-    <p>Navn (etternavn og fornavn)Fødselsnummer/organisasjonsnummer</p>
-    <p xml:lang="eng">Eiendommens gateadresseKommune</p>
-    <p xml:lang="eng">Land</p>
-    <p>Er eiendommen eid i sameie? Se rettledningen</p>
-    <p>Boligselskapets navnSeksjonsnr.Bruksnr.Gårdsnr.</p>
-    <p xml:lang="ron">Din eierandel i prosentJaNei</p>
-    <p><em type="bold">1 Inntekter</em> </p>
-    <p xml:lang="deu">1.1 Utleie</p>
-    <p xml:lang="ron"><em type="bold">Utleieperiode</em> </p>
-    <p xml:lang="nno">Beløp</p>
-    <p xml:lang="nno">Bolig    IndustriForretningTomtAnnetLeietakers navnEtasjeAntall kvmFra datoTil dato</p>
-    <p xml:lang="nno">Fritidseiendom</p>
-    <p>Kårmottakerens navn</p>
-    <p xml:lang="dan">Kårbolig</p>
-    <p>Beregning av leieverdi, se rettledningen</p>
-    <p xml:lang="koi">1.2</p>
-    <p>Kårboligens bruksareal er:</p>
-    <p>Over 100m²</p>
-    <p>Mangler kårboligen bade-/dusjrom eller wc?</p>
-    <p>Er avstand til kommunens adm. senter over 15 km?JaNeiJaNei Under 60 m²60 - 100 m²</p>
-    <p>Er kårkontrakten endret? - Alle kostnader skal nå bæres av kårmottaker</p>
-    <p>Det skal kun krysses av dersom det er endringer fra forrige år!JaNei</p>
-    <p>Refusjon fra leietakere for vedlikeholdskostnader mv. (beløpet skal legges til inntekten)</p>
-    <p>Andre inntekter</p>
-    <p>Samlet bruttoinntekt</p>
-    <p>Utbetalt lønn:</p>
-    <p xml:lang="deu"><em type="bold">2 Kostnader</em> </p>
-    <p>Kostnader må kunne dokumenteres/sannsynliggjøres med kvittering o.l. etter forespørsel fra skattekontoret.</p>
-    <p>Festeavgift (grunnleie), andel av fradragsberettigede felleskostnader i boligselskap/boligsameie</p>
-    <p>Kommunale avgifter (inkl. ev. eiendomsskatt)  og forsikringspremier for eiendommen</p>
-    <p xml:lang="koi">1.3</p>
-    <p xml:lang="koi">1.4</p>
-    <p xml:lang="koi">1.5</p>
-    <p xml:lang="koi">2.1</p>
-    <p xml:lang="koi">2.2</p>
-    <p xml:lang="nno">JaNei</p>
-    <p xml:lang="nno">2.3Er det sendt lønns- og</p>
-    <p xml:lang="nno">trekkoppgave for beløpet?</p>
-    <p xml:lang="dan">Kostnader til fradrag</p>
-    <p xml:lang="vep">Vedlikehold2.4</p>
-    <p>Hva slags?</p>
-    <p>(Spesifiser hva som gjelder utleiedel og hva som gjelder</p>
-    <p>eventuell egen boligdel) Arbeidet er utført av/materialene er levert av</p>
-    <p xml:lang="nno">Navn og adresse</p>
-    <p>Påløpt</p>
-    <p xml:lang="nno">Beløp</p>
-    <p>Dato og årSamlet beløp</p>
-    <p>(medregnet mva.) Herav fradragsberettiget vedlikehold</p>
-    <p xml:lang="isl">Sum</p>
-    <p>For boliger som leies ut, innrømmes som hovedregel fradrag for alle vedlikeholdskostnader. Unntak fra denne regel gjelder dersom du er blitt fritaksliknet for boligeiendommen i løpet av de foregående 5 år. I disse tilfeller gis det ikke fradrag for vedlikeholdskostnader i det første året med regnskapslikning dersom utleien varer under halve inntektsåret (inntil 182 dager). Som utleie regnes all utleie i inntektsåret uavhengig av utleiens omfang, herunder utleie i tidsrom av året hvor eieren også selv har bodd i minst halvparten av boligen. Varer utleieperioden lenger, innrømmes fullt fradrag for vedlikeholdskostnader inntil kr 10 000. For ev. overskytende beløp, reduseres fradraget med 10 % for hvert av de foregående 5 år som du er blitt fritaksliknet. Er du i tvil, spør skattekontoret.</p>
-    <p><em type="bold">Reduksjon når</em> <em type="bold">boligen</em> <em type="bold">tidligere</em> <em type="bold">har vært</em> <em type="bold">fritaksliknet÷</em> Samlet beløp (medregnet mva.) Herav fradragsberettiget kostnad </p>
-    <p>Vedlikeholdskostnader som kan trekkes fra</p>
-    <p xml:lang="nno">2.5   Konstatert tap av inntekt ved utleie</p>
-    <p>2.6   Avskrivninger av bygning</p>
-    <p>2.7   Andre kostnader (spesifisert),        herunder avskrivninger        av innbo</p>
-    <p>2.8   Kostnader til egen boligdel, strøm, oppvarming, renhold mv.</p>
-    <p xml:lang="isl">÷</p>
-    <p>2.9   Sum kostnader</p>
-    <p>2.10 Nettoinntekt før eventuell fordeling til ektefelle=</p>
-    <p>2.11 Andel nettoinntekt (overskudd/underskudd) overført ektefelle. Beløpet skal føres i ektefellens selvangivelse.÷</p>
-    <p>Post 2.8.2 for norske eiendommer</p>
-    <p>3.2 Godtgjørelse til huseier, ektefelle eller barn som liknes sammen med huseier</p>
-    <p xml:lang="dan">3.3 Kontingent til huseierforening eller andre foreninger</p>
-    <p xml:lang="nno">JaNei</p>
-    <p xml:lang="nno">JaNei</p>
-    <p xml:lang="dan"><em type="bold">Rettledning</em> </p>
-    <p xml:lang="dan"><em type="bold">Hvem skal levere skjemaet</em> </p>
-    <p>Skjemaet skal leveres av alle som har skattepliktige utleieinntekter fra fast eiendom i Norge og i utlandet når utleien drives utenom næringsvirksomhet slik at utleieinntektene ikke er tatt med i næringsoppgaven. Skjemaet skal også leveres for utleie av tomt og grunn, for eksempel jordbruksareal. l tillegg skal skjemaet brukes når eieren yter føderåd i form av borett utenom jord- og skogbruk. Det er ikke plikt til å levere skjemaet ved utleie av</p>
-    <p>- fritidsbolig som eieren bruker selv i rimelig omfang - boligeiendom der utleieinntektene er skattefrie</p>
-    <p>Er du i tvil om du har plikt til å levere skjemaet, se skatteloven § 7-2, se brosjyre om skatt ved utleie av bolig og fritidseiendom på skatteetaten.no eller ta kontakt med skattekontoret.</p>
-    <p><em type="bold">Sameie</em> Dersom eiendommen eies i sameie, skal alle sameierne levere inn hvert sitt skjema. Er to av sameierne ektefeller, se nedenfor. Hver enkelt sameier skal fylle ut skjemaet med sin forholdsmessige andel av inntekter og kostnader i hver enkelt post basert på eierandelens størrelse (din sameierandel i prosent). Eksempel: Om eiendommen eies av to personer i sameie og de har like stor eierandel hver, skal begge fylle ut hvert sitt skjema på vanlig måte, men slik at 50 % av inntektene og kostnadene føres i hvert skjema. Summen av inntektene og utgiftene i skjemaene skal tilsvare de totale inntektene og utgiftene på eiendommen. </p>
-    <p>Dersom to ektefeller eier eiendommen i sameie (ektefellene alene eller i sameie med andre) kan ektefellene levere ett skjema. Ønsker to ektefeller å foreta en ektefellefordeling, se rettledningen til post 2.11. Er det også andre sameiere i eiendommen, må disse levere skjema på vanlig måte, jf. avsnittet ovenfor.</p>
-    <p><em type="bold">Inntekter og kostnader</em> </p>
-    <p>Inntekter ved utleie er skattepliktig for det året de opptjenes, uavhengig av når leien etter avtalen skal betales eller faktisk blir betalt. Dette innebærer at påløpt husleie i året skal føres til inntekt selv om betalingen ikke er mottatt i vedkommende år. Dersom beløpet i disse tilfellene ikke blir betalt, se post 2.5. Forskuddsbetalt leie skal ikke oppgis som inntekt før leien er opptjent, det vil si det år leien gjelder for. Fordel ved at eier delvis bruker regnskapsliknet boligeiendom som egen bolig er ikke skattepliktig inntekt.</p>
-    <p>Kostnader skal føres til fradrag i det år betalingsforpliktelsen er pådratt uavhengig av når kostnadene skal betales eller faktisk blir betalt. Verken avtalt forfallstid eller tidspunkt for faktisk betaling har således betydning for når kostnaden skal komme til fradrag.</p>
-    <p>Her føres leieinntekt påløpt i inntektsåret. Post 1.1</p>
-    <p>Post 1.2Kår: utleieverdi av bolig hvor fri borett for bestemt(e) person(er) er påheftet eiendommen (føderåd). Posten gjelder kun kårbolig/-leilighet som ikke er knyttet til næringsvirksomhet i jord-/skogbruk (leieverdien føres da i RF-1177). Posten skal ikke fylles ut dersom kårmottaker bærer alle driftskostnader iht. opprinnelig kjøpekontrakt. Brutto kårytelse føres til fradrag i post 3.3.3 i selvangivelsen. Leieverdiene skal i 2014 fastsettes etter følgende sjablongverdier:</p>
-    <p>Bruksareal Over 100 m² 60 – 100 m² Under 60 m²</p>
-    <p>Leieverdi kr  26 500 kr  19 800 kr  13 200</p>
-    <p>Bruksareal er alt areal innenfor yttervegg med minimum 190 cm takhøyde. Har boligen ikke bade-/dusjrom eller wc, reduseres verdien med 25%. Samme reduksjon gjelder dersom avstanden til kommuneadministrasjonen er over 15 km. Oppfylles begge nevnte vilkår, er reduksjonen samlet 40%.</p>
-    <p>Post 1.3Dersom leietakeren har refundert vedlikeholdskostnader som inngår i kostnadene som er oppført i skjemaet, skal mottatt beløp føres her. Post 1.4Leier du ut en leilighet i boligselskap (borettslag og boligaksjeselskap) eller boligsameie, skal du føre din andel av selskapets/sameiets inntekt her. Beløpet står i oppgaven fra boligselskapet/boligsameiet. Merk at forhåndsutfylt beløp som knytter seg til leiligheten må strykes i selvangivelsen, se nærmere i rettledningen til selvangivelsen post 2.8.1. Kårytelser utenom fri borett (naturalia, kontantkår) føres også her.</p>
-    <p>Post 2.1Her oppgis festeavgift og andel av fradragsberettigede kostnader i boligselskap/boligsameie pådratt i inntektsåret. Merk at leilighetens andel av kostnader til boligselskap/boligsameie som er forhåndsutfylt må strykes i selvangivelsen. Eventuell nedbetaling av fellesgjeld er ikke fradragsberettiget, og skal derfor ikke inngå i beløpet som skal fylles ut i denne post. Dersom spesifiserte opplysninger om fradragsberettiget beløp ikke kan innhentes fra boligselskapet/boligsameiet, må skattyter beregne beløpet skjønnsmessig. Dersom eieren selv benytter en del av boligen som egen bolig, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen.</p>
-    <p>Post 2.2Her føres kommunale avgifter som renovasjon og vann- og kloakkavgift. Videre føres forsikringspremier for eiendommen her. Eventuell eiendomsskatt føres også her. Dersom eieren selv benytter en del av boligen som egen bolig må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen. Skatt på formue og inntekt er derimot ikke fradragsberettiget.</p>
-    <p>Post 2.3Her føres eventuell utbetalt lønn, for eksempel til vaktmester, bestyrer, forretningsfører og lignende. Dersom eieren selv benytter en del av boligen, som egen bolig, og det ikke kan avgjøres hvilken del av boligen lønnskostnadene knytter seg til, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen, etter utleieverdi.</p>
-    <p>Post 2.4Vedlikehold. Vedlikeholdskostnader påløpt i året, det vil si kostnader til å føre eiendommen tilbake til den stand den tidligere har vært i, kan føres til fradrag. Dersom eieren selv benytter en del av boligen som egen bolig gis det ikke fradrag for vedlikeholdskostnadene knyttet til denne delen. Kan det ikke avgjøres hvilken del av boligen vedlikeholdskostnadene knytter seg til, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen, etter utleieverdi. Påkostninger skal ikke fradras her, men tillegges eiendommens kostpris ved beregning av inngangsverdien av eiendommen ved beregning av eventuell skattepliktig gevinst eller fradragsberettiget tap ved salg av eiendommen. Som påkostninger regnes kostnader til å føre eiendommen til en bedre eller annen stand enn den tidligere har vært i, for eksempel tilbygg, modernisering eller rene endringer. Post 2.5Konstatert tap av inntekt ved utleie. Det foreligger fradragsrett for endelig konstatert tap av inntekt ved utleie når denne tidligere har vært skattlagt som inntekt. Tapet anses endelig konstatert: - når det har vært foretatt tvangsinndriving eller inkasso som har vært forgjeves, eller - offentlig gjeldsforhandling, konkurs, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller   vil gi dekning av fordringen, eller - når fordringen ellers må anses som uerholdelig.</p>
-    <p>Post 2.6Avskrivning av bygning. Gjelder ikke tomt eller boligeiendom. Saldoskjema er pliktig vedlegg når avskrivning kreves (RF-1084).</p>
-    <p>Post 2.7Andre kostnader. Dersom leien er inkludert lys, brensel, renhold mv. føres kostnadene til dette her. Ved utleie av møblert bolig ved korttidsleie, hvor eieren selv bruker innboet før og etter utleieperioden, kan det kreves fradrag for slit og elde av møbler fastsatt til 15 % av brutto leieinntekter. Denne regelen skal normalt ikke benyttes når utleieperioden er over tre år. Ved langtidsutleie kan utleide møbler med kostpris under kr 15 000 fradragsføres direkte. Er kostprisen for møbler og inventar kr 15 000 eller høyere, kan det foretas saldoavskrivning (saldogruppe d, avskrivningssats 20 %). Saldoskjema (RF-1084) må da vedlegges. Du kan også kreve avstandsfradrag etter faste satser for kostnader forbundet med reiser som er utført i tilknytning til utleien, for eksempel ved visninger, vedlikehold og tilsyn, se skatteetaten.no for hvilke satser som skal brukes. Kostnader til oppmåling av regnskapslignet boligeiendom for innrapportering av arealopplysninger ved formuesverdsettelse av boligen er fradragsberettiget og føres her. Hvis eieren en del av året har brukt boligen som egen bolig, avkortes fradraget forholdsmessig.</p>
-    <p>Post 2.8Dersom kostnadene ført i post 2.7 også omfatter lys, brensel, renhold mv. av bolig som eieren selv bruker, må den del av kostnadene som vedrører denne boligen tilbakeføres her.</p>
-    <p>Ektefeller kan velge å fordele nettoinntekten (overskudd/underskudd) i post 2.10. Dette gjelder uavhengig av om eiendommen er eid av ektefellene i sameie eller om en av ektefellene eier eiendommen alene. Dersom ektefellene ønsker å fordele, er det viktig at det kun sendes inn ett skjema (ikke to) som vedlegges selvangivelsen til én av ektefellene.</p>
-    <p xml:lang="smn">Post 2.11</p>
-    <p xml:lang="dan">DatoUnderskrift</p>
-  </body>
-</document>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1722</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1189B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1189_s_2014_utfyllbar.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Dersom det er behov for flere spesifikasjoner eller forklaringer enn skjemaet gir plass til, kan du bruke et eget ark for dette</p>
+<p>Navn (etternavn og fornavn)Fødselsnummer/organisasjonsnummer</p>
+<p xml:lang="eng">Eiendommens gateadresseKommune</p>
+<p xml:lang="eng">Land</p>
+<p>Er eiendommen eid i sameie? Se rettledningen</p>
+<p>Boligselskapets navnSeksjonsnr.Bruksnr.Gårdsnr.</p>
+<p xml:lang="ron">Din eierandel i prosentJaNei</p>
+<p><em type="bold">1 Inntekter</em> </p>
+<p xml:lang="deu">1.1 Utleie</p>
+<p xml:lang="ron"><em type="bold">Utleieperiode</em> </p>
+<p xml:lang="nno">Beløp</p>
+<p xml:lang="nno">Bolig    IndustriForretningTomtAnnetLeietakers navnEtasjeAntall kvmFra datoTil dato</p>
+<p xml:lang="nno">Fritidseiendom</p>
+<p>Kårmottakerens navn</p>
+<p xml:lang="dan">Kårbolig</p>
+<p>Beregning av leieverdi, se rettledningen</p>
+<p xml:lang="vep">1.2</p>
+<p>Kårboligens bruksareal er:</p>
+<p>Over 100m²</p>
+<p>Mangler kårboligen bade-/dusjrom eller wc?</p>
+<p>Er avstand til kommunens adm. senter over 15 km?JaNeiJaNei Under 60 m²60 - 100 m²</p>
+<p>Er kårkontrakten endret? - Alle kostnader skal nå bæres av kårmottaker</p>
+<p>Det skal kun krysses av dersom det er endringer fra forrige år!JaNei</p>
+<p>Refusjon fra leietakere for vedlikeholdskostnader mv. (beløpet skal legges til inntekten)</p>
+<p>Andre inntekter</p>
+<p>Samlet bruttoinntekt</p>
+<p>Utbetalt lønn:</p>
+<p xml:lang="deu"><em type="bold">2 Kostnader</em> </p>
+<p>Kostnader må kunne dokumenteres/sannsynliggjøres med kvittering o.l. etter forespørsel fra skattekontoret.</p>
+<p>Festeavgift (grunnleie), andel av fradragsberettigede felleskostnader i boligselskap/boligsameie</p>
+<p>Kommunale avgifter (inkl. ev. eiendomsskatt)  og forsikringspremier for eiendommen</p>
+<p xml:lang="vep">1.3</p>
+<p xml:lang="vep">1.4</p>
+<p xml:lang="vep">1.5</p>
+<p xml:lang="vep">2.1</p>
+<p xml:lang="vep">2.2</p>
+<p xml:lang="fit">JaNei</p>
+<p xml:lang="nno">2.3Er det sendt lønns- og</p>
+<p xml:lang="nno">trekkoppgave for beløpet?</p>
+<p xml:lang="dan">Kostnader til fradrag</p>
+<p xml:lang="vep">Vedlikehold2.4</p>
+<p>Hva slags?</p>
+<p>(Spesifiser hva som gjelder utleiedel og hva som gjelder</p>
+<p>eventuell egen boligdel) Arbeidet er utført av/materialene er levert av</p>
+<p xml:lang="nno">Navn og adresse</p>
+<p>Påløpt</p>
+<p xml:lang="nno">Beløp</p>
+<p>Dato og årSamlet beløp</p>
+<p>(medregnet mva.) Herav fradragsberettiget vedlikehold</p>
+<p xml:lang="isl">Sum</p>
+<p>For boliger som leies ut, innrømmes som hovedregel fradrag for alle vedlikeholdskostnader. Unntak fra denne regel gjelder dersom du er blitt fritaksliknet for boligeiendommen i løpet av de foregående 5 år. I disse tilfeller gis det ikke fradrag for vedlikeholdskostnader i det første året med regnskapslikning dersom utleien varer under halve inntektsåret (inntil 182 dager). Som utleie regnes all utleie i inntektsåret uavhengig av utleiens omfang, herunder utleie i tidsrom av året hvor eieren også selv har bodd i minst halvparten av boligen. Varer utleieperioden lenger, innrømmes fullt fradrag for vedlikeholdskostnader inntil kr 10 000. For ev. overskytende beløp, reduseres fradraget med 10 % for hvert av de foregående 5 år som du er blitt fritaksliknet. Er du i tvil, spør skattekontoret.</p>
+<p><em type="bold">Reduksjon når</em> <em type="bold">boligen</em> <em type="bold">tidligere</em> <em type="bold">har vært</em> <em type="bold">fritaksliknet÷</em> Samlet beløp (medregnet mva.) Herav fradragsberettiget kostnad </p>
+<p>Vedlikeholdskostnader som kan trekkes fra</p>
+<p xml:lang="nno">2.5   Konstatert tap av inntekt ved utleie</p>
+<p>2.6   Avskrivninger av bygning</p>
+<p>2.7   Andre kostnader (spesifisert),        herunder avskrivninger        av innbo</p>
+<p>2.8   Kostnader til egen boligdel, strøm, oppvarming, renhold mv.</p>
+<p xml:lang="isl">÷</p>
+<p>2.9   Sum kostnader</p>
+<p>2.10 Nettoinntekt før eventuell fordeling til ektefelle=</p>
+<p>2.11 Andel nettoinntekt (overskudd/underskudd) overført ektefelle. Beløpet skal føres i ektefellens selvangivelse.÷</p>
+<p>Post 2.8.2 for norske eiendommer</p>
+<p>3.2 Godtgjørelse til huseier, ektefelle eller barn som liknes sammen med huseier</p>
+<p xml:lang="dan">3.3 Kontingent til huseierforening eller andre foreninger</p>
+<p xml:lang="fit">JaNei</p>
+<p xml:lang="fit">JaNei</p>
+<p xml:lang="dan"><em type="bold">Rettledning</em> </p>
+<p xml:lang="dan"><em type="bold">Hvem skal levere skjemaet</em> </p>
+<p>Skjemaet skal leveres av alle som har skattepliktige utleieinntekter fra fast eiendom i Norge og i utlandet når utleien drives utenom næringsvirksomhet slik at utleieinntektene ikke er tatt med i næringsoppgaven. Skjemaet skal også leveres for utleie av tomt og grunn, for eksempel jordbruksareal. l tillegg skal skjemaet brukes når eieren yter føderåd i form av borett utenom jord- og skogbruk. Det er ikke plikt til å levere skjemaet ved utleie av</p>
+<p>- fritidsbolig som eieren bruker selv i rimelig omfang - boligeiendom der utleieinntektene er skattefrie</p>
+<p>Er du i tvil om du har plikt til å levere skjemaet, se skatteloven § 7-2, se brosjyre om skatt ved utleie av bolig og fritidseiendom på skatteetaten.no eller ta kontakt med skattekontoret.</p>
+<p><em type="bold">Sameie</em> Dersom eiendommen eies i sameie, skal alle sameierne levere inn hvert sitt skjema. Er to av sameierne ektefeller, se nedenfor. Hver enkelt sameier skal fylle ut skjemaet med sin forholdsmessige andel av inntekter og kostnader i hver enkelt post basert på eierandelens størrelse (din sameierandel i prosent). Eksempel: Om eiendommen eies av to personer i sameie og de har like stor eierandel hver, skal begge fylle ut hvert sitt skjema på vanlig måte, men slik at 50 % av inntektene og kostnadene føres i hvert skjema. Summen av inntektene og utgiftene i skjemaene skal tilsvare de totale inntektene og utgiftene på eiendommen. </p>
+<p>Dersom to ektefeller eier eiendommen i sameie (ektefellene alene eller i sameie med andre) kan ektefellene levere ett skjema. Ønsker to ektefeller å foreta en ektefellefordeling, se rettledningen til post 2.11. Er det også andre sameiere i eiendommen, må disse levere skjema på vanlig måte, jf. avsnittet ovenfor.</p>
+<p><em type="bold">Inntekter og kostnader</em> </p>
+<p>Inntekter ved utleie er skattepliktig for det året de opptjenes, uavhengig av når leien etter avtalen skal betales eller faktisk blir betalt. Dette innebærer at påløpt husleie i året skal føres til inntekt selv om betalingen ikke er mottatt i vedkommende år. Dersom beløpet i disse tilfellene ikke blir betalt, se post 2.5. Forskuddsbetalt leie skal ikke oppgis som inntekt før leien er opptjent, det vil si det år leien gjelder for. Fordel ved at eier delvis bruker regnskapsliknet boligeiendom som egen bolig er ikke skattepliktig inntekt.</p>
+<p>Kostnader skal føres til fradrag i det år betalingsforpliktelsen er pådratt uavhengig av når kostnadene skal betales eller faktisk blir betalt. Verken avtalt forfallstid eller tidspunkt for faktisk betaling har således betydning for når kostnaden skal komme til fradrag.</p>
+<p>Her føres leieinntekt påløpt i inntektsåret. Post 1.1</p>
+<p>Post 1.2Kår: utleieverdi av bolig hvor fri borett for bestemt(e) person(er) er påheftet eiendommen (føderåd). Posten gjelder kun kårbolig/-leilighet som ikke er knyttet til næringsvirksomhet i jord-/skogbruk (leieverdien føres da i RF-1177). Posten skal ikke fylles ut dersom kårmottaker bærer alle driftskostnader iht. opprinnelig kjøpekontrakt. Brutto kårytelse føres til fradrag i post 3.3.3 i selvangivelsen. Leieverdiene skal i 2014 fastsettes etter følgende sjablongverdier:</p>
+<p>Bruksareal Over 100 m² 60 – 100 m² Under 60 m²</p>
+<p>Leieverdi kr  26 500 kr  19 800 kr  13 200</p>
+<p>Bruksareal er alt areal innenfor yttervegg med minimum 190 cm takhøyde. Har boligen ikke bade-/dusjrom eller wc, reduseres verdien med 25%. Samme reduksjon gjelder dersom avstanden til kommuneadministrasjonen er over 15 km. Oppfylles begge nevnte vilkår, er reduksjonen samlet 40%.</p>
+<p>Post 1.3Dersom leietakeren har refundert vedlikeholdskostnader som inngår i kostnadene som er oppført i skjemaet, skal mottatt beløp føres her. Post 1.4Leier du ut en leilighet i boligselskap (borettslag og boligaksjeselskap) eller boligsameie, skal du føre din andel av selskapets/sameiets inntekt her. Beløpet står i oppgaven fra boligselskapet/boligsameiet. Merk at forhåndsutfylt beløp som knytter seg til leiligheten må strykes i selvangivelsen, se nærmere i rettledningen til selvangivelsen post 2.8.1. Kårytelser utenom fri borett (naturalia, kontantkår) føres også her.</p>
+<p>Post 2.1Her oppgis festeavgift og andel av fradragsberettigede kostnader i boligselskap/boligsameie pådratt i inntektsåret. Merk at leilighetens andel av kostnader til boligselskap/boligsameie som er forhåndsutfylt må strykes i selvangivelsen. Eventuell nedbetaling av fellesgjeld er ikke fradragsberettiget, og skal derfor ikke inngå i beløpet som skal fylles ut i denne post. Dersom spesifiserte opplysninger om fradragsberettiget beløp ikke kan innhentes fra boligselskapet/boligsameiet, må skattyter beregne beløpet skjønnsmessig. Dersom eieren selv benytter en del av boligen som egen bolig, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen.</p>
+<p>Post 2.2Her føres kommunale avgifter som renovasjon og vann- og kloakkavgift. Videre føres forsikringspremier for eiendommen her. Eventuell eiendomsskatt føres også her. Dersom eieren selv benytter en del av boligen som egen bolig må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen. Skatt på formue og inntekt er derimot ikke fradragsberettiget.</p>
+<p>Post 2.3Her føres eventuell utbetalt lønn, for eksempel til vaktmester, bestyrer, forretningsfører og lignende. Dersom eieren selv benytter en del av boligen, som egen bolig, og det ikke kan avgjøres hvilken del av boligen lønnskostnadene knytter seg til, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen, etter utleieverdi.</p>
+<p>Post 2.4Vedlikehold. Vedlikeholdskostnader påløpt i året, det vil si kostnader til å føre eiendommen tilbake til den stand den tidligere har vært i, kan føres til fradrag. Dersom eieren selv benytter en del av boligen som egen bolig gis det ikke fradrag for vedlikeholdskostnadene knyttet til denne delen. Kan det ikke avgjøres hvilken del av boligen vedlikeholdskostnadene knytter seg til, må kostnadene fordeles på henholdsvis den skattefrie og den skattepliktige delen av boligen, etter utleieverdi. Påkostninger skal ikke fradras her, men tillegges eiendommens kostpris ved beregning av inngangsverdien av eiendommen ved beregning av eventuell skattepliktig gevinst eller fradragsberettiget tap ved salg av eiendommen. Som påkostninger regnes kostnader til å føre eiendommen til en bedre eller annen stand enn den tidligere har vært i, for eksempel tilbygg, modernisering eller rene endringer. Post 2.5Konstatert tap av inntekt ved utleie. Det foreligger fradragsrett for endelig konstatert tap av inntekt ved utleie når denne tidligere har vært skattlagt som inntekt. Tapet anses endelig konstatert: - når det har vært foretatt tvangsinndriving eller inkasso som har vært forgjeves, eller - offentlig gjeldsforhandling, konkurs, likvidasjons- eller avviklingsbehandling i skyldnerens bo gjør det klart at bomidlene ikke gir eller   vil gi dekning av fordringen, eller - når fordringen ellers må anses som uerholdelig.</p>
+<p>Post 2.6Avskrivning av bygning. Gjelder ikke tomt eller boligeiendom. Saldoskjema er pliktig vedlegg når avskrivning kreves (RF-1084).</p>
+<p>Post 2.7Andre kostnader. Dersom leien er inkludert lys, brensel, renhold mv. føres kostnadene til dette her. Ved utleie av møblert bolig ved korttidsleie, hvor eieren selv bruker innboet før og etter utleieperioden, kan det kreves fradrag for slit og elde av møbler fastsatt til 15 % av brutto leieinntekter. Denne regelen skal normalt ikke benyttes når utleieperioden er over tre år. Ved langtidsutleie kan utleide møbler med kostpris under kr 15 000 fradragsføres direkte. Er kostprisen for møbler og inventar kr 15 000 eller høyere, kan det foretas saldoavskrivning (saldogruppe d, avskrivningssats 20 %). Saldoskjema (RF-1084) må da vedlegges. Du kan også kreve avstandsfradrag etter faste satser for kostnader forbundet med reiser som er utført i tilknytning til utleien, for eksempel ved visninger, vedlikehold og tilsyn, se skatteetaten.no for hvilke satser som skal brukes. Kostnader til oppmåling av regnskapslignet boligeiendom for innrapportering av arealopplysninger ved formuesverdsettelse av boligen er fradragsberettiget og føres her. Hvis eieren en del av året har brukt boligen som egen bolig, avkortes fradraget forholdsmessig.</p>
+<p>Post 2.8Dersom kostnadene ført i post 2.7 også omfatter lys, brensel, renhold mv. av bolig som eieren selv bruker, må den del av kostnadene som vedrører denne boligen tilbakeføres her.</p>
+<p>Ektefeller kan velge å fordele nettoinntekten (overskudd/underskudd) i post 2.10. Dette gjelder uavhengig av om eiendommen er eid av ektefellene i sameie eller om en av ektefellene eier eiendommen alene. Dersom ektefellene ønsker å fordele, er det viktig at det kun sendes inn ett skjema (ikke to) som vedlegges selvangivelsen til én av ektefellene.</p>
+<p xml:lang="smn">Post 2.11</p>
+<p xml:lang="dan">DatoUnderskrift</p>
+</body></document>

@@ -1,69 +1,44 @@
-<document xml:lang="nob" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="nob" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
-    </translator>
-    <wordcount>193</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <parallel_text xml:lang="fin" location="institutin_kesanayttely_a.paulsen_kuvalista_suomi.doc"/>
-    <parallel_text xml:lang="fkv" location="kainun_institutti_kesanayttely_2011_a._paulsen_kuvatekstit_kvaani.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Fotoutstilling</p>
-    <p>1. Små engkall <em type="italic">(Rhinanthus minor) </em>fotografert i februar </p>
-    <p>2. Gaissene vest for Skoganvarre (Porsanger)</p>
-    <p>3. Havstrømmer</p>
-    <p>4. Tjelden har vårflørt på Storsteinen (Østerbotn)</p>
-    <p>5. Vårflom i Sangofossen</p>
-    <p>6. Trollskog. Nattfoto fra Skoganvarre (Porsanger)</p>
-    <p>7. Monolitt ved Persfjord (Varanger)</p>
-    <p>8. Trollholmsund (Porsanger)</p>
-    <p>9. Kloster på Solovetsky i Kvitesjøen (Russland)</p>
-    <p>10. Kveldslys på Sennaland</p>
-    <p>11. Kunstnerbyen Vance i Sør-Frankrike</p>
-    <p>12. Inngangsdør i Montanza (Cuba)</p>
-    <p>13. Steinlav i Lohtivaara (Porsanger)</p>
-    <p>14. Fargelek på stein</p>
-    <p>15. Asbeststrand på Korsika</p>
-    <p>16. Frostens egne kunstverk på Nedrevann (Porsanger)</p>
-    <p>17. Hus på Mallorca Snorene holder duene borte</p>
-    <p>18. Teiebær <em type="italic">(Rubus saxatilis.) </em>Fotografert ved Silfar (Porsanger) </p>
-    <p>19. Måke-flørt ved Väkkärä (Porsanger)</p>
-    <p>20. Hotellfrokost</p>
-    <p>21. Ekorn etter første frostnatt i Lakselv (Porsanger)</p>
-    <p>22. Kubansk sangerinne</p>
-    <p>23. Fossefall i Porsanger</p>
-    <p>24a. Fjellsmelle <em type="italic">(Silene graulis) </em></p>
-    <p>24b. Engklokke <em type="italic">(Capanula patula). </em>Funnet i Børselv sjelden </p>
-    <p>25. Porsangerfjorden på tvers. Fotografert fra Väkkärä</p>
-    <p>26. Monsterfigur i fjell (Porsanger)</p>
-    <p>27. Halkavarre sett fra Siritoppen</p>
-    <p>Småbilder:</p>
-    <p>28. Måke ved reir</p>
-    <p>29. Flaggspett</p>
-    <p>30. Heilo</p>
-    <p>31. Tjeld i ferskvann (Porsanger)</p>
-    <p>32. Hare i blomsterbed</p>
-    <p>33. Blomkarsefrokost</p>
-    <p>34. Nøtteliten sitter ikke alltid i et tre</p>
-    <p>35. Elefant i Samburu (Kenya)</p>
-    <p>36. Sebra (Kenya)</p>
-    <p>37. Giraff i Samburu (Kenya)</p>
-    <p>38. Gepard-valper</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><translator><person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/></translator><wordcount>193</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><parallel_text xml:lang="fin" location="institutin_kesanayttely_a.paulsen_kuvalista_suomi.doc"/><parallel_text xml:lang="fkv" location="kainun_institutti_kesanayttely_2011_a._paulsen_kuvatekstit_kvaani.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Fotoutstilling</p>
+<p>1. Små engkall <em type="italic">(Rhinanthus minor) </em>fotografert i februar </p>
+<p>2. Gaissene vest for Skoganvarre (Porsanger)</p>
+<p>3. Havstrømmer</p>
+<p>4. Tjelden har vårflørt på Storsteinen (Østerbotn)</p>
+<p>5. Vårflom i Sangofossen</p>
+<p>6. Trollskog. Nattfoto fra Skoganvarre (Porsanger)</p>
+<p>7. Monolitt ved Persfjord (Varanger)</p>
+<p>8. Trollholmsund (Porsanger)</p>
+<p>9. Kloster på Solovetsky i Kvitesjøen (Russland)</p>
+<p>10. Kveldslys på Sennaland</p>
+<p>11. Kunstnerbyen Vance i Sør-Frankrike</p>
+<p>12. Inngangsdør i Montanza (Cuba)</p>
+<p>13. Steinlav i Lohtivaara (Porsanger)</p>
+<p>14. Fargelek på stein</p>
+<p>15. Asbeststrand på Korsika</p>
+<p>16. Frostens egne kunstverk på Nedrevann (Porsanger)</p>
+<p>17. Hus på Mallorca Snorene holder duene borte</p>
+<p>18. Teiebær <em type="italic">(Rubus saxatilis.) </em>Fotografert ved Silfar (Porsanger) </p>
+<p>19. Måke-flørt ved Väkkärä (Porsanger)</p>
+<p>20. Hotellfrokost</p>
+<p>21. Ekorn etter første frostnatt i Lakselv (Porsanger)</p>
+<p>22. Kubansk sangerinne</p>
+<p>23. Fossefall i Porsanger</p>
+<p>24a. Fjellsmelle <em type="italic">(Silene graulis) </em></p>
+<p>24b. Engklokke <em type="italic">(Capanula patula). </em>Funnet i Børselv sjelden </p>
+<p>25. Porsangerfjorden på tvers. Fotografert fra Väkkärä</p>
+<p>26. Monsterfigur i fjell (Porsanger)</p>
+<p>27. Halkavarre sett fra Siritoppen</p>
+<p>Småbilder:</p>
+<p>28. Måke ved reir</p>
+<p>29. Flaggspett</p>
+<p>30. Heilo</p>
+<p>31. Tjeld i ferskvann (Porsanger)</p>
+<p>32. Hare i blomsterbed</p>
+<p>33. Blomkarsefrokost</p>
+<p>34. Nøtteliten sitter ikke alltid i et tre</p>
+<p>35. Elefant i Samburu (Kenya)</p>
+<p>36. Sebra (Kenya)</p>
+<p>37. Giraff i Samburu (Kenya)</p>
+<p>38. Gepard-valper</p>
+</body></document>
