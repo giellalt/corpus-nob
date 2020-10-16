@@ -1,5 +1,5 @@
 <document xml:lang="nob" id="no_id"><header><title>Om pronomen</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>5351</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.nob.html</origFileName><parallel_text xml:lang="eng" location="pronomen.eng.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="eng">Om pronomen</p>
-<list><p type="listitem">Pronomener</p>
+<list><p type="listitem" xml:lang="ita">Pronomener</p>
 <p type="listitem" xml:lang="nno">Personlige pronomen</p>
 <p type="listitem" xml:lang="nno">Påpekende pronomen</p>
 <p type="listitem" xml:lang="nno">Påpekende pronomen sammen med substantiv</p>
@@ -9,11 +9,11 @@
 <p type="listitem" xml:lang="nno">Resiproke pronomen</p>
 <p type="listitem" xml:lang="nno">Ubestemte pronomen</p>
 </list><p>Tilbake til grammatikk hovedside .</p>
-<p type="title">Pronomener</p>
+<p type="title" xml:lang="ita">Pronomener</p>
 <p xml:lang="nno">Pronomener er ord som står i steden for substantiv.</p>
 <p type="title" xml:lang="nno">Personlige pronomen</p>
 <p>Personlige pronomen finnes i entall, totall og flertall. Totall brukes om to personer, f.eks. <em type="italic">Moai bohte. </em>(Vi to kommer) og <em type="italic">Doai boahtibeahtti. </em>(Dere to kommer). Samisk skiller ikke mellom han/hun, og har bare ett tredjepersonspronomen i entall; <em type="italic">son </em>. Grunnformene (nominativformene) er: </p>
-<list><p type="listitem" xml:lang="sme">entall: <em type="italic">mun, don, son </em></p>
+<list><p type="listitem" xml:lang="swe">entall: <em type="italic">mun, don, son </em></p>
 <p type="listitem" xml:lang="sme">totall: <em type="italic">moai, doai, soai </em></p>
 <p type="listitem" xml:lang="sme">flertall: <em type="italic">mii, dii, sii </em></p>
 </list><p>I talespråket brukes gjerne <em type="italic">'dat' </em>som tredjepersonspronomen i alle tall. Ved slik bruk er det viktig å huske på at verbet fortsatt bøyes i entall, totall og flertall, f.eks. </p>
@@ -66,27 +66,27 @@
 <p xml:lang="vep"><em type="italic">Nom. </em></p>
 <p xml:lang="smj"><em type="italic">Akk./Gen. </em></p>
 <p xml:lang="eng"><em type="italic">Ill. </em></p>
-<p xml:lang="isl"><em type="italic">Lok. </em></p>
+<p xml:lang="tur"><em type="italic">Lok. </em></p>
 <p xml:lang="vep"><em type="italic">Kom. </em></p>
-<p xml:lang="swe"><em type="italic">Essiv </em></p>
+<p xml:lang="ita"><em type="italic">Essiv </em></p>
 <p xml:lang="smn"><em type="italic">mun </em></p>
 <p xml:lang="smn"><em type="italic">mu </em></p>
-<p xml:lang="smn"><em type="italic">munnje </em></p>
+<p xml:lang="hbs"><em type="italic">munnje </em></p>
 <p xml:lang="sme"><em type="italic">mus </em></p>
 <p xml:lang="kal"><em type="italic">muinna </em></p>
-<p xml:lang="fin"><em type="italic">munin </em></p>
+<p xml:lang="fao"><em type="italic">munin </em></p>
 <p xml:lang="sme"><em type="italic">don </em></p>
-<p xml:lang="sme"><em type="italic">du </em></p>
-<p xml:lang="sme"><em type="italic">dutnje </em></p>
+<p xml:lang="fra"><em type="italic">du </em></p>
+<p xml:lang="hbs"><em type="italic">dutnje </em></p>
 <p xml:lang="sme"><em type="italic">dus </em></p>
 <p xml:lang="sme"><em type="italic">duinna </em></p>
-<p xml:lang="ron"><em type="italic">dunin </em></p>
+<p xml:lang="tur"><em type="italic">dunin </em></p>
 <p xml:lang="nno"><em type="italic">son </em></p>
-<p xml:lang="kal"><em type="italic">su </em></p>
-<p xml:lang="smn"><em type="italic">sutnje </em></p>
+<p xml:lang="smn"><em type="italic">su </em></p>
+<p xml:lang="hbs"><em type="italic">sutnje </em></p>
 <p xml:lang="est"><em type="italic">sus </em></p>
 <p xml:lang="kal"><em type="italic">suinna </em></p>
-<p xml:lang="smn"><em type="italic">sunin </em></p>
+<p xml:lang="fao"><em type="italic">sunin </em></p>
 <p xml:lang="sme"><em type="italic">moai </em></p>
 <p xml:lang="fkv"><em type="italic">munno </em></p>
 <p xml:lang="sme"><em type="italic">munnuide </em></p>
@@ -102,9 +102,9 @@
 <p xml:lang="sme"><em type="italic">soai </em></p>
 <p xml:lang="rmn"><em type="italic">sudno </em></p>
 <p xml:lang="sme"><em type="italic">sudnuide </em></p>
-<p xml:lang="vep"><em type="italic">sudnos </em></p>
+<p xml:lang="spa"><em type="italic">sudnos </em></p>
 <p xml:lang="sme"><em type="italic">sudnuin </em></p>
-<p xml:lang="vep"><em type="italic">sudnon </em></p>
+<p xml:lang="ita"><em type="italic">sudnon </em></p>
 <p xml:lang="sme"><em type="italic">mii </em></p>
 <p xml:lang="fin"><em type="italic">min </em></p>
 <p xml:lang="sme"><em type="italic">midjiide </em></p>
@@ -116,13 +116,13 @@
 <p xml:lang="sme"><em type="italic">didjiide </em></p>
 <p xml:lang="sme"><em type="italic">dis </em></p>
 <p xml:lang="sme"><em type="italic">dinguin </em></p>
-<p xml:lang="ron"><em type="italic">dinin </em></p>
+<p xml:lang="kmr"><em type="italic">dinin </em></p>
 <p xml:lang="smn"><em type="italic">sii </em></p>
 <p xml:lang="fin"><em type="italic">sin </em></p>
 <p xml:lang="sme"><em type="italic">sidjiide </em></p>
 <p xml:lang="sme"><em type="italic">sis </em></p>
-<p xml:lang="sme"><em type="italic">singuin </em></p>
-<p xml:lang="fkv"><em type="italic">sinin </em></p>
+<p xml:lang="fao"><em type="italic">singuin </em></p>
+<p xml:lang="fao"><em type="italic">sinin </em></p>
 <p type="title" xml:lang="nno">Påpekende pronomen</p>
 <p>Påpekende pronomen brukes når man refererer til ting man ser, eller ting som er forstått i konteksten. Samisk har følgende påpekende pronomen:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">dat </em></p>
@@ -169,7 +169,7 @@
 <p type="listitem">(Jeg legger tingene på den der.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Daidda' čatnasit ollu ovdagáttut. </em></p>
 <p type="listitem">(Til dem knytter det seg mye fordommer.)</p>
-</list><p><em type="italic">Lokativ </em>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe. Endelsen er '-s' i entall og '-in' i flertall. </p>
+</list><p><em type="italic">Lokativ </em>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe. Endelsen er '-s' i entall og '-in' </p>
 <list><p type="listitem"><em type="italic">'Dies' oažžu veahki. </em>(Fra den der får du hjelp.) </p>
 <p type="listitem" xml:lang="nno"><em type="italic">'Dáin' ii leat ollu ávki. </em>(I disse er det ikke mye nytte.) </p>
 </list><p><em type="italic">Komitativ </em>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>. Flertallspronomener får endelsen '-guin'. </p>
@@ -197,9 +197,9 @@
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="sme"><em type="italic">dasa </em></p>
 <p xml:lang="sme"><em type="italic">daidda </em></p>
-<p xml:lang="sme"><em type="italic">duosa </em></p>
+<p xml:lang="ita"><em type="italic">duosa </em></p>
 <p xml:lang="sme"><em type="italic">duoidda </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="deu"><em type="italic">das </em></p>
 <p xml:lang="sme"><em type="italic">dain </em></p>
 <p xml:lang="sme"><em type="italic">duos </em></p>
@@ -209,9 +209,9 @@
 <p xml:lang="sme"><em type="italic">daiguin </em></p>
 <p xml:lang="isl"><em type="italic">duoinna </em></p>
 <p xml:lang="sme"><em type="italic">duoiguin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="sme"><em type="italic">danin </em></p>
-<p xml:lang="sme"><em type="italic">duonin </em></p>
+<p xml:lang="ita"><em type="italic">duonin </em></p>
 <p type="title" xml:lang="nno">Påpekende pronomen sammen med substantiv</p>
 <p xml:lang="nno">Påpekende pronomen kan stå sammen med et substantiv. Da er det substantivet som bøyes i kasus. Pronomenet skal vanligvis stå i samme kasus som substantivet, f.eks.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Dieinna' mašiinnain lei álki goarrut. </em></p>
@@ -239,13 +239,13 @@
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="sme"><em type="italic">dan mánnái </em></p>
 <p xml:lang="sme"><em type="italic">daidda mánáide </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="smj"><em type="italic">dan mánás </em></p>
 <p xml:lang="sme"><em type="italic">dain mánáin </em></p>
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">dainna mánáin </em></p>
 <p xml:lang="sme"><em type="italic">daiguin mánáiguin, daid mánáiguin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="sme"><em type="italic">danin mánnán </em></p>
 <p type="title" xml:lang="nno">Spørrende og relative pronomen</p>
 <p>Samisk har følgende spørre- og relativpronomen:</p>
@@ -357,7 +357,7 @@
 <p xml:lang="sme"><em type="italic">gean </em></p>
 <p xml:lang="sme"><em type="italic">geaid </em></p>
 <p xml:lang="smj">Gen.</p>
-<p xml:lang="sma"><em type="italic">man </em></p>
+<p xml:lang="kmr"><em type="italic">man </em></p>
 <p xml:lang="sme"><em type="italic">maid </em></p>
 <p xml:lang="sme"><em type="italic">gean </em></p>
 <p xml:lang="sme"><em type="italic">geaid </em></p>
@@ -366,7 +366,7 @@
 <p xml:lang="sme"><em type="italic">maidda </em></p>
 <p xml:lang="sme"><em type="italic">geasa </em></p>
 <p xml:lang="sme"><em type="italic">geaidda </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="sme"><em type="italic">mas </em></p>
 <p xml:lang="sme"><em type="italic">main </em></p>
 <p xml:lang="sme"><em type="italic">geas </em></p>
@@ -376,8 +376,8 @@
 <p xml:lang="sme"><em type="italic">maiguin </em></p>
 <p xml:lang="sme"><em type="italic">geainna </em></p>
 <p xml:lang="sme"><em type="italic">geaiguin </em></p>
-<p xml:lang="swe">Essiv</p>
-<p xml:lang="sme"><em type="italic">manin </em></p>
+<p xml:lang="ita">Essiv</p>
+<p xml:lang="kmr"><em type="italic">manin </em></p>
 <p xml:lang="sme"><em type="italic">geanin </em></p>
 <p xml:lang="deu"><em type="italic">KASUSBØYNING </em></p>
 <p xml:lang="swe"><em type="italic">Entall </em></p>
@@ -399,7 +399,7 @@
 <p xml:lang="sme"><em type="italic">guđiide </em></p>
 <p xml:lang="sme"><em type="italic">guđemužžii </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččaide </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="smj"><em type="italic">guđes </em></p>
 <p xml:lang="sme"><em type="italic">guđiin </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččas </em></p>
@@ -409,7 +409,7 @@
 <p xml:lang="sme"><em type="italic">guđiiguin </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččain </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččaiguin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="sma"><em type="italic">guhten </em></p>
 <p xml:lang="sme"><em type="italic">guđemužžan </em></p>
 <p type="title" xml:lang="nno">Spørrende og relative pronomen sammen med substantiv</p>
@@ -446,13 +446,13 @@
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="sme"><em type="italic">guđe vissui </em></p>
 <p xml:lang="sme"><em type="italic">guđiide viesuide </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="sme"><em type="italic">guđe viesus </em></p>
 <p xml:lang="sme"><em type="italic">guđiin viesuin </em></p>
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">guđiin viesuin </em></p>
 <p xml:lang="sme"><em type="italic">guđiiguin viesuiguin, guđiid viesuiguin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="sma"><em type="italic">guhten viessun </em></p>
 <p xml:lang="nno"><em type="italic">'mii' sammen med substantiv </em></p>
 <p xml:lang="swe"><em type="italic">Entall </em></p>
@@ -469,13 +469,13 @@
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="sme"><em type="italic">man vissui </em></p>
 <p xml:lang="sme"><em type="italic">maidda viesuide </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="sme"><em type="italic">man viesus </em></p>
 <p xml:lang="sme"><em type="italic">main viesuin </em></p>
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">mainna viesuin </em></p>
 <p xml:lang="sme"><em type="italic">maiguin viesuiguin, maid viesuiguin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="smj"><em type="italic">manin viessun </em></p>
 <p>Pronomenene 'mii' og 'gii' har også andre regler. Pronomenet 'gii' brukes med substantiv bare i nominativ entall, nominativ flertall og essiv.</p>
 <p>Når pronomenet står i nominativ entall, er substantivet bøyd i akkusativ/genitiv flertall:</p>
@@ -542,12 +542,12 @@
 <p xml:lang="deu"><em type="italic">Person </em></p>
 <p xml:lang="smj"><em type="italic">Akk./Gen. </em></p>
 <p xml:lang="eng"><em type="italic">Ill. </em></p>
-<p xml:lang="isl"><em type="italic">Lok. </em></p>
+<p xml:lang="tur"><em type="italic">Lok. </em></p>
 <p xml:lang="vep"><em type="italic">Kom. </em></p>
-<p xml:lang="swe"><em type="italic">Essiv </em></p>
+<p xml:lang="ita"><em type="italic">Essiv </em></p>
 <p xml:lang="smn"><em type="italic">mun </em></p>
 <p xml:lang="sme"><em type="italic">iežan, iehčan </em></p>
-<p xml:lang="eng"><em type="italic">alccesan, alccen, alccan </em></p>
+<p xml:lang="spa"><em type="italic">alccesan, alccen, alccan </em></p>
 <p xml:lang="sme"><em type="italic">alddán </em></p>
 <p xml:lang="vep"><em type="italic">iežainan </em></p>
 <p xml:lang="smj"><em type="italic">iehčanan </em></p>
@@ -559,7 +559,7 @@
 <p xml:lang="sme"><em type="italic">iehčanat </em></p>
 <p xml:lang="nno"><em type="italic">son </em></p>
 <p xml:lang="sme"><em type="italic">iežas </em></p>
-<p xml:lang="eng"><em type="italic">alccesis, alcces </em></p>
+<p xml:lang="spa"><em type="italic">alccesis, alcces </em></p>
 <p xml:lang="sme"><em type="italic">alddis </em></p>
 <p xml:lang="sme"><em type="italic">iežainis </em></p>
 <p xml:lang="smn"><em type="italic">iehčanis </em></p>
@@ -571,7 +571,7 @@
 <p xml:lang="sma"><em type="italic">iehčaneame </em></p>
 <p xml:lang="sme"><em type="italic">doai </em></p>
 <p xml:lang="smj"><em type="italic">iežade </em></p>
-<p xml:lang="ron"><em type="italic">alcceseatte, alccede, alccade </em></p>
+<p xml:lang="ita"><em type="italic">alcceseatte, alccede, alccade </em></p>
 <p xml:lang="sme"><em type="italic">alddáde, alddiineatte </em></p>
 <p xml:lang="sme"><em type="italic">iežaineatte </em></p>
 <p xml:lang="sme"><em type="italic">iehčaneatte </em></p>
@@ -659,20 +659,20 @@
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="sme"><em type="italic">nubbi nubbái </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nuppiide </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="sme"><em type="italic">nubbi nuppis </em></p>
 <p xml:lang="fkv"><em type="italic">nuppit nuppiin </em></p>
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">nubbi nuppiin </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nuppiiguin </em></p>
-<p xml:lang="swe">Essiv</p>
-<p xml:lang="sme"><em type="italic">nubbi nubbin </em></p>
+<p xml:lang="ita">Essiv</p>
+<p xml:lang="kmr"><em type="italic">nubbi nubbin </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nubbin </em></p>
 <p xml:lang="sme"><em type="italic">'goabbat/guhtet guoibmi' </em></p>
 <p xml:lang="deu"><em type="italic">Person </em></p>
 <p xml:lang="smj"><em type="italic">Akk./Gen. </em></p>
 <p xml:lang="eng"><em type="italic">Ill. </em></p>
-<p xml:lang="isl"><em type="italic">Lok. </em></p>
+<p xml:lang="tur"><em type="italic">Lok. </em></p>
 <p xml:lang="vep"><em type="italic">Kom. </em></p>
 <p xml:lang="sme"><em type="italic">moai </em></p>
 <p xml:lang="sme"><em type="italic">goabbat guoibmáme </em></p>
@@ -727,7 +727,7 @@
 <p type="listitem">(Alle gjorde leksene.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Máret muitalii ságaid 'juohkehažžii', gii gillii gullat. </em></p>
 <p type="listitem">(Máret fortalte nyhetene til alle som giddet å høre.)</p>
-</list><p>Som ulikestavelsessubstantiv bøyes 'eanas', 'eatnagat' og 'ollugat'. 'eatnagat' og 'ollugat' er flertallsformer, og krever verb bøyd i flertall når de er subjekt i setningen:</p>
+</list><p>Som ulikestavelsessubstantiv bøyes 'eanas', 'eatnagat' og 'ollugat'. 'eatnagat' og 'ollugat' er flertallsformer, og</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Ollugat' leat suorganan. </em></p>
 <p type="listitem">(Mange er forskrekket.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Dáhpáhus váikkuhii 'eatnagiidda'. </em></p>
@@ -806,7 +806,7 @@
 <p xml:lang="sme"><em type="italic">maiddage </em></p>
 <p xml:lang="sme"><em type="italic">geasage </em></p>
 <p xml:lang="sme"><em type="italic">geaiddage </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="sme"><em type="italic">mastege, masge </em></p>
 <p xml:lang="dan"><em type="italic">mainge </em></p>
 <p xml:lang="sme"><em type="italic">geastege, geasge </em></p>
@@ -814,7 +814,7 @@
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">mainnage </em></p>
 <p xml:lang="sme"><em type="italic">geainnage </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="dan"><em type="italic">maninge </em></p>
 <p xml:lang="dan"><em type="italic">geaninge </em></p>
 <p>Spørre- og relativpronomener kan også kombineres med ordene 'vaikko', 'feara' og 'nu', og da gir de betydningen 'hvem som helst', 'en eller annen' eller lignende:</p>
@@ -882,11 +882,11 @@
 <p xml:lang="smj"><em type="italic">juoga </em></p>
 <p xml:lang="eng">Ill.</p>
 <p xml:lang="smj"><em type="italic">juosat </em></p>
-<p xml:lang="isl">Lok.</p>
+<p xml:lang="tur">Lok.</p>
 <p xml:lang="smj"><em type="italic">juostá </em></p>
 <p xml:lang="vep">Kom.</p>
 <p xml:lang="sme"><em type="italic">juoidáin </em></p>
-<p xml:lang="swe">Essiv</p>
+<p xml:lang="ita">Essiv</p>
 <p xml:lang="smj"><em type="italic">juonin </em></p>
 <p>Kasusformer av 'juoga' kan også lages ved at man kombinerer 'juoga' med en bøyningsform av 'mii', f.eks 'juoga mas', 'juoga masa'. Betydningen blir da <span type="quote">"ett eller annet"</span>. Dette er vanlig spesielt for illativ og lokativ, som i enkel bøyningsform bare kan referere til sted:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son lea 'juosat' darvánan </em>. </p>
@@ -918,7 +918,7 @@
 <p type="listitem">(Hun velger det ene av de to barna.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Fertet 'juoppá' áššis dahkat mearrádusa. </em></p>
 <p type="listitem">(Vi må ta en avgjørelse i den ene av de to sakene.)</p>
-</list><p>'goappašat' bøyes som ulikestavelsessubstantiv i flertall, mens 'guktot' bøyes som kontrakt substantiv i flertall. Foran substantiv følger 'goappašat' regler for vanlig samsvarsbøyning. 'guktot' bøyes i akkusativ/genitiv flertall foran substantiv i de fleste kasus, dvs. 'guktuid', også foran substantiv i entall. I nominativ flertall brukes formen 'guktot', og foran substantiv i lokativ flertall står også pronomenet i lokativ form:</p>
+</list><p>'goappašat' bøyes som ulikestavelsessubstantiv i flertall, mens 'guktot' bøyes som kontrakt substantiv i flertall. Foran substantiv følger 'goappašat' regler for vanlig samsvarsbøyning. 'guktot' bøyes i akkusativ/genitiv flertall foran substantiv i de fleste kasus, dvs. 'guktuid',</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son čállá 'guktuid' gieđaiguin. Son čállá 'goappašiid/goappašiiguin' gieđaiguin. </em></p>
 <p type="listitem">(Hun skriver med begge hendene.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Elle oaččui 'goappašiin' mánáin/'goappašiid' mánás skeaŋkka. Elle oaččui 'guktuin' mánáin/'guktuid' mánás' skeaŋkka. </em></p>

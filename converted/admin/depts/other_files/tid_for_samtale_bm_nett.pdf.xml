@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><place>http://www.fug.no/cgi-bin/fug/imaker?id=27768</place><wordcount>4439</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Joseph Fjellgren" email="joseph.fjellgren@samediggi.no"/><origFileName>http://www.fug.no/data/f/0/28/58/8_2401_0/Tid_for_samtale_bm_nett.pdf</origFileName><parallel_text xml:lang="nno" location="tid_for_samtale_nyn_nett.pdf"/><parallel_text xml:lang="sma" location="tid_for_samtale_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="tid_for_samtale_nordsamisk.pdf"/><parallel_text xml:lang="smj" location="tid_for_samtale_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.3 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Tid for samtale</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><place>http://www.fug.no/cgi-bin/fug/imaker?id=27768</place><wordcount>4438</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Joseph Fjellgren" email="joseph.fjellgren@samediggi.no"/><origFileName>http://www.fug.no/data/f/0/28/58/8_2401_0/Tid_for_samtale_bm_nett.pdf</origFileName><parallel_text xml:lang="nno" location="tid_for_samtale_nyn_nett.pdf"/><parallel_text xml:lang="sma" location="tid_for_samtale_sorsamisk.pdf"/><parallel_text xml:lang="sme" location="tid_for_samtale_nordsamisk.pdf"/><parallel_text xml:lang="smj" location="tid_for_samtale_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.3 $; common.xsl  $Revision: 154948 $; </version></header><body><p>Tid for samtale</p>
 <p><em type="bold">Hjem og skole sammen om elevens læring og utvikling</em> </p>
 <p> <em type="bold">Konferansetime = Utviklingssamtale</em> </p>
 <p> <em type="bold">Forberedelse</em> </p>
@@ -37,7 +37,7 @@
 <p>bedre samarbeid mellom hjem og skole. Foreldrekonferansen er en av de viktigste</p>
 <p>arenaene for samarbeid rundt barnet.</p>
 <p>Heftet er skrevet for både foreldre og lærere. I heftet brukes ordet <em type="italic">foreldre</em> </p>
-<p>både om <em type="italic">foreldre </em>og <em type="italic">foresatte</em>. </p>
+<p>både om <em type="italic">foreldre</em>og <em type="italic">foresatte</em>. </p>
 <p>Tid for samtale er utarbeidet av lærere og foreldre i Os kommune i Hordaland. Os</p>
 <p>kommune har i flere år arbeidet med metoder for veiledning og vurdering av</p>
 <p>elever. I samarbeid med Fusa kommune har en prosjektgruppe utviklet et verktøy</p>
@@ -175,7 +175,10 @@
 <p><em type="italic">Eksempel på skjema</em> </p>
 <p><em type="bold">Aktivitet i timene</em> </p>
 <p>muntlig</p>
+<p><em type="bold">Trivsel</em> </p>
 <p>friminutt og</p>
+<p><em type="bold">Hjemmearbeid</em> </p>
+<p>når g jøres</p>
 <p>skriving (og/å)</p>
 <p>aktivitet</p>
 <p>venner</p>
@@ -183,13 +186,12 @@
 <p>matematikk (algebra)  engelsk</p>
 <p>konsentrasjon</p>
 <p>timene og</p>
-<p>samarbeid <em type="bold">Hjemmearbeid</em> </p>
-<p>når g jøres</p>
 <p>arbeids</p>
+<p>samarbeid</p>
 <p>vaner</p>
 <p>(leseflyt/uttale)</p>
 <p>om arbeids</p>
-<p>oppgavene <em type="bold">Trivsel</em> </p>
+<p>oppgavene</p>
 <p>Hilsen</p>
 <p>Invitasjon til utviklingssamtalen må sendes hjem i god tid. En idé kan være at hver</p>
 <p>elev inviterer egne foreldre. I samråd med læreren finner man fram til passende</p>
@@ -246,7 +248,8 @@
 <p>eleven, men også til oppfølging fra lærer og foreldre. Et utviklingsmål må være mål</p>
 <p>bart, og eleven og foreldrene må få vite underveis om målet er innen rekkevidde.</p>
 <p>SSAAMMAARRBBEEIIDD (eksempel)</p>
-<p><em type="bold">Mål:</em> Eleven viser evne og vilje til samarbeid </p>
+<p><em type="bold">Mål:</em> Eleven viser evne </p>
+<p>og vilje til samarbeid</p>
 <p><em type="bold">Eksempler på delmål: </em></p>
 <p>Eleven lytter til andre  Eleven arbeider aktivt med</p>
 <p>felles oppgaver</p>
@@ -360,7 +363,8 @@
 <p>utviklingsmål for neste arbeidsperiode.</p>
 <p><em type="bold">RESPEKT OG </em></p>
 <p><em type="bold">TOLERANSE</em> </p>
-<p><em type="bold">Mål: </em> Eleven viser respekt og toleranse for sine medmennesker </p>
+<p><em type="bold">Mål: </em> Eleven viser respekt og </p>
+<p>toleranse for sine medmennesker</p>
 <p><em type="bold">Delmål (eksempler):</em> </p>
 <p>Eleven viser tålmodighet med dem</p>
 <p>som trenger det</p>

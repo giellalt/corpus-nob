@@ -1,7 +1,7 @@
 <document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1043</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1125B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1125s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skjemaet skal fylles ut uoppfordret og legges ved selvangivelsen av alle skattytere som krever fradrag for egne og leasede personbiler (herunder stasjonsvogner),  varebiler, kombinerte biler, busser med inntil 15 passasjerplasser samt lastebiler med totalvekt under 7 500 kilo.</p>
-<p>- dersom det kun kreves fradrag etter kilometersats for yrkeskjøring med privatbil (gjelder hovedsakelig bil som brukes mindre enn 6 000 kilometer i yrke/næring) - av lønnstakere som mottar bilgodtgjørelse med krav om forenklet overskuddsberegning (om forenklet overskuddsberegning, se tema <span type="quote" xml:lang="nno">"Bil"</span> i   rettledningen til selvangivelsen) - for arbeidsgivers biler benyttet av arbeidstaker hvor standard fordel (30 % av bilens listepris som ny inntil kr 280 100 og 20 % av overstigende beløp) er   innberettet på lønns- og trekkoppgave - dersom man har plikt til å fylle ut RF-1223 <span type="quote">"Drosje- og lastebilnæring"</span>, dvs. alle som innehar bevilling for personbefordring utenfor rute eller   driver med lastebilnæring. Likningsmyndighetene kan også i ovennevnte tilfeller kreve skjemaet utfylt dersom dette finnes nødvendig. Rettledning finnes på baksiden av skjemaet.</p>
+<p>- dersom det kun kreves fradrag etter kilometersats for yrkeskjøring med privatbil (gjelder hovedsakelig bil som brukes mindre enn 6 000 kilometer i yrke/næring) - av lønnstakere som mottar bilgodtgjørelse med krav om forenklet overskuddsberegning (om forenklet overskuddsberegning, se tema <span type="quote" xml:lang="ita">"Bil"</span> i   rettledningen til selvangivelsen) - for arbeidsgivers biler benyttet av arbeidstaker hvor standard fordel (30 % av bilens listepris som ny inntil kr 280 100 og 20 % av overstigende beløp) er   innberettet på lønns- og trekkoppgave - dersom man har plikt til å fylle ut RF-1223 <span type="quote">"Drosje- og lastebilnæring"</span>, dvs. alle som innehar bevilling for personbefordring utenfor rute eller   driver med lastebilnæring. Likningsmyndighetene kan også i ovennevnte tilfeller kreve skjemaet utfylt dersom dette finnes nødvendig. Rettledning finnes på baksiden av skjemaet.</p>
 <p><em type="bold">Unntak:</em>Skjemaet skal ikke ukrevet leveres: </p>
-<p xml:lang="est">Postnr.</p>
+<p xml:lang="pol">Postnr.</p>
 <p>NavnOrganisasjonsnummerFødselsnummer</p>
 <p xml:lang="eng">GateadressePoststed</p>
 <p>Regnskapsførers navnPostnr.Poststed</p>
@@ -65,7 +65,7 @@
 <p xml:lang="eng">Drivstoff</p>
 <p xml:lang="vep">Vedlikehold</p>
 <p xml:lang="nno">Forsikringer og avgifter</p>
-<p xml:lang="isl">Sum driftskostnader</p>
+<p xml:lang="fao">Sum driftskostnader</p>
 <p xml:lang="dan">Eventuelle saldoavskrivninger</p>
 <p xml:lang="eng">Eventuell leasingleie</p>
 <p xml:lang="dan">Mottatt bilgodtgørelse</p>
@@ -77,7 +77,7 @@
 <p>av 75 % tilbakeføring</p>
 <p>Faktisk tilbakeføring for privat bruk</p>
 <p xml:lang="isl">÷</p>
-<p xml:lang="swe">÷÷</p>
+<p xml:lang="tur">÷÷</p>
 <p xml:lang="swe">Driftskostnader i yrket</p>
 <p xml:lang="dan">Overskudd</p>
 <p xml:lang="dan">Underskudd</p>
@@ -92,7 +92,7 @@
 <p>Fordel ved privatkjøring fastsettes ut fra reglene om privat bruk av arbeidsgivers bil. Denne fordelen fastsettes til 30 % av bilens listepris som ny inntil kr 280 100 og 20 % av overskytende listepris.</p>
 <p>Grunnlaget ved beregningen etter forrige avsnitt er i utgangspunktet 100 % av bilens listepris som ny, men for: - biler eldre enn 3 år per 1. januar i inntektsåret, eller - skattytere som godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret blir det ved utregningen tatt utgangspunkt i 75 % av bilens listepris som ny.</p>
 <p>For: - el-bil blir det ved utregningen tatt utgangspunkt i 50 % av bilens listepris som ny.</p>
-<p>Er bilen eldre enn 3 år per 1. januar i inntektsåret og skattyter godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret, blir det ved utregningen tatt utgangspunkt i 56,25 % av bilens listepris som ny. Ved kombinasjon av bil eldre enn 3 år per 1. januar i inntektsåret og el-bil, blir det ved utregningen tatt utgangspunkt i 37,5 % av bilens listepris som ny. Er bilen en el-bil og skattyter godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret, blir det ved utregningen tatt utgangspunkt i 50 % av bilens listepris som ny. Ved bilordning i deler av inntektsåret, gjennomføres fordelsbeskatningen forholdsmessig for det antall hele og påbegynte måneder bilen har stått til disposisjon.</p>
+<p>Er bilen eldre enn 3 år per 1. januar i inntektsåret og skattyter godtgjør at yrkeskjøringen overstiger 40 000 km i inntektsåret, blir det ved utregningen tatt utgangspunkt i 56,25 % av bilens listepris som ny. Ved kombinasjon av bil eldre enn 3 år per 1. januar </p>
 <p>Eksempel på når en bil må regnes som eldre enn 3 år per 1. januar i inntektsåret er bil førstegangsregistrert 5. januar 2010. Deretter legger man til 3 år. Dette gir datoen 5. januar 2013. Inntektsåret etter, dvs. 2014, blir bilen regnet som eldre enn 3 år per 1. januar i inntektsåret. Tilbakeføring for privat fordel skal ikke overstige 75 % av de faktiske kostnader med tillegg av en årlig saldoavskrivning på 17 % med utgangspunkt i bilens listepris på tidspunktet for førstegangs registrering.</p>
 <p xml:lang="est">(Listepris x 0,83</p>
 <p>n) x 0,17 = saldoavskrivningen. n = antall påbegynte inntektsår bilen er registrert før det aktuelle inntektsåret.</p>

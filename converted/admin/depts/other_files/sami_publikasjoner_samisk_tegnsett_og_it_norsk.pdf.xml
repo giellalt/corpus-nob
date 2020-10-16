@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3709</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_publikasjoner_samisk_tegnsett_og_it_norsk.pdf</origFileName><parallel_text xml:lang="sme" location="sami_rapporter_samisktegnsettogit_sa.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">KOMMUNAL- OG REGIONALDEPARTEMENTET </em></p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3710</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_publikasjoner_samisk_tegnsett_og_it_norsk.pdf</origFileName><parallel_text xml:lang="sme" location="sami_rapporter_samisktegnsettogit_sa.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">KOMMUNAL- OG REGIONALDEPARTEMENTET </em></p>
 <p><em type="bold">SAMISK TEGNSETT OG IT </em></p>
 <p><em type="bold">RAPPORT FRA ARBEIDSGRUPPE </em></p>
 <p><em type="bold">FEBRUAR 2002</em> </p>
@@ -8,8 +8,10 @@
 <p><em type="italic"> ARBEIDSGRUPPENS SAMMENSETNING OG MANDAT  </em></p>
 <p><em type="italic"> eNORGE 6 </em></p>
 <p><em type="italic"> PROBLEMER FOR BRUKERE AV SAMISK I OFFENTLIGE REGISTRE OG FORVALTNING  </em></p>
-<p><em type="italic">4.1 Brønnøysundregistrene  4.1.1 Behov  4.1.2 Hindringer  4.1.3 Vurdering i forhold til Stadnamnlova  4.1.4 Konklusjon  </em></p>
-<p><em type="italic">4.2 Biblioteksektoren 9 4.2.1 Problem  4.2.2 Løsninger  </em></p>
+<p><em type="italic">4.1 Brønnøysundregistrene  </em></p>
+<p><em type="italic">4.1.1 Behov  4.1.2 Hindringer  4.1.3 Vurdering i forhold til Stadnamnlova  4.1.4 Konklusjon  </em></p>
+<p><em type="italic">4.2 Biblioteksektoren 9 </em></p>
+<p><em type="italic">4.2.1 Problem  4.2.2 Løsninger  </em></p>
 <p><em type="italic"> GENERELLE LØSNINGER - UNICODE  </em></p>
 <p><em type="italic">5.1 Problemer til tross for innføring av Unicode  </em></p>
 <p><em type="italic">5.2 8-bits tegnsett  </em></p>
@@ -26,17 +28,20 @@
 <p>1.2 Internasjonale konvensjoner og nasjonal lovgivning</p>
 <p>Artikkel 27 i FN-konvensjonen fra 1966 slår fast at:</p>
 <p><em type="italic">I de stater hvor det finnes etniske, religiøse eller språklige minoriteter, skal de som tilhører slike minoriteter ikke nektes retten til sammen med andre medlemmer av sin gruppe, å dyrke sin egen kultur, bekjenne seg til og utøve sin religion, eller bruke sitt eget språk. </em></p>
-<p>Denne konvensjonen er sentral da det følger av menneskerettsloven fra 1999 at konvensjonen skal gjelde som norsk lov.</p>
+<p>Denne konvensjonen er sentral da det følger av menneskerettsloven fra 1999 at konvensjonen skal gjelde som norsk </p>
 <p>ILO-konvensjon nr. 169 Om urbefolkninger og stammefolk i selvstendige stater ble ratifisert av Norge den 20. juni 1990. I artikkel 28 heter det bl.a.:</p>
 <p>aksent-a , tsje, the, eng ,esj, ŧe (ustemt the) og edsj.</p>
-<p>3 <em type="italic">. Det skal treffes tiltak for å bevare og fremme utvikling og bruk av de opprinnelige språk for vedkommende folk. </em></p>
+<p>3 <em type="italic">. Det skal treffes tiltak for å bevare og fremme utvikling og bruk av de </em></p>
+<p><em type="italic">opprinnelige språk for vedkommende folk. </em></p>
 <p>Europeisk pakt om regions- eller minoritetsspråk ble vedtatt av Europarådet 5. november 1992. Samtykke til ratifikasjon ble for Norges del gitt ved kgl. res. av 1. oktober 1993. Pakten trådte i kraft 1. mars 1998.</p>
 <p>Formålet med pakten er å verne om minoritetsspråk for på den måten å bevare europeiske kultur som sammensatt og mangeartet. Vi vil spesielt vise til konvensjonens artikkel 7 :</p>
 <p><em type="italic"> [P]artene [skal] basere sin politikk, lovgivning og praksis på følgende mål og prinsipper:[…] </em></p>
 <p><em type="italic">c. behov for besluttsom handling for å fremme regions- eller minoritetsspråk for å verne dem; </em></p>
 <p><em type="italic">d. lettelse og/eller oppmuntring i bruken av regions- eller minoritetsspråk, muntlig og skriftlig, i privat og offentlig virksomhet. </em></p>
-<p><em type="italic"> </em> Del III i minoritetsspråkpakten inneholder mer omfattende og detaljerte bestemmelser som legger konkrete plikter på myndighetene om bruk av minoritetsspråk på ulike felt, blant annet innen utdanning, rettsvesen og den offentlige forvaltningen. For Norge er del III i pakten gitt virkning for samisk ved ratifikasjonen. </p>
-<p>Grunnlovens §110 a etablerer en plikt for at statlige styresmakter skal legge forholdene til rette for at den samiske folkegruppen kan ”<em type="italic">sikre og udvikle sit Sprog, sin kultur og sit Samfunnsliv.” </em></p>
+<p><em type="italic"> </em> Del III i minoritetsspråkpakten inneholder mer omfattende og detaljerte be</p>
+<p>stemmelser som legger konkrete plikter på myndighetene om bruk av minoritetsspråk på ulike felt, blant annet innen utdanning, rettsvesen og den offentlige forvaltningen. For Norge er del III i pakten gitt virkning for samisk ved ratifikasjonen.</p>
+<p>Grunnlovens §110 a etablerer en plikt for at statlige styresmakter skal legge forholdene til rette for at den samiske folkegruppen kan ”<em type="italic">sikre og udvikle sit </em></p>
+<p><em type="italic">Sprog, sin kultur og sit Samfunnsliv.” </em></p>
 <p>Lov om Sametinget og andre samiske rettsforhold (sameloven) ble vedtatt 12. juni 1987. Lovens målsetting er å legge forholdene til rette for at samene selv kan sikre eget språk, kultur og samfunnsliv. Lovens kapittel 3 om samisk språk trådte i kraft 1. januar 1992. Bakgrunnen for lovforslaget var at bruken av samisk språk tidligere var i tilbakegang, og at dette truet  hele eksistensen til samisk kultur. Formålet med samelovens språkregler er å sikre grunnlaget for samisk språk og å legge forholdene til rette for videreutvikling og økt bruk av samisk. Loven skal videre sikre innbyggerne grunnleggende rettigheter vedrørende bruk av samisk.</p>
 <p>Reglene i sameloven kap. 3 bygger på det grunnsyn at samisk og norsk språk er likeverdige og bør være likestilte språk, jf. Ot.prp. nr. 60 1989-90. De fleste konkrete reglene om likestilling skal gjennomføres i et nærmere fastsatt forvaltningsområde for samisk språk. Reglene gjelder i utgangspunktet både for statlige og kommunale organer, og innebærer for eksempel utvidet rett til bruk av samisk i rettsvesenet, og at lover og forskrifter av særlig interesse for hele eller deler av den samiske befolkning skal oversettes til samisk.</p>
 <p>2 Arbeidsgruppens sammensetning og mandat</p>
@@ -57,8 +62,9 @@
 <p>Sametinget</p>
 <p>Underdirektør Rune Fjellheim  Førstekonsulent Pål Hivand</p>
 <p>Arbeidsgruppen har avholdt tre møter. Sametinget har deltatt gjennom videokonferanse.</p>
-<p>3  <em type="italic">e</em>Norge </p>
-<p><em type="bold">eNorge </em>er regjeringens samlede plan for å fremskynde utviklingen av informasjons- og kunnskapssamfunnet i Norge. eNorge versjon 1.0 ble lansert i juni 2000. Planen ble fulgt opp med eNorge 2.0 i desember 2000 og eNorge 3.0 i juni 2001. For mer informasjon se www.enorge.dep.no </p>
+<p>  <em type="italic">e</em>Norge </p>
+<p><em type="bold">eNorge </em>er regjeringens samlede plan for å fremskynde utviklingen av informa</p>
+<p>sjons- og kunnskapssamfunnet i Norge. eNorge versjon 1.0 ble lansert i juni 2000. Planen ble fulgt opp med eNorge 2.0 i desember 2000 og eNorge 3.0 i juni 2001. For mer informasjon se www.enorge.dep.no</p>
 <p>En rullerende plan må stadig oppdateres i tråd med identifiserte behov. Etter at eNorge 1.0 ble lagt fram, ble det f. eks. påpekt manglende tiltak for å ivareta og videreutvikle samisk språk, og for lite fokus på kommunesektoren. Fra versjon 2.0 er det forsøkt å ivareta disse manglene.</p>
 <p>I planen heter det bl.a.:</p>
 <p><em type="italic">[…]Globaliseringen skaper også en språklig utfordring. Å ivareta norske språk er viktig, samtidig som vi må la oss berike av den språklige påvirkningen utenfra. Regjeringen ønsker en dialog med Sametinget for å sikre samisk språk og innholdsproduksjon, og ser det som viktig å arbeide for språkstyrking i vid forstand. Innholdsproduksjon og språkteknologi er viktige satsingsområder. Regjeringen vil medvirke til at norske kulturleverandører – også massemedier – møter de kulturelle og økonomiske kravene som informasjonssamfunnet stiller.[…] </em></p>
@@ -66,8 +72,10 @@
 <p><em type="italic">[…]Det er også en stor oppgave å utvikle samisk innhold på nettet og å </em></p>
 <p><em type="italic">ivareta samisk språk og kultur i den moderne verden.[…] </em></p>
 <p>Av tiltak hvor man har et samisk perspektiv er:</p>
-<p>2.1.6 <em type="italic">Foreslå løsninger på problemer knyttet til bruk av nordsamiske tegn i programvare og registre,</em>  </p>
-<p>2.1.7 <em type="italic">Vurdere utarbeidelse av språkpolitiske tiltak for samisk språk og IKT.</em> </p>
+<p>2.1.6 <em type="italic">Foreslå løsninger på problemer knyttet til bruk av nordsamiske </em></p>
+<p><em type="italic">tegn i programvare og registre,</em>  </p>
+<p>2.1.7 <em type="italic">Vurdere utarbeidelse av språkpolitiske tiltak for samisk språk og </em></p>
+<p><em type="italic">IKT.</em> </p>
 <p>Kirke-, utdannings- og forskningsdepartementet har ansvaret for følgende tiltak i <em type="italic">e</em>Norge: </p>
 <p><em type="italic">3.2.9 Utvikle infrastruktur ved statlige samiske videregående skoler.   </em></p>
 <p><em type="italic">3.2.10 Utvikle digitale læremidler på samisk   </em></p>
@@ -83,14 +91,18 @@
 <p>4.1.2 Hindringer</p>
 <p>Enhetsregistrene har ikke tillatt bruk av samiske tegn ved registrering av firmanavn. Begrunnelsen har vært at dette ikke er teknisk mulig, og at samiske tegn ville vanskeliggjøre søk, både innenlands og utenlands.</p>
 <p>4.1.3  Vurdering i forhold til Stadnamnlova</p>
-<p>Det har vært stilt spørsmål om man ut fra Stadnamnlova kan pålegge Brønnøysundregistrene å registrere bedriftsnavn med samiske tegn. Bruk av stedsnavn er regulert i § 3 i Stadnamnlova og forskrift av 5. juli 1991 nr. 456 kapittel III. § 3 første ledd første punktum slår fast at ” <em type="italic">Når skrivemåten av eit stadnamn er fastsett etter denne lova og ført inn i stadnamnregisteret, skal skrivemåten brukast av alle offentlege organ, selskap som det offentlege eig fullt ut, og stiftingar som er oppretta av det offentlege...”</em> Dette innebærer at det bare er organ med tilknyting til stat eller kommune som har plikt til å bruke den fastsatte skrivemåten av et stedsnavn i virksomheten sin. Private rettssubjekt trenger ikke å benytte den offentlig fastsatte skrivemåten av et stedsnavn med mindre det har offentlige forvaltningsoppgaver. Offentlige organ er forpliktet å bruke skrivemåten av et stedsnavn som er fastsatt etter reglene i §6 flg. og som er ført inn i stadnamnregisteret. I andre tilfelle skal de navneformene som var i bruk av det offentlige når loven tok til å gjelde, brukes.  </p>
-<p>For bruken av samiske og finske stedsnavn har loven nærmere regler i § 3 andre ledd. Det heter her at ” <em type="italic">Samiske og finske stadnamn som blir nytta blant folk på staden, skal til vanleg brukast av det offentlege på kart, skilt, i register m.m., saman med eventuell norsk namneform.”</em> </p>
-<p>Som en oppsummering kan man si at det offentlige er forpliktet til å bruke samiske stedsnavn som er fastsatt etter loven og som står oppført i stadnamnregisteret. Ved fastsettingen av navnet skal man bruke gjeldende rettskrivingsprinsipp for samisk, jf. § 4, noe som vil kunne innebære bruk av samiske tegn. Utgangspunktet blir derfor at offentlige organ må bruke den samiske skrivemåten med samiske tegn i sin virksomhet. Plikten gjelder bare der det offentlige organet benytter stedsnavnet som navn på et sted, for eksempel ved oppføring av adresser o.l. Der et stedsnavn inngår som en del av et navn på et foretak eller lignende, vil stadnamnlova ikke regulere skrivemåten av dette foretaksnavnet. Tilsvarende gjelder for firmanavn. Dette går m.a. fram av Ot. prp. nr. 66 (1988-89) side 7 der det heter at ”<em type="italic">Utvalget har vurdert om det skal gjøres unntak for enkelte navnegrupper, og slår fast at slekts- og firmanavn prinsipielt og juridisk står i ei anna stilling.” </em></p>
+<p>Det har vært stilt spørsmål om man ut fra Stadnamnlova kan pålegge Brønnøysundregistrene å registrere bedriftsnavn med samiske tegn. Bruk av stedsnavn er regulert i § 3 i Stadnamnlova og forskrift av 5. juli 1991 nr. 456 kapittel III. § 3 første ledd første punktum slår fast at ” <em type="italic">Når skrivemåten av eit stadnamn er </em></p>
+<p><em type="italic">fastsett etter denne lova og ført inn i stadnamnregisteret, skal skrivemåten brukast av alle offentlege organ, selskap som det offentlege eig fullt ut, og stiftingar som er oppretta av det offentlege...”</em> Dette innebærer at det bare er organ </p>
+<p>med tilknyting til stat eller kommune som har plikt til å bruke den fastsatte skrivemåten av et stedsnavn i virksomheten sin. Private rettssubjekt trenger ikke å benytte den offentlig fastsatte skrivemåten av et stedsnavn med mindre det har offentlige forvaltningsoppgaver. Offentlige organ er forpliktet å bruke skrivemåten av et stedsnavn som er fastsatt etter reglene i §6 flg. og som er ført inn i stadnamnregisteret. I andre tilfelle skal de navneformene som var i bruk av det offentlige når loven tok til å gjelde, brukes.</p>
+<p>For bruken av samiske og finske stedsnavn har loven nærmere regler i § 3 andre ledd. Det heter her at ” <em type="italic">Samiske og finske stadnamn som blir nytta blant folk </em></p>
+<p><em type="italic">på staden, skal til vanleg brukast av det offentlege på kart, skilt, i register m.m., saman med eventuell norsk namneform.”</em> </p>
+<p>Som en oppsummering kan man si at det offentlige er forpliktet til å bruke samiske stedsnavn som er fastsatt etter loven og som står oppført i stadnamnregisteret. Ved fastsettingen av navnet skal man bruke gjeldende rettskrivingsprinsipp for samisk, jf. § 4, noe som vil kunne innebære bruk av samiske tegn. Utgangspunktet blir derfor at offentlige organ må bruke den samiske skrivemåten med samiske tegn i sin virksomhet. Plikten gjelder bare der det offentlige organet benytter stedsnavnet som navn på et sted, for eksempel ved oppføring av adresser o.l. Der et stedsnavn inngår som en del av et navn på et foretak eller lignende, vil stadnamnlova ikke regulere skrivemåten av dette foretaksnavnet. Tilsvarende gjelder for firmanavn. Dette går m.a. fram av Ot. prp. nr. 66 (1988-89) side 7 der det heter at ”<em type="italic">Utvalget har vurdert om det skal gjøres </em></p>
+<p><em type="italic">unntak for enkelte navnegrupper, og slår fast at slekts- og firmanavn prinsipielt og juridisk står i ei anna stilling.” </em></p>
 <p>4.1.4 Konklusjon</p>
 <p>Det har vært henvendelser angående registrering i offentlige registre av foretak med samiske navn. Det følger av det som er sagt ovenfor at stadnamnlova ikke hjemler en plikt for registeret til å registrere foretaksnavnet med samiske tegn selv om et stedsnavn inngår i foretaksnavnet. Registeret plikter likevel å registrere for eksempel adressen til foretaket med den fastsatte skrivemåten av stedsnavnet. I slike tilfelle plikter altså registeret å bruke samiske tegn dersom disse inngår i stedsnavnet. Dermed vil registrene måtte ha samiske fonter, noe som gjør de i stand til også å skrive foretaksnavnet med samiske tegn, selv om de ikke har plikt til det etter stadnamnlova.</p>
 <p>4.2 Biblioteksektoren</p>
 <p>4.2.1 Problem</p>
-<p>I forbindelse med samisk bibliografi har Nasjonalbiblioteket, avdeling Rana, et registreringssystem som håndterer samiske tegn (biblioteksystemet MicroMarc med tilleggsprogrammet <span type="quote">”Samtast”</span>). De samiske tegnene blir likevel ikke presentert for publikum på internett. For at data skal bli tilgjengelige for publikum, blir de eksportert via Trip-basen ved Nasjonalbiblioteket. Det er Trip-basen som danner grunnlaget for presentasjon av Samisk bibliografi på internett. Det er et problem i dag at samiske tegn ikke blir presentert korrekt verken i Tripbasen, på internett eller på CD-rom. Dette kan gi et feilaktig inntrykk av at basen ikke benytter samiske tegn. I trykte utgaver er alle tegn korrekte.</p>
+<p>I forbindelse med samisk bibliografi har Nasjonalbiblioteket, avdeling Rana, et registreringssystem som håndterer samiske tegn (biblioteksystemet MicroMarc med tilleggsprogrammet <span type="quote">”Samtast”</span>). De samiske tegnene blir likevel ikke presentert for publikum på internett. For at data skal bli tilgjengelige for publikum, blir de eksportert via Trip-basen ved Nasjonalbiblioteket. Det er Trip-basen som danner grunnlaget for presentasjon av Samisk bibliografi på internett. Det er et problem i dag at samiske tegn ikke blir presentert korrekt verken i Tripbasen, på internett eller på CD-rom. Dette kan gi et feilaktig inntrykk av at basen ikk</p>
 <p>Nasjonalbiblioteket, avdeling Rana, registrerer også samiske dokument i BIBSYS. I selve registreringssystemet til BIBSYS blir samiske tegn registrert korrekt, men etter BIBSYS sine egne standarder for å registrere spesialtegn. I dag er statusen at tegn ikke blir korrekt presentert, verken ved søk i basen eller ved søk på internett.</p>
 <p>4.2.2 Løsninger</p>
 <p>BIBSYS lanserte tidlig i 2000 en løsning som baserer seg på samiskløsningen LEVI fra Sametinget. Dersom man installerer LEVI, kan man registrere samiske tegn korrekt, søke på samiske tegn og få fram samiske tegn ved søk. Brukere som ikke har installert LEVI, vil få samiske tegn presentert som blanke tegn. Nyere versjoner av MicroMarc, som er Windows-baserte, støtter ikke LEVI. Denne løsningen er dermed foreløpig. Nasjonalbiblioteket har som intensjon at Samisk bibliografi skal gå over fra MikroMarc til BIBSYS dersom BIBSYS kan tilby akseptable løsninger bl.a. når det gjelder samiske tegn. Lignende løsninger bør vurderes av andre biblioteksinstitusjoner, deriblant Samisk spesialbibliotek.</p>
@@ -101,7 +113,7 @@
 <p>Unicode tildeler hvert enkelt skrifttegn et unikt tall, uansett hvilken plattform eller språk man bruker. De førende selskap innen programvareindustrien har implementert eller er i ferd med å implementere Unicode-standarden. Unicode understøttes i mange operativsystemer, moderne nettlesere og<em type="italic"> flere andre p</em>ro<em type="italic">dukter. Utvikling</em>en av Unicode-standarden og tilgjengeligheten av verktøy som understøtter den, anses til å være en vesentlig utvikling innenfor utvikling av teknologi for programvare. Unicode gjør det mulig å bruke en programvare eller lese ett bestemt websted uavhengig av plattform, språk og land uten ytterligere rekonstruksjon. Det gjør det mulig å transportere data gjennom mange forskjellige systemer, uten at de blir ødelagt. </p>
 <p>I Unicode ligger alle tegn som benyttes i det samiske alfabetet inne. Unicode er nå implementert i de mest utbredte programvarene. Dette betyr at man i utgangspunktet skal kunne kommunisere med samiske tegn uten problemer.</p>
 <p>Lulesamisk og sørsamisk skrives med samme bokstaver som i det norske alfabetet  Norge er representert gjennom Norges Standardiseringsforbund (NSF). NSF er en paraplyor</p>
-<p>ganisasjon bestående av fem standardiseringsorganer; Norsk allmennstandardisering, Norsk byggstandardiseringsråd, Norsk elektorteknisk komité, Norsk teknologisenter og Post- og teletilsynet. NSF er en privat organisasjon som representerer Norge. Samtidig er mange statlige organ medlem i de ulike standardiseringsorganene  Bestående kun av sifrene 0 og 1  For nordsamisk har man brukt to standarder, noe som har gjort problemene større enn nød</p>
+<p>ganisasjon bestående av fem standardiseringsorganer; Norsk allmennstandardisering, Norsk byggstandardiseringsråd, Norsk elektorteknisk komité, Norsk teknologisenter og Post- og teletilsynet. NSF er en privat organisasjon som representerer Norge. Samtidig er mange statlige organ medlem i de ulike standardiseringsorganene  Bestående kun av sifrene 0 og 1  For nordsamisk har man brukt to standarder, noe som har g</p>
 <p>vendig.</p>
 <p>5.1 Problemer til tross for innføring av Unicode</p>
 <p>Selv om Unicode innføres, vil man fortsatt ha problemer med gammel programvare som ikke baserer seg på denne standarden. Disse problemene vil ikke bli løst.</p>
@@ -139,7 +151,7 @@
 <p>Statlige innkjøpsavtaler med programvareleverandører må inneholde</p>
 <p>krav om at all programvare skal støtte Unicode – enten ved levering eller innenfor et gitt tidsrom.</p>
 <p>Departementene og underliggende etater må oppgradere egen program</p>
-<p>vare for å muliggjøre presentasjon og saksbehandling på samisk, både på internett og i trykte publikasjoner.</p>
+<p>vare for å muliggjøre presentasjon og saksbehandling på samisk, både på internett og i trykte pub</p>
 <p>Sametinget i samarbeid med Kommunal- og regionaldepartementet føl</p>
 <p>ger opp spørsmålet om standardisering av 8-bits tegnsett og tastaturløsninger i forhold til det nordiske initiativ som er tatt og i forhold til Norges Standardiseringsforbund.</p>
 </body></document>

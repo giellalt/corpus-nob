@@ -44,8 +44,8 @@
 <p>Samlet verdi fra regnskapet</p>
 <p><em type="bold">Sjablonberegning av skattemessig nedskrivning på kundefordringer</em> </p>
 <p>Konstaterte tap på kundefordringer</p>
-<p xml:lang="swe">÷÷</p>
-<p xml:lang="est"><em type="bold">x 4 x</em> </p>
+<p xml:lang="tur">÷÷</p>
+<p xml:lang="kmr"><em type="bold">x 4 x</em> </p>
 <p xml:lang="vep">+</p>
 <p xml:lang="vep">+</p>
 <p>Fra post 0310 siste år</p>
@@ -90,7 +90,7 @@
 <p>Lønn, feriepenger mv.</p>
 <p>Andre konstaterte tap – tap på kontrakter mv.</p>
 <p>Endring i skattemessig nedskrivning kundefordringer</p>
-<p xml:lang="isl"><em type="bold">Sum driftskostnad</em> </p>
+<p xml:lang="fao"><em type="bold">Sum driftskostnad</em> </p>
 <p xml:lang="vep">==</p>
 <p xml:lang="ron"><em type="bold">Driftsresultat </em></p>
 <p>Annen oppgavepliktig godtgjørelse</p>
@@ -100,7 +100,7 @@
 <p>eiere i ANS/DA  mv.</p>
 <p>Annen kapitalinntekt som ikke er spesifisert i RF-1084 og/ eller RF-1219</p>
 <p xml:lang="fkv">Annen personalkostnad</p>
-<p xml:lang="isl"><em type="bold">Sum kapitalinntekt</em>== </p>
+<p xml:lang="fao"><em type="bold">Sum kapitalinntekt</em>== </p>
 <p xml:lang="dan">Valutatap (disagio)Avskrivninger</p>
 <p>Andre kapitalkostnader som ikke er spesifisert i RF-1219</p>
 <p xml:lang="dan">Frakt og transportkostnad vedrørende salg</p>
@@ -128,7 +128,7 @@
 <p>Goodwill (saldogruppe b) Annen egenkapital</p>
 <p>Forretningsbygg (saldogruppe i)Udekket tap</p>
 <p xml:lang="nno">Bygg og anlegg, hotell o.l. (saldogruppe h)</p>
-<p xml:lang="isl"><em type="bold">Sum skattemessig</em> <em type="bold"> egenkapital</em> </p>
+<p xml:lang="fao"><em type="bold">Sum skattemessig</em> <em type="bold"> egenkapital</em> </p>
 <p xml:lang="dan"><em type="bold">Ubeskattet egenkapital</em> </p>
 <p>Fast teknisk installasjon i bygninger (saldogruppe j)</p>
 <p>Bygg, anlegg, maskiner under bygging - til eget bruk</p>
@@ -138,7 +138,7 @@
 <p>Bygg, anlegg, maskiner under bygging - for salg</p>
 <p>Tomter og andre grunnarealer</p>
 <p>Boliger inkl. tomter, hytter mv. Betinget avsatt gevinst (sktl. § 14-70 og 14-71)</p>
-<p><em type="bold">Sum ubeskattet</em> <em type="bold"> egenkapital</em> </p>
+<p xml:lang="fao"><em type="bold">Sum ubeskattet</em> <em type="bold"> egenkapital</em> </p>
 <p xml:lang="vep">== =</p>
 <p xml:lang="sme"><em type="bold">Gjeld</em> </p>
 <p>Maskiner, personbiler, inventar (saldogruppe d)</p>
@@ -176,7 +176,7 @@
 <p><em type="bold">Fylles bare ut av de som benyttet Næringsoppgave 2</em> <em type="bold">(RF-1167) forrige år.</em> </p>
 <p xml:lang="dan">Andre finansielle instrumenter</p>
 <p xml:lang="nno">Andel i deltakerliknet selskap</p>
-<p>Kontanter</p>
+<p xml:lang="fra">Kontanter</p>
 <p xml:lang="est"><em type="bold">Egenkapital 31.12.2013</em> </p>
 <p xml:lang="isl">Bankinnskudd</p>
 <p><em type="bold">Midlertidige forskjeller</em> <em type="bold">31.12.2013, jf. RF-1217</em> </p>
@@ -187,18 +187,18 @@
 <p>Beløp under E overf. til RF-1224 og RF-1030 Fordeling av overskudd/underskudd. Se rettledningen.</p>
 <p>Type Næring</p>
 <p>ID (Eks. 1, 2, 3 mv.)</p>
-<p xml:lang="deu">B</p>
+<p xml:lang="ita">B</p>
 <p xml:lang="deu">CEFGA</p>
 <p>Post 0401 fordelt på næringer</p>
 <p>Skattepliktig inntekt fordelt på næringerHovedutøver Ektefelle/ registrert partner</p>
 <p xml:lang="dan">Korreksjoner for primærnæringer, se rettledningen</p>
 <p xml:lang="nno">Overført til post nr. i</p>
 <p>selvang. (RF-1030)</p>
-<p xml:lang="est"><em type="bold">Kontrollsum</em> </p>
+<p xml:lang="ita"><em type="bold">Kontrollsum</em> </p>
 <p xml:lang="nno"><em type="bold">Resultat fra post 9930</em> </p>
 <p><em type="bold">Skattepliktig utbytte på aksjer mv.</em> </p>
 <p xml:lang="deu"><em type="bold">Renteinntekt</em> </p>
-<p xml:lang="swe"><em type="bold">Rentekostnader</em> </p>
+<p xml:lang="yid"><em type="bold">Rentekostnader</em> </p>
 <p><em type="bold">Skattepliktig gevinst/fradragsberettiget tap ved realisasjon av aksjer mv.</em>+÷ </p>
 <p><em type="bold">Andel overskudd/underskudd og eventuelt gevinst/tap knyttet til andel i deltakerliknet selskap - posten skal nyttes kun av enkeltpersonforetak, se rettl.</em>+÷ </p>
 <p><em type="bold">3 % av skattefrie inntekter etter fritaksmetoden</em>+ </p>
@@ -219,7 +219,7 @@
 <p xml:lang="dan">Ikke fradragsberettigede representasjonskostnader</p>
 <p>Ikke fradragsberettigede kontigenter/gaver</p>
 <p>Andre ikke fradragsberettigede kostnader</p>
-<p xml:lang="isl">=<em type="bold">Sum næringskostnader </em></p>
+<p xml:lang="fao">=<em type="bold">Sum næringskostnader </em></p>
 <p><em type="bold">uten fradragsrett</em> </p>
 <p xml:lang="nno">Skattefrie inntekter</p>
 <p xml:lang="swe">Innskudd kontanter</p>
@@ -233,7 +233,7 @@
 <p xml:lang="eng">Positive egenkapitalkorreksjoner</p>
 <p xml:lang="dan">Premie til tilleggstrygd for sykepenger</p>
 <p xml:lang="fin">Negative egenkapitalkorreksjoner÷</p>
-<p xml:lang="isl"><em type="bold">Sum privatkontoSum egenkapitalkorreksjoner</em>== </p>
+<p xml:lang="fao"><em type="bold">Sum privatkontoSum egenkapitalkorreksjoner</em>== </p>
 <p><em type="bold">(beløp i hele kroner)</em> </p>
 <p><em type="bold">Skattemessig egenkapital per 31.12.2013 fra post 9960</em> </p>
 <p xml:lang="nno">Årsresultat fra post 9940+÷</p>
