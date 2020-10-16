@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">nrk_kvensk_benjaminsen_18.01.2018.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>NRK/Kvensk</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oversatt til kvensk av Kainun institutti - Kvensk institutt 18.01.2018 / Pirjo Paavalniemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Einar Benjaminsen lever i to verdener: En dag omgitt av krystall, hvite duker og feststemte mennesker på Grand i Oslo, den neste i en tjærebredd elvebåt eller på gårdsarbeid i Lakselvdalen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Einar Benjaminsen ellää kahessa mailmassa: Yhtenä päivänä hänen ympärillä oon kristallii, valkkeita pöytätuukii ja fästaavii ihmissii Grandissa Oslossa. Toisena päivänä hän oon tervatussa jokivenheessä tahi maanpruukityössä Lemmijovenlaksossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det moderne og det tradisjonelle kvenske.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Uuenaikhainen ja tradisjunelli kväänin elämä.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

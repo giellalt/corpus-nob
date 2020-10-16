@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">porsanger_museum_utstilling_elvebat_21.03.2017.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Porsanger museum / Utstilling Elvebåt</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Utstillingsåpning = Näyttelyn aukaiseminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tradisjonell båtbygging = Tradišunelli venheenpykkäys</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Saatama soppiit käynin kans silloin ko näyttely muutoin oon kiini</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
