@@ -1,0 +1,1088 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">intervjuguide_norsk.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonens intervjuguide</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuunin intervjyyiopastus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innholdsfortegnelse</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sisälys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1 Intervjuguide 3</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1 Intervjyyiopastus 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.1 Bakgrunn 3</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.1 Tavusta 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.2 Intervju om fornorsking og urett 4</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.2 Intervyyi norjalaistamisesta ja vääryyestä 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.2.1 Narrativt intervju og tematisk intervju 4</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.2.1 Muistelusintervjyyi ja temaattinen intervjyyi 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.3 Intervju i praksis 5</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.3 Kunka intervjyyi tapattuu 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.3.1 Forberedelse 5</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.3.1 Valmistuminen 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.3.2 Gjennomføring 5</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.3.2 Läpivieminen 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.3.3 Etterarbeid 6</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.3.3 Jälkityö 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>1.3.4 Analyse 6</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>1.3.4 Analyysi 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2 Metadata 7</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>2 Metadaatta 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuguide</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyiopastus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunn</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tavusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonen gransker fornorskingspolitikk og urett overfor samer, kvener, norskfinner og skogfinner.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni tutkii norjalaistamispolitikkii ja vääryyksii mitä tehthiin saamelaissii, kväänii, norjansuomalaissii ja mettäsuomalaissii kohthaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den består av 11 fagpersoner og ledes av Dagfinn Høybråten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunissa oon 11 faakiihmistä, ja sen johtaaja oon Dagfinn Høybråten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommisjonen er oppnevnt av Stortinget og arbeider uavhengig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Isotinka oon ylösnimittänny kommisjuunin, joka työtelee ittenäisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Granskingens formål er å legge grunnlag for anerkjennelse av samers, kveners, norskfinners og skogfinners erfaringer i møte med norske myndigheters politikk, og de konsekvensene disse har hatt for dem som grupper og individer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tutkimuksen mooli oon laittaat pohjan sille ette hyväksythään saamelaisten, kvääniin, norjansuomalaisten ja mettäsuomalaisten kokemukset norjalaisten esivalttoin politikista, ja näitten kokemusten konsekvensit heile joukkoina ja indiviidina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonen skal dokumentere historiene til de berørte personene som ledd i å granske fornorskingspolitikk og urett overfor samer, kvener/norskfinner og skogfinner.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni dokymenteeraa näitten ihmisten muistelukset niin ette se tutkii norjalaistamispolitikkii ja vääryksii saamelaissii, kväänii/norjansuomalaissii ja mettäsuomalaissii kohthaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I sitt arbeid skal kommisjonen ta utgangspunkt i allerede eksisterende forskning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunin alkupunktina oon tutkimus joka oon jo olemassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommisjonen skal kartlegge fornorskingspolitikken, dens konsekvenser og virkninger for enkeltpersoner og grupper helt frem til i dag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuuni kartoittee norjalaistamispolitikin, sen konsekvensit ja vaikutukset privaattihenkiile ja joukoile kiini tähän päivhään saakka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å avdekke kunnskapshull i den eksisterende forskningen kan kommisjonen undersøke annet kildemateriale for å kartlegge, beskrive eller dokumentere bestemte tema.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos kommisjuuni löyttää tutkimuksessa tietoreikkii, se saattaa tutkiit muuta kalttiimateriaalii niin ette se kartoittee, kuvvailee ja dokymenteeraa vissiitä teemoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommisjonen skal videre ta utgangspunkt i gruppenes egen forståelse av sin historie, og sørge for at personer fra berørte miljøer får fortelle sine personlige erfaringer og historier om fornorsking og urett, og hvordan dette har påvirket eller påvirker deres livssituasjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuuni ottaa kans alkupunktin joukkoin ymmäryksestä omasta histuuriista. Se kattoo ette henget keitä tämä koskettaa saahaan muistela ommii kokemuksii ja histuuriita norjalaistamisesta ja vääryyksestä, ja kunka tämä oon vaikuttannu tahi vaikuttaa heän elämänsituasjuunhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som en del av dette gjennomfører Sannhets- og forsoningskommisjonen intervjuer for å dokumentere fornorskingens virkninger og for å legge til rette for at enkeltpersoner får mulighet til å fortelle sin historie.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Osana tästä Tottuuen- ja sovinonkommisjuuni viepi läpi intervjyyitä niin ette dokymenteeraa norjalaistamisen vaikutukset, ja ette sovitellee ette privaattihenget saahan mahollisuuen muistela oman histuuriin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innsamlet intervjumateriale inngår i Sannhets- og forsoningskommisjonens grunnlagsmateriale og vil bli arkivert på forsvarlig måte i kommisjonens arkiv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kovottu intervjyyimateriaali oon osa Tottuuen- ja sovinonkommisjuunin pohjamateriaalista, ja sen arkiveerathaan turvalisesti kommisjuunin arkiivissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De som blir intervjuet kan trekke tilbake intervjuet under kommisjonens arbeid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Resyrsi-ihmiset saatethaan vettäät takaisin intervjyyin kommisjuunin työaikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommisjonens arkiv overleveres Arkivverket og forvaltes videre etter retningslinjer fastsatt av kommisjonen når kommisjonens arbeid er avsluttet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunin arkiivin annethaan Arkiivivärkile* ja hallithaan kommisjuunin suuntalinjoin jälkhiin ko kommisjuunin työ oon valmis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju om fornorskingens virkninger innebærer tema som kan være sensitive for den som blir intervjuet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyissa norjalaistamisen vaikutuksista saattaa olla henkiherkkii teemoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg kan intervjumaterialet inneholde sensitive opplysninger om tredjepersoner.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lisäksi intervjyyimateriaaliissa saattaa olla herkät tieot muista ihmisistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor må intervjuer ta til hensyn til at personer kan ha opplevd fornorsking som en traumatisk og smertefull prosess.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sen tähen häyttyy kyseliijä pittäät mielessä ette norjalaistaminen oon saattanu olla ihmisille traumaattinen ja kippee prosessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det å miste kultur, språk og identitet enten helt eller delvis kan også oppleves skambelagt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kylttyyrin, kielen ja identiteetin kaottaminen kokonhaansa tahi osittain saattaa kans olla häppeelistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For mange kan det være vanskelig å prate om det de har tiet om eller ikke har vært åpne om over lang tid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se saattaa olla monile vaikkee puhhuut jostaki mistä het oon kauvoin olheet vaiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I en slik sammenheng er det viktig at alle som blir intervjuet blir møtt med respekt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tässä tappauksessa se oon tärkkee ette kaikile resyrsi-ihmisille näytethään kunniaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal skape trygghet og oppnå tillit hos personer som blir intervjuet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyit piethään luoa turvalisuutta ja luottamusta resyrsi-ihmisille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju i urfolks- og minoritetssamfunn krever dessuten en særlig bevissthet om maktforhold og hvordan de har virket, og kan virke inn, også på forhold i selve intervjusituasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lisäksi intervjyyit alkupöräis- ja minuriteettisamfynniissa vaaithaan ette olema tieossa valtasuhtheista ja millä tavala nämät oon toiminheet ja vieläki saatethaan toimiit, kans suhtheissiin itte intervjyyisituasjuunissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonen samarbeider med Finnmarkssykehuset gjennom SANKS.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni tekkee työtä Finnmarkssykehusetin kans SANKSin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS yter spesialisthelsetjenester i psykisk helse og gir kulturkompetent medisinskfaglig rådgivning til kommisjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS hoittaa psyykkisen tervheyen vasittui tervheyspalveluksii ja anttaa kylttyyrikompetenttii metesiinifaakilista neuvoo kommisjuunile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS hjelper også personer som ønsker det i forbindelse med Sannhets- og forsoningskommisjonens arbeid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS auttaa kans niitä jokka haluthaan sen Tottuuen- ja sovinonkommisjuunin työssä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS tilbyr krise- og støttesamtaler og vil ved behov veilede aktuelle personer for videre henvisning til kommunen eller til spesialisthelsetjenesten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS tarjoo kriisi- ja apupraatit, ja ko oon tarvet se kans opastaa aktuellit henget etheenkäsin komuunhiin tahi vasitthuun tervheyspalveluksheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder særlig personer som har formidlet sin historie knyttet til fornorskingspolitikk og urett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä jällää eriliikaisesti net jokka oon muistelheet oman histuuriin norjalaistamispolitikista ja vääryyestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Sannhets- og forsoningskommisjonens arbeid skal intervjumaterialet bringe frem sentrale problemstillinger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuunin työssä intervjyyimateriaali tuopi framile täheliset kysymykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vil vise sammenhenger og mønstre i fornorskingspolitikken, dens historie og konsekvenser for dagens situasjon for de ulike gruppene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se näyttää norjalaistamispolitikin yhtheyet ja mönsterit, sen histuuriin ja konsekvensit erilaisten joukkoin tääpäälisheen situasjuunhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjumaterialet vil samtidig belyse hendelser der berørte enkeltpersoner og grupper har blitt påvirket av fornorskingen i ulike livssituasjoner og -faser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyimateriaali näyttää samhaan aikhaan tapattumii missä norjalaistaminen oon vaikuttannu privaattihenkhiin ja joukkhoin erilaisissa elämänsituasjuuniissa ja -faasiissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju er ofte brukt som metode når man trenger materiale som gir kunnskap om bestemte temaer eller bringer oss nærmere opplevd liv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyi oon metoodi jota oon usheen pietty ko se tarvithaan materiaalii joka anttaa tiettoo vissiistä teemoista tahi viepi meän likemäksi elättyy elämää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan gi innblikk i livsverdenen slik den erfares og oppleves i menneskers daglige liv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se saattaa anttaat tuntemuksen elämänmailmasta niin ko sen kojethaan ihmisten jokapäivälisessä elämässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg kan intervju gi tilgang til særlig kunnskap om sentrale aspekter ved aktuelle tema.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lisäksi intervjyyi saattaa anttaat tiettoo aktuelliitten teemoin tärkkeistä näkövinkkeliistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonen bruker to ulike intervjumetoder: narrativt intervju (personlige historier) og semistrukturert tematisk intervju.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni käyttää kaksi erilaista intervjyyimetoodii: muistelusintervjyyi (persuunalliset muistelukset) ja semistrukturellinen temaattinen intervjyyi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sannhets- og forsoningskommisjonen benytter i sitt arbeid alle språk som er knyttet til samiske, kvenske, norskfinske og skogfinske miljøer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni pittää kaikki kielet jokka oon siottu saamelaishiin, kvääniin, norjansuomalaishiin ja mettäsuomalaishiin miljöihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder også for intervju.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä jällää kans intervjyyit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De som blir intervjuet kan bruke det språket de føler er mest naturlig i intervjusituasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Resyrsi-ihmiset saahan pittäät sen kielen mikä oon heile luonolissiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom intervjuer behøver tolk må dette planlegges på forhånd.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos tarvithaan tolkkii, tämän häyttyy selvittäät etukätheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Narrativt intervju</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muistelusintervjyyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Narrativt intervju (personlig historie) er en metode for å samle inn individers og gruppers egne historier, og er egnet til å få fram deres egen forståelse av historien.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muistelusintervjyyi eli narratiivinen intervjyyi (persuunallinen histuurii) oon metoodi jota piethään ko haluthaan kovota indiviidiin ja joukkoin omat histuuriit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En narrativ metode, der personer får fortelle sin historie fritt uten vesentlig inngripen fra intervjuer, gir rom for annerkjennelse av samers, kveners, norskfinners og skogfinners erfaringer i møte med fornorskingspolitikken, hvordan den ble praktisert og hva slags virkninger ulike (assimilerende) praksiser har hatt i deres liv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Narratiivinen metoodi, missä ihmiset saatethaan muistela oman histuuriin ilman ette kyseliijä häirittee liikkaa, anttaa tilan sille ette hyväksythään saamelaisten, kvääniin, norjansuomalaisten ja mettäsuomalaisten kokemukset norjalaistamispolitikista, kunka sen viethiin läpi ja mikkä vaikutukset erilaisilla (assimileeraavilla) työtavoila oon ollu heän elämässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Subjektive beretninger gir et større og mer mangfoldig bilde av de berørte miljøenes erfaringer og belyser samtidig historiske hendelser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Subjektiiviset muistelukset annethaan isoman ja monipuoliseman kuvan miljöitten kokemuksista, ja samala net luohaan näkköö histuuriisten tapattumiin yli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Narrative intervju er ikke ment å dekke spesifikke temaer om fornorsking eller gi nøyaktig informasjon om hendelser og praksis.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muistelusintervjyyin meininki ei ole täkätä vissiitä teemoi norjalaistamisesta tahi anttaat tarkan informasjuunin tapattumista ja työtavasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I narrative intervju er fokus på historier og perspektiver som fortelleren ønsker å dele med Sannhets- og forsoningskommisjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muistelusintervjyyiin fookus oon histuuriit ja perspektiivit mitä muisteliija halluu jakkaat Tottuen- ja sovinonkommisjuunin kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuene skal bringe frem enkeltindividers perspektiv av opplevd fornorsking og urett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyit tuohaan framile privaattihenkiin perspektiivit norjalaistamisesta ja vääryyestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det å kunne stå frem med sin egen historie kan i seg selv virke forsonende.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se ette ihminen saapi muistela oman histuuriin saattaa kans olla sovinttaava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tematisk intervju</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Temaattinen intervjyyi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Semistrukturert tematisk intervju er en metode som er mye brukt i kvalitativ forskning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Semistrukturellinen temaattinen intervjyyi oon metoodi mitä oon paljon pietty kvalitatiivisessa tutkimuksessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I kommisjonsarbeidet vil tematisk intervju være vesentlig for å kartlegge, beskrive eller dokumentere bestemte tema for å dekke kunnskapshull.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunin työssä temaattinen intervjyyi oon tähelinen ko haluthaan kartoittaat, kuvvaila tahi dokymenteerata vissiitä teemoi niin ette paikathaan tieonreikkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til denne intervjuformen velger kommisjonen ressurspersoner (muitaleaddji, muisteliija, soptsestæjja, substsastiddje, kertoja) som kan bidra med spesifikk kunnskap til kommisjonens arbeid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tätä intervjyyii varten kommisjuuni valittee resyrsi-ihmiset (muitaleaddji, muisteliija, soptsestæjja, substsastiddje, kertoja) jokka autethaan anttamhaan spesifikkii tiettoo kommisjuunin työtä varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I noen tilfeller kan kommisjonen vurdere å gjennomføre tematisk intervju også i form av fokusgruppeintervju.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joissaki tappauksissa kommisjuuni saattaa vieä läpi temaattisen intervjyyin kans fookusjoukkointervjyyinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju har fire faser: forberedelse, gjennomføring, etterarbeid og analyse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyissä oon nelje ossaa: valmistuminen, läpivieminen, jälkityö ja analyysi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju begynner med faglig kunnskapsinnhenting.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ensisti häyttyy löyttäät faakilista tiettoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Sannhets- og forsoningskommisjonens arbeid er det viktig at intervjuer reflekterer over følgende spørsmål i forkant av både narrativt og tematisk intervju:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuunin työssä se oon tärkkee ette kyseliijä hunteeraa näitä kysymyksii ennen muistelusintervjyyii ja temaattista intervjyyii:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvilke utfordringer har samer, kvener, norskfinner og skogfinner møtt i livsløpet?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mitä haastheita saamelaiset, kväänit, norjansuomalaiset ja mettäsuomalaiset oon kohanheet elämässä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan har det vært å være samisk, kvensk, norskfinsk og skogfinsk i Norge?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Millaista oon ollu olla saamelainen, kvääni, norjansuomalainen ja mettäsuomalainen Norjassa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Før?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ennen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nå?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nyt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva har skjedd i fornorskingsprosessen?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mitä oon tapattunnu norjalaistamisprosessissa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan ble den opplevd?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka sen kojethiin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva og hvordan kan det ha blitt «enklere» å være samisk, kvensk osv. i Norge?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mikä ja kunka se oon tullu «helpomaksi» olla saamelainen, kvääni jne. Norjassa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva kan en bidra med?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mitä itte saattaa anttaat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva andre kan bidra med?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mitä toiset saatethaan anttaat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når intervjuer forbereder seg til tematisk intervju skal hun eller han skaffe nødvendig bakgrunnskunnskap om tema på forhånd, og lage tematiske spørsmål eller stikkord.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Temaattista intervjyyii varten kyseliijä häyttyy saaha tarpheelisen tavustieon teemasta etukätheen, ja laittaat temaattissii kysymyksii tahi avvainsannoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et godt råd er at spørsmålene skal være deskriptive i form (hva og hvordan spørsmål). En bør unngå å ha for abstrakte, generelle, eller for ledende spørsmål.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Yksi hyvä neuvo oon laittaat deskriptiivissii kysymyksii (mitä ja kunka), ja välttäät liian abstraktissii, ylheissii tahi liian johtaavii kysymyksii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju skal helst tas opp med lydopptaker eller videokamera med ekstern mikrofon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se piethään ottaat ylös intervjyyin ääniylösottaajalla tahi videokameralla missä oon eksterni mikrofuuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer må gjøre seg kjent med utstyret i forkant (sjekk batteriet, lydnivå, bruk av mikrofon, osv.).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä pittää opastuut vehkheissiin etukätheen (kattoot batterii, äänitassaa, mikrofuunin pittoo jne.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis en ikke kan gjøre lydopptak skal det tas notater.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos ei saata ottaat ylös äänii, se otethaan nutaattiita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju skal finne sted på en rolig plass der det er ikke noe som kan forstyrre situasjonen, og der man kan oppnå trygg og god stemning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyi pittää olla rauhalisessa paikassa missä ei ole häirityksii, ja missä saapi turvalisen ja hyvän stemningin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal sørge for at ressursperson kan få kaffe, te eller vann å drikke, og ha lommetørkle tilgjengelig hvis det trengs.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä pittää kattoot ette resyrsi-ihminen saapi kaffii, teetä tahi vettä, ja plakkarihuivin jos hän tarvittee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennomføring</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Läpivieminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer starter intervjuet med å fortelle intervjuets formål både når det gjelder tematisk intervju og narrativt intervju (personlige historie).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä alkkaa intervjyyin muistelemalla intervjyyin moolista, sekä temaattisen intervjyyin ja muistelusintervjyyin (persunallinen histuurii).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å forberede ressurspersonen på intervjusituasjon og tidsbruk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkkee ette resyrsi-ihminen saapi tieon intervjyyisituasjuunista ja aijanpiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deretter skal samtykkeskjema gjennomgås og underskrives før lydopptak eller notatskriving igangsettes.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sitte pittää käyä läpi ja allekirjoittaat myöntymäsjeeman ennen ko alethaan ottaat ääntä ylös tahi kirjoittaat nutaattiita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både lydopptak og notater av intervju skal inneholde informasjon om intervjuets dato, sted, intervjuer og ressursperson.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sekä ääniylösotto ja intervjyyin nutaatit häyttyy pittäät sisälä informasjuunin intervjyyin daattumista, paikasta, kyseliijästä ja resyrsi-ihmisestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tematisk intervju fungerer spørsmål laget i forberedelsesfasen som veiledning, og tematisk rekkefølge i intervjusituasjonen bestemmes underveis.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Teemaattisessa intervjyyissä valmistusosan kysymykset oon niin ko opastus, ja intervjyyisituasjuunin oorningin määräthään matkan varrela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal følge ressurspersonens fortelling, og spørsmålene skal knyttes opp mot hennes eller hans naturlige måte å fortelle og forholde seg til temaet på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä pittää seurata myötä resyrsi-ihmisen muistelusta, ja kysymykset siothaan siihen mikä oon resyrsi-ihmisen luonolinen tapa muistela ja mikä oon hänen suhet teemhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På denne måten gis det rom for at det kan tas opp temaer som ikke er planlagt på forhånd, men som ressurspersonen ser som relevant å fortelle om til kommisjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tällä tavala annethaan tillaa siihen ette saatethaan praattiit teemoista mistä resyrsi-ihminen tykkää ette oon relevantit muistela kommisjuunile, vaikka nämät teemat ei ole plaanattu etukätheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal være målbevisst og fokusert på intervjuets relevans for granskningsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä pittää olla moolitietoinen ja fokuseerattu sen pääle, mikä oon intervjyyin merkitys kommisjuunin tutkimustyössä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer bør derfor være oppmerksom på at samtalen ikke tar en retning som er irrelevant for kommisjonens arbeid, og skal bidra til å lede samtalen tilbake på rett spor.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sen tähen pittää kyseliijä passata ette praatti oon relevantti kommisjuunin työtä varten. Kyseliijä häyttyy auttaat ette praatti mennee oikkeele jäljele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal gi informasjon til ressurspersoner om SANKS tilbud før intervjusituasjonen avsluttes.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä anttaa informasjuunii resyrsi-ihmisille SANKSin tarjouksesta ennen intervjyyin loppuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer kan ta kontakt med SANKS direkte selv eller be om at intervjuer videreformidler kontaktinformasjon til SANKS.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Persuunat saatethaan itte ottaat suoran kontaktin SANKSin kans tahi pyyttäät ette kyseliijä anttaa kontaktiinformasjuunin SANKSile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS følger opp videre med krise- eller støttesamtaler (1-3 samtaler), og kan ved behov veilede personer til kommunens helsetilbud eller spesialisthelsetjeneste.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS anttaa sitte kriisi- tahi apupraatit (1-3 praattii), ja jos oon tarvet, se kans opastaa persuunat komuunin tervheystarjouksheen tahi vasitthuun tervheyspalveluksheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS kan kontaktes på tlf. 46 88 11 62 / 46 82 62 89 eller på mail: SANKS.Sannhetskommisjon@finnmarkssykehuset.no</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota kontaktin SANKSin kans telefuuninumerhoon 46 88 11 62 / 46 82 62 89 tahi kirjoita mailin: SANKS.Sannhetskommisjon@finnmarkssykehuset.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Etterarbeid</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jälkityö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når et intervju er gjennomført, skal intervjuer sjekke notatene og kvaliteten på lydopptaket.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko yhen intervjyyin oon tehty, se kyseliijä pittää kattoot nutaatit ja ääniylösoton kvaliteettii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lydopptaket skal lagres på en trygg plass med navn (SFKOMM ‘Sannhets- og forsoningskommisjon’, TI ‘Tematisk intervju og NI ‘Narrativt intervju’):</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ääniylösoton laakraathaan turvalisessa paikassa nimelä (SFKOMM ‘Sannhets- og forsoningskommisjon’, TI ‘Tematisk intervju ja NI ‘Narrativt intervju’):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SFKOMM_NI _fylke_ddmmyear.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SFKOMM_NI _fylke_ddmmyear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(wav/txt)</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>(wav/txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SFKOMM_TI_hovedtema_fylke_ddmmyear.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SFKOMM_TI_hovedtema_fylke_ddmmyear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(wav/txt)</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>(wav/txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det anbefales at intervjuer ferdigstiller notatet fra intervjuet med en gang det er avsluttet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon paras ette kyseliijä tekkee intervjyyin nutaatin valmhiiksi varsin intervjyyin jälkhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Notater skal lagres som.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nutaatin laakrathaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>txt-dokument med samme navn som lydopptaket (hoveddokument).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>txt-dokymenttina samala nimelä ko ääniylösotto (valtadokymentti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Analyse</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Analyysi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Registrering av metadata er både den siste fasen av intervju, og den første fasen av analyse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyin viimisessä osassa pittää rekistreerata metadaatat. Tämä oon analyysin ensimäinen osa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer skal bruke metadataskjema til registering av metadata.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä pittää metadaattasjeeman ko rekistreerathaan metadaattaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Metadata er informasjon om innsamlet og arkivert data.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaatta oon informasjuuni kovotusta ja arkiveeratusta daatasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den spesifiserer konteksten til data, men kan også fungere som nøkkelord for å definere viktig datainnhold.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se spesifiseeraa daatan kontekstin, mutta saattaa kans toimiit avvainsannoina niin ette se defineeraa tärkkeetä daattasisälystä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med metadata blir informasjonen søkbar i kommisjonens arkiv og det er mulig å finne spesifikk informasjon i store mengder av data.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaatan kans se saattaa hakkeet kommisjuunin arkiivista, ja sen kans saattaa löyttäät informasjuunin isoista daattamääristä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Metadata om fornorsking skal bidra til Sannhets- og forsoningskommisjonen arbeid spesielt i analysefasen og arkiveringsprosessen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaatta norjalaistamisesta auttaa Tottuuen- ja sovinonkommisjuunin työssä eriliikaisesti analyysifaasissa ja arkiveeramisprosessissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Metadata skal brukes for alt grunnlags- og intervjumateriell.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaattaa piethään kaikkee pohja- ja intervjyyimateriaalii varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å strukturere metadata benyttes metadataskjema.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaattasjeemaa piethään niin ette stryktyreeraa metadaattaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å bidra til systematisk og sammenlignbar søkemulighet skal intervjuer bruke nøkkelordliste i metadataskjema.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sen tähen ette hakemismaholisuuesta tullee systemaattinen ja vertaamiskelpoinen, kyseliijä pittää avvainsanalistaa metadaattasjeemassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan legges til utfyllende ord som beskriver viktig innhold i intervjuet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se saatethaan lisätä sannoi jokka kuvvailhaan intervjyyin sentraalii sisälystä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Metadata skal registreres både på norsk og på det språket som blir brukt under intervjuet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Metadaatan rekistreerathaan sekä norjaksi ja intervjyyin kielelä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>METADATASKJEMA</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>METADAATTASJEEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sak/arkivnummer: (sekretariatet fyller inn) Intervju: (lydfil eller tekstdokument)</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Assii/arkiivinumero: (sekretariaatti täyttää) Intervjyyi: (äänifiili tahi tekstidokymentti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunnsinformasjon om intervju</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyin tavustieto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervju ble gjennomført (sted, dato): _________________________________</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Intervjyyin tehthiin (paikka, daattumi): _________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Intervjuer: _______________________________________________________</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyseliijä:_______________________________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunnsinformasjon om ressursperson</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Resyrsi-ihmisen tavustieto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>: Mann Kvinne Annet</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>: Mies Vaimo Muuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>: -18 18-29 30-49 50-67 67-</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>: -18 18-29 30-49 50-67 67-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bor alene, bor med barn, bor med partner, bor med partner og barn, bor med foreldre, annet</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Assuu yksin, assuu lapsen/lapsiin kans, assuu partnerin kans, assuu partnerin ja lapsen/lapsiin kans, assuu vanhiimitten kans, muuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er født i _____________________.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon syntyny _____________________ssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Har bodd i ______________________________ ___________________ mer enn ett år.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon asunu ______________________________ ___________________ssa kauvemin ko yhen vuoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>ingen, grunnskole _____ år, videregående skole ____ år, høyere utdanning ____________</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>ei mithään, peruskoulu _____ vuosi/vuotta, jatkokoulu ____ vuosi/vuotta, korkkeempi koulutus ____________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>_______________</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>_______________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>: ________________ ___________________________________________________________________________</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>: ________________ ___________________________________________________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Beskriv sentrale tema i intervju med nøkkelord eller korte setninger:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuvvaile intervjyyin tärkkeet teemat avvainsanoila tahi lyhykäisilä setningiilä:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
