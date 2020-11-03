@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">annonsetekst_samisk_og_norsk-ny_2_.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Finnmarkskommisjonen kunngjør nytt utredningsfelt: Felt 9 Porsanger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Finmarkunkommisjuuni anttaa tällä tion uuesta selvitysalasta: Ala 9 Porsanki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fullstendig kunngjøring finnes på kommisjonens nettside: www.finnmarkskommisjonen.no og Norsk lysingsblad.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Koko ilmotus löyttyy kommisjuunin nettilaialta: www.finnmarkskommisjonen.no ja Norjan ilmotusblaai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>tlf 78 92 64 40, finnmarkskommisjonen@domstol.no</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunin sekretariaatti anttaa lissää informasjuunii; tlf 78 92 64 49,</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
