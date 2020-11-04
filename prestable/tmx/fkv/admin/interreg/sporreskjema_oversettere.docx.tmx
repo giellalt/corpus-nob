@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">sporreskjema_oversettere.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørreskjema for oversettere i kvensk</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kväänin käänttääjiitten kysymäskjeema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vår undersøkelse er for deg som oversetter til og/eller fra kvensk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän tutkimus oon sinule käänttääjänä kuka käänttää kväänhiin tahi kväänistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette spørreskjemaet er delt opp i fire deler som går igjennom 1) enkle spørsmål om din bakgrunn, 2) arbeidet som oversetter, 3) vanskeligheter og muligheter samt 4) øvrige synspunkter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä skjeema oon jajettu neljheen blokkhiin joka käsittellee 1) peruskysymykset sinun tavuksesta, 2)työstä käänttääjänä, 3) vaikkeuet ja maholisuuet ja kans 4) muut näkemykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtlige svar behandles konfidensielt og kun til det formålet som spørreskjemaet krever.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki vastaukset käsitelhään luottamuksela ja tyhä siihen tarkoituksheen mikä skjeemassa tarvithaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et besvart spørreskjema betraktes som et samtykke i å delta i studiet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko vastaat skjeemhaan, se meinaa ette olet myötä tutkimuksessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deltakelsen er frivillig, men den er viktig for vår studie.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se saapi itte valita haluthaanko olla myötä, mutta sinun osa oon tärkkee meän tutkimuksele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi håper derfor at du besvarer skjemaet så utfyllende som mulig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met toivoma siksi ette sie vastaat skjeemhaan niin täyelisesti ko maholista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Din bakgrunn</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sinun tavus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette avsnittet stilles spørsmål om din bakgrunn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tässä pykälässä kysythään kysymyksii sinun tavuksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørsmålene tar for seg grunnleggende informasjon om deg og dine erfaringer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kysymykset koskethaan perustiettoi sinusta ja sinun kokemuksista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Annet/Vil ikke svare</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna sinun sukupuolen Mies Vaimo Joku muu/Ei halluu vastata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2. Angi din alder Tallet må være mellom 1 og 99</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna sinun ijän Numero häyttyy olla 1 ja 99 välilä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3. Hvor lenge har du jobbet som oversetter?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka kauvoin sie olet ollu käänttääjänä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Angi antall år.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna vuosimäärän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verdien må være et tall.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Arvo pittää olla numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>5. Hvordan jobber du som oversetter?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkälainen koulutuspohja sinula oon?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I oversetterfirma Frilanser</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka sie työtelet käänttääjänä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversettelsesarbeid I dette avsnittet stilles spørsmål om arbeidet ditt innen oversetting.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Firmassa Käänösfirmassa Friilanserina Muu Käänöstyöstä Tässä pykälässä oon kysymyksii sinun käänöstyöstä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørsmålene går blant annet innom hvor mange oversettelser du gjør, hvilke type tekster du oversetter og hvilke oppdragsgivere du oversetter for.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se kysythään muun myötä kunka monta käänöstä sie tehet, minkälaiset tekstit sie käänät ja mille tillaajiile sie käänät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>6. Hvor mange oversettelser gjør du per uke?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka monta käänöstä sie tehet viikossa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Estimer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Arvele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>7. Hvor mange oversettelser gjør du per måned?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka monta käänöstä sie tehet kuukauessa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Estimer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Arvele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>8. Hvor mange oversettelser gjør du per år?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka monta käänöstä sie tehet vuoessa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Estimer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Arvele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>9. Hvor lang tid tar en oversettelse?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka paljon aikkaa mennee yhtheen käänöksheen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Estimer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Arvele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>10. Hvor mange kunder har du oversatt til?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka monele kunterile sie olet tehny käänöksii?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>11. Hvem bestiller oversettelser på kvensk?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuka tillaa sinulta käänöksii kvääniksi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>12. Hvilke type tekster har du oversatt?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkätyyppiset tekstit sie olet kääntäny?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan velge flere alternativer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Saat valita usheeman alternatiivin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tekniske tekster</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sievälitteratyyri Pressimellingit Dokumentit Infohäftit Nettilaiat Lakitekstit Tekniset tekstit Uskonoliset tekstit Muu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vanskeligheter og forbedringsmuligheter</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka sie markkinoit sinun käänöspalvelusta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette avsnittet stilles spørsmål om de vanskelighetene og mulighetene til forbedringer som du blir oppmerksom på som oversetter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vaikkeuet ja parantamismaholisuuet Tässä pykälässä kysythään niistä vaikkeuksista ja parantamismaholisuuksista jokka sie olet huomanu käänttääjänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørsmålene avhenger av hvilke problemer du har møtt på og i tilfelle du ser behovet for støtte av noe slag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kysymykset koskethaan minkälaissii probleemiita sie olet kohanu ja sen varalta ette sie tarvittet jonkinlaisen tujen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>16. Hvilke problemer har du møtt på i oversettelsesarbeidet?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkälaissii apuneuvoi sie piät ko käänät? Mitä oon vaikkee ko käänät?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>17. Hvilken støtte skulle du behøvd i oversettelsesarbeidet?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkälaissii probleemiita sie olet kohanu kääntämistyössä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>18. Vi undersøker forutsetningene for en oversetterutdannelse for de som oversetter til meänkieli eller kvensk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkälaista kuurttoo sie tarvittisit käänöstyöhön? Met olema plaanaamassa käänttääjäkoulutusta meänkielen ja kväänin käänttääjiile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvilke ønsker/forventninger har du om utdannelsens arbeidsmetoder og innehold?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Minkälaissii toivomuksii/ootuksii sinula olis koulutuksen työtappoin ja sisälyksen ympäri?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette avsnittet har du mulighet til å løfte frem øvrige synspunkter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muita näkemyksii Tässä pykälässä sinula oon maholisuuksii nostaat framile muut näkemykset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>19. Er det noe som du hadde villet ta opp i et intervju?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oonko jotaki mistä sie halluut puhhuut intervjyissä?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis ja, oppgi vennligst e-post og/eller telefonnummeret som du kan nås på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos oon, niin saatatko sie ystävälisesti anttaat e-postin ja/tahi telefuuninumeron, niin met saatama ottaat kontaktin sinhuun.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
