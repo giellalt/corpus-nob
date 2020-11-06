@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Råd til alle i befolkningen Du og dine nærmeste kan omgås normalt.</seg>
+        <seg>Råd til alle i befolkningen Husk god hånd- og hostehygiene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Neuvot kaikile Muista pestä käjet ja köhi käjenmukkhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du og dine nærmeste kan omgås normalt.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Sie ja sinun likheiset saatta olla yhessä niin ko tet pruukatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvem som er «dine nærmeste» bestemmer du selv, men det bør ikke være for mange og det bør være de samme over tid!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie määrät itte kekkä oon “sinun likheiset”, mutta se ei saa olla liian monta ja se pittää kans olla samat ihmiset pitemän aijan pääle!</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,22 @@
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Muista pestä käjet ja köhi käjenmukkhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvem som er «dine nærmeste» bestemmer du selv, men det bør ikke være for mange og det bør være de samme over tid!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie ja sinun likheiset saatta olla yhessä niin ko tet pruukatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvem som er «dine nærmeste» bestemmer du selv, men det bør ikke være for mange og det bør være de samme over tid!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie määrät itte kekkä oon “sinun likheiset”, mutta se ei saa olla liian monta ja se pittää kans olla samat ihmiset pitemän aijan pääle!</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +286,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Ved positiv test skal du over i «hjemmeisolering».</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos saat positiivisen testin, sie hääyt isoleerata ittesti kotona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Begrens antall nære kontakter, unngå større forsamlinger og trengsel.</seg>
       </tuv>
       <tuv xml:lang="fkv">
@@ -290,6 +330,14 @@
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Jos saat negatiivisen testin, sie hääyt kuitenki olla yhtä kauvoin karanteenissa ja sinun tervheyen piethään kuorata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved positiv test skal du over i «hjemmeisolering».</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos saat positiivisen testin, sie hääyt isoleerata ittesti kotona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +454,14 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>Du må vente med å gå på skole eller jobb til første test er negativ.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Älä mene koulhuun tahi työhön ennen ko saat vastauksen ette ensimäinen testi oon negatiivinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Du må være i karantene på fritiden til andre test er negativ.</seg>
       </tuv>
       <tuv xml:lang="fkv">
@@ -446,7 +502,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hold deg hjemme.</seg>
+        <seg>Få hjelp til å handle.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Pese pinnat usseesti.</seg>
@@ -454,15 +510,47 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hvis mulig, bruk eget rom og bad.</seg>
+        <seg>Avtal med legen din hvordan du skal følge med på helsetilstanden din.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Saa jonkun mennä kaupphaan sinun eestä.</seg>
+        <seg>Sovi sinun lääkin kans kunka sie piät kuorata ommaa tervheyttä.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vask overflater hyppig.</seg>
+        <seg>De du bor sammen med skal være i karantene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Net kekkä asuthaan sinun kans, oon kans karanteenissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hold deg hjemme.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole kotona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hold helt avstand til andre du bor sammen med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Piä kokonhaansa vällii muihin kekkä asuthaan samassa talossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis mulig, bruk eget rom og bad. Vask overflater hyppig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos käypi laihiin, ole omassa lomassa ja piä ommaa baadii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Få hjelp til å handle.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Pese pinnat usseesti.</seg>
