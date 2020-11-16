@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">bekreftelse-vahvistus-tffk.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bekreftelse</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vahvistus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Takk for påmeldingen til Kvenwebinaret kl. 10 – 13, 26. november 2020</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kiitos päälemellauksesta kvääniwebinaarile klo 10-13, 26.novemperikuuta 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle påmeldte vil motta lenke til det digitale møtet før start.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki päälemellatut saahaan linkin digitaaliselle möötile ennen ko se alkkaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lenken blir sendt til eposten registrert i påmeldingsskjema.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Linkin lähätethään siihen e-posthiin mikä oon registreerattu päälemellausskjeemhaan.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
