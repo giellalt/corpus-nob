@@ -6,7 +6,7 @@
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Velg side</seg>
+        <seg>Etulaita | Forside eAvis</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Ota kontaktii – Kontakt oss</seg>
@@ -14,10 +14,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det hendte vi ungene i Kjelvik ble uenige.</seg>
+        <seg>Tørrfisk og andre krigserklæringer</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Ruijan Kaijusta – Om Ruijan Kaiku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det hendte vi ungene i Kjelvik ble uenige.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuivaakallaa ja muita sođanjulistuksii</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,7 +38,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>svarte vi når voksne spurte hvorfor vi kranglet og sloss.</seg>
+        <seg>«Førrdi æ blei så fantastisk førrbainna,» svarte vi når voksne spurte hvorfor vi kranglet og sloss.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>«Sillä ko mie suutuin niin hiivatusti,» met vastasimma ko raavhaat kysythiin miksi met torasimma ja tappelimma.</seg>
@@ -89,7 +97,31 @@
         <seg>Det var noen i Kjelvik, de hadde sommerbesøk.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>«Hei tet sielä!» se poika muutamana päivänä huusi.</seg>
+        <seg>Joilaki Kelviikissä oli kesävieras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et søskenbarn sørfra, en smalbygd gutt med rastløst blikk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muuđan nepu etelästä, villikattantoinen, kaitanaamainen poika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Hei på dere!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Hei tet sielä!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>» ropte en dag den gutten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>» se poika muutamana päivänä huusi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>sa gutten etter en tid.</seg>
+        <seg>«Unnskyld meg altså,» sa gutten etter en tid.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>«Sanoinko mie jotaki väärin?»</seg>
+        <seg>Issoin meistä alkuasukkhaista siirtyi askelheen etheenpäin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,7 +214,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Der i tanngarden, kunne vi se, var alle fortennene på plass. Enn så lenge.</seg>
+        <seg>Der i tanngarden, kunne vi se, var alle fortennene på plass.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Ja silloin met saatoima nähđä ette sillä pojala oli kaikki hamphaat tallessa, etuhamphaatki.</seg>
@@ -190,10 +222,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>sa søringen.</seg>
+        <seg>Enn så lenge.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Kuitenki vielä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Fisk,» sa søringen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Seiti,» sanoi söörinki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Fisssk.»</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Šeiti.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +326,30 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>«Bare kom hit opp så ska du få.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Tule vain tänne, niin kylläpä saatki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Di gorrhysa!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Senkin kurapaska!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>» Han slengte den ene tørrfisken ned til søringen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>» Se viskas toisen kuivankalan alas sööringille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Som plukket den opp, prøvefektet to ganger i lufta, og klatret opp på kaia.</seg>
       </tuv>
       <tuv xml:lang="fkv">
@@ -310,7 +382,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>mumlet gammelkallen da vi hadde forklart.</seg>
+        <seg>«Å sånn,» mumlet gammelkallen da vi hadde forklart.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>«Jaa niin,» mutisi äijä ko met olima sen hänele selvittänheet.</seg>
@@ -337,7 +409,7 @@
         <seg>«Bare fortsett,» hørte vi ham vinke.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Kiini siihen asti ette kumpiki huuđethiin ai!</seg>
+        <seg>«Jatkaakkaa vain,» kuulima sen sannoovan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,12 +417,20 @@
         <seg>Fiskekrigen på kaia varte lenge.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>ja vaitelthiin ette toinen löi vasiten.</seg>
+        <seg>» Prykylä kalasota kesti ja kesti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Helt til begge ropte au og klagde over at den andre slo med vilje. Da fektet de ennå ei stund, til kinnene så ut som herjet med av ei illsint katte og en ny voksenperson kom sigende.</seg>
+        <seg>Helt til begge ropte au og klagde over at den andre slo med vilje.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kiini siihen asti ette kumpiki huuđethiin ai! ja vaitelthiin ette toinen löi vasiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da fektet de ennå ei stund, til kinnene så ut som herjet med av ei illsint katte og en ny voksenperson kom sigende.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Sitte het iskethiin vielä vähäsen aikkaa, kiini siihen asti ette posket näytethiin niin ko niitä olis kraappinu pahanjuoninen kissa, ja paikale tuli toinen raavas ihminen.</seg>
@@ -361,15 +441,15 @@
         <seg>Ei myndig dame.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Arvovaltainen daami.</seg>
+        <seg>«Hyi senthään!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hun avvæpnet bryskt begge og spurte hva i verden de sloss for.</seg>
+        <seg>«Fy da!» Hun avvæpnet bryskt begge og spurte hva i verden de sloss for.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>«Sitte se oon tasapeli,» se sanoi ko oli kuulu kunka se oli.</seg>
+        <seg>» Hän otti raa’asti asheet pois kummaltaki ja kysyi ette minkä ihmheen takia het tappelthiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,7 +457,23 @@
         <seg>«Da e det uavgjort,» sa hun etter å ha lyttet.</seg>
       </tuv>
       <tuv xml:lang="fkv">
+        <seg>«Sitte se oon tasapeli,» se sanoi ko oli kuulu kunka se oli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Tyskerten e førrlengst forre, vi bor i et fritt land.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
         <seg>«Tyskäläinen oon lähteny jo kauvoin aikkaa, ja met asuma vaphaassa maassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fisk og fesk, havet e fullt av begge dela, så slutt å ønes om sånne bagatella.»</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Seittii ja saittaa, molemppii oon meressä nokko, niin ette heittäkkää matkimasta semmoisista pukkuassiista.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +502,30 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
+        <seg>«O hoi!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Hohhoijaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>» knirket han glad.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>» kärisi se iloisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Færdi banka tørrfesk og all ting.»</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Valmhiiksi pankattuu kuivaakallaa ja kaikkee.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
         <seg>Rex og et par av oss ungene diltet etter da gamlingen subbet langs pakkhuset ut til framsida av kaia.</seg>
       </tuv>
       <tuv xml:lang="fkv">
@@ -430,7 +550,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Denne sommerdagens moro med tørrfisk forble en godt bevart hemmelighet.</seg>
+        <seg>Vi åt og gnog til det bare var støv og skinn igjen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Met jyrsimä kallaa kiini siitä oli jäljelä tyhä pikku mourui ja nahka.</seg>
@@ -438,7 +558,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Mellom oss ungene, gamlingen og Rex.</seg>
+        <seg>Skinnet fikk Rex og støvet blåste ned til krabbene.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Nahan sai Rex ja mourut met puhalsimma alas riepoile.</seg>
@@ -446,10 +566,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Alle visste at eierne av sånne fiskehjeller trivdes best i det uvisse, hvor de vanen tro kunne klandre udyr som mink, ørn, og søringer.</seg>
+        <seg>Denne sommerdagens moro med tørrfisk forble en godt bevart hemmelighet. Mellom oss ungene, gamlingen og Rex.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Tästä kesäpäivälisestä kuivakalailosta tuli tarkkhaan varjeltu sallaisuus, mistä ei tienheet muut ko met kläpit, vanhus ja Rex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle visste at eierne av sånne fiskehjeller trivdes best i det uvisse, hvor de vanen tro kunne klandre udyr som mink, ørn, og søringer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki tiesimä ette semmoisten kalajälliin omistaajile oli paras, ko het – niin ko tavalinen oli – saatethiin taas syyttäät monelaissii pettoi niiin ko minkkii, kokkoi eli söörinkkiitä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,15 +622,15 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Jeg hørte henne mumle for seg selv blant skuffer som smalt og bestikk som klirret:</seg>
+        <seg>ropte jeg, det var i yttergangen, jeg støttet meg til Rex mens jeg tråkket av meg skoene.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>mie huusin siinä ko tulin porstuusseen ja nojasin Rexhiin ette sain kengät jalasta.</seg>
+        <seg>» mie huusin siinä ko tulin porstuusseen ja nojasin Rexhiin ette sain kengät jalasta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>«Ka sku det no ellers være?</seg>
+        <seg>«Ka ska vi ha tell middag?»</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>”Mitä meilä oon ruvaksi tääpänä?”</seg>
@@ -510,10 +638,50 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>19. september 2019</seg>
+        <seg>«Fesk,» ropte mamma fra kjøkkenet.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>huusi mamma köökistä.</seg>
+        <seg>«Saittaa,» huusi mamma köökistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jeg hørte henne mumle for seg selv blant skuffer som smalt og bestikk som klirret:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mie kuulin ko se mutisi itteksens samala ko loovat paukattelthiin kiini ja kaffelit ja veittet kalisthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>«Ka sku det no ellers være?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>«Mitäs muuta meilä nyt olis?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Litterær godbit for sultne kvener</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Pohjoismaista id-tunnusta hunteerathaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>11. februar 2020</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>2. juni 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Meininkii | Meninger</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuvasarjoi | Tegneserier</seg>
       </tuv>
     </tu>
     <tu>
@@ -521,7 +689,7 @@
         <seg>Vanhaa kuva – Gamle bilder</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>«Mitäs muuta meilä nyt olis?»</seg>
+        <seg>Pääkirjoituksii | Ledere</seg>
       </tuv>
     </tu>
   </body>
