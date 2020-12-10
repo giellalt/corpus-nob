@@ -6,18 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="nob">
-        <seg>2008 Preludium –</seg>
+        <seg>Preludium</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Jumalan palvelus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Aamen.</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Prelu</seg>
+        <seg>Prelu uti</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,7 +17,7 @@
         <seg>Inngangsbønn –</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>uti Alkurukkous</seg>
+        <seg>Alkurukkous –</seg>
       </tuv>
     </tu>
     <tu>
@@ -49,7 +41,7 @@
         <seg>Jeg er kommet inn i dette ditt hellige hus for å høre hva du, Gud Fader, min skaper, du Herre Jesus, min Frelser, du Hellige Ånd, min trøster i liv og død,</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>sie, Herra Jeesus, minun Vapattaaja,</seg>
+        <seg>Mie olen tullu tänne sinun pyhhään talhoon kuulemhaan mitä sie, Herra Jumala, minun Luoja, sie, Herra Jeesus, minun Vapattaaja, sie, Pyhä Henki, minun lohðuttaaja elämässä ja kuolemassa,</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,18 +94,26 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Inngangssalme</seg>
+        <seg>Amen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Alkuvirsi Alkusanat</seg>
+        <seg>Aamen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Inngangsor d</seg>
+        <seg>Inngangssalme</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Rakas seurakunta.</seg>
+        <seg>Alkuvirsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Inngangsord</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Alkusanat</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,7 +121,7 @@
         <seg>Kjære menighet.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Armo olkhoon teile</seg>
+        <seg>Rakas seurakunta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129,7 +129,7 @@
         <seg>Nåde være med dere og</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Ja rauha Jumalalta, meiðän Isältä,</seg>
+        <seg>Armo olkhoon teile</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,20 +137,28 @@
         <seg>Fred fra Gud, vår Far, og</seg>
       </tuv>
       <tuv xml:lang="fkv">
+        <seg>Ja rauha Jumalalta, meiðän Isältä,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Herren Jesus Kristus.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
         <seg>Ja Herralta Jeesukselta Kristukselta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kyrie eleison!</seg>
+        <seg>Kyrie eleison</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Kyrie eleis on</seg>
+        <seg>Kyrie eleison</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Gud Fader miskunne deg! Kyrie eleison!</seg>
+        <seg>Kyrie eleison! Gud Fader miskunne deg!</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Kyrie eleison, Jumala meiðän Isä, armatta minnuu.</seg>
@@ -158,7 +166,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Herre Krist, miskunne deg!</seg>
+        <seg>Kyrie eleison! Herre Krist, miskunne deg!</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Kriste eleison, Herra Kristus, armatta minnuu.</seg>
@@ -166,10 +174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kyrie eleison!</seg>
+        <seg>Kyrie eleison! herre Hellig Ånd, miskunne deg!</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Kyrie eleis on</seg>
+        <seg>Kyrie eleison, Pyhä Henki, armatta minnuu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,12 +185,20 @@
         <seg>Gloria</seg>
       </tuv>
       <tuv xml:lang="fkv">
+        <seg>Gloria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Presten:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
         <seg>Pappi:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Gloria Ære være Gud i det høyeste!</seg>
+        <seg>Ære være Gud i det høyeste!</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Kunnia olkhoon Jumalale korkkeuðessa!</seg>
@@ -206,154 +222,34 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>tekstlesing</seg>
+        <seg>tekstlesing Det står skrevet Tekstlesningen avsluttes med: Slik lyder Herrens ord. Trosbekjennelse La oss bekjenne vår hellige tro!</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Presten:</seg>
+        <seg>Usk on tunnustus Tunnustama meiðän pyhän uskon.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Det står skrevet</seg>
+        <seg>(Menigheten reiser seg) Jeg tror på Gud Fader, den allmektige, himmelens og jordens skaper.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tekstinlukeminen</seg>
+        <seg>(Seurakunta noussee seisomhaan.) Mie uskon Jumalhaan, kaikkivalttihaasheen Taivhaan ja mailman luojhaan.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tekstlesningen avsluttes med:</seg>
+        <seg>Jeg tror på Jesus Kristus, Guds enbårne Sønn, vår Herre, som ble unnfanget ved Den Hellige Ånd, født av jomfru Maria, pint under Pontius Pilatus, korsfestet, død og begravet, for ned til dødsriket, stod opp fra de døde tredje dag, for opp til himmelen, sitter ved Guds, den allmektige Faders, høyre hånd, skal derfra komme igjen for å dømme levende og døde.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Oon kirjotettu...</seg>
+        <seg>Mie uskon Jeesuksheen Kristuksheen, Jumalan ainutsyntyisheen Poikhaan, meiðän Herrhaan, sikkiintyny Pyhän Hengen kautta, jonka Neittyt Maaria synnytti, piinattu Pontius Pilatuksen alla, risthiinnaulittu, kuollu ja hauðattu, meni kuolemanvaltakunthaan, nousi ylös kolmantena päivänä, meni taivhaasheen, istuu Jumalan kaikkivalttihaan Isän oikkeela puolela ja tullee takasin tuomittemhaan elläävii ja kuolheita.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Slik lyder Herrens ord.</seg>
+        <seg>Jeg tror på Den Hellige Ånd, en hellige alminnelig kirke, de helliges samfunn, syndenes forlatelse, kjødets oppstandelse og det evige liv.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Näin oon Herran sanat.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Usk Aamen.</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>tunnustus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>La oss bekjenne vår hellige tro!</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Tunnustama meiðän pyhän uskon.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>(Menigheten reiser seg)</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>(Seurakunta noussee seisomhaan.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Jeg tror på Gud Fader,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Mie uskon Jumalhaan,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>den allmektige,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>kaikkivalttihaasheen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>himmelens og jordens skaper.</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Taivhaan ja mailman luojhaan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Jeg tror på Jesus Kristus,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Mie uskon Jeesuksheen Kristuksheen,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Guds enbårne Sønn, vår Herre,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Jumalan ainutsyntyisheen Poikhaan,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>som ble unnfanget ved Den Hellige Ånd, født av jomfru Maria,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>sikkiintyny Pyhän Hengen kautta, jonka Neittyt Maaria synnytti,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>pint under Pontius Pilatus,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>piinattu Pontius Pilatuksen alla,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>korsfestet, død og begravet,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>risthiinnaulittu, kuollu ja hauðattu,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>for ned til dødsriket, stod opp fra de døde tredje dag,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>meni kuolemanvaltakunthaan, nousi ylös kolmantena päivänä,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>for opp til himmelen,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>meni taivhaasheen,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>sitter ved Guds, den allmektige Faders, høyre hånd,</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>istuu Jumalan kaikkivalttihaan Isän oikkeela puolela</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>skal derfra komme igjen for å dømme levende og døde.</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>ja tullee takasin tuomittemhaan elläävii ja kuolheita.</seg>
+        <seg>Mie uskon Pyhhään Henkheen, pyhhään tavalisheen kirkhoon, pyhhiin valtakunthaan, synttiin antheeksi antamisheen, ruumhiin ylösnousemisheen, ja ikuisheen elämhään.</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,7 +257,7 @@
         <seg>Menigheten synger: Amen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Mie uskon Pyhhään Henkheen,</seg>
+        <seg>Seurakunta laulaa: Aamen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,23 +265,23 @@
         <seg>Salme</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>pyhhään tavalisheen kirkhoon,</seg>
+        <seg>Virsi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>2. 2. tekstlesing</seg>
+        <seg>tekstlesing</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>pyhhiin valtakunthaan,</seg>
+        <seg>Tekstinlukeminen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Paulus’ første brev til korinterne,</seg>
+        <seg>Dette hellige evangelium står skrevet i Paulus’ første brev til korinterne, kap.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>synttiin antheeksi antamisheen,</seg>
+        <seg>Tämä pyhä evankeeliumi oon kirjotettu Paavalin ensimäisessä preevissä korintilaisile, ensimäisessä luvussa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -393,7 +289,7 @@
         <seg>Slik lyder Herrens ord</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>ruumhiin ylösnousemisheen,</seg>
+        <seg>Näin oon Herran sanat</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,7 +297,7 @@
         <seg>Hellige oss i sannhet</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>ja ikuisheen elämhään.</seg>
+        <seg>Pyhitä meitä tottuuðessa</seg>
       </tuv>
     </tu>
     <tu>
@@ -409,7 +305,7 @@
         <seg>Ditt ord er sannhet</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Seurakunta laulaa:</seg>
+        <seg>Sinun sanat oon tottuus</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,39 +321,15 @@
         <seg>Preken</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tekstinlukeminen</seg>
+        <seg>Saarna</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Dette hellige evangelium står skrevet hos</seg>
+        <seg>Dette hellige evangelium står skrevet hos Markus i det 12. kapittel (vers 28 – 34):</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tämä pyhä evankeeliumi oon kirjotettu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Markus i</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Paavalin ensimäisessä preevissä korintilaisile, ensimäisessä luvussa:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>d</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Näin oon Herran sanat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>et 12. kapittel (vers 28 – 34):</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Pyhitä meitä tottuuðessa</seg>
+        <seg>Tämä pyhä evankeeliumi oon kirjotettu Markkuksen kah ð enessatoista luvussa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,23 +337,7 @@
         <seg>Salme</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Saarna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>k</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Markkuksen kah</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>s</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>ð</seg>
+        <seg>Virsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,7 +345,7 @@
         <seg>Kunngjøringer</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>enessatoista</seg>
+        <seg>Kuulutu k s et</seg>
       </tuv>
     </tu>
     <tu>
@@ -497,7 +353,15 @@
         <seg>Forbønn</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Kuulutu</seg>
+        <seg>Esirukkous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Presten:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Pappi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,7 +414,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Herre, hør vår bønn! Aamen</seg>
+        <seg>Herre, hør vår bønn! Fadervår</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Herra, kuule meiðän rukkouksen!</seg>
@@ -558,18 +422,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>d ervår</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Presten:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Fader vår,</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Isä mei ð</seg>
+        <seg>Isä mei ð än</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,7 +433,7 @@
         <seg>du som er i himmelen!</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Isä meiðän, joka olet taivhaassa!</seg>
+        <seg>Pyhitetty olkhoon sinun nimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,15 +454,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>La din vilje skje på jorden</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Niin maassa, niinko taivhaassaki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Gi oss i dag vårt daglige brød. Forlat oss vår skyld,</seg>
+        <seg>La din vilje skje på jorden som i himmelen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Anna meile tänä päivänä meiðän jokapäiväisen leivän</seg>
@@ -614,7 +462,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>som vi òg forlater våre skyldnere.</seg>
+        <seg>Gi oss i dag vårt daglige brød.</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Ja anna meile meiðän synnit antheeksi</seg>
@@ -622,18 +470,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Led oss ikke inn i fristelse,</seg>
+        <seg>Forlat oss vår skyld, som vi òg forlater våre skyldnere.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Ja älä johðata meitä kiussauksheen</seg>
+        <seg>Niinko metki annama antheeksi meiðän velvolisile</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>men frels oss fra det oonde.</seg>
+        <seg>Led oss ikke inn i fristelse, men frels oss fra det oonde.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Mutta päästä meiðät pahasta</seg>
+        <seg>Ja älä johðata meitä kiussauksheen Mutta päästä meiðät pahasta</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,7 +505,7 @@
         <seg>Amen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Virsi</seg>
+        <seg>Aamen</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,31 +513,15 @@
         <seg>Salme</seg>
       </tuv>
       <tuv xml:lang="fkv">
+        <seg>Virsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Presten:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
         <seg>Siunaus</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Aamen.</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Pappi:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Aamen. Aamen</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Ylistämä Herraa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Velsignelse</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Jumalale kiitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -697,7 +529,15 @@
         <seg>La oss prise Herren</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Halleluujaa Halleluujaa</seg>
+        <seg>Pappi: Ylistämä Herraa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Menigheten reiser seg og synger:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Seurakunta nousee ja laulaa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,7 +545,39 @@
         <seg>Gud være lovet</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Halleluujaa Pappi:</seg>
+        <seg>Jumalale kiitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Halleluja</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Halleluujaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Halleluja</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Halleluujaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Halleluja</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Halleluujaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Presten:</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Pappi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,7 +606,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Herren løfte sitt åsyn på deg og gi deg fred!</seg>
+        <seg>Herren løfte sitt åsyn på deg og gi deg fred! Menigheten synger:</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Herra kääntäkhöön kasvot sinun pääle ja antakhoon sinule rauhan!</seg>
@@ -742,18 +614,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Menigheten synger:</seg>
-      </tuv>
-      <tuv xml:lang="fkv">
-        <seg>Seurakunta laulaa:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
         <seg>Amen, amen, amen.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Halleluja Presten:</seg>
+        <seg>Seurakunta laulaa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +706,14 @@
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Aamen Jeesuksen nimheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Postlu d ium</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Postluuti</seg>
       </tuv>
     </tu>
   </body>
