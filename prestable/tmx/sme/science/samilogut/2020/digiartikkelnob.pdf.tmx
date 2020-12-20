@@ -1,0 +1,3496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">digiartikkelnob.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med et tastetrykk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boallobeavddi bokte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av digitale ressurser for samiske språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielaid digitála resurssaid geavaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lene Antonsen og Trond Trosterud, UiT Norges arktiske universitet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lene Antonsen ja Trond Trosterud, UiT Norgga árktalaš universitehta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sammendrag</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkáigeassu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Digital kommunikasjonen mellom myndigheter og brukere blir stadig mer utbredt, og mange offentlige etater forventer at brukerne skal ta kontakt via digitale kanaler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitála gulahallan eiseválddiid ja geavaheddjiid gaskkas lassána, ja máŋga almmolaš etáhta vurdet ahte geavaheaddjit galget váldit oktavuođa digitála kanálaid bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det arbeides nå for at også samiske brukere skal kunne bruke sitt eget språk i slik kommunikasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál bargojuvvo dasa ahte maiddái sámi geavaheaddjit galget beassat geavahit iežaset giela dákkár gulahallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I denne artikkelen ser vi på hva som finnes av skriveverktøy og annen programvare til hjelp i skrive- og leseprosessen for samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkalis gehčče makkár čállinreaiddut ja eará prográmmagálvvut gávdnojit mat sáhttet veahkehit sámegielaid čállin- ja lohkanproseassas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dag står de samiske språka relativt sterkt i digital sammenheng, men det var langt fra opplagt at det skulle gå slik.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Odne leat sámegielain viehka nana sadji digitála oktavuođain, muhto dat ii lean eisige vuorddehahtti ahte dilli galggai šaddat nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For nordsamisk skjedde innføringa av ei ny felles rettskriving, innføring av samisk skriftspråk i offentlig sammenheng og begynnelsen på dataalderen omtrent samtidig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiela ektui bohte ođđa čállingiella, sámegiela čállingiela geavaheapmi almmolašvuođas ja dihtoráiggi álgu sullii oktanaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne artikkelen viser hvorfor de samiske språka trass i et vanskelig utgangspunkt står såpass sterkt i digital sammenheng som de gjør, og hvilke konsekvenser dette har fått for den samiske språksituasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát artihkal čájeha manne sámegielat leat dan mađe nana digitála posišuvnnas go leat, vaikko vuolggasadji lei heittot, ja makkár čuovvumušaid dát leat dagahan sámi gielladillái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har også henta inn statistikk over bruk av en del digitale samiske språkverktøy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Letne maiddái viežžan statistihka das mo muhtun digitála sámi giellareaiddut leat geavahuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk språkteknologi endrer folks atferd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellateknologiija rievdada olbmuid láhttema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Internasjonal standardisering gjorde det mulig å få samisk på internett på 1990-tallet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaidgaskasaš standardiseren dagai vejolažžan oažžut sámegiela internehttii 1990-logus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske retteprogram har blitt en del av hverdagen for de aller fleste som skriver samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielaid sátnedivvunprográmma lea šaddan árgabeaivvi oassin eatnasiidda geat čállet sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innføringa av samiske tastatur på mobiltelefonen økte kvaliteten på samisk tekst på Facebook drastisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi boallobevddiid atnuiváldin loktii sámi teavstta kvaliteahta sakka Facebookas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da maskinoversetting ble tilgjengelig, forsvant store deler av diskusjonen om hvorvidt det skulle være lov til å skrive på samisk i nettdiskusjoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle go dihtorjorgaleapmi bođii, de jávkkai muhtun muddui digaštallan das galgágo leat lohpi čállit sámegillii neahttadigaštallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nettordbøker med grammatikk og lenke til autentisk samisk tekst går et langt steg i å kompensere for den svake posisjonen samiske språk har i samfunnet som helhet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Neahttasátnegirjjit main lea grammatihkka ja liŋka autenttalaš teavsttaide, muhtun muddui buhttejit sámegielaid geahnohis posišuvnna olles servodaga ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversetting av tekst til samisk utgjør en flaskehals i svært mange sammenhenger, særlig når det gjelder skolebøker og sakprosa, så mer effektive rutiner for oversetting vil ha stor innflytelse på tilgang til samisk tekst.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teavsttaid jorgaleapmi sámegillii lea bohtalnjálbmi máŋgga oktavuođas, erenoamážit skuvlagirjjiid ja áššeprosa oktavuođas, nu ahte beaktilat jorgalanvuogit sáhttet váikkuhit sakka sámegiel teavsttaid oažžumii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av oversettingsminne og automatisk oppslag av fagtermer vil også gjøre det lettere for oversetterne å få en mer konsistent terminologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgalanmuittu geavaheapmi ja automáhtalaš fágatearpmaid ohcan sáhttet maiddái álkidahttit jorgaleddjiid barggu geavahit konsisteanta terminologiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til slutt drøfter vi utviklinga av språkteknologiske løsninger framover, og hva det innebærer for arbeidet med å styrke bruk av samiske språk på ulike samfunnsområder.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahpas ságaškušše giellateknologalaš čovdosiid ovddideami ovddos guvlui, ja maid dat mielddisbuktet sámegiela nannemii iešguđet servodatsuorggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innledning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álggahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For majoritetsspråkbrukere i Norden har det alltid vært en selvfølge å kommunisere skriftlig med offentlige myndigheter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkaid eanetlogugielageavaheddjiide lea álo leamaš lunddolaš gulahallat čálalaččat almmolaš eiseválddiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De siste tiåra har kommunikasjonen gått mer og mer over til digital form, og mange offentlige etater forventer at brukerne skal ta kontakt via digitale kanaler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš logijagiid lea gulahallan eanet ahte eanet šaddan digitálalažžan, ja máŋga almmolaš etáhta vurdet geavaheddjiid váldit oktavuođa digitála kanálaid bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det arbeides nå for at også samiske brukere skal kunne bruke sitt eget språk i slik kommunikasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál bargojuvvo dan ovdii ahte maiddái sámi geavaheaddjit galget beassat geavahit iežaset giela dákkár gulahallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Siden samisk ikke har vært brukt i kommunikasjon med det offentlige tidligere, trenger man ord og terminologi for denne kontakten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Danne go sámegiella ii leat geavahuvvon gulahallat almmolaš etáhtaiguin ovdal, de olbmot dárbbašit sániid ja terminologiija dán gulahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dessuten har mange samisktalende hatt liten eller i verste fall ingen skriveopplæring på skolen, og for alle samisktalende gjelder det at de i liten grad blir eksponert for det skrevne ord på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin lea máŋgga sámegielagis leamaš unnán dahje vel vearrát, ii makkárge čállinoahpahus skuvllas, ja buot sámegielagiidda lea dilli nu ahte sii leat unnán oaidnán čállojuvvon sámegiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Satsninga på digitalisering også for samiske språk kan på lengre sikt bøte på dette, men for å komme så langt må en del grunnsteiner være lagt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitaliserenáŋgiruššan maiddái sámegielaide sáhttá guhkit perspektiivvas buhttet dán, muhto vai beassat nu guhkás, de muhtun vuođđoáššit fertejit leat sajisteaset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske tastatur, retteprogram og andre hjelpemidler må være tilgjengelig, og det samme må kunnskapen om og bruken av dem være.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi boallobeavddit, sátnedivvunprográmmat ja eará veahkkeneavvut fertejit leat olámuttos, ja geavaheaddjit dárbbašit maiddái diehtit daid birra ja máhttit daid geavahit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når det gjelder å skrive på samisk på internettsider og i sosiale medier, er det et viktig hinder at ikke alle lesere behersker språket, og da er maskinoversetting fra samisk til majoritetsspråket et relevant verktøy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dehálaš eastta sámegillii čállimii interneahttasiidduin ja sosiála medias lea go eai buot lohkkit máhte sámegiela, ja dalle lea dihtorjorgaleapmi sámegielas eanetlogugillii relevánta reaidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Digitaliseringsprosessen innebærer en kontinuerlig utvikling av nye verktøy, som intelligente søkemotorer på internett, oversettingsprogram mellom flere språk, maskinell opplesing av tekst, program som kan ta imot taleinstrukser, og så videre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitaliserenproseassa mielddisbuktá ođđa reaidduid joatkevaš ovddidanbarggu, nugo intelligeanta ohcanmohtoriid interneahtas, jorgalanprográmma eanet gielaid gaskkas, dihtorprográmma mii lohká teavstta jitnosit, ja prográmma mii ipmirda hállojuvvon gohččumiid, ja nu viidáseappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For at minoritetsspråk skal kunne overleve i en hverdag hvor vi bruker mer og mer av slike tjenester, er det nødvendig at slike program også er utvikla for disse minoritetsspråka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vai vehádatgielat galget ceavzit árgabeaivvis go geavahit eanet ahte eanet dakkár bálvalusaid, de dárbbašit diekkár prográmmaid maiddái vehádatgielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I denne artikkelen vil vi se på hva som finnes av skriveverktøy og annen programvare til hjelp i skrive- og leseprosessen for samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkalis gehčče makkár čállinreaiddut ja eará prográmmagálvvut gávdnojit mat sáhttet veahkehit sámegielagiid čállin- ja lohkanproseassas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I den grad vi har fått tilgang til logger eller statistiske opplysninger, vil vi også se på bruken av programma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan mielde go letne beassan geavahanloggaide dahje ožžon statistihkalaš dieđuid, de gehčče maiddái prográmmaid geavahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duogáš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2.1 Digitalisering og språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.1 Digitaliseren ja giella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Digitalisering er en prosess som konverterer informasjon til et digitalt format, dvs. maskinlesbar informasjon i et format bestående av tall (null eller en).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitaliseren lea proseassa mii konvertere dieđuid digitálalaš formáhtii, mii lea formáhta maid dihtor máhttá lohkat, formáhta mas leat logut (nolla ja okta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I denne artikkelen vil vi begrense oss til digitalisering av samiskspråklige data, og dataprogramma som blir brukt for å prosessere slike data, og som er åpent tilgjengelige for samisktalende, med vekt på situasjonen i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkalis ráddjejetne sámegiela dáhtaid digitaliseremii, ja dihtorprográmmaide mat geavahuvvojit prosesseret dakkár dáhtaid, ja mat leat rabasin olámuttos sámegielagiidda. Váldodeaddu lea Norgga diliin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dag står de samiske språka relativt sterkt i digital sammenheng, men det var langt fra opplagt at det skulle bli slik.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Odne lea sámegielain viehka nana sadji digitála oktavuođain, muhto dat ii lean eisige vuorddehahtti ahte dilli galggai šaddat nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For nordsamisk skjedde innføringa av ei ny felles rettskriving, innføring av samisk skriftspråk i offentlig sammenheng, og begynnelsen på dataalderen omtrent samtidig (ny rettskriving i 1979, og de andre prosessene fra og med 1980-talet).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiela ektui bohte ođđa oktasaš čállinvuohki, sámegiela geavaheapmi almmolaš oktavuođain ja dihtoráiggi álgu sullii oktanaga (ođđa čállinvuohki 1979:s, ja eará proseassat 1980-logu rájes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mengden av ekstrabokstaver</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassebustávaid lohku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>øker jo lenger nordøstover vi kommer, det samme gjør behovet for tilpassede tastatur og tegnsett.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>lassána mađe guhkkelebbui davás ja nuorttas mii mannat, ja nu maiddái dárbu oažžut heivehuvvon boallobeavddi ja čálamearkačoahki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også for språkteknologiske verktøy var utgangspunktet vanskelig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái giellateknologalaš reaidduide lei dát váttis vuolggasadji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Måten å lage ordretteprogram var utvikla for engelsk og andre vesteuropeiske språk, og de samiske språka har en grammatisk struktur som gjør at den same måten å lage program på passer dårlig for samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielain lea grammatihkalaš ráhkadus mii dahká ahte bargovuohki mii geavahuvvo ráhkadit sátnedivvunprográmma eaŋgalasgillii ja eará oarjeeurohpalaš gielaide ii heive sámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mye tyda derfor på at de samiske språka skulle få store problemer med overgangen til digital språkbehandling.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgga sivas orui nu ahte sámegielaide šaddá váttis mannat digitála giellameannudeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med denne artikkelen vil vi vise hvorfor de samiske språka trass i et vanskelig utgangspunkt står såpass sterkt i digital sammenheng som de gjør, og hvilke konsekvenser dette har fått for den samiske språksituasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán artihkkalis áigo čájehit manne sámegielat váttis vuolggasajis beroškeahttá, leat dan mađe nannosat digitála oktavuođas, ja makkár čuovvumušat das leat sámegielaid dillái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har også henta inn statistikk over bruk av en del digitale språkverktøy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Letne maiddái viežžan statistihka das mo muhtun digitála sámi giellareaiddut leat geavahuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til slutt vil vi drøfte utviklinga av språkteknologiske løsninger framover, belyse noen mangler og se på hva det innebærer for arbeidet med samisk språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahpas áigo digaštallat giellateknologalaš čovdosiid ovddideami ovddos guvlui, čalmmustahttit muhtun váilevašvuođaid ja árvvoštallat maid dat mielddisbuktet bargui sámegielaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2.2 Språkteknologi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.2 Giellateknologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I utgangspunktet er språkteknologi all teknologi som kan brukes for å behandle språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgoálggus lea giellateknologiija buot teknologiijat maiguin sáhttá meannudit gielaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dag blir termen brukt om dataprogrammas evne til å analysere, produsere, endre eller respondere på menneskelig tekst og tale.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán áigge geavahit tearpma go oaivvildit dihtorprográmmaid mat máhttet analyseret, buvttadit, rievdadit ja responderet olmmošlaš tekstii dahje hállamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Språkteknologi er en viktig del av teknologifeltet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellateknologiija lea teknologiijasuorggi dehálaš oassi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>naturlig språk når vi interagerer både med hverandre og med datamaskinene, og det å gjøre maskinene i stand til å behandle naturlig språk griper dermed inn i store deler av programvareutviklinga.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii olbmot geavahit lunddolaš giela go mii gulahallat sihke gaskaneamet ja dihtoriiguin. Go galgá oahpahit dihtoriidda meannudit lunddolaš giela, de čuohcá dat máŋgga láhkai dihtorprográmmaid buvttadeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nettopp derfor er også språkteknologien djupt integrert i de ulike dataløsningene, og de ligger også an til å få ei viktig rolle i det nye Tingenes internett, der vi kan kommunisere med høyttalerne, kjøleskapene, ytterdørene og bilene våre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Justa dan dihte lea giellateknologiija čiekŋalit laktojuvvon iešguđet dihtorčovdosiidda, ja orru oažžumin maiddái dehálaš rolla ođđa Dávviriid interneahtas, mainna sáhttit gulahallat iežamet skájaniiguin, galbmaskáhpiiguin, olgouvssaiguin ja biillaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørsmålet er om vi da kan bruke samisk?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto sáhttitgo dalle geavahit sámegiela?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>2.3 Åpen kildekode</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.3 Rabas gáldokoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programvareutvikling foregår langs to ulike framgangsmåter: lukka og åpen kildekode.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmmagálvvut ráhkaduvvojit goappatlágaš bargovugiid mielde: gokčojuvvon ja rabas gáldokodain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Åpen kildekode skiller seg fra lukka ved ikke bare å gi tilgang til den ferdige programfila, men også til filene som blei brukt for å lage den.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rabas gáldokoda earrána gokčojuvvon gáldokodas dainna lágiin ahte geavaheaddji beassá geavahit sihke válmmaš prográmmafiilla ja fiillaid mat geavahuvvojedje dan ráhkadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med en slik tilgang kan man lage sin egen versjon av programmet og for eksempel tilpasse det til egne formål.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár beassan addá vejolašvuođa ráhkadit iežas veršuvnna prográmmas, ja ovdamearkka dihte heivehit dan iežas dárbbuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Åpen kildekode er viktig av to grunner: Hvis språkmodellkoden er kontrollert av programvarehuset som lager brukerprogramma den skal integreres i, risikerer språksamfunnet (dvs. de som bruker språket) at de lingvistiske ressursene språkbrukerne har vært med på å lage, bare dukker opp i programma laget av dette programvarehuset, og ikke i andre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rabas gáldokoda lea dehálaš guovtti sivas: Jus muhtun prográmmagálvofitnodat ráhkada giellamodeallakoda dušše iežas geavaheaddjiprográmmaid várás, de giellaservodat (olbmot geat geavahit giela) sáhttá vásihit ahte lingvisttalaš resurssat maid sii leat leamaš mielde ráhkadeamen, gávdnojit dušše dán dihto prográmmagálvofitnodaga prográmmain, eaige eará prográmmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I verste fall går ressursene tapt hvis programma som de er integrert i, går ut av bruk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vearrámus čuovusin mannet resurssat duššás dalle go prográmmat maidda resurssat lea ovttaiduvvan, eai šat geavahuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lukka kildekode vil også stenge språkmodellene ute fra programvare som har som krav at alle bestanddelene skal være åpen kildekode, for eksempel i akademiske miljøer eller program laga på dugnad.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gokčojuvvon gáldokoda hehtte maiddái giellamodeallaid geavaheami prográmmagálvvuin maidda gáibiduvvo ahte buot oasit galget leat rabas gáldokoda, ovdamearkka dihte akademalaš birrasiid dahje veahkkálasbarggu prográmmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For store språksamfunn blir dette løst ved at det lages flere konkurrerende språkmodeller, noen åpne og andre lukka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorra giellaservodagain čoavddusin lea ráhkadit máŋga giellamodealla mat gilvalit, sihke rabas ja gokčojuvvon giellamodeallaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Små språksamfunn har ikke ressurser til dette, og derfor er åpen kildekode viktig for samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Unna giellaservodagain eai leat resurssat dakkárii, ja dan dihte lea rabas gáldokoda dehálaš sámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I kapittel 4.3 er det eksempler på at åpen kildekode gir flere aktører muligheter til å lage ordbøker og ordboksapper.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kapihttalis 4.3 leat ovdamearkkat das mo rabas gáldokoda addá eanet oassádalliide vejolašvuođa ráhkadit sátnegirjjiid ja sátnegirjeáppaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk språkteknologi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellateknologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her presenterer vi eksisterende infrastruktur og programvare for behandling av samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás ovdanbukte dálá infrastruktuvrra ja prográmmaid mat meannudit sámegielaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det største miljøet som arbeider med dette, er ved UiT Norges arktiske universitet. Vi er selv en del av dette miljøet, og dette vil også bli gjenspeilet i presentasjonen vår.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiT Norgga árktalaš universitehtas lea stuorimus biras mii bargá dainna, ja moai gulle dán birrasii, ja dát vuhtto munno ovdanbuktimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi vil likevel også legge vekt på å presentere andre miljø og initiativ.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto áigo maiddái muitalit eará birrasiid ja vuolggahemiid birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.1 Oppstarten for samisk språkteknologi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.1 Sámi giellateknologiija álgu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidet med å bygge opp språkteknologi for samiske språk startet i 2001 ved UiT, de første åra bare med éi stilling, men fra 2008 var det tre faste stillinger, som utgjorde forskningsgruppa Giellatekno.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargu hukset giellateknologiija sámegielaide álggahuvvui jagis 2001 UiT:s, vuosttaš jagiid dušše ovttain virggiin, muhto 2008 rájes gulle golbma fásta virggi Giellatekno-nammasaš jovkui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det norske sametinget etablerte i 2004 Divvun-gruppa, som hadde som formål å bygge ordretteprogram for de tre offisielle samiske språka i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norgga sámediggi ásahii 2004:s Divvun-joavkku man ulbmil lei ráhkadit sátnedivvunprográmma Norgga golmma almmolaš sámegilli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Divvun-gruppa samarbeida fra begynnelsen av tett med UiT og blei i 2011 også flytta formelt fra Sametinget til UiT, med finansiering fra Kommunal- og moderniseringsdepartementet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álggu rájes juo Divvun-joavku ovttasbarggai lávgalaga UiT:in, ja jagi 2011 sirdojuvvui formálalaččat Sámedikkis UiT:i, muhto ruhtadeapmi bođii Gieldda- ja ođasmahttindepartemeanttas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gruppene har sammen bygd språkteknologiske ressurser for flere samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát guokte joavkku leaba ovttas ráhkadan giellateknologalaš resurssaid eanet sámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.2 Samiske kodetabeller</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2 Sámi kodatabeallat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En kodetabell er i denne sammenhengen ei liste av bokstaver og andre tegn der hvert tegn har en unik tallverdi, slik at datamaskinen skal være i stand til å prosessere det.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kodatabealla lea dán oktavuođas listu mas leat bustávat ja eará čálamearkkat, ja juohke čálamerkii gullá dihto lohkoárvu vai dihtor sáhttá prosesseret dan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I løpet av 80-tallet vokste det fram ulike ad hoc-kodetabeller for nordsamisk, der bokstaver brukt i andre europeiske språk blei erstattet med samiske bokstaver.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>80-logu mielde ráhkaduvvojedje davvisámegiela várás iešguđetlágan ad hoc-kodatabeallat main eurohpalaš gielaid bustávat buhttejuvvojedje sámi bustávaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den nordsamiske ortografien fra 1979 hadde endelig fjerna grensene som delte opp nordsamisk, men nå var det samiske språksamfunnet på nytt i en situasjon der riksgrensa blei et hinder: På den andre sida av grensa hadde de andre kodetabeller.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa davvisámi čállinvuohki, mii dohkkehuvvui 1979, lei viimmat jávkadan riikkarájiid mat juhke davvisámegiela, muhto dál riikkarádji šattai vuot hehttehussan giellaservodahkii: Ráji nuppi bealde ledje eará kodatabeallat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å publisere på internett (da det kom) var heller ikke mulig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iige lean vejolaš almmuhit teavsttaid interneahtas (dalle go dat bođii).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det var ikke bare samisk som hadde vanskeligheter med å representere bokstavene sine på 1980-tallet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eai dušše sámegielain lean váttisvuođat ovdanbuktit giela sierra bustávaid 1980-logus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De store dataprodusentene og det internasjonale standardiseringsorganet ISO slo i 1993 sammen de respektive tegnsettstandardene sine til en felles standard for alle bokstaver for alle levende (og etter hvert også alle utdødde) språk, Unicode.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 1993 stuora dihtorbuvttadeaddjit ja riikkaidgaskasaš standardiserenorgána ISO ovttastahtte iežaset čálamearkastandárddaid oktasaš standárdan, Unicode, mas leat buot ealli (ja áiggi mielde maiddái buot jápmán) gielaid bustávat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra og med 1993 var det klart at alle problemer med bokstaver i prinsippet var løst.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 1993 rájes lei čielggas ahte buot bustávvaváttisvuođat rievtti mielde ledje čovdojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det skulle likevel gå godt over ti år før Unicode var implementert i nye datamaskiner, og fremdeles (i 2020) kan samiske tegn dukke opp som spørsmålstegn, f.eks. i NRK Sápmi sin app for smarttelefoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dattetge manai eanet go 10 jagi ovdalgo Unicode lei sajustuvvon buot ođđa dihtoriidda, ja velge (jagi 2020) sáhttet sámi bustávat dihttot jearaldatmearkan, omd. NRK Sámi jierbmetelefovnnaid áppas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>3.3 Regelbasert språkteknologi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3 Njuolggadusvuđot giellateknologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes ulike språkteknologiske metoder, og ressursene som finnes for språket det gjelder, er avgjørende for valg av teknologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leat iešguđetlágan giellateknologiijat, ja giela resurssat leat mielde mearrideamen guđemuš teknologiija galgá válljet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes ikke store nok tekstsamlinger til at de inneholder alle samiske ord, heller ikke for nordsamisk, selv om tilgjengelig tekst for nordsamisk er 30 ganger større enn for andre samiske språk, se kap. 4.4. Løsningen er derfor å generere alle orda.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eai gávdno dan mađe stuora teakstačoakkáldagat ahte dain livčče buot sámegiela sánit, eai davvisámegilliige, vaikko davvisámegiel teavsttat olámuttos leat 30 geardde eanet go eará sámegielain, gč. kap. 4.4. Čoavddus lea dan dihte genereret (ráhkadit) buot sániid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ikke nok å lage en liste over alle grunnformene og automatisk legge til forskjellige bøyningsendinger til ordstammene, fordi bøyning av samiske ord ofte medfører endring også av bokstaver inne i stammen av ordet, som i orda goahti - gođiide og gåetie - göötide (gamme/hus i grunnform og illativ flertall, på henholdsvis nordsamisk og sørsamisk).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat doarvái ráhkadit listtu mas leat buot vuođđohámit, ja daidda lasihit iešguđetlágan sojahangehčosa, dannego sámi sániid sojaheapmi dávjá mielddisbuktá ahte maiddái bustávat sátnemáddaga siste rivdet, nugo sániin goahti - gođiide ja gåetie - göötide (vuođđohápmi ja eanetlogu illatiiva, davvisámegillii ja lullisámegillii).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor har man heller valgt å lage en datalingvistisk modell for hvert samisk språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan dihte mii leat baicce válljen ráhkadit dihtorlingvisttalaš modealla juohke sámegiela giela várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Modellen inneholder lister av ord på språket, og den genererer alle bøyningsformer og ordavledninger for disse orda, i tillegg til å lage alle mulige sammensetninger med orda.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Modealla sisttisdoallá giela sátnelisttuid, ja modealla generere sániid visot sojahanhámiid ja suorggádusaid, ja dasa lassin buot vejolaš sátnegoallostemiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg til selve ordet gir modellen også grammatisk informasjon om hvert ord. Slik kan man for eksempel produsere orda som skal være med i et ordretteprogram.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sániide lassin addá modealla maiddái grammatihkalaš dieđuid juohke sánis. Dien láhkai lea vejolaš omd. genereret sániid mat galget leat mielde sátnedivvunprográmmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ord som ikke kan genereres for det språket modellen er laga for, blir merka med en rød strek.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sánit maid modealla ii máhte genereret dan gillii masa dat lea ráhkaduvvon, merkejuvvot rukses sázuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deretter genererer modellen fem forslag til riktige skrevne ord, som likner på ordet som ikke blei godkjent.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasto modealla evttoha vihtta riektačállon sáni, mat sulastahttet sáni mii ii dohkkehuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I og med at det kan generere orda, kan programmet også analysere dem, dvs. fortelle hva som er grunnformen, og hvilken bøyningsform (ev. ordavledning eller sammensetning) ordet har.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go prográmma máhttá genereret sániid, de dat maiddái máhttá daid analyseret, namalassii muitalit sáni vuođđohámi ja guđemuš sojahanhámis (ja vejolaččat suorggádusas dahje goallosteamis) lea sáhka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dessuten har man et program som kan analysere hele setninga og fortelle hvilken funksjon hvert ord har i forhold til de andre orda i setninga, f.eks. om ordet beatnaga (= hund) står som eier av noe eller som objekt i setninga.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ja de lea nubbi prográmma mii máhttá analyseret olles cealkaga, ja muitalit juohke sáni doaimma daid eará sániid ektui, omd. leago sátni beatnaga oamasteaddji vai objeakta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse to programma sammen er grunnlaget for oversettingssystemet som beskrives i kapittel 4.5.1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát guokte prográmma ovttas leat vuođđu jorgalanprográmmii mii válddahallojuvvo kapihttalis 4.5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Begge programma består av regler formulert av lingvister. Derfor kalles dette regelbasert språkteknologi, i motsetning til statistisk basert språkteknologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goappaš prográmmaide gullet njuolggadusat maid lingvisttat leat čállán, ja dan dihte dát gohčoduvvo njuolggadusvuđot giellateknologiijan, mii lea áibbas eará go statistihkkavuđot giellateknologiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>(Les mer om regelbasert språkteknologi for samiske språk i Antonsen &amp;amp; Trosterud 2010 og Antonsen 2018.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(Loga eanet sámi gielaid njuolggadusvuđot giellateknologiija birra: Antonsen &amp;amp; Trosterud 2010:s ja Antonsen 2018:s.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Språkteknologiske verktøy og bruken av dem</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellateknologalaš reaiddut ja daid geavahus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det aller meste av språkteknologiske verktøy for samiske språk er laga ved UiT, i samarbeid med brukermiljø og andre aktører.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorimus oasi buot sámi giellateknologalaš reaidduin lea UiT ráhkadan, ovttasráđiid geavaheaddjibirrasiiguin ja eará olggobeale oassádalliiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dette kapitlet gir vi statistikk både for verktøy som kan lastes ned, og for verktøy som brukes online.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán kapihttalis adde statistihka sihke reaidduide maid sáhttá viežžat, ja reaidduide maid geavaha online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For den første gruppa har vi bare loggdata for hvor mange ganger programma er lasta ned, mens vi for den andre gruppa til en viss grad også har loggdata for bruken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš jovkui munnos leat dušše loggendieđut mat muitalit gallii prográmmat leat vižžojuvvon, muhto nuppi jovkui munnos leat muhtun muddui maiddái loggendieđut mat čájehit geavahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi ser på disse loggene og drøfter implikasjonene av det de viser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahčadetne loggendieđuid, ja árvvoštalle maid dat muitalit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.1 Tastatur</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.1 Boallobeavddit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å skrive på datamaskin er det ikke nok å ha bokstaver, det må også finnes et tastaturoppsett for å skrive dem inn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go galgá dihtoriin čállit, de dárbbaša bustávaide lassin maiddái boallobeavddi mainna sáhttá bustávaid čállit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å lage samiske tastatur har vært en viktig del av det samiske språkteknologiske arbeidet fra starten av.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi boallobeavddi ráhkadeapmi lei álggu rájes juo dehálaš oassin sámi giellateknologalaš barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da personlige datamaskiner kom i bruk på 1980-tallet, kom de med tastatur som kunne produsere tekst på engelsk, norsk, svensk, finsk, tysk og fransk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttaskasolbmo dihtoriin, mat bohte geavahussii 1980-logus, ledje boallobeavddit maiguin sáhtii čállit teavstta eŋgelas-, dáro-, ruoŧa-, suoma-, duiskka- ja fránskkagillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle samiske skriftspråk fra og med nordsamisk og østover hadde en ortografisk standard med bokstaver som ikke kunne bli produsert med disse tastaturene, og utviklinga tok dermed et steg bakover fra de manuelle skrivemaskinene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot sámi čállingielain davvisámegiela rájes nuorttas leat bustávat maid ii sáhttán buvttadit dáiguin boallobevddiiguin, ja dien láhkai ovdáneapmi lávkii maŋos manuálalaš čállinmašiinnaid ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv om det hadde gått sakte å skrive f.eks. nordsamisk med manuelle skrivemaskiner, hadde det likevel vært mulig å få det til.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko lei mannan njozet čállit omd. davvisámegiela manuálalaš čállinmašiinnain, de dat dattetge lei leamaš vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bokstaven Š kunne f.eks. bli skrevet som en S med både akutt og grav aksent.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bustávva Š sáhtii omd. čállojuvvot S:n oktan guvttiin liigemearkkain, ` ja ́.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med de nye datamaskinene var dette ikke lenger mulig, og det måtte skapes nye løsninger for de samiske bokstavene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto ođđa dihtoriiguin dat ii lean šat vejolaš, ja lei dárbu ráhkadit ođđa čovdosiid sámi bustávaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv om det i og for seg kunne ha oppstått en standardisert samisk tastaturlayout, laga ulike aktører hver sin standard.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko livččii lean vejolaš oažžut standardiserejuvvon sámi boallobeavdehámi, de juohke oassádalli ráhkadii iežas standárda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På midten av 1990-tallet hadde to norske og en finsk aktør laga samiske tastaturer, alle med de samiske bokstavene på ulike posisjoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1990-logu gaskamuttus ledje guokte dáža ja okta suoma oassádalli ráhkadan sámi boallobevddiid, ja sámi bustávat eai lean seamma sajiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 1997 foreslo det fellesnordiske Samisk datautvalg en ny tastaturlayout for nord-, enare- og skolteŦ fikk posisjonen til Y heller enn AltGr samisk og distribuerte den sammen med de nye samiske kodetabellene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 1997 evttohii davviriikkalaš Sámi dihtorlávdegoddi ođđa boallobeavdehámi davvisáme-, anáraš- ja nuortalašgillii, ja juogadii dan ovttas ođđa sámi kodatabeallaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne tastaturlayouten blei marginalt endret av Samisk parlamentarisk råd (bokstaven T, selv om Y var vanligere enn Ŧ i samisk tekst), og deretter vedtatt som standard av de nordiske</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán boallobeavdehámi rievdadii Sámi parlamentáralaš ráđđi binnáš (bustávva Ŧ sirdojuvvui Y sadjái dan sajis go leat AltGr T vuolde, vaikko Y lei dábálaččat go Ŧ sámegiel teavsttain), ja dasto davviriikkalaš standardiserenorgánat dohkkehedje dan standárdan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den har siden vært en fast del av operativsystema for Macintosh og Windows.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋel boallobeavdehápmi lea leamaš Macintosh ja Windows operatiivavuogádagaid fásta oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også Linux-distribusjonene kommer med samiske tastaturer ferdig installert.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái Linux-juohkašumiin lea sámi boallobeavdi válmmašin sajustuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det har oppstått et nytt problem når det gjelder de fysiske tastaturene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa váttisvuohta lea bohcciidan fysalaš boallobevddiid hárrái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verdens nest største datamaskinprodusent, HP, produserer fra og med 2017 store deler av modellene sine med det såkalte ANSI-tastaturet, der datamaskiner i Europa ellers blir solgt med ISO-tastatur.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máilmmi stuorámus dihtorbuvttadeaddji, HP, buvttada jagi 2017 rájes stuorra oasi iežas modeallain nd. ANSIboallobevddiin, go muđui Eurohpas dihtorat vuvdojuvvojit ISO-boallobevddiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forskjellen dem i mellom er at på ANSI-tastaturet er tasten for nordsamisk Ž flyttet fra venstre til høyre side, og tasten for nordsamisk Đ er plassert en rad opp og en posisjon til høyre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán guovtti boallobeavddi erohus lea ahte ANSI-boallobeavddis boallu mas lea davvisámegiela Ž, lea sirdojuvvon gurut bealde olgeš beallái, ja boallu mas lea davvisámegiela Đ, lea biddjon ovtta ráđa badjeleabbui, olgeš ravdii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For alle som skriver samisk er dette ei stor ulempe, og ei påminning om at framskritt for minoritetsspråk trenger kontinuerlig oppfølging.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buohkaide, geat čállet sámegillii, lea dát stuorra hehtehussan, ja lea maid muittuhussan das ahte vehádatgielaid ovdáneapmi dárbbaša jámma čuovvoleami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med innføringa av smarttelefoner fra og med 2007 starta tastaturproblemet på nytt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go jierbmetelefovnnat bohte 2007 rájes, de boallobeavdečuolbma bođii ođđasis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Telefonene var i utgangspunktet lukka system, bare produsentene kunne legge til støtte for ulike språk, og de produserte i utgangspunktet bare tastaturer for en handfull språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Telefovnnain ledje álgoálggus giddejuvvon vuogádagat, dušše buvttadeaddjit besse lasihit doarjaga iešguđet gielaide, ja sii eai buvttadan boallobevddiid nu galle gillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et godt eksempel er ukrainsk, som med 60 millioner talere ikke fikk tastaturlayout for iPhone, slik at det vokste opp en illegal industri for å endre telefonene, med tap av garantirett som resultat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre ovdamearka lea ukráinalaš giella, mas leat 60 miljovnna hubmi, muhto dattetge ii ožžon iPhone boallobeavdehámi, nu ahte šattai lobihis industriija rievdadit telefovnnaid, ja boađus lei ahte telefovnnat manahedje garantiijavuoigatvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2014 åpna Apple for at eksterne programvarehus kunne legge til tastatur for iPhone.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2014:s Apple rabai vejolašvuođa olggobeale prográmmagálvobuvttadeddjiide lasihit boallobeavddi iPhonii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det første nordsamiske tastaturet kom samme år, og fra og med 2016 har Divvun og Giellatekno tilbudt tastatur og stavekontroll for både Apple- og Android-mobiltelefoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš davvisámi boallobeavdi bođii seamma jagi, ja 2016 rájes leat Divvun ja Giellatekno fállan boallobeavddi ja sátnedivvunprográmma sihke Apple- ja Android-telefovnnaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I perioden desember 2014–15. 5.2020 har det samiske tastaturet for iOS (iPhone og iPad) blitt lasta ned via AppStore 49 200 ganger, og det tilsvarende Androidtastaturet via Google Play 6630 ganger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áigodagas juovlamánu 2014– 15.5.2020 lea sámegiela boallobeavdi iOS (iPhone ja iPad) várás vižžojuvvon AppStore bokte 49 200 gearddi, ja vástideaddji Android-boallobeavdi fas Google Play bokte 6630 gearddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>44 600 av nedlastingene blei utført i Norge, 2120 i Finland, 1060 i Sverige, og resten primært fra Europa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>44 600 gearddi dat lea vižžojuvvon Norggas, 2120 Suomas, 1060 Ruoŧas, ja muđui vuosttažettiin Eurohpás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra og med 2014 finnes det også et iPhone-tastatur for nordsamisk laga av Tim Valio.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2014 rájes lea leamaš olámuttos maiddái iPhone-boallobeavdi maid Tim Valio lea ráhkadan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gitt at de yngste og aller eldste aldersgruppene ikke bruker mobiltelefon, er det samlede nedlastingstallet for mobiltastaturer (56 000) mer enn tre ganger så stort som tallet på samiskspråklige mobiltelefonbrukere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jurddaša ahte nuoramus ja buot boarráseamos ahkejoavkkut eai geavat mátketelefovnna, de lea telefovnnaid boallobeavdi viežžanlohku (56 000) eanet go golmma gearddi nu stuoris go sámegielat mátketelefovdnageavaheddjiid lohku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv om mobilbrukerne kan ha skifta mobil eller oppdatert tastatur flere ganger i løpet av perioden, viser nedlastingstalla at den alt dominerende delen av det samiske språksamfunnet har tilgang til samiske bokstaver på mobiltelefonen sin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko mátketelefovdnageavaheaddjit sáhttet leat lonuhan telefovnna dahje ođasmahttán boallobeavddi máŋgii dán áigodagas, de viežžanlogut čájehit ahte stuorimus oassi sámi giellaservodagas besset geavahit sámegiel bustávaid mátketelefovnnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilgangen til samiske tastaturer for mobiltelefoner har hatt innflytelse på bruken av samisk i sosiale medier.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Telefovnnaid sámi boallobeavddit leat váikkuhan sámegiela čállimii sosiála medias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske språk har helt fra starten av stått sterkt på Facebook. En av grunnene kan være at det fra 1990-tallet fram til Facebook blei vanlig, eksisterte et tilsvarende nettsamfunn for samer, nemlig</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat leat álggu rájes leamaš nana posišuvnnas Facebookas, ja okta sivva sáhttá leat ahte 1990-logu rájes dassážiigo Facebook šattai dábálažžan, lei seammasullasaš neahttaservodat sámiide, Saminet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Facebook fikk også relativt tidlig et brukergrensesnitt på samisk, dvs. at brukerne kan velge å ha menyer og overskrifter på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Facebook oaččui maiddái viehka árrat davvisámegiel geavahanlavtta, mii mearkkaša ahte geavaheaddjit besset válljet geavahit fáluid ja bajilčállagiid sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2013 var 35 % av tekst på nordsamisk på Facebooks diskusjonssider skrevet uten samiske bokstaver.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2013:s ledje 35 % davvisámegiel teavsttain Facebooka digaštallansiidduin čállojuvvon sámi bustávaid haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I 2019 var denne prosenten nede i 5 %.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2019 lei dát proseantalohku dušše 5 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det som hadde skjedd i mellomtida, var at smarttelefonene fra og med 2014 hadde fått tilgang til samiske tastatur, og at bortimot hele språksamfunnet hadde lasta dem ned.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dehálaš ahte 2014 rájes lei vejolaš viežžat sámi boallobeavddi telefovnnaide, ja measta olles giellaservodat lei viežžan daid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.2 Ordretteprogram</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.2 Sátnedivvunprográmmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De første versjonene av ordretteprogrammet Divvun blei lansert seinhøstes 2007 for nordsamisk og lulesamisk. For sørsamisk blei den første versjonen ferdig i 2010.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnedivvunprográmma Divvuma vuosttaš veršuvnnat almmuhuvvojedje 2007 čakčadálvvi davvi- ja julevsámegillii, ja lullisámegiel veršuvdna válbmanii 2010:s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programma har fulgt de samiske normeringsrådenes vedtak, i tillegg til ordbøker og grammatikkbøker og generalisering av skriftspråkets prinsipper (jf. Antonsen 2013).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma lea čuvvon sámegielaid normerenráđiid mearrádusaid, ja daidda lassin sátnegirjjiid ja grammatihkkagirjjiid ja čállingiela prinsihpaid generaliseremiid (vrd. Antonsen 2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Etter at Sámi Giellagáldu blei opprettet i 2015, er det dette organet som normerer nord-, lule-, sør-, enare- og skoltesamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi Giellagáldu ásahuvvui 2015:s ja lea dan rájes normeren davvisáme-, julevsáme-, lullisáme-, anáraš- ja nuortalašgiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordretteprogramma kommer stadig ut i nye versjoner som er tilpasset nye versjoner av operativsystema for PC og Mac, mens det lingvistiske innholdet ikke oppdateres like ofte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnedivvunprográmmain bohte dađistaga ođđa veršuvnnat mat leat heivehuvvon PC ja Mac operatiivavuogádagaid ođđa veršuvnnaide. Prográmmaid gielalaš sisdoallu ii ođasmahttojuvvo seamma dávjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også laga et ordretteprogram for enaresamisk (Morottaja mfl. 2018), og beta-versjoner for skoltesamisk (jf. Rueter &amp;amp; Hämäläinen 2020) og pitesamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái anárašgillii lea ráhkaduvvon sátnedivvunprográmma (Morottaja ja earát 2018), ja leat betaveršuvnnat nuortalašgillii (gč. Rueter &amp;amp; Hämäläinen 2020) ja bihtánsámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordretteprogrammet ser bare enkeltord og ikke sammenhengen de står i, og dermed kan ikke programmet vurdere om valget av ord er riktig, eller om det er brukt riktig bøyningsform av ordet i den aktuelle sammenhengen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnedivvunprográmma oaidná dušše eaŋkilsániid iige konteavstta, ja dan dihte prográmma ii sáhte árvvoštallat sátneválljema, dahje leašgo rivttes sojahanhápmi dan dihto oktavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En evaluering av den nordsamiske versjonen av programmet viser at det likevel finner omtrent 80 % av skrivefeilene i tekster skrevet av morsmålstalere, og at det gir riktig forslag til retting i 82 % av tilfella (Antonsen 2013).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiela sátnedivvunprográmma evalueren čájeha ahte dattetge prográmma gávdná sullii 80 % čállinmeattáhusain teavsttain maid eatnigiela hubmit leat čállán, ja ahte evttoha rivttes divvuma 82 % dáhpáhusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Divvun-programma kan lastes ned fra internett, og installeringspakkene kan også lastes ned og distribueres til flere datamaskiner innafor samme institusjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Divvun-prográmma sáhttá viežžat interneahtas, ja sáhttá maiddái viežžat sajáiduhttinbáhka ja sajáiduhttit prográmma máŋgga dihtorii ovtta ásahusa siskkobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Siden 2016 har det dessuten vært mulig å bruke programmet online, noe som har gjort det mulig å bruke programmet når det av forskjellige grunner ikke er mulig å installere programmet på egen datamaskin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2016 rájes lea leamaš vejolaš geavahit prográmma online, vai nu geavahit prográmma dalle go man nu sivas ii leat vejolaš sajáiduhttit prográmma iežas dihtorii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra og med 2019 har Divvun lansert Divvun Installer, der brukeren laster ned installasjonsprogrammet, som deretter sørger for at stavekontrollen til enhver tid er oppdatert.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2019 rájes lea Divvun-joavku almmuhan Divvun Installer, maid geavaheaddji viežžá, ja mii bearráigeahččá ahte dihtoris álo lea sátnedivvunprográmma ođđaseamos veršuvdna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sett under ett blei alle Divvun-programma for de samiske språka i Norge lasta ned 20 555 ganger i perioden 12.4.2010–28.3.2017.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot Divvun-prográmmat buot sámegielaide Norggas vižžojuvvojedje 20 555 geardde áigodagas 12.4.2010–28.3.2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De fordelte seg på de ulike språka på følgende måte: retteprogram for nordsamisk 2983 nedlastinger, for lulesamisk 576, for sørsamisk 493 og felles retteprogram for alle tre språk 16 503.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnedivvunprográmmaid viežžan juohkásii gielaide dán láhkai: davvisámegillii 2983, julevsámegillii 576, lullisámegillii 493 ja oktasaš prográmmapáhkka buot golmma gillii 16 503.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis vi i stedet ser på fordelingene landa imellom, ser vi at retteprogramma har blitt lasta ned 10 819, 2577 og 1541 ganger fra henholdsvis Norge, Sverige og Finland, og 5618 ganger fra andre land.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dan sajis geahččá mo viežžamat lea juohkásan riikkaide, de oaidná ahte sátnedivvunprográmma lea vižžojuvvon 10 819 geardde Norggas, 2577 geardde Ruoŧas ja 1541 geardde Suomas, ja 5618 geardde eará riikkain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I prosent tilsvarer dette at 52 %, 44 % og 64 % av de samisktalende i hvert av de tre landa har lasta ned programmet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát vástidivččii ahte 52 %, 44 % ja 64 % sámegielagiin juohke riikkas leat viežžan prográmma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På den ene sida har nok mange språkbrukere lasta ned programmet flere ganger, men på den andre sida er det en relativt stor del av de samisktalende som ikke skriver samisk på datamaskin i det hele tatt, og vi konkluderer med at de aller fleste som skriver på samisk, har tilgang til samiske retteprogram.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppe dáfus sihkkarit ollu sámegielagat leat viežžan prográmma eanet gerddiid, muhto nuppe dáfus de viehka stuora oassi sámegielagiin eai ollenge čále sámegillii dihtoriin, ja dán vuođul oaivvildetne ahte eatnasiidda geat čállet sámegillii, sátnedivvunprográmma lea olahanmuttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Siden 2016 har det også vært mulig å bruke Divvun-programmet online og som retteprogram på systemnivå.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2016 rájes lea leamaš vejolaš geavahit Divvunprográmma online ja sátnedivvunprográmma vuogádatdásis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I februar 2020 lanserte Divvun en tidlig versjon av en grammatikkontroll for nordsamisk, dvs. et program som ikke bare retter skrivefeil, men også feil bruk av ord som er skrevet riktig, og feil samskriving eller særskriving av ord (Wiechetek mfl. 2019).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovvamánus 2020 almmuhii Divvun-joavku davvisámegiela grammatihkkadivvunprográmma geahččaladdanveršuvnna, ja dát prográmma ii dušše divo boastut čállon sániid, muhto maiddái riektačállon sániid mat leat boastut geavahuvvon, ja sániid mat leat boastut goallostuvvon dahje sierra čállojuvvon (Wiechetek ja earát 2019).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.3 Ordbøker</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.3 Sátnegirjjit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøker er spesielt viktige for minoritetsspråkstalere, som ikke på langt nær blir eksponert for språket sitt på alle samfunnsområder slik som majoritetsspråkets talere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjit leat erenoamážit dehálaččat vehádatgielagiidda, geat eai leat gullan dahje oaidnán gielaset lahkage nu ollu juohke servodatsuorggis go eanetlogugielagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.3.1 Ordbøker med bøyningsformer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.3.1 Sátnegirjjit main leat sojahanhámit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Giellatekno sine NDS-ordbøker (NDS = Neahttadigisánit, «Nettordbok») består av søkeord i grunnform og en eller flere oversettelser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellatekno NDS-sátnegirjjit (NDS = Neahttadigisánit) sisttisdollet ohcansániid mat leat vuođđohámis ja daidda ovtta dahje eanet jorgalusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I norsk–nordsamisk ordbok er det nesten 3000 setningseksempler, for andre språkpar er det færre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáru-davvisámi sátnegirjjis leat measta 3000 cealkkaovdamearkka, eará giellapáraide leat unnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>NDS-ordbøkene kan grammatikk, dvs. at når brukeren skriver inn et bøyd ord, gir ordboka grammatisk informasjon om søkeordet, i tillegg til grunnform og oversettelse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NDS-sátnegirjjit máhttet grammatihka, ja dat máksá ahte go geavaheaddji ohcá sojahuvvon sáni, de sátnegirji addá vuođđohámi ja jorgalusa, ja daidda lassin ohcansáni grammatihkalaš dieđuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved å klikke på det samiske ordet får man en tabell med bøyningsformer av ordet, som blir generert der og da ved hjelp av språkmodellen som er beskrevet i kapittel 3.3. Det er også mulig å velge å søke etter ordet i tekster via grensesnittet Korp, se kapittel 4.4, og dermed få tilgang til autentiske språkeksempel.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go coahkkala sámi sáni, de ihtá tabealla mas leat sáni sojahanhámiid, mat ráhkaduvvojit das ja dalle, giellamodealla vehkiin, mii lea čilgejuvvon kapihttalis 3.3. Sáhttá maiddái válljet ohcat sáni teavsttain mat leat Korp-nammasaš geavahanlavttas, gč. kapihttala 4.4, ja dan láhkai gávdnat autenttalaš cealkkaovdamearkkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Álgosátnegirji, som har 4000 ordpar, men seinere har det blitt lagt til ordpar fra flere kilder, bl.a. blei det lagt til 15 000 ordpar fra ei tekstsamling bestående av administrative tekster oversatt fra norsk til nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámi-dáru sátnegirjji sátnebárat vuođđuduvvojedje álgoálggus Juho Niillasa, Nils Jernslettena, Álgosátnegirjái, mas leat 4000 sátnebára, muhto maŋŋel leat lasihuvvon sátnebárat máŋgga gáldus, ee. lasihuvvojedje 15 000 sátnebára teakstačoakkáldagas mas ledje hálddahuslaš teavsttat mat ledje jorgaluvvon dárogielas davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøkene for nordsamisk–finsk er basert på leksikalsk materiale fra Institutionen för de inhemska språken i Finland, som igjen bygger på Konrad Nielsens ordbøker</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámi-suoma sátnegirjjit vuođđuduvvojit leksikála materiálii mii boahtá Institutionen för de inhemska språken-ásahusas Suomas, ja dát materiála vuođđuduvvo fas Konrad Nielsena sátnegirjjiide (1932–1962).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg er det til begge ordbøkene lagt til noen tusen av de vanligste orda på majoritetsspråka, sammen med oversettelse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin lea goappaš sátnegirjjiide lasihuvvon muhtun duhát eanetlogugielaid dábáleamos sánit, oktan jorgalusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøkene for sørsamisk og norsk bygger på materiale utarbeida av Albert Jåma og Tove Brustad i Hemnes sameforening.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lullisámi-dáru sátnegirjjit vuođđuduvvojit materiálaide maid Albert Jåma ja Tove Brustad, Hemnes sameforening, leaba čoaggán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle disse ordbøkene har fått mange ordpar fra arbeidet med språklæringsprogramma Oahpa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot dát sátnegirjjit leat maiddái ožžon ollu sátnebáraid barggus mii leat dahkkon giellaoahppanprográmmii Oahpa, ja lullisámegielain lei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For sørsamisk var språksenteret Aajege i Røros med i arbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Aajege giellaguovddáš mielde barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den enaresamiske ordboka inneholder først og fremst Valtonen &amp;amp; Olthuis' ordbok (2016).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiela sátnegirji sisttisdoallá vuosttažettiin sátnegirjji Valtonen &amp;amp; Olthuis (2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordpara i den skoltesamiske ordboka kommer fra Sammallahti &amp;amp; Mosnikoffs ordbok (1991).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgiela sátnegirjjiid sátnebárat bohtet sátnegirjjis Sammallahti &amp;amp; Mosnikoff (1991).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den pitesamiske ordboka bygger på Pitesamisk ordbok (Wilbur 2016).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bihtánsámegiela sátnegirji vuođđuduvvo girjái Pitesamisk ordbok (Wilbur 2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Filene med ordpar til de nevnte ordbøkene er nedlastbare på internett under lisensen CC-BY.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fiillaid, main leat namuhuvvon sátnegirjjiid sátnebárat, sáhttá viežžat interneahtas CC-BY liseanssain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at også andre aktører kan bruke ordboksmaterialet, noe vi kommer tilbake til i kapittel 4.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát máksá ahte maiddái eará buvttadeaddjit besset geavahit sátnegirjemateriála, ja dan birra čálle kapihttalis 4.3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>viser størrelsen på og bruken av de forskjellige NDS-ordbøkene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 1 čájeha iešguđet NDS-sátnegirjjiid sturrodaga ja geavahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lulesamisk har ikke ordbok i NDS-format fordi Anders Kintels lulesamiske ordbok ikke har en struktur som gjør det mulig å bruke analyse med en språkmodell slik det blir gjort i NDS.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julevsámegielas ii leat sátnegirji NDS-formáhtas danne go Anders Kintela julevsámi sátnegirjjis ii leat struktuvra mii dahká vejolažžan analyseret giellamodeallain nugo dahkko NDS-sátnegirjjiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordboka er likevel tilgjengelig som e-ordbok i ordboksappen Julevbágo, se kapittel 4.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirji lea dattetge olámuttos digitála sátnegirjin Julevbágo-namain, gč. kapihttala 4.3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Andre og tredje kolonne fra venstre gir antall ordpar for de aktuelle språkpara, neste kolonne viser antall søk i perioden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi ja goalmmát ceakkočuoldda logut muitalit galle sátnebára leat iešguđet giellabáras, čuovvovaš ceakkočuolda čájeha galle ohcama leat leamaš áigodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ikke alle søka gir treff i ordboka, og fjerde kolonne angir prosentandelen av treff i ordboka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjit eai atte jorgalusa buot ohcamiidda, ja njealját ceakkočuolddas lea proseantaoassi mii addá jorgalusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle ordbøkene gir forslag på ord når man begynner å skrive søkeordet, og dette er nok en medvirkende årsak til at også de minste ordbøkene har høy treffprosent.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot sátnegirjjit evttohit sániid go čálligoahtá ohcansáni, ja dát lea gal mielde addimin maiddái unnimus sátnegirjjiide alla boađusproseantta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når vi sammenlikner antall søk med stipulert antall samisktalende i henholdsvis Norge og Finland, kan vi beregne hvor mange ganger hver taler i gjennomsnitt har gjort et søk i ordboka i løpet av ett år (kolonnen helt til høyre).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go buohtastahtte ohcanlogu meroštallon sámegielagiid lohkui Norggas ja Suomas, de sáhtte rehkenastit galle gearddi juohke sámegielat gaskamearálaččat lea ohcan sáni sátnegirjjis ovtta jagis (ceakkočuolddas olgeš ravddas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Brukerloggene viser en markant forskjell mellom de samiske språka: Alle de mindre samiske språka bruker ordboka mye oftere enn nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavahanloggat čájehit stuora erohusaid sámegielaid gaskkas: unnit sámegielat geavahit sátnegirjji ollu dávjjibut go davvisámegiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spesielt stor er forskjellen mellom sør- og nordsamisk; talla for 2018 var henholdsvis 1911 og 53 oppslag per samiskspråklig (mellom disse språka og norsk).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erenoamážit lea stuora erohus lulli- ja davvisámegiela gaskkas: jagi 2018 loguid mielde ledje ohcamat sámegielaid ja dárogiela gaskkas 1911 ohcama juohke lullisámegielaga ja 53 ohcama juohke davvisámegielaga namas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er uttrykk for en generell trend: Mindre språksamfunn bruker språkressurser mer i forhold til antall språkbrukere enn større språksamfunn (jf. f.eks. Antonsen 2018:85), noe som speiler språksituasjonen med mindre støtte for språkbruken i dagliglivet, usikker skriftlig norm og en stor andel av brukere med samisk som andrespråk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát čájeha oppalaš treandda: Giellageavaheddjiid logu ektui de unna giellaservodagat geavahit giellaresurssaid eanet go stuora giellaservodagat (gč. omd. Antonsen 2018:85), ja dát speadjalastá gielladili mas árgaeallima giellageavaheamis lea unnit doarjja, čálalaš norbma lea eahpesihkar ja stuorra oassái hubmiin lea sámegiella nubbegiellan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til sammenlikning blei Bokmålsordboka og Nynorskordboka på nett brukt gjennomsnittlig åtte ganger av hver norsktalende i 2017 (Antonsen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá buohtastahttit dainna ahte Bokmålsordboka og Nynorskordboka (girjedárogiela ja ođđadárogiela sátnegirjjit) interneahtas geavahuvvojedje gaskamearálaččat dušše 8 gearddi juohke dárogielaga namas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eskonsipo (2020) viser at NDS for nordsamisk er i bruk mellom klokka 8 og 17, dvs. i arbeids- og skoletida, med en markant nedgang i bruk etter arbeidstid og i skole- og fellesferien.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eskonsipo (2020) čájeha ahte davvisámegiela NDS geavahuvvo gaskal diimmu 8 ja 17, ja geavaheapmi geahppána sakka skuvla- ja bargoáiggi maŋŋel ja skuvla- ja oktasaš geasseluomus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hennes konklusjon er at i den grad ordboksbruk reflekterer faktisk produksjon av tekst, blir nordsamisk primært skrevet i arbeids- og skoletida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Su konklušuvdna lea ahte dan muddui sátnegirjegeavaheapmi speadjalastá duohta teakstabuvttadeami, de davvisámegiella čállojuvvo erenoamážit bargo- ja skuvlaáiggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.3.2 Ordbøker uten bøyningsformer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.3.2 Sátnegirjjit main eai leat sojahanhámit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har tatt kontakt med en del aktører for å få nærmere informasjon og bruksstatistikk om enkelte allmenne samiske digitale ordbøker på internett, og også om noen ordboksapper.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Letne váldán oktavuođa buvttadeddjiiguin oažžut dieđuid ja geavahanstatistihka muhtun dábálaš sámi digitála sátnegirjjiid birra mat leat interneahtas, ja maiddái sátnegirjeáppaid birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ingen av ordbøkene i dette kapitlet kan analysere bøyde ord, slik som NDS, men satni.org gir bøyningsformer for orda i samlinga.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii oktage dán kapihttala sátnegirjjiin máhte analyseret sojahuvvon sániid, nugo NDS, muhto satni.org addá sojahanhámiid tabeallan sániide mat leat sátnelisttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nettstedet sátni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Neahttabáiki sátni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>org, som drives av Divvun-gruppa, tilbyr flere ordbøker og samlinger av fagtermer i samme grensesnitt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>org, maid Divvun-joavku doaimmaha, fállá eanet sátnegirjjiid ja fágatearbmačoakkáldagaid seammá geavahanlavttas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg til ordboksmaterialet i NDS, tilbys, i samarbeid med Sámi Giellagáldu, lister med terminologi for ulike fagområder og på norsk, svensk, finsk og ulike samiske språk, som har til sammen 49 903 termer med oversettelser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NDS sátnegirjjiid sisdollui lassin, fállojuvvojit ovttas Sámi Giellagálduin listtut main leat terminologiija iešguđet fágasuorggis ja sihke dáro-, ruoŧa-, suoma- ja iešguđet sámegielain, ja dain leat oktiibuot 49 903 tearpma oktan jorgalusaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søk det siste året går fram av</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋemuš jagi ohcamat leat mielde tabeallas 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabellen viser at søkertalla for satni.org er langt lavere enn for NDS.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla čájeha ahte satni.org ohcanlohku lea ollu unnit go NDS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dels er dette fordi satni.org retter seg mot profesjonelle brukere, og dels kan det være fordi samisk fagspråk er lite innarbeida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivva sáhttá sihke ahte satni.org lea oaivvilduvvon profeššunealla geavaheddjiide, ja ahte sámi fágagiella ii leat vuos nu cieggan geavahussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som vist i en separat studie (Trosterud 2019) går rundt 60 % av ordboksoppslaga i NDS fra minoritetsspråket (samisk) til majoritetsspråket (norsk, finsk).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nugo čájehuvvon sierra dutkamis (Trosterud 2019), de 60 % NDS sátnegirjeohcamiin mannet vehádatgielas (sámegielas) eanetlogugillii (dárogillii, suomagillii).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For termsamlingene er situasjonen motsatt, her går storparten av oppslaga fra majoritetsspråket.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tearbmačoakkáldagaid ektui lea dilli nuppelágan, dás eanemus ohcamat mannet eanetlogugielas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forlaget Davvi Girji har siden 2012, etter avtale med Sametinget, gjort to papirordbøker (Kåven mfl. 1995;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágádus Davvi Girji lea 2012 rájes, šiehtadusa vuođul Sámedikkiin, dahkan guokte bábersátnegirjji (Kåven ja earát 1995;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SNSO 2000) tilgjengelige på internett.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SNSO 2000) olámuddui interneahtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>DinOrdbok er ei online-ordbok som tilbyr oversettelse mellom 28 språkpar, blant disse også mellom norsk og nordsamisk, lulesamisk og sørsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto onlineDinOrdbok lea online-sátnegirji mii fállá jorgalusaid 28 giellabára gaskkas, maiddái dárogiela ja davvisámegiela, julevsámegiela ja lullisámegiela gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For disse tre språkpara brukes materiale med åpen kildekode, nemlig Giellatekno ordlistefiler og ordlister fra oversettingsprogramma på Apertium-plattformen, se kapittel 4.5.1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán golmma giellabárrii geavahuvvo materiála main lea rabas gáldokoda, namalassii Giellatekno sátnelistofiillat ja sátnelisttut mat gullet jorgalanprográmmaide mat leat Apertium-geavahanvuogádagas, gč. kapihttala 4.5.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Julevbágo er ei lulesamisk–norsk–lulesamisk ordbok som bygger på Anders Kintels ordbok, som Sametinget i Norge har kjøpt bruksrettigheter til.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julevbágo lea julevsámi-dáru-julevsámi sátnegirji mii vuođđuduvvo Anders Kintela sátnegirjái, masa Norgga Sámediggi lea oastán geavahanvuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette materialet finnes nedlastbart på internett, og Julevbágo tilgjengeliggjør dette som online-ordbok, og også via nedlastbar app.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát materiálat leat juo viežžan láhkai interneahtas, ja Julevbágo bokte dát lea olámuttos online-sátnegirjin, ja maiddái viežžan láhkai áppan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg inneholder Julevbágo noen termordlister fra Sámi Giellagáldu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julevbágos leat maiddái muhtun Sámi Giellagáldu tearbmasátnelisttut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordboka gir informasjon om stadieveksling, den inneholder eksempelsetninger, og man søker både i lista over grunnformer og i forklaringer og eksempler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirji addá dieđuid sániid dássemolsašumi birra, das leat ovdamearkacealkagat, ja geavaheaddji ohcá sániid sihke vuođđohápmelisttus ja čilgehusain ja ovdamearkkain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Sverige finnes nettordbøkene Sametingets ordböcker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧas leat neahttasátnegirjjit Sametingets ordböcker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den første versjonen med lule- og sørsamisk blei lansert 2008, nordsamisk kom med fra 2019.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš veršuvdna mas lei julev- ja lullisámegiella, almmuhuvvui 2008:s, davvisámegiella bođii mielde 2019 rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøkene bruker data fra det svenske Sametingets web-ordbok, Israelsson &amp;amp; Nejnes sydsamiske ordbok (2007), Nils Olof Sortelius’ lulesamiske ordbok (2005) og Svonnis nordsamiske ordbok (2013).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjit geavahit dieđuid Ruoŧa Sámedikki web-sátnegirjjis, Israelsson &amp;amp; Nejne (2007) lullisámi sátnegirjjis, Nils Olof Sorteliusa julevsámi sátnegirjjis (2005) ja Svonni davvisámi sátnegirjjis (2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det legges stadig flere ord til den lulesamisk ordboka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lasihuvvojit dađistaga eanet sánit julevsámi sátnegirjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøkene gir litt informasjon om ordbøyning, og for noen ord også kommentarer til betydningen, men det er ingen eksempelsetninger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjit addet dieđuid sátnesojaheamis, ja muhtun sániide leat maiddái lassedieđut mearkkašumi birra, muhto eai leat ovdamearkacealkagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fant ikke referansekilden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>veršuvnnas eai leat čilgehusat dahje geavahanovdamearkkat, nugo bábersátnegirjjiin leat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>viser opplysninger om bruk av de samiske ordbøkene på internett som vi har mottatt data for.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 3 čájeha geavahandieđuid sámi neahttasátnegirjjiin maid ovddas letne ožžon dieđuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi mangler data for Sametingets ordböcker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Munnos eai leat dieđut Sametingets ordböcker -sátnegirjjiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle ordbøkene oversetter i begge retninger. Den tredje kolonnen viser antall ordpar, som er det samme antall i hver retning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot sátnegirjjit jorgalit goappaš guvlui ja goalmmát ceakkočuolda muitala sátnebárra-logu, mii lea seammá ollu goappaš guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kolonne fire viser antall søk for ett år.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njealját ceakkočuolda čájeha galle ohcama leat leamaš ovtta jagis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det varierer hvilket år vi har tall for.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat, guđe jagis munnos leat logut, molsašuddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi kommenterer talla i kapittel 4.3.4.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kommenterejetne loguid kapihttalis 4.3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.3.3 Nedlastbare ordbøker</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.3.3 Sátnegirjjit viežžan láhkai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen av ordbøkene nevnt i forrige kapittel kan lastes ned som app til mobiltelefon og nettbrett eller datamaskin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtun sátnegirjjiid mat leat namuhuvvon ovddit kapihttalis, sáhttá viežžat áppan mátketelefovdnii ja dihtordulbosii dahje dihtorii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her kan vi bare angi hvor mange ganger ordbøkene er lasta ned, ikke hvor mye de er brukt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáin sáhtte beare muitalit gallii sátnegirjjit leat vižžojuvvon, ean man ollu dat leat geavahuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Giellatekno tilbyr nedlastbare ordbøker, Vuosttaš digisánit for nordsamisk–norsk og Voestes digibaakoeh for sørsamisk–norsk (Antonsen mfl. 2009), med samme innhold som NDS hadde i</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellatekno sátnegirjjit, maid sáhttá viežžat dihtorii, leat davvisámi-dáru Vuosttaš digisánit ja lullisámi-dáru Voestes digibaakoeh (Antonsen ja earát 2009), main lea seammá sisdoallu mii lei NDS:s jagi 2013, muhto lea jorgaleapmi dušše sámegielas dárogillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De nedlastbare ordbøkene kan på nåværende tidspunkt ikke lastes ned med tilgang til grammatisk analyse og tekstsamlinger, slik som NDS online har.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáid sátnegirjjiid ii sáhte dál viežžat nu ahte dain livččii olámuttos grammatihkalaš analysa ja teakstačoakkáldagat, nugo NDS:s lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor har disse ordbøkene ikke vært oppdatert på mange år.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan dihte dát sátnegirjjit eai leat ođasmahttojuvvon máŋgga jahkái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det arbeides på sikt for heller å tilby NDS som nedlastbar ordbok med analyseprogram.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellatekno bargá guhkit áigge perspektiivvas dahkat NSD sátnegirjjiid viežžan láhkai oktan analysaprográmmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sikku Media har gitt ut en nordsamisk–norsk ordboksapp Samisk ordbok som oversetter både til og fra nordsamisk, og som blei lansert 5.1.2018.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sikku Media davvisámi-dáru sátnegirjeáppa Samisk ordbok mii jorgala sihke davvisámegielas ja davvisámegillii, almmuhuvvui 5.1.2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Appen baserer seg på Giellateknos ordboksfiler fra dette tidspunktet og inneholder ca. 30 000 ordpar for hvert av språkpara.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áppa vuođđuduvvo Giellatekno sátnegirjefiillaide nugo ledje dalle, ja sisttisdoallá sullii 30 000 sátnebára goappaš guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordboka gir ingen informasjon om bøyning av orda, ingen eksempelsetninger, men den gir litt tilleggsforklaringer til noen ordpar.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjis eai leat dieđut sáni sojaheami birra, eaige leat ovdamearkacealkagat, muhto das leat veaháš lassečilgehusat muhtun sátnebáraide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne ordboksappen blei lasta ned 2080 ganger i perioden 5.1.2017–15.1.2020.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát sátnegirjeáppa vižžojuvvui 2080 geardde áigodagas 5.1.2017–15.1.2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sátnegirji er en nordsamisk–svensk ordboksapp som blei utgitt av Ravda lágádus i 2017, og som har samme innhold som Svonnis papirordbok (2013).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirji lea davvisámi-ruoŧagiela sátnegirjeáppa maid Ravda lágádus almmuhii 2017:s ja mas lea seamma sisdoallu go Svonni bábersátnegirjjis (2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den tilbys nå dessuten online via Sametingets ordböcker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat fállojuvvo maiddái online Sametingets ordböcker bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også i appen kan man søke begge veger, og man får informasjon om stadieveksling, og litt ekstra forklaringer om bruken for enkelte ordpar, men det er ikke eksempelsetninger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái áppas sáhttá jorgalit goappaš guvlui, ja oažžu dieđuid sániid dássemolsašumis, ja veaháš lassečilgehusaid muhtun sátnebáraid birra, muhto eai leat ovdamearkacealkagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordboksappen blei lasta ned 4274 ganger i perioden 2017–15.1.2020.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát sátnegirjeáppa vižžojuvvui 4274 geardde áigodagas 2017–15.1.2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra mai 2014 har det også vært mulig å laste ned Sametingets ordböcker som app og bruke den offline.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sametingets ordböcker lea miessemánu 2014 rájes maiddái leamaš viežžan láhkai áppan maid sáhttá geavahit offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den blei lasta ned 9159 ganger i åra 2014–2018.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat vižžojuvvui 9159 gearddi jagiid 2014–2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innholdet i denne appen oppdateres automatisk når appen er online, slik at brukerne alltid får nyeste innhold av ordboka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áppa sisdoallu ođasmahttojuvvo automáhtalaččat dalle go áppa lea online, nu ahte geavaheaddjit álo ožžot sátnegirjjiid ođđaseamos sisdoalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.3.4 Drøfting av de ulike ordboksløsningene</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.3.4 Iešguđet lágan sátnegirječovdosiid árvvoštallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når vi sammenlikner brukstalla for ordbøker med bøyningsformer (NDS) med ordbøker uten slik tilleggsinformasjon, ser vi store forskjeller dem imellom. Ordbøkene mellom nordsamisk og norsk uten bøyingsformer har ca. 200 000 søk over ett år, mens NDS (Feil!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go buohtastahtte geavahanloguid sátnegirjjiide main leat sojahanhámit (NDS) ja sátnegirjjiide main eai leat diekkár lassedieđut, de oidne stuorra erohusaid daid gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fant ikke referansekilden.) har halvannen million over samme tidsperiode, selv om Davvi Girjis ordbok inneholder betydelig flere ordpar enn NDS-ordboka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámi-dáru sátnegirjjiin main eai leat sojahanhámit, leat sullii 200 000 ohcama ovtta jagis, ja NDS:s (tabealla 1) lea beannot miljovnna seamma áigodagas, vaikko Davvi Girjji sátnegirjjis leat ollu eanet sátnebárat go NDSsátnegirjjis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For sørsamisk–norsk er det en halv million søk for NDS og 15 000 for Din Ordbok.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lullisámi-dáru sátnegirjjis lea miljovdnabealli ohcama NDS:s ja 15 000 DinOrdbokis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes ingen lulesamisk versjon av NDS, og dette gir utslag på talla i Feil!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát čájeha ahte geavaheaddjit liikojit grammatihkkii maid NDS sátnegirjjit fállet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fant ikke referansekilden., hvor den lulesamiske Julevbágo har over en halv million søk, dvs. tilsvarende tallet for NDS for sørsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat julevsámi NDS, ja dát váikkuha tabealla 3 loguide, go julevsámi Julevbágos leat badjel miljovdnabeale ohcama, mii lea seamma ollu go lullisámi NDS:s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøkene til og fra andre samiske språk enn nordsamisk har mellom 10 000 og 30 000 oppslagsord, mens de største nordsamiske ordbøkene, Davvi Girjis ordbøker, har i underkant av 52 000 oppslagsord i hver retning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjiin main lea eará sámegielat go davvisámegiella, leat gaskal 10 000 ja 30 000 ohcansáni, ja stuorimus davvisámi sátnegirjjiin, Davvi Girjji sátnegirjjiin, leat measta 52 000 ohcansáni goappaš guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordforrådet i deres norsk–nordsamisk ordbok er basert på oversettelsene i nordsamisk–norsk ordbok, og store deler av det norske grunnordforrådet mangler dermed.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sin dáru-davvisámi sátnevuorká lea vuođđuduvvon sátnebáraide mat leat davvisámi-dáru sátnegirjjis, ja oassi dárogiela vuođđosátnevuorkkás ii leat dan dihte mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For eksempel kan man ikke slå opp for å se hvordan det norske ordet hverandre skal oversettes til nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte ii leat vejolaš gávnnahit mo sáhttá dáru sáni hverandre jorgalit davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For tospråklige allmennordbøker generelt blir 50 000 oppslagsord regna som et minimum for å dekke allmennspråklig tekst, store nordiske tospråklige ordbøker som de mellom svensk og finsk inneholder for eksempel 110 000 oppslagsord hver veg.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovttegielalaš dábálašsátnegirjjiide oppalaččat adnojuvvojit 50 000 ohcansáni unnimus mearrin go galgá gokčat dábálašgielalaš teavsttaid. Stuora davviriikkalaš guovttegielalaš sátnegirjjit, nugo ruoŧagiela ja suomagiela gaskkas sisttisdollet ovdamearkka dihte 110 000 ohcansáni goappaš guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dagens samiske ordbøker burde med andre ord ha vært større.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nappo dálá sámi sátnegirjjit berrešedje leat ollu stuoribut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtidig er det også behov for bedre ordboksartikler: Mer informasjon om hvert oppslagsord og hvordan det brukes, og i tilfelle flere oversettelser trengs det også informasjon om i hvilke kontekster de ulike oversettelsene blir brukt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammás dárbbašit maiddái buoret sátnegirjeartihkkaliid: Eanet dieđuid juohke ohcansánis ja dan geavaheami birra, ja jus leat eanet jorgaleamit, de dárbbašuvvojit maiddái dieđut das makkár oktavuođain iešguđet jorgalus geavahuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dessverre har Davvi Girji valgt å ikke ta denne informasjonen fra papirordbøkene med inn i den elektroniske utgaven.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dađi bahábut lea Davvi Girji válljen ahte eai váldde mielde dákkár dieđuid bábersátnegirjjiid digitálalaš veršuvdnii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>NDS har slik informasjon, men ikke for alle oppslagsorda.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NDS:s leat dákkár dieđut, muhto eai leat buot ohcansániide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv om NDS gir brukeren tilgang fra ordboka til setningseksempler i SIKOR (se kap. 4.4), vil det være behov for å belyse forskjellig bruk av ordet i selve ordboksartikkelen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko NDS láidesta geavaheaddji sátnegirjjis cealkkaovdamearkkaide mat leat SIKORis (gč. kap. 4.4.), de livččii dárbu fuomášuhttit sáni iešguđegelágan geavahusaid ieš sátnegirjeartihkkalis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Søk i SIKOR kan gi tusenvis av setningseksempler, men uten den sorteringa som brukeren trenger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SIKOR sáhttá addit máŋga duháha cealkkaovdamearkka, muhto dat eai leat ordnejuvvon geavaheaddji dárbbu mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til dette kommer så terminologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin boahtá terminologiijadárbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å illustrere behovet for terminologisk arbeid kan vi se på sjukepleie.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkan dasa sáhttá geahččat buohccedivššu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>UiT skal i nær framtid starte opp et utdanningstilbud i sjukepleie på nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiT áigu ovttas Sámi allaskuvllain lagamus áiggis álggahit buohccedikšooahppofálaldaga davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sjukepleie har, som alle fag, sin egen terminologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buohccedivššus lea, nugo buot eará fágain, sierra terminologiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er for eksempel utarbeida en internasjonal terminologisk database for termer innafor sjukepleie; den inneholder 4475 termer på norsk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte lea ráhkaduvvon riikkaidgaskasaš terminologalaš diehtovuođđu mas leat buohccedivššu tearpmat, ja das leat 4475 tearpma dárogillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sámi Giellagáldus termdatabase har ingen egen kategori Sjukepleie, men kategorien Medisin inneholder 1535 norske termer med nordsamisk oversettelse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi Giellagáldu tearbmadiehtovuođus ii leat sierra Buohccedikšu-kategoriija, muhto Medisiidna-kategoriijas leat 1535 dárogiel tearpma oktan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bare 16 av termene i de to basene overlapper.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dušše 16 riikkagaskasaš tearpma leat dán kategoriijas mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eksempelet illustrerer hvilke utfordringer samiske språk står overfor, på fagfelt etter fagfelt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearka čájeha makkár hástalusat sámegielain leat, fágasuorggis nubbái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Enspråklige ordbøker finnes ikke for noe samisk språk, med unntak av ei papirordbok med synonymer for nordsamisk (Vest 2005).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttagielalaš sátnegirjjit eai gávdno ovttage sámegillii, earret ovtta bábersátnegirjji mas leat davvisámi synonymat (Vest 2005).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne mangelen utfordrer leseren til å spørre hvorfor det finnes enspråklige ordbøker i det hele tatt (som det gjør for f.eks. norsk og svensk).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát váilevašvuohta hástala lohkki jearrat manne obanassiige leat ovttagielalaš sátnegirjjit (nugo leat omd. dárogillii ja ruoŧagillii).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Svaret er at enspråklige ordbøker gjør brukerne i stand til å definere sitt eget språks begreper på sitt eget språk, uten å gå vegen via et annet språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vástádus lea ahte ovttagielalaš sátnegirjjit veahkehit geavaheaddji čilget giela doahpagiid iežas gillii, iige dárbbaš mannat nuppi giela bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg vil enspråklige samiske ordbøker også samle hvert samiske språksamfunn over statsgrensene, i stedet for å være avgrensa til å få hver sin definisjon av det felles samiske ordforrådet, på hvert sitt majoritetsspråk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin sáhttet ovttagielalaš sámi sátnegirjjit maiddái čohkket sámi giellaservodagaid riikkarájiid rastá, dan sajis go dálá ráddjehus, mii dahká ahte oktasaš sámi sátnevuorká oažžu sierra definišuvnnaid juohke eanetlogugillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordbøker mellom de samiske språka finnes nesten ikke.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjjit sámegielaid gaskkas measta eai gávdno;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et unntak er ei mindre ordbok mellom nordsamisk og kildinsamisk (Sammallahti &amp;amp; Xvorostuxina 1991).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>spiehkastahkan lea unna sátnegirjjáš davvisámi ja gielddasámi gaskkas (Sammallahti &amp;amp; Xvorostuxina 1991).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det burde være mulig å slå opp ord på ett samisk språk for å finne det tilsvarende på et annet samisk språk uten å gå vegen om majoritetsspråka, og det at særlig nordsamisk blir styrka som fagspråk, øker behovet for slike ordbøker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berrešii leat vejolaš ohcat sáni ovtta sámegillii gávdnat vástideaddji sáni nuppi sámegillii geavatkeahttá eanetlogugiela. Erenoamážit go davvisámegiella nannejuvvo fágagiellan, de lassána dárbu diekkár sátnegirjjiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennomgangen av samiske ordbøker viser at selv om ordboksmaterialet kan ha forskjellige kilder, har sametinga i stor grad finansiert trykking av papirordbøkene, og sametinga og UiT gjør ordbøkene tilgjengelige online.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi sátnegirjjiid geahčadeapmi čájeha ahte vaikko sátnegirjemateriálas sáhttet leat iešguđetlágan gáldut, de sámedikkit leat ruhtadan stuora oasi bábersátnegirjjiid deaddileamis, ja sámedikkit ja UiT dahket sátnegirjjiid olámuttolažžan online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg til ordbøkene som er nevnt i forrige kapittel, kan det nevnes at Sametinget i Finland har kjøpt rettighetene til Pekka Sammallahtis nordsamisk–finsk ordbok (1993), og det arbeides ved UiT med å lage en online-utgave av denne.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovddit kapihttala sátnegirjjiide lassin sáhtte namuhit ahte Suoma Sámediggi dál lea oastán vuoigatvuođaid Pekka Sammallahti davvisámi-suoma sátnegirjái (1993), ja UiT lea álggahan barggu ráhkadit das online-sátnegirjji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Papirordbøker får færre og færre brukere, men elektroniske ordbøker gjør ordboksmaterialet mer tilgjengelig; det er alltid med i lomma via mobiltelefonen, og det er også lett å slå opp i det på datamaskinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bábersátnegirjjit ožžot unnit ahte unnit geavaheddjiid, muhto elektrovnnalaš sátnegirjjit dahket sátnegirjemateriála buorebut olámuttos, go álo leat mielde lupmas mátketelefovnnas, ja lea maiddái álki ohcat sániid dihtoris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjør at et godt ordboksinnhold blir enda mer brukt enn tidligere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát dahká ahte buorre sátnegirjesisdoallu geavahuvvo vel eanet go ovdal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Loggdata for minoritetsspråksordbøker viser at jo mindre språksamfunnet er, desto større er behovet for ordbøker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vehádatgielaid sátnegirjjiid loggendieđut čájehit ahte mađe unnit giellaservodat, dađe stuorit dárbu sátnegirjjiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En sentral del av arbeidet med minoritetsspråk bør derfor være å satse på bedre ordbøker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vehádatgielaid ovddideami guovddášášši berrešii dan dihte leat buoridit sátnegirjjiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.4 Samiske tekstsamlinger på nett (SIKOR i Korp)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.4 Sámi teakstačoakkáldagat neahtas (SIKOR Korpa bokte)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ei god og stor tekstsamling (tekstkorpus) er et nyttig hjelpemiddel for arbeid med språknormering og utarbeiding av ordbøker og terminologi, og det er nyttig for oversettere, forskere og studenter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre ja stuora teakstačoakkáldat (teakstakorpus) lea ávkkálaš go bargá giellanormeremiin ja ráhkada sátnegirjjiid ja terminologiija, ja maiddái ávkkálaš jorgaleddjiide, dutkiide ja studeanttaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Størrelsen på et slikt tekstkorpus er avgjørende for hvorvidt det er mulig å utvikle språkteknologiske verktøy basert på statistikk og maskinlæring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teakstakorpusa sturrodat mearrida leago vejolaš hukset giellateknologalaš reaidduid mat vuođđuduvvojit statistihkkii ja dihtoroahppamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg er det viktig å ha tekster som inneholder ordforrådet og typen språkbruk som passer for det verktøyet man vil utvikle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin lea dehálaš ahte teavsttain leat sátnevuorká ja giellageavaheapmi mii heive reidui maid háliida ráhkadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De samiske tekstkorpusa er små, sammenliknet med det norske NOWAC, som har 700 mill. ord, og med svensk og engelsk, hvor vi ikke snakker om millioner, men om milliarder av ord. Det samiske tekstkorpuset SIKOR (Samisk Internasjonale korpus) inneholder digitale tekster for fem samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi teakstakorpusat leat unnit, go buohtastahttá daid dáru NOWAC:i mas leat 700 milj. sáni, ja ruoŧagielain ja eaŋgalasgielain – dalle ean huma miljovnnaid, muhto miljárddaid sániid birra. Sámi teakstakorpus SIKOR (Sámi internationála korpus) sisttisdoallá digitála teavsttaid viđa sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Korpuset er åpent tilgjengelig for korpussøk på internett via grensesnittet Korp. I underkant av halvparten av korpuset er tilgjengelig for nedlastning under en fri lisens.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Korpus lea interneahtas ja lea rabas geavahussii Korp-nammasaš geavahanlavtta bokte. Measta beali korpusis sáhttá viežžat dihtorii teakstan friddja liseanssain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SIKOR inneholder en stor del av all elektronisk tilgjengelig samisk tekst, innsamla dels direkte fra institusjoner som har produsert samisk tekst, og dels fra internett, se tabell 4. Tekstene er analysert med analyseprogramma som er beskrevet i kapittel 3.3, og dermed kan man f.eks. søke på grunnform og få treff på setninger som inneholder alle bøyde former av ordet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SIKORis lea stuora oassi buot elektrovnnalaš teavsttain mat leat olámuttos, ja leat čoggojuvvon juogo njuolga ásahusain mat leat buvttadan sámi teavsttaid, dahje interneahtas, gč. tabealla 4. Teavsttat leat analyserejuvvon analysaprográmmaiguin maid letne válddahallan kapihttalis 3.3, ja dien láhkai sáhttá omd. ohcat muhtun sáni vuođđohámi, ja boađusin leat cealkagat mat sisttisdollet vaikko makkár sojahuvvon hámiid sánis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mer informasjon om den grammatiske analysen av korpuset er presentert i Antonsen &amp;amp; Trosterud (2017).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanet dieđut korpusa grammatihkalaš analysa birra leat dás: Antonsen &amp;amp; Trosterud (2017).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Brukere kan klikke seg direkte fra NDS-ordbøkene til Korp-grensesnittet og se hvordan ordet man er interessert i, brukes i setninger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavaheaddjit sáhttet coahkkalit njuolga NDS-sátnegirjjiin Korp-geavahanlaktii, ja oaidnit mo sátni, masa lea beroštupmi, geavahuvvo cealkagiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Man kan også arbeide direkte i Korp. Det er en egen avdeling i SIKOR for tospråklige tekster, dvs. oversettelser fra majoritetsspråket til samisk, som er parallellisert på setningsnivå, dvs. at originalsetninga og den oversatte setninga presenteres ved siden av hverandre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea maiddái vejolaš bargat njuolga Korpas. SIKORis lea sierra ossodat guovttegielalaš teavsttaide, mat leat jorgalusat eanetlogugielas sámegillii, ja jorgalusat leat parallelliserejuvvon cealkkadásis, nu ahte originálacealkka ja jorgaluvvon cealkka čájehuvvojit bálddalaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen av disse er tilgjengelige i Korp, se tabell 4. Slik kan brukeren se hvordan termer og talemåter er oversatt til samisk av andre oversettere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oasi dáin sáhttá geavahit Korpa bokte, gč. tabealla 4. Nu beassá geavaheaddji oaidnit mo eará jorgaleaddjit leat jorgalan tearpmaid ja dadjanvugiid sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Man kan også klikke seg til disse tekstene via NDS.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái NDS bokte lea vejolaš coahkkalit daidda teavsttaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabellene 5 og 6 viser statistikk for bruk av SIKOR.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabeallat 5 ja 6 čájehit SIKORa geavahanstatistihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til sammen mottok de ulike samiske tekstsamlingene 458 141 søk i løpet av denne perioden, eller i underkant av 17 000 søk pr. dag.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktiibuot ledje sámi teakstačoakkáldagain 458 141 ohcama dán áigodagas, dahje measta 17 000 ohcama juohke beaivve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den alt overveiende delen av søka kommer via ordboksgrensesnittet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorimus oassi ohcamiin bohtet sátnegirjji geavahanlavtta bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Loggdata skiller ikke mellom søk fra ordbok og søk direkte i SIKOR, men ved å sammenligne talla for sør- og lulesamisk ser vi hva som skjer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loggendieđut eai earut ohcamiid sátnegirjjis ja ohcamiid njuolga SIKORis, muhto go buohtastahttá lulli- ja julevsámi loguid, de oaidnit mii dáhpáhuvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Korpusa for disse språka er omtrent like store, og lulesamisk har flere talere enn sørsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daid gielaid korpusat leat sullii ovtta stuorrát, ja julevsámegielas leat eanet hubmit go lullisámegielas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Likevel får det lulesamiske korpuset bare 1195 søk i perioden, noe som utgjør 2,5 % av det sørsamisk får (47 665).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dattetge leat áigodagas dušše 1195 ohcama julevsámi korpusis, mii dahká 2,5 % ohcamiin mat leat lullisámi korpusis (47 665).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den store forskjellen er at det for sørsamisk finnes ei ordbok som lenker til det sørsamiske korpuset, mens det ikke gjør det for lulesamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora erohus lea lullisámi sátnegirji mii lea liŋkejuvvon lullisámi korpusii, ja dakkár ii gávdno julevsámegiela várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SIKOR blei opprinnelig laga for språkforskere, og muligheten for å slå opp i korpuset via ordbok kom senere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgoálggus SIKOR ráhkaduvvui gielladutkiide, ja vejolašvuohta ohcat sániid korpusis sátnegirjji bokte bođii maŋŋel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Statistikken viser likevel klart at de samiske språksamfunna er ei langt viktigere brukergruppe for samisk språkteknologi enn det språkforskerne er.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Statistihkka čájeha dattetge čielgasit ahte sámi giellaservodagat leat ollu dehálaččabut sámi giellateknologiija geavaheaddjin go gielladutkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.5 Oversettingsverktøy</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.5 Jorgalanreaiddut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversettere for majoritetsspråka har siden 1980-tallet brukt både maskinoversetting og såkalt oversettingsminne, dvs. tospråklige tekstsamlinger til hjelp i oversettingsarbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanetlogugielaid jorgaleaddjit leat 1980-logu rájes geavahan veahkkin jorgalanbarggus sihke dihtorjorgaleami ja nu gohčoduvvon jorgalanmuittu, mas lea guovttegielalaš teakstačoakkáldat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De siste 15 åra har maskinoversetting blitt tilgjengelig for mange språkpar via selskap som Google og Microsoft, og datateknologien har dermed fått ei mer sentral rolle i flerspråklige sammenhenger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš 15 jagi leat fitnodagat nugo Google ja Microsoft fállan dihtorjorgaleami máŋgga giellabárrii, ja dihtorteknologiija lea dan dihte ožžon stuorit rolla máŋggagielalaš oktavuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både oversettingsminne og maskinoversetting har de siste åra blitt tilgjengelige også for samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš jagiid lea šaddan vejolažžan geavahit sihke jorgalanmuittu ja dihtorjorgaleami maiddái sámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.5.1 Maskinoversetting</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.5.1 Dihtorjorgaleapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Maskinoversetting kan brukes for å forstå en tekst, og for leseren er det da viktigere at alle orda blir riktig oversatt enn at oversettelsen har et godt språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihtorjorgaleami sáhttá geavahit vai ipmirda teavstta, ja lohkkái lea dalle dehálaččat ahte buot sánit jorgaluvvojit rivttesláhkái dan sajis ahte jorgalusas lea buorre giella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Maskinoversetting kan også brukes til å produsere tekster, som for begrensede tekstdomener, som menyer, værmeldinger og bruksanvisninger, hvor det er viktig å bruke riktig term, og hvor språket har liten variasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihtorjorgaleami sáhttá maiddái geavahit teakstabuvttadeapmái, jus leat ráddjejuvvon teakstadomeanat, nugo fálut, dálkedieđáhus ja geavahanrávvagat, main lea dehálaš geavahit rivttes tearpma, muhto gielas lea unnán variašuvdna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dessuten kan maskinoversetting brukes til såkalt posteditering, det vil si at oversettelsen er en kladd som en menneskelig oversetter forbedrer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihtorjorgaleami sáhttá maiddái geavahit nu gohčoduvvon postediteremii, mii máksá ahte jorgalus lea kládda maid jorgaleaddji buorida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da er hensikten å spare tid, og kanskje også å hjelpe oversetteren å være konsistent i ordvalg, hvis det er en type tekst som krever dette.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle lea ulbmil seastit áiggi, ja vejolaččat maiddái veahkehit jorgaleaddji jorgalit tearpmaid seammá láhkai, jus lea teaksta mii gáibida dan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et slikt program er ikke tilpassa oversetting av skjønnlitterære tekster, hvor det er viktigere å variere ordbruken og å finne formuleringer som er typiske for språket man oversetter til.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár prográmma ii leat heivehuvvon čáppagirjjálašvuođa teavsttaid jorgaleapmái, dalle lea dehálaččat varieret sátnegeavaheami ja gávdnat jovssusgiela erenoamáš dadjanvugiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skjønnlitteratur har også større ordforråd enn andre tekster og krever et mye mer utbygd oversettingsprogram enn andre typer tekster.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čáppagirjjálašvuođas lea maiddái stuorit sátnevuorká go eará teavsttain ja nu dat gáibida stuorit jorgalanprográmma go eará teakstatiippat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>UiT arbeider med oversettingsprogram fra nordsamisk til norsk, lulesamisk, sørsamisk og enaresamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiT bargá jorgalanprográmmaiguin davvisámegielas dárogillii, julevsámegillii, lullisámegillii ja anárašgillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programma bruker regelbasert teknologi og Apertium-plattformen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmmat geavahit njuolggadusvuđot teknologiija Apertium-lávddis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Plattformen egner seg spesielt for språk som ligger nær hverandre grammatisk, og brukes ikke minst for oversetting fra bokmål til nynorsk (bl.a. av Nynorsk pressekontor, Wikipedia og skoleelever) og fra spansk til katalansk, der den også brukes til oversetting av artikler i dagsavisa La Voz de Galicia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lávdi heive erenoamážit gielaide mat grammatihkalaččat leat lahkalaga, ja geavahuvvo eandalii jorgalit girjedárogielas ođđadárogillii (maid Nynorsk pressekontor, Wikipedia ja skuvlaoahppit geavahit) ja espánnjagielas kataloniagillii, mainna maiddái jorgala artihkkaliid beaiveaviissas La Voz de Galicia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg brukes Apertium mellom enkelte språkpar på Wikipedia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin geavahuvvo Apertium dihto giellabáraide Wikipedias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tekst på kildespråket legges inn i oversettingsprogramma og analyseres med en språkmodell (se kapittel 3.3).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gáldogiela teaksta addojuvvo jorgalanprográmmii ja analyserejuvvo giellamodeallain (gč. kapihttala 3.3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Grunnorda byttes ut med målspråkets ord, og så bygger programmet setninga på målspråket ved hjelp av manuelt skrevne regler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sániid vuođđohámit lonuhuvvojit jovssusgiela sániiguin, ja de prográmma hukse jovssusgiela cealkaga njuolggadusaiguin mat leat manuálalaččat ráhkaduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til sammenlikning er Google Translate basert på maskinlæring, noe som krever atskillig større samlinger med grunntekst og oversettelse enn det som finnes for samiske språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Google Translate-prográmmii mii vuođđuduvvo dihtoroahppamii, de dat gáibida ollu stuorit teakstačoakkáldaga – vuođđoteavsttaid oktan jorgalusain – go dat mii gávdno sámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tabell 7 viser hvor mange ordpar som finnes i ordlista i oversettingsprogramma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla 7 čájeha galle sátnebára leat jorgalanprográmmaid sátnelisttuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er atskillig flere ordpar for nordsamisk–norsk enn det er mellom de samiske språka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegielasdárogillii leat ollu eanet sátnebárat go sámegielaid gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er arbeida mest med programmet for nordsamisk–norsk, men den viktigste grunnen er at svært mange ord har samme oppbygning på de forskjellige samiske språka, slik at programmet klarer å bygge dem ved hjelp av ordsammensetning eller ordavledning, eller en kombinasjon av disse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea bargojuvvon eanemusat davvisámegiela-dáru-prográmmain, muhto stuorimus sivva lea ahte hui ollu sániin lea seammá ráhkadus iešguđet sámegielain, nu ahte prográmma máhttá daid hukset goallostemiin dahje suorggidemiin, dahje goappašagain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra nordsamisk til norsk er man i mye større grad avhengig av ord-til-ord-oversetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegielas dárogillii dárbbaša ollu eanet sánis-sátnáibáraid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>uttrykke det som på norsk oversettes med forfatter eller sekretær.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>julevsámegillii, dadjat dan mii dárogillii jorgaluvvo sániiguin forfatter dahje sekretær.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordlistene i oversettingsprogramma kan bli lasta ned fra internett, og det er også gjort for DinOrdbok, se kapittel 4.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgalanprográmmaid sátnelisttuid sáhttá viežžat interneahtas, ja nu leage DinOrdbok dahkan, gč. kapihttala 4.3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Men det er viktig å være oppmerksom på at mange av ordpara bare er ment brukt i helt spesielle sammenhenger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto lea dehálaš fuobmát ahte máŋga sátnebára geavahuvvojit dušše áibbas erenoamáš oktavuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg er det omtrent 46 000 ordpar med egennavn for hvert språkpar.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin leat juohke giellabáras sullii 46 000 nammabára.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både for å få til en full analyse av setningene, og for å kunne legge til riktig kasusending, må man i ordlista også ha navn som har samme form på kildespråket og målspråket, så som Hansen = Hansen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vai galgá sáhttit analyseret olles cealkaga, ja vai sáhttá lasihit rivttes kásusgehčosa namaide, de sátnelisttus galget maiddái leat namat main lea seammá hápmi gáldogillii ja jovssusgillii, nugo Hansen = Hansen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Maskinoversetting for samisk er tilgjengelig via flere kanaler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela dihtorjorgaleami sáhttá geavahit máŋgga láhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nettsidene tilbyr tre muligheter: kopiere/skrive inn tekst i ei dialogrute, oversette et helt dokument eller oversette ei nettside.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Neahttasiiddut fállet golbma vejolašvuođa: kopieret/čállit teavstta dialogagieddái, jorgalahttit olles dokumeantta dahje jorgalahttit websiiddu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg er det mulig å installere oversettingsprogramma i oversettingsverktøyet OmegaT, og det er i prinsippet mulig å laste ned og installere programmet til eget bruk fra github (det siste krever godt kjennskap til Giellatekno-infrastrukturen).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin lea vejolaš sajáiduhttit jorgalanprográmma OmegaT-nammasaš jorgalanreidui, ja lea maiddái vejolaš viežžat ja sajáiduhttit prográmma iežas geavaheapmái githubas (muhto dat gáibida ahte dovdá Giella-vuođđostruktuvrra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I løpet av januar 2020 leverte nettsida for oversettelse mellom nordsamisk og norsk 28 167 oversettelser av tekst som brukeren hadde kopiert inn i dialogruta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđajagemánus 2020 buvttadii neahttasiidu mii jorgala davvisámegielas dárogillii, 28 167 jorgalusa teavsttain maid geavaheaddji lei kopieren dialogagieddái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I samme periode oversatte programmet også 1930 nettsider.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammá áigodagas prográmma jorgalii maiddái 1930 neahttasiiddu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De to andre sidene som var representert, var det samiske vitenskapelige tidsskriftet Sámi dieđálaš áigečála og Senter for samisk i opplæringa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Measta buot jorgaluvvon neahttasiiddut (98 %) ledje Sámi allaskuvlla neahttasiiddut, dasa lassin ledje Sámi dieđalaš áigečállaga ja Sámi lohkanguovddáža neahttasiiddut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>At Samisk høgskole dominerer, er ikke uventet, siden dette er det eneste nettstedet som har dirigert brukerne til en norsk maskinoversatt versjon via en ferdig snarveg.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea vuordimis ahte leat eanaš Sámi allaskuvlla neahttasiiddut, danne go dat lea áidna neahttabáiki mii lea čujuhan lohkkiid dárogiel dihtorjorgaluvvon veršuvdnii gárvves liŋkkain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å oversette andre sider må brukeren selv lime inn lenka til nettsida, noe mange sikkert ikke er klar over.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgalahttin dihte eará neahttasiidduid geavaheaddji ferte ieš kopieret neahttasiiddu liŋkka, ja dán sihkkarit eai buohkat dieđe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til tross for at tekster til Samisk høgskoles nettsider blei oversatt i gjennomsnitt 62 ganger hver dag i januar 2020, har høgskolen nå fjerna direktelinken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko Sámi allaskuvlla neahttasiiddut dihtorjorgaluvvojedje gaskamearálaččat 62 gearddi juohke beaivvi ođđajagemánus 2020, de allaskuvla lea dál jávkadan njuolggoliŋkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Begrunnelsen er at de synes den språklige kvaliteten på oversettelsene ikke var bra nok, og de var bekymret for at brukere av nettsida skulle tro at dette var høgskolens manuelle oversettelse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođuštus lei go sin mielas jorgalusaid gielalaš kvaliteahta ii lean doarvái buorre ja sii ledje fuolas das ahte geavaheaddjit galget jáhkkit ahte dát lei allaskuvlla manuálalaš jorgalus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I enkelte diskusjonsgrupper om samiske forhold på Facebook har det flere ganger vært diskusjon om bruk av samisk språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtun Facebook-joavkkuin main fáddán leat sámi áššit, leat leamaš máŋga digaštallama sámegiela geavaheami birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De som ikke behersker språket, har følt seg utestengt fra diskusjonen hvis noen har skrevet en kommentar på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat geat eai hálddaš giela, leat dovdan iežaset olggoštuvvon jus muhtun lea ságastallamis čállán sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nå er det noen grupper som viser til oversettingsverktøyet for dem som trenger det, og uten å ha noen statistikk på dette virker det som at det nå skrives mer på nordsamisk på Facebook enn tidligere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál muhtun FB-joavkkut čujuhit dihtorjorgalanreidui daidda geat dan dárbbašit, ja vaikko munnos ii leat statistihkka, de orru ahte Facebookas dál čállojuvvo eanet davvisámegillii go ovdal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er et eksempel på at maskinoversetting styrker samisktalendes muligheter til å bruke samisk også i offentlige sammenhenger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea ovdamearkan dasa ahte dihtorjorgaleapmi nanne sámegielagiid vejolašvuođaid geavahit sámegiela maiddái almmolaš oktavuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et annet eksempel er at den ene forfatteren av denne artikkelen kunne skrive sin PhD-avhandling på nordsamisk fordi deler av vurderingskomiteen kunne bruke maskinoversetting til hjelp i lesinga.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi ovdamearka lea go dan artihkkala nubbi čálli beasai čállit iežas nákkosgirjji davvisámegillii danne go oassi árvvoštallanlávdegottis sáhtii geavahit dihtorjorgaleami veahkkin lohkat nákkosgirjji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversettingsprogramma fra nordsamisk til andre samiske språk kan gjøre viktige nordsamiske tekster tilgjengelige for andre samiskspråklige, og dermed styrke det faglige fellesskapet mellom de ulike samiske språksamfunna.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgalanprográmmat davvisámegielas eará sámegielaide sáhttet dahkat dehálaš davvisámegiela teavsttaid logahahttin eará sámegielagiidda, ja dan láhkai nannet sámi giellaservodagaid fágalaš searvevuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tekst skrevet på nordsamisk har ofte ei problemstilling og en innfallsvinkel som er relevant for andre samiske språksamfunn, og ved å kunne oversette teksten til sitt eget samiske språk vil talere av andre samiske språk kunne lese den.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teavsttain mat leat čállojuvvon davvisámegillii, lea dávjá čuolbmaášši ja vuolggasadji mii lea relevánta maiddái eará sámi giellaservodagaide, ja go lea vejolaš jorgalahttit teavstta, de besset maiddái eará sámegielaid hubmit daid lohkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Programma kan også brukes motsatt veg, til nordsamisk, selv om programma i dag bare tilbyr en enkel ord-for-ordoversettelse denne vegen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmmaid sáhttá maiddái geavahit nuppe guvlui, davvisámegillii, vaikko dálá prográmmat dien guvlui dušše máhttet oktageardánit jorgalit sánis sátnái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Men ei slik oversetting til nordsamisk gjør det mulig for studenter å skrive oppgaver og artikler på lule-, sør- og enaresamisk, og sensorer og kolleger som bare kan nordsamisk, kan med støtte av en slik maskinoversatt tekst være i stand til å lese tekstene deres.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto diekkár jorgaleapmi davvisámegillii dahká vejolažžan studeanttaide čállit bargobihtáid ja artihkkaliid julevsáme-, lullisáme- ja anárašgillii, ja jorgaleapmi veahkeha sensoriid ja bargoustibiid geat dušše máhttet davvisámegiela, lohkat sin teavsttaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversettingsprogramma som er tilgjengelige i dag, er imidlertid ikke gode nok, de må videreutvikles.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto dálá dihtorjorgalanprográmmat eai leat doarvái buorit, ja lea dárbu daid buoridit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vil i praksis si at programma må tilpasses forskjellige sjangre og domener, og dette gjøres best i samarbeid med oversettere og miljøer som produserer tekst som skal oversettes.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavatlaččat dát máksá ahte prográmmaid ferte heivehit iešguđet šáŋŋerii ja domenii, ja dat lihkostuvvá buoremusat go ovttasbargá jorgaleddjiiguin ja birrasiin gos čállojuvvojit teavsttat mat galget jorgaluvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.5.2 Oversettingsminne og datastøtta oversetting (CAT)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.5.2 Jorgalanmuittut ja dihtordorjon jorgaleapmi (CAT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som en del av arbeidet med SIKOR har Giellatekno og Divvun også samla inn tekstsamlinger for ulike språkpar mellom samiske og andre språk og parallellisert dem setningspar for setningspar.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Barggadettiin SIKORin Giellatekno ja Divvun leat maiddái čoaggán teavsttaid mat leat jorgaluvvon eará gielaide ja bálddalastán cealkagiid giellabáraid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den største tekstsamlinga blei samla inn med finansiering av det som da var Forbruker- og administrasjonsdepartementet (jf. Trosterud &amp;amp; Eskonsipo 2013).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorimus teakstačoakkáldaga čoaggima ruhtadii dalá Geavaheaddji- ja hálddahusdepartemeanta (gč. Trosterud &amp;amp; Eskonsipo 2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Seinere er mer tekst og flere språkpar lagt til.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋŋel leat eanet teavsttat ja eanet giellabárat lasihuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse parallelle tekstsamlingene er tilgjengelige via NDS-ordbøkene, og for sammenliknende språkforsking via grensesnittet Korp. I tillegg er de åpne parallelle tekstsamlingene nedlastbare som oversettingsminne, jf. Feil!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáid bálddalasteakstačoakkáldagaid sáhttá geavahit NDS-sátnegirjjiid bokte, ja gielladutkamis Korpgeavahanlavtta bokte. Dasa lassin lea vejolaš viežžat rabas bálddalasteavsttaid jorgalanmuitun, gč. tabealla 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tekstsamlingene er alle lagra i et format som gjør at de kan brukes av all programvare for datastøtta oversetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot teakstačoakkáldagat leat vurkejuvvon formáhtan mii dahká ahte buot dihtordorjonjorgaleami prográmmat sáhttet daid geavahit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også NDS-ordbøkene er nedlastbare som ordlister i et format som passer programma for datastøtta oversetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái NDS-sátnegirjjiid sáhttá viežžat sátnelistun formáhtas mii heive dákkár prográmmaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Generelt sett er slike program svært utbredt blant oversettere, men så langt har samiske oversettere utgjort et unntak.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgaleaddjit oppalohkái geavahit dákkár prográmmaid ollu, muhto dán rádjai leat sámi jorgaleaddjit leamaš spiehkastahkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I løpet av det siste året ser det likevel ut til at samiske oversettere vil ta i bruk program for datastøtta oversetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš jagi orru ahte sámi jorgaleaddjit dattetge háliidit geavahišgoahtit prográmmaid dihtordorjon jorgaleapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oversetting av tekst til samisk utgjør en flaskehals i svært mange sammenhenger, særlig når det gjelder skolebøker og sakprosa, så mer effektive rutiner for oversetting vil ha stor innflytelse på språksamfunnet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teavsttaid jorgaleapmi sámegillii lea bohtalnjálbmi hui máŋgga oktavuođas, erenoamážit skuvlagirjjiid ja áššeprosa oktavuođas, nu ahte beaktilat jorgalanvuogit sáhttet váikkuhit sakka giellaservodahkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av oversettingsminne og automatisk oppslag av fagtermer vil også gjøre det lettere for oversetterne å få en mer konsistent terminologi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgalanmuittu geavaheapmi ja automáhtalaš fágatearpmaid ohcan sáhttet maiddái álkidahttit barggu geavahit konsisteanta terminologiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange program for datastøtta oversetting tilbyr ordbøker som en av flere typer ressurser til hjelp for oversetteren.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋga prográmma dihtordorjon jorgaleapmái fállet sátnegirjjiid oktan máŋgga resurssas jorgaleaddjái veahkkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske oversettere vil dermed trenge ordbøker for språka de oversetter fra.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan dihte sámegiel jorgaleaddjit dárbbašit maiddái gáldogielaid sátnegirjjiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ett ordboksformat som er mye brukt, er StarDict.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Okta sátnegirjeformáhta mii lea ollu geavahuvvon lea StarDict.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For finsk er det ei enspråklig ordbok tilgjengelig i StarDict-format, dette gjelder dessverre verken for norsk eller svensk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomagillii gávdno ovttagielalaš sátnegirji StarDict-formáhtas, muhto dákkár ii gávdno dáro- iige ruoŧagillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.6 Syntetisk tale og talegjenkjenning</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.6 Syntehtalaš hupman ja hupmandovdán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Divvun publiserte i 2015 et program for nordsamisk syntetisk tale.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Divvun-joavku almmuhii 2015:s prográmma davvisámi syntehtalaš hupmamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er i bruk i en del sammenhenger, f.eks. på nettsidene til Troms og Finnmark fylkeskommune og flere kommuner innafor det samiske forvaltningsområdet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma geavahuvvo muhtun oktavuođain, omd. Romssa ja Finnmárkku fylkkasuohkana ja muhtun sámi hálddašanguovllu suohkaniid neahttasiidduin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dessuten er det i bruk som hjelpemiddel for folk som har vansker med å lese vanlig skrift, f.eks. på forberedelsesdelen til grunnskoleeksamen i nordsamisk som førstespråk og til høytlesing av tekster som alternativ til punktskrift (Statped: Samisk punktskrift).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin geavahuvvo veahkkereaidun olbmuide geaidda lea váttis lohkat dábálaš teavstta, omd. vuođđoskuvlaeksámena ráhkkananoasis davvisámegiella vuosttašgiellan ja teavsttaid jitnositlohkamii, čuokkesčállaga molssaeaktun (Statped: Samisk punktskrift).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Statped (Statlig pedagogisk tjeneste) arbeider med å få syntetisk tale for nordsamisk integrert i forskjellig programvare.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Statped (Stáhtalaš pedagogalaš bálvalus) bargá oažžut davvisámi syntehtalaš hupmama laktojuvvon iešguđegelágan prográmmagálvvuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ut over det er syntetisk tale for samisk ikke så mye i bruk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muđui syntehtalaš hupman ii geavahuvvo nu ollu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En mulig årsak til det kan være at teknologien er for tidlig ute: Syntetisk tale for norsk spiller ei relativt marginal rolle i sammenhenger der vi også finner samisk, og så lenge det er tilfelle, kan det hende at etterspørselen etter syntetisk tale for samisk forblir lav.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vejolaš sivva dasa lea ahte teknologiija bođii menddo árrat: Ii dárogiela syntehtalaš hupmange leat nu dehálaš dain oktavuođain gos maiddái sámegiella lea, ja nu guhká go dat lea nu, de veadjá beroštupmi sámegiela syntehtalaš hupmamii bissut unnin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På den andre sida har UiT planer om å ta syntetisk tale i bruk i ordbøker og språklæringsprogram.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppe dáfus lea UiT plánen geavahišgoahtit syntehtalaš hupmama sátnegirjjiin ja giellaoahppanprográmmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når det gjelder talegjenkjenning, finnes det fremdeles ikke fungerende program for noe samisk språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii gávdno vuos doaibmi hupmandovdánprográmma ovttage sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aalto-universitetet i Helsingfors har arbeida med samisk talegjenkjenning, og Divvun-gruppa har i 2020 fått ekstra finansiering for å arbeide med dette.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Aalto-universitehta Helssegis lea bargan sámegiela hupmandovdánprográmmain, ja Divvun-joavku lea 2020:s ožžon lasseruhtadeami bargat dainna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er allerede interesse for å få talegjenkjenning, og denne interessen vil sannsynligvis øke når taleteknologi sprer seg til nye bruksområder for norsk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea juo beroštupmi oažžut hupmandovdánprográmma, ja dát beroštupmi árvideames lassána go dárogiela hupmanteknologiija leavvá eanet geavahansurggiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.7 Bruk av samisk språkteknologi på andre områder</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.7 Sámi giellateknologiija geavahus eará surggiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å ha ei analysert tekstsamling tilgjengelig for Korp som tekstanalyse har vært nyttig for samisk språkforsking.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Analyserejuvvon teakstačoakkáldat olámuttos Korpas lea leamaš ávkkálaš sámi gielladutkamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tre av de fire siste artiklene om nordsamisk syntaks i Sámi dieđálaš áigečála (2014– 2019) bruker f.eks. data fra SIKOR.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Omd. golmma maŋemuš njealji artihkkalis davvisámi syntávssa birra Sámi dieđalaš áigečállagis (2014–2019) geavahit dieđuid SIKORis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>UiT har også gjort andre ressurser tilgjengelige for språkforskere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiT lea bidjan maiddái eará resurssaid geavahan láhkai gielladutkiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det inkluderer lister, laget ved hjelp av analyseverktøy, over hvor ofte ord, inkludert ulike bøyingsformer, forekommer i tekst (frekvensordlister).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Resurssaide gullet analysareaidduiguin ráhkaduvvon listtut, mat čájehit man dávjá sánit oktan buot sojahanhámiiguin, ilbmet teavsttain (dávjodatsátnelisttut).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Man kan også bruke online-verktøy for grammatisk analyse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá maiddái geavahit online-reaidduid grammatihkalaš analysii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Maskinoversettingsprogrammet fra nordsamisk til norsk har også styrket vitenskapelig publisering på samisk: Nå vet samiskspråklige språkforskere at også norskspråklige kolleger kan lese publikasjonene deres.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihtorjorgalanprográmma davvisámegielas dárogillii lea maiddái nannen dieđalaš almmuheami sámegillii: Dál sámegielat dutkit dihtet ahte maiddái dárogielat dutkit sáhttet lohkat sin almmuhemiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Språkteknologi brukes også i språklæringsverktøy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellateknologiija geavahuvvo maiddái giellaoahppanreaidduin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Teknologien kan brukes som hjelpemiddel for å finne eksempelsetninger fra en tekstsamling og å gi bøyningsformer av ord, noe som også gjøres i NDS-ordbøkene, og dermed gir disse ordbøkene mulighet for mer språklæring enn det som er vanlig i ei ordbok.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Teknologiija sáhttá geavahit veahkkereaidun gávdnat ovdamearkacealkagiid teakstačoakkáldagas ja addit sáni sojahanhámiid, nugo dahkkojuvvo NDS-sátnegirjjiin, ja dien láhkai fállet dát sátnegirjjit eanet giellaoahppanvejolašvuođaid go dan maid dábálaš sátnegirji fállá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Man kan også analysere tekster online, eller det som brukeren skriver, og slik gi tilbakemelding til brukeren.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá maiddái analyseret teavsttaid online, dahje analyseret dan maid geavaheaddji čállá, ja addit máhcahaga geavaheaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>UiT har utvikla program for å lære grammatikk, som Oahpa for nord- og sørsamisk og Konteaksta for nordsamisk, der språkteknologien blir brukt på denne måten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>UiT lea ráhkadan grammatihkkaoahppanprográmmaid, nugo Oahpa davvi- ja lullisámegillii ja Konteaksta davvisámegillii, main giellateknologiija geavahuvvo dán láhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruken av språklæringsverktøy er et for stort tema til å behandles i denne artikkelen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellaoahppanreaidduid geavaheapmi lea menddo stuora fáddá dán artihkkalii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>4.8 Utviding til andre språk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.8 Eará gielaide viiddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>All språkteknologi utvikla ved Institutt for språk og kultur ved UiT er tilgjengelig som åpen kildekode.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot giellateknologiija maid UiT Giela ja kultuvrra instituhtta lea ráhkadan, lea vejolaš viežžat rabas gáldokodan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette har flere konsekvenser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Das leat čuovvumušat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flere av de andre språkteknologiske initiativa for samisk, som e-ordbøkene fra DinOrdbok, bygger på åpne ressurser fra Giellatekno og OPUS.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋga eará sámegiela giellateknologalaš vuolggaheami, nugo DinOrdboka sátnegirjjit, geavahit Giellatekno ja OPUS rabas resurssaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I og med at kildekoden er åpen og språkuavhengig, er det også mulig å utvide den til flere språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Danne go gáldokoda lea rabas iige leat čadnon dihto gillii, de lea maiddái vejolaš viiddidit dan eanet gielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette har også blitt populært.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát leage beaggán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg til de tre samiske språka som blir snakka i Norge, har Giella-infrastrukturen ført til stavekontrollprogram for 19 andre språk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giella-infrastruktuvra lea geavahuvvon ráhkadit sátnedivvunprográmma golmma sámegillii Norggas, muhto maiddái 19 eará gillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordboksportalen Neahttadigisánit, som opprinnelig blei laga for nordsamisk–norsk og sørsamisk–norsk (se Johnson mfl. 2013), inneholder nå 111 språkpar fordelt på 18 forskjellige ordboksportaler.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnegirjelávdi NDS, mii álgoálggus ráhkaduvvui davvisámi-daru ja lullisámi-dáru várás (gč. Johnson ja earát 2013), sisttisdoallá dál 111 giellabára mat leat juhkkojuvvon 18 sátnegirjelávdái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette viser at det er stort behov og interesse for språkteknologiske løsninger for minoritetsspråk med omfattende bøyingsmønster og ordavledning, og at det ikke er så mange steder det er mulig å få tilgang til en infrastruktur som kan gi språksamfunna de verktøya de vil ha.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát čájeha ahte lea stuorra dárbu ja beroštupmi giellateknologalaš čovdosiidda vehádatgielaide main leat viiddes sojahanminstarat ja ollu sátnesuorggideamit, ja dat čájeha ahte eai leat nu máŋga birrasa mat fállet infrastruktuvrra mainna sáhttá ráhkadit reaidduid maid giellaservodagat háliidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik sett har satsinga på samisk språkteknologi fått resultater langt ut over det som var den opprinnelige intensjonen med satsinga.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán láhkai lea áŋgiruššan sámi giellateknologiijain addán bohtosiid mat leat ollen ollu viidábut go dat mii lei áŋgiruššama álgojurdda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Drøfting og konklusjon</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digaštallan ja konklušuvdna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målbevisst arbeid med å integrere samiske bokstaver i internasjonale standarder gjorde det mulig å få samisk på internett allerede på 1990-tallet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearrediđolaš bargu laktit sámi bustávaid riikkaidgaskasaš standárddaide dagai vejolažžan oažžut sámegiela internehttii juo 1990-logus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ordretteprogram og mobiltastatur blei tilgjengelige fra og med 2007 og framover.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnedivvunprográmma ja mátketelefovnna boallobeavddi lei vejolaš viežžat jagi 2007 rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De har blitt lasta ned av store deler av de samiske språksamfunna og har dermed blitt en del av hverdagen for de aller fleste som skriver samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora oassi sámi giellaservodagain leat viežžan prográmmaid, ja dáinna lágiin dat leat šaddan árgabeaivvi oassin eatnasiidda geat čállet sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Etter forbedringa av samisk tekst på Facebook å dømme har innføringa av samiske tastatur på mobiltelefonen gjort det lettere å skrive samisk ikke bare på Facebook, men også i tekstmeldinger og annen tekstbruk på mobil.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nugo sámegiel teavsttat orrot buorránan Facebookas, de lea sámi boallobeavdi dahkan álkibun čállit sámegillii, ii dušše Facebookas, muhto maiddái teakstadieđuin ja eará teakstageavaheamis mátketelefovnnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Brukerloggene for NDS viser at ordbøker med bøyning er viktige for minoritetsspråk med omfattende bøyingsmønster.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NDS geavahanloggat čájehit ahte sátnegirjjit main lea sátnesojaheapmi, leat dehálaččat vehádatgielaide main lea stuorra sojahanminstarat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rundt ett av ti ordbokssøk blir fulgt opp med et søk i autentisk samisk tekst.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sullii juohke logát sátnegirjeohcama oktavuođas geavaheaddji maiddái ohcá ovdamearkkaid autenttalaš sámi teavsttain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når søka blir korrigert for størrelsen på språksamfunnet, viser ordboksloggene langt høyere tall for de mindre samiske språka enn for nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go váldá vuhtii giellaservodaga sturrodaga, de sátnegirjeloggat čájehit ollu stuorit loguid unna sámegielaide go davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jo mindre språket er, desto mer har man behov for ordbøker og liknende ressurser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mađe unnit giella lea, dađe eanet hubmit dárbbašit sátnegirjjiid ja dien sullasaš resurssaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at de ulike programma er integrert i hverandre, noe vi ser av bruken av de elektroniske tekstsamlingene: De tilgjengelige tekstsamlingene for sør- og lulesamisk er omtrent like store.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dehálaš lea ahte eanet prográmmat leat ovttastuvvon, ja dan oaidnit digitála teakstačoakkáldagaid geavahusas: Olámuttolaš lulli- ja julevsámi teakstačoakkáldagat leat ovtta stuorrát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For begge språka finnes det digitale ordbøker, men bare for sørsamisk er det mulig å søke i tekstsamlinga via ordboksgrensesnittet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goappaš gielaide leat digitála sátnegirjjit, muhto dušše lullisámegillii lea vejolaš ohcat teakstačoakkáldagas sátnegirjegeavahanlavtta bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Brukerloggen viser da også at den sørsamiske tekstsamlinga er 40 ganger mer i bruk enn den lulesamiske.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavahanloggat čájehitge ahte lullisámi teakstačoakkáldat leat 40 gearddi eanet geavahusas go julevsámegiela čoakkáldat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik ser vi hvordan tilgjengeligheten av språkteknologiske ressurser styrer folks adferd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dien láhkai oaidnit mo giellateknologalaš resurssaid beasatlašvuohta stivre olbmuid láhttema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtidig er realiteten at selv om det er de minste samiske språka som trenger verktøya mest, er det nordsamisk som har flest språkteknologiske verktøy, fordi både den best utbygde språkmodellen og de største tekstsamlingene er nordsamiske.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammás lea duohtavuohta nu ahte vaikko unnimus sámegielat dárbbašit reaidduid eanemusat, de davvisámegielas leat eanemus giellateknologalaš reaiddut, danne go das lea buoremus huksejuvvon giellamodealla, ja stuorimus teakstačoakkáldagat leat davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et annet eksempel på slik endra atferd er maskinoversetting.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi ovdamearka diekkár váikkuhussii lea dihtorjorgaleapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da maskinoversetting fra nordsamisk til norsk blei tilgjengelig, forsvant også store deler av diskusjonen om det skulle være lov til å skrive på samisk i nettdiskusjoner eller ikke. Maskinoversetting kan også bidra til at de samiske språka kan styrke hverandre, heller enn å kommunisere via majoritetsspråket, noe vi allerede ser eksempler på i akademisk sammenheng.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle go dihtorjorgaleapmi davvisámegielas dárogillii bođii, de jávkkai maiddái stuora oassi digaštallamis das leigo vuogas čállit sámegillii neahttadigaštallamiin dahje ii. Dihtorjorgaleapmi sáhttá maiddái leat mielde sámegielaid nannet nubbi nuppi, dan sajis go gulahallat eanetlogugillii, ja das oaidnit ovdamearkkaid akademalaš oktavuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I et globalt perspektiv står de samiske språka i en langt sterkere situasjon enn språk med like mange talere og like stor grammatisk kompleksitet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Globálalaš perspektiivvas leat sámegielat ollu nannosat dilis go gielat main leat seamma ollu hubmit ja seammá stuora grammatihkalaš mohkkáivuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er flere grunner til dette: De samiske språka er i bruk som skriftspråk, både i skole og administrasjon, og initiativ og finansiering til å lage et ordretteprogram for nordsamisk kom da også fra Sametinget i 2004.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa leat máŋga siva: Sámegielat geavahuvvojit čállingiellan, sihke skuvllas ja hálddahusas, ja sátnedivvunprográmma vuolggaheapmi ja ruhtadeapmi bođiige Sámedikkis 2004:s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtidig var det i Tromsø et lingvistisk miljø som allerede var i gang med å lage språkmodeller for nordsamisk, inspirert av språkteknologiske modeller for finsk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammás lei Romssas lingvisttalaš biras mii lei ožžon inspirašuvnna suomagielas, ja mii lei álggahan barggu hukset davvisámegiela giellamodeallaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Endelig fantes det en vilje i den norske statsadministrasjonen og på UiT til å finansiere et forskings- og utviklingsmiljø på omtrent ti personer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eandalii lei sihke Norgga stáhtahálddahusas ja UiT:s dáhttu ruhtadit dutkan- ja ovddidanbirrasa mas leat sullii logi olbmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den sentrale aktøren for utvikling av samisk språkteknologi har med andre ord vært UiT, med de konkrete behova for språkstøtteprogram i de samiske språksamfunna som pådriver.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellateknologiija ovddideami guovddášoasálaš lea nappo leamaš UiT, ja sámi giellaservodagaid čielga dárbbut gielladoarjunprográmmaide leat láidestan barggu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å understreke at det bak alle de samiske språkmodellene ligger en hundreårig tradisjon med ordboksarbeid, der både privatpersoner og akademisk ansatte har gjort et stort arbeid for å nedtegne ordforrådet for alle de samiske språka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dehálaš lea deattuhit ahte buot sámi giellamodeallaid duohken lea čuohtejahkásaš sátnegirjeárbevierru, mas sihke ovttaskas olbmot ja akademalaš bargit leat dahkan stuorra barggu čállit buot sámegielaid sátneráju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Uten dette arbeidet ville det språkteknologiske grunnarbeidet heller ikke ha vært mulig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán barggu haga giellateknologalaš vuođđobargu ii livčče lean vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Språkteknologisk utvikling for samiske og andre språk uten kommersielt potensial er avhengig av ikke-kommersielle aktører.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellateknologalaš ovddideapmi sámegielaide ja eará gielaide main ii leat gávppálaš potensiála, dárbbašit ii-gávppálaš oasálaččaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge har dette vært mulig, og resultatet har blitt fungerende språkteknologiske program også for samiske og andre språk utafor Norge.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norggas dát lea leamaš vejolaš, ja boađusin leat doaibmi giellateknologalaš prográmmat maiddái sámegielaide ja eará gielaide Norgga olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De siste tiåra har dermed sett ei utvikling av språkteknologiske verktøy til støtte for den samiske skriveprosessen, først og fremst ordretteprogram, men også interaktive ordbøker og tilgang til autentiske språkeksempel via korpusgrensesnittet Korp. Dette har gjort skriveprosessen lettere og mer effektiv.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋemuš logijagiid mii leat ahte oaidnán ahte giellateknologalaš reaidduid ahtanuššan lea dorjon sámi čállima, vuosttažettiin sátnedivvunprográmma, muhto maiddái vuorrováikkuheaddji sátnegirjjiid ja beassama autenttalaš giellaovdamearkkaide Korp-geavahanlavtta bokte. Dát lea dahkan čállinbarggu álkibun ja beaktileabbon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De høye talla for både nedlastning og bruk viser at verktøya har en sentral plass i hverdagen til det store flertallet av dem som skriver på samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora viežžan- ja geavahanlogut čájehit ahte reaiddut leat árgabeaivvis guovddážis eatnasiidda geat čállet sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spesielt andrespråkstalere gir uttrykk for at de ikke ville ha kunnet skrive på samisk uten tilgang på slike verktøy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erenoamážit nuppegielagat muitalit ahte eai livčče sáhttán čállit sámegillii jus eai livčče diekkár veahkkereaiddut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forskning på aktuell språkbruk faller utafor rammene til denne artikkelen, men på grunnlag av statistikker over både nedlastning og bruk av ulike språkteknologiske program, og den språkbruken vi kan observere, konkluderer vi med at samisk språkteknologi har endra folks språklige atferd, og dermed de samiske språksamfunna.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ieš giellageavaheami dutkan lea dán artihkkala rámmaid olggobealde, muhto váldá vuođđun namuhuvvon statistihkaid, ja giellageavaheami maid oidne, de konkluderejetne ahte sámi giellateknologiija lea rievdadan olbmuid gielalaš láhttema, ja dan láhkai rievdadan sámi giellaservodagaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis vi ser på framtidsperspektiva for samisk språkteknologi, peker disse punkta seg ut som naturlige satsingsområder:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus gehčče sámi giellateknologiija boahttevuođa perspektiivvaid, de čuovvovaš čuoggát leat lunddolaš áŋgiruššansuorggit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Store deler av den samiske skriftkulturen, framfor alt skjønnlitteraturen, er fremdeles ikke tilgjengelig for språkteknologisk forskning og utvikling, men det bør den bli.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Stuora oassi sámi čállinkultuvrras, erenoamážit čáppagirjjálašvuođas, ii leat velge olámuttos giellateknologalaš dutkamii ja ovddideapmái, ja dan dat berrešii šaddat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samiske språk kan ikke henge med i språkteknologisk utvikling framover uten store tekstsamlinger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat eai sáhte dás ovddos guvlui čuovvut mielde giellateknologalaš ovddideamis stuora teakstačoakkáldagaid haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Det trengs målretta arbeid med å forbedre ordboksressursene for samisk, særlig enspråklige samiske ordbøker og fagspesifikk terminologi, men også ordbøker de samiske språka imellom.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Dárbbašuvvo mearrediđolaš bargu buoridit sámegielaid sátnegirjeresurssaid, erenoamážit ovttagielalaš sámi sátnegirjjiid ja fágaspesifihkka terminologiija, muhto maiddái sátnegirjjiid sámegielaid gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle de nordiske nasjonalspråka har det til felles at de trenger gode leksikografiske ressurser, samtidig som de nordiske språksamfunna er for små til å finansiere dette arbeidet på kommersiell basis.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot davviriikkaid nationála gielaide gusto ahte gielat dárbbašit buriid leksikográfalaš resurssaid, seammás go davviriikkaid giellaservodagat leat menddo unnit ruhtadit barggu gávppálaš vuogi mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å løse dette har samtlige nordiske land oppretta egne leksikografiske institusjoner. For norsk er den lagt til Universitetet i Bergen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoavdin dihte dan de leatge buot davviriikkat ásahan iežaset leksikográfalaš ásahusaid, dárogiela várás ásahus lea Bergena universitehtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Selv med færre talere har de samiske språka det samme behovet for å strukturere og utvikle ordforrådet sitt. Det trengs med andre ord et «Samisk leksikografisk institutt».</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko sámegielain eai leat seammá ollu hubmit, de lea seammá dárbu struktureret ja ovddidit sátnevuorkká, nuba dárbbašuvvoge "Sámi leksikográfalaš instituhtta".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Språkmodellene som alt språkteknologisk arbeid hviler på, må bli bedre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Giellamodeallat maidda buot giellateknologalaš bargu vuođđuduvvo, fertejit buoriduvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle samiske språk bør opp på det samme nivået som nordsamisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sámegielat berrešedje beassat seammá dássái go davvisámegiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Det er mulig å lage langt bedre og mer intelligente skrivestøtteprogram enn det de samiske språka rår over i dag.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Lea vejolaš ráhkadit ollu buorebuid ja jierpmálaččabuid čállindoarjjaprográmmaid go dat mat leat gávdnojit sámegillii dál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slike program vil styrke den samiske skriftkulturen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár prográmmat nannešedje sámi čállinkultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Samisk taleteknologi er med dagens syntetiske tale for nordsamisk så vidt kommet i gang.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Sámi hupmanteknologiijas lea dálá davvisámegiela syntehtalaš hupmanprográmmain aiddo beassan johtui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Neste steg her er syntetisk tale for de andre samiske språka, og system for å kjenne igjen samisk tale.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvovaš lávki lea syntehtalaš hupman eará sámegielaide, ja ahte prográmma maid dovdá sámegielat hupmama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>• Arbeidet som blir gjort for samiske språk, er relevant for alle morfologisk komplekse språk uten kommersielt potensial, dvs. for brorparten av språka i verden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>• Bargu mii dahkko sámegielaide lea relevánta buot morfologalaš mohkkás gielaide mat leat gávppálaš potensiála haga, ja dát guoská stuorimus oassái máilmmi gielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også i dette perspektivet er samisk språkteknologi et viktig satsingsområde.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái dán geahččanguovllus lea sámi giellateknologiija dehálaš áŋgiruššansuorgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oppsummeringsvis er de viktigste erfaringene etter tjue år med samisk språkteknologi at gode språkteknologiske løsninger er viktige for alle språksamfunn, og viktigere jo færre talere et språk har.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahpas sáhtte dadjat ahte deháleamos vásáhusat maŋŋel guoktelogi jagi sámi giellateknologiijain, lea ahte buorit giellateknologalaš čovdosat leat dehálaččat buot giellaservodagaide, ja dađe dehálaččabut mađe unnit hubmit gielas leat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sentrale verktøy som ordretteprogram og maskinoversetting gjør det lettere å bruke samisk; for mange språkbrukere ville det ha vært umulig å uttrykke seg skriftlig på samisk uten disse programma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovddášreaiddut nugo sátnedivvunprográmma ja dihtorjorgaleapmi dahket álkibun geavahit sámegiela, ollu giellageavaheddjiide livččii lean veadjemeahttun čállit sámegillii dáid prográmmaid haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den målretta satsinga på samisk språkteknologi har ikke bare styrka den samiske skriftkulturen, den har også gitt opphav til en språkteknologisk infrastruktur som blir tatt i bruk for flere og flere språk, særlig språk med typologiske trekk felles med samisk.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát mearrediđolaš áŋgiruššan sámi giellateknologiijii ii leat dušše nannen sámi čállinkultuvrra, muhto lea maiddái vuolggahan giellateknologalaš infrastruktuvrra mii geavahuvvot eanet ahte eanet gielaide, erenoamážit gielaide main leat seammasullasaš typologalaš sárgosat go sámegielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samtidig er det nok av utfordringer å ta fatt på.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seammás leat eanet go doarvái hástalusat dusten láhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bare et kontinuerlig og målretta arbeid kan videreutvikle og forbedre dataprogram for samiske språk og andre minoritetsspråkssamfunn, og dermed gi dem tilgang til den samme hjelpa datateknologien kan tilby majoritetsspråksamfunna.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dušše joatkevaš ja mearrediđolaš bargguin sáhttá joatkit ovddidit ja buoridit dihtorprográmmaid sámi ja eará vehádatgielaid giellaservodagaide.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
