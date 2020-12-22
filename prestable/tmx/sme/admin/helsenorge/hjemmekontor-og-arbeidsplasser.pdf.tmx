@@ -1,0 +1,1128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">hjemmekontor-og-arbeidsplasser.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bakgrunn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duogáš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne veilederen gir råd om når hjemmekontor bør vurderes og brukes for å redusere smitte av covid-19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán bagadallis lea rávvagat dasa goas berre árvvoštallat geavahit ruovttukantuvrra ráddjen dihte covid-19 njoammuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Veilederen gir også råd om hvordan arbeidsplasser bør tilrettelegges for å redusere smitterisiko.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadallis leat maid rávvagat mo bargosajit berrejit láhččit unnidan dihte njoammuriskka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Veilederen er utarbeidet av Folkehelseinstituttet og utgitt av Helsedirektoratet, etter oppdrag fra Helse- og omsorgsdepartementet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea Álbmotdearvvašvuođainstituhtta mii lea ráhkadan bagadalli ja lea Dearvvašvuođadirektoráhtta mii dan almmuha, lea Dearvvašvuođa- ja fuolahusdepartemeanta mii lea addán bargogohččuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Veilederen er rettet mot virksomheter i offentlig og privat sektor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadalli lea čállojuvvon doaimmahagaide almmolaš ja priváhta surggiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Veilederen kommer i tillegg til gjeldende regelverk som er aktuelt for virksomhetene, herunder arbeidsmiljøloven, og øvrige retningslinjer og regler som gjelder for spesielle virksomheter i forbindelse med covid-19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadalli boahtá lassin daid gustovaš njuolggadusaide mat leat guoskevaččat fitnodahkii, nu mo bargobirasláhka, ja eará válddahusat ja njuolggadusat mat gusket erenoamáš doaimmaide covid-19 oktavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Veilederen tar utgangspunkt i smittesituasjonen i Norge per 15.05.2020.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadalli vuolggasadjin lea njoammudilálašvuohta Norggas nu mo lei 15.05.2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rådene i veilederen kan bli endret ved endringer i smittesituasjon eller dersom ny kunnskap tilkommer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagat bagadallis sáhttet rievdaduvvot go njoammudilálašvuohta rievdá dahje jus oažžut ođđa dieđuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er utarbeidet en egen veileder for virksomheter med en-til-en kontakt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea ráhkaduvvon bagadalli doaimmahagaide main lea oktavuohta guovtti olbmo gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om viruset, sykdommen og utbruddet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virusa, dávdda ja leavvama birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vises til for oppdatert og utfyllende informasjon om dette.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čujuhuvvo siidui https://www.fhi.no/nettpub/coronavirus, doppe leat ođasmahtton ja dievasmahtti dieđut dán birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjemmekontor som virkemiddel for å redusere smitte av covid-19</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvra doaibmabidjun eastadit covid-19 njoammuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjemmekontor er et viktig tiltak for å redusere kontakt mellom personer både på arbeidsplassen og på reisen til og fra ved bruk av offentlig transport.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvra lea dehálaš doaibmabidju geahpedit oktavuođa olbmuid gaskkas sihke bargosajis ja mátkis bargui ja barggus go geavaha almmolaš fievrru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av hjemmekontor er aktuelt som smitteforebyggende tiltak dersom:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvrra geavaheapmi lea guovdilis doaibmabidju eastadit njoammuma jus:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Smittespredningen i lokalsamfunnet eller på arbeidsplassen er høy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Leat alla njoammulogut báikegottis dahje bargosajis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Anbefalt avstand mellom personer på offentlige kommunikasjonsmidler brukt til reiser til og fra arbeidsplassen ikke kan opprettholdes.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Go ii sáhte bisuhit ávžžuhuvvon gaskka olbmuid gaskkas almmolaš fievrruin matgeavahuvvojit mátkkoštit ovdan ruoktut bargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Anbefalt avstand mellom personer på arbeidsplassen ikke kan opprettholdes.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Go barggus ii sáhte bisuhit ávžžuhuvvon gaskka olbmuid gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Andre smitteverntiltak gjør det nødvendig (for eksempel ved bruk av hjemmeskole).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Eará doaibmabijut eastadit njoammuma dagahit dan dárbbašlažžan (ovdamearkka dihte ruovttuskuvlla dihte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er nødvendig for å sikre kontinuitet for virksomheten i en situasjon med risiko for høyt fravær.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Lea dárbbašlaš sihkkarastit jotkkolašvuođa doaimmahagas dákkár dilis go lea alla riska jávkamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av hjemmekontor for å redusere smitte av covid-19 bør vurderes i henhold til sjekkliste Vurderingspunkter for bruk av hjemmekontor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođaeiseválddit ja doaimmahagat fertejit árvvoštallat ruovttukantuvrra geavaheami eastadan dihte covid-19 njoammuma. Geahča mildosa: Árvvoštallančuoggát ruovttukantuvrra geavaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Folkehelseinstituttet følger smittespredningen av covid-19 i Norge og gir råd om smitteverntiltak (fhi.no).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norggas lea Álbmotdearvvašvuođainstituhtta mii čuovvu covid-19 leavvama ja rávve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Helsedirektoratet og lokale helsemyndigheter kan gi anbefalinger om bruk av hjemmekontor som smitteverntiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođadirektoráhta ja báikkálaš dearvvašvuođaeiseválddit sáhttet ávžžuhit geavahit ruovttukantuvrra njoammueastadandoaibmabidjun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av hjemmekontor for å opprettholde avstand mellom personer på offentlige smitteverntiltak kommunikasjonsmidler er særlig aktuelt for arbeidsplasser der mange ansatte bruker slik transport for reiser til og fra arbeidsplassen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvrra geavaheapmi bisuhan dihte gaskka olbmuid gaskas almmolaš fievrruin lea erenoamáš guovdil bargosajiin gos ollu bargit geavahit dákkár fievrruid mátkkiide gaskal ruovttu ja bargosaji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder spesielt i og rundt større byer, eksempelvis Oslo-regionen, der presset på offentlig transport er stort og bruk av hjemmekontor anbefales for arbeidsplasser der det er mulig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát guoská erenoamážit stuorát gávpogiidda, ovdamearkka dihte Oslo-regiovdnii, gos almmolaš fievrruin lea garra deaddu ja ávžžohuvvo ahte bargosajit geavahit ruovttukantuvrraid go lea vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Helsemyndighetenes råd om bruk av hjemmekontor vil kunne variere avhengig av smittesituasjonen, både lokalt, regionalt og nasjonalt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođaeisseválddiid rávvagat geavahit ruovttukantuvrra sáhttet rievdadallat njoammudilálašvuođa ektui, sihke báikkálaččat, regionálalaččat ja našuvnnalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både arbeidsgivere og arbeidstakere må derfor være forberedt på at dette er råd som vil endre seg, og arbeidsplassen bør ha gode rutiner for å kunne håndtere en økende andel av arbeidsstokken som må benytte seg av hjemmekontor i kortere eller lenger perioder.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ja bargit fertejit danne leat ráhkkanan dasa ahte dá leat rávvagat mat rivdet, ja bargosajis berrejit leat buorit rutiinnat gieđahallat ahte stuorát oassi bargiin fertejit geavahit ruovttukantuvrra oanehat dahje guhkit áigodagaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virksomhetene bør vurdere om hjemmekontor skal brukes i tillegg til andre smitteforebyggende tiltak på arbeidsplassen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmahagat fertejit árvvoštallat galgá go ruovttukantuvra leat eará njoammueastadan doaimmaid lassin bargosajis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Se kapittelet Vurderingspunkter for bruk av hjemmekontor. Hjemmekontor er også aktuelt for personer med økt risiko for alvorlig forløp av covid-19, der annen tilrettelegging av arbeidet ikke er mulig eller aktuelt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča mildosiid: Árvvoštallančuoggát ruovttukantuvrra geavaheapmái Ruovttukantuvra lea maiddá guovdil olbmuide geain lea stuorát riska duođalaččat buohccát covid- geažil, go ii leat vejolaš dahje guovdil heivehit barggu eará láhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik vurdering bør gjøres individuelt, med utgangspunkt i Folkehelseinstituttets råd til personer i risikogrupper (fhi.no).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre dahkat dákkár árvvoštallamiid individuálalaččat, ja geavahit Álbmotdearvvašvuođainstituhta rávvagiid olbmuide riskajoavkkuin vuolggasadjin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjemmekontor bør bare benyttes der virksomheten kan opprettholde et kvalitetsmessig godt tilbud ved hjelp av digitale løsninger.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvra berre dušše dalle geavahuvvot go doaimmahat nagoda bisuhit kvaliteahtalaš buori fágalaš fálaldaga digitála čovdosiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I mange tjenester, som for eksempel de som omfatter psykisk helse, sårbare brukere, fremmedspråklige, barn og unge, er relasjonsbygging og trygging en viktig del av arbeidet og kan oftest ikke erstattes av digitale tjenester.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgga bálvalusas, nu mo ovdamearkka dihte dain main lea sáhka psykalaš dearvvašvuođas, hearkkes geavaheddjiin, vierisgielat mánáin ja nuorain, lea gaskavuođaid huksen ja nannen dehálaš oassi barggus, ja dávjjimusat dalle eai leat digitála bálvalusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er særlig viktig å vurdere om kvaliteten er likeverdig ved digitale løsninger, og om tjenesten er like tilgjengelig for alle og oppleves like god.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea erenoamáš dehálaš árvvoštallat leago digitála čovdosiin seamma buorre kvaliteahta, ja leago bálvalus seamma olámuttos ja addá go seamma buori vásáhusa digitála čovdosiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidstilsynet har egne verktøy for å gjennomføre risikovurdering på arbeidsplassen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargobearráigeahččus leat sierra reaiddut čađahit riskaárvvoštallamiid bargosajiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidstilsynet har også utarbeidet råd for og om tilbakeføring til arbeid for kontorarbeidsplasser og om arbeidsgivers ansvar ved pålagt hjemmekontor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargobearráigeahčču lea maiddá ráhkadan rávvagiid mo boahtit ruovttuluotta bargui kantuvrrabargosajiide ja bargoaddi ovddasvástádusa birra go lea bákkolaš ruovttukantuvra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Se også kapittelet Vurderingspunkter for bruk av hjemmekontor.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča maiddá mildosa Árvvoštallančuoggát ruovttukantuvrra geavaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Smitteforebyggende tiltak på arbeidsplasser</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njoammueastadandoaibmabijut bargosajiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det gjøres mange tiltak i alle deler av samfunnet som til sammen begrenser smittespredningen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dahkkojit ollu doaibmabijut juohke sajis servodagas mat oktiibuot ráddjejit njoammuma leavvamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å bruke tiltak som er tilpasset ulike situasjoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš geavahit doaibmabijuid mat leat heivehuvvon iešguđetge diliide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Formålet med rådene er å redusere risiko for smitte med covid-19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagiid ulbmil lea unnidit riskka ahte njoammuduvvo covid-19:in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De tre grunnpilarene for å bremse smittespredning er:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leat golbma váldocakki goazahit njoammuma leavvamis, ja dat leat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Syke personer skal holde seg hjemme. God hånd- og hostehygiene, og forsterket renhold. Kontaktreduserende tiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1. Olbmot geat leat buozas galget bissut ruovttus. 2. Buorre giehta- ja gossanbuhtisvuohta, ja nannet buhtisteami 3. Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det aller viktigste smitteverntiltaket er at syke personer holder seg hjemme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Deháleamos doaibmabidju eastadit njoammuma lea ahte olbmot geat leat buozas bissut ruovttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder uansett type sykdom, og selv med lette symptomer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat guoská vaikke makkár buozalmasvuođas lea sáhka, ja maiddá dalle go eai leat garra dávdamearkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hostehygiene og å holde avstand er avgjørende for å begrense dråpesmitte, mens håndhygiene, og spesielt det å unngå å ta seg i ansiktet med urene hender, er viktig for å hindre indirekte kontaktsmitte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gossanbuhtisvuohta ja doalahit gaskka lea mearrideaddji eastadan dihte goaikkanas-njoammuma, ja giehtabuhtisvuohta gis, ja erenoamážit garvit lihkaheamis ámadaju duolva gieđaiguin, lea dehálaš eastadan dihte eahpenjuolga oktavuohtanjoammuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forsterket renhold bør vurderes, spesielt for kontaktpunkter som berøres hyppig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre árvvoštallat nannet buhtisteami, erenoamážit dakko gokko olbmot guoskkahit dávjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Økt fysisk avstand mellom mennesker reduserer muligheten for smitte, også før symptomer på sykdom oppstår</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go fysalaččat bisuha guhkit gaskkaid olbmuid gaskkas, de unnida vejolašvuođa njoammut, maiddá ovdal dávdda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til tross for godt gjennomførte tiltak, kan likevel tilfeller av covid-19 og andre infeksjoner oppstå.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikke vel čađahage doaibmabijuid bures, sáhttet lihkká covid-19 ja eará infekšuvnnat bohciidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom smitteverntiltak som foreslått her er gjennomført, vil smittespredningen likevel bli begrenset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus čuovvu dáid njoammueastadandoaibmabijuid mat dás evttohuvvojit, goitge ráddje njoammuma leavvamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tiltakene i teksten nedenfor er en beskrivelse av smitteverntiltak som kan bidra til å redusere smitterisiko til et minimum.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut dás vuolábealde teavsttas leat čilgehus njoammueastadandoaibmabijuin mat sáhttet váikkuhit ahte unnida njoammunriskka minimála dássái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Syke personer skal holde seg hjemme</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olbmot geat leat buozas galget bissut ruovttus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at personer med selv milde luftveissymptomer ikke møter fysisk på jobb eller i andre sammenhenger der de møter andre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš ahte olbmot, vel geahppa vuoiŋŋahatvuolšedávdamearkkaiguin, eai boađe fysalaččat bargui dahje eará dilálašvuođaide gos deaivvadit earáiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Symptomer på covid-19 kan være milde og vanskelige å skille fra andre luftveisinfeksjoner.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Covid-19:s sáhttet leat hui geahppa dávdamearkkat ja sáhttá leat váttis daid earuhit eará</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De hyppigst beskrevne symptomer på covid-19 er i starten halsvondt, forkjølelse og lett hoste, i tillegg til sykdomsfølelse, hodepine og muskelsmerter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Covid-19 dávdamearkkat mat dávjjimusat namuhuvvojit leat ahte álggus lea čottabávččas, nuorvvu ja veahá gosahat, dasa lassin lea buozalmasvuođadovdu, oaivebávččas ja deahkkebákčasat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Magesmerter og diaré kan også forekomme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá maid šaddat čoavjebávččas ja luhčadávda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om lag 8 av 10 voksne personer har kun milde symptomer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sullii gávccis logi rávisolbmos leat dušše geahppa dávdamearkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hos barn er antagelig denne andelen enda høyere.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea jáhkkimis ahte lea stuorát oassi mánáin geain leat dušše geahppa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hos noen personer med covid-19 kan symptomene utvikle seg videre i løpet av noen dager til en uke til hoste, feber og kortpustethet, og noen får et alvorlig forløp med behov for behandling i sykehus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhttin olbmuin geain lea covid-19 sáhttet dávdamearkkat ovdánit moatti beaivvis vahkkui gosahahkan, feberin ja dasa ahte šaddá váttis vuoigŋat, ja soapmásiidda vearrána dávda nu ahte šaddá dárbu dikšojuvvot buohcceviessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alvorlig covid-19-sykdom er svært sjelden hos barn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea hui hárve ahte mánát buohccájit duođalaš covid-19 dávddain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved sannsynlig eller bekreftet covid-19 gjelder egne anbefalinger om isolasjon for den syke og karantene for nærkontakter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go navdojuvvo dahje duođaštuvvo covid-19 de gusket sierra ávžžuhusat isolašuvnna dáfus sutnje guhte lea buozas ja errema dáfus sidjiide geat leat leamaš su lahka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunehelsetjenesten har ansvar for oppfølging rundtkarantene for nærkontakter (fhi.no) covid-19-tilfeller og for å beslutte nødvendige tiltak.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea gielddadearvvašvuođabálvalusas mas lea ovddasvástádus čuovvolit covid-19-dáhpáhusaid ja váldit mearrádusaid dárbbašlaš doaibmabijuid ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommunehelsetjenesten definerer hvem som er nærkontakter til den syke og som derfor skal i karantene (smitteoppsporing), og om det er behov for informasjon til andre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gielddadearvvašvuođabálvalus definere geain leamaš lahka oktavuohta sutnje guhte lea buozas ja geat galget erremii (njoammuma guorahallan), ja leago dárbu juohkit dieđuid earáide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis det skulle bli behov for ytterligere tiltak er det kommunehelsetjenestens oppgave å vurdere og eventuelt gi pålegg om dette.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dárbu juohkit dieđuid earáide. Jus galggašii šaddat dárbu eanet doaibmabijuide lea gielddadearvvašvuođabálvalusa ovddasvástádus árvvoštallat ja vejolaččat daid gohččut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer som kan være fysisk til stede</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olbmot geat sáhttet leat báikkis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer som ikke har symptomer på sykdom.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Olbmot geain eai leat dávdda dávdamearkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ansatte, brukere og andre som har gjennomgått luftveisinfeksjon, så lenge de er symptomfrie.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargit, geavaheaddjit ja earát geain leamaš vuoiŋŋahatvuolši, nu guhká go leat leamaš dávdamearkkaid haga unnimusat jándora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved gjennomgått covid-19 gjelder egne råd for når isolasjon kan oppheves, angitt av helsetjenesten og.www.fhi.no.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go lea vásihan covid-19 gusket sierra rávvagat dasa goas sáhttá heaittihit isolašuvnna, daid mearridit dearvvasvuođabálvalus ja www.fhi.no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer som ikke kan være fysisk til stede</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olbmot geat eai sáhttet leat báikkis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer som har symptomer på luftveisinfeksjon, selv ved milde symptomer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Olbmot geain leat vuoiŋŋahatvuolšši dávdamearkkat, vaikke vel leat dušše geahppa dávdamearkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Personer som er i karantene og isolasjon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Olbmot geat leat erremis ja isolašuvnnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at tjenesten kommuniserer dette til ansatte, brukere og andre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš ahte bálvalus kommunisere dan bargiide, geavaheddjiide ja earáide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er gitt med grunnlag i unntaksbestemmelsen i egne råd for unntak fra karantene (fhi.no)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Leat boahtán sierra rávvagat spiehkastagaide erremis main vuođđun lea spiehkastatmearrádus covid-19-láhkaásahusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved oppstått sykdom mens personer er tilstede på arbeidsplassen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go muhttin buohccá go olbmot leat bargobáikkis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ansatte som blir syke mens de er tilstede må dra hjem så snart det er mulig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargit geat buohccájit dan botta go leat barggus fertejit mannat ruoktut nu johtilit go vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Syke personer som må hentes av andre, må vente på et eget rom eller ute der det ikke er andre.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>leat buozas ja geaid earát fertejit viežžat, fertejit vuordit sierra lanjas dahje olgun gos eai leat earát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Syke personer bør ikke ta offentlig transport.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olbmot geat leat buozas eai berre váldit almmolaš fievrruid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Syke personer bør dekke til munn og nese hvis de ikke kan holde to meters avstand til andre for å redusere smittespredning.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olbmot geat leat buozas berrejit gokčat njálmmi ja njuni jus eai sáhte doalahit guokte mehtera gaskka earáide, eastadan dihte njoammuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I etterkant rengjøres rom, toalett og andre områder der den syke har oppholdt seg.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋŋá galgá latnja, hivsset ja eará báikkit gos son guhte lea buozas lea leamaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vanlige rengjøringsmidler kan benyttes.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá geavahit dábálaš buhtistanávdnasiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis en i husstanden til en ansatt er syk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus muhttin bargi ruovttus lea buozas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis en i husstanden har symptomer på luftveisinfeksjon, men ikke bekreftet covid-19, kan den ansatte møte i tjenesten som normalt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus geas nu bargi ruovttus leat vuoiŋŋahatvuolšši dávdamearkkat, muhto ii leat duođaštuvvon covid 19, sáhttá bargi boahtit bargui nu mo dábálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den ansatte skal imidlertid dra hjem dersom vedkommende får symptomer på covid-19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargi galgá dattege mannat ruoktut jus son dovdagoahtá covid-19 dávdamearkkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis en i husstanden til en ansatt har bekreftet covid-19</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus geas nu bargi ruovttus lea duođaštuvvon covid-19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis en i husstanden har fått bekreftet covid-19, skal nærkontakter holdes i karantene etter råd fra helsemyndighetene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea duođaštuvvon ahte geas nu bargi ruovttus lea covid-19, galget lagasoktavuođat dollojuvvot erremis dearvvasvuođaeiseválddiid rávvagiid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>God hånd- og hostehygiene, og forsterket renhold.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre giehta- ja gossanbuhtisvuohta, ja nannet buhtisteami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gode hostevaner og god håndhygiene reduserer smitte ved alle luftveisinfeksjoner, også smitte med nytt koronavirus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorit gossandábit ja buorre giehtabuhtisvuohta eastada njoammuma buot vuoiŋŋahatvulššiid vuostá, maiddá ođđa koronavirusa vuostá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at arbeidsplassens ledelse sikrer at ansatte er kjent med tiltakene under og har fått tilstrekkelig opplæring.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš ahte bargosaji jođiheaddjit sihkkarastet ahte bargit dovdet doaibmabijuid mat leat dás vuolábealde ja ahte sidjiide lea addon doarvái oahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Informasjonsplakater bør henges opp på relevante steder som ved inngang, fellesrom, kjøkken og toaletter for å bevisstgjøre ansatte om smittevernråd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre heŋget diehtojuohkinplakáhtaid guovdilis báikkiide, nu mo olgouvssa lusa, oktasašlanjaide, gievkkanii ja hivssegii dahkan dihte bargiid dihtomielalažžan njoammueastadeamirávvagiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det anbefales håndvask med såpe og vann etter hosting/nysing, etter toalettbesøk, før tilberedning av mat, før og etter måltider, etter kontakt med dyr, og ellers ved synlig skitne hender.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ávžžuhuvvo bassat gieđaid sovppáin ja čáziin maŋŋá go lea gossan, fitnan hivssegis, ovdal kohkke borramuša, ovdal ja maŋŋá boradeami, maŋŋá go lea leamaš oktavuohta elliiguin, ja muđui go oaidná ahte gieđat leat duolvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alkoholbaserte desinfeksjonsmidler/håndsprit virker mot koronavirus og er et alternativ hvis ikke håndvaskmuligheter er tilgjengelig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Desifiserenávdnasat/giehtaspriita mas lea alkohola doibmet koronavirusa vuostá, ja lea molssaeaktu go ii leat vejolaš bassat gieđaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Merk at alkoholbasert desinfeksjon ikke er effektivt ved synlig skitne eller våte hender – da bør håndvask utføres først.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>https://lovdata.no/dokument/SF/forskrift/2020-03-27-470 mas lea alkohola ii leat beaktil go gieđat leat duolvasat dahje njuoskan – dalle berre vuos bassat gieđaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Håndvask eller hånd-desinfeksjon bør være tilgjengelig ved i fellesområder som inngangspartier, i kantiner og på matserveringssteder.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giehtabassan dahje giehtadesinfekšuvdna berre leat olámuttos oktasašlanjain nu mo olgouvssaid luhtte, boradanlanjain ja gos borramuš guossohuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Unngå å røre ved ansiktet eller øynene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Garvve lihkaheames ámadaju dahje čalmmiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det anbefales å ha tørkepapir/papirlommetørkle og mulighet for håndvask/ hånd-desinfeksjon lett tilgjengelig til bruk for ansatte som hoster eller nyser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ávžžuhuvvo ahte sihkkunbábir/bábernjunneliidni ja vejolašvuohta bassat gieđaid/desinfiseret gieđaid lea álkit olámuttos bargiide, vai sáhttet geavahit daid go gosset dahje gastet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Har man ikke det tilgjengelig, anbefales det å bruke albuekroken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus eai leat olámuttos, ávžžuhuvvo gastit/gossat giehtagávvii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Toaletter og vaskeservanter, håndtak og andre gjenstander som hyppig berøres, bør rengjøres ofte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hivssegat ja basadangárit, geavjjat ja eará dávvirat mat dávjá guoskkahuvvojit, berrejit bassot dávjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Etanolbasert desinfeksjon kan brukes på ellers rene flater (slik som håndtak, tastaturer, telefoner og lignende), ellers anbefales god rengjøring med vanlige rengjøringsmidler eller husholdningsklorin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá geavahit desinfekšuvnna mas lea etanol go bassá olggožiid mat muđui leat buhttásat (nu mo geavjjaid, boallobevddiid, telefovnnaid ja sullasaččaid), muđui ávžžuhuvvo bures buhtistit dábálaš bassanávdnasiiguin dahje kloriinnain viessobuhtisteapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Se også Folkehelseinstituttets råd om rengjøring og desinfeksjon (fhi.no)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča maiddá Álbmotdearvvašvuođainstituhta rávvagiid buhtisteami ja desinfekšuvnna birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det bør vurderes å bruke faste arbeidsplasser så langt det lar seg gjøre, og i tillegg ha godt renhold av arbeidsplassene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre árvvoštallat geavahit fásta bargansajiid nu guhkás go lea vejolaš, ja dasa lassin buhtistit bargansajiid bures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved deling av arbeidsplass bør arbeidsflaten rengjøres mellom hver bruker.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go bargit juogadit bargansaji berre buhtistit olggožiid juohke geavaheaddji gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontaktreduserende tiltak</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontaktreduserende tiltak på arbeidsstedet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas bargosajis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontaktreduserende tiltak for å hindre smittespredning er viktig i alle situasjoner og må opprettholdes i alle ledd i møter mellom ansatte, og mellom ansatte og kunder/brukere/klienter.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas eastadan dihte njoammuma leavvamis lea dehálaš buot dilálašvuođain ja ferte bisuhuvvot buot deaivvademiin, go bargit deaivvadit, go bargit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det bør holdes minst én meters avstand mellom personer gjennom hele arbeidsdagen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre doallat unnimus ovtta mehtera gaskka eará olbmuide olles bargobeaivvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder også kontorfellesskap.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat guoská maiddá dalle go lea oktasaš kantuvrasearvevuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virksomheten må vurdere hvor mange som kan være tilstede avhengig av arealet som er tilgjengelig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmahat ferte árvvoštallat man galles galget leat sajis, dan duohken man stuorra lanjat sis leat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Avstanden må holdes både på arbeidsstasjoner og i møter, ved innganger, heiser og lignende der det kan oppstå trengsel.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gaska ferte doalahuvvot sihke bargostašuvnnain ja čoahkkimiin, váldouvssa luhtte, heaissain ja sullasaččain gos sáhttá šaddat gárži.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For mange virksomheter kan en delvis hjemmekontorløsning, der ansatte har hjemmekontor en eller flere dager per uke, være et godt virkemiddel for å redusere antall personer som er på jobb samtidig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgga doaimmahahkii sáhttá čoavddus bealleáigge ruovttukantuvrrain, mas bargiin lea ruovttukantuvra ovtta dahje máŋga beaivvi vahkus, leat buorre doaibmabidjun geahpedan dihte man galles leat barggus oktanaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å redusere kontakt mellom personer som jobber/er tilstede samtidig, bør det legges til rette for fleksibel arbeidstid, og tilstrebe at de samme personene jobber/er tilstede i lag/på samme skift.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráddjen dihte fysalaš oktavuođa gaskal olbmuid geat barget/leat barggus oktanaga, berre láhčit máškidis bargoáigái, ja geahččalit bargat dan ala ahte leat dat seamma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tiltak for å opprettholde avstand mellom personer kan f.eks. være å ta bort stoler fra møterom og kantine/spiseplasser, bruke hver annen arbeidsplass i kontorlandskap der avstanden mellom personene er under en meter og på andre små kontorarbeidsplasser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas sáhttet leat omd. váldit eret stuoluid čoahkkinlanjain ja boradanlanjain, geavahit juohke nuppi bargansaji oktasaš kantuvrralanjas gos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av digitale møter bør vurderes som alternativ til fysiske møter, dersom det ikke er mulig å opprettholde god avstand før, under og etter møtet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Berre árvvoštallat geavahit digitála čoahkkimiid molssaeaktun fysalaš čoahkkimiidda jus ii leat vejolašvuohta doalahit buori gaskka ovdal, dan botta ja maŋŋá čoahkkima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For fysiske møter gjelder også og bestemmelser i covid-19-forskriften anbefaling om gruppestørrelse og bestemmelser i covid-19-forskriften om arrangementer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fysalaš čoahkkimiidda guoská maid ávžžuhus mii guoská joavkosturrodahkii ja mearrádusat covid-19-láhkaásahusas lágidemiid birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Transport til og fra arbeidsstedet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fievru ovdan ruoktut bargobáikái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den anbefalte avstanden på minst en meter bør holdes ved transport til og fra arbeidsstedet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ávžžuhuvvon gaska, unnimus okta mehter, berre doalahuvvot go čuovvu fievrruid ovdan ruoktut bargobáikái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av hjemmekontor og fleksibel arbeidstid er viktige tiltak for å redusere kontakthyppighet i befolkningen og bruk av offentlig transport til og fra arbeidsplassen, og er aktuelt når passasjerkapasiteten på offentlig transport er begrenset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvrra ja máškidis bargoáiggi geavaheapmi leat dehálaš doaibmabijut unnidan dihte fysalaš oktavuođa álbmogis ja geavaheami almmolaš fievrrideamis ovdan ruoktut bargobáikái, ja lea guovdil go almmolaš fievrrideami mielčuovvukapasitehta lea gáržžiduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med nødvendige smitteverntiltak, som at færre kan reise samtidig, vil kapasiteten på offentlig transport være begrenset, særlig i tilknytning til byer.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárbbašlaš njoammueastadandoaibmabijut, nu mo dat ahte unnánat sáhttet mátkkoštit oktanaga, dagaha ahte almmolaš fievrrideami kapasitehta lea gáržžiduvvon, erenoamážit lea dát čadnon gávpogiidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom det er vanskelig å holde anbefalt avstand på offentlig transport til jobb, bør virksomheten vurdere andre tiltak for å unngå at ansatte reiser med kollektivtransport.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea váttis doalahit ávžžuhuvvon gaskka almmolaš fievrrideamis bargui, berre doaimmahat árvvoštallat eará doaibmabijuid garvin dihte ahte bargit mátkkoštit kollektiivvajohtolagain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være gjennom tilrettelegging for bruk av annen reisemåte, slik som sykkel/elsykkel, eller tilgjengelighet av parkeringsplasser.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá leat dan bokte ahte láhčá vai bargit sáhttet mátkkoštit eará láhkai, nu mo sihkkeliin/elsihkkeliin, dahje ahte leat eanet parkerensajit olámuttos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kontinuitetsplanlegging</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kontinuitehtaplánen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjemmekontor kan også brukes som et virkemiddel i bedriftens kontinuitetsplanlegging.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvra sáhttá maiddá geavahuvvot doaibmabidjun fitnodaga kontinuitehtaplánemis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidsplasser må forberede seg på at medarbeidere kan bli langvarig borte fra jobb ved mistanke om sykdom eller bekreftet sykdom, eller at de blir satt i karantene i 10 dager etter nærkontakt med personer som er smittet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargosajit fertejit ráhkkanit dasa ahte mielbargit sáhttet jávkat guhkitáiggi jus balahuvvo ahte lea dávda dahje duođaštuvvo ahte lea dávda, dahje ahte biddjojuvvojit erremii 10 beaivái maŋŋá go sis leamaš lahka oktavuođa ovttain gii lea njoammuduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ved et bekreftet tilfelle hos en ansatt, kan flere ansatte bli definert som nærkontakter og måtte være i karantene.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ovtta bargis duođaštuvvo leat covid-19, sáhttet máŋga bargi definerejuvvot lagasoktavuohtan ja fertejit dalle erremii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virksomheter som er avhengig av kontinuitet i driften av kritiske funksjoner kan vurdere å bruke faste arbeidslag eller grupper med medarbeidere, for å unngå at alle medarbeidere innen funksjonen kan bli utsatt for smitte på samme tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmahagat mat leat sorjavaččat ahte kritihkalaš doaimmain lea kontinuitehta sáhttet árvvoštallat geavahit fásta bargojoavkkuid, garvin dihte ahte buot mielbargit geat gullet dán doibmii leat dilálašvuođas gos sáhttet njoammuduvvot oktanaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Se veileder i kontinuitetsplanlegging – Direktoratet for samfunnssikkerhet og beredskap (dsb.no)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadalli kontinuitehtaplánemii – servodatsihkarvuođa ja gearggusvuođa direktoráhta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vurderingspunkter for bruk av hjemmekontor Situasjonen nasjonalt /lokalt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvvoštallančuoggát ruovttukantuvrra geavaheapmái Dilálašvuohta našuvnnalaččat/báikkálaččat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nasjonalt og/eller lokalt smittepress Hvordan er smittesituasjonen nasjonalt Hvordan er smittesituasjonen lokalt (lokale og nasjonale helsemyndigheter)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Našuvnnalaš ja/dahje báikkálaš njoammudeatta. Mo lea njoammudilálašvuohta našuvnnalaččat - Mo lea njoammudilálašvuohta báikkálaččat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kollektivtrafikksituasjonen. Behov for kontaktreduserende tiltak i samfunnet for å unngå trengsel på offentlig sted og i kollektivtrafikken (lokale og nasjonale helsemyndigheter)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kollektiivajohtolaga dilálašvuohta. Doaibmabijut mat unnidit oktavuođa olbmuid gaskkas garvin dihte gárživuođa almmolaš báikkis ja kollektiivajohtolagas (báikkálaš ja našuvnnalaš dearvvašvuođaeiseválddit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kan arbeidet utføres med hjemmekontorløsning. Hjemmekontor bør bare benyttes der virksomheten kan opprettholde et kvalitetsmessig godt tilbud ved hjelp av digitale løsninger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargu sáhttá dahkkot ruovttukantuvrras. Ruovttukantuvra berre dušše dalle geavahuvvot go doaimmahat nagoda bisuhit kvaliteahtalaš buori fágalaš fálaldaga digitála čovdosiiguin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bruk av hjemmekontor bør vurderes for personer med økt risiko for alvorlig forløp av covid-19, dersom annen tilrettelegging av arbeidet ikke er mulig eller aktuelt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttukantuvra berre árvvoštallot olbmuide geain lea stuorát riska duođalaččat buohccát covid-19 geažil, jus ii leat vejolaš dahje guovdil heivehit  barggu eará láhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Møter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkimat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Digitale møter anbefales hvis arbeidets art tillater det Ved behov for fysiske møter må det sikres tilstrekkelige lokaler for å opprettholde avstand, samt følge gjeldende retningslinjer for gruppestørrelse og arrangementer</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitála čoahkkimat ávžžuhuvvojit jus leaš dakkár bargu ahte lea vejolaš - Go lea dárbu fysalaš čoahkkimiidda ferte sihkkarastit ahte leat doarvái stuorra lanjat bisuhan dihte gaskka, ja čuovvut gustovaš njuolggadusaid joavkosturrodagaid ja lágidemiid dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Virksomheter som er avhengig av kontinuitet i driften av kritiske funksjoner kan vurdere å bruke faste arbeidslag eller grupper med medarbeidere, for å unngå at alle medarbeidere innen funksjonen kan bli utsatt for smitte på samme tid.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmahagat mat leat sorjavaččat ahte kritihkalaš doaimmain lea kontinuitehta sáhttet árvvoštallat geavahit fásta bargojoavkkuid, garvin dihte ahte buot mielbargit geat gullet dán doibmii leat dilálašvuođas gos sáhttet njoammuduvvot oktanaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arbeidstakere kan deles i lag som alternerer med hjemmekontor og fysisk tilstedeværelse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargit sáhttet juhkkojuvvot joavkkuide mat lotnolassii barget ruovttukantuvrras ja leat fysalaččat bargosajis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For mange virksomheter kan en delvis hjemmekontorløsning, der ansatte har hjemmekontor en eller flere dager per uke, være et godt virkemiddel for å redusere antall personer som er på jobb samtidig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgga doaimmahahkii sáhttá čoavddus bealleáigge uovttukantuvrrain, mas bargiin lea ruovttukantuvra ovtta dahje máŋga beaivvi vahkus, leat buorre doaibmabidjun geahpedan dihte man galles leat barggus oktanaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aspekter til vurdering er:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Aspeavttat árvvoštallamii:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjemmearbeid forøvrig</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttubargu muđui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Oppgaver man må være på arbeidsstedet for å løse</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmat maid ii sáhte čoavdit go bargosajis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ergonomiske og sosiale hensyn, reisevei m.v.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ergonomalaš ja sosiála vuhtiiváldimat, mátkkoštangaska jna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sikre et minimum av fysisk tilknytning til arbeidssted</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sihkkarastit ahte lea minimála fysalaš čanastat bargosadjái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennomføring av møter/samtaler som egner seg dårlig for digital gjennomføring </seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čađahit čoahkkimiid/ságastallamiid maid ii leat buorre čađahit digitálalaččat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Digitale møter anbefales fremfor reiser hvis arbeidets art tillater det</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Digitála čoahkkimat ávžžuhuvvojit ovdal mátkkiid jus leaš dakkár bargu ahte lea vejolaš</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
