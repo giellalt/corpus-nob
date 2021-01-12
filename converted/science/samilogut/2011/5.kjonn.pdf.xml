@@ -1,86 +1,310 @@
-<document xml:lang="nob" id="no_id"><header><title>Kjønnsperspektiv i samisk statistikk</title><genre code="science"/><author><unknown/></author><wordcount>3912</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://samilogutmuitalit.no/sites/default/files/publications/kapittel5.likestilling.pdf</origFileName><parallel_text xml:lang="sme" location="5.sohkabeal.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">5   Kjønnsperspektiv i samisk  statistikk </em></p>
-<p>Kapitlet bygger på et utdrag av en del artikler publisert i <span type="quote">”Samiske tall forteller 1, 2, og 3”</span> som omhandler det samiske samfunnet.  Utdraget  er  hentet  fra  kapitler  som  er  skrevet  av:  Svanhild  Andersen,  Torunn  Pettersen, Magritt Brustad, Øyvind Rustad, Jon Todal og Yngve Johansen.</p>
-<p><em type="italic">Sammendrag På en rekke områder ser vi en skeiv kjønnsfordeling i STN-området. I disse områdene er det bare et  kvinneoverskudd i  årskategorien over  80 år.  Sannsynligheten for  å bli 75 år  for  15åringer i STN-området, basert på tall fra 2001 til 2005, er for samiske menn ca. 56 % og for kvinner  ca.  80  %.  I  STN-området  mottok  ca.  5  %  uføretrygd  i  2004–2008,  noen  flere  menn enn kvinner i perioden. I 2004 mottok 2,1 % av mennene og 1,2 % av kvinnene i STN-området sosialhjelp.  I  reindrift  og  jordbruk  er  80  %  av  mennene  enten  siidainnehavere  eller hovedbrukere, og 97 % har sitt hovedyrke i fiskeriene. Valgmanntallet hadde et lite, men klart mannsflertall ved alle sametingsvalgene som er blitt gjennomført, og ved valget i 2009 var det bare  valgkretsen  <span type="quote">”Sør-Norge”</span>  som  hadde  kvinneovervekt.  I  2009  var  det  et  merkbart kvinneflertall  i  aldersgruppen  18  og  29  år.  I  skoleåret  2010/11  var  det  nesten  10  %  flere jenter enn gutter som hadde samisk i grunnskolen, dette gjelder samisk som første og andre språk. På videregående skole var denne forskjellen økt til nesten 12 %. I STN-området har ca. 13 % flere kvinner enn menn utdanning med tre år eller mer på høgskole/universitet. Gutter i STN-området  har  et  større  frafall  enn  jentene  i  den  videregående  skole,  spesielt  gjelder  det yrkesfaglig studieretning, der nesten bare en firedel fullfører etter fem år. </em></p>
-<p><em type="bold">5.1  Innledning </em></p>
-<p>Dette kapitlet tar for seg noen av de kapitlene som er publisert i <span type="quote">”Samiske tall forteller 1, 2 og 3”</span>  og  i  tillegg  noen  nye  oppdateringer.  Hensikten  med  kapitlet  er  å  fokusere  på kjønnsforskjeller  innen  ulike  områder,  innenfor  mandatet  som  er  gitt  av  Sametinget  og  det daværende  Arbeids-  og  inkluderingsdepartementet.  Kapitlet  omhandler  disse  temaene:</p>
-<p><em type="italic">befolkningsutvikling</em>,  med  utdrag  fra  artikler  i  <span type="quote">”Samiske  tall  forteller  1”</span>  skrevet  av  Svanhild </p>
-<p>Andersen  og  Torunn  Pettersen  og  <span type="quote">”Samiske  tall  forteller  3”</span>  ved  Øivind  Rustad, <em type="italic">helse</em>,  med utdrag  fra  Magritt  Brustads  artikkel  i  <span type="quote">”Samiske  tall  forteller  2”</span>, <em type="italic">valgmanntallet</em>  med utgangspunkt  i  Torunn  Pettersens  artikkel  i  <span type="quote">”Samiske  tall  forteller  3”</span>, <em type="italic">uføretrygd  og </em></p>
-<p><em type="italic">sosialhjelp</em> av Magritt Brustad i <span type="quote">”Samiske tall forteller 2”</span>, valg av samisk språk i grunnskolen </p>
-<p>og  videregående  skole  ved  Jon  Todal  i  <span type="quote">”Samiske  tall  forteller  2  og  3”</span>,  og <em type="italic">utdanning</em>  ved Yngve Johansen i <span type="quote">”Samiske tall forteller 2 og 3”</span>. Kapitlet er redigert av Yngve Johansen og gjennomlest av de ulike forfatterne. </p>
-<p><em type="bold">5.2  Befolkningsutvikling i STN-området relatert til kjønn </em></p>
-<p><em type="italic">Sammendrag Folketallet i STN-området har sunket med 16 prosent de siste 20 årene. I STN-området er det flere menn i alderskategoriene fra 10 til 19 år til og med 70 til 79 år, men det er flere kvinner over 80 år. Mannsoverskuddet er størst i aldersgruppen 50–59 år. Nettoutflyttingen fra 2007 til 2009 var blant menn 450 og blant kvinner 560 i STN-området. </em></p>
-<p><em type="bold">5.2.1  Innledning </em></p>
-<p>Folketallet  i  STN-området  har  sunket  med  16  prosent  de  siste  20  årene.  I  hele  landet  økte folketallet  i  den  samme  perioden  med  15 prosent.  Særlig  i  Vest-Finnmark  er  denne utviklingen  tydelig,  mens  den  ikke  er  så  utpreget  i  Indre  Finnmark.  Utflyttingen  fra  STNområdet og den manglende tilbakeflyttingen er en hovedårsak til nedgangen. Dette fører igjen til færre fødte, fordi det er de yngre som flytter ut og stifter familie andre steder. I årene etter årtusenskiftet har det vært et fødselsunderskudd (det vil si at antall fødte er mindre enn antall døde)  i  stedet  for  et  fødselsoverskudd,  som  det  var  på  1990-tallet.  Utflytting  og fødselsunderskudd fører til en aldrende befolkning, hvor gjennomsnittsalderen stiger fordi det ikke fylles opp med mange nok i de yngre aldersgruppene.</p>
-<p><em type="bold">5.2.2  STN-områdets alderssammensetning relatert til kjønn  </em></p>
-<p><em type="bold">Figur 5.1  Folkemengde i STN-området, etter kjønn og alder, 2007 </em></p>
+<document xml:lang="nob" id="no_id"><header><title>Kjønnsperspektiv i samisk statistikk</title><genre code="science"/><author><unknown/></author><wordcount>5561</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://samilogutmuitalit.no/sites/default/files/publications/kapittel5.likestilling.pdf</origFileName><parallel_text xml:lang="sme" location="5.sohkabeal.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">5 Kjønnsperspektiv i samisk </em><em type="bold">statistikk </em></p>
+<p>Kapitlet bygger på et utdrag av en del artikler publisert i <span type="quote">”Samiske tall forteller 1, 2, og 3”</span> som omhandler det samiske samfunnet.</p>
+<p>Utdraget er hentet fra kapitler som er skrevet av: Svanhild Andersen, Torunn Pettersen, Magritt Brustad, Øyvind Rustad, Jon Todal og Yngve Johansen.</p>
+<p>Sammendrag</p>
+<p><em type="italic">På en rekke områder ser vi en skeiv kjønnsfordeling i STN-området. I disse områdene er det bare et kvinneoverskudd i årskategorien over 80 år. Sannsynligheten for å bli 75 år for 15-åringer i STN-området, basert på tall fra 2001 til 2005, er for samiske menn ca. 56 % og for kvinner ca. 80 %. I STN-området mottok ca. 5 % uføretrygd i 2004–2008, noen flere menn enn kvinner i perioden. I 2004 mottok 2,1 % av mennene og 1,2 % av kvinnene i STN-området sosialhjelp. I reindrift og jordbruk er 80 % av mennene enten siidainnehavere eller hovedbrukere, og 97 % har sitt hovedyrke i fiskeriene. Valgmanntallet hadde et lite, men klart mannsflertall ved alle sametingsvalgene som er blitt gjennomført, og ved valget i 2009 var det bare valgkretsen <span type="quote">”Sør-Norge”</span> som hadde kvinneovervekt. I 2009 var det et merkbart kvinneflertall i aldersgruppen 18 og 29 år. I skoleåret 2010/11 var det nesten 10 % flere jenter enn gutter som hadde samisk i grunnskolen, dette gjelder samisk som første og andre språk. På videregående skole var denne forskjellen økt til nesten 12 %. I STN-området har ca. 13 % flere kvinner enn menn utdanning med tre år eller mer på høgskole/universitet. Gutter i STN-området har et større frafall enn jentene i den videregående skole, spesielt gjelder det yrkesfaglig studieretning, der nesten bare en firedel fullfører etter fem år. </em><em type="bold">5.1 Innledning </em></p>
+<p>Dette kapitlet tar for seg noen av de kapitlene som er publisert i <span type="quote">”Samiske tall forteller 1, 2 og 3”</span> og i tillegg noen nye oppdateringer. Hensikten med kapitlet er å fokusere på kjønnsforskjeller innen ulike områder, innenfor mandatet som er gitt av Sametinget og det daværende Arbeids- og inkluderingsdepartementet. Kapitlet omhandler disse temaene: <em type="italic">befolkningsutvikling </em>, med utdrag fra artikler i <span type="quote">”Samiske tall forteller 1”</span> skrevet av Svanhild Andersen og Torunn Pettersen og <span type="quote">”Samiske tall forteller 3”</span> ved Øivind Rustad, <em type="italic">helse </em>, med utdrag fra Magritt Brustads artikkel i <span type="quote">”Samiske tall forteller 2”</span>, <em type="italic">valgmanntallet </em>med utgangspunkt i Torunn Pettersens artikkel i <span type="quote">”Samiske tall forteller 3”</span>, <em type="italic">uføretrygd og sosialhjelp </em>av Magritt Brustad i <span type="quote">”Samiske tall forteller 2”</span>, valg av samisk språk i grunnskolen og videregående skole ved Jon Todal i <span type="quote">”Samiske tall forteller 2 og 3”</span>, og <em type="italic">utdanning </em>ved Yngve Johansen i <span type="quote">”Samiske tall forteller 2 og 3”</span>. Kapitlet er redigert av Yngve Johansen og gjennomlest av de ulike forfatterne. <em type="bold">5.2 Befolkningsutvikling i STN-området relatert til kjønn </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">Folketallet i STN-området har sunket med 16 prosent de siste 20 årene. I STN-området er det flere menn i alderskategoriene fra 10 til 19 år til og med 70 til 79 år, men det er flere kvinner over 80 år. Mannsoverskuddet er størst i aldersgruppen 50–59 år. Nettoutflyttingen fra 2007 til 2009 var blant menn 450 og blant kvinner 560 i STN-området. </em><em type="bold">5.2.1 Innledning </em></p>
+<p>Folketallet i STN-området har sunket med 16 prosent de siste 20 årene. I hele landet økte folketallet i den samme perioden med 15 prosent. Særlig i Vest-Finnmark er denne utviklingen tydelig, mens den ikke er så utpreget i Indre Finnmark. Utflyttingen fra STNområdet og den manglende tilbakeflyttingen er en hovedårsak til nedgangen. Dette fører igjen til færre fødte, fordi det er de yngre som flytter ut og stifter familie andre steder. I årene etter årtusenskiftet har det vært et fødselsunderskudd (det vil si at antall fødte er mindre enn antall døde) i stedet for et fødselsoverskudd, som det var på 1990-tallet. Utflytting og fødselsunderskudd fører til en aldrende befolkning, hvor gjennomsnittsalderen stiger fordi det ikke fylles opp med mange nok i de yngre aldersgruppene. <em type="bold">5.2.2 STN-områdets alderssammensetning relatert til kjønn </em></p>
+<p><em type="bold">Figur 5.1 Folkemengde i STN-området, etter kjønn og alder, 2007 </em></p>
 <p>Kvinneandelen er lavere i STN-området enn landsgjennomsnittet, spesielt i aldersgruppen 20– 29 år, og STN-området har en lavere andel barn i alderen 0–9 år og en høyere andel personer over 50 år. I STN-området er det flere menn enn kvinner i alle årskategorier fra 10–19 år og til 70–79 år. Det er et kvinneoverskudd bare i årskategorien over 80 år. Mannsoverskuddet er størst i aldersgruppen 50–59 år.</p>
-<p>Tabell  5.1  viser kjønnsfordelingen av personer 16–67 år, en aldersgruppe som  er valgt  for å gjenspeile  den  <span type="quote">”voksne”</span>  befolkningen  i  områdene.  Fordi  kvinner  har  høyere  levealder  enn menn,  er  det  et  voksende  overskudd  av  kvinner  i  aldersgruppene  over  67  år.  I  de  yngste aldersgruppene er det et lite overskudd av menn fordi det fødes flere gutter enn jenter. Tabellen  viser  et  rangert  uttrekk  av  områdene.  I  STN-området  var  mellom  59  prosent  og 52 prosent  menn,  mens  det  i  det  øvrige  området  i  de  samme  kommunene  var  mellom 56 prosent  og  49  prosent  menn,  altså  en  noe  lavere  andel.  I  fem  av  de  øvrige  områdene  er andelen  menn  lavere  enn  i  alle  STN-områdene.  Forskjellen  var  særlig  stor  i  Måsøy,  med 59 prosent menn i STN-området mot 51 i det øvrige området i kommunen, og i Evenes, med</p>
-<p>56  prosent  i  STN-området  mot  49 prosent  i  det  øvrige.  I  disse  to  kommunene,  som  hadde størst andel menn i STN-området, var det samtidig slik at i de øvrige områdene var andelen menn blant de laveste. Lebesby kommune utgjør det eneste unntaket. Her var andelen menn i STN-området lavere enn i det øvrige området – 54 prosent mot 56 prosent.</p>
-<p><em type="bold">5.2.3  Utflytting fra STN-området  </em></p>
-<p>Fordelingen  mellom  kjønnene  varierer  noe  fra  til  år.  For  å  unngå  for  store  tilfeldige variasjoner  er  derfor  de  tre  siste  årene  slått  sammen.  I  årene  2007  til  2009  var  det  4 460 innenlandske  innflyttinger  til  STN-området  og  5 470  innenlandske  utflyttinger.  Dette resulterte i en netto innenlandsk utflytting på 1 010. Nettoutflyttingen blant menn var 450 og blant kvinner 560. Det var med andre ord en større netto utflytting av kvinner enn av menn. Særlig i 2009 var forskjellen mellom kjønnene tydelig  – 190 kvinner mot 120 menn. I 2007 var  kvinnenes  netto  </p>
-<p><em type="bold">5.3  Reindrift, jordbruk og fiske i STN-området relatert til kjønn </em></p>
-<p><em type="italic">Sammendrag I  STN-området  er  80 % menn av dem  som  er siida-innehavere i  reindrift  og hovedbrukere  i jordbruk. 97 % av dem som har sitt hovedyrke i fiskeriene, er menn. Det virker som dette har vært stabilt over de siste seks årene. </em> </p>
-<p><em type="bold">5.3.1  Innledning </em></p>
-<p>I  dette  kapitlet  presenteres  tall  som  viser  kjønnsforskjeller  innen  sentrale  primærnæringer  i samiske bosetningsområder; avgrenset til reindrift, jordbruk og fiske. Her presenteres også tall over noen tidsperioder i STN-området nord for Saltfjellet.</p>
-<p><em type="bold">5.3.2   Reindrift relatert til kjønn </em></p>
-<p>Andelen  kvinner  blant  siida-andelsinnehaverne  ser  ut  til  å  ha  gått  noe  ned  i  de  seinere  år.  I 2000  var  det  100  kvinner  blant  578  siida-andelsinnehavere  totalt,  det  vil  18  prosent.  I  2008</p>
-<p>var kvinneandelen 13 prosent (70 av i alt 553). Samme år var 24 % av reintallet oppført med kvinner  som  eiere.  Det  var  relativt  liten  forskjell  mellom  de  ulike  reinbeiteområdene:  VestFinnmark  hadde  størst  andel  av  reintallet  med  kvinner  som  eiere  –  27  prosent,  og  Nordland lavest med 19 prosent.  Kjønnsfordelingen blant det totale antallet personer i siida-andelene er jevnere enn blant siidaandelsinnehaverne. I  perioden  2005–2009  var  kjønnsfordelingen  52/48  prosent (menn/kvinner)  i  siida-andelene  samlet,  med  en  noe  ulik  fordeling  mellom  områdene: Finnmark: 52/48, Troms: 57/43, Nordland: 53/47, resten av landet: 48/52.</p>
-<p><em type="bold">5.3.3   Jordbruk relatert til kjønn og alder  </em></p>
-<p>Antall  gårdsbruk  i  STN-området  er  redusert  med  62  prosent.  De  fleste  i  kategorien hovedbrukere  er  menn  (81  prosent  i  1989  og  76  prosent  i  2007).  Andelen  kvinnelige hovedbrukere  økte  med  2  prosentpoeng  i  dette  tidsrommet,  mens  kategorien  <span type="quote">”upersonlig bruker”</span> (for eksempel kommune, fylkeskommune eller institusjon) økte med 3 prosent.  Gjennomsnittsalderen gikk noe ned både for menn og kvinner i ovennevnte tidsrom – fra 51,6 til 49,7 for menn og fra 54,3 til 48,6 for kvinner.</p>
-<p><em type="bold">5.4   Kjønnsforskjeller i helsestatistikken </em></p>
-<p><em type="bold">5.4.1   Innledning  </em></p>
-<p>I  dette  kapitlet  presenteres  og  kommenteres  data  fra  publiserte  arbeider  basert  på helseundersøkelser gjort blant samisk befolkning i Norge. Kapitlet fokuserer på helsestatistikk i  form  av  forekomst  av  sykdommer  og  sykdomsrisikofaktorer  i  befolkningen. Forskningsresultatene  er  presentert  slik  at  de  er  inndelt  både  i  forhold  til  kjønn  og  samisk etnisitetstilhørighet.</p>
-<p><em type="bold">5.4.2   Dødelighet </em></p>
-<p><em type="italic">Sammendrag Det er høyere forekomst av død på grunn av hjerneblødning hos samiske kvinner og død på grunn  av  ulykker  og  selvmord  hos  samiske  menn.  Kvinner  bosatt  i  de samiske  områdene  på innlandet  har  hatt  en  lav  og  over  tid  stabil  dødelighet.  Fortsatt  er  det  grunn  til  å  være observant på den høye dødeligheten blant unge menn i de samiske områdene. </em></p>
-<p><em type="italic">5.4.2.1   Innledning  </em></p>
-<p>Dødelighet  har  vært  brukt  som  mål  på  levekår  og  helsestatus  i  befolkningen.  Dødelighet  i befolkningen  kan  oppgis  på  ulike  vis.  Mest  brukt  er  antall  døde  per  1000  eller  100 000 innbyggere i ulike aldersgrupper.  I Norge lever kvinner fortsatt lenger enn menn, men forskjellen mellom kjønnene blir stadig mindre. Fra 2009 til 2010 økte forventet levealder ved fødselen med 0,1 år for kvinner og 0,3 år for menn, til henholdsvis 83,2 år og 78,9 år. I løpet av de siste 25 årene har den forventede levealderen  i  Norge  økt  med  nesten  seks  år  for  menn  og  vel  tre  år  for  kvinner.  Forskjellen mellom menns og kvinners levealder minket i denne perioden med vel 2,</p>
-<p><em type="italic">5.4.2.2   Dødelighetsrater i forhold til kjønn og bosted </em></p>
-<p>Sammenstilling av dødelighetsstatistikk i perioden 1970–1998 og etnisitetsrapportering fra folketellingen i 1970 har vist en litt høyere dødelighet for samiske menn (6 %) og for kvinner (10 %) enn for regional referansepopulasjon. Høyere dødelighet av hjerneblødning spesielt hos kvinner kan forklare noe av denne forskjellen. Menn hadde en høyere forekomst av såkalt voldsom død, spesielt ulykker og selvmord.</p>
-<p>Figur 5.2  viser henholdsvis  for kvinner og menn beregnet  sannsynlighet  for å bli 75 for 15åringer,  basert  på  dødelighetsmønsteret  i  de  ulike  tidsperiodene.  Figurene  skiller  på befolkningen  som  bor  innenfor  og  utenfor  det  geografiske  området  for  Sametingets tilskuddsordning for næringsutvikling (STN) samt kyst og innland.  Av  disse  figurene  fremgår  det  også  at  det  for  kvinner  ikke  har  vært  store  ulikheter  mellom geografiske områder eller i forhold til tid. For menn ser det imidlertid ut til at det har vært en økning i forventet levealder i løpet av perioden, noe som kan forklares av nedgang i hjerte- og kardødelighet, som har rammet menn i større grad enn kvinner. Videre ser det ut til at menn i STN-områdene  har  hatt  en  noe  høyere  dødelighet  enn  nasjonale  tall.  Dette  kan  muligens forklares av høy dødelighet av såkalt <span type="quote">”voldsom død”</span> i STN-områdene. Generelt kan man si at de tall som finnes på dødelighet i den samiske versus den ikke-samiske del av befolkingen, viser små forskjeller i dødelighet. Det kan tyde på at dødelighetsmønsteret har  blitt  utjevnet  mellom  geografiske  områder  med  lav  versus  høy  tetthet  av  samisk befolkning.  Dette  har  vært  forklart  ut  fra  tilnærmet  like  levekår,  utdannelse  og  helsetilbud, noe som står i kontrast til situasjonen for andre urfolksgrupper i sirkumpolare områder.</p>
-<p><em type="bold">5.4.3   Røyking </em></p>
-<p><em type="italic">Sammendrag For menn har studier vist en noe høyere røykeforekomst blant samer på innlandet enn blant ikke-samer. Tilsvarende er ikke funnet for kvinner.  </em></p>
-<p><em type="italic">5.4.3.1   Innledning </em></p>
-<p>Røyking  øker  risikoen  for  en  lang  rekke  sykdommer  som  lungekreft,  hjerte-  og karsykdommer  og  kroniske  lungelidelser.  Statistisk  sentralbyrå  (SSB)  gjennomfører  årlig undersøkelser  om  tobakksbruk.  I  1973  røykte  over  halvparten  av  den  mannlige  voksne befolkningen, mens andelen i 2006 var om lag 21 %. Andelen dagligrøykere blant kvinner har også sunket fra 32 % i 1973 til 22 % i 2006. 19  prosent  i  aldersgruppen  16–74  år  svarte  at  de  røykte  daglig  i  2010.  Andelen  var  lik  for kvinner og menn. Endringen siste år føyer seg inn i et mønster vi har sett over lengre tid, med jevn  nedgang  i  andel  dagligrøykere.  Menns  og  kvinners  røykevaner  var  ulike  frem  mot årtusenskiftet,  men  har  deretter  hatt  en  felles  fallende  kurve.  Om  lag  en  tredel  av  kvinnene røykte  daglig  i  de  siste  tiårene  før  år  2000.  Blant  mennene  har  det  derimot  vært  en nedadgående  trend  gjennom  hele  perioden  siden  1973,  da  over  halvparten  røykte  daglig. Tidligere  befolkningsundersøkelser  har  påvist  høyest  forekomst  av  daglige  røykere  i Finnmark sammenlignet med andre fylker i Norge. Tall for perioden 2004–2008 viser at det er store  forskjeller  mellom  fylkene  når  det  gjelder  røyking.  Lavest  andel  som  røyker  daglig, finner  man  i  Oslo  med  19  prosent,  høyest  i  Finnmark  med  32  prosent,  ifølge  Statistisk sentralbyrå.</p>
-<p><em type="bold">5.4.4   Alkohol </em></p>
-<p><em type="italic">Sammendrag Både  samiske  menn  og  kvinner  har  rapportert  en  høyere  andel  totalavhold  i  forhold  til alkohol  enn  ikke-samisk  befolkning.  Spesielt  er  dette  mønsteret  tydelig  for  eldre  samiske kvinner.  </em></p>
-<p><em type="italic">5.4.4.1   Innledning </em></p>
-<p>Alkohol er det mest utbredte rusmiddelet i befolkningen og sannsynligvis det rusmiddelet som medfører det største misbruksproblemet. I tillegg er det økt risiko for uhell, skader og ulykker forbundet med inntak av alkohol. Det samlede alkoholforbruket i Norge har økt siden 1990, fra 4,55 liter pr. innbygger i 1993 til 6,37 liter i 2005. Det er øl og vin som har økt mest i løpet av de siste 20 årene. Økningen i vinomsetningen knyttes til et såkalt <span type="quote">”kontinentalt”</span> drikkemønster, der man drikker ofte, men med  mindre  kvanta  konsumert  ved  hver  drikkesituasjon.  Disse  vanene  har  ikke  erstattet  det nordiske drikkemønsteret med helgefyll og beruselse, men kommer i tillegg.</p>
-<p><em type="italic">5.4.4.2   Bruk av alkohol relatert til kjønn og etnisitet </em></p>
-<p>Basert  på  tall  fra  SAMINOR-undersøkelsen*  har  det  vært  vist  etniske  forskjeller  i alkoholkonsum. Figurene viser at andelen som svarte at de var <span type="quote">”totalavholdende i forhold til alkohol”</span> eller <span type="quote">”ikke drukket i løpet av det siste året”</span>, var en del høyre hos både samiske menn og kvinner. Andelen som rapporterte at de drakk mer enn to ganger i uka, var noe lavere hos samer med tre generasjoner samisk språk enn hos de andre gruppene. Mønsteret av et lavere alkoholinntak var mer markant hos samiske kvinner enn menn.<em type="bold">  </em>*Helse- og levekårsundersøkelsen i områder med blandet samisk og norsk bosetning som ble gjennomført  i  2003–2004.  Undersøkelsen  ble  gjort  ved  Senter  for  samisk  helseforskning, Universitetet i Tromsø, i samarbeid med Nasjonalt Folkehelseinstitutt.  </p>
-<p><em type="bold">5.4.5   Legemiddelbruk </em></p>
-<p><em type="italic">Sammendrag Bruken av sovemiddel i den samiske befolkningen tilsvarer halvparten av bruken i den norske befolkningen, og samiske menn har 13 % lavere inntak av sovemidler enn samiske kvinner. </em></p>
-<p><em type="italic">5.4.5.1   Innledning </em></p>
-<p>Bruk  av  legemidler  i  en  befolkning  vil  til  en  viss  grad  være  en  indikator  på sykdomsforekomst.  Undersøkelser  har  også  vist  at  bruk  av  legemidler  kan  være  forklart  av ulike livsstilsfaktorer og bruk av legetjenester.</p>
-<p><em type="italic">5.4.5.2   Søvnproblemer  og  bruk  av  sovemedisin  relatert  til  kjønn  og  etnisitet </em>Ifølge  undersøkelser  gjort  av  Nasjonalt  Folkehelseinstitutt  har  man  funnet  at  bruk  av sovemidler  er  relativt  vanlig  i  Norge.  Det  finnes  kun  en  studie  som  er  gjort  på  bruk  av sovemidler  i  forhold  til  samisk  etnisitet.  Denne  studien  er  basert  på  data  fra  SAMINOR, helse- og levekårsundersøkelsen i områder med blandet samisk og norsk bosetning.  Andelen personer som rapporterte om søvnproblemer, var lavere i den samiske befolkningen enn i  den ikke-samiske.  Bruk av sovemidler i  den samiske befolkningen tilsvarte halvparten av  bruken  i  den  norske.  Aller  lavest  forbruk  ble  funnet  hos  dem  med  sterkest  samisk tilhørighet som var bosatt i Finnmark. Uavhengig av etnisk tilhørighet brukte kvinner dobbelt så mye sovemidler som menn. Studien konkluderer  med  at  jo  sterkere  samisk  tilhørighet,  jo  lavere  forbruk  av  sovemidler. Forekomsten  av  søvnproblemer  syntes  generelt  også  å  være  lavere  i  den  samiske befolkningen. </p>
-<p><em type="bold">5.5  Uføretrygd og sosialhjelp i forhold til kjønn og alder </em></p>
-<p><em type="italic">Sammendrag I  perioden  2004–2008  mottok  vel  5  %  av  befolkningen  i  STN-området  mellom  20  og  66  år uføretrygd,  noen  flere  menn  enn  kvinner.  I  2004  var  det  2,1  %  av  mennene  og  1,2  %  av kvinnene som mottok sosialhjelp i STN-områdene.  </em></p>
-<p><em type="bold">5.5.1   Innledning  </em></p>
-<p>Norge har hatt en økning i andelen personer som mottar uførepensjon. Ved utgangen av 2008 var  det  om  lag  340 000  personer  som  mottok  uføretrygd  i  Norge.  De</p>
-<p><em type="bold">5.5.2  Uførhet i forhold til kjønn og alder </em></p>
-<p>Uførepensjon  er  en  lovfestet  trygdeordning  i  Norge.  Hensikten  med  uførepensjon  er  å  sikre inntekt  til  livsopphold  for  personer  som  har  fått  inntektsevnen  varig  nedsatt  på  grunn  av sykdom, skade eller lyte (Nav, 2010).</p>
-<p>Tabell 5.8 viser nye mottakere av uføretrygd i femårsintervaller fra 1994 til og med 2008. For kvinner, spesielt for den eldste aldersgruppen, ser det ut som om områdene utenfor STN har hatt en noe større andel nye tilfeller av uføre, men denne forskjellen ser ut til å jevne seg ut i siste tidsintervall. For menn i STN-områdene er tallene høyere enn i områdene utenfor STN i alle aldersgruppene i hele perioden. I aldersgruppene 45 år og yngre har det vært en tilnærmet halvering av nye mottakere av uføretrygd i det siste tidsintervallet (2004–2008) sammenliknet med de to forutgående femårsintervallene. I aldersgruppen 46–66 år er det også en nedgang i løpet av tidsperioden, men ikke så markant.</p>
-<p><em type="bold">5.5.3   Uførhet i forhold til kjønn og alder </em></p>
-<p>Sosialhjelp er en lovfestet ordning som skal sikre at alle har nok midler til livsopphold. Dette er  ment  å  være  en  midlertidig  hjelp  og  skal  bidra  til  å  gjøre  mottakeren  økonomisk selvhjulpen (Nav, 2010).</p>
-<p>Tabell 5.10 viser at andelen nye mottakere av sosialhjelp er betydelig høyere i aldersgruppen under 30 år og lavest  i  den eldste aldersgruppen. Både  for kvinner og menn har det  vært en gradvis nedgang i andelen nye mottakere av sosialhjelp i løpet av de tre tidsintervallene som er  framstilt  i  tabellene.  Dette  kan  antakelig  delvis  forklares  av  nedgang  i  arbeidsledighet  i løpet av samme periode.</p>
-<p><em type="bold">5.6  Kjønnsfordeling i Sametingets valgmanntall </em></p>
-<p><em type="italic">Sammendrag Valgmanntallet  som  helhet  har  hatt  et  lite,  men  stabilt  mannsflertall  ved  alle sametingsvalgene  som  er  gjennomført.  Ved  valget  i  2009  hadde  imidlertid  valgkretsen  SørNorge et knapt kvinneflertall. Ved dette valget var det også et flertall innmeldte kvinner blant de yngste fra 18 til 29 år.  </em></p>
-<p><em type="bold">5.6.1   Innledning </em></p>
-<p>Sametinget  i  Norge  er  et  representativt  politisk  organ,  valgt  av  og  blant  samer.  Dets arbeidsområde  er  alle  saker  som  etter  tingets  oppfatning  særlig  berører  den  samiske folkegruppen. Valgbare og stemmeberettigede er de samer som har valgt å melde seg inn i et særskilt valgmanntall som er opprettet for dette formål – <em type="italic">Sametingets valgmanntall</em>. Kriterier for innmelding i Sametingets valgmanntall er i henhold til samelovens § 2-6 at man avgir  erklæring  om  at  man  oppfatter  seg  selv  som  same,  samt  at  man  selv  eller  minst  én forelder,  besteforelder  eller  oldeforelder  bruker  /  har  brukt  samisk  som  hjemmespråk (sameloven, 1987). Sametinget i Norge ble etablert i 1989. Siden da har det vært avholdt seks valg. Valg til Sametinget foregår samtidig med valg til Stortinget, og valgårene har vært 1989, 1993, 1997, 2001, 2005 og 2009. </p>
-<p><em type="bold">5.6.2  Kjønnsfordeling totalt og kretsvis </em></p>
-<p>Sikre tall for de tre første valgene mangler, men ved de tre siste valgene hadde valgmanntallet et lite, men stabilt mannsflertall: <em type="bold">5.7  Valg av samisk språk i grunnskolen og videregående skole, relatert til kjønn </em></p>
-<p><em type="italic">Sammendrag I  skoleåret  2010/11  var  det  nesten  10  %  flere  jenter  enn  gutter  med  samisk  i  grunnskolen, dette gjelder samisk som  1. og 2. språk. På  videregående skole var denne forskjellen økt til nesten 12 %. </em></p>
-<p><em type="bold">5.7.1  Innledning </em></p>
-<p>Fra  innføringen  av  andrespråk  2  og  3  i  2006  har  antall  elever  i  grunnskolen  med  samisk  i fagkretsen gått ned fra 2672 til 2245 i skoleåret 2010/11. Nedgangen på de siste fire årene har vært på hele 16 %. Se også kapittel 2, S<span type="quote">”Samiske tall forteller”</span>.</p>
-<p><em type="bold">5.7.2  Samisk språk i grunnskolen i forhold til kjønn og nivå </em>I  grunnskolen  var  det  i  skoleåret  2010/11  nær  10  prosentpoeng  flere  jenter  enn  gutter  som hadde  samisk  i  fagkretsen.  Denne  forskjellen  har  økt  sammenliknet  med  skoleåret  2006/07. Det  er  noen  flere  gutter  enn  jenter  som  velger  samisk  som  1.  språk,  men  langt  flere  jenter velger samisk som andrespråk 2 og 3.  </p>
-<p><em type="bold">5.8   Utdanning blant kvinner og menn i STN-området </em></p>
-<p><em type="italic">Sammendrag I STN-området har ca. 13 % flere kvinner enn menn tre år eller mer på høgskole/universitet. Gutter  i  STN-området  har  et  større  frafall  enn  jentene  i  den  videregående  skole,  spesielt gjelder det yrkesfaglig studieretning, der nesten bare en firedel del av guttene fullfører innen fem år.  </em></p>
-<p><em type="bold">5.8.1  Innledning </em></p>
-<p>Kapitlet  tar  for  seg  kjønnsforskjeller  i  STN-området  i  forhold  til  gjennomføring  av videregående opplæring, utdanningsnivå og nåværende utdanningsnivå for elevene som startet på grunnkurs i årene 1994 til 1996.</p>
-<p><em type="bold">5.8.1  Gjennomføring  av  videregående  utdanning  etter  valg  av studieretning  </em></p>
-<p>Blant guttene fra STN-området som begynte på videregående skole i 2003, avbrøt hele 55 % på yrkesfaglig studieretning og 20 % av guttene på allmennfaglig studieretning sin utdanning innen fem år. Av de guttene fra STN-området som startet på videregående skole i 2003, sluttet over 40 % underveis i skolegangen. Blant jentene sluttet ca. 20 % underveis.  På  yrkesfaglig  studieretning  er  det  litt  over  en  firedel  av  guttene  og  nesten  halvparten  av jentene som ble ferdige innen fem år. Tallene for allmennfaglig studieretning er henholdsvis 78 prosent for jenter og 70 prosent for gutter som fullfører innen fem år.</p>
-<p><em type="bold">5.8.2  Utdanningsnivå </em></p>
-<p>Blant kvinner i yrkesaktiv alder (24 til 65 år) som bor i STN-områder med spredt bosetning, er  andelen  med  universitets-  og  høgskoleutdanning  relativt  høy.  Totalt  ligger  den  to prosentpoeng  over  landsgjennomsnittet.  I  tettsteder  ligger  kvinnenes  tilsvarende  andel  noe lavere enn landsgjennomsnittet. Mennene i  STN-området  har et  klart  lavere utdanningsnivå enn befolkningen  ellers i  landet. Andelen  som  har  fullført  universitets-  og  høgskole,  og  som  bor  i  tettsteder,  er  hele  10 prosentpoeng lavere enn snittet for befolkningen ellers. I spredtbygde områder er forskjellen mindre, om lag 2 prosentpoeng.</p>
-<p><em type="bold">6.8.3   Nåværende  utdanningsnivå  i  STN-området  for  de  elevene som startet på grunnkurs i årene 1994 til 1996 </em></p>
-<p>I  STN-området  var  det  54  %  av  elevene  som  startet  på  videregående  opplæring  i  perioden 1994–1996,  som  fullførte  innen  fem  år.  Av  mennene  var  det  45,5 %  som  gjennomførte videregående opplæring innen fem år, og av kvinnene 62,5 %. <em type="bold"> </em></p>
-<p>Figuren viser at  hvorvidt  man  gjennomfører videregående skole innen fem  år eller ikke, har meget  stor  innvirkning  på  utdanningsnivået  senere.  Over  60  %  av  dem  som  ikke  fullfører innen  fem  år,  har  ingen  fagutdanning  når  de  er  30  år.  Nesten  50  %  av  dem  som  fullfører videregående  skole  innen  fem  år,  tar  utdanning  på  universitets-  og  høgskolenivå,  mens  bare 10 % av dem som ikke fullfører videregående skole innen fem  år, gjør det samme. For dem som har fullført videregående skole innen fem år, har ca. 12 % både av menn og kvinner tatt universitets-/høgskoleutdanning på fem år eller mer. Men når det gjelder kortere universitets/høgkoleutdanning, er det ca. 16 % flere kvinner enn menn som har tatt en slik utdanning. For dem som ikke fullførte videregående utdanning innen fem år, har ca. 8 % poeng flere kvinner enn menn tatt kortere universitets-/høgskoleutd</p>
+<p><em type="bold">Tabell 5.1 </em></p>
+<p><em type="bold">Områdene med størst andel menn i alderen 16–67 år. 2010 </em></p>
+<p>Størst andel menn STN</p>
+<p>Størst andel menn forøvrig (Norge = 51,0 prosent) (Norge = 51,0 prosent) (STN = 53,6 prosent) forøvrig = 51,8 prosent)</p>
+<p>Uttrekk av STN-områdene</p>
+<p>Uttrekk av kommuner utenom STN-området nord for Saltfjellet 1</p>
+<p>Måsøy 59,3 1</p>
+<p>Hasvik 55,8 2</p>
+<p>Tromsø 58,6 2</p>
+<p>Moskenes 54,8 3</p>
+<p>Evenes 56,3 3</p>
+<p>Karlsøy 54,2 4</p>
+<p>Loppa 55,6 4</p>
+<p>Berg 54,1 5</p>
+<p>Nordkapp 55,3 5</p>
+<p>Vardø 53,9 5</p>
+<p>Alta 55,3 6</p>
+<p>Ibestad 53,5 7</p>
+<p>Gratangen 54,8 6</p>
+<p>Målselv 53,5 8</p>
+<p>Tysfjord 54,7 8</p>
+<p>Beiarn 53,2 9</p>
+<p>Gáivuotna/Kåfjord 54,2 8</p>
+<p>Sørfold 53,2 10</p>
+<p>Kvænangen 54,1 10</p>
+<p>Balsfjord 53,1 10</p>
+<p>Narvik 54,1 11</p>
+<p>Røst 52,9 12</p>
+<p>Meløy 52,8</p>
+<p>Andre områder innen STNkommunene 13</p>
+<p>Torsken 52,6 14</p>
+<p>Bardu 52,5 1</p>
+<p>Lebesby 55,6 15</p>
+<p>Steigen 52,4 2</p>
+<p>Nordkapp 53,3 16</p>
+<p>Salangen 52,2 3</p>
+<p>Hamarøy 52,5 16</p>
+<p>Ballangen 52,2 4</p>
+<p>Narvik 51,5 18</p>
+<p>Tranøy 52,0 5</p>
+<p>Måsøy 51,2 18</p>
+<p>Dyrøy 52,0 6</p>
+<p>Sørreisa 50,8 7</p>
+<p>Sør-Varanger 50,2 8</p>
+<p>Evenes 49,0</p>
+<p>Tabell 5.1 viser kjønnsfordelingen av personer 16–67 år, en aldersgruppe som er valgt for å gjenspeile den <span type="quote">”voksne”</span> befolkningen i områdene. Fordi kvinner har høyere levealder enn menn, er det et voksende overskudd av kvinner i aldersgruppene over 67 år. I de yngste aldersgruppene er det et lite overskudd av menn fordi det fødes flere gutter enn jenter.</p>
+<p>Tabellen viser et rangert uttrekk av områdene. I STN-området var mellom 59 prosent og 52 prosent menn, mens det i det øvrige området i de samme kommunene var mellom 56 prosent og 49 prosent menn, altså en noe lavere andel. I fem av de øvrige områdene er andelen menn lavere enn i alle STN-områdene. Forskjellen var særlig stor i Måsøy, med 59 prosent menn i STN-området mot 51 i det øvrige området i kommunen, og i Evenes, med 56 prosent i STN-området mot 49 prosent i det øvrige. I disse to kommunene, som hadde størst andel menn i STN-området, var det samtidig slik at i de øvrige områdene var andelen menn blant de laveste. Lebesby kommune utgjør det eneste unntaket. Her var andelen menn i STN-området lavere enn i det øvrige området – 54 prosent mot 56 prosent. <em type="bold">5.2.3 Utflytting fra STN-området </em></p>
+<p><em type="bold">Tabell 5.2 </em></p>
+<p><em type="bold">Nettoutflytting fra STN-området i perioden 2007 til 2009, fordelt på kjønn </em></p>
+<p>Menn</p>
+<p>Kvinner 2007 130 190 2008 200 180 2009 120 190</p>
+<p>Totalt 2007–2009 450 560</p>
+<p>Fordelingen mellom kjønnene varierer noe fra til år. For å unngå for store tilfeldige variasjoner er derfor de tre siste årene slått sammen. I årene 2007 til 2009 var det 4 460 innenlandske innflyttinger til STN-området og 5 470 innenlandske utflyttinger. Dette resulterte i en netto innenlandsk utflytting på 1 010. Nettoutflyttingen blant menn var 450 og blant kvinner 560. Det var med andre ord en større netto utflytting av kvinner enn av menn. Særlig i 2009 var forskjellen mellom kjønnene tydelig – 190 kvinner mot 120 menn. I 2007 var kvinnenes netto utflytting også 190, mot mennenes 140. Året 2008 utgjorde unntaket. Mennenes netto utflytting var da 200 og kvinnenes 180. Statsborgerskap er ikke skilt ut i oversiktene, men utenlandske statsborgere hadde tilnærmet balanse i forholdet mellom inn- og utflytting. De hadde en nettoutflytting på 70, mens norske statsborgere hadde en nettoutflytting på 940 av de i alt 1 010. Særlig i Øst-Finnmark, Vest-Finnmark og Nordre Nordland har nettoutflyttingen av kvinner i perioden vært større enn av menn. <em type="bold">5.3 Reindrift, jordbruk og fiske i STN-området relatert til </em><em type="bold">kjønn </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">I STN-området er 80 % menn av dem som er siida-innehavere i reindrift og hovedbrukere i jordbruk. 97 % av dem som har sitt hovedyrke i fiskeriene, er menn. Det virker som dette har vært stabilt over de siste seks årene. </em><em type="bold">5.3.1 Innledning </em></p>
+<p>I dette kapitlet presenteres tall som viser kjønnsforskjeller innen sentrale primærnæringer i samiske bosetningsområder; avgrenset til reindrift, jordbruk og fiske. Her presenteres også tall over noen tidsperioder i STN-området nord for Saltfjellet. <em type="bold">5.3.2 Reindrift relatert til kjønn </em></p>
+<p><em type="bold">Tabell 5.3 </em></p>
+<p><em type="bold">Siida-innehavere* i Norge, fordelt på kjønn og prosent i 2000 og 2008 </em></p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Totalt</p>
+<p>N %</p>
+<p>N %</p>
+<p>N 2000 478 82 100 18 578 2005 511 84 98 16 609 2007 468 85 82 15 550 2008 483 87 70 13 553 2009 312 81 71 19 383 *Siida består av flere <em type="italic">siida-andeler </em>, som defineres som <span type="quote">”en familiegruppe eller enkeltperson som er en del av en siida, og som driver reindrift under ledelse av en person eller av ektefeller eller samboere i fellesskap”</span> (reindriftsloven 2007). <em type="bold">Tabell 5.4 </em></p>
+<p><em type="bold">Personer tilknyttet reindrift, etter kjønn og prosent </em></p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Totalt</p>
+<p>N %</p>
+<p>N %</p>
+<p>N 2005 1 512 51,9 1 402 48,1 2 914 2007 1 463 52 1 352 48 2 815 2009 1 563 51,9 1 449 48,1 3 012</p>
+<p>Andelen kvinner blant siida-andelsinnehaverne ser ut til å ha gått noe ned i de seinere år. I 2000 var det 100 kvinner blant 578 siida-andelsinnehavere totalt, det vil 18 prosent. I 2008 var kvinneandelen 13 prosent (70 av i alt 553).1 Samme år var 24 % av reintallet oppført med kvinner som eiere. Det var relativt liten forskjell mellom de ulike reinbeiteområdene: Vest-Finnmark hadde størst andel av reintallet med kvinner som eiere – 27 prosent, og Nordland lavest med 19 prosent.</p>
+<p>Kjønnsfordelingen blant det totale antallet personer i siida-andelene er jevnere enn blant siidaandelsinnehaverne.</p>
+<p>I perioden 2005–2009 var kjønnsfordelingen 52/48 prosent (menn/kvinner) i siida-andelene samlet, med en noe ulik fordeling mellom områdene: Finnmark: 52/48, Troms: 57/43, Nordland: 53/47, resten av landet: 48/52.2 <em type="bold">5.3.3 Jordbruk relatert til kjønn og alder </em></p>
+<p><em type="bold">Tabell 5.5 </em></p>
+<p><em type="bold">Prosentvis fordeling når det gjelder hovedbruker i landbruket 1989 og </em><em type="bold">2007 </em>1989 2007 </p>
+<p>Menn 81 76</p>
+<p>Kvinner 18 20</p>
+<p>Upersonlige brukere* 1 4 * Kommuner, fylkeskommuner, institusjoner</p>
+<p>Antall gårdsbruk i STN-området er redusert med 62 prosent. De fleste i kategorien hovedbrukere er menn (81 prosent i 1989 og 76 prosent i 2007). Andelen kvinnelige hovedbrukere økte med 2 prosentpoeng i dette tidsrommet, mens kategorien <span type="quote">”upersonlig bruker”</span> (for eksempel kommune, fylkeskommune eller institusjon) økte med 3 prosent.</p>
+<p>Gjennomsnittsalderen gikk noe ned både for menn og kvinner i ovennevnte tidsrom – fra 51,6 til 49,7 for menn og fra 54,3 til 48,6 for kvinner.3 1 Tallene for 2000 og 2008 når det gjelder kjønnsfordeling blant innehavere av driftsenheter/siida-andeler er trolig ikke fullt ut sammenlignbare. I Totalregnskapet 2000 er det ikke som i tilsvarende regnskap for 2008 en egen kategori for felles driftsenheter; de er i 2000 fordelt på kategoriene mann og kvinne ut fra den av ektefellene som står først på meldinga (se s. 95 og tabell 7.2.4 i Totalregnskapet 2000 og s. 101 i Totalregnskapet 2008). Vedrørende tiltak for sterkere kvinnelig deltakelse i reindriften samt rekruttering av ungdom, se for eksempel Ressursregnskaper 2007/08, s. 52. 2 Tabell 47 i statistikkbanken, tema samer. SSB.3 Tabell 62 (Jordbruksbedrifter, etter hovedbruker og gjennomsnittsalder for hovedbruker i STN-området). Samisk statistikk 2008, SSB. <em type="bold">5.4 </em></p>
+<p><em type="bold">Kjønnsforskjeller i helsestatistikken </em><em type="bold">5.4.1 </em></p>
+<p><em type="bold">Innledning </em></p>
+<p>I dette kapitlet presenteres og kommenteres data fra publiserte arbeider basert på helseundersøkelser gjort blant samisk befolkning i Norge. Kapitlet fokuserer på helsestatistikk i form av forekomst av sykdommer og sykdomsrisikofaktorer i befolkningen. Forskningsresultatene er presentert slik at de er inndelt både i forhold til kjønn og samisk etnisitetstilhørighet. <em type="bold">5.4.2 </em></p>
+<p><em type="bold">Dødelighet </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">Det er høyere forekomst av død på grunn av hjerneblødning hos samiske kvinner og død på grunn av ulykker og selvmord hos samiske menn. Kvinner bosatt i de samiske områdene på innlandet har hatt en lav og over tid stabil dødelighet. Fortsatt er det grunn til å være observant på den høye dødeligheten blant unge menn i de samiske områdene. </em>5.4.2.1 </p>
+<p>Innledning</p>
+<p>Dødelighet har vært brukt som mål på levekår og helsestatus i befolkningen. Dødelighet i befolkningen kan oppgis på ulike vis. Mest brukt er antall døde per 1000 eller 100 000 innbyggere i ulike aldersgrupper.</p>
+<p>I Norge lever kvinner fortsatt lenger enn menn, men forskjellen mellom kjønnene blir stadig mindre. Fra 2009 til 2010 økte forventet levealder ved fødselen med 0,1 år for kvinner og 0,3 år for menn, til henholdsvis 83,2 år og 78,9 år. I løpet av de siste 25 årene har den forventede levealderen i Norge økt med nesten seks år for menn og vel tre år for kvinner. Forskjellen mellom menns og kvinners levealder minket i denne perioden med vel 2,5 år. 5.4.2.2</p>
+<p>Dødelighetsrater i forhold til kjønn og bosted</p>
+<p>Sammenstilling av dødelighetsstatistikk i perioden 1970–1998 og etnisitetsrapportering fra folketellingen i 1970 har vist en litt høyere dødelighet for samiske menn (6 %) og for kvinner (10 %) enn for regional referansepopulasjon. Høyere dødelighet av hjerneblødning spesielt hos kvinner kan forklare noe av denne forskjellen. Menn hadde en høyere forekomst av såkalt voldsom død, spesielt ulykker og selvmord. </p>
+<p><em type="bold">Figur 5.2 Sannsynlighet for å bli 75 år for 15-åringer nasjonalt og i STN- </em><em type="bold">områdene kyst og innland, basert på dødelighetsrater fra ulike </em><em type="bold">tidsperioder for menn og kvinner . Kilde: Brustad et al. 2009, </em></p>
+<p>Scandinavian Journal of Public Health.</p>
+<p>Figur 5.2 viser henholdsvis for kvinner og menn beregnet sannsynlighet for å bli 75 for 15-åringer, basert på dødelighetsmønsteret i de ulike tidsperiodene. Figurene skiller på befolkningen som bor innenfor og utenfor det geografiske området for Sametingets tilskuddsordning for næringsutvikling (STN) samt kyst og innland.</p>
+<p>Av disse figurene fremgår det også at det for kvinner ikke har vært store ulikheter mellom geografiske områder eller i forhold til tid. For menn ser det imidlertid ut til at det har vært en økning i forventet levealder i løpet av perioden, noe som kan forklares av nedgang i hjerte- og kardødelighet, som har rammet menn i større grad enn kvinner. Videre ser det ut til at menn i STN-områdene har hatt en noe høyere dødelighet enn nasjonale tall. Dette kan muligens forklares av høy dødelighet av såkalt <span type="quote">”voldsom død4”</span> i STN-områdene.</p>
+<p>Generelt kan man si at de tall som finnes på dødelighet i den samiske versus den ikke-samiske del av befolkingen, viser små forskjeller i dødelighet. Det kan tyde på at dødelighetsmønsteret har blitt utjevnet mellom geografiske områder med lav versus høy tetthet av samisk befolkning. Dette har vært forklart ut fra tilnærmet like levekår, utdannelse og helsetilbud, noe som står i kontrast til situasjonen for andre urfolksgrupper i sirkumpolare områder.</p>
+<p>Fortsatt er det grunn til å være observant på den relativt høye dødeligheten blant unge menn i de samiske områdene. 4 Voldsom død er definert som død på grunn av ulykker, selvmord eller drap.01020304050607080901001991-19951996-20002001-2005</p>
+<p>Menn nasjonalt</p>
+<p>Menn STN-kyst</p>
+<p>Menn STN-innland</p>
+<p>Kvinner nasjonalt</p>
+<p>Kvinner STN-kyst2</p>
+<p>Kvinner STN-innland <em type="bold">5.4.3 </em></p>
+<p><em type="bold">Røyking </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">For menn har studier vist en noe høyere røykeforekomst blant samer på innlandet enn blant ikke-samer. Tilsvarende er ikke funnet for kvinner. </em>5.4.3.1 </p>
+<p>Innledning</p>
+<p>Røyking øker risikoen for en lang rekke sykdommer som lungekreft, hjerte- og karsykdommer og kroniske lungelidelser. Statistisk sentralbyrå (SSB) gjennomfører årlig undersøkelser om tobakksbruk. I 1973 røykte over halvparten av den mannlige voksne befolkningen, mens andelen i 2006 var om lag 21 %. Andelen dagligrøykere blant kvinner har også sunket fra 32 % i 1973 til 22 % i 2006. 19 prosent i aldersgruppen 16–74 år svarte at de røykte daglig i 2010. Andelen var lik for kvinner og menn. Endringen siste år føyer seg inn i et mønster vi har sett over lengre tid, med jevn nedgang i andel dagligrøykere. Menns og kvinners røykevaner var ulike frem mot årtusenskiftet, men har deretter hatt en felles fallende kurve. Om lag en tredel av kvinnene røykte daglig i de siste tiårene før år 2000. Blant mennene har det derimot vært en nedadgående trend gjennom hele perioden siden 1973, da over halvparten røykte daglig. Tidligere befolkningsundersøkelser har påvist høyest forekomst av daglige røykere i Finnmark sammenlignet med andre fylker i Norge. Tall for perioden 2004–2008 viser at det er store forskjeller mellom fylkene når det gjelder røyking. Lavest andel som røyker daglig, finner man i Oslo med 19 prosent, høyest i Finnmark med 32 prosent, ifølge Statistisk sentralbyrå. <em type="bold">5.4.4 </em></p>
+<p><em type="bold">Alkohol </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">Både samiske menn og kvinner har rapportert en høyere andel totalavhold i forhold til alkohol enn ikke-samisk befolkning. Spesielt er dette mønsteret tydelig for eldre samiske kvinner. </em>5.4.4.1 </p>
+<p>Innledning</p>
+<p>Alkohol er det mest utbredte rusmiddelet i befolkningen og sannsynligvis det rusmiddelet som medfører det største misbruksproblemet. I tillegg er det økt risiko for uhell, skader og ulykker forbundet med inntak av alkohol.</p>
+<p>Det samlede alkoholforbruket i Norge har økt siden 1990, fra 4,55 liter pr. innbygger i 1993 til 6,37 liter i 2005. Det er øl og vin som har økt mest i løpet av de siste 20 årene. Økningen i vinomsetningen knyttes til et såkalt <span type="quote">”kontinentalt”</span> drikkemønster, der man drikker ofte, men med mindre kvanta konsumert ved hver drikkesituasjon. Disse vanene har ikke erstattet det nordiske drikkemønsteret med helgefyll og beruselse, men kommer i tillegg. 5.4.4.2</p>
+<p>Bruk av alkohol relatert til kjønn og etnisitet</p>
+<p><em type="bold">Figur 5.4 Alkoholbruk hos menn og kvinner i forhold til etnisk tilhørighet. </em><em type="bold">(SAMINOR-studien 2003–04). (Samisk I = tre generasjoner samisk språk, </em></p>
+<p><em type="bold">Samisk II = minst én samisk markør som språk eller familiebakgrunn.) </em></p>
+<p>Kilde: Broderstad et al 2007 European Journal of Haematology 05101520253035404550</p>
+<p>Samisk I</p>
+<p>Samisk II</p>
+<p>Ikkesamisk*</p>
+<p>Samisk I Samisk II</p>
+<p>Ikkesamisk</p>
+<p>Totalt avhold/ikke drukket siste året</p>
+<p>Drikker mer enn to ganger i uka</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Basert på tall fra SAMINOR-undersøkelsen* har det vært vist etniske forskjeller i alkoholkonsum. Figurene viser at andelen som svarte at de var <span type="quote">”totalavholdende i forhold til alkohol”</span> eller <span type="quote">”ikke drukket i løpet av det siste året”</span>, var en del høyre hos både samiske menn og kvinner. Andelen som rapporterte at de drakk mer enn to ganger i uka, var noe lavere hos samer med tre generasjoner samisk språk enn hos de andre gruppene. Mønsteret av et lavere alkoholinntak var mer markant hos samiske kvinner enn menn. *Helse- og levekårsundersøkelsen i områder med blandet samisk og norsk bosetning som ble gjennomført i 2003–2004. Undersøkelsen ble gjort ved Senter for samisk helseforskning, Universitetet i Tromsø, i samarbeid med Nasjonalt Folkehelseinstitutt. <em type="bold">5.4.5 </em></p>
+<p><em type="bold">Legemiddelbruk </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">Bruken av sovemiddel i den samiske befolkningen tilsvarer halvparten av bruken i den norske befolkningen, og samiske menn har 13 % lavere inntak av sovemidler enn samiske kvinner. </em>5.4.5.1 </p>
+<p>Innledning</p>
+<p>Bruk av legemidler5 i en befolkning vil til en viss grad være en indikator på sykdomsforekomst. Undersøkelser har også vist at bruk av legemidler kan være forklart av ulike livsstilsfaktorer og bruk av legetjenester. 5.4.5.2</p>
+<p>Søvnproblemer og bruk av sovemedisin relatert til kjønn og etnisitet 5 Legemiddel er definert som et stoff som er bestemt til eller utgis for å behandle eller forebygge sykdommer. For å kunne markedsføres som legemiddel må stoffet ha dokumentert både effekt, sikkerhet og teknisk kvalitet. (kilde: www.lovdata.no)</p>
+<p><em type="bold">Tabell 5.7 </em></p>
+<p><em type="bold">Bruk av legemidler i forhold til etnisitet i Finnmark (n=11061). Tallene er </em><em type="bold">oppgitt i prosent. 1987–1988. </em>Kilde: Furu K, 1997. Journal of Clinical Epidemiology </p>
+<p>Etnisk tilhørighet</p>
+<p><em type="italic">Menn </em></p>
+<p><em type="italic">Kvinner </em></p>
+<p><em type="italic">Norsk </em><em type="italic">43,4 </em><em type="italic">56,9 </em></p>
+<p><em type="italic">Finsk </em><em type="italic">42,4 </em><em type="italic">58,4 </em></p>
+<p><em type="italic">Samisk </em><em type="italic">43,0 </em><em type="italic">54,9 </em></p>
+<p><em type="italic">Samisk/Finsk </em><em type="italic">49,4 </em><em type="italic">58,9 </em></p>
+<p>Ifølge undersøkelser gjort av Nasjonalt Folkehelseinstitutt har man funnet at bruk av sovemidler er relativt vanlig i Norge. Det finnes kun en studie som er gjort på bruk av sovemidler i forhold til samisk etnisitet. Denne studien er basert på data fra SAMINOR, helse- og levekårsundersøkelsen i områder med blandet samisk og norsk bosetning.</p>
+<p>Andelen personer som rapporterte om søvnproblemer, var lavere i den samiske befolkningen enn i den ikke-samiske. Bruk av sovemidler i den samiske befolkningen tilsvarte halvparten av bruken i den norske. Aller lavest forbruk ble funnet hos dem med sterkest samisk tilhørighet som var bosatt i Finnmark.</p>
+<p>Uavhengig av etnisk tilhørighet brukte kvinner dobbelt så mye sovemidler som menn. Studien konkluderer med at jo sterkere samisk tilhørighet, jo lavere forbruk av sovemidler. Forekomsten av søvnproblemer syntes generelt også å være lavere i den samiske befolkningen. <em type="bold">5.5 Uføretrygd og sosialhjelp i forhold til kjønn og alder </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">I perioden 2004–2008 mottok vel 5 % av befolkningen i STN-området mellom 20 og 66 år uføretrygd, noen flere menn enn kvinner. I 2004 var det 2,1 % av mennene og 1,2 % av kvinnene som mottok sosialhjelp i STN-områdene. </em><em type="bold">5.5.1 Innledning </em></p>
+<p>Norge har hatt en økning i andelen personer som mottar uførepensjon. Ved utgangen av 2008 var det om lag 340 000 personer som mottok uføretrygd i Norge. Det er 70 000 flere enn i 1999. Noe av denne økningen kan tilskrives endringer i alderssammensetningen i befolkningen, men selv justert for alder har det vært en tydelig økning. Etter at ordningen med tidsbegrenset uføretrygd ble innført i 2004, har det vært registrert en relativt kraftig vekst i andelen uføretrygdede. Økningen har vært størst i aldersgruppen under 40 år (Bjørngaard et al., 2009).</p>
+<p>I 2008 var det i alt 109 300 mottakere av økonomisk sosialhjelp i Norge. Antall sosialhjelpsmottakere nådde en topp med nær 165 000 mottakere i 1993, og har siden gått ned. Fra 2007 til 2008 har nedgangen avtatt. <em type="bold">5.5.2 Uførhet i forhold til kjønn og alder </em></p>
+<p>Uførepensjon er en lovfestet trygdeordning i Norge. Hensikten med uførepensjon er å sikre inntekt til livsopphold for personer som har fått inntektsevnen varig nedsatt på grunn av sykdom, skade eller lyte (Nav, 2010).</p>
+<p><em type="bold">Tabell 5.8 </em></p>
+<p><em type="bold">Nye mottakere (per 1000) av uføretrygd i ulike tidsintervaller i STN- </em><em type="bold">området, menn og kvinner </em></p>
+<p>Alder</p>
+<p>Perioder 1994–1998* 1999–2003** 2004–2008***</p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Kvinner 20–30 år 11,7 12,5 10,1 7,7 5,0 8,4 31–45 år 37,9 44,9 33,1 37,8 18,5 18,6 46–66 år 109,2 106,0 121,7 106,5 104,7 96,3</p>
+<p>Totalt 20–66 år 55,9 57,7 63,8 58,6 54,9 51,9 * Perioden går fra februar 1994 til januar 1999 ** Perioden går fra februar 1999 til januar 2004 *** Perioden går fra februar 2004 til desember 2008</p>
+<p>Tabell 5.8 viser nye mottakere av uføretrygd i femårsintervaller fra 1994 til og med 2008. For kvinner, spesielt for den eldste aldersgruppen, ser det ut som om områdene utenfor STN har hatt en noe større andel nye tilfeller av uføre, men denne forskjellen ser ut til å jevne seg ut i siste tidsintervall. For menn i STN-områdene er tallene høyere enn i områdene utenfor STN i alle aldersgruppene i hele perioden. I aldersgruppene 45 år og yngre har det vært en tilnærmet halvering av nye mottakere av uføretrygd i det siste tidsintervallet (2004–2008) sammenliknet med de to forutgående femårsintervallene. I aldersgruppen 46–66 år er det også en nedgang i løpet av tidsperioden, men ikke så markant. <em type="bold">5.5.3 Uførhet i forhold til kjønn og alder </em></p>
+<p>Sosialhjelp er en lovfestet ordning som skal sikre at alle har nok midler til livsopphold. Dette er ment å være en midlertidig hjelp og skal bidra til å gjøre mottakeren økonomisk selvhjulpen (Nav, 2010).</p>
+<p><em type="bold">Tabell 5.9 </em></p>
+<p><em type="bold">Andel mottakere av sosialhjelp i ulike tidsintervaller i STN-området, </em><em type="bold">menn og kvinner. Tallene oppgitt i prosent </em></p>
+<p>Alder</p>
+<p>Tidspunkter</p>
+<p>Januar 1992</p>
+<p>Januar 1999</p>
+<p>Januar 2004</p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Kvinner 20–30 år 2,6 2,1 2,1 2,0 2,6 2,0 31–45 år 2,3 1,6 2,4 1,2 2,4 1,5 46–66 år 1,2 0,6 0,9 0,7 1,5 0,5 </p>
+<p>Totalt 20–66 år 2,0 1,4 1,8 1,3 2,1 1,2 </p>
+<p>Tabell 5.10 viser at andelen nye mottakere av sosialhjelp er betydelig høyere i aldersgruppen under 30 år og lavest i den eldste aldersgruppen. Både for kvinner og menn har det vært en gradvis nedgang i andelen nye mottakere av sosialhjelp i løpet av de tre tidsintervallene som er framstilt i tabellene. Dette kan antakelig delvis forklares av nedgang i arbeidsledighet i løpet av samme periode. <em type="bold">5.6 Kjønnsfordeling i Sametingets valgmanntall </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">Valgmanntallet som helhet har hatt et lite, men stabilt mannsflertall ved alle sametingsvalgene som er gjennomført. Ved valget i 2009 hadde imidlertid valgkretsen Sør-Norge et knapt kvinneflertall. Ved dette valget var det også et flertall innmeldte kvinner blant de yngste fra 18 til 29 år. </em><em type="bold">5.6.1 Innledning </em></p>
+<p>Sametinget i Norge er et representativt politisk organ, valgt av og blant samer. Dets arbeidsområde er alle saker som etter tingets oppfatning særlig berører den samiske folkegruppen. Valgbare og stemmeberettigede er de samer som har valgt å melde seg inn i et særskilt valgmanntall som er opprettet for dette formål – <em type="italic">Sametingets valgmanntall </em>. </p>
+<p>Kriterier for innmelding i Sametingets valgmanntall er i henhold til samelovens § 2-6 at man avgir erklæring om at man oppfatter seg selv som same, samt at man selv eller minst én forelder, besteforelder eller oldeforelder bruker / har brukt samisk som hjemmespråk (sameloven, 1987).</p>
+<p>Sametinget i Norge ble etablert i 1989. Siden da har det vært avholdt seks valg. Valg til Sametinget foregår samtidig med valg til Stortinget, og valgårene har vært 1989, 1993, 1997, 2001, 2005 og 2009. <em type="bold">5.6.2 Kjønnsfordeling totalt og kretsvis </em></p>
+<p>Sikre tall for de tre første valgene mangler, men ved de tre siste valgene hadde valgmanntallet et lite, men stabilt mannsflertall:</p>
+<p><em type="bold">Tabell 5.10 </em></p>
+<p><em type="bold">Kjønnsfordeling i valgmanntallet totalt ved valgene 2001, 2005 og 2009 </em></p>
+<p><em type="bold">Menn </em></p>
+<p><em type="bold">Kvinner </em></p>
+<p><em type="bold">Totalt </em></p>
+<p><em type="bold">Manns- </em><em type="bold">overskudd, </em><em type="bold">antall </em></p>
+<p><em type="bold">Kvinne- </em><em type="bold">andel, pst. </em>2001 5401 4520 9921 881 45,6 2005 6752 5786 12538 966 46,1 2009 7380 6510 13890 870 46,9 </p>
+<p>For valget i 2009 viser figur 5.5 at det var én valgkrets som hadde kvinneflertall, nemlig Sør-Norge. <em type="bold">5.7 Valg av samisk språk i grunnskolen og videregående </em><em type="bold">skole, relatert til kjønn </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">I skoleåret 2010/11 var det nesten 10 % flere jenter enn gutter med samisk i grunnskolen, dette gjelder samisk som 1. og 2. språk. På videregående skole var denne forskjellen økt til nesten 12 %. </em><em type="bold">5.7.1 Innledning </em></p>
+<p>Fra innføringen av andrespråk 2 og 3 i 2006 har antall elever i grunnskolen med samisk i fagkretsen gått ned fra 2672 til 2245 i skoleåret 2010/11. Nedgangen på de siste fire årene har vært på hele 16 %. Se også kapittel 2, Samisk språk i barnehage og skule, i denne utgaven av <span type="quote">”Samiske tall forteller”</span>. <em type="bold">5.7.2 Samisk språk i grunnskolen i forhold til kjønn og nivå </em></p>
+<p><em type="bold">Tabell 5.11 </em></p>
+<p><em type="bold">Elever i grunnskolen som har nord-, lule- eller sørsamisk som førstespråk </em><em type="bold">eller andrespråk 2 eller 3, skoleåret 2006/07 og 2010/11 relatert til kjønn </em><em type="bold">2006/2007 </em><em type="bold">2010/2011 </em></p>
+<p>Gutter</p>
+<p>Jenter</p>
+<p>Totalt</p>
+<p>Gutter</p>
+<p>Jenter</p>
+<p>Totalt</p>
+<p>N %</p>
+<p>N %</p>
+<p>N %</p>
+<p>N %</p>
+<p>Nordsamisk som førstespråk 505 52 466 48 971 472 51 451 49 923</p>
+<p>Nordsamisk som andrespråk 2 291 42 398 58 689 225 42 307 58 532</p>
+<p>Nordsamisk som andrespråk 3 353 38 466 62 819 234 39 369 61 603</p>
+<p>Lulesamisk som førstespråk 22 71 9 29 31 16 55 13 45 29</p>
+<p>Lulesamisk som andrespråk 2 15 50 15 50 30 24 54 20 46 44</p>
+<p>Lulesamisk som andrespråk 3 8 50 8 50 16 9 39 14 61 23</p>
+<p>Sørsamisk som førstespråk 6 33 12 67 18 7 37 12 63 19</p>
+<p>Sørsamisk som andrespråk 2 37 47 41 53 78 28 45 34 55 62</p>
+<p>Sørsamisk som andrespråk 3 13 65 7 35 20 3 30 7 70 10</p>
+<p>Totalt 1250 47 1422 53 2672 1018 45.3 1227 54.7 2245</p>
+<p>I grunnskolen var det i skoleåret 2010/11 nær 10 prosentpoeng flere jenter enn gutter som hadde samisk i fagkretsen. Denne forskjellen har økt sammenliknet med skoleåret 2006/07. Det er noen flere gutter enn jenter som velger samisk som 1. språk, men langt flere jenter velger samisk som andrespråk 2 og 3. <em type="bold">5.7.3 Samisk språk i videregående skole i forhold til kjønn og </em><em type="bold">nivå </em></p>
+<p><em type="bold">Tabell 5.12 </em></p>
+<p><em type="bold">Valg av samisk som 1. eller 2. språk blant elever i den videregående skole </em><em type="bold">i landet, fordelt på kjønn </em></p>
+<p>Tabell 5.12 viser at jenter i større grad enn gutter velger samisk på videregående skole, selv om dette er utjevnet når det gjelder samisk som førstespråk. For samisk andrespråk er forskjellen fortsatt stor, hvor nesten to tredjedeler er jenter. Årsaken til dette kan være at det er flere jenter enn gutter som velger allmennfag, noe som kan tyde på at jenter har større interesse for teoretiske fag. Generelt viser også jenter større interesse for språkfag.</p>
+<p><em type="bold">Skoleåret 2008/2009 </em></p>
+<p><em type="bold">Skoleåret 2009/2010 </em></p>
+<p><em type="bold">Skoleåret 2010/2011 </em></p>
+<p>Gutter</p>
+<p>Jenter</p>
+<p>Gutter</p>
+<p>Jenter</p>
+<p>Gutter</p>
+<p>Jenter</p>
+<p>N %</p>
+<p>N %</p>
+<p>N %</p>
+<p>N %</p>
+<p>N %</p>
+<p>N % 1 språk 83 43.9 106 56.1 105 48.8 110 51.2 126 50.8 122 49.2 2. språk 49 32.2 103 67.8 55 35.7 99 64.3 71 38.4 114 61.6</p>
+<p>Totalt 132 38.7 209 61.3 160 43.3 209 56.7 197 45.5 236 54.5 <em type="bold">5.8 Utdanning blant kvinner og menn i STN-området </em></p>
+<p>Sammendrag</p>
+<p><em type="italic">I STN-området har ca. 13 % flere kvinner enn menn tre år eller mer på høgskole/universitet. Gutter i STN-området har et større frafall enn jentene i den videregående skole, spesielt gjelder det yrkesfaglig studieretning, der nesten bare en firedel del av guttene fullfører innen fem år. </em><em type="bold">5.8.1 Innledning </em></p>
+<p>Kapitlet tar for seg kjønnsforskjeller i STN-området i forhold til gjennomføring av videregående opplæring, utdanningsnivå og nåværende utdanningsnivå for elevene som startet på grunnkurs i årene 1994 til 1996. <em type="bold">5.8.1 Gjennomføring av videregående utdanning etter valg av </em><em type="bold">studieretning </em></p>
+<p>Blant guttene fra STN-området som begynte på videregående skole i 2003, avbrøt hele 55 % på yrkesfaglig studieretning og 20 % av guttene på allmennfaglig studieretning sin utdanning innen fem år. Av de guttene fra STN-området som startet på videregående skole i 2003, sluttet over 40 % underveis i skolegangen. Blant jentene sluttet ca. 20 % underveis.</p>
+<p>På yrkesfaglig studieretning er det litt over en firedel av guttene og nesten halvparten av jentene som ble ferdige innen fem år. Tallene for allmennfaglig studieretning er henholdsvis 78 prosent for jenter og 70 prosent for gutter som fullfører innen fem år.</p>
+<p><em type="bold">Tabell 5.13 </em></p>
+<p><em type="bold">Elever som startet med grunnkurs for første gang i 2003 i STN-området, </em><em type="bold">og status for oppnådd nivå i videregående opplæring etter fem år. </em></p>
+<p><em type="bold">Studieretning og kjønn . Prosent. </em></p>
+<p>Studieretning, kjønn og geografisk område </p>
+<p><em type="bold">Skolestart 2003 </em></p>
+<p>Absolutte tall</p>
+<p>Prosent</p>
+<p>I alt</p>
+<p>Fullført på normert tid</p>
+<p>Fullført på mer enn normert tid</p>
+<p>Fortsatt i videregående opplæring</p>
+<p>Gjennomført VKII eller gått opp til fagprøve, ikke bestått</p>
+<p>Sluttet underveis uten å fullføre</p>
+<p><em type="bold">Allmennfaglig studieretning </em></p>
+<p>Menn STN-området 96 57 13 0 0 20</p>
+<p>Kvinner STN-området 108 58 19 6 10 7</p>
+<p><em type="bold">Yrkesfaglige studieretninger </em></p>
+<p>Menn STN-området 157 11 16 12 6 55</p>
+<p>Kvinner STN-området 151 26 21 13 10 29 <em type="bold">5.8.2 Utdanningsnivå </em></p>
+<p>Blant kvinner i yrkesaktiv alder (24 til 65 år) som bor i STN-områder med spredt bosetning, er andelen med universitets- og høgskoleutdanning relativt høy. Totalt ligger den to prosentpoeng over landsgjennomsnittet. I tettsteder ligger kvinnenes tilsvarende andel noe lavere enn landsgjennomsnittet.</p>
+<p>Mennene i STN-området har et klart lavere utdanningsnivå enn befolkningen ellers i landet. Andelen som har fullført universitets- og høgskole, og som bor i tettsteder, er hele 10 prosentpoeng lavere enn snittet for befolkningen ellers. I spredtbygde områder er forskjellen mindre, om lag 2 prosentpoeng.</p>
+<p><em type="bold">Tabell 5.14 </em></p>
+<p><em type="bold">Høyeste fullførte utdanning for menn og kvinner i alderen 24–65 år og </em><em type="bold">bosatt i STN-området 2008. Prosent </em></p>
+<p>Utdanningsnivå og geografi</p>
+<p><em type="bold">Bosatte 1.1.2008 med utdanningsnivå 1.10.2007 </em></p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Tettsted</p>
+<p>Spredt bosetting</p>
+<p>Tettsted</p>
+<p>Spredt bosetting</p>
+<p>Grunnskolenivå</p>
+<p>STN-område 28 38 23 32 <span type="quote">”Videregående skole”</span>-nivå</p>
+<p>STN-område 49 48 40 37</p>
+<p>Universitets- og høgskolenivå</p>
+<p>STN-område 23 14 37 29</p>
+<p>SSBs tettstedsdefinisjon</p>
+<p>En hussamling skal registreres som et tettsted dersom det bor minst 200 personer der, og avstanden mellom husene skal normalt ikke overstige 50 meter. Det er tillatt med et skjønnsmessig avvik utover 50 meter mellom husene i områder som ikke skal eller kan bebygges. Dette kan for eksempel være parker, idrettsanlegg, industriområder eller naturlige hindringer som elver eller dyrkbare områder. Husklynger som naturlig hører med til tettstedet, tas med inntil en avstand på 400 meter fra tettstedskjernen. De inngår i tettstedet som en satellitt til selve tettstedskjernen. <em type="bold">6.8.3 </em></p>
+<p><em type="bold">Nåværende utdanningsnivå i STN-området for de </em><em type="bold">elevene som startet på grunnkurs i årene 1994 til 1996 </em></p>
+<p>I STN-området var det 54 % av elevene som startet på videregående opplæring i perioden 1994–1996, som fullførte innen fem år. Av mennene var det 45,5 % som gjennomførte videregående opplæring innen fem år, og av kvinnene 62,5 %. </p>
+<p><em type="bold">Figur 5.7 Utdanningsnivået i STN-området i 2009 for menn og kvinner som startet </em><em type="bold">på videregående opplæring i årene 1994 til 1996, henholdsvis for dem som </em><em type="bold">gjennomførte videregående opplæring innen fem år, og for dem som ikke </em><em type="bold">gjorde det. Prosent </em></p>
+<p>Figuren viser at hvorvidt man gjennomfører videregående skole innen fem år eller ikke, har meget stor innvirkning på utdanningsnivået senere. Over 60 % av dem som ikke fullfører innen fem år, har ingen fagutdanning når de er 30 år. Nesten 50 % av dem som fullfører videregående skole innen fem år, tar utdanning på universitets- og høgskolenivå, mens bare 10 % av dem som ikke fullfører videregående skole innen fem år, gjør det samme. For dem som har fullført videregående skole innen fem år, har ca. 12 % både av menn og kvinner tatt universitets-/høgskoleutdanning på fem år eller mer. Men når det gjelder kortere universitets-/høgkoleutdanning, er det ca. 16 % flere kvinner enn menn som har tatt en slik utdanning. For dem som ikke fullførte videregående utdanning innen fem år, har ca. 8 % poeng flere kvinner enn menn tatt kortere universitets-/høgskoleutdanning.</p>
+<p><em type="bold">Referanser </em></p>
+<p>Sámi logut muitalit 1/Samiske tall forteller 1 (2008) Sámi allaskuvla, Sámi University College Sámi logut muitalit 1/Samiske tall forteller 2 (2009) Sámi allaskuvla, Sámi University College Sámi logut muitalit 1/Samiske tall forteller 3 (2010) Sámi allaskuvla, Sámi University College Statistisk sentralbyrå. (2008). <em type="italic">Samisk statistikk / Sámi statistihkka 2008 </em>. Statistisk sentralbyrå. (2010). <em type="italic">Samisk statistikk / Sámi statistihkka 2010 </em>. Statistisk sentralbyrå: http://www.ssb.no/ 0 %10 %20 %30 %40 %50 %60 %70 %80 %90 %100 % </p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Menn</p>
+<p>Kvinner</p>
+<p>Universitet/høgskoleniv å,lang</p>
+<p>Universitet/høgskoleniv å,kort</p>
+<p>Videregående-nivå</p>
+<p>Grunnskolenivå</p>
+<p>Fullført videregående opplæring innen 5 år</p>
+<p>Ikke fullført videregående opplæring innen 5 år</p>
 </body></document>

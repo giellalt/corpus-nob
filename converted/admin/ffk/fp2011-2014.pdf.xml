@@ -1,361 +1,243 @@
-<document xml:lang="nob" id="no_id"><header><title>FAGSKOLEPLAN 2011-2014 Strategisk plan for fagskoleutdanning i Finnmark</title><genre code="admin"/><author><unknown/></author><year>2011</year><publChannel><publication><publisher>Finnmark fylkeskommune</publisher></publication></publChannel><wordcount>6618</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Márjá Eira" email="marja.eira@uit.no"/><origFileName>http://www.ffk.no/docs/ec5d1016-da8a-4b82-817c-3055eb4f548d.pdf</origFileName><parallel_text xml:lang="sme" location="pff2011-2014.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>FAGSKOLEPLAN 2011-2014</p>
-<p>Strategisk plan for fagskoleutdanning i Finnmark</p>
-<p>Grafisk produksjon: To Typer AS 02.11.2011</p>
-<p>INNHOLD</p>
-<p>Forord</p>
-<p>Innledning</p>
-<p>DEL 1</p>
-<p>Hva er fagskoleutdanning?</p>
-<p>Sentrale føringer og rammebetingelser</p>
-<p>Fylkeskommunens rolle og ansvar</p>
-<p>Status for fagskoler i Finnmark</p>
-<p>Nordkapp maritime fagskole</p>
-<p>Folkeuniversitetet i Alta</p>
-<p>Nettbaserte tilbud</p>
-<p>DEL 2</p>
-<p>Muligheter og utfordringer</p>
-<p>Innsatsområder</p>
-<p>Maritim</p>
-<p>Helse og sosial</p>
-<p>Bygg og anlegg</p>
-<p>Mineralfylket</p>
-<p>Energifylket</p>
-<p>Matfylket</p>
-<p>Opplevelsesfylket</p>
-<p>Kulturnæringsfylket</p>
-<p>Referansedokumenter:</p>
-<p>Godkjente fagskoletilbud i Finnmark</p>
-<p>Fagskoletilbud under planlegging</p>
-<p>Kart over Finnmark</p>
-<p>FORORD</p>
-<p>Finnmark har et stort utviklingspotensial. Fylket er strategisk plassert både ift naboland og rike natur - resurser. Regjeringen ser nordområdene som Norges viktigste strategiske satsingsområde i årene fremover. For å kunne gripe de nye mulighetene trenger arbeidslivet kvalifisert arbeidskraft. Satsing på kunnskapssektoren er derfor en nøkkel til utvikling. Fagskolen tilbyr korte yrkesretta utdanninger, som bygger på fag-/svennebrev. Økt tilbud innen fagskoleutdanninger vil gi verdifull kompetanse til våre næringer i vekst.</p>
-<p>Fylkeskommunen er en viktig aktør innen regional utvikling, nærings- og kompetanseutvikling i Finnmark. Fagskoleutdanning er et nytt ansvar for fylkeskommunen, og et viktig verktøy i denne konteksten. Det ligger et stort potensiale i å knytte fagskolen tettere til fagopplæring i videregående og næringslivets behov. Denne koblingen kan skape spennende synergier som kan bidra til utvikling langt utover klasserommets fire vegger. Målet er flere fagskoletilbud i Finnmark, og dermed øke tilgangen på etterspurt fagkompetanse. Det er også en viktig målsetting at den enkelte fagarbeider/elev får tilbud om økt kompetanse og en attraktiv karrierevei.</p>
+<document xml:lang="nob" id="no_id"><header><title>FAGSKOLEPLAN 2011-2014 Strategisk plan for fagskoleutdanning i Finnmark</title><genre code="admin"/><author><unknown/></author><year>2011</year><publChannel><publication><publisher>Finnmark fylkeskommune</publisher></publication></publChannel><wordcount>6510</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Márjá Eira" email="marja.eira@uit.no"/><origFileName>http://www.ffk.no/docs/ec5d1016-da8a-4b82-817c-3055eb4f548d.pdf</origFileName><parallel_text xml:lang="sme" location="pff2011-2014.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 48460 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>FAGSKOLEPLAN 2011-2014 Strategisk plan for fagskoleutdanning i Finnmark</p>
+<p>Grafisk produksjon: To Typer AS02.11.20113</p>
+<p>Forord4</p>
+<p>Innledning5</p>
+<p>DEL 16</p>
+<p>Hva er fagskoleutdanning?6</p>
+<p>Sentrale føringer og rammebetingelser7</p>
+<p>Fylkeskommunens rolle og ansvar8</p>
+<p>Status for fagskoler i Finnmark9</p>
+<p>Nordkapp maritime fagskole9</p>
+<p>Folkeuniversitetet i Alta9</p>
+<p>Nettbaserte tilbud9</p>
+<p>DEL 210</p>
+<p>Muligheter og utfordringer10</p>
+<p>Innsatsområder12</p>
+<p>Maritim13</p>
+<p>Helse og sosial14</p>
+<p>Bygg og anlegg16</p>
+<p>Mineralfylket17</p>
+<p>Energifylket18</p>
+<p>Matfylket19</p>
+<p>Opplevelsesfylket20</p>
+<p>Kulturnæringsfylket20</p>
+<p>Referansedokumenter:22</p>
+<p>Godkjente fagskoletilbud i Finnmark23</p>
+<p>Fagskoletilbud under planlegging23</p>
+<p>Kart over Finnmark24</p>
+<p>INNHOLD4</p>
+<p>Finnmark har et stort utviklingspotensial. Fylket er strategisk plassert både ift naboland og rike natur -resurser. Regjeringen ser nordområdene som Norges viktigste strategiske satsingsområde i årene fremover. For å kunne gripe de nye mulighetene trenger arbeidslivet kvalifisert arbeidskraft. Satsing på kunnskapssektoren er derfor en nøkkel til utvikling. Fagskolen tilbyr korte yrkesretta utdanninger, som bygger på fag-/svennebrev. Økt tilbud innen fagskoleutdanninger vil gi verdifull kompetanse til våre næringer i vekst.</p>
+<p>Fylkeskommunen er en viktig aktør innen regional utvikling, nærings- og kompetanseutvikling i Finnmark. Fagskoleutdanning er et nytt ansvar for fylkeskommunen, og et viktig verktøy i denne konteksten. Det ligger et stort potensiale i å knytte fagskolen tettere til fagopplæring i videregående og næringslivets behov. Denne koblingen kan skape spennende synergier som kan bidra til utvikling langt utover klasserommets fire vegger. Målet er flere fagskoletilbud i Finnmark, og dermed øke tilgangen på etterspurt fagkompetanse. Det erogså en viktig målsetting at den enkelte fagarbeider/elev får tilbud om økt kompetanse og en attraktiv karrierevei.</p>
 <p>Fylkeskommunen har i planen identifisert totalt åtte satsingsområder for fagskoleutdanning. Av disse er områdene er maritim sektor, helse &amp; sosial og mineral gitt særlig prioritet.</p>
-<p>Planprosessen har involvert både offentlige og private aktører, og har vært preget av en optimisme knyttet til næringsutvikling i Finnmark. Behov - et for kompetanse er tydelig, og fagskoleutdanning er sett på som et godt alternativ. Samtidig har uklarhet knyttet til den statlige delfinansi - eringen av fagskoleutdanninger skapt usikkerhet. Fylkes kommunene vil arbeide for at fagskoleutdanning skal få styrket sin posisjon som en “yrkeshøyskole”, som sammen med universitet og høyskoler er hovedpilarene i utdanningssystemet i Norge. For å sikre både kvalitet og kvantitet innen skoleslaget er det viktig med en god og forutsigbar statlig finansiering.</p>
-<p>Målgruppa for fagskoleutdanning er</p>
-<p>fagarbeidere som gjerne er etablert i Finnmark med jobb og familie. For at disse skal få et reelt tilbud om etterutdanning er nærhet til studiested viktig. Derfor må undervisningen være lett tilgjengelig og fortrinnsvis lokalisert i Finnmark.</p>
-<p>Finnmark fylkeskommune ønsker et samarbeid med de nordlige fylkeskommuner slik at et samlet sett får</p>
-<p>Vi ønsker velkommen til private og offentlige aktører som ønsker å tilby fagskoleutdanning i Finnmark, mulig - hetenes fylke!</p>
-<p>Runar Sjåstad</p>
-<p><em type="italic">fylkesordfører</em> </p>
+<p>Planprosessen har involvert både offentlige og private aktører, og har vært preget av en optimisme knyttet til næringsutvikling i Finnmark. Behov -et for kompetanse er tydelig, og fagskoleutdanning er sett på som et godt alternativ. Samtidig har uklarhet knyttet til den statlige delfinansi -eringen av fagskoleutdanninger skapt usikkerhet. Fylkes kommunene vil arbeide for at fagskoleutdanning skal få styrket sin posisjon som en <span type="quote">“yrkeshøyskole”</span>, som sammen med universitet og høyskoler er hovedpilarene i utdanningssystemet i Norge. For å sikre både kvalitet og kvantitet innen skoleslaget er det viktig med en god og forutsigbar statlig finansiering.</p>
+<p>Målgruppa for fagskoleutdanning erfagarbeidere som gjerne er etablert i Finnmark med jobb og familie. For at disse skal få et reelt tilbud om etterutdanning er nærhet til studiested viktig. Derfor må undervisningen være lett tilgjengelig og fortrinnsvis lokalisert i Finnmark.</p>
+<p>Finnmark fylkeskommune ønsker et samarbeid med de nordlige fylkeskommuner slik at et samlet sett får et best mulig utdanningstilbud og rekrutteringsgrunnlag i landsdelen.</p>
+<p>Vi ønsker velkommen til private og offentlige aktører som ønsker å tilby fagskoleutdanning i Finnmark, mulig -hetenes fylke!</p>
+<p>FORORD</p>
+<p>Runar Sjåstad <em type="italic">fylkesordfører </em>5 </p>
 <p>INNLEDNING</p>
 <p>Fagskoleplanen er en strategisk plan som viser fylkeskommunens politiske og administrative engasjement innen fagskoleutdanning. Planen viser hvilken rolle fylkeskommunen har som ny forvalter av fagskoleutdanning, samt hvilke utviklingsområder fylkeskommunen særlig vil legge til rette for i kommende planperiode.</p>
 <p>Statlige føringer, fylkesplan for Finnmark, regionalpolitiske strategier, KompeTent region og økonomiplanen vil sammen med Lov om fagskoleutdanning legge rammene for planen.</p>
 <p>Planen inneholder to deler. Første del gir faktaopplysninger om fagskolen. Dette er en ny oppgave for fylkeskommunen, og det gis derfor en grundig beskrivelse av skoleslaget og fylkeskommunens ansvar og rolle.</p>
-<p>I andre del presenteres innsatsområdene, delmål, utfordringer og strategier for kommende planperiode.</p>
-<p>HVA ER FAGSKOLEUTDANNING?</p>
-<p>Fagskoleutdanning er yrkesrettede utdanninger som bygger på videre - gående opplæring eller tilsvarende realkompetanse. Utdanningene har et omfang på et halvt til to studieår og er en del av tertiærutdanningen, det vil si utdanning på nivået over videregående opplæring. Med yrkesrettet utdanning menes utdanning som gir kompetanse som kan tas i bruk i arbeidslivet uten ytterligere generelle opplæringstiltak. Fagskolene har en viktig rolle som tilbydere av <span type="quote">«skreddersøm»</span> for arbeidslivet, og er en betydelig leverandør av etter- og videreutdanning.</p>
+<p>I andre del presenteres innsatsområdene, delmål, utfordringer og strategier for kommende planperiode. 6</p>
+<p>Fagskoleutdanning er yrkesrettede utdanninger som bygger på videre -gående opplæring eller tilsvarende realkompetanse. Utdanningene har et omfang på et halvt til to studieår og er en del av tertiærutdanningen, det vil si utdanning på nivået over videregående opplæring. Med yrkesrettet utdanning menes utdanning som gir kompetanse som kan tas i bruk i arbeidslivet uten ytterligere generelle opplæringstiltak. Fagskolene har en viktig rolle som tilbydere av <span type="quote">«skreddersøm»</span> for arbeidslivet, og er en betydelig leverandør av etter- og videreutdanning.</p>
 <p>Det tilbys i dag over tusen ulike fagskoleutdanninger innen svært ulike fagfelt – alt fra frelsesarmeens offiserskole til filmskole og tekniske fag. Fagene tilbys både som heltid, deltid og nettbaserte kurs.</p>
 <p>Fagskoleutdanningen er både i sterk vekst og endring. Utdanningstilbudet har eksistert i mange år og har vært svært heterogent. Nå arbeides det for en standardisering og innpassing av studietilbudet i både nasjonale og internasjonale standarder. Det er opprettet et nasjonalt fagskoleråd som skal bistå Kunnskapsdepartementet i dette arbeidet.</p>
-<p>Figuren nedenfor viser innplasseringen av fagskoleutdanningen i det norske utdanningssystemet. Fagskoleutdanning skiller seg fra</p>
-<p>annen høyere utdanning blant annet ved at det ikke stilles krav om studiekompetanse ved opptak. Studiet er heller ikke forskningsbasert, men praktisk og yrkesretta. Stiplet linje mellom fagskole og bachelor indikerer at studenten kan gå fra fagskolen videre til eksempelvis ingeniørutdanning og få avkorting i studietiden.</p>
+<p>Figuren nedenfor viser innplasseringen av fagskoleutdanningen i det norske utdanningssystemet. Fagskoleutdanning skiller seg fraannen høyere utdanning blant annet ved at det ikke stilles krav om studiekompetanse ved opptak. Studiet er heller ikke forskningsbasert, men praktisk og yrkesretta. Stiplet linje mellom fagskole og bachelor indikerer at studenten kan gå fra fagskolen videre til eksempelvis ingeniørutdanning og få avkorting i studietiden.</p>
 <p>NOKUT (Nasjonalt organ for kvalitet i utdanningen) har ansvaret for å godkjenne nye fagskoleutdannelser, og fører tilsyn med kvalitet i utdanningen. For å opprette nye fagskoler/ utdanningstilbud må en søke NOKUT om godkjenning.</p>
-<p>Det er arbeidslivet som er premissleverandør for hvilke tilbud som skal opprettes, og hva innholdet skal være. Det er et krav at utdannelsen skal være yrkesretta.</p>
-<p>Fagskoletilbudet er svært ulikt fordelt rundt om i landet. De områder av landet som har sterke næringstradisjoner har også gjerne et godt utbygd fagskoletilbud, eksempelvis Mørekysten Vestlandet og Gjøviksområdet.  De store forskjellene blir godt synlig gjennom den statlige fordelingen av midler (se faktaboks).</p>
-<p><em type="italic">Finnmarksfisk med Nordkapp maritime fagskole og videregående skole i bakgrunnen.</em> </p>
-<p><em type="bold">Fordeling av statlige tilskudd til</em> <em type="bold">offentlige fagskoler, 2010. </em></p>
-<p>Hordaland71 mill Møre og Romsdal40 mill Oppland34 mill Rogaland30 mill Hedmark0,7 mill Finnmark2,9 mill</p>
+<p>Det er arbeidslivet som er premissleverandør for hvilke tilbud som skalopprettes, og hva innholdet skal være. Det er et krav at utdannelsen skal være yrkesretta.</p>
+<p>Fagskoletilbudet er svært ulikt fordelt rundt om i landet. De områder av landet som har sterke næringstradisjoner har også gjerne et godt utbygd fagskoletilbud, eksempelvis Mørekysten Vestlandet og Gjøviksområdet. De store forskjellene blir godt synlig gjennom den statlige fordelingen av midler (se faktaboks).</p>
+<p><em type="bold">Fordeling av statlige tilskudd til offentlige fagskoler, 2010. </em></p>
+<p>Hordaland71 mill</p>
+<p>Møre og Romsdal40 mill</p>
+<p>Oppland34 mill</p>
+<p>Rogaland30 mill</p>
+<p>Hedmark0,7 mill</p>
+<p>Finnmark2,9 mill</p>
 <p>I 2009 var det totalt 16.200 fagskolestudenter i Norge 65 % i private skoler 35% i offentlige skoler</p>
 <p>Økning av studenter i offentlige fagskoler 2009/10 – økning på 17 prosent fra året før 2010/2011 – foreløpig økning på 10 prosent fra året før</p>
-<p><em type="italic">Råvarer fra Finnmark representerer særpreg og mangfold i forhold til tradisjon, kultur, klima, miljø og natur. </em>Foto: Ola Solvang </p>
+<p>DEL 1 HVA ER FAGSKOLEUTDANNING?</p>
+<p><em type="italic">Finnmarksfisk med Nordkapp maritime fagskole og videregående skole i bakgrunnen. </em>7 </p>
 <p>Fagskoleloven (2003) beskriver lovens formål og blant annet fylkeskommunens rolle. Loven stiller krav til styreordning, læringsmiljø og studentenes rettigheter.</p>
-<p><em type="bold">Politiske føringer</em> </p>
-<p>Kunnskapsdepartementet har ansvar for overordnet fagskolepolitikk. Et nytt fagskoleråd er etablert (2010) som skal bidra til at utdanningssektoren f år et felles talerør og møteplass. Fagskolerådet skal styrke rollen til fagskolene, og medvirke til ei mer målretta utvikling av fagskoletilbudet.</p>
+<p><em type="bold">Politiske føringer </em>Kunnskapsdepartementet har ansvar for overordnet fagskolepolitikk. Et nytt fagskoleråd er etablert (2010) som skal bidra til at utdanningssektoren f år et felles talerør og møteplass. Fagskolerådet skal styrke rollen til fagskolene, og medvirke til ei mer målretta utvikling av fagskoletilbudet. </p>
 <p>Innenfor helse og sosial er fagskolene en del av Omsorgsplan 2015 og det er satt av tilskuddsmidler på 75 millioner som skal sikre en stabil finansiering av fagskoleutdanninger innen helse og sosialfag. Tilskuddet gis som en stykkprisfinansiering etter søknad. Det forventes at dette tilskuddet varer ut 2015.</p>
-<p>Landbruks- og matdepartementet har</p>
-<p>i tilskuddsbrev for 2010 en klar forventning til fylkeskommunene om å vurdere opprettelse av fagskoletilbud spesielt rettet mot landbruket.</p>
-<p><em type="bold">Økonomi</em> </p>
-<p>Dagens tilskuddsordning baserer seg på antall studenter i tekniske/ maritime fagskoler i fylket. Finnmark sitt tilskudd for 2010 var på 2,3 millioner, midler som i sin helhet gikk til Nordkapp Maritime fagskole. I tillegg fikk fylkeskommunen 573 000 i øremerkede midler til fagskoleutdan - ning innen helse- og sosialfag.</p>
-<p>Det er forventet endringer i finansi - eringsmodellen for fagskoletilbudet fra 2012.  Hvilken finansieringsmodell som velges vil få stor betydning for muligheten vi har til å bygge opp et godt tilbud i fylket.</p>
+<p>Landbruks- og matdepartementet hari tilskuddsbrev for 2010 en klar forventning til fylkeskommunene om å vurdere opprettelse av fagskoletilbud spesielt rettet mot landbruket.</p>
+<p><em type="bold">Økonomi </em>Dagens tilskuddsordning baserer seg på antall studenter i tekniske/ maritime fagskoler i fylket. Finnmark sitt tilskudd for 2010 var på 2,3 millioner, midler som i sin helhet gikk til Nordkapp Maritime fagskole. I tillegg fikk fylkeskommunen 573 000 i øremerkede midler til fagskoleutdan -ning innen helse- og sosialfag. </p>
+<p>Det er forventet endringer i finansi -eringsmodellen for fagskoletilbudet fra 2012. Hvilken finansieringsmodell som velges vil få stor betydning for muligheten vi har til å bygge opp et godt tilbud i fylket.</p>
 <p>Drift av klasser innen fagskoleutdanning koster om lag det samme som videregående opplæring, det vil si gjennomsnittlig årlig utgift på 1.1 millioner kroner pr klasse.</p>
 <p>De fleste andre fagretninger tilbys av private skoler og mottar ikke statlig støtte. Disse skolene finansieres ofte av studentbetaling.</p>
-<p><em type="bold">Styreordning</em> </p>
-<p>Fagskolen har styre som øverste beslutningsmyndighet. Dette innebærer at innenfor fagskolens ramme er det styret som blant annet har ansvar for daglig drift, kvalitet, læringsmiljø og ansettelse av faglig og administrativ leder.</p>
+<p><em type="bold">Styreordning </em>Fagskolen har styre som øverste beslutningsmyndighet. Dette innebærer at innenfor fagskolens ramme er det styret som blant annet har ansvar for daglig drift, kvalitet, læringsmiljø og ansettelse av faglig og administrativ leder. </p>
 <p>Kompetanseutvalget har fattet vedtak (28.09.10) om styreordning for offentlige fagskoler i Finnmark.</p>
-<p><em type="italic">Styreordning for nye fagskoletilbud i</em> <em type="italic">Finnmark vurderes og besluttes når</em> <em type="italic">slike tilbud opprettes. I prinsippet valg -</em> <em type="italic">fri styreordning. Kompetanseutvalget</em> <em type="italic">beslutter styreordning i det enkelte tilfellet.</em> </p>
-<p>Ansvaret for drift og forvaltning av fagskolen ble som en del av forvaltningsreformen overført fra staten til fylkeskommunen 01.01. 2010. Fagskolen er forankret i lov om fagskole - utdanning (2003). Loven inneholder en ny paragraf som beskriver fylkeskommunens rolle.</p>
-<p><em type="italic">§ 1a. Fylkeskommunen skal sørge for</em> <em type="italic">at det tilbys godkjent fagskoleutdanning som tar hensyn til lokalt, regionalt</em> <em type="italic">og nasjonalt kompetansebehov innenfor prioriterte samfunnsområder.</em> </p>
-<p>I tillegg er Fylkeskommunen tilskuddsmyndighet for alle fagskoleutdanninger.  Godkjente fagskoler har mulighet til å søke fylkeskommunen om tilskudd, men de har ikke <em type="italic">rett</em>til å motta tilskudd. </p>
-<p>De fleste fylkeskommuner eier egne fagskoler slik at en også innehar rollen som tilbyder/ eier av fagskole. Fylkeskommunen har derfor en tredelt rolle:</p>
-<p type="listitem">– Overordnet ansvar for at det tilbys etterspurt fagskoleutdanning</p>
-<p type="listitem">– Tilskuddsmyndighet</p>
-<p type="listitem">– Eier/ tilbyder av fagskoleutdanning.</p>
-<p>På hvilken måte en skal <em type="italic">sørge for</em>at det tilbys utdanning er ikke definert, og det er flere alternativer. Noen av disse er: </p>
-<p type="listitem">– opprette egne fagskoletilbud</p>
-<p type="listitem">– samarbeide med andre tilbydere om å gi fagskoletilbud i Finnmark (både offentlige og private aktuelle)</p>
-<p type="listitem">– tilskudd</p>
-<p type="listitem">– gjennomføre anbud</p>
-<p>Det er beskrevet at fylkeskommunen kan<em type="italic">prioritere å tilpasse yrkesrettet ut</em></p>
-<p><em type="italic">danning til regionalt arbeidsliv, (…) i</em> <em type="italic">sammenheng med studieprogrammene i videregående opplæring</em>, </p>
-<p>jf. St.meld. nr. 12 (2006–2007) Regionale fortrinn – regional framtid.</p>
+<p><em type="italic">Styreordning for nye fagskoletilbud i Finnmark vurderes og besluttes når slike tilbud opprettes. I prinsippet valg -fri styreordning. Kompetanseutvalget beslutter styreordning i det enkelte tilfellet. </em></p>
+<p>SENTRALE FØRINGER OG RAMMEBETINGELSER</p>
+<p><em type="italic">Råvarer fra Finnmark representerer særpreg og mangfold i forhold til tradisjon, kultur, klima, miljø og natur. </em></p>
+<p>Ola Solvang8</p>
+<p><em type="italic">Fylkestinget skal sørge for at det tilbys godkjent fagskoleutdanning innenfor prioriterte samfunnsområder. </em></p>
+<p>Harald Hereide</p>
+<p>Ansvaret for drift og forvaltning av fagskolen ble som en del av forvaltningsreformen overført fra staten til fylkeskommunen 01.01. 2010. Fagskolen er forankret i lov om fagskole -utdanning (2003). Loven inneholder en ny paragraf som beskriver fylkeskommunens rolle. <em type="italic">§ 1a. Fylkeskommunen skal sørge for at det tilbys godkjent fagskoleutdanning som tar hensyn til lokalt, regionalt og nasjonalt kompetansebehov innenfor prioriterte samfunnsområder. </em></p>
+<p>I tillegg er Fylkeskommunen tilskuddsmyndighet for alle fagskoleutdanninger. Godkjente fagskoler har mulighet til å søke fylkeskommunen om tilskudd, men de har ikke <em type="italic">rett </em>til å motta tilskudd. </p>
+<p>De fleste fylkeskommuner eier egne fagskoler slik at en også innehar rollen som tilbyder/ eier av fagskole.</p>
+<p>Fylkeskommunen har derfor en tredelt rolle: – Overordnet ansvar for at det tilbysetterspurt fagskoleutdanning – Tilskuddsmyndighet – Eier/ tilbyder av fagskoleutdanning.</p>
+<p>På hvilken måte en skal <em type="italic">sørge for </em>at det tilbys utdanning er ikke definert, og det er flere alternativer. Noen av disse er: – opprette egne fagskoletilbud – samarbeide med andre tilbydere omå gi fagskoletilbud i Finnmark (både offentlige og private aktuelle)– tilskudd – gjennomføre anbud </p>
+<p>Det er beskrevet at fylkeskommunen kan <em type="italic">prioritere å tilpasse yrkesrettet utdanning til regionalt arbeidsliv, (…) i sammenheng med studieprogrammene i videregående opplæring </em>, jf. St.meld. nr. 12 (2006–2007) Regionale fortrinn – regional framtid. </p>
 <p>I tillegg er det lagt nasjonal føring på at fagskolestudenter skal kunne velge studietilbud uavhengig av bostedsfylke, dvs være mobile over fylkesgrensene.</p>
 <p>Fylkestinget utformer plan og strategi for tilbudet (dette dokument), og gir de overordna økonomiske rammene. Kompetanseutvalget har fått delegert myndighet og vedtar hvilke fylkeskommunale fagskoletilbud som skal igangsettes.</p>
 <p>Fylkesråden for kompetanse og utdanning avgjør hvilke tilbydere som etter søknad, skal få økonomiske tilskudd.</p>
-<p><em type="italic">Fylkestinget skal sørge for at det tilbys godkjent fagskoleutdanning innenfor prioriterte samfunnsområder.</em>Foto: Harald Hereide <em type="bold">Nordkapp maritime fagskole</em> </p>
-<p><em type="bold">Nautisk linje</em> </p>
-<p><em type="bold">Helse og sosial</em> </p>
-<p>Finnmark fylkeskommune er eier fagskolen. Skolen utdanner i dag skipsoffiserer innen klasse D4 og D1. Skolen har i dag 23 studenter. Skolen investerte i ny simulator i 2008, og har derfor godt utstyr. Undervisningspersonalet ved skolen er stabilt og har høy kompetanse. Gjennomføringsprosenten er svært god, for skoleåret 2009/2010 gjennomførte og bestod alle studentene.</p>
+<p>FYLKESKOMMUNENS ROLLE OG ANSVAR9</p>
+<p><em type="bold">Nordkapp maritime fagskole </em></p>
+<p><em type="bold">Nautisk linje </em>Finnmark fylkeskommune er eier fagskolen. Skolen utdanner i dag skipsoffiserer innen klasse D4 og D1. Skolen har i dag 23 studenter. Skolen investerte i ny simulator i 2008, og har derfor godt utstyr. Undervisningspersonalet ved skolen er stabilt og har høy kompetanse. Gjennomføringsprosenten er svært god, for skoleåret 2009/2010 gjennomførte og bestod alle studentene. </p>
 <p>Fagskolestyre har søkt NOKUT om godkjenning for 2-årig linje skipsteknisk drift, og styre har vedtatt å sette i gang tilbudet.</p>
-<p>Nordkapp maritime fagskole har NOKUT godkjent utdanningstilbud innen rehabilitering. Denne undervisningen er planlagt i samarbeid med Nordkapp kommunehelsetjeneste. Skolen ønsker å igangsette undervisning hvor målgruppen er helsepersonell i kommuner i Finnmark. Undervisningen skal gjennomføres med samlinger i Honningsvåg.</p>
-<p><em type="bold">Folkeuniversitetet i Alta</em> </p>
-<p>Folkeuniversitetet er en privat tilbyder som har godkjenning for følgende studier: anleggsgartner, bygg tapetserer, feier, glassfaget, kobber- og blikken - slager, kulde- og varmepumpemontør, maler, murer, rørlegger, steinfaget, stillasbygger, taktekker og tømrer.</p>
+<p><em type="bold">Helse og sosial </em>Nordkapp maritime fagskole har NOKUT godkjent utdanningstilbud innen rehabilitering. Denne undervisningen er planlagt i samarbeid med Nordkapp kommunehelsetjeneste. Skolen ønsker å igangsette undervisning hvor målgruppen er helsepersonell i kommuner i Finnmark. Undervisningen skal gjennomføres med samlinger i Honningsvåg. </p>
+<p><em type="bold">Folkeuniversitetet i Alta </em></p>
+<p>Folkeuniversitetet er en privat tilbyder som har godkjenning for følgende studier: anleggsgartner, bygg tapetserer, feier, glassfaget, kobber- og blikken -slager, kulde- og varmepumpemontør, maler, murer, rørlegger, steinfaget, stillasbygger, taktekker og tømrer.</p>
 <p>Tilbyderen vurderer å starte opp med tilbud innen helse- og sosial.</p>
-<p><em type="bold">Nettbaserte tilbud</em> </p>
+<p><em type="bold">Nettbaserte tilbud </em></p>
 <p>På landsbasis finnes det en rekke nettbaserte studier som er tilgjengelig for alle. De fleste av disse tilbudene er private. Statistikken for fagskole er svak, og tallmateriale for hvor mange fra Finnmark som tar nettbaserte tilbud er usikkert.</p>
-<p><em type="italic">Kirkenes videregående samarbeider med lokalt næringsliv om opprettelse av fagskoletilbud.</em> </p>
-<p>MULIGHETER OG UTFORDRINGER</p>
+<p>STATUS FOR FAGSKOLER I FINNMARK</p>
+<p><em type="italic">Kirkenes videregående samarbeider med lokalt næringsliv om opprettelse av fagskoletilbud. </em>10 </p>
 <p>Fylkeskommunen sitt nye ansvar for fagskoleutdanning gir muligheter, både for fylkeskommunen som regional utviklingsaktør, for fagarbeidere, videregående skoler og privat næringsliv i fylket. Samtidig ser fylkeskommunen noen utfordringer knyttet til satsing på fagskoleutdanning. I denne delen av planen ser vi først på generelle muligheter og utfordringer. I siste del av dokumentet blir innsatsområder for kommende planperiode presentert og vurdert.</p>
-<p><em type="bold">Muligheter</em> </p>
-<p>Økt satsing på fagskole vil gi flere utdanningstilbud lokalisert i Finnmark. Enklere tilgang på utdanningen vil gi flere mulighet til å velge dette utdanningstilbudet. Fagskolen gir fagarbeideren tilgang på etter- og videreutdanning, økt kompetanse, og nye muligheter i arbeidslivet. For voksne med lang fartst</p>
-<p>Dersom flere velger fagskoleutdanning gir dette arbeidslivet økt tilgang på <span type="quote">“spisset”</span> fagkompetanse og mellomledere. Økt kompetanse kan igjen gi grobunn for innovasjon og utvikling. I regjeringens nordområdesatsing heter det<em type="italic">”Utdanning, kompetanse og</em> </p>
-<p><em type="italic">kunnskap er nøkkelen til å utnytte</em> <em type="italic">mulighetene i nord”.</em> </p>
+<p><em type="bold">Muligheter </em>Økt satsing på fagskole vil gi flere utdanningstilbud lokalisert i Finnmark. Enklere tilgang på utdanningen vil gi flere mulighet til å velge dette utdanningstilbudet. Fagskolen gir fagarbeideren tilgang på etter- og videreutdanning, økt kompetanse, og nye muligheter i arbeidslivet. For voksne med lang fartstid er fagskolen en mulighet til å få formalisert sin kompetanse (realkompetansevur -dering). Nye og flere karrieremulig -heter for fagarbeidere kan bidra til høyere status for fagutdanningen generelt. </p>
+<p>Dersom flere velger fagskoleutdanning gir dette arbeidslivet økt tilgang på <span type="quote">“spisset”</span> fagkompetanse og mellomledere. Økt kompetanse kan igjen gi grobunn for innovasjon og utvikling. I regjeringens nordområdesatsing heter det <em type="italic"><span type="quote">”Utdanning, kompetanse og kunnskap er nøkkelen til å utnytte mulighetene i nord”</span>. </em></p>
 <p>Flere næringer er i vekst i Finnmark, og disse vil ha behov for flere kompetente medarbeider i årene framover. Fagskoleutdanningen som <span type="quote">“leverandør”</span> av fagkompetanse vil være et viktig bidrag for å dekke dette behovet. Ved å høyne kompetansenivået i næringslivet generelt kan vi utløse ubrukte potensialer, og utvikle regionale næringsfortrinn.</p>
-<p>Finnmark har i dag en privat tilbyder av fagskoleutdanning som er lokalisert i fylket. Med økt satsing på skoleslaget kan det bli lønnsomt for flere aktører å gå inn i dette markedet.</p>
-<p>Økt satsing kan også føre til flere offent lige fagskoler. Ved å koble fagskolen til videregående skole er det effektiviseringsgevinster ift både bruk av utstyr, lokaler, lærekrefter mm. I tillegg kan rådgivere/ karriereveiledere i skolen se videregående- og fagskolen i sammenheng, og gi god informasjon til eleven/studenten om videre muligheter. Fagskoleutdanningen skal uformes i nært samarbeid med aktuelle bransjer. Tett samarbeid kan gi både fagskole og bransje gevinster i form av økt kompetanse, nettverk og mer kunnskap om hverandres behov og virkelighet. For videregående skoler som oppretter fagskoletilbud kan disse gevinstene også brukes inn mot opplæringsprogram på videregående skolenivå. Tett samarbeid med næringsliv kan virke motiverende på elever og føre til at flere gjennomfører videregående opplæring.</p>
-<p><em type="italic">Fagskoleutdanningen skal uformes i nært samarbeid med næringslivet.  </em></p>
-<p>Jan Erik Stene</p>
-<p><em type="italic">Matfylket Finnmark har fokus på sjømat, jordbruk og reindrift.</em>Foto: Kari Thomassen </p>
+<p>Finnmark har i dag en privat tilbyder av fagskoleutdanning som er lokaliserti fylket. Med økt satsing på skoleslaget kan det bli lønnsomt for flere aktører å gå inn i dette markedet.</p>
+<p>Økt satsing kan også føre til flere offent lige fagskoler. Ved å koble fagskolen til videregående skole er det effektiviseringsgevinster ift både bruk av utstyr, lokaler, lærekrefter mm. I tillegg kan rådgivere/ karriereveiledere i skolen se videregående- og fagskolen i sammenheng, og gi god informasjon til eleven/studenten om videre muligheter.</p>
+<p>Fagskoleutdanningen skal uformes i nært samarbeid med aktuelle bransjer. Tett samarbeid kan gi både fagskole og bransje gevinster i form av økt kompetanse, nettverk og mer kunnskap om hverandres behov og virkelighet. For videregående skoler som oppretter fagskoletilbud kan disse gevinstene også brukes inn mot opplæringsprogram på videregående skolenivå. Tett samarbeid med næringsliv kan virke motiverende på elever og føre til at flere gjennomfører videregående opplæring.</p>
+<p>DEL 2 MULIGHETER OG UTFORDRINGER</p>
+<p><em type="italic">Fagskoleutdanningen skal uformes i nært samarbeid med næringslivet. </em></p>
+<p>Jan Erik Stene11</p>
 <p>Fylkeskommunen har en viktig rolle som regional utviklingsaktør og har oppgaver innen eksempelvis næringsutvikling som kan knyttes mot fagskolen og gi synergieffekter.</p>
-<p><em type="bold">Utfordringer</em> </p>
-<p>En generell utfordring med tertiærutdannelse (fagskole/høyskole/universitet) i Finnmark er å rekruttere tilstrekkelig med studenter. Rekrut te - ringsgrunnlaget internt i Finnmark er relativt begrenset, noe høyskolene i fylket merker.  Fagskolen retter seg likevel inn mot en annen målgruppe enn høyskole/universitet og kan derfor ha enklere for å rekruttere. Den typiske fagskolekandidaten kan være 29 år, etablert, i jobb, har fagbrev, ønsker faglig utvikling og kanskje en mellomlederstilling.</p>
+<p><em type="bold">Utfordringer </em>En generell utfordring med tertiærutdannelse (fagskole/høyskole/universitet) i Finnmark er å rekruttere tilstrekkelig med studenter. Rekrut te -ringsgrunnlaget internt i Finnmark er relativt begrenset, noe høyskolene i fylket merker. Fagskolen retter seg likevel inn mot en annen målgruppe enn høyskole/universitet og kan derfor ha enklere for å rekruttere. Den typiske fagskolekandidaten kan være 29 år, etablert, i jobb, har fagbrev, ønsker faglig utvikling og kanskje en mellomlederstilling. </p>
 <p>For enkelte fagskoleutdanninger er det aktuelt å se hele Barentsregionen som rekrutteringsgrunnlag, noe som gir et større marked. Studenttallene framover peker i rett retning – det forventes at flere tar høyere utdanning, også innenfor fagopplæring. Undersøkelser gjort av flere fylkeskommuner viser at en tredjedel av lærlingene ønsker å ta videreutdanning etter fagbrev (jf Fagopplæringshåndboka 2009/2010).</p>
-<p>Fagskoletilbudet og innholdet i utdannelsen skal utformes i <em type="italic">samarbeid</em> med næringslivet. En utfordring i Finnmark er at enkelte bransjer (eksempelvis reindrift og opplevelsesbedrifter) domineres av små bedrifter. Innen disse næringene kan behovet for økt kompetanse være stort, men bedriftenes mulighet/ kapasitet til å etterspørre kompetanseheving og bidra til utvikling av en fagskoleutdanning, kan være begrenset. </p>
+<p>Fagskoletilbudet og innholdet i utdannelsen skal utformes i <em type="italic">samarbeid </em>med næringslivet. En utfordring i Finnmark er at enkelte bransjer (eksempelvis reindrift og opplevelsesbedrifter) domineres av små bedrifter. Innen disse næringene kan behovet for økt kompetanse være stort, men bedriftenes mulighet/ kapasitet til å etterspørre kompetanseheving og bidra til utvikling av en fagskoleutdanning, kan være begrenset. </p>
 <p>For tilbydere er det en krevende og langvarig prosess å få godkjent nye tilbud. Dette gjør at tilbud ikke kan opprettes like raskt og fleksibelt som eksempelvis videregående opplæringstilbud.</p>
-<p>En tredje stor utfordring er økonomi, og flere forhold er her problematiske. Fylkeskommunen mottar i dag tilskudd basert på antall studenter. Denne </p>
-<p>Handlingsrommet fylkeskommunene har i dag er snevert. Gjennom å finan - siere kun enkelte utdanninger (teknisk, maritim, helse og sosial) legger sentrale myndigheter sterke føringer for hvilke utdanninger som skal tilbys. Studenter opplever det også som urettferdig at noen fagskoleutdanninger er gratis, mens andre er svært kostbare.</p>
+<p>En tredje stor utfordring er økonomi, og flere forhold er her problematiske. Fylkeskommunen mottar i dag tilskudd basert på antall studenter. Denne ordningen favoriserer store skoler med mange studenter. Sannsynligvis vil fagskoletilbud i Finnmark har relativt få studenter og det vil være krevende å få budsjettet til å gå i balanse. Kostnaden med å utdanne eksempelvis fagskoleingeniører i Finnmark kan derfor være relativt høy. Samtidig kan behovet være stort og samfunnsnytten høy.</p>
+<p>Utdanningstilbudet er ikke fullfinansiert. Særlig utdanninger innen maritime fag har høye variable kostnader, eksempelvis sikkerhetskurs til alle studenter. Manglende fullfinansiering, kombinert med at utdannelsen ikke er rettighetsbasert gjør at skoleslaget er utsatt i fylkeskommunale budsjettprosesser.</p>
+<p>Handlingsrommet fylkeskommunene har i dag er snevert. Gjennom å finan -siere kun enkelte utdanninger (teknisk, maritim, helse og sosial) legger sentrale myndigheter sterke føringer for hvilke utdanninger som skal tilbys. Studenter opplever det også som urettferdig at noen fagskoleutdanninger er gratis, mens andre er svært kostbare.</p>
 <p>Det er forventet at tilskuddsordningen skal endres i forbindelse med innføringen av ny kostnadsnøkkel for fylkeskommuner. For å etablere fagskolen som en viktig brikke i utdanningssystemet er det helt avgjørende at sentrale myndigheter øker den totale økonomiske rammen. Bedre økonomi vil også gi fylkeskommunene handlingsrom til å se fagskoleutdanningen i sammenheng med regional utvikling og gjøre ulike prioriteringer ut fra lokale behov.</p>
+<p><em type="italic">Matfylket Finnmark har fokus på sjømat, jordbruk og reindrift. </em></p>
+<p>Kari Thomassen12</p>
 <p>Finnmark fylkeskommune ønsker å legge til rette for utvikling av fagskoleutdanning innen åtte innsatsområder. Disse er: energifylket, mineralfylket, matfylket, opplevelsesfylket, kulturnæringsfylket, helse &amp; sosial, bygg &amp; anlegg, samt maritim sektor.</p>
-<p>De fem første innsatsområdene er definert i Regionalt utviklingsprogram 2010 – 2013. Innen disse feltene er det enten stort behov for økt kompetanse, eller et sterkt ønske om utvikling. Kompetanseheving gjennom fagskoletilbud kan bidra til en slik utvikling. De neste tre innsatsområdene er bransjer hvor det i planprosessen har framkommet et tydelig behov for kompetanse.</p>
-<p>For å kunne satse på fagskoleutdanning er det en del kriterier som bør være tilstede.</p>
-<p type="listitem">– Tydelig kompetansebehov i næringen</p>
-<p type="listitem">– Engasjert tilbyder (privat eller offentlig)</p>
-<p type="listitem">– Samarbeidspartner i aktuell bransje/næring</p>
-<p type="listitem">– Godt rekrutteringsgrunnlag</p>
-<p type="listitem">– Finansiering av tilbudet</p>
+<p>De fem første innsatsområdene er definert i Regionalt utviklingsprogram 2010 – 2013. Innen disse feltene er det enten stort behov for økt kompetanse, eller et sterkt ønske om utvikling. Kompetanseheving gjennom fagskoletilbud kan bidra til en slik utvikling.</p>
+<p>De neste tre innsatsområdene er bransjer hvor det i planprosessen har framkommet et tydelig behov for kompetanse.</p>
+<p>For å kunne satse på fagskoleutdanning er det en del kriterier som bør være tilstede. – Tydelig kompetansebehov inæringen– Engasjert tilbyder (privat eller offentlig)– Samarbeidspartner i aktuellbransje/næring– Godt rekrutteringsgrunnlag – Finansiering av tilbudet</p>
 <p>Alle åtte innsatsområder er vurdert ut fra disse kriteriene.</p>
-<p><em type="bold">Av de totalt 8 innsatsområdene vil Fylkestinget særlig prioritere:</em> </p>
-<p type="listitem">– Dagens tilbud innen maritim sektor ved Nordkapp Maritime fagskole</p>
-<p type="listitem">– Fagskoleutdanning innen helse og sosial, særlig den NOKUT-godkjente utdanningen innen rehabilitering ved Nordkapp Maritime fagskole.</p>
-<p type="listitem">– Fagskoleutdanning innenfor bergverk/ mineral, igangsatt prosjekt ved Kirkenes videregående skole.</p>
-<p><em type="italic">Fagskoleutdanning innen bergverk og mineral er ett av innsatsområdene fylkestinget særlig vil prioritere. </em>Foto: Finnmarken </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Utvikle fagskoletilbudet innen nautisk linje ved Nordkapp Maritime fagskole.</p>
+<p><em type="bold">Av de totalt 8 innsatsområdene vil Fylkestinget særlig prioritere: </em>– Dagens tilbud innen maritim sektorved Nordkapp Maritime fagskole – Fagskoleutdanning innen helse ogsosial, særlig den NOKUT-godkjente utdanningen innen rehabilitering ved Nordkapp Maritime fagskole.– Fagskoleutdanning innenfor berg-verk/ mineral, igangsatt prosjekt ved Kirkenes videregående skole. </p>
+<p>INNSATSOMRÅDER</p>
+<p><em type="italic">Fagskoleutdanning innen bergverk og mineral er ett av innsatsområdene fylkestinget særlig vil prioritere. </em></p>
+<p>Finnmarken13</p>
+<p><em type="bold">Maritim </em></p>
+<p>Delmål Utvikle fagskoletilbudet innen nautisk linje ved Nordkapp Maritime fagskole.</p>
 <p>Legge til rette for fagskoleutdanning innen skipsteknisk drift i Finnmark.</p>
 <p>Den maritime næringen i Norge og Finnmark har lange tradisjoner. Fagskolene har spilt en sentral rolle i utdanning av skipsoffiserer både til innenlands og utenlands flåte. Med økt skipstrafikk gjennom dem nordlige sjørute (NSR) vil det også bli større aktivitet knyttet til maritime næringer, kaianlegg, beredskap og skipstrafikk.</p>
 <p>Innen maritime fag eier Finnmark fylkeskommune en fagskole; Nordkapp Maritime fagskole som utdanner skipsoffiserer. Skolen er godt etablert i markedet, og har et godt renommé. Skolen har stabilt personell med høy fagkompetanse som er dedikerte til jobben sin. Skolen rekrutterer i hovedsak studenter fra Finnmark. Arbeidsmarkedet for kandidatene er godt, både nasjonalt og internasjonalt. Maritime fagskoler i Norge er godt etablert i markedet og utdanner de fleste skipsoffiserene, til tross for at denne utdannelsen også tilbys ved høyskoler.</p>
-<p>Etter store investeringer i 2008 har skolen teknisk utstyr av høy standard, og er som eneste skole i landet sertifisert for ecdis/ais simulator. Fagskolen har en viktig funksjon også som knutepunkt for sjøfolk i området, og har et godt samarbeid med rederinæringen. Skolen har utviklet et utdanningstilbud innen skipsteknisk drift, og vurderer også andre maskin/ nautiske utdannelser, eksempelvis</p>
-<p>Skolen har en utfordring ift å skape et robust læringsmiljø. Kompetanse - miljøet er lite og dette gjør det svært sårbart blant annet ved utskifting av lærere.  Skolen har også en utfordring ift rekruttering. Skolen har i dag fylt opp 23 av 30 plasser. Blant voksne er rekrutteringsgrunnlaget i Finnmark nokså lite. Mange sjøfolk er i dag over 55 år og ikke aktuelle for skipsoffiserutdanning. I tillegg kjennetegnes flåtestrukturen av mange mindre fartøy som ikke gir godkjent fartstid. På videregående nivå er det få som tar fagbrev innen maritime fag.</p>
+<p>Etter store investeringer i 2008 har skolen teknisk utstyr av høy standard, og er som eneste skole i landetsertifisert for ecdis/ais simulator. Fagskolen har en viktig funksjon også som knutepunkt for sjøfolk i området, og har et godt samarbeid med rederinæringen. Skolen har utviklet et utdanningstilbud innen skipsteknisk drift, og vurderer også andre maskin/ nautiske utdannelser, eksempelvis innen elektro-offiser og oljeberedskap.</p>
+<p>Skolen har en utfordring ift å skape et robust læringsmiljø. Kompetanse -miljøet er lite og dette gjør det svært sårbart blant annet ved utskifting av lærere. Skolen har også en utfordring ift rekruttering. Skolen har i dag fylt opp 23 av 30 plasser. Blant voksne er rekrutteringsgrunnlaget i Finnmark nokså lite. Mange sjøfolk er i dag over 55 år og ikke aktuelle for skipsoffiserutdanning. I tillegg kjennetegnes flåtestrukturen av mange mindrefartøy som ikke gir godkjent fartstid. På videregående nivå er det få som tar fagbrev innen maritime fag.</p>
 <p>Maritim utdannelse gis også ved fagskoler i Troms og Nordland.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Statlig underfinansiering av utdannelsen.</p>
-<p type="listitem">– Få store aktører i fylket</p>
-<p type="listitem">– Lite kompetansemiljø gjør den etablerte fylkeskommunale fagskolen sårbar.</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Nordkapp maritime fagskole utreder nye muligheter innen eksempelvis oljevern, beredskap og elektro offiser</p>
-<p type="listitem">– Arbeide for å øke attraktiviteten til maritime utdanninger</p>
-<p type="listitem">– Økt markedsføring nasjonalt av utdannelsen</p>
-<p type="listitem">– Arbeide for statlig fullfinansiering av maritime utdannelser</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
+<p>Utfordringer – Rekruttering – Statlig underfinansiering av utdann-elsen. – Få store aktører i fylket – Lite kompetansemiljø gjør den etablerte fylkeskommunale fagskolen sårbar.</p>
+<p>Strategi – Nordkapp maritime fagskole utredernye muligheter innen eksempelvis oljevern, beredskap og elektro offiser – Arbeide for å øke attraktiviteten tilmaritime utdanninger– Økt markedsføring nasjonalt av ut-dannelsen– Arbeide for statlig fullfinansiering avmaritime utdannelser – Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud – Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
 <p><em type="italic">Nordkapp maritime fagskole investerte i ny avansert simulator i 2008. </em></p>
 <p>Nordkapp maritime fagskole</p>
-<p><em type="italic">TV-dokumentaren <span type="quote">”Hurtigruten minutt for minutt”</span> ble en suksess. </em>Foto: NRK </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for fagskoleutdanning innen helse og sosialfag i Finnmark. Disse fagområdene er særlig aktuelle: lindrende behandling, demens, rehabilitering, rus, psykiatri, eldreomsorg.</p>
-<p>Helse og sosialfagene er en nasjonal satsing gjennom Omsorgsplan 2015, og det gis øremerkede midler til drift av fagskoleutdanning. I tillegg fordeler Fylkesmannen stimuleringsmidler til kommunene for å utdanne og videreutdanne helse- og sosialpersonell.  Flere forhold trekker i retning av økt behov for helse- og sosialpersonell.</p>
-<p>Helse og sosial er den største næringen i Finnmark og sysselsetter i dag 7 – 8000 personer. Innen brukerrettet pleie- og omsorgstjeneste i kommunene er 42 % av ansatte uten relevant utdannelse. I tillegg er mange over 55 år og har derfor få år igjen å arbeide. Det er en kjent sak at spesielt hjelpepleierne pensjoneres tidlig på grunn av det tunge yrket. Å få disse til å stå lenger i jobb er svært viktig. For å opprettholde en god kommune- og spesialisthelsetjeneste er det helt nødvendig å utdanne flere. Behovet for flere ansatte i tjenesten øker jevnt ikke minst på grunn av økningen i antall eldre med hjelpebehov. I følge Helse Finnmark er det i dag større mangel på helsefagarbeidere, enn sykepleiere. NAV Finnmark forventer rekrutteringsproblemer innen omsorgsyrkene.</p>
-<p>Innen enkelte fagfelt er antallet brukere sterkt økende, blant annet innen eldreomsorg og rus og psykiatri. I tillegg får vi Samhandlingsreformen som fører til at kommunene får flere oppgaver de skal løse, og behov for flere ansatte. Oppgavene som skal løses vil også endre seg og kreve spesialkompetanse.</p>
-<p>Fagskolen er en av de viktigste leverandørene av etter- og videreutdanning for hjelpepleiere, omsorgsarbeidere og helsefagarbeidere. Det ligger store muligheter for å utvikle både offentlige og private tilbud. Det eksisterer i dag ikke et stedlig tilbud i Finnmark, kun nettbaserte tilbud som har vært lite etter</p>
+<p><em type="italic">TV-dokumentaren <span type="quote">”Hurtigruten minutt for minutt”</span> ble en suksess. </em></p>
+<p>NRK14</p>
+<p><em type="bold">Helse og sosial </em></p>
+<p>Delmål</p>
+<p>Legge til rette for fagskoleutdann-ing innen helse og sosialfag i Finnmark. Disse fagområdene er særlig aktuelle: lindrende behandling, demens, rehabilitering, rus, psykiatri, eldreomsorg.</p>
+<p>Helse og sosialfagene er en nasjonal satsing gjennom Omsorgsplan 2015, og det gis øremerkede midler til drift av fagskoleutdanning. I tillegg fordeler Fylkesmannen stimuleringsmidler til kommunene for å utdanne og videreutdanne helse- og sosialpersonell. Flere forhold trekker i retning av økt behov for helse- og sosialpersonell.</p>
+<p>Helse og sosial er den største næringen i Finnmark og sysselsetter i dag 7 – 8000 personer. Innen brukerrettet pleie- og omsorgstjeneste i kommunene er 42 % av ansatte uten relevant utdannelse. I tillegg er mange over 55 år og har derfor få år igjen å arbeide. Det er en kjent sak at spesielt hjelpepleierne pensjoneres tidlig på grunn av det tunge yrket. Å få disse til å stå lenger i jobb er svært viktig. For å opprettholde en god kommune- og spesialisthelsetjeneste er det helt nødvendig å utdanne flere.</p>
+<p>Behovet for flere ansatte i tjenesten øker jevnt ikke minst på grunn av økningen i antall eldre med hjelpebehov. I følge Helse Finnmark er det i dag større mangel på helsefagarbeidere, enn sykepleiere. NAV Finnmark forventer rekrutteringsproblemer innen omsorgsyrkene.</p>
+<p>Innen enkelte fagfelt er antallet brukere sterkt økende, blant annet innen eldreomsorg og rus og psykiatri. I tillegg får vi Samhandlingsreformen som fører til at kommunene får flereoppgaver de skal løse, og behov for flere ansatte. Oppgavene som skal løses vil også endre seg og kreve spesialkompetanse.</p>
+<p>Fagskolen er en av de viktigste leverandørene av etter- og videreutdanning for hjelpepleiere, omsorgsarbeidere og helsefagarbeidere. Det ligger store muligheter for å utvikle både offentlige og private tilbud. Det eksisterer i dag ikke et stedlig tilbud i Finnmark, kun nettbaserte tilbud som har vært lite etterspurt av finnmarkinger. I 2010 var det kun 11 Finnmarkinger som tok nettbasert fagskole. Denne andelen er blant de laveste i landet.</p>
 <p>Forholden ligger godt til rette for satsing, behovet er stort og finansieringen er relativt god. En utfordring er likevel rekruttering. Årsakene til dette er flere.</p>
 <p>Etterspørselen etter fagskoleutdanningen er ikke nødvendigvis like stor som behovet. Fagene med stort behov er mindre populære, dette gjelder blant annet eldreomsorg og rus &amp; psykiatri. I tillegg mangler det en <span type="quote">«gulrot»</span> i form av økt lønn. En fagarbeider som tar fagskole i tillegg til fagbrev, får ikke nødvendigvis høyere lønn. For kommunene er det også relativt kostbart å etterutdanne sine ansatte (vikarlønn).</p>
 <p>For å nå målsetting om at flere skal ha relevant utdannelse, må det arbeides</p>
-<p><em type="italic">Fagskoletilbud innen Helse og sosialfag er en nasjonal satsing.</em>Foto: Dag Spant </p>
-<p><em type="italic">Fagskolen er en av de viktigste leverandørene av etter- og videreutdanning for hjelpe</em></p>
-<p><em type="italic">pleiere, omsorgsarbeidere og helsefagarbeidere.</em>Foto: Jan Fredrik Frantzen, UNN. </p>
-<p>munene. Porsanger kommune har jobbet målrettet med kompetanseheving gjennom flere år, og har nådd sin målsetting med relevant utdannelse for alle ansatte innen pleie og omsorg i kommunen.</p>
-<p>Helsefag er et av de største fagområdene i videregående skole. Det er i år god søking til helse og sosialfag, men mange gjennomfører ikke lærlingperioden, til fordel for teoretisk påbygning og får generell studiekompe - tanse.</p>
+<p><em type="italic">Fagskoletilbud innen Helse og sosialfag er en nasjonal satsing. </em></p>
+<p>Dag Spant</p>
+<p><em type="italic">Fagskolen er en av de viktigste leverandørene av etter- og videreutdanning for hjelpepleiere, omsorgsarbeidere og helsefagarbeidere. </em></p>
+<p>Jan Fredrik Frantzen, UNN.15systematisk og langsiktig i kommunene. Porsanger kommune har jobbet målrettet med kompetanseheving gjennom flere år, og har nåddsin målsetting med relevant utdannelse for alle ansatte innen pleie og omsorg i kommunen.</p>
+<p>Helsefag er et av de største fagområdene i videregående skole. Det er i år god søking til helse og sosialfag, men mange gjennomfører ikke lærlingperioden, til fordel for teoretisk påbygning og får generell studiekompe -tanse.</p>
 <p>Det er mange tilbydere innen helse og sosialfag, og det har vært en utfordring at kvaliteten på utdannelsen har variert veldig. Det arbeides i dag fra sentralt hold for å standardisere utdanningene.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Statlig underfinansiering av utdanningen</p>
-<p type="listitem">– Tilpasse utdanningen til behovene i arbeidslivet tilbydere</p>
-<p type="listitem">– Lønnsnivå for fagskoleutdannede</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Arbeide for flere lærlingeplasser innen helse og sosialfag på videregående nivå.</p>
-<p type="listitem">– Arbeide for at det utdannes gode faglige veiledere i lærebedrift/ praksisplass.</p>
-<p type="listitem">– Samarbeide med KS og fagforeninger for økt rekruttering til fagskolen og helsefagene i videregående skole</p>
-<p type="listitem">– Arbeide for at fagskoleutdanning gir økt lønn</p>
-<p type="listitem">– Arbeide for økte midler til kompetanseheving av helsearbeidere i Finnmark, finansiert av midler fra Fylkesmannen</p>
-<p type="listitem">– Arbeide for at undervisning skal tilbys flere steder i Finnmark</p>
-<p type="listitem">– Arbeide for varierte gjennomføringsformer</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for økt finansieringsramme</p>
-<p type="listitem">– Arbeide for at kompetanse- og vikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedelig undervisningstilbud i Finnmark</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p><em type="italic">For å opprettholde en god kommune- og spesialisthelsetjeneste er det helt nødvendig å utdanne flere.</em> </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for fagskoletilbud innen bygg og anlegg i Finnmark.</p>
+<p>Utfordringer – Rekruttering – Statlig underfinansiering av utdann-ingen– Tilpasse utdanningen til behovene iarbeidslivet– Store forskjeller på faglig kvalitet hostilbydere– Lønnsnivå for fagskoleutdannede</p>
+<p>Strategi – Arbeide for flere lærlingeplasserinnen helse og sosialfag på videregående nivå. – Arbeide for at det utdannes godefaglige veiledere i lærebedrift/ praksisplass. – Samarbeide med KS og fagfor-eninger for økt rekruttering til fagskolen og helsefagene i videregående skole – Arbeide for at fagskoleutdanning girøkt lønn – Arbeide for økte midler til kom-petanseheving av helsearbeidere i Finnmark, finansiert av midler fra Fylkesmannen– Arbeide for at undervisning skaltilbys flere steder i Finnmark – Arbeide for varierte gjennomførings-former– Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for økt finansieringsramme – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev – Samarbeide med etablerte tilbydereom stedelig undervisningstilbud i Finnmark– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud</p>
+<p><em type="italic">For å opprettholde en god kommune- og spesialisthelsetjeneste er det helt nødvendig å utdanne flere. </em>16 </p>
+<p><em type="bold">Bygg og anlegg </em></p>
+<p>Delmål Legge til rette for fagskoletilbud innen bygg og anlegg i Finnmark.</p>
 <p>Bygg og anleggsbransjen er den nest største private næringen i fylket og sysselsetter i dag om lag 2800 personer (SSB 2009). Byggebransjen er en av næringene hvor NAV forventer rekrutteringsproblemer i tida framover.</p>
-<p>Bygg- og anleggsbransjen er voksende og eksempelvis Alta kommune regner med å mangle mellomledere i tiden fremover. Fagarbeidere innen disse fagene er også aktuelle både for energi og mineralsektor</p>
-<p>Rekruttering til fagskolen vil være både elever som nylig har tatt fag/svennebrev, samt voksne med erfaring fra bransjen. Innen videre gående opplæring er bygg og anleggsfagene den største fagretningen. Dette kan gi et godt rekrutteringsgrunnlag, forutsatt at arbeidsgivere ønsker å prioritere kompetanseheving for sine ansatte.</p>
-<p>Fagmiljø i både Kirkenes og Alta har tatt initiativ til forprosjekt, for å avdekke mulighetene for å starte fagskoleutdanning. I tillegg tilbyr Folkeuniversitetet i Alta fagskoleutdanninger innen mesterbrev.</p>
-<p>Fylkeskommunen mottar i dag tilskudd pr fagskolestudent innen tekniske  fag, men utdannelsen er ikke fullfinansiert.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Finansiering</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for statlig fullfinansiering av fagskoletilbudet</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisningstilbud i Finnmark.</p>
+<p>Bygg- og anleggsbransjen er voksende og eksempelvis Alta kommune regner med å mangle mellomledere i tiden fremover. Fagarbeidere innen disse fagene er også aktuelle både for energi og mineralsektoren.</p>
+<p>Rekruttering til fagskolen vil være både elever som nylig har tatt fag-/svennebrev, samt voksne med erfaring fra bransjen. Innen videre gående opplæring er bygg og anleggsfagene den største fagretningen. Dette kan gi et godt rekrutteringsgrunnlag, forutsatt at arbeidsgivere ønsker å prioritere kompetanseheving for sine ansatte.</p>
+<p>Fagmiljø i både Kirkenes og Alta har tatt initiativ til forprosjekt, for å avdekke mulighetene for å starte fagskoleutdanning. I tillegg tilbyr</p>
+<p>Folkeuniversitetet i Alta fagskoleutdanninger innen mesterbrev.</p>
+<p>Fylkeskommunen mottar i dag tilskudd pr fagskolestudent innen tekniske fag, men utdannelsen er ikke fullfinansiert.</p>
+<p>Utfordringer – Rekruttering – Finansiering – Tilpasse utdanningstilbudet tilnæringens behov</p>
+<p>Strategi – Markedsføring av utdannings-mulighetene innen fagskole – Arbeide for statlig fullfinansiering avfagskoletilbudet– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisningstilbud i Finnmark.</p>
+<p><em type="italic">Nora-senteret i Kirkenes under bygging. </em></p>
+<p>Finnmarken</p>
 <p><em type="italic">Fagmiljøet i Alta ønsker å starte fagskoleutdanning rettet mot bygg og anlegg. </em></p>
 <p>Frank Rune Isaksen.</p>
-<p><em type="italic">Nora-senteret i Kirkenes under bygging. </em>Foto: Finnmarken </p>
-<p><em type="italic">Nordlyskatedralen er under bygging i Alta. </em>Tegning: Link Signatur </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for fagskoleutdanning i Finnmark, rettet mot mineralindustrien.</p>
+<p><em type="italic">Nordlyskatedralen er under bygging i Alta. </em>Tegning: Link Signatur17 </p>
+<p><em type="bold">Mineralfylket </em></p>
+<p>Delmål Legge til rette for fagskoleutdanning i Finnmark, rettet mot mineralindustrien.</p>
 <p>Finnmark er et spennende mineral fylke med store, påviste mineralressurser som kan ha kommersielt potensial. Det er også tradisjon for mineralutvikling i fylket basert på ulike mineraler (jernmalm, kopper, nefelinsyenitt, kvartsitt, gneis, skifer etc). Mineralindustri kan igjen bli en viktig næring i fylket.</p>
-<p>Mineral loven som ble vedtatt i 2009 skaper forutsigbare rammer for næringa, og aktualiserer etablering av ny industri. Syd-Varanger gruve har startet opp drift igjen (jern malm), og Nussir AS planlegger utvinning av kobber i Kvalsund kom mune i løpet av 2013. Regjeringen har i statsbudsjett for 2011 satt av 100 mill til kartlegging av mineralforekomster, en stor del av leitinga vil foregå i Nord-Norge. I tillegg til gruvedrift hentes det ut indu stri - mineraler flere steder i Finnmark.</p>
+<p>Mineral loven som ble vedtatt i 2009 skaper forutsigbare rammer for næringa, og aktualiserer etablering av ny industri. Syd-Varanger gruve har startet opp drift igjen (jern malm), og Nussir AS planlegger utvinning av kobber i Kvalsund kom mune i løpet av 2013. Regjeringen har i statsbudsjett for 2011 satt av 100 mill til kartlegging av mineralforekomster, en stor del av leitinga vil foregå i Nord-Norge. I tillegg til gruvedrift hentes det ut indu stri -mineraler flere steder i Finnmark.</p>
 <p>I både Nord-Sverige og Nord-Finland er gruvedrift igjen blitt aktuelt. Store internasjonale selskaper som Northland Resources bruker store midler på å avdekke nye metallforekomster, og det planlegges drift om få år.</p>
-<p>Finnmark fylkeskommune har etablert Mineralforum som samler de sentrale aktørene i Finnmark. En av må l - settingene i RUP 2010 – 2013 er å etablere utdanninger innen mineralindustrien. Kompetent arbeidskraft er sentralt for etablering av ny industri. Syd-Varanger har i dag mange ansatte med pendleravtaler for å sikre drift, men dette er ikke en gunstig ordning hverken økonomisk eller kvalitetsmessig. Bedriften ønsker å rekruttere flere lokalt.</p>
+<p>Finnmark fylkeskommune har etablert Mineralforum som samler de sentrale aktørene i Finnmark. En av må l -settingene i RUP 2010 – 2013 er å etablere utdanninger innen mineralindustrien. Kompetent arbeidskraft er sentralt for etablering av ny industri. Syd-Varanger har i dag mange ansatte med pendleravtaler for å sikre drift, men dette er ikke en gunstig ordning hverken økonomisk eller kvalitetsmessig. Bedriften ønsker å rekruttere flere lokalt.</p>
 <p>Bergverk var i 2009 den næringen med størst vekst i antall ansatte (SSB). Rekrutteringsgrunnlaget antas å være ansatte i store firma, arbeidssøkere (omskolering gjennom NAV), samt elever som nylig har tatt fag-/svennebrev innen eksempelvis anleggsfag og teknikk og industriell produksjon (TIP). De sistnevnte fagområdene er store innen videregående opplæring i Finnmark.</p>
-<p>Innen mineralindustri er det en rekke fagskoleutdanninger som er aktuelle, eksempelvis bergteknikk, bygg, anlegg og maskin. Fa</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Finansiering</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Vurdere samarbeid med etablerte tilbydere om undervisningstilbud i Finnmark</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Oppfordre til samarbeid i Barentsregionen</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for for statlig fullfinansiering av fagskoletilbudet</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisning i Finnmark</p>
+<p>Innen mineralindustri er det en rekke fagskoleutdanninger som er aktuelle,eksempelvis bergteknikk, bygg, anlegg og maskin. Fagmiljø i Sør-Varanger har startet et forprosjekt for fagskole rettet mot mineralindustri. Det finnes i dag mange offentlige tilbud innen bygg/ anlegg/ maskin, men kun ett tilbud innen bergteknikk. Fylkeskommunen mottar i dag tilskudd pr fagskolestudent innen tekniske fag, men utdannelsen er ikke fullfinansiert.</p>
+<p>Utfordringer – Rekruttering – Finansiering – Tilpasse utdanningstilbudet tilnæringens behov</p>
+<p>Strategi – Vurdere samarbeid med etablertetilbydere om undervisningstilbud i Finnmark– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev – Oppfordre til samarbeid i Barents-regionen – Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for for statlig fullfinansieringav fagskoletilbudet– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisning i Finnmark</p>
 <p><em type="italic">Finnmark er et spennende mineral fylke med store, påviste mineralressurser. </em></p>
 <p>Northern Iron Limited</p>
-<p><em type="italic">Fagmiljø i Sør-Varanger har startet et forprosjekt for fagskole rettet mot mineralindustri.</em>Foto: ©Per Berntsen </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for fagskoleutdanning i Finnmark, rettet mot petroleums- og energibransjen.</p>
-<p>Finnmark har et stort potensial med hensyn til energiproduksjon og relatert nærings- og industrivirksomhet. Fylkets nye energistrategi befester fornybar energi som et hovedsatsningsområde på lik linje med petroleum. Finnmark har det beste utgangspunktet for landbasert vindkraft i Norge i tillegg til å ha et potensial for produksjon av tidevannskraft. På petroleumssiden er Snøhvitfeltet i drift og en andre fase (tog 2) er under planlegging. Goliatfeltet er vedtatt utbygd og operatøren ENI Norge planlegger oppstart i 2013. En av de viktigste utfordringene er å få utviklet ny kompetanse innen næringslivet for å kunne utnytte de kommersielle mulighetene som er knyttet opp til denne nye industrien (jf RUP 2010 – 2013).</p>
-<p>I følge NAV var det i 2. kv 2009 om lag 1000 personer sysselsatt i energirelaterte yrker. Dersom denne bransjen fortsetter å øke i Finnmark kan det bli langt flere dersom en går i gang med leteboring i større deler av Barentshavet. Den største aktøren innen energisektoren er Statoil med 912 ansatte i de tre nordligste fylkene. Følgeforsking viser at Hammerfest økte antall arbeidsplasser fra 4600 i 2002, til 5900 i 2007. Økningen relateres til utbyggingen av Snøhvit (jf Statoil hjemmeside).</p>
+<p><em type="italic">Fagmiljø i Sør-Varanger har startet et forprosjekt for fagskole rettet mot mineralindustri. </em></p>
+<p>©Per Berntsen18</p>
+<p><em type="bold">Energifylket </em></p>
+<p>Delmål Legge til rette for fagskoleutdanning i Finnmark, rettet mot petroleums- og energibransjen.</p>
+<p>Finnmark har et stort potensial med hensyn til energiproduksjon og relatert nærings- og industrivirksomhet. Fylkets nye energistrategi befester fornybar energi som et hovedsatsningsområde på lik linje med petroleum. Finnmark har det beste utgangspunktet for landbasert vindkraft i Norge i tillegg til å ha et potensial for produksjon av tidevannskraft. På petroleumssiden er Snøhvitfeltet i drift og en andre fase (tog 2) er under planlegging. Goliatfeltet er vedtatt utbygd og operatøren ENI Norge planlegger oppstart i 2013. En av de viktigste utfordringene er å få utviklet ny kompetanse innen næringslivet for å kunne utnytte dekommersielle mulighetene som er knyttet opp til denne nye industrien (jf RUP 2010 – 2013).</p>
+<p>I følge NAV var det i 2. kv 2009 om lag 1000 personer sysselsatt i energirelaterte yrker1. Dersom denne bransjen fortsetter å øke i Finnmark kan det bli langt flere dersom en går i gang med leteboring i større deler av Barentshavet. Den største aktøren innen energisektoren er Statoil med 912 ansatte i de tre nordligste fylkene. Følgeforsking viser at Hammerfest økte antall arbeidsplasser fra 4600 i 2002, til 5900 i 2007. Økningen relateres til utbyggingen av Snøhvit (jf Statoil hjemmeside).</p>
 <p>Det tilbys i dag fagskoleutdanning innen petroleum ved fagskoler i Bergen og Stavanger. I 2010 var det eksempelvis 157 søkere til 50 plasser i faget boring (Bergen og Stavanger). Studiene er med andre ord svært populære, og rekrutteringsgrunnlaget er godt.</p>
 <p>Innen elektrofag finnes det på landsbasis mange offentlige fagskoletilbud, men tilsynelatende ingen som retter seg direkte mot fornybar energi (eks. vind og bølgekraft). Fylkeskommunen mottar i dag tilskudd pr fagskolestudent innen tekniske fag, men utdannelsen er ikke fullfinansiert.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Finansiering</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem"><em type="italic">–</em>Utforske muligheten for samarbeid </p>
-<p><em type="italic">Antallet arbeidsplasser i energibransjen har økt kraftig i Hammefest som følge av Snøhvit-utbyggingen.</em>Foto: © Allan Klo </p>
-<p>med Troms fylkeskommune om fagskoletilbud innen petroleum, eventuelt andre etablerte tilbydere</p>
-<p type="listitem">– Videreutvikle samarbeid mellom videregående skole og Energicampus Nord</p>
-<p type="listitem">– Involvere både operatørselskaper og underleverandører i utviklingen av fagskoleutdanning rettet mot petroleum</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for statlig fullfinansiering av fagskoletilbudet</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisningstilbud i Finnmark</p>
-<p><em type="italic">Finnmark har det beste utgangspunkt et</em> </p>
-<p><em type="italic">for landbasert vindkraft i Norge.</em> </p>
-<p>Iselin Hustad1 Følgende næringer: bergverk, olje, naturgass, petroleum, kjemisk produksjon, kraft, vannfor syning.</p>
-<p><em type="italic">Delmål</em> </p>
-<p>1. Legge til rette for et fagskoletilbud innen reindrift. 2. Legge til rette for et fagskoletilbud innen sjømat/næringsmiddel. 3. Legge til rette for et felles fagskoletilbud innen lokal matproduksjon, basert på produkter fra reindrift, landbruk og sjømat.</p>
-<p>Råvarer fra Finnmark representerer særpreg og mangfold i forhold til tradisjon, kultur, klima, miljø og natur. Finnmark har i så måte mange konkurransemessige fortrinn. En felles utfordring er å øke produksjon og tilgjengelighet av videreforedlede varer og tjenester. Matfylket Finnmark har fokus på sjømat, jordbruk og reindrift (jf RUP 2010 – 2013). Felles for alle disse er et behov for utvikling av nye produkter som kan produseres i Finnmark, og eksporteres til marked i Norge og resten av verden. En av strategiene i RUP (2010 – 2013) er <em type="italic">“å styrke samarbeidet mellom (…) ut</em></p>
-<p><em type="italic">danningsinstitusjoner og næringene.”</em> </p>
-<p>Matindustrien i Finnmark preges av mange små aktører innen landbruk og reindrift, samt noen større aktører innen sjømat. I tillegg er det et voksende marked for små-skala produksjon av lokal mat. Oppdrettsnæringen er de største aktørene, og disse har et tydelig behov for kompetent arbeidskraft. Innen fagskoleutdanning er det flere fagretninger som kan være aktuelle. Reindriftsmiljøervurderer muligheten for å opprette et internasjonalt tilbud innen reindrift, eventuelt i samarbeid med Forbundet for verdens reindrift.</p>
-<p>En felles utfordring for matnæringene i fylket er rekruttering. Rekrutteringsgrunnlaget er blant annet elever med fag-/svennebrev innen restaurant og matfag og naturbruk. Disse fagene har i den videregående skolen i dag få søkere. For de etablerte små bedrif t - ene kan det være vanskelig å sette av tid til utdanning.</p>
+<p>Utfordringer – Rekruttering – Finansiering – Tilpasse utdanningstilbudet tilnæringens behov</p>
+<p>Strategi – Utforske muligheten for samarbeidmed Troms fylkeskommune om fagskoletilbud innen petroleum, eventuelt andre etablerte tilbydere– Videreutvikle samarbeid mellomvideregående skole og Energicampus Nord – Involvere både operatørselskaper ogunderleverandører i utviklingen av fagskoleutdanning rettet mot petroleum– Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for statlig fullfinansiering avfagskoletilbudet– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisningstilbud i Finnmark</p>
+<p><em type="italic">Antallet arbeidsplasser i energibransjen har økt kraftig i Hammefest som følge av Snøhvit-utbyggingen. </em></p>
+<p>© Allan Klo</p>
+<p><em type="italic">Finnmark har det beste utgangspunkt et for landbasert vindkraft i Norge. </em></p>
+<p>Iselin Hustad1 Følgende næringer: bergverk, olje, naturgass, petroleum, kjemisk produksjon, kraft, vannfor syning. 19</p>
+<p><em type="bold">Matfylket </em></p>
+<p>Delmål 1. Legge til rette for et fag-skoletilbud innen reindrift.2. Legge til rette for et fag-skoletilbud innen sjømat/næringsmiddel.3. Legge til rette for et felles fag-skoletilbud innen lokal matproduksjon, basert på produkter fra reindrift, landbruk og sjømat.</p>
+<p>Råvarer fra Finnmark representerer særpreg og mangfold i forhold til tradisjon, kultur, klima, miljø og natur. Finnmark har i så måte mange konkurransemessige fortrinn. En felles utfordring er å øke produksjon og tilgjengelighet av videreforedlede varer og tjenester. Matfylket Finnmark har fokus på sjømat, jordbruk og reindrift (jf RUP 2010 – 2013). Felles for alle disse er et behov for utvikling av nye produkter som kan produseres i Finnmark, og eksporteres til marked i Norge og resten av verden. En av strategiene i RUP (2010 – 2013) er <em type="italic"><span type="quote">“å styrke samarbeidet mellom (…) utdanningsinstitusjoner og næringene.”</span> </em></p>
+<p>Matindustrien i Finnmark preges av mange små aktører innen landbruk og reindrift, samt noen større aktører innen sjømat. I tillegg er det et voksende marked for små-skala produksjon av lokal mat. Oppdrettsnæringen er de største aktørene, og disse har et tydelig behov for kompetent arbeidskraft.</p>
+<p>Innen fagskoleutdanning er det flere fagretninger som kan være aktuelle. Reindriftsmiljøer1 vurderer muligheten for å opprette et internasjonalt tilbud innen reindrift, eventuelt i samarbeid med Forbundet for verdens reindrift.</p>
+<p>En felles utfordring for matnæringene i fylket er rekruttering. Rekrutteringsgrunnlaget er blant annet elever med fag-/svennebrev innen restaurant og matfag og naturbruk. Disse fagene har i den videregående skolen i dag få søkere. For de etablerte små bedrif t -ene kan det være vanskelig å sette av tid til utdanning.</p>
 <p>Det finnes i dag på landsbasis noen få fagskoletilbud innen landbruk og næringsmiddel, men tilsynelatende ingen som retter seg mot lokal matproduksjon eller reindrift.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Ingen statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p type="listitem">– Små bedrifter med liten mulighet til å etterspørre/prioritere kompetanseheving i egen bedrift</p>
-<p type="listitem">– Produktutvikling/ markedsorientering</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Arbeide for å øke attraktiviteten for de videregående fagene innen naturbruk og matfag</p>
-<p type="listitem">– Markedsføre det særegne ved reindrift ovenfor bevilgende myndigheter</p>
-<p type="listitem">– Rekruttere fra hele Barentsregionen til reindriftsfaget</p>
-<p type="listitem">– Oppfordre til samarbeid mellom reiselivsbransjen og lokal matproduksjon</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisning i Finnmark</p>
-<p><em type="italic">Oppdrettsnæringen i Finnnmark har behov for kompetent arbeidskraft.</em> </p>
-<p>Siv Nærø/Innovasjon Norge</p>
-<p><em type="italic">Nye spennende delikatesser laget av reinkjøtt.</em>Foto: Kari Bjørkli Thomassen </p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for et fagskoletilbud i Finnmark innen arktisk reiseliv.</p>
+<p>Utfordringer – Rekruttering – Ingen statlig finansiering av fag-skoleutdanning – Tilpasse utdanningstilbudet tilnæringens behov– Små bedrifter med liten mulighet tilå etterspørre/prioritere kompetanseheving i egen bedrift– Produktutvikling/ markedsorientering</p>
+<p>Strategi – Arbeide for å øke attraktiviteten forde videregående fagene innen naturbruk og matfag – Markedsføre det særegne ved rein-drift ovenfor bevilgende myndigheter– Rekruttere fra hele Barentsregionentil reindriftsfaget– Oppfordre til samarbeid mellom rei-selivsbransjen og lokal matproduksjon– Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for statlig finansiering avfagskoleutdanning– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisning i Finnmark</p>
+<p><em type="italic">Nye spennende delikatesser laget av reinkjøtt. </em></p>
+<p>Kari Bjørkli Thomassen</p>
+<p><em type="italic">Oppdrettsnæringen i Finnnmark har behov for kompetent arbeidskraft. </em></p>
+<p>Siv Nærø/Innovasjon Norge20</p>
+<p><em type="bold">Opplevelsesfylket </em></p>
+<p>Delmål Legge til rette for et fagskoletilbud i Finnmark innen arktisk reiseliv.</p>
 <p>Gjennom bærekraftig vekst og utvikling av ekte arktiske opplevelser av høy kvalitet, skal Finnmark bli verdensledende innen arktiske opplevelser (jf RUP 2010 – 2013). Det er viktig at disse utvikles videre, og at vi lykkes i å få flere besøkende og økt lønnsomhet i reiselivsnæringen i Finnmark.</p>
 <p>Innen opplevelsesfylket er det både en del aktivitets- og opplevelsesbedrifter, samt overnatting og restaurant. Opplevelsesbedriftene er ofte små bedrifter med få eller ingen ansatte i tillegg til eier. Dette fører til at eier ofte må utføre alle oppgavene selv, alt fra markedsføring, matlaging over et bål, hundekjøring og regnskap. Dette er krevende. Flere i bransjen etterlyser en praktisk rettet utdannelse som er beregnet på de mange små aktivitets bedrifter – utdannelse av <span type="quote">“reiselivspotet”</span>, en som kan litt om mye forskjellig. Utfordringen kan være å få bedrifts eiere til å sette av tid til utdannelse.</p>
-<p>En annen stor del av bransjen er hotell og restaurant. Innen dette segmentet er det både små og store aktører. Det har etablert seg flere nye hoteller i Finnmark, blant annet i Alta og Kirkenes.  Bransjen har et stort behov for arbeidskraft, særlig innen yrkesfagene kokk og servitør. En generell utfordring  for denne bransjen er rekruttering. Det er få søkere til disse fagene i videre gående skole, og det få søkere til eksempelvis ledige kokkestillinger. Innen opplevelsesbedrifter er det få ansatte, mange eier egen virksomhet.</p>
+<p>En annen stor del av bransjen er hotell og restaurant. Innen dette segmentet er det både små og store aktører. Det har etablert seg flere nye hoteller i Finnmark, blant annet i Alta og Kirkenes. Bransjen har et stort behov for arbeidskraft, særlig innen yrkes-fagene kokk og servitør. En generell utfordring for denne bransjen er rekruttering. Det er få søkere til disse fagene i videre gående skole, og det få søkere til eksempelvis ledige kokkestillinger. Innen opplevelsesbedrifter er det få ansatte, mange eier egen virksomhet.</p>
 <p>Innen reiseliv er det på landsbasis mange private fagskoletilbud, eksempel vis reiselivskoordinator i Tromsø. Men det synes å være få tilbud rettet mot det å drive egen opplevelsesbedrift, og ingen skoler som har et særlig fokus på arktisk reiseliv. Denne særegenheten kan gi muligheter for rekruttering nasjonalt. Fagmiljø i Alta arbeider med forprosjekt rettet mot kurs/fagskoletilbud innen arktisk reiseliv.</p>
-<p>Finansiering av fagskole innen reiseliv er en utfordring. Per i dag er alle tilbud innen reiseliv private, og tilbydere mottar ikke offentlig tilskudd. Skolene finansieres gjennom studentbetaling.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Ingen statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p type="listitem">– Små bedrifter med liten mulighet til å bidra til utvikling av fagskoleutdanningen, og etterspørre kompetanseheving</p>
-<p><em type="italic">Strategier:</em> </p>
-<p type="listitem">– Markedsføre det særegne med arktisk reiseliv</p>
-<p type="listitem">– Oppfordre til samarbeid mellom reiselivsaktører i Finnmark</p>
-<p type="listitem">– Rekruttere fra hele Norge og Barentsregionen</p>
-<p type="listitem">– Oppfordre til samarbeid mellom kulturnæringer og opplevelsesbedrifter</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisning i Finnmark</p>
-<p><em type="italic">Målet er at Finnmark skal bli ledende innen arktiske opplevelser.</em>Foto: Trygve Nygård </p>
-<p><em type="italic">Finnmarsløpet er verdens nordligste trekkhundløp og en stor begivenhet.</em> </p>
-<p>Jørn Tomter/Finnmark Reiseliv</p>
-<p><em type="italic">Delmål</em> </p>
-<p>Legge til rette for fagskoleutdanning i Finnmark innen entreprenørskap, kulturnæring, og kreativitet.</p>
+<p>Finansiering av fagskole innen reiseliv er en utfordring. Per i dag er alle tilbudinnen reiseliv private, og tilbydere mottar ikke offentlig tilskudd. Skolene finansieres gjennom studentbetaling.</p>
+<p>Utfordringer – Rekruttering – Ingen statlig finansiering av fag-skoleutdanning– Tilpasse utdanningstilbudet tilnæringens behov– Små bedrifter med liten mulighet tilå bidra til utvikling av fagskoleutdanningen, og etterspørre kompetanseheving</p>
+<p>Strategier: – Markedsføre det særegne med ark-tisk reiseliv– Oppfordre til samarbeid mellom reiselivsaktører i Finnmark– Rekruttere fra hele Norge og Barents-regionen – Oppfordre til samarbeid mellomkulturnæringer og opplevelsesbedrifter– Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for statlig finansiering avfagskoleutdanning – Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud– Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisning i Finnmark</p>
+<p><em type="italic">Målet er at Finnmark skal bli ledende innen arktiske opplevelser. </em></p>
+<p>Trygve Nygård</p>
+<p><em type="italic">Finnmarsløpet er verdens nordligste trekkhundløp og en stor begivenhet. </em></p>
+<p>Jørn Tomter/Finnmark Reiseliv 21</p>
+<p><em type="bold">Kulturnæringsfylket </em></p>
+<p>Delmål Legge til rette for fagskoleutdanning i Finnmark innen entreprenørskap, kulturnæring, og kreativitet.</p>
 <p>En stadig større del av økonomien i samfunnet knyttes til varer og tjenester som skal gi opplevelser og skape identitet. I dette bildet er kulturnæringene sentrale. Kunst og kultur, design, underholdning og opplevelsesindustri utgjør en viktig faktor i den økonomiske utviklingen både i Norge og internasjonalt. Prognoser tilsier at denne utviklingen vil fortsette, næringen har derfor et betydelig utviklingspotensial. Målsettingen er at det innen 2014 skal være etablert 500 nye kulturarbeidsplasser i fylket (jf RUP 2010 – 2013).</p>
 <p>Kulturnæringen i Finnmark består i all hovedsak av små bedrifter, med unntak av mediebedriftene og avisene. For å utvikle kulturnæringene videre i Finnmark, kan det være behov for mer kompetanse innen basisfag som økonomi, markedsføring, regnskap ol.</p>
-<p>Rekrutteringsgrunnlaget for en slik fagskole kan være relativt bredt. Det kan være etablerte bedriftseiere som ser behov for mer kompetanse. eller det kan være elever som nylig er ferdig på videregående, gjerne med kreative fag som design, håndverk, musikk, dans, drama, medier og kommunikasjon. Felles for målgruppen er at disse ønsker å starte eller utvikle egen bedrift innen kulturnæring.</p>
+<p>Rekrutteringsgrunnlaget for en slik fagskole kan være relativt bredt. Det kan være etablerte bedriftseiere som ser behov for mer kompetanse. ellerdet kan være elever som nylig er ferdig på videregående, gjerne med kreative fag som design, håndverk, musikk, dans, drama, medier og kommunikasjon. Felles for målgruppen er at disse ønsker å starte eller utvikle egen bedrift innen kulturnæring.</p>
 <p>Det er i dag ingen tilbydere innen entreprenørskap/kulturnæring i landet. Fagmiljø i Vadsø arbeider med forprosjekt for fagskole. Innen kreative yrker finnes mange private tilbydere, blant annet i Tromsø.</p>
-<p><em type="italic">Utfordringer</em> </p>
-<p type="listitem">– Rekruttering</p>
-<p type="listitem">– Ingen statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Tilpasse utdanningstilbudet til næringens behov</p>
-<p type="listitem">– Små bedrifter med liten mulighet til å bidra til utvikling av fagskoleutdanningen</p>
-<p><em type="italic">Strategi</em> </p>
-<p type="listitem">– Oppfordre til samarbeid mellom kulturnæring og reiselivsnæringen</p>
-<p type="listitem">– Oppfordre til samarbeid mellom ungdomsbedrifter i videregående skole og en eventuell Entreprenørfagskole</p>
-<p type="listitem">– Markedsføring av utdanningsmulighetene innen fagskole</p>
-<p type="listitem">– Arbeide for statlig finansiering av fagskoleutdanning</p>
-<p type="listitem">– Oppfordre til samarbeid mellom aktører i næringen om utvikling av utdanningstilbud</p>
-<p type="listitem">– Arbeide for at kompetanse- og fagmiljø i Finnmark involveres i utvikling av utdanningstilbud</p>
-<p type="listitem">– Opplæringskontor og rådgivere/ karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev</p>
-<p type="listitem">– Samarbeide med etablerte tilbydere om stedlig undervisning i Finnmark</p>
-<p><em type="italic">Kulturnæring er i sterk vekst internasjonalt og i Norge.</em>Foto Finnmarken </p>
-<p><em type="italic">Målsettingen er 500 arbeidsplasser innen kultur i Finnmark.</em>Foto: Kari Bjørkli Thomassen </p>
-<p><em type="bold">Referansedokumenter:</em> </p>
-<p>Demensplan 2015 Fagopplæringshåndboka 2009/2010 Fagskoleloven 2003 Fylkesplan for Finnmark 2006 – 2009 (11) Kompetanseløftet 2015 KompeTent region 2008 – 2011, Strategier for videregående opplæring i Finnmark. KOSTRA Nasjonal strategi for habilitering og rehabilitering 2008-2011 NAV Arbeidsmarkedsanalyser og prognoser for Finnmark 2010. Omsorgsplan 2015. Framtidens omsorgsutfordringer St.meld.nr. 25 2005-2006 RessursRik region 2010 – 2013, Regionalt utviklingsprogram (RUP) for Finnmark. Samhandlingsreformen. St.meld. nr. 47 (2008 – 2009) Statistisk sentralbyrå Utdanningslinja. St.mld. nr 44 (2008 – 2009)</p>
-<p>Samisk videregående skole, Reindriftsskolen, Opplæringskontoret i reindrift</p>
-<p><em type="bold">Godkjente fagskoletilbud i Finnmark:</em> </p>
-<p type="listitem">– Folkeuniversitetet Finnmark, Mesterbrev, Alta</p>
-<p type="listitem">– Nordkapp Maritime fagskole, Skipsoffiser nautisk, Honningsvåg</p>
-<p type="listitem">– Nordkapp Maritime fagskole, Rehabilitering, Honningsvåg *</p>
-<p type="listitem">– Solhaugen videregående skole og fagskole, Tverrfaglig miljøarbeid, Alta *</p>
-<p><em type="bold">Fagskoletilbud under planlegging:</em> </p>
-<p type="listitem">– Kirkenes fagskole, Bergverk og anleggsdrift, Kirkenes</p>
-<p type="listitem">– Nordkapp maritime fagskole, Skipsoffiser teknisk, Honningsvåg</p>
-<p type="listitem">– Folkeuniversitetet Finnmark, helse og sosial, Alta</p>
-<p type="listitem">– Alta næringsforening, bygg og anlegg, Alta</p>
-<p>(*) Tilbud er pr i dag ikke igangsatt.</p>
+<p>Utfordringer – Rekruttering – Ingen statlig finansiering av fag-skoleutdanning– Tilpasse utdanningstilbudet tilnæringens behov– Små bedrifter med liten mulighet tilå bidra til utvikling av fagskoleutdanningen</p>
+<p>Strategi – Oppfordre til samarbeid mellomkulturnæring og reiselivsnæringen– Oppfordre til samarbeid mellomungdomsbedrifter i videregående skole og en eventuell Entreprenørfagskole– Markedsføring av utdannings-mulighetene innen fagskole– Arbeide for statlig finansiering avfagskoleutdanning– Oppfordre til samarbeid mellomaktører i næringen om utvikling av utdanningstilbud – Arbeide for at kompetanse- ogfagmiljø i Finnmark involveres i utvikling av utdanningstilbud– Opplæringskontor og rådgivere/karriereveiledere i videregående skole har fokus på fagskolen som en naturlig karrierevei etter fag- og svennebrev– Samarbeide med etablerte tilbydereom stedlig undervisning i Finnmark</p>
+<p><em type="italic">Målsettingen er 500 arbeidsplasser innen kultur i Finnmark. </em>Foto: Kari Bjørkli Thomassen </p>
+<p><em type="italic">Kulturnæring er i sterk vekst internasjonalt og i Norge. </em></p>
+<p>Foto Finnmarken</p>
+<p><em type="bold">Referansedokumenter: </em>Demensplan 2015 Fagopplæringshåndboka 2009/2010 Fagskoleloven 2003 Fylkesplan for Finnmark 2006 – 2009 (11) Kompetanseløftet 2015 KompeTent region 2008 – 2011, Strategier for videregående opplæring i Finnmark. KOSTRA Nasjonal strategi for habilitering og rehabilitering 2008-2011 NAV Arbeidsmarkedsanalyser og prognoser for Finnmark 2010. Omsorgsplan 2015. Framtidens omsorgsutfordringer St.meld.nr. 25 2005-2006 RessursRik region 2010 – 2013, Regionalt utviklingsprogram (RUP) for Finnmark. Samhandlingsreformen. St.meld. nr. 47 (2008 – 2009) Statistisk sentralbyrå Utdanningslinja. St.mld. nr 44 (2008 – 2009) 1 Samisk videregående skole, Reindriftsskolen, Opplæringskontoret i reindrift22 </p>
+<p><em type="bold">Godkjente fagskoletilbud i Finnmark: </em>– Folkeuniversitetet Finnmark, Mesterbrev, Alta – Nordkapp Maritime fagskole, Skipsoffiser nautisk, Honningsvåg – Nordkapp Maritime fagskole, Rehabilitering, Honningsvåg * – Solhaugen videregående skole og fagskole, Tverrfaglig miljøarbeid, Alta * </p>
+<p><em type="bold">Fagskoletilbud under planlegging: </em>– Kirkenes fagskole, Bergverk og anleggsdrift, Kirkenes – Nordkapp maritime fagskole, Skipsoffiser teknisk, Honningsvåg – Folkeuniversitetet Finnmark, helse og sosial, Alta – Alta næringsforening, bygg og anlegg, Alta(*) Tilbud er pr i dag ikke igangsatt.23 </p>
 </body></document>
