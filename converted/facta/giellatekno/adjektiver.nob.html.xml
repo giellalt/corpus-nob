@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title>Adjektiv</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2583</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adjektiver.nob.html</origFileName><parallel_text xml:lang="eng" location="adjektiver.eng.html"/><parallel_text xml:lang="sme" location="adjektiver.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nno">Adjektiv</p>
+<document xml:lang="nob" id="no_id"><header><title>Adjektiv</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2583</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adjektiver.nob.html</origFileName><parallel_text xml:lang="eng" location="adjektiver.eng.html"/><parallel_text xml:lang="sme" location="adjektiver.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="nno">Adjektiv</p>
 <list><p type="listitem">Ulike stammer</p>
 <p type="listitem" xml:lang="est">Stadieveksling</p>
 <p type="listitem">Andre konsonantvekslinger</p>
@@ -11,7 +11,7 @@
 <p type="listitem" xml:lang="vep">Genitiv</p>
 <p type="listitem" xml:lang="smj">Illativ</p>
 <p type="listitem" xml:lang="fin">Lokativ</p>
-<p type="listitem" xml:lang="vep">Komitativ</p>
+<p type="listitem" xml:lang="est">Komitativ</p>
 <p type="listitem" xml:lang="ita">Essiv</p>
 </list><p>Tilbake til grammatikk hovedside .</p>
 <p><em type="italic">Adjektiv </em>forteller hvordan noe eller noen er, f.eks. hvordan det/den ser ut, f.eks. <em type="italic">Mus lea 'rukses' biila. Son lea 'lihkolaš'. </em></p>
@@ -93,7 +93,7 @@
 <p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' bøyes som likestavelsessubstantiv hvis endelsen for komparativ er '-eabbo' eller '-abbo'. De korte endelsene '-at' og '-et' i entall veksler med '-abbo'/'-eabbo'-endelsene i flertall. Legg merke til at endelsen '-eabbo' har stadieveksling, med svak grad i flertall: <em type="italic">dábálat - dábálabbot, dábáleabbo - dábáleappot, dábálabbo - dábálabbot. </em></p>
 <p>Komparativ form av ulikestavelsesadjektiv får likestavelsesstamme, med to stavelser i siste takt i flertall. De korte endelsene '-at' og '-et' i entall veksler med '-abbo/-eabbo'-endelsene i flertall. Legg merke til at endelsen -eabbo har stadieveksling, med svak grad i flertall. <em type="italic">boarráset - boarráseappot, boarrásabbo - boarrásabbot. </em></p>
 <p>De superlative formene beholder sin opprinnelige takt, bortsett fra kontrakte adjektiv, som får likestavelsesstamme. I likestavelses- og kontrakte adjektiv er superlativendelsen '-mus', mens i ulikestavelsesadjektiv er superlativendelsen '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall: <em type="italic">nuoramus - nuoramusat, dábálaččamus - dábálaččamusat, stuorámus - stuorámusat, boarráseamos - boarrásepmosat. </em></p>
-<p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' kan også bøyes som ulikestavelsessubstant<em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat. </em></p>
+<p>Likestavelsesadjektiv som ender på '-laš', '-vaš' og '-haš' kan også bøyes som ulikestavelsessubstantiv hvis endelsen for superlativ er '-eamos/-amos'. Legg merke til at endelsen '-eamos' har stadieveksling, med sterk grad i flertall. <em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat. </em></p>
 <p xml:lang="vep"><em type="bold">NOMINATIV </em></p>
 <p>Skravert: svakt stadium</p>
 <p xml:lang="fin"><em type="bold">stammetype </em></p>
@@ -339,7 +339,7 @@
 <p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
 <p xml:lang="ita">Superlativ</p>
 <p xml:lang="sme"><em type="italic">litnásepmosis, litnásamosis </em></p>
-<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p xml:lang="fkv"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
 <p>Kontr.stamme</p>
 <p xml:lang="ita">Positiv</p>
 <p xml:lang="smj"><em type="italic">stuorrás </em></p>
@@ -350,7 +350,7 @@
 <p xml:lang="ita">Superlativ</p>
 <p xml:lang="sme"><em type="italic">stuorimusas, stuorámusas </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusain, stuorámusain </em></p>
-<p type="title" xml:lang="vep">Komitativ</p>
+<p type="title" xml:lang="est">Komitativ</p>
 <p xml:lang="sme">er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun hupmen muhtun 'jallain'. </em><em type="italic">Mii vuolgit dohko 'riggáiguin'. </em><em type="italic">Áhčči vuolgá 'boarrásepmosiiguin', ja eadni báhcá ruoktot 'nuoramusaiguin </em>. Endinga i entall er '-in'. </p>
 <p>Likestavelsesadjektiv får svakt stadium: <em type="italic">nuorain dábáleappuin </em>. </p>
 <p xml:lang="nno">Ulikestavelsesadjektiv får sterkt stadium: <em type="italic">apmasiin (amas), viššalepmosiin (viššaleamos) </em>. </p>
@@ -389,7 +389,7 @@
 <p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
 <p xml:lang="sme"><em type="italic">litnáseappuiguin, litnásabbuiguin </em></p>
 <p xml:lang="ita">Superlativ</p>
-<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p xml:lang="fkv"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
 <p xml:lang="sme"><em type="italic">litnásepmosiiguin, litnásamosiiguin </em></p>
 <p>Kontr.stamme</p>
 <p xml:lang="ita">Positiv</p>

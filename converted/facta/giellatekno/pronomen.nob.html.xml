@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title>Om pronomen</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>5351</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.nob.html</origFileName><parallel_text xml:lang="eng" location="pronomen.eng.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="eng">Om pronomen</p>
+<document xml:lang="nob" id="no_id"><header><title>Om pronomen</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>5351</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.nob.html</origFileName><parallel_text xml:lang="eng" location="pronomen.eng.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="eng">Om pronomen</p>
 <list><p type="listitem" xml:lang="ita">Pronomener</p>
 <p type="listitem" xml:lang="nno">Personlige pronomen</p>
 <p type="listitem" xml:lang="nno">Påpekende pronomen</p>
@@ -169,7 +169,7 @@
 <p type="listitem">(Jeg legger tingene på den der.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Daidda' čatnasit ollu ovdagáttut. </em></p>
 <p type="listitem">(Til dem knytter det seg mye fordommer.)</p>
-</list><p><em type="italic">Lokativ </em>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe. Endelsen er '-s' i entall og '-in' </p>
+</list><p><em type="italic">Lokativ </em>er kasus som betegner på/i/hos eller fra. Lokativ kan også fortelle hvem som har noe. Endelsen er '-s' i entall og '-in' i flertall. </p>
 <list><p type="listitem"><em type="italic">'Dies' oažžu veahki. </em>(Fra den der får du hjelp.) </p>
 <p type="listitem" xml:lang="nno"><em type="italic">'Dáin' ii leat ollu ávki. </em>(I disse er det ikke mye nytte.) </p>
 </list><p><em type="italic">Komitativ </em>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>. Flertallspronomener får endelsen '-guin'. </p>
@@ -727,7 +727,7 @@
 <p type="listitem">(Alle gjorde leksene.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Máret muitalii ságaid 'juohkehažžii', gii gillii gullat. </em></p>
 <p type="listitem">(Máret fortalte nyhetene til alle som giddet å høre.)</p>
-</list><p>Som ulikestavelsessubstantiv bøyes 'eanas', 'eatnagat' og 'ollugat'. 'eatnagat' og 'ollugat' er flertallsformer, og</p>
+</list><p>Som ulikestavelsessubstantiv bøyes 'eanas', 'eatnagat' og 'ollugat'. 'eatnagat' og 'ollugat' er flertallsformer, og krever verb bøyd i flertall når de er subjekt i setningen:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Ollugat' leat suorganan. </em></p>
 <p type="listitem">(Mange er forskrekket.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Dáhpáhus váikkuhii 'eatnagiidda'. </em></p>
@@ -918,7 +918,7 @@
 <p type="listitem">(Hun velger det ene av de to barna.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Fertet 'juoppá' áššis dahkat mearrádusa. </em></p>
 <p type="listitem">(Vi må ta en avgjørelse i den ene av de to sakene.)</p>
-</list><p>'goappašat' bøyes som ulikestavelsessubstantiv i flertall, mens 'guktot' bøyes som kontrakt substantiv i flertall. Foran substantiv følger 'goappašat' regler for vanlig samsvarsbøyning. 'guktot' bøyes i akkusativ/genitiv flertall foran substantiv i de fleste kasus, dvs. 'guktuid',</p>
+</list><p>'goappašat' bøyes som ulikestavelsessubstantiv i flertall, mens 'guktot' bøyes som kontrakt substantiv i flertall. Foran substantiv følger 'goappašat' regler for vanlig samsvarsbøyning. 'guktot' bøyes i akkusativ/genitiv flertall foran substantiv i de fleste kasus, dvs. 'guktuid', også foran substantiv i entall. I nominativ flertall brukes formen 'guktot', og foran substantiv i lokativ flertall står også pronomenet i lokativ form:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son čállá 'guktuid' gieđaiguin. Son čállá 'goappašiid/goappašiiguin' gieđaiguin. </em></p>
 <p type="listitem">(Hun skriver med begge hendene.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Elle oaččui 'goappašiin' mánáin/'goappašiid' mánás skeaŋkka. Elle oaččui 'guktuin' mánáin/'guktuid' mánás' skeaŋkka. </em></p>
