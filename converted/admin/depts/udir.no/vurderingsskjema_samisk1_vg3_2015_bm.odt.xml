@@ -1,19 +1,16 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1160</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>Vurderingsskjema_Samisk1_Vg3_2015_BM.docx</origFileName><parallel_text xml:lang="sma" location="vurderingsskjema_samisk1_vg3_2015_sorsamisk.docx"/><parallel_text xml:lang="sme" location="vurderingsskjema_samisk1_vg3_2015_nordsamisk.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">S </em></p>
-<p xml:lang="fkv">kole</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1140</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>Vurderingsskjema_Samisk1_Vg3_2015_BM.docx</origFileName><parallel_text xml:lang="sma" location="vurderingsskjema_samisk1_vg3_2015_sorsamisk.odt"/><parallel_text xml:lang="sme" location="vurderingsskjema_samisk1_vg3_2015_nordsamisk.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="est">S  kole</p>
 <p xml:lang="deu">Gruppe</p>
 <p xml:lang="vep">Eksaminandnr</p>
 <p xml:lang="rmy-rlo">Fagkode</p>
 <p>Oppg.nr.</p>
-<p xml:lang="mrj"><em type="bold">1 </em></p>
-<p><em type="bold">Karakter 2 </em></p>
-<p xml:lang="swe"><em type="bold">Eksamenssvaret </em></p>
-<p><em type="bold">Karakter 3 – 4 </em></p>
-<p xml:lang="swe"><em type="bold">Eksamenssvaret </em></p>
-<p><em type="bold">Karakter 5 – 6 </em></p>
-<p xml:lang="swe"><em type="bold">Eksamenssvaret </em></p>
-<p xml:lang="deu"><em type="bold">Kommentar </em></p>
-<p xml:lang="nno"><em type="italic">Hove </em></p>
-<p xml:lang="nno"><em type="italic">d-inntrykk: </em></p>
+<p>Karakter 2</p>
+<p xml:lang="swe">Eksamenssvaret</p>
+<p>Karakter 3 – 4</p>
+<p xml:lang="swe">Eksamenssvaret</p>
+<p>Karakter 5 – 6</p>
+<p xml:lang="swe">Eksamenssvaret</p>
+<p xml:lang="deu">Kommentar</p>
+<p xml:lang="nno">Hoved-inntrykk:</p>
 <p>er et enkelt/i noen grad relevant svar på kortsvaroppgaven</p>
 <p>er et enkelt/i noen grad et relevant svar på langsvaroppgaven</p>
 <p>viser noe forståelse og bruk av de vedlagte tekstene</p>
@@ -26,14 +23,12 @@
 <p>er et utfyllende og relevant svar på langsvaroppgaven</p>
 <p>viser god forståelse og bruk av de vedlagte tekstene</p>
 <p>er klart formulert, med hensiktsmessig og nyansert ordforråd</p>
-<p><em type="bold">Språk og </em></p>
-<p><em type="bold">formelle ferdig </em></p>
-<p><em type="bold">heter </em></p>
-<p xml:lang="mrj"><em type="bold">: </em></p>
+<p>Språk og</p>
+<p>formelle ferdigheter:</p>
 <p>har i noen grad sammenbinding mellom setninger og avsnitt</p>
 <p>viser at eleven mestrer hovedformene i formverket til en viss grad</p>
 <p xml:lang="nno">viser at eleven mestrer ortografi og tegnsetting til en viss grad</p>
-<p>skiller mellom sitat og egenprodusert tekst og oppgir kilder</p>
+<p>skiller mellom sitat og egenprodusert tekst og  oppgir kilder</p>
 <p>har nokså god/god sammenbinding mellom setninger og avsnitt</p>
 <p xml:lang="nno">viser at eleven stort sett mestrer formverket</p>
 <p xml:lang="nno">har stort sett korrekt ortografi og tegnsetting</p>
@@ -42,8 +37,7 @@
 <p xml:lang="nno">viser at eleven mestrer formverket</p>
 <p>har gjennomgående korrekt ortografi og tegnsetting</p>
 <p>markerer sitat og viser til kilder ryddig og nøyaktig</p>
-<p xml:lang="nno"><em type="bold">Kortsvar </em></p>
-<p xml:lang="mrj"><em type="bold">: </em></p>
+<p xml:lang="nno">Kortsvar:</p>
 <p>har en viss sammenheng og enkel struktur</p>
 <p>gjør greie for faglige emner,</p>
 <p xml:lang="nno">kommenterer eller argumenterer på en enkel måte</p>
@@ -51,7 +45,7 @@
 <p>peker på noen særtrekk i tekster</p>
 <p>bruker et enkelt fagspråk</p>
 <p>har tematisk sammenheng og hensiktsmessig struktur</p>
-<p>gjør greie for faglige emner, kommenterer eller argumenterer  på en nokså ryddig/ ryddig måte</p>
+<p>gjør greie for faglige emner, kommenterer eller argumenterer på en nokså ryddig/ ryddig måte</p>
 <p>oversetter og tilpasser teksten stort sett til et naturlig språk</p>
 <p>gjør greie for karakteristiske særtrekk ved tekster</p>
 <p xml:lang="dan">har et formålstjenlig fagspråk</p>
@@ -60,22 +54,15 @@
 <p>oversetter og tilpasser teksten til et anvendelig og naturlig språk med god flyt</p>
 <p xml:lang="nno">gjør godt greie for karakteristiske sær- trekk ved tekster</p>
 <p>har et presist og formålstjenlig fagspråk</p>
-<p><em type="italic">Informative, argumenterende og resonnerende tekster </em></p>
-<p xml:lang="mrj"><em type="bold">1 </em></p>
-<p><em type="bold">Karakter 2 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p><em type="bold">Karakter 3 – 4 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p><em type="bold">Karakter 5 – 6 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p xml:lang="deu"><em type="bold">Kommentar </em></p>
-<p xml:lang="eng"><em type="bold">Informa </em></p>
-<p xml:lang="eng"><em type="bold">tive, argumen </em></p>
-<p xml:lang="rmn"><em type="bold">te </em></p>
-<p xml:lang="dan"><em type="bold">rende og reson </em></p>
-<p xml:lang="vep"><em type="bold">ne </em></p>
-<p><em type="bold">rende tekster </em></p>
-<p xml:lang="mrj"><em type="bold">: </em></p>
+<p>Informative, argumenterende og resonnerende tekster</p>
+<p>Karakter 2</p>
+<p>Den aktuelle elevteksten</p>
+<p>Karakter 3 – 4</p>
+<p>Den aktuelle elevteksten</p>
+<p>Karakter 5 – 6</p>
+<p>Den aktuelle elevteksten</p>
+<p xml:lang="deu">Kommentar</p>
+<p>Informative, argumenterende og resonnerende tekster:</p>
 <p>har en viss tematisk sammenheng og en enkel struktur</p>
 <p>har med noen eksempler og/eller momenter</p>
 <p>gjør greie for faglige emner på en enkel måte</p>
@@ -85,7 +72,7 @@
 <p>har noen oppsummeringer eller enkle konklusjoner</p>
 <p>viser noe refleksjon</p>
 <p>bruker eventuelle kilder på en delvis relevant måte</p>
-<p>har  tematisk sammenheng og hensiktsmessig struktur</p>
+<p>har tematisk sammenheng og hensiktsmessig struktur</p>
 <p xml:lang="dan">har med relevante eksempler og/eller momenter</p>
 <p>gjør greie for faglige emner på en stort sett ryddig måte</p>
 <p xml:lang="dan">formulerer hovedsyn</p>
@@ -97,42 +84,32 @@
 <p>har klar tematisk sammenheng, hensiktsmessig og god struktur</p>
 <p>har med relevante eksempler og/eller momenter som med god bredde</p>
 <p>gjør greie for faglige emner på en relevant og ryddig måte</p>
-<p xml:lang="dan">formulerer hovedsynet klart og presist</p>
+<p xml:lang="dan">formulerer   hovedsynet klart og presist</p>
 <p>argumenterer saklig, på en overbevisende måte</p>
 <p xml:lang="nno">har klare resonnementer, viser evne til å drøfte et emne saklig og nyansert</p>
 <p>har poengterte oppsummeringer eller konklusjoner</p>
 <p>viser meget god evne til refleksjon, viser selvstendighet</p>
 <p>bruker eventuelle kilder relevant, etterprøvbart og selvstendig</p>
-<p><em type="bold">Samlet vurdering av kort </em></p>
-<p xml:lang="nno"><em type="bold">svar og langsvar: </em></p>
+<p>Samlet vurdering av kortsvar og langsvar:</p>
 <p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">lav kompetanse i faget </em></p>
+<p>lav kompetanse i faget</p>
 <p>Samlet sett viser elevsvaret</p>
-<p xml:lang="nno"><em type="bold">nokså god kompetanse i faget </em></p>
+<p xml:lang="nno">nokså god kompetanse i faget</p>
 <p>eller</p>
-<p xml:lang="nno"><em type="bold">god kompetanse i faget </em></p>
+<p xml:lang="nno">god kompetanse i faget</p>
 <p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">meget god kompetanse i faget </em></p>
-<p>eller</p>
-<p xml:lang="nno"><em type="bold">fr </em></p>
-<p xml:lang="dan"><em type="bold">emragende </em></p>
-<p><em type="bold">kompetanse i faget </em></p>
-<p><em type="bold">Karakterforslag: </em></p>
-<p xml:lang="mdf"/>
-<p xml:lang="mdf"/>
-<p xml:lang="mdf"/>
-<p xml:lang="mdf"/>
-<p><em type="italic">Analyser, tolkinger, sammenlikninger </em></p>
-<p xml:lang="mrj"><em type="bold">1 </em></p>
-<p><em type="bold">Karakter 2 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p><em type="bold">Karakter 3 – 4 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p><em type="bold">Karakter 5 -6 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p xml:lang="deu"><em type="bold">Kommentar </em></p>
-<p><em type="bold">Analyser, tolkinger og sammen </em></p>
-<p xml:lang="dan"><em type="bold">likninger: </em></p>
+<p>meget god kompetanse i faget  eller</p>
+<p>fremragende kompetanse i faget</p>
+<p>Karakterforslag:</p>
+<p>Analyser, tolkinger, sammenlikninger</p>
+<p>Karakter 2</p>
+<p>Den aktuelle elevteksten</p>
+<p>Karakter 3 – 4</p>
+<p>Den aktuelle elevteksten</p>
+<p>Karakter 5 -6</p>
+<p>Den aktuelle elevteksten</p>
+<p xml:lang="deu">Kommentar</p>
+<p>Analyser, tolkinger og sammenlikninger:</p>
 <p>har en struktur som til en viss grad samsvarer med formålet og emnet</p>
 <p>peker på noen virkemidler i tekster</p>
 <p>peker på noen sider ved argumentasjon/bruk av appellformer</p>
@@ -168,32 +145,27 @@
 <p xml:lang="nno">bruker presist og relevant fagspråk</p>
 <p>viser at eleven kan plassere tekster kulturhistorisk, med forståelse for sammenhengen</p>
 <p>bruker eventuelle kilder relevant, etterprøvbart og selvstendig</p>
-<p><em type="bold">Samlet vurdering av kort </em></p>
-<p xml:lang="nno"><em type="bold">svar og langsvar: </em></p>
+<p>Samlet vurdering av kortsvar og langsvar:</p>
 <p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">lav kompetanse i faget </em></p>
+<p>lav kompetanse i faget</p>
 <p>Samlet sett viser elevsvaret</p>
-<p xml:lang="nno"><em type="bold">nokså god kompetanse i faget </em></p>
+<p xml:lang="nno">nokså god kompetanse i faget</p>
 <p>eller</p>
-<p xml:lang="nno"><em type="bold">god kompetanse i faget </em></p>
-<p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">meget god kompetanse i faget </em></p>
+<p xml:lang="nno">god kompetanse i faget</p>
+<p xml:lang="nno">Samle   t sett viser elevsvaret</p>
+<p>meget god kompetanse i faget</p>
 <p>eller</p>
-<p xml:lang="nno"><em type="bold">fr </em></p>
-<p xml:lang="dan"><em type="bold">emragende </em></p>
-<p><em type="bold">kompetanse i faget </em></p>
-<p><em type="bold">Karakterforslag: </em></p>
-<p xml:lang="mdf"/>
-<p><em type="italic">Kreative tekster </em></p>
-<p xml:lang="mrj"><em type="bold">1 </em></p>
-<p><em type="bold">Karakter 2 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p><em type="bold">Karakter 3 – 4 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p xml:lang="dan"><em type="bold">karakter 5 – 6 </em></p>
-<p><em type="bold">Den aktuelle elevteksten </em></p>
-<p xml:lang="deu"><em type="bold">Kommentar </em></p>
-<p><em type="bold">Kreative tekster: </em></p>
+<p>fremragende kompetanse i faget</p>
+<p>Karakterforslag:</p>
+<p>Kreative tekster</p>
+<p>Karakter 2</p>
+<p>Den aktuelle elevteksten</p>
+<p>Karakter 3 – 4</p>
+<p>Den aktuelle elevteksten</p>
+<p xml:lang="dan">karakter 5 – 6</p>
+<p>Den aktuelle elevteksten</p>
+<p xml:lang="deu">Kommentar</p>
+<p>Kreative tekster:</p>
 <p>har en struktur som til en viss grad samsvarer med formålet og emnet</p>
 <p>bruker noen enkle språklige</p>
 <p>virkemidler</p>
@@ -227,19 +199,15 @@
 <p xml:lang="nno">(dersom det er relevant)</p>
 <p>bruker vedlagte tekster på en</p>
 <p>kreativ og selvstendig måte</p>
-<p><em type="bold">Samlet vurdering av kort </em></p>
-<p xml:lang="nno"><em type="bold">svar og langsvar: </em></p>
+<p>Samlet vurdering av kortsvar og langsvar:</p>
 <p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">lav kompetanse i faget </em></p>
+<p>lav kompetanse i faget</p>
 <p>Samlet sett viser elevsvaret</p>
-<p xml:lang="nno"><em type="bold">nokså god kompetanse i faget </em></p>
+<p xml:lang="nno">nokså god kompetanse i faget</p>
 <p>eller</p>
-<p xml:lang="nno"><em type="bold">god kompetanse i faget </em></p>
+<p xml:lang="nno">god kompetanse i faget</p>
 <p>Samlet sett viser elevsvaret</p>
-<p><em type="bold">meget god kompetanse i faget </em></p>
-<p>eller</p>
-<p xml:lang="nno"><em type="bold">fr </em></p>
-<p xml:lang="dan"><em type="bold">emragende </em></p>
-<p><em type="bold">kompetanse i faget </em></p>
-<p><em type="bold">Karakterforslag: </em></p>
+<p>meget god kompetanse i faget  eller</p>
+<p>fremragende kompetanse i faget</p>
+<p>Karakterforslag:</p>
 </body></document>

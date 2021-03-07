@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>311</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="fkv"/><language xml:lang="nob"/></multilingual><origFileName>/Users/thomas/Desktop/Nasjonale_kvenskmidler_Prosjekttilskudd2Søknadsskjema.docx</origFileName><parallel_text xml:lang="fkv" location="nasjonale_kvenskmidler_prosjekttilskudd2soknadsskjema.docx"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Søknad om prosjekttilskudd</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>305</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="fkv"/><language xml:lang="nob"/></multilingual><origFileName>/Users/thomas/Desktop/Nasjonale_kvenskmidler_Prosjekttilskudd2Søknadsskjema.docx</origFileName><parallel_text xml:lang="fkv" location="nasjonale_kvenskmidler_prosjekttilskudd2soknadsskjema.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Søknad om prosjekttilskudd</p>
 <p type="title">Søknadsfrister: 1. desember og 1. mai.</p>
 <p>Sööknaadi prosjektilisäle</p>
 <p xml:lang="fkv">Sööknaadifristit 1. desemperikuuta ja 1. maikuuta.</p>
@@ -21,19 +21,11 @@
 <p>Kontonummer:</p>
 <p xml:lang="fkv">Konttunumero:</p>
 <p>Kontaktperson/prosjektleder:</p>
-<p xml:lang="fkv">Kontaktipersoona/</p>
-<p xml:lang="fkv">prosjektinjohtaaja:</p>
-<p><em type="bold">Prosjektets navn: </em></p>
-<p><em type="bold">Prosjektin </em></p>
-<p xml:lang="fkv"><em type="bold">nimi </em></p>
-<p><em type="bold">: </em></p>
-<p><em type="bold">Søknadssum: </em></p>
-<p xml:lang="fkv"><em type="bold">Sö </em></p>
-<p xml:lang="fkv"><em type="bold">ö </em></p>
-<p><em type="bold">k </em></p>
-<p><em type="bold">naadi </em></p>
-<p xml:lang="fkv"><em type="bold">summa </em></p>
-<p><em type="bold">: </em></p>
+<p xml:lang="fkv">Kontaktipersoona/ prosjektinjohtaaja:</p>
+<p>Prosjektets navn:</p>
+<p xml:lang="fkv">Prosjektin nimi:</p>
+<p>Søknadssum:</p>
+<p xml:lang="fkv">Sööknaadisumma:</p>
 <p>Mål for prosjektet:</p>
 <p>Beskriv hva du/dere vil oppnå med tilskuddet og hvordan dette skal bidra til å sikre målet med tilskuddsordningen.</p>
 <p xml:lang="fkv">Prosjektin mooli:</p>
@@ -51,7 +43,7 @@
 <p xml:lang="fkv">Kompetansi:</p>
 <p xml:lang="fkv">Muistele niitten hakkiijan eriliikaisen vahvoin puoliin/kompetansin/kvalifikasjuuniitten ympäri jokka saatethaan läpivieä toimen.</p>
 <p>Budsjett:</p>
-<p>Budsjett med presisering av eventuelle administrative kostnader ved gjennomføringen av prosjektet – også opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre finansieringskilder.</p>
+<p>Budsjett med presisering av eventuelle administrative kostnader ved gjennomføringen av prosjektet – også opplysninger om egeninnsats og om det er søkt eller mottatt støtte fra andre  finansierings  kilder.</p>
 <p xml:lang="fkv">Budsjetti:</p>
 <p xml:lang="fkv">Budsjetti ja selvitys maholisista administratiivisista kustanuksista ko prosjekti viehään läpi – kans tieot omakustanuksista ja jos se oon hajettu eli saatu kuurttoo muista finansieerinkikalttiista.</p>
 <p>Finansieringsplan:</p>
@@ -60,18 +52,15 @@
 <p xml:lang="fkv">Ilmoita jos se oon hajettu eli saatu kuurttoo muista finansieerinkikalttiista.</p>
 <p>Har du/dere tidligere mottatt tilskudd fra denne ordningen?</p>
 <p xml:lang="fkv">Oletko/olettako saanut/saanheet varhemin lissää tästä oorningista?</p>
-<p>Har du/dere planer om å videreføre tiltaket/prosjektet etter tilskuddsperioden?</p>
+<p>Har du/dere planer om å videreføre tiltaket  /prosjektet  etter tilskuddsperioden?</p>
 <p xml:lang="fkv">Oonko sinula/teilä plaanoi jatkaat toimee/prosjektii lisäperiuudin jälkhiin?</p>
-<p><em type="bold">Vedlegg: </em></p>
-<p><em type="bold">Li </em></p>
-<p xml:lang="fkv"><em type="bold">ssäysdokumenti </em></p>
-<p xml:lang="fkv"><em type="bold">t </em></p>
-<p><em type="bold">: </em></p>
+<p>Vedlegg:</p>
+<p xml:lang="fkv">Lissäysdokumentit:</p>
 <p>Prosjektbeskrivelse og framdriftsplan for prosjektet.</p>
 <p xml:lang="fkv">Prosjektin prosjektikuvvaus ja eistymisplaana.</p>
 <p>Budsjett med finansieringsplan.</p>
 <p xml:lang="fkv">Budsjetti ja finansieerinkiplaana.</p>
-<p>Eventuell rapport og regnskap fra tidligere mottatt tilskudd fra ordningen.</p>
+<p>Eventuell rapport og regnskap fra tidligere mottatt tilskudd fra ordningen  .</p>
 <p xml:lang="fkv">Maholinen raportti ja räkninginpito lisästä mikä oon saatu varhemin.</p>
 <p>Organisasjoner må legge ved dokumentasjon på valgt styre.</p>
 <p xml:lang="fkv">Organisasjuunit häyvythään panna myötä dokumentasjuunin valitusta styyristä.</p>
