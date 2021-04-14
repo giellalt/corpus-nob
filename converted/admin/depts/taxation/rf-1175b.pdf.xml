@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1391</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1175B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1175e.pdf"/><parallel_text xml:lang="sme" location="rf-1175s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Regnskapsførers navn</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1174</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1175B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1175e.pdf"/><parallel_text xml:lang="sme" location="rf-1175s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Regnskapsførers navn</p>
 <p><em type="bold">Den næringsdrivendes/selskapets navn, adresse mv.: </em>2013201420142013 </p>
 <p xml:lang="isl"><em type="bold">Næringsoppgave 1 2014 </em>=÷ </p>
 <p>Har virksomheten skiftet næringsadresse i løpet av inntektsåret?</p>
@@ -54,11 +54,9 @@
 <p><em type="bold">For samvirkeforetak </em></p>
 <p>Skattepliktig næringsinntekt 0280 Skattepliktig næringsinnt. fra omsetning med egne medlemmersom krever fradrag i henhold til sktl. § 10-500270-</p>
 <p xml:lang="nno">Rein, pelsdyr og pelsdyrskinn på lager0165</p>
-<p xml:lang="deu">RF-1175B</p>
 <p><em type="bold">Skattemessig verdi på kundefordringer (Pålydende kundefordringer og ikke fakturerte kundefordringer) </em></p>
 <p xml:lang="nno"><em type="bold">Bruttofortjeneste på innkjøpte varer for videresalg </em></p>
 <p>Fra post 0310 siste år÷</p>
-<p><em type="bold">Skattemessig resultatregnskap 2014 ( i hele kroner) </em></p>
 <p xml:lang="nno">Fradragsføring av negativ gevinst-/tapskonto (RF-1219)</p>
 <p xml:lang="isl"><em type="bold">Sum kapitalkostnad </em></p>
 <p><em type="bold">Resultatet overføres side 4 Enkeltpers. foretak til post 0401, Samvirkeforetak og ANS/KS/DA til post 0410 </em></p>
@@ -120,11 +118,11 @@
 <p xml:lang="dan">Vedlikehold mv. transportmidler</p>
 <p xml:lang="nno">Privat bruk av næringsbil÷÷==</p>
 <p>Inntektsføring fra saldo</p>
-<p xml:lang="fao"><em type="bold">Sum kapitalinntekt </em>====== <em type="bold">2014 </em>6995670066956600650064006395634063006200610060005900560054205400530050004995450042954005 <em type="bold">9900 </em>39003895370036953650360034003300320031003000 <em type="bold">9930 </em><em type="bold">9928 </em>789081998160 <em type="bold">9925 </em>389080998060 <em type="bold">9920 </em><em type="bold">9910 </em>78977895770076007565750074957350733072957165715570997080704070207000 </p>
-<p>Egen pensjonsordning5950</p>
-<p xml:lang="nno">Leasingleie av bil6310</p>
+<p xml:lang="fao"><em type="bold">Sum kapitalinntekt </em>====== <em type="bold">9930 </em><em type="bold">9928 </em>789081998160 <em type="bold">9925 </em>80998060 <em type="bold">9920 </em><em type="bold">9910 </em>78977895770076007565750074957350733072957165715570997080704070207000 </p>
+<p>Egen pensjonsordning</p>
+<p xml:lang="nno">Leasingleie av bil</p>
 <p xml:lang="nno">Privat bruk av el. kommunikasjon÷7098÷</p>
-<p>Leieinntekt fast eiendom, avgiftspliktig3605</p>
+<p>Leieinntekt fast eiendom, avgiftspliktig</p>
 <p>Andre konstaterte tap – tap på kontrakter mv. 7896</p>
 <p>Andre driftsmidler</p>
 <p><em type="bold">Fylles bare ut av de som benyttet Næringsoppgave 2 (RF-1167) forrige år. </em></p>
@@ -133,7 +131,6 @@
 <p xml:lang="est"><em type="bold">Egenkapital 31.12.2013 </em></p>
 <p xml:lang="fra">Kontanter</p>
 <p>Immaterielle eiendeler, konsesjoner/melkekvote</p>
-<p><em type="bold">Balanse - skattemessige verdier (i hele kroner) </em></p>
 <p>Forskning og utvikling</p>
 <p>Felleseid andelskapital i samvirkeforetak</p>
 <p xml:lang="sme">Goodwill (saldogruppe b)</p>
@@ -189,17 +186,14 @@
 <p xml:lang="dan"><em type="bold">Ubeskattet egenkapital </em></p>
 <p><em type="bold">Sum gjeld </em></p>
 <p><em type="bold">Sum egenkapital og gjeld </em>======== </p>
-<p xml:lang="dan"><em type="bold">Korrigert egenkapital 1.1.2014 </em><em type="bold">2014 </em></p>
-<p xml:lang="tur"><em type="bold">Eiendeler </em><em type="bold">9950 </em><em type="bold">1950 </em><em type="bold">1920 </em><em type="bold">1900 </em><em type="bold">1895 </em><em type="bold">1880 </em><em type="bold">1869 </em><em type="bold">1829 </em><em type="bold">1780 </em><em type="bold">1599 </em><em type="bold">1595 </em><em type="bold">1578 </em><em type="bold">1577 </em><em type="bold">1500 </em><em type="bold">1495 </em><em type="bold">1299 </em><em type="bold">1295 </em><em type="bold">1280 </em><em type="bold">1239 </em><em type="bold">1225 </em><em type="bold">1221 </em><em type="bold">1205 </em><em type="bold">1160 </em><em type="bold">1150 </em><em type="bold">1140 </em><em type="bold">1130 </em><em type="bold">1115 </em><em type="bold">1105 </em><em type="bold">1080 </em><em type="bold">1020 </em><em type="bold">1000 </em><em type="bold">9995 </em><em type="bold">9996 </em><em type="bold">9997 </em><em type="bold">9998 </em><em type="bold">9990 </em>29952950294929102900279027702740260024002380228922752220 <em type="bold">9970 </em>209720962095 <em type="bold">9960 </em>208020502015 <em type="bold">1290 </em></p>
-<p xml:lang="dan">Opptjente, ikke fakturerte kundefordringer <em type="bold">1530 </em></p>
+<p xml:lang="dan"><em type="bold">Korrigert egenkapital 1.1.2014 </em><em type="bold">9995 </em><em type="bold">9996 </em><em type="bold">9997 </em><em type="bold">9998 </em><em type="bold">9990 </em>29952950294929102900279027702740260024002380228922752220 <em type="bold">9970 </em>209720962095 <em type="bold">9960 </em>208020502015 </p>
+<p xml:lang="dan">Opptjente, ikke fakturerte kundefordringer</p>
 <p xml:lang="nno">Avsatt utbytte2045</p>
 <p xml:lang="nno">Avsatt utbytte2800</p>
-<p>Bygg, anlegg, maskiner under bygging - for salg <em type="bold">1131 </em></p>
-<p>Fast teknisk installasjon i bygninger (saldogruppe j) <em type="bold">1120 </em></p>
-<p><em type="bold">Næringskostnader uten fradragsrett/ egenkapitalkorreksjoner </em></p>
-<p><em type="bold">Spesifikasjon av beløp som skal overføres til RF-1224 Personinntekt fra enkeltpersonforetak og til RF-1030 Selvangivelsen </em></p>
+<p>Bygg, anlegg, maskiner under bygging - for salg</p>
+<p>Fast teknisk installasjon i bygninger (saldogruppe j)</p>
 <p>Type Næring</p>
-<p>ID(Eks.1, 2, 3 mv.) <em type="bold">2014 </em></p>
+<p>ID(Eks.1, 2, 3 mv.)</p>
 <p xml:lang="yid"><em type="bold">Rentekostnader </em></p>
 <p xml:lang="deu"><em type="bold">Renteinntekt </em></p>
 <p><em type="bold">Skattepliktig utbytte på aksjer mv. </em></p>
@@ -228,13 +222,7 @@
 <p>Privatkonto (spesifisert ovenfor) fra post 2079÷</p>
 <p>Næringskostnader uten fradragsrett (spesifisert ovenfor) fra post 2060÷</p>
 <p><em type="bold">Sum skattemessig egenkapital per 31.12.2014 - Skal være lik post 9960 </em>= </p>
-<p xml:lang="swe"><em type="bold">Egenkapitalavstemming </em></p>
-<p>Sted og dato</p>
-<p xml:lang="dan">Underskrift</p>
-<p xml:lang="dan">Henvendelse rettes til</p>
-<p xml:lang="deu">Telefonnummer</p>
-<p>Det vises til rettledning som er utarbeidet til hjelp ved utfylling av Næringsoppgave 1; RF-1176 og RF-1178</p>
-<p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 24. oktober 1991, jf. ligningsloven § 4-4 nr. 7 <em type="bold">(beløp i hele kroner) </em></p>
+<p>Underskrift <em type="bold">(beløp i hele kroner) </em></p>
 <p xml:lang="dan">Ikke fradragsberettigede representasjonskostnader</p>
 <p>Ikke fradragsberettigede kontigenter/gaver</p>
 <p>Andre ikke fradragsberettigede kostnader=</p>
@@ -243,8 +231,7 @@
 <p>Egenkapitalkorreksjoner spesifisert ovenfor fra post 2070+÷</p>
 <p xml:lang="nno"><em type="bold">Resultat fra post 9930 </em></p>
 <p xml:lang="nno"><em type="bold">Årsresultat - ANS/KS/DA overfører beløpet til post 1105 i RF-1215 (selskapsoppgaven). </em></p>
-<p><em type="bold">For samvirkeforetak, se rettledningen! </em></p>
-<p xml:lang="ron"><em type="bold">Årsresultat </em>++÷=040204020402 </p>
+<p><em type="bold">For samvirkeforetak, se rettledningen! </em>++÷= </p>
 <p>Post 0401fordelt pånæringer</p>
 <p>Resultat enkeltpersonforetak fra post 9930</p>
 <p>Skattepliktiginntekt fordelt på næringer</p>
@@ -253,13 +240,11 @@
 <p xml:lang="dan">Beløp under Eoverf. til RF-1224 og RF-1030</p>
 <p>Fordeling av overskudd/underskudd.</p>
 <p>Se rettledningen.</p>
-<p><em type="bold">I enkeltpersonforetak skal kolonnene A, B og E nyttes. I kolonne merket ID skal næringen(-e) nummereres løpende, men med samme nummer for </em><em type="bold">næringer med felles beregning av personinntekt. Kolonne C gjelder bare for gjennomsnittslignet skogbruk og reindrift, dessuten for overføring av inntekt </em><em type="bold">fra biomasseproduksjon til jordbruk, se den spesielle rettledningen for disse næringene, RF-1178. Inntekter/underskudd fra jordbruk, skogbruk og fiske i </em><em type="bold">kolonne E overføres til spesifiserte poster i selvangivelsen. </em></p>
 <p xml:lang="dan">Korreksjoner forprimærnæringer,se rettledningen</p>
-<p><em type="bold">OBS! ANS/KS/DA skal bare fylle ut postene 0410 – 9940! Ikke postene 0401 - 0403! </em></p>
-<p xml:lang="dan"><em type="bold">Underskrift </em>0401 0403 <em type="bold">0410 </em>041104120413 <em type="bold">9940 </em>20612063206420652067206820692072207520772078 <em type="bold">2079 </em><em type="bold">0420 </em>0421042204230424 <em type="bold">0425 </em>205120522053 <em type="bold">2060 </em>205420552056205720582059 <em type="bold">2070 </em></p>
+<p xml:lang="est">A20612063206420652067206820692072207520772078 <em type="bold">2079 </em></p>
 <p xml:lang="nno">Overført til post nr. i selvang.(RF-1030)</p>
-<p><em type="bold">Skattepliktig gevinst/fradragsberettiget tap ved realisasjon av aksjer mv. </em>+÷0414 </p>
-<p><em type="bold">Andel overskudd/underskudd og eventuelt gevinst/tap knyttet til andel i deltakerliknet selskap - posten skal nyttes kun av enkeltpersonforetak, se rettl. </em>+÷0416 <em type="bold">3 % av skattefrie inntekter etter fritaksmetoden </em>+0415 </p>
-<p><em type="bold">For samvirke: Etterbetaling, bonus mv. ekskl. MVA til andelseiere/medl. </em>÷9980 </p>
-<p><em type="bold">For samvirke: Næringsinntekt/underskudd - beløpet overføres til hhv. post 201 </em><em type="bold">eller post 222 i RF-1028 (selvangivelse for aksjeselskap mv.) </em>=9985 </p>
+<p><em type="bold">Skattepliktig gevinst/fradragsberettiget tap ved realisasjon av aksjer mv. </em>+÷ </p>
+<p><em type="bold">Andel overskudd/underskudd og eventuelt gevinst/tap knyttet til andel i deltakerliknet selskap - posten skal nyttes kun av enkeltpersonforetak, se rettl. </em>+÷ <em type="bold">3 % av skattefrie inntekter etter fritaksmetoden </em>+ </p>
+<p><em type="bold">For samvirke: Etterbetaling, bonus mv. ekskl. MVA til andelseiere/medl. </em>÷ </p>
+<p><em type="bold">For samvirke: Næringsinntekt/underskudd - beløpet overføres til hhv. post 201 </em><em type="bold">eller post 222 i RF-1028 (selvangivelse for aksjeselskap mv.) </em>= </p>
 </body></document>

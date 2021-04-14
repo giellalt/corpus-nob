@@ -1,17 +1,15 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1880</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1189B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1189_s_2014_utfyllbar.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Kårbolig</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1745</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1189B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1189_s_2014_utfyllbar.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="dan">Kårbolig</p>
 <p>Kårboligens bruksareal er:</p>
 <p>Mangler kårboligen bade-/dusjrom eller wc?</p>
 <p>Er eiendommen eid i sameie? Se rettledningen</p>
-<p>Dersom det er behov for flere spesifikasjoner eller forklaringer enn skjemaet gir plass til, kan du bruke et eget ark for dette</p>
-<p><em type="bold">Utleie mv. av fast eiendom 2014 </em>2.9 Sum kostnader </p>
+<p>Dersom det er behov for flere spesifikasjoner eller forklaringer enn skjemaet gir plass til, kan du bruke et eget ark for dette2.9 Sum kostnader</p>
 <p>Samlet bruttoinntekt</p>
 <p>Utbetalt lønn: <em type="bold">1 Inntekter </em></p>
 <p xml:lang="nno">Beløp</p>
 <p>Refusjon fra leietakere for vedlikeholdskostnader mv. (beløpet skal legges til inntekten)</p>
 <p>Andre inntekter <em type="bold">2 Kostnader </em></p>
 <p>Festeavgift (grunnleie), andel av fradragsberettigede felleskostnader i boligselskap/boligsameie</p>
-<p>Kommunale avgifter (inkl. ev. eiendomsskatt) og forsikringspremier for eiendommen2.5 Konstatert tap av inntekt ved utleie2.6 Avskrivninger av bygning</p>
-<p><em type="bold">Nettoinntekt (renter av gjeld skal ikke trekkes fra her). Beløpet skal overføres til selvangivelsen. </em>2.8 Kostnader til egen boligdel, strøm, oppvarming, renhold mv.2.7 Andre kostnader (spesifisert), herunder avskrivninger av innbo÷=1.1 Utleie </p>
+<p>Kommunale avgifter (inkl. ev. eiendomsskatt) og forsikringspremier for eiendommen2.5 Konstatert tap av inntekt ved utleie2.6 Avskrivninger av bygning2.8 Kostnader til egen boligdel, strøm, oppvarming, renhold mv.2.7 Andre kostnader (spesifisert), herunder avskrivninger av innbo÷1.1 Utleie</p>
 <p>Kostnader må kunne dokumenteres/sannsynliggjøres med kvittering o.l. etter forespørsel fra skattekontoret.</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
@@ -25,8 +23,7 @@
 <p>Antall kvm</p>
 <p>Fra dato</p>
 <p>Til dato</p>
-<p xml:lang="ron"><em type="bold">Utleieperiode </em>= </p>
-<p xml:lang="dan">Underskudd</p>
+<p xml:lang="ron"><em type="bold">Utleieperiode </em></p>
 <p>Post 2.8.2 for norske eiendommer Post 2.8.5 for utenlandske eiendommer</p>
 <p>Boligselskapets navn</p>
 <p>Seksjonsnr.</p>
@@ -49,8 +46,6 @@
 <p xml:lang="fao">Sum</p>
 <p>For boliger som leies ut, innrømmes som hovedregel fradrag for alle vedlikeholdskostnader. Unntak fra denne regel gjelder dersom du er blitt fritaksliknet for boligeiendommen i løpet av de foregående 5 år. I disse tilfeller gis det ikke fradrag for vedlikeholdskostnader i det første året med regnskapslikning dersom utleien varer under halve inntektsåret (inntil 182 dager). Som utleie regnes all utleie i inntektsåret uavhengig av utleiens omfang, herunder utleie i tidsrom av året hvor eieren også selv har bodd i minst halvparten av boligen. Varer utleieperioden lenger, innrømmes fullt fradrag for vedlikeholdskostnader inntil kr 10 000. For ev. overskytende beløp, reduseres fradraget med 10 % for hvert av de foregående 5 år som du er blitt fritaksliknet. Er du i tvil, spør skattekontoret.</p>
 <p><em type="bold">Reduksjon når boligen tidligere har vært fritaksliknet </em><em type="bold">÷ </em></p>
-<p xml:lang="deu">RF-1189B</p>
-<p xml:lang="nno"><em type="bold">Skatteetaten </em></p>
 <p>Samlet beløp (medregnet mva.)</p>
 <p xml:lang="swe">Herav fradragsberettiget kostnad1.31.41.52.12.22.3</p>
 <p xml:lang="nno">Er det sendt lønns- og trekkoppgave for beløpet?</p>
@@ -58,7 +53,7 @@
 <p>Din eierandel i prosent</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
-<p xml:lang="vep">Vedlikehold2.4%</p>
+<p xml:lang="vep">Vedlikehold2.4</p>
 <p>Over 100m²</p>
 <p>Er avstand til kommunens adm. senter over 15 km?</p>
 <p xml:lang="smj">Ja</p>
@@ -73,22 +68,13 @@
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
 <p xml:lang="eng">Land</p>
-<p xml:lang="dan">Overskudd</p>
-<p xml:lang="pol">Post 3.3.12</p>
-<p>Kostnader skal føres til fradrag i det år betalingsforpliktelsen er pådratt uavhengig av når kostnadene skal betales eller faktisk blir betalt. Verken avtalt forfallstid eller tidspunkt for faktisk betaling har således betydning for når kostnaden skal komme til fradrag.3.3 Kontingent til huseierforening eller andre foreninger3.2 Godtgjørelse til huseier, ektefelle eller barn som liknes sammen med huseier 3.1 Skatter på formue og inntekt</p>
-<p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 28. november 1994, jf. ligningsloven § 4-4 nr. 7. <em type="bold">3 Kontrollspørsmål </em></p>
-<p>Omfatter kostnadene noe av følgende:</p>
-<p>Ev. beløp</p>
-<p xml:lang="dan"><em type="bold">Underskrift </em></p>
+<p>Kostnader skal føres til fradrag i det år betalingsforpliktelsen er pådratt uavhengig av når kostnadene skal betales eller faktisk blir betalt. Verken avtalt forfallstid eller tidspunkt for faktisk betaling har således betydning for når kostnaden skal komme til fradrag.3.3 Kontingent til huseierforening eller andre foreninger3.2 Godtgjørelse til huseier, ektefelle eller barn som liknes sammen med huseier</p>
 <p>Dato</p>
 <p xml:lang="dan">Underskrift</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="nno">Nei</p>
-<p><em type="bold">Andre offentlige organers bruk av opplysninger i RF-1189B </em></p>
 <p>Skjemaet skal leveres av alle som har skattepliktige utleieinntekter fra fast eiendom i Norge og i utlandet når utleien drives utenom næringsvirksomhet slik at utleieinntektene ikke er tatt med i næringsoppgaven. Skjemaet skal også leveres for utleie av tomt og grunn, for eksempel jordbruksareal. l tillegg skal skjemaet brukes når eieren yter føderåd i form av borett utenom jord- og skogbruk. Det er ikke plikt til å levere skjemaet ved utleie av- fritidsbolig som eieren bruker selv i rimelig omfang - boligeiendom der utleieinntektene er skattefrie</p>
 <p>Er du i tvil om du har plikt til å levere skjemaet, se skatteloven § 7-2, se brosjyre om skatt ved utleie av bolig og fritidseiendom på skatteetaten.no eller ta kontakt med skattekontoret.</p>
 <p xml:lang="dan">Her føres leieinntekt påløpt i inntektsåret.</p>
@@ -126,5 +112,4 @@
 <p xml:lang="pol">Post 2.11</p>
 <p>Bruksareal Over 100 m² 60 – 100 m² Under 60 m²</p>
 <p>Leieverdi kr 26 500 kr 19 800 kr 13 200</p>
-<p>For å samordne og forenkle oppgaveinnleveringen fra næringslivet, kan opplysninger som avgis i RF-1189 Utleie mv. av fast eiendom, helt eller delvis bli benyttet også av andre offentlige organer som har hjemmel til å innhente de samme opplysningene, jf. lov om Oppgaveregisteret §§ 5 og 6. Opplysninger om ev. samordning kan fås ved henvendelse til Oppgaveregisteret på telefon 75 00 75 00.</p>
 </body></document>

@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>161</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>https://www.tysfjord.kommune.no/getfile.php/644023.1172.dqcbpqtaca/Soknad+om+plass+i+barnehage.doc.as.pdf</origFileName><parallel_text xml:lang="smj" location="soknadskjema_barnehage-samisk.doc.as.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tysfjord Kommune Oppvekst og utdanning 8590</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>141</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>https://www.tysfjord.kommune.no/getfile.php/644023.1172.dqcbpqtaca/Soknad+om+plass+i+barnehage.doc.as.pdf</origFileName><parallel_text xml:lang="smj" location="soknadskjema_barnehage-samisk.doc.as.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Tysfjord Kommune Oppvekst og utdanning 8590</p>
 <p>Kjøpsvik</p>
 <p>Opptak i barnehageåret Hovedopptak </p>
 <p><em type="bold">Søknad om plass i barnehage </em></p>
@@ -11,8 +11,6 @@
 <p>Har barnet mulighet for fri lek i nærheten av boligen?</p>
 <p>Har barnet lekekamerater?</p>
 <p><em type="bold">BARNETS </em></p>
-<p><em type="bold">FORESATTE </em></p>
-<p>De/den som barnetbor sammen med</p>
 <p>Personnummer:</p>
 <p>Etternavn:</p>
 <p>Fornavn:</p>
@@ -26,15 +24,12 @@
 <p>Stillingsprosent og varighet fast  vikariat </p>
 <p>Telefon arb.g./skole</p>
 <p><em type="bold">Stillingsprosent og varighet må oppgis. </em></p>
-<p><em type="bold">FAMILIEN </em></p>
 <p>Adresse:</p>
 <p>Postnr./-sted</p>
 <p>Telefon:</p>
 <p>Sivilstatus:  Gift  Samboer  Enslig</p>
-<p>Antall barn i familien og fødselsår for disse:</p>
-<p><em type="bold">Opplysninger </em><em type="bold">om hvorfor </em><em type="bold">barnet ønskes </em><em type="bold">plassert i </em><em type="bold">barnehage </em></p>
-<p><em type="bold">Opplysninger om </em><em type="bold">barnets helse som </em><em type="bold">barnehagen bør </em><em type="bold">kjenne til </em></p>
-<p><em type="bold">Andre </em><em type="bold">opplysninger </em></p>
+<p>Antall barn i familien og fødselsår for disse: <em type="bold">plassert i </em><em type="bold">barnehage </em><em type="bold">kjenne til </em></p>
+<p><em type="bold">Andre </em></p>
 <p>Har barnet tidligere hatt barnehageplass? (Oppgi varighet):___________________________</p>
 <p>Fra hvilken dato ønskes barnehageplass?_________________________________________</p>
 <p>Har barnet plass i barnehage nå, hvilken?_________________________________________</p>

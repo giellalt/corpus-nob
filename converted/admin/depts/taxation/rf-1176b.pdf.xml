@@ -1,7 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6194</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1176B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1176e.pdf"/><parallel_text xml:lang="sme" location="rf-1176s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="deu">RF-1176B</p>
-<p xml:lang="nno"><em type="bold">Skatteetaten </em></p>
-<p xml:lang="nno"><em type="bold">Rettledning til RF-1175 Næringsoppgave 1 for 2014 </em></p>
-<p xml:lang="nno">Fastsatt av Skattedirektoratet</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>5922</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1176B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1176e.pdf"/><parallel_text xml:lang="sme" location="rf-1176s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno">Fastsatt av Skattedirektoratet</p>
 <p xml:lang="nno"><em type="bold">Nytt for 2014: </em></p>
 <p xml:lang="dan">Ingen nye poster. </p>
 <p><em type="bold">Presisering! </em>Postene 7000 – 7080 skal kun nyttes til transportmidler! Kostnader knyttet til maskiner og redskaper som nyttes i produksjonen (eks. traktor, gravemaskin, skurtresker, lassbærer, showel mv.), skal føres i postene 6200, 6695 og 7500. </p>
@@ -34,8 +31,7 @@
 <p>Forskriften stiller detaljerte krav til utskriftens innhold, utforming og kvalitet/format.</p>
 <p>Opplysninger om regnskapsfører</p>
 <p>Etter § 3 i lov om autorisasjon av regnskapsførere skal navn og forretningsadresse på ekstern regnskapsfører påføres alle dokumenter som regnskapsføreren utarbeider for oppdragsgiveren. Det er avsatt et eget felt øverst på side 1 for dette. Det skal gis opplysninger om den eksterne regnskapsføreren har ført regnskapet og/eller har fylt ut næringsoppgaven.</p>
-<p>En revisor kan utarbeide årsregnskapet for en ikke-revisjonsklient uten å være autorisert regnskapsfører, se midlertidig forskrift</p>
-<p>Side 2 24.11.2011 nr. 1134. Etter den midlertidige forskriften trenger ikke foretaket å registrere revisoren som regnskapsfører i Enhetsregisteret. Er ikke revisoren registrert i</p>
+<p>En revisor kan utarbeide årsregnskapet for en ikke-revisjonsklient uten å være autorisert regnskapsfører, se midlertidig forskrift regnskapsfører i Enhetsregisteret. Er ikke revisoren registrert i</p>
 <p>Enhetsregisteret som foretakets regnskapsfører, skal ikke krysses av for ekstern regnskapsfører dersom der er denne revisoren som har ført regnskapet og/eller fylt ut næringsoppgaven.</p>
 <p><em type="bold">Skatteplikt til flere kommuner </em>Foreligger det skatteplikt til flere kommuner, leveres selvangivelsen med alle pliktige vedlegg til ett skattekontor. Det samme gjelder deltakerliknet selskap som leverer selskapsoppgave med pliktige vedlegg. </p>
 <p>Enkeltpersonforetak med skatteplikt til flere kommuner oppfordres til å levere RF-1034 <span type="quote">”Fordeling av inntekt og formue mellom kommuner 2014”</span> som vedlegg til selvangivelsen.</p>
@@ -48,7 +44,7 @@
 <p xml:lang="dan"><em type="italic">Presiseringer: </em></p>
 <p>Dersom et felt har forhåndstrykt fortegn (positivt eller negativt), skal tallet som innrapporteres være uten fortegn. Fortegn brukes kun i de tilfeller man ønsker å innrapportere et beløp med omvendt fortegn av det som er forhåndstrykt.</p>
 <p>I sum- og resultatfelter brukes alltid minustegn når summen er negativ.</p>
-<p>Side 1 i næringsoppgaven For enkeltpersonforetak skal næringsoppgaven påføres fødselsnummer (11 siffer), og for selskaper skal angis organisasjonsnummer. Ligger foretaket i en annen kommune enn i utøverens bostedskommune, er det adressen til foretaket som skal føres i skjemaet. Her skal også angis antall årsverk utført av ansatte i regnskapsåret. Som eksempel regnes to 50 % -stillinger som ett årsverk.</p>
+<p>Side 1 i næringsoppgaven For enkeltpersonforetak skal næringsoppgaven påføres foretaket i en annen kommune enn i utøverens bostedskommune, er det adressen til foretaket som skal føres i skjemaet. Her skal også angis antall årsverk utført av ansatte i regnskapsåret. Som eksempel regnes to 50 % -stillinger som ett årsverk.</p>
 <p>Spesifikasjon av varelager</p>
 <p>Skattemessig verdi av beholdning av varer skal settes til anskaffelsesverdi.</p>
 <p>For varer som er tilvirket i virksomheten, settes verdien av beholdningen til tilvirkningsverdi. Det vil si verdien av direkte tilvirkningskostnader som råstoff, halvfabrikata, hjelpestoffer (brensel, smøring, produksjonsstrøm mv.) og produksjonslønn.</p>
@@ -59,8 +55,7 @@
 <p>RF-1175 Næringsoppgave 1 2014”.</p>
 <p xml:lang="nno">Bruttofortjeneste på innkjøpte varer for videresalg</p>
 <p>Formålet med spesifikasjonen er å komme fram til virksomhetens oppnådde bruttofortjeneste (post 0260) på omsetningen av handelsvarer. I post 0240 føres samlede salgsinntekter som hentes fra postene 3000, 3100 og 3200.</p>
-<p>Post 0270 og 0280 - for samvirkeforetak Postene skal fylles ut av samvirkeforetak som er registrert i foretaksregisteret som samvirkeforetak (SA) og samvirkeforetak som driver i samsvar med anerkjente samvirkeprinsipper, jf. overgangsregler i samvirkeloven § 163.</p>
-<p>I post 0270 føres total skattepliktig næringsinntekt før fradrag etter skatteloven § 10-50. Denne inntekten er med i grunnlag for beregning av skattepliktig næringsinntekt fra omsetning med egne medlemmer, se post 0280.</p>
+<p>Post 0270 og 0280 - for samvirkeforetak Postene skal fylles ut av samvirkeforetak som er registrert i foretaksregisteret som samvirkeforetak (SA) og samvirkeforetak som driver i samsvar med anerkjente samvirkeprinsipper, jf. etter skatteloven § 10-50. Denne inntekten er med i grunnlag for beregning av skattepliktig næringsinntekt fra omsetning med egne medlemmer, se post 0280.</p>
 <p>Beløpet i post 0280 angir rammen for maksimalt fradrag etter skatteloven § 10-50.</p>
 <p>I post 0270 føres sum skattepliktig inntekt som hentes fra post 9940, eventuelt korrigert for inntekter og fradrag som er ført direkte i RF-1028 <span type="quote">”Selvangivelse for aksjeselskap mv. 2014”</span>.</p>
 <p>Inntekt fra omsetning med egne medlemmer (maksimalt samvirkefradrag) beregnes i en brøk slik:</p>
@@ -76,9 +71,7 @@
 <p>Postene 0310 – 0332</p>
 <p>Her tas med både fakturerte og ikke fakturerte kundefordringer.</p>
 <p>Under post 0310 føres kundefordringer til pålydende per 31.12.2014 og 31.12.2013.</p>
-<p xml:lang="dan">Skattemessig nedskrivning på kundefordringer føres i post 0320.</p>
-<p>Side 3</p>
-<p>Skattemessig verdi i post 0330 kan i spesielle tilfeller bli negativ. Nedskrivningen skal alltid vises ved at beløpene i oppstillingen er utfylt.</p>
+<p>Skattemessig nedskrivning på kundefordringer føres i post 0320. beløpene i oppstillingen er utfylt.</p>
 <p>Skattemessig verdi i post 0330 fordeles på postene 0331 og 0332 og overføres til balansen.</p>
 <p><em type="bold">Side 2 og 3 i næringsoppgaven Generelt om resultat og balanse </em></p>
 <p>Resultat og balanse skal vise det skattemessige resultat og de skattemessige verdier.</p>
@@ -92,7 +85,7 @@
 <p>Uttak av eksempelvis fisk fra virksomheten til eier/deltaker og ansatte, skal tas med her. Uttak til fordel for eier/deltaker skal verdsettes til den pris som kunne vært oppnådd ved vanlig omsetning av fisken.</p>
 <p>Eiers/deltakers uttak av fisken skal dessuten fremgå av post 2064.</p>
 <p>Post 3200 Salgsinntekt og uttak - utenfor merverdiavgiftsloven</p>
-<p>Her føres inntekten av avgiftsfritt salg og verdien av uttak av varer og tjenester i perioden som faller utenfor avgiftsområdet. Eksempler på slike inntekter er legevirksomhet, undervisningstjenester mv.</p>
+<p>Her føres inntekten av avgiftsfritt salg og verdien av uttak av varer og tjenester i perioden som faller utenfor avgiftsområdet. Eksempler på slike</p>
 <p>Post 3300 Offentlige avgifter vedrørende salg</p>
 <p>Denne posten omfatter alle de spesielle offentlige avgifter (særavgifter) som er inkludert i postene 3000, 3100 og 3200. Her føres bl.a. produktavgiften i fiske. Posten skal trekkes fra driftsinntektene.</p>
 <p>Post 3400 Offentlig tilskudd/refusjon</p>
@@ -109,7 +102,7 @@
 <p xml:lang="nno">Post 3890 Inntektsføring fra positiv gevinst-/tapskonto</p>
 <p>Det skal føres en gevinst- og tapskonto for hver næring. I denne posten føres årets andel av skattepliktig inntekt fra positiv gevinst-/tapskonto.</p>
 <p xml:lang="dan">Hver gevinst- og tapskonto skal innrapporteres på skjemaet RF-1219 <span type="quote" xml:lang="nno">«Gevinst- og tapskonto 2014»</span>.</p>
-<p>Post 3895 Inntektsføring fra saldo Her føres årets skattepliktige del av negativ saldo. Eventuelt vederlag ved realisasjon av driftsmiddel som velges inntektsført helt eller delvis i realisasjonsåret, skal føres her.</p>
+<p>Post 3895 Inntektsføring fra saldo Her føres årets skattepliktige del av negativ saldo. Eventuelt vederlag ved</p>
 <p>Beløpene hentes fra RF-1084 <span type="quote" xml:lang="dan">”Avskrivning 2014”</span> post 107 og/eller post 110.</p>
 <p>Post 3900 Andre driftsinntekter</p>
 <p>Her føres andre driftsinntekter som ikke er tatt med under postene foran, bl.a. renter på kundefordringer. Inntektsført vederlag ved realisasjon av ikke-avskrivbare driftsmidler føres her i post 3900.</p>
@@ -124,7 +117,6 @@
 <p>Post 4295 Beholdningsendring av varer under tilvirkning og ferdig egentilvirkede vare r</p>
 <p>Her føres verdiendringen på beholdningene av varer under tilvirkning og ferdig egentilvirkede varer. En beholdningsnedgang øker kostnadene, og den angis som positivt beløp uten fortegn. En beholdningsøkning reduserer kostnadene, og den angis som negativt beløp med minusfortegn.</p>
 <p xml:lang="dan">Endringsbeløpet baseres på de</p>
-<p>Side 4 skattemessige verdier som framgår på side 1 under postene 0120 og 0130.</p>
 <p>Post 4500 Fremmedytelse og underentreprise</p>
 <p>Her føres kostnader til innleid arbeidskraft og underentreprenør dersom de vedrører postene 4005, 4295 og 4995.</p>
 <p>Post 4995 Beholdningsendring av egentilvirkede anleggsmidler Her føres endring av verdien på beholdningen av egentilvirkede anleggsmidler. Denne posten brukes også ved eventuell tilbakeføring av aktiverte kostnader og har derfor ikke noe fortrykt fortegn - posten kan bli både positiv og negativ.</p>
@@ -138,9 +130,7 @@
 <p>Her føres kostnader til løpende pensjonsutbetalinger.</p>
 <p>Post 5600 Arbeidsgodtgjørelse til eiere i ANS/DA mv.</p>
 <p>Her føres særskilt godtgjørelse (arbeidsgodtgjørelse) til deltaker i deltakerliknet selskap etter selskapsloven § 2-25, jf. § 2-26 første ledd. Mannslott til deltaker i deltakerliknet selskap tas med her.</p>
-<p>Beløpet skal omfatte dekket premie ved tariffestet pakkeforsikring.</p>
-<p>Post 5900 Annen personalkostnad</p>
-<p>Her føres blant annet gaver til ansatte, kostnader til fri kantine, kurs, bedriftshytte, tjenesteboliger, bedriftsidrettslag o.l. Innbetalt premie etter lov om yrkesskadeforsikring føres her. Merpremie for syke - og ulykkesforsikring utover lovbestemt yrkesskadeforsikring skal derimot, når arbeidstaker er begunstiget, behandles som lønn og føres i post 5000. Her føres også premie til foretakspensjonsordning og innskuddspensjonsordning samt andre pensjonskostnader vedrørende reelle ytelsesplaner.</p>
+<p>Beløpet skal omfatte dekket premie ved tariffestet pakkeforsikring. bedriftsidrettslag o.l. Innbetalt premie etter lov om yrkesskadeforsikring føres her. Merpremie for syke - og ulykkesforsikring utover lovbestemt yrkesskadeforsikring skal derimot, når arbeidstaker er begunstiget, behandles som lønn og føres i post 5000. Her føres også premie til foretakspensjonsordning og innskuddspensjonsordning samt andre pensjonskostnader vedrørende reelle ytelsesplaner.</p>
 <p>Premie og tilskudd til foretakspensjonsordning og innskuddspensjonsordning vil alltid være fradragsberettiget. For øvrig vil pensjonskostnader vedrørende sikring av plikt til fremtidige pensjonsutbetalinger ikke være fradragsberettiget i skattepliktig inntekt.</p>
 <p>Engangspremie til forsikringsselskap eller engangsutbetaling til avløsning av løpende aktuelle pensjonsforpliktelser til tidligere ansatt, er fradragsberettiget.</p>
 <p>Post 5950 Egen pensjonsordning</p>
@@ -150,9 +140,7 @@
 <p>Post 6200 Energi, brensel mv. vedrørende produksjon</p>
 <p>Her føres blant annet kostnader til drivstoff til maskiner og redskaper som nyttes i produksjonen (eks. traktor, gravemaskin, skurtresker, lassbærer, showel mv.).</p>
 <p>Post 6600 Reparasjon og vedlikehold av bygninger</p>
-<p>Her føres kostnader til reparasjon og vedlikehold på bygning som brukes i virksomheten. Kostnader som fører bygningen til en bedre stand enn den tidligere har vært, er ikke å anse som vedlikehold. Slike kostnader anses som påkostninger og skal aktiveres.</p>
-<p>Post 6695 Reparasjon og vedlikehold - annet</p>
-<p>Her føres reparasjon og vedlikehold på maskiner, utstyr o.l. som er brukt i virksomheten. Det gjelder blant annet også traktor, gravemaskin, skurtresker, lassbærer, showel mv.</p>
+<p>Her føres kostnader til reparasjon og vedlikehold på bygning som brukes i virksomheten. Kostnader som fører bygningen til en bedre stand enn den tidligere har vært, er ikke å anse som vedlikehold. Slike kostnader anses som påkostninger og skal aktiveres. virksomheten. Det gjelder blant annet også traktor, gravemaskin, skurtresker, lassbærer, showel mv.</p>
 <p>Reparasjon og vedlikehold på transportmidler skal føres under post 7020.</p>
 <p>Post 6700 Fremmed tjeneste</p>
 <p>Her føres kostnader til f.eks. eksterne regnskapsførere, revisorer, advokater, konsulenter mv. Slike kostnader og saksomkostninger vil kunne være fradragsberettigede dersom saken som bistanden er knyttet til, direkte gjelder skattepliktige inntekter eller fradragsberettigede kostnader. Ikke fradragsberettigede kostnader føres i post 2053.</p>
@@ -163,7 +151,6 @@
 <p>Beløpet i post 6995 skal føres inklusive mva på den private andelen, men redusert med mva på næringsdelen.</p>
 <p>Når det gjelder fordeling av mva mellom næring og privat legges den faktiske bruk av kommunikasjonsmidlet/-ene til grunn uten å se hen til sjablongen. Post 7000, 7020 og 7040 Kostnader kun vedrørende transportmidler</p>
 <p>I postene 7000, 7020 og 7040 føres kostnader vedrørende biler nyttet i næring (stasjonsvogner, varebiler, lastebiler og personbiler nyttet mer enn 6000 km i året i næring). Kreves fradrag for bilkostnader, skal RF-1125 <span type="quote">"Bruk av bil 2014” vedlegges. De som driver drosje- eller lastebilnæring, skal i stedet vedlegge RF-1223 "Drosje- og lastebilnæring 2014"</span>. Skattemessige avskrivninger på transportmidler skal føres i post 6000. Bompenger,</p>
-<p>Side 5 parkeringskostnader, fergebilletter mv. føres på post 7155 eller 7165 som en reisekostnad.</p>
 <p>Post 7080 Bilkostnader, bruk av privat bil i næring</p>
 <p>Hvis det foreligger nøyaktig registrert bilbruk i næring, kan en selvstendig næringsdrivende i et enkeltpersonforetak kreve fradrag for bruk av privatbil inntil 6000 km i virksomheten etter satsene for bilgodtgjørelse. For 2014 er satsen kr 4,05 per km. Beløpet skal også føres som egenkapitalkorreksjon i post 2057 på side 4. Det er i disse tilfellene ikke plikt til å levere bilskjema.</p>
 <p>Denne posten kan ikke benyttes for</p>
@@ -177,8 +164,6 @@
 <p>Kostnadene ved bilholdet består av de faktiske driftskostnadene med tillegg av en beregnet årlig saldoavskrivning på 17 % beregnet med utgangspunkt i bilens listepris på tidspunktet for førstegangsregistrering.</p>
 <p>Beløpet skal også føres som privat uttak i post 2075 på side 4.</p>
 <p>Post 7155 Reise-/diett- og bilgodtgjørelse som er innberetningspliktig Her føres alle kostnader til reise, diett og bilgodtgjørelse som er innberetningspliktige. Ikke innberetningspliktige reisekostnader føres i post 7165.</p>
-<p xml:lang="pol">Post 7350</p>
-<p>Representasjonskostnader (med fradragsrett)</p>
 <p>Den delen av representasjonskostnader som ikke er fradragsberettiget, jf.</p>
 <p>Skattedirektoratets skatteforskrift § 6-21, skal føres i post 2051.</p>
 <p>Post 7495 Kontingent med fradragsrett</p>
@@ -200,8 +185,8 @@
 <p>Post 7896 Andre konstaterte tap Alle andre fradragsberettigede tap – f.eks. tap på kontrakter – føres her.</p>
 <p>Post 7897 Endring i skattemessig nedskrivning på kundefordringer</p>
 <p>Her føres endringen i skattemessig nedskrivning på kundefordringer.</p>
-<p>Beløpet fremkommer under post 0320 som forskjellen mellom årets og forrige års nedskrivning. Er årets nedskrivning større enn forrige års nedskrivning, skal differansen fremstå som et positivt beløp (uten fortegn). Dersom årets nedskrivning er mindre enn forrige års, skal differansen fremstå som et negativt beløp (med fortegn minus). </p>
-<p><em type="bold">Kapitalposter </em></p>
+<p>Beløpet fremkommer under post 0320 forrige års nedskrivning, skal differansen fremstå som et positivt beløp (uten fortegn). Dersom årets nedskrivning er mindre enn forrige års, skal differansen fremstå som et negativt beløp (med fortegn minus). </p>
+<p xml:lang="olo"><em type="bold">Kapitalposter </em></p>
 <p>Post 8060/8160 Valutagevinst (agio)/ valutatap (disagio)</p>
 <p>Her føres gevinst/tap på fordringer og gjeld i utenlandsk valuta. Det er de skattemessige reglene for beregning av gevinst/tap som skal anvendes.</p>
 <p>Post 8099 Annen kapitalinntekt som ikke er spesifisert i RF-1084 <span type="quote" xml:lang="dan">”Avskrivning 2014”</span> og/eller RF- 1219 <span type="quote" xml:lang="nno">”Gevinst og tapskonto 2014”</span></p>
@@ -214,9 +199,7 @@
 <p xml:lang="fin">Post 9930 Resultat</p>
 <p>Her framkommer næringsinntekt eller evt. underskudd som for enkeltpersonforetak skal overføres til side 4 post 0401. ANS/KS/DA, samvirkeforetak og andre innretninger som nytter Næringsoppgave 1 overfører beløpet til post 0410.</p>
 <p><em type="bold">Balanse - skattemessige verdier </em></p>
-<p>Ligningsloven kapittel 4 pålegger alle foretak som driver virksomhet, å utarbeide et skattemessig årsoppgjør </p>
-<p>Side 6 basert på realisasjonsprinsippet.</p>
-<p>Balansen i næringsoppgaven skal derfor føres etter reglene i skatteloven, og det er de skattemessige verdier som skal legges til grunn.</p>
+<p>Ligningsloven kapittel 4 pålegger alle foretak som driver virksomhet, å utarbeide et skattemessig årsoppgjør og det er de skattemessige verdier som skal legges til grunn. </p>
 <p>Eksempel: Saldogruppe a føres i balansen post 1280 med saldoverdi for gruppen per 31.12.</p>
 <p>Hvis et foretak går over fra årsregnskapsplikt til bokføringsplikt, skal foretaket levere Næringsoppgave 1 i stedet for Næringsoppgave 2. Dette kan påvirke hva som skal føres som inngående balanse. Se nærmere redegjørelse under postene 9996 - 9998.</p>
 <p>Postene 1080, 1105, 1115, 1120, 1205, 1221, 1225, 1239 og 1280 – saldoer driftsmidler</p>
@@ -233,8 +216,7 @@
 <p>Her føres beløp hentet fra post 16 i</p>
 <p xml:lang="deu">RF-1219 <span type="quote" xml:lang="nno">”Gevinst- og tapskonto 2014”</span>.</p>
 <p>Post 1495 Varelager</p>
-<p>Her føres den skattemessige verdien av varelager - beløpet hentes fra post 0170. Her føres i tillegg evt. verdi av fisk i fiskeoppdrettsanlegg. Om pelsdyr og rein, se den spesielle rettledningen, RF-1178 ”Rettledning til RF-1177 Landbruk og RF-1175</p>
-<p xml:lang="nno">Næringsoppgave 1 2014” post 0165.</p>
+<p>Her føres den skattemessige verdien av varelager - beløpet hentes fra post 0170. Her føres i tillegg evt. verdi av fisk i fiskeoppdrettsanlegg. Om pelsdyr og rein, se den spesielle rettledningen, RF-1178 ”Rettledning</p>
 <p>Post 1500 Kundefordringer</p>
 <p>Her føres skattemessig verdi av kundefordringer som hentes fra post 0331 (etter fradrag for eventuell nedskrivning).</p>
 <p>Post 1530 Opptjente, ikke fakturerte kundefordringer</p>
@@ -248,8 +230,7 @@
 <p>Post 2095 Negativ saldo</p>
 <p>Her føres sum negativ saldo per 31.12. for den eller de saldogrupper som iflg. RF-1084 "Avskrivning 2014” framkommer med slik saldo. Beløpet er en ubeskattet inntekt.</p>
 <p xml:lang="nno">Post 2096 Positiv gevinst- og tapskonto</p>
-<p>Her føres beløp hentet fra RF-1219 <span type="quote" xml:lang="nno">"Gevinst- og tapskonto 2014"</span>. Beløpet er en ubeskattet inntekt.</p>
-<p><em type="bold">Gjeld Post 2220 Langsiktig foretaksgjeld </em>til finansinstitusjoner </p>
+<p>Her føres beløp hentet fra RF-1219 <span type="quote" xml:lang="nno">"Gevinst- og tapskonto 2014"</span>. Beløpet er en ubeskattet inntekt. til finansinstitusjoner</p>
 <p>Her føres den gjeld som etter reglene om beregnet personinntekt anses som <span type="quote" xml:lang="nno">”foretaksgjeld”</span>. Hva som anses som <span type="quote" xml:lang="nno">”foretaksgjeld”</span>, er nærmere beskrevet under post 2.10 i RF-1225 ”Rettledning til RF-1224</p>
 <p>Personinntekt fra enkeltpersonforetak 2014”.</p>
 <p>Post 2600 Skattetrekk og andre trekk</p>
@@ -258,8 +239,7 @@
 <p><em type="bold">Side 4 i næringsoppgaven Postene 0401 - 0403 </em></p>
 <p>Postene skal bare nyttes av enkeltpersonforetak, og de er en spesifikasjon av poster som skal overføres til selvangivelsen og til</p>
 <p>RF-1224 <span type="quote">”Personinntekt fra enkeltpersonforetak 2014”</span>. Post 0401 viser sum samlet næringsinntekt (evt. underskudd) overført fra post 9930 på side 2. I post 0402, kolonne A, angis hvilke(n) type(r) næring som drives. I kolonnen under <span type="quote">”ID” skal de enkelte næringene (dersom det drives flere næringer) løpende nummereres. Samme tallet skal settes i rubrikken ”ID”</span> i RF-1224 <span type="quote">”Personinntekt fra enkeltpersonforetak 2014”</span>. </p>
-<p><em type="bold">OBS! </em>For næringer som etter FIN forskrift til skatteloven, § 12-20-1, jf. § 10-42-3, skal ha felles beregning av personinntekt, skal det nyttes samme tall! Eks.: Drives ridesenter, </p>
-<p>Side 7 eiendomsmeglervirksomhet og utleievirksomhet, og de to siste har høy grad av innholdsmessig og økonomisk nærhet, vil nummereringen bli: Ridesenter (1).</p>
+<p><em type="bold">OBS! </em>For næringer som etter FIN forskrift til skatteloven, § 12-20-1, jf. § 10-42-3, skal ha felles beregning av personinntekt, skal det nyttes samme tall! Eks.: Drives ridesenter, økonomisk nærhet, vil nummereringen bli: Ridesenter (1). </p>
 <p xml:lang="spa">Eiendomsmeglerfirma (2),</p>
 <p xml:lang="nno">Utleievirksomhet (2).</p>
 <p>Tallet fra post 0401 skal overføres til kolonne B. Drives det flere næringer, splittes tallet og fordeles på de respektive næringene.</p>
@@ -273,7 +253,7 @@
 <p>Postene 0410 – 9940 skal for enkeltpersonforetak nyttes til avstemming av egenkapitalen</p>
 <p>For å få en riktig avstemming er det kun de beløp som er ført i regnskapet, som skal føres i disse postene.</p>
 <p>Dersom et enkeltpersonforetak i regnskapet har tatt inn inntekter/gevinster eller underskudd/tap knyttet til andel(er) i deltakerliknet selskap, skal det føres i post 0416.</p>
-<p>Selve innrapporteringen av eventuelle skattepliktige inntekter knyttet til deltakelse i ANS/KS/DA, skjer fra RF-1221 <span type="quote">”Deltakers oppgave over formue og inntekt i deltakerliknet selskap 2014”</span> direkte til selvangivelsen.</p>
+<p>Selve innrapporteringen av eventuelle skattepliktige inntekter selskap 2014” direkte til selvangivelsen.</p>
 <p>Postene 0410 – 9940 skal for</p>
 <p>ANS/KS/DA og samvirkeforetak nyttes til å beregne årets resultat</p>
 <p>Post 0411 Skattepliktig utbytte på aksjer mv.</p>
@@ -286,7 +266,7 @@
 <p>Post 0414 Skattepliktig gevinst/fradragsberettiget tap fra realisasjon av aksjer mv.</p>
 <p>Deltakerlignet selskap (ANS/KS/DA) og samvirkeforetak fører her kun tap og gevinst etter realisasjon av aksjer, verdipapirfond og/eller grunnfondsbevis som er <em type="bold">skattepliktig </em>og hentet fra RF-1059 <span type="quote">”Aksjer og fondsandeler mv. 2014”</span>. </p>
 <p>Deltakerlignet selskap (ANS/KS/DA) og samvirkeforetak som har realisert aksjer som omfattes av fritaksmetoden, jf. skatteloven § 2-38, er <em type="bold">ikke skattepliktig </em>for gevinst ved realisasjon av aksjer mv. og må passe på at tapet eller gevinsten <em type="bold">ikke føres </em>her. </p>
-<p>Dersom selskapet har ført utbytter og/eller gevinster som er skattefrie eller tap som ikke er fradragsberettigede i regnskapet, må disse beløpene føres i korreksjonspostene 2053 og 2054 for at avstemmingen skal bli riktig.</p>
+<p>Dersom selskapet har ført utbytter og/eller gevinster som er skattefrie korreksjonspostene 2053 og 2054 for at avstemmingen skal bli riktig.</p>
 <p>Post 0415 3 % av skattefrie inntekter etter fritaksmetoden.</p>
 <p>Selskap inntektsfører her tre prosent av mottatt aksjeutbytte som i utgangspunktet er skattefritt etter fritaksmetoden, se rettledningen til post 0411.</p>
 <p>I tillegg skal upersonlig skattyter som er deltaker i deltakerliknet selskap (KS, ANS mv.), inntektsføre tre prosent av utdeling fra det deltakerliknede selskapet</p>
@@ -299,16 +279,13 @@
 <p>ANS/DA eller KS, skal posten overføres til post 1105 i RF-1215 <span type="quote">”Selskapsoppgave for deltakerlignet selskap 2014”</span>.</p>
 <p>For samvirkeforetakene som er foretaksregistrert som samvirkeforetak (SA), eller som driver i samsvar med anerkjente samvirkeprinsipper, jf. overgangsregler i samvirkeloven § 163, skal sumposten 9940 vise total skattepliktig næringsinntekt før eventuelle fradrag for etterbetaling etter sktl. §10-50. Det innebærer at utbetalt og/eller avsatt etterbetaling (bonus) samt andre utdelinger til andelseierne/medlemmene som samvirkeforetaket har vedtatt, ikke skal trekkes fra ved fastsettelse av resultatet i post 9940. Se for øvrig rettledning til postene 0270 og 0280 på side 1.</p>
 <p>Samvirkeforetak som ikke har fradragsrett for etterbetaling (bonus), overfører beløpet til post 201 i RF-1028 <span type="quote">”Selvangivelse for aksjeselskap mv. 2014”</span>. Ved underskudd overføres beløpet til post 222 i RF-1028.</p>
-<p>Side 8</p>
-<p>Postene 9980 og 9985 gjelder bare for samvirkeforetak - fradrag for etterbetaling (bonus)</p>
 <p>Visse samvirkeforetak kan kreve fradrag i næringsinntekt for etterbetaling (bonus), jf. sktl. § 10-50.</p>
 <p type="listitem">Dette gjelder følgende foretak:</p>
 <p type="listitem">forbrukersamvirker</p>
 <p type="listitem">innkjøpsforetak som fordeler forutbestilte varer blant sine medlemmer</p>
 <p type="listitem">foretak som utelukkende eller  hovedsakelig: enten 1) kjøper inn råemner, driftsmidler til bruk i jordbruk, skogbruk eller fiske 2) forhandler produkter fra medlemmenes jordbruks-, skogbruks- eller fiskerivirksomhet eller 3) foredler produkter fra  medlemmenes jordbruks- eller fiskerivirksomhet.</p>
 <p>For slike samvirkeforetak skal sumposten 9940 vise total skattepliktig næringsinntekt før eventuelle fradrag for utdelinger til andelseierne/medlemmene. Det medfører at utbetalt og/eller avsatt etterbetaling (bonus) samt andre utdelinger tilandelseierne/medlemmene som samvirkeforetaket har vedtatt, skal holdes utenfor ved fastsettelse av resultatet i post 9940. Se for øvrig rettledning til postene 0270 og 0280 på side 1. Næringsinntekt, omsetning, rabatter, bonus og andre utdelinger oppgis her eksklusiv mva.</p>
-<p>Fradrag for avsetninger og utdelinger til andelseiere/medlemmer føres i post 9980 og reduserer samvirkeforetakets skattepliktige næringsinntekt i post 9985.</p>
-<p>Forhåndsgarantert kjøpsutbytte/rabatt i forbrukersamvirke regnes ikke som etterbetaling, jfr. samvirkeloven § 31 og § 27. Forbrukersamvirke trekker forhåndsgarantert kjøpsutbytte/rabatt fra næringsinntekten før beregning av resultatet i post 9940.</p>
+<p>Fradrag for avsetninger og utdelinger til andelseiere/medlemmer føres i post 9980 og reduserer samvirkeforetakets skattepliktige næringsinntekt i post 9985. etterbetaling, jfr. samvirkeloven § 31 og § 27. Forbrukersamvirke trekker forhåndsgarantert kjøpsutbytte/rabatt fra næringsinntekten før beregning av resultatet i post 9940.</p>
 <p>Forhåndsgarantert kjøpsutbytte/rabatt i forbrukersamvirke skal ikke føres i post 9980.</p>
 <p>Dersom samvirkeforetaket har vedtatte utdelinger og avsetninger til etterbetaling (bonus), som overstiger maksimalt samvirkefradrag etter skattelovens § 10-50, se post 0280, skal overskytende tilbakeføres i post 233 i selvangivelsen (RF-1028).</p>
 <p>Beløpet i post 9985 overføres til post 201 i RF-1028 <span type="quote">”Selvangivelse for aksjeselskap mv. 2013”</span>.</p>
@@ -316,7 +293,7 @@
 <p><em type="bold">Postene 2051 – 2079 </em>Disse postene er spesielt rettet mot enkeltpersonforetak, men må også etter skjønn nyttes av deltakerliknede selskaper og samvirkeforetak i den grad det er nødvendig for å vise en riktig avstemming. De samlede uttak/utdelinger til deltakerne, unntatt arbeidsgodtgj. som føres i post 5600, må for eksempel vises her. </p>
 <p>Spesifikasjon av privatkonto</p>
 <p>Dette er en spesifikasjon av post 0422 i egenkapitalbevegelsen. Her føres utøverens uttak og private kostnader som er ført i virksomhetens regnskap.</p>
-<p>De private kostnadene skal ikke føres i resultatregnskapet, men mot privatkonto. Eksempel:</p>
+<p>De private kostnadene skal ikke føres i</p>
 <p>Kostnader til elektronisk kommunikasjon som er fradragsberettiget skattemessig, føres i post 6995 ”Kontorkostnad, kostnad til elektronisk kommunikasjon, porto mv.” Dersom private kostnader til elektronisk kommunikasjon er betalt over driften, føres disse i post 2068. Er det ført et beløp i post 7099, <span type="quote" xml:lang="nno">«Privat bruk av næringsbil»</span>, føres samme beløp i post 2075.</p>
 <p>Næringskostnader uten fradragsrett/egenkapital- korreksjon</p>
 <p>Her føres kostnader/inntekter som kan være ført i regnskapet, men som ikke skal påvirke skattbar inntekt, f.eks. ikke fradragsberettigede kontingenter og gaver, skattefrie inntekter, sykepenger for den næringsdrivende mv.</p>

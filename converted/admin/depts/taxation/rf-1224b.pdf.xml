@@ -1,16 +1,14 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>666</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1224B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1224e.pdf"/><parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>1.17 Årets beregnede personinntekt før samordning/fremføring1.19 Fradrag for negativ beregnet personinntekt som er overført fra annen virksomhet, som det kan foretas samordning med – se rettledningen1.231.21 Tillegg for negativ beregnet personinntekt som kan samordnes med uttatt arbeidsgodtgjørelse fra ANS/DA/KS i år – se rettledningen</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>654</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1224B.pdf</origFileName><parallel_text xml:lang="eng" location="rf-1224e.pdf"/><parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>1.17 Årets beregnede personinntekt før samordning/fremføring1.19 Fradrag for negativ beregnet personinntekt som er overført fra annen virksomhet, som det kan foretas samordning med – se rettledningen1.231.21 Tillegg for negativ beregnet personinntekt som kan samordnes med uttatt arbeidsgodtgjørelse fra ANS/DA/KS i år – se rettledningen</p>
 <p><em type="bold">Ektefellefordeling </em>(Fordeling av post 1.9 mellom ektefeller) </p>
 <p><em type="bold">Ektefelle </em>% andela)1.10 Ved ektefellefordeling multipliseres summen i post 1.9 med vedkommende ektefelles prosentandel og beløpet benyttes i videre beregning-+= </p>
 <p>Type næring (Se rettledningen)</p>
 <p>Nærings ID</p>
-<p><em type="bold">Personinntekt fra enkeltpersonforetak 2014 </em></p>
 <p xml:lang="kal">Navn</p>
 <p xml:lang="dan">Fødselsnummer</p>
 <p>Virksomhets-/kontoradresse (Næringsdrivende som har næringsinntekt i flere kommuner, skal oppgi disse)</p>
 <p xml:lang="pol">Postnr.</p>
 <p xml:lang="est">Poststed</p>
-<p>Se i rettledningen om fortegnsbruken i skjemaet</p>
-<p><em type="bold">Skatteetaten </em>1.1 Beløp overført fra Næringsoppgave 1 (post 0402E), fra Næringsoppgave 2 (post 0402E), fra Næringsoppgave for billedkunstnere (post 2.90) eller fra Driftsresultat i selvangivelsen RF-1030. </p>
+<p>Se i rettledningen om fortegnsbruken i skjemaet1.1 Beløp overført fra Næringsoppgave 1 (post 0402E), fra Næringsoppgave 2 (post 0402E), fra Næringsoppgave for billedkunstnere (post 2.90) eller fra Driftsresultat i selvangivelsen RF-1030.</p>
 <p><em type="bold">Basisberegning </em>1.2 Renter på den foretaksgjeld til finansinstitusjoner som er ført i post 2.10 (se rettledningen til post 2.10), og renter på drifts-/kassekreditt og foretakslån som er tatt opp og nedbetalt i året.1.3 Kapitalinntekter (avkastning og gevinster, ikke renter) knyttet til finansobjekter, eller til realobjekter som ikke har virket i virksomheten. (Inntekten må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1). Om rentestøtte fra Innovasjon Norge, se rettledningen.1.5 Kapitalkostnader (ikke renter) og tap knyttet til finansobjekter, eller til realobjekter som ikke har virket i virksomheten. (Kostnaden må være ført i næringsoppgaven eller driftsresultat i RF-1030 og inngå i post 1.1)1.7 Sum1.8 Skjermingsfradrag (Positivt beløp fra post 2.11 eller 2.12 multiplisert med skjermingsrenten)--+1.9 Årets beregnede personinntekt før samordning/fremføring. Dersom fordeling mellom ektefeller, nyttes beløpene i post 1.10 for den videre beregning=-= </p>
 <p xml:lang="nno">Skjermingsrente%</p>
 <p>Fiske/</p>
@@ -26,7 +24,6 @@
 <p><em type="bold">Samordning/fremføring av negativ beregnet personinntekt </em>-=+% andelb)1.20 Tillegg for negativ beregnet personinntekt som er overført til annen virksomhet, som det kan foretas samordning med – se rettledningen++ </p>
 <p><em type="bold">Årets beregnede personinntekt </em>1.6 Gevinst ved realisajon av tomt i jord-/skogbruk som ikke skal inngå i beregnet personinntekt. (Beløp overført fra RF-1177 post 453)-1.18 Negativ beregnet personinntekt fra tidligere år (negativ beregnet personinntekt fra ANS/DA/KS kan ikke fremføres) - se rettledningen--1.22 Tillegg for negativ beregnet personinntekt som kan samordnes med lott fra fiske i år – se RF-1213 post 118 ++ </p>
 <p>Er resultatet under null, viser dette den beregnede negative personinntekten som kan fremføres til fradrag for senere år. (Negativ beregnet personinntekt skal ikke føres i selvangivelsen)1.24 Opplysningspost (for de som velger å ikke nytte post 1.18 til å redusere positiv beregnet personinntekt med fremført negativ beregnet personinntekt fra tidligere år) – se rettledningen</p>
-<p xml:lang="deu">RF-1224B</p>
 <p xml:lang="est">Poststed</p>
 <p>Forretningsadresse (gate)</p>
 <p>Dato</p>
@@ -42,13 +39,11 @@
 <p>Saldogruppe E: Skip, fartøyer mv.</p>
 <p>Saldogruppe F: Fly og helikopter</p>
 <p xml:lang="nno">Saldogruppe H: Bygg og anlegg mv.</p>
-<p>Saldogruppe I: Forretningsbygg2.2 Ikke avskrivbare driftsmidler2.3 Andre ervervede immaterielle rettigheter2.4 Aktiverte forsknings- og utviklingskostnader2.5 Varer (inkl. buskap)/varer under tilvirkning2.6 Kundefordringer2.7 Leverandørgjeld/forskudd fra kunder2.8 Sum2.9 Sum skjermingsgrunnlag før gjeldsfradrag (inngående + utgående verdier i post 2.8) / 2)</p>
-<p xml:lang="dan">Verdsettelses-metode</p>
+<p>Saldogruppe I: Forretningsbygg2.2 Ikke avskrivbare driftsmidler2.3 Andre ervervede immaterielle rettigheter2.4 Aktiverte forsknings- og utviklingskostnader2.5 Varer (inkl. buskap)/varer under tilvirkning2.6 Kundefordringer2.7 Leverandørgjeld/forskudd fra kunder2.8 Sum2.9 Sum skjermingsgrunnlag før gjeldsfradrag (inngående + utgående verdier i post 2.8) / 2)metode</p>
 <p>Inngående verdi++++++++++++=÷</p>
 <p xml:lang="isl">Avskrivbare driftsmidler2.1++++++++++++=÷=</p>
 <p xml:lang="nno">Driftsmiddel som avskrives lineært++</p>
-<p>Saldogruppe G: Anlegg for overføring og distribusjon av elektrisk kraft mv.++</p>
-<p><em type="bold">Beregning av skjermingsgrunnlaget: </em>2.10 Foretaksgjeld til finansinstitusjoner og foretaksgjeld knyttet til mengdegjeldsbrev, se rettledningen </p>
+<p>Saldogruppe G: Anlegg for overføring og distribusjon av elektrisk kraft mv.++2.10 Foretaksgjeld til finansinstitusjoner og foretaksgjeld knyttet til mengdegjeldsbrev, se rettledningen</p>
 <p xml:lang="nno">Inngående verdi (Inng. + utg. verdi) / 2</p>
 <p>Beløpet overføres til post 1.8 a. Er virksomheten drevet bare en del av året, overføres beløpet til post 2.12.=</p>
 <p>Utgående verdi</p>

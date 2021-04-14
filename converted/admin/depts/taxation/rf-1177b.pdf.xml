@@ -1,16 +1,12 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1623</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1177B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1177s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno">Kreves start på gjennomsnittslikning i år?</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1426</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2014/RF-1177B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1177s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno">Kreves start på gjennomsnittslikning i år?</p>
 <p><em type="bold">IV. Opplysninger vedrørende utleie av boliger/leiligheter/hybler (inklusive utleid våningshus og/eller kårbolig) </em></p>
-<p xml:lang="nno"><em type="bold">Landbruk 2014 </em></p>
 <p xml:lang="nno">Utleieforhold 1</p>
 <p xml:lang="nno">Type boenhet</p>
-<p>Navn (for enkeltpersonforetak)</p>
 <p>G.nr.</p>
-<p>Virksomhetens navn (for selskaper)</p>
 <p xml:lang="nno">Fødselsnummer (11 siffer)</p>
 <p>Org.nr. (for selskaper)</p>
 <p>B.nr.</p>
 <p><em type="bold">Hvilken type næring gis det opplysninger om i denne oppgaven? </em></p>
-<p><em type="bold">II. Oversikt over antall dyr </em></p>
 <p>Dyregruppe</p>
 <p>Antall per 31.12.14</p>
 <p>Antall per 31.12.13101</p>
@@ -37,16 +33,16 @@
 <p>Korn / Oljevekster126127</p>
 <p>Poteter / Grønnsaker128</p>
 <p xml:lang="isl">Frukt / Bær129</p>
-<p xml:lang="vep">Veksthusareal i m²141</p>
-<p>Antall utleide boenheter på gården142143</p>
+<p xml:lang="vep">Veksthusareal i m²</p>
+<p>Antall utleide boenheter på gården</p>
 <p>Navn på leietaker</p>
-<p>Navn på leietaker144</p>
-<p xml:lang="ron">Utleieperiode145</p>
-<p>Leies boenheten ut helt eller delvis vederlagsfritt?146</p>
-<p>Leies boenheten ut som ledd i arbeidsforhold?147</p>
-<p xml:lang="deu">Er boretten innberettet?148</p>
-<p>Fastsatt årlig leieverdi ved vederlagsfri utleie149</p>
-<p>Brutto årlig leieinntekt ved utleie mot vederlag150</p>
+<p>Navn på leietaker</p>
+<p xml:lang="ron">Utleieperiode</p>
+<p>Leies boenheten ut helt eller delvis vederlagsfritt?</p>
+<p>Leies boenheten ut som ledd i arbeidsforhold?</p>
+<p xml:lang="deu">Er boretten innberettet?</p>
+<p>Fastsatt årlig leieverdi ved vederlagsfri utleie</p>
+<p>Brutto årlig leieinntekt ved utleie mot vederlag</p>
 <p>Samlede aktiverte påkostninger på utleide boliger - (inngår i post 1160 i RF-1175, evt. i post 1160 i RF-1167)</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
@@ -54,7 +50,7 @@
 <p xml:lang="nno">Nei</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
-<p xml:lang="nno">Utleieforhold 2151</p>
+<p xml:lang="nno">Utleieforhold 2</p>
 <p>Samlede drifts- og vedlikeholdskostnader på utleide boliger (inngår i post 6600 i RF-1175, evt. i post 6600 i RF-1167)</p>
 <p xml:lang="nno">Utleieforhold 3</p>
 <p xml:lang="est"><em type="bold">Veksthus </em></p>
@@ -70,17 +66,15 @@
 <p xml:lang="nno">Nei</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
-<p xml:lang="nno"><em type="bold">Skatteetaten </em></p>
 <p><em type="bold">Er det kjøpt eller realisert gårdsbruk/skog helt eller delvis i året? </em></p>
 <p xml:lang="sme"><em type="bold">Solgt </em></p>
-<p xml:lang="vep"><em type="bold">Kjøpt </em></p>
+<p xml:lang="olo"><em type="bold">Kjøpt </em></p>
 <p xml:lang="deu">Gras/beite125</p>
 <p>Dersom gjennomsnittslikning ikke har startet, oppgi hvilket år og dato eindommen ble overtatt:</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>
 <p xml:lang="nno"><em type="bold">Skogbruk </em></p>
 <p><em type="bold">I. Diverse opplysninger </em></p>
-<p xml:lang="deu">RF-1177B</p>
 <p><em type="bold">Ved realisasjon skal RF-1294 leveres. Ved kjøp skal RF-1013 leveres. </em></p>
 <p><em type="bold">Ved isolert realisasjon av melkekvote føres dette her. Navn på kjøper oppgis hvis det er andre enn staten. </em></p>
 <p xml:lang="nno">Melkekvotesalg til</p>
@@ -91,7 +85,6 @@
 <p xml:lang="dan">Under60m2</p>
 <p xml:lang="nno">Over 100m2c) =</p>
 <p><em type="bold">VIII. Opplysninger vedrørende kår og kårbolig </em></p>
-<p><em type="bold">VII. Oversikt over ikke anvendt underskudd ved <span type="quote" xml:lang="nno">"drift"</span> av våningshus fra årene 1995 - 2004 som kan framføres </em></p>
 <p><em type="bold">VI. Beregning av den del av tidligere framført underskudd ved <span type="quote" xml:lang="nno">"drift"</span> av våningshus som anvendes i året </em>d) </p>
 <p>Framført underskudd – i samsv. med post 220a.</p>
 <p xml:lang="nno">Hentes fra SA post 3.4 før evt. fradrag i post 3.3.11</p>
@@ -108,30 +101,27 @@
 <p xml:lang="nno">Uttak av naturalia til kår fra skogbruk246</p>
 <p xml:lang="dan">Fri strøm og evt. kontantkår247</p>
 <p xml:lang="nno">Totale kårytelser. (Skal lønnsinnberettes på kode 216)</p>
-<p>Beløpet i post 209d skal føres i selvangivelsen post 3.3.1120132014261</p>
+<p>Beløpet i post 209d skal føres i selvangivelsen post 3.3.1120132014</p>
 <p>Skurtømmer (bartrær)</p>
-<p>Massevirke bartrær263</p>
-<p xml:lang="fra">Lauvtrevirke264</p>
-<p xml:lang="est">Rotsalg265</p>
-<p xml:lang="vep">Ved266</p>
-<p>Øvrige inntektsposter (inklusive uttak)267</p>
-<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER </em>=268 </p>
+<p>Massevirke bartrær</p>
+<p xml:lang="fra">Lauvtrevirke</p>
+<p xml:lang="est">Rotsalg</p>
+<p xml:lang="vep">Ved</p>
+<p>Øvrige inntektsposter (inklusive uttak)</p>
+<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER </em>= </p>
 <p xml:lang="swe">Driftskostnader-</p>
-<p xml:lang="hbs">Post i N.O.300030003000300030003000-3900 9900 NO1 9000 NO2262269</p>
-<p xml:lang="sma"><em type="bold">DRIFTSRESULTAT </em>=9920 NO1 9050 NO2271 </p>
-<p>Korrigering for kapitalinntekter/-kostnader som inngår i driftsresultatet, men som ikke skal inngå i gjennomsnittslikningen+274</p>
-<p xml:lang="nno">Overføres til post 345 for gjennomsnittsberegning270</p>
+<p xml:lang="hbs">Post i N.O.300030003000300030003000-3900 9900 NO1 9000 NO2</p>
+<p xml:lang="sma"><em type="bold">DRIFTSRESULTAT </em>=9920 NO1 9050 NO2 </p>
+<p>Korrigering for kapitalinntekter/-kostnader som inngår i driftsresultatet, men som ikke skal inngå i gjennomsnittslikningen+</p>
+<p xml:lang="nno">Overføres til post 345 for gjennomsnittsberegning</p>
 <p>Sjablongberegnet inntekt fra biomasse-/vedproduksjon som (valgfritt) er overført jordbruk, 55% av brutto produksjonsinntekt-</p>
 <p xml:lang="deu"><em type="bold">KORRIGERT DRIFTSRESULTAT - </em></p>
-<p><em type="bold">X. Skogbruk – regnskapsutdrag </em>201 </p>
-<p>Årsresultat jordbruk - hentes fra post 0402E i RF-1175 (evt 0402E i RF-1167) inkludert evt. andel av overskudd/underskudd fra ANS/DA jordbruk+203</p>
-<p>Årets positive skogbruksinntekt etter gjennomsnittsberegning (hentes fra RF-1175 post 0402E evt. fra RF-1167 post 0402E, evt. fra RF-1221 post 1140) +204</p>
+<p><em type="bold">X. Skogbruk – regnskapsutdrag </em>204 </p>
 <p>Årets positive inntekt fra pelsdyrnæring - hentes fra RF-1175 post 0402B, (evt. RF-1167 post 0402B)+205</p>
 <p>Sykepenger utbetalt på grunnlag av personinntekt fra jordbruk, skogbruk og pelsdyrnæring+206</p>
 <p>Sum - hvis negativt beløp, behøver postene nedenfor ikke fylles ut. =207</p>
 <p>Jordbruksfradrag - hentes fra post 437. -208</p>
 <p>Positivt beløp føres til post 209c, dersom det i post 220a er beløp til framføring=</p>
-<p><em type="bold">V. Anvendelse av tidligere framførte underskudd våningshus </em>272 </p>
 <p>Korrigering for beløp fra gevinst- og tapskonto+3890 7890</p>
 <p>Kårboligens bruksareal er:</p>
 <p xml:lang="nno">Mangler kårboligen bad/dusj eller wc?</p>
@@ -143,10 +133,8 @@
 <p><em type="bold">Det skal kun krysses av dersom det er endringer fra forrige år! </em>60 til100m2- </p>
 <p>Er kårkontrakten endret? - Alle kostnader skal nå bæres av kårmottaker</p>
 <p xml:lang="smj">Ja</p>
-<p xml:lang="nno">Nei---273</p>
-<p>Bare for de som leverer RF-1167 Næringsoppgave 2:a. Andel av RF-1167 post 0900 som gjelder skogbruk+b. Andel av RF-1167 post 0910 som gjelder skogbruk+--</p>
-<p><em type="bold">XI. Ekstraordinær fordeling av tømmeravvirkning etter naturkatastrofer </em>281 </p>
-<p>Rest per 1. januar 2014 av ikke skattlagt avvirkning etter naturkatastrofe i tidligere år282</p>
+<p xml:lang="nno">Nei--</p>
+<p>Bare for de som leverer RF-1167 Næringsoppgave 2:a. Andel av RF-1167 post 0900 som gjelder skogbruk+b. Andel av RF-1167 post 0910 som gjelder skogbruk+--282</p>
 <p>Av dette medtatt i 2014 under post 345. For deltakerliknet selskap legges beløpet til selskapsoppgavens post 102-283</p>
 <p>Rest til senere inntektsføring=284</p>
 <p xml:lang="nno">Overskudd på ekstraordinær avvirkning i 2014 etter naturkatastrofe - legg ved egen beregning285</p>
@@ -176,16 +164,13 @@
 <p>Kapitaliserte leieinntekter fra andre utleide rettigheter+</p>
 <p>Kapitaliserte leieinntekter fra andre utleide rettigheter+</p>
 <p>Sum =(Enkeltpersonforetak overfører beløpet til selvangivelsen post 4.5.4. ANS/KS/DA overfører beløpet til selskapsoppgaven post 512.) Aksjeselskap må inkludere beløpet i selvangivelsen post 401 D.x==x=x=x= <em type="bold">10 </em>x <em type="bold">10 </em><em type="bold">10 </em><em type="bold">10 </em>(ikke skogens avkastningsverdi)311315314316 </p>
-<p xml:lang="est"><em type="bold">XIV. Reindrift – regnskapsutdrag </em>20132014321 </p>
-<p xml:lang="sme">Slakt</p>
 <p>Videreforedlede samt bearbeidede produkter fra reindrift323</p>
 <p xml:lang="fra">Livdyr324</p>
 <p>Offentlig tilskudd325</p>
 <p>Øvrige inntektsposter326</p>
 <p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER </em>327 </p>
 <p xml:lang="deu"><em type="bold">SUM DRIFTSKOSTNADER </em>-328 </p>
-<p xml:lang="deu"><em type="bold">DRIFTSRESULTAT </em>= </p>
-<p xml:lang="hbs">Post i N.O.30003000300034003000-3900 9900 NO1 9000 NO2 9910 NO1 9010 NO2 9920 NO1 9050 NO2322329</p>
+<p xml:lang="sma"><em type="bold">DRIFTSRESULTAT </em>=3000300034003000-3900 9900 NO1 9000 NO2 9910 NO1 9010 NO2 9920 NO1 9050 NO2322329 </p>
 <p>Korrigering for kapitalinntekter/-kostnader som inngår i driftsresultatet, men som ikke skal inngå i gjennomsnittslikningen+332334</p>
 <p xml:lang="isl">Grunnlag reindriftsfradrag</p>
 <p xml:lang="eng">Fra post 347</p>
@@ -212,19 +197,15 @@
 <p>A Kommune</p>
 <p>B Kommune</p>
 <p xml:lang="nno">C Kommune345352</p>
-<p>Korreksjonsbeløp biomasse-/vedproduksjon (hentes fra post 270)---20122013</p>
-<p><em type="bold">XVI. Jordbruk/gartneri/pelsdyr – regnskapsutdrag, og grunnlag for jordbruksfradrag </em>-++=-= </p>
+<p>Korreksjonsbeløp biomasse-/vedproduksjon (hentes fra post 270)---20122013-++=-=</p>
 <p>Andre kostnader i j/g/p (som ikke inngår i driftskostnadene) Andel av post 9070 som gjelder jordbruk/gartneri/pelsdyr</p>
-<p><em type="bold">Beregnet jordbruksfradrag, se rettledningen, overføres selvangivelsen (RF-1030) post 3.2.15, evt. til post 441 ved ektefellefordeling </em>43843543243143042820132014411 </p>
-<p xml:lang="vep">Melk</p>
+<p><em type="bold">Beregnet jordbruksfradrag, se rettledningen, overføres selvangivelsen (RF-1030) post 3.2.15, evt. til post 441 ved ektefellefordeling </em>438435432431430428 </p>
 <p xml:lang="isl">Egg413</p>
 <p>Slakt (unntatt fjørfe)414</p>
 <p>Livdyr (unntatt fjørfe)415</p>
 <p xml:lang="swe">Fjørfe - (livdyr slakt)416</p>
 <p>Korn, frø427</p>
-<p><em type="bold">SUM DRIFTSINNTEKTER J/G/P </em>= </p>
-<p xml:lang="pol">Post i</p>
-<p xml:lang="vep">N.O.3000300030003000300030009900 NO1 9000 NO2412</p>
+<p xml:lang="sma"><em type="bold">SUM DRIFTSINNTEKTER J/G/P </em>=300030003000300030009900 NO1 9000 NO2412 </p>
 <p xml:lang="sma"><em type="bold">SUM DRIFTSKOSTNADER J/G/P </em>9920 NO1 9050 NO24173000 </p>
 <p xml:lang="nno">Stråfôr429</p>
 <p xml:lang="deu"><em type="bold">DRIFTSRESULTAT </em>4183000 </p>
@@ -249,8 +230,6 @@
 <p xml:lang="dan">Underskrift</p>
 <p xml:lang="dan">Henvendelse rettes til</p>
 <p xml:lang="deu">Telefonnummer</p>
-<p>Det vises til rettledning (RF-1178) som er utarbeidet til hjelp ved utfylling av RF-1175 og RF-1177</p>
-<p>Fastsatt av Skattedirektoratet med hjemmel i Finansdepartementets delegeringsvedtak av 24. oktober 1991, jf. ligningsloven § 4-4 nr. 7</p>
 <p><em type="bold">XVII. Ektefellefordeling av de spesielle fradragene. </em></p>
 <p xml:lang="nno">Jordbruksfradrag fra post 438</p>
 <p>Hovedutøver</p>
@@ -261,16 +240,7 @@
 <p xml:lang="dan">Vederlag</p>
 <p xml:lang="nno">Inngangsverdi</p>
 <p xml:lang="isl">Gevinst-450451452</p>
-<p>Den del av gevinsten som tas til inntekt i år, føres her. Samme beløp skal føres i post 1.6 i RF-1224 (Skjema for beregning av personinntekt) og trekkes dermed ut av grunnlaget for beregning av personinntekten.453</p>
-<p>Er vilkåret om botid på driftsenheten oppfylt? Se rettledningen</p>
-<p>Produseres og omsettes det jordbruksprodukter av et ikke ubetydelig omfang?</p>
-<p xml:lang="dan">Kreves jordbruksfradrag, skal du besvare spørsmålene:</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="smj">Ja</p>
-<p xml:lang="nno">Nei</p>
-<p xml:lang="nno"><em type="bold">Jordbruksfradrag </em>439440 </p>
-<p xml:lang="dan">Om vilkår, se rettledningen</p>
+<p>Den del av gevinsten som tas til inntekt i år, føres her. Samme beløp skal føres i post 1.6 i RF-1224 (Skjema for beregning av personinntekt) og trekkes dermed ut av grunnlaget for beregning av personinntekten.453440</p>
 <p>Kommer inntekten fra én driftsenhet der flere driver jordbruk/gartneri/pelsdyrnæring i fellesskap, der eierne samlet bare har krav på ett helt jordbruksfradrag?</p>
 <p xml:lang="smj">Ja</p>
 <p xml:lang="nno">Nei</p>

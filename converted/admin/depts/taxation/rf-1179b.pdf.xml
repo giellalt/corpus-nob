@@ -1,6 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>343</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/alltid/RF-1179B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1179s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno"><em type="bold">Varelager i landbruk </em></p>
-<p xml:lang="nno"><em type="bold">Skatteetaten </em></p>
-<p>Brukerens navn</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>162</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/alltid/RF-1179B.pdf</origFileName><parallel_text xml:lang="sme" location="rf-1179s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Brukerens navn</p>
 <p xml:lang="dan">Fødselsnummer</p>
 <p><em type="bold">Dyrebeholdning i jordbruk, pelsdyrnæring og reindrift </em></p>
 <p>Årets begynnelse</p>
@@ -13,7 +11,7 @@
 <p xml:lang="est">Pris</p>
 <p xml:lang="vep">Verdi</p>
 <p>Født</p>
-<p xml:lang="vep">Kjøpt</p>
+<p xml:lang="olo">Kjøpt</p>
 <p xml:lang="sme">Solgt</p>
 <p xml:lang="nno">Eget forbruk</p>
 <p xml:lang="nno">Krepert</p>
@@ -49,63 +47,19 @@
 <p>Hester 4 år og eldre</p>
 <p>Hester under 4 år</p>
 <p xml:lang="vep"><em type="bold">SUM BUSKAP </em></p>
-<p xml:lang="deu">RF-1179B</p>
 <p>Inntektsår</p>
-<p>Brukerens navn</p>
 <p xml:lang="dan">Fødselsnummer</p>
-<p><em type="bold">Varelager i jordbruk/gartneri, pelsdyrnæring og reindrift </em></p>
-<p xml:lang="nno"><em type="bold">Råvarer og innkjøpte halvfabrikata </em></p>
 <p xml:lang="vep">Verdi</p>
-<p>Til planteprod. - gjødsel, kalk, såvarer, settepoteter, plantemidler, konserveringsmidler m.v.</p>
-<p xml:lang="nno">Til husdyrprod. - kraftfôr, stråfôr m.v.</p>
-<p xml:lang="nno">Drivstoff, smøremidler m.v.</p>
-<p>Emballasje og bygningsmaterialer</p>
-<p>Innkjøpte bygningsmaterialer for våningshus</p>
-<p>Annet</p>
-<p>Sum - overføres til næringsoppgaven post 0110</p>
-<p><em type="bold">Varer under tilvirkning (for planteskoler og gartnerier m.v.) </em></p>
 <p xml:lang="vep">Verdi</p>
-<p>Planter i veksthus</p>
-<p xml:lang="nno">Planter på friland</p>
-<p>Sum - overføres til næringsoppgaven post 0120</p>
-<p xml:lang="nno"><em type="bold">Ferdig egentilvirkede varer </em></p>
 <p xml:lang="vep">Verdi</p>
 <p xml:lang="est">Pris</p>
 <p>Mengde</p>
-<p>Hvete, rug</p>
-<p xml:lang="nno">Bygg</p>
-<p>Havre</p>
-<p>Annet - raps/rybs, frø m.v.</p>
-<p xml:lang="nno">Grovfor, rotvekster m.v.</p>
-<p xml:lang="fra">Poteter</p>
-<p xml:lang="nno">Grønnsaker og frukt</p>
-<p>Levende planter</p>
-<p>Annet</p>
-<p>Sum - overføres til næringsoppgaven post 0130</p>
-<p xml:lang="nno">Lager av sagtømmer, slip m.v.</p>
-<p>Antall m³ ved for salg (løsmål)</p>
-<p xml:lang="nno"><em type="bold">Varelager i skogbruk </em></p>
-<p xml:lang="nno"><em type="bold">Råvarer og innkjøpte halvfabrikata </em></p>
 <p xml:lang="vep">Verdi</p>
-<p xml:lang="nno">Gjødsel, plantevernmidler m.v.</p>
-<p xml:lang="nno">Drivstoff, smøremidler m.v.</p>
-<p xml:lang="dan">Vedsekker</p>
-<p>Sum - overføres til næringsoppgaven post 0110</p>
 <p>Antall</p>
-<p xml:lang="nno"><em type="bold">Ferdig egentilvirkede varer </em></p>
 <p xml:lang="vep">Verdi</p>
 <p xml:lang="est">Pris</p>
 <p>Mengde</p>
-<p>Antall m³ ved for eget bruk (løsmål)</p>
-<p>Sum - overføres til næringsoppgaven post 0130</p>
-<p><em type="bold">Selvproduserte varer som skal nyttes i egen produksjon </em></p>
 <p xml:lang="vep">Verdi</p>
 <p xml:lang="est">Pris</p>
 <p>Mengde</p>
-<p xml:lang="isl">Surfôr</p>
-<p>Annet stråfôr</p>
-<p xml:lang="nno">Rotvekster og poteter</p>
-<p xml:lang="nno">Såvarer og korn til fôr</p>
-<p>Annet</p>
-<p>Sum - overføres til næringsoppgaven post 0160 (ikke formue i selvangivelsen)</p>
 </body></document>
