@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">fylkinkomuunin_auttomaattinen_vahvistus-1.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er en automatisk bekreftelse på at e-post til Troms og Finnmark fylkeskommune er mottatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä automaattinen mellinki vahvistaa ette sinun e-posti oon tullu framile Tromssan ja Finmarkun fylkinkomuunin e-postiadresshiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Din henvendelse vil bli journalført/videresendt saksbehandler for videre oppfølging.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sinun ytheyenoton lähätethään etheenpäin assiinkäsitteliijälle kuka hantteeraa assiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi gjør oppmerksom på at personsensitive opplysninger ikke bør sendes pr e-post.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met neuvoma ette privaattitiettoi ei lähätetä e-postin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med hilsen postmottak Troms og Finnmark fylkeskommune</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ystävällissii tervheissii Tromssan ja Finmarkun fylkinkomuunin postivasthaanotto</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
