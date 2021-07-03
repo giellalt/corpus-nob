@@ -1,0 +1,4272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">aktivitetsguiden.docx.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktivitetsguiden</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiviteettiopas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En digital læringsplattform om norsk idrettskultur.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Digitaalinen oppimistyökalu norjalaisesta sporttikulttuurista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Lytt, les og surf deg gjennom kunnskapen!</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuuntele, luje ja surfaa ittesti tievon läpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnad er en veldig sentral brikke i norsk idrett, uten dugnad og frivillighet hadde det vært vanskelig å drive idrettslagene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadi oon keskeisessä roolissa norjalaisessa sportissa. Ilman vapaaehtosuutta ja ilman dugnaadeja sporttilaakien toimi olisi vaikiaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig at foreldre og andre frivillige engasjerer seg i de lokale klubbene, noe som bidrar til at flest mulig barn kan drive med aktiviteter som de elsker.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tavallista ette vanhemmat ja muut vapaaehtoset ihmiset oon aktiivisia lokaaleissa klubeissa, ja niin siis mahollisen moni lapsi saa olla matkassa rakkaassa aktiviteetissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kommer mye positivt ut av å melde seg som frivillig, så det er noe du bør vurdere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vapaaehtosena oleminen oon rohki positiivinen asia. Tule sieki matkhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnad gir alle en flott mulighet til å bidra til fellesskapet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadi antaa kaikile maholisuuen osalistua yhtheispiirhiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kroppen norsk idrett består av mange deler, men det er ingen tvil om at dugnaden er hjertet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon vanhemat, rahvaat ja muut engasjeeratut ihmiset jokka pyörittävät sporttilaakin vapaaehtosella työlä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen ønsker å være trenere mens andre foretrekker å være lagleder eller foreldrekontakt. I tillegg må noen holde orden på utstyr, anlegg, økonomi og organisasjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku halluu olla treenari, joku halluu olla vanhemmiitten kontakti ja joku oon matkassa pitämässä kontrollia vehkeitten, tavaroitten, anläggien, raha-asioitten taikka organisasjuunin kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig i Norge at foreldrene stiller opp som frivillig og det gir dem en god mulighet til å bidra i klubben barna er med i. Det beste med denne dugnaden, er at man sikrer at flest mulig barn og unge kan delta i organisert idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon rohki tavalista joka paikassa ette vanhemat häätyy työtelä vapaaehtosesti niin ette kläpit saat maholisuuen treenata ja tierata. Se oon dugnaadin kautta ettemet annama maholisen monele lapsile ja nuorile maholisuuen olla myötä sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vel så viktig, det er ikke kun barna som drar fordeler av dugnaden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadi oon vapaehtoista työtä mikkä vanhemmat häätyy tehä autaaks laakia eli klubia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For noen kan nye bekjentskaper føre til muligheter for jobb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monila klubeila oon taloja ja paanoja mihin toiminthaan tarvii rahhaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ofte sosialt å jobbe dugnad, som også bidrar til å øke klubbfølelsen og tilhørigheten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadi kans vähenttää jokaisen perheen rahankäyttö, esimerkiksi ko laaki reissaa turnauksheen tai köpeihiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvor mye du kan bidra med, og hva det er som må gjøres, varierer fra idrett til idrett og klubb til klubb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se varieeraa sportista sporthiin ja klubista klubhiin kunka paljon ja minkälaista dugnaadia häätyy tehä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnad er frivillig arbeid som foreldrene må delta i for å hjelpe laget og klubben. Mange klubber har egne treningsanlegg og klubblokaler som det koster penger å holde ved like og drifte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadiesimerkkejä voi olla vaikka minkälaisia: Olla vahtina arrangementeissä, työtelä kaffilassa ja myyä voffeleita, bryysiä, kaffia tai muuta, olla parkeerinkivahtina, leipoa kakkuja, istua sekretariaatissa, kirjoittaa diploomeja taikka vaikka jakkaa niitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnadsinnsatsen er også med på å redusere egenandelene familiene må betale for barna.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hyvin useasti oon kans paljon työtä ennen ja jälkhiin arrangementtejä jossa juuri sie saatat olla matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det koster mye å reise på tur og vi ønsker at alle skal få være med uansett om de har mye eller lite penger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se maksaa paljon reisata ja met haluma ette kaikki saapi olla myötä huolimatta perheitten rahasituasjuunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være ulike måter å samle inn midler på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Rahoja saattaa korjata monela tavala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et konkret eksempel er å samle inn flasker som pantes.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Yksi konkreettinen eksemppeli oon kovota flaskuja ja pantata net.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å få dette til trenger vi noen som kan lage informasjonsskriv for å varsle om innsamlingen og så må informasjon legges i postkassene i området hvor vi skal samle inn flaskene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siihen työhön met tarvima paljon ihmisii: joku joka kirjoittaa lappuja, laittaa net postikasshaan, joku joka hakkee flaskut kläpiitten kans ja joku joka ajaa kauphaan, pantaa flaskut ja hakkeerahat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Varetelling er et annet eksempel. Butikkene må telle varene sine flere ganger i året.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Toinen eksemppeli saattaa olla vaikka kauppojen tavaroitten räknääminen: Kaupat häätyy räknätä kauppatavarat monta kertaa vuojessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Foreldre og barn som er gamle nok, jobber i butikken noen timer og får lønn som går til det enkelte laget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vanhemat - ja kläpitkin jos net oon tarpheeksi vanhoja, työtellee kaupoissa muutamia tiimoja räknäämässä tavaroita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnader skjer også internt i klubbene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Palkka siitä työstä mennee sporttilaakile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange ganger må også ting ordnes både i forkant og etterkant av et arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met olemma oikiasti kiini siitä ette kaikki, ja nimenomhaan kaikki, tekkee vapaaehtostyötä sporttiklubile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om det ikke passer å delta på ordinære dugnader, kan du ta en prat med idrettslaget om det er andre ting du kan gjøre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sie et pysty olemhaan matkassa tavalisissa dugnaadeissa, sie saatat kuiten kysyä laakilta jos sie voisit tehä muita asioita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kan du bidra med å lage mat, kjøre bil, gjøre fysisk arbeid, regnskap, treneroppgaver osv.?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Voitko tehä ruokaa, olla kuskana, tehä fyysistä työtä, pitää rägnskaappia tai vaikkapa olla treenari?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kanskje sitter du på gode ideer og da er det veldig hyggelig om du snakker med treneren eller foreldrekontakten om dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sie et pysty olemhaan matkassa, oon rohki tähelistä ette sie mellaat meitä siitä, ja vaikkapas tarjoat olla matkassa jonkun toisen kerran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En ting er at du har gjort en innsats for ditt eller dine barn, men ikke minst har du sørget for å bidra til fellesskapet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja jos sinulla oon omia ideoita,- niin ota rohkiasti kontaktia treenarin taikka vanhemmiitten kontaktin kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>FNs barnekonvensjon er en del av norsk lov og den er klar på at barn har egne rettigheter, noe som også handler om retten til en egen fritid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>FN:n lapsikonvensjuuni oon osa Norjan lakia. Konvensjuuni sannoo ette lapsila oon selvät oikeuet, ja ette lapsila oon oikeus kans vapa-aikhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn skal ha mulighet til å drive med aktiviteter og idretter ut fra eget ønske og behov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsila kuuluu olla mahollisuus olla aktiviteeteissä ja sporteissa matkassa, heän oman tahon ja tarpheitten mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vil også gi de en følelse av å være en del av et fellesskap hvor man får nye venner og utvikler kulturell tilhørighet og identitet gjennom deltakelse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä antaa lapsile kans yhtheiskuulumisen tuntheen, mahollisuuen saa’a ystäviä ja kehittää ommaa identiteettiä ja kulttuuripiiriä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det samme målet for alle barn i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sama mooli kaikile Norjassa asuville lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>FNs barnekonvensjon ble en del av norsk lov i 2003, og blir også kalt barnas egen grunnlov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>FN:n lapsikonvensjuuni tuli osaksi Norjan lakia vuonna 2003 ja tätä konvensjuunia sanoma kans lasten peruslaiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Konvensjonen er klar på at barn har egne rettigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Konvensjuuni muistelee siitä ette lapsila oonomat oikeuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det berører naturligvis også retten til en fritid, noe som er omtalt i artikkel 31 i loven. Den norske barneidrettsmodellen anerkjenner barnet som et selvstendig individ og at de dermed gis mulighet til å drive med idrett ut fra egne ønsker og behov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja lapsila oon kans oikeus vapa-aikhaan, sanoo artikkeli 31. Se norjalainen lapsisporttimalli oon pykätty sille aatheelle ette lapsi oon ittenäinen indiviidi ja ette lapsile häätyy antaa maholisuuen olla sportissa omien tahtojen ja tarpheitten mukhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En aktiv og meningsfull fritid utvikler mennesker.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiivinenja merkitysrikas vapa-aika utviklaa meitä ihmisinä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For barn og unge er fritidsarenaen ofte et sted hvor man blant annet får venner, blir en del av et fellesskap og utvikler kulturell tilhørighet og identitet gjennom deltakelse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset ja nuoret kohattelevat vapa-ajan areenoissa, saavat yhtheenkuulumisen tuntheen ja kehittävät heän kulttuurista identiteettiä. Tämä oon kaikile lapsile tähelistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle barn bør ha muligheten til å delta på slike arenaer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsikonvensjuuni oon siis lasten oma laki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barnekonvensjonen skal passe på at barn, uansett hvem de er eller hvor de kommer fra, har det de trenger for å ha det bra. Alle har rett til lek, hvile og fritid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä lain mooli oon kattoa ette lapsila oon hyvä olla, huolimatta kuka se lapsi oon tai mistä lapsi tulee tai huolimatta siitä kuka lasten vanhemat oon tai mistä lasten vanhemat tulee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne retten skal være uavhengig av deres foreldre eller verges bakgrunn, samlivsform eller yrkesliv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon koko yhteiskunnan eesvastus kattoa pörhään ette kaikila lapsila oon samat maholisuuet vapa-ajan aktiviteetteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vårt felles samfunnsansvar er å sikre at alle barn får muligheten til å delta i aktiviteter innenfor idrett, musikk, dans, teater eller annen ønsket fritidsaktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku halluu olla myötä sportissa, joku musiikissa, joku tanssissa taikkapa teaatterissa. Hyvän ylöskasuamisen arvo ja merkitys ei oikiasti voi mitata rahassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ikke mulig å sette ord og tall på hvor mye det betyr, og hvor viktig det er at barn har gode oppvekstvillkår, og da spiller fritidsaktiviteter en veldig sentral rolle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon ihan mahotonta defineerata sanoila eli numeroila, kunka tärkeä se oon ette lapsila oon hyvät ylöskasuamisraamit. Ja vapa-aika oon iso osa tätä ylöskasuamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi må derfor legge til rette for at alle barn har like muligheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siksi se oon niin tähelistä ette kaikila lapsila oon net samat maholisuuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge er det over to millioner medlemskap i idretten, så veldig mange mennesker bidrar i idrettslagene som tilrettelegger for aktivitetene i ditt nærområde.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa oon yli kaksi miljoona jäsentä sportissa. Oon siis kyse aika monesta ihmisestä joka pykkää aktiviteettejä ihmisten lähialuheella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som medlem, har du både rettigheter og medlemsforpliktelser, som blant annet betyr at du må betale medlemskontingent og treningsavgift.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäsenenä sinula oon oikeuksia, mutta kans tehtäviä. Sie häyyt esimerkiksi maksaa jäsenmaksun ja treeninkimaksun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er med på å bidra til at ditt barn får et godt treningstilbud i idrettslaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta maksujen avula sinun lapsi saa hyviä treeninkimaholisuuksia sporttilaakissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan også være med å påvirke det som skjer i idrettslaget som medlem, ved å delta på årsmøte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Osalistumalla vuosimööthiin, sie saatat kans olla päättämässä kunka sporttilaakia driivathaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan også engasjere deg direkte i f.eks. i en trenerrolle, gjennom styreverv eller som arrangementsansvarlig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie saatat kans engasjeerata ittesti treenarina, styyrinjäsenenä taikka arrangementtien kautta. Jäsenenä oleminen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å være medlem i idretten</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Eninosa joka oon sportissa myötä oon tulheet sporthiin jonkun sporttilaakin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De aller fleste i Norge treffer og blir involvert i idretten gjennom en klubb som tilrettelegger for aktivitet i et område.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaaki taikka klubi oon föreeninki joka pykkää aktiviteetteja sinun lähialuheela. Yhessä sporttilaakissa voi olla montaki sportteja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et idrettslag kan også tilby flere enn én aktivitet og ha andre arrangementer enn idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakissa voi kansolla arrangementteja joka ei välttämättä ole sporttisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I stor grad er det foresatte som driver klubben på dugnad mens noen idrettslag har egne ansatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Suurin osa sporttilaakista oon vanhempia ja raavaspersuuneja jokka tekkee työtä laakileilmaseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnad er hjertet i den norske idrettsmodellen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadi oon norjalaisen sporttimodellin syän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Uten denne innsatsen fra tusenvis av mennesker ville ikke idretten eksistert slik vi kjenner den i dag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa oon yli 11000 eri sporttilaakia ja yli 2 miljuunaa ihmistä oon jäseniä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det tilrettelegges for ulike aktiviteter i over 11.000 idrettslag over hele landet, og det er over to millioner medlemskap i norsk idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hyvin monet oon aktiviisia ja tekee sen ette sportti oon tärkeä osa meän lasten ja nuorten ylöskasuamisessa. Sportissa sie olet jäsen etkä ostaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Svært mange mennesker er involvert og sørger for at idretten er en viktig del av oppveksten til mange barn og unge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti ei ole ostettava kauppatavara. Kun olet sporttijäsen sinula oon oikeuksia, mutta sinun pitää kans antaa takaasin jotain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten er du medlem, og ikke kunde, for det er ikke en tjeneste du kjøper.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki sporttilaakin jäsenten pitää nouattaa sportin säännöt ja päätökset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som medlem har du både rettigheter og medlemsforpliktelser, og det forventes at du overholder idrettens regelverk og vedtak.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäsenten pitää maksaa laakin jäsenmaksut ja myös treenaamismaksut. Olet varsinainen jäsen laakissa heti ku jäsenmaksu oon maksettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslaget fører elektroniske medlemslister i idrettens nasjonale medlemsregister, så det er viktig at du gir riktig informasjon ved innmelding.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikila sporttilakeila oon elektroniset jäsenlistat jokka oon kans sportinnasjunaalisissa jäsenregisterissä. Se oon siksi tähelistä ette annat oikiat tievot ku sie mellaat ittesi sishään.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som medlem får du være med og påvirke idrettens arbeid, gjerne i det idrettslaget du tilhører.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ku olet jäsen niin sie saatat oman sporttilaakin kautta olla myötä färjäämässä ja päättämässä kunka sporttityö kehittyy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En gang i året er det årsmøte i idrettslaget, hvor alle medlemmer inviteres.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kerran vuojessa sporttilaakissa oon vuosimöötti, ja vuosimöötteihin kaikki jäsenet oon tervetulheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her legges det frem både rapport for forrige år og planer for neste år.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportila oon oma lakinormi, ja tämän löyvät NIF:n omila nettisivuila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Innenfor idrettslaget er oppgavene mange og ulike, som for eksempel trenerrolle, styreverv, arrangementsansvarlige, praktiske oppgaver som kjøre skiløyper og steke vafler.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakin sisälä oon monenlaiset tehtävät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det løses gjennom frivillig arbeid og det bygger på felleskapstanken som er en sterk ramme for norsk idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vapaehtostyönä hoituu treenarin rooli, styyrityöt, arrangementit, sivakkalatujen ajamiset ja vaffeleitten paistamiset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vår visjon er idrettsglede for alle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän visjuuni oon antaa sportti-iloa kaikile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målet er at alle, uansett ståsted, skal kunne finne sin plass i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mooli oon ette kaikki löytäisi paikansportista, henkaamatta kuka olet ja mistä olet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen velger idrett og aktivitet i et helseforebyggende perspektiv, eller for sitt sosiale nettverk mens andre får en lang idrettskarriere i toppidrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku valittee sportin ja aktiviteetin koska halua pysyä kunnossa taikka tyhä kohatella ihmisiä, kun taas joku toinen saa ihan karriäärin profesjunaalisesta sportista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Starten foregår uansett for de fleste i barneidretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Usseimmat kuitenaloittavat sportin jo lapsisportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fra sentralt hold er det sterke føringer på aktivitet for barn i alderen 5-12 år i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Staattiki meinaa ette oon rohki tärkeä pykätä aktiviteettejä juuri 5- 12 vuotiaile lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>FNs barnekonvensjon ble en del av norsk lov i 2003.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>FN:n lapsikonvensjuuni tuli osaksi Norjan lakia vuonna 2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne konvensjonen fastslår at også barn har egne rettigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä konvensjuuni sanoo ette kans lapsilla oon oikeuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Artikkel 31 som sier noe om retten til en fritid er også retningsførende for norsk idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Artikkeli numero 31 muistellee lastenoikeuksista vapa-aikhaan, ja tämä artikkeli oon se joka ohjaa sportin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Norsk idrett anerkjenner barnet som et selvstendig individ og det betyr at idrettens barnerettigheter og Barneidrettsbestemmelsene gjelder for alle barn bosatt i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjalainen sportti määrittelee lapsen ittenäisenä indiviidinä. Se meinaa ette sportin lapsioikeuet ja Lapsisporttimääräykset koskee kaikki Norjassa asuvat lapset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De regulerer all idrett for barn av begge kjønn til og med 12 år i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nämät määräykset reguleeraa kaikki sportit joka oon sihattu alle 12-vuotiaile lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn lærer mye gjennom lek og der er det lov å både prøve og å feile.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset oon lapsia, eikä het misshään nimessä ole miniatyyriraavhaita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ord som allsidighet og mestring er viktige nøkkelord i den norske idrettsmodellen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsisportin tulee olla räätälöityä lapsen fyysisen ja mentaalisen tason mukhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barneidretten har som mål å være helhetlig gjennom allsidig påvirkning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset oppivat leikin ja tieraamisen kautta, ja leikissä oon lupa freistata ja oon lupa tehä virheitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fokus er ikke tidlig spesialisering, men heller bygge allsidighet gjennom et bredt bevegelsesgrunnlag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän fokus ei ole taitojen spesialiseeringissä, mutta se ette lapsi saa kehittäät monenlaisia taitoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deltagelse i idrettslaget i nærmiljøet skaper blant annet trygghet og tilhørighet, verdier som er langt viktigere og større enn bare for idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se ette oon myötä lähialuheen sporttilaakissa antaa turvaa ja yhteenkuulumisentuntheen. Nämät arvot oon rohki tähelisiä, ei tyhä sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med mål om flest mulig i aktivitet er trivsel og glede viktig i barneidretten og det gjør at idretten også er en viktig aktør i folkehelsearbeidet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän mooli oonsaa’a lapset aktiiviseksi triivastumisen ja ilon kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gleden ved å være i aktivitet er en viktig forutsetning for aktivitet som egenomsorg, uavhengig av deltagelse i idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fyysinen kunto ja ilooon kans tärkeä kansanterveysperspektiivissä. Met freistaama pykätä liikumisen iloa, riippumatta sportti-tyylistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge er bredde og toppidrett samlet under den samme paraplyen, med den samme visjonen og det samme verdigrunnlaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa kaikki sporttitoiminta, kans profesjunaalinen sportti ja vapa-ajan toiminta, oon saman katon alla, samala visjuunila ja samoila arvoila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den norske idrettsmodellen bygger på et ønske om et felleskap hvor alle skal ha like muligheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjalainen sporttimodelli oon pykätty ajatuksheen ette kaikila oon samanlaiset maholisuuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten skal være inkluderende.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportinkuuluu olla inkludeeraava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder paraidrett, men det gjelder også de økte forskjellene mellom fattig og rik i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä koskee luonolisesti para-sporttia, mutta inkludeeraaminen jellaa kans köyhiitteen ja rikkaitten erot Norjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Antall barn som lever i familier med lavinntekt er sterkt økende og mange av disse familiene er også innvandrere, som er ukjent med norsk kultur og språk, og naturlig nok også hvordan norsk idrett fungerer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se määrä lapsia jokka elää perheissä joila oon matalat inntäktit, se määrä kasuaa kaikenaikaa. Monet näistä perheistä oon kans maahansiirtymisperheitä jokka ei aina tiiä riittävästi norjalaisesta kulttuurista eikä kunka norjalainen sportti toimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når vi vet at over 90 % av barn under 12 år er med i barneidretten er det særdeles viktig at barneidretten også inkluderer de med lavinntekt og de med annen kulturell bakgrunn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met tiiämä kuiten ette yli 90 % alle 12-vuothiaista lapsista oon myötä lapsisportissa. Siksi oon rohki tähelistä ette lapsisportti huomioi perheetjoila oon matalat inntäktit ja het joila oon erilainen kulttuuritausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er et mål å engasjere også de som er nye i Norge i denne samfunnsdugnaden, for i idretten er alle ressurser viktig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon mooli ette engasjeeramma juuri het jokka oon vasta siirtynheet Norjhaan. Sportissa kaikki ihmisresurssit oon tähelisiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kanskje kan vi i felleskap finne nye måter å drive dugnad og frivillighet på som i større grad inkluderer mangfoldet?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ehkä met saatama yhessä löytää uusia tapoja inkludeerata kaikki ihmiset dugnaadin ja vapaehtostyön kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kom gjerne med ideer til idrettslaget du tilhører, hva du selv kan gjøre og eller nye dugnader som inkluderer flere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna sieki ideoita sporttilaakile, mitä itte voit tehätai millaisia dugnaadeja voima yhessä keksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En frivillig organisasjon som idretten trenger flest mulig bidragsytere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vapaehtonen organisasjuuni niinku sportti, tarttee apua kaikilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om denne fellesinnsatsen skulle forsvinne og alt måtte betales, ville kostnadene blitt svært høye med de konsekvensene det innebærer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos tämä vapaehtostyö katuaa, ja kaikki tehtäis esimerkiksi rahamaksula, niin sportissa oleminen olisi hurjan tyyristä hommaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er en viktig samfunnsaktør i barns oppvekst, og speiler også de utfordringer samfunnet ellers opplever.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon tähelinen samfynninaktööri lasten ylöskasuamisessa, ja sportti peilaa kaikki samfynnin muutkin puolet jaongelmat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det afrikanske ordtaket «It takes a whole village to raise a child», gjelder også for idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Afrikkalainen sananlasku «It takes a whole village to raise a child» elikkä ette lapsen ylöskasuttamisheen tarvithaan kokonainen kylä, jellaa kans sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I samspill med kommune og stat jobber idretten med at visjonen «Idrettsglede for alle» skal gjelde for alle som er bosatt i Norge og tilhører et idrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Freistaama yhteistyössä komuunien ja staatin kanssa työtelä senetheen ette meän visjuuni «Sportti-ilo kaikile» siirtyy kaikille jokka ellää Norjassa ja kuuluu johonki sporttilaakhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn liker å være aktive og idrettslag gir mange gode tilbud.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset tykkäävät olla aktiivisia ja sporttilaakit antavat siihen hyvät mahollisuuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Finn ut hvilke idrettslag som finnes i ditt nærmiljø og ta kontakt slik at ditt barn kan bli med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota selvä mitä sporttilaakeija oon sinun likheellä ja ota heihin kontaktia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når barnet har bestemt seg for en idrett, må du melde barnet inn og betale kontingent.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sitte ku lapsi oon löytäny ittele jonkun sportin, niin sie häyty mellata lapsen sishään ja maksa jäsenmaksun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at barna møter presis på trening, både for treneren, lagkameratene og så får barnet litt tid til å forberede seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tähelistä ette lapsi tullee presiisisti treeninkeihin. Se oon kohteliasta treenarille ja muile laakiystäville, mutta kans lapsi itte saa silloin aikaa valmistua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I ung alder er det vanlig at foresatte er med på treningen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko lapsi oon nuori, se oon tavallista ette vanhempi oon treeningeissä matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvordan bli medlem i idrettslaget? Din første trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kunka tulla jäseneksi ja ensimäinen treeninki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan starte med idrett uansett alder, for det er aldri for sent.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie saatat alkaa sportissa koska vaan, ijästä huolimatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er mange som blir med når de begynner på skolen i seksårsalderen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet alkavat sportissa samalla ko alkavat koulussa, elikkä 6 vuotihaana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes også idretter som tilrettelegger for barn som er enda yngre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muutamat sportit oon räätälöity kans vielä nuorimmiile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig, og et ønske, at barn skal drive idrett i eget nærmiljø.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tavalista ja toivomus ette lapset harrastavat sporttia lähialuheela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik at det er korte avstander og aktiviteten ofte skjer i lag med klassevennene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon hyvä ette matkat oon lyhyet ja ette lasten aktiviteetit tehään luokkakavereitten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det handler om å bygge trygghet og trivsel.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sekin luo triivastumista ja turvaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen barn har et klart ønske om å drive en spesifikk idrett eller aktivitet, mens andre barn gjerne motiveres av at vennene gjør det.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joilaki lapsila oon tieten oma halu olla myötä tietyssä sportissa tai aktiviteetissä. Toiset lapset saavat halun olla myötä sen takia ette muut kaverit oon myötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Iblant motiverer også foresatte barna til å begynne med idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joskus se oon vanhemat ja raavaspersuunat joka motivoi lapset olla myötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn er ulike og har ulike interesser, foresatte kan hjelpe barna med å finne noe de tror barna vil kunne trives med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta jos lapsela oon aito ja kova halu olla sportissa, niin oon hyvä maholisuus ette se triivastuu sportissa ja jatkaa siinä pitkän ajan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om barnet ditt er eller blir interessert i aktiviteten, så er sjansen også større for at barnet vil fortsette med det og ha glede av det i lang tid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het muistelevat missä ja koska oon treeninkejä. Sie saatat kans kysyä lastentarhaasta taikka koulusta millaisia aktiviteetteja teän aluheela oon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er alltid noen som kan hjelpe deg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aina oon joku joka tietää ja joka saattaa auttaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du syns det er vanskelig med for eksempel språk, kan du høre med læreren eller kontaktpersonen i kommunen, som kanskje kan hjelpe deg med å finne den rette personen i idrettslaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sinula oon kieliongelmia, niin kysy koululta, opettajalta taikka komuunilta apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I noen kommuner fins det ansatte i idrettsråd som også kan hjelpe deg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joissakin komuunissa oon ihan omat työtelijät joka vastaa sporttiasioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når du har fått kontakt med klubbtrener/kontaktperson er det viktig å spørre hvor og når det er trening og hvilket utstyr som trengs.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sitte ko olet saanu kontaktin klubin ja treenarin kans, niin muista kysyä missä ja koska treeningit oon ja millaiset tavarat treeningeissä häätyy olla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ikke så farlig om du ikke har rett utstyr med på første trening, da det er viktigere å bli kjent, både for deg og for barnet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ensimäisessä treeningeissä tavaroila ei ole niin suurta merkitystä. Ensimäisessä treeningeissä tärkein asia oon kohatella ja tulla tutuksi, sekä sinule että sinun lapsele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er noen idretter som krever litt ekstra utstyr på grunn av sikkerhet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muista kuiten ette joihinki sportteihin häätyy olla turvallisuustavarat jos halluu olla myötä aktiviteetissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er det noe annet du lurer på, ikke vær redd for å spørre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kysy neuvvoo jos olet epäsikkari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er veldig viktig å møte presis på trening og helst noen minutter før treningen starter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeää ette tullee ajoissa ja presiisisti treeninkeihin, ja mielelhään muutampi minuutti etuajassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å ha respekt for tid betyr å komme tidsnok før treningen starter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sillon sinula oon aikaa puhua treenarin ja muitten raahvaitten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da blir oppgaven til treneren også lettere, og barnet får litt tid å forberede seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aikaa pitää respekteerata, ja se meinaa ette ei ole hyvä asia olla myöhässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er det trener tilstede er det han/hun som bestemmer på treningen og det er viktig at du hjelper barnet ditt å respektere dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Treenarinki oon helpompi tehä työtä jos lapset tullee ajoissa ja oon valmhiina tavaroitten kans ku treeningit alkaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du ønsker å snakke med treneren så gjør gjerne det og pass på at du tar voksenpraten med den voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sie tartet puhua treenarin kans, niin tehe niin. Mutta muista kuiten ette raavhaittenpuhumiset aina oon raavhaitten kesken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ikke bruk barnet ditt som tolk om du ikke kan norsk, men undersøk heller muligheten for språkhjelp.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos tartet tolkkiapua, niin älä käytä lasta tolkkina. Kysy vaikka komuunilta ette löytyykö kieliapua jostain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du ikke har bil kan du spørre om barnet ditt kan sitte på med noen til trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sinula ei ole biiliä, niin kysy rohkiasti muilta ette saako apua kyytittämisessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de yngste barna er det vanlig at foresatte er med på trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet lapset osaa kans tulla treeninkeihin bussila, sykkelillä taikka kävelemälä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være lurt å spørre eller diskutere med treneren hva som er vanlig, det kan variere fra idrett til idrett og samtidig er barna forskjellige og har ulike behov, noe som er helt normalt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tavalista ette vanhemat tai joku muu raavaspersuuna oon myötä treeninkeissä jos oon pienistä lapsista kyse. Tästäkin asiasta kannattaa kysyä treenarilta: sporteissa voi olla eroja ja lapsetkin oon erilaisia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det viktigste er at barnet ditt trives og føler seg trygg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku lapsi ehkä tarttee raavaspersuunan treeningeissä, toinen lapsi ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når barnet har bestemt seg for å bli med i en idrett må du melde barnet inn i idrettslaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä oon ihan normaalia. Tärkein asia oon ette sinun lapsesi triivastuu ja tuntee turvaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å bli medlem må man melde seg/ og eller barnet inn med navn, fødselsdato, kjønn, bostedsadresse, telefonnummer og e- postadresse i det elektroniske medlemsregisteret idrettslaget bruker.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko lapsi oon päättäny olla myötä sporttilaakissa, sillonpitää mellata sishään. Sie mellaat lapsen jäseneksi elektronisessa jäsenregisterissä antamalla henkilötievot: nimi, syntymäaika, sukupuoli, adressi, telefuuninumero ja epostadressi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange idrettslag bruker tjenesten Min idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet laakit Norjassa käyttää jäsenportaalina Min idrett.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg må man betale medlemskontingent og du er medlem fra den datoen både registrering og betaling er gjort.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mellaamisen lisäksi häätyy maksaa jäsenmaksun. Ko kaikki nämät oon valmhiit, niin sie olet jäsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Medlemskontigenten må betales hvert år.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäsenmaksu häätyy maksaa joka vuosi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at idrettslaget får riktige opplysningene slik at dere kan kommunisere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Henkilötietojen antaminen oon tosi tärkeä. Sporttilaaki eivoi kommuniseerata jäsenien kans ilman näitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de yngste barna foregår kommunikasjonen mellom de voksne, men når de blir eldre kan treneren også kommunisere direkte til utøverne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommunikasjuuni joka koske pienten lasten sporttitoimintaa, mennee laakin ja vanhemmiitten välilä. Vanhemat lapset voi tietysti kommuniseerata suorhaan treenarhin kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange lag har egne grupper på Facebook, Spond eller andre plattformer hvor viktige beskjeder blir gitt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet laakit ja treenausryhmät kommuniseeraa sosiaalisen median kautta,-facebookissa, Spondissa taikka muila plattformeila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være at treninger blir avlyst, bytte av treningstid, møter for foresatte du må møte på eller at det skal være dugnad.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Esimerkiksi jos treeningit ei olekhaan sovittuna päivänä, jos treeninkejä pitää siirtää, jos oon tärkeitä mööttejä tulossa tai jos laaki suunnittelee dugnaadeja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan spørre treneren om det når barnet melder seg inn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kysy treenarilta millaiset kommunikasjuuniryhmiä oon olemassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er svært viktig både for idrettslaget, deg som foresatt og for barnet ditt at det er god kommunikasjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommunikasjuuni kotien kanssa oon rohki tärkeä sporttilaakile jotta lapsi triivastuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du trenger hjelp til å betale kan du søke NAV/kommune eller for eksempel Flyktningetjenesten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos tarttet raha-apua jäsenmaksun maksamisheen niin sie saatat hakea apua NAV:ilta, omalta komuunilta taikka esimerkiksi Flyktningetjenesteniltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen idrettslag har også Solidaritetsfond du kan søke. Hør ellers på episoden om Idrett og økonomi for mer informasjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joilaki sporttilaakila oon kans oma rahasto, Solidaritetsfond, josta voi hakea rahakuurtoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barneidrett er aktiviteter som barnet deltar i frem til det fyller 12 år og det er veldig viktig at det skjer på barns premisser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lastensportti oon alle 13-vuotiaitten lasten aktiviteettejä. Se oon rohki tähellistä ette aktiviteetit oon sihattu lasten tarpheile ja lasten tashoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er meningen at barna skal lære, stimulere og mestre nye ferdigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon meininki ette lapsi oppii, kehittyy ja mestraa uusia taitoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I begynnelsen handler det ofte om å utføre enkle øvelser, men når de blir eldre, vil treningen være mer spesifikk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Alussa päämeininki oon tehä yksinkertaisia harjoituksia, mutta ko lapsi tullee vanhemaksi, niin treninkit oon enämen spesifiikkejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barna er beskyttet gjennom idrettens barnerettigheter, som setter barnas behov i sentrum.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsi oon suojattu sportin lapsioikeuksien kautta, jossa lapsen omat tarpheet oon keskelä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse rettighetene er basert på FNs barnekonvensjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin lapsioikeuet oon pykätty FN’n lapsikonvensjunhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva er barneidrett og hvilke rettigheter har de?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mikä oon lastensportti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barneidrett i Norge er idrettsaktiviteter som skjer frem til barnet fyller 12 år.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa lastensportti meinaa alle 13-vuotiaitten lasten sporttitoimintaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktivitetene skjer i ulike idrettslag og kan være både organisert eller uorganisert.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiviteetit oon pykätty erilaisissa sporttilaakeissa ja net saattaa olla organiseeratuja eli ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er ofte vanlig i skatehaller, men det fins også åpne fotballhaller, klatrehaller og så videre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Saattaa kans olla niin ette lapset itte ittenäisesti organiseeraaaktiviteetit hallissa eli paanalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen idrettslag har allidrett, noe som betyr at barna får opplæring i flere idretter og i ulike miljø som for eksempel svømming, langrenn og handball.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joilaki sporttilaakeila oon «Allidrett», joka meinaa ette lapset saavat pruuvata ja oppia erilaisia sporttia, erilaisissa miljöössä, esimerkiksi veessä, lumessa taikkapa sisälä hallissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barneidrett skal være på barns premisser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lastensportin mooli oon ette sportti oon lasten omila ehtoila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom allsidig tilnærming og lek kan barn lære, stimulere og mestre nye ferdigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monipuolisen lähestymistavan ja leikin avula lapset saavat oppia, stimuloia ja hallita uusia taitoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På trening skal barna oppleve trygghet og trivsel, både gjennom voksne ledere og forutsigbare regler tilpasset den enkeltes aldersgruppe.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nuorimille nämät ovat perusliikkeitä, niinku hyppääminen, viskaaminen ja laukkominen. Vähitellen harjoittelussa lapsi saa erikoistua yhtheen sporthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være krevende å være trener for barn, så det er viktig at de foresatte er en støttespiller for treneren.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tähelistä treeneissä oon ette lapset kokevat triivastumista ja turvaa. Tähän tarvithaan turvaliset raavaspersuunat ja selvät reekelit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målet er at treningene skal stimulere barna til videre aktivitet, både i nåtid og i framtiden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Olla lasten treenari saattaa olla vaativaa, joten oon tärkiä, ette raavasihmisenä tuet treenaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom aktivitet vil barna bli kjent med egen kropp og bygge et bevegelsesgrunnlag for videre aktivitet, uavhengig av hva de ønsker å drive med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Moolina oon, ette treenit stimuloilapsen jatkamhaan sportin tulevaisuuessakin. Aktiviteettien kautta lapsetoppiva tuntemhaan oman kroppinsa ja rakentamhaan hyvän liikumispohjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ingen barn er like, og har derfor ulik motivasjon og forutsetning for å drive aktivitet, noe som er viktig å ta hensyn til.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikile yhtheistä oon kuitenki halu onnistua, mutta kaikki lapset saatavat oppia ja hallita uusiakin taitoja. Sportti oon oppimisarena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Felles for alle er ønsket om å mestre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vähitellen tämä tarkoittaa monile lapsile pitkää sporttiuraa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn vil alltid kunne lære og mestre nye ferdigheter og det er dette læringsfokuset som er viktigst å ivareta, for idretten er en læringsarena.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku päättää käyttää paljon aikkaa omassa sportissa saavuttaaksheen suuria sporttimooleja, ku taas toisilla oon suuri ilo tyhä pelata esimerkiksi jalkapalloa ystävien kanssa ruuhonjuuritasola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For mange barn vil det etterhvert bety en lang karriere i idretten, på ulike nivå.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siitä huolimatta, moolina oon, että kaikila oon parhaat maholiset kokemukset lastensporttiajasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen vil i senere alder velge å bruke mye tid på sin idrett for å nå store idrettslige mål, mens andre har stor glede av å drive idrett i lag med venner i breddeidretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kropin käyttäminen ja aktiivisuus ovat yksi parhaimista ja tärkeimistä asioista, jota sie saatat tehä oman triivastumisen ja oman terveyhen hyväksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målet er uansett at alle skal ha best mulig opplevelse i den tiden de er i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkiä olla fyysisesti aktiivinen niin ette ei tule niin helposti sairhaaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å bruke kroppen og være i aktivitet er noe av det beste og viktigste du kan gjøre for trivsel, egenomsorg og helsen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fyysinen aktiviteetti oon hyvä kans henkiselle terveyhelle. Luonnonkäyttäminen oon hyvä tipsi lapsiperheile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det innebærer også å øve og jobbe for å lære nye ferdigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Luonossa lapset saavat kehittää liikumispohjaa leikin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktivitet har en egenverdi, og er viktig for å forebygge sykdommer, både fysisk og mentalt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fiervassa ja mettässä käveleminen ja kelkkailua talvela oon kaikki hyvät aktiviteetit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For å sikre barneperspektivet i idretten er det utarbeidet egne bestemmelser og rettigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lastenperspektiivin varmistamisheen oon laitettu lasten omat sporttireekelit ja oikeuet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettens barnerettigheter setter barnas behov i sentrum og uttrykker de verdiene som skal ligge til grunn for barneidretten i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin lastenoikeuet pannee lasten tarpheet keskipisteesheen ja ilmaitsee net arvot, jotka ovat lastensportin pohjana Norjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rettighetene baserer seg på FNs barnekonvensjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oikeuetperustuvat FN:n lapsikonvensjuuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Rettigheter gjelder for alle barn, uten forskjellsbehandling og uten hensyn til barnet og dets foreldres kjønn, etniske bakgrunn, livssyn, seksuelle orientering, vekt/fysiske utvikling og funksjonshemning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin lastenoikeuet koskevat kaikkia lapsia, huolimatta kuka ja mistä het oon. Sportissa kaikki oon tasa-arvoisia, eikä sportissa oteta huomioon sukupuolta, etnistä tai kulttuurista taustaa, seksuaalista suuntautumista eikä fyysistä kuntoa ja kehitystä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettens barnerettigheter</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tässä ovat sportinlastenoikeuet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Trygghet Barn har rett til å delta i et trygt treningsmiljø, fritt for press og utnyttelse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Turvalisuus Lapsila oon oikeus turvalisheen sporttiympäristhöön, joka ei sisälä painostusta eikä hyväksikäyttöä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn under seks år skal ha med seg en voksen på aktivitetene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Alle 6-vuotiaila häättyy olla raavaspersuuna myötä aktiviteetteissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skader skal forebygges.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vammat ja vahingot häätyy estää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vennskap og trivsel Barn har rett til å delta i trenings- og konkurranseaktiviteter der det er lagt til rette for at de skal utvikle vennskap og solidaritet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Osaamisen ilo Lapsila oon oikeus kokea osaamisen iloa ja oppia erilaisia ​​taitoja. Heilä tulisi myös olla erilaisia maholisuuksia variasjuunhiin, harjoitukshiin ja yhteistyöhöntoisten kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mestring Barn har rett til å oppleve mestring og lære mange ulike ferdigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ollamyötä päättämässä Lapsila oon oikeus saaha sanoa mielipitheensä ja olla myötä päättämässä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De skal også ha muligheter for variasjon, øving og samspill med andre. Påvirkning Barn har rett til å si sin mening og bli hørt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Heilä oon oltava maholisuus osalistua oman sporttiaktiviteetin suunnittelhuun ja toteuttamisheen treenarien ja raavaspersuunien kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De skal ha mulighet til å være med på planlegging og gjennomføring av egen idrettsaktivitet sammen med trenere og foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vaphausvalita Lapsila oon oikeus valita mihin sporttilajiin tai kunka moneen sporttilajiin het haluavat osallistua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Frihet til å velge Barn har rett til å velge hvilken idrett, hvor mange idretter de vil delta i og hvor mye de vil trene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het päättävät itte kunka paljon het haluavat treenata. Kilpailua kaikile Lapsila oon oikeus valita haluavatko het osallistua kilpailuihin eli ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Konkurranser for alle Barn har rett til å velge om de vil delta i konkurranser eller ikke.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsi, joka siirtyy toisheen klubhiin, saa osallistua uuen klubin kilpailuihin heti, kosiirto oon rekisteröity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På barnas premisser Barn har rett til å delta i trenings- og konkurranseaktiviteter som er tilpasset deres alder, fysiske utvikling og modningsnivå.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lasten ehtoila Lapsila oon oikkeus osalistua treeninkeihin ja kilpailuihin joka oon räätälöity heän iän, fyysiseen kehityksen ja kypsytason mukhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslagene og gruppene skal samarbeide for å gi barna et koordinert og allsidig idrettstilbud i deres eget nærmiljø.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttiklubit ja joukot toimivat yhessä niin ette lapset saavat koordinoiun ja monipuolisen sporttitarjonnan omassa lähimiljöössä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle skal få være med på leken</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>8: Kaikki saavat olla myötä leikissä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle barn har rett til å delta i idrett uavhengig av familiens økonomi eller engasjement.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikila lapsila oon oikeus olla myötä sportissa perheen rahasituasjuunista tai engasjementista riippumatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn har rett til å være i et inkluderende idrettsmiljø uten utstyrs- eller kostnadspress.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsila oon oikeus olla myötä inkludeeravassa sportti-ympäristössä ilman ette kokee rahapaineita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle som driver barneidrett skal sikres størst mulig variasjon og muligheter for stor bevegelseserfaring.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jokaiselle lastensporttia touhuvale häätyy turvata suurin maholinen variasjuuni ja maholisuus liikkumiskokemuksheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten i Norge skal arbeide for at alle mennesker, uansett kjønn, alder, funksjonsgrad, sosial eller etnisk bakgrunn, skal gis mulighet til å utøve idrett ut fra sine ønsker og behov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa sportin tullee työtelä sen etheen ette kaikki ihmiset saa maholisuuen olla sportissa matkassa, riippumatta heän sukupuolesta, ijästä, funksjuunitasosta taikka sosiaalisesta ja etnisestä taustasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at alle barn som vil drive med idrett, er hjertelig velkommen i idrettslagene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se meinaa ette kaikki lapset jokka halluu tulla sportthiin, het oon tervetullheita sporttilaakeihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også et mål at idrettsglede står i fokus, slik at barna kan drive med idrett i mange år under trygge og gode fellesskap.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon kans moolina ette sportti-ilo oon keskelä toiminnassa, niin ette lapsi oon myötä suojaisessa ja hyvissä yhtheispiireissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettens verdier er leken, ambisiøs, ærlig og inkluderende.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin arvot oon olla leikkivä, ambisiöösi, reilu ja inkludeeraava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettens mål og verdigrunnlag</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin mooli ja arvopohja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten i Norge skal arbeide for at alle mennesker, uansett kjønn, alder, funksjonsgrad, sosial eller etnisk bakgrunn, skal gis mulighet til å utøve idrett ut fra sine ønsker og behov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa sportti oon avoin kaikile ihmisille, riippumatta heän sukupuolesta, ijästä eli funksjuunitasosta, ja riippumatta heän sosiaalisesta eli etnisestä taustasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at om du finner en aktivitet som du eller barna vil drive med, og det finnes et slikt tilbud på ditt hjemsted, så blir du tatt imot med åpne armer i idrettslaget eller foreningen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä meinaa, ette jos löyät aktiviteetin jota sie ja lapsesi haluatta tehä, ja semmonen aktiviteetti oon olemassa kotipaikala, niin teät toivotethaan avosylin tervetullheiksi sporttilaakhiin eli -föreninkhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor skal det legges fokus på å ha det gøy i fellesskap, uansett hvilket nivå man er på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Toivomus oon ette useammat ihmiset haluavat hommata sportin kans ja ette net jää moneksi vuojeks näihin hommhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Visjonen for Norges Idrettsforbund er «Idrettsglede for alle» og tanken er at alle skal oppleve idrett, mestring, og utvikling i trygge og gode fellesskap.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Siksi yhteinen somanpito oon tähelistä, riippumatta siitä, millä tasola sie olet sportissa. Norjan Idrettsforbundin visjuuni oon «Sportti-iloa kaikile».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle, uansett bakgrunn og forutsetninger, skal kunne finne sin plass og ha glede av å være med i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mooli oon ette kaikki saa kokea oppimista, kehittymistä ja triivastumista, turvalisessa ja hyvässä miljöössä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deltakere og foresatte må oppleve at aktiviteten som tilbys, er basert på fair play, med rettferdighet, samfunnets mangfold og like muligheter som forutsetning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Osalistujat ja raavaspersuunat häätyy kokea, ette aktiviteetit perustuu Fair playhin, ja ette oikeuenmukaisuus, samfunnin monipuolisuus ja tasa-arvo aina ovat sportin pohjana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å delta i den aktive idretten gjennom idrettslaget bør være en mulighet som alle har gjennom hele livet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiivisheen sportthiin osalistuminen, sporttilaakin kautta, pitäisi olla maholisuus kaikile koko elämän ajan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Livslang idrettsglede betyr bl. a at ingen skal bli utsatt for usaklig eller uforholdsmessig forskjellsbehandling.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Elinikänen sportinilo meinaa muun myötä ettei kukhaan tarvi kokea diskrimineerinkiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilbudet skal være inkluderende, tilrettelagt for alle og ha god kvalitet basert på verdiene til idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttitarjous oon oltava inkludeeraava, räätälöity, hyvvää laatua ja sportin arvoihin pykätty. Sportti oon rakennettu perusarvoitten pääle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er bygget på et sett med grunnverdier. På idrettstinget 2019 ble det vedtatt å innarbeide nye verdier.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>2019 Sporttitinka päätti ette sportin uuet arvot ovat: leikkivä, ambisiöösi, rehelinen ja inkludeeraava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De nye verdiene er leken, ambisiøs, ærlig og inkluderende, men hva legger vi i disse verdiene?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Leikkivä sportti meinaa ette met piämä huolen sportin ilosta, leikistä ja tietonankaruuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik lek kan man gjøre alene eller sammen med sine venner også utenfor organisert trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Leikkiä saataa tehä yksin eli toisten kanssa, sportissa eli sportin ulkopuolela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrett kan også være variasjon i aktivitet, ikke det at man skal bli god i en idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti ei ole tyhä tulla hyvä yhessä sportissa, se oon kans ette saapi olla vaihtelevissa aktiviteeteissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I ballidrettene kan du f.eks. leke seg med ballen på egen hånd og utvikle tekniske ferdigheter fordi du syns det er artig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Pallosportissa voipi esimerkiksi pelata palloa yksin koska se oon sommaa ja sillä laila kehittäät teknisiä taitoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn lærer ofte nye ferdigheter gjennom lek.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset oppivat ussein uusia taitoja leikkimällä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrett er lek, idretten ønsker å skape glede av å være i aktivitet, uansett prestasjonsnivå.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon leikkiä. Sportti halluu luo’a aktiivisuuen ilon riippumatta resultaateista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å drive aktivitet og idrett skal være med smil om munnen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiviteetti ja sportti pitäis tuo’a hymyn huulheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at aktiviteten gir gode opplevelser, selv om du jobber hardt for å bli bedre eller hjelper dine lagvenner til å nå felles mål.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tähelistä, ette aktiviteetit tarjoaa hyviä elämyksiä, vaikka se kans oon kilpailua. Olla ambisiöösi oon olla tietonen omista moolista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målrettet betyr planmessig tilnærming til utvikling på alle idrettens områder og viser samtidig et ønske om å utvikle seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja ette oon planeerattu lähestymis-tapa ommaan kehityksheen. Kaikki halluu kokea tulla paremaksi omassa sporttissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle som driver med idrett har et ønske om oppleve mestring og forbedring.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kans sportin organisasjuuni halluu kehittyä ja tulla paremaksi, se oon kans osa tätä perusarvoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også idretten på ulike nivå har et ønske om å utvikle seg og bli en bedre idrettsorganisasjon, og ambisiøs signaliserer dette ønsket.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa oon lupa olla ambisiöösi. Kysy mielelä treenarilta mitä sie häyt tehä tulla paremaksi ja kunka sie pitäisit treenata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spør gjerne trener eller andre hva som må til for å bli bedre og hva du kan trene på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tällä laila siesaat tietää mitä sie häyt tehä itte ja saatat treenata kans treeninkien ulkopuolela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å lære nye ferdigheter, eller oppleve at man mestrer ting enda bedre er også positivt fordi det skaper glede og selvtillit og er med på å øke motivasjon.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Uusien taitojen oppiminen ja se ette kokkee hallita asioita paremmin ja paremmin, oon positiivista, koska se luo iloa ja itteluottamusta jalissää motivaatiota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vil også kunne gi inspirasjon til å sette seg nye mål.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fair play ja rehellisyys ovat erittäin tärkeitä sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten er det veldig viktig med fair play og ærlighet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tähelistä följätä reekeliitä, sekä treeneissä ja muissa tapahtumissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å følge reglene, både på trening og på idrettsarrangementene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Erilaisissa sporteissa oon omat reekelit, ja niin kans sporttilaakeissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den enkelte idrett har sine regler, og det enkelte idrettslag har også sine regler og føringer på sin aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Moolina oon ette kaikkia kohelhaan kunnioittavasti vaikka ei aina olisi sammaa mieltä heän kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er et mål å behandle alle i idretten - lagkamerater, trenere, ledere, dommere og motstandere med respekt selv om man ikke alltid er enig med dem. Derfor bør man ikke filme, jukse eller prøve å tøye reglene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sen takia ei sais huijata ja juksata, eikä freistata venyttää reekeliitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å og opptre ærlig i alle sammenhenger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tärkeä toimia rehelisesti kaikissa yhteyksissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ledere, trenere og foresatte må gå foran som gode rollemodeller.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Johtajat, treenarit ja raavaspersuunat häätyy olla hyvät roolimallit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Inkluderende betyr en organisasjon som ser alle, skaper trygghet og tar vare på alle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Inkludeerava meinaa ette sportti oon organisasjuuni joka luo turvalisuutta ja huolehtii kaikista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten skal sørge for trivsel, gode fellesskap og ikke minst skal alle kunne delta og prestere på eget nivå og etter eget ønske.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Triivastuminen ja hyvät relasjuunit ovat tärkeät sportissa. Kaikkien pitää saa’a olla myötä omala tahola ja omala tasola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Inkluderende handler om vår medlemsbaserte organisasjon, hvor alles stemme er like mye verdt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Inkludeerava koskee kans meän organisasjuunia, jossa kaikkien ääni oon yhtä arvokas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at Norges Idrettsforbund har som mål å ta vare på mangfoldet i samfunnet inn i idretten, slik at norsk idrett speiler det samfunnet vi er en del av og der ingen skal ekskluderes.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan Idrettsforbundillä oon siis moolina ette samfynnin monipuolisuus näkkyy sportissa. Inkludeerava sportti yhistää paikalismiljöön ja samfynnin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En inkluderende idrett er samlende for både lokalsamfunn og storsamfunn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sinua toivotelhaan avosylin tervetulheeksi jos sie halluut olla myötä sporttilaakissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du vil bli tatt imot med åpne armer og gjennom idrettslaget vil du få et nytt miljø hvor nye vennskap oppstår.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja sporttilaakissa sie saat uuen miljöön missä sie saatatsaaha uusia ystäviä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder både barn og foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Niin se oon, sekä lapsile ja raavaspersuunille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Frivillighet og dugnad er fundamentet i idretten, og i klubbene og det er derfor viktig å ta godt vare på alle som engasjerer seg og bidra til at de trives sammen med andre frivillige og de aktive.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vapaehtoisuus ja dugnadi ovat sportin ja klubien fundamentti, ja se oon siksi tärkeä pittää huolen siitä ette kaikki triivastuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Demokrati er også en nøkkel.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Myös demokratia oon tähelinen osa sportin organisasjuunia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Medlemmene skal få mulighet til å si sin mening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikila jäsenillä oon maholisuus ilmaista oman meiningin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Derfor oppfordres det til at de som ønsker å bidra litt ekstra kan være til å være ledere og trenere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Net jokka halluuvat tehä pikkusen enemän pyyethään olemhaan johtajia ja treenareita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan bidra til at nettopp du kan være med å dra klubben i en mer positiv og ønsket retning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Johtajana eli treenarina sie olet myötä vettäämässä klubin siihen positivisheen sunthaan joka organisasjuuni oon päätäny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også avgjørende at man er lojal mot klubben og de andre medlemmene, slik at verdier, mål og regler blir fulgt av alle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Silloin oon tärkeä ette oon lujaali klubile ja muile jäsenille, ja ette följää sportinarvoja, mooleja ja reekeliitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Og ikke minst, alle mennesker skal behandles med respekt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikkia ihmisiä tulisi kohella kunnioittavasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er plass til å være annerledes i idretten og alle er like mye verdt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa ihminen saa olla erilainen ja kuiten olla yhtä arvokas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten i Norge er en svær organisasjon, så den er delt inn i mange nivåer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon Norjassa hirmuisen iso organisasjuuni, ja se oon jaettu eri tasoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er alt fra idrettsstyret til administrasjonen i Norges Idrettsforbund, særforbund, idrettskretser, særkretser, idrettsråd og idrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Organisasjuuni oon kaikki sporttistyyristä Norjan Idrettsforbundetin administrasjuunhiin, - ja organisasjuunhiin kuuluu erikoisförbundejä, sporttipiirejä, erikoispiirejä, sporttiraateja ja sporttilaakeja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er i det øverste organet, idrettstinget, hvor det blir bestemt hvordan ting skal gjøres i fremtiden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikkiin yläpuolela oon Sporttitinka, ja se päättää sportin tulevasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvert enkelt nivå har sine oppgaver for å legge til rette for at man kan drive idrett i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikila tasoila oon omat tehtävät ja moolina oon pykätä sporttiaktiviteettejä koko Norjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten som organisasjon</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti organisasjuunina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Norges idrettsforbund og olympiske og paralympiske komité (NIF) består av 55 særforbund, 17 idrettskretser, 375 idrettsråd og 10 787 idrettslag, og har rett i underkant av 2.100.000 medlemskap.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan idrettsforbund ja kans olympinen ja paraolympinen komitea oon iso organisasjuuni johon kuuluu 55 erikoisyhistystä, 17 sporttipiiriä, 375 sporttiraatia ja 10787 sporttilaakia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På idrettstinget, som blir holdt annet hvert år blir det bestemt hvordan ting skal gjøres i fremtiden innenfor idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäseniä oon heti 2 miljoonaa 100 tuhatta. Joka toinen vuosi arrangeerathaan sporttitinkaa, ja sielä päätethään sportin tulevasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er idrettsstyret sin jobb å sørge for at bestemmelsene fra idrettstinget blir gjennomført.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon sporttistyyrin työ kattoa pörhään ette päätökset sporttitingasta tulevat tehyksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Særforbundene, som for eksempel fotball, ski og volleyball, organiserer og leder de ulike idrettsgrenene, og har ansvar for konkurransevirksomheten og utvikling av særidretten sin både nasjonalt og internasjonalt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Erikoisyhistykset, niin ku jalkapallo, hihtaminen ja volleypallo, organiseeraaja johtaa net erilaiset sporttihaarat. Heilä oon eesvastuu kilpailuista ja siitä ette erikoissportit kehittyy nasjunaalisesti ja internasjunaalisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De som jobber i administrasjonen i Norges Idrettsforbund tar seg av en rekke oppgaver på vegne av særforbundene og idrettskretsene, som kontakt med statlige organer, søknader og viderefordeling av spillemidler.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het jokka työtelevät Norjan Idrettsforbundin administrasjuunissa hoitavat paljon erilaisia tehtäviä erikoisyhistystenja sporttipiiriitten puolesta. Het hoitavat esimerkiksi kontaktit staatin kanssa, hoitavat sööknaadit ja jakavat etheenpäin pelimitteleitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettskretsene er inndelt i geografiske regioner og deres oppgave er å fremme samarbeid mellom særkretsene, de enkelte idrettslagene, idrettens organisasjonsledd, og fylkeskommunen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttipiirit oon jaettu geograafisesti regiuuneihin, ja piiriitten tehtävä oon vahvistaa yhtheistyötä erikoispiiriitten, sporttilaakien, sportin organisasjuunin ja fylkin komuuninvälilä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kretsene skal også drive med veiledning til idrettslagene i økonomiske, administrative og organisatoriske spørsmål.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Piirit saattavat kans anttaa opastusta sporttilaakeile kysymyksissä jota koskee raha-asioita, administrasjuunia ja organisasjuunia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvert særforbund har også en særkrets.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jokaisella erikoisyhistykselä oon kans oma erikoispiiri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Deres oppgave er å administrere de ulike idrettene i fylkene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Piiriitten tehtävänä oon administreerata net erilaiset sportit fylkissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Blant deres viktigste oppgaver er å gjennomføre utdanningstiltak og å sørge for gjennomføring av kamper, stevner og liknende innenfor deres idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Heän tärkeämmät tehtävät oon pykätä koulutusaktiviteettejä ja kans organiseerata kampit ja turnaukset heän sportile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Så for eksempel er det Troms Fotballkrets som setter opp kampprogrammet i alle fotballseriene i Troms siden de har ansvaret for dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon siis Tromssan fylkin Jalkapallopiiri joka pykkää kaikki jalkapallosarjojen kamppiprogrammit Tromssan fylkissa. Se meinaa kans ette het hoitavat kamppien tuomarit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr også at de tar seg av å få dommere til kampene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttiraathiin kuuluu kaikki yhen komuunin NIF:n jäseneksi määritelyt sporttilaakit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettsrådene består av alle idrettslagene som er medlemmer av Norges Idrettsforbund i en kommune.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos komuunissa oon enämpi ku kolme sporttilaakia, niin NIF:n sääntöjen mukhaan komuunissa häätyy sillon olla sporttiraati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De skal blant annet formidle idrettslagenes anleggsbehov til kommunale myndigheter, fordele midlene fra den statlige tilskuddsordningen til lokale lag og foreninger og jobbe med inkludering i idrettslagene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttiraati kommuniseeraa sporttilaakien anläggitarpheista komuunille, jakkaa valtion rahakuurrot föreninkeile ja työtellee inkluderaamisen kanssa kaikissa sporttilaakeissa. Joissaki komuuneissa oon omat työtelijät joka työtellee sporttiraateissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslagene i Norge er frittstående organisasjoner med personlige medlemmer, som styres av et demokratisk valgt styre og der årsmøtet er idrettslagets øverste myndighet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan sporttilaakit oon vapaita organisasjuuneja joissa oon henkilökohtaiset jäsenet. Laakin styyri oon demokraattisesti valittu ja vuosimöötti oon sporttilaakin ylin päättäjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ingen kan eie et idrettslag, for det er selveiende.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kukhaan ei voi omistaa sporttilaakin, koska sporttilaaki omistaa ittensä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et idrettslags formål er å drive idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakin meininki oon pykätä sporttia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle som ønsker det kan søke om medlemskap.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuka tahansa saattaa olla laakinjäsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også slik at dersom du ønsker å konkurrere, så må du være medlem av et idrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja jos halluut olla kilpailemassa, niin sie häy’yt olla jonkun sporttilaakin jäsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også visse prosedyrer som må følges.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon kans tärkeä muistaa ette vappaissa organisasjuuneissa oon omat prosedyyrit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Et idrettslag må velge medlemmer til nødvendige verv i styre, valgkomite, kontrollkomite og andre årsmøtebestemte oppgaver og verv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakin häätyy valita jäseniä styyreihin, häätyy olla vaalikomitea, ja kontrollikomitea ja muitakin tehtäviäja rooleja joka vuosimöötti päättää.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De personer som skal velges inn i disse, må være valgbare medlemmer. Det vil si at de må ha betalt sitt medlemskap, være fylt 15 år og ha vært medlem i minst en måned.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het ihmiset joka valithaan näihin häätyy olla vaalikelvolisia ihmisiä, eli het häätyvät olla jäseniä, olla yli 15 vuottavanhoja ja ollu jäsenenä ainaki kuukauen ennen vaaleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslag med én idrett kalles særidrettslag, mens idrettslag med flere grupper av idretter kalles fleridrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakijossa oon tyhä yksi sportti sanoma erikoisporttilaakiksi. Sporttilaaki jossaoon monta erilaista sporttia, sanoma monisporttilaakiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bedriftsidrettslag rekrutterer sine medlemmer fra arbeidsplasser og ulike faglige sammenslutninger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Firmasporttilaaki oon taas eri asia. Net rekryteeraa jäsenet esimerkiksi suorhaan työpaikoilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrett bidrar til at barn får gode opplevelser på fritiden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti antaa lapsile hyvän vapa-ajan sisällön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De får føle mestring og utvikling i aktivitetene de er med på, og når man er en del av et fellesskap, så skaper man vennskap med andre barn som kanskje varer livet ut.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het saavat aktiviteettien kautta tuntea onnistumisen ja kehittymisen ilon. Ystävärelasjuunit joka syntyvät sporttiyhteispiireissä, jatkuvat toivon mukhaan koko elämän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I tillegg så lærer man blant annet å samarbeide med andre, struktur, jobbe mot felles mål eller takle motstand.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa oppii tehä ytheistyötä muitten kaha, struktuuria, työtelä yhtheisheen moolhiin ja kans kunka joskus epäonnistuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flere barn enn tidligere sitter mye inne, og det er viktig å oppfordre til aktivitet ut fra et helseperspektiv slik man holder seg i bedre form.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tääpänä lapset istuvat enämen sisälä ku aikaisemmin, niin se aktiivisena oleminen oon kans tähellistä terveysperspektiivistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En meningsfull fritid</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mielenkiintonen vapa-aika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er den største fritidsarenaen for barn og unge i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon Norjassa suurin lasten ja nuorten vapa-ajan areena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange barn opp til 12 år er med i idrett, mens flere faller fra i ungdomsårene, altså fra 13 årsalderen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Rohki monet alle 12-vuotiaat lapset oon matkassa sportissa, mutta monetyli 13-vuotiaat oon heittänheet pois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Norge er en ledende nasjon for vinteridretter, og vinteridrettene står sterkt i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norja oon johtava talvisportin maa, ja talvisportthiin oon iso into koko maassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Den største idretten i Norge både for jenter og gutter er fotball.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tyttöjen ja poikien suuri sportti oon jalkapallo elikkä potkupallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tilbudene er mange innenfor idrett, og i tillegg fins det mange andre tilbud innenfor bl.a kultur.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa oon paljon erilaisia aktiviteettejä ja niitten lisäksi oon kans kultuuripuolela hurjasti aktiviteettejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Korps, teater og kor er eksempler på dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Korpsi, teatteri ja kuorot oon hyviä esimerkkejä näistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn er ulike, og har ulike interesser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset oon kaikki erilaiset ja heilä oon eri intressit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at du som foresatt hjelper barnet finne en fritidsarena barnet kan trives med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon siksi tärkeää ette sie vanhempana autat lapsesi löytämhään vapa-ajan arenan jossa lapsesi triivastuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Svært mange starter med fritidsaktiviteter når de starter på skolen, men dette varierer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet alkavat vapa-ajan aktiviteeteissä samala koalkavat koulhuun, mutta tämä vaihtelee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Målet er at barnet får gode opplevelser innenfor den aktiviteten de deltar på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sihtinä oon ette lapsi saapi hyviä elämyksiä niissä aktiviteeteissä jossa lapsi oon matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette kan både være organisert og uorganisert.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aktiviteetit voipi olla organiseerattu eli ei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn lærer mye gjennom lek og uorganisert aktivitet, og dette kan du som foresatt legge til rette for gjennom f.eks. ta barna med ut i naturen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset oppivat paljon leikin ja ei-organiseerattujen aktiviteettien kautta, ja siinä juuri sie vanhempana olet tärkeässä roolissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En tur i skogen eller fjæra gir barn mange motoriske utfordringer de ikke automatisk opplever innendørs.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tyhä mettäreissu taikka merenrantakävely antaa lapsele motorisia haasteitajoita sisälä oon hankala tehä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En organisert trening gjennom idretten i uka vil ikke veie opp for aktivitet og lek hver dag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Organiseerattu treeninki viikossa ei ole yhtä hyvä asia ku päivittäinen leikki ja aktiviteetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktiviteter kan være å gå til skolen, sykle eller generell lek utendørs.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Päivittäinen aktiviteetti voipi olla esimerkiksi ette kävelee koulhuun, polkee pyörälä eli muuten leikkii ulkona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn trenger å være i aktivitet, og forskning viser at barn i Norge bruker mer tid enn tidligere på stillesittende aktiviteter som tv spill og tv titting.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tutkinnot näyttävät ette lapset Norjassa käyttävät enämen ja enämen aikaa istuen, pellaamassa ja kattomassa TV:tä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å lære å mestre kroppen gjennom ulike aktiviteter er viktig for alle, og kan også ha betydning for hvordan man mestrer livet i senere alder.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se olisi kaikile hyvä oppia liikkumalla tuntemhaan oman kropin,ja fyysinen liikkuminen saattaa kans olla apuna ko ihminen vanhenee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig for alle å ivareta sin egen helse og fysiske form, og da er aktivitet en viktig del av dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeää kaikile ette hoitaa oman terveyen ja fyysisen kunnon, ja aktiivisena oleminen oon tärkeä osa tästä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Aktivitet er også forebyggende for mange sykdommer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fyysinen aktiviteetti estää monet tauvit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På denne måten er idretten en viktig bidragsyter også i et helseperspektiv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Näin sportti oon tähelinen työkalu kansanterveysperspektiivissäkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barn utvikler seg, vokser og lærer i ulikt tempo.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapset kehittyvät, kasuavat ja oppivat eri vauhtia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det som er rett for noen trenger ikke være det for andre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se joka oon oikia tapa yhele, ei välttämättä ole oikia tapa toisele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Uansett vil gode opplevelser øker sjansen for at de vil ha glede av sin fritidsaktivitet lenge, og for noen varer interessen hele livet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sportti antaa lapsele hyviä elämyksiä, niin oon hyvä sjanssi ette harrastus jatkuu läpi elämän.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er også en læringsarena for barn og unge, hvor du lærer mer enn idrettsferdigheter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon kans hyvä opetusareena lapsile ja nuorile, missä het oppivat muutaki ko sporttioppia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er en arena hvor barnet får venner og nettverk, og hvor også du som voksen blir kjent med andre foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä oon areena jossa lapset saavat kavereita ja sosiaalista verkkoa, ja missä sie vanhempana kans tutustut muihin vanhemphiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er du ny i Norge og trenger å lære språk er dette også en utmerket språkarena både for barna dine og du som foresatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos olet uusi Norjassa ja tartet oppia kieltä, niin sportti oon kans loistava kieliareena lapselesi ja sulle ittelesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom idretten får barnet andre venner og flere venner enn bare på skolen, noe som er en verdi i seg selv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin kautta lapset saavat enämen kavereita, ja muita kavereita, ko koulukavereita, ja tyhä se oon jo arvokasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å lære seg være i lag, samarbeide med andre, lære seg struktur,jobbe for felles mål eller takle motstand er også life skills som er viktig i livet generelt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa lapsi oppii olla yhessä ja tehä yhteistyötä muitten kans, oppii struktuuria, kunka työtelä yhtheisheen moolhiin ja kunka ottaa vasthaankäymiset vasthaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten er målet at barnet er i et trygt idrettsmiljø med tydelige og omsorgsfulle voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tärkeää ette lapsi oon turvalisessa sporttimiljöössä jossa oon selkeät ja eesvastuliset raavhaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Trenere og foresatte jobber i felleskap for at dette miljøet skal være både inkluderende og trygt for alle.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Treenarit ja vanhemat työtelevät kaikki sen etheen ette sporttimiljöö olisi lapsile inkludeeraava ja turvalinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder all idrett, både for barn, ungdom og voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä koskee kaikkia sporttia, ei tyhä lasten ja nuorten, mutta kans raavaitten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de minste barna er det som oftest 1- 2 organiserte treninger i uka, mens dette øker når barna blir eldre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nuoremat lapset treenaavat useasti kerran tai kaks viikossa. Treeninkeitten määrä kasuaa ko lapsi tulee vanhemaksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For ungdom som satser på sin idrett er det ikke uvanlig med treninger 5-7 dager i uken.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Net nuoret jokka satsaavat sportthiin, saattavat treenata 5-7 kertaa viikossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er mulig drive med flere idretter samtidig, men dette bestemmes individuelt alt etter interesser hos det enkelte barn, tilbud der du bor og deres familier.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon kans maholista ette oon monessa sportissa matkassa samanaikasesti, mutta tämän häätyy jokkhainen itte määritellä intonsa mukhaan, ja tietenki oman asumispiirin tarjonnan mukhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det fins også åpne anlegg og tilbud som tilrettelegger for mer uorganisert aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon hyvä muistaa ette oon kans olemassa avoimet anläggit joissa voi tehä omia ei-organiseerattuja aktiviteettejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Åpne svømmehaller, skatehaller og fotballhaller kan være eksempler på dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Uimahallit, skeittihallit ja jalkapallohallit oon esimerkkejä halleista joka voi olla avoimia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å ha en meningsfull fritid er viktig for barnet ditt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeä lapsele ette vapa-aika oon mielenkiintonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Både barnet og du som foresatt vil få større nettverk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsen vapa-aika nyt saattaa myöhemin raavhaana olla elämäninto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barnet vil lære seg ulike grunnleggende ferdigheter og er med andre trygge voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja vapa-ajan aktiviteettien kautta sie ja sinun lapsesi saatta isomman sosiaalisen verkon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at du som foresatt hjelper barnet finne ut hva det trives med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsesi oppii uusia tärkeitä asioita ja saa seurustella muittenki turvalisten raavaspersoonien kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Av og til er det også en verdi å finne ut hva man ikke trives med på lik linje med å finne noe man liker og trives med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeää ette sie vanhempana autat lapsesi löytämhään sen paikan missä hän triivastuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Norges Idrettsforbund har visjonen «Idrettsglede for alle», noe som betyr at man ønsker at flest mulig skal kunne delta i idrettslige aktiviteter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan Idrettsforbundetin visjuuni oon «Sportti-iloa kaikile». Tämä meinaa ette met toivoma ette mahollisen moni saa osallistua sporttishiin aktiviteetteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er mye frivillighet i idrettslagene, noe som gjør at det er mulig å være på aktiviteter uten at det koster for mye.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakit oon pykätty vapaaehtosuutheen, ja näin aktiviteetteihin osallistuminen ei maksa liikaa. Kunka paljon net aktiviteetit maksavat, vaihettellee sportista sportthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes også økonomiske ordninger som gjør at det blir enklere å være en del av et idrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon kans olemassa raha-oortninkeja joka tekkee helpommaksi olla matkassa jossaki sporttilaakissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva koster det å delta i idrett</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Paljonko se maksaa olla matkassa sportissa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er et overordnede mål i Norge at alle som ønsker det skal ha mulighet til å delta i idrett eller drive egenorganisert fysisk aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se on ylheinen ajatus Norjassa ette kaikila joila oon halu olla matkassa sportissa, pittää saa’a maholisuuen olla myötä sportissa eli toimia vapaamuotosessa fyysisessa aktiviteetissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Visjonen «Idrettsglede for alle» innebærer at idretten skal inkludere bredt, og at økonomi ikke skal være en barriere for barn og unges deltagelse.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Visjuuni «Sportti-iloa kaikile» merkittee ette sportin pittää olla laaja, ja ette raha-asiat ei piä olla estheenä lasten ja nuorten matkassa olemisheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Likevel viser forskning at noen barn ikke har mulighet til å delta i fritidsaktiviteter på grunn av økonomi.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Silti näyttävät tutkinnot ette joilaki lapsila ei ole raha-asioitten syystä maholisuus olla matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik skal det ikke være.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Näin ei pitäis olla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gruppen barn som vokser opp i fattigdom er økende i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se ryhmä lapsia jokka kasuavat ylös köyhyyessä oon lissääntymässä Norjassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Med økte forskjeller trenger samfunnet generelt og idretten selv økt bevissthet om kostnadene ved å drive idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko erot lissääntyvät niin samfunni ylheensä ja sporttiki häätyy olla hyvin tietonen sportin kustanuksista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skal alle barn ha muligheten til å drive idrett, må vi også ha kunnskap om hvor det er mulig å få hjelp for de familiene dette gjelder.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jotta kaikila lapsila olisi samat maholisuuet olla matkassa sportissa, niin met häyvymä tietää kunka met saatama auttaa niitä perheitä joila oon ongelmia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det handler om at både idretten selv, foresatte og samfunnet generelt tar ansvar.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Eesvastuu tästä oon sportissa, koko samfunnissä ja kans vanhemiila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge har foresatte hovedansvaret for å forsørge sine barn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa päävastuu lasten ylöskasuttamisheen oon vanhemiila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder også barns deltagelse i fritidsaktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja tämä koskee kans lasten osalistumista vapa-ajan aktiviteetteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jo yngre barna er, jo mer har de behov for hjelp fra foresatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mitä nuorempi lapsi oon, sitä enämen lapsi tarttee vanhempien apua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være å passe på at de kommer seg til trening, at de har med rett utstyr og forholder seg til reglene som er i idrettslaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se saattaa olla auttaalasta pääsemhään treeninkeihin, kattoa pörhään ette lapsela oon oikeat tavarat ja ette het tietävät sportin reekeleistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten i Norge er basert på frivillighet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa sportti oon pykätty vapaehtosuutheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I de aller fleste idrettslag stiller foreldre og andre opp som trenere og ledere. Vi har en sterk dugnadskultur.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Eninosassa laakeissa vanhemat toimivat treenareina ja johtajina ja meilä oon hurjan kova dugnaadikulttuuri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å bidra på denne måten gir en følelse av felleskap som betyr mye for mange.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se antaa tärkeän yhessäolemisen tuntheen, ja tämä tunne voi olla monele ihmiselle hyvin tärkeä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å bli kjent med nye mennesker er noe av gleden ved å bidra på dugnader.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Dugnaadeihin osalistuminen on hyvä tapa kohatella muita, ja kans tutustua muihin ihmishiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å ha en meningsfull fritid hvor du både får venner, lærer nye ferdigheter og får interesser som for noen varer hele livet, er viktig både for trivsel og livskvalitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mielenkiintonen vapa-aika antaa lissää kavereita, opettaa uushiin asioihin ja antaa piian intressejä joka kestää läpi koko elämän. Tämä oon taas tärkeää triivastumisheen ja elämänkvaliteethiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er den største fritidsarenaen for barn i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon Norjassa isoin vapa-ajanareena lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettsaktiviteter skjer i idrettslag.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttiaktiviteetit tapahtuvat sporttilaakeissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge er det rundt 11 000 idrettslag som tilrettelegger for aktivitet for både voksne og barn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tyhä Norjassa oon suunile 11000 eri urheilulaakia jokka pykkäävät erilaisia aktiviteettejä raahvaile ja lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å drifte et idrettslag er ikke uten kostnader.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta sportin pykkääminen ja pyörittäminen ei ole ilmaista touhua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen få idrettslag har egne anlegg, og noen har også folk som er ansatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joilaki sporttilaakeila saattaa olla isot anläggit ja omat hallit ja jopa palkatut työtelijät.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette og andre variasjoner gjør ofte at kostnader med deltagelse er ulik fra klubb til klubb, og idrett til idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nämä ja muut erot tekevät ette kustanukset osalistua voi olla erilaiset piiristä piirhiin ja sportista sportthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det koster også å delta på cuper/ arrangement, og da er det ofte en egenandel som må betales.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se maksaa kans olla matkassa kilpailuissa, ja siksi kilpailuhommissa voi olla oma rahoitus jonka pitää maksaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Denne egenandelen kan gå til overnatting, mat og reise.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sinula ei ole biiliä, niin saatat kysyä kyytiä muilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange klubber arrangerer dugnader for å begrense egenandelen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Puhu rohkiasti treenarin eli joukkuejohtajan kans näistä asioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Har du ikke bil kan du alltid spørre om skyss med noen andre. Snakk gjerne med trener eller lagleder om dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Esimerkiksi jäähockey ja alppiinisportti oon tyyrimät sportit ko esimerkiksi koripallo, käsipallo, vapaasportti ja jalkapallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kostnadene for å være med i idrett varierer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joskus kampheet, varustheet ja suojat oon melko tyyrhiit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ishockey og alpint er idretter som totalt sett ofte koster mer enn for eksempel basket, håndball, friidrett og fotball.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jäähockey oon semmonen sportti joka vaatii paljon suojatavaroita, ja kustanukset lissääntyvät ko lapset vanhenevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette skyldes bl.a. klær og utstyrsbehovet i disse idrettene. Å drive ishockey f.eks. setter store krav til utstyr til den enkelte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muista kuiten ette lapsi ei tartte net kaikista tyyrhimät varustheet, Varustheet häätyy tyhä olla praktisetja passata ikäluokhaan ja tashoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kostnadene øker når barna blir eldre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Puhu treenarin kans näistäki asioista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Snakk gjerne med trener eller andre om du har spørsmål rundt dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja aina oon maholisuus ostaa käytettyjä tavaroita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også mulig å kjøpe brukt av andre, og det fins grupper på blant annet Facebook.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon olemassa omia facebook-ryhmiä joissa ihmiset myyvät käytettyjä sporttitavaroita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er både fornuftig i forhold til økonomi, gjenbruk og av miljøhensyn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joskus urheiluseurat itteki pykkää käytettyjen sporttitavaroitten markkinoita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I noen kommuner kan man også få lånt gratis utstyr gjennom ordninger som BUA.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sieltä saatat löytää hyviäkin varustheita halvala hinnala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du av ulike grunner har begrenset økonomi fins det muligheter for økonomisk hjelp.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Uuestikäyttö oon järkevää rahalisesti ja se säästää kans luontoa ja miljöötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En slik situasjon kan de fleste komme opp i, og det er viktig at barna får delta i en fritidsaktivitet de ønsker.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sinula jostaki syystä oon raha-asiat hankalasti, niin muista ette raha-asioihin voi saa’a apua. Hankalhaan tilhaan saattaa moni joutua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det fins ulike økonomiske støtteordninger fra kommune til kommune, så snakk med noen i din kommune hvilke muligheter som fins for hjelp.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta se oon kuiten tähelistä ette lapset saavat jatkaa heän vapaajan aktiviteeteissä. Kysy suorhaan omalta komuunilta, minkälaista apua voi saa’a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Generelt kan du som foresatt søke støtte fra NAV, og er du deltager på introduksjonsprogram kan det være mulighet for hjelp hos Flyktningetjenesten eller kommunen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie saatat vanhempana hakea apua NAV:n kautta, ja jos olet matkassa introduksjuuniprogrammissa, niin saatat kans hakea apua Flyktningetjenestenistä eli komuunin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idrettslaget kan du be om å få delt opp regningen i flere deler, og noen idrettslag har også egne solidaritetsfond/ inkluderingsfond eller ordninger du som foresatt kan søke om støtte fra. I noen kommuner kan også Røde Kors og Frelsesarmeen være behjelpelig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaakeissa saatat hajottaa laskun monheen oshaan, ja joilaki laakeila oon omat solidariteettirahastot eli orningit joista sie vanhempana saatat hakea apua, Joissaki komuuneissa Punanen risti eli Frelsesarmeen saattaa kans auttaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Regningen skal betales innen fristen når den kommer, og ta kontakt med idrettslaget om du ikke får betalt eller vil ha utsettelse eller delt opp regninga.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko lasku tullee, niin laskun pittää maksaa maksuajan sisälä. Jos sinula ei ole varaa, niin ota kontaktia laakhiin ja taho lykkäystä eli laskun hajottamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bor du i en kommune som har ordningen aktivitetsguide, kan du også få veiledning om støtteordninger fra denne personen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos asut komuunissa jossa oon oma aktiviteettiopas, niin häneltä saat tietoa kunka apuohjelmat toimivat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ellers kan du også snakke med f.eks. idrettsrådet, helsesykepleier, rådgiver på skole eller kontaktperson i kommunen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Muuten saatat puhua sporttiraatihenkilön, terveyssairhaanhoitajan, koulunneuvojan eli komuunin kontaktihenkilön kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Løsninger fins som regel, bare man vet om utfordringene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kyllä aina ratkaisu löytyy, jos tyhä tietää mistä kenkä puristaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten jobber kontinuerlig for å begrense kostnadene til trening og konkurranser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met kaikki haluamma saa’a aikaiseksi meän visjuunin, «sportti-iloa kaikile».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det samme gjelder bruk av dyrt utstyr, dette gjelder spesielt i barne -og ungdomsidretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta meän puolesta met olema valmhiit tekemhään paljon töitä sen etheen ette kaikki saisivat tuntea iloa sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det vi alle er ute etter alle sammen, er å skape «idrettsglede for alle».</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Parasportti oon sportti ihmisille joila oon funksjuunirajoituksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Visjonen er ambisiøs, men fra vår side vil vi å strekke oss langt for at absolutt alle skal få oppleve gleden ved å drive idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa met freistaamma räätälöiä kaikile, riippumatta heän funksjuunista ja funksjuunitasosta. Sportti-ilo kuuluu kaikile!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Paraidrett er idrett for mennesker med funksjonsnedsettelser og i Norge legger man til rette for at alle uansett funksjonsevne og nivå, skal få oppleve idrettsglede.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja oon paljon maholisuuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Og mulighetene er mange, for hele 55 særforbund har et tilbud, og her finner man blant annet fotball, judo, roing og innebandy.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meilä oon niin monta ko 55 erikoisförbundiä, ja näistä löytyy muun myötä jalkapallo, judo, soutaminen ja sisäbändy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er fire målgrupper innenfor paraidrett og det er bevegelseshemmede, hørselshemmede, synshemmede og utviklingshemmede.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Parasportissa oon neljä eri sihtiryhmää: liikkumisrajoitetut, kuulovaivaset, näkövaivaset ja kehitysrajoitetut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Paraidrett</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Parasportti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Paraidrett er en fellesbetegnelse og defineres som idrett for mennesker med funksjonsnedsettelser.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Parasportti oon yhtheisnimi sportile joka koskee ihmisiä joila oon erilaisia funksjuunirajoituksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge ønsker man å legge til rette slik at alle skal få oppleve idrettsglede, uansett funksjonsevne og nivå.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa oon halu ette kaikki saa mahollisuuen tuntea sportti-iloa, vaikka funksjuunikyky tai funksjuunitaso olisi mikä vain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Over 11.000 funksjonshemmede er med i idrettslag i Norge og det er selvsagt plass til mange flere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Yli 11.000 ihmistä joila oon joku funksjuunirajoitus oon myötä norjalaisessa sporttilaakissa ja meilä oon tieten enämenkin sijaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Har du lyst til å starte med idrett, eller bidra som trener, i styre eller andre ting?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oonko sinula halu aloittaa jonkun sportin, olla myötä treenarina, olla myötä jossaki styyrissä tai tehä jotain ihan muuta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Da kan du ta kontakt med noen i idrettsrådet, kommunen, idrettskretsen eller Norges Idrettsforbund, for det er en bra mulighet for at du kan være aktiv i en paraidrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota rohkiasti kontaktii sporttiraathiin, oman komuunhiin, sporttipiirhiin taikka Norjan Idrettsforbundethiin. Meilä oon hyvät maholisuuet olla aktiivinen parasportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge er hele 55 særforbund med under paraplyen paraidrett. Det gjelder alt fra fotball, judo, roing, klatring, riding til innebandy.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa oon yli 55 parasportin erikoisförbundejä ja net kattavat judosta jalkapallhoon, soutamisesta kiipeämisheen, ratsastamisesta sisäbändhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Så mulighetene er mange.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Niin ette oon rohki paljon maholisuuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er fire målgrupper innenfor paraidrett og det er bevegelseshemmede, hørselshemmede, synshemmede og utviklingshemmede.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Parasportissa oon neljä sihtiryhmää: het joila oon vaiva liikkumisen kans, het joka kuulee huonosti, het joka näkkee huonosti ja het joila oon kehitysrajoituksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange barn, unge og voksne har redusert evne til bevegelse på grunn av ukontrollerte bevegelser eller nedsatt / manglende funksjon i ben, armer eller hender.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Liikkuminen voi olla vaikia koska oon ongelmia liikumiskontrollin kans tai sen takia ette puuttuu täyet funksjuunit jalassa, käessä tai kourassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette kan være både permanent og for kortere tid, for eksempel på grunn av benbrudd eller på grunn av varige, medfødte fysiske forhold, alder eller skader.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ongelmat voivat olla kestäviä tai lyhytaikasia, ja syyt voi olla luumurtuma, syntymäperäset fyysiset olot, tai liittyä ikhään tai tapaturmavammoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslagene i Norge har mange gode tilbud for bevegelseshemmede enten der mennesker med funksjonsnedsettelser er inkludert i ordinær aktivitet eller er i egne grupper med tilpasset aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan sporttilaakeila oon hyviä sporttimaholisuuksia liikkumisrajoitetuile ihmisille, - sekä tavalisissa aktiviteeteissä mutta kans omissa räätälöityissä sporttiryhmissä. Oon kans olemassa paljon aktiviteettiaputavaroita heile joila oon kehitysrajoituksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle kan søke NAV om aktivitetshjelpemidler, uansett alder.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki voi hakea NAV ilta aktiviteettiaputavaroita, ijästä huolimatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de under 26 år er det ingen egenandel.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het jokka oon alle 26 vuotta, ei maksa omarahoitusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de over 26 år det en maks egenandel på kr. 4000,- pr. aktivitetshjelpemiddel.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Yli 26-vuotiaille maksimaalinen omarahoitus oon 4000 kruunua jokaiselle aktiviteettiaputavaralle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også for synshemmede er det mange gode tilbud i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa oon kans hyvät sporttimaholisuuet heile joilla oon vaiva näkemisen kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det samme gjelder her, at det er mulig å være med i ordinær aktivitet eller i egne grupper hvor aktivitet er mer tilpasset.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het kans saattaa olla mukana tavalisissa sporttiryhmissä tai omissa räätälöityissä ryhmissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Synshemmede trenger ofte ledsagere, og både i idrettslagene og på arrangement stiller frivillige ofte opp som ledsagere.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Näkemisvaivaset tarttee tavalisesti tukihenkilön sporttitoiminnassa. Vapaehtoset ihmiset toimii tukihenkilöinä sporttilaakeissa ja arrangementeissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kanskje er dette noe du kunne tenke deg å gjøre som foreldre?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oonko tämä itea sinule vanhempana? Saatatko sie olla tukihenkilö?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Norges Idrettsforbund har kurs som gjør at du kan være med som frivillig ledsager.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan Idrettsforbundillä oon omat kurssit joka kouluttaa vapaehtoisia tukihenkilöiksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kanskje trenger du en treningskompis?</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tai tartetko sie itte treenauskaverin?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Flere kommuner har treningskontakter som en del av sin støttekontakttjeneste.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuulemisvaiva oon laaja sana, ja oon olemassa monitasoisia ja erityyppisiä kuulemisvaivoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette er støttekontakter som er glad i aktivitet og som har vært gjennom et kurs.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuurous oon korkeatasosta kuulemisen menettämistä ja kuurous voi olla syntymäperänen tai myöhemmin tullu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hørselshemning er et vidt begrep og det finnes mange grader og typer hørselshemning.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kuurola ihmisillä voi olla vaikeuksia ymmärtää puhetta tai kontrolloida ommaa puhetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er du tunghørt, er dette en mildere form, hvor du forstår tale og kan kontrollere eget språk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ihmiset joila oon kuulemisvaiva, joka oon lievempi ku kuurous, saattaa ymmärtää puhetta ja kans kontrolloia ommaa puhetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De som er tunghørt får ofte hjelp av høreapparat til å fungere bedre i hverdagen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ihmiset joila oon kuulemisvaiva, saa useasti avun kuulemislaittheesta niin ette arki sujjuu paremin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrett for hørselshemmede ble organisert allerede i 1925.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jo vuonna 1925 pykätthiin omat sportit ihmisille joila oon kuulemisvaiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I dag er det åtte egne idrettslag for hørselshemmede i Norge, men dessverre er det ingen nord for Trondheim.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tääpänä oon jo olemassa kaheksen kuulemisvaivaisten sporttilaakia, mutta suru kyllä ei yhthään Trondheimin pohjaispuolela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ta kontakt med idrettsrådet eller kommunen for å høre hva slags tilbud som finnes for deg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota kuiten kontaktia Sporttiraathiin taikka omhaan komuunhiin niin saat tietää millaisia maholisuuksia oon sinun likheelä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Også for utviklingshemmede finnes det gode tilbud hos idrettslagene i Norge.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjan sporttilaakeissa oon kans hyvät maholisuuet heile joila oon kehitysrajoituksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan være med i ordinær aktivitet eller egne grupper med tilpasset aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie saatat olla mukana tavalisissa sporttiryhmissä tai omissa räätälöityissä ryhmissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er mulig å nå langt i idretten selv om man er utviklingshemmet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja meilä oon hyviä esimerkkejä siitä ette ihminen joila oon kehitysrajoituksia voi päästä pitkäleki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>En jente i Stabæk har hele 41 gull i rytmisk sportsgymnastikk og har blitt den første treneren fra Norge i Special Olympics med Downs syndrom.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Katelyn Garbin oon nuori nainen Stabækistä ja hän oon voittanu 41 kultaa rytmisessä sporttijumpassa ja hän oon kans Norjan ensimäinen treenari Special Olympicsissä jolla oon Downs syndroomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Så man kan bli både utøver og trener med en utviklingshemming.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon siis maholista olla sekä uutöövari että treenari vaikka olisi joku kehitysrajoitus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når man er med i konkurranser er deltakerne klassifisert ut fra hvor sterk funksjonsnedsettelsen er, slik at det skal bli mest mulig rettferdig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sillon ku osalistuu kilpailuihin, niin osalistujat klassifiseerathaan sen mukhaan ette kunka vahva se funksjuuninrajoitus oon, niin ette se kilpailu olisi kaikile yhtä reilu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de som er ambisiøse kan målet være å enten delta i Norgesmesterskap eller representere Norge og bli med i Paralympics, Deaflympics eller Special Olympics World Games med flagget på brystet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Het joila oon isot ambisjuunit, niin moolina saattaa olla Norjan mestaruus taikka olla Norjan representantti Paralympicsissä, Deaf-lympicsissä taikka SpecialOlympics World Gamesissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ren idrett betyr at det skal gi alle muligheten til å delta under like vilkår.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Puhas sportti meinaa ette kaikila oon samat ja reilut maholisuuet olla matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ikke lov å ta kunstige eller ulovlige midler for å bli bedre i en idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ei ole luppaa käyttää epäpuhtaita taikka luvattomia mitteleitä omien tuloksien parantamiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig å holde idretten fri for juks og dårlig påvirkning og at man følger idrettens fair play-regler.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon rohki tähelistä pittää sportin puhas juksaamisesta ja huonoista meiningeistä ja ette kaikki seuraa sportin fair-play-reekeleitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som foresatt bør man vise gode holdninger og være en positiv rollemodell for barna.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vanhempana sinun häätyy näyttää hyviä meininkejä ja olla positiivinen roolimalli lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er du usikker på hva som er greit eller ikke, så ta kontakt med noen i idrettslaget.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos olet epäsikkari mitä oon lupaa tehä ja mitä ei, niin kysy sporttilaakista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ren idrett</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Puhas sportti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tanken bak ren idrett er at alle skal kunne delta under like vilkår.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Puhthaan sportin idee oon, ette kaikki saattais osalistua tasaverttaisin ehtoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>At man ikke skal bruke kunstige eller ulovlige midler for å bli bedre enn konkurrentene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ei ole lupaa käyttää konstitekoisiä eli luvattomia mitteleitä omientuloksien parantamiseksi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Fair play er der for å beskytte idrettens verdier.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Fair play suojelee sportin arvoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det skal bidra til å holde idretten ren for juks og dårlig påvirkning, sikre at miljøet i og rundt aktiviteten er preget av trygghet og respekt, slik at alle i og rundt idrettsmiljøet kan føle at deltakelse i idretten gir dem noe tilbake, enten det er som aktiv, leder eller tilskuer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se turvaa ette aktiviteetit ja toiminat ovat turvalisissa ja kunnioittavissa miljöissä. Jokkaisen kuuluu tuntea, ette sportti antaa heile jottain takaisin, riippumatta oonko aktiivinen, johtaja eli publikummi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er da viktig å være bevisst på egne holdninger og verdier og at de samsvarer med idretten sine.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeä olla tietonen omista mielipitteistä ja mikä oon omat arvot, ja ette nämät passaa yhtheen sportin arvoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vær en rollemodell, front fair play og vær klar på at juks ikke er greit.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole esikuva, eesauta Fair playtäja sano selvästi ei huijamisheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Skulle du som aktiv utøver eller foresatt møte et etisk eller moralsk dilemma, eller du ikke er sikker på hva som er greit eller lov, så ta kontakt med en trener, leder eller noen andre i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sie sportti-elämässä kohtaat eettisheen eli moralisheen ongelmhaan, tahi sie et ole sikkari ette mikä oon lupa tehä eli ei, niin ota kontaktia treenarhiin tahi johtajhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For eksempel er det mange som bruker kosttilskudd, som er konsentrerte kilder av næringsstoffer eller andre stoffer som har en ernæringsmessig eller fysiologisk effekt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monet käyttäävät esimerkiksi ravintolissää, ja se oon ravintoainheen tahi fysiologisesti vaikuttavan ainheen konsentreerattu lähe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er en viss risiko for at enkelte kosttilskudd kan være forurenset, det vil si at produktet inneholder forbudte stoffer fra dopinglista uten at det står oppført på produktet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon olemassa riski, ette tietyt ravintolisät saattaa olla saastaisia, elikkä ette produkti sisältää kiellettyjä ainheita dopinglistalta ilman ette sitä mainithaan produktissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Doping er en form for juks og ofte er det snakk om medikamenter som er tatt for å bedre prestasjonen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Doping oon yksi huijaamisen malli, ja ussein oon kyse lääkeainheesta jota otethaan oman prestasjuunin parantamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle idrettsutøvere i Norge må følge Norges idrettsforbund og olympiske og paralympiske komités bestemmelser om doping.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki Norjan sporttivaimot ja –miehet häätyy följätä Norjan idrettsforbundin ja Olympia- ja Paralympiakomitean doping- reekeleitä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verken idrettslag eller idrettene kan ha egne dopingregler.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ei sporttilaakila, eikä sporttihaaroilla, saa olla omia dopingreekeliiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De må følge reglementet som er satt av internasjonal lov innenfor doping.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Luvattomien aineitten tai metodien käyttö oon tieten luvatonta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er flere ting som anses som et regelbrudd som tilstedeværelse av et forbudt stoff i kroppen din, bruk av forbudt metode (som for eksempel høydehus i Norge), dersom man nekter å avgi prøve, forsøk på å ødelegge prøve, innføre forbudte stoffer til Norge eller om man omgås en trener eller leder som er utelukket fra å være en del av idretten på grunn av en dopingdom.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Korkeapaikanhuonheen käyttö oon esimerkiksi Norjassa kielettyä. Oon kans dopingreekelirikkomus kieltäytyä antamasta dopingpröövin, freistata pilata pröövin, tuo’a kiellettyjä ainheita Norjhaan tai tyhä olla yhessä treenarin kanssa joka oon suljettu ulos sportista dopingtuomion vuoksi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Poenget med idrett er at man skal delta uten noen form for juks.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin tarkoitus oon, ette osalistuu ilman minkälaista juksaamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gutter og jenter skal ha likeverdige muligheter til å drive idrett og det finnes ingen idretter hvor jenter ikke kan delta.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Pojila ja tytöilä oon samat maholisuuet olla sportissa matkassa. Ei ole olemassa sporttia johon tytöt ei voi osalistua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I mange idretter, som løping, svømming og langrenn, så trener gutter og jenter ofte i lag, men de konkurrerer hver for seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monessa sportissa tytöt ja pojat oon samoissa treeninkeissä, mutta kilpailuissa het oon eriksheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I mange lagidretter, som basketball, fotball og volleyball, så er lagene stort sett kjønnsdelte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Monissa laakisporteissa, niin ku basketpallossa, jalkapallossa ja volleypallossa, oon omat tyttölaakit ja poikalaakit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge er det er mål at alle som ønsker det skal kunne drive med idrett og at dette skal være en trygg arena for alle som er med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa moolina oon ette kaikki jokka halluu olla, saa olla sportissa, ja ette sportti oon turvainen areena kaikile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Likeverdig tilbud til gutter og jenter i idretten</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Samanlaiset maholisuuet pojile ja tytöile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I Norge har idretten visjonen «Idrettsglede for alle».</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa sportin visjuuni oon: «Sportti-iloa kaikile».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det betyr at både jenter og gutter skal ha likeverdige muligheter til å drive idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se merkittee ette tytöilä ja pojila pittää olla samanlaiset maholisuuet sporthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er Norges største frivillige organisasjon og over 90 % av alle barn under 12 år er aktive innenfor minst en idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon Norjan isoin vapaehtonen organisasjuuni ja Norjassa 90 prosenttia kaikista alle 12-vuotiaista lapsista oon matkassa jossaki sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig at barn starter med organisert idrett når de begynner på skolen i seksårsalderen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tavalista ette lapset alkavat sportissa samanaikasesti ko alkavat koulhuun, elikkä 6- vuotihaina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen starter før og noen etter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku alkaa ennen ja joku jälkhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De aller fleste idrettstilbudene skjer etter skoletid, det vil si etter klokken 16.00.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Eninosa sporttitarjouksista tapahtuu jälkhiin kouluajan, eli jälkhiin kello 16:00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen steder fins det idrettstilbud i SFO-tiden.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joissaki paikoissa oon SFO-aikana maholisuus sportthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er fint å være i lag med andre som har samme interesse og det fins ingen idretter som ikke passer for jenter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon sinun into ja mitä oon tarjola sielä missä sie asut joka päättää mitä sporttia sie saatat tehä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen idrettslag har allidrett hvor barna får være med i flere idretter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon soma olla yhessä muitten kans joila oon samat intressit ja halut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Varierte og allsidige aktiviteter gir barna et godt utgangspunkt for å mestre kroppen sin og kunne delta i flere idretter senere i livet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja ei ole yhthään sporttia joka ei sopis tytöile kans. Maholisuuksia oon paljon ja se oon hyväette lapset saavat freistata monenlaisia aktiviteettejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig for barna å ha en aktiv og meningsfull fritidsaktivitet, uansett hva de har lyst til å gjøre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja oon hyvä ette nämät aktiviteetit oon erilaisissa miljöissä, esimerkiksi sporttihallissa, mettässä, lumessa, jään päälä eli veessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen vil gjerne drive med lagidrett som for eksempel basketball, fotball eller volleyball.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vanhemat saattavat tietysti yhessä urheila lastensa kans erilaisissa tilanteissa ja paikoissa riippumatta lähialuheen organiseeratusta sportista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Her er lagene stort sett alltid kjønnsdelte. Andre trives bedre med individuelle idretter som løping, langrenn, svømming eller kampsport.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vaihteleva ja monipuolinen aktiviteetti antaa lapsile hyvän lähtökohan hallita oman kropin, ja myöhemin osalistua monenlaishiin sporttilajeihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jentene og guttene trener ofte i lag, men konkurrerer hver for seg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikile lapsile oon tärkeä ette heilä oon aktiivinen ja mielenkintonen vapa-aika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig at gutter og jenter har trening samtidig i svømme- og idrettshaller.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joku haluaa laakisportthiin, esimerkiksi pelata koripalloa, potkupalloa eli lentopalloa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også fint om de foresatte er med på forskjellige aktiviteter i ulike miljø i lag med barna sine utenfor den organiserte idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Näissä aktiviteeteissä laakit oon usseimiten jaettu poikien ja tyttöjen laakeihin. Joku taas triivastuvat individuaalisissa sporttilajeissa niin ko laukkomisessa, hihtamisessa, uimisessa eli tappelusportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrett er ett av mange tilbud, for det fins også korps, kor, teater og andre aktiviteter for barn.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti oon tyhä yksi monesta vapa-ajan aktiiviteteistä jota saattaa tehä. Oon kans olemassa korpsii, kuoroja ja teatteriryhmiä lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen ganger må kanskje du som foresatt hjelpe barnet ditt å finne en passende aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joskus sie häyvyt vanhempana auttaa lapsesi löytähmään sopivan aijjankulun eli aktiviteetin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For barn er en meningsfull fritid viktig, men også senere i livet trenger vi fysisk, motorisk, sosialt og mental stimulering.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mielenkiintonen vapa-aika oon tärkeä lapsile. Mutta met tarvima kans jälkikäsin elämässä fyysistä, liikkuvaa, sosiaalista ja mentalista stimulointia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten får du venner, lærer og mestrer nye ferdigheter og blir kjent med deg selv.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin kautta saapi kavereita, oppii uusia juttuja ja ennenkaikkia oppii tuntemhaan ittensä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For de som er ny i Norge er idretten også en fin arena til å øve og lære snakke norsk.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ja niile jokka oon tulheet tänne Norjhaan muualta, sportti oon hyvä maholisuus oppia norjan kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du blir kjent med andre voksne, noe som er fint både for deg og for barnet ditt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttielämän raavaspersuunana opit tuntehmaan muita raavaspersuuneja ja se oon hyvä sinule ittele ja sinun lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Noen ganger reiser laget på arrangementer som krever overnatting og dette er helt vanlig og ufarlig.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ko lapset vähän vanhenevat niin laaki eli klubi joskus reissaa kilpailuihin tai arrangementeihin, ja silloin saattaa olla pakko yöpyä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er imidlertid ikke vanlig for de minste barna.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä oon tavalista eikä se ole vaaralista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>På slike turer er voksne med og de har ansvaret for hele gruppen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Matkassa oon myötä joku laakin johtaaja joka oon vastuussa lapsista ja kokojoukosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er som regel andre foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon kans myötä muita raavaspersuuneja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan gjerne melde deg til å være med som reiseleder på en slik tur.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ilmota miellelhään jos sie haluat olla matkassa ja sinula oon siihen maholisuus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er ofte fint og viktig med god voksentetthet på slike turer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon tärkeä ette oon monta raavasta matkassa näilä reisuila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Å reise bort i lag er en positiv og viktig aktivitet som de unge ofte husker hele livet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Reissaaminen oon positiivinen ja tärkeä kokemus ja ussein lapset muistavat nämät reisut koko elämän aian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De blir kjent med hverandre på en annen måte og de får også nye venner.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Net oppivat tuntemhaan laakikaverit uuela tavala ja saavat uusia kavereita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også mye sosial læring på en slik tur, som å omgås andre over lang tid og passe på tingene sine.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämmösellä reissula oppii kans paljon sosiaalisia asioita, esimerkiks olemhaan muitten kans pitempiä aikoja ja pitämhään huolta omista kampheista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er en fin måte å øve på selvstendighet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Yöpyminen saattaa vaikka tapahtua kouluissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Overnattingen kan skje på klasserom på skoler eller andre steder og det er alltid voksne i lag med barna på rommene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Aina oon joku raavas yöpymässä lasten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barna har med sovepose, liggeunderlag og eget utstyr.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Lapsila oon oma nukkuma-alusta, nukkumapussi ja omat kampheet matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Forskning viser blant annet at jenter med innvandrerbakgrunn er underrepresentert i idretten og det er ulike grunner til dette.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tutkinnot osoittavat ette tytöt, joila oon maahansiirtymistausta, ovat vähemän myötä sportissa. Siihen oon sikkaristi monta syytä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>For idretten i Norge er det et mål at alle som ønsker det skal ha en mulighet til å drive med idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mutta mooli oon kuitenki ette kaikki joka haluaa olla matkassa sporttielämässä saa siihen maholisuuen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten skal være en trygg arena for alle medlemmer.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttiarena pittää olla turvalinen kaikile jäsenille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er trenere/ledere av begge kjønn, selv om det er en overvekt av menn i mange aktiviteter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttimaailmassa oon mies- että vaimojohtaajija ja -treenareita, vaikka eninosa vielä oon miehiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten ønsker flere kvinner både som trenere og ledere og det jobbes det aktivt med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon toivet ette tulisi enempi vaimotreenareita ja -johtaajia, ja met tehemä alatti aktiivisesti työtä tätä varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle jenter som vil, skal få drive med idrett, både barn, ungdom og voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki tytöt ja kaikenikäiset tytöt saavat olla myötä sportissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jenter i puberteten kan være i aktivitet selv om de har fått menstruasjon og for noen hjelper aktivitet også mot menstruasjonsplager.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tytöt jokka ovat puperteetissä saattavat olla matkassa vaikka heilä oon kuukautiset. Moni aktiviteetti oon itte asiassa hyvä apu kuukautisvaivoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Jentene kan bruke tampong eller bind, men hvis man skal bade, fungerer det best å bruke tampong.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti aktiviteetinaikana saattaa käyttää tampongia eli sitteitä, mutta jos aikkoo uijja niin tampongi toimii paremmin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om man har spørsmål om dette kan man gjerne spørre en kvinnelig trener, helsesykepleier eller noen andre man har tillit til.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos näistä asioista oon kysymyksiä niin saattaa kysyä naispuolisen treenarilta eli sairhaanhoitajalta eli muilta luotettavilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det fins også informasjon om dette på nettet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin kautta sie saatat kehittyä ihmisenä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten skal du kunne utvikle deg som menneske, med tydelige og omsorgsfulle voksne som leder aktiviteten og idrettslagene.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Myötä sporttilaakeissa oon selvät ja huolehtivat treenarit ja johtaajat. Nämät raavhaat oon useasti vanhemat jokka tekevät näitä hommia talkootyönä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>De voksne er som regel foresatte som gjør dette på dugnad for å skape best mulig aktivitets- og oppvekstsvilkår for barna i nærområdet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon aina persuunatarvet tähän työhön, ja siks oon hyvä jos sie kysyt ette saatatko auttaa jossaki paikassa eli tehtävissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er alltid bruk for flere voksne til slike jobber, så det er fint om du spør om du kan hjelpe til med noe.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon kans tärkeä ette sie raavhaana olet joskus matkassa lapsitten kans sportti-tapahtumissa tai treeningeissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at du som foresatt blir med barnet ditt på trening av og til, for da får du kontakt med trenerne og ikke minst er det viktig for barnet ditt at du er med.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie opastut treenarhiin ja samala se oon tärkeä sinun lapselle ette sie olet matkassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten tilbyr også kurs om du har lyst å lære mer om temaer innenfor idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa on kans tarjola kursseja jos haluat oppia enämpi näistä teemoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Alle som utfører oppgaver i norsk idrett, som innebærer et ansvars- eller tillitsforhold overfor mindreårige, eller personer med utviklingshemming, skal fremvise politiattest (barneomsorgsattest).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kaikki jokka oon matkassa norjalaisessa sporttihommassa, joka vaatii työtely ja luottaminen alaikästen lasten eli vammaisten kans, häätyvät näyttää siihen tarkotetun poliisiatestin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten har ulike leveregler som er retningsgivende på hvilke foresatte man ønsker å ha i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportissa oon omat elämisreekelit jokka antava ohjeita sporttilasten vanhemmiille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Man ønsker at foresatte skal være en flott støttespiller og forbilde for barna, men det også viktig å være bevisst på din rolle i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Met toivoma ette vanhemmat oon lapsile esikuvana ja tukena. Siksi oon tähellistä olla tietonen omasta roolista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ditt engasjement og involvering vil ha en stor påvirkning på barna og miljøet rundt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sinun engasjementti ja matkassaoleminen merkkaa paljon sinun lapsele ja koko sporttimiljöölle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Leveregler for foresatte i idretten</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttivanhemmiitten elämisreekelit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Verdsett at klubben din gir ditt og andres barn aktivitetstilbud i nærmiljøet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Raavaspersuunana sporttielämässä sie olet tärkeässä roolissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vær en positiv bidragsyter både for barnet ditt, klubben og idretten generelt – klubben er også deg.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sinun häätyy olla sinun lapsele tukena mutta kans olla positiivinen auttaaja kaikile lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>La barn få være barn, og ta voksenpraten med de voksne.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hyvät raavaspersuunat oon esikuvia ja näin kans tietosia omasta roolista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sett deg inn i hvilke regler, føringer og bestemmelser som gjelder for idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän 19 sporttireekelien meininki oon auttaa sporttielämän raavaspersuunia olemhaan juuri niin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vi har alle ansvar for å skape miljøet vi vil være en del av.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttielämän olemisreekelit kaikile raavaspersuunille:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>La treneren få være trener – ha en konstruktiv dialog med trener og klubb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna arvoa sille ette sinun klubi pykkää aktiviteettejä lähialuheela sinun ja muitten lapsile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vær et godt forbilde som voksenperson i idretten, gjennom dine holdninger og din adferd.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportti-ilo oon ilo liikkua, ja se oon tärkkein mitä saatama kehittäät ja tehä yhessä meän lasten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hjelp barnet ditt å skape positive holdninger til seg selv og sine lagkamerater.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Osalistu positiivisesti sinun lapsele, klubile ja ylheensä sportile – sie kans olet osa klubia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Vær opptatt av mestring og læring, og ikke bare resultat.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna lasten olla lapsia, - ota raavhaitten puhumiset tyhä raavhaitten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom klubben kan du få opplæring og kurstilbud innen ulike sider av idretten, kontakt klubben.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota selvä mikkä reekelit ja määräykset koskevat teän sportissa. Nämät saattaa olla erilaiset sportista sportthiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bidra til at alle som gjør en jobb for klubben får en trivelig, og enkel jobb.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole myötä vanhemmiitten mööteissä, talkoohommissa ja muissa klubia koskevissa hommissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tenk gjenbruk og miljø når det gjelder idrettsutstyr.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kehu ja ole tukena kaikile, vastakäynneissä ja myötäkäynneissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bidra til at prisnivået på utstyr og aktivitet er tilpasset alder, og barnets behov.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meilä oon kaikila eesvastus pykätä hyvvää miljöötä jossa olema myötä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Engasjementet for barnet ditt i idretten kan også gjøre en stor forskjell for deg som foresatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Anna treenarin olla treenari – puhu konstruktiivisesti treenarin ja muun klubin kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være ting som å sørge for at barna har utstyr, kjøre de til kamper og passe på de møter i tide på trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>FairPlay-pelin kautta kasuaa tieto ja taito kunka met saatama olla sovussa erilaisissa rooleissa, - sporttiareenalla ja kans areenan ulkopuolela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Eller at man stiller opp som trener, medlem av styret eller står i kiosk under arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole sporttielämän raavaspersuunana hyvä roolimalli, aina sinun mielipitteitten ja käyttäytymisen kautta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det følger med mange positive ting ved å være en foresatt i idretten.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Auta lapset kasuttamhaan positiivisia ajatuksia itteään kohti ja kaikkia laakikavereita kohti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Barne- og ungdomsidretten i Norge er klubbstyrt og foreldredrevet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole kiinostunu onnistumisen tuntemisesta ja oppimisesta, eikä tyhä tuloksista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idrettslaget er en demokratisk organisasjon og drives i stor grad av foreldre.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Klubin kautta voit saa’a opetusta ja osallistua kursseihin sportin erilaisistapuolista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Motivasjonen deres er å skape gode oppvekstvillkår for barn og unge i eget nærområde og som frivillig i idretten jobber du uten betaling.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ota yhteyttä klubhiin. Tehe parhaasi ette kaikki triivastuvat jokka tekevät töitä klubile, ja tehe parhaasi ette klubityö olisi muile helppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det finnes mange ulike oppgaver som blant annet trener, medlem av styret, kasserer som passer økonomien, stå i kafé når det er arrangement, kjøre skiløyper og bake kake.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Piä silmät auki muile, ja auta jos voit toisia perheitä ja lapsia kyytityksessä taikka esimerkiksi tavaroitten kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Disse oppgavene, både små og store, kalles dugnad.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Mieti uuestikäyttämistä ja luontoa ku hankit sporttitavaroita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange barn har idrett som fritidsinteresse, mens andre finner glede i andre aktiviteter som korps, teater og kor.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Freistaa hunteerata ette stemmaako hintataso ja aktiviteetti, lasten ijän ja tarpheitten mukhaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Som foresatt er det naturlig å følge opp barnets interesser på best mulig måte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tähellistä, ja lasten interessien mukhaan, ette vanhemmat oon lasten tukena sporttilaakeissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at barnet møter til rett og avtalt tid.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämän voi tehä monela tavala, kans kotona ja sporttilaakissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også viktig å gi beskjed til treneren om at barnet ditt uteblir eller er forsinket til trening.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Esimerkkejä oon kans ette vanhemmat oon matkassa treenareina tai styyrijäsenenä tai vaikka myymässä kioskitavaraa arrangementeissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ta gjerne turen på trening, se ditt barn ha det gøy og treff andre foresatte. Det kan være viktig for barnet ditt at du kommer og ser på når han/hun trener.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Matkassa oleminen auttaa sinun nähä ja olla osaa sinun lasten sporttielämyksiä, nähä lasten sporttikehitystä ja kans tutustua muihin vanhemphiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det samme gjelder turneringer/arrangement klubben/laget deltar på.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Vanhempana oleminen sportissa tuopi mukana paljon positiivista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Når du kommer og ser på treningen til barnet ditt, er det for at du skal se om barnet ditt trives, og om det er noe barnet ditt trenger din støtte til.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Norjassa sportti oon organiseerattu laakeissa ja laakit oon Norjan idrettsforbundin alla ja kans olympisen ja paralympisen komitean alla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det aller viktigste som foresatt er å kunne dele barnets opplevelser og delta aktivt i dets utvikling.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sporttilaaki oon demokraattinen organisasjuuni jonka driivaa vanhemmat ja muut raavaspersuunat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I et barns liv er det mange viktige begivenheter og opplevelser, og mange av dem kommer på fritidsarenaen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Hyvin monele motivasjuuni olla matkassa oon heän oma halu pykätä lähialuheen lapsile ja nuorile hyvät maholisuuet ylöskasuamisheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten er en fin arena for å bli kjent med andre foresatte, og det gjør det mulig for deg å snakke med treneren.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sie olet ilman palkkaa treenari, istut styrissä, olet kaffilavahtina, ajat hihtamislatuja tai leivot kakkuja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>I idretten skapes vennskap og fellesskap på tvers av kjønn, alder og bosted.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon luonnolista ette sie raavaspersuunana seuraat sinun lapsen intressiä ja intoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dette gjelder også de foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ole myötä vanhemmiitten mööteissä, treeneissä, dugnaadeissa ja kohattelee sielä muita raavaspersuuneja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Er du ny i Norge kan idretten være en læringsarena for foresatte hvor du lærer språk og utvider nettverket.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kato pörhään ette lapsela oon kaikki sporttitavarat mitä hän tarvittee ja kysy treenarilta jos olet epäsikkari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten har vist seg å ha andre positive effekter, blant annet er det eksempler på at noen har klart å få seg jobb gjennom å være en del av dette nettverket.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Oon tärkiä ette lapsi oon paikala oikeassa ja sovitussa ajassa. Ja se oon tärkiä mellata treenarile jos sinun lapsi oon poissa tai myöhässä treeninkeihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er viktig at klubben får kontaktinformasjon om både barnet og deg som foresatt.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon siis hyvin tähelistä ette klubi saa sinun lapsen ja sinun kontakti-informasjuunin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Navn, adresse, fødselsdato, mobilnummer og e-post.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Klubi tarttee nimen, adressin, syntymä-ajan, mobiilinumeron ja epostin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er for å sikre at både du som foresatt og barnet ditt får den informasjonen dere trenger.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Näin klubi pääsee lähättää sinule ja lapsele kaiken tarvittavan informasjuunin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det kan være treninger som blir avlyst, kamper som blir flyttet, møteaktivitet eller turer som planlegges.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Joskus harjoituksia siirrethään, joskus kutuma möötteihin taikkapas retkeihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er også viktig å ha disse opplysningene når barnet blir medlem i idrettslaget, spesielt med tanke på forsikring.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Klubi tarttee kans kontakti-informasjuunia ku lapsi mellathaan jäseneksi ja ku klubi tekkee jäsenille försikrinki-sopimuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Transport i forbindelse med aktiviteter</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin sosiaalinen aspekti oon kans rohki tähelinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis du ønsker å være med, og det er plass, er det veldig hyggelig om du blir med på turen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Sportin kautta lapset saavat ystäviä huolimatta sukupuolesta, ijästä taikka asuinpaikasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange lag/treningsgrupper organiserer felles transport for barna på aktiviteter utenfor nærområdet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se voi kans olla sosiaalisesti hyvin merkittävä sinun lapsele ette sie olet mukana heijaamassa treeninkeissä ja turneerinkeissä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Om du lurer på dette eller andre ting, kan du alltid spørre treneren eller noen av de andre foresatte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Ku sie tulet kattomhaan ku sinun lapsi treenaa, niin se oon sinun tehtävä kattoa pörhään ette lapsi triivastuu ja ette tartteeko lapsi jotain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Idretten trenger deg Idrettslaget drives av foreldre og andre engasjerte på frivillig basis.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Treeninkit oon kans hyvä tilaisuus sinule tulla tutuksi treenarin tai muitten vanhemmiiten kans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det er vanlig at foreldrene må stille opp som frivillig for at ungene skal få gode muligheter for trening/aktivitet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meän mielestä se oon tärkein asia koko maailmassa ette vanhemmat oon myötä lapsen vapa-ajassa ja oon jakkaamassa vapa-ajan ilot lapsen kanssa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hvis du ikke kan delta, er det viktig å gi beskjed om dette og gjerne tilby hjelp en annen gang.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Se oon niin ette suuri osa lapsen elämän isoista tapahtumista ja kokemuksista tapahtuu vapa-aikana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Gjennom felles dugnad sikrer man at flest mulig barn og unge kan delta i organisert idrett.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Jos sie olet vasta siirtyny Norjhaan, niin sporttiaktiviteetit oon rohki hyvä paikka oppia kieltä ja tutustua muihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Mange klubber har egne treningsanlegg og klubblokaler som det koster penger å holde ved like og drifte.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Meilä oon hyviä esimerkkejä siitä kunka ihmiset oon saanheet työn sporttilaakin raavaspersuunaverkon kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dugnadsinnsats er også med på å redusere egenandelene familiene må betale for barna.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tekemällä dugnaadia vanhemat ei tarte maksaa sporttilaakeile niin paljon ommaa rahaa.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
