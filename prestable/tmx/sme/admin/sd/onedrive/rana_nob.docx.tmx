@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">rana_nob.docx</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Visste du at Rana kommune har 136 personer registrert i samemanntallet*? Da kan det være greit å vite at litteratur på samisk eller om samiske forhold er tilgjengelig.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hei Dihtetgo ahte Rana gielddas leat 136 olbmoregistrerejuvvonsámi jienastuslohkui* Dalle sáhttá vuogas diehtit ahte gávdno girjjálašvuohtasámegillidahje girjjálašvuohtasámidilálašvuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spør bibliotekets personale om vi har eller kan skaffe.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jeara girjerádjosa bargiin leago mis, dahje sáhttit go skáhppot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>*Kilde: Sametingets valgmanntall 2021</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>*Gáldu: Sámedikki válgajienastuslohku</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
