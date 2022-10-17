@@ -1,7 +1,7 @@
-<document xml:lang="nob" id="no_id"><header><title>Tallord</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2836</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/logut.nob.html</origFileName><parallel_text xml:lang="eng" location="logut.eng.html"/><parallel_text xml:lang="sme" location="logut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="est">Tallord</p>
+<document xml:lang="nob" id="no_id"><header><title>Tallord</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>2836</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/logut.nob.html</origFileName><parallel_text xml:lang="eng" location="logut.eng.html"/><parallel_text xml:lang="sme" location="logut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="est">Tallord</p>
 <list><p type="listitem">Ulike stammer</p>
 <p type="listitem" xml:lang="est">Stadieveksling</p>
-<p type="listitem" xml:lang="est">Kasus</p>
+<p type="listitem" xml:lang="olo">Kasus</p>
 <p type="listitem" xml:lang="swe">Enkle grunntall</p>
 <p type="listitem">Sammensatte grunntall</p>
 <p type="listitem" xml:lang="nno">Ordenstall er adjektiver</p>
@@ -36,7 +36,7 @@
 <p type="listitem" xml:lang="smj">guo <em type="italic">kt </em>e - guo <em type="italic">vtt </em>i </p>
 <p type="listitem" xml:lang="sme">guo <em type="italic">kt </em>á - guo <em type="italic">vtt </em>is </p>
 </list><p xml:lang="nno">Her kan du lese mer om stadieveksling</p>
-<p type="title" xml:lang="est">Kasus</p>
+<p type="title" xml:lang="olo">Kasus</p>
 <p>er bøyningsformer som markerer hvilken funksjon substantiv, adjektiv, tallord og pronomen har i setninga (disse 4 ordklassene kalles med et samlebegrep for <em type="italic">nomen </em>). I nordsamisk er det sju kasus. Grunntall følger vanlig kasusbøyning for substantiv, men grunntall skiller seg fra andre nomen ved at objektsforma i entall (akkusativ) er identisk med nominativ, mens den for andre nomen er lik genitiv. I flertall er objektsforma identisk med genitiv, som i vanlig nomenbøyning. </p>
 <p type="title" xml:lang="swe">Enkle grunntall</p>
 <p><em type="italic">Nominativ </em>er grunnformen av tallordet. <em type="italic">'Golbma' bohte ruoktot. 'Čieža' lea stuorát go 'guhtta' </em>. Likestavelsestallord har sterkt stadium i nominativ entall, og svakt stadium i nominativ flertall. Tallordene 'čuođi', 'logi', 'čieža', 'gávcci' og 'ovcci' har svakt stadium i nominativ entall, selv om de ellers følger bøyningsmønsteret til likestavelsestallord. Tallordene 'vihtta' og 'guhtta' har veksling mellom 'htt' i sterkt stadium og 'đ' i svakt stadium. Grunntallet 'duhát' har ulikestavelsesstamme, og har ikke stadieveksling. </p>
@@ -145,7 +145,7 @@
 <p xml:lang="smn"><em type="italic">nollii, nullii </em></p>
 <p xml:lang="fkv"><em type="italic">nollas, nullas </em></p>
 <p xml:lang="fin"><em type="italic">nollain, nullain </em></p>
-<p xml:lang="fin"><em type="italic">nollan, nullan </em></p>
+<p xml:lang="olo"><em type="italic">nollan, nullan </em></p>
 <p xml:lang="est"><em type="italic">miljon </em></p>
 <p xml:lang="sme"><em type="italic">miljovnna </em></p>
 <p xml:lang="sme"><em type="italic">miljovnna </em></p>

@@ -1,15 +1,15 @@
-<document xml:lang="nob" id="no_id"><header><title>Substantiver</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2014</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/substantiv.nob.html</origFileName><parallel_text xml:lang="eng" location="substantiv.eng.html"/><parallel_text xml:lang="sme" location="substantiv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="nno">Substantiver</p>
+<document xml:lang="nob" id="no_id"><header><title>Substantiver</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>2014</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/substantiv.nob.html</origFileName><parallel_text xml:lang="eng" location="substantiv.eng.html"/><parallel_text xml:lang="sme" location="substantiv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="nno">Substantiver</p>
 <list><p type="listitem">Ulike stammer</p>
 <p type="listitem" xml:lang="dan">Diftongforenkling</p>
 <p type="listitem" xml:lang="est">Stadieveksling</p>
 <p type="listitem">Andre konsonantvekslinger</p>
-<p type="listitem" xml:lang="est">Kasus</p>
+<p type="listitem" xml:lang="olo">Kasus</p>
 <p type="listitem" xml:lang="vep">Nominativ</p>
 <p type="listitem" xml:lang="kal">Akkusativ</p>
 <p type="listitem" xml:lang="vep">Genitiv</p>
 <p type="listitem" xml:lang="smj">Illativ</p>
 <p type="listitem" xml:lang="fin">Lokativ</p>
-<p type="listitem" xml:lang="est">Komitativ</p>
+<p type="listitem" xml:lang="vep">Komitativ</p>
 <p type="listitem" xml:lang="ita">Essiv</p>
 </list><p>Tilbake til grammatikk hovedside .</p>
 <p><em type="italic">Substantiver </em>er navneord - det kan være folk, dyr, ting, prosesser eller abstrakte forhold, f.eks.: <em type="italic">nieida </em>(jente), <em type="italic">Káre, beavdi </em>(bord), <em type="italic">ráhkisvuohta </em>(kjærlighet), <em type="italic">dávda </em>(sykdom), <em type="italic">Norga </em>. </p>
@@ -77,7 +77,7 @@
 <p type="listitem"><em type="italic">_ &gt; m </em>, f.eks. <em type="italic">ađa - ađđama, gietkka - gietkama </em></p>
 </list><p xml:lang="nno">Kontrakte substantiv som slutter på -i, får en veksling i&gt;j mellom nominativ entall og essiv i skriftspråket.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, f.eks. <em type="italic">olmmái - olmmájin, almmái - almmájin </em></p>
-</list><p type="title" xml:lang="est">Kasus</p>
+</list><p type="title" xml:lang="olo">Kasus</p>
 <p>er bøyningsformer som markerer hvilken funksjon <em type="italic">nomen </em>har i setningen. Nomen er enten substantiv, adjektiv, tallord eller pronomen. I nordsamisk er det sju kasus. </p>
 <p type="title" xml:lang="vep">Nominativ</p>
 <p>er kasus som angir grunnformen (presentasjonsformen) av nomen, det er kasus for subjekt og for predikativ. Nominativ flertall har endingen '-t'.</p>
@@ -160,7 +160,7 @@
 <p xml:lang="est"><em type="italic">nieida </em></p>
 <p xml:lang="sme"><em type="italic">niidii </em></p>
 <p xml:lang="sme"><em type="italic">nieiddaide </em></p>
-<p xml:lang="mdf"/>
+<p xml:lang="koi"/>
 <p xml:lang="rmf"><em type="italic">reŋko </em></p>
 <p xml:lang="ron"><em type="italic">reŋkui </em></p>
 <p xml:lang="sme"><em type="italic">reŋkkuide </em></p>
@@ -192,7 +192,7 @@
 <p xml:lang="sme"><em type="italic">boazu </em></p>
 <p xml:lang="sme"><em type="italic">bohccos </em></p>
 <p xml:lang="sme"><em type="italic">bohccuin </em></p>
-<p type="title" xml:lang="est">Komitativ</p>
+<p type="title" xml:lang="vep">Komitativ</p>
 <p>er kasus som ofte gir betydningen <span type="quote" xml:lang="dan">"med"</span>: <em type="italic">Mun čuohpan láibbi 'niibbiin' </em>. <em type="italic">Mun hupmen 'vieljain' ikte. </em>Det fins også komitativ-verb som krever at substantivet er i komitativ. </p>
 <p>Endingen er -in. Likestavelsessubstantiv får svakt stadium, og ord som slutter på -i får diftongforenkling <em type="italic">gusain (gussa), gođiin (goahti) </em>, ulikestavelsessubstantiv får sterkt stadium, <em type="italic">nissoniin (nisu) </em>, og kontrakte substantiv får sterkt eller ekstra sterkt stadium og diftongforenkling: <em type="italic">bohccuin (boazu), sulluin (suolu) </em>. </p>
 <p xml:lang="nno">Flertall har endinga '-iguin'. Likestavelsessubstantiv som ender på -i og kontrakte substantiv har diftongforenkling: <em type="italic">niibbiiguin etniiguin nissoniiguin bohccuiguin </em>. </p>
