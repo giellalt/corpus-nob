@@ -1,4 +1,4 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>1111</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>LÆREPLAN I FORDYPNING I SAMISK</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>1120</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>LÆREPLAN I FORDYPNING I SAMISK</p>
 <p><em type="italic">Formål med faget </em></p>
 <p>Fordypning i samisk bygger på det samme faglige grunnlaget og det samme verdigrunnlaget som samiskfaget. Opplæringen skal legge til rette for faglig fordypning og bidra til identitetsutvikling, videreutvikling av språklig og kulturell kompetanse i samisk og motivere til kommunikasjon og samarbeid på tvers av språkgrenser innenfor Sápmi. Dette innebærer mestring av språk på ulike arenaer, innsikt i eget språk og forståelse for at språk blir brukt forskjellig i ulike sammenhenger. Gjennom forståelse for hvordan endringer i samfunnet påvirker samisk, skal fordypningsfaget stimulere til engasjement for språk og språkrøkt og bidra til større motivasjon og selvtillit til aktiv språkbruk.</p>
 <p>En bred språklig og kulturell kompetanse kan bidra til å gjøre elevene bedre i stand til å møte andre innenfor og utenfor egen kultur med åpenhet, toleranse og respekt. Å kunne forstå andres budskap og å kunne formidle egne meninger er en vesentlig del av den enkeltes språkkompetanse. I det moderne samfunnet er det nødvendig å kunne forholde seg til ulike medier og sammensatte tekster av ulike elementer som skrift, lyd og bilde og samtidig se sammenhenger mellom språk og tradisjonskunnskap. Fordypning i samisk skal være en arena for muntlig og skriftlig kommunikasjon gjennom bruk av ulike medier.</p>
@@ -6,7 +6,11 @@
 <p xml:lang="nno"><em type="italic">Hovedområder i faget </em></p>
 <p>Faget er strukturert i hovedområder som det er formulert kompetansemål innenfor. Hovedområdene utfyller hverandre og må ses i sammenheng.</p>
 <p><em type="italic">Oversikt over hovedområder: </em></p>
-<p><em type="italic">ÅrstrinnHovedområder </em>8.-10.Utforsking av språket i brukSpråk og kommunikasjon </p>
+<p xml:lang="isl"><em type="italic">Årstrinn </em></p>
+<p><em type="italic">Hovedområder </em></p>
+<p xml:lang="koi">8.-10.</p>
+<p>Utforsking av språket i bruk</p>
+<p>Språk og kommunikasjon</p>
 <p><em type="italic">Utforsking av språket i bruk </em></p>
 <p>Hovedområdet <em type="italic">utforsking av språket i bruk </em>dreier seg om forholdet mellom språket som system og språket i bruk. I hovedområdet inngår utforsking av samisk språk der sentrale elementer er egen språkbruk, nåtidsspråk og hvordan språkbruk er situasjons- og kontekstavhengig. Det dreier seg også om komparative blikk på språk, hvordan samisk endrer seg over tid og hvordan medier påvirker samisk. Oversetting og tolking mellom samisk og andre språk inngår i hovedområdet. </p>
 <p><em type="italic">Språk og kommunikasjon </em></p>
@@ -26,31 +30,40 @@
 <p><em type="italic">Etter 10. årstrinn </em></p>
 <p><em type="italic">Utforsking av språket i bruk </em></p>
 <p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
-<p>planlegge, gjennomføre og presentere en undersøkelse av hvordan barn og unge bruker samisk og hvordan språket brukes ulikt av ulike aldersgrupper</p>
-<p>utforske hvordan teknologi og endringer i samfunnet påvirker samisk og bruken av språket og drøfte tradisjonskunnskapens betydning i dagens samfunn</p>
-<p>presentere ordspråk og billedlige uttrykk på samisk og sammenlikne med andre språk, og samtale om hvordan slike uttrykk kan representere ulike tenkemåter</p>
-<p>sammenlikne ord og grammatiske former i skriftlig samisk med talemålet og presentere resultatet av sammenlikningen</p>
-<p>eksperimentere med tolking og oversettelse mellom samisk og andre språk og samtale om hvordan mening endres i forhold til ordvalg og kontekst</p>
-<p>eksperimentere med ulike muntlige og skriftlige uttrykksformer i ulike sjangere</p>
-<p>presentere et utvalg av ord og uttrykk som er like og forskjellige i de samiske språkene</p>
-<p>dokumentere og vurdere egen utvikling i arbeid med utforsking av språket i bruk</p>
-<p><em type="italic">Språk og kommunikasjon </em></p>
+<list><p type="listitem">planlegge, gjennomføre og presentere en undersøkelse av hvordan barn og unge bruker samisk og hvordan språket brukes ulikt av ulike aldersgrupper</p>
+<p type="listitem">utforske hvordan teknologi og endringer i samfunnet påvirker samisk og bruken av språket og drøfte tradisjonskunnskapens betydning i dagens samfunn</p>
+<p type="listitem">presentere ordspråk og billedlige uttrykk på samisk og sammenlikne med andre språk, og samtale om hvordan slike uttrykk kan representere ulike tenkemåter</p>
+<p type="listitem">sammenlikne ord og grammatiske former i skriftlig samisk med talemålet og presentere resultatet av sammenlikningen</p>
+<p type="listitem">eksperimentere med tolking og oversettelse mellom samisk og andre språk og samtale om hvordan mening endres i forhold til ordvalg og kontekst</p>
+<p type="listitem">eksperimentere med ulike muntlige og skriftlige uttrykksformer i ulike sjangere</p>
+<p type="listitem">presentere et utvalg av ord og uttrykk som er like og forskjellige i de samiske språkene</p>
+<p type="listitem">dokumentere og vurdere egen utvikling i arbeid med utforsking av språket i bruk</p>
+</list><p><em type="italic">Språk og kommunikasjon </em></p>
 <p><em type="italic">Mål for opplæringen er at eleven skal kunne </em></p>
-<p>lese og presentere et utvalg selvvalgte tekster</p>
-<p>formidle egne opplevelser av film, teater og musikk og vurdere bruk av virkemidler</p>
-<p>formidle og kommentere medieoppslag fra selvvalgte medier og lage egne oppslag for ulike medier</p>
-<p>framføre et program sammensatt av ulike uttrykksformer basert på egne eller andres tekster</p>
-<p>utvikle og presentere sammensatte tekster med utgangspunkt i forfatterskap ved hjelp av digitale verktøy</p>
-<p>sammenlikne og vurdere nettsteder på samisk med hensyn til flerspråklighet, bruksmåter, informasjonsverdi og design</p>
-<p>vurdere bruk av kilder med hensyn til innhold, opphavsrett og personvern</p>
-<p>dokumentere og vurdere egen utvikling i arbeid med tekster</p>
-<p><em type="italic">Vurdering i faget </em></p>
+<list><p type="listitem">lese og presentere et utvalg selvvalgte tekster</p>
+<p type="listitem">formidle egne opplevelser av film, teater og musikk og vurdere bruk av virkemidler</p>
+<p type="listitem">formidle og kommentere medieoppslag fra selvvalgte medier og lage egne oppslag for ulike medier</p>
+<p type="listitem">framføre et program sammensatt av ulike uttrykksformer basert på egne eller andres tekster</p>
+<p type="listitem">utvikle og presentere sammensatte tekster med utgangspunkt i forfatterskap ved hjelp av digitale verktøy</p>
+<p type="listitem">sammenlikne og vurdere nettsteder på samisk med hensyn til flerspråklighet, bruksmåter, informasjonsverdi og design</p>
+<p type="listitem">vurdere bruk av kilder med hensyn til innhold, opphavsrett og personvern</p>
+<p type="listitem">dokumentere og vurdere egen utvikling i arbeid med tekster</p>
+</list><p><em type="italic">Vurdering i faget </em></p>
 <p xml:lang="dan">Bestemmelser for sluttvurdering:</p>
 <p><em type="italic">Standpunktvurdering </em></p>
-<p><em type="italic">ÅrstrinnOrdning </em>10. årstrinnElevene skal ha én standpunktkarakter. </p>
+<p xml:lang="isl"><em type="italic">Årstrinn </em></p>
+<p xml:lang="dan"><em type="italic">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Elevene skal ha én standpunktkarakter.</p>
 <p><em type="italic">Eksamen for elever </em></p>
-<p><em type="italic">ÅrstrinnOrdning </em>10. årstrinnElevene kan trekkes ut til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. </p>
+<p xml:lang="isl"><em type="italic">Årstrinn </em></p>
+<p xml:lang="dan"><em type="italic">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Elevene kan trekkes ut til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt.</p>
 <p xml:lang="dan"><em type="italic">Eksamen for privatister </em></p>
-<p><em type="italic">ÅrstrinnOrdning </em>10. årstrinnSe gjeldende ordning for grunnopplæringen for voksne. </p>
+<p xml:lang="isl"><em type="italic">Årstrinn </em></p>
+<p xml:lang="dan"><em type="italic">Ordning </em></p>
+<p>10. årstrinn</p>
+<p>Se gjeldende ordning for grunnopplæringen for voksne.</p>
 <p>De generelle bestemmelsene om vurdering er fastsatt i forskrift til opplæringsloven.</p>
 </body></document>
