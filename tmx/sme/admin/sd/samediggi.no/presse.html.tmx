@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">presse.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Presse / Forsiden - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Preassadieđáhusat / Preassadieđáhusat / Sámediggi - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Materiell Web-tv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Preassadieđáhusat</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

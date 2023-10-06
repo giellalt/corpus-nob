@@ -1,0 +1,191 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">faktura_til_sametinget.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Faktura til Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máksemus Sámediggáj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan ikke sende faktura på e-post.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån i máhte máksemusáv (rieknigav) e-påsta baktu sáddit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du må sende fakturaer som elektronisk faktura eller på papir i posten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån hæhttu máksemusáv elektråvnålasj standárdajn EHF jali páhperhámen påstan sáddit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sende elektronisk faktura (EHF)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Elektråvnålasj máksemusáv sáddit (EHF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ifølge Digitaliseringsrundskrivet stilles det krav til at alle statlige virksomheter skal kreve fakturaer i elektronisk handelsformat (EHF).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Digitaliseringsrundskrivet milta gájbeduvvá stáhta vidnudagájs galggi gájbeduvvat máksemusájt elektråvnålasj standárdajn, elektronisk handelsformat (EHF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Utenlandske leverandører skal bruke standarden PEPPOL BIS.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Utenlandske leverandører skal bruke standarden PEPPOL BIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les Digitaliseringsrundskrivet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Les Digitaliseringsrundskrivet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Spørsmål og svar om elektronisk handelsformat (EHF)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Spørsmål og svar om elektronisk handelsformat (EHF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer om standarden PEPPOL BIS</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Les mer om standarden PEPPOL BIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametingets elektroniske fakturaadresse er Sametingets org.nr: 974760347</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máksemusá Sámedikke elektråvnålasj máksemusadræssa l Sámedikke organisasjåvnånummar: 974760347</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Bestillerreferansen skal alltid oppgis: 1660 + initialer til bestiller, eks: 1660XXX</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mierkki máksemusáv diŋŋgomreferansájn: 1660 + diŋŋgodiddje åvddåbokstáva, buojk: 1660XXX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ta kontakt med bestiller, dersom referansen ikke blir oppgitt.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válde aktijvuodav diŋŋgodiddjijn jus ij referánsav almoda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Hva du som leverandør må gjøre for å sende EHF-fakturaer</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Majt hæhttu dån gálvvoásadiddjen dahkat EHF-máksemusájt sádditjit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Les mer informasjon om EHF:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Les mer informasjon om EHF:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik sender du elektroniske fakturaer og papirfakturaer til kunder av DFØ</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Slik sender du elektroniske fakturaer og papirfakturaer til kunder av DFØ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik lager du en EHF faktura og sender den til mottaker.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Slik lager du en EHF faktura og sender den til mottaker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Slik mottar du en faktura og behandler den i eget system</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Slik mottar du en faktura og behandler den i eget system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sametinget er kunde av Direktoratet for økonomistyring (DFØ).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedigge l oassten Direktoratet for økonomistyring:is (DFØ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Du kan ta kontakt med DFØ for spørsmål om elektronisk faktura, epost: elfak@dfo.no , telefon: 407 67 157 .</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån máhtá guládallat DFØ:jn gatjálvisáj elektråvnålasj máksemusá birra, e-poassta: elfak@fdo.no jali telefåvnån 407 67 157 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sende papirfaktura</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Páhpermáksemusáv sádditjit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Dersom du ikke fakturerer i EHF-format i dag, kan du sende faktura på papir i posten til Sametingets fakturaadresse:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus i máksemusáv EHF-formátan uddni sáddi, máhtá máksemusáv páhperhámen Sámedikke máksemusadræssaj sáddit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Sámediggi - Sametinget Fakturamottak DFØ Postboks 4746 Torgarden 7468 Trondheim</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámedikke máksemusadræssa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Merk faktura med bestillerreferanse!</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sámediggi - Sametinget Fakturamottak DFØ Postboks 4746 Torgarden 7468 Trondheim</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

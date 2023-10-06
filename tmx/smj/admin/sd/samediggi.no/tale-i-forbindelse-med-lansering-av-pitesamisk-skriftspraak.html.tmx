@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
 <tmx>
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
-    <prop type="x-filename">tale-i-forbindelse-med-lansering-av-pitesamisk-skriftspraak.html.xml</prop>
+    <prop type="x-filename">tale-i-forbindelse-med-lansering-av-pitesamisk-skriftspraak.html</prop>
   </header>
   <body>
     <tu>
@@ -46,10 +45,18 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vi lærer barna våre å skriver/skrive favorittspråket vårt, fordi vi vil at de skal vite hvem de er.”</seg>
+        <seg>Vi lærer barna våre å skriver/skrive favorittspråket vårt, fordi vi vil at de skal vite hvem de er.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Mij åhpadip iehtjama mánájt favorihtta gielama hållat/tjállet danen gå sihtap sij galggi diehtet gudi sij li.”</seg>
+        <seg>Mij åhpadip iehtjama mánájt favorihtta gielama hållat/tjállet danen gå sihtap sij galggi diehtet gudi sij li.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>”</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -89,7 +96,7 @@
         <seg>Samiske språk er et symbol på vårt felleskap, vår arv og vårt bånd til våre forfedre.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Gå Sámegiela li mærkkagåvvån mijá aktisasjvuohtaj, mijá árbbáj ja li bádden mijá ájttegijda.</seg>
+        <seg>Valla ij la dát dåssju ávvobiejvve bihtámsáme giellasebrudahkaj, dát la mærkkabiejvve ja ávvobiejvve ålles sáme sebrudahkaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97,7 +104,7 @@
         <seg>Gjennom språk vokser det frem en identitet og tilhørighet, uavhengig av hvilket samisk språk man behersker eller hvor lite eller hvor mye man behersker språkene.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Giela baktu tjadnusa nanostuvvi masi ulmusj gullu, berustahtek makkir sámegielav ulmusj buktá jalik man binnáv jali man ednagav gielav buktá.</seg>
+        <seg>Uddni mij duodastip gielama, mij duodastip gielama duodaj gávnnuji, mij duodastip bihtámsámegiela sajev mijá sebrudagán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105,7 +112,7 @@
         <seg>Samisk språkpolitikk handler derfor både om å ta tilbake et tapt språk, og å utvikle de samiske språkene i de områder hvor samisk brukes i dagliglivet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Sáme giellapolitihkka guosská dan diehti goappátjagá massám gielav ruoptus válddet, ja sámegielajt åvddånahttet dajn guovlojn gånnå sámegiella bæjválattjat aneduvvá.</seg>
+        <seg>Dajnas de miehtá sámeednama ávvudallap gå bihtámsámegiela tjálemvuoge mierreduvvi almulattjat, ja mij ávvudallap ja mihástallap gå gielalasj ja tjálalasj valjesvuohta åvddån.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113,7 +120,7 @@
         <seg>Til tross for ulike språksituasjoner binder språkene oss sammen gjennom et felles ønske om bevaring, utvikling og styrking av samiske språk.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Juska li iesjgeŋgalágásj gielladile, de giela mijájt aktij tjadná aktisasj sávadusán sámegielajt bisodit, åvddånahttet ja nannit.</seg>
+        <seg>Gå Sámegiela li mærkkagåvvån mijá aktisasjvuohtaj, mijá árbbáj ja li bádden mijá ájttegijda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,7 +128,7 @@
         <seg>Sametinget har et særskilt ansvar til å fremme samisk språk og likestillingen mellom de samiske språkene.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Sámedikkij la sierra åvdåsvásstádus åvdedittjat sámegielajt ja avtaárvvusasjvuodav sámegielaj gaskan.</seg>
+        <seg>Giela baktu tjadnusa nanostuvvi masi ulmusj gullu, berustahtek makkir sámegielav ulmusj buktá jalik man binnáv jali man ednagav gielav buktá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129,7 +136,7 @@
         <seg>Vi vil at samiske språk høres, brukes og synes i samfunnet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Sámedikke sihti sámegiela galggi sebrudagán gullut, aneduvvat ja vuojnnut.</seg>
+        <seg>Sáme giellapolitihkka guosská dan diehti goappátjagá massám gielav ruoptus válddet, ja sámegielajt åvddånahttet dajn guovlojn gånnå sámegiella bæjválattjat aneduvvá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,7 +144,7 @@
         <seg>19. september 2014 oppnevnte den norske regjeringen ved kongelig resolusjon et utvalg for å utrede lovverk, tiltak og ordninger for samiske språk i Norge.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ragátmáno 19. biejve jagen 2014, Sáme giellanammadus nammaduváj Gånågis resolusjåvnå baktu guoradalátjit láhkatjoahkkev, dåjmajt ja årdnigijt sámegielajda Vuonan.</seg>
+        <seg>Juska li iesjgeŋgalágásj gielladile, de giela mijájt aktij tjadná aktisasj sávadusán sámegielajt bisodit, åvddånahttet ja nannit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,7 +152,7 @@
         <seg>Dette språkutvalget redegjorde, i NOU 2016:18 Hjertespråket, situasjonen for de samiske språkene og pekte på en rekke utfordringer språkene står ovenfor.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dát giellanammadus tjielggi, Vuona Almmulasj tjielggidusán 2016:18 Vájmogiela, sámegielaj dilev ja tjalmostahttin muhtem gássjelisvuodav sámegielaj hárráj.</seg>
+        <seg>Sámedikkij la sierra åvdåsvásstádus åvdedittjat sámegielajt ja avtaárvvusasjvuodav sámegielaj gaskan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,7 +160,7 @@
         <seg>Rapporten konkluderer med at det er behov for innsats for de samiske språkene på ulike nivåer i samfunnet, og det legges særlig vekt på barn og unges språkrettigheter.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Tjielggidusá milta le dárbbo ratjástibmáj sámegielaj gáktuj gájkka dásen sebrudagán. Ållagasj mánáj ja nuoraj giellarievtesvuodajt dættoduvvi.</seg>
+        <seg>Sámedikke sihti sámegiela galggi sebrudagán gullut, aneduvvat ja vuojnnut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,7 +168,7 @@
         <seg>I den forbindelse vedtok Sametingets plenum i desember 2018 Gïelelutnjeme/ Giellalåpptim/Giellalokten – som er Sametingets strategier for samiske språk - og et resultat og en oppfølging av Vájmogiella-utredningen.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dan aktijvuodan dåhkkidij Vuona Sámedikke ållestjåhkanibme javllamánon 2018, Gïelelutnjeme/Giellalåpptim/Giellalokten – mij la Sámedikke strategijja mij guosská sámegielajda – mij la båhtusin ja gåtsedibmen Vájmogiella-tjielggidusás.</seg>
+        <seg>Ragátmáno 19. biejve jagen 2014, Sáme giellanammadus nammaduváj Gånågis resolusjåvnå baktu guoradalátjit láhkatjoahkkev, dåjmajt ja årdnigijt sámegielajda Vuonan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -169,7 +176,7 @@
         <seg>Gjennom Giellalåpptim har Sametinget forpliktet seg til å kartlegge dagens situasjon for ume-, pite- og skoltesamiske språk, og til å se på hvilke ressurser som kan bidra til å øke bruken av språkene.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Giellalåpptima baktu le Sámedigge vælggogissan guoradalátjit udnásj dilev ubbmem-, bihtám- ja gålldåsámegielajn, ja aj guoradalátjit makkár ressursajda li dárbbo daj sámegielaj anov lasedittjat.</seg>
+        <seg>Dát giellanammadus tjielggi, Vuona Almmulasj tjielggidusán 2016:18 Vájmogiela, sámegielaj dilev ja tjalmostahttin muhtem gássjelisvuodav sámegielaj hárráj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,7 +184,7 @@
         <seg>En kartlegging vil gi oss bedre grunnlag for å sette i gang språktiltak i de aktuelle miljøene - og som vil gi en oversikt over arbeidet som er gjort og mulige veier videre i arbeidet med å vitalisere ume- pite- og skoltesamiske språk.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Guoradallam vaddá midjij buorep vuodov jåhtuj biejatjit ájggeguovddelis gielladåjmajt iesjgeŋga birrusin, ja vuoset bargov mij la dagádum ja gávnnat buorre vuogijt barggat gå galggá ælládahttet ubbmem-, bihtám- ja gålldåsámegielajt.</seg>
+        <seg>Tjielggidusá milta le dárbbo ratjástibmáj sámegielaj gáktuj gájkka dásen sebrudagán. Ållagasj mánáj ja nuoraj giellarievtesvuodajt dættoduvvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,7 +192,7 @@
         <seg>Giellalåpptim legger fokus på synliggjøring, utvikling, rekruttering og kompetanseheving på alle nivå.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Giellalåpptim tjalmostahttá vuojnnusin dahkat, åvddånahttet, rekruttierit ja máhtudaklåpptim gájkka dásen.</seg>
+        <seg>Dan aktijvuodan dåhkkidij Vuona Sámedikke ållestjåhkanibme javllamánon 2018, Gïelelutnjeme/Giellalåpptim/Giellalokten – mij la Sámedikke strategijja mij guosská sámegielajda – mij la båhtusin ja gåtsedibmen Vájmogiella-tjielggidusás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,7 +200,7 @@
         <seg>På UNESCOs liste over truede språk er pitesamisk språk klassifisert som svært alvorlig truet eller nesten utdødd.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>UNESCO listan ájteduvvam gielaj, bihtámsámegiella aneduvvá tjierggis ájteduvvam giellan jali vargga gáhtomin.</seg>
+        <seg>Giellalåpptima baktu le Sámedigge vælggogissan guoradalátjit udnásj dilev ubbmem-, bihtám- ja gålldåsámegielajn, ja aj guoradalátjit makkár ressursajda li dárbbo daj sámegielaj anov lasedittjat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -201,7 +208,7 @@
         <seg>I Sverige er det anslått et sted mellom 20-50 personer som snakker pitesamisk i dag.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Svierigin li bájkoj 20-50 ulmutja gudi vilá bihtámsámegielav uddni ságasti.</seg>
+        <seg>Guoradallam vaddá midjij buorep vuodov jåhtuj biejatjit ájggeguovddelis gielladåjmajt iesjgeŋga birrusin, ja vuoset bargov mij la dagádum ja gávnnat buorre vuogijt barggat gå galggá ælládahttet ubbmem-, bihtám- ja gålldåsámegielajt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,7 +216,7 @@
         <seg>På norsk side klassifiserer UNESCO pitesamisk som utdødd.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Vuonabielen gis UNESCO adná bihtámsámegiella l gáhtum.</seg>
+        <seg>Giellalåpptim tjalmostahttá vuojnnusin dahkat, åvddånahttet, rekruttierit ja máhtudaklåpptim gájkka dásen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217,7 +224,7 @@
         <seg>Som språkforsker, Bruce Morén-Duolljá beskriver i flere av sine foredrag:</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Giellaguoradalle Bruce Morén-Duolljá gåktu dáv máhttep dádjadit jus gehtjadip væráldav miehtáj ja javllá</seg>
+        <seg>UNESCO listan ájteduvvam gielaj, bihtámsámegiella aneduvvá tjierggis ájteduvvam giellan jali vargga gáhtomin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,7 +232,7 @@
         <seg>“av de ca 6909 levende språk dokumentert av Ethnologue (Lewis 2009), har halvparten færre enn 7600 talere.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>“bájkoj 6909 viesso gielajs duodastahtedum Ethnologueas (Lewis 2009), li bielle dajn binnep gå 7600 hoalle.</seg>
+        <seg>Svierigin li bájkoj 20-50 ulmutja gudi vilá bihtámsámegielav uddni ságasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233,7 +240,7 @@
         <seg>I Stillehavet har halvparten av språkene færre enn 1000 talere.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Loattjesmeran (Stillehavet:in) li bielle gielajn binnep gå 1000 hoalle.</seg>
+        <seg>Vuonabielen gis UNESCO adná bihtámsámegiella l gáhtum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -241,15 +248,23 @@
         <seg>Det er viktig å legge merke til at mange av disse små språkene ikke har mer enn noen få hundre talere og likevel er de ikke truet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ájnas la dánna diehtet moadda dájs unnep gielajs ælla ienep gå gallegis tjuohte hoalle ja ælla huoman ájteduvvam.</seg>
+        <seg>Giellaguoradalle Bruce Morén-Duolljá gåktu dáv máhttep dádjadit jus gehtjadip væráldav miehtáj ja javllá</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Faktisk har nesten alle språk gjennom historien bare hatt noen få brukere.”</seg>
+        <seg>Faktisk har nesten alle språk gjennom historien bare hatt noen få brukere.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Almma láhkáj histåvrålattjat li gájkka gielajn årrum dåssju gallegasj addne.”</seg>
+        <seg>“bájkoj 6909 viesso gielajs duodastahtedum Ethnologueas (Lewis 2009), li bielle dajn binnep gå 7600 hoalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>”</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Loattjesmeran (Stillehavet:in) li bielle gielajn binnep gå 1000 hoalle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,7 +272,7 @@
         <seg>Det betyr at, det ikke er antallet talere alene som er avgjørende om et språk “overlever” eller “dør ut”.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dát midjij javllá, ij la giellaaddnij låhko mij aktu mierret jus giella galggá “bissot” jali “gáhtot”.</seg>
+        <seg>Ájnas la dánna diehtet moadda dájs unnep gielajs ælla ienep gå gallegis tjuohte hoalle ja ælla huoman ájteduvvam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265,7 +280,7 @@
         <seg>Det finnes flere årsaker til hvorfor de samiske språkene er så truet;</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Moadda sivá li dasi manen sámegiela li ájteduvvam giellan;</seg>
+        <seg>Almma láhkáj histåvrålattjat li gájkka gielajn årrum dåssju gallegasj addne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,7 +288,7 @@
         <seg>blant annet mangelen på anerkjennelse, rettigheter og språklige ressurser.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>duola dagu jus giela e dåhkkiduvá, jus ælla rievtesvuoda gielajda, ja jus li binná giellaresursa.</seg>
+        <seg>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,7 +296,7 @@
         <seg>Men det mest betydningsfulle er at de som behersker disse språkene ikke bruker dem nok, og dermed er det ikke nok mange barn som lærer dem i et miljø der språkene er en vanlig del av livet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Valla ájnnasamos le dát: sij gudi dájt gielajt bukti e nav vuojga dajt ane, ja dajnas ælla nav nuoges máná gudi gielajt oahppi birrusijn gånnå giella l dábálasj oasse iellemis.</seg>
+        <seg>Dát midjij javllá, ij la giellaaddnij låhko mij aktu mierret jus giella galggá “bissot” jali “gáhtot”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,7 +304,7 @@
         <seg>Den eneste måten å bevare et språk er å bruke det!</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ájnna vuohke gielav bisodit la dav adnet!</seg>
+        <seg>Moadda sivá li dasi manen sámegiela li ájteduvvam giellan;</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,7 +312,7 @@
         <seg>I tillegg til dette sier UNESCOs språkeksperter følgende (oversatt fra engelsk): "Språkmangfold er essensielt for den menneskelige arven.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ja joarkken dasi la UNESCO giellatjiehppe moalgedam jut “giellavalljudahka le ihkeva ájnas almasjárvvuj.</seg>
+        <seg>duola dagu jus giela e dåhkkiduvá, jus ælla rievtesvuoda gielajda, ja jus li binná giellaresursa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,15 +320,23 @@
         <seg>Hvert eneste språk bærer unike kulturelle kunnskap om et folk.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Juohkka ájnna giella guoddá sierralágásj máhtov álmmuga birra.</seg>
+        <seg>Valla ájnnasamos le dát: sij gudi dájt gielajt bukti e nav vuojga dajt ane, ja dajnas ælla nav nuoges máná gudi gielajt oahppi birrusijn gånnå giella l dábálasj oasse iellemis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tapet av ethvert språk er dermed et tap for hele menneskeheten.»</seg>
+        <seg>Tapet av ethvert språk er dermed et tap for hele menneskeheten.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dajnas la juohkka avtav gielav masset, åbbå massem almasjvierregij.”</seg>
+        <seg>Ájnna vuohke gielav bisodit la dav adnet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>»</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ja joarkken dasi la UNESCO giellatjiehppe moalgedam jut “giellavalljudahka le ihkeva ájnas almasjárvvuj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -321,7 +344,7 @@
         <seg>I dag vet vi at pitesamisk språk er i en (re)vitaliseringsprosess.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Uddni diehtep bihtámsámegiella l giellaælládahttemprosessan.</seg>
+        <seg>Juohkka ájnna giella guoddá sierralágásj máhtov álmmuga birra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,7 +352,7 @@
         <seg>Blant annet er det utviklet en pitesamisk ordbok og en grammatikkbok.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dálla gávnnuji duola dagu bihtámsáme báhkogirjje ja grammatihkkagirjje.</seg>
+        <seg>Dajnas la juohkka avtav gielav masset, åbbå massem almasjvierregij.</seg>
       </tuv>
     </tu>
     <tu>
@@ -337,7 +360,7 @@
         <seg>I 2006 startet et møysommelig arbeid i Norge og Sverige med å samle pitesamiske ord. Først 10 år senere - i 2016 - ble en etterlengta ordbok utgitt.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Jagen 2006 álgaduváj stuorra barggo Vuonan ja Svierigin bihtámsáme bágojt tjoahkkit. Esski lågev jage maŋŋela - jagen 2016 - vijmak báhkogirjje almoduváj.</seg>
+        <seg>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,7 +368,7 @@
         <seg>I 2014 ble et treårig dokumentasjonsprosjekt om pitesamiske stedsnavn i Norge avsluttet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Jagen 2014 låhpaduváj gålmåjahkásasj duodastahttemprosjækta, bihtámsáme bájkkenamá Vuonan.</seg>
+        <seg>Uddni diehtep bihtámsámegiella l giellaælládahttemprosessan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -353,7 +376,7 @@
         <seg>To år etter at ordboka ble utgitt (2018) ga Samisk parlamentarisk råd (SPR) oppdraget til det felles nordiske fag- og ressurssenteret for samiske språk, Sámi Giellagáldu, å sette i gang arbeidet med normering av pitesamisk skriftspråk.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Guokta jage maŋŋela gå báhkogirjje almoduváj (2018), vattij Sáme parlamentaralasj ráde (SPR) dahkamusáv nuorttarijkalasj aktisasj sámegielaj máhtto- ja luohkkoguovdátjij, Sáme Giellagállduj – álgadittjat bargov normerit bihtámsáme tjállemgielav.</seg>
+        <seg>Dálla gávnnuji duola dagu bihtámsáme báhkogirjje ja grammatihkkagirjje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,7 +384,7 @@
         <seg>Dette er et godt eksempel som viser hvorfor det er viktig og nødvendig å samarbeide om språknormering på tvers av landegrensene.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dát vuoset manen la ájnas ja dárbbo aktan barggat giellanormerimijn rijkajrájá rastá.</seg>
+        <seg>Jagen 2006 álgaduváj stuorra barggo Vuonan ja Svierigin bihtámsáme bágojt tjoahkkit. Esski lågev jage maŋŋela - jagen 2016 - vijmak báhkogirjje almoduváj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,7 +392,7 @@
         <seg>Jf. UNESCO er pitesamisk ett av minst 9 levende samiske språk i dag.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>UNESCO:a milta le bihtámsámegiella akta dajs 9 viesso sámegielajs uddni.</seg>
+        <seg>Jagen 2014 låhpaduváj gålmåjahkásasj duodastahttemprosjækta, bihtámsáme bájkkenamá Vuonan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,7 +400,7 @@
         <seg>Ortografi viser omfattende viktige forskjeller på hvorfor pitesamisk defineres som et eget språk.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Tjállemvuohke vuoset stuorra ja ájnas sieradusá manen bihtámsámegiella aneduvvá sierra giellan.</seg>
+        <seg>Guokta jage maŋŋela gå báhkogirjje almoduváj (2018), vattij Sáme parlamentaralasj ráde (SPR) dahkamusáv nuorttarijkalasj aktisasj sámegielaj máhtto- ja luohkkoguovdátjij, Sáme Giellagállduj – álgadittjat bargov normerit bihtámsáme tjállemgielav.</seg>
       </tuv>
     </tu>
     <tu>
@@ -385,7 +408,7 @@
         <seg>Blant annet stadievekslingssystemet og vokalendringene.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Buojkulvissan dássemålssomsystiebma ja vokállarievddadimsystiebma.</seg>
+        <seg>Dát vuoset manen la ájnas ja dárbbo aktan barggat giellanormerimijn rijkajrájá rastá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -393,7 +416,7 @@
         <seg>Selv om pitesamisk ikke har hatt et offisiell skriftspråk har språket likevel blitt snakket til daglig i generasjoner.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Juska bihtámsámegiella ij la årrum almulasj tjállemgiellan de la huoman giella måttijt buolvajt bæjválattjat håladuvvam.</seg>
+        <seg>UNESCO:a milta le bihtámsámegiella akta dajs 9 viesso sámegielajs uddni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,7 +424,7 @@
         <seg>Fortsatt i dag brukes språket aktivt, men kanskje mest blant den eldre generasjonen.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ja vilá ga uddni bihtámsámegiella gullu, valla ihkap ienemusát vuorrasap ulmutjij gaskan.</seg>
+        <seg>Tjállemvuohke vuoset stuorra ja ájnas sieradusá manen bihtámsámegiella aneduvvá sierra giellan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -409,7 +432,7 @@
         <seg>Jeg føler at Árjepluovve kommune allerede har sett betydningen av språket blant lokalbefolkningen.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Munji dåbddu dagu Árjepluovve komuvnna l juo vuojnnám árvov gielan bájkálasj årroj gaskan.</seg>
+        <seg>Buojkulvissan dássemålssomsystiebma ja vokállarievddadimsystiebma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,7 +440,7 @@
         <seg>Jeg håper lokale myndigheter i både Sverige og Norge kan samarbeide for å sikre en trygg framtid for det pitesamiske språket.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Mån sávav bájkálasj oajválattja goappátjagá Svieriga ja Vuona bielen máhtti aktan barggat oaggitjit bihtámsámegiela boahtteájgev.</seg>
+        <seg>Juska bihtámsámegiella ij la årrum almulasj tjállemgiellan de la huoman giella måttijt buolvajt bæjválattjat håladuvvam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,7 +448,7 @@
         <seg>Jeg håper også at det pitesamiske språksamfunnet gleder seg over at vi endelig har fått en godkjent ortografi.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Sávav bihtámsáme giellasebrudahka ávvudallá gå vijmak lip dåhkkidum tjállemvuogev oadtjum.</seg>
+        <seg>Ja vilá ga uddni bihtámsámegiella gullu, valla ihkap ienemusát vuorrasap ulmutjij gaskan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,7 +456,7 @@
         <seg>Dagen i dag er en gledens dag.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Udnásj biejvve le ávvobiejvve.</seg>
+        <seg>Munji dåbddu dagu Árjepluovve komuvnna l juo vuojnnám árvov gielan bájkálasj årroj gaskan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -441,7 +464,7 @@
         <seg>Som vi allerede vet har FN vedtatt at gjennom året 2019 skal urfolksspråk få spesiell oppmerksomhet.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Nav gåktu mij juo diehtep, la Aktidum Nasjåvnå (AN) mierredam 2019 jage tjadá galggi iemeálmmugij giela sierralágásj berustimev oadtjot.</seg>
+        <seg>Mån sávav bájkálasj oajválattja goappátjagá Svieriga ja Vuona bielen máhtti aktan barggat oaggitjit bihtámsámegiela boahtteájgev.</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,7 +472,7 @@
         <seg>Og i dag får pitesamisk endelig den oppmerksomheten det fortjener.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Ja uddni oadtju bihtámsámegiella vijmak dav berustimev mav ánssit.</seg>
+        <seg>Sávav bihtámsáme giellasebrudahka ávvudallá gå vijmak lip dåhkkidum tjállemvuogev oadtjum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,7 +480,7 @@
         <seg>Endelig blir også pitesamisk et normert skriftspråk</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Vijmak bihtámsámegiella aj normeridum tjállemgiellan sjaddá.</seg>
+        <seg>Udnásj biejvve le ávvobiejvve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,7 +488,7 @@
         <seg>På vegne av Sametinget ønsker jeg å takke Sáme Giellagálldos pitesamisk utvalg sine medlemmer (gruppeleder, Peter Steggo, Inger Fjellås, Ole Henrik Magga, Bruce Morén-Duolljá og gruppens sekretær, Ann-Charlotte Sjaggo) for det gode og viktige arbeidet som dere har lagt fram.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Vuona Sámedikke bieles sidáv gijttet Sáme Giellagáldo ájrrasijt bihtámsámegiela normerimjuohkusin (jådediddje, Peter Steggo, Inger Fjellås, Ole Henrik Magga, Bruce Morén-Duolljá ja juogostjálle, Ann-Charlotte Sjaggo), dat buorre ja ájnas bargos majt lihpit dahkam ja åvddånbuktám.</seg>
+        <seg>Nav gåktu mij juo diehtep, la Aktidum Nasjåvnå (AN) mierredam 2019 jage tjadá galggi iemeálmmugij giela sierralágásj berustimev oadtjot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -473,7 +496,7 @@
         <seg>Denne jobben er viktig og jeg er veldig glad når jeg får komme hit til Arjeplog for feire sammen med dere.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Dát barggo la ihkeva ájnas ja mån lav huj ávon gå mån besav boahtet diehki Árjjepluovváj ávvudalátjit ja oasev válldet dat ávos mij la dánna uddni.</seg>
+        <seg>Ja uddni oadtju bihtámsámegiella vijmak dav berustimev mav ánssit.</seg>
       </tuv>
     </tu>
   </body>
