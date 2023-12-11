@@ -1,15 +1,38 @@
-<?xml version='1.0' encoding='utf-8'?>
 <tmx>
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
-    <prop type="x-filename">informasjon_til_hjemmesiden_sanks_og_sannhetskomm__kvensk_28032020.docx.xml</prop>
+    <prop type="x-filename">informasjon_til_hjemmesiden_sanks_og_sannhetskomm__kvensk_28032020.odt</prop>
   </header>
   <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk nasjonal kompetansetjeneste – psykisk helsevern og rus</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Samisk nasjonal kompetansetjeneste – psykisk helsevern og rus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Til hjemmesiden</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Til hjemmesiden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Krise- og støttesamtaler</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Krise- og støttesamtaler</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>SANKS tilbyr krise- og støttesamtaler om opplevelser knyttet til fornorskning og urett under kommisjonens arbeid.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Kommisjuunin työn aikana SANKS t arjjoo kriisi- ja apupraatit heile, kekkä oon kokenheet norjalaistamista ja vääryyttä.</seg>
+        <seg>SANKS tilbyr krise- og støttesamtaler om opplevelser knyttet til fornorskning og urett under kommisjonens arbeid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17,15 +40,15 @@
         <seg>SANKS vil veilede aktuelle personer for videre henvisning til kommunen eller til spesialisthelsetjenesten.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>SANKS opastaa aktuellit persuunat etheenkäsin komuunhiin tahi vasitthuun t ervheyspalveluksheen.</seg>
+        <seg>SANKS vil veilede aktuelle personer for videre henvisning til kommunen eller til spesialisthelsetjenesten.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Sannhets- og forsoningskommisjonen samarbeider med Finnmarkssykehuset gjennom SANKS (https://finnmarkssykehuset.no/fag-og-forskning/sanks).</seg>
+        <seg>Sannhets- og forsoningskommisjonen samarbeider med Finnmarkssykehuset gjennom SANKS ( https://finnmarkssykehuset.no/fag-og-forskning/sanks ).</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tottuuen- ja sovinonkommisjuuni tekkee yhtheistyötä Finnmarkssykehusetin kans SANKSin kautta (https://finnmarkssykehuset.no/fag-og-forskning/sanks).</seg>
+        <seg>Sannhets- og forsoningskommisjonen samarbeider med Finnmarkssykehuset gjennom SANKS ( https://finnmarkssykehuset.no/fag-og-forskning/sanks ).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33,7 +56,7 @@
         <seg>SANKS yter spesialisthelsetjenester i psykiatri og gi kulturkompetent medisinskfaglig rådgivning til kommisjonen i forbindelse med deres arbeid.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>SANKS anttaa psykiatriin erikoistervheyspalveluksii ja kylttyyrikompetenttii metesiinifaakilissii neuvoi kommisjuunile sen työn yhtheyessä.</seg>
+        <seg>SANKS yter spesialisthelsetjenester i psykiatri og gi kulturkompetent medisinskfaglig rådgivning til kommisjonen i forbindelse med deres arbeid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,7 +64,7 @@
         <seg>SANKS hjelper personer som trenger det i forbindelse med Sannhets- og forsoningskommisjonens arbeid.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>SANKS auttaa persuunii kekkä tarvithaan sen Tottuuen- ja sovinonkommisjuunin työn yhtheyessä.</seg>
+        <seg>SANKS hjelper personer som trenger det i forbindelse med Sannhets- og forsoningskommisjonens arbeid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49,7 +72,7 @@
         <seg>Dette gjelder særlig personer som har formidlet sin historie knyttet til fornorskingspolitikk og urett.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tämä jällää eriliikaisesti net kekkä oon muistelheet oman histuuriin norjalaistamisesta ja vääryyestä.</seg>
+        <seg>Dette gjelder særlig personer som har formidlet sin historie knyttet til fornorskingspolitikk og urett.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57,7 +80,7 @@
         <seg>Tilbudet er gratis.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tarjous oon ilman maksutta.</seg>
+        <seg>Tilbudet er gratis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65,7 +88,7 @@
         <seg>Det er avsatt 2,5 stillinger til arbeidet gjennom SANKS.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Työtä varten oon varattu 2,5 virkkaa SANKSin kautta.</seg>
+        <seg>Det er avsatt 2,5 stillinger til arbeidet gjennom SANKS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73,7 +96,7 @@
         <seg>De fire terapeutene er Berit Frøydis Svineng Johnsen, Marit Mildrid Utsi, Anne Karin Steffensen og Reidun Boine, samt en koordinator.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Nämät nelje terapeuttii oon Berit Frøydis Svineng Johnsen, Marit Mildrid Utsi, Anne Karin Steffensen ja Reidun Boine, ja lisäksi yksi koordinaattori.</seg>
+        <seg>De fire terapeutene er Berit Frøydis Svineng Johnsen, Marit Mildrid Utsi, Anne Karin Steffensen og Reidun Boine, samt en koordinator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81,12 +104,140 @@
         <seg>SANKS vil så langt det lar seg gjøre følge med kommisjonen på deres arrangement og fange opp behov.</seg>
       </tuv>
       <tuv xml:lang="fkv">
-        <seg>Tottuuen- ja sovinonkommisjuunin mööttiissä annethaan informasjuunii SANKSin tarjouksesta.</seg>
+        <seg>SANKS vil så langt det lar seg gjøre følge med kommisjonen på deres arrangement og fange opp behov.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="nob">
         <seg>Det vil bli gitt informasjon om tilbudet fra SANKS i forbindelse med Sannhets- og forsoningskommisjonens møter.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Det vil bli gitt informasjon om tilbudet fra SANKS i forbindelse med Sannhets- og forsoningskommisjonens møter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS kan kontaktes på mob. 46 88 11 62 / 46 82 62 89 (hverdager kl. 08.00 – 15.30) eller på mail: sannhetskommisjon@finnmarkssykehuset.no</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS kan kontaktes på mob. 46 88 11 62 / 46 82 62 89 (hverdager kl. 08.00 – 15.30) eller på mail: sannhetskommisjon@finnmarkssykehuset.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Samisk nasjonal kompetansetjeneste – psykisk helsevern og rus</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Samisk nasjonal kompetansetjeneste – psykisk helsevern og rus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kotilaittaa varten</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kotilaittaa varten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kriisi- ja apupraatit</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kriisi- ja apupraatit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Kommisjuunin työn aikana SANKS tarjjoo kriisi- ja apupraatit heile, kekkä oon kokenheet norjalaistamista ja vääryyttä.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Kommisjuunin työn aikana SANKS tarjjoo kriisi- ja apupraatit heile, kekkä oon kokenheet norjalaistamista ja vääryyttä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS opastaa aktuellit persuunat etheenkäsin komuunhiin tahi vasitthuun tervheyspalveluksheen.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS opastaa aktuellit persuunat etheenkäsin komuunhiin tahi vasitthuun tervheyspalveluksheen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tottuuen- ja sovinonkommisjuuni tekkee yhtheistyötä Finnmarkssykehusetin kans SANKSin kautta ( https://finnmarkssykehuset.no/fag-og-forskning/sanks ).</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuuni tekkee yhtheistyötä Finnmarkssykehusetin kans SANKSin kautta ( https://finnmarkssykehuset.no/fag-og-forskning/sanks ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS anttaa psykiatriin erikoistervheyspalveluksii ja kylttyyrikompetenttii metesiinifaakilissii neuvoi kommisjuunile sen työn yhtheyessä.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS anttaa psykiatriin erikoistervheyspalveluksii ja kylttyyrikompetenttii metesiinifaakilissii neuvoi kommisjuunile sen työn yhtheyessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS auttaa persuunii kekkä tarvithaan sen Tottuuen- ja sovinonkommisjuunin työn yhtheyessä.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS auttaa persuunii kekkä tarvithaan sen Tottuuen- ja sovinonkommisjuunin työn yhtheyessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tämä jällää eriliikaisesti net kekkä oon muistelheet oman histuuriin norjalaistamisesta ja vääryyestä.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tämä jällää eriliikaisesti net kekkä oon muistelheet oman histuuriin norjalaistamisesta ja vääryyestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tarjous oon ilman maksutta.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tarjous oon ilman maksutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Työtä varten oon varattu 2,5 virkkaa SANKSin kautta.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Työtä varten oon varattu 2,5 virkkaa SANKSin kautta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Nämät nelje terapeuttii oon Berit Frøydis Svineng Johnsen, Marit Mildrid Utsi, Anne Karin Steffensen ja Reidun Boine, ja lisäksi yksi koordinaattori.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Nämät nelje terapeuttii oon Berit Frøydis Svineng Johnsen, Marit Mildrid Utsi, Anne Karin Steffensen ja Reidun Boine, ja lisäksi yksi koordinaattori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>SANKS aikkoo tulla kommisjuunin arransjementhiin myötä niin pitkäle ko käypi laihiin ja kattoot mitä oon ihmisten tarpheet.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>SANKS aikkoo tulla kommisjuunin arransjementhiin myötä niin pitkäle ko käypi laihiin ja kattoot mitä oon ihmisten tarpheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Tottuuen- ja sovinonkommisjuunin mööttiissä annethaan informasjuunii SANKSin tarjouksesta.</seg>
+      </tuv>
+      <tuv xml:lang="fkv">
+        <seg>Tottuuen- ja sovinonkommisjuunin mööttiissä annethaan informasjuunii SANKSin tarjouksesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Ota kontaktin SANKSin kans mobiililla 46 88 11 62 / 46 82 62 89 (arkipäivät kello 08.00 – 15.30) tahi mailila: sannhetskommisjon@finnmarkssykehuset.no</seg>
       </tuv>
       <tuv xml:lang="fkv">
         <seg>Ota kontaktin SANKSin kans mobiililla 46 88 11 62 / 46 82 62 89 (arkipäivät kello 08.00 – 15.30) tahi mailila: sannhetskommisjon@finnmarkssykehuset.no</seg>
