@@ -1,7 +1,7 @@
-<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>45498</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://samediggi.no/content/download/1693/15749/version/1/file/Sametingets+%C3%A5rsmelding+%282011%29.pdf</origFileName><parallel_text xml:lang="sme" location="sa_medikki_jahkedieaa_hus_2011_.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sme">Ávjovárgeaidnu 50</p>
+<document xml:lang="nob" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>44831</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://samediggi.no/content/download/1693/15749/version/1/file/Sametingets+%C3%A5rsmelding+%282011%29.pdf</origFileName><parallel_text xml:lang="sme" location="sa_medikki_jahkedieaa_hus_2011_.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="sme">Ávjovárgeaidnu 50</p>
 <p xml:lang="sme">N-9730 Karasjok/Kárášjohka</p>
 <p xml:lang="nno">Telefon +47 78 47 40 00</p>
-<p xml:lang="sme">Telefaks +47 78 47 40 90 samediggi@samediggi.no</p>
+<p xml:lang="sme">Telefaks +47 78 47 40 90 samediggi@samediggi.no www.samediggi.no</p>
 <p>Sametingets årsmelding 2011</p>
 <p xml:lang="swe">Vedtatt 23.2.2012</p>
 <p>Sak 5/12 2 <em type="bold">1 INNLEDNING .................................................................................................................................................... 6 </em></p>
@@ -57,7 +57,7 @@
 <p>Forskningsfond Nord- Norge: ................................................................................................................................... 20</p>
 <p xml:lang="nno">Forskningsfond Midt- Norge: .................................................................................................................................... 20</p>
 <p xml:lang="nno"><em type="italic">Akkrediteringskriterier for oppstart av nye doktorgradsstudier .................................................................. 21 </em></p>
-<p><em type="italic">Oppnevning av styremedlemmer i Sámi allaskuvla for perioden 2011-2015 ............................................... 21 </em><em type="bold">3 SPRÅK .............................................................................................................................................................. 21 </em></p>
+<p xml:lang="olo"><em type="bold">3 SPRÅK .............................................................................................................................................................. 21 </em></p>
 <p xml:lang="deu">SAMARBEID ....................................................................................................................................................... 21</p>
 <p><em type="italic">Sametingets språkkonferanse ....................................................................................................................... 22 </em></p>
 <p><em type="italic">Sametingets språkstyre ................................................................................................................................. 22 </em>3 </p>
@@ -137,7 +137,7 @@
 <p>Konsultasjoner om utredningsprogram ..................................................................................................................... 51</p>
 <p xml:lang="swe">Dønnesfjord vindkraftverk ........................................................................................................................................ 52</p>
 <p xml:lang="swe">Hamnefjell vindkraftverk .......................................................................................................................................... 52</p>
-<p xml:lang="nno">Raudfjellet vindkraftverk .......................................................................................................................................... 52 132 kV kraftforsyning på Sør-Helgeland .................................................................................................................. 53</p>
+<p xml:lang="nno">Raudfjellet vindkraftverk .......................................................................................................................................... 52132 kV kraftforsyning på Sør-Helgeland .................................................................................................................. 53</p>
 <p xml:lang="nno">Regional vindkraftplan for Finnmark ........................................................................................................................ 53</p>
 <p><em type="italic">Mineralvirksomhet ....................................................................................................................................... 54 </em></p>
 <p xml:lang="vep">MILJØVERN ....................................................................................................................................................... 54</p>
@@ -155,7 +155,7 @@
 <p><em type="italic">Gjenbegravelse i Skoltebyen ........................................................................................................................ 58 </em></p>
 <p><em type="italic">Ceavccageađgi/Mortensnes på verdensarvlista ........................................................................................... 59 </em><em type="italic">Prøveprosjekt om delegasjon av midlertidig myndighet etter kulturminneloven ......................................... 59 </em></p>
 <p xml:lang="nno"><em type="italic">Samarbeid .................................................................................................................................................... 59 </em></p>
-<p><em type="italic">Søkerbaserte tilskudd til kulturminnevern ................................................................................................... 60 </em><em type="bold">7 HELSE, SOSIAL OG OMSORG ................................................................................................................... 61 </em></p>
+<p xml:lang="sme"><em type="bold">7 HELSE, SOSIAL OG OMSORG ................................................................................................................... 61 </em></p>
 <p xml:lang="deu">SAMARBEID ....................................................................................................................................................... 61</p>
 <p>SAMISK REPRESENTASJON I STYRENE I HELSEFORETAKENE ............................................................................... 61</p>
 <p xml:lang="eng">SAMISKE BARNS RETTIGHETER I MØTE MED BARNEVERNSTJENESTEN ............................................................... 61</p>
@@ -170,7 +170,7 @@
 <p xml:lang="vep">NØDMELDETJENESTEN ...................................................................................................................................... 65</p>
 <p xml:lang="sme">SØKERBASERTE TILSKUDD TIL HELSE-, SOSIAL- OG OMSORGSPROSJEKTER ....................................................... 66 <em type="bold">8 REGIONALUTVIKLING ............................................................................................................................... 66 </em></p>
 <p xml:lang="sme">REGIONALT OG LOKALT SAMARBEID ................................................................................................................. 66</p>
-<p><em type="italic">Samarbeidsavtalen med Finnmark fylkeskommune ..................................................................................... 66 </em><em type="bold">9 INTERNASJONALT OG SAMISK SAMARBEID ...................................................................................... 67 </em>5 </p>
+<p xml:lang="sme"><em type="bold">9 INTERNASJONALT OG SAMISK SAMARBEID ...................................................................................... 67 </em>5 </p>
 <p xml:lang="vep">SAMETINGETS INTERNASJONALE ENGASJEMENT ............................................................................................... 67</p>
 <p><em type="italic">Møter med sentrale myndigheter ................................................................................................................. 67 </em></p>
 <p><em type="italic">Nordlig dimensjon (EU) ............................................................................................................................... 68 </em></p>
@@ -307,7 +307,7 @@
 <p>Nordsamisk 32</p>
 <p>Lulesamisk 3</p>
 <p>Sørsamisk 11</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">46 </em></p>
+<p xml:lang="fao"><em type="bold">Sum 46 </em></p>
 <p>Av dette ble det bevilget tilskudd til nyopptrykk av 12 læremidler</p>
 <p>Særskilt tilrettelagte læremidler Tilskudd til særskilt tilrettelagte læremidler blir prioritert etter innrapporterte, individuelle behov og til læremidler innen områdene syns-, hørsels-, matematikk- og lese-/skrivevansker samt til kartleggings- og veiledningsmateriell.</p>
 <p>Til særskilt tilrettelagte læremidler var det satt av kr 1 940 101. Det kom det inn 17 søknader, og 6 av dem ble innvilget.</p>
@@ -327,7 +327,7 @@
 <p>Samisk som 1.språk 226 5 810 1 313 060 54,2 %</p>
 <p>Samisk som 2.språk 171 4 360 745 560 30,8 %</p>
 <p>Samisk som fremmedspråk 125 2 905 363 125 15,0 %</p>
-<p xml:lang="est"><em type="bold">Totalt </em><em type="bold">522 </em><em type="bold">2 421 745 </em><em type="bold">100,0 % </em>17 </p>
+<p xml:lang="est"><em type="bold">Totalt 522 2 421 745 100,0 % </em>17 </p>
 <p>Figuren under viser fordelingen av stipend for de ulike elevgruppene for årene 2009, 2010 og 2011:</p>
 <p>Virkemidler til sametingsrådets disposisjon</p>
 <p>Verdde-prosjektet Sametinget har i 2011 satt av kr 250 000 til et verddeprosjekt. Målet med et slikt prosjekt er å samle barn, unge og eldre i et felles prosjekt hvor man gjennom ulike arrangementer vil samle samisk, norsk og kvensk kultur. Sametinget har vært i dialog med Alta og Kautokeino kommuner, og begge kommunene har sagt seg villige til å delta i prosjektet. De to kommunene er nå i ferd med å etablere et samarbeid.</p>
@@ -343,7 +343,7 @@
 <p>Nasjonal rekrutteringsstrategi for samisk høyere utdanning</p>
 <p>Kunnskapsdepartementet ga i 2009 Sámi allaskuvla i oppdrag å opprette, lede og forestå sekretariatsfunksjonen for en nasjonal arbeidsgruppe med siktemål å utarbeide en strategi for rekruttering til samisk høyere utdanning, med særlig vekt på samisk lærerutdanning og samiske språk. Arbeidsgruppens forslag var ferdig i slutten av 2010.</p>
 <p>Sametinget hadde konsultasjoner med Kunnskapsdepartementet om arbeidsgruppens forslag til nasjonal rekrutteringsstrategi for samisk høyere utdanning i begynnelsen av 2011. Partene ble i avsluttende konsultasjonsmøte enige om definisjon av samisk høyere utdanning. Det ble lagt vekt på at samisk høyere utdanning er utdanningsløp der bruken av og kunnskap om samiske språk og samisk kultur står sentralt. Denne strategien inkluderer altså samisk høyere utdanning som (1) profesjonsutdanninger med undervisning på nord-, lule- eller sørsamisk og/eller utdanning i disse språkene, samt (2) utdanning innen temaer som samisk litteratur, samfunnsliv, tradisjonell kunnskap, historie og kultur uansett undervisningsspråk. Sametinget fikk også godtatt endringsforslag om rekruttering av ikke-samisktalende, der følgende tekst ble gjeldende:</p>
-<p><em type="italic">Tidligere fornorskningspolitikk har medført at det i dag er et begrenset antall personer med kompetanse i de samiske språkene i Norge. Det er derfor et tydelig behov for å øke antall personer som behersker de samiske språkene både skriftlig og muntlig. Dette er viktig av mange årsaker, blant annet for å revitalisere, bevare og utvikle samisk språk og kultur, men også for å sikre god forvaltning, befolkningens rettssikkerhet, samt øke befolkningens generelle </em><em type="italic">kunnskap om samiske språk og samisk kultur. </em>Det ble også enighet om at Sametingsrådet skulle inviteres til møte mellom Kunnskapsdepartementet og Samisk lærerutdanningsregion, hvor regionen skulle få ansvaret for å prioritere tiltak innenfor den nasjonale rekrutteringsstrategien for 2011. </p>
+<p><em type="italic">Tidligere fornorskningspolitikk har medført at det i dag er et begrenset antall personer med kompetanse i de samiske språkene i Norge. Det er derfor et tydelig behov for å øke antall personer som behersker de samiske språkene både skriftlig og muntlig. Dette er viktig av mange årsaker, blant annet for å revitalisere, bevare og utvikle samisk språk og kultur, men også for å sikre god forvaltning, befolkningens rettssikkerhet, samt øke befolkningens generelle kunnskap om samiske språk og samisk kultur. </em>Det ble også enighet om at Sametingsrådet skulle inviteres til møte mellom Kunnskapsdepartementet og Samisk lærerutdanningsregion, hvor regionen skulle få ansvaret for å prioritere tiltak innenfor den nasjonale rekrutteringsstrategien for 2011. </p>
 <p>Dialog med Samisk lærerutdanningsregion</p>
 <p>Sametinget har deltatt på møte mellom Kunnskapsdepartementet og Samisk lærerutdanningsregion (region 7). Samisk lærerutdanningsregion består av følgende høgskoler og universiteter: Sámi allaskuvla, Høgskolen i Finnmark, Universitetet i Tromsø, Universitetet i Nordland og Høgskolen i Nord-Trøndelag.</p>
 <p>Agendaen for møtet var regionens felles arbeidsområder og utfordringer fremover, her var rekruttering et tema. Sametinget presenterte hvilke behov som var avdekket for etter- og videreutdanning for lærere som underviser i samisk og i samiske emner. Sametinget ble invitert til å delta på alle møter mellom institusjonene i regionen.</p>
@@ -369,13 +369,13 @@
 <p>Utenfor prioriteringer (m.m.) 36 0 0</p>
 <p xml:lang="kmr">SUM 189 130 2 354 200 20</p>
 <p>Av de som har søkt om stipend til høyere utdanning i sør-, lule- og nordsamisk er fordelingen følgende: <em type="bold">Språkgruppe </em></p>
-<p><em type="bold">Antall </em><em type="bold">søknader </em></p>
-<p><em type="bold">Fordeling i </em><em type="bold">prosent </em></p>
-<p><em type="bold">Fordeling i </em><em type="bold">kroner </em></p>
+<p><em type="bold">Antall søknader </em></p>
+<p><em type="bold">Fordeling i prosent </em></p>
+<p><em type="bold">Fordeling i kroner </em></p>
 <p>Nordsamisk 91 56,7 % 1 587 900</p>
 <p>Lulesamisk 13 14,9 % 274 500</p>
 <p>Sørsamisk 22 28,4 % 391 000</p>
-<p xml:lang="kmr"><em type="bold">SUM </em><em type="bold">74 </em><em type="bold">100,0 % </em><em type="bold">2 253 400 </em></p>
+<p xml:lang="kmr"><em type="bold">SUM 74 100,0 % 2 253 400 </em></p>
 <p>Figuren under viser fordelingen av tildelte stipend i 2011 for de ulike prioriterte stipendordningene.</p>
 <p xml:lang="dan">Forskning</p>
 <p>Kandidater til forskningsrådets divisjonsstyrer</p>
@@ -387,7 +387,7 @@
 <p>Forskningsfond Nord- Norge: Eva Josefsen er oppnevnt som Sametingets medlem i fondsstyret for Nord- Norge for perioden 2012 – 2015, med varamedlem Kevin Johansen.</p>
 <p>Forskningsfond Midt- Norge: Arnt Erik Tjønna er oppnevnt som Sametingets medlem i fondsstyret for Midt- Norge for perioden 2012 -2015, med varamedlem Nora Marie Bransfjell. 21</p>
 <p xml:lang="nno">Akkrediteringskriterier for oppstart av nye doktorgradsstudier</p>
-<p>Kunnskapsdepartementet og Sametinget har hatt konsultasjoner om akkrediteringskriterier for oppstart av nye doktorgradsstudier. Partene har blitt enig om følgende: <em type="italic">Ved en forskriftsendring tas følgende tekst inn i departementets merknad til ny forskriftstekst: Kunnskapsdepartementet er oppmerksom på at dette kravet kan by på særskilte utfordringer ved Samisk høgskole fordi høgskolens formål er avhengig av at det kan rekrutteres personale og doktorgradskandidater med samisk </em><em type="italic">språkkompetanse. Det pågår nå en større utredning om samisk forskning og høyere utdanning som bl.a. skal redegjøre </em><em type="italic">for hvordan Samisk høgskole kan videreutvikles. I forbindelse med oppfølgingen av denne utredningen vil Kunnskapsdepartementet i samråd med Sametinget og Samisk høgskole vurdere om det er behov for å foreta </em><em type="italic">spesialtilpasninger i regelverket for å sikre høgskolen en god videreutvikling. </em></p>
+<p>Kunnskapsdepartementet og Sametinget har hatt konsultasjoner om akkrediteringskriterier for oppstart av nye doktorgradsstudier. Partene har blitt enig om følgende: <em type="italic">Ved en forskriftsendring tas følgende tekst inn i departementets merknad til ny forskriftstekst: Kunnskapsdepartementet er oppmerksom på at dette kravet kan by på særskilte utfordringer ved Samisk høgskole fordi høgskolens formål er avhengig av at det kan rekrutteres personale og doktorgradskandidater med samisk språkkompetanse. Det pågår nå en større utredning om samisk forskning og høyere utdanning som bl.a. skal redegjøre for hvordan Samisk høgskole kan videreutvikles. I forbindelse med oppfølgingen av denne utredningen vil Kunnskapsdepartementet i samråd med Sametinget og Samisk høgskole vurdere om det er behov for å foreta spesialtilpasninger i regelverket for å sikre høgskolen en god videreutvikling. </em></p>
 <p>Dersom det i løpet av 2011 kommer en søknad fra Sámi allaskuvla om akkreditering av et nytt doktorgradsstudium, vil Kunnskapsdepartementet kontakte utvalget som utreder samisk forskning og høyere utdanning. Dette for å få informasjon om utvalgets vurderinger av hvordan Sámi allaskuvla best kan videreutvikles. Deretter vil departementet ha en dialog med Sametinget og Sámi allaskuvla for å se om det vil være behov for endringer i forskriften knyttet til Sámi allaskuvla.</p>
 <p>Oppnevning av styremedlemmer i Sámi allaskuvla for perioden 2011-2015</p>
 <p>Følgende personer er oppnevnt som medlemmer for styreperioden 1. august 2011 til 31. juli 2015: Gunn-Britt Retter, Varangerbotn, med personlig varamedlem Outi Susanna Länsman, Anár, Finland (oppnevnt av Sametinget) Roger Skarvik, Alta, med personlig varamedlem Ánde Somby, Tromsø (oppnevnt av Sametinget) 3 Språk Den samiske befolkningen skal ha mulighet og rett til å bruke sitt eget språk. Bevaring og utvikling av det samiske språket er sentralt for den samiske kulturens framtid. Sametinget har derfor som hovedmål at samisk språk brukes aktivt og er synlig i det offentlige rom.</p>
@@ -741,7 +741,7 @@
 <p>Nordsamisk 4 4 7 15</p>
 <p>Lulesamisk 2 0 6 8</p>
 <p>Sørsamisk 2 0 1 3</p>
-<p xml:lang="est"><em type="bold">Totalt </em><em type="bold">8 </em><em type="bold">4 </em><em type="bold">14 </em><em type="bold">26 </em></p>
+<p xml:lang="est"><em type="bold">Totalt 8 4 14 26 </em></p>
 <p>Innenfor lulesamisk område er tilsagn gitt til 1 restaureringsprosjekt og 2 registreringsprosjekter som kan knyttes til det pitesamiske området. Blant restaureringsprosjektene kan noteres at flere mindre restaureringsprosjekter går til nordsamisk område og flere større til lulesamisk område. Av tilsagnene er 2 resultater av tidligere tilsagn til utarbeidelse av antikvariske restaureringsplaner fra 2010. Vi kan se at tendensen fra tidligere år med institusjonsbundet restaureringsarbeid i lulesamisk område fortsatt er til stede med Árran lulesamisk senter og Bodø kommune som sterke aktører. Vi noterer også at mer enn halvparten av tilsagnene har gått til nordsamisk område, men at den tildelte summen samlet sett er høyere for lulesamisk område. I sørsamisk område er antallet søkere lavt i forhold til andre områder og følgelig er tilsagnene lavere både i antall og sum. 61 7 Helse, sosial og omsorg Sametingets hovedmål er å sikre en likeverdig helse-, sosial- og omsorgstjeneste til det samiske folk. Tjenestene skal ta utgangspunkt i samisk språk og kultur. Helse-, sosial- og omsorgstilbud må tilpasses den samiske befolkningens behov. Helse-, sosial- og omsorgspersonell over hele landet må gis opplæring i samisk språk- og kultur.</p>
 <p>Sametinget arbeider på ulike måter for å nå disse målene. Gjennom dialog og samarbeid med sentrale myndigheter og andre relevante aktører, arbeider vi for å sikre Sametingets innflytelse på utformingen av helse-, sosial-, og omsorgstjenester til det samiske folk. Vi arbeider blant annet med å ivareta samiske barns rettigheter i møte med barneverntjenesten, bidrar til å tilpasse kriminalomsorgen til samiske innsattes behov og for å utvikle et samisk eldre- og omsorgstilbud. I tillegg gir vi tilskudd til ulike helse- og sosialprosjekter.</p>
 <p xml:lang="nno">Samarbeid</p>
@@ -907,36 +907,36 @@
 <p xml:lang="ita"><em type="bold">Note </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p><em type="bold">Driftsinntekter </em>Bevilgninger fra departementene1355 907 000355 707 000-200 000-0,1 % </p>
 <p>Avkastning Samefolkets fond145 617 4685 500 000-117 468-2,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftsinntekter </em><em type="bold">361 524 468 </em><em type="bold">361 207 000 </em><em type="bold">-317 468 </em><em type="bold">-0,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftsinntekter361 524 468361 207 000-317 468-0,1 % </em></p>
 <p><em type="bold">Virkemidler </em>Virkemidler2-13248 338 428251 219 2902 880 8621,1 % </p>
 <p>Samefolkets fond145 617 4685 500 000-117 468-2,1 %</p>
-<p><em type="bold">Sum virkemidler </em><em type="bold">253 955 895 </em><em type="bold">256 719 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
-<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER - VIRKEMIDLER </em><em type="bold">107 568 573 </em><em type="bold">104 487 710 </em><em type="bold">-3 080 862 </em><em type="bold">-2,9 % </em></p>
+<p><em type="bold">Sum virkemidler253 955 895256 719 2902 763 3951,1 % </em></p>
+<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER - VIRKEMIDLER107 568 573104 487 710-3 080 862-2,9 % </em></p>
 <p><em type="bold">Driftskostnader </em>Drift politisk nivå1521 749 57921 974 000224 4211,0 % </p>
 <p>Drift administrativt nivå1691 065 61590 560 000-505 616-0,6 %</p>
 <p>Spesielle prosjekter176 397 2485 000 000-1 397 248-27,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftskostnader </em><em type="bold">119 212 443 </em><em type="bold">117 534 000 </em><em type="bold">-1 678 443 </em><em type="bold">-1,4 % </em></p>
-<p><em type="bold">RESULTAT PR. 31. desember 2011 </em><em type="bold">-11 643 871 </em><em type="bold">-13 046 290 </em><em type="bold">-1 402 419 </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftskostnader119 212 443117 534 000-1 678 443-1,4 % </em></p>
+<p><em type="bold">RESULTAT PR. 31. desember 2011-11 643 871-13 046 290-1 402 419 </em></p>
 <p><em type="bold">Anvendelse av årsresultatet </em>Til annen egenkapital2311 643 871 </p>
-<p><em type="bold">Sum anvendelse </em><em type="bold">0 </em></p>
+<p><em type="bold">Sum anvendelse0 </em></p>
 <p xml:lang="olo">Balanse</p>
 <p><em type="bold">Beskrivelse </em></p>
-<p xml:lang="ita"><em type="bold">Note </em><em type="bold">2010 </em><em type="bold">2011 </em></p>
+<p xml:lang="ita"><em type="bold">Note20102011 </em></p>
 <p xml:lang="dan"><em type="bold">Eiendeler Anleggsmidler </em>Finansielle annleggsmidler1802 </p>
-<p><em type="bold">Sum finansielle anleggsmidler </em><em type="bold">0 </em><em type="bold">2 </em></p>
+<p><em type="bold">Sum finansielle anleggsmidler02 </em></p>
 <p xml:lang="dan"><em type="bold">Omløpsmidler </em>Kundefordringer198 547 6062 849 949 </p>
 <p xml:lang="dan">Andre fordringer20483 193610 840</p>
-<p><em type="bold">Sum fordringer </em><em type="bold">9 030 799 </em><em type="bold">3 460 789 </em></p>
+<p><em type="bold">Sum fordringer9 030 7993 460 789 </em></p>
 <p xml:lang="isl">Bankinnskudd155 303 287161 367 571</p>
 <p>Samefolketsfond1478 586 17777 535 664</p>
-<p><em type="bold">Sum bank </em><em type="bold">233 889 464 </em><em type="bold">238 903 235 </em></p>
-<p><em type="bold">Sum eiendeler </em><em type="bold">242 920 263 </em><em type="bold">242 364 026 </em></p>
+<p><em type="bold">Sum bank233 889 464238 903 235 </em></p>
+<p><em type="bold">Sum eiendeler242 920 263242 364 026 </em></p>
 <p xml:lang="nno"><em type="bold">Egenkapital og gjeld Egenkapital </em>Egenkapital23-3 648 638-13 046 290 </p>
 <p>Annen egenkapital23-9 397 65211 643 871</p>
-<p xml:lang="fao"><em type="bold">Sum egenkapital </em><em type="bold">-13 046 290 </em><em type="bold">-1 402 419 </em></p>
+<p xml:lang="fao"><em type="bold">Sum egenkapital-13 046 290-1 402 419 </em></p>
 <p><em type="bold">Gjeld Avsetning for forpliktelser </em>Avsetning gyldige tilsagn næringsutvikling6-33 106 054-35 653 750 </p>
 <p xml:lang="dan">Avsetning gyldige tilsagn kulturutvikling5-8 231 000-15 341 225</p>
 <p xml:lang="swe">Samefolketsfond - avkastning14-16 752 467-13 670 664</p>
@@ -947,32 +947,32 @@
 <p xml:lang="dan">Avsetning gyldige tilsagn interreg andel10-879 484-497 484</p>
 <p xml:lang="dan">Avsetning gyldige tilsagn språkprosjekter4-5 955 500-8 144 600</p>
 <p>Avsetning gyldige tilsagn andre virkemidler8-9,11-13-13 083 996-15 100 923</p>
-<p><em type="bold">Sum fondsavsetninger og andre avsetninger for forpliktelser </em><em type="bold">-198 515 691 </em><em type="bold">-210 933 609 </em></p>
+<p><em type="bold">Sum fondsavsetninger og andre avsetninger for forpliktelser-198 515 691-210 933 609 </em></p>
 <p>Avsetning vedlikehold Sametingsbygningen21-3 584 596-3 865 846</p>
-<p><em type="bold">Sum annen langsiktig gjeld </em><em type="bold">-3 584 596 </em><em type="bold">-3 865 846 </em></p>
+<p><em type="bold">Sum annen langsiktig gjeld-3 584 596-3 865 846 </em></p>
 <p xml:lang="nno"><em type="bold">Kortsiktig gjeld </em>Leverandørgjeld-913 766-1 323 728 </p>
 <p xml:lang="olo">Pensjonsinnskudd-508 942-473 919</p>
 <p>Skyldig offentlige avgifter-3 493 162-3 419 864</p>
 <p xml:lang="nno">Annen kortsiktig gjeld - avsetning feriepenger, gr.livsforsikring, andre trekk-7 614 849-8 046 156</p>
 <p>Annen kortsiktig gjeld - kapitalisert avkastn. Norges bank14-3 586 177-2 535 664</p>
 <p>Øvrige avsetninger22-11 656 791-10 362 821</p>
-<p><em type="bold">Sum kortsiktig gjeld </em><em type="bold">-27 773 686 </em><em type="bold">-26 162 152 </em></p>
-<p><em type="bold">Sum egenkapital og gjeld </em><em type="bold">-242 920 263 </em><em type="bold">-242 364 026 </em></p>
+<p><em type="bold">Sum kortsiktig gjeld-27 773 686-26 162 152 </em></p>
+<p><em type="bold">Sum egenkapital og gjeld-242 920 263-242 364 026 </em></p>
 <p>Noter til regnskapet</p>
 <p>Note 1 Bevilgninger fra departementene</p>
 <p>Fordeling av bevilgningene fra departementene er som følger:</p>
 <p><em type="bold">Kap.Post Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>680.50 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>680.50 </p>
 <p xml:lang="nno">Fornyings-, administrasjons- og kirkedep. - FAD225 655 000225 655 00000,0 % 206.50</p>
 <p>Kunnskapsdepartementet - KD35 420 00035 420 00000,0 % 231.50</p>
 <p>Kunnskapsdepartementet - KD13 753 00013 753 00000,0 % 1429.50 Miljøverndepartementet - MD3 000 0003 000 00000,0 % 320.53</p>
 <p xml:lang="nno">Kulturdepartementet - KUD67 379 00067 379 00000,0 % 724.21</p>
 <p xml:lang="nno">Helse- og omsorgdepartementet - HOD6 700 0006 500 000-200 000-3,0 % 1147.50 Landsbruksdepartementet - LD4 000 0004 000 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">355 907 000 </em><em type="bold">355 707 000 </em><em type="bold">-200 000 </em><em type="bold">-0,1 % </em>- </p>
+<p xml:lang="fao"><em type="bold">Sum355 907 000355 707 000-200 000-0,1 % </em>- </p>
 <p>Samefolkets fond5 617 4685 500 000-117 468-2,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">361 524 468 </em><em type="bold">361 207 000 </em><em type="bold">-317 468 </em><em type="bold">-0,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum361 524 468361 207 000-317 468-0,1 % </em></p>
 <p>Sametinget hadde ved budsjettbehandlingen av sak 43/10, Sametingets budsjett 2011, en bevilgning på totalt kr 361 207 000, inkl. avkastning av Samefolkets fond. Avkastning av Samefolkets fond inntektsføres ikke over resultatregnskapet. Ved innbetaling bokføres denne i balansen under punkt <span type="quote">"Samefolkets fond - avkastning"</span>. Årets forbruk av Samefolkets fond er inntektsført og opparbeidet avkastningen av Samefolket Fond er tilsvarende redusert, se note 14.</p>
 <p>Regnskapet viser at Sametinget har fått bevilget kr 200 000 mer fra Helse- og omsorgsdepartementet (HOD). Dette skyldes at bevilgningen for 2011 fra HOD ikke var spesifisert i henhold til HODs forslag til statsbudsjett for 2011 til Sametinget. Sametinget har i sitt budsjett for 2011 budsjettert med kr 6 500 000. Ved tildelingsbrevet for 2011 var bevilgningen på kr 6 700 000, det vil si kr 200 000 mer enn det Sametinget hadde forutsatt. Kulturdepartementet (KUD) har bevilget kr 600 000 til samisk idrett for 2011. Denne bevilgningen er inntektsført og utbetalt direkte over virkemiddelpost 205.</p>
 <p>Fornyings-, administrasjons- og kirkedepartementet (FAD) og Kulturdepartementet (KUD) har hver bevilget kr 547 781 til språkundersøkelsen som gjennomføres i 2012. Bevilgningen på totalt 1 095 562 er inntektsført under virkemiddelpost 860. Riksantikvaren har bevilget kr 2 000 000 til prosjektet identifisering og registrering av samiske hus i Norge for 2011. Denne bevilgningen er inntektsført under administrasjon med egen prosjektkode.</p>
@@ -983,46 +983,46 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd120 884 000121 223 000 <em type="bold">339 000 </em><em type="bold">0,3 % </em>- </p>
-<p>Søkerbasert tilskudd94 407 70596 374 290 <em type="bold">1 966 585 </em><em type="bold">2,0 % </em>- </p>
-<p xml:lang="dan">Verdiskapningsprogram4 840 0416 150 000 <em type="bold">1 309 959 </em><em type="bold">21,3 % </em>- </p>
-<p>Avtaler16 117 88115 315 000 <em type="bold">-802 881 </em><em type="bold">-5,2 % </em>- </p>
-<p>Andre virkemidler6 377 5077 032 000 <em type="bold">654 493 </em><em type="bold">9,3 % </em>- </p>
-<p>Samefolkets fond5 617 4685 500 000 <em type="bold">-117 468 </em><em type="bold">-2,1 % </em>- </p>
-<p>Andre tiltak5 211 2944 625 000 <em type="bold">-586 294 </em><em type="bold">-12,7 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">253 455 895 </em><em type="bold">256 219 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd120 884 000121 223 000 <em type="bold">339 0000,3 % </em>- </p>
+<p>Søkerbasert tilskudd94 407 70596 374 290 <em type="bold">1 966 5852,0 % </em>- </p>
+<p xml:lang="dan">Verdiskapningsprogram4 840 0416 150 000 <em type="bold">1 309 95921,3 % </em>- </p>
+<p>Avtaler16 117 88115 315 000 <em type="bold">-802 881-5,2 % </em>- </p>
+<p>Andre virkemidler6 377 5077 032 000 <em type="bold">654 4939,3 % </em>- </p>
+<p>Samefolkets fond5 617 4685 500 000 <em type="bold">-117 468-2,1 % </em>- </p>
+<p>Andre tiltak5 211 2944 625 000 <em type="bold">-586 294-12,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum253 455 895256 219 2902 763 3951,1 % </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="ita"><em type="bold">Note </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>100-102 Opplæring36 684 89337 385 290700 3971,9 % 150-153 Språk60 628 19360 600 000-28 193-0,0 % 200-212 Kultur89 699 19789 376 000-323 197-0,4 % 300-302 Næring32 932 37036 063 0003 130 6308,7 % 400-402 Miljø- og kulturvern2 104 1622 000 000-104 162-5,2 % 450 </p>
+<p><em type="bold">Avviki % </em>100-102 Opplæring36 684 89337 385 290700 3971,9 % 150-153 Språk60 628 19360 600 000-28 193-0,0 % 200-212 Kultur89 699 19789 376 000-323 197-0,4 % 300-302 Næring32 932 37036 063 0003 130 6308,7 % 400-402 Miljø- og kulturvern2 104 1622 000 000-104 162-5,2 % 450 </p>
 <p xml:lang="nno">Helse- og sosialsatsing2 173 3533 350 0001 176 64735,1 % 500</p>
 <p xml:lang="est">Regionalutvikling6 423 0005 237 000-1 186 000-22,6 % 505</p>
 <p>Internasjonalt og samisk samarbeid2 202 2001 350 000-852 200-63,1 % 750-756 Samiske organisasjoner3 902 2594 201 000298 7417,1 % 500-507 Andre virkemidler6 377 5077 032 000654 4939,3 % 600-602 Samefolkets fond5 617 4685 500 000-117 468-2,1 % 800-899 Andre titlak5 211 2944 625 000-586 294-12,7 %</p>
-<p><em type="bold">Sum virkemidler </em><em type="bold">253 955 895 </em><em type="bold">256 719 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
+<p><em type="bold">Sum virkemidler253 955 895256 719 2902 763 3951,1 % </em></p>
 <p>Sametingets virkemidler er en blanding av direkte bevilgninger og søkerbaserte tilskuddsordninger som gis som tilskudd med gyldighet over flere år eller som årlige tilskudd. Sametingsrådet fordeler de søkerbaserte virkemidlene innenfor Sametingets budsjett med unntak av de virkemidlene som er lagt til Møtelederskapets disposisjon. Totalt viser virkemiddelregnskapet for 2011 et overskudd på kr 2 763 395. De enkelte postene blir presentert og eventuelt kommentert i notene til regnskapet. For øvrig vises det til årsmeldingen for kommentarer til virkemiddelpostene.</p>
 <p>Iht. Sametingets budsjett for 2011 kapittel 3.2 Søkerbaserte tilskudd har sametingsrådet fullmakt til å omdisponere inntil 20 % av avsatte midler i budsjettet. Fullmakten gjelder ikke direkte tilskudd, virkemidler til plenumsledelsens disposisjon, Samefolkets fond og driftsutgifter. Sametingsrådet skal i budsjettåret informere Sametingets plenum om eventuelle omdisponeringer jf. sak 43/07. I 2011 er omdisponeringsfullmakten brukt til å dekke underskuddet til enkelte tilskuddsposter, ved at andre tilskuddsposter har et overskudd.</p>
 <p>Note 3 Opplæring</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd29 908 17129 485 290 <em type="bold">-422 881 </em><em type="bold">-1,4 % </em>- </p>
-<p>Tiltak for å styrke læremiddelproduksjon4 000 0004 000 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Samisk læremiddelportal2 776 7233 900 000 <em type="bold">1 123 277 </em><em type="bold">28,8 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">36 684 893 </em><em type="bold">37 385 290 </em><em type="bold">700 396 </em><em type="bold">1,9 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd29 908 17129 485 290 <em type="bold">-422 881-1,4 % </em>- </p>
+<p>Tiltak for å styrke læremiddelproduksjon4 000 0004 000 000 <em type="bold">00,0 % </em>- </p>
+<p>Samisk læremiddelportal2 776 7233 900 000 <em type="bold">1 123 27728,8 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum36 684 89337 385 290700 3961,9 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Opplæring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>100 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>100 </p>
 <p>Grunnskole og videreg.opplæring-læremiddelutv.16 183 04115 330 290-852 751-5,6 % 101</p>
 <p>Kompetanseheving4 876 3754 750 000-126 375-2,7 % 102</p>
 <p xml:lang="dan">Barnehager8 848 7549 405 000556 2465,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">29 908 171 </em><em type="bold">29 485 290 </em><em type="bold">-422 881 </em><em type="bold">-1,4 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum29 908 17129 485 290-422 881-1,4 % </em></p>
 <p xml:lang="dan"><em type="bold">Læremiddelutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
@@ -1031,83 +1031,83 @@
 <p>Budsjett 2011 fra post 100 - 10433 485 290</p>
 <p>Avsetning til Pilotprosjekt ressursskole 800 000</p>
 <p>Avsetning til oversettelse læreverk2 716 500</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">67 674 400 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201167 674 400 </em></p>
 <p xml:lang="nno">Utbetalt i 2011 post 100 - 104-31 253 080</p>
 <p>Tilbakebetalt tilskudd723 162</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">37 144 483 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201137 144 483 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-35 544 663</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011, 2491-413 000</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011, 2410-176 700</p>
 <p>Avsetning til oversettelse læreverk 31/12-2011-1 433 000</p>
-<p><em type="bold">Resultat læremiddelutvikling 2011 </em><em type="bold">-422 881 </em></p>
+<p><em type="bold">Resultat læremiddelutvikling 2011-422 881 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>2001135 0000,4 % 031 9462002360 4501,0 % 002003539 7971,5 % 0020040-002005103 8040,3 % 0020062 025 1475,6 % 215 601020072 028 5215,6 % 0020084 180 75011,6 % 581 600691 21620093 999 70011,1 % 0020106 243 65017,3 % 29 0000201116 517 54445,7 % 65 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">36 134 363 </em><em type="bold">100,0 % </em><em type="bold">891 201 </em><em type="bold">723 162 </em></p>
+<p xml:lang="fao"><em type="bold">Sum36 134 363100,0 % 891 201723 162 </em></p>
 <p>Søkerbaserte tilskudd for opplæring viser et underskudd på kr 422 881. Underskuddet skyldes merforbruk på posten. En del av underskuddet på denne posten dekkes inn av tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 1 614 363 og overskuddet fra de andre søkerbaserte virkemidler. Viser til sametingsrådets omdisponeringsfullmakt. Det avsettes kr 36 134 363 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Post 103 tiltak for å styrke læremiddelproduksjon avsettes det kr 1 433 000 til oversettelse av matematikk læremidler. Post 105 Ovttas|Aktan|Aktesne viser et overskudd på kr 1 123 277. Overskuddet skyldes at prosjektet hadde i 2011 planer å utvikle 2 læremiddelpiloter. Dette arbeidet utløser bestillinger av ulike elementer til pilotene; som animasjoner, illustrasjoner, film- og lydfiler. Av ulike årsaker har ikke prosjektet kunnet gjøre bestillinger av disse elementene innenfor den planlagte perioden. I tillegg til at dette er produkter/bestillinger som er tidkrevende, er disse elementene også kostbare investeringer.</p>
 <p>Note 4 Språk</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd51 599 00051 599 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd9 029 1939 001 000 <em type="bold">-28 193 </em><em type="bold">-0,3 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">60 628 193 </em><em type="bold">60 600 000 </em><em type="bold">-28 193 </em><em type="bold">-0,0 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd51 599 00051 599 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd9 029 1939 001 000 <em type="bold">-28 193-0,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum60 628 19360 600 000-28 193-0,0 % </em></p>
 <p><em type="bold">Direkte tilskudd - Språk </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>150 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>150 </p>
 <p xml:lang="dan">Tospråklighetstilskudd 45 929 00045 929 00000,0 % 153</p>
 <p>Grunntilskudd til språksentre5 670 0005 670 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">51 599 000 </em><em type="bold">51 599 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum51 599 00051 599 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Språk </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>151 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>151 </p>
 <p>Språkprosjekter innenfor forvaltningsområdet4 739 8344 401 000-338 834-7,1 % 152</p>
 <p>Språkprosjekter utenfor forvaltningsområdet4 289 3594 600 000310 6417,2 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">9 029 193 </em><em type="bold">9 001 000 </em><em type="bold">-28 193 </em><em type="bold">-0,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum9 029 1939 001 000-28 193-0,3 % </em></p>
 <p><em type="bold">Språkprosjekter </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-115 955 500</p>
 <p>Budsjett 2011 - Språkprosj. innenfor forv.omr.4 401 000</p>
 <p>Budsjett 2011 - Språkprosj. utenfor forv.omr.4 600 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">14 956 500 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201114 956 500 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-6 937 459</p>
 <p>Tilbakebetalt tilskudd97 366</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">8 116 407 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20118 116 407 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-8 144 600</p>
-<p><em type="bold">Resultat språkprosjekter 2011 </em><em type="bold">-28 193 </em></p>
+<p><em type="bold">Resultat språkprosjekter 2011-28 193 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>20080-151 00047 8662009757 5009,3 % 175 00049 50020102 166 00026,6 % 56 741020115 221 10064,1 % 00 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">8 144 600 </em><em type="bold">100,0 % </em><em type="bold">382 741 </em><em type="bold">97 366 </em></p>
+<p xml:lang="fao"><em type="bold">Sum8 144 600100,0 % 382 74197 366 </em></p>
 <p>Posten språkprosjekter innenfor og utenfor forvaltningsområdet viser et underskudd på kr 28 193. Underskuddet skyldes merforbruk av posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 480 107. Det avsettes kr 8 144 600 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p xml:lang="deu">Note 5 Kultur</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd65 933 00066 272 000 <em type="bold">339 000 </em><em type="bold">0,5 % </em>- </p>
-<p>Søkerbaserte tilskudd17 851 19717 189 000 <em type="bold">-662 197 </em><em type="bold">-3,9 % </em>- </p>
-<p>Kunstneravtalen5 915 0005 915 000 <em type="bold">0 </em><em type="bold">0,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">89 699 197 </em><em type="bold">89 376 000 </em><em type="bold">-323 197 </em><em type="bold">-0,4 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd65 933 00066 272 000 <em type="bold">339 0000,5 % </em>- </p>
+<p>Søkerbaserte tilskudd17 851 19717 189 000 <em type="bold">-662 197-3,9 % </em>- </p>
+<p>Kunstneravtalen5 915 0005 915 000 <em type="bold">00,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum89 699 19789 376 000-323 197-0,4 % </em></p>
 <p><em type="bold">Direkte tilskudd - Kultur </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>202 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>202 </p>
 <p xml:lang="est">Samiske kulturhus9 588 0009 588 00000,0 % 204</p>
 <p>Samiske festivaler 2 941 0003 249 000308 0009,5 % 205</p>
 <p>Samisk idrett1 847 0001 847 00000,0 % 206</p>
@@ -1115,7 +1115,7 @@
 <p>Samiske publikasjoner 3 106 0003 106 00000,0 % 209</p>
 <p>Mobile bibliotektjenester6 975 0006 975 00000,0 % 210</p>
 <p>Museer23 736 00023 767 00031 0000,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">65 933 000 </em><em type="bold">66 272 000 </em><em type="bold">339 000 </em><em type="bold">0,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum65 933 00066 272 000339 0000,5 % </em></p>
 <p>Post 204 samiske festivaler viser et overskudd på kr 308 000. Overskuddet skyldes ikke tildelt tilskudd til Filmfestivalen i Kautokeino.</p>
 <p>Under post 210 Museer, videreføres avsetningen på kr 350 000 til prosjektering og planlegging av kunstmuseum i Karasjok. Prosjektet er igangsatt og planlagt ferdigstilt i 2012. Avsetning gjort i 2010 på kr 200 000 til dokumentasjonssenter Alta/Kautokeino er utbetalt med kr 169 000 som gir et overskudd på kr 31 000.</p>
 <p><em type="bold">Søkerbaserte tilskudd - Kultur </em></p>
@@ -1123,244 +1123,244 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>200 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>200 </p>
 <p>Samisk kulturutvikling11 591 94410 764 000-827 944-7,7 % 201</p>
 <p>Samiske forlag 2 956 0002 750 000-206 000-7,5 % 212</p>
 <p xml:lang="dan">Investering bokbuss2 500 0002 500 00000,0 % 213</p>
 <p>Samiske møteplasser803 2531 175 000371 74731,6 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">17 851 197 </em><em type="bold">17 189 000 </em><em type="bold">-662 197 </em><em type="bold">-3,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum17 851 19717 189 000-662 197-3,9 % </em></p>
 <p xml:lang="est"><em type="bold">Kulturutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-20118 156 000</p>
 <p xml:lang="dan">Bevilgning i 201117 189 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">25 345 000 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201125 345 000 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-10 838 069</p>
 <p>Tilbakebetalte tilskudd 172 097</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">14 679 028 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201114 679 028 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-15 341 225</p>
-<p><em type="bold">Resultat samisk kulturutvikling 2011 </em><em type="bold">-662 197 </em></p>
+<p><em type="bold">Resultat samisk kulturutvikling 2011-662 197 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>200760 0000,4 % 25 0008 3002008642 5004,2 % 226 47765 0002009891 5005,8 % 215 00050 00020102 447 75016,0 % 206 36548 797201111 299 47573,7 % 45 8650 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">15 341 225 </em><em type="bold">100,0 % </em><em type="bold">718 707 </em><em type="bold">172 097 </em></p>
+<p xml:lang="fao"><em type="bold">Sum15 341 225100,0 % 718 707172 097 </em></p>
 <p>Posten kulturutvikling viser et underskudd på kr 662 197. Underskuddet skyldes merforbruk av posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 890 804. Det avsettes kr 15 341 225 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p><em type="bold">Samisk kunstneravtale </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>207 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>207 </p>
 <p>Samisk kunstneravtale5 915 0005 915 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 915 000 </em><em type="bold">5 915 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 915 0005 915 00000,0 % </em></p>
 <p>Note 6 Næring</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd3 102 0003 102 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd14 787 44817 411 000 <em type="bold">2 623 552 </em><em type="bold">17,7 % </em>- </p>
-<p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 000 <em type="bold">1 309 959 </em><em type="bold">27,1 % </em>- </p>
-<p xml:lang="smj">Duodjiavtale10 202 8819 400 000 <em type="bold">-802 881 </em><em type="bold">-7,9 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">32 932 370 </em><em type="bold">36 063 000 </em><em type="bold">3 130 630 </em><em type="bold">9,5 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd3 102 0003 102 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd14 787 44817 411 000 <em type="bold">2 623 55217,7 % </em>- </p>
+<p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 000 <em type="bold">1 309 95927,1 % </em>- </p>
+<p xml:lang="smj">Duodjiavtale10 202 8819 400 000 <em type="bold">-802 881-7,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum32 932 37036 063 0003 130 6309,5 % </em></p>
 <p><em type="bold">Direkte tilskudd - Næring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>301 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>301 </p>
 <p>Duodjiinstitusjoner og organisasjoner3 102 0003 102 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 102 000 </em><em type="bold">3 102 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 102 0003 102 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Næring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="nno">Næringsutvikling14 787 44817 411 0002 623 55217,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">14 787 448 </em><em type="bold">17 411 000 </em><em type="bold">2 623 552 </em><em type="bold">17,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum14 787 44817 411 0002 623 55217,7 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Verdiskapninsprogrammet </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 0001 309 95927,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 840 041 </em><em type="bold">6 150 000 </em><em type="bold">1 309 959 </em><em type="bold">27,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 840 0416 150 0001 309 95927,1 % </em></p>
 <p xml:lang="smj"><em type="bold">Duodjiavtale </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="smj">Duodjiavtale10 202 8819 400 000-802 881-7,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">10 202 881 </em><em type="bold">9 400 000 </em><em type="bold">-802 881 </em><em type="bold">-7,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum10 202 8819 400 000-802 881-7,9 % </em></p>
 <p xml:lang="nno"><em type="bold">Næringsutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-1133 106 054</p>
 <p>Budsjett 201132 961 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">66 067 054 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201166 067 054 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-25 612 601</p>
 <p>Utbetalt diverse utgifter duodji avtalen-1 670 073</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">38 784 380 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201138 784 380 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-35 653 750</p>
-<p xml:lang="nno"><em type="bold">Resultat næringsutvikling 2011 </em><em type="bold">3 130 630 </em></p>
+<p xml:lang="nno"><em type="bold">Resultat næringsutvikling 20113 130 630 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>20070-42 328020081 092 5003,1 % 677 663020092 481 0007,0 % 938 200020109 410 06926,4 % 890 4760201122 670 18163,6 % 64 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">35 653 750 </em><em type="bold">100,0 % </em><em type="bold">2 612 667 </em><em type="bold">0 </em></p>
+<p xml:lang="fao"><em type="bold">Sum35 653 750100,0 % 2 612 6670 </em></p>
 <p>Posten næringsutvikling, verdiskapningsprogrammet og duodjiavtalen viser et overskudd på kr 3 130 630. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 2 612 667. Det avsettes kr 35 653 750 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p xml:lang="dan">Note 7 Miljø- og kulturvern</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd2 104 1622 000 000 <em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 104 162 </em><em type="bold">2 000 000 </em><em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd2 104 1622 000 000 <em type="bold">-104 162-5,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 104 1622 000 000-104 162-5,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Miljø- og kulturvern </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>400 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>400 </p>
 <p xml:lang="kal">Kulturminnevern2 104 1622 000 000-104 162-5,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 104 162 </em><em type="bold">2 000 000 </em><em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 104 1622 000 000-104 162-5,0 % </em></p>
 <p xml:lang="kal"><em type="bold">Kulturminnevern </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-114 360 300</p>
 <p>Budsjett 20112 000 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">6 360 300 </em></p>
+<p><em type="bold">Totalt til disposisjon i 20116 360 300 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-1 956 662</p>
 <p>Tilbakebetalte tilskudd 28 000</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">4 431 638 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20114 431 638 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11-4 535 800</p>
-<p><em type="bold">Resultat samisk kulturminnevern 2011 </em><em type="bold">-104 162 </em></p>
+<p><em type="bold">Resultat samisk kulturminnevern 2011-104 162 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>200637 8000,8 % 002007104 0002,3 % 100 00002008163 0003,6 % 194 472020091 420 00031,3 % 133 00011 0002010940 00020,7 % 23 36617 00020111 871 00041,2 % 00 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 535 800 </em><em type="bold">100,0 % </em><em type="bold">450 838 </em><em type="bold">28 000 </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 535 800100,0 % 450 83828 000 </em></p>
 <p>Posten kulturminnevern viser et underskudd på kr 104 162. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 478 838. Det avsettes kr 4 535 800 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 8 Helse- og sosialsatsing</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd500 000500 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd1 673 3532 850 000 <em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 673 353 </em><em type="bold">2 850 000 </em><em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd500 000500 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd1 673 3532 850 000 <em type="bold">1 176 64770,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 673 3532 850 0001 176 64770,3 % </em></p>
 <p><em type="bold">Direkte tilskudd - Helse, sosial og omsorg </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>451 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>451 </p>
 <p>Brukerrettede tilbud for eldre samer500 000500 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">500 000 </em><em type="bold">500 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum500 000500 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Helse, sosial og omsorg </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>450 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>450 </p>
 <p xml:lang="nno">Helse- og sosialsatsing1 673 3532 850 0001 176 64770,3 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 673 353 </em><em type="bold">2 850 000 </em><em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 673 3532 850 0001 176 64770,3 % </em></p>
 <p>Posten helse, sosial og omsorg viser et overskudd på kr 1 176 647. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 1 444 807. Det avsettes kr 2 166 290 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 9 Regionalutvikling</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd6 423 0005 237 000 <em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 423 000 </em><em type="bold">5 237 000 </em><em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd6 423 0005 237 000 <em type="bold">-1 186 000-18,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 423 0005 237 000-1 186 000-18,5 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Regionalutvikling </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>500 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>500 </p>
 <p xml:lang="est">Regionalutvikling6 423 0005 237 000-1 186 000-18,5 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 423 000 </em><em type="bold">5 237 000 </em><em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 423 0005 237 000-1 186 000-18,5 % </em></p>
 <p>Posten regionalutvikling viser et underskudd på kr 1 186 000. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger av ikke gjennomførte prosjekter på kr 425 000. Det avsettes kr 6 170 000 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 10 Internasjonalt og samisk samarbeid</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd250 000250 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd1 952 2001 100 000 <em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 952 200 </em><em type="bold">1 100 000 </em><em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd250 000250 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd1 952 2001 100 000 <em type="bold">-852 200-43,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 952 2001 100 000-852 200-43,7 % </em></p>
 <p><em type="bold">Direkte tilskudd - Internasjonalt og samisk samarbeid </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>505 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>505 </p>
 <p>Baretns urfolkskontor i Lovozero250 000250 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">250 000 </em><em type="bold">250 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum250 000250 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Internajsonalt og samisk samarbeid </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>505 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>505 </p>
 <p>Internsjonlat tiltak1 952 2001 100 000-852 200-43,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 952 200 </em><em type="bold">1 100 000 </em><em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 952 2001 100 000-852 200-43,7 % </em></p>
 <p><em type="bold">Internasjonale tiltak </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-11 ,2461879 484</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-11, 24911 084 000</p>
 <p>Budsjett 20111 100 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">3 063 484 </em></p>
+<p><em type="bold">Totalt til disposisjon i 20113 063 484 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-1 272 200</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">1 791 284 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20111 791 284 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11, ført 2461-497 484</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11, ført på 2491-2 146 000</p>
-<p><em type="bold">Resultat Internasjonale tiltak 2011 </em><em type="bold">-852 200 </em></p>
+<p><em type="bold">Resultat Internasjonale tiltak 2011-852 200 </em></p>
 <p>Posten internasjonale tiltak viser et underskudd på kr 852 200. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det avsettes kr 2 643 484 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 11 Samiske organisasjoner</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd3 902 2594 201 000 <em type="bold">298 741 </em><em type="bold">7,1 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 902 259 </em><em type="bold">4 201 000 </em><em type="bold">298 741 </em><em type="bold">7,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd3 902 2594 201 000 <em type="bold">298 7417,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 902 2594 201 000298 7417,1 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Samiske organisasjoner </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>750 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>750 </p>
 <p>Samiske hovedorganisasjoner2 450 8362 451 0001640,0 % 755</p>
 <p>Samiske grenseoverskridende organisasjoner350 000350 00000,0 % 756</p>
 <p>Samiske kulturorganisasjoner400 000400 00000,0 % 757</p>
 <p>Samiske næringsorganisasjoner499 900500 0001000,0 % 758</p>
 <p>Samiske likestillingsorganisasjoner222 000300 00078 00035,1 % 759</p>
 <p>Samisk org. tapt skolegang-20 477200 000220 477-1076,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 902 259 </em><em type="bold">4 201 000 </em><em type="bold">298 741 </em><em type="bold">7,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 902 2594 201 000298 7417,7 % </em></p>
 <p>Posten samiske organisasjoner viser et overskudd på kr 298 741. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 98 477. I tillegg er ikke tilskuddet på post 759 tildelt i 2011.</p>
 <p>Note 12 Andre virkemidler</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Virkemidler til Sametingsrådets disposisjon2 223 9982 800 000 <em type="bold">576 002 </em><em type="bold">25,9 % </em>- </p>
-<p>Virkemidler til møtelederskapets disposisjon4 153 5094 232 000 <em type="bold">78 491 </em><em type="bold">1,9 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 377 507 </em><em type="bold">7 032 000 </em><em type="bold">654 493 </em><em type="bold">10,3 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Virkemidler til Sametingsrådets disposisjon2 223 9982 800 000 <em type="bold">576 00225,9 % </em>- </p>
+<p>Virkemidler til møtelederskapets disposisjon4 153 5094 232 000 <em type="bold">78 4911,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 377 5077 032 000654 49310,3 % </em></p>
 <p><em type="bold">Virkemidler til Sametingsrådets disposisjon </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>501 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>501 </p>
 <p>Frie midler749 000300 000-449 000-59,9 % 507</p>
 <p>Oppfølgning av institusjonsmelding724 998700 000-24 998-3,4 % 508</p>
 <p>Senter for samisk opplæring500 000500 00000,0 % 509</p>
@@ -1368,92 +1368,92 @@
 <p xml:lang="est">Likestillingstiltak0300 000300 000-511</p>
 <p>Skrive og lesehjelp til eldre samer250 000250 00000,0 % 512</p>
 <p>Prosjekt om leker og ped.materiell0500 000500 000-</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 223 998 </em><em type="bold">2 800 000 </em><em type="bold">576 002 </em><em type="bold">25,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 223 9982 800 000576 00225,9 % </em></p>
 <p>Virkemidler til Sametingsrådets disposisjon viser totalt et overskudd på kr 576 002. Overskuddet skyldes tilbaketrekninger av ikke gjennomførte prosjekter på kr 300 000 under post 510 og ubenyttede midler, samt prioritering av virkemiddelordningen Frie midler. Viser til sametingsrådets omdisponeringsfullmakt.</p>
 <p><em type="bold">Virkemidler til møtelederskapets disposisjon </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>502 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>502 </p>
 <p>Politiske grupper i Sametinget 3 140 4833 219 00078 5172,5 % 503</p>
 <p xml:lang="nno">Opposisjonens arbeidsvilkår1 013 0261 013 000-26-0,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 153 509 </em><em type="bold">4 232 000 </em><em type="bold">78 491 </em><em type="bold">1,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 153 5094 232 00078 4911,9 % </em></p>
 <p>Note 13 Andre tiltak som ikke er virkemidler</p>
 <p><em type="bold">Andre tiltak </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>800 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>800 </p>
 <p xml:lang="deu">Konferanser1 657 2511 550 000-107 251-6,5 % 801</p>
 <p>Samiskrelatert statistikk i Norge375 000375 00000,0 % 850</p>
 <p>Utdeling av priser124 485100 000-24 485-19,7 % 860</p>
 <p>Forskning, utvikling,utredning og dok.midler2 360 6181 700 000-660 618-28,0 % 899</p>
 <p xml:lang="dan">Evalueringer693 939900 000206 06129,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 211 294 </em><em type="bold">4 625 000 </em><em type="bold">-586 294 </em><em type="bold">-11,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 211 2944 625 000-586 294-11,3 % </em></p>
 <p>Underskuddet på post 800 konferanser skyldes merforbruk til konferansene enn det som var budsjettert. Underskuddet på post 860 Forsking, utvikling, utredning og dokumentasjonsmidler på kr 660 618 skyldes merforbruk på posten enn budsjettert. Det er foretatt en avsetning på kr 150 000 til prosjektet mål og behovsanalyse av samiske museer og kr 195 000 til prosjektet tilbakeføring av samiske gjenstander fra Norsk folkemuseum. I tillegg fikk Sametinget bevilgning fra Fornyings-, administrasjons- og kirkedepartementet (FAD) og Kulturdepartementet (KUD) til språkundersøkelsen som gjennomføres i 2012. Det er foretatt en avtale med Nordlandsforsking hvor første del er utbetalt i 2011 og andre del på kr 730 375 avsettes til 2012.</p>
 <p>Evaluering av samiske språksentra er påbegynt av Norut Alta AS, men ikke avsluttet. Første del av er utbetalt i 2011 og andre del på kr 309 375 avsettes til 2012.</p>
 <p>Note 14 Samefolkets fond</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd4 617 4684 500 000 <em type="bold">-117 468 </em><em type="bold">-2,5 % </em>- </p>
-<p>Utviklings-, utrednings- og dokumentasjonsmidler1 000 0001 000 000 <em type="bold">0 </em><em type="bold">0,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 617 468 </em><em type="bold">5 500 000 </em><em type="bold">-117 468 </em><em type="bold">-2,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd4 617 4684 500 000 <em type="bold">-117 468-2,5 % </em>- </p>
+<p>Utviklings-, utrednings- og dokumentasjonsmidler1 000 0001 000 000 <em type="bold">00,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 617 4685 500 000-117 468-2,1 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Samefolkets fond </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>600 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>600 </p>
 <p xml:lang="nno">Språkutviklingstiltak915 9791 200 000284 02131,0 % 600</p>
 <p>Tradisjonell kunnskap - dok. og formidling1 337 1891 300 000-37 189-2,8 % 600</p>
 <p>Litteratur2 364 3002 000 000-364 300-15,4 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 617 468 </em><em type="bold">4 500 000 </em><em type="bold">-117 468 </em><em type="bold">-2,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 617 4684 500 000-117 468-2,5 % </em></p>
 <p><em type="bold">Utviklings-, utrednings- og dokumentasjonsmidler - Samefolkets fond </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>601 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>601 </p>
 <p xml:lang="nno">Språkprogram800 000800 00000,0 % 601</p>
 <p>Dok. og formidling av tradisjonell kunnskap200 000200 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 000 000 </em><em type="bold">1 000 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 000 0001 000 00000,0 % </em></p>
 <p><em type="bold">Samefolkets fond </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-1111 447 280</p>
 <p>Budsjett 20115 500 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">16 947 280 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201116 947 280 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-9 620 248</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">7 327 032 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20117 327 032 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-7 444 500</p>
-<p xml:lang="deu"><em type="bold">Resultat Samefolketsfond 2011 </em><em type="bold">-117 468 </em></p>
+<p xml:lang="deu"><em type="bold">Resultat Samefolketsfond 2011-117 468 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>2008504 5006,8 % 55 000020091 484 00019,9 % 268 121020101 972 00026,5 % 56 412020113 484 00046,8 % 100 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">7 444 500 </em><em type="bold">100,0 % </em><em type="bold">479 533 </em><em type="bold">0 </em></p>
+<p xml:lang="fao"><em type="bold">Sum7 444 500100,0 % 479 5330 </em></p>
 <p>Posten Samefolkets fond viser et underskudd på kr 117 468. Underskuddet skyldes merforbruk på posten. Det er gjort tilbaketrekninger av ikke gjennomførte prosjekter på kr 479 533. Det avsettes kr 7 444 500 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p><em type="bold">Avkastning Samefolkets fond </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Samefolkets fond/innestående pr. 31/12-1177 535 664</p>
 <p>Fratrukket kapital Samefolkets fond-75 000 000</p>
-<p xml:lang="fao"><em type="bold">Sum avkastning 2011 </em><em type="bold">2 535 664 </em></p>
+<p xml:lang="fao"><em type="bold">Sum avkastning 20112 535 664 </em></p>
 <p><em type="bold">Bundne midler Samefolkets fond </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Avkastning bokført pr. 1/1-201116 752 467</p>
 <p xml:lang="est">Avkastning 20112 535 664</p>
 <p>Brukt av Samefolkets fond i 2011-5 617 468</p>
-<p><em type="bold">Sum opparbeidet avkastning pr. 31/12-2011 </em><em type="bold">13 670 664 </em></p>
+<p><em type="bold">Sum opparbeidet avkastning pr. 31/12-201113 670 664 </em></p>
 <p>Note 15 Driftsutgifter politisk nivå</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Plenum, grupper og komitéene9 255 0789 300 00044 9220,5 %</p>
 <p>Sametingets plenumsleder1 900 2022 012 000111 7995,6 %</p>
 <p>Sametingets kontrollkomite340 620500 000159 38031,9 %</p>
@@ -1462,16 +1462,16 @@
 <p>Sametingets språkstyre102 711350 000247 28970,7 %</p>
 <p>Samisk språknemnd838 620500 000-338 620-67,7 %</p>
 <p>Sametingets ungdomspolitisk utvalg271 400325 00053 60016,5 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftsutgifter </em><em type="bold">21 749 579 </em><em type="bold">21 973 999 </em><em type="bold">224 420 </em><em type="bold">1,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftsutgifter21 749 57921 973 999224 4201,0 % </em></p>
 <p>Driftsutgifter politisk nivå viser et overskudd på kr 224 420.</p>
 <p>Medgåtte utgifter for Sametingets plenum, Sametingets fagkomitéer og Sametingsgruppene er slått sammen til en post. Overskuddet på kr 44 922 skyldes i hovedsak mindre aktivitet enn forutsatt. Overskuddene i Sametingets plenumsledelse, Sametingets kontrollkomite, Samisk parlamentarisk råd, Sametingets språkstyre og Sametingets ungdomspolitiske utvalg skyldes i hovedsak mindre aktivitet enn forutsatt. Sametingsrådet viser et underskudd på kr 140 559. Dette skyldes høyere aktivitetsnivå enn forutsatt. Underskuddet i samisk språknemnd på kr 338 620 skyldes høyere aktivitetsnivå enn forutsatt.</p>
 <p>Note 16 Driftsutgifter administrativt nivå</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Driftsutgifter administrasjon91 065 61590 560 000 <em type="bold">-505 616 </em>-0,6 % </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">91 065 615 </em><em type="bold">90 560 000 </em><em type="bold">-505 616 </em><em type="bold">-0,6 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum91 065 61590 560 000-505 616-0,6 % </em></p>
 <p>Regnskapet for drift administrasjon viser et underskudd på kr 505 616 i forhold til budsjettet. Det er foretatt avsetninger for periodiserte utgifter og inntekter, jfr. note 21 og 22.</p>
 <p>Det er også foretatt en avsetning på kr 1 445 000 til Registrering av samiske bygninger. Dette arbeidet videreføres til 2012. Sametinget fikk bevilget kr 2 000 000 til dette prosjektet fra Riksantikvaren i 2011.</p>
 <p>Det er avsatt kr 281 250 til vedlikehold av Sametingsbygningen i 2011. Total avsetning pr. 31. desember 2011 er nå på kr 3 865 846 til fremtidige vedlikeholds- og reparasjonsutgifter av</p>
@@ -1480,14 +1480,14 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Bedre service til brukerne3 440 3501 600 000 -1 840 350-115,0 %</p>
 <p>Kompetanseutvikling i den samiske skole2 000 0002 000 00000,0 %</p>
 <p>Samisk korrekturprogram - Divvun-861 7740861 774-</p>
 <p xml:lang="nno">Neiden ortodokse gravplass i Skoltebyen502 418600 00097 58316,3 %</p>
 <p>Kvalitetsutvikling i samisk barnehager316 254300 000-16 254-5,4 %</p>
 <p xml:lang="eng">Forpros.teaterbygg Beaivvas Sami 1 000 000500 000-500 000-100,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 397 248 </em><em type="bold">5 000 000 -1 397 248 </em><em type="bold">-27,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 397 2485 000 000 -1 397 248-27,9 % </em></p>
 <p>Regnskapet for spesielle prosjekter viser et underskudd på kr 1 397 248 i forhold til budsjettet. Underskuddet på post Bedre service til brukerne skyldes merutgifter enn det som var budsjettert. Kunnskapsdepartementet (KD) bevilget desember 2011 kr 1 821 600 til Sametinget til kompetanseutvikling i den samiske skolen. Denne bevilgningen er inntektsført under posten Kompetanseutvikling i den samiske skole og dermed avsatt til 2012. I tillegg er det avsatt kr 2 000 000 til kompetanseutvikling i den samiske skole som Sametinget fikk bevilget i 2010. Disse midlene er tildelt til Senter for samisk i opplæringen ved Samisk høgskole.</p>
 <p>Overskuddet under post Samisk korrekturprogram og Neiden ortodokse gravplass i Skoltebyen skyldes ubenyttede midler.</p>
 <p>Underskuddet på post kvalitetsutvikling i samiske barnehager skyldes merutgifter enn det som var budsjettert.</p>
@@ -1498,7 +1498,7 @@
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="smn">Aksjer Beaivas Sami Teahter1,00</p>
 <p>Aksjer Senter for Nordlige Folk AS1,00</p>
-<p><em type="bold">Sum finansielle anleggsmidler </em><em type="bold">2,00 </em></p>
+<p><em type="bold">Sum finansielle anleggsmidler2,00 </em></p>
 <p>Sametinget eier følgende aksjer: - Beaivváš Sámi Našunálateáhter / Beaivváš samiske nasjonalteater, totalt kr 40 000 (40 aksjer á kr 1 000) - Davvi álbmogiid guovddáš OS / Senter for Nordlige Folk AS, totalt kr 1 308 000 (6 540 aksjer á kr 200)</p>
 <p>Aksjene i Beaivvas er mottatt vederlagsfritt fra Kulturdepartementet. Aksjene i Senter for Nordlige</p>
 <p>Folk AS ble kjøpt i 2009. Begge institusjonene er samiske kulturinstitusjoner, hvor størsteparten av finansiering er fra det offentlige, herunder Sametinget. Formålet til disse er ikke kommersielt, men - å synliggjøre samisk kulturliv og fungere som arenaer for utvikling av samisk kulturliv - å fungere som arenaer for kulturopplevelse og -formidling, og til bruk og synliggjøring av samisk språk</p>
@@ -1508,18 +1508,18 @@
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Ordinære kundefordringer314 284</p>
 <p>Fordringer departementer: - FAD: Avkastning Samefolkets fond 20112 535 664</p>
-<p xml:lang="isl"><em type="bold">Sum kundefordringer </em><em type="bold">2 849 949 </em></p>
+<p xml:lang="isl"><em type="bold">Sum kundefordringer2 849 949 </em></p>
 <p>Note 20 Andre fordringer</p>
 <p><em type="bold">Spesifisering av andre fordringer </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="nno">Reise- og lønnsforskudd250 720</p>
 <p xml:lang="swe">Forskuddsbetalte utgifter360 120</p>
-<p><em type="bold">Sum andre fordringer </em><em type="bold">610 840 </em></p>
+<p><em type="bold">Sum andre fordringer610 840 </em></p>
 <p>Note 21 Avsetning vedlikehold av Sametingsbygningen</p>
 <p xml:lang="nno"><em type="bold">Annen langsiktig gjeld </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Avsetning vedlikehold Sametingsbygningen3 865 846</p>
-<p><em type="bold">Sum annen langsiktig gjeld </em><em type="bold">3 865 846 </em></p>
+<p><em type="bold">Sum annen langsiktig gjeld3 865 846 </em></p>
 <p>Note 22 Øvrige avsetninger</p>
 <p><em type="bold">Spesifisering av øvrige avsetninger </em></p>
 <p xml:lang="ita"><em type="bold">Note </em></p>
@@ -1532,13 +1532,13 @@
 <p>Kompetanseutvikling i den samiske skolen173 821 600</p>
 <p><em type="bold">Andre avsetninger: </em>0 </p>
 <p>Periodisering av diverse utgifter/avsetning for ikke mottatte regninger15-163 373 471</p>
-<p><em type="bold">Sum øvrige avsetninger </em><em type="bold">10 362 821 </em></p>
+<p><em type="bold">Sum øvrige avsetninger10 362 821 </em></p>
 <p>Note 23 Egenkapital</p>
 <p xml:lang="est"><em type="bold">Egenkapital </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="nno">Egenkapital pr. 31/12-2010-13 046 290</p>
 <p xml:lang="nno">Egenkapital pr. 31/12-2011-1 402 419</p>
-<p xml:lang="dan"><em type="bold">Endring egenkapital </em><em type="bold">-11 643 871 </em></p>
+<p xml:lang="dan"><em type="bold">Endring egenkapital-11 643 871 </em></p>
 <p>Endringen i egenkapital tilsvarer resultatet/overskuddet for 2011.</p>
 <p>Sametingets regnskap 2011</p>
 <p>Vedlegg til sak</p>
@@ -1551,36 +1551,36 @@
 <p xml:lang="ita"><em type="bold">Note </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p><em type="bold">Driftsinntekter </em>Bevilgninger fra departementene1355 907 000355 707 000-200 000-0,1 % </p>
 <p>Avkastning Samefolkets fond145 617 4685 500 000-117 468-2,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftsinntekter </em><em type="bold">361 524 468 </em><em type="bold">361 207 000 </em><em type="bold">-317 468 </em><em type="bold">-0,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftsinntekter361 524 468361 207 000-317 468-0,1 % </em></p>
 <p><em type="bold">Virkemidler </em>Virkemidler2-13248 338 428251 219 2902 880 8621,1 % </p>
 <p>Samefolkets fond145 617 4685 500 000-117 468-2,1 %</p>
-<p><em type="bold">Sum virkemidler </em><em type="bold">253 955 895 </em><em type="bold">256 719 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
-<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER - VIRKEMIDLER </em><em type="bold">107 568 573 </em><em type="bold">104 487 710 </em><em type="bold">-3 080 862 </em><em type="bold">-2,9 % </em></p>
+<p><em type="bold">Sum virkemidler253 955 895256 719 2902 763 3951,1 % </em></p>
+<p xml:lang="deu"><em type="bold">SUM DRIFTSINNTEKTER - VIRKEMIDLER107 568 573104 487 710-3 080 862-2,9 % </em></p>
 <p><em type="bold">Driftskostnader </em>Drift politisk nivå1521 749 57921 974 000224 4211,0 % </p>
 <p>Drift administrativt nivå1691 065 61590 560 000-505 616-0,6 %</p>
 <p>Spesielle prosjekter176 397 2485 000 000-1 397 248-27,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftskostnader </em><em type="bold">119 212 443 </em><em type="bold">117 534 000 </em><em type="bold">-1 678 443 </em><em type="bold">-1,4 % </em></p>
-<p><em type="bold">RESULTAT PR. 31. desember 2011 </em><em type="bold">-11 643 871 </em><em type="bold">-13 046 290 </em><em type="bold">-1 402 419 </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftskostnader119 212 443117 534 000-1 678 443-1,4 % </em></p>
+<p><em type="bold">RESULTAT PR. 31. desember 2011-11 643 871-13 046 290-1 402 419 </em></p>
 <p><em type="bold">Anvendelse av årsresultatet </em>Til annen egenkapital2311 643 871 </p>
-<p><em type="bold">Sum anvendelse </em><em type="bold">0 </em></p>
+<p><em type="bold">Sum anvendelse0 </em></p>
 <p xml:lang="olo">Balanse</p>
 <p><em type="bold">Beskrivelse </em></p>
-<p xml:lang="ita"><em type="bold">Note </em><em type="bold">2010 </em><em type="bold">2011 </em></p>
+<p xml:lang="ita"><em type="bold">Note20102011 </em></p>
 <p xml:lang="dan"><em type="bold">Eiendeler Anleggsmidler </em>Finansielle annleggsmidler1802 </p>
-<p><em type="bold">Sum finansielle anleggsmidler </em><em type="bold">0 </em><em type="bold">2 </em></p>
+<p><em type="bold">Sum finansielle anleggsmidler02 </em></p>
 <p xml:lang="dan"><em type="bold">Omløpsmidler </em>Kundefordringer198 547 6062 849 949 </p>
 <p xml:lang="dan">Andre fordringer20483 193610 840</p>
-<p><em type="bold">Sum fordringer </em><em type="bold">9 030 799 </em><em type="bold">3 460 789 </em></p>
+<p><em type="bold">Sum fordringer9 030 7993 460 789 </em></p>
 <p xml:lang="isl">Bankinnskudd155 303 287161 367 571</p>
 <p>Samefolketsfond1478 586 17777 535 664</p>
-<p><em type="bold">Sum bank </em><em type="bold">233 889 464 </em><em type="bold">238 903 235 </em></p>
-<p><em type="bold">Sum eiendeler </em><em type="bold">242 920 263 </em><em type="bold">242 364 026 </em></p>
+<p><em type="bold">Sum bank233 889 464238 903 235 </em></p>
+<p><em type="bold">Sum eiendeler242 920 263242 364 026 </em></p>
 <p xml:lang="nno"><em type="bold">Egenkapital og gjeld Egenkapital </em>Egenkapital23-3 648 638-13 046 290 </p>
 <p>Annen egenkapital23-9 397 65211 643 871</p>
-<p xml:lang="fao"><em type="bold">Sum egenkapital </em><em type="bold">-13 046 290 </em><em type="bold">-1 402 419 </em></p>
+<p xml:lang="fao"><em type="bold">Sum egenkapital-13 046 290-1 402 419 </em></p>
 <p><em type="bold">Gjeld Avsetning for forpliktelser </em>Avsetning gyldige tilsagn næringsutvikling6-33 106 054-35 653 750 </p>
 <p xml:lang="dan">Avsetning gyldige tilsagn kulturutvikling5-8 231 000-15 341 225</p>
 <p xml:lang="swe">Samefolketsfond - avkastning14-16 752 467-13 670 664</p>
@@ -1591,32 +1591,32 @@
 <p xml:lang="dan">Avsetning gyldige tilsagn interreg andel10-879 484-497 484</p>
 <p xml:lang="dan">Avsetning gyldige tilsagn språkprosjekter4-5 955 500-8 144 600</p>
 <p>Avsetning gyldige tilsagn andre virkemidler8-9,11-13-13 083 996-15 100 923</p>
-<p><em type="bold">Sum fondsavsetninger og andre avsetninger for forpliktelser </em><em type="bold">-198 515 691 </em><em type="bold">-210 933 609 </em></p>
+<p><em type="bold">Sum fondsavsetninger og andre avsetninger for forpliktelser-198 515 691-210 933 609 </em></p>
 <p>Avsetning vedlikehold Sametingsbygningen21-3 584 596-3 865 846</p>
-<p><em type="bold">Sum annen langsiktig gjeld </em><em type="bold">-3 584 596 </em><em type="bold">-3 865 846 </em></p>
+<p><em type="bold">Sum annen langsiktig gjeld-3 584 596-3 865 846 </em></p>
 <p xml:lang="nno"><em type="bold">Kortsiktig gjeld </em>Leverandørgjeld-913 766-1 323 728 </p>
 <p xml:lang="olo">Pensjonsinnskudd-508 942-473 919</p>
 <p>Skyldig offentlige avgifter-3 493 162-3 419 864</p>
 <p xml:lang="nno">Annen kortsiktig gjeld - avsetning feriepenger, gr.livsforsikring, andre trekk-7 614 849-8 046 156</p>
 <p>Annen kortsiktig gjeld - kapitalisert avkastn. Norges bank14-3 586 177-2 535 664</p>
 <p>Øvrige avsetninger22-11 656 791-10 362 821</p>
-<p><em type="bold">Sum kortsiktig gjeld </em><em type="bold">-27 773 686 </em><em type="bold">-26 162 152 </em></p>
-<p><em type="bold">Sum egenkapital og gjeld </em><em type="bold">-242 920 263 </em><em type="bold">-242 364 026 </em></p>
+<p><em type="bold">Sum kortsiktig gjeld-27 773 686-26 162 152 </em></p>
+<p><em type="bold">Sum egenkapital og gjeld-242 920 263-242 364 026 </em></p>
 <p>Noter til regnskapet</p>
 <p>Note 1 Bevilgninger fra departementene</p>
 <p>Fordeling av bevilgningene fra departementene er som følger:</p>
 <p><em type="bold">Kap.Post Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>680.50 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>680.50 </p>
 <p xml:lang="nno">Fornyings-, administrasjons- og kirkedep. - FAD225 655 000225 655 00000,0 % 206.50</p>
 <p>Kunnskapsdepartementet - KD35 420 00035 420 00000,0 % 231.50</p>
 <p>Kunnskapsdepartementet - KD13 753 00013 753 00000,0 % 1429.50 Miljøverndepartementet - MD3 000 0003 000 00000,0 % 320.53</p>
 <p xml:lang="nno">Kulturdepartementet - KUD67 379 00067 379 00000,0 % 724.21</p>
 <p xml:lang="nno">Helse- og omsorgdepartementet - HOD6 700 0006 500 000-200 000-3,0 % 1147.50 Landsbruksdepartementet - LD4 000 0004 000 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">355 907 000 </em><em type="bold">355 707 000 </em><em type="bold">-200 000 </em><em type="bold">-0,1 % </em>- </p>
+<p xml:lang="fao"><em type="bold">Sum355 907 000355 707 000-200 000-0,1 % </em>- </p>
 <p>Samefolkets fond5 617 4685 500 000-117 468-2,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">361 524 468 </em><em type="bold">361 207 000 </em><em type="bold">-317 468 </em><em type="bold">-0,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum361 524 468361 207 000-317 468-0,1 % </em></p>
 <p>Sametinget hadde ved budsjettbehandlingen av sak 43/10, Sametingets budsjett 2011, en bevilgning på totalt kr 361 207 000, inkl. avkastning av Samefolkets fond. Avkastning av Samefolkets fond inntektsføres ikke over resultatregnskapet. Ved innbetaling bokføres denne i balansen under punkt <span type="quote">"Samefolkets fond - avkastning"</span>. Årets forbruk av Samefolkets fond er inntektsført og opparbeidet avkastningen av Samefolket Fond er tilsvarende redusert, se note 14.</p>
 <p>Regnskapet viser at Sametinget har fått bevilget kr 200 000 mer fra Helse- og omsorgsdepartementet (HOD). Dette skyldes at bevilgningen for 2011 fra HOD ikke var spesifisert i henhold til HODs forslag til statsbudsjett for 2011 til Sametinget. Sametinget har i sitt budsjett for 2011 budsjettert med kr 6 500 000. Ved tildelingsbrevet for 2011 var bevilgningen på kr 6 700 000, det vil si kr 200 000 mer enn det Sametinget hadde forutsatt. Kulturdepartementet (KUD) har bevilget kr 600 000 til samisk idrett for 2011. Denne bevilgningen er inntektsført og utbetalt direkte over virkemiddelpost 205.</p>
 <p>Fornyings-, administrasjons- og kirkedepartementet (FAD) og Kulturdepartementet (KUD) har hver bevilget kr 547 781 til språkundersøkelsen som gjennomføres i 2012. Bevilgningen på totalt 1 095 562 er inntektsført under virkemiddelpost 860. Riksantikvaren har bevilget kr 2 000 000 til prosjektet identifisering og registrering av samiske hus i Norge for 2011. Denne bevilgningen er inntektsført under administrasjon med egen prosjektkode.</p>
@@ -1627,46 +1627,46 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd120 884 000121 223 000 <em type="bold">339 000 </em><em type="bold">0,3 % </em>- </p>
-<p>Søkerbasert tilskudd94 407 70596 374 290 <em type="bold">1 966 585 </em><em type="bold">2,0 % </em>- </p>
-<p xml:lang="dan">Verdiskapningsprogram4 840 0416 150 000 <em type="bold">1 309 959 </em><em type="bold">21,3 % </em>- </p>
-<p>Avtaler16 117 88115 315 000 <em type="bold">-802 881 </em><em type="bold">-5,2 % </em>- </p>
-<p>Andre virkemidler6 377 5077 032 000 <em type="bold">654 493 </em><em type="bold">9,3 % </em>- </p>
-<p>Samefolkets fond5 617 4685 500 000 <em type="bold">-117 468 </em><em type="bold">-2,1 % </em>- </p>
-<p>Andre tiltak5 211 2944 625 000 <em type="bold">-586 294 </em><em type="bold">-12,7 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">253 455 895 </em><em type="bold">256 219 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd120 884 000121 223 000 <em type="bold">339 0000,3 % </em>- </p>
+<p>Søkerbasert tilskudd94 407 70596 374 290 <em type="bold">1 966 5852,0 % </em>- </p>
+<p xml:lang="dan">Verdiskapningsprogram4 840 0416 150 000 <em type="bold">1 309 95921,3 % </em>- </p>
+<p>Avtaler16 117 88115 315 000 <em type="bold">-802 881-5,2 % </em>- </p>
+<p>Andre virkemidler6 377 5077 032 000 <em type="bold">654 4939,3 % </em>- </p>
+<p>Samefolkets fond5 617 4685 500 000 <em type="bold">-117 468-2,1 % </em>- </p>
+<p>Andre tiltak5 211 2944 625 000 <em type="bold">-586 294-12,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum253 455 895256 219 2902 763 3951,1 % </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="ita"><em type="bold">Note </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>100-102 Opplæring36 684 89337 385 290700 3971,9 % 150-153 Språk60 628 19360 600 000-28 193-0,0 % 200-212 Kultur89 699 19789 376 000-323 197-0,4 % 300-302 Næring32 932 37036 063 0003 130 6308,7 % 400-402 Miljø- og kulturvern2 104 1622 000 000-104 162-5,2 % 450 </p>
+<p><em type="bold">Avviki % </em>100-102 Opplæring36 684 89337 385 290700 3971,9 % 150-153 Språk60 628 19360 600 000-28 193-0,0 % 200-212 Kultur89 699 19789 376 000-323 197-0,4 % 300-302 Næring32 932 37036 063 0003 130 6308,7 % 400-402 Miljø- og kulturvern2 104 1622 000 000-104 162-5,2 % 450 </p>
 <p xml:lang="nno">Helse- og sosialsatsing2 173 3533 350 0001 176 64735,1 % 500</p>
 <p xml:lang="est">Regionalutvikling6 423 0005 237 000-1 186 000-22,6 % 505</p>
 <p>Internasjonalt og samisk samarbeid2 202 2001 350 000-852 200-63,1 % 750-756 Samiske organisasjoner3 902 2594 201 000298 7417,1 % 500-507 Andre virkemidler6 377 5077 032 000654 4939,3 % 600-602 Samefolkets fond5 617 4685 500 000-117 468-2,1 % 800-899 Andre titlak5 211 2944 625 000-586 294-12,7 %</p>
-<p><em type="bold">Sum virkemidler </em><em type="bold">253 955 895 </em><em type="bold">256 719 290 </em><em type="bold">2 763 395 </em><em type="bold">1,1 % </em></p>
+<p><em type="bold">Sum virkemidler253 955 895256 719 2902 763 3951,1 % </em></p>
 <p>Sametingets virkemidler er en blanding av direkte bevilgninger og søkerbaserte tilskuddsordninger som gis som tilskudd med gyldighet over flere år eller som årlige tilskudd. Sametingsrådet fordeler de søkerbaserte virkemidlene innenfor Sametingets budsjett med unntak av de virkemidlene som er lagt til Møtelederskapets disposisjon. Totalt viser virkemiddelregnskapet for 2011 et overskudd på kr 2 763 395. De enkelte postene blir presentert og eventuelt kommentert i notene til regnskapet. For øvrig vises det til årsmeldingen for kommentarer til virkemiddelpostene.</p>
 <p>Iht. Sametingets budsjett for 2011 kapittel 3.2 Søkerbaserte tilskudd har sametingsrådet fullmakt til å omdisponere inntil 20 % av avsatte midler i budsjettet. Fullmakten gjelder ikke direkte tilskudd, virkemidler til plenumsledelsens disposisjon, Samefolkets fond og driftsutgifter. Sametingsrådet skal i budsjettåret informere Sametingets plenum om eventuelle omdisponeringer jf. sak 43/07. I 2011 er omdisponeringsfullmakten brukt til å dekke underskuddet til enkelte tilskuddsposter, ved at andre tilskuddsposter har et overskudd.</p>
 <p>Note 3 Opplæring</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd29 908 17129 485 290 <em type="bold">-422 881 </em><em type="bold">-1,4 % </em>- </p>
-<p>Tiltak for å styrke læremiddelproduksjon4 000 0004 000 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Samisk læremiddelportal2 776 7233 900 000 <em type="bold">1 123 277 </em><em type="bold">28,8 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">36 684 893 </em><em type="bold">37 385 290 </em><em type="bold">700 396 </em><em type="bold">1,9 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd29 908 17129 485 290 <em type="bold">-422 881-1,4 % </em>- </p>
+<p>Tiltak for å styrke læremiddelproduksjon4 000 0004 000 000 <em type="bold">00,0 % </em>- </p>
+<p>Samisk læremiddelportal2 776 7233 900 000 <em type="bold">1 123 27728,8 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum36 684 89337 385 290700 3961,9 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Opplæring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>100 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>100 </p>
 <p>Grunnskole og videreg.opplæring-læremiddelutv.16 183 04115 330 290-852 751-5,6 % 101</p>
 <p>Kompetanseheving4 876 3754 750 000-126 375-2,7 % 102</p>
 <p xml:lang="dan">Barnehager8 848 7549 405 000556 2465,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">29 908 171 </em><em type="bold">29 485 290 </em><em type="bold">-422 881 </em><em type="bold">-1,4 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum29 908 17129 485 290-422 881-1,4 % </em></p>
 <p xml:lang="dan"><em type="bold">Læremiddelutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
@@ -1675,83 +1675,83 @@
 <p>Budsjett 2011 fra post 100 - 10433 485 290</p>
 <p>Avsetning til Pilotprosjekt ressursskole 800 000</p>
 <p>Avsetning til oversettelse læreverk2 716 500</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">67 674 400 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201167 674 400 </em></p>
 <p xml:lang="nno">Utbetalt i 2011 post 100 - 104-31 253 080</p>
 <p>Tilbakebetalt tilskudd723 162</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">37 144 483 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201137 144 483 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-35 544 663</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011, 2491-413 000</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011, 2410-176 700</p>
 <p>Avsetning til oversettelse læreverk 31/12-2011-1 433 000</p>
-<p><em type="bold">Resultat læremiddelutvikling 2011 </em><em type="bold">-422 881 </em></p>
+<p><em type="bold">Resultat læremiddelutvikling 2011-422 881 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>2001135 0000,4 % 031 9462002360 4501,0 % 002003539 7971,5 % 0020040-002005103 8040,3 % 0020062 025 1475,6 % 215 601020072 028 5215,6 % 0020084 180 75011,6 % 581 600691 21620093 999 70011,1 % 0020106 243 65017,3 % 29 0000201116 517 54445,7 % 65 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">36 134 363 </em><em type="bold">100,0 % </em><em type="bold">891 201 </em><em type="bold">723 162 </em></p>
+<p xml:lang="fao"><em type="bold">Sum36 134 363100,0 % 891 201723 162 </em></p>
 <p>Søkerbaserte tilskudd for opplæring viser et underskudd på kr 422 881. Underskuddet skyldes merforbruk på posten. En del av underskuddet på denne posten dekkes inn av tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 1 614 363 og overskuddet fra de andre søkerbaserte virkemidler. Viser til sametingsrådets omdisponeringsfullmakt. Det avsettes kr 36 134 363 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Post 103 tiltak for å styrke læremiddelproduksjon avsettes det kr 1 433 000 til oversettelse av matematikk læremidler. Post 105 Ovttas|Aktan|Aktesne viser et overskudd på kr 1 123 277. Overskuddet skyldes at prosjektet hadde i 2011 planer å utvikle 2 læremiddelpiloter. Dette arbeidet utløser bestillinger av ulike elementer til pilotene; som animasjoner, illustrasjoner, film- og lydfiler. Av ulike årsaker har ikke prosjektet kunnet gjøre bestillinger av disse elementene innenfor den planlagte perioden. I tillegg til at dette er produkter/bestillinger som er tidkrevende, er disse elementene også kostbare investeringer.</p>
 <p>Note 4 Språk</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd51 599 00051 599 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd9 029 1939 001 000 <em type="bold">-28 193 </em><em type="bold">-0,3 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">60 628 193 </em><em type="bold">60 600 000 </em><em type="bold">-28 193 </em><em type="bold">-0,0 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd51 599 00051 599 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd9 029 1939 001 000 <em type="bold">-28 193-0,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum60 628 19360 600 000-28 193-0,0 % </em></p>
 <p><em type="bold">Direkte tilskudd - Språk </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>150 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>150 </p>
 <p xml:lang="dan">Tospråklighetstilskudd 45 929 00045 929 00000,0 % 153</p>
 <p>Grunntilskudd til språksentre5 670 0005 670 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">51 599 000 </em><em type="bold">51 599 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum51 599 00051 599 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Språk </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>151 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>151 </p>
 <p>Språkprosjekter innenfor forvaltningsområdet4 739 8344 401 000-338 834-7,1 % 152</p>
 <p>Språkprosjekter utenfor forvaltningsområdet4 289 3594 600 000310 6417,2 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">9 029 193 </em><em type="bold">9 001 000 </em><em type="bold">-28 193 </em><em type="bold">-0,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum9 029 1939 001 000-28 193-0,3 % </em></p>
 <p><em type="bold">Språkprosjekter </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-115 955 500</p>
 <p>Budsjett 2011 - Språkprosj. innenfor forv.omr.4 401 000</p>
 <p>Budsjett 2011 - Språkprosj. utenfor forv.omr.4 600 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">14 956 500 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201114 956 500 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-6 937 459</p>
 <p>Tilbakebetalt tilskudd97 366</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">8 116 407 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20118 116 407 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-8 144 600</p>
-<p><em type="bold">Resultat språkprosjekter 2011 </em><em type="bold">-28 193 </em></p>
+<p><em type="bold">Resultat språkprosjekter 2011-28 193 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>20080-151 00047 8662009757 5009,3 % 175 00049 50020102 166 00026,6 % 56 741020115 221 10064,1 % 00 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">8 144 600 </em><em type="bold">100,0 % </em><em type="bold">382 741 </em><em type="bold">97 366 </em></p>
+<p xml:lang="fao"><em type="bold">Sum8 144 600100,0 % 382 74197 366 </em></p>
 <p>Posten språkprosjekter innenfor og utenfor forvaltningsområdet viser et underskudd på kr 28 193. Underskuddet skyldes merforbruk av posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 480 107. Det avsettes kr 8 144 600 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p xml:lang="deu">Note 5 Kultur</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd65 933 00066 272 000 <em type="bold">339 000 </em><em type="bold">0,5 % </em>- </p>
-<p>Søkerbaserte tilskudd17 851 19717 189 000 <em type="bold">-662 197 </em><em type="bold">-3,9 % </em>- </p>
-<p>Kunstneravtalen5 915 0005 915 000 <em type="bold">0 </em><em type="bold">0,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">89 699 197 </em><em type="bold">89 376 000 </em><em type="bold">-323 197 </em><em type="bold">-0,4 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd65 933 00066 272 000 <em type="bold">339 0000,5 % </em>- </p>
+<p>Søkerbaserte tilskudd17 851 19717 189 000 <em type="bold">-662 197-3,9 % </em>- </p>
+<p>Kunstneravtalen5 915 0005 915 000 <em type="bold">00,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum89 699 19789 376 000-323 197-0,4 % </em></p>
 <p><em type="bold">Direkte tilskudd - Kultur </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>202 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>202 </p>
 <p xml:lang="est">Samiske kulturhus9 588 0009 588 00000,0 % 204</p>
 <p>Samiske festivaler 2 941 0003 249 000308 0009,5 % 205</p>
 <p>Samisk idrett1 847 0001 847 00000,0 % 206</p>
@@ -1759,7 +1759,7 @@
 <p>Samiske publikasjoner 3 106 0003 106 00000,0 % 209</p>
 <p>Mobile bibliotektjenester6 975 0006 975 00000,0 % 210</p>
 <p>Museer23 736 00023 767 00031 0000,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">65 933 000 </em><em type="bold">66 272 000 </em><em type="bold">339 000 </em><em type="bold">0,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum65 933 00066 272 000339 0000,5 % </em></p>
 <p>Post 204 samiske festivaler viser et overskudd på kr 308 000. Overskuddet skyldes ikke tildelt tilskudd til Filmfestivalen i Kautokeino.</p>
 <p>Under post 210 Museer, videreføres avsetningen på kr 350 000 til prosjektering og planlegging av kunstmuseum i Karasjok. Prosjektet er igangsatt og planlagt ferdigstilt i 2012. Avsetning gjort i 2010 på kr 200 000 til dokumentasjonssenter Alta/Kautokeino er utbetalt med kr 169 000 som gir et overskudd på kr 31 000.</p>
 <p><em type="bold">Søkerbaserte tilskudd - Kultur </em></p>
@@ -1767,244 +1767,244 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>200 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>200 </p>
 <p>Samisk kulturutvikling11 591 94410 764 000-827 944-7,7 % 201</p>
 <p>Samiske forlag 2 956 0002 750 000-206 000-7,5 % 212</p>
 <p xml:lang="dan">Investering bokbuss2 500 0002 500 00000,0 % 213</p>
 <p>Samiske møteplasser803 2531 175 000371 74731,6 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">17 851 197 </em><em type="bold">17 189 000 </em><em type="bold">-662 197 </em><em type="bold">-3,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum17 851 19717 189 000-662 197-3,9 % </em></p>
 <p xml:lang="est"><em type="bold">Kulturutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-20118 156 000</p>
 <p xml:lang="dan">Bevilgning i 201117 189 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">25 345 000 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201125 345 000 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-10 838 069</p>
 <p>Tilbakebetalte tilskudd 172 097</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">14 679 028 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201114 679 028 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-15 341 225</p>
-<p><em type="bold">Resultat samisk kulturutvikling 2011 </em><em type="bold">-662 197 </em></p>
+<p><em type="bold">Resultat samisk kulturutvikling 2011-662 197 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>200760 0000,4 % 25 0008 3002008642 5004,2 % 226 47765 0002009891 5005,8 % 215 00050 00020102 447 75016,0 % 206 36548 797201111 299 47573,7 % 45 8650 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">15 341 225 </em><em type="bold">100,0 % </em><em type="bold">718 707 </em><em type="bold">172 097 </em></p>
+<p xml:lang="fao"><em type="bold">Sum15 341 225100,0 % 718 707172 097 </em></p>
 <p>Posten kulturutvikling viser et underskudd på kr 662 197. Underskuddet skyldes merforbruk av posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 890 804. Det avsettes kr 15 341 225 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p><em type="bold">Samisk kunstneravtale </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>207 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>207 </p>
 <p>Samisk kunstneravtale5 915 0005 915 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 915 000 </em><em type="bold">5 915 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 915 0005 915 00000,0 % </em></p>
 <p>Note 6 Næring</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd3 102 0003 102 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd14 787 44817 411 000 <em type="bold">2 623 552 </em><em type="bold">17,7 % </em>- </p>
-<p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 000 <em type="bold">1 309 959 </em><em type="bold">27,1 % </em>- </p>
-<p xml:lang="smj">Duodjiavtale10 202 8819 400 000 <em type="bold">-802 881 </em><em type="bold">-7,9 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">32 932 370 </em><em type="bold">36 063 000 </em><em type="bold">3 130 630 </em><em type="bold">9,5 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd3 102 0003 102 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd14 787 44817 411 000 <em type="bold">2 623 55217,7 % </em>- </p>
+<p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 000 <em type="bold">1 309 95927,1 % </em>- </p>
+<p xml:lang="smj">Duodjiavtale10 202 8819 400 000 <em type="bold">-802 881-7,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum32 932 37036 063 0003 130 6309,5 % </em></p>
 <p><em type="bold">Direkte tilskudd - Næring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>301 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>301 </p>
 <p>Duodjiinstitusjoner og organisasjoner3 102 0003 102 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 102 000 </em><em type="bold">3 102 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 102 0003 102 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Næring </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="nno">Næringsutvikling14 787 44817 411 0002 623 55217,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">14 787 448 </em><em type="bold">17 411 000 </em><em type="bold">2 623 552 </em><em type="bold">17,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum14 787 44817 411 0002 623 55217,7 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Verdiskapninsprogrammet </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="dan">Verdiskapningsprogrammet4 840 0416 150 0001 309 95927,1 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 840 041 </em><em type="bold">6 150 000 </em><em type="bold">1 309 959 </em><em type="bold">27,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 840 0416 150 0001 309 95927,1 % </em></p>
 <p xml:lang="smj"><em type="bold">Duodjiavtale </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>300 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>300 </p>
 <p xml:lang="smj">Duodjiavtale10 202 8819 400 000-802 881-7,9 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">10 202 881 </em><em type="bold">9 400 000 </em><em type="bold">-802 881 </em><em type="bold">-7,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum10 202 8819 400 000-802 881-7,9 % </em></p>
 <p xml:lang="nno"><em type="bold">Næringsutvikling </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-1133 106 054</p>
 <p>Budsjett 201132 961 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">66 067 054 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201166 067 054 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-25 612 601</p>
 <p>Utbetalt diverse utgifter duodji avtalen-1 670 073</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">38 784 380 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-201138 784 380 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-35 653 750</p>
-<p xml:lang="nno"><em type="bold">Resultat næringsutvikling 2011 </em><em type="bold">3 130 630 </em></p>
+<p xml:lang="nno"><em type="bold">Resultat næringsutvikling 20113 130 630 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>20070-42 328020081 092 5003,1 % 677 663020092 481 0007,0 % 938 200020109 410 06926,4 % 890 4760201122 670 18163,6 % 64 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">35 653 750 </em><em type="bold">100,0 % </em><em type="bold">2 612 667 </em><em type="bold">0 </em></p>
+<p xml:lang="fao"><em type="bold">Sum35 653 750100,0 % 2 612 6670 </em></p>
 <p>Posten næringsutvikling, verdiskapningsprogrammet og duodjiavtalen viser et overskudd på kr 3 130 630. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 2 612 667. Det avsettes kr 35 653 750 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p xml:lang="dan">Note 7 Miljø- og kulturvern</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd2 104 1622 000 000 <em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 104 162 </em><em type="bold">2 000 000 </em><em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd2 104 1622 000 000 <em type="bold">-104 162-5,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 104 1622 000 000-104 162-5,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Miljø- og kulturvern </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>400 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>400 </p>
 <p xml:lang="kal">Kulturminnevern2 104 1622 000 000-104 162-5,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 104 162 </em><em type="bold">2 000 000 </em><em type="bold">-104 162 </em><em type="bold">-5,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 104 1622 000 000-104 162-5,0 % </em></p>
 <p xml:lang="kal"><em type="bold">Kulturminnevern </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-114 360 300</p>
 <p>Budsjett 20112 000 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">6 360 300 </em></p>
+<p><em type="bold">Totalt til disposisjon i 20116 360 300 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-1 956 662</p>
 <p>Tilbakebetalte tilskudd 28 000</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">4 431 638 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20114 431 638 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11-4 535 800</p>
-<p><em type="bold">Resultat samisk kulturminnevern 2011 </em><em type="bold">-104 162 </em></p>
+<p><em type="bold">Resultat samisk kulturminnevern 2011-104 162 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>200637 8000,8 % 002007104 0002,3 % 100 00002008163 0003,6 % 194 472020091 420 00031,3 % 133 00011 0002010940 00020,7 % 23 36617 00020111 871 00041,2 % 00 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 535 800 </em><em type="bold">100,0 % </em><em type="bold">450 838 </em><em type="bold">28 000 </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 535 800100,0 % 450 83828 000 </em></p>
 <p>Posten kulturminnevern viser et underskudd på kr 104 162. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 478 838. Det avsettes kr 4 535 800 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 8 Helse- og sosialsatsing</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd500 000500 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd1 673 3532 850 000 <em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 673 353 </em><em type="bold">2 850 000 </em><em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd500 000500 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd1 673 3532 850 000 <em type="bold">1 176 64770,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 673 3532 850 0001 176 64770,3 % </em></p>
 <p><em type="bold">Direkte tilskudd - Helse, sosial og omsorg </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>451 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>451 </p>
 <p>Brukerrettede tilbud for eldre samer500 000500 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">500 000 </em><em type="bold">500 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum500 000500 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Helse, sosial og omsorg </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>450 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>450 </p>
 <p xml:lang="nno">Helse- og sosialsatsing1 673 3532 850 0001 176 64770,3 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 673 353 </em><em type="bold">2 850 000 </em><em type="bold">1 176 647 </em><em type="bold">70,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 673 3532 850 0001 176 64770,3 % </em></p>
 <p>Posten helse, sosial og omsorg viser et overskudd på kr 1 176 647. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 1 444 807. Det avsettes kr 2 166 290 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 9 Regionalutvikling</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd6 423 0005 237 000 <em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 423 000 </em><em type="bold">5 237 000 </em><em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd6 423 0005 237 000 <em type="bold">-1 186 000-18,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 423 0005 237 000-1 186 000-18,5 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Regionalutvikling </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>500 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>500 </p>
 <p xml:lang="est">Regionalutvikling6 423 0005 237 000-1 186 000-18,5 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 423 000 </em><em type="bold">5 237 000 </em><em type="bold">-1 186 000 </em><em type="bold">-18,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 423 0005 237 000-1 186 000-18,5 % </em></p>
 <p>Posten regionalutvikling viser et underskudd på kr 1 186 000. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det er gjort tilbaketrekninger av ikke gjennomførte prosjekter på kr 425 000. Det avsettes kr 6 170 000 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 10 Internasjonalt og samisk samarbeid</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Direkte tilskudd250 000250 000 <em type="bold">0 </em><em type="bold">0,0 % </em>- </p>
-<p>Søkerbaserte tilskudd1 952 2001 100 000 <em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 952 200 </em><em type="bold">1 100 000 </em><em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Direkte tilskudd250 000250 000 <em type="bold">00,0 % </em>- </p>
+<p>Søkerbaserte tilskudd1 952 2001 100 000 <em type="bold">-852 200-43,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 952 2001 100 000-852 200-43,7 % </em></p>
 <p><em type="bold">Direkte tilskudd - Internasjonalt og samisk samarbeid </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>505 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>505 </p>
 <p>Baretns urfolkskontor i Lovozero250 000250 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">250 000 </em><em type="bold">250 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum250 000250 00000,0 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Internajsonalt og samisk samarbeid </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>505 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>505 </p>
 <p>Internsjonlat tiltak1 952 2001 100 000-852 200-43,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 952 200 </em><em type="bold">1 100 000 </em><em type="bold">-852 200 </em><em type="bold">-43,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 952 2001 100 000-852 200-43,7 % </em></p>
 <p><em type="bold">Internasjonale tiltak </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-11 ,2461879 484</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-11, 24911 084 000</p>
 <p>Budsjett 20111 100 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">3 063 484 </em></p>
+<p><em type="bold">Totalt til disposisjon i 20113 063 484 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-1 272 200</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">1 791 284 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20111 791 284 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11, ført 2461-497 484</p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-11, ført på 2491-2 146 000</p>
-<p><em type="bold">Resultat Internasjonale tiltak 2011 </em><em type="bold">-852 200 </em></p>
+<p><em type="bold">Resultat Internasjonale tiltak 2011-852 200 </em></p>
 <p>Posten internasjonale tiltak viser et underskudd på kr 852 200. Underskuddet skyldes merforbruk på posten. Viser til sametingsrådets omdisponeringsfullmakt. Det avsettes kr 2 643 484 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p>Note 11 Samiske organisasjoner</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd3 902 2594 201 000 <em type="bold">298 741 </em><em type="bold">7,1 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 902 259 </em><em type="bold">4 201 000 </em><em type="bold">298 741 </em><em type="bold">7,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd3 902 2594 201 000 <em type="bold">298 7417,1 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 902 2594 201 000298 7417,1 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Samiske organisasjoner </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>750 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>750 </p>
 <p>Samiske hovedorganisasjoner2 450 8362 451 0001640,0 % 755</p>
 <p>Samiske grenseoverskridende organisasjoner350 000350 00000,0 % 756</p>
 <p>Samiske kulturorganisasjoner400 000400 00000,0 % 757</p>
 <p>Samiske næringsorganisasjoner499 900500 0001000,0 % 758</p>
 <p>Samiske likestillingsorganisasjoner222 000300 00078 00035,1 % 759</p>
 <p>Samisk org. tapt skolegang-20 477200 000220 477-1076,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">3 902 259 </em><em type="bold">4 201 000 </em><em type="bold">298 741 </em><em type="bold">7,7 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum3 902 2594 201 000298 7417,7 % </em></p>
 <p>Posten samiske organisasjoner viser et overskudd på kr 298 741. Overskuddet skyldes tilbaketrekninger og tilbakebetaling av ikke gjennomførte prosjekter på kr 98 477. I tillegg er ikke tilskuddet på post 759 tildelt i 2011.</p>
 <p>Note 12 Andre virkemidler</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Virkemidler til Sametingsrådets disposisjon2 223 9982 800 000 <em type="bold">576 002 </em><em type="bold">25,9 % </em>- </p>
-<p>Virkemidler til møtelederskapets disposisjon4 153 5094 232 000 <em type="bold">78 491 </em><em type="bold">1,9 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 377 507 </em><em type="bold">7 032 000 </em><em type="bold">654 493 </em><em type="bold">10,3 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Virkemidler til Sametingsrådets disposisjon2 223 9982 800 000 <em type="bold">576 00225,9 % </em>- </p>
+<p>Virkemidler til møtelederskapets disposisjon4 153 5094 232 000 <em type="bold">78 4911,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 377 5077 032 000654 49310,3 % </em></p>
 <p><em type="bold">Virkemidler til Sametingsrådets disposisjon </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>501 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>501 </p>
 <p>Frie midler749 000300 000-449 000-59,9 % 507</p>
 <p>Oppfølgning av institusjonsmelding724 998700 000-24 998-3,4 % 508</p>
 <p>Senter for samisk opplæring500 000500 00000,0 % 509</p>
@@ -2012,92 +2012,92 @@
 <p xml:lang="est">Likestillingstiltak0300 000300 000-511</p>
 <p>Skrive og lesehjelp til eldre samer250 000250 00000,0 % 512</p>
 <p>Prosjekt om leker og ped.materiell0500 000500 000-</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">2 223 998 </em><em type="bold">2 800 000 </em><em type="bold">576 002 </em><em type="bold">25,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum2 223 9982 800 000576 00225,9 % </em></p>
 <p>Virkemidler til Sametingsrådets disposisjon viser totalt et overskudd på kr 576 002. Overskuddet skyldes tilbaketrekninger av ikke gjennomførte prosjekter på kr 300 000 under post 510 og ubenyttede midler, samt prioritering av virkemiddelordningen Frie midler. Viser til sametingsrådets omdisponeringsfullmakt.</p>
 <p><em type="bold">Virkemidler til møtelederskapets disposisjon </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>502 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>502 </p>
 <p>Politiske grupper i Sametinget 3 140 4833 219 00078 5172,5 % 503</p>
 <p xml:lang="nno">Opposisjonens arbeidsvilkår1 013 0261 013 000-26-0,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 153 509 </em><em type="bold">4 232 000 </em><em type="bold">78 491 </em><em type="bold">1,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 153 5094 232 00078 4911,9 % </em></p>
 <p>Note 13 Andre tiltak som ikke er virkemidler</p>
 <p><em type="bold">Andre tiltak </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>800 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>800 </p>
 <p xml:lang="deu">Konferanser1 657 2511 550 000-107 251-6,5 % 801</p>
 <p>Samiskrelatert statistikk i Norge375 000375 00000,0 % 850</p>
 <p>Utdeling av priser124 485100 000-24 485-19,7 % 860</p>
 <p>Forskning, utvikling,utredning og dok.midler2 360 6181 700 000-660 618-28,0 % 899</p>
 <p xml:lang="dan">Evalueringer693 939900 000206 06129,7 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 211 294 </em><em type="bold">4 625 000 </em><em type="bold">-586 294 </em><em type="bold">-11,3 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 211 2944 625 000-586 294-11,3 % </em></p>
 <p>Underskuddet på post 800 konferanser skyldes merforbruk til konferansene enn det som var budsjettert. Underskuddet på post 860 Forsking, utvikling, utredning og dokumentasjonsmidler på kr 660 618 skyldes merforbruk på posten enn budsjettert. Det er foretatt en avsetning på kr 150 000 til prosjektet mål og behovsanalyse av samiske museer og kr 195 000 til prosjektet tilbakeføring av samiske gjenstander fra Norsk folkemuseum. I tillegg fikk Sametinget bevilgning fra Fornyings-, administrasjons- og kirkedepartementet (FAD) og Kulturdepartementet (KUD) til språkundersøkelsen som gjennomføres i 2012. Det er foretatt en avtale med Nordlandsforsking hvor første del er utbetalt i 2011 og andre del på kr 730 375 avsettes til 2012.</p>
 <p>Evaluering av samiske språksentra er påbegynt av Norut Alta AS, men ikke avsluttet. Første del av er utbetalt i 2011 og andre del på kr 309 375 avsettes til 2012.</p>
 <p>Note 14 Samefolkets fond</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>- </p>
-<p>Søkerbaserte tilskudd4 617 4684 500 000 <em type="bold">-117 468 </em><em type="bold">-2,5 % </em>- </p>
-<p>Utviklings-, utrednings- og dokumentasjonsmidler1 000 0001 000 000 <em type="bold">0 </em><em type="bold">0,0 % </em></p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">5 617 468 </em><em type="bold">5 500 000 </em><em type="bold">-117 468 </em><em type="bold">-2,1 % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>- </p>
+<p>Søkerbaserte tilskudd4 617 4684 500 000 <em type="bold">-117 468-2,5 % </em>- </p>
+<p>Utviklings-, utrednings- og dokumentasjonsmidler1 000 0001 000 000 <em type="bold">00,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum5 617 4685 500 000-117 468-2,1 % </em></p>
 <p><em type="bold">Søkerbaserte tilskudd - Samefolkets fond </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>600 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>600 </p>
 <p xml:lang="nno">Språkutviklingstiltak915 9791 200 000284 02131,0 % 600</p>
 <p>Tradisjonell kunnskap - dok. og formidling1 337 1891 300 000-37 189-2,8 % 600</p>
 <p>Litteratur2 364 3002 000 000-364 300-15,4 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">4 617 468 </em><em type="bold">4 500 000 </em><em type="bold">-117 468 </em><em type="bold">-2,5 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum4 617 4684 500 000-117 468-2,5 % </em></p>
 <p><em type="bold">Utviklings-, utrednings- og dokumentasjonsmidler - Samefolkets fond </em></p>
 <p xml:lang="pol"><em type="bold">Post </em></p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em>601 </p>
+<p xml:lang="vep"><em type="bold">Avviki % </em>601 </p>
 <p xml:lang="nno">Språkprogram800 000800 00000,0 % 601</p>
 <p>Dok. og formidling av tradisjonell kunnskap200 000200 00000,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">1 000 000 </em><em type="bold">1 000 000 </em><em type="bold">0 </em><em type="bold">0,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum1 000 0001 000 00000,0 % </em></p>
 <p><em type="bold">Samefolkets fond </em></p>
 <p xml:lang="est"><em type="bold">Tekst </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 1/1-1111 447 280</p>
 <p>Budsjett 20115 500 000</p>
-<p><em type="bold">Totalt til disposisjon i 2011 </em><em type="bold">16 947 280 </em></p>
+<p><em type="bold">Totalt til disposisjon i 201116 947 280 </em></p>
 <p xml:lang="swe">Utbetalte tillskudd i 2011-9 620 248</p>
-<p><em type="bold">Rest til disposisjon pr. 31/12-2011 </em><em type="bold">7 327 032 </em></p>
+<p><em type="bold">Rest til disposisjon pr. 31/12-20117 327 032 </em></p>
 <p xml:lang="dan">Gyldige tilsagn pr. 31/12-2011-7 444 500</p>
-<p xml:lang="deu"><em type="bold">Resultat Samefolketsfond 2011 </em><em type="bold">-117 468 </em></p>
+<p xml:lang="deu"><em type="bold">Resultat Samefolketsfond 2011-117 468 </em></p>
 <p xml:lang="dan"><em type="bold">Gyldige tilsagn pr. 31/12-11 og tilbaketrekt/-betalt i 2011 </em></p>
 <p xml:lang="swe"><em type="bold">År </em></p>
-<p xml:lang="nno"><em type="bold">Beløp </em><em type="bold">i % </em></p>
+<p><em type="bold">Beløpi % </em></p>
 <p xml:lang="nno"><em type="bold">Tilb.trekt </em></p>
 <p xml:lang="eng"><em type="bold">Tilb.bet. </em>2008504 5006,8 % 55 000020091 484 00019,9 % 268 121020101 972 00026,5 % 56 412020113 484 00046,8 % 100 0000 </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">7 444 500 </em><em type="bold">100,0 % </em><em type="bold">479 533 </em><em type="bold">0 </em></p>
+<p xml:lang="fao"><em type="bold">Sum7 444 500100,0 % 479 5330 </em></p>
 <p>Posten Samefolkets fond viser et underskudd på kr 117 468. Underskuddet skyldes merforbruk på posten. Det er gjort tilbaketrekninger av ikke gjennomførte prosjekter på kr 479 533. Det avsettes kr 7 444 500 til dekning av gyldige tilsagn pr. 31. desember 2011. Dette er bevilgede tilsagn til tilskuddsmottakere.</p>
 <p><em type="bold">Avkastning Samefolkets fond </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Samefolkets fond/innestående pr. 31/12-1177 535 664</p>
 <p>Fratrukket kapital Samefolkets fond-75 000 000</p>
-<p xml:lang="fao"><em type="bold">Sum avkastning 2011 </em><em type="bold">2 535 664 </em></p>
+<p xml:lang="fao"><em type="bold">Sum avkastning 20112 535 664 </em></p>
 <p><em type="bold">Bundne midler Samefolkets fond </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Avkastning bokført pr. 1/1-201116 752 467</p>
 <p xml:lang="est">Avkastning 20112 535 664</p>
 <p>Brukt av Samefolkets fond i 2011-5 617 468</p>
-<p><em type="bold">Sum opparbeidet avkastning pr. 31/12-2011 </em><em type="bold">13 670 664 </em></p>
+<p><em type="bold">Sum opparbeidet avkastning pr. 31/12-201113 670 664 </em></p>
 <p>Note 15 Driftsutgifter politisk nivå</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Plenum, grupper og komitéene9 255 0789 300 00044 9220,5 %</p>
 <p>Sametingets plenumsleder1 900 2022 012 000111 7995,6 %</p>
 <p>Sametingets kontrollkomite340 620500 000159 38031,9 %</p>
@@ -2106,16 +2106,16 @@
 <p>Sametingets språkstyre102 711350 000247 28970,7 %</p>
 <p>Samisk språknemnd838 620500 000-338 620-67,7 %</p>
 <p>Sametingets ungdomspolitisk utvalg271 400325 00053 60016,5 %</p>
-<p xml:lang="fao"><em type="bold">Sum driftsutgifter </em><em type="bold">21 749 579 </em><em type="bold">21 973 999 </em><em type="bold">224 420 </em><em type="bold">1,0 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum driftsutgifter21 749 57921 973 999224 4201,0 % </em></p>
 <p>Driftsutgifter politisk nivå viser et overskudd på kr 224 420.</p>
 <p>Medgåtte utgifter for Sametingets plenum, Sametingets fagkomitéer og Sametingsgruppene er slått sammen til en post. Overskuddet på kr 44 922 skyldes i hovedsak mindre aktivitet enn forutsatt. Overskuddene i Sametingets plenumsledelse, Sametingets kontrollkomite, Samisk parlamentarisk råd, Sametingets språkstyre og Sametingets ungdomspolitiske utvalg skyldes i hovedsak mindre aktivitet enn forutsatt. Sametingsrådet viser et underskudd på kr 140 559. Dette skyldes høyere aktivitetsnivå enn forutsatt. Underskuddet i samisk språknemnd på kr 338 620 skyldes høyere aktivitetsnivå enn forutsatt.</p>
 <p>Note 16 Driftsutgifter administrativt nivå</p>
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Driftsutgifter administrasjon91 065 61590 560 000 <em type="bold">-505 616 </em>-0,6 % </p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">91 065 615 </em><em type="bold">90 560 000 </em><em type="bold">-505 616 </em><em type="bold">-0,6 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum91 065 61590 560 000-505 616-0,6 % </em></p>
 <p>Regnskapet for drift administrasjon viser et underskudd på kr 505 616 i forhold til budsjettet. Det er foretatt avsetninger for periodiserte utgifter og inntekter, jfr. note 21 og 22.</p>
 <p>Det er også foretatt en avsetning på kr 1 445 000 til Registrering av samiske bygninger. Dette arbeidet videreføres til 2012. Sametinget fikk bevilget kr 2 000 000 til dette prosjektet fra Riksantikvaren i 2011.</p>
 <p>Det er avsatt kr 281 250 til vedlikehold av Sametingsbygningen i 2011. Total avsetning pr. 31. desember 2011 er nå på kr 3 865 846 til fremtidige vedlikeholds- og reparasjonsutgifter av</p>
@@ -2124,14 +2124,14 @@
 <p><em type="bold">Benevnelse </em></p>
 <p xml:lang="est"><em type="bold">Res 31/12-11 </em></p>
 <p xml:lang="vep"><em type="bold">Bud 2011 </em></p>
-<p><em type="bold">Avvik </em><em type="bold">i % </em></p>
+<p xml:lang="vep"><em type="bold">Avviki % </em></p>
 <p>Bedre service til brukerne3 440 3501 600 000 -1 840 350-115,0 %</p>
 <p>Kompetanseutvikling i den samiske skole2 000 0002 000 00000,0 %</p>
 <p>Samisk korrekturprogram - Divvun-861 7740861 774-</p>
 <p xml:lang="nno">Neiden ortodokse gravplass i Skoltebyen502 418600 00097 58316,3 %</p>
 <p>Kvalitetsutvikling i samisk barnehager316 254300 000-16 254-5,4 %</p>
 <p xml:lang="eng">Forpros.teaterbygg Beaivvas Sami 1 000 000500 000-500 000-100,0 %</p>
-<p xml:lang="fao"><em type="bold">Sum </em><em type="bold">6 397 248 </em><em type="bold">5 000 000 -1 397 248 </em><em type="bold">-27,9 % </em></p>
+<p xml:lang="fao"><em type="bold">Sum6 397 2485 000 000 -1 397 248-27,9 % </em></p>
 <p>Regnskapet for spesielle prosjekter viser et underskudd på kr 1 397 248 i forhold til budsjettet. Underskuddet på post Bedre service til brukerne skyldes merutgifter enn det som var budsjettert. Kunnskapsdepartementet (KD) bevilget desember 2011 kr 1 821 600 til Sametinget til kompetanseutvikling i den samiske skolen. Denne bevilgningen er inntektsført under posten Kompetanseutvikling i den samiske skole og dermed avsatt til 2012. I tillegg er det avsatt kr 2 000 000 til kompetanseutvikling i den samiske skole som Sametinget fikk bevilget i 2010. Disse midlene er tildelt til Senter for samisk i opplæringen ved Samisk høgskole.</p>
 <p>Overskuddet under post Samisk korrekturprogram og Neiden ortodokse gravplass i Skoltebyen skyldes ubenyttede midler.</p>
 <p>Underskuddet på post kvalitetsutvikling i samiske barnehager skyldes merutgifter enn det som var budsjettert.</p>
@@ -2142,7 +2142,7 @@
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="smn">Aksjer Beaivas Sami Teahter1,00</p>
 <p>Aksjer Senter for Nordlige Folk AS1,00</p>
-<p><em type="bold">Sum finansielle anleggsmidler </em><em type="bold">2,00 </em></p>
+<p><em type="bold">Sum finansielle anleggsmidler2,00 </em></p>
 <p>Sametinget eier følgende aksjer: - Beaivváš Sámi Našunálateáhter / Beaivváš samiske nasjonalteater, totalt kr 40 000 (40 aksjer á kr 1 000) - Davvi álbmogiid guovddáš OS / Senter for Nordlige Folk AS, totalt kr 1 308 000 (6 540 aksjer á kr 200)</p>
 <p>Aksjene i Beaivvas er mottatt vederlagsfritt fra Kulturdepartementet. Aksjene i Senter for Nordlige</p>
 <p>Folk AS ble kjøpt i 2009. Begge institusjonene er samiske kulturinstitusjoner, hvor størsteparten av finansiering er fra det offentlige, herunder Sametinget. Formålet til disse er ikke kommersielt, men - å synliggjøre samisk kulturliv og fungere som arenaer for utvikling av samisk kulturliv - å fungere som arenaer for kulturopplevelse og -formidling, og til bruk og synliggjøring av samisk språk</p>
@@ -2152,18 +2152,18 @@
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="dan">Ordinære kundefordringer314 284</p>
 <p>Fordringer departementer: - FAD: Avkastning Samefolkets fond 20112 535 664</p>
-<p xml:lang="isl"><em type="bold">Sum kundefordringer </em><em type="bold">2 849 949 </em></p>
+<p xml:lang="isl"><em type="bold">Sum kundefordringer2 849 949 </em></p>
 <p>Note 20 Andre fordringer</p>
 <p><em type="bold">Spesifisering av andre fordringer </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="nno">Reise- og lønnsforskudd250 720</p>
 <p xml:lang="swe">Forskuddsbetalte utgifter360 120</p>
-<p><em type="bold">Sum andre fordringer </em><em type="bold">610 840 </em></p>
+<p><em type="bold">Sum andre fordringer610 840 </em></p>
 <p>Note 21 Avsetning vedlikehold av Sametingsbygningen</p>
 <p xml:lang="nno"><em type="bold">Annen langsiktig gjeld </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p>Avsetning vedlikehold Sametingsbygningen3 865 846</p>
-<p><em type="bold">Sum annen langsiktig gjeld </em><em type="bold">3 865 846 </em></p>
+<p><em type="bold">Sum annen langsiktig gjeld3 865 846 </em></p>
 <p>Note 22 Øvrige avsetninger</p>
 <p><em type="bold">Spesifisering av øvrige avsetninger </em></p>
 <p xml:lang="ita"><em type="bold">Note </em></p>
@@ -2176,12 +2176,12 @@
 <p>Kompetanseutvikling i den samiske skolen173 821 600</p>
 <p><em type="bold">Andre avsetninger: </em>0 </p>
 <p>Periodisering av diverse utgifter/avsetning for ikke mottatte regninger15-163 373 471</p>
-<p><em type="bold">Sum øvrige avsetninger </em><em type="bold">10 362 821 </em></p>
+<p><em type="bold">Sum øvrige avsetninger10 362 821 </em></p>
 <p>Note 23 Egenkapital</p>
 <p xml:lang="est"><em type="bold">Egenkapital </em></p>
 <p xml:lang="nno"><em type="bold">Beløp </em></p>
 <p xml:lang="nno">Egenkapital pr. 31/12-2010-13 046 290</p>
 <p xml:lang="nno">Egenkapital pr. 31/12-2011-1 402 419</p>
-<p xml:lang="dan"><em type="bold">Endring egenkapital </em><em type="bold">-11 643 871 </em></p>
+<p xml:lang="dan"><em type="bold">Endring egenkapital-11 643 871 </em></p>
 <p>Endringen i egenkapital tilsvarer resultatet/overskuddet for 2011.</p>
 </body></document>
