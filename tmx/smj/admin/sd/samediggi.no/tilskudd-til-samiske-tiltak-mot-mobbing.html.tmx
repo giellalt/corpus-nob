@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
 <tmx>
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
-    <prop type="x-filename">tilskudd-til-samiske-tiltak-mot-mobbing.html.xml</prop>
+    <prop type="x-filename">tilskudd-til-samiske-tiltak-mot-mobbing.html</prop>
   </header>
   <body>
     <tu>
@@ -105,7 +104,15 @@
         <seg>Det er Utdanningsdirektoratet som vurderer søknadene og fatter vedtak om fordeling av midler.</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Åhpadusdirektoráhtta åhtsåmusájt árvustallá ja mierret rudájt juogadimes. Dav dahki åbbålasj árvustallam vuodon.</seg>
+        <seg>Åhpadusdirektoráhtta åhtsåmusájt árvustallá ja mierret rudájt juogadimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Det gjør de etter en samlet skjønnsmessig vurdering.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dav dahki åbbålasj árvustallam vuodon.</seg>
       </tuv>
     </tu>
     <tu>

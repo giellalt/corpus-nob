@@ -45,7 +45,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Logg på</seg>
+        <seg>Klikk på denne linken</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Deaddil dán liŋkka</seg>
@@ -53,7 +53,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Klikk på denne linken</seg>
+        <seg>Tast inn brukernavn.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Čále geavaheaddjinamat.</seg>
@@ -61,7 +61,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Tast inn brukernavn.</seg>
+        <seg>Bruk pinkode og kode fra kodebrikken som passord (totalt 10 siffer).</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Geavat pinkoda ja koda kodabrihkás beassansátnin (oktiibuot 10 siffara).</seg>
@@ -69,7 +69,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Bruk pinkode og kode fra kodebrikken som passord (totalt 10 siffer).</seg>
+        <seg>Eks: PIN-kode 7766.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Omd. PIN-koda 7766.</seg>
@@ -77,7 +77,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Eks: PIN-kode 7766.</seg>
+        <seg>Kode fra kodebrikke 112233 Skriv da inn 7766112233 som passord</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Koda kodabrihkás 112233. Dasto čálát 7766112233 beassansátnin.</seg>
@@ -85,7 +85,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Kode fra kodebrikke 112233 Skriv da inn 7766112233 som passord</seg>
+        <seg>Vent til din pålogging er godkjent</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuordde dassážii go du sisaloggen lea dohkkehuvvon.</seg>
@@ -93,7 +93,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Vent til din pålogging er godkjent</seg>
+        <seg>Velg tjeneste i portalen For e-post velg Webmail.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vállje bálvalusa uskkádagas E-postii válljet Webmailla.</seg>
@@ -101,7 +101,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Velg tjeneste i portalen For e-post velg Webmail.</seg>
+        <seg>For tilgang til Websak, brukerområdet og annet velger man terminalserver.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Websak:ii, geavahanguvlui ja eará sadjái válljet terminálaservera.</seg>
@@ -109,7 +109,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>For tilgang til Websak, brukerområdet og annet velger man terminalserver.</seg>
+        <seg>(Hvis du ikke ser disse valgene må du maksimere portal-vinduet)</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>(Jos don in oainne válljenvejolašvuođaid, de stuorrudat uskkádatgova).</seg>
@@ -117,7 +117,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>(Hvis du ikke ser disse valgene må du maksimere portal-vinduet)</seg>
+        <seg>Skjermstørrelse Når du logger på vil du få spørsmål om skjermstørrelse.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Šearbmasturrodat Go logget sisa, de oaččut jearaldaga šearbmasturrodaga birra.</seg>
@@ -125,7 +125,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Problemet med norske og samiske tegn er løst</seg>
+        <seg>Dersom terminalvinduet er for lite i forhold til skjermen kan du forsøke 1152x864 eller 1280x720</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jos terminálagovva lea menddo unni šearpma ektui, de sáhtát geahččalit sturrodagaid 1152x864 dahje 1280x720.</seg>
@@ -133,15 +133,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Skjermstørrelse Når du logger på vil du få spørsmål om skjermstørrelse.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buvtte ruovttoluotta kodabrihkká</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="nob">
-        <seg>Dersom terminalvinduet er for lite i forhold til skjermen kan du forsøke 1152x864 eller 1280x720</seg>
+        <seg>Lever inn kodebrikken Kodebrikker som har blitt levert ut tidligere vil ikke fungere.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Buvtte ruovttoluotta kodabrihkká Kodabrihkát mat leat addojuvvon ovdal eai doaimma šat.</seg>
@@ -149,7 +141,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Lever inn kodebrikken Kodebrikker som har blitt levert ut tidligere vil ikke fungere.</seg>
+        <seg>Alle som har fått en kodebrikke tidligere må levere den inn (evt sende) til IT for å få den omprogrammert.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Buohkat geat ovdal leat ožžon kodabrihká, fertejit buktit dan midjiide (vejolaččat sáddet) dihtorbargiide, vai sii sáhttet dan ođđasis programmeret.</seg>
@@ -157,7 +149,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Alle som har fått en kodebrikke tidligere må levere den inn (evt sende) til IT for å få den omprogrammert.</seg>
+        <seg>Gammel VPN-løsning slutter å virke Den gamle vpn-løsningen er ute av drift fra 3. november 2009.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ovddeš VPN- čoavddus heaitá doaibmamis Dat ovddeš vpn-čoavddus heaitá doaibmamis skábmamánu 3. b. 2009.</seg>
@@ -165,7 +157,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Gammel VPN-løsning slutter å virke Den gamle vpn-løsningen er ute av drift fra 3. november 2009.</seg>
+        <seg>Den gamle kodebrikken kan brukes om igjen, men må omprogrammeres først.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ovddeš kodabrihkká lea vejolaš geavahit fas, muhto dan ferte vuos ođđasis programmeret.</seg>
@@ -173,7 +165,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Den gamle kodebrikken kan brukes om igjen, men må omprogrammeres først.</seg>
+        <seg>Send den inn til IT.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sádde dan dihtorbargiide.</seg>
@@ -181,7 +173,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Send den inn til IT.</seg>
+        <seg>Hva er VPN-forbindelse?</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mii VPN- oktavuohta lea ?</seg>
@@ -189,7 +181,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Hva er VPN-forbindelse?</seg>
+        <seg>VPN er en måte å etablere en sikker forbindelse mellom din maskin og Sametingets nett.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>VPN lea vuohki man bokte ásahit sihkkaris oktavuođa du mašiinna ja Sámedikki neahta gaskka.</seg>
@@ -197,7 +189,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>VPN er en måte å etablere en sikker forbindelse mellom din maskin og Sametingets nett.</seg>
+        <seg>Du vil kunne sjekke mail og jobbe på Websak fra et hvilket som helst sted med tilgang til internett.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Don sáhtát lohkat e-poastta ja bargat Websak:s gos beare jos doppe lea interneahtta oktavuohta</seg>

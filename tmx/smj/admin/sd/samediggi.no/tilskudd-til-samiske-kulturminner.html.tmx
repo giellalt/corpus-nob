@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
 <tmx>
   <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
-    <prop type="x-filename">tilskudd-til-samiske-kulturminner.html.xml</prop>
+    <prop type="x-filename">tilskudd-til-samiske-kulturminner.html</prop>
   </header>
   <body>
     <tu>
@@ -14,10 +13,10 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Søknadsfrist: 15.02.2019 23:59</seg>
+        <seg>Søknadsfrist: 15.02.2020 23:59</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Åhtsåmájggemierre: 15.02.19</seg>
+        <seg>Åhtsåmájggemierre : 15.02.20</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,7 +24,7 @@
         <seg>Hvem kan få tilskudd: Eiere og brukere av samiske kulturminner og krigsminner i samiske landskap</seg>
       </tuv>
       <tuv xml:lang="smj">
-        <seg>Gudi máhtti dårjav oadtjot: Æjgáda ja addne sáme kulturmujtojda ja doarromujtojda sáme duobddágijn.</seg>
+        <seg>Gudi máhtti dårjav oadtjot : Æjgáda ja addne sáme kulturmujtojda ja doarromujtojda sáme duobddágijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,7 +69,7 @@
     </tu>
     <tu>
       <tuv xml:lang="nob">
-        <seg>Registrering og dokumentasjon:</seg>
+        <seg>Registrering og dokumentasjon :</seg>
       </tuv>
       <tuv xml:lang="smj">
         <seg>Registrierim ja duodastime:</seg>
