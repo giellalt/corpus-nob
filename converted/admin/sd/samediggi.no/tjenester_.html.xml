@@ -1,30 +1,30 @@
-<document xml:lang="nob" id="no_id"><header><title>Tjenester  - Sametinget</title><genre code="admin"/><author><unknown/></author><year>2023</year><wordcount>423</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/samedikki-girjjevuorkka/luojkkat-ja-ravvit/?sprak=1</origFileName><parallel_text xml:lang="sma" location="dienesjh_.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Tjenester</p>
-<p type="title">Lånetaker</p>
+<document xml:lang="nob" id="no_id"><header><title>Tjenester  - Sametinget</title><genre code="admin"/><author><unknown/></author><year>2023</year><wordcount>422</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/saemiedigkien-garjagaetie/dienesjh/?sprak=1</origFileName><parallel_text xml:lang="sma" location="dienesjh_.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Tjenester</p>
+<p type="title" xml:lang="rmy-rka">Lånetaker</p>
 <p>Alle over 15 år kan få et lånekort. Barn under 15 år må ha skriftlig tillatelse fra foreldre eller foresatte.</p>
 <p>Hvis du har nasjonalt lånekort fra et annet bibliotek kan det brukes hos oss som et lokalt lånekort. Du må møte opp personlig på biblioteket og ha med ditt nasjonale lånekort.</p>
 <p>Lånere andre steder i landet må bestille lån igjennom sitt nærmeste bibliotek.</p>
 <p>Enkeltpersoner som har mulighet til å hente materiale på Sametingets bibliotek i Karasjok, og som er registrert lånetaker ved biblioteket, kan bestille lån ved å logge inn på Oria.no.</p>
-<p>Vanlig lånetid er 5 uker. Det er mulig å fornye lånet ved å kontakte biblioteket eller logge inn på <span type="quote">«Min konto»</span>.</p>
+<p>Vanlig lånetid er 5 uker. Det er mulig å fornye lånet ved å kontakte biblioteket eller logge inn på <span type="quote" xml:lang="fin">«Min konto»</span>.</p>
 <p type="title">Søke etter materiale</p>
-<p><em type="bold">For å søke etter litteratur må du åpne vårt biblioteksystem Oria </em>.    </p>
+<p><em type="italic">For å søke etter litteratur må du åpne vårt biblioteksystem Oria </em>. </p>
 <p>Oria er en søketjeneste som du kan bruke til å finne bibliotekets materiale, bl.a. bøker, artikler, tidsskrifter, avhandlinger, oppslagsverk, musikk og filmer.</p>
-<p><em type="bold">Her finner du vårt biblioteksystem Oria. </em>   </p>
+<p><em type="italic">Her finner du vårt biblioteksystem Oria. </em></p>
 <list><p type="listitem">Du trenger ikke være logget inn for å søke etter litteratur, men når du er pålogget kan du bestille og administrere dine lån.</p>
-</list><list><p type="listitem">Skriv inn ett eller flere søkeord i søkefeltet, for eksempel tittel, forfatternavn eller emne, klikk <span type="quote">«Søk i Oria»</span>.</p>
-<p type="listitem">Ved søk på eksakt tittel bruk hermetegn <span type="quote">«tittel»</span>.</p>
+<p type="listitem" xml:lang="nno">Skriv inn ett eller flere søkeord i søkefeltet, for eksempel tittel, forfatternavn eller emne, klikk <span type="quote">«Søk i Oria»</span>.</p>
+<p type="listitem" xml:lang="nno">Ved søk på eksakt tittel bruk hermetegn <span type="quote" xml:lang="nno">«tittel»</span>.</p>
 <p type="listitem">Hvis du leter etter en bestemt bok eller artikkel, kan det være lurt å bruke forfatternavn og ett eller flere ord fra tittelen.</p>
 <p type="listitem">Velger du Avansert søk finner du flere muligheter for å spisse søket ditt ved å kombinere søkeord.</p>
-<p type="listitem">For å avgrense søket og gjøre det mer oversiktlig kan du gjøre dette i høyremargen.</p>
-</list><p type="title">Bestille lån</p>
-<p><em type="bold">Enkeltpersoner andre steder i landet må bestille lån igjennom sitt nærmeste bibliotek </em><em type="bold">. </em>   </p>
-<p><em type="bold">Enkeltpersoner som har mulighet til å hente materiale på Sametingets bibliotek i Karasjok: </em>   </p>
-<list><p type="listitem">Trykk <span type="quote">"Logg på"</span> øverst i høyre hjørne. Velg <span type="quote">«Brukernavn og passord»</span> som pålogging. BrukerID er ditt lånekortnummer.</p>
-</list><list><p type="listitem">Søk så opp materialet du ønsker å bestille.</p>
-<p type="listitem">I menyen <span type="quote">"Finn og bestill"</span> klikker du på <span type="quote">"Bestill dokument"</span>.</p>
-<p type="listitem">Bekreft med å klikke på <span type="quote">"Bestill dokument"</span>.</p>
+<p type="listitem" xml:lang="nno">For å avgrense søket og gjøre det mer oversiktlig kan du gjøre dette i høyremargen.</p>
+</list><p type="title" xml:lang="swe">Bestille lån</p>
+<p><em type="italic">Enkeltpersoner andre steder i landet må bestille lån igjennom sitt nærmeste bibliotek. </em></p>
+<p><em type="italic">Enkeltpersoner som har mulighet til å hente materiale på Sametingets bibliotek i Karasjok: </em></p>
+<list><p type="listitem">Trykk <span type="quote" xml:lang="nno">"Logg på"</span> øverst i høyre hjørne. Velg <span type="quote" xml:lang="nno">«Brukernavn og passord»</span> som pålogging. BrukerID er ditt lånekortnummer.</p>
+<p type="listitem">Søk så opp materialet du ønsker å bestille.</p>
+<p type="listitem" xml:lang="nno">I menyen <span type="quote" xml:lang="nno">"Finn og bestill"</span> klikker du på <span type="quote" xml:lang="nno">"Bestill dokument"</span>.</p>
+<p type="listitem">Bekreft med å klikke på <span type="quote" xml:lang="nno">"Bestill dokument"</span>.</p>
 <p type="listitem">Du får beskjed når materialet kan hentes på Sametingets bibliotek i Karasjok</p>
-<p type="listitem"><em type="bold">Hvis du har glemt passordet ditt, kan du endre passordet her. </em>    </p>
-<p type="listitem"><em type="bold">Hvis du trenger hjelp til å finne brukernavnet ditt, kontakt med oss sambib@samediggi.no </em>    </p>
+<p type="listitem"><em type="italic">Hvis du har glemt passordet ditt, kan du endre passordet her. </em></p>
+<p type="listitem"><em type="italic">Hvis du trenger hjelp til å finne brukernavnet ditt, kontakt med oss sambib@samediggi.no </em></p>
 </list><p type="title">Biblioteksøk</p>
 <p>Biblioteksøk er en tjeneste fra Nasjonalbiblioteket. Biblioteksøk skal gi én inngang til norske bibliotekkataloger, mulighet til å låne litteratur fra alle norske bibliotek, og gi direkte tilgang på nett til litteratur som er digitalisert i Nasjonalbiblioteket. Du finner også Sametingets bibliotek sin samling i biblioteksøk.</p>
 <p>Søk i biblioteksøk her.</p>

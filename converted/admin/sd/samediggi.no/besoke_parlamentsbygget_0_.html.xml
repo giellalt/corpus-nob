@@ -1,7 +1,7 @@
-<document xml:lang="nob" id="no_id"><header><title>Besøke parlamentsbygget - Sametinget</title><genre code="admin"/><author><unknown/></author><year>2020</year><wordcount>252</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/samedikki-birra/oahppaladdat-parlameantaviesu/?sprak=1</origFileName><parallel_text xml:lang="sma" location="saemiedigkiegaetiem_vaaksjodh_0_.html"/><parallel_text xml:lang="sme" location="oahppaladdat_parlameantaviesu_0_.html"/><parallel_text xml:lang="smj" location="samedikkev_guossidit_0_.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Besøke parlamentsbygget</p>
-<p><em type="italic">Bli med på våre omvisningsturer i Sametinget i Kárášjohka/Karasjok. </em></p>
+<document xml:lang="nob" id="no_id"><header><title>Besøke parlamentsbygget - Sametinget</title><genre code="admin"/><author><unknown/></author><year>2020</year><wordcount>252</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/samedikki-birra/oahppaladdat-parlameantaviesu/?sprak=1</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="fra">Besøke parlamentsbygget</p>
+<p xml:lang="nno"><em type="italic">Bli med på våre omvisningsturer i Sametinget i Kárášjohka/Karasjok. </em></p>
 <p>Brosjyre om Sametinget</p>
-<p>Det er <span type="quote">"drop-in"</span> omvisningsturer i Sametinget i Karasjok kl. 13 tirsdager, onsdager og torsdager.</p>
+<p>Det er <span type="quote" xml:lang="eng">"drop-in"</span> omvisningsturer i Sametinget i Karasjok kl. 13 tirsdager, onsdager og torsdager.</p>
 <p>Det betyr at man ikke trenger å melde seg på på forhånd. Det er dessverre ikke omvisningsturer disse dagene de ukene Sametinget har plenumsmøte.</p>
 <p>Omvisningsspråk er norsk, samisk og engelsk. Varighet per omvisning er om lag 30 minutter. Maksimum antall personer som kan bli med i en gruppe er 25 personer.</p>
 <p>Plenumsmøter i 2023:</p>
@@ -18,6 +18,6 @@
 <p type="title">Sametingets kontorsteder</p>
 <p>I tillegg til sametingsbygget i Karasjok har Sametinget åtte kontorsteder.</p>
 <p>Les mer om Sametingets kontorsteder</p>
-<p type="title">Besøksadresse</p>
-<p>Ávjovárgeaidnu 50, Karasjok</p>
+<p type="title" xml:lang="est">Besøksadresse</p>
+<p xml:lang="sme">Ávjovárgeaidnu 50, Karasjok</p>
 </body></document>

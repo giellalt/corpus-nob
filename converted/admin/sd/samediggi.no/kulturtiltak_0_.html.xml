@@ -1,8 +1,8 @@
-<document xml:lang="nob" id="no_id"><header><title>Kulturtiltak - Sametinget</title><genre code="admin"/><author><unknown/></author><wordcount>415</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/stipend-og-tilskudd/oversikt-over-tilskuddsordninger/kultur/kulturtiltak/</origFileName><parallel_text xml:lang="sme" location="doarjja_kulturdoaimmaide.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Kulturtiltak</p>
+<document xml:lang="nob" id="no_id"><header><title>Kulturtiltak - Sametinget</title><genre code="admin"/><author><unknown/></author><wordcount>415</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://sametinget.no/stipend-og-tilskudd/oversikt-over-tilskuddsordninger/kultur/kulturtiltak/</origFileName><parallel_text xml:lang="sme" location="doarjja_kulturdoaimmaide.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="est">Kulturtiltak</p>
 <p type="title">Åpen søknadsfrist frem til 01.11.23</p>
-<p>Søknadsskjema - Kulturtiltak</p>
+<p xml:lang="est">Søknadsskjema - Kulturtiltak</p>
 <p type="title">Mål for tilskuddsordningen:</p>
-<list><p type="listitem">Gode rammevilkår for samiske kunstproduksjoner og kulturopplevelser.</p>
+<list><p type="listitem" xml:lang="nno">Gode rammevilkår for samiske kunstproduksjoner og kulturopplevelser.</p>
 </list><p type="title">Dette kan du få tilskudd til:</p>
 <list><p type="listitem">Kulturarrangement med fokus på samisk kunst, kultur og samfunnsdebatt.</p>
 <p type="listitem">Prosjekter og produksjoner med kulturell og kunstneriske uttrykk.</p>
@@ -14,15 +14,15 @@
 <p type="listitem">Prosjekter som bidrar til forebygging av samehets.</p>
 <p type="listitem">Tilskudd til møteplasser som skal drøfte innholdet i rapporten til Sannhets- og  forsoningskommisjonen.</p>
 </list><p type="title">Hvem kan få tilskudd:</p>
-<list><p type="listitem">Foretak.</p>
+<list><p type="listitem" xml:lang="nno">Foretak.</p>
 <p type="listitem">Organisasjoner.</p>
 <p type="listitem">Institusjoner.</p>
 <p type="listitem">Kommuner.</p>
 </list><p>Institusjoner, og organisasjoner som mottar direkte tilskudd over Sametingets kulturbudsjett er ikke tilskuddsberettiget. Institusjoner som får direkte tilskudd over kapittel 8 kultur må bruke ordningen Institusjonsutvikling .</p>
-<p type="title">Krav til søknaden:</p>
+<p type="title" xml:lang="nno">Krav til søknaden:</p>
 <list><p type="listitem">Ved søknad om honorar og reisestøtte for samiske for samiske kulturutøvere skal kontrakt eller intensjonsavtale der honorar fremkommer legges ved søknaden.</p>
-<p type="listitem">Ved søknad om filmproduksjoner skal følgende legges ved:    <list><p type="listitem">Reginotat</p>
-<p type="listitem">Produsentnotat</p>
+<p type="listitem">Ved søknad om filmproduksjoner skal følgende legges ved:    <list><p type="listitem" xml:lang="sme">Reginotat</p>
+<p type="listitem" xml:lang="eng">Produsentnotat</p>
 <p type="listitem">Oversiktlig og tydelig budsjett samt finansieringsplan</p>
 <p type="listitem">Klart og tydelig manuskript</p>
 <p type="listitem">Det gis kun støtte til ferdig produksjon, ikke til forprosjekter eller piloter.</p>
@@ -30,18 +30,18 @@
 <p type="listitem">Ved søknad om støtte til prosjekter som bidrar til forebygging av samehets kan det ytes støtte til dokumentasjon og synliggjøring av samehets, eller kulturrelaterte tiltaksom øker kunnskapen om samisk kultur, historie og samfunnsliv. Det kan søkes om støtte til kulturarrangement, fysiske og digitale, samt tiltak rettet mot barn og unge.</p>
 </list><p>Søknad må være innsendt i Sametingets tilskuddsportal i god tid og minst 4 uker før et arrangement starter. Dette gjelder ikke søknader som omhandler arrangement i forbindelse med Samenes nasjonaldag og søknad til møteplasser.</p>
 <p>Ved søknad om støtte til Samenes nasjonaldag kan det kun søkes støtte til den kulturelle delen av arrangementet. Det gis ikke støtte til innkjøp og investeringer.</p>
-<p>Det ytes ikke tilskudd til:</p>
+<p xml:lang="dan">Det ytes ikke tilskudd til:</p>
 <list><p type="listitem">Forprosjekter</p>
-<p type="listitem">Seminarer</p>
-<p type="listitem">Konferanser</p>
+<p type="listitem" xml:lang="isl">Seminarer</p>
+<p type="listitem" xml:lang="deu">Konferanser</p>
 <p type="listitem">Produksjoner til Den kulturrelle skolesekken (DKS)</p>
 </list><p type="title">Så mye kan du få i støtte:</p>
 <list><p type="listitem">Nedre grense for tilskudd er kr. 10 000. Maksimalt tilskudd er kr. 200 000.</p>
 <p type="listitem">Honorar til samiske kunstnere og kulturutøvere er maksimalt 15 000 kr. Reisestøtte til samiske kunstnere og kulturutøvere er maksimalt 10 000 kr.</p>
 </list><p type="title">Behandlingstid:</p>
 <list><p type="listitem">T ilskuddsordninger med åpen søknadsfrist blir behandlet fortløpende og innen tre måneder etter innsendt søknad.</p>
-</list><p type="title">Andre vilkår for støtte:</p>
+</list><p type="title" xml:lang="dan">Andre vilkår for støtte:</p>
 <p>Se regelverket.</p>
 <p>Regelverk for tilskudd til kulturtiltak 2023</p>
-<p>Søknadsskjema - Kulturtiltak</p>
+<p xml:lang="est">Søknadsskjema - Kulturtiltak</p>
 </body></document>
