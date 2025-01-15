@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="nob" datatype="plaintext">
+    <prop type="x-filename">arkiv.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv / Forsiden - Sametinget</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Våarhkoe / Saemiedigkie - Sametinget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="nob">
+        <seg>Arkiv</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Våarhkoe</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
