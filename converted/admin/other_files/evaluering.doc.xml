@@ -1,10 +1,10 @@
-<document xml:lang="nob" id="no_id"><header><title> 
-Adressater
-</title><genre code="admin"/><author><unknown/></author><wordcount>309</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Lene Antonsen" email="lene.antonsen@uit.no"/><multilingual><language xml:lang="nob"/><language xml:lang="sme"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.5 $; common.xsl  $Revision$; </version></header><body><p xml:lang="sme">Adreassalisttu mielde</p>
-<p xml:lang="sme"><em type="bold">Min čuj. </em></p>
-<p xml:lang="sme"><em type="bold">Arkiivakoda </em></p>
-<p xml:lang="sme"><em type="bold">Din čuj. </em></p>
-<p xml:lang="sme"><em type="bold">Dáhton </em></p>
+<document xml:lang="nob" id="no_id"><header><title>Adressater</title><genre code="admin"/><author><unknown/></author><wordcount>264</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Lene Antonsen" email="lene.antonsen@uit.no"/><multilingual><language xml:lang="sme"/><language xml:lang="nob"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate  1.14 ; file-specific xsl  $Revision: 1.5 $; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="sme">Adreassalisttu mielde</p>
+<p type="title" xml:lang="sme">Min čuj.</p>
+<p type="title" xml:lang="sme">Arkiivakoda</p>
+<p type="title" xml:lang="sme">Din čuj.</p>
+<p type="title" xml:lang="sme">Dáhton</p>
 <p>02/00132-036/IAA</p>
 <p>003</p>
 <p>13.04.2004</p>
@@ -37,25 +37,5 @@ Adressater
 <p xml:lang="sme">Kárášjoga gielda/Karasjok kommune, 9730 Kárášjohka</p>
 <p xml:lang="sme">Guovdageainnu suohkan/Kautokeino kommune, 9520 Guovdageaidnu/Kautokeino</p>
 <p>Samisk språksenter, Lakselvbukt</p>
-<p>Várdobáiki samiske språksenter, 8536 Evenes</p>
-<p><em type="bold">GÁIVUONA SUOHKAN </em></p>
-<p><em type="bold">KÅFJORD KOMMUNE </em></p>
-<p xml:lang="sme"><em type="bold">Ráđđeolmmái </em></p>
-<p>002158/04 </p>
-<p xml:lang="sme">Poastaadr/postadresse: Postboks 74</p>
-<p>Telefuvdna/telefon:</p>
-<p>Vearru/skatt:</p>
-<p>Báŋkog/Bankgiro: 6420 05 37090</p>
-<p xml:lang="sme">Øverveien 2, 9148 Olderdalen</p>
-<p>77 71 92 32</p>
-<p>Báŋkog/Bankgiro: 7855 05 19401</p>
-<p>Báŋkog/Bankgiro: 4785 07 00024</p>
-<p>E-post:</p>
-<p xml:lang="sme">Telefaks:</p>
-<p>Báŋkog/Bankgiro: 4785 07 02485</p>
-<p>Postmottak@ kafjord.kommune.no</p>
-<p>inger.marie.asli@kafjord.kommune.no</p>
-<p>77 71 90 01</p>
-<p>WEB:</p>
-<p xml:lang="sme">http://www.kafjord.kommune.no</p>
+<p>V árdobáiki samiske språksenter, 8536 Evenes</p>
 </body></document>
